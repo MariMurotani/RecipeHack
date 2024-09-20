@@ -1,0 +1,8 @@
+# Python virtual environment
+.venv/
+
+# その他の一般的な例
+__pycache__/
+*.py[cod]
+*.so
+*.log

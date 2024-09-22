@@ -14,6 +14,7 @@ example:
 ```
 MATCH (m:Molecule {id: 171}) RETURN m;
 MATCH (m:Molecule) WHERE 'green' IN m.flavor_profile RETURN m;
+MATCH (m:Entry {category: 'meat'}) RETURN m;
 ```
 
 ## directory

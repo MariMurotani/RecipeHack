@@ -1,16 +1,12 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import { Button } from '@mui/material';
+import React, { Suspense } from 'react';
+
 
 const App: React.FC = () => {
   return (
     <div>
-      <h1>Hello, React with TypeScript and MUI!</h1>
-      <Button variant="contained" color="primary">
-        Click Me
-      </Button>
+      <h1>Main App</h1>
     </div>
   );
 };
 
-ReactDOM.render(<App />, document.getElementById('root'));
+export default App;

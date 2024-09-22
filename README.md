@@ -22,10 +22,15 @@ CALL db.index.fulltext.queryNodes('my_text_index', 'tomato') YIELD node RETURN n
 ```
 
 ## directory
+```
 datas
     ┗ csvdata
 jupyter
     ┗ python code with jupyter
 frontend
     ┗ typescript code
+```
 
+## frontend development
+1. npm install
+2. npx webpack serve

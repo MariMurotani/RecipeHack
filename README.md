@@ -15,6 +15,10 @@ example:
 MATCH (m:Molecule {id: 171}) RETURN m;
 MATCH (m:Molecule) WHERE 'green' IN m.flavor_profile RETURN m;
 MATCH (m:Entry {category: 'meat'}) RETURN m;
+MATCH (e:Entry)-[r]->(m:Molecule) RETURN e, type(r), m;
+MATCH (e:Entry {category: 'meat'})-[:CONTAINS]->(m:Molecule) RETURN e, m;
+MATCH (e:Entry {alias: 'tomato'})-[:CONTAINS]->(m:Molecule) RETURN e, m.flavor_profile;
+CALL db.index.fulltext.queryNodes('my_text_index', 'tomato') YIELD node RETURN node;
 ```
 
 ## directory

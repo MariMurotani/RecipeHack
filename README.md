@@ -82,6 +82,35 @@ MERGE (e1)-[r:COOCCURS_WITH {count: CooccurrenceCount}]->(e2)
 // ノードとリレーションシップをグラフ表示 RETURN e1, e2, r;
 ```
 
+あるEntryとあるEntryの共有している分子のflavor_profileを確認します
+```
+// id:49 緑茶、id:172: coconut 
+MATCH (e1:Entry {id: 49})-[:CONTAINS]->(m:Molecule)<-[:CONTAINS]-(e2:Entry {id: 172}) RETURN m.id, m.flavor_profile;
+
+// 957	["sulfury", "coffee", "fishy", "smoke", "alliaceous", "meaty", "roasted"]
+// 323	["alkane"]
+```
+
+```
+// id:172: coconut 、id:167: banana 
+MATCH (e1:Entry {id: 172})-[:CONTAINS]->(m:Molecule)<-[:CONTAINS]-(e2:Entry {id: 167}) RETURN m.id, m.flavor_profile;
+
+// 379	["strawberry", "pungent", "roquefort cheese", "sour", "cheese", "acid", "sweat"]
+// 1130	["balsam", "herbal", "pine", "woody", "camphor"]
+// 985	["nutty", "burnt", "celery", "coumarin", "tonka", "toasted", "coconut"]
+// 1032	["onion", "sulfurous", "garlic"]
+// 802	["sweet", "apple peel", "green", "fruit", "fruity", "pineapple", "banana", "waxy"]
+// 338	["nutty", "berry", "pungent", "fermented", "fruity", "malt", "bready", "almond"]
+```
+
+```
+// id:49 緑茶、、id:167: banana 
+MATCH (e1:Entry {id: 49})-[:CONTAINS]->(m:Molecule)<-[:CONTAINS]-(e2:Entry {id: 167}) RETURN m.id, m.flavor_profile;
+
+// 323	["alkane"]
+// 957	["sulfury", "coffee", "fishy", "smoke", "alliaceous", "meaty", "roasted"]
+```
+
 ## directory info
 ```
 datas

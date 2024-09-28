@@ -37,17 +37,16 @@ EntryをNodeにして、同じMoleculeを持っているものの共起分析を
 閲覧にはcategory, limit, CooccurrenceCountの調整が必要
 
 ```
-WITH ['vegetable', 'nut', 'additive', 'cabbage', 'vegetable stem', 'dairy', 'spice', 'plant', 'herb', 'vegetable root', 'vegetable tuber'] AS validCategories
-MATCH (center:Entry {id: 364})-[:CONTAINS]->(m:Molecule)<-[:CONTAINS]-(e2:Entry)
-WHERE e2.category IN validCategories
-AND center <> e2
-WITH center, e2, COUNT(DISTINCT m) AS CooccurrenceCount
-WHERE CooccurrenceCount >= 10
-WITH center, e2, CooccurrenceCount
-ORDER BY CooccurrenceCount DESC
-LIMIT 30
-MERGE (center)-[r:COOCCURS_WITH {count: CooccurrenceCount}]->(e2)
-RETURN center, e2, r;
+CALL gds.graph.project(
+  'similarityGraph',
+  ['Entry', 'Molecule'],  // Entry と Molecule ノードを含む
+  {
+    CONTAINS: {
+      orientation: 'UNDIRECTED'  // リレーションシップを無向として扱う
+    }
+  }
+);
+
 ```
 
 さらにflavor_profileでの共起分析をします

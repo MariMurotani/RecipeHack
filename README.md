@@ -111,6 +111,14 @@ MATCH (e1:Entry {id: 49})-[:CONTAINS]->(m:Molecule)<-[:CONTAINS]-(e2:Entry {id: 
 // 957	["sulfury", "coffee", "fishy", "smoke", "alliaceous", "meaty", "roasted"]
 ```
 
+グリーンのフレーバーを持つ一覧
+```
+MATCH (e1:Entry)-[:CONTAINS]->(m:Molecule)-[:HAS_FLAVOR]->(e2:Flavor {id: 'green'})
+WHERE e1.flavor_vector_sum IS NOT NULL
+AND e2.flavor_vector IS NOT NULL
+RETURN e1.name AS Entry1, e2.id AS Entry2
+```
+
 ## directory info
 ```
 datas

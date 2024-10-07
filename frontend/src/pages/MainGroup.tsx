@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+import React from 'react';  // React をインポート
+import { useAppContext } from '../AppContext'; 
 import { Container, Typography, Button, Grid, Box } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
 
@@ -6,20 +7,19 @@ import { useNavigate } from 'react-router-dom';
 //wait getEntryDataWithCategoryGroup();
 
 const MainGroup: React.FC = () => {
-// ストアからキーを取得
-const [selectedMainGroup, setSelectedMainGroup] = useState<string[]>([]);
-const navigate = useNavigate()
-console.log(selectedMainGroup)
+  const { selectedMainGroup, setSelectedMainGroup } = useAppContext();  
+  const navigate = useNavigate()
+  console.log(selectedMainGroup)
 
-if(selectedMainGroup == null){
-  navigate('/')
-}
-return (
-    <Container>
-      <Typography variant="h4" gutterBottom>
-      Please choose the main ingredient
-      </Typography>
-    </Container>
+  if(selectedMainGroup == null){
+    navigate('/')
+  }
+  return (
+      <Container>
+        <Typography variant="h4" gutterBottom>
+        Please choose the main ingredient
+        </Typography>
+      </Container>
   );
 };
 

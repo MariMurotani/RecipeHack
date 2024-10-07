@@ -1,6 +1,7 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Container, Typography, Button, Grid, Box } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
+import { useAppContext } from '../AppContext';
 
 // 配列にボタンのキャプションと色を保存
 const button_caption = [
@@ -12,7 +13,7 @@ const button_caption = [
 
 const Home: React.FC = () => {
   // 共通のデータストアとして、クリックされたボタンのキーを保存するための状態を管理
-  const [selectedMainGroup, setSelectedMainGroup] = useState<string>('');
+  const { selectedMainGroup, setSelectedMainGroup } = useAppContext(); 
 
   // 画面遷移
   const navigate = useNavigate();

@@ -1,22 +1,34 @@
 import React from 'react';
 import { RouterProvider } from 'react-router-dom';
 import { createHashRouter } from 'react-router-dom';
-import Home from './components/Home';
-import About from './components/About';
-import NotFound from './components/NotFound';
+import Layout from './components/Layout';  // Layout コンポーネントをインポート
+import Home from './pages/Home';
+import MainGroup from './pages/MainGroup';
+import About from './pages/About';
+import NotFound from './pages/NotFound';
 
 const router = createHashRouter([
   {
     path: "/",
-    element: <Home />,
-  },
-  {
-    path: "/about",
-    element: <About />,  // Aboutコンポーネントへのルート
-  },
-  {
-    path: "*",
-    element: <NotFound />,  // 存在しないパスにアクセスしたときに表示
+    element: <Layout />,  // 共通の Layout コンポーネント
+    children: [
+      {
+        path: "/",
+        element: <Home />,
+      },
+      {
+        path: "/main-group",
+        element: <MainGroup />,
+      },
+      {
+        path: "/about",
+        element: <About />,
+      },
+      {
+        path: "*",
+        element: <NotFound />,
+      }
+    ]
   }
 ]);
 

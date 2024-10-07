@@ -1,5 +1,6 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Container, Typography, Button, Grid, Box } from '@mui/material';
+import { useNavigate } from 'react-router-dom';
 
 // 配列にボタンのキャプションと色を保存
 const button_caption = [
@@ -9,18 +10,25 @@ const button_caption = [
   { caption: 'Fruit', color: 'error', 'key': 'fruit' },
 ];
 
+const Home: React.FC = () => {
+  // 共通のデータストアとして、クリックされたボタンのキーを保存するための状態を管理
+  const [selectedMainGroup, setSelectedMainGroup] = useState<string>('');
+
+  // 画面遷移
+  const navigate = useNavigate();
+
   // ボタンがクリックされたときに呼ばれるハンドラ関数
   const handleButtonClick = (key: string) => {
     console.log(`${key} button clicked`);
-    // 他の処理をここに追加できます
+    // 選択されたボタンのキーを状態に追加
+    setSelectedMainGroup(key);
+    navigate('/main-group'); 
   };
 
-
-const Home: React.FC = () => {
   return (
     <Container>
       <Typography variant="h4" gutterBottom>
-      Please choose the main ingredient
+      Please choose the category of main ingredient
       </Typography>
       <Box
       display="flex"
@@ -32,10 +40,6 @@ const Home: React.FC = () => {
           container
           spacing={2}
           justifyContent="center"
-          sx={{
-            paddingLeft: 2,
-            paddingRight: 2,
-          }}
         >
         {button_caption.map(({caption, color , key}) => (
           <Grid item xs={6} key={key}>

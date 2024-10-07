@@ -75,6 +75,8 @@ LIMIT 30;
 * **Weakly Connected Components**: 弱連結成分を特定。
 * **Strongly Connected Components**: 強連結成分を特定。
 
+### Kmeansを使った方法
+https://neo4j.com/docs/graph-data-science/current/algorithms/kmeans/
 #### Moleculeをflavor_vectorによってクラスタリングする
 ```
 // 仮想グラフがあれば削除
@@ -135,7 +137,7 @@ CALL gds.graph.project(
   {
     Entry: {
       label: 'Entry',
-      properties: ['flavor_vector_sum']  // flavor_vector_sumを使用
+      properties: ['flavor_vector']  // flavor_vectorを使用
     }
   },
   {
@@ -150,55 +152,21 @@ CALL gds.graph.project(
 CALL gds.kmeans.stream('entryClusteringGraph', {
   nodeLabels: ['Entry'],
   relationshipTypes: ['CONTAINS'],
-  k: 10,  // クラスタ数を指定
+  k: 60,  // クラスタ数を指定
   maxIterations: 100,  // 最大反復回数
-  nodeProperty: 'flavor_vector_sum'  // クラスタリングに使用するプロパティ
+  nodeProperty: 'flavor_vector'  // クラスタリングに使用するプロパティ
 })
 YIELD nodeId, communityId, distanceFromCentroid, silhouette
 WITH gds.util.asNode(nodeId) AS node, communityId, distanceFromCentroid, silhouette
 RETURN node.name AS entryName, communityId, distanceFromCentroid, silhouette
 ORDER BY communityId, distanceFromCentroid;
 ```
-#### Entryをflavor_vectorによってクラスタリングする (AVG)
-```
-// 仮想グラフがあれば削除
-CALL gds.graph.exists('entryClusteringGraph2Avg')
-YIELD exists
-WITH exists
-WHERE exists = true
-CALL gds.graph.drop('entryClusteringGraph2Avg') YIELD graphName
-RETURN graphName;
 
-// 仮想グラフを作成
-CALL gds.graph.project(
-'entryClusteringGraph',
-{
-Entry: {
-label: 'Entry',
-properties: ['flavor_vector_avg'] // flavor_vector_avgを使用
-}
-},
-{
-CONTAINS: {
-type: 'CONTAINS',
-orientation: 'UNDIRECTED'
-}
-}
-);
+### Local Clustering Coefficient を使った方法
+https://neo4j.com/docs/graph-data-science/current/algorithms/local-clustering-coefficient/
+````
 
-// Entryごとのクラスタを作成
-CALL gds.kmeans.stream('entryClusteringGraph', {
-nodeLabels: ['Entry'],
-relationshipTypes: ['CONTAINS'],
-k: 50, // クラスタ数を指定
-maxIterations: 100, // 最大反復回数
-nodeProperty: 'flavor_vector_avg' // クラスタリングに使用するプロパティ
-})
-YIELD nodeId, communityId, distanceFromCentroid, silhouette
-WITH gds.util.asNode(nodeId) AS node, communityId, distanceFromCentroid, silhouette
-RETURN node.name AS entryName, communityId, distanceFromCentroid, silhouette
-ORDER BY communityId, distanceFromCentroid;
-```
+````
 
 ### 3. 最短経路（Shortest Path）
 グラフ内の最短経路を見つけるために使用します。
@@ -213,18 +181,28 @@ ORDER BY communityId, distanceFromCentroid;
 * **Cosine Similarity**: コサイン類似度を計算。
 * **Jaccard Similarity**: ジャカード係数を計算。
 
-#### Entryのコサイン類似度
+#### Entryの類似度
 ```
+// Entry同士を探す
 MATCH (e1:Entry), (e2:Entry)
 WHERE e1 <> e2 // 自分自身との比較を避ける
-AND e1.flavor_vector_sum IS NOT NULL
-AND e2.flavor_vector_sum IS NOT NULL
+AND e1.flavor_vector IS NOT NULL
+AND e2.flavor_vector IS NOT NULL
 WITH e1, e2,
-vector.similarity.euclidean(e1.flavor_vector_sum, e2.flavor_vector_sum) AS distance
+vector.similarity.euclidean(e1.flavor_vector, e2.flavor_vector) AS distance
 WHERE distance <= 5.0 // 距離のしきい値（小さいほど類似）
 RETURN e1.name AS Entry1, e2.name AS Entry2, distance
 ORDER BY distance ASC // 距離が近い順にソート
 LIMIT 10;
+
+// FlavorからEntryを探すときにvectorでソート
+MATCH (e:Entry {id: 270})-[:HAS_CATEGORY]->(c:Category)<-[:HAS_CATEGORY]-(other:Entry)
+WHERE e <> other
+AND e.flavor_vector IS NOT NULL
+AND other.flavor_vector IS NOT NULL
+WITH e, other, vector.similarity.euclidean(e.flavor_vector, other.flavor_vector) AS distance
+RETURN DISTINCT other.id AS OtherEntryID, other.name AS OtherEntryName, distance
+ORDER BY distance DESC
 ```
 
 #### Entryのユーグリッド類似度
@@ -232,15 +210,28 @@ LIMIT 10;
 ```
 MATCH (e1:Entry {id: 2}), (e2:Entry)
 WHERE e1 <> e2 // 自分自身との比較を避ける
-AND e1.flavor_vector_sum IS NOT NULL
-AND e2.flavor_vector_sum IS NOT NULL
+AND e1.flavor_vector IS NOT NULL
+AND e2.flavor_vector IS NOT NULL
 WITH e1, e2,
-vector.similarity.euclidean(e1.flavor_vector_sum, e2.flavor_vector_sum) AS distance
+vector.similarity.euclidean(e1.flavor_vector, e2.flavor_vector) AS distance
 WHERE distance <= 5.0 // 距離のしきい値（小さいほど類似）
 RETURN e1.name AS Entry1, e2.name AS Entry2, distance
 ORDER BY distance ASC // 距離が近い順にソート
 LIMIT 10;
+
+MATCH (e:Entry {id: 172})-[:CONTAINS]->(c:Molecule)<-[:CONTAINS]-(other:Entry)
+MATCH (e)-[:HAS_CATEGORY]->(ec:Category)
+MATCH (other)-[:HAS_CATEGORY]->(oc:Category)
+WHERE ec.name <> oc.name
+AND NOT oc.name IN ["dish", "beverage alcoholic", "essential oil"]
+AND e.flavor_vector IS NOT NULL
+AND other.flavor_vector IS NOT NULL
+WITH e, other, vector.similarity.euclidean(e.flavor_vector, other.flavor_vector) AS distance
+RETURN DISTINCT other.id AS OtherEntryID, other.name AS OtherEntryName, distance
+ORDER BY distance DESC
+
 ```
+
 ### 5. リンク予測（Link Prediction）
 グラフ内のノード間に新しいリンク（エッジ）が発生する可能性を予測します。
 * **Common Neighbors**: 2つのノード間の共通の近隣ノードを基にリンクを予測。

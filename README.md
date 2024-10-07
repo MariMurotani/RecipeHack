@@ -119,6 +119,26 @@ AND e2.flavor_vector IS NOT NULL
 RETURN e1.name AS Entry1, e2.id AS Entry2
 ```
 
+とあるエントリのペアリング探すためのクエリ
+```
+MATCH (e:Entry {id: 56})-[:CONTAINS]->(c:Molecule)<-[:CONTAINS]-(other:Entry)
+MATCH (e)-[:HAS_CATEGORY]->(ec:Category)
+MATCH (other)-[:HAS_CATEGORY]->(oc:Category)
+WHERE ec.name <> oc.name
+AND NOT oc.name IN ["dish", "beverage alcoholic", "essential oil", "NaN"]
+AND e.flavor_vector IS NOT NULL
+AND other.flavor_vector IS NOT NULL
+WITH e, other, vector.similarity.euclidean(e.flavor_vector, other.flavor_vector) AS distance
+RETURN DISTINCT other.id AS OtherEntryID, other.name AS OtherEntryName, distance
+ORDER BY distance DESC
+````
+
+カテゴリのグループからカテゴリの一覧を検索
+```
+MATCH (cg:CategoryGroup {id: 'earth'})-[r:GROUPED]->(c:Category)
+RETURN cg.id, c.name;
+```
+
 ## directory info
 ```
 datas
@@ -130,5 +150,5 @@ frontend
 ```
 
 ## frontend development
-1. npm install
-2. npx webpack serve
+1. `npm install`
+2. `npx webpack serve`

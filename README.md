@@ -152,3 +152,5 @@ frontend
 ## frontend development
 1. `npm install`
 2. `npx webpack serve`
+3. `Access` http://localhost:8081/
+4. `Access` http://localhost:8081/#about

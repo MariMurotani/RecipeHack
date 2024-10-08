@@ -1,38 +1,78 @@
-import React from 'react';  // React をインポート
+import React, { useState, useEffect } from 'react';  // React をインポート
 import { useAppContext } from '../AppContext'; 
-import { Container, Typography, TextField } from '@mui/material';
+import { Container, Typography, TextField, List, ListItem, ListItemText } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
 import { getEntryDataWithCategoryGroup } from '../api/neo4j';
+import { Entry } from '../api/types';
 
 const MainGroup: React.FC = () => {
   const { selectedMainGroup, setSelectedMainGroup } = useAppContext();  
-  const navigate = useNavigate()
-  console.log(selectedMainGroup)
-
-  const handleChange = (event: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
-    const text = event.target.value;
-    getEntryDataWithCategoryGroup(selectedMainGroup, event.target.value);
-
-  };
+  const navigate = useNavigate();
   
-  getEntryDataWithCategoryGroup(selectedMainGroup, "");
+  // `result` の状態を作成
+  const [result, setResult] = useState<Entry[]>([]);  // Entry型の配列を保存する状態
+  const [searchText, setSearchText] = useState<string>('');  // 検索テキストの状態
 
-  if(selectedMainGroup == null){
-    navigate('/')
-  }
+  // 初期値として `meat` を使用し、`result`を取得
+  const cate = selectedMainGroup === "" ? "meat" : selectedMainGroup;
+
+  // `searchText` や `cate` が変更された時にデータを取得する
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const newResult = await getEntryDataWithCategoryGroup(cate, searchText);
+        setResult(newResult ?? []);  // 取得した結果を状態に保存
+      } catch (error) {
+        console.error('Error fetching data:', error);
+      }
+    };
+
+    fetchData();
+  }, [searchText, cate]);  // `searchText` または `cate` が変更されたときに再取得
+
+  // テキストボックスの入力が変更されたときに呼ばれる
+  const handleChange = (event: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
+    setSearchText(event.target.value);  // 検索テキストの状態を更新
+  };
+
+  // リストが選択されたとき
+  const handleItemClick = (entry_id: string, event: React.MouseEvent<HTMLAnchorElement, MouseEvent>) => {
+    console.log(entry_id)
+  };
+
+  // selectedMainGroup が空の場合はリダイレクト
+  useEffect(() => {
+    if (selectedMainGroup == null) {
+      navigate('/');
+    }
+  }, [selectedMainGroup, navigate]);
+
   return (
-      <Container>
-        <Typography variant="h4" gutterBottom>
+    <Container>
+      <Typography variant="h4" gutterBottom>
         Please choose the main ingredient
-        </Typography>
-        {/* テキストボックスを配置 */}
-        <TextField
-          label="Find main ingredient"
-          onChange={handleChange}  // 値が変更されるたびに handleChange が呼ばれる
-          fullWidth
-          variant="outlined"
-        />
-      </Container>
+      </Typography>
+
+      {/* テキストボックスを配置 */}
+      <TextField
+        label="Find main ingredient"
+        onChange={handleChange}  // 値が変更されるたびに handleChange が呼ばれる
+        fullWidth
+        variant="outlined"
+        value={searchText}  // テキストフィールドに入力値を反映
+      />
+
+      {/* 取得した結果をリストとして表示 */}
+      <ul>
+        {result.map((entry) => (
+          <a onClick={(event) => handleItemClick(entry.id, event)}>
+            <li key={entry.id}>
+              {entry.name} - {entry.scientific_name}
+            </li>
+          </a>
+        ))}
+      </ul>
+    </Container>
   );
 };
 

@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from 'react';  // React をインポート
 import { useAppContext } from '../AppContext'; 
-import { Container, Typography, TextField, List, ListItem, ListItemText } from '@mui/material';
+import { Container, Typography, TextField, Button, Checkbox } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
 import { getEntryDataWithCategoryGroup } from '../api/neo4j';
 import { Entry } from '../api/types';
 
 const MainGroup: React.FC = () => {
-  const { selectedMainGroup, setSelectedMainGroup } = useAppContext();  
+  const { selectedMainGroup, setSelectedMainGroup, selectedMainItems, setSelectedMainItems } = useAppContext();  
   const navigate = useNavigate();
   
   // `result` の状態を作成
@@ -36,8 +36,13 @@ const MainGroup: React.FC = () => {
   };
 
   // リストが選択されたとき
-  const handleItemClick = (entry_id: string, event: React.MouseEvent<HTMLAnchorElement, MouseEvent>) => {
-    console.log(entry_id)
+  const handleItemClick = (entry: Entry, event: React.MouseEvent<HTMLAnchorElement, MouseEvent>) => {
+    setSelectedMainItems([...selectedMainItems, entry]);
+  };
+
+  // 次へボタンがクリックされたとき
+  const buttonOnClick = () => {
+    navigate('/group');
   };
 
   // selectedMainGroup が空の場合はリダイレクト
@@ -49,8 +54,15 @@ const MainGroup: React.FC = () => {
 
   return (
     <Container>
-      <Typography variant="h4" gutterBottom>
-        Please choose the main ingredient
+      <Typography gutterBottom>
+        {
+          selectedMainItems.map((entry) => (
+            <div key={entry.id}>
+              {entry.name}
+            </div>
+          ))
+        }
+        <Button onClick={buttonOnClick}>次へ</Button>
       </Typography>
 
       {/* テキストボックスを配置 */}
@@ -61,12 +73,12 @@ const MainGroup: React.FC = () => {
         variant="outlined"
         value={searchText}  // テキストフィールドに入力値を反映
       />
-
       {/* 取得した結果をリストとして表示 */}
       <ul>
         {result.map((entry) => (
-          <a onClick={(event) => handleItemClick(entry.id, event)}>
+          <a onClick={(event) => handleItemClick(entry, event)}>
             <li key={entry.id}>
+              <Checkbox size="small" />
               {entry.name} - {entry.scientific_name}
             </li>
           </a>

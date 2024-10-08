@@ -4,6 +4,7 @@ import { createHashRouter } from 'react-router-dom';
 import { AppProvider } from './AppContext'; 
 import Layout from './components/Layout'; 
 import Home from './pages/Home';
+import Group from './pages/Group';
 import MainGroup from './pages/MainGroup';
 import About from './pages/About';
 import NotFound from './pages/NotFound';
@@ -20,6 +21,10 @@ const router = createHashRouter([
       {
         path: "/main-group",
         element: <MainGroup />,
+      },
+      {
+        path: "/group",
+        element: <Group />,
       },
       {
         path: "/about",

@@ -17,15 +17,13 @@ const driver = neo4j.driver(uri, neo4j.auth.basic(user, password));
 export const getEntryDataWithCategoryGroup = async (category: string, value:string): Promise<Entry[]|undefined>  => {
   const session = driver.session();
   const cate_maps: { [key: string]: string[] }  = {
-    'meat': ['meat'],
-    'fish': ['fish'],
-    'vegetable': ['vegetable', 'fungus'],
-    'fruit': ['fruit'],
+    'meat': ['meat', 'Animal Product'],
+    'fish': ['fish', 'seafood'],
+    'vegetable': ['vegetable', 'fungus', 'vegetable fruit', 'gourd', 'seed', 'plant', 'root', 'legume', 'vegetable root', 'vegetable stem', 'vegetable tuber', 'cabbage'],
+    'fruit': ['fruit', 'berry', 'fruit-berry', 'fruit citrus'],
   }
   const cate_string = cate_maps[category].join("', '");
 
-  console.log("category: ", cate_string);
-  console.log("value: ", value);
   try {
     // クエリを実行
     const result = await session.run(`

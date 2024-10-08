@@ -1,9 +1,12 @@
 import React, { createContext, useContext, useState, ReactNode } from 'react';
+import { Entry } from './api/types';
 
 // グローバルで管理する値と関数の型を定義
 interface AppContextProps {
   selectedMainGroup: string;
   setSelectedMainGroup: (group: string) => void;
+  selectedMainItems: Entry[];
+  setSelectedMainItems: (items: Entry[]) => void;
 }
 
 // コンテキストを作成
@@ -21,9 +24,10 @@ export const useAppContext = () => {
 // AppProvider コンポーネントを作成し、アプリ全体でグローバルな状態を管理
 export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
   const [selectedMainGroup, setSelectedMainGroup] = useState<string>('');
+  const [selectedMainItems, setSelectedMainItems] = useState<Entry[]>([]);
 
   return (
-    <AppContext.Provider value={{ selectedMainGroup, setSelectedMainGroup }}>
+    <AppContext.Provider value={{ selectedMainGroup, setSelectedMainGroup, selectedMainItems, setSelectedMainItems }}>
       {children}
     </AppContext.Provider>
   );

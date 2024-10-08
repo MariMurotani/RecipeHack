@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';  // React をインポート
 import { useAppContext } from '../AppContext'; 
 import { Container, Typography, TextField, Button, Checkbox } from '@mui/material';
+import FixedButtonOverlay from '../components/FixedButtonOverlay';
 import { useNavigate } from 'react-router-dom';
 import { getEntryDataWithCategoryGroup } from '../api/neo4j';
 import { Entry } from '../api/types';
@@ -62,7 +63,7 @@ const MainGroup: React.FC = () => {
             </div>
           ))
         }
-        <Button onClick={buttonOnClick}>次へ</Button>
+        <FixedButtonOverlay onClick={buttonOnClick} />
       </Typography>
 
       {/* テキストボックスを配置 */}

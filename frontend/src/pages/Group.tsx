@@ -1,18 +1,20 @@
 import React from 'react';
-import { Container, Typography, Button, Grid, Box } from '@mui/material';
+import { Container, Typography, Button, Grid, Box, Checkbox } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
 import { useAppContext } from '../AppContext';
+import { Entry } from 'src/api/types';
+import FixedButtonOverlay from '../components/FixedButtonOverlay';
 
 // 配列にボタンのキャプションと色を保存
 const button_caption = [
-  { caption: 'Earth', color: 'primary', 'key': 'meat' },
-  { caption: 'Green', color: 'secondary', 'key': 'fish' },
-  { caption: 'Tropical', color: 'success', 'key': 'vegetable' },
-  { caption: 'Ocean', color: 'error', 'key': 'fruit' },
-  { caption: 'Mountain', color: 'error', 'key': 'fruit' },
-  { caption: 'Field', color: 'error', 'key': 'fruit' },
-  { caption: 'Spice', color: 'error', 'key': 'fruit' }, // ここから外して後で選べるようにすことを検討する
-  { caption: 'Oil', color: 'error', 'key': 'fruit' },// ここから外して後で選べるようにする
+  { caption: 'Earth', color: 'primary', 'key': 'earth' },
+  { caption: 'Green', color: 'secondary', 'key': 'green' },
+  { caption: 'Tropical', color: 'success', 'key': 'tropical' },
+  { caption: 'Ocean', color: 'error', 'key': 'ocean' },
+  { caption: 'Mountain', color: 'error', 'key': 'mountain' },
+  { caption: 'Field', color: 'error', 'key': 'field' },
+  { caption: 'Spice', color: 'error', 'key': 'spice' }, // ここから外して後で選べるようにすことを検討する
+  { caption: 'Oil', color: 'error', 'key': 'Oil' },// ここから外して後で選べるようにする
 ];
 
 const Group: React.FC = () => {
@@ -23,45 +25,35 @@ const Group: React.FC = () => {
   const navigate = useNavigate();
 
   // ボタンがクリックされたときに呼ばれるハンドラ関数
-  const handleButtonClick = (key: string) => {
-    console.log(`${key} button clicked`);
+  const handleButtonClick = () => {
+    console.log(`handle button clicked`);
     // 選択されたボタンのキーを状態に追加
   };
+
+  // リストが選択されたとき
+  const handleItemClick = (key: string, event: React.MouseEvent<HTMLAnchorElement, MouseEvent>) => {
+    console.log(`${key} clicked`);
+  };
+  
 
   return (
     <Container>
       <Typography variant="h4" gutterBottom>
-      aaaaa
+        <div> Choose taste of your dish </div>
+      <FixedButtonOverlay onClick={handleButtonClick} />
       </Typography>
-      <Box
-      display="flex"
-      justifyContent="center"
-      alignItems="center"
-      height="100vh"  // 縦方向に中央揃え
-    >
-        <Grid
-          container
-          spacing={2}
-          justifyContent="center"
-        >
-        {button_caption.map(({caption, color , key}) => (
-          <Grid item xs={6} key={key}>
-            <Button
-              variant="contained"
-              fullWidth
-              sx={{
-                aspectRatio: '1 / 1', // 正方形にする
-                minHeight: '20px',  // ボタンの最小高さ
-              }}
-              onClick={() => handleButtonClick(key)} 
-            >
-              {caption}
-            </Button>
-          </Grid>
+      {/* 取得した結果をリストとして表示 */}
+      <ul>
+        {button_caption.map((button) => (
+          <a onClick={(event) => handleItemClick(button.key, event)}>
+            <li key={button.key}>
+              <Checkbox size="small" />
+              {button.caption}
+            </li>
+          </a>
         ))}
-      </Grid>
-    </Box>
-  );
+      </ul>
+
     </Container>
   );
 };

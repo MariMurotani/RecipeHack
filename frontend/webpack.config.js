@@ -1,4 +1,7 @@
 const path = require('path');
+const webpack = require('webpack');
+const dotenv = require('dotenv');
+dotenv.config();
 
 module.exports = {
   mode: 'development', // 開発モードまたは本番モード
@@ -16,6 +19,15 @@ module.exports = {
       },
     ],
   },
+  plugins:[
+    new webpack.DefinePlugin({
+      'process.env': {
+        NEO4J_URI: JSON.stringify(process.env.REACT_APP_NEO4J_URI),
+        NEO4J_USER: JSON.stringify(process.env.REACT_APP_NEO4J_USER),
+        NEO4J_PASSWORD: JSON.stringify(process.env.REACT_APP_NEO4J_PASSWORD),
+      },
+    }),
+  ],
   resolve: {
     extensions: ['.tsx', '.ts', '.js'], // 対象とする拡張子
   },

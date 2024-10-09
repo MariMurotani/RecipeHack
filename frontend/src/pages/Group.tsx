@@ -19,20 +19,20 @@ const button_caption = [
 
 const Group: React.FC = () => {
   // 共通のデータストアとして、クリックされたボタンのキーを保存するための状態を管理
-  const { selectedMainGroup, setSelectedMainGroup } = useAppContext(); 
-
-  // 画面遷移
+  const { selectedGroup, setSelectedGroup } = useAppContext();  
   const navigate = useNavigate();
+
 
   // ボタンがクリックされたときに呼ばれるハンドラ関数
   const handleButtonClick = () => {
-    console.log(`handle button clicked`);
-    // 選択されたボタンのキーを状態に追加
+    navigate('/paring_result');
   };
 
   // リストが選択されたとき
   const handleItemClick = (key: string, event: React.MouseEvent<HTMLAnchorElement, MouseEvent>) => {
-    console.log(`${key} clicked`);
+    console.log(`handle button clicked: ${key}`);
+    // 選択されたボタンのキーを状態に追加
+    setSelectedGroup(key);
   };
   
 

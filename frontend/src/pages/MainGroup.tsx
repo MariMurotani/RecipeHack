@@ -7,7 +7,7 @@ import { getEntryDataWithCategoryGroup } from '../api/neo4j';
 import { Entry } from '../api/types';
 
 const MainGroup: React.FC = () => {
-  const { selectedMainGroup, setSelectedMainGroup, selectedMainItems, setSelectedMainItems } = useAppContext();  
+  const { selectedMainGroup, selectedMainItems, setSelectedMainItems } = useAppContext();  
   const navigate = useNavigate();
   
   // `result` の状態を作成

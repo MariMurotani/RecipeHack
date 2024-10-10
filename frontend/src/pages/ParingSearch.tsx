@@ -13,13 +13,13 @@ const ParingSearch: React.FC = () => {
   // `result` の状態を作成
   const [matchedCategory, setMatchedCategory] = useState<Category[]>([]);  // Entry型の配列を保存する状態
   const [matchedResult, setResult] = useState<Entry[]>([]);  // Entry型の配列を保存する状態
+  const [selectedCategory, setSelectedCategory] = useState<string>(""); // 詳細フィルタ用のカテゴリ
 
   // `searchText` や `cate` が変更された時にデータを取得する
   useEffect(() => {
     const fetchData = async () => {
       try {
-        await getMatchedParingEntries(selectedMainItems, selectedGroup);
-        const { categories, entryResult } = await getMatchedParingEntries(selectedMainItems, selectedGroup);
+        const { categories, entryResult } = await getMatchedParingEntries(selectedMainItems, selectedGroup, selectedCategory);
         setMatchedCategory(categories);
         setResult(entryResult);
       } catch (error) {
@@ -28,11 +28,11 @@ const ParingSearch: React.FC = () => {
     };
 
     fetchData();
-  }, []); 
+  }, [selectedCategory]); 
   
   // カテゴリ用のチップがクリックされたとき
-  const handleChipClick = (category: Category) => {
-    console.log(category)
+  const handleChipClick = (category_id: string) => {
+    setSelectedCategory(category_id);
   }
   
   // 次へボタンがクリックされたとき
@@ -67,16 +67,22 @@ const ParingSearch: React.FC = () => {
           key={`ch_${item.id}`}
           label={item.name}
           variant="outlined"
-          sx={{ borderRadius: '16px' }}
-          onClick={() => handleChipClick(item)} 
+          onClick={() => handleChipClick(item.id)} 
         />
       ))}
+        {selectedCategory !== '' && (<Chip
+          key={`ch_all`}
+          label='All'
+          variant="outlined"
+          onClick={() => handleChipClick('')}
+        />)}
     </Box>
+    <FixedButtonOverlay onClick={buttonOnClick} />
       <ul>
         {matchedResult.map((entry) => (
-          <a onClick={(event) => handleItemClick(entry, event)}>
+          <a key={`ap_${entry.id}`} onClick={(event) => handleItemClick(entry, event)}>
             <li key={entry.id}>
-              <Checkbox size="small" />
+              <Checkbox key={`ch_${entry.id}`} size="small" />
               {entry.name} - {entry.scientific_name}
             </li>
           </a>

@@ -40,33 +40,35 @@ export const getEntryDataWithCategoryGroup = async (category: string, value:stri
 };
 
 // 指定されたエントリのマッチングアイテムをエントリの一覧から探す
-export const getMatchedParingEntries = async (main_entries: Entry[], category:string): Promise<Entry[]|undefined>  => {
+export const getMatchedParingEntries = async (main_entries: Entry[], category:string): Promise<{ categories: Category[], entryResult: Entry[] }> =>  {
   const session = driver.session();
-  const categories = (await getCategoriesFromGroup(category));
+  const categories:Category[] = (await getCategoriesFromGroup(category));
   const main_entries_string = main_entries.map((entry) => `${entry.id}`).join(', ');
   const cate_string = categories.map((category) => `'${category.id}'`).join(', ');
 
   try {
     const query = `
-    MATCH (e:Entry)-[:CONTAINS]->(c:Molecule)<-[:CONTAINS]-(other:Entry)
-    WHERE e.id IN [${main_entries_string}]
-    MATCH (e)-[:HAS_CATEGORY]->(ec:Category)
-    MATCH (other)-[:HAS_CATEGORY]->(oc:Category)
-    WHERE e.name <> other.name
-    AND other.category IN [${cate_string}]
-    AND e.flavor_vector IS NOT NULL
-    AND other.flavor_vector IS NOT NULL
-    WITH e, other, vector.similarity.euclidean(e.flavor_vector, other.flavor_vector) AS distance
-    RETURN DISTINCT other as e, distance
-    ORDER BY distance DESC
+      MATCH (e:Entry)-[:CONTAINS]->(c:Molecule)<-[:CONTAINS]-(other:Entry)
+      WHERE e.id IN [${main_entries_string}]
+      MATCH (e)-[:HAS_CATEGORY]->(ec:Category)
+      MATCH (other)-[:HAS_CATEGORY]->(oc:Category)
+      WHERE e.name <> other.name
+      AND other.category IN [${cate_string}]
+      AND e.flavor_vector IS NOT NULL
+      AND other.flavor_vector IS NOT NULL
+      WITH e, other, vector.similarity.euclidean(e.flavor_vector, other.flavor_vector) AS distance
+      RETURN DISTINCT other as e, distance
+      ORDER BY distance DESC
     `
     // クエリを実行
     const result = await session.run(query);
+    const entryResult:Entry[] = formatEntries(result);
 
-    return formatEntries(result);
-
+    return { categories, entryResult };
+  
   } catch (error) {
     console.error('Error retrieving data from Neo4j:', error);
+    return { categories: [], entryResult: [] };
   } finally {
     // セッションを閉じる
     await session.close();
@@ -81,7 +83,6 @@ const getCategories = (category: string): string => {
     'vegetable': ['vegetable', 'fungus', 'vegetable fruit', 'gourd', 'seed', 'plant', 'root', 'legume', 'vegetable root', 'vegetable stem', 'vegetable tuber', 'cabbage'],
     'fruit': ['fruit', 'berry', 'fruit-berry', 'fruit citrus'],
   }
-  console.log("category: ", category);
   const cate_string = cate_maps[category].join("', '");
   return `'${cate_string}'`;
 }
@@ -95,19 +96,19 @@ const getCategoriesFromGroup =  async (group: string): Promise<Category[]> => {
   `
   // クエリを実行
   const records = await session.run(query);
-  const entries: Category[] = records.records.map((record) => {
+  const categories: Category[] = records.records.map((record) => {
     const properties = record.get('c').properties;
     return {
       id: properties.id,
       name: properties.name,
     }
   });
-  return entries;
+  return categories ?? [];
 }
 
 
 // エントリの結果をフォーマットする
-const formatEntries = async (result: QueryResult<RecordShape>)=> {
+const formatEntries = (result: QueryResult<RecordShape>): Entry[] => {
   const entries: Entry[] = result.records.map((record) => {
     const properties = record.get('e').properties;
     

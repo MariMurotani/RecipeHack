@@ -55,7 +55,7 @@ const MainGroup: React.FC = () => {
 
   return (
     <Container>
-      <Typography gutterBottom>
+      <Typography gutterBottom component="div">
         {
           selectedMainItems.map((entry) => (
             <div key={entry.id}>
@@ -77,12 +77,12 @@ const MainGroup: React.FC = () => {
       {/* 取得した結果をリストとして表示 */}
       <ul>
         {result.map((entry) => (
-          <a onClick={(event) => handleItemClick(entry, event)}>
-            <li key={entry.id}>
-              <Checkbox size="small" />
+          <li key={`li_${entry.id}`}>
+            <a key={`a_${entry.id}`} onClick={(event) => handleItemClick(entry, event)}>
+              <Checkbox key={`ch_${entry.id}`} size="small" />
               {entry.name} - {entry.scientific_name}
-            </li>
-          </a>
+            </a>
+          </li>
         ))}
       </ul>
     </Container>

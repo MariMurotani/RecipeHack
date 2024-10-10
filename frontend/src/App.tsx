@@ -6,6 +6,7 @@ import Layout from './components/Layout';
 import Home from './pages/Home';
 import Group from './pages/Group';
 import MainGroup from './pages/MainGroup';
+import ParingSearch from './pages/ParingSearch';
 import About from './pages/About';
 import NotFound from './pages/NotFound';
 
@@ -25,6 +26,10 @@ const router = createHashRouter([
       {
         path: "/group",
         element: <Group />,
+      },
+      {
+        path: "/paring_search",
+        element: <ParingSearch />,
       },
       {
         path: "/about",

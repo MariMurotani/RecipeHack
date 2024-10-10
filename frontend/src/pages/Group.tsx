@@ -25,7 +25,7 @@ const Group: React.FC = () => {
 
   // ボタンがクリックされたときに呼ばれるハンドラ関数
   const handleButtonClick = () => {
-    navigate('/paring_result');
+    navigate('/paring_search');
   };
 
   // リストが選択されたとき
@@ -45,9 +45,9 @@ const Group: React.FC = () => {
       {/* 取得した結果をリストとして表示 */}
       <ul>
         {button_caption.map((button) => (
-          <a onClick={(event) => handleItemClick(button.key, event)}>
-            <li key={button.key}>
-              <Checkbox size="small" />
+          <a key={`a_${button.key}`} onClick={(event) => handleItemClick(button.key, event)}>
+            <li key={`li_${button.key}`}>
+              <Checkbox key={`ch_${button.key}`} size="small" />
               {button.caption}
             </li>
           </a>

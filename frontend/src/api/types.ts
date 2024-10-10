@@ -8,4 +8,11 @@ export interface Entry {
     synonyms: string
     flavor_count: { [key: string]: number };
     paring_scores: { [key: string]: number };
+    distance? : number;
   }
+
+// Categoryの型を定義
+export interface Category {
+  id: string;
+  name: string;
+}

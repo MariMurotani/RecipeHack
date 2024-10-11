@@ -5,10 +5,10 @@ import { useAppContext } from '../AppContext';
 
 // 配列にボタンのキャプションと色を保存
 const button_caption = [
-  { caption: 'Meat', color: 'primary', 'key': 'meat' },
-  { caption: 'Fish', color: 'secondary', 'key': 'fish' },
-  { caption: 'Vegetable', color: 'success', 'key': 'vegetable' },
-  { caption: 'Fruit', color: 'error', 'key': 'fruit' },
+  { caption: 'Meat', color: '#B22222', 'key': 'meat' },
+  { caption: 'Fish', color: '#4169E1', 'key': 'fish' },
+  { caption: 'Vegetable', color: '#228B22', 'key': 'vegetable' },
+  { caption: 'Fruit', color: '#B8860B', 'key': 'fruit' },
 ];
 
 const Home: React.FC = () => {
@@ -42,6 +42,8 @@ const Home: React.FC = () => {
             variant="contained"
             fullWidth
             sx={{
+              color: '#fff',
+              backgroundColor: color,
               aspectRatio: '1 / 1', // 正方形にする
               minHeight: '20px',  // ボタンの最小高さ
               maxHeight: '200px',  // ボタンの最大高さ

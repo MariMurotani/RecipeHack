@@ -1,5 +1,6 @@
 import React, { useRef, useEffect } from "react";
 import * as d3 from "d3";
+import { ColorMap } from "../api/colorMap";
 
 export interface FlavorPairDataType {
   Flavor: string;
@@ -58,7 +59,7 @@ const DoubleCircularBarPlot: React.FC<DoubleCircularBarPlotProps> = ({ data }) =
       .data(data)
       .enter()
       .append("path")
-      .attr("fill", "#69b3a2")
+      .attr("fill", (d) => ColorMap[d.Flavor])
       .attr("class", "yo")
       .attr(
         "d",

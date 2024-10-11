@@ -14,7 +14,8 @@ const button_caption = [
   { caption: 'Mountain', color: 'error', 'key': 'mountain' },
   { caption: 'Field', color: 'error', 'key': 'field' },
   { caption: 'Spice & Herbs', color: 'error', 'key': 'spice' }, // ここから外して後で選べるようにすことを検討する
-  { caption: 'Oil', color: 'error', 'key': 'Oil' },// ここから外して後で選べるようにする
+  { caption: 'Oil', color: 'error', 'key': 'oil' },// ここから外して後で選べるようにする
+  { caption: 'Drink', color: 'error', 'key': 'drink' },// ここから外して後で選べるようにする
 ];
 
 const Group: React.FC = () => {

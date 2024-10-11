@@ -14,6 +14,8 @@ export const ColorMap: { [key: string]: string } = {
   'herbal': '#4CAF50',     // ハーバルの緑
   'new mown hay': '#66BB6A', // 刈ったばかりの干し草の緑
   'caraway': '#388E3C',    // キャラウェイの緑
+  'celery': '#4CAF50',     // セロリの緑
+  'cabbage': '#4CAF50',    // キャベツの緑
 
   // 黄色系のカテゴリ
   'cheese': '#FFEB3B',     // チーズの黄色
@@ -39,6 +41,7 @@ export const ColorMap: { [key: string]: string } = {
   // 茶色系のカテゴリ
   'wood': '#8D6E63',       // 木の茶色
   'nuts': '#795548',       // ナッツの茶色
+  'nutty': '#795548',      // ナッツの茶色
   'woody': '#6D4C41',      // ウッディな濃い茶色
   'caramel': '#A1887F',    // カラメルの茶色
   'balsam': '#8E6B55',     // バルサム系の茶色
@@ -53,6 +56,9 @@ export const ColorMap: { [key: string]: string } = {
   'spice': '#FF7043',      // スパイスのオレンジ
   'sulfurous': '#D2691E',  // 硫黄系のスパイス色
   'pepper': '#D2691E',     // 胡椒の茶色
+  'rum': '#A0522D',        // ラムの茶色
+  'burnt': '#A52A2A',      // 焦げた茶色
+  'toasted': '#A52A2A',    // トーストした茶色
 
   // 赤系のカテゴリ
   'rose': '#E57373',       // バラの赤
@@ -71,6 +77,7 @@ export const ColorMap: { [key: string]: string } = {
   'wine_like': '#B71C1C',  // ワインの赤
   'vinegar': '#B71C1C',  // ワインの赤
   'hyacinth': '#E91E63',   // ヒヤシンスの赤
+  'coumarin': '#FADADD' // 桜の色
 
   // 青系のカテゴリ
   'fishy': '#4A90E2',      // 魚の青
@@ -95,6 +102,7 @@ export const ColorMap: { [key: string]: string } = {
   'camphor': '#1E88E5',    // カンファーの青
   'alkane': '#42A5F5',     // アルカンの青
   'pungent': '#2196F3',   // 辛い青
+  'sulfur': '#2196F3',   // 硫黄の青
 
   // その他
   'onion': '#F3ECD8',      // 玉ねぎの白

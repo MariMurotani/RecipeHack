@@ -39,17 +39,16 @@ const Constitution: React.FC = () => {
       <TabContext value={tabNumber}>
         <Box sx={{ borderBottom: 1, borderColor: 'divider' }}>
           <TabList onChange={handleTabChange} aria-label="lab API tabs example" sx={{ justifyContent: 'center' }}>
-            <Tab label="Pairing" value="1" />
-            <Tab label="Collation" value="2" />
+          <Tab label="Collation" value="1" />
+          <Tab label="Pairing" value="2" />
           </TabList>
         </Box>
 
         {/* TabPanelの横幅を100%、コンテンツをセンタリング */}
         <TabPanel value="1" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-          <DoubleCircularBarPlot data={graphData} />
         </TabPanel>
         <TabPanel value="2" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-          Item Two
+          <DoubleCircularBarPlot data={graphData} />
         </TabPanel>
         <TabPanel value="3" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
           Item Three

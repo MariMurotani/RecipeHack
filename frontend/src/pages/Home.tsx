@@ -29,7 +29,7 @@ const Home: React.FC = () => {
   return (
     <Container>
       <Typography variant="h4">
-      Please choose the category of main ingredient
+        Select your main item
       </Typography>
       <Grid
         container

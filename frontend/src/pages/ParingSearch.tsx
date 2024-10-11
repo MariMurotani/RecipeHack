@@ -38,7 +38,7 @@ const ParingSearch: React.FC = () => {
   
   // 次へボタンがクリックされたとき
   const buttonOnClick = () => {
-    /// navigate('/group');
+    navigate('/result');
   };
 
   // リストが選択されたとき

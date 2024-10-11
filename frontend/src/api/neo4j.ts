@@ -40,9 +40,9 @@ export const getEntryDataWithCategoryGroup = async (category: string, value:stri
 };
 
 // 指定されたエントリのマッチングアイテムをエントリの一覧から探す
-export const getMatchedParingEntries = async (main_entries: Entry[], group:string, category:string): Promise<{ categories: Category[], entryResult: Entry[] }> =>  {
+export const getMatchedParingEntries = async (main_entries: Entry[], groups:string[], category:string): Promise<{ categories: Category[], entryResult: Entry[] }> =>  {
   const session = driver.session();
-  let categories:Category[] = (await getCategoriesFromGroup(group));
+  let categories:Category[] = (await getCategoriesFromGroup(groups));
   if(category != ''){
     categories = categories.filter((cate) => cate.id == category);
   }
@@ -91,10 +91,12 @@ const getCategories = (category: string): string => {
 }
 
 // グループからカテゴリを検索する
-const getCategoriesFromGroup =  async (group: string): Promise<Category[]> => {
+const getCategoriesFromGroup =  async (groups: string[]): Promise<Category[]> => {
   const session = driver.session();
+  const group_ids = groups.map((group) => `'${group}'`).join(', ');
   const query = `
-  MATCH (cg:CategoryGroup {id: '${group}'})-[r:GROUPED]->(c:Category)
+  MATCH (cg:CategoryGroup)-[r:GROUPED]->(c:Category)
+  WHERE cg.id IN [${group_ids}]
   RETURN c;
   `
   // クエリを実行

@@ -7,7 +7,7 @@ import { getMatchedParingEntries } from '../api/neo4j';
 import { Category, Entry } from '../api/types';
 
 const ParingSearch: React.FC = () => {
-  const { selectedMainGroup, selectedMainItems, selectedGroup } = useAppContext();  
+  const { selectedMainGroup, selectedMainItems, selectedGroups } = useAppContext();  
   const navigate = useNavigate();
   
   // `result` の状態を作成
@@ -19,7 +19,7 @@ const ParingSearch: React.FC = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const { categories, entryResult } = await getMatchedParingEntries(selectedMainItems, selectedGroup, selectedCategory);
+        const { categories, entryResult } = await getMatchedParingEntries(selectedMainItems, selectedGroups, selectedCategory);
         setMatchedCategory(categories);
         setResult(entryResult);
       } catch (error) {

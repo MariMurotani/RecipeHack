@@ -19,7 +19,7 @@ const button_caption = [
 
 const Group: React.FC = () => {
   // 共通のデータストアとして、クリックされたボタンのキーを保存するための状態を管理
-  const { selectedGroup, setSelectedGroup } = useAppContext();  
+  const { selectedGroups, setSelectedGroups } = useAppContext();  
   const navigate = useNavigate();
 
 
@@ -32,7 +32,7 @@ const Group: React.FC = () => {
   const handleItemClick = (key: string, event: React.MouseEvent<HTMLAnchorElement, MouseEvent>) => {
     console.log(`handle button clicked: ${key}`);
     // 選択されたボタンのキーを状態に追加
-    setSelectedGroup(key);
+    setSelectedGroups([...selectedGroups, key]);
   };
   
 

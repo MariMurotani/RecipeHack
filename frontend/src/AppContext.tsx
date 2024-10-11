@@ -7,8 +7,8 @@ interface AppContextProps {
   setSelectedMainGroup: (main_group: string) => void;
   selectedMainItems: Entry[];
   setSelectedMainItems: (items: Entry[]) => void;
-  selectedGroup: string;
-  setSelectedGroup: (group: string) => void;
+  selectedGroups: string[];
+  setSelectedGroups: (group: string[]) => void;
 }
 
 // コンテキストを作成
@@ -27,13 +27,13 @@ export const useAppContext = () => {
 export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
   const [selectedMainGroup, setSelectedMainGroup] = useState<string>('');
   const [selectedMainItems, setSelectedMainItems] = useState<Entry[]>([]);
-  const [selectedGroup, setSelectedGroup] = useState<string>('');
+  const [selectedGroups, setSelectedGroups] = useState<string[]>([]);
 
   return (
     <AppContext.Provider value={{ 
       selectedMainGroup, setSelectedMainGroup, 
       selectedMainItems, setSelectedMainItems,
-      selectedGroup, setSelectedGroup
+      selectedGroups, setSelectedGroups
       }}>
       {children}
     </AppContext.Provider>

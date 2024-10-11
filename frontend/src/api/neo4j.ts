@@ -28,7 +28,7 @@ export const getEntryDataWithCategoryGroup = async (category: string, value:stri
       RETURN e, score 
       ORDER BY score DESC
     `);
-
+    
     return formatEntries(result);
 
   } catch (error) {
@@ -111,6 +111,45 @@ const getCategoriesFromGroup =  async (groups: string[]): Promise<Category[]> =>
   return categories ?? [];
 }
 
+// Coefficient 分析用のエッジを指定された要素で作成する
+async function createSharedFlavorEdges(entries: Entry[]) {
+  const session = driver.session();
+  const entry_ids = entries.map((entry) => entry.id);
+
+  try {
+    // entriesの配列を使って動的にクエリを生成
+    const entryPairs = [];
+
+    // エントリーのペアを作成 (e1, e2) 総当たりで作成する
+    for (let i = 0; i < entry_ids.length; i++) {
+      for (let j = i + 1; j < entry_ids.length; j++) {
+        entryPairs.push(`(e${i}:Entry {id: $id${i}})-[:CONTAINS]->(m${i}:Molecule)-[:HAS_FLAVOR]->(f:Flavor)<-[:HAS_FLAVOR]-(m${j}:Molecule)<-[:CONTAINS]-(e${j}:Entry {id: $id${j}})`);
+      }
+    }
+    // ペアを使って、MERGEのクエリを作成
+    const mergeStatements = entryPairs
+      .map((pair, index) => `MERGE ${pair} MERGE (e${index})-[:SHARES_FLAVOR_WITH]->(e${index + 1})`)
+      .join('\n');
+
+    // クエリのテンプレート
+    const query = `
+      MATCH ${entryPairs.join('\nWHERE e1 <> e2\n')} 
+      ${mergeStatements}
+    `;
+
+    console.log(query)
+
+    // クエリの実行
+    const result = await session.run(query);
+    console.log('Result:', result);
+    
+  } catch (error) {
+    console.error('Error executing query:', error);
+  } finally {
+    await session.close();
+  }
+}
+
 
 // エントリの結果をフォーマットする
 const formatEntries = (result: QueryResult<RecordShape>): Entry[] => {
@@ -127,17 +166,24 @@ const formatEntries = (result: QueryResult<RecordShape>): Entry[] => {
       flavor_principal: properties.flavor_principal,
       scientific_name: properties.scientific_name,
       synonyms: properties.string,
-      flavor_count: JSON.parse(properties.flavor_count),
-      paring_scores: JSON.parse(properties.paring_scores),
+      flavor_count: JSON.parse(properties.flavor_count ?? '{}'),
+      paring_scores: JSON.parse(properties.paring_scores ?? '{}'),
       distance: distance
     };
   });
 
-  // distanceの正規化
+  // 各エントリの distance を最大値で正規化する
+  entries = normalizeDistances(entries);
+
+  return entries ?? [];
+};
+
+export const normalizeDistances = (entries: Entry[]): Entry[] => {
+  // distance の最大値を取得
   const maxDistance = Math.max(...entries.map(entry => entry.distance ?? 0));
 
   // 各エントリの distance を最大値で正規化する
-  entries = entries.map((entry) => {
+  return entries.map((entry) => {
     if (entry.distance != undefined && maxDistance !== 0) {
       return {
         ...entry,
@@ -145,8 +191,6 @@ const formatEntries = (result: QueryResult<RecordShape>): Entry[] => {
       };
     } else {
       return entry;
-   }
+    }
   });
-
-  return entries ?? [];
 };

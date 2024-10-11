@@ -7,7 +7,7 @@ import Home from './pages/Home';
 import Group from './pages/Group';
 import MainGroup from './pages/MainGroup';
 import ParingSearch from './pages/ParingSearch';
-import Result from './pages/Result';
+import Constitution from './pages/Constitution';
 import About from './pages/About';
 import NotFound from './pages/NotFound';
 
@@ -33,8 +33,8 @@ const router = createHashRouter([
         element: <ParingSearch />,
       },
       {
-        path: "/result",
-        element: <Result />,
+        path: "/constitution",
+        element: <Constitution />,
       },
       {
         path: "/about",

@@ -30,7 +30,10 @@ const FloatingListBox: React.FC<FloatingListBoxProps> = ({ items }) => {
         <Paper elevation={3}>
         <List>
           {items.map((entry, index) => (
-            <ListItem key={index}>{entry.name}</ListItem> 
+            <ListItem 
+            key={index}
+            sx={{ fontSize: '16px' }}
+            >{entry.name}</ListItem> 
           ))}
         </List>
       </Paper>

@@ -13,7 +13,7 @@ const button_caption = [
   { caption: 'Ocean', color: 'error', 'key': 'ocean' },
   { caption: 'Mountain', color: 'error', 'key': 'mountain' },
   { caption: 'Field', color: 'error', 'key': 'field' },
-  { caption: 'Spice', color: 'error', 'key': 'spice' }, // ここから外して後で選べるようにすことを検討する
+  { caption: 'Spice & Herbs', color: 'error', 'key': 'spice' }, // ここから外して後で選べるようにすことを検討する
   { caption: 'Oil', color: 'error', 'key': 'Oil' },// ここから外して後で選べるようにする
 ];
 

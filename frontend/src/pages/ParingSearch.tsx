@@ -2,12 +2,13 @@ import React, { useState, useEffect } from 'react';  // React をインポート
 import { useAppContext } from '../AppContext'; 
 import { Container, Typography, TextField, Button, Checkbox, Box, Chip } from '@mui/material';
 import FixedButtonOverlay from '../components/FixedButtonOverlay';
+import FloatingListBox from '../components/FloatingListBox';
 import { useNavigate } from 'react-router-dom';
 import { getMatchedParingEntries } from '../api/neo4j';
 import { Category, Entry } from '../api/types';
 
 const ParingSearch: React.FC = () => {
-  const { selectedMainGroup, selectedMainItems, selectedGroups } = useAppContext();  
+  const { selectedMainGroup, selectedMainItems, selectedGroups, selectedAdditionalEntries, setSelectedAdditionalEntries } = useAppContext();  
   const navigate = useNavigate();
   
   // `result` の状態を作成
@@ -42,8 +43,7 @@ const ParingSearch: React.FC = () => {
 
   // リストが選択されたとき
   const handleItemClick = (entry: Entry, event: React.MouseEvent<HTMLAnchorElement, MouseEvent>) => {
-    console.log(entry)
-    /// setSelectedMainItems([...selectedMainItems, entry]);
+    setSelectedAdditionalEntries([...selectedAdditionalEntries, entry]);
   };
 
   // selectedMainGroup が空の場合はリダイレクト
@@ -58,6 +58,7 @@ const ParingSearch: React.FC = () => {
       <Typography variant="h4">
         Select paring items from the list below.
         <FixedButtonOverlay onClick={buttonOnClick} />
+        <FloatingListBox items={selectedAdditionalEntries} />
       </Typography>
       <Box
       sx={{

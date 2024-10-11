@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';  // React をインポート
 import { useAppContext } from '../AppContext'; 
 import { Container, Typography, TextField, Button, Checkbox } from '@mui/material';
 import FixedButtonOverlay from '../components/FixedButtonOverlay';
+import FloatingListBox from '../components/FloatingListBox';
 import { useNavigate } from 'react-router-dom';
 import { getEntryDataWithCategoryGroup } from '../api/neo4j';
 import { Entry } from '../api/types';
@@ -56,23 +57,18 @@ const MainGroup: React.FC = () => {
   return (
     <Container>
       <Typography gutterBottom component="div">
-        {
-          selectedMainItems.map((entry) => (
-            <div key={entry.id}>
-              {entry.name}
-            </div>
-          ))
-        }
         <FixedButtonOverlay onClick={buttonOnClick} />
+        <FloatingListBox items={selectedMainItems} />
       </Typography>
 
       {/* テキストボックスを配置 */}
       <TextField
         label="Find main ingredient"
-        onChange={handleChange}  // 値が変更されるたびに handleChange が呼ばれる
+        onChange={handleChange}
         fullWidth
         variant="outlined"
-        value={searchText}  // テキストフィールドに入力値を反映
+        style={{ width: '300px' }}
+        value={searchText}
       />
       {/* 取得した結果をリストとして表示 */}
       <ul>

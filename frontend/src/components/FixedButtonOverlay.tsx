@@ -12,7 +12,7 @@ const FixedButtonOverlay: React.FC<FixedButtonOverlayProps> = ({ onClick }) => {
       color="primary"
       style={{
         position: 'fixed',
-        bottom: '85%',
+        top: '100px',
         right: '20px',
         zIndex: 1000,  // オーバーレイ表示のためにz-indexを設定
       }}

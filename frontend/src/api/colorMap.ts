@@ -21,12 +21,14 @@ export const ColorMap: { [key: string]: string } = {
   'very mild': '#FFD54F',  // 淡い黄色
   'butter': '#FFC107',     // バターの黄色
   'dairy': '#FFE082',      // 乳製品の淡い黄色
+  'soy': '#FFE082',     // バターの黄色
   'cream': '#FFF9C4',      // クリームの淡い黄色
   'milky': '#FFF8E1',      // ミルクの淡い黄色
   'buttery': '#FFE57F',    // バターの明るい黄色
   'pear': '#FFF176',       // 洋梨の黄色
   'vanilla': '#FFEB3B',    // バニラの黄色
   'coconut': '#FFE082',    // ココナッツの黄色
+  'fatty': '#FFD54F',      // 脂肪の黄色
 
   // 茶色系のカテゴリ
   'wood': '#8D6E63',       // 木の茶色
@@ -50,11 +52,12 @@ export const ColorMap: { [key: string]: string } = {
   'apple': '#FF1744',      // りんごの赤
   'cherry': '#D50000',     // さくらんぼの赤
   'grapefruit': '#FF5252', // グレープフルーツの赤
-  '"fruity"': '#FF5252', // グレープフルーツの赤
+  'fruity': '#FF5252', // グレープフルーツの赤
   'floral': '#FF4081',     // フローラルなピンク
   'flower': '#F50057',     // 花の濃いピンク
   'meaty': '#C62828',      // 肉の赤
   'wine_like': '#B71C1C',  // ワインの赤
+  'vinegar': '#B71C1C',  // ワインの赤
 
   // 青系のカテゴリ
   'fishy': '#4A90E2',      // 魚の青
@@ -75,9 +78,11 @@ export const ColorMap: { [key: string]: string } = {
   'formyl': '#64B5F6',     // フォルミル系の青
   'tonka': '#1976D2',      // トンカの青
   'acrid': '#2196F3',      // 刺激臭の青
-  'etallic': '#1E90FF',   // メタリックな青
+  'metallic': '#1E90FF',   // メタリックな青
+  'camphor': '#1E88E5',    // カンファーの青
 
   // その他
-  'onion': '#FFFFFF',      // 玉ねぎの白
+  'onion': '#F3ECD8',      // 玉ねぎの白
+  'garlic': '#F3ECD8',      // 玉ねぎの白
   'leather': '#8D6E63',    // レザーの茶色
 };

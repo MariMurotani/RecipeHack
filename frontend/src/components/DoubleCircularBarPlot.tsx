@@ -106,7 +106,8 @@ const DoubleCircularBarPlot: React.FC<DoubleCircularBarPlotProps> = ({ data }) =
       .data(data)
       .enter()
       .append("path")
-      .attr("fill", "red")
+      .attr("fill", (d) => ColorMap[d.Flavor])
+      .attr("opacity", 0.5)
       .attr(
         "d",
         d3

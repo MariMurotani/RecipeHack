@@ -60,7 +60,7 @@ export const getMatchedParingEntries = async (main_entries: Entry[], group:strin
       AND e.flavor_vector IS NOT NULL
       AND other.flavor_vector IS NOT NULL
       WITH e, other, vector.similarity.euclidean(e.flavor_vector, other.flavor_vector) AS distance
-      RETURN DISTINCT other as e, distance
+      RETURN DISTINCT other as e, sum(distance) as distance
       ORDER BY distance DESC
     `
     // クエリを実行
@@ -112,9 +112,12 @@ const getCategoriesFromGroup =  async (group: string): Promise<Category[]> => {
 
 // エントリの結果をフォーマットする
 const formatEntries = (result: QueryResult<RecordShape>): Entry[] => {
-  const entries: Entry[] = result.records.map((record) => {
+  let entries: Entry[] = result.records.map((record) => {
     const properties = record.get('e').properties;
-    
+    let distance = 0;
+    if(record.keys.includes('distance')){
+      distance = record.get('distance');
+    }
     return {
       id: properties.id,
       name: properties.name,
@@ -124,8 +127,23 @@ const formatEntries = (result: QueryResult<RecordShape>): Entry[] => {
       synonyms: properties.string,
       flavor_count: JSON.parse(properties.flavor_count),
       paring_scores: JSON.parse(properties.paring_scores),
-      distance: properties.distance,
+      distance: distance
     };
+  });
+
+  // distanceの正規化
+  const maxDistance = Math.max(...entries.map(entry => entry.distance ?? 0));
+
+  // 各エントリの distance を最大値で正規化する
+  entries = entries.map((entry) => {
+    if (entry.distance != undefined && maxDistance !== 0) {
+      return {
+        ...entry,
+        distance: parseFloat((entry.distance / maxDistance).toFixed(2)) // 最大値で割る
+      };
+    } else {
+      return entry;
+   }
   });
 
   return entries ?? [];

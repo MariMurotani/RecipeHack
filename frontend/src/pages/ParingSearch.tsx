@@ -3,7 +3,7 @@ import { useAppContext } from '../AppContext';
 import { Container, Typography, TextField, Button, Checkbox, Box, Chip } from '@mui/material';
 import FixedButtonOverlay from '../components/FixedButtonOverlay';
 import { useNavigate } from 'react-router-dom';
-import { getEntryDataWithCategoryGroup, getMatchedParingEntries } from '../api/neo4j';
+import { getMatchedParingEntries } from '../api/neo4j';
 import { Category, Entry } from '../api/types';
 
 const ParingSearch: React.FC = () => {
@@ -55,6 +55,10 @@ const ParingSearch: React.FC = () => {
 
   return (
     <Container>
+      <Typography variant="h4">
+        Select paring items from the list below.
+        <FixedButtonOverlay onClick={buttonOnClick} />
+      </Typography>
       <Box
       sx={{
         display: 'flex',
@@ -77,13 +81,12 @@ const ParingSearch: React.FC = () => {
           onClick={() => handleChipClick('')}
         />)}
     </Box>
-    <FixedButtonOverlay onClick={buttonOnClick} />
       <ul>
         {matchedResult.map((entry) => (
           <a key={`ap_${entry.id}`} onClick={(event) => handleItemClick(entry, event)}>
-            <li key={entry.id}>
+            <li key={`li${entry.id}`}>
               <Checkbox key={`ch_${entry.id}`} size="small" />
-              {entry.name} - {entry.scientific_name}
+              {entry.name} - {entry.scientific_name} ({entry.distance})
             </li>
           </a>
         ))}

@@ -28,38 +28,31 @@ const Home: React.FC = () => {
 
   return (
     <Container>
-      <Typography variant="h4" gutterBottom>
+      <Typography variant="h4">
       Please choose the category of main ingredient
       </Typography>
-      <Box
-      display="flex"
-      justifyContent="center"
-      alignItems="center"
-      height="100vh"  // 縦方向に中央揃え
-    >
-        <Grid
-          container
-          spacing={2}
-          justifyContent="center"
-        >
-        {button_caption.map(({caption, color , key}) => (
-          <Grid item xs={6} key={key}>
-            <Button
-              variant="contained"
-              fullWidth
-              sx={{
-                aspectRatio: '1 / 1', // 正方形にする
-                minHeight: '20px',  // ボタンの最小高さ
-              }}
-              onClick={() => handleButtonClick(key)} 
-            >
-              {caption}
-            </Button>
-          </Grid>
-        ))}
-      </Grid>
-    </Box>
-  );
+      <Grid
+        container
+        spacing={2}
+        justifyContent="center"
+      >
+      {button_caption.map(({caption, color , key}) => (
+        <Grid item xs={6} key={key}>
+          <Button
+            variant="contained"
+            fullWidth
+            sx={{
+              aspectRatio: '1 / 1', // 正方形にする
+              minHeight: '20px',  // ボタンの最小高さ
+              maxHeight: '200px',  // ボタンの最大高さ
+            }}
+            onClick={() => handleButtonClick(key)} 
+          >
+            {caption}
+          </Button>
+        </Grid>
+      ))}
+    </Grid>
     </Container>
   );
 };

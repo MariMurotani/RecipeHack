@@ -112,43 +112,92 @@ const getCategoriesFromGroup =  async (groups: string[]): Promise<Category[]> =>
 }
 
 // Coefficient 分析用のエッジを指定された要素で作成する
-async function createSharedFlavorEdges(entries: Entry[]) {
+export async function createSharedFlavorEdges(entries: Entry[]) {
   const session = driver.session();
   const entry_ids = entries.map((entry) => entry.id);
 
   try {
     // entriesの配列を使って動的にクエリを生成
-    const entryPairs = [];
+    const queries = [];
 
     // エントリーのペアを作成 (e1, e2) 総当たりで作成する
     for (let i = 0; i < entry_ids.length; i++) {
-      for (let j = i + 1; j < entry_ids.length; j++) {
-        entryPairs.push(`(e${i}:Entry {id: $id${i}})-[:CONTAINS]->(m${i}:Molecule)-[:HAS_FLAVOR]->(f:Flavor)<-[:HAS_FLAVOR]-(m${j}:Molecule)<-[:CONTAINS]-(e${j}:Entry {id: $id${j}})`);
+      for (let k = i + 1; k < entry_ids.length; k++) {
+          // 同じMoleculeを共有するEntry同士にリレーションシップを作成し、countプロパティに共有するMoleculeの数を追加
+          const tmp_query = `
+          MATCH (e1:Entry {id: ${entry_ids[i]}})-[:CONTAINS]->(m:Molecule)<-[:CONTAINS]-(e2:Entry {id: ${entry_ids[k]}})
+          WHERE id(e1) <> id(e2)
+          WITH e1, e2, COUNT(m) AS sharedMoleculeCount  // 共有するMoleculeの数をカウント
+          MERGE (e1)-[r:RELATED_TO]->(e2)
+          SET r.count = sharedMoleculeCount  // リレーションシップにcountプロパティを設定
+          RETURN e1, e2, r
+          `;
+          await session.run(tmp_query);
       }
     }
-    // ペアを使って、MERGEのクエリを作成
-    const mergeStatements = entryPairs
-      .map((pair, index) => `MERGE ${pair} MERGE (e${index})-[:SHARES_FLAVOR_WITH]->(e${index + 1})`)
-      .join('\n');
-
-    // クエリのテンプレート
-    const query = `
-      MATCH ${entryPairs.join('\nWHERE e1 <> e2\n')} 
-      ${mergeStatements}
-    `;
-
-    console.log(query)
-
-    // クエリの実行
-    const result = await session.run(query);
-    console.log('Result:', result);
-    
   } catch (error) {
     console.error('Error executing query:', error);
   } finally {
     await session.close();
   }
 }
+
+// Coefficient 分析用のエッジを指定された要素で作成する
+export async function extractLocalCoefficient(entries: Entry[]) {
+    const vgraph_name = '${generateRandomString(5)}Graph';
+    const entry_ids = entries.map((entry) => entry.id);
+    
+    // VirtualNodeの作成
+    const v_graph_query = `
+      CALL gds.graph.project(
+        '${vgraph_name}',  // グラフ名
+        {
+          Entry: {
+            label: 'Entry',
+            properties: ['id']  // Entryのidプロパティを含める
+          }
+        },
+        {
+          RELATED_TO: {
+            type: 'RELATED_TO',
+            orientation: 'UNDIRECTED',
+            properties: 'count'
+          }
+        }
+      )`;
+
+    // 検索
+    const f_graph_query = `
+      CALL gds.localClusteringCoefficient.stream(${vgraph_name}) 
+      YIELD nodeId, localClusteringCoefficient 
+      WHERE localClusteringCoefficient > 0.0
+      AND gds.util.asNode(nodeId).id in [${entry_ids.join(', ')}]
+      RETURN gds.util.asNode(nodeId).name AS entryName, localClusteringCoefficient ORDER BY localClusteringCoefficient DESC;
+    `
+    // 仮想グラフ削除
+    const d_graph_query = `
+      CALL gds.graph.drop(${vgraph_name}) YIELD graphName RETURN graphName;
+     `
+    const session = driver.session();
+
+    try {
+      await session.run(d_graph_query);
+      await session.run(v_graph_query);
+      const result = await session.run(f_graph_query);
+      return result.records.map((record) => {
+        const properties = record.get('e').properties;
+        return {
+          name: properties.name,
+          coefficient: record.get('localClusteringCoefficient'),
+          count: properties.count
+        }
+      });
+    } catch (error) {
+      console.error('Error executing query:', error);
+    } finally {
+      await session.close();
+    }
+};
 
 
 // エントリの結果をフォーマットする
@@ -194,3 +243,16 @@ export const normalizeDistances = (entries: Entry[]): Entry[] => {
     }
   });
 };
+
+function generateRandomString(length: number): string {
+  const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz';
+  let result = '';
+  
+  // lengthの長さだけランダムな文字を結合
+  for (let i = 0; i < length; i++) {
+    const randomIndex = Math.floor(Math.random() * characters.length);
+    result += characters[randomIndex];
+  }
+
+  return result;
+}

@@ -6,6 +6,7 @@ import DoubleCircularBarPlot, { FlavorPairDataType } from '../components/DoubleC
 import { normalizeDistances } from 'src/api/neo4j';
 import { calculateScores, sortAndSliceTopN, maxScale } from '../api/calcFunction';
 import { TabContext, TabList, TabPanel } from '@mui/lab';
+import { createSharedFlavorEdges } from '../api/neo4j';
 
 const Constitution: React.FC = () => {
   // 共通のデータストアとして、クリックされたボタンのキーを保存するための状態を管理
@@ -17,8 +18,9 @@ const Constitution: React.FC = () => {
   };
 
   // ペアリングの分析
-  //createSharedFlavorEdges([...selectedMainItems, ...selectedAdditionalEntries])
-
+  const result = createSharedFlavorEdges([...selectedMainItems, ...selectedAdditionalEntries])
+  console.log(result);
+  
   // ペアリングのスコアなどを合計する
   const { paringScore, flavorCount } = calculateScores(selectedMainItems, selectedAdditionalEntries);
   let sortedParingScore = sortAndSliceTopN(paringScore, 15);

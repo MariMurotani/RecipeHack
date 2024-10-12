@@ -22,6 +22,8 @@ const DoubleCircularBarPlot: React.FC<DoubleCircularBarPlotProps> = ({ data }) =
   const outerRadius = Math.min(width, height) / 2;
 
   const drawChart = () => {
+    d3.select(svgRef.current).selectAll("*").remove();
+
     // SVGを初期化
     const svg = d3
       .select(svgRef.current)

@@ -112,7 +112,7 @@ const getCategoriesFromGroup = async (groups: string[]): Promise<Category[]> => 
 }
 
 // Coefficient 分析用のエッジを指定された要素で作成する
-export const createSharedFlavorEdges = async (entries: Entry[]) => {
+export const createSharedFlavorEdges = async (entries: Entry[]): Promise<undefined> => {
   const session = driver.session();
   const entry_ids = entries.map((entry) => entry.id);
 
@@ -166,7 +166,6 @@ export const extractLocalCoefficient = async (entries: Entry[]): Promise<Coeffic
       };
     });
 
-    console.log(result_entries);
     return result_entries;
   } catch (error) {
     console.error('Error executing query:', error);

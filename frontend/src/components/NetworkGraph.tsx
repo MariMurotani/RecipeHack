@@ -10,9 +10,8 @@ const radius = diameter / 2;
 
 export interface DataNode {
   name: string;
-  size?: number;
-  imports?: string[];
-  children?: DataNode[];
+  size: number;
+  imports: string[];
 }
 
 interface NetworkGraphProps {
@@ -29,6 +28,8 @@ const NetworkGraph: React.FC<NetworkGraphProps> = ({ data }) => {
   // D3.jsの処理を直接呼び出す関数に変更
   const drawChart = () => {
     if (!svgRef.current) return;
+
+    d3.select(svgRef.current).selectAll("*").remove();
 
     const svg = d3
       .select(svgRef.current)

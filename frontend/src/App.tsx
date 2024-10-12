@@ -19,30 +19,37 @@ const router = createHashRouter([
       {
         path: "/",
         element: <Home />,
+        errorElement: <NotFound />, 
       },
       {
         path: "/main-group",
         element: <MainGroup />,
+        errorElement: <NotFound />, 
       },
       {
         path: "/group",
         element: <Group />,
+        errorElement: <NotFound />, 
       },
       {
         path: "/paring_search",
         element: <ParingSearch />,
+        errorElement: <NotFound />, 
       },
       {
         path: "/constitution",
         element: <Constitution />,
+        errorElement: <NotFound />, 
       },
       {
         path: "/about",
         element: <About />,
+        errorElement: <NotFound />, 
       },
       {
         path: "*",
         element: <NotFound />,
+        errorElement: <NotFound />, 
       }
     ]
   }

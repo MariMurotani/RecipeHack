@@ -77,7 +77,7 @@ export const ColorMap: { [key: string]: string } = {
   'wine_like': '#B71C1C',  // ワインの赤
   'vinegar': '#B71C1C',  // ワインの赤
   'hyacinth': '#E91E63',   // ヒヤシンスの赤
-  'coumarin': '#FADADD' // 桜の色
+  'coumarin': '#FADADD', // 桜の色
 
   // 青系のカテゴリ
   'fishy': '#4A90E2',      // 魚の青

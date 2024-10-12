@@ -1,0 +1,631 @@
+{
+  "search_metadata": {
+    "id": "670a2c280377560d79331ec8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f187b060f4174689/670a2c280377560d79331ec8.json",
+    "created_at": "2024-10-12 07:58:32 UTC",
+    "processed_at": "2024-10-12 07:58:32 UTC",
+    "google_url": "https://www.google.com/search?q=arabica+coffee&oq=arabica+coffee&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/f187b060f4174689/670a2c280377560d79331ec8.html",
+    "total_time_taken": 1.9
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "arabica coffee",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "arabica coffee",
+    "total_results": 42900000,
+    "time_taken_displayed": 0.34,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "title": "Coffea arabica",
+    "type": "Plant",
+    "entity_type": "biology",
+    "main_tab_text": "Overview",
+    "kgmid": "/m/045bg8",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/045bg8&hl=en-US&q=Coffea+arabica&shndl=17&source=sh/x/kp/osrp/m5/1",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F045bg8&location=Austin%2CTexas%2CUnited+States&q=Coffea+arabica",
+    "tabs": [
+      {
+        "text": "Care",
+        "si": "ACC90nzEzl09ApjeBglZhaPwGX3msG5IpHBcykAny-F5c-QUFqr0Oaj4Y3kXNSOXK7QuEGkz1arR3hroPHqSUmlpCQ5cB8VNEPEN77k4b2RcOHmDfos_81PLkvRMr8kuZdLDNLC_Zufn",
+        "link": "https://www.google.com/search?si=ACC90nzEzl09ApjeBglZhaPwGX3msG5IpHBcykAny-F5c-QUFqr0Oaj4Y3kXNSOXK7QuEGkz1arR3hroPHqSUmlpCQ5cB8VNEPEN77k4b2RcOHmDfos_81PLkvRMr8kuZdLDNLC_Zufn",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=arabica+coffee&si=ACC90nzEzl09ApjeBglZhaPwGX3msG5IpHBcykAny-F5c-QUFqr0Oaj4Y3kXNSOXK7QuEGkz1arR3hroPHqSUmlpCQ5cB8VNEPEN77k4b2RcOHmDfos_81PLkvRMr8kuZdLDNLC_Zufn"
+      },
+      {
+        "text": "Benefits",
+        "si": "ACC90nyedZ5OHuZaEeTOHpMdKlA6SoMkULyAmSsO4GzP565ZhwcaXfHvQU_bUvXHG7wXROTG1e389wwoX-AYa_krAMOzafE4P77IrBuXXI92504maSnm_sLkGz8x9UEd6ZPg6IUijAn3",
+        "link": "https://www.google.com/search?si=ACC90nyedZ5OHuZaEeTOHpMdKlA6SoMkULyAmSsO4GzP565ZhwcaXfHvQU_bUvXHG7wXROTG1e389wwoX-AYa_krAMOzafE4P77IrBuXXI92504maSnm_sLkGz8x9UEd6ZPg6IUijAn3",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=arabica+coffee&si=ACC90nyedZ5OHuZaEeTOHpMdKlA6SoMkULyAmSsO4GzP565ZhwcaXfHvQU_bUvXHG7wXROTG1e389wwoX-AYa_krAMOzafE4P77IrBuXXI92504maSnm_sLkGz8x9UEd6ZPg6IUijAn3"
+      },
+      {
+        "text": "Taste",
+        "si": "ACC90nx3sMnF068b4kQ9EdfDa2hCqa6PYeYpXqkjc-21sGohnNobomcmsL0RkxvM8nPJpATBaezSUgUV9tC2G4Ae_cNOrQbDvQIfoqhJnyVqL2RVDn8X-7zWCtoYRLtUjvsjPba3JoRd",
+        "link": "https://www.google.com/search?si=ACC90nx3sMnF068b4kQ9EdfDa2hCqa6PYeYpXqkjc-21sGohnNobomcmsL0RkxvM8nPJpATBaezSUgUV9tC2G4Ae_cNOrQbDvQIfoqhJnyVqL2RVDn8X-7zWCtoYRLtUjvsjPba3JoRd",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=arabica+coffee&si=ACC90nx3sMnF068b4kQ9EdfDa2hCqa6PYeYpXqkjc-21sGohnNobomcmsL0RkxvM8nPJpATBaezSUgUV9tC2G4Ae_cNOrQbDvQIfoqhJnyVqL2RVDn8X-7zWCtoYRLtUjvsjPba3JoRd"
+      },
+      {
+        "text": "Coffee Shops",
+        "si": "ACC90nyzn38H2kXzFPVPMEOZjBL38QHLIh5wLbAmUKFhlHrvUWrg4w_b1052BInMYnYgTXkKwDiv2Ll34zps6qvOGacKYXsP7KtYOvR_cwsHwjG3TxIGd_0ooE0gFqXuQ8yUrbHolWpsp8afw9QcA9lzLXtzQu0pMg==",
+        "link": "https://www.google.com/search?si=ACC90nyzn38H2kXzFPVPMEOZjBL38QHLIh5wLbAmUKFhlHrvUWrg4w_b1052BInMYnYgTXkKwDiv2Ll34zps6qvOGacKYXsP7KtYOvR_cwsHwjG3TxIGd_0ooE0gFqXuQ8yUrbHolWpsp8afw9QcA9lzLXtzQu0pMg==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=arabica+coffee&si=ACC90nyzn38H2kXzFPVPMEOZjBL38QHLIh5wLbAmUKFhlHrvUWrg4w_b1052BInMYnYgTXkKwDiv2Ll34zps6qvOGacKYXsP7KtYOvR_cwsHwjG3TxIGd_0ooE0gFqXuQ8yUrbHolWpsp8afw9QcA9lzLXtzQu0pMg%3D%3D"
+      },
+      {
+        "text": "Types",
+        "si": "ACC90nxkS6g9igymMZL5OOCF8eMpBh73p-o-QEU5LTptuEAnSpAa0Dm8hdcEGKHjHUDzaJiwB3HzStzHtx4qUR1uCRmXc2chuGiFHy3rpQgcitgHuUZLMuAbdQ8Hzg-cf8I2KeLe9D93",
+        "link": "https://www.google.com/search?si=ACC90nxkS6g9igymMZL5OOCF8eMpBh73p-o-QEU5LTptuEAnSpAa0Dm8hdcEGKHjHUDzaJiwB3HzStzHtx4qUR1uCRmXc2chuGiFHy3rpQgcitgHuUZLMuAbdQ8Hzg-cf8I2KeLe9D93",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=arabica+coffee&si=ACC90nxkS6g9igymMZL5OOCF8eMpBh73p-o-QEU5LTptuEAnSpAa0Dm8hdcEGKHjHUDzaJiwB3HzStzHtx4qUR1uCRmXc2chuGiFHy3rpQgcitgHuUZLMuAbdQ8Hzg-cf8I2KeLe9D93"
+      },
+      {
+        "text": "Characteristics",
+        "si": "ACC90nwPrYQA2jDP3fg7Dsq5-tRjcx2eLE22_0WhQr6FFuiaSXKDO5T0vKg4U6AhJMtB0Aivg9PAZWFs6ijd-u9M-OAFFNUWnKH13h8kPpO35BpEJNjGz6cStSFyQy4WDCn9Pi8Gf6hRBBJEljy6DDV7Gra8hlcpNg==",
+        "link": "https://www.google.com/search?si=ACC90nwPrYQA2jDP3fg7Dsq5-tRjcx2eLE22_0WhQr6FFuiaSXKDO5T0vKg4U6AhJMtB0Aivg9PAZWFs6ijd-u9M-OAFFNUWnKH13h8kPpO35BpEJNjGz6cStSFyQy4WDCn9Pi8Gf6hRBBJEljy6DDV7Gra8hlcpNg==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=arabica+coffee&si=ACC90nwPrYQA2jDP3fg7Dsq5-tRjcx2eLE22_0WhQr6FFuiaSXKDO5T0vKg4U6AhJMtB0Aivg9PAZWFs6ijd-u9M-OAFFNUWnKH13h8kPpO35BpEJNjGz6cStSFyQy4WDCn9Pi8Gf6hRBBJEljy6DDV7Gra8hlcpNg%3D%3D"
+      }
+    ],
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2c280377560d79331ec8/images/972cc1fd742023fab9bddd6fa53b5376a35b66c00f5557a6cacff23f985289c097ad2b076b447a01.jpeg"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2c280377560d79331ec8/images/972cc1fd742023fab9bddd6fa53b5376a35b66c00f5557a68f894d6d508e2b53ca1713f883257739.jpeg"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2c280377560d79331ec8/images/972cc1fd742023fab9bddd6fa53b5376a35b66c00f5557a61296e290664676835d49c7af2ac5a259.jpeg"
+      }
+    ],
+    "description": "Coffea arabica, also known as the Arabica coffee, is a species of flowering plant in the coffee and madder family Rubiaceae. It is believed to be the first species of coffee to have been cultivated and is the dominant cultivar, representing about 60% of global production.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Coffea_arabica"
+    },
+    "scientific_name": "Coffea arabica",
+    "family": "Rubiaceae",
+    "caffeine_per_gram": "about 12 milligrams recycleacup.com",
+    "genus": "Coffea",
+    "kingdom": "Plantae",
+    "order": "Gentianales",
+    "order_links": [
+      {
+        "text": "Gentianales",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Gentianales&stick=H4sIAAAAAAAAAONgVuLQz9U3SDNJzlnEyu2emleSmZiXmJNaDACBO7zPGgAAAA&sa=X&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQmxMoAHoECBUQAg"
+      }
+    ],
+    "web_results": [
+      {
+        "thumbnail": "https://serpapi.com/searches/670a2c280377560d79331ec8/images/972cc1fd742023fab9bddd6fa53b53763eaf755a11a17d9aeb5bb2d5e74f2b653298b154345a6cc4.jpeg",
+        "title": "What are Arabica coffee beans and why do they matter?",
+        "snippet": "Arabica coffee is the most popular coffee bean in the world, accounting for around 64% of global coffee production. It originated in the highlands of Ethiopia.",
+        "link": "https://www.linkedin.com/posts/semehar-kt-315435174_types-of-coffee-beans-arabica-coffee-activity-7162915221936799744--IWD"
+      },
+      {
+        "title": "Family",
+        "snippet": "Madder family",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Rubiaceae&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmziz_xJbWyK3aS-sNAsyvo5LoFE3YRQioIS2OjMKYCIotMlOXVop8Iyf1zc4mf2S-h7f__xzb9bUcgnwtN7CJSXc3iowAUpHoigU0vXt1CvuYdMAzzrfLUCn9Qb6Zn5MirAQFnNAKIHhgZWKYtYe-iWubjo_&sa=X&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQ18AJegQIIRAB"
+      },
+      {
+        "title": "Scientific name",
+        "snippet": "Coffea arabica",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=coffea+arabica+scientific+name&stick=H4sIAAAAAAAAAOPgE-LUz9U3MDFNSrfQMs5OttJPyszPyU-v1M8vSk_MyyzOjU_OSSwuzkzLTE4syczPsypOzkzNKwHxFfISc1MXscol56elpSYqJBYlJgEVKaApAAAGnVjqYwAAAA&sa=X&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQ18AJegQIIxAB"
+      },
+      {
+        "thumbnail": "https://serpapi.com/searches/670a2c280377560d79331ec8/images/972cc1fd742023fab9bddd6fa53b53763eaf755a11a17d9a3ba2b52fea6abbd975b5974b5646db89.jpeg",
+        "title": "The Complete Guide to Arabica Coffee Varieties",
+        "source": "YouTube \u2022 Charcoal Coffee",
+        "source_image": "https://serpapi.com/searches/670a2c280377560d79331ec8/images/972cc1fd742023fab9bddd6fa53b53763eaf755a11a17d9a04febf0fc34b717198cf9cd41224abba7e2e4fc187ba37d7.png",
+        "link": "https://www.youtube.com/watch?v=NcM2HXzXbQM",
+        "duration": "23:36"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Robusta coffee",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L9cguuiU07Qh0QsIqSgX5QSgww0cIx-HOV2265qoxN2-RH6jiX3VYSUXSiW4n3RYLiu_F0o9zJNRwkhSrYf7vq31t0DE9gw1EPVqPk9_BjUpxHSqawgiiWoNKC9McTWYDfFM9kdcriuz2ampABnXeqArU_aBS5nGEHSY5tzaDEqJpTfNzVB8jUshAg-QeJWkHfpk3p2sARBosX_f4wbPHLtiCh0wy2Dm8JE495Oixihk3ovPFoFF_By2CWy0q-xIOWELCnM%3D&q=Robusta+coffee&sa=X&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQs9oBKAB6BAgSEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Robusta+coffee&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L9cguuiU07Qh0QsIqSgX5QSgww0cIx-HOV2265qoxN2-RH6jiX3VYSUXSiW4n3RYLiu_F0o9zJNRwkhSrYf7vq31t0DE9gw1EPVqPk9_BjUpxHSqawgiiWoNKC9McTWYDfFM9kdcriuz2ampABnXeqArU_aBS5nGEHSY5tzaDEqJpTfNzVB8jUshAg-QeJWkHfpk3p2sARBosX_f4wbPHLtiCh0wy2Dm8JE495Oixihk3ovPFoFF_By2CWy0q-xIOWELCnM%3D",
+        "image": "https://serpapi.com/searches/670a2c280377560d79331ec8/images/972cc1fd742023fab9bddd6fa53b5376504ad3cce60519fe040066ea75a64d936af0716d1080c51c1b6a909dce73f4db.jpeg"
+      },
+      {
+        "name": "Coffee",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep1m5pOiRP031CpYA96F11t3uJFwSKTCNplONZ_2eaCGAHUmxqbpU86h7pkAsRSe343-Ww58nn9Ci975Z4QDIVnVlFhB0PbZOT2pG-x_dPF_HqXfM9mMzyrUs277FzqTLdkcSl3-Y_CMApi8ajQDKF1EiOnk5G4NYF1Cnkl_B3p84UGL96vpUQTx1NdU5DYiFJRBytCBxFgx8FFLfeDG7OEyiPaiesnjmsnBhMw8rFcTgHr7fYqYd9HhRwnaVrN4oMIW5qzk%3D&q=Coffea&sa=X&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQs9oBKAB6BAgSEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Coffea&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep1m5pOiRP031CpYA96F11t3uJFwSKTCNplONZ_2eaCGAHUmxqbpU86h7pkAsRSe343-Ww58nn9Ci975Z4QDIVnVlFhB0PbZOT2pG-x_dPF_HqXfM9mMzyrUs277FzqTLdkcSl3-Y_CMApi8ajQDKF1EiOnk5G4NYF1Cnkl_B3p84UGL96vpUQTx1NdU5DYiFJRBytCBxFgx8FFLfeDG7OEyiPaiesnjmsnBhMw8rFcTgHr7fYqYd9HhRwnaVrN4oMIW5qzk%3D",
+        "image": "https://serpapi.com/searches/670a2c280377560d79331ec8/images/972cc1fd742023fab9bddd6fa53b5376504ad3cce60519fe040066ea75a64d931084cf36e276b5d0bcb0b7eb9a4dc680.jpeg"
+      },
+      {
+        "name": "Coffea liberica",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQbRtDfD48Lcq0jIY8GxDYfP7yxW4WstAXJ-hfzsaRw9Xyu0pWNBb4DTXqDLcgN3vmrkBXHiDYORg3jv2grkJ72DK0rkLumZyHAUN_NtfE7fW1D6Ymq0qyHurPQFtzLEzfqK3IdEtTEklCpbKkmKZlREtey-VdhShHlrXT-o1DgdwYeSAngkDtaQJ3cuKgN7G3ChTwVszRVAcJdQmdgJqzsvEomsafPFy5zO7P_EQPk0iXUqFBYtRAQ2OIUXta6NJZV1yR08%3D&q=Coffea+liberica&sa=X&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQs9oBKAB6BAgSEA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Coffea+liberica&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQbRtDfD48Lcq0jIY8GxDYfP7yxW4WstAXJ-hfzsaRw9Xyu0pWNBb4DTXqDLcgN3vmrkBXHiDYORg3jv2grkJ72DK0rkLumZyHAUN_NtfE7fW1D6Ymq0qyHurPQFtzLEzfqK3IdEtTEklCpbKkmKZlREtey-VdhShHlrXT-o1DgdwYeSAngkDtaQJ3cuKgN7G3ChTwVszRVAcJdQmdgJqzsvEomsafPFy5zO7P_EQPk0iXUqFBYtRAQ2OIUXta6NJZV1yR08%3D",
+        "image": "https://serpapi.com/searches/670a2c280377560d79331ec8/images/972cc1fd742023fab9bddd6fa53b5376504ad3cce60519fe040066ea75a64d93521b1fc87b0f70d55000a96cec83211c.jpeg"
+      },
+      {
+        "name": "Oat",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm9JS8dLDKcQv0leLtkVZVag1aUiXRWon0D8OjB4YBCLdiIrUDht-CxHMuTH4Zd9Rjk1Dl-h_njHPx7nX7LRxvONt5S2LGa_HGkmWIQwyF-5jf1fo99E75S18yXP4XwSmj5GkjxyzNo1-hRBaxlVdc2_YLbC3bECiidaXIYNhy593KEhvJ92k5QFG_96ptTLZxcVS_QDvSUI_fqehIpuVWWrxlppcHBpQL-MYXOJEfHK6QExUMA%3D%3D&q=Oat&sa=X&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQs9oBKAB6BAgSEBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Oat&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm9JS8dLDKcQv0leLtkVZVag1aUiXRWon0D8OjB4YBCLdiIrUDht-CxHMuTH4Zd9Rjk1Dl-h_njHPx7nX7LRxvONt5S2LGa_HGkmWIQwyF-5jf1fo99E75S18yXP4XwSmj5GkjxyzNo1-hRBaxlVdc2_YLbC3bECiidaXIYNhy593KEhvJ92k5QFG_96ptTLZxcVS_QDvSUI_fqehIpuVWWrxlppcHBpQL-MYXOJEfHK6QExUMA%3D%3D",
+        "image": "https://serpapi.com/searches/670a2c280377560d79331ec8/images/972cc1fd742023fab9bddd6fa53b5376504ad3cce60519fe040066ea75a64d9348123b77d466d93e75a573edb07f501f.jpeg"
+      }
+    ]
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "The Complete Guide to Arabica Coffee Varieties",
+      "link": "https://www.youtube.com/watch?v=NcM2HXzXbQM",
+      "thumbnail": "https://i.ytimg.com/vi/NcM2HXzXbQM/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3n-EO7aR3trAs1vorInJLaakCWg8g",
+      "channel": "Charcoal Coffee",
+      "duration": "23:36",
+      "platform": "YouTube",
+      "date": "May 30, 2024",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Introduction to Arabica Coffee",
+          "link": "https://www.youtube.com/watch?v=NcM2HXzXbQM&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBV-PuANDtiovdBEbLG5nvqqc8GH-237RJJjh22JwrIA&s"
+        },
+        {
+          "time": "00:30",
+          "title": "Typica and Bourbon Overview",
+          "link": "https://www.youtube.com/watch?v=NcM2HXzXbQM&t=30",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEVCZX82Rir1s_hSRu-gir3ATXd_3B2WIXmNdQ2vX99w&s"
+        },
+        {
+          "time": "01:29",
+          "title": "Typica: Characteristics and History",
+          "link": "https://www.youtube.com/watch?v=NcM2HXzXbQM&t=89",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBNsSCw5u9DzCShi8gpjhsB2CPrrezV4toY0ugz4MuWA&s"
+        },
+        {
+          "time": "02:01",
+          "title": "Bourbon: Characteristics and History",
+          "link": "https://www.youtube.com/watch?v=NcM2HXzXbQM&t=121",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxR0j0068puCRyKeIRX59Txumd6q-V-Qg7i8N5GlyFWQ&s"
+        },
+        {
+          "time": "02:38",
+          "title": "Regional Variations and Flavour Profiles",
+          "link": "https://www.youtube.com/watch?v=NcM2HXzXbQM&t=158",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4LMHY38m8tK4cjscjmYam8mY5f_cobu3sLPFzEImkBg&s"
+        },
+        {
+          "time": "03:11",
+          "title": "Influence on Other Arabica Cultivars",
+          "link": "https://www.youtube.com/watch?v=NcM2HXzXbQM&t=191",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrahMGoOWSbYgzvUGBzyAtokkpbmMZLqYDKuOEO287PA&s"
+        },
+        {
+          "time": "03:32",
+          "title": "Introduction to Ethiopian Heirlooms",
+          "link": "https://www.youtube.com/watch?v=NcM2HXzXbQM&t=212",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7TeED8TC2mMdB-yfPn82T-MfS41DSsYZ2a_o5H2FB2w&s"
+        },
+        {
+          "time": "05:05",
+          "title": "Notable Ethiopian Varieties",
+          "link": "https://www.youtube.com/watch?v=NcM2HXzXbQM&t=305",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXOpyWy8Xw6Hd7kpk-ZqepvVUfvBiVDJXmkhhQgl7-Q&s"
+        },
+        {
+          "time": "06:18",
+          "title": "Evolution and Adaptation in the New World",
+          "link": "https://www.youtube.com/watch?v=NcM2HXzXbQM&t=378",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdjbCWiiyIVJH6u6-WFEP1kBrefi6_1rr_GlrNQ7nN0g&s"
+        },
+        {
+          "time": "06:44",
+          "title": "Caturra, Catuai, Mundo Novo, and Pacamara",
+          "link": "https://www.youtube.com/watch?v=NcM2HXzXbQM&t=404",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7PbadePgzUuP1kopRU1ZKjXRBMNyUEIQGB_4cbox-gg&s"
+        },
+        {
+          "time": "09:25",
+          "title": "Adaptations Across Regions: Colombian and Costa Rican Coffee",
+          "link": "https://www.youtube.com/watch?v=NcM2HXzXbQM&t=565",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsrHXbc5Ms4eNUXUrOrXw5mgFLFCFOMwGLyPKISAHWeA&s"
+        },
+        {
+          "time": "10:46",
+          "title": "Gesha: Introduction, History, and Rise to Fame",
+          "link": "https://www.youtube.com/watch?v=NcM2HXzXbQM&t=646",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgTflrHszZv95OMAOg0_wc5pEyI1W6BlaQy-rhM-LsPQ&s"
+        },
+        {
+          "time": "13:37",
+          "title": "Impact of Gesha on the Specialty Coffee Industry",
+          "link": "https://www.youtube.com/watch?v=NcM2HXzXbQM&t=817",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlN60zzxXmuaQh-4siyb2opuypY-ZcGGWvUpIqf49gEw&s"
+        },
+        {
+          "time": "15:07",
+          "title": "Asian and Pacific Coffee Varieties",
+          "link": "https://www.youtube.com/watch?v=NcM2HXzXbQM&t=907",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYiuAZnYhPKoZzy3yElLM7rbyn0ZaftWZjxPBI2rA6EA&s"
+        },
+        {
+          "time": "18:31",
+          "title": "Rare and Exotic Arabica Varieties",
+          "link": "https://www.youtube.com/watch?v=NcM2HXzXbQM&t=1111",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-xy0Fg32s0zrAOm36zepnJEOzlC00r8bI1efycLyrCQ&s"
+        },
+        {
+          "time": "21:37",
+          "title": "Summary, Future of Arabica Coffee, and Industry Challenges",
+          "link": "https://www.youtube.com/watch?v=NcM2HXzXbQM&t=1297",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXErc0dk28pcBxazGRTbeXMU3e_HlKcRMECf8btlrtXg&s"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "ARABICA VS ROBUSTA: WHAT ARE THE DIFFERENCES?",
+      "link": "https://m.youtube.com/watch?v=2EcacHlYEdU",
+      "thumbnail": "https://i.ytimg.com/vi/2EcacHlYEdU/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3nucUpkquHQaf9vvOjH7xDOVRcc6g",
+      "channel": "MaxiCoffee - UK",
+      "duration": "3:24",
+      "platform": "YouTube",
+      "date": "1 month ago"
+    },
+    {
+      "position": 3,
+      "title": "Arabica vs. Robusta Coffee Differences & Tasting Profiles",
+      "link": "https://www.youtube.com/watch?v=ERBgMrDx6zQ",
+      "thumbnail": "https://i.ytimg.com/vi/ERBgMrDx6zQ/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3lDEpn29Dypsx1Oo9GBgtJiwGxvwg",
+      "channel": "Ispirare Coffee",
+      "duration": "6:08",
+      "platform": "YouTube",
+      "date": "Apr 24, 2024"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is so special about Arabica coffee?",
+      "snippet": "Arabica Coffee And What Makes It Special It is grown at high altitudes in regions with a tropical climate, such as Central and South America, Africa, and Asia. Arabica beans have a smoother, sweeter, and more nuanced flavour than other coffee types, with notes of fruit, chocolate, nuts, and caramel.",
+      "title": "Exploring the World of Specialty Arabica Coffee",
+      "date": "Feb 23, 2023",
+      "link": "https://www.thirdwavecoffeeroasters.com/blogs/blog/exploring-the-world-of-specialty-arabica-coffee#:~:text=Arabica%20Coffee%20And%20What%20Makes%20It%20Special&text=It%20is%20grown%20at%20high,chocolate%2C%20nuts%2C%20and%20caramel.",
+      "source_logo": "https://serpapi.com/searches/670a2c280377560d79331ec8/images/629b1abe029157005ce0d0daee996ce02ab27410775abf0243b25de850b0636a.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVNVNWhZV0ZvVVdoUU5ISnlSRnBxZDJOV01pMVVVRkptVm5odVFVeG1WM0pCUjNwdFUyVmljbEZHYUdWWlVXUmhUWEJCYUVWWGQyNWpNalZ0YjFOaFNVOVhOblZqRWhkTFEzZExXamxUVTAxMlIxWjNZbXRRTWsxcVFtbEJheG9pUVVaWWNrVmpjVjlLYWs4eVYxZE1iMnRFVjNKWVNIa3RaRkZwVjI5VFUxVlBkdyIsImZjdiI6IjMiLCJlaSI6IktDd0taOVNTTXZHVndia1AyTWpCaUFrIiwicWMiOiJDZzVoY21GaWFXTmhJR052Wm1abFpSQUFmYkk2S1Q4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHNvIHNwZWNpYWwgYWJvdXQgQXJhYmljYSBjb2ZmZWU/IiwibGsiOiJHaWQzYUdGMElHbHpJSE52SUhOd1pXTnBZV3dnWVdKdmRYUWdZWEpoWW1sallTQmpiMlptWldVIiwiYnMiOiJjNVdQTVFyQ1FCQkZzVjBid1Nha21zcEUxQ1lYMEdobExSaExaOWZSTE1hczdHN1lBOWhaZXdMUDVrRk1JSXBHUkd5SDlfLTh6MVlzVEZLMElBMFlCZVpJUW1JR3lGVmhJZGJJcFVBUWFyc2xHbnNuRl9YOXdIM0Q4UTFuNXhhTEg5VTJKZGpJOHF3cEZ3U2NyQ1BLUWRPdXlGRFhDY0I4OF9IekVrZFRmLUwtN21uSUxGa3dON0N3cUhraDl1WkoxcFRTb0JVdmpNV3hkMnRIb2QtckJ2Nm0yWm9OazFTS3RKSXJiU3hwbUtsTUhiakV2T0thYzY3ZGFPUVBYQ01pWGlQdjVwM1dIUSIsImlkIjoiZmNfS0N3S1o5U1NNdkdWd2JrUDJNakJpQWtfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVNVNWhZV0ZvVVdoUU5ISnlSRnBxZDJOV01pMVVVRkptVm5odVFVeG1WM0pCUjNwdFUyVmljbEZHYUdWWlVXUmhUWEJCYUVWWGQyNWpNalZ0YjFOaFNVOVhOblZqRWhkTFEzZExXamxUVTAxMlIxWjNZbXRRTWsxcVFtbEJheG9pUVVaWWNrVmpjVjlLYWs4eVYxZE1iMnRFVjNKWVNIa3RaRkZwVjI5VFUxVlBkdyIsImZjdiI6IjMiLCJlaSI6IktDd0taOVNTTXZHVndia1AyTWpCaUFrIiwicWMiOiJDZzVoY21GaWFXTmhJR052Wm1abFpSQUFmYkk2S1Q4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHNvIHNwZWNpYWwgYWJvdXQgQXJhYmljYSBjb2ZmZWU%2FIiwibGsiOiJHaWQzYUdGMElHbHpJSE52SUhOd1pXTnBZV3dnWVdKdmRYUWdZWEpoWW1sallTQmpiMlptWldVIiwiYnMiOiJjNVdQTVFyQ1FCQkZzVjBid1Nha21zcEUxQ1lYMEdobExSaExaOWZSTE1hczdHN1lBOWhaZXdMUDVrRk1JSXBHUkd5SDlfLTh6MVlzVEZLMElBMFlCZVpJUW1JR3lGVmhJZGJJcFVBUWFyc2xHbnNuRl9YOXdIM0Q4UTFuNXhhTEg5VTJKZGpJOHF3cEZ3U2NyQ1BLUWRPdXlGRFhDY0I4OF9IekVrZFRmLUwtN21uSUxGa3dON0N3cUhraDl1WkoxcFRTb0JVdmpNV3hkMnRIb2QtckJ2Nm0yWm9OazFTS3RKSXJiU3hwbUtsTUhiakV2T0thYzY3ZGFPUVBYQ01pWGlQdjVwM1dIUSIsImlkIjoiZmNfS0N3S1o5U1NNdkdWd2JrUDJNakJpQWtfMSJ9"
+    },
+    {
+      "question": "What is the difference between regular coffee and Arabica coffee?",
+      "snippet": "Despite containing less caffeine than Robusta, Arabica beans are often considered superior in taste. Arabica tends to have a smoother, sweeter taste, with flavour notes of chocolate and sugar. They often also have hints of fruits or berries.",
+      "title": "Arabica Beans vs Robusta Beans. What's the Difference? - Perk Coffee",
+      "link": "https://perkcoffee.co/sg/arabica-beans-vs-robusta-beans-whats-difference/#:~:text=Despite%20containing%20less%20caffeine%20than,hints%20of%20fruits%20or%20berries.",
+      "source_logo": "https://serpapi.com/searches/670a2c280377560d79331ec8/images/629b1abe029157005ce0d0daee996ce05564a6de034ec1ed4d30f7de6666c832.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVNVNWhZV0ZvVVdoUU5ISnlSRnBxZDJOV01pMVVVRkptVm5odVFVeG1WM0pCUjNwdFUyVmljbEZHYUdWWlVXUmhUWEJCYUVWWGQyNWpNalZ0YjFOaFNVOVhOblZqRWhkTFEzZExXamxUVTAxMlIxWjNZbXRRTWsxcVFtbEJheG9pUVVaWWNrVmpjVjlLYWs4eVYxZE1iMnRFVjNKWVNIa3RaRkZwVjI5VFUxVlBkdyIsImZjdiI6IjMiLCJlaSI6IktDd0taOVNTTXZHVndia1AyTWpCaUFrIiwicWMiOiJDZzVoY21GaWFXTmhJR052Wm1abFpSQUFmYkk2S1Q4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gcmVndWxhciBjb2ZmZWUgYW5kIEFyYWJpY2EgY29mZmVlPyIsImxrIjoiY3kzSnNRMkFNQXdFd0Qyb2ZoUlctVGdmWWdrWnlSaGxmU2hvNzdaOVRSYjhSazJoLXhoS2hRbE50YVJBNm5oT0p1ejZTbUIwTU5uYy1OTUwiLCJicyI6ImM1V1BNUXJDUUJCRnNWMGJ3U2FrbXNwRTFDWVgwR2hsTFJoTFo5ZlJMTWFzN0c3WUE5aFpld0xQNWtGTUlJcEdSR3lIOV8tOHoxWXNURkswSUEwWUJlWklRbUlHeUZWaElkYklwVUFRYXJzbEduc25GX1g5d0gzRDhRMW41eGFMSDlVMkpkakk4cXdwRndTY3JDUEtRZE91eUZEWENjQjg4X0h6RWtkVGYtTC03bW5JTEZrd043Q3dxSGtoOXVaSjFwVFNvQlV2ak1XeGQydEhvZC1yQnY2bTJab05rMVNLdEpJcmJTeHBtS2xNSGJqRXZPS2FjNjdkYU9RUFhDTWlYaVB2NXAzV0hRIiwiaWQiOiJmY19LQ3dLWjlTU012R1Z3YmtQMk1qQmlBa18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVNVNWhZV0ZvVVdoUU5ISnlSRnBxZDJOV01pMVVVRkptVm5odVFVeG1WM0pCUjNwdFUyVmljbEZHYUdWWlVXUmhUWEJCYUVWWGQyNWpNalZ0YjFOaFNVOVhOblZqRWhkTFEzZExXamxUVTAxMlIxWjNZbXRRTWsxcVFtbEJheG9pUVVaWWNrVmpjVjlLYWs4eVYxZE1iMnRFVjNKWVNIa3RaRkZwVjI5VFUxVlBkdyIsImZjdiI6IjMiLCJlaSI6IktDd0taOVNTTXZHVndia1AyTWpCaUFrIiwicWMiOiJDZzVoY21GaWFXTmhJR052Wm1abFpSQUFmYkk2S1Q4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gcmVndWxhciBjb2ZmZWUgYW5kIEFyYWJpY2EgY29mZmVlPyIsImxrIjoiY3kzSnNRMkFNQXdFd0Qyb2ZoUlctVGdmWWdrWnlSaGxmU2hvNzdaOVRSYjhSazJoLXhoS2hRbE50YVJBNm5oT0p1ejZTbUIwTU5uYy1OTUwiLCJicyI6ImM1V1BNUXJDUUJCRnNWMGJ3U2FrbXNwRTFDWVgwR2hsTFJoTFo5ZlJMTWFzN0c3WUE5aFpld0xQNWtGTUlJcEdSR3lIOV8tOHoxWXNURkswSUEwWUJlWklRbUlHeUZWaElkYklwVUFRYXJzbEduc25GX1g5d0gzRDhRMW41eGFMSDlVMkpkakk4cXdwRndTY3JDUEtRZE91eUZEWENjQjg4X0h6RWtkVGYtTC03bW5JTEZrd043Q3dxSGtoOXVaSjFwVFNvQlV2ak1XeGQydEhvZC1yQnY2bTJab05rMVNLdEpJcmJTeHBtS2xNSGJqRXZPS2FjNjdkYU9RUFhDTWlYaVB2NXAzV0hRIiwiaWQiOiJmY19LQ3dLWjlTU012R1Z3YmtQMk1qQmlBa18xIn0%3D"
+    },
+    {
+      "question": "Is Starbucks coffee arabica or robusta?",
+      "snippet": "\u201cIt can be elegant. It can be complex. It can have body and acidity that is interesting and can be used and played with and blended into new, interesting tastes,\u201d Robinson said. That's why Starbucks only buys arabica coffee beans.",
+      "title": "arabica coffee beans",
+      "link": "https://athome.starbucks.com/learn/arabica-coffee-vs-robusta-coffee-beans#:~:text=%E2%80%9CIt%20can%20be%20elegant.,only%20buys%20arabica%20coffee%20beans.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR422-uhJqnbw6UmFNitDEy0uSSF-s1MNcZgt_DZCfJWq59TE6JxqflO6PoWw&s",
+      "source_logo": "https://serpapi.com/searches/670a2c280377560d79331ec8/images/629b1abe029157005ce0d0daee996ce0daaec697fa048195abf39ee288932d9e.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVNVNWhZV0ZvVVdoUU5ISnlSRnBxZDJOV01pMVVVRkptVm5odVFVeG1WM0pCUjNwdFUyVmljbEZHYUdWWlVXUmhUWEJCYUVWWGQyNWpNalZ0YjFOaFNVOVhOblZqRWhkTFEzZExXamxUVTAxMlIxWjNZbXRRTWsxcVFtbEJheG9pUVVaWWNrVmpjVjlLYWs4eVYxZE1iMnRFVjNKWVNIa3RaRkZwVjI5VFUxVlBkdyIsImZjdiI6IjMiLCJlaSI6IktDd0taOVNTTXZHVndia1AyTWpCaUFrIiwicWMiOiJDZzVoY21GaWFXTmhJR052Wm1abFpSQUFmYkk2S1Q4IiwicXVlc3Rpb24iOiJJcyBTdGFyYnVja3MgY29mZmVlIGFyYWJpY2Egb3Igcm9idXN0YT8iLCJsayI6IkdpWnBjeUJ6ZEdGeVluVmphM01nWTI5bVptVmxJR0Z5WVdKcFkyRWdiM0lnY205aWRYTjBZUSIsImJzIjoiYzVXUE1RckNRQkJGc1YwYndTYWttc3BFMUNZWDBHaGxMUmhMWjlmUkxNYXM3RzdZQTloWmV3TFA1a0ZNSUlwR1JHeUg5Xy04ejFZc1RGSzBJQTBZQmVaSVFtSUd5RlZoSWRiSXBVQVFhcnNsR25zbkZfWDl3SDNEOFExbjV4YUxIOVUySmRqSThxd3BGd1NjckNQS1FkT3V5RkRYQ2NCODhfSHpFa2RUZi1MLTdtbklMRmt3TjdDd3FIa2g5dVpKMXBUU29CVXZqTVd4ZDJ0SG9kLXJCdjZtMlpvTmsxU0t0SklyYlN4cG1LbE1IYmpFdk9LYWM2N2RhT1FQWENNaVhpUHY1cDNXSFEiLCJpZCI6ImZjX0tDd0taOVNTTXZHVndia1AyTWpCaUFrXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVNVNWhZV0ZvVVdoUU5ISnlSRnBxZDJOV01pMVVVRkptVm5odVFVeG1WM0pCUjNwdFUyVmljbEZHYUdWWlVXUmhUWEJCYUVWWGQyNWpNalZ0YjFOaFNVOVhOblZqRWhkTFEzZExXamxUVTAxMlIxWjNZbXRRTWsxcVFtbEJheG9pUVVaWWNrVmpjVjlLYWs4eVYxZE1iMnRFVjNKWVNIa3RaRkZwVjI5VFUxVlBkdyIsImZjdiI6IjMiLCJlaSI6IktDd0taOVNTTXZHVndia1AyTWpCaUFrIiwicWMiOiJDZzVoY21GaWFXTmhJR052Wm1abFpSQUFmYkk2S1Q4IiwicXVlc3Rpb24iOiJJcyBTdGFyYnVja3MgY29mZmVlIGFyYWJpY2Egb3Igcm9idXN0YT8iLCJsayI6IkdpWnBjeUJ6ZEdGeVluVmphM01nWTI5bVptVmxJR0Z5WVdKcFkyRWdiM0lnY205aWRYTjBZUSIsImJzIjoiYzVXUE1RckNRQkJGc1YwYndTYWttc3BFMUNZWDBHaGxMUmhMWjlmUkxNYXM3RzdZQTloWmV3TFA1a0ZNSUlwR1JHeUg5Xy04ejFZc1RGSzBJQTBZQmVaSVFtSUd5RlZoSWRiSXBVQVFhcnNsR25zbkZfWDl3SDNEOFExbjV4YUxIOVUySmRqSThxd3BGd1NjckNQS1FkT3V5RkRYQ2NCODhfSHpFa2RUZi1MLTdtbklMRmt3TjdDd3FIa2g5dVpKMXBUU29CVXZqTVd4ZDJ0SG9kLXJCdjZtMlpvTmsxU0t0SklyYlN4cG1LbE1IYmpFdk9LYWM2N2RhT1FQWENNaVhpUHY1cDNXSFEiLCJpZCI6ImZjX0tDd0taOVNTTXZHVndia1AyTWpCaUFrXzEifQ%3D%3D"
+    },
+    {
+      "question": "Which is better Colombian or Arabica coffee?",
+      "snippet": "The best coffee of course depends on your own taste preferences. Most coffee enthusiasts, however, would agree that Colombian coffee is better than Arabica coffee. There is nothing wrong with having your own preferences different from those of the majority.",
+      "title": "Difference between Arabica and Colombian coffee \u2013 Coffee and USA",
+      "date": "Sep 3, 2021",
+      "link": "https://coffeeandusa.com/2021/09/03/coffee-and-usa-difference-between-arabica-and-colombian-coffee/#:~:text=The%20best%20coffee%20of%20course,from%20those%20of%20the%20majority.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ68vnnMHi8An18476KF2WYnqUq2JCiGv-KHK3OjLh3V8vgzpz5BMm1dnPAUA&s",
+      "source_logo": "https://serpapi.com/searches/670a2c280377560d79331ec8/images/629b1abe029157005ce0d0daee996ce00356fef209ca2fdbf36dea0c8a31bd94.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVNVNWhZV0ZvVVdoUU5ISnlSRnBxZDJOV01pMVVVRkptVm5odVFVeG1WM0pCUjNwdFUyVmljbEZHYUdWWlVXUmhUWEJCYUVWWGQyNWpNalZ0YjFOaFNVOVhOblZqRWhkTFEzZExXamxUVTAxMlIxWjNZbXRRTWsxcVFtbEJheG9pUVVaWWNrVmpjVjlLYWs4eVYxZE1iMnRFVjNKWVNIa3RaRkZwVjI5VFUxVlBkdyIsImZjdiI6IjMiLCJlaSI6IktDd0taOVNTTXZHVndia1AyTWpCaUFrIiwicWMiOiJDZzVoY21GaWFXTmhJR052Wm1abFpSQUFmYkk2S1Q4IiwicXVlc3Rpb24iOiJXaGljaCBpcyBiZXR0ZXIgQ29sb21iaWFuIG9yIEFyYWJpY2EgY29mZmVlPyIsImxrIjoiR2l0M2FHbGphQ0JwY3lCaVpYUjBaWElnWTI5c2IyMWlhV0Z1SUc5eUlHRnlZV0pwWTJFZ1kyOW1abVZsIiwiYnMiOiJjNVdQTVFyQ1FCQkZzVjBid1Nha21zcEUxQ1lYMEdobExSaExaOWZSTE1hczdHN1lBOWhaZXdMUDVrRk1JSXBHUkd5SDlfLTh6MVlzVEZLMElBMFlCZVpJUW1JR3lGVmhJZGJJcFVBUWFyc2xHbnNuRl9YOXdIM0Q4UTFuNXhhTEg5VTJKZGpJOHF3cEZ3U2NyQ1BLUWRPdXlGRFhDY0I4OF9IekVrZFRmLUwtN21uSUxGa3dON0N3cUhraDl1WkoxcFRTb0JVdmpNV3hkMnRIb2QtckJ2Nm0yWm9OazFTS3RKSXJiU3hwbUtsTUhiakV2T0thYzY3ZGFPUVBYQ01pWGlQdjVwM1dIUSIsImlkIjoiZmNfS0N3S1o5U1NNdkdWd2JrUDJNakJpQWtfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVNVNWhZV0ZvVVdoUU5ISnlSRnBxZDJOV01pMVVVRkptVm5odVFVeG1WM0pCUjNwdFUyVmljbEZHYUdWWlVXUmhUWEJCYUVWWGQyNWpNalZ0YjFOaFNVOVhOblZqRWhkTFEzZExXamxUVTAxMlIxWjNZbXRRTWsxcVFtbEJheG9pUVVaWWNrVmpjVjlLYWs4eVYxZE1iMnRFVjNKWVNIa3RaRkZwVjI5VFUxVlBkdyIsImZjdiI6IjMiLCJlaSI6IktDd0taOVNTTXZHVndia1AyTWpCaUFrIiwicWMiOiJDZzVoY21GaWFXTmhJR052Wm1abFpSQUFmYkk2S1Q4IiwicXVlc3Rpb24iOiJXaGljaCBpcyBiZXR0ZXIgQ29sb21iaWFuIG9yIEFyYWJpY2EgY29mZmVlPyIsImxrIjoiR2l0M2FHbGphQ0JwY3lCaVpYUjBaWElnWTI5c2IyMWlhV0Z1SUc5eUlHRnlZV0pwWTJFZ1kyOW1abVZsIiwiYnMiOiJjNVdQTVFyQ1FCQkZzVjBid1Nha21zcEUxQ1lYMEdobExSaExaOWZSTE1hczdHN1lBOWhaZXdMUDVrRk1JSXBHUkd5SDlfLTh6MVlzVEZLMElBMFlCZVpJUW1JR3lGVmhJZGJJcFVBUWFyc2xHbnNuRl9YOXdIM0Q4UTFuNXhhTEg5VTJKZGpJOHF3cEZ3U2NyQ1BLUWRPdXlGRFhDY0I4OF9IekVrZFRmLUwtN21uSUxGa3dON0N3cUhraDl1WkoxcFRTb0JVdmpNV3hkMnRIb2QtckJ2Nm0yWm9OazFTS3RKSXJiU3hwbUtsTUhiakV2T0thYzY3ZGFPUVBYQ01pWGlQdjVwM1dIUSIsImlkIjoiZmNfS0N3S1o5U1NNdkdWd2JrUDJNakJpQWtfMSJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "% ARABICA US",
+      "link": "https://arabicacoffeeus.com/?srsltid=AfmBOopqrB7EL7zXnaBd7hrn_YEeK6SUXqQ8Mp4X4o7YTt9dHr68qb2b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://arabicacoffeeus.com/%3Fsrsltid%3DAfmBOopqrB7EL7zXnaBd7hrn_YEeK6SUXqQ8Mp4X4o7YTt9dHr68qb2b&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQFnoECEYQAQ&usg=AOvVaw1gDEmBpjPgnNGgPEjKvAmd",
+      "displayed_link": "https://arabicacoffeeus.com",
+      "thumbnail": "https://serpapi.com/searches/670a2c280377560d79331ec8/images/750ecdc472b24e7a66155e0fb99f8c71b9fa1a060e0a0093a08a97c43acc0814.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2c280377560d79331ec8/images/750ecdc472b24e7a66155e0fb99f8c7118a728f56d2219c4ec88a2af59dc1530.png",
+      "snippet": "ARABICA USA. Shop freshly roasted coffee beans from the world's finest growing regions. Visit us in New York, Los Angeles and 170+ other locations around ...",
+      "snippet_highlighted_words": [
+        "ARABICA",
+        "coffee beans"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Locations",
+            "link": "https://arabicacoffeeus.com/pages/locations"
+          },
+          {
+            "title": "Arabica Blend",
+            "link": "https://arabicacoffeeus.com/products/arabica-blend"
+          },
+          {
+            "title": "Shop",
+            "link": "https://arabicacoffeeus.com/collections/arabica-all-products"
+          },
+          {
+            "title": "Menu",
+            "link": "https://arabicacoffeeus.com/pages/menu"
+          }
+        ]
+      },
+      "source": "arabicacoffeeus.com"
+    },
+    {
+      "position": 2,
+      "title": "Arabica Coffee",
+      "link": "https://arabica.coffee/en/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://arabica.coffee/en/&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQFnoECEIQAQ&usg=AOvVaw1si7OKMR009deHO5ZExHuB",
+      "displayed_link": "https://arabica.coffee",
+      "favicon": "https://serpapi.com/searches/670a2c280377560d79331ec8/images/750ecdc472b24e7a66155e0fb99f8c71b1f6049bc4c921adc74cfef5ee460c1a.png",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Locations",
+            "link": "https://arabica.coffee/locations/"
+          },
+          {
+            "title": "Arabica Kyoto Arashiyama",
+            "link": "https://arabica.coffee/location/arabica-kyoto-arashiyama/"
+          },
+          {
+            "title": "Arabica Kuwait Roastery",
+            "link": "https://arabica.coffee/location/arabica-kuwait-roastery/"
+          },
+          {
+            "title": "Contact",
+            "link": "https://arabica.coffee/contact/"
+          }
+        ]
+      },
+      "source": "% \u0394R\u0394BIC\u0394"
+    },
+    {
+      "position": 3,
+      "title": "Coffea arabica",
+      "link": "https://en.wikipedia.org/wiki/Coffea_arabica",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Coffea_arabica&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQFnoECGcQAQ&usg=AOvVaw0pkr2R0VfM8glTVBhUN4XO",
+      "displayed_link": "https://en.wikipedia.org",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwc5hRjmScrcutFBbGplGVpJsq3XZ-YGEDcbKAGOA6sYeti3f9HRfH&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2c280377560d79331ec8/images/750ecdc472b24e7a66155e0fb99f8c71f6ac392b307366074a7b10b2c4dc6b9c.png",
+      "snippet": "Coffea arabica also known as the Arabica coffee, is a species of flowering plant in the coffee and madder family Rubiaceae. It is believed to be the first ...",
+      "snippet_highlighted_words": [
+        "Arabica coffee"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 4,
+      "title": "Arabica Coffee vs. Robusta Coffee: What's the Difference?",
+      "link": "https://methodicalcoffee.com/blogs/coffee-culture/arabica-coffee-vs-robusta-coffee-whats-the-difference?srsltid=AfmBOoqHjYyCWERyM6V0DF5FaymndN-qYxj7DM2Vs5iI3Re4uGVdFejQ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://methodicalcoffee.com/blogs/coffee-culture/arabica-coffee-vs-robusta-coffee-whats-the-difference%3Fsrsltid%3DAfmBOoqHjYyCWERyM6V0DF5FaymndN-qYxj7DM2Vs5iI3Re4uGVdFejQ&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQFnoECGsQAQ&usg=AOvVaw1GovLAIPbp0_nAtgdCv17U",
+      "displayed_link": "https://methodicalcoffee.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpf_Qy56dwP-8Mt7tnLW_iwnNpm2sqZaVMay6FVpBauCLZhMopk-Kj&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2c280377560d79331ec8/images/750ecdc472b24e7a66155e0fb99f8c715c94200d74021768f2d2e5d57cf22b2a.png",
+      "date": "Sep 10, 2024",
+      "snippet": "Arabica contains less caffeine than robusta beans, usually about 1.2\u20131.5%. Lower caffeine content makes Arabica coffee milder and less bitter, ...",
+      "snippet_highlighted_words": [
+        "Arabica coffee"
+      ],
+      "source": "Methodical Coffee"
+    },
+    {
+      "position": 5,
+      "title": "Arabica Coffee Shop | Portland, ME",
+      "link": "https://www.arabicacoffee.me/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.arabicacoffee.me/&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQFnoECGkQAQ&usg=AOvVaw18YdXFbP5jmb3K91W4491_",
+      "displayed_link": "https://www.arabicacoffee.me",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ3P2yYCGFSJG4C0SaqfZBWLovwRYDozCKWb-gP38HCe_hMJ99a9AD&usqp=CAE&s",
+      "snippet": "Arabica is a family operated cafe and coffee roaster that has been a staple in the Portland Maine community since 1995. We are committed to providing high ...",
+      "snippet_highlighted_words": [
+        "Arabica",
+        "cafe",
+        "coffee"
+      ],
+      "source": "arabicacoffee.me"
+    },
+    {
+      "position": 6,
+      "title": "History of Arabica",
+      "link": "https://varieties.worldcoffeeresearch.org/arabica-2/history-of-arabica",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://varieties.worldcoffeeresearch.org/arabica-2/history-of-arabica&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQFnoECGgQAQ&usg=AOvVaw0sc8P0qopoH2Fyv0yDHCv7",
+      "displayed_link": "https://varieties.worldcoffeeresearch.org",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSm4NdRF36IUb-QptbHf2kG4IMc99Kl-RWbrTeLQvKsYZX9m6Y4Yuc&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2c280377560d79331ec8/images/750ecdc472b24e7a66155e0fb99f8c712b15e780886f657c7444e6e52dc63d3f.png",
+      "snippet": "Coffea arabica is native of Ethiopia, where the major genetic diversity of the species is found. Historians believe that coffee seeds were first taken from the ...",
+      "snippet_highlighted_words": [
+        "arabica",
+        "coffee"
+      ],
+      "source": "World Coffee Research"
+    },
+    {
+      "position": 7,
+      "title": "Products \u2013 Tagged \"arabica coffee\"",
+      "link": "https://birdsandbeanscoffee.com/collections/all/arabica-coffee?srsltid=AfmBOorLnjWk5aSbPg7KTyPvcFOLDfjsBkHT7XZ-3wZcRTTaPg1fQ2Pw",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://birdsandbeanscoffee.com/collections/all/arabica-coffee%3Fsrsltid%3DAfmBOorLnjWk5aSbPg7KTyPvcFOLDfjsBkHT7XZ-3wZcRTTaPg1fQ2Pw&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQFnoECGoQAQ&usg=AOvVaw1ZcLPbMSyrA4xQ1cc-FeY-",
+      "displayed_link": "https://birdsandbeanscoffee.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSNSlyiOiJu0DAxCN5YrfwKtp-Yvk0l0bvv4oolhJq0_qgu_Be476K&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2c280377560d79331ec8/images/750ecdc472b24e7a66155e0fb99f8c71a6c3be87e9a23984df8bcec29b9f5121.png",
+      "snippet": "Regular shipping $10.50 anywhere in the USA. Coffee subscription shipping only $6.50 \u00b7 Birds & Beans Coffee \u00b7 Shop \u00b7 Locations \u00b7 Rewards.",
+      "snippet_highlighted_words": [
+        "Coffee",
+        "Beans Coffee"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 10.5,
+            "currency": "$ \u2013 day delivery"
+          },
+          "extensions": [
+            "$10.50 3\u20135 day delivery"
+          ]
+        }
+      },
+      "source": "Birds & Beans Coffee"
+    },
+    {
+      "position": 8,
+      "title": "Locations - % \u0394R\u0394BIC\u0394",
+      "link": "https://arabica.coffee/en/locations/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://arabica.coffee/en/locations/&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQFnoECGQQAQ&usg=AOvVaw3cNztPHpj4lqmRJKHHwpXU",
+      "displayed_link": "https://arabica.coffee",
+      "favicon": "https://serpapi.com/searches/670a2c280377560d79331ec8/images/750ecdc472b24e7a66155e0fb99f8c7163320a45d4f8743472e00075b516413f.png",
+      "snippet": "From Kyoto to the world. Currently 205 stores in the world. It is about our love for coffee, design, and #seetheworldthroughcoffee ***",
+      "snippet_highlighted_words": [
+        "coffee"
+      ],
+      "source": "% \u0394R\u0394BIC\u0394"
+    },
+    {
+      "position": 9,
+      "title": "Single Origin Coffee - Arabica Selections Coffee",
+      "link": "https://www.illy.com/en-us/coffee/arabica-coffee-selection",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.illy.com/en-us/coffee/arabica-coffee-selection&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQFnoECGUQAQ&usg=AOvVaw2nNPwqbVrR1epDxNLfLnzF",
+      "displayed_link": "https://www.illy.com",
+      "favicon": "https://serpapi.com/searches/670a2c280377560d79331ec8/images/750ecdc472b24e7a66155e0fb99f8c71d1f606a4d32902494d9b07f0b3998228.png",
+      "snippet": "Discover our single origin coffee and experience the individual taste and distinct aroma of each Arabica Selection coffee and espresso, found in illy blend.",
+      "snippet_highlighted_words": [
+        "coffee",
+        "Arabica",
+        "coffee"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "day_delivery": 5,
+            "unknown": 30
+          },
+          "extensions": [
+            "\u200e5\u20139 day delivery",
+            "\u200e30",
+            "day returns"
+          ]
+        }
+      },
+      "source": "illy"
+    },
+    {
+      "position": 10,
+      "title": "100% Arabica Coffee",
+      "link": "https://donpablocoffee.com/collections/100-arabica-coffee?srsltid=AfmBOoq7vHvFCG-B6ZUvgmwsHWCRnl6uEAKucxjQ0cX7KqDJvRW1pfz9",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://donpablocoffee.com/collections/100-arabica-coffee%3Fsrsltid%3DAfmBOoq7vHvFCG-B6ZUvgmwsHWCRnl6uEAKucxjQ0cX7KqDJvRW1pfz9&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQFnoFCIwBEAE&usg=AOvVaw141kwmcxNNaVn5abqm8nmt",
+      "displayed_link": "https://donpablocoffee.com",
+      "favicon": "https://serpapi.com/searches/670a2c280377560d79331ec8/images/750ecdc472b24e7a66155e0fb99f8c715a5e3f0ba7a86b8290e42b2e1a973c5e.png",
+      "snippet": "Don Pablo Coffee grows our own coffee in Colombia, S.A. and purchases only the highest quality Arabica specialty coffee beans from all over the world.",
+      "snippet_highlighted_words": [
+        "Coffee",
+        "coffee",
+        "Arabica",
+        "coffee beans"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "day_delivery": 6,
+            "free": 30
+          },
+          "extensions": [
+            "\u200e6\u20137 day delivery",
+            "\u200eFree 30",
+            "day returns"
+          ]
+        }
+      },
+      "source": "Don Pablo Coffee"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Coffea+arabica&stick=H4sIAAAAAAAAAONgFuLUz9U3MDFNSrdQQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1i5XPOT0tLTVRILEpMykxO3MHKeItNkqH7aY-xjSRbheC05sYnnkcUP859t6VEvpQdALHEIWV0AAAA&sa=X&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQzO0BKAR6BAgSEBM",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Coffea+arabica&stick=H4sIAAAAAAAAAONgFuLUz9U3MDFNSrdQQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1i5XPOT0tLTVRILEpMykxO3MHKeItNkqH7aY-xjSRbheC05sYnnkcUP859t6VEvpQdALHEIWV0AAAA",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Arabica coffee menu",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Arabica+coffee+menu&sa=X&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQ1QJ6BQiYARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Arabica+coffee+menu"
+    },
+    {
+      "block_position": 1,
+      "query": "Arabica coffee near me",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Arabica+coffee+near+me&sa=X&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQ1QJ6BQiUARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Arabica+coffee+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Arabica coffee NYC",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Arabica+coffee+NYC&sa=X&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQ1QJ6BQiXARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Arabica+coffee+NYC"
+    },
+    {
+      "block_position": 1,
+      "query": "Arabica coffee bean",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Arabica+coffee+bean&sa=X&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQ1QJ6BQiZARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Arabica+coffee+bean"
+    },
+    {
+      "block_position": 1,
+      "query": "Arabica coffee owner",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Arabica+coffee+owner&sa=X&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQ1QJ6BQiaARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Arabica+coffee+owner"
+    },
+    {
+      "block_position": 1,
+      "query": "Arabica coffee locations",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Arabica+coffee+locations&sa=X&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQ1QJ6BQiWARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Arabica+coffee+locations"
+    },
+    {
+      "block_position": 1,
+      "query": "Arabica coffee vs Robusta",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Arabica+coffee+vs+Robusta&sa=X&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQ1QJ6BQiTARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Arabica+coffee+vs+Robusta"
+    },
+    {
+      "block_position": 1,
+      "query": "Arabica coffee wiki",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Arabica+coffee+wiki&sa=X&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQ1QJ6BQiSARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Arabica+coffee+wiki"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=arabica+coffee&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=KCwKZ9SSMvGVwbkP2MjBiAk&start=10&sa=N&sstk=AagrsuhytDLhGn_oK2gTkQys020O24ArzvIRved7m7pp3gUXImK-FiBaPPKERncJrv9f1Ebm9JxV5vay6MiqEsWx9ncULZu4wHK6pw&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQ8NMDegQICxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=arabica+coffee&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=KCwKZ9SSMvGVwbkP2MjBiAk&start=10&sa=N&sstk=AagrsuhytDLhGn_oK2gTkQys020O24ArzvIRved7m7pp3gUXImK-FiBaPPKERncJrv9f1Ebm9JxV5vay6MiqEsWx9ncULZu4wHK6pw&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQ8tMDegQICxAE",
+      "3": "https://www.google.com/search?q=arabica+coffee&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=KCwKZ9SSMvGVwbkP2MjBiAk&start=20&sa=N&sstk=AagrsuhytDLhGn_oK2gTkQys020O24ArzvIRved7m7pp3gUXImK-FiBaPPKERncJrv9f1Ebm9JxV5vay6MiqEsWx9ncULZu4wHK6pw&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQ8tMDegQICxAG",
+      "4": "https://www.google.com/search?q=arabica+coffee&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=KCwKZ9SSMvGVwbkP2MjBiAk&start=30&sa=N&sstk=AagrsuhytDLhGn_oK2gTkQys020O24ArzvIRved7m7pp3gUXImK-FiBaPPKERncJrv9f1Ebm9JxV5vay6MiqEsWx9ncULZu4wHK6pw&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQ8tMDegQICxAI",
+      "5": "https://www.google.com/search?q=arabica+coffee&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=KCwKZ9SSMvGVwbkP2MjBiAk&start=40&sa=N&sstk=AagrsuhytDLhGn_oK2gTkQys020O24ArzvIRved7m7pp3gUXImK-FiBaPPKERncJrv9f1Ebm9JxV5vay6MiqEsWx9ncULZu4wHK6pw&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQ8tMDegQICxAK",
+      "6": "https://www.google.com/search?q=arabica+coffee&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=KCwKZ9SSMvGVwbkP2MjBiAk&start=50&sa=N&sstk=AagrsuhytDLhGn_oK2gTkQys020O24ArzvIRved7m7pp3gUXImK-FiBaPPKERncJrv9f1Ebm9JxV5vay6MiqEsWx9ncULZu4wHK6pw&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQ8tMDegQICxAM",
+      "7": "https://www.google.com/search?q=arabica+coffee&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=KCwKZ9SSMvGVwbkP2MjBiAk&start=60&sa=N&sstk=AagrsuhytDLhGn_oK2gTkQys020O24ArzvIRved7m7pp3gUXImK-FiBaPPKERncJrv9f1Ebm9JxV5vay6MiqEsWx9ncULZu4wHK6pw&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQ8tMDegQICxAO",
+      "8": "https://www.google.com/search?q=arabica+coffee&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=KCwKZ9SSMvGVwbkP2MjBiAk&start=70&sa=N&sstk=AagrsuhytDLhGn_oK2gTkQys020O24ArzvIRved7m7pp3gUXImK-FiBaPPKERncJrv9f1Ebm9JxV5vay6MiqEsWx9ncULZu4wHK6pw&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQ8tMDegQICxAQ",
+      "9": "https://www.google.com/search?q=arabica+coffee&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=KCwKZ9SSMvGVwbkP2MjBiAk&start=80&sa=N&sstk=AagrsuhytDLhGn_oK2gTkQys020O24ArzvIRved7m7pp3gUXImK-FiBaPPKERncJrv9f1Ebm9JxV5vay6MiqEsWx9ncULZu4wHK6pw&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQ8tMDegQICxAS",
+      "10": "https://www.google.com/search?q=arabica+coffee&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=KCwKZ9SSMvGVwbkP2MjBiAk&start=90&sa=N&sstk=AagrsuhytDLhGn_oK2gTkQys020O24ArzvIRved7m7pp3gUXImK-FiBaPPKERncJrv9f1Ebm9JxV5vay6MiqEsWx9ncULZu4wHK6pw&ved=2ahUKEwjUxsfCr4iJAxXxSjABHVhkEJEQ8tMDegQICxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=arabica+coffee&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=arabica+coffee&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=arabica+coffee&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=arabica+coffee&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=arabica+coffee&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=arabica+coffee&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=arabica+coffee&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=arabica+coffee&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=arabica+coffee&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=arabica+coffee&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=arabica+coffee&start=90"
+    }
+  }
+}

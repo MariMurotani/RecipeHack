@@ -1,0 +1,809 @@
+{
+  "search_metadata": {
+    "id": "670a30ae48c429ded6a44786",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/71bf830444b8b87d/670a30ae48c429ded6a44786.json",
+    "created_at": "2024-10-12 08:17:50 UTC",
+    "processed_at": "2024-10-12 08:17:50 UTC",
+    "google_url": "https://www.google.com/search?q=pan+dulce&oq=pan+dulce&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/71bf830444b8b87d/670a30ae48c429ded6a44786.html",
+    "total_time_taken": 1.87
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "pan dulce",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "pan dulce",
+    "total_results": 121000000,
+    "time_taken_displayed": 0.33,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=pan+dulce&npsic=0&rflfq=1&rldoc=1&rllag=30272041,-97730662,10305&tbm=lcl&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQtgN6BAhJEAI",
+    "image": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/6e2a99e5bc5045ed76a95ba2d808abf0.png",
+    "gps_coordinates": {
+      "latitude": 30.272041,
+      "longitude": -97.730662
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.6,
+        "reviews_original": "(149)",
+        "reviews": 149,
+        "description": "\"Great pan dulce made with high quality ingredients.\"",
+        "lsig": "AB86z5V_dXS54yU5052dJkDj5HR6",
+        "thumbnail": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/da488af4f99fe43f45ce32f4324573671bfaa0e49e9145597d477f18ad2a745bfcb4f8c5376008d2.jpeg",
+        "title": "Comadre Panader\u00eda",
+        "type": "Bakery",
+        "address": "1204 Cedar Ave",
+        "hours": "Closed \u22c5 Opens 8 AM",
+        "place_id": "8524271103972134195",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=8524271103972134195&q=pan+dulce",
+        "gps_coordinates": {
+          "latitude": 30.27529,
+          "longitude": -97.71336
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.4,
+        "reviews_original": "(3K)",
+        "reviews": 3000,
+        "description": "\"Vast assortment of delicious pan dulce for very, very reasonable prices.\"",
+        "lsig": "AB86z5XN6Lcdtdj8TnSDPvjIJVJ0",
+        "thumbnail": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/da488af4f99fe43f45ce32f432457367ade6b50e95adcbeb32162bf2fddecb3750a71b19c9825647.jpeg",
+        "title": "Mi Tradici\u00f3n",
+        "type": "Bakery",
+        "address": "8716 Research Blvd #290",
+        "hours": "Closed \u22c5 Opens 7 AM",
+        "place_id": "9427708434039831081",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=9427708434039831081&q=pan+dulce",
+        "gps_coordinates": {
+          "latitude": 30.363476,
+          "longitude": -97.71938
+        }
+      },
+      {
+        "position": 3,
+        "rating": 4.2,
+        "reviews_original": "(152)",
+        "reviews": 152,
+        "description": "\"My favorite is the Pan Dulce (Mexican sweet bread).\"",
+        "lsig": "AB86z5UVXRTp846QW6DTq1pRngEp",
+        "thumbnail": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/da488af4f99fe43f45ce32f432457367beb50275a197dce2bf04ca09129ced872d5358e794b29865.jpeg",
+        "title": "La Reyna Bakery",
+        "type": "Bakery",
+        "address": "5200 E William Cannon Dr",
+        "hours": "Closed \u22c5 Opens 7 AM",
+        "place_id": "5640538534914435006",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=5640538534914435006&q=pan+dulce",
+        "gps_coordinates": {
+          "latitude": 30.180561,
+          "longitude": -97.74793
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=pan+dulce&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQjGp6BAhKEAE"
+  },
+  "knowledge_graph": {
+    "title": "Pan dulce",
+    "type": "Mexican breads",
+    "entity_type": "food, foods_and_dishes",
+    "kgmid": "/m/0vxfrdn",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0vxfrdn&hl=en-US&q=Pan+dulce",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0vxfrdn&location=Austin%2CTexas%2CUnited+States&q=Pan+dulce",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/0855325944190f0d47e69346825fa053b230266117dc82d2609be611ed18e7fca55a551dc4dd218f.jpeg",
+        "source": "https://en.wikipedia.org/wiki/Pan_dulce"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/0855325944190f0d47e69346825fa053b230266117dc82d2f156777df41ab9a26bae7a2023d0f0eb.jpeg",
+        "source": "https://www.reddit.com/r/coolguides/comments/vw7xnr/basic_types_of_pan_dulce_mexican_sweet_bread/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/0855325944190f0d47e69346825fa053b230266117dc82d2d45315e7e30d10acc8cc70285d1dc26d.jpeg",
+        "source": "https://texascooppower.com/sweet-memories/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/0855325944190f0d47e69346825fa053b230266117dc82d2c34d79ac5414a95c50629ad7f1a91751.jpeg",
+        "source": "https://www.oliveandartisan.com/pink-conchas-pan-dulce/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/0855325944190f0d47e69346825fa053b230266117dc82d23f66ee8f5c322878b6632b967ede0f94.jpeg",
+        "source": "https://flanandapplepie.wordpress.com/2015/10/19/pan-dulce-mexicano-conchas-mexican-sweet-bread-shells/"
+      }
+    ],
+    "description": "Pan dulce, literally meaning \"sweet bread\", is the general name for a variety of Mexican pastries. They are inexpensive treats and are consumed at breakfast, merienda, or dinner.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Pan_dulce"
+    },
+    "type_of_dish": "Mexican breads",
+    "type_of_dish_links": [
+      {
+        "text": "Mexican breads",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Mexican+breads&si=ACC90nyByJNAHfkzzi7l4JA4fcQKXOYDCI7plJH6uVksGWg6Xm9GqWwDHbNhiSojojTIVdEfS_92E32PbGXzHRHb6cKGYAgqtEGmDLFJ997ip2iPWw9nmzAhmSmWSqsS9paw6dvruZ-y1esteK3AcoG26owB9-9o9pHSo3HwhRhMLCcJ8xVGQVRIE2ma-_Yx1kvWulC3csRAXbM2YTBJrR2QvxGnry0ABQ%3D%3D&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQmxMoAHoECDkQAg"
+      }
+    ],
+    "origins": "Mexico, Latin America",
+    "origins_links": [
+      {
+        "text": "Mexico",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Mexico&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-Lyw1Mwg6vKK0M7N5M1qFqnsEn9At2TNY9bC6aciprwzNi5uZVnjEustSHH9gVFtnq6zzVhqsWtKtgyUKQq0J9fx9Xz7a6tU75ZYW1FGaXTHOsfUYhqdSGugGDE6gNzlprqieNR43THgR5BnJvZ9Pl_fSKnc9ObSzL7XpsBqldDAlQl1vQWZUpOq5wTKL55H7De4suBlftVJrTuxt56nLHJ5Cz-C8CrU7X7MITLH-cNBrsi3UGw%3D%3D&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQmxMoAHoECDgQAg"
+      },
+      {
+        "text": "Latin America",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Latin+America&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm8LuWzt_xRaTqfLsTO-j4Wi76gcwINUdgbU5mYl3Z7L0REc7b-X2qRFaIEnoymn4bC3RiTdW8TsqbOO8kqAkV_dZ6uXaN3GXzVLDKzGYdzt9AJ0EUIB4fVSRqWFWSeBgL-ui_zQ1E15w4RrvzRI4y4Pat7M9afJP6fNpunmk1WTDRd9iRZ6osJUEfTsd4_GIBGmH6QApq67FU1EIzSmiwkf6cOTbZJt6gNn0Ley7VTOFXh5ojg%3D%3D&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQmxMoAXoECDgQAw"
+      }
+    ],
+    "sources_include": "USDAPan dulce231 Calories - 1 slice (average weight of 1 slice) (63 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/167935/nutrients"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Torta",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L29WHe5t1i0RVABKnMWRXwy35vYHXdM22vC32Z2-AMiCd26M4WyaQOj2MZDk8PqBiZ6uaS286genJP6YVpbmDWsSoU4r6XpwzqTJn11xal-4m6WM_na51UnuK9_SL9Dr_anOHI49e_4TVLLFNhzXOsmnpxFFLgjE3Xn1UUHa8svRfUyebZF0fLlqWaO_2I5ZYE5l3u9MXenMeFkPMTgoIfm6ZAQUJEGDSaPLTOLZ_yVDgrjM4qJC1ajSvRoOMzV68B8BCno%3D&q=Torta&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQs9oBKAB6BAg3EAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Torta&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L29WHe5t1i0RVABKnMWRXwy35vYHXdM22vC32Z2-AMiCd26M4WyaQOj2MZDk8PqBiZ6uaS286genJP6YVpbmDWsSoU4r6XpwzqTJn11xal-4m6WM_na51UnuK9_SL9Dr_anOHI49e_4TVLLFNhzXOsmnpxFFLgjE3Xn1UUHa8svRfUyebZF0fLlqWaO_2I5ZYE5l3u9MXenMeFkPMTgoIfm6ZAQUJEGDSaPLTOLZ_yVDgrjM4qJC1ajSvRoOMzV68B8BCno%3D",
+        "image": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/0855325944190f0d47e69346825fa05321a28ad3c68d4ec8c7420ce4c07c62f07a9999f4dbf818bf01e0b03c4bf54bb1.jpeg"
+      },
+      {
+        "name": "Bread",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm0vHEjtt1u_gXIEhhxGb0RfUDqImhnyxBGHMioTRJLLJUI36N0i73WZXr9eEpfvMU4969EVYwhTsADNJWcbNx_4bGBNXlEnbI7O5tb8RlpypgRsMSRggUlAtI970-fWxCoOw1yS0Zjt6C98OBDht95WHHXPFDmBKwLCvPBMrQifgnximEZ7IoDZNaypkos_l3JZP1HQvkItVzjGggNuKRA-_8ALN0noXjQTmkGKxp7Zc8lAFClMl27Bk517ZwNKRQ7wcHi4%3D&q=Bread&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQs9oBKAB6BAg3EAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Bread&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm0vHEjtt1u_gXIEhhxGb0RfUDqImhnyxBGHMioTRJLLJUI36N0i73WZXr9eEpfvMU4969EVYwhTsADNJWcbNx_4bGBNXlEnbI7O5tb8RlpypgRsMSRggUlAtI970-fWxCoOw1yS0Zjt6C98OBDht95WHHXPFDmBKwLCvPBMrQifgnximEZ7IoDZNaypkos_l3JZP1HQvkItVzjGggNuKRA-_8ALN0noXjQTmkGKxp7Zc8lAFClMl27Bk517ZwNKRQ7wcHi4%3D",
+        "image": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/0855325944190f0d47e69346825fa05321a28ad3c68d4ec8c7420ce4c07c62f01a8ae7f44bd56695e57174bb23926774.jpeg"
+      },
+      {
+        "name": "Concha",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep8F7qqHTBN89aH2r_crobv6lYkscKUlb0t1Gnu6rih0kG6Hx3dV4alYIUf2lQ7sW9hiGLsBZAWoSGUc3aKPYEBCk1ckTDbFVahvwALG6ncXKz-3HEx81IiCtQ7QKINeOeJ0uEFDNLJvV0nnGCwTk8Mn1bQ--KyQaIG0xBZDI2Hj7vv25aSwxA4DTZHAlykcbz8gmdqA_gPXARbAFTpVSVpTp0_bUqKlkbrGYDkYjpT4Dkv9h-_Gs2RSDYpboV_yjiecEBUU%3D&q=Concha&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQs9oBKAB6BAg3EA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Concha&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep8F7qqHTBN89aH2r_crobv6lYkscKUlb0t1Gnu6rih0kG6Hx3dV4alYIUf2lQ7sW9hiGLsBZAWoSGUc3aKPYEBCk1ckTDbFVahvwALG6ncXKz-3HEx81IiCtQ7QKINeOeJ0uEFDNLJvV0nnGCwTk8Mn1bQ--KyQaIG0xBZDI2Hj7vv25aSwxA4DTZHAlykcbz8gmdqA_gPXARbAFTpVSVpTp0_bUqKlkbrGYDkYjpT4Dkv9h-_Gs2RSDYpboV_yjiecEBUU%3D",
+        "image": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/0855325944190f0d47e69346825fa05321a28ad3c68d4ec8c7420ce4c07c62f0f0792a933f278e6757c7e7f2f211651c.jpeg"
+      },
+      {
+        "name": "Empanada",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L4TPOqgv2E72L9ROynfvG2Guh6XADYJFT5eS4JIGGhjI0O-7RufAD_0NoCblYSSHyRT4qMpFy2hoIGGjnfypohS5SpQTxPM7dEjC3A4wuOswMpL0W4zig6UT0VFfxZzBPaN-PAbL_aFwCGCYkyOusui4dslCcdPQgv_ScOXA8slMfMX242f7OTYHR8pzj-8NZcuiJuiLXbcQvOHusxQbpZSDPHL3k_VqnT75FAUsfx7vA5y9JcwL1to-LFK4cM7br149tYw%3D&q=Empanada&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQs9oBKAB6BAg3EBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Empanada&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L4TPOqgv2E72L9ROynfvG2Guh6XADYJFT5eS4JIGGhjI0O-7RufAD_0NoCblYSSHyRT4qMpFy2hoIGGjnfypohS5SpQTxPM7dEjC3A4wuOswMpL0W4zig6UT0VFfxZzBPaN-PAbL_aFwCGCYkyOusui4dslCcdPQgv_ScOXA8slMfMX242f7OTYHR8pzj-8NZcuiJuiLXbcQvOHusxQbpZSDPHL3k_VqnT75FAUsfx7vA5y9JcwL1to-LFK4cM7br149tYw%3D",
+        "image": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/0855325944190f0d47e69346825fa05321a28ad3c68d4ec8c7420ce4c07c62f021ceba6a4e222de89a68a18fb301d5c8.jpeg"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "7 g",
+        "10%"
+      ],
+      "cholesterol": [
+        "19 mg",
+        "6%"
+      ],
+      "sodium": [
+        "144 mg",
+        "6%"
+      ],
+      "potassium": [
+        "65 mg",
+        "1%"
+      ],
+      "total_carbohydrate": [
+        "36 g",
+        "12%"
+      ],
+      "protein": [
+        "6 g",
+        "12%"
+      ]
+    }
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=pan+dulce&sca_esv=7d18109a394306ad&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=mdkPYFNqHmzavM%252CTp8LfzrVdqQIkM%252C%252Fm%252F0vxfrdn%253BHKJpEZ5gYGOKsM%252CXiqdeeehI84GPM%252C_%253BNJRkfOxRAS68lM%252CIqWSYcuxikXwMM%252C_%253BoTVLHy2544AlEM%252CCdV4jnpdf0N1RM%252C_%253B2Ho1BdL_nHqi-M%252C-UmhqobnzlMRVM%252C_&usg=AI4_-kQLU-VR0rGA0Jv2sjA8hsxP28oNog&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQ_B16BAhCEAE#vhid=mdkPYFNqHmzavM&vssid=mosaic",
+      "source": "https://en.wikipedia.org/wiki/Pan_dulce",
+      "thumbnail": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/92294170cff3f434e4e58e17bf0933973ef7c03513714535d74a2a943a0f080c.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pan_Dulce_or_%22Sweet_Bread%22.jpg/220px-Pan_Dulce_or_%22Sweet_Bread%22.jpg",
+      "title": "upload.wikimedia.org/wikipedia/commons/thumb/3/33/...",
+      "source_name": "en.wikipedia.org"
+    },
+    {
+      "link": "https://www.google.com/search?q=pan+dulce&sca_esv=7d18109a394306ad&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=mdkPYFNqHmzavM%252CTp8LfzrVdqQIkM%252C_%253BHKJpEZ5gYGOKsM%252CXiqdeeehI84GPM%252C_%253BNJRkfOxRAS68lM%252CIqWSYcuxikXwMM%252C_%253BoTVLHy2544AlEM%252CCdV4jnpdf0N1RM%252C_%253B2Ho1BdL_nHqi-M%252C-UmhqobnzlMRVM%252C_&usg=AI4_-kSAY52pDSHp_Yb4LzRxtct1VABnoA&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQ_h16BAhAEAE#vhid=HKJpEZ5gYGOKsM&vssid=mosaic",
+      "source": "https://www.reddit.com/r/coolguides/comments/vw7xnr/basic_types_of_pan_dulce_mexican_sweet_bread/",
+      "thumbnail": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/92294170cff3f434cb2a3a3ba507184ca3747490751d7d967bd0dd26e0744085.jpeg",
+      "original": "https://external-preview.redd.it/QON_cvn7NCAULD5tZO5zixeM_HKdJxNWKXRkuH-_Y6o.jpg?width=640&crop=smart&auto=webp&s=09575fed930517c174069feb12333113ad5caaa1",
+      "title": "Basic types of pan dulce (Mexican sweet bread) : r/coolguides",
+      "source_name": "Reddit"
+    },
+    {
+      "link": "https://www.google.com/search?q=pan+dulce&sca_esv=7d18109a394306ad&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=mdkPYFNqHmzavM%252CTp8LfzrVdqQIkM%252C_%253BHKJpEZ5gYGOKsM%252CXiqdeeehI84GPM%252C_%253BNJRkfOxRAS68lM%252CIqWSYcuxikXwMM%252C_%253BoTVLHy2544AlEM%252CCdV4jnpdf0N1RM%252C_%253B2Ho1BdL_nHqi-M%252C-UmhqobnzlMRVM%252C_&usg=AI4_-kSAY52pDSHp_Yb4LzRxtct1VABnoA&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQ_h16BAg-EAE#vhid=NJRkfOxRAS68lM&vssid=mosaic",
+      "source": "https://texascooppower.com/sweet-memories/",
+      "thumbnail": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/92294170cff3f434e155ca06769d7aa4563aaaed03e0e10b74a2bd63da3d6c14.jpeg",
+      "original": "https://texascooppower.com/wp-content/uploads/2021/12/slideshow_pan-dulce-sidebar-comp.jpg",
+      "title": "Sweet Memories | Texas Co-op Power",
+      "source_name": "Texas Co-op Power"
+    },
+    {
+      "link": "https://www.google.com/search?q=pan+dulce&sca_esv=7d18109a394306ad&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=mdkPYFNqHmzavM%252CTp8LfzrVdqQIkM%252C_%253BHKJpEZ5gYGOKsM%252CXiqdeeehI84GPM%252C_%253BNJRkfOxRAS68lM%252CIqWSYcuxikXwMM%252C_%253BoTVLHy2544AlEM%252CCdV4jnpdf0N1RM%252C_%253B2Ho1BdL_nHqi-M%252C-UmhqobnzlMRVM%252C_&usg=AI4_-kSAY52pDSHp_Yb4LzRxtct1VABnoA&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQ_h16BAg_EAE#vhid=oTVLHy2544AlEM&vssid=mosaic",
+      "source": "https://www.oliveandartisan.com/pink-conchas-pan-dulce/",
+      "thumbnail": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/92294170cff3f43463d6726451335386b278a925f4acfaf44439ca54094282f7.jpeg",
+      "original": "https://www.oliveandartisan.com/wp-content/uploads/2019/02/IMG_0180-683x1024.jpg",
+      "title": "Pink Conchas Pan Dulce",
+      "source_name": "Olive and Artisan"
+    },
+    {
+      "link": "https://www.google.com/search?q=pan+dulce&sca_esv=7d18109a394306ad&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=mdkPYFNqHmzavM%252CTp8LfzrVdqQIkM%252C_%253BHKJpEZ5gYGOKsM%252CXiqdeeehI84GPM%252C_%253BNJRkfOxRAS68lM%252CIqWSYcuxikXwMM%252C_%253BoTVLHy2544AlEM%252CCdV4jnpdf0N1RM%252C_%253B2Ho1BdL_nHqi-M%252C-UmhqobnzlMRVM%252C_&usg=AI4_-kSAY52pDSHp_Yb4LzRxtct1VABnoA&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQ_h16BAg9EAE#vhid=2Ho1BdL_nHqi-M&vssid=mosaic",
+      "source": "https://flanandapplepie.wordpress.com/2015/10/19/pan-dulce-mexicano-conchas-mexican-sweet-bread-shells/",
+      "thumbnail": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/92294170cff3f4341d85fe686aac33892f388fad638e44c0abd020b658112054.jpeg",
+      "original": "https://farm6.staticflickr.com/5835/21693582254_1fda696988_c.jpg",
+      "title": "Pan Dulce Mexicano: Conchas ~ Mexican Sweet Bread: Shells ...",
+      "source_name": "Flan and Apple Pie - WordPress.com"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Are conchas and pan dulce the same?",
+      "snippet": "Conchas Recipe (Pan Dulce \u2013 Sweet Bread) Conchas are also known as Pan Dulce and Sweet Bread. This Mexican breakfast item is made of a fluffy, butter brioche-like dough topped with a streusel topping that is scored. These colorful Mexican breakfast item is a crowd favorite.",
+      "title": "Conchas (Mexican Pan Dulce) - A Cozy Kitchen",
+      "date": "Jul 26, 2022",
+      "link": "https://www.acozykitchen.com/conchas-pan-dulce#:~:text=Conchas%20Recipe%20(Pan%20Dulce%20%E2%80%93%20Sweet%20Bread),-By%20Adrianna%20Adarme&text=Conchas%20are%20also%20known%20as,item%20is%20a%20crowd%20favorite.",
+      "displayed_link": "https://www.acozykitchen.com \u203a Desserts",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm4eJQT_2POCgYUUPkVh5gBNCGHKm462ELdvYMCS0B&s",
+      "source_logo": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/5ca6413498d86c8ba0ec149b74f2ed72a69bbc4d5140643af2cbb3b6e64074e2.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2MxWmZVaTF6VTBwdFMyRXpSaTFhWXpkdloyUkdOMGxITms5TlpGOVVOa2xHYkZWdWNHOVNXVEJSZGtsYU4xOXRYMDlTY0ZaYVp6Um1lVTloWkVZMFpUaERaR1JRRWhkeWVrRkxXalpRVFVjNWFYTndkRkZRTVhWSVdHMUJZeG9pUVVaWWNrVmpjRU5tUzFWM1FrMTFkakIxY20xQlgyTk1WRTFRTFZGNmNrMVNVUSIsImZjdiI6IjMiLCJlaSI6InJ6QUtaNlBNRzlpc3B0UVAxdUhYbUFjIiwicWMiOiJDZ2x3WVc0Z1pIVnNZMlVRQUgxbndCa18iLCJxdWVzdGlvbiI6IkFyZSBjb25jaGFzIGFuZCBwYW4gZHVsY2UgdGhlIHNhbWU/IiwibGsiOiJHaUpoY21VZ1kyOXVZMmhoY3lCaGJtUWdjR0Z1SUdSMWJHTmxJSFJvWlNCellXMWwiLCJicyI6ImM0V052UXJDTUJoRmNRME9MbUlKS2hfcXFrSmVvRlp3MUUwNmh6U1lRUDVvRXFxTHU2X2xFX2tJVmtXcUlqcWZjODlGR3pUT1NnN01HaWFvQjJvS2NOUkFFUlhqRUFRSFR6VlBrOHVSVFBDSV9qWFJFZzF5UVFOSV8wS2xnWlhaS2VsRm1wemJaSWo3MVRlSFB4eTBRT05uNDliVjFnZHcxa1ZGeTJhUUpobnA0ZTRkTXF1MU5RMURCWnJsNHZCeG9KMHRBelVCZ29VMTMwdFdJeFpWaUdVZE8yM0pIRS1ybnlQOVB1cTByZyIsImlkIjoiZmNfcnpBS1o2UE1HOWlzcHRRUDF1SFhtQWNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2MxWmZVaTF6VTBwdFMyRXpSaTFhWXpkdloyUkdOMGxITms5TlpGOVVOa2xHYkZWdWNHOVNXVEJSZGtsYU4xOXRYMDlTY0ZaYVp6Um1lVTloWkVZMFpUaERaR1JRRWhkeWVrRkxXalpRVFVjNWFYTndkRkZRTVhWSVdHMUJZeG9pUVVaWWNrVmpjRU5tUzFWM1FrMTFkakIxY20xQlgyTk1WRTFRTFZGNmNrMVNVUSIsImZjdiI6IjMiLCJlaSI6InJ6QUtaNlBNRzlpc3B0UVAxdUhYbUFjIiwicWMiOiJDZ2x3WVc0Z1pIVnNZMlVRQUgxbndCa18iLCJxdWVzdGlvbiI6IkFyZSBjb25jaGFzIGFuZCBwYW4gZHVsY2UgdGhlIHNhbWU%2FIiwibGsiOiJHaUpoY21VZ1kyOXVZMmhoY3lCaGJtUWdjR0Z1SUdSMWJHTmxJSFJvWlNCellXMWwiLCJicyI6ImM0V052UXJDTUJoRmNRME9MbUlKS2hfcXFrSmVvRlp3MUUwNmh6U1lRUDVvRXFxTHU2X2xFX2tJVmtXcUlqcWZjODlGR3pUT1NnN01HaWFvQjJvS2NOUkFFUlhqRUFRSFR6VlBrOHVSVFBDSV9qWFJFZzF5UVFOSV8wS2xnWlhaS2VsRm1wemJaSWo3MVRlSFB4eTBRT05uNDliVjFnZHcxa1ZGeTJhUUpobnA0ZTRkTXF1MU5RMURCWnJsNHZCeG9KMHRBelVCZ29VMTMwdFdJeFpWaUdVZE8yM0pIRS1ybnlQOVB1cTByZyIsImlkIjoiZmNfcnpBS1o2UE1HOWlzcHRRUDF1SFhtQWNfMSJ9"
+    },
+    {
+      "question": "What is pan dulce in English?",
+      "snippet": "Pan Dulce literally means Sweet Bread in Spanish and comes in many varieties often sold in Panader\u00edas (bakeries) in Mexico.",
+      "title": "Pan Dulce - Preppy Kitchen",
+      "date": "Feb 25, 2021",
+      "link": "https://preppykitchen.com/pan-dulce/#:~:text=Pan%20Dulce%20literally%20means%20Sweet,Panader%C3%ADas%20(bakeries)%20in%20Mexico.",
+      "displayed_link": "https://preppykitchen.com \u203a Recipes \u203a Breads",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTz9BERDhudtQDzm0KN_L6tz68MFJbVqC5BBbNXAe1Q&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2MxWmZVaTF6VTBwdFMyRXpSaTFhWXpkdloyUkdOMGxITms5TlpGOVVOa2xHYkZWdWNHOVNXVEJSZGtsYU4xOXRYMDlTY0ZaYVp6Um1lVTloWkVZMFpUaERaR1JRRWhkeWVrRkxXalpRVFVjNWFYTndkRkZRTVhWSVdHMUJZeG9pUVVaWWNrVmpjRU5tUzFWM1FrMTFkakIxY20xQlgyTk1WRTFRTFZGNmNrMVNVUSIsImZjdiI6IjMiLCJlaSI6InJ6QUtaNlBNRzlpc3B0UVAxdUhYbUFjIiwicWMiOiJDZ2x3WVc0Z1pIVnNZMlVRQUgxbndCa18iLCJxdWVzdGlvbiI6IldoYXQgaXMgcGFuIGR1bGNlIGluIEVuZ2xpc2g/IiwibGsiOiJHaHgzYUdGMElHbHpJSEJoYmlCa2RXeGpaU0JwYmlCbGJtZHNhWE5vIiwiYnMiOiJjNFdOdlFyQ01CaEZjUTBPTG1JSktoX3Fxa0plb0ZadzFFMDZoelNZUVA1b0VxcUx1Nl9sRV9rSVZrV3FJanFmYzg5Rkd6VE9TZzdNR2lhb0Iyb0tjTlJBRVJYakVBUUhUelZQazh1UlRQQ0lfalhSRWcxeVFRTklfMEtsZ1pYWktlbEZtcHpiWklqNzFUZUhQeHkwUU9ObjQ5YlYxZ2R3MWtWRnkyYVFKaG5wNGU0ZE1xdTFOUTFEQlpybDR2QnhvSjB0QXpVQmdvVTEzMHRXSXhaVmlHVWRPMjNKSEUtcm55UDlQdXEwcmciLCJpZCI6ImZjX3J6QUtaNlBNRzlpc3B0UVAxdUhYbUFjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2MxWmZVaTF6VTBwdFMyRXpSaTFhWXpkdloyUkdOMGxITms5TlpGOVVOa2xHYkZWdWNHOVNXVEJSZGtsYU4xOXRYMDlTY0ZaYVp6Um1lVTloWkVZMFpUaERaR1JRRWhkeWVrRkxXalpRVFVjNWFYTndkRkZRTVhWSVdHMUJZeG9pUVVaWWNrVmpjRU5tUzFWM1FrMTFkakIxY20xQlgyTk1WRTFRTFZGNmNrMVNVUSIsImZjdiI6IjMiLCJlaSI6InJ6QUtaNlBNRzlpc3B0UVAxdUhYbUFjIiwicWMiOiJDZ2x3WVc0Z1pIVnNZMlVRQUgxbndCa18iLCJxdWVzdGlvbiI6IldoYXQgaXMgcGFuIGR1bGNlIGluIEVuZ2xpc2g%2FIiwibGsiOiJHaHgzYUdGMElHbHpJSEJoYmlCa2RXeGpaU0JwYmlCbGJtZHNhWE5vIiwiYnMiOiJjNFdOdlFyQ01CaEZjUTBPTG1JSktoX3Fxa0plb0ZadzFFMDZoelNZUVA1b0VxcUx1Nl9sRV9rSVZrV3FJanFmYzg5Rkd6VE9TZzdNR2lhb0Iyb0tjTlJBRVJYakVBUUhUelZQazh1UlRQQ0lfalhSRWcxeVFRTklfMEtsZ1pYWktlbEZtcHpiWklqNzFUZUhQeHkwUU9ObjQ5YlYxZ2R3MWtWRnkyYVFKaG5wNGU0ZE1xdTFOUTFEQlpybDR2QnhvSjB0QXpVQmdvVTEzMHRXSXhaVmlHVWRPMjNKSEUtcm55UDlQdXEwcmciLCJpZCI6ImZjX3J6QUtaNlBNRzlpc3B0UVAxdUhYbUFjXzEifQ%3D%3D"
+    },
+    {
+      "question": "What is the most popular pan dulce?",
+      "snippet": "Conchas are one of the most iconic pan dulce, because you can find them all over Mexico. Plus, conchas are a pan dulce that both kids and adults love. As a kid you don't necessarily want a custard filling or certain jams, but a concha is simple and sugary.",
+      "title": "Pan Dulce | King Arthur Baking",
+      "link": "https://www.kingarthurbaking.com/pan-dulce#:~:text=Conchas%20are%20one%20of%20the,concha%20is%20simple%20and%20sugary.",
+      "displayed_link": "https://www.kingarthurbaking.com \u203a pan-dulce",
+      "source_logo": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/5ca6413498d86c8ba0ec149b74f2ed72e77e9d121ab9ab644f1bae10437e5dbe.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2MxWmZVaTF6VTBwdFMyRXpSaTFhWXpkdloyUkdOMGxITms5TlpGOVVOa2xHYkZWdWNHOVNXVEJSZGtsYU4xOXRYMDlTY0ZaYVp6Um1lVTloWkVZMFpUaERaR1JRRWhkeWVrRkxXalpRVFVjNWFYTndkRkZRTVhWSVdHMUJZeG9pUVVaWWNrVmpjRU5tUzFWM1FrMTFkakIxY20xQlgyTk1WRTFRTFZGNmNrMVNVUSIsImZjdiI6IjMiLCJlaSI6InJ6QUtaNlBNRzlpc3B0UVAxdUhYbUFjIiwicWMiOiJDZ2x3WVc0Z1pIVnNZMlVRQUgxbndCa18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG1vc3QgcG9wdWxhciBwYW4gZHVsY2U/IiwibGsiOiJHaFZ0YjNOMElHTnZiVzF2YmlCd1lXNGdaSFZzWTJVIiwiYnMiOiJjNFdOdlFyQ01CaEZjUTBPTG1JSktoX3Fxa0plb0ZadzFFMDZoelNZUVA1b0VxcUx1Nl9sRV9rSVZrV3FJanFmYzg5Rkd6VE9TZzdNR2lhb0Iyb0tjTlJBRVJYakVBUUhUelZQazh1UlRQQ0lfalhSRWcxeVFRTklfMEtsZ1pYWktlbEZtcHpiWklqNzFUZUhQeHkwUU9ObjQ5YlYxZ2R3MWtWRnkyYVFKaG5wNGU0ZE1xdTFOUTFEQlpybDR2QnhvSjB0QXpVQmdvVTEzMHRXSXhaVmlHVWRPMjNKSEUtcm55UDlQdXEwcmciLCJpZCI6ImZjX3J6QUtaNlBNRzlpc3B0UVAxdUhYbUFjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2MxWmZVaTF6VTBwdFMyRXpSaTFhWXpkdloyUkdOMGxITms5TlpGOVVOa2xHYkZWdWNHOVNXVEJSZGtsYU4xOXRYMDlTY0ZaYVp6Um1lVTloWkVZMFpUaERaR1JRRWhkeWVrRkxXalpRVFVjNWFYTndkRkZRTVhWSVdHMUJZeG9pUVVaWWNrVmpjRU5tUzFWM1FrMTFkakIxY20xQlgyTk1WRTFRTFZGNmNrMVNVUSIsImZjdiI6IjMiLCJlaSI6InJ6QUtaNlBNRzlpc3B0UVAxdUhYbUFjIiwicWMiOiJDZ2x3WVc0Z1pIVnNZMlVRQUgxbndCa18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG1vc3QgcG9wdWxhciBwYW4gZHVsY2U%2FIiwibGsiOiJHaFZ0YjNOMElHTnZiVzF2YmlCd1lXNGdaSFZzWTJVIiwiYnMiOiJjNFdOdlFyQ01CaEZjUTBPTG1JSktoX3Fxa0plb0ZadzFFMDZoelNZUVA1b0VxcUx1Nl9sRV9rSVZrV3FJanFmYzg5Rkd6VE9TZzdNR2lhb0Iyb0tjTlJBRVJYakVBUUhUelZQazh1UlRQQ0lfalhSRWcxeVFRTklfMEtsZ1pYWktlbEZtcHpiWklqNzFUZUhQeHkwUU9ObjQ5YlYxZ2R3MWtWRnkyYVFKaG5wNGU0ZE1xdTFOUTFEQlpybDR2QnhvSjB0QXpVQmdvVTEzMHRXSXhaVmlHVWRPMjNKSEUtcm55UDlQdXEwcmciLCJpZCI6ImZjX3J6QUtaNlBNRzlpc3B0UVAxdUhYbUFjXzEifQ%3D%3D"
+    },
+    {
+      "question": "Why is pan dulce important to Mexican culture?",
+      "snippet": "A Brief Introduction to Pan Dulce: This is because the bread is multi-functional (you heard that right)! It serves as \u201cbreakfast, a mid-day bite known as la merienda, post-lunch coffee breaks, and pre-dinner snacks,\u201d writes Daniela Galarza of Eater.",
+      "title": "The History of Bread in Mexico: All About the Panader\u00eda",
+      "date": "Mar 28, 2022",
+      "link": "https://redlandsranchmarket.com/history-of-the-panaderias/#:~:text=A%20Brief%20Introduction%20to%20Pan%20Dulce%3A&text=This%20is%20because%20the%20bread,writes%20Daniela%20Galarza%20of%20Eater.",
+      "displayed_link": "https://redlandsranchmarket.com \u203a history-of-the-panade...",
+      "source_logo": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/5ca6413498d86c8ba0ec149b74f2ed72f9c4512b8ad9a310026ae032419920dd.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2MxWmZVaTF6VTBwdFMyRXpSaTFhWXpkdloyUkdOMGxITms5TlpGOVVOa2xHYkZWdWNHOVNXVEJSZGtsYU4xOXRYMDlTY0ZaYVp6Um1lVTloWkVZMFpUaERaR1JRRWhkeWVrRkxXalpRVFVjNWFYTndkRkZRTVhWSVdHMUJZeG9pUVVaWWNrVmpjRU5tUzFWM1FrMTFkakIxY20xQlgyTk1WRTFRTFZGNmNrMVNVUSIsImZjdiI6IjMiLCJlaSI6InJ6QUtaNlBNRzlpc3B0UVAxdUhYbUFjIiwicWMiOiJDZ2x3WVc0Z1pIVnNZMlVRQUgxbndCa18iLCJxdWVzdGlvbiI6IldoeSBpcyBwYW4gZHVsY2UgaW1wb3J0YW50IHRvIE1leGljYW4gY3VsdHVyZT8iLCJsayI6IkdpMTNhSGtnYVhNZ2NHRnVJR1IxYkdObElHbHRjRzl5ZEdGdWRDQjBieUJ0WlhocFkyRnVJR04xYkhSMWNtVSIsImJzIjoiYzRXTnZRckNNQmhGY1EwT0xtSUpLaF9xcWtKZW9GWncxRTA2aHpTWVFQNW9FcXFMdTZfbEVfa0lWa1dxSWpxZmM4OUZHelRPU2c3TUdpYW9CMm9LY05SQUVSWGpFQVFIVHpWUGs4dVJUUENJX2pYUkVnMXlRUU5JXzBLbGdaWFpLZWxGbXB6YlpJajcxVGVIUHh5MFFPTm40OWJWMWdkdzFrVkZ5MmFRSmhucDRlNGRNcXUxTlExREJacmw0dkJ4b0owdEF6VUJnb1UxMzB0V0l4WlZpR1VkTzIzSkhFLXJueVA5UHVxMHJnIiwiaWQiOiJmY19yekFLWjZQTUc5aXNwdFFQMXVIWG1BY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2MxWmZVaTF6VTBwdFMyRXpSaTFhWXpkdloyUkdOMGxITms5TlpGOVVOa2xHYkZWdWNHOVNXVEJSZGtsYU4xOXRYMDlTY0ZaYVp6Um1lVTloWkVZMFpUaERaR1JRRWhkeWVrRkxXalpRVFVjNWFYTndkRkZRTVhWSVdHMUJZeG9pUVVaWWNrVmpjRU5tUzFWM1FrMTFkakIxY20xQlgyTk1WRTFRTFZGNmNrMVNVUSIsImZjdiI6IjMiLCJlaSI6InJ6QUtaNlBNRzlpc3B0UVAxdUhYbUFjIiwicWMiOiJDZ2x3WVc0Z1pIVnNZMlVRQUgxbndCa18iLCJxdWVzdGlvbiI6IldoeSBpcyBwYW4gZHVsY2UgaW1wb3J0YW50IHRvIE1leGljYW4gY3VsdHVyZT8iLCJsayI6IkdpMTNhSGtnYVhNZ2NHRnVJR1IxYkdObElHbHRjRzl5ZEdGdWRDQjBieUJ0WlhocFkyRnVJR04xYkhSMWNtVSIsImJzIjoiYzRXTnZRckNNQmhGY1EwT0xtSUpLaF9xcWtKZW9GWncxRTA2aHpTWVFQNW9FcXFMdTZfbEVfa0lWa1dxSWpxZmM4OUZHelRPU2c3TUdpYW9CMm9LY05SQUVSWGpFQVFIVHpWUGs4dVJUUENJX2pYUkVnMXlRUU5JXzBLbGdaWFpLZWxGbXB6YlpJajcxVGVIUHh5MFFPTm40OWJWMWdkdzFrVkZ5MmFRSmhucDRlNGRNcXUxTlExREJacmw0dkJ4b0owdEF6VUJnb1UxMzB0V0l4WlZpR1VkTzIzSkhFLXJueVA5UHVxMHJnIiwiaWQiOiJmY19yekFLWjZQTUc5aXNwdFFQMXVIWG1BY18xIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Conchas (Mexican Pan Dulce)",
+      "link": "https://www.acozykitchen.com/conchas-pan-dulce",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.acozykitchen.com/conchas-pan-dulce&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQFnoECBYQAQ",
+      "displayed_link": "https://www.acozykitchen.com \u203a Desserts",
+      "thumbnail": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/f724e09d7181b0e4f485f738d4d39bf56c0f6415a8db68a51857547d61b2bbda.jpeg",
+      "favicon": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/f724e09d7181b0e4f485f738d4d39bf5795a4fee28cabbeb8460e373da5693a3.png",
+      "date": "Jul 26, 2022",
+      "snippet": "Conchas/pan dulce are a Mexican baked good that is a brioche-like sweet dough topped with a crispy topping. Conchas/pan dulce look like sea ...",
+      "snippet_highlighted_words": [
+        "pan dulce",
+        "pan dulce"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.8,
+            "min": 45
+          },
+          "extensions": [
+            "4.8(200)",
+            "45 min"
+          ]
+        }
+      },
+      "source": "A Cozy Kitchen"
+    },
+    {
+      "position": 2,
+      "title": "Basic types of pan dulce (Mexican sweet bread) - Reddit",
+      "link": "https://www.reddit.com/r/coolguides/comments/vw7xnr/basic_types_of_pan_dulce_mexican_sweet_bread/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/coolguides/comments/vw7xnr/basic_types_of_pan_dulce_mexican_sweet_bread/&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQFnoECGMQAQ",
+      "displayed_link": "50+ comments \u00b7 2 years ago",
+      "thumbnail": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/f724e09d7181b0e4f485f738d4d39bf5f7d9d0e58811291598d468c908302d19.jpeg",
+      "favicon": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/f724e09d7181b0e4f485f738d4d39bf5b2347f039ffa006f85325fa3159649c9.png",
+      "snippet": "They're really great when made well, and can be pretty mid when over baked/dry. I encourage you to find a good one and accompany it with some hot chocolate.",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Pan dulce. Mexican sweet bread, these are some conchas I ...",
+            "link": "https://www.reddit.com/r/Breadit/comments/qwpf56/pan_dulce_mexican_sweet_bread_these_are_some/",
+            "date": "Nov 18, 2021"
+          },
+          {
+            "title": "what is pan dulce? : r/mexicanfood - Reddit",
+            "link": "https://www.reddit.com/r/mexicanfood/comments/x20qh2/what_is_pan_dulce/",
+            "date": "Aug 31, 2022"
+          },
+          {
+            "title": "What is your favorite pan dulce? : r/mexicanfood - Reddit",
+            "link": "https://www.reddit.com/r/mexicanfood/comments/15viuml/what_is_your_favorite_pan_dulce/",
+            "date": "Aug 19, 2023"
+          },
+          {
+            "title": "Does anyone know the name of this pan dulce? It's a piece of ...",
+            "link": "https://www.reddit.com/r/Baking/comments/139vbnr/does_anyone_know_the_name_of_this_pan_dulce_its_a/",
+            "date": "May 6, 2023"
+          }
+        ]
+      },
+      "source": "Reddit \u00b7 r/coolguides"
+    },
+    {
+      "position": 3,
+      "title": "Pan dulce",
+      "link": "https://en.wikipedia.org/wiki/Pan_dulce",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Pan_dulce&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQFnoECFsQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Pan_dulce",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDtni6aZ-UkgZlDZmedKTUmt0jBgMrX9nOM9fRz0X6Rv-OYIdH4RJp&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/f724e09d7181b0e4f485f738d4d39bf55c3079f4ca1c2d5ea094878f5bdcfe42.png",
+      "snippet": "Pan dulce, literally meaning \"sweet bread\", is the general name for a variety of Mexican pastries. They are inexpensive treats and are consumed at breakfast ...",
+      "snippet_highlighted_words": [
+        "Pan dulce"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 4,
+      "title": "Pan Dulce by the Dozen - La Monarca Bakery",
+      "link": "https://www.ordermonarca.com/product/pan-dulce-by-the-dozen/262",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ordermonarca.com/product/pan-dulce-by-the-dozen/262&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQFnoECFgQAQ",
+      "displayed_link": "https://www.ordermonarca.com \u203a product \u203a pan-dulce-...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRTk89EhbLGBd4O_bYyHB-EhDM0fFK_DtY2epp4H2tUU1TmhY1nU4U&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/f724e09d7181b0e4f485f738d4d39bf5d5933f41afdb117de59919ef95a168fc.png",
+      "snippet": "$24.00 - $27.00. 1. This item has a prep time of 2 hours. It may change when your order is available. ... 4 mini conchas, 2 Danes 2 cinnamon roll, 2 taquitos, 2 ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 27.0,
+            "currency": "$"
+          },
+          "extensions": [
+            "$27.00",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "ordermonarca.com"
+    },
+    {
+      "position": 5,
+      "title": "PAN DULCE (SWEET BREAD) | Fragrance Oil",
+      "link": "https://doopfragrance.com/products/pan-dulce-sweet-bread-fragrance-oil?srsltid=AfmBOopx0-Tp7E1I5HZUq2bWlqEBI_vKXZn7NNIH7NaNpdXHr5hePXdF",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://doopfragrance.com/products/pan-dulce-sweet-bread-fragrance-oil%3Fsrsltid%3DAfmBOopx0-Tp7E1I5HZUq2bWlqEBI_vKXZn7NNIH7NaNpdXHr5hePXdF&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQFnoECFcQAQ",
+      "displayed_link": "https://doopfragrance.com \u203a products \u203a pan-dulce-sweet-...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRuhR9kbt-Id6Fsk_kYTWN2mgym-CNn3IdI_eClqFlJvnFvvsJEaY-&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/f724e09d7181b0e4f485f738d4d39bf55dcd0df284ea7c64945b215976d54732.png",
+      "snippet": "Pan Dulce is a traditional Mexican sweet bread, this fragrance smells of warm baked bread, vanilla extract and granulated sugar.",
+      "snippet_highlighted_words": [
+        "Pan Dulce"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "price": 9,
+            "currency": "$ \u2013 day delivery"
+          },
+          "extensions": [
+            "5.0(7)",
+            "$8.50 to $40.00",
+            "\u200e$9 8\u201311 day delivery",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "DOOP Fragrance Co."
+    },
+    {
+      "position": 6,
+      "title": "Pan Dulce",
+      "link": "https://www.kingarthurbaking.com/pan-dulce",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kingarthurbaking.com/pan-dulce&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQFnoECFYQAQ",
+      "displayed_link": "https://www.kingarthurbaking.com \u203a pan-dulce",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1XE0LJ0MiVrYUARdAKnfs8ystsLtFJr1tADD0z7NDvL4cNq0at3wi&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/f724e09d7181b0e4f485f738d4d39bf5f4815e6c5a0f7d9f096be432d9f12978.png",
+      "snippet": "pan dulce (which literally translates to sweet breads) is enormous \u2014 from classic conchas to celebratory pan de muerto to colorful polvorones, and much more.",
+      "snippet_highlighted_words": [
+        "pan dulce"
+      ],
+      "source": "King Arthur Baking"
+    },
+    {
+      "position": 7,
+      "title": "Pan Dulce",
+      "link": "https://preppykitchen.com/pan-dulce/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://preppykitchen.com/pan-dulce/&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQFnoECFkQAQ",
+      "displayed_link": "https://preppykitchen.com \u203a Recipes \u203a Breads",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDrZjMLXRMdMcktGO9U2RTEp0Tp9HkeglnzLVsI9NvKiGzPzQR2KU-&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/f724e09d7181b0e4f485f738d4d39bf54328deaac83c5764bbf76010d36b5986.png",
+      "date": "Feb 25, 2021",
+      "snippet": "Pan Dulce also known as Conchas is a beautiful Mexican sweet bread made with a streusel-like topping. Served with a cup of hot chocolate.",
+      "snippet_highlighted_words": [
+        "Pan Dulce"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.9,
+            "hr_min": 2
+          },
+          "extensions": [
+            "4.9(140)",
+            "2 hr 58 min"
+          ]
+        }
+      },
+      "source": "Preppy Kitchen"
+    },
+    {
+      "position": 8,
+      "title": "Pan Dulces Recipe",
+      "link": "https://www.allrecipes.com/recipe/18117/pan-dulces/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.allrecipes.com/recipe/18117/pan-dulces/&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQFnoECF0QAQ",
+      "displayed_link": "https://www.allrecipes.com \u203a ... \u203a Yeast Bread Recipes",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk2DBDiNU8tTFTsK_bfmThJisnFjesY6UPlv6dhYEsUC2ezmJWbOUh&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/f724e09d7181b0e4f485f738d4d39bf590507cec82349d22ab88cc864ead6fb3.png",
+      "date": "Sep 24, 2022",
+      "snippet": "Ingredients \u00b7 1 cup milk \u00b7 6 tablespoons butter \u00b7 1 (.25 ounce) package active dry yeast \u00b7 \u2153 cup white sugar \u00b7 1 teaspoon salt \u00b7 2 large eggs.",
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.5,
+            "hr_min": 2
+          },
+          "extensions": [
+            "4.5(70)",
+            "2 hr 30 min"
+          ]
+        }
+      },
+      "source": "Allrecipes"
+    },
+    {
+      "position": 9,
+      "title": "Pan Dulce | Conchas",
+      "link": "https://www.youtube.com/watch?v=kEXlzK6yewI",
+      "displayed_link": "683.5K+ views \u00b7 3 years ago",
+      "thumbnail": "https://i.ytimg.com/vi/kEXlzK6yewI/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kpPSGBokmYTGMfNpBmb3YOEIk_eg",
+      "favicon": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/f724e09d7181b0e4f485f738d4d39bf57063eecbf3c8b90dcc32722f1e7e24f5.png",
+      "snippet": "Pan Dulce, specifically Conchas is a beautiful Mexican sweet bread made with a crispy and delicious topping. The colorful bread is scored on ...",
+      "duration": "10:27",
+      "key_moments": [
+        {
+          "time": "00:09",
+          "title": "Heating the Milk",
+          "link": "https://www.youtube.com/watch?v=kEXlzK6yewI&t=9"
+        },
+        {
+          "time": "00:35",
+          "title": "Adding the Yeast",
+          "link": "https://www.youtube.com/watch?v=kEXlzK6yewI&t=35"
+        },
+        {
+          "time": "00:46",
+          "title": "Measuring Out the Flour",
+          "link": "https://www.youtube.com/watch?v=kEXlzK6yewI&t=46"
+        },
+        {
+          "time": "01:37",
+          "title": "Adding the Flour",
+          "link": "https://www.youtube.com/watch?v=kEXlzK6yewI&t=97"
+        },
+        {
+          "time": "02:43",
+          "title": "Adding the Remaining Flour",
+          "link": "https://www.youtube.com/watch?v=kEXlzK6yewI&t=163"
+        },
+        {
+          "time": "04:10",
+          "title": "Making the Topping",
+          "link": "https://www.youtube.com/watch?v=kEXlzK6yewI&t=250"
+        },
+        {
+          "time": "04:37",
+          "title": "Mixing the Pan Dulce",
+          "link": "https://www.youtube.com/watch?v=kEXlzK6yewI&t=277"
+        },
+        {
+          "time": "06:18",
+          "title": "Shaping the Dough",
+          "link": "https://www.youtube.com/watch?v=kEXlzK6yewI&t=378"
+        },
+        {
+          "time": "08:33",
+          "title": "Carving the Concha",
+          "link": "https://www.youtube.com/watch?v=kEXlzK6yewI&t=513"
+        },
+        {
+          "time": "09:44",
+          "title": "Baking the Pan Dulce",
+          "link": "https://www.youtube.com/watch?v=kEXlzK6yewI&t=584"
+        }
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQNG7PKGu632ES6fQZNapq8s33rxEDm-CsRvA",
+      "source": "YouTube \u00b7 Preppy Kitchen"
+    },
+    {
+      "position": 10,
+      "title": "Pan Dulce - Mexican Sweet Bread Recipe",
+      "link": "https://www.food.com/recipe/pan-dulce-mexican-sweet-bread-285930",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.food.com/recipe/pan-dulce-mexican-sweet-bread-285930&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQFnoECFoQAQ",
+      "displayed_link": "https://www.food.com \u203a Recipes \u203a Breads",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScQ6gUTjKVamNmkZlgxy1spqjQVSMsuDT3PRM3KIbnERS9M-HOJwhc&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/f724e09d7181b0e4f485f738d4d39bf5d34d6c150b2f38cf023d07d90527b52d.png",
+      "snippet": "ingredients \u00b7 3 1\u20442 cups flour \u00b7 2 (1/4 ounce) packages active dry yeast \u00b7 1 teaspoon salt \u00b7 \u20442 cup sugar \u00b7 \u20442 cup powdered milk \u00b7 2 tablespoons shortening \u00b7 1 ...",
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "hr": 13
+          },
+          "extensions": [
+            "5.0(3)",
+            "13 hr"
+          ]
+        }
+      },
+      "source": "Food.com"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=pan+dulce&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQjGp6BAhKEAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pan+dulce&tbs=lf%3A1%2Clf_ui%3A9&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Pan dulce recipe",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Pan+dulce+recipe&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQ1QJ6BQiJARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pan+dulce+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Pan dulce types",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Pan+dulce+types&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQ1QJ6BQiIARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pan+dulce+types"
+    },
+    {
+      "block_position": 1,
+      "query": "Pan dulce near me",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Pan+dulce+near+me&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQ1QJ6BQiDARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pan+dulce+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Pan dulce ingredients",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Pan+dulce+ingredients&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQ1QJ6BQiFARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pan+dulce+ingredients"
+    },
+    {
+      "block_position": 1,
+      "query": "Pan dulce in English",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Pan+dulce+in+English&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQ1QJ6BQiGARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pan+dulce+in+English"
+    },
+    {
+      "block_position": 1,
+      "query": "Pan dulce pronunciation",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Pan+dulce+pronunciation&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQ1QJ6BQiHARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pan+dulce+pronunciation"
+    },
+    {
+      "block_position": 1,
+      "query": "Pan dulce urban dictionary",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Pan+dulce+urban+dictionary&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQ1QJ6BQiEARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pan+dulce+urban+dictionary"
+    },
+    {
+      "block_position": 1,
+      "query": "Pan dulce girl",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Pan+dulce+girl&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQ1QJ6BQiKARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pan+dulce+girl"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Types",
+        "subtitle": "What Are The Different Types Of Mexican Pan Dulce",
+        "title": "Pan dulce - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Pan_dulce",
+        "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Pan_dulce",
+        "list": [
+          "Besos.",
+          "Campechanas.",
+          "Conchas (shells)",
+          "Cuernos (horns)",
+          "Empanadas (turnovers)",
+          "Marianas.",
+          "Marranitos / cochinitos / puerquitos (little pigs)",
+          "Orejas (ears)"
+        ],
+        "favicon": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/c96b32537eef18a9c89c1aa668d7244da9ccc7260b61ff1cee4230458e9cc5c09a4244be4c7550b6.png",
+        "source": "wikipedia.org",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZe4AtZyXl1zztSNoyK45oTJUQ-byo2iuRG8F_c6q1D0&s",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=what+are+the+different+types+of+mexican+pan+dulce&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQrooIegQIYBAI",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+are+the+different+types+of+mexican+pan+dulce"
+      },
+      {
+        "text": "List",
+        "subtitle": "Pan Dulce List",
+        "title": "Guide to Mexican Pan Dulce - The Other Side of the Tortilla",
+        "link": "https://theothersideofthetortilla.com/2018/12/guide-mexican-pan-dulce/#:~:text=Mexican%20pan%20dulce%20can%20encompass,cuernos%2C%20and%20puerquitos%20or%20marranitos.",
+        "displayed_link": "https://theothersideofthetortilla.com \u203a 2018/12 \u203a guide-m...",
+        "date": "Dec 8, 2018",
+        "snippet": "Mexican pan dulce can encompass pastries, sweet breads and even cookies, and are typically purchased from a panader\u00eda, or bakery. Popular kinds of pan dulce that you're probably familiar with may include varieties such as conchas, sweet empanadas, cuernos, and puerquitos or marranitos.",
+        "snippet_highlighted_words": [
+          "conchas, sweet empanadas, cuernos, and puerquitos or marranitos"
+        ],
+        "favicon": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/c96b32537eef18a9c89c1aa668d7244de7143462fb8fbf2754499a6567a70cfc46b352d79c0fd863.png",
+        "source": "theothersideofthetortilla.com",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=pan+dulce+list&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQrooIegQIYBAN",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pan+dulce+list"
+      },
+      {
+        "text": "How to make",
+        "subtitle": "How To Make Pan Dulce",
+        "thumbnail": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/c96b32537eef18a9c89c1aa668d7244da9c6f48580d4edd55849ae148d6e50a946474d9e1b45a749.png",
+        "web_links": [
+          {
+            "title": "Conchas (Mexican Pan Dulce) - A Cozy Kitchen",
+            "snippet": "Concha Dough: ; 3 \u00b7 warm water ; 2 1/2 \u00b7 active dry yeast ; 1/2 \u00b7 melted butter ; 1 \u00b7...",
+            "link": "https://www.acozykitchen.com/conchas-pan-dulce",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNrWonXYknkhhlsrAfF9Bww3bdPtzLp8GtKn0cGql2DjoUygjpbSOkFnZcgGc",
+            "source": "A Cozy Kitchen",
+            "source_thumbnail": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/c96b32537eef18a9c89c1aa668d7244da9c6f48580d4edd5590a31fd14236d5e9a5f89fece5b82f993c6ad689cd737ed29f6f2517ec298c0.png"
+          },
+          {
+            "title": "Pan Dulce - Preppy Kitchen",
+            "snippet": "How to make Pan Dulce \u00b7 1. Add the yeast and half of the sugar to the warm milk and set aside until the yeast is...",
+            "link": "https://preppykitchen.com/pan-dulce/",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHtM9oGUSaWtlx12nksQTh3kTtimLa15xIcfgqycbGyOz9lfqV3pGJbCVg7fw",
+            "source": "Preppy Kitchen",
+            "source_thumbnail": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/c96b32537eef18a9c89c1aa668d7244da9c6f48580d4edd5590a31fd14236d5ea3aba0fcbbc0d503029a6b7eb9589138a913c993b3ba6742.png"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=how+to+make+pan+dulce&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQrooIegQIYBAS",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+to+make+pan+dulce"
+      },
+      {
+        "text": "Most popular",
+        "subtitle": "Most Popular Pan Dulce",
+        "title": "Pan Dulce | King Arthur Baking",
+        "link": "https://www.kingarthurbaking.com/pan-dulce#:~:text=Conchas%20are%20one%20of%20the,concha%20is%20simple%20and%20sugary.",
+        "displayed_link": "https://www.kingarthurbaking.com \u203a pan-dulce",
+        "snippet": "Conchas are one of the most iconic pan dulce, because you can find them all over Mexico. Plus, conchas are a pan dulce that both kids and adults love. As a kid you don't necessarily want a custard filling or certain jams, but a concha is simple and sugary.",
+        "snippet_highlighted_words": [
+          "Conchas"
+        ],
+        "favicon": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/c96b32537eef18a9c89c1aa668d7244dc9dd5f0ae513088dfb8e0a7feb323d9027dd4860a8df6fe5.png",
+        "source": "kingarthurbaking.com",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=most+popular+pan+dulce&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQrooIegQIYBAX",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=most+popular+pan+dulce"
+      },
+      {
+        "text": "Popular",
+        "subtitle": "What Is The Most Popular Type Of Pan Dulce",
+        "title": "Pan Dulce Menu - Cakes By Edith",
+        "link": "https://www.cakesbyedithbakery.com/team-4#:~:text=Among%20all%20the%20different%20kinds,the%20most%20popular%20and%20recognizable.",
+        "displayed_link": "https://www.cakesbyedithbakery.com \u203a team-4",
+        "snippet": "Among all the different kinds of traditional Mexican Pan Dulce (\u201csweet bread\u201d), Conchas are without a doubt the most popular and recognizable.",
+        "snippet_highlighted_words": [
+          "Conchas"
+        ],
+        "answer": "Conchas",
+        "favicon": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/c96b32537eef18a9c89c1aa668d7244dd05075b6f567545563ea1664418c16b0d00d38ad0596e0a7.png",
+        "source": "cakesbyedithbakery.com",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=what+is+the+most+popular+type+of+pan+dulce&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQrooIegQIYBAd",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+is+the+most+popular+type+of+pan+dulce"
+      },
+      {
+        "text": "Sugar Amount",
+        "subtitle": "How Much Sugar Does Pan Dulce Have?",
+        "title": "Pan Dulce, with sugar topping - Nutrition Value",
+        "link": "https://www.nutritionvalue.org/Pan_Dulce%2C_with_sugar_topping_51161270_nutritional_value.html",
+        "displayed_link": "https://www.nutritionvalue.org \u203a Pan_Dulce,_with_sugar...",
+        "favicon": "https://serpapi.com/searches/670a30ae48c429ded6a44786/images/c96b32537eef18a9c89c1aa668d7244ded3e031e846c10bb4daafb637265e59404e35c42b1f7c83e.png",
+        "source": "nutritionvalue.org",
+        "table": [
+          [
+            "Nutrition Facts"
+          ],
+          [
+            "Dietary Fiber 2.4g",
+            "9 %"
+          ],
+          [
+            "Sugar 18g"
+          ],
+          [
+            "Protein 10g",
+            "20 %"
+          ],
+          [
+            "Vitamin D 0.1mcg",
+            "0 %"
+          ]
+        ],
+        "formatted": {
+          "nutrition_facts": {
+            "dietary_fiber_2_4g": "9 %"
+          },
+          "sugar_18g": {
+            "protein_10g": "20 %",
+            "vitamin_d_0_1mcg": "0 %"
+          }
+        },
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=how+much+sugar+does+pan+dulce+have&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQrooIegQIYBAi",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+much+sugar+does+pan+dulce+have"
+      },
+      {
+        "text": "Pronunciation",
+        "subtitle": "How To Pronounce Pan Dulce",
+        "thumbnail": "https://ssl.gstatic.com/dictionary/static/pronunciation/20180801/desktop/sil.svg",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=How+to+pronounce+Pan+Dulce&si=ACC90nwPE8L87YB--2DvJei_pdRxdBnDiqyk5ZU5sU9KSVabsEDBLoNewkLIMMh9Bs27pMppSb2TdWCHkS1JCSnVLTFmWeb8uJqtg0plh52i7lcI57JvpKu8kuueV3NCdKc4tM7TGyvD0zSMJ_fNDD16gQGZzy9YXA%3D%3D&sa=X&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQrooIegQIYBAn",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=How+to+pronounce+Pan+Dulce&si=ACC90nwPE8L87YB--2DvJei_pdRxdBnDiqyk5ZU5sU9KSVabsEDBLoNewkLIMMh9Bs27pMppSb2TdWCHkS1JCSnVLTFmWeb8uJqtg0plh52i7lcI57JvpKu8kuueV3NCdKc4tM7TGyvD0zSMJ_fNDD16gQGZzy9YXA%3D%3D"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=pan+dulce&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=rzAKZ6PMG9isptQP1uHXmAc&start=10&sa=N&sstk=AagrsugE2BcDbl7JV6-brDlX5a6887-OXlusm67AT0RKnrRkW7wLUXNIgReVntN9eBNViaFoevFYIFiLKNK7v5xOxpVd3y-TnvRcrw&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQ8NMDegQIAhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=pan+dulce&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=rzAKZ6PMG9isptQP1uHXmAc&start=10&sa=N&sstk=AagrsugE2BcDbl7JV6-brDlX5a6887-OXlusm67AT0RKnrRkW7wLUXNIgReVntN9eBNViaFoevFYIFiLKNK7v5xOxpVd3y-TnvRcrw&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQ8tMDegQIAhAE",
+      "3": "https://www.google.com/search?q=pan+dulce&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=rzAKZ6PMG9isptQP1uHXmAc&start=20&sa=N&sstk=AagrsugE2BcDbl7JV6-brDlX5a6887-OXlusm67AT0RKnrRkW7wLUXNIgReVntN9eBNViaFoevFYIFiLKNK7v5xOxpVd3y-TnvRcrw&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQ8tMDegQIAhAG",
+      "4": "https://www.google.com/search?q=pan+dulce&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=rzAKZ6PMG9isptQP1uHXmAc&start=30&sa=N&sstk=AagrsugE2BcDbl7JV6-brDlX5a6887-OXlusm67AT0RKnrRkW7wLUXNIgReVntN9eBNViaFoevFYIFiLKNK7v5xOxpVd3y-TnvRcrw&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQ8tMDegQIAhAI",
+      "5": "https://www.google.com/search?q=pan+dulce&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=rzAKZ6PMG9isptQP1uHXmAc&start=40&sa=N&sstk=AagrsugE2BcDbl7JV6-brDlX5a6887-OXlusm67AT0RKnrRkW7wLUXNIgReVntN9eBNViaFoevFYIFiLKNK7v5xOxpVd3y-TnvRcrw&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQ8tMDegQIAhAK",
+      "6": "https://www.google.com/search?q=pan+dulce&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=rzAKZ6PMG9isptQP1uHXmAc&start=50&sa=N&sstk=AagrsugE2BcDbl7JV6-brDlX5a6887-OXlusm67AT0RKnrRkW7wLUXNIgReVntN9eBNViaFoevFYIFiLKNK7v5xOxpVd3y-TnvRcrw&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQ8tMDegQIAhAM",
+      "7": "https://www.google.com/search?q=pan+dulce&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=rzAKZ6PMG9isptQP1uHXmAc&start=60&sa=N&sstk=AagrsugE2BcDbl7JV6-brDlX5a6887-OXlusm67AT0RKnrRkW7wLUXNIgReVntN9eBNViaFoevFYIFiLKNK7v5xOxpVd3y-TnvRcrw&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQ8tMDegQIAhAO",
+      "8": "https://www.google.com/search?q=pan+dulce&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=rzAKZ6PMG9isptQP1uHXmAc&start=70&sa=N&sstk=AagrsugE2BcDbl7JV6-brDlX5a6887-OXlusm67AT0RKnrRkW7wLUXNIgReVntN9eBNViaFoevFYIFiLKNK7v5xOxpVd3y-TnvRcrw&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQ8tMDegQIAhAQ",
+      "9": "https://www.google.com/search?q=pan+dulce&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=rzAKZ6PMG9isptQP1uHXmAc&start=80&sa=N&sstk=AagrsugE2BcDbl7JV6-brDlX5a6887-OXlusm67AT0RKnrRkW7wLUXNIgReVntN9eBNViaFoevFYIFiLKNK7v5xOxpVd3y-TnvRcrw&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQ8tMDegQIAhAS",
+      "10": "https://www.google.com/search?q=pan+dulce&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=rzAKZ6PMG9isptQP1uHXmAc&start=90&sa=N&sstk=AagrsugE2BcDbl7JV6-brDlX5a6887-OXlusm67AT0RKnrRkW7wLUXNIgReVntN9eBNViaFoevFYIFiLKNK7v5xOxpVd3y-TnvRcrw&ved=2ahUKEwjj34Trs4iJAxVYlokEHdbwFXMQ8tMDegQIAhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pan+dulce&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pan+dulce&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pan+dulce&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pan+dulce&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pan+dulce&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pan+dulce&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pan+dulce&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pan+dulce&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pan+dulce&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pan+dulce&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pan+dulce&start=90"
+    }
+  }
+}

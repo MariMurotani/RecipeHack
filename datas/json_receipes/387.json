@@ -1,0 +1,575 @@
+{
+  "search_metadata": {
+    "id": "670a2bdac05eb574bc191605",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/57d5323c49ca26b8/670a2bdac05eb574bc191605.json",
+    "created_at": "2024-10-12 07:57:14 UTC",
+    "processed_at": "2024-10-12 07:57:14 UTC",
+    "google_url": "https://www.google.com/search?q=eggplant&oq=eggplant&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/57d5323c49ca26b8/670a2bdac05eb574bc191605.html",
+    "total_time_taken": 0.55
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "eggplant",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "eggplant",
+    "total_results": 190000000,
+    "time_taken_displayed": 0.33,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "recipes_results": [
+    {
+      "title": "Roasted Eggplant",
+      "link": "https://www.allrecipes.com/roasted-eggplant-recipe-6737745",
+      "source": "Allrecipes",
+      "rating": 4.7,
+      "reviews": 167,
+      "total_time": "40 min",
+      "ingredients": [
+        "Olive oil",
+        "lemon juice"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKMbdop1-RZK2Ox1AbUpoXsT29jKRcV3uZIrPBaUy9X_9QyM1m8BX_2Do&s"
+    },
+    {
+      "title": "Eggplant Parmesan",
+      "link": "https://www.loveandlemons.com/eggplant-parmesan/",
+      "source": "Love and Lemons",
+      "rating": 5.0,
+      "reviews": 440,
+      "total_time": "1 hr",
+      "ingredients": [
+        "Almond milk",
+        "fresh mozzarella balls",
+        "marinara sauce",
+        "red pepper flakes",
+        "parmesan cheese"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGv2gukuKdzlBJxnoqHRAEQBW04n02gU48VBjOsYVrvDyrQ9zoI5zhLkI&s"
+    },
+    {
+      "title": "Spiced Roasted Eggplant",
+      "link": "https://cooking.nytimes.com/recipes/1025836-spiced-roasted-eggplant",
+      "source": "NYT Cooking - The New York Times",
+      "rating": 5.0,
+      "reviews": 598,
+      "total_time": "45 min",
+      "ingredients": [
+        "Red pepper flakes",
+        "olive oil"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPpC--WNjVJIoJAq43UVOw1YQgWpsYYut75uw2uV5uqIZxh8uxqwSVSFDq&s"
+    },
+    {
+      "title": "Recipe: Sweet & Smoky Eggplant Spread",
+      "link": "https://www.thekitchn.com/recipe-eggplant-ikrarecipes-from-the-kitchn-175099",
+      "source": "The Kitchn",
+      "rating": 5.0,
+      "reviews": 15,
+      "ingredients": [
+        "Tomato paste",
+        "olive oil",
+        "black pepper"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf4NldK8OmYdmFbHyrLybJP8YjKF6ZaWlCtxi5PwGNqorG9ALV_q0oEnwH&s"
+    }
+  ],
+  "knowledge_graph": {
+    "title": "Eggplant",
+    "type": "Fruit",
+    "entity_type": "biology, food",
+    "main_tab_text": "Overview",
+    "kgmid": "/m/0cdk2",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0cdk2&hl=en-US&q=Eggplant&shndl=17&source=sh/x/kp/osrp/m5/1",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0cdk2&location=Austin%2CTexas%2CUnited+States&q=Eggplant",
+    "tabs": [
+      {
+        "text": "Nutrition facts",
+        "si": "ACC90nzK9txMLHQFiv9hpViDGmoEpfpmoG9c5uCNvoB5L0Dy0TV-XF8bIcUbacBoBxZvb1vKJk9CL2xvTOUnMwZvQW3G9oODdNQHyyuAv7vxYnaxt-zNr8Mc5VdxUT_w2HycXyhqusE5",
+        "link": "https://www.google.com/search?si=ACC90nzK9txMLHQFiv9hpViDGmoEpfpmoG9c5uCNvoB5L0Dy0TV-XF8bIcUbacBoBxZvb1vKJk9CL2xvTOUnMwZvQW3G9oODdNQHyyuAv7vxYnaxt-zNr8Mc5VdxUT_w2HycXyhqusE5",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=eggplant&si=ACC90nzK9txMLHQFiv9hpViDGmoEpfpmoG9c5uCNvoB5L0Dy0TV-XF8bIcUbacBoBxZvb1vKJk9CL2xvTOUnMwZvQW3G9oODdNQHyyuAv7vxYnaxt-zNr8Mc5VdxUT_w2HycXyhqusE5"
+      },
+      {
+        "text": "Benefits",
+        "si": "ACC90nwZt9ciGwENsdSy3iD-x77SRrgb9jj2gFwjvcPCWwTlc22X_UbXi8MSDhHIFU_oj8jntDYygqaruVjN2Fb3orYZKNlXcOlr1oGHfKC0TGmsPMXgppY=",
+        "link": "https://www.google.com/search?si=ACC90nwZt9ciGwENsdSy3iD-x77SRrgb9jj2gFwjvcPCWwTlc22X_UbXi8MSDhHIFU_oj8jntDYygqaruVjN2Fb3orYZKNlXcOlr1oGHfKC0TGmsPMXgppY=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=eggplant&si=ACC90nwZt9ciGwENsdSy3iD-x77SRrgb9jj2gFwjvcPCWwTlc22X_UbXi8MSDhHIFU_oj8jntDYygqaruVjN2Fb3orYZKNlXcOlr1oGHfKC0TGmsPMXgppY%3D"
+      },
+      {
+        "text": "Taste",
+        "si": "ACC90nyvSxjw58NpMuU3hYas-nXcExK8fyAP7ZT_HRIJrsR40wM8IldNaEGJSUEGe6N9pojIWyfq8WeZXLC6vY-2HePznHuSw1xTVTjV9M-wxlwkoDjcpKPbI6xmHAq7ZwMOId0FLzNV",
+        "link": "https://www.google.com/search?si=ACC90nyvSxjw58NpMuU3hYas-nXcExK8fyAP7ZT_HRIJrsR40wM8IldNaEGJSUEGe6N9pojIWyfq8WeZXLC6vY-2HePznHuSw1xTVTjV9M-wxlwkoDjcpKPbI6xmHAq7ZwMOId0FLzNV",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=eggplant&si=ACC90nyvSxjw58NpMuU3hYas-nXcExK8fyAP7ZT_HRIJrsR40wM8IldNaEGJSUEGe6N9pojIWyfq8WeZXLC6vY-2HePznHuSw1xTVTjV9M-wxlwkoDjcpKPbI6xmHAq7ZwMOId0FLzNV"
+      },
+      {
+        "text": "Recipes",
+        "si": "ACC90nxejdEeXkshbQvL44EObtt-EVTD-PZRDtX-l-DY2oD0dYXoIli9Wihb4JiQTSeA4Dp9MpLVCmY0m9KEWbSqGOpp7pgRHHqU0a3pGwJOkE9m-qJetsUZOwj7b1SbIzj9qGEoFSs8",
+        "link": "https://www.google.com/search?si=ACC90nxejdEeXkshbQvL44EObtt-EVTD-PZRDtX-l-DY2oD0dYXoIli9Wihb4JiQTSeA4Dp9MpLVCmY0m9KEWbSqGOpp7pgRHHqU0a3pGwJOkE9m-qJetsUZOwj7b1SbIzj9qGEoFSs8",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=eggplant&si=ACC90nxejdEeXkshbQvL44EObtt-EVTD-PZRDtX-l-DY2oD0dYXoIli9Wihb4JiQTSeA4Dp9MpLVCmY0m9KEWbSqGOpp7pgRHHqU0a3pGwJOkE9m-qJetsUZOwj7b1SbIzj9qGEoFSs8"
+      }
+    ],
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2bdac05eb574bc191605/images/dc76a1e4633d8ebdc2a338af2a170ccc5d323fc5f72595ddc466b5b8464bc8c4c95a479b1db74ce7.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2bdac05eb574bc191605/images/dc76a1e4633d8ebdc2a338af2a170ccc5d323fc5f72595dd9892c8fdcb9854281f2d41d82eb953af.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2bdac05eb574bc191605/images/dc76a1e4633d8ebdc2a338af2a170ccc5d323fc5f72595dd2c1eb41159a2af677a6f5cdadaefb08d.webp"
+      }
+    ],
+    "description": "Eggplant, aubergine, brinjal, or baigan is a plant species in the nightshade family Solanaceae. Solanum melongena is grown worldwide for its edible fruit. Most commonly purple, the spongy, absorbent fruit is used in several cuisines. Typically used as a vegetable in cooking, it is a berry by botanical definition.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Eggplant"
+    },
+    "scientific_name": "Solanum melongena",
+    "fridge_life": "between five and seven days allrecipes.com",
+    "fridge_life_links": [
+      {
+        "text": "allrecipes.com",
+        "link": "https://www.allrecipes.com/article/how-to-store-eggplant/"
+      }
+    ],
+    "sources_include": "USDAUSDAEggplant20 Calories - 1 cup, cubes (82 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/169228/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/169229/nutrients"
+      }
+    ],
+    "web_results": [
+      {
+        "thumbnail": "https://serpapi.com/searches/670a2bdac05eb574bc191605/images/dc76a1e4633d8ebdc2a338af2a170cccc89cb6c5f494bdd5b1e1b4a20739facdd7dc042a25ff74d9.jpeg",
+        "title": "Roasted Eggplant Recipe - Allrecipes",
+        "snippet": "Directions \u00b7 Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with parchment paper or lightly grease. \u00b7 Slice eggplant in ...",
+        "link": "https://www.allrecipes.com/roasted-eggplant-recipe-6737745"
+      },
+      {
+        "title": "Scientific name",
+        "snippet": "Solanum melongena",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=eggplant+scientific+name&stick=H4sIAAAAAAAAAOPgE-LQz9U3SE7JNtKyz0620k_KzM_JT6_Uzy9KT8zLLM6NT85JLC7OTMtMTizJzM-zKk7OTM0rAfEV8hJzUxUS81IUclOBSvPSF7FKpKanF-Qk5pUooCkDAERinQxoAAAA&sa=X&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQ18AJegQIGxAB"
+      },
+      {
+        "title": "Fridge life",
+        "snippet": "between five and seven days",
+        "source": "allrecipes.com",
+        "link": "https://www.allrecipes.com/article/how-to-store-eggplant/"
+      },
+      {
+        "thumbnail": "https://serpapi.com/searches/670a2bdac05eb574bc191605/images/dc76a1e4633d8ebdc2a338af2a170cccc89cb6c5f494bdd53cfd5b2fe06fc89c20f7db300324e863.jpeg",
+        "title": "Delicious eggplant parmigiana strudel! You will make it every ...",
+        "source": "YouTube \u2022 Ricette Perfette",
+        "source_image": "https://serpapi.com/searches/670a2bdac05eb574bc191605/images/dc76a1e4633d8ebdc2a338af2a170cccc89cb6c5f494bdd59c87d03d2e66261fe258a0b693115d22e8bfb79299173a91.png",
+        "link": "https://www.youtube.com/watch?v=lt26W3L0B5U&vl=en",
+        "duration": "8:04"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Tomato",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm7VOiZhc3riRwtsKYV6D7xUrmTq1ezzxweqp-CUnzONr8hppF_uF8brZO8WXWSIJmesEdbLjSFSXMJhfyEOO-IqFyo8jl0t3DAGI4hVn_2tf6EpqCjMEGGxVdYHCwhHxPsL3b8Kf4M1Lu2z59a2ie89wcGch0gx_ZGhAub6jRwlIwhFbxp08-IYk9_5KfgtiB7duWY9YS-cHQws47NqjUb8S9uHevANp9HfDg_xCIQvlvMPJog%3D%3D&q=Tomato&sa=X&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQs9oBKAB6BAgSEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Tomato&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm7VOiZhc3riRwtsKYV6D7xUrmTq1ezzxweqp-CUnzONr8hppF_uF8brZO8WXWSIJmesEdbLjSFSXMJhfyEOO-IqFyo8jl0t3DAGI4hVn_2tf6EpqCjMEGGxVdYHCwhHxPsL3b8Kf4M1Lu2z59a2ie89wcGch0gx_ZGhAub6jRwlIwhFbxp08-IYk9_5KfgtiB7duWY9YS-cHQws47NqjUb8S9uHevANp9HfDg_xCIQvlvMPJog%3D%3D",
+        "image": "https://serpapi.com/searches/670a2bdac05eb574bc191605/images/dc76a1e4633d8ebdc2a338af2a170ccc03170b5da40f75a139e9d3b699dd43ea7107759d91b37c7c61c77252b3bdf8fc.jpeg"
+      },
+      {
+        "name": "Cucumber",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L33cv_dd4EjJ8ef5-4NXczApXTDCgSyt76ZpRDur0h8ujICeOCMHGT4K1413Oor274s2teVHXto_6EiYwn4RpH_042JR4AmyRsBr84bHlKhrAKuTWfUOociZk8h77-jpJM-BjNvT4_iw2ITGTPNGnS9ri6K_oP_Tl0-fr38vEAE6eszyiIjkAglrRGAYLzSjNF1pc7tjSITADV2Dek5Ol-VaQR4NyqsdLpo8slxSlXrdZtzKEAZpJAEeb8q99tSDexHFJhI%3D&q=Cucumber&sa=X&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQs9oBKAB6BAgSEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Cucumber&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L33cv_dd4EjJ8ef5-4NXczApXTDCgSyt76ZpRDur0h8ujICeOCMHGT4K1413Oor274s2teVHXto_6EiYwn4RpH_042JR4AmyRsBr84bHlKhrAKuTWfUOociZk8h77-jpJM-BjNvT4_iw2ITGTPNGnS9ri6K_oP_Tl0-fr38vEAE6eszyiIjkAglrRGAYLzSjNF1pc7tjSITADV2Dek5Ol-VaQR4NyqsdLpo8slxSlXrdZtzKEAZpJAEeb8q99tSDexHFJhI%3D",
+        "image": "https://serpapi.com/searches/670a2bdac05eb574bc191605/images/dc76a1e4633d8ebdc2a338af2a170ccc03170b5da40f75a139e9d3b699dd43ea3ed8251dd5128a267812dad4e3f28c03.jpeg"
+      },
+      {
+        "name": "Vegetable marrow",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpxgVEK0e5svbnEYs7b1W9HXHdgnJ8ORmFlEib_IYIQMM-4iCz5IekcbK7t8mnXhmVnK_akR8IY4z1n0BuR19onpNm1_F9_SHPN0E8DnGnboJ4pnHOLfRXzVLvMG4Wd-NRkXnmMVyKwqqoosZeyFDAZ8Ifcu7AUIN2CCRokF8Ez8ihwHHVbfMU4WpzQuMWat5U7M9pqa-ecis0SbSEqXBIOzXnoknDDjKBmVyffozckcv686dBzdM7-rxhpuYbiTrWW7l9ChKuAXthZjxruKFGLcpUQ_t&q=Cucurbita+pepo+subsp.+pepo&sa=X&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQs9oBKAB6BAgSEA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Cucurbita+pepo+subsp.+pepo&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpxgVEK0e5svbnEYs7b1W9HXHdgnJ8ORmFlEib_IYIQMM-4iCz5IekcbK7t8mnXhmVnK_akR8IY4z1n0BuR19onpNm1_F9_SHPN0E8DnGnboJ4pnHOLfRXzVLvMG4Wd-NRkXnmMVyKwqqoosZeyFDAZ8Ifcu7AUIN2CCRokF8Ez8ihwHHVbfMU4WpzQuMWat5U7M9pqa-ecis0SbSEqXBIOzXnoknDDjKBmVyffozckcv686dBzdM7-rxhpuYbiTrWW7l9ChKuAXthZjxruKFGLcpUQ_t",
+        "image": "https://serpapi.com/searches/670a2bdac05eb574bc191605/images/dc76a1e4633d8ebdc2a338af2a170ccc03170b5da40f75a139e9d3b699dd43eadc9c87c2ef11ecca80e905dff63130a0.jpeg"
+      },
+      {
+        "name": "Okra",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQQQ3KP9IfonwGVh0pp6a4RAJeCCcQev9-Ky8QKVUsU7oIjFTat05U86Ci1dO3oSHx4Tz47p0F7WVyT0PlVRxcVoBZ8_i3eEPqDsSdIh1X5Z-6WRuVpqpJMJuJFVk1NI_Dv3Z-seK36v_vRfUhYwsNzKK41mP6H6BsLwdygJhpfjR4qZgaCWv4-prUAbjtA7Rqq7DtKQqcGqSDdmV_jcxhp4MQpcl-Fl-3lUUBtV05A--lqEjy7c8utCGkuefKPXagif1820%3D&q=Okra&sa=X&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQs9oBKAB6BAgSEBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Okra&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQQQ3KP9IfonwGVh0pp6a4RAJeCCcQev9-Ky8QKVUsU7oIjFTat05U86Ci1dO3oSHx4Tz47p0F7WVyT0PlVRxcVoBZ8_i3eEPqDsSdIh1X5Z-6WRuVpqpJMJuJFVk1NI_Dv3Z-seK36v_vRfUhYwsNzKK41mP6H6BsLwdygJhpfjR4qZgaCWv4-prUAbjtA7Rqq7DtKQqcGqSDdmV_jcxhp4MQpcl-Fl-3lUUBtV05A--lqEjy7c8utCGkuefKPXagif1820%3D",
+        "image": "https://serpapi.com/searches/670a2bdac05eb574bc191605/images/dc76a1e4633d8ebdc2a338af2a170ccc03170b5da40f75a139e9d3b699dd43ea903588950beb10365d6130c6964290fc.jpeg"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "0.1 g",
+        "0%"
+      ],
+      "cholesterol": [
+        "0 mg",
+        "0%"
+      ],
+      "sodium": [
+        "2 mg",
+        "0%"
+      ],
+      "potassium": [
+        "188 mg",
+        "5%"
+      ],
+      "total_carbohydrate": [
+        "4.8 g",
+        "1%"
+      ],
+      "protein": [
+        "0.8 g",
+        "1%"
+      ]
+    }
+  },
+  "related_questions": [
+    {
+      "question": "Is eggplant actually good for you?",
+      "snippet": "The Bottom Line. Eggplant is a high-fiber, low-calorie food that is rich in nutrients and comes with many potential health benefits. From reducing the risk of heart disease to helping with blood sugar control and weight loss, eggplants are a simple and delicious addition to any healthy diet.",
+      "title": "7 Surprising Health Benefits of Eggplants - Healthline",
+      "date": "Feb 16, 2023",
+      "link": "https://www.healthline.com/nutrition/eggplant-benefits#:~:text=The%20Bottom%20Line,addition%20to%20any%20healthy%20diet.",
+      "displayed_link": "https://www.healthline.com \u203a nutrition \u203a eggplant-benefits",
+      "source_logo": "https://serpapi.com/searches/670a2bdac05eb574bc191605/images/f648dc000bda75e0cdd9ea450a0900412863cec7e06c641ff95c66789f4bf0be.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210TlFuQm5UV3N4WDA1SWFIcE5ZWEJ5WXpJM05WOURSMGcwVjFWckxYaHNYMGhQTFd4ekxWZHFZa0k1TTBvMlVYcFZRbmxMTW5veFJHSnBaRVY0VW5oVWRXZGxYMHRzRWhZeWFYTkxXamRNY0V0bWNYYzFUbTlRZWkxWFYxRlJHaUpCUmxoeVJXTndSMUJWVDI5VVgwRklaa0p1YjB4NExWOVhTMmxwVUd4aWRIVkIiLCJmY3YiOiIzIiwiZWkiOiIyaXNLWjdMcEtmcXc1Tm9Qei1XV1FRIiwicWMiOiJDZ2hsWjJkd2JHRnVkQkFBZlZnU0tUOCIsInF1ZXN0aW9uIjoiSXMgZWdncGxhbnQgYWN0dWFsbHkgZ29vZCBmb3IgeW91PyIsImxrIjoiR2lGcGN5QmxaMmR3YkdGdWRDQmhZM1IxWVd4c2VTQm5iMjlrSUdadmNpQjViM1UiLCJicyI6ImMtUHk0Vkx5TEZaSVRVOHZ5RW5NSzFGSVRDNHBUY3pKcVZSSXo4OVBVVWpMTDFLb3pDLTFsemd2WnFRc3BaaEpTQ0ZYQkplR1IzNjVRa28taUtkUVVKUmFrRmlVaXRBRVVwYWNuNS1kbVpkdUx6SFAya2hUU2oyRE9PVWdrOE16S21GS2lfTVRzeEhxa2xLQktsTVJKbmVZZ2t3dUowNDVWeENYS3Noa3VEVFFsNGtLYVVXbG1TVUtRUHZMVXROVFN4S1RjbEx0SmQ3a0c2bEpxWlFUb1ZhQUVRQSIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210TlFuQm5UV3N4WDA1SWFIcE5ZWEJ5WXpJM05WOURSMGcwVjFWckxYaHNYMGhQTFd4ekxWZHFZa0k1TTBvMlVYcFZRbmxMTW5veFJHSnBaRVY0VW5oVWRXZGxYMHRzRWhZeWFYTkxXamRNY0V0bWNYYzFUbTlRZWkxWFYxRlJHaUpCUmxoeVJXTndSMUJWVDI5VVgwRklaa0p1YjB4NExWOVhTMmxwVUd4aWRIVkIiLCJmY3YiOiIzIiwiZWkiOiIyaXNLWjdMcEtmcXc1Tm9Qei1XV1FRIiwicWMiOiJDZ2hsWjJkd2JHRnVkQkFBZlZnU0tUOCIsInF1ZXN0aW9uIjoiSXMgZWdncGxhbnQgYWN0dWFsbHkgZ29vZCBmb3IgeW91PyIsImxrIjoiR2lGcGN5QmxaMmR3YkdGdWRDQmhZM1IxWVd4c2VTQm5iMjlrSUdadmNpQjViM1UiLCJicyI6ImMtUHk0Vkx5TEZaSVRVOHZ5RW5NSzFGSVRDNHBUY3pKcVZSSXo4OVBVVWpMTDFLb3pDLTFsemd2WnFRc3BaaEpTQ0ZYQkplR1IzNjVRa28taUtkUVVKUmFrRmlVaXRBRVVwYWNuNS1kbVpkdUx6SFAya2hUU2oyRE9PVWdrOE16S21GS2lfTVRzeEhxa2xLQktsTVJKbmVZZ2t3dUowNDVWeENYS3Noa3VEVFFsNGtLYVVXbG1TVUtRUHZMVXROVFN4S1RjbEx0SmQ3a0c2bEpxWlFUb1ZhQUVRQSIsImlkIjoiZmNfMSJ9"
+    },
+    {
+      "question": "How do you prepare eggplant for cooking?",
+      "snippet": "Cut the eggplant into equal-sized chunks, coins, or halves; toss or brush with oil and season with salt, ensuring that the eggplant is fully oiled (but not drenched). Place it on a rimmed baking sheet or roasting pan; broil until golden brown and very tender, flipping once, five to 10 minutes.",
+      "title": "How to Prepare Eggplant So It's Crisp, Not Soggy - Food & Wine",
+      "date": "Jul 22, 2024",
+      "link": "https://www.foodandwine.com/how-to-prepare-eggplant-8680437#:~:text=Cut%20the%20eggplant%20into%20equal,once%2C%20five%20to%2010%20minutes.",
+      "displayed_link": "https://www.foodandwine.com \u203a how-to-prepare-eggpla...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSdVUA_L_WE9k9ymQ8H_omRz0O5iYU_UWZAsucJIr4dKTaZE7y_0GpxI94bg&s",
+      "source_logo": "https://serpapi.com/searches/670a2bdac05eb574bc191605/images/f648dc000bda75e0cdd9ea450a090041d10bc35afc6d547ee3ffc1e078c650c7.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210TlFuQm5UV3N4WDA1SWFIcE5ZWEJ5WXpJM05WOURSMGcwVjFWckxYaHNYMGhQTFd4ekxWZHFZa0k1TTBvMlVYcFZRbmxMTW5veFJHSnBaRVY0VW5oVWRXZGxYMHRzRWhZeWFYTkxXamRNY0V0bWNYYzFUbTlRZWkxWFYxRlJHaUpCUmxoeVJXTndSMUJWVDI5VVgwRklaa0p1YjB4NExWOVhTMmxwVUd4aWRIVkIiLCJmY3YiOiIzIiwiZWkiOiIyaXNLWjdMcEtmcXc1Tm9Qei1XV1FRIiwicWMiOiJDZ2hsWjJkd2JHRnVkQkFBZlZnU0tUOCIsInF1ZXN0aW9uIjoiSG93IGRvIHlvdSBwcmVwYXJlIGVnZ3BsYW50IGZvciBjb29raW5nPyIsImxrIjoiR2lkb2IzY2daRzhnZVc5MUlIQnlaWEJoY21VZ1pXZG5jR3hoYm5RZ1ptOXlJR052YjJ0cGJtYyIsImJzIjoiYy1QeTRWTHlMRlpJVFU4dnlFbk1LMUZJVEM0cFRjekpxVlJJejg5UFVVakxMMUtvekMtMWx6Z3ZacVFzcFpoSlNDRlhCSmVHUjM2NVFrby1pS2RRVUpSYWtGaVVpdEFFVXBhY241LWRtWmR1THpIUDJraFRTajJET09VZ2s4TXpLbUZLaV9NVHN4SHFrbEtCS2xNUkpuZVlna3d1SjA0NVZ4Q1hLc2hrdURUUWw0a0thVVdsbVNVS1FQdkxVdE5UU3hLVGNsTHRKZDdrRzZsSnFaUVRvVmFBRVFBIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210TlFuQm5UV3N4WDA1SWFIcE5ZWEJ5WXpJM05WOURSMGcwVjFWckxYaHNYMGhQTFd4ekxWZHFZa0k1TTBvMlVYcFZRbmxMTW5veFJHSnBaRVY0VW5oVWRXZGxYMHRzRWhZeWFYTkxXamRNY0V0bWNYYzFUbTlRZWkxWFYxRlJHaUpCUmxoeVJXTndSMUJWVDI5VVgwRklaa0p1YjB4NExWOVhTMmxwVUd4aWRIVkIiLCJmY3YiOiIzIiwiZWkiOiIyaXNLWjdMcEtmcXc1Tm9Qei1XV1FRIiwicWMiOiJDZ2hsWjJkd2JHRnVkQkFBZlZnU0tUOCIsInF1ZXN0aW9uIjoiSG93IGRvIHlvdSBwcmVwYXJlIGVnZ3BsYW50IGZvciBjb29raW5nPyIsImxrIjoiR2lkb2IzY2daRzhnZVc5MUlIQnlaWEJoY21VZ1pXZG5jR3hoYm5RZ1ptOXlJR052YjJ0cGJtYyIsImJzIjoiYy1QeTRWTHlMRlpJVFU4dnlFbk1LMUZJVEM0cFRjekpxVlJJejg5UFVVakxMMUtvekMtMWx6Z3ZacVFzcFpoSlNDRlhCSmVHUjM2NVFrby1pS2RRVUpSYWtGaVVpdEFFVXBhY241LWRtWmR1THpIUDJraFRTajJET09VZ2s4TXpLbUZLaV9NVHN4SHFrbEtCS2xNUkpuZVlna3d1SjA0NVZ4Q1hLc2hrdURUUWw0a0thVVdsbVNVS1FQdkxVdE5UU3hLVGNsTHRKZDdrRzZsSnFaUVRvVmFBRVFBIiwiaWQiOiJmY18xIn0%3D"
+    },
+    {
+      "question": "Why do you soak eggplant before cooking?",
+      "snippet": "Soak eggplant slices or cubes in milk for about 30 minutes before cooking. The milk not only tempers the bitterness, but it actually makes for eggplant that is extra creamy, since the vegetable acts like a sponge and soaks up a good amount of milk in its flesh.",
+      "title": "3 Things You Can Do to Temper Bitter Eggplants | The Kitchn",
+      "link": "https://www.thekitchn.com/3-things-you-can-do-you-temper-bitter-eggplants-232835#:~:text=Soak%20eggplant%20slices%20or%20cubes,of%20milk%20in%20its%20flesh.",
+      "displayed_link": "https://www.thekitchn.com \u203a 3-things-you-can-do-you-te...",
+      "source_logo": "https://serpapi.com/searches/670a2bdac05eb574bc191605/images/f648dc000bda75e0cdd9ea450a09004136a9cb8627f73695155f8ad8064be9f3.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210TlFuQm5UV3N4WDA1SWFIcE5ZWEJ5WXpJM05WOURSMGcwVjFWckxYaHNYMGhQTFd4ekxWZHFZa0k1TTBvMlVYcFZRbmxMTW5veFJHSnBaRVY0VW5oVWRXZGxYMHRzRWhZeWFYTkxXamRNY0V0bWNYYzFUbTlRZWkxWFYxRlJHaUpCUmxoeVJXTndSMUJWVDI5VVgwRklaa0p1YjB4NExWOVhTMmxwVUd4aWRIVkIiLCJmY3YiOiIzIiwiZWkiOiIyaXNLWjdMcEtmcXc1Tm9Qei1XV1FRIiwicWMiOiJDZ2hsWjJkd2JHRnVkQkFBZlZnU0tUOCIsInF1ZXN0aW9uIjoiV2h5IGRvIHlvdSBzb2FrIGVnZ3BsYW50IGJlZm9yZSBjb29raW5nPyIsImxrIjoiR2lkM2FIa2daRzhnZVc5MUlITnZZV3NnWldkbmNHeGhiblFnWW1WbWIzSmxJR052YjJ0cGJtYyIsImJzIjoiYy1QeTRWTHlMRlpJVFU4dnlFbk1LMUZJVEM0cFRjekpxVlJJejg5UFVVakxMMUtvekMtMWx6Z3ZacVFzcFpoSlNDRlhCSmVHUjM2NVFrby1pS2RRVUpSYWtGaVVpdEFFVXBhY241LWRtWmR1THpIUDJraFRTajJET09VZ2s4TXpLbUZLaV9NVHN4SHFrbEtCS2xNUkpuZVlna3d1SjA0NVZ4Q1hLc2hrdURUUWw0a0thVVdsbVNVS1FQdkxVdE5UU3hLVGNsTHRKZDdrRzZsSnFaUVRvVmFBRVFBIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210TlFuQm5UV3N4WDA1SWFIcE5ZWEJ5WXpJM05WOURSMGcwVjFWckxYaHNYMGhQTFd4ekxWZHFZa0k1TTBvMlVYcFZRbmxMTW5veFJHSnBaRVY0VW5oVWRXZGxYMHRzRWhZeWFYTkxXamRNY0V0bWNYYzFUbTlRZWkxWFYxRlJHaUpCUmxoeVJXTndSMUJWVDI5VVgwRklaa0p1YjB4NExWOVhTMmxwVUd4aWRIVkIiLCJmY3YiOiIzIiwiZWkiOiIyaXNLWjdMcEtmcXc1Tm9Qei1XV1FRIiwicWMiOiJDZ2hsWjJkd2JHRnVkQkFBZlZnU0tUOCIsInF1ZXN0aW9uIjoiV2h5IGRvIHlvdSBzb2FrIGVnZ3BsYW50IGJlZm9yZSBjb29raW5nPyIsImxrIjoiR2lkM2FIa2daRzhnZVc5MUlITnZZV3NnWldkbmNHeGhiblFnWW1WbWIzSmxJR052YjJ0cGJtYyIsImJzIjoiYy1QeTRWTHlMRlpJVFU4dnlFbk1LMUZJVEM0cFRjekpxVlJJejg5UFVVakxMMUtvekMtMWx6Z3ZacVFzcFpoSlNDRlhCSmVHUjM2NVFrby1pS2RRVUpSYWtGaVVpdEFFVXBhY241LWRtWmR1THpIUDJraFRTajJET09VZ2s4TXpLbUZLaV9NVHN4SHFrbEtCS2xNUkpuZVlna3d1SjA0NVZ4Q1hLc2hrdURUUWw0a0thVVdsbVNVS1FQdkxVdE5UU3hLVGNsTHRKZDdrRzZsSnFaUVRvVmFBRVFBIiwiaWQiOiJmY18xIn0%3D"
+    },
+    {
+      "question": "Why eggplant is a fruit or vegetable?",
+      "snippet": "Most people think eggplants are a vegetable, however, because the plant has seeds it's technically a fruit! Eggplants are related to tomatoes and peppers\u2014and are in the nightshade family.",
+      "title": "August Fruit of the Month: Eggplant - HealthySD.gov",
+      "link": "https://healthysd.gov/fruit-of-the-month-eggplant/#:~:text=Most%20people%20think%20eggplants%20are,are%20in%20the%20nightshade%20family.",
+      "displayed_link": "https://healthysd.gov \u203a fruit-of-the-month-eggplant",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbO9egachNkkpm9fRBc2rOEzE5I0ELlEtO1Eg4x25tUg&s",
+      "source_logo": "https://serpapi.com/searches/670a2bdac05eb574bc191605/images/f648dc000bda75e0cdd9ea450a09004146ab8e7ca42f105fd42091ce62fedff4.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210TlFuQm5UV3N4WDA1SWFIcE5ZWEJ5WXpJM05WOURSMGcwVjFWckxYaHNYMGhQTFd4ekxWZHFZa0k1TTBvMlVYcFZRbmxMTW5veFJHSnBaRVY0VW5oVWRXZGxYMHRzRWhZeWFYTkxXamRNY0V0bWNYYzFUbTlRZWkxWFYxRlJHaUpCUmxoeVJXTndSMUJWVDI5VVgwRklaa0p1YjB4NExWOVhTMmxwVUd4aWRIVkIiLCJmY3YiOiIzIiwiZWkiOiIyaXNLWjdMcEtmcXc1Tm9Qei1XV1FRIiwicWMiOiJDZ2hsWjJkd2JHRnVkQkFBZlZnU0tUOCIsInF1ZXN0aW9uIjoiV2h5IGVnZ3BsYW50IGlzIGEgZnJ1aXQgb3IgdmVnZXRhYmxlPyIsImxrIjoiR2lSM2FIa2daV2RuY0d4aGJuUWdhWE1nWVNCbWNuVnBkQ0J2Y2lCMlpXZGxkR0ZpYkdVIiwiYnMiOiJjLVB5NFZMeUxGWklUVTh2eUVuTUsxRklUQzRwVGN6SnFWUkl6ODlQVVVqTEwxS296Qy0xbHpndlpxUXNwWmhKU0NGWEJKZUdSMzY1UWtvLWlLZFFVSlJha0ZpVWl0QUVVcGFjbjUtZG1aZHVMekhQMmtoVFNqMkRPT1VnazhNekttRktpX01Uc3hIcWtsS0JLbE1SSm5lWWdrd3VKMDQ1VnhDWEtzaGt1RFRRbDRrS2FVV2xtU1VLUVB2TFV0TlRTeEtUY2xMdEpkN2tHNmxKcVpRVG9WYUFFUUEiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210TlFuQm5UV3N4WDA1SWFIcE5ZWEJ5WXpJM05WOURSMGcwVjFWckxYaHNYMGhQTFd4ekxWZHFZa0k1TTBvMlVYcFZRbmxMTW5veFJHSnBaRVY0VW5oVWRXZGxYMHRzRWhZeWFYTkxXamRNY0V0bWNYYzFUbTlRZWkxWFYxRlJHaUpCUmxoeVJXTndSMUJWVDI5VVgwRklaa0p1YjB4NExWOVhTMmxwVUd4aWRIVkIiLCJmY3YiOiIzIiwiZWkiOiIyaXNLWjdMcEtmcXc1Tm9Qei1XV1FRIiwicWMiOiJDZ2hsWjJkd2JHRnVkQkFBZlZnU0tUOCIsInF1ZXN0aW9uIjoiV2h5IGVnZ3BsYW50IGlzIGEgZnJ1aXQgb3IgdmVnZXRhYmxlPyIsImxrIjoiR2lSM2FIa2daV2RuY0d4aGJuUWdhWE1nWVNCbWNuVnBkQ0J2Y2lCMlpXZGxkR0ZpYkdVIiwiYnMiOiJjLVB5NFZMeUxGWklUVTh2eUVuTUsxRklUQzRwVGN6SnFWUkl6ODlQVVVqTEwxS296Qy0xbHpndlpxUXNwWmhKU0NGWEJKZUdSMzY1UWtvLWlLZFFVSlJha0ZpVWl0QUVVcGFjbjUtZG1aZHVMekhQMmtoVFNqMkRPT1VnazhNekttRktpX01Uc3hIcWtsS0JLbE1SSm5lWWdrd3VKMDQ1VnhDWEtzaGt1RFRRbDRrS2FVV2xtU1VLUVB2TFV0TlRTeEtUY2xMdEpkN2tHNmxKcVpRVG9WYUFFUUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Eggplant",
+      "link": "https://en.wikipedia.org/wiki/Eggplant",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Eggplant&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQFnoECDwQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Eggplant",
+      "thumbnail": "https://serpapi.com/searches/670a2bdac05eb574bc191605/images/1de871f650450b76e4318d1cce48e822991740b9a2eff600450b3cfb612f59d8.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2bdac05eb574bc191605/images/1de871f650450b76e4318d1cce48e822a8b605a4bb8196e9fbd711813960fced.webp",
+      "snippet": "Typically used as a vegetable in cooking, it is a berry by botanical definition. As a member of the genus Solanum, it is related to the tomato, chili pepper, ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "List of eggplant cultivars",
+            "link": "https://en.wikipedia.org/wiki/List_of_eggplant_cultivars"
+          },
+          {
+            "title": "List of eggplant dishes",
+            "link": "https://en.wikipedia.org/wiki/List_of_eggplant_dishes"
+          },
+          {
+            "title": "Eggplant emoji",
+            "link": "https://en.wikipedia.org/wiki/Eggplant_emoji"
+          },
+          {
+            "title": "Lao eggplant",
+            "link": "https://en.wikipedia.org/wiki/Lao_eggplant"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Eggplant Parmesan Recipe",
+      "link": "https://www.loveandlemons.com/eggplant-parmesan/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.loveandlemons.com/eggplant-parmesan/&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQFnoECF4QAQ",
+      "displayed_link": "https://www.loveandlemons.com \u203a Recipes",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6T_OTCJU2_wNx3QPytBO8obf8sXHvJ2sP9z-FAtYVh2Pxq-BSc9Y&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2bdac05eb574bc191605/images/1de871f650450b76e4318d1cce48e8225d904365ab8ccd0c24492806f4083a0b.webp",
+      "snippet": "This baked eggplant parmesan recipe will become one of your family favorites! Crispy breaded eggplant is layered with marinara, herbs & mozzarella cheese.",
+      "snippet_highlighted_words": [
+        "eggplant",
+        "eggplant"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "hr": 1
+          },
+          "extensions": [
+            "5.0(440)",
+            "1 hr"
+          ]
+        }
+      },
+      "source": "Love and Lemons"
+    },
+    {
+      "position": 3,
+      "title": "I could eat these eggplants every day! Easy, quick and ...",
+      "link": "https://www.youtube.com/watch?v=Sbd-TBmvW-8",
+      "displayed_link": "1.5M+ views \u00b7 2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/Sbd-TBmvW-8/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3lAIZtOgAovLjnTCNPj-csJEEoaXQ",
+      "favicon": "https://serpapi.com/searches/670a2bdac05eb574bc191605/images/1de871f650450b76e4318d1cce48e822d104f03528d79158d2b4255aaf28a130.png",
+      "snippet": "I could eat these eggplants every day! Easy, quick and delicious garlic recipe! No frying! Hello friends! Baked eggplants with garlic and ...",
+      "duration": "11:09",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQlrTgN65rARX0_6Nl6vTKGF8ub7ztaDW2g7Q",
+      "source": "YouTube \u00b7 Ricette Perfette"
+    },
+    {
+      "position": 4,
+      "title": "Spiced Roasted Eggplant Recipe - NYT Cooking",
+      "link": "https://cooking.nytimes.com/recipes/1025836-spiced-roasted-eggplant",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cooking.nytimes.com/recipes/1025836-spiced-roasted-eggplant&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQFnoECGAQAQ",
+      "displayed_link": "https://cooking.nytimes.com \u203a recipes \u203a 1025836-spice...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmM_bCSC17Z4lo8PVoTuR7inhxHwmiXZ1VKnxXqjnHKBtxLCnIuO12&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2bdac05eb574bc191605/images/1de871f650450b76e4318d1cce48e822e01a1dd21a9d2ad1a7ac291823f1f0cb.webp",
+      "date": "Aug 9, 2024",
+      "snippet": "This simple eggplant recipe yields soft and deliciously spiced rounds. Eat them as a side with meat or fish, or as a vegetable main, ...",
+      "snippet_highlighted_words": [
+        "eggplant"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Roasted Eggplant",
+            "link": "https://cooking.nytimes.com/recipes/1016442-roasted-eggplant"
+          },
+          {
+            "title": "Roasted Eggplant With Spiced...",
+            "link": "https://cooking.nytimes.com/recipes/12786-roasted-eggplant-with-spiced-chickpeas"
+          },
+          {
+            "title": "Pan-Roasted Eggplant With...",
+            "link": "https://cooking.nytimes.com/recipes/1019620-pan-roasted-eggplant-with-peanut-chile-sauce"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "min": 45
+          },
+          "extensions": [
+            "5.0(597)",
+            "45 min"
+          ]
+        }
+      },
+      "source": "NYT Cooking"
+    },
+    {
+      "position": 5,
+      "title": "Software Test Automation",
+      "link": "https://www.keysight.com/us/en/products/software/software-testing.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.keysight.com/us/en/products/software/software-testing.html&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQFnoECFwQAQ",
+      "displayed_link": "https://www.keysight.com \u203a products \u203a software-testing",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKZ1Aa-r-EewJTh2C-aJBTmG61vmv84uvQJGMGkilKtGBf4e5C6XFF&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2bdac05eb574bc191605/images/1de871f650450b76e4318d1cce48e822d08b3ddb17ccdb8efc3cacdbd8c261e0.webp",
+      "snippet": "Eggplant tests your application using optical character recognition (OCR) and computer vision. This enables testers to specifically test what customers see when ...",
+      "snippet_highlighted_words": [
+        "Eggplant"
+      ],
+      "source": "Keysight"
+    },
+    {
+      "position": 6,
+      "title": "Eggplant: The Secret Lives of Games",
+      "link": "https://eggplant.show/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://eggplant.show/&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQFnoECFsQAQ",
+      "displayed_link": "https://eggplant.show",
+      "favicon": "https://serpapi.com/searches/670a2bdac05eb574bc191605/images/1de871f650450b76e4318d1cce48e822a2dca69c6f9b54dce5ff607b759cc679.webp",
+      "snippet": "Welcome to Eggplant: The Secret Lives of Games! Candid conversations with game creators that dive deep into the art, craft, and process of making games.",
+      "snippet_highlighted_words": [
+        "Eggplant"
+      ],
+      "source": "Eggplant: The Secret Lives of Games"
+    },
+    {
+      "position": 7,
+      "title": "Eggplant Definition & Meaning",
+      "link": "https://www.merriam-webster.com/dictionary/eggplant",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.merriam-webster.com/dictionary/eggplant&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQFnoECF0QAQ",
+      "displayed_link": "https://www.merriam-webster.com \u203a dictionary \u203a eggpl...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqvpna9CfXBgD-yW4z9uApmIkdXix7HszGJQclnlxzckVSZthTynO9&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2bdac05eb574bc191605/images/1de871f650450b76e4318d1cce48e822dc43ef153d64c109301a491c3e1566d8.webp",
+      "date": "Oct 4, 2024",
+      "snippet": "The meaning of EGGPLANT is a widely cultivated perennial Asian herb (Solanum melongena) of the nightshade family yielding edible fruit.",
+      "snippet_highlighted_words": [
+        "EGGPLANT"
+      ],
+      "source": "Merriam-Webster"
+    },
+    {
+      "position": 8,
+      "title": "Roasted Eggplant Recipe",
+      "link": "https://www.allrecipes.com/roasted-eggplant-recipe-6737745",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.allrecipes.com/roasted-eggplant-recipe-6737745&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQFnoECGMQAQ",
+      "displayed_link": "https://www.allrecipes.com \u203a ... \u203a Vegetables \u203a Eggplant",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREfk5EkxmOzHvvQmCWskr8MDf9ixTDJhb42AqtXly73X8qCYa6mMhA&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2bdac05eb574bc191605/images/1de871f650450b76e4318d1cce48e822993359e2aee191bba58c584dacbf7b21.webp",
+      "date": "Jul 30, 2024",
+      "snippet": "Quick roasted eggplant slices cooked in the oven with olive oil until crisp and tender. Serve with lemon juice for a tasty side dish.",
+      "snippet_highlighted_words": [
+        "eggplant"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.7,
+            "min": 40
+          },
+          "extensions": [
+            "4.7(167)",
+            "40 min"
+          ]
+        }
+      },
+      "source": "Allrecipes"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Eggplant&stick=H4sIAAAAAAAAAONgFuLQz9U3SE7JNlKCs7QEgzNTUssTK4v9UitKgktSC4p_MYoFpOYX5KQqJOYU5ysUpyYWJWcopOUXLWLlcE1PL8hJzCvZwcp4i02Softpj7GNJFuF4LTmxieeRxQ_zn23pUS-lB0A1QC-YGwAAAA&sa=X&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQzO0BKAR6BAgSEBM",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Eggplant&stick=H4sIAAAAAAAAAONgFuLQz9U3SE7JNlKCs7QEgzNTUssTK4v9UitKgktSC4p_MYoFpOYX5KQqJOYU5ysUpyYWJWcopOUXLWLlcE1PL8hJzCvZwcp4i02Softpj7GNJFuF4LTmxieeRxQ_zn23pUS-lB0A1QC-YGwAAAA",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Eggplant vs brinjal",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Eggplant+vs+brinjal&sa=X&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQ1QJ6BQiEARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Eggplant+vs+brinjal"
+    },
+    {
+      "block_position": 1,
+      "query": "Eggplant recipes",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Eggplant+recipes&sa=X&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQ1QJ6BQiGARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Eggplant+recipes"
+    },
+    {
+      "block_position": 1,
+      "query": "Eggplant cutlets",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Eggplant+cutlets&sa=X&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQ1QJ6BQiFARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Eggplant+cutlets"
+    },
+    {
+      "block_position": 1,
+      "query": "Is eggplant a vegetable",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Is+eggplant+a+vegetable&sa=X&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQ1QJ6BQiDARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Is+eggplant+a+vegetable"
+    },
+    {
+      "block_position": 1,
+      "query": "Eggplant parmigiana",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Eggplant+parmigiana&sa=X&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQ1QJ6BQiJARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Eggplant+parmigiana"
+    },
+    {
+      "block_position": 1,
+      "query": "Simple eggplant Parmesan",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Simple+eggplant+Parmesan&sa=X&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQ1QJ6BQiCARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Simple+eggplant+Parmesan"
+    },
+    {
+      "block_position": 1,
+      "query": "Simple eggplant recipes",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Simple+eggplant+recipes&sa=X&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQ1QJ6BQiHARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Simple+eggplant+recipes"
+    },
+    {
+      "block_position": 1,
+      "query": "Why brinjal is called eggplant",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Why+brinjal+is+called+eggplant&sa=X&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQ1QJ6BQiIARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Why+brinjal+is+called+eggplant"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Any good ideas on what do make with Eggplant?",
+      "link": "https://www.reddit.com/r/Cooking/comments/1b7f90o/any_good_ideas_on_what_do_make_with_eggplant/",
+      "date": "7mo ago",
+      "extensions": [
+        "r/Cooking",
+        "120+ comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "What are your favorite eggplant recipes?",
+      "link": "https://www.reddit.com/r/veganrecipes/comments/175cfhf/what_are_your_favorite_eggplant_recipes/",
+      "date": "1y ago",
+      "extensions": [
+        "r/veganrecipes",
+        "70+ comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "Baked Eggplant",
+      "link": "https://squarefoot.forumotion.com/t24138-baked-eggplant",
+      "date": "3mo ago",
+      "source": "Square Foot Gardening Forum"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=eggplant&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=2isKZ7LpKfqw5NoPz-WWQQ&start=10&sa=N&sstk=AagrsugtIsThhwkVuumn4_CRmVhF99WLCi4GbFLXAtSbzzGF5x77BOK8mNCySNa7KbILlPs5-DfRhG0PFSvT1WxLq6H9xhdz-fqxCg&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQ8NMDegQIERAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=eggplant&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=2isKZ7LpKfqw5NoPz-WWQQ&start=10&sa=N&sstk=AagrsugtIsThhwkVuumn4_CRmVhF99WLCi4GbFLXAtSbzzGF5x77BOK8mNCySNa7KbILlPs5-DfRhG0PFSvT1WxLq6H9xhdz-fqxCg&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQ8tMDegQIERAE",
+      "3": "https://www.google.com/search?q=eggplant&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=2isKZ7LpKfqw5NoPz-WWQQ&start=20&sa=N&sstk=AagrsugtIsThhwkVuumn4_CRmVhF99WLCi4GbFLXAtSbzzGF5x77BOK8mNCySNa7KbILlPs5-DfRhG0PFSvT1WxLq6H9xhdz-fqxCg&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQ8tMDegQIERAG",
+      "4": "https://www.google.com/search?q=eggplant&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=2isKZ7LpKfqw5NoPz-WWQQ&start=30&sa=N&sstk=AagrsugtIsThhwkVuumn4_CRmVhF99WLCi4GbFLXAtSbzzGF5x77BOK8mNCySNa7KbILlPs5-DfRhG0PFSvT1WxLq6H9xhdz-fqxCg&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQ8tMDegQIERAI",
+      "5": "https://www.google.com/search?q=eggplant&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=2isKZ7LpKfqw5NoPz-WWQQ&start=40&sa=N&sstk=AagrsugtIsThhwkVuumn4_CRmVhF99WLCi4GbFLXAtSbzzGF5x77BOK8mNCySNa7KbILlPs5-DfRhG0PFSvT1WxLq6H9xhdz-fqxCg&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQ8tMDegQIERAK",
+      "6": "https://www.google.com/search?q=eggplant&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=2isKZ7LpKfqw5NoPz-WWQQ&start=50&sa=N&sstk=AagrsugtIsThhwkVuumn4_CRmVhF99WLCi4GbFLXAtSbzzGF5x77BOK8mNCySNa7KbILlPs5-DfRhG0PFSvT1WxLq6H9xhdz-fqxCg&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQ8tMDegQIERAM",
+      "7": "https://www.google.com/search?q=eggplant&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=2isKZ7LpKfqw5NoPz-WWQQ&start=60&sa=N&sstk=AagrsugtIsThhwkVuumn4_CRmVhF99WLCi4GbFLXAtSbzzGF5x77BOK8mNCySNa7KbILlPs5-DfRhG0PFSvT1WxLq6H9xhdz-fqxCg&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQ8tMDegQIERAO",
+      "8": "https://www.google.com/search?q=eggplant&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=2isKZ7LpKfqw5NoPz-WWQQ&start=70&sa=N&sstk=AagrsugtIsThhwkVuumn4_CRmVhF99WLCi4GbFLXAtSbzzGF5x77BOK8mNCySNa7KbILlPs5-DfRhG0PFSvT1WxLq6H9xhdz-fqxCg&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQ8tMDegQIERAQ",
+      "9": "https://www.google.com/search?q=eggplant&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=2isKZ7LpKfqw5NoPz-WWQQ&start=80&sa=N&sstk=AagrsugtIsThhwkVuumn4_CRmVhF99WLCi4GbFLXAtSbzzGF5x77BOK8mNCySNa7KbILlPs5-DfRhG0PFSvT1WxLq6H9xhdz-fqxCg&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQ8tMDegQIERAS",
+      "10": "https://www.google.com/search?q=eggplant&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=2isKZ7LpKfqw5NoPz-WWQQ&start=90&sa=N&sstk=AagrsugtIsThhwkVuumn4_CRmVhF99WLCi4GbFLXAtSbzzGF5x77BOK8mNCySNa7KbILlPs5-DfRhG0PFSvT1WxLq6H9xhdz-fqxCg&ved=2ahUKEwiyvqadr4iJAxV6GFkFHc-yJQgQ8tMDegQIERAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=eggplant&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=eggplant&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=eggplant&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=eggplant&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=eggplant&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=eggplant&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=eggplant&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=eggplant&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=eggplant&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=eggplant&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=eggplant&start=90"
+    }
+  }
+}

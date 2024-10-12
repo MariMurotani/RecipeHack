@@ -1,0 +1,738 @@
+{
+  "search_metadata": {
+    "id": "670a30014791c40e346830b8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9eb4517b474765f5/670a30014791c40e346830b8.json",
+    "created_at": "2024-10-12 08:14:57 UTC",
+    "processed_at": "2024-10-12 08:14:57 UTC",
+    "google_url": "https://www.google.com/search?q=lasagna&oq=lasagna&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/9eb4517b474765f5/670a30014791c40e346830b8.html",
+    "total_time_taken": 1.71
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "lasagna",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "lasagna",
+    "total_results": 139000000,
+    "time_taken_displayed": 0.26,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "recipes_results": [
+    {
+      "title": "World's Best Lasagna",
+      "link": "https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/",
+      "source": "Allrecipes",
+      "rating": 4.8,
+      "reviews": 21000,
+      "total_time": "3 hr 15 min",
+      "ingredients": [
+        "Sweet italian sausage",
+        "lean ground beef",
+        "ricotta cheese",
+        "tomato sauce",
+        "lasagna noodles"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a30014791c40e346830b8/images/d893d4937fc715caad58f6c0cd95588d6be2886d728a9002ebed948d3544a77e.jpeg"
+    },
+    {
+      "title": "Easy Homemade Lasagna",
+      "link": "https://www.spendwithpennies.com/easy-homemade-lasagna/",
+      "source": "Spend With Pennies",
+      "rating": 5.0,
+      "reviews": 3100,
+      "total_time": "1 hr 45 min",
+      "ingredients": [
+        "Cottage cheese",
+        "italian sausage",
+        "lean ground beef",
+        "lasagna noodles",
+        "pasta sauce"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a30014791c40e346830b8/images/d893d4937fc715caad58f6c0cd95588d0690d00182de78c639904026f40c6d1d.jpeg"
+    },
+    {
+      "title": "Easy Lasagna Recipe",
+      "link": "https://thecozycook.com/easy-lasagna-recipe/",
+      "source": "The Cozy Cook",
+      "rating": 5.0,
+      "reviews": 87,
+      "total_time": "1 hr 40 min",
+      "ingredients": [
+        "Ground italian sausage",
+        "ground beef",
+        "ricotta cheese",
+        "lasagna noodles",
+        "marinara sauce"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a30014791c40e346830b8/images/d893d4937fc715caad58f6c0cd95588dbf2293df78e9c6b76ebbdc9093463942.jpeg"
+    }
+  ],
+  "knowledge_graph": {
+    "title": "Lasagna",
+    "type": "Pasta dish",
+    "entity_type": "food, foods_and_dishes",
+    "kgmid": "/m/011jxn",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/011jxn&hl=en-US&q=Lasagna",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F011jxn&location=Austin%2CTexas%2CUnited+States&q=Lasagna",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a30014791c40e346830b8/images/53ebce7fa14e0529b2d4753ee52b5bc859a2ea1843174eece7acfff80a2204453d9b3e6404c4df3d.jpeg",
+        "source": "https://pastafits.org/pasta-shapes/lasagna/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a30014791c40e346830b8/images/53ebce7fa14e0529b2d4753ee52b5bc859a2ea1843174eecde04a66b302d839748ee8408031bd265.jpeg",
+        "source": "https://www.bonappetit.com/recipe/ba-best-lasagna"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a30014791c40e346830b8/images/53ebce7fa14e0529b2d4753ee52b5bc859a2ea1843174eec36f66caf1b2b0d31d6b6136a8ed1fb2f.jpeg",
+        "source": "https://www.spendwithpennies.com/easy-homemade-lasagna/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a30014791c40e346830b8/images/53ebce7fa14e0529b2d4753ee52b5bc859a2ea1843174eec022abf30b2ffad07da656f0f9b48bd34.jpeg",
+        "source": "https://newmansown.com/recipes/homestyle-lasagna/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a30014791c40e346830b8/images/53ebce7fa14e0529b2d4753ee52b5bc859a2ea1843174eec0441f8a45b1ddd331b1eeeb176d52e54.jpeg",
+        "source": "https://www.jessicagavin.com/lasagna-with-meat-sauce/"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDoETfMY5u-SRIobc62-SeqxVs8W3dS1vvczMqjC4p7A&s",
+        "source": "https://galbanicheese.com/recipes/classic-cheese-lasagna"
+      }
+    ],
+    "description": "Lasagna, also known as lasagne, is a type of pasta, possibly one of the oldest types, made in very wide, flat sheets. The same-named Italian dish is made of stacked layers of lasagna alternating with fillings such as rag\u00f9, b\u00e9chamel sauce, vegetables, cheeses, and seasonings and spices.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Lasagna"
+    },
+    "origin": "Italy",
+    "origin_links": [
+      {
+        "text": "Italy",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Italy&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm7K7IDonjKY_JcjUW7OdolI9L-JoUEauFOSJ8rPUNU4qflnF7ezqAM0F9O72pB79khNSzhdd4I6Xr37-suCeWew7VkUQg-oQwnfRJ-5WbssHVH783JjD9EZrZ-gd2czbEeTiUOkfkfYLUVsStahhWtQly_WN&sa=X&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8QmxMoAHoECCsQAg"
+      }
+    ],
+    "type_of_dish": "Pasta dish",
+    "type_of_dish_links": [
+      {
+        "text": "Pasta dish",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Pasta+dish&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQWTRsOCf_sWIxZPqmGtHBsafaJhZgS06v5BDzmnALDMUY1FJ7iFEf6-traOWtIJQ6tHjDsW7ENauZXWFJmJFNkBZl8fPuy6yJJagfnln_y3RE1FmmfgTlcHwED4GgRswNDYrRFEgW4HC4vmdbd755fu7v-ol&sa=X&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8QmxMoAHoECCoQAg"
+      }
+    ],
+    "sources_include": "USDAUSDAUSDAUSDALasagna, with meat sauce166 Calories - 1 piece side (123 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173333/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/172106/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/172114/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "B\u00e9chamel sauce",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L5sPeArvQp6yeD3DsBx3weUiIdQFt5FpTz7-WjLqJDlPIZnryZi691g9KZTWsLcLjqIZIccVksbkghkC58KgQTJDGDg25SpA4UwNVAWH9sJUxqvUWF70CsrR6akeHx4KefDk2nE3mYzOrPpJlr-fZohtW0MmSezegSPfAUO1KdXdD1_9Cb-xhLyL5kRJP5jWB8fPFYgoXdwHGcMt-ArB70jZNPP08mgCmBaLxG20Q7pQ6cgzFAIe0gP3n5k1uV9d3dDKCfM%3D&q=B%C3%A9chamel+sauce&sa=X&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Qs9oBKAB6BAgsEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=B%C3%A9chamel+sauce&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L5sPeArvQp6yeD3DsBx3weUiIdQFt5FpTz7-WjLqJDlPIZnryZi691g9KZTWsLcLjqIZIccVksbkghkC58KgQTJDGDg25SpA4UwNVAWH9sJUxqvUWF70CsrR6akeHx4KefDk2nE3mYzOrPpJlr-fZohtW0MmSezegSPfAUO1KdXdD1_9Cb-xhLyL5kRJP5jWB8fPFYgoXdwHGcMt-ArB70jZNPP08mgCmBaLxG20Q7pQ6cgzFAIe0gP3n5k1uV9d3dDKCfM%3D",
+        "image": "https://serpapi.com/searches/670a30014791c40e346830b8/images/53ebce7fa14e0529b2d4753ee52b5bc84490d821e15f67d2dca47c5108cb9d43c20142bdcdbc29e1f9ba7eb228c90318.jpeg"
+      },
+      {
+        "name": "Bolognese sauce",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L5T6EHzbQldOO58ygUttP2CFcAoJ-KPMpz6OME2lVxw5fNqIFfESv0Cp9R7xhe1MwmXlb7f1tS5SYRudxrpdNpfjDwP0n_Hmb8XwrEs5CWv1pSDe9mhSBDD0dcM9_QSjPmgenCyRT0GyyUSpGkE0uPrC66PYNwYIzpgWrWwwcmGWSCawbDu_CZhxUuC4sSqa91ZWAS3D9tzrplR7KixORPuPdnnHu31fHMjI20cEbLcRnad8D24czrWaC22OITJDDM8ZdjI%3D&q=Bolognese+sauce&sa=X&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Qs9oBKAB6BAgsEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Bolognese+sauce&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L5T6EHzbQldOO58ygUttP2CFcAoJ-KPMpz6OME2lVxw5fNqIFfESv0Cp9R7xhe1MwmXlb7f1tS5SYRudxrpdNpfjDwP0n_Hmb8XwrEs5CWv1pSDe9mhSBDD0dcM9_QSjPmgenCyRT0GyyUSpGkE0uPrC66PYNwYIzpgWrWwwcmGWSCawbDu_CZhxUuC4sSqa91ZWAS3D9tzrplR7KixORPuPdnnHu31fHMjI20cEbLcRnad8D24czrWaC22OITJDDM8ZdjI%3D",
+        "image": "https://serpapi.com/searches/670a30014791c40e346830b8/images/53ebce7fa14e0529b2d4753ee52b5bc84490d821e15f67d2dca47c5108cb9d433033c2037be4518b1ee8b172685c641c.jpeg"
+      },
+      {
+        "name": "Pasta",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm2tBCh2DTJVkPLIJveJQ_c30XhH7651sDXF8LExAxOjTUolKSJDwK9F63vexIAU1cfeqSk-30aWBJDXSN-27YVjSmXPuPg2BXNQ7rpg0JRAhJGSaNUoEU5mPXhQi1ElTws4CBHUd7cmdWXTQXRS5I4H5FcyR3ecpoQVHUn2lcknv_M135ZMyPxFU0hqpceJSn3URT0v-Yv2ACJ9lCxve4KEUB2Dy1HjCbWATJbuzl5Iq8kArRA%3D%3D&q=Pasta&sa=X&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Qs9oBKAB6BAgsEA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pasta&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm2tBCh2DTJVkPLIJveJQ_c30XhH7651sDXF8LExAxOjTUolKSJDwK9F63vexIAU1cfeqSk-30aWBJDXSN-27YVjSmXPuPg2BXNQ7rpg0JRAhJGSaNUoEU5mPXhQi1ElTws4CBHUd7cmdWXTQXRS5I4H5FcyR3ecpoQVHUn2lcknv_M135ZMyPxFU0hqpceJSn3URT0v-Yv2ACJ9lCxve4KEUB2Dy1HjCbWATJbuzl5Iq8kArRA%3D%3D",
+        "image": "https://serpapi.com/searches/670a30014791c40e346830b8/images/53ebce7fa14e0529b2d4753ee52b5bc84490d821e15f67d2dca47c5108cb9d43ac06121cbd8660c6185bac8639d53368.jpeg"
+      },
+      {
+        "name": "Pancake",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LwsXXbw0M4OMQEbyTEKo93yiJpigdT2h1bsUULhTnmSUR0a22Q7vRdymNOkFb5aocR7IlGh9BGT48BnptV4w2ta-i6pv32uREaWUmdGGjcrnNkJ5NKk5s-mmwd315Vh8Too6gSi50aX93_KCPeyMQKkcmXqXM7VfastaI_pfaGefk7bAw3p5lZKtI9J2XvMYw1-iHJVbNpKUTEvrL8Wuy7tKdO9h7yYNHPQ_Y7uLux9_K4G9UShKByZmMLs01VOyySKqz8I%3D&q=Pancake&sa=X&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Qs9oBKAB6BAgsEBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pancake&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LwsXXbw0M4OMQEbyTEKo93yiJpigdT2h1bsUULhTnmSUR0a22Q7vRdymNOkFb5aocR7IlGh9BGT48BnptV4w2ta-i6pv32uREaWUmdGGjcrnNkJ5NKk5s-mmwd315Vh8Too6gSi50aX93_KCPeyMQKkcmXqXM7VfastaI_pfaGefk7bAw3p5lZKtI9J2XvMYw1-iHJVbNpKUTEvrL8Wuy7tKdO9h7yYNHPQ_Y7uLux9_K4G9UShKByZmMLs01VOyySKqz8I%3D",
+        "image": "https://serpapi.com/searches/670a30014791c40e346830b8/images/53ebce7fa14e0529b2d4753ee52b5bc84490d821e15f67d2dca47c5108cb9d438c0991a803311d75e7e919e338326fb0.jpeg"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "6 g",
+        "9%"
+      ],
+      "cholesterol": [
+        "21 mg",
+        "7%"
+      ],
+      "sodium": [
+        "459 mg",
+        "19%"
+      ],
+      "potassium": [
+        "241 mg",
+        "6%"
+      ],
+      "total_carbohydrate": [
+        "19 g",
+        "6%"
+      ],
+      "protein": [
+        "9 g",
+        "18%"
+      ]
+    }
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=lasagna&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=pfonNdeFVwADSM%252CjV5GOYX0cVs-yM%252C%252Fm%252F011jxn%253BsRRMtD4qGyTZrM%252C8d9mhSOXLoCbTM%252C_%253BZ0edHLWke2A1nM%252CzKWglaCMew62sM%252C_%253BnaRXgpyCr9P4dM%252Co0L_k3gDQCll-M%252C_%253B8lPJQ81noldVIM%252CWrQ_6eAeUeHVoM%252C_%253BzHFHgJ0sLf46IM%252CuTzLWQkJFYtv5M%252C_&usg=AI4_-kSY1oJJ53WHfcXtDLXcUkA9BKwv4w&sa=X&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Q_B16BAgzEAE#vhid=pfonNdeFVwADSM&vssid=mosaic",
+      "source": "https://pastafits.org/pasta-shapes/lasagna/",
+      "thumbnail": "https://serpapi.com/searches/670a30014791c40e346830b8/images/fbbf4d52ce52cff3f709a522d3175c290c82fc7fce7786638f49b12bd7eee050.jpeg",
+      "original": "https://pastafits.org/wp-content/uploads/2018/08/npa_LASAGNA_H_CORRECTED.jpg",
+      "source_name": "pastafits.org"
+    },
+    {
+      "link": "https://www.google.com/search?q=lasagna&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=sRRMtD4qGyTZrM%252C8d9mhSOXLoCbTM%252C_%253BZ0edHLWke2A1nM%252CzKWglaCMew62sM%252C_%253BnaRXgpyCr9P4dM%252Co0L_k3gDQCll-M%252C_%253B8lPJQ81noldVIM%252CWrQ_6eAeUeHVoM%252C_%253BzHFHgJ0sLf46IM%252CuTzLWQkJFYtv5M%252C_&usg=AI4_-kSPHuu4hl_A1GOKR_JVVUqb29RU7A&sa=X&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Q_h16BAgxEAE#vhid=sRRMtD4qGyTZrM&vssid=mosaic",
+      "source": "https://www.bonappetit.com/recipe/ba-best-lasagna",
+      "thumbnail": "https://serpapi.com/searches/670a30014791c40e346830b8/images/fbbf4d52ce52cff35f76e061677ddebdef3378f88cd22b45fd19bece9ef625aa.jpeg",
+      "original": "https://assets.bonappetit.com/photos/656f48d75b552734225041ba/1:1/w_3129,h_3129,c_limit/20231120-WEB-Lasanga-6422.jpg",
+      "title": "BA's Best Lasagna",
+      "source_name": "Bon Appetit"
+    },
+    {
+      "link": "https://www.google.com/search?q=lasagna&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=sRRMtD4qGyTZrM%252C8d9mhSOXLoCbTM%252C_%253BZ0edHLWke2A1nM%252CzKWglaCMew62sM%252C_%253BnaRXgpyCr9P4dM%252Co0L_k3gDQCll-M%252C_%253B8lPJQ81noldVIM%252CWrQ_6eAeUeHVoM%252C_%253BzHFHgJ0sLf46IM%252CuTzLWQkJFYtv5M%252C_&usg=AI4_-kSPHuu4hl_A1GOKR_JVVUqb29RU7A&sa=X&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Q_h16BAgyEAE#vhid=Z0edHLWke2A1nM&vssid=mosaic",
+      "source": "https://www.spendwithpennies.com/easy-homemade-lasagna/",
+      "thumbnail": "https://serpapi.com/searches/670a30014791c40e346830b8/images/fbbf4d52ce52cff31181b03709d2985d7707e47ecd14fb1b47ae6f56accef4ad.jpeg",
+      "original": "https://www.spendwithpennies.com/wp-content/uploads/2022/12/1200-Easy-Homemade-Lasagna-SpendWithPennies.jpg",
+      "title": "Easy Homemade Lasagna",
+      "source_name": "Spend With Pennies"
+    },
+    {
+      "link": "https://www.google.com/search?q=lasagna&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=sRRMtD4qGyTZrM%252C8d9mhSOXLoCbTM%252C_%253BZ0edHLWke2A1nM%252CzKWglaCMew62sM%252C_%253BnaRXgpyCr9P4dM%252Co0L_k3gDQCll-M%252C_%253B8lPJQ81noldVIM%252CWrQ_6eAeUeHVoM%252C_%253BzHFHgJ0sLf46IM%252CuTzLWQkJFYtv5M%252C_&usg=AI4_-kSPHuu4hl_A1GOKR_JVVUqb29RU7A&sa=X&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Q_h16BAgwEAE#vhid=naRXgpyCr9P4dM&vssid=mosaic",
+      "source": "https://newmansown.com/recipes/homestyle-lasagna/",
+      "thumbnail": "https://serpapi.com/searches/670a30014791c40e346830b8/images/fbbf4d52ce52cff3ebc2d6050d744e46a40cfef822b00b274cbb4a9d5b7dc626.jpeg",
+      "original": "https://newmansown.com/wp-content/uploads/2022/03/Homemade-lasagna.png",
+      "title": "Homestyle Lasagna | Newman's Own",
+      "source_name": "Newman's Own"
+    },
+    {
+      "link": "https://www.google.com/search?q=lasagna&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=sRRMtD4qGyTZrM%252C8d9mhSOXLoCbTM%252C_%253BZ0edHLWke2A1nM%252CzKWglaCMew62sM%252C_%253BnaRXgpyCr9P4dM%252Co0L_k3gDQCll-M%252C_%253B8lPJQ81noldVIM%252CWrQ_6eAeUeHVoM%252C_%253BzHFHgJ0sLf46IM%252CuTzLWQkJFYtv5M%252C_&usg=AI4_-kSPHuu4hl_A1GOKR_JVVUqb29RU7A&sa=X&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Q_h16BAgvEAE#vhid=8lPJQ81noldVIM&vssid=mosaic",
+      "source": "https://www.jessicagavin.com/lasagna-with-meat-sauce/",
+      "thumbnail": "https://serpapi.com/searches/670a30014791c40e346830b8/images/fbbf4d52ce52cff3032bea1f5ffaf19929669306d624c839aeabe37d591b9953.jpeg",
+      "original": "https://www.jessicagavin.com/wp-content/uploads/2017/07/meat-lasagna-1200.jpg",
+      "title": "Best Lasagna Recipe",
+      "source_name": "Jessica Gavin"
+    },
+    {
+      "link": "https://www.google.com/search?q=lasagna&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=sRRMtD4qGyTZrM%252C8d9mhSOXLoCbTM%252C_%253BZ0edHLWke2A1nM%252CzKWglaCMew62sM%252C_%253BnaRXgpyCr9P4dM%252Co0L_k3gDQCll-M%252C_%253B8lPJQ81noldVIM%252CWrQ_6eAeUeHVoM%252C_%253BzHFHgJ0sLf46IM%252CuTzLWQkJFYtv5M%252C_&usg=AI4_-kSPHuu4hl_A1GOKR_JVVUqb29RU7A&sa=X&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Q_h16BAguEAE#vhid=zHFHgJ0sLf46IM&vssid=mosaic",
+      "source": "https://galbanicheese.com/recipes/classic-cheese-lasagna",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDoETfMY5u-SRIobc62-SeqxVs8W3dS1vvczMqjC4p7A&s",
+      "original": "https://galbanicheese.com/wp-content/uploads/2019/09/Cheese-Lasagna-72DPI1-e1476892466909-800x600.jpg",
+      "title": "Classic Cheese Lasagna",
+      "source_name": "Galbani Cheese"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the correct order to layer lasagna?",
+      "title": "Quick Overview:",
+      "link": "https://dalstrong.com/blogs/news/how-to-layer-lasagna-correctly-in-4-easy-steps",
+      "list": [
+        "The first thing that goes on the buttered tray is a layer of red sauce. This is so that nothing sticks to the bottom.",
+        "After that, add a smaller layer of white sauce.",
+        "Then finally a layer of pasta.",
+        "Repeat the process: red sauce, white sauce, pasta."
+      ],
+      "displayed_link": "https://dalstrong.com \u203a blogs \u203a news \u203a how-to-layer-lasag...",
+      "source_logo": "https://serpapi.com/searches/670a30014791c40e346830b8/images/6a41b0a5ac5854c0b2eae88c0c60c6d7528df841b64b3856e8cab69bbfc85f58.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFdHbDRkbmxWYTB0M1FtMWpNSFpWTmw4MlozTkNWR2xmZFRKMVFtVnpaVkUzVGtOMU1sSlJRMk5NV1dkZloxTkphMW90ZUVoR0xYcHhhV1k1Y0ZCMmQweFpXSGxJRWhkQlZFRkxXalZUTTB4a1QzVndkRkZRZUc5RGJDMVJSUm9pUVVaWWNrVmpjR3RyWVU1b05saFBaV1pGTW10a2RWbDJWbEp4VnpKVmMwUnladyIsImZjdiI6IjMiLCJlaSI6IkFUQUtaNVMzTGRPdXB0UVB4b0NsLVFFIiwicWMiOiJDZ2RzWVhOaFoyNWhFQUI5NFJBWVB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBjb3JyZWN0IG9yZGVyIHRvIGxheWVyIGxhc2FnbmE/IiwibGsiOiJHaXAzYUdGMElHbHpJSFJvWlNCamIzSnlaV04wSUc5eVpHVnlJSFJ2SUd4aGVXVnlJR3hoYzJGbmJtRSIsImJzIjoiYzQyUVBRckNRQkJHc2QzS1NrS3FFVUg4UTBJOFFCcHZZQkZzaE1udUpCc011N0RaR05KYVdYZ3V6LVZHZ3FZd2FEZmZmT19CTU96RTFyRkVDM2tKVmhKd2JReHhDOW9JTW1BMUZOaTRvY0FTTTRXUmQ0M0RqYi1xX3paWXhvSlk1bHkyZUVMV3VpclY3M3JqZEdzeEk2ZUR5VjhoOG01TkdQamJlbGo3WXJFRFctNDFOTHFDQk1fVUl5OWtTTFJrcGJvUWVZOUpPUE9uUDBHV3NGM19PeUpQVTdkWG5OcWphaUxWNlFTb3hPZEw5Mk80OE9lRE5QWm9Hby1lIiwiaWQiOiJmY180In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFdHbDRkbmxWYTB0M1FtMWpNSFpWTmw4MlozTkNWR2xmZFRKMVFtVnpaVkUzVGtOMU1sSlJRMk5NV1dkZloxTkphMW90ZUVoR0xYcHhhV1k1Y0ZCMmQweFpXSGxJRWhkQlZFRkxXalZUTTB4a1QzVndkRkZRZUc5RGJDMVJSUm9pUVVaWWNrVmpjR3RyWVU1b05saFBaV1pGTW10a2RWbDJWbEp4VnpKVmMwUnladyIsImZjdiI6IjMiLCJlaSI6IkFUQUtaNVMzTGRPdXB0UVB4b0NsLVFFIiwicWMiOiJDZ2RzWVhOaFoyNWhFQUI5NFJBWVB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBjb3JyZWN0IG9yZGVyIHRvIGxheWVyIGxhc2FnbmE%2FIiwibGsiOiJHaXAzYUdGMElHbHpJSFJvWlNCamIzSnlaV04wSUc5eVpHVnlJSFJ2SUd4aGVXVnlJR3hoYzJGbmJtRSIsImJzIjoiYzQyUVBRckNRQkJHc2QzS1NrS3FFVUg4UTBJOFFCcHZZQkZzaE1udUpCc011N0RaR05KYVdYZ3V6LVZHZ3FZd2FEZmZmT19CTU96RTFyRkVDM2tKVmhKd2JReHhDOW9JTW1BMUZOaTRvY0FTTTRXUmQ0M0RqYi1xX3paWXhvSlk1bHkyZUVMV3VpclY3M3JqZEdzeEk2ZUR5VjhoOG01TkdQamJlbGo3WXJFRFctNDFOTHFDQk1fVUl5OWtTTFJrcGJvUWVZOUpPUE9uUDBHV3NGM19PeUpQVTdkWG5OcWphaUxWNlFTb3hPZEw5Mk80OE9lRE5QWm9Hby1lIiwiaWQiOiJmY180In0%3D"
+    },
+    {
+      "question": "Which is better for lasagna, cottage or ricotta?",
+      "snippet": "The key to creating the absolute best lasagna is to use a combination of ricotta and cottage cheese. Ricotta brings the rich creaminess while cottage cheese lightens things up and seasons the whole dish. For even more cheese, we recommend also using shredded Mozzarella cheese and Parmesan cheese (or Pecorino Romano).",
+      "title": "Ricotta vs Cottage Cheese Lasagna\u2014Which is Better? - Zestful Kitchen",
+      "date": "Jan 10, 2023",
+      "link": "https://zestfulkitchen.com/ricotta-vs-cottage-cheese-lasagna/#:~:text=The%20key%20to%20creating%20the,cheese%20(or%20Pecorino%20Romano).",
+      "displayed_link": "https://zestfulkitchen.com \u203a ricotta-vs-cottage-cheese-lasa...",
+      "source_logo": "https://serpapi.com/searches/670a30014791c40e346830b8/images/6a41b0a5ac5854c0b2eae88c0c60c6d75b0f460ad34b023b85becab0ddc2a8a3.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFdHbDRkbmxWYTB0M1FtMWpNSFpWTmw4MlozTkNWR2xmZFRKMVFtVnpaVkUzVGtOMU1sSlJRMk5NV1dkZloxTkphMW90ZUVoR0xYcHhhV1k1Y0ZCMmQweFpXSGxJRWhkQlZFRkxXalZUTTB4a1QzVndkRkZRZUc5RGJDMVJSUm9pUVVaWWNrVmpjR3RyWVU1b05saFBaV1pGTW10a2RWbDJWbEp4VnpKVmMwUnladyIsImZjdiI6IjMiLCJlaSI6IkFUQUtaNVMzTGRPdXB0UVB4b0NsLVFFIiwicWMiOiJDZ2RzWVhOaFoyNWhFQUI5NFJBWVB3IiwicXVlc3Rpb24iOiJXaGljaCBpcyBiZXR0ZXIgZm9yIGxhc2FnbmEsIGNvdHRhZ2Ugb3Igcmljb3R0YT8iLCJsayI6ImM1UFNLOF9JVE01UXlDeFdTRW90S1VrdFVrakxMMUxJU1N4T1RNOUxWRWpPTHlsSlRFOVZBQW9WWllJNUFBIiwiYnMiOiJjNDJRUFFyQ1FCQkdzZDNLU2tLcUVVSDhRMEk4UUJwdllCRnNoTW51SkJzTXU3RFpHTkphV1hndXotVkdncVl3YURmZmZPX0JNT3pFMXJGRUMza0pWaEp3YlF4eEM5b0lNbUExRk5pNG9jQVNNNFdSZDQzRGpiLXFfelpZeG9KWTVseTJlRUxXdWlyVjczcmpkR3N4STZlRHlWOGg4bTVOR1BqYmVsajdZckVEVy00MU5McUNCTV9VSXk5a1NMUmtwYm9RZVk5Sk9QT25QMEdXc0YzX095SlBVN2RYbk5xamFpTFY2UVNveE9kTDkyTzQ4T2VETlBab0dvLWUiLCJpZCI6ImZjXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFdHbDRkbmxWYTB0M1FtMWpNSFpWTmw4MlozTkNWR2xmZFRKMVFtVnpaVkUzVGtOMU1sSlJRMk5NV1dkZloxTkphMW90ZUVoR0xYcHhhV1k1Y0ZCMmQweFpXSGxJRWhkQlZFRkxXalZUTTB4a1QzVndkRkZRZUc5RGJDMVJSUm9pUVVaWWNrVmpjR3RyWVU1b05saFBaV1pGTW10a2RWbDJWbEp4VnpKVmMwUnladyIsImZjdiI6IjMiLCJlaSI6IkFUQUtaNVMzTGRPdXB0UVB4b0NsLVFFIiwicWMiOiJDZ2RzWVhOaFoyNWhFQUI5NFJBWVB3IiwicXVlc3Rpb24iOiJXaGljaCBpcyBiZXR0ZXIgZm9yIGxhc2FnbmEsIGNvdHRhZ2Ugb3Igcmljb3R0YT8iLCJsayI6ImM1UFNLOF9JVE01UXlDeFdTRW90S1VrdFVrakxMMUxJU1N4T1RNOUxWRWpPTHlsSlRFOVZBQW9WWllJNUFBIiwiYnMiOiJjNDJRUFFyQ1FCQkdzZDNLU2tLcUVVSDhRMEk4UUJwdllCRnNoTW51SkJzTXU3RFpHTkphV1hndXotVkdncVl3YURmZmZPX0JNT3pFMXJGRUMza0pWaEp3YlF4eEM5b0lNbUExRk5pNG9jQVNNNFdSZDQzRGpiLXFfelpZeG9KWTVseTJlRUxXdWlyVjczcmpkR3N4STZlRHlWOGg4bTVOR1BqYmVsajdZckVEVy00MU5McUNCTV9VSXk5a1NMUmtwYm9RZVk5Sk9QT25QMEdXc0YzX095SlBVN2RYbk5xamFpTFY2UVNveE9kTDkyTzQ4T2VETlBab0dvLWUiLCJpZCI6ImZjXzQifQ%3D%3D"
+    },
+    {
+      "question": "Do you bake lasagna covered or uncovered?",
+      "snippet": "In an oven preheated to 375 degrees F, this homemade lasagna should be perfectly baked in about 50 minutes (30-40 minutes covered, 5-10 minutes uncovered).",
+      "title": "Homemade Lasagna Recipe - Allrecipes",
+      "date": "May 22, 2024",
+      "link": "https://www.allrecipes.com/recipe/19344/homemade-lasagna/#:~:text=In%20an%20oven%20preheated%20to,5%2D10%20minutes%20uncovered).",
+      "displayed_link": "https://www.allrecipes.com \u203a ... \u203a Meat Lasagna Recipes",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMwDI_9mm_k_I48oSMbgbE8ulfVWQANQ7ngAJcdtzGtg&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFdHbDRkbmxWYTB0M1FtMWpNSFpWTmw4MlozTkNWR2xmZFRKMVFtVnpaVkUzVGtOMU1sSlJRMk5NV1dkZloxTkphMW90ZUVoR0xYcHhhV1k1Y0ZCMmQweFpXSGxJRWhkQlZFRkxXalZUTTB4a1QzVndkRkZRZUc5RGJDMVJSUm9pUVVaWWNrVmpjR3RyWVU1b05saFBaV1pGTW10a2RWbDJWbEp4VnpKVmMwUnladyIsImZjdiI6IjMiLCJlaSI6IkFUQUtaNVMzTGRPdXB0UVB4b0NsLVFFIiwicWMiOiJDZ2RzWVhOaFoyNWhFQUI5NFJBWVB3IiwicXVlc3Rpb24iOiJEbyB5b3UgYmFrZSBsYXNhZ25hIGNvdmVyZWQgb3IgdW5jb3ZlcmVkPyIsImxrIjoiYzVOU1RFck1UbFhJU1N4T1RNOUxWRWpPTDBzdFNrMVJ5QzlTS00yRGNnQSIsImJzIjoiYzQyUVBRckNRQkJHc2QzS1NrS3FFVUg4UTBJOFFCcHZZQkZzaE1udUpCc011N0RaR05KYVdYZ3V6LVZHZ3FZd2FEZmZmT19CTU96RTFyRkVDM2tKVmhKd2JReHhDOW9JTW1BMUZOaTRvY0FTTTRXUmQ0M0RqYi1xX3paWXhvSlk1bHkyZUVMV3VpclY3M3JqZEdzeEk2ZUR5VjhoOG01TkdQamJlbGo3WXJFRFctNDFOTHFDQk1fVUl5OWtTTFJrcGJvUWVZOUpPUE9uUDBHV3NGM19PeUpQVTdkWG5OcWphaUxWNlFTb3hPZEw5Mk80OE9lRE5QWm9Hby1lIiwiaWQiOiJmY180In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFdHbDRkbmxWYTB0M1FtMWpNSFpWTmw4MlozTkNWR2xmZFRKMVFtVnpaVkUzVGtOMU1sSlJRMk5NV1dkZloxTkphMW90ZUVoR0xYcHhhV1k1Y0ZCMmQweFpXSGxJRWhkQlZFRkxXalZUTTB4a1QzVndkRkZRZUc5RGJDMVJSUm9pUVVaWWNrVmpjR3RyWVU1b05saFBaV1pGTW10a2RWbDJWbEp4VnpKVmMwUnladyIsImZjdiI6IjMiLCJlaSI6IkFUQUtaNVMzTGRPdXB0UVB4b0NsLVFFIiwicWMiOiJDZ2RzWVhOaFoyNWhFQUI5NFJBWVB3IiwicXVlc3Rpb24iOiJEbyB5b3UgYmFrZSBsYXNhZ25hIGNvdmVyZWQgb3IgdW5jb3ZlcmVkPyIsImxrIjoiYzVOU1RFck1UbFhJU1N4T1RNOUxWRWpPTDBzdFNrMVJ5QzlTS00yRGNnQSIsImJzIjoiYzQyUVBRckNRQkJHc2QzS1NrS3FFVUg4UTBJOFFCcHZZQkZzaE1udUpCc011N0RaR05KYVdYZ3V6LVZHZ3FZd2FEZmZmT19CTU96RTFyRkVDM2tKVmhKd2JReHhDOW9JTW1BMUZOaTRvY0FTTTRXUmQ0M0RqYi1xX3paWXhvSlk1bHkyZUVMV3VpclY3M3JqZEdzeEk2ZUR5VjhoOG01TkdQamJlbGo3WXJFRFctNDFOTHFDQk1fVUl5OWtTTFJrcGJvUWVZOUpPUE9uUDBHV3NGM19PeUpQVTdkWG5OcWphaUxWNlFTb3hPZEw5Mk80OE9lRE5QWm9Hby1lIiwiaWQiOiJmY180In0%3D"
+    },
+    {
+      "question": "What is the difference between lasagne and lasagna?",
+      "snippet": "Though this is a linguistic difference that confuses many, the main difference between lasagne and lasagna is simply a matter of plural - lasagne is the plural form of 'lasagna', which represents a singular sheet of pasta.",
+      "title": "Our Ultimate Guide to Lasagne - Pasta Evangelists",
+      "link": "https://pastaevangelists.com/blogs/blog/what-is-lasagne#:~:text=Though%20this%20is%20a%20linguistic,a%20singular%20sheet%20of%20pasta.",
+      "displayed_link": "https://pastaevangelists.com \u203a blog \u203a what-is-lasagne",
+      "source_logo": "https://serpapi.com/searches/670a30014791c40e346830b8/images/6a41b0a5ac5854c0b2eae88c0c60c6d7b4611fe15ec64e560dfd63edb03c754c.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFdHbDRkbmxWYTB0M1FtMWpNSFpWTmw4MlozTkNWR2xmZFRKMVFtVnpaVkUzVGtOMU1sSlJRMk5NV1dkZloxTkphMW90ZUVoR0xYcHhhV1k1Y0ZCMmQweFpXSGxJRWhkQlZFRkxXalZUTTB4a1QzVndkRkZRZUc5RGJDMVJSUm9pUVVaWWNrVmpjR3RyWVU1b05saFBaV1pGTW10a2RWbDJWbEp4VnpKVmMwUnladyIsImZjdiI6IjMiLCJlaSI6IkFUQUtaNVMzTGRPdXB0UVB4b0NsLVFFIiwicWMiOiJDZ2RzWVhOaFoyNWhFQUI5NFJBWVB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gbGFzYWduZSBhbmQgbGFzYWduYT8iLCJsayI6ImM1TlNTOGxNUzBzdFNzMUxUbFZJU2kwcFQwM05VOGhKTEU1TXowdFVTTXhMZ2JKVEFRIiwiYnMiOiJjNDJRUFFyQ1FCQkdzZDNLU2tLcUVVSDhRMEk4UUJwdllCRnNoTW51SkJzTXU3RFpHTkphV1hndXotVkdncVl3YURmZmZPX0JNT3pFMXJGRUMza0pWaEp3YlF4eEM5b0lNbUExRk5pNG9jQVNNNFdSZDQzRGpiLXFfelpZeG9KWTVseTJlRUxXdWlyVjczcmpkR3N4STZlRHlWOGg4bTVOR1BqYmVsajdZckVEVy00MU5McUNCTV9VSXk5a1NMUmtwYm9RZVk5Sk9QT25QMEdXc0YzX095SlBVN2RYbk5xamFpTFY2UVNveE9kTDkyTzQ4T2VETlBab0dvLWUiLCJpZCI6ImZjXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFdHbDRkbmxWYTB0M1FtMWpNSFpWTmw4MlozTkNWR2xmZFRKMVFtVnpaVkUzVGtOMU1sSlJRMk5NV1dkZloxTkphMW90ZUVoR0xYcHhhV1k1Y0ZCMmQweFpXSGxJRWhkQlZFRkxXalZUTTB4a1QzVndkRkZRZUc5RGJDMVJSUm9pUVVaWWNrVmpjR3RyWVU1b05saFBaV1pGTW10a2RWbDJWbEp4VnpKVmMwUnladyIsImZjdiI6IjMiLCJlaSI6IkFUQUtaNVMzTGRPdXB0UVB4b0NsLVFFIiwicWMiOiJDZ2RzWVhOaFoyNWhFQUI5NFJBWVB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gbGFzYWduZSBhbmQgbGFzYWduYT8iLCJsayI6ImM1TlNTOGxNUzBzdFNzMUxUbFZJU2kwcFQwM05VOGhKTEU1TXowdFVTTXhMZ2JKVEFRIiwiYnMiOiJjNDJRUFFyQ1FCQkdzZDNLU2tLcUVVSDhRMEk4UUJwdllCRnNoTW51SkJzTXU3RFpHTkphV1hndXotVkdncVl3YURmZmZPX0JNT3pFMXJGRUMza0pWaEp3YlF4eEM5b0lNbUExRk5pNG9jQVNNNFdSZDQzRGpiLXFfelpZeG9KWTVseTJlRUxXdWlyVjczcmpkR3N4STZlRHlWOGg4bTVOR1BqYmVsajdZckVEVy00MU5McUNCTV9VSXk5a1NMUmtwYm9RZVk5Sk9QT25QMEdXc0YzX095SlBVN2RYbk5xamFpTFY2UVNveE9kTDkyTzQ4T2VETlBab0dvLWUiLCJpZCI6ImZjXzQifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "World's Best Lasagna Recipe (with Video)",
+      "link": "https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8QFnoECBkQAQ",
+      "displayed_link": "https://www.allrecipes.com \u203a ... \u203a Meat Lasagna Recipes",
+      "thumbnail": "https://serpapi.com/searches/670a30014791c40e346830b8/images/469151070d8bfb7944b5ea286766d31623967b827270793f33834bd5c19447e8.jpeg",
+      "favicon": "https://serpapi.com/searches/670a30014791c40e346830b8/images/469151070d8bfb7944b5ea286766d31657ec6484fde5c4f7e5b8e3e03602a543.webp",
+      "date": "May 22, 2024",
+      "snippet": "This lasagna recipe from John Chandler is our most popular recipe! With sausage, ground beef, basil, and 3 types of cheese, it lives up to ...",
+      "snippet_highlighted_words": [
+        "lasagna"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Italian Lasagna",
+            "link": "https://www.allrecipes.com/recipe/11728/italian-lasagna/"
+          },
+          {
+            "title": "Lasagna",
+            "link": "https://www.allrecipes.com/recipes/502/main-dish/pasta/lasagna/"
+          },
+          {
+            "title": "Homemade Lasagna Sheets",
+            "link": "https://www.allrecipes.com/recipe/266023/homemade-lasagna-sheets/"
+          },
+          {
+            "title": "John Chandler",
+            "link": "https://www.allrecipes.com/longform/john-chandler-worlds-best-lasagna/"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.8,
+            "hr_min": 3
+          },
+          "extensions": [
+            "4.8(20,666)",
+            "3 hr 15 min"
+          ]
+        }
+      },
+      "source": "Allrecipes"
+    },
+    {
+      "position": 2,
+      "title": "Easy Homemade Lasagna Recipe",
+      "link": "https://www.spendwithpennies.com/easy-homemade-lasagna/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.spendwithpennies.com/easy-homemade-lasagna/&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8QFnoECBYQAQ",
+      "displayed_link": "https://www.spendwithpennies.com \u203a ... \u203a Pasta",
+      "thumbnail": "https://serpapi.com/searches/670a30014791c40e346830b8/images/469151070d8bfb7944b5ea286766d316ba83dcbcb0a0595c8ad24e101c2007bd.jpeg",
+      "favicon": "https://serpapi.com/searches/670a30014791c40e346830b8/images/469151070d8bfb7944b5ea286766d3164c558fc3d4f79c9a2258799254e2d1c8.webp",
+      "date": "Aug 13, 2024",
+      "snippet": "This is the best LASAGNA RECIPE! Pasta, an easy meat sauce, and ricotta cheese are layered and then topped with more cheese before baking.",
+      "snippet_highlighted_words": [
+        "LASAGNA"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "hr_min": 1
+          },
+          "extensions": [
+            "5.0(3,108)",
+            "1 hr 45 min"
+          ]
+        }
+      },
+      "source": "Spend With Pennies"
+    },
+    {
+      "position": 3,
+      "title": "Easy Lasagna Recipe",
+      "link": "https://thecozycook.com/easy-lasagna-recipe/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thecozycook.com/easy-lasagna-recipe/&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8QFnoECEMQAQ",
+      "displayed_link": "https://thecozycook.com \u203a Pasta",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIZ-M5qVA5exLGcvdvBunC53g9Cg8W9XvXS-vIKJwX-rqwKEismXBm&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30014791c40e346830b8/images/469151070d8bfb7944b5ea286766d3162a457ecda30f3ffd470bf667a8078cdc.webp",
+      "date": "Apr 27, 2022",
+      "snippet": "This Lasagna Recipe is easy to make with a creamy ricotta cheese mixture, savory meat sauce, and mozzarella cheese.",
+      "snippet_highlighted_words": [
+        "Lasagna"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "hr_min": 1
+          },
+          "extensions": [
+            "5.0(87)",
+            "1 hr 40 min"
+          ]
+        }
+      },
+      "source": "The Cozy Cook"
+    },
+    {
+      "position": 4,
+      "title": "The Best Lasagna Recipe Ever",
+      "link": "https://www.thepioneerwoman.com/food-cooking/recipes/a11728/best-lasagna-recipe/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thepioneerwoman.com/food-cooking/recipes/a11728/best-lasagna-recipe/&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8QFnoECEgQAQ",
+      "displayed_link": "https://www.thepioneerwoman.com \u203a ... \u203a Recipes",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6_ECHZdLwJiUX8zzzxwYaI1lSz_Hm8F105-8rAS2OUGw7j39GbJqc&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30014791c40e346830b8/images/469151070d8bfb7944b5ea286766d316540a5f4394853c572b9a68bdc72309b6.webp",
+      "date": "Jun 27, 2024",
+      "snippet": "Ree Drummond's classic lasagna recipe is made with simple, easy-to-find ingredients including ground beef, sausage, canned tomatoes, ...",
+      "snippet_highlighted_words": [
+        "lasagna"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.6,
+            "hr": 1
+          },
+          "extensions": [
+            "4.6(66)",
+            "1 hr"
+          ]
+        }
+      },
+      "source": "The Pioneer Woman"
+    },
+    {
+      "position": 5,
+      "title": "Lasagna Recipe (with Video) - NYT Cooking",
+      "link": "https://cooking.nytimes.com/recipes/9530-lasagna",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cooking.nytimes.com/recipes/9530-lasagna&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8QFnoECEkQAQ",
+      "displayed_link": "https://cooking.nytimes.com \u203a recipes \u203a 9530-lasagna",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBsS4saHN0Pq3phDG7DZJHpYq7accJpSJq8GFVvyPSD9-fpRfih2F&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30014791c40e346830b8/images/469151070d8bfb7944b5ea286766d316e961fa66add7e0bc0c2f9440ebc891ec.webp",
+      "date": "Aug 22, 2024",
+      "snippet": "To prepare lasagna from scratch, you start by making sauce, then layer it with wide, flat lasagna noodles and cheese before baking. The sauces ...",
+      "snippet_highlighted_words": [
+        "lasagna",
+        "lasagna"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "hr": 4
+          },
+          "extensions": [
+            "5.0(9,140)",
+            "4 hr"
+          ]
+        }
+      },
+      "source": "NYT Cooking"
+    },
+    {
+      "position": 6,
+      "title": "Easy Homemade Lasagna",
+      "link": "https://www.budgetbytes.com/easy-homemade-lasagna/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.budgetbytes.com/easy-homemade-lasagna/&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8QFnoECEsQAQ",
+      "displayed_link": "https://www.budgetbytes.com \u203a easy-homemade-lasagna",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPZKk6opYl3QD70qeeSxOscnviscZscysK6UKiUMAYmgORPfaMSjy&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30014791c40e346830b8/images/469151070d8bfb7944b5ea286766d316134d9a3f3e1ce6c8975581e6b9b5b7b2.webp",
+      "date": "Dec 12, 2022",
+      "snippet": "This easy homemade lasagna recipe has layers of homemade meat sauce, tender lasagna noodles, and a rich combination of Italian cheeses!",
+      "snippet_highlighted_words": [
+        "lasagna",
+        "lasagna"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.7,
+            "hr_min": 1
+          },
+          "extensions": [
+            "4.7(15)",
+            "1 hr 20 min"
+          ]
+        }
+      },
+      "source": "Budget Bytes"
+    },
+    {
+      "position": 7,
+      "title": "Meat & Cheese Lasagna",
+      "link": "https://www.carlinosmarket.com/meat-cheese-lasagna-half-pan-519471?srsltid=AfmBOopn0_DnodCMo74spyPv8IUmCDISgDHILzyG25c9GFm57rg0xFj3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.carlinosmarket.com/meat-cheese-lasagna-half-pan-519471%3Fsrsltid%3DAfmBOopn0_DnodCMo74spyPv8IUmCDISgDHILzyG25c9GFm57rg0xFj3&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8QFnoECEEQAQ",
+      "displayed_link": "https://www.carlinosmarket.com \u203a meat-cheese-lasagna-...",
+      "favicon": "https://serpapi.com/searches/670a30014791c40e346830b8/images/469151070d8bfb7944b5ea286766d316e1a542861420a380791b8ba7ff1967db.webp",
+      "snippet": "Lean ground beef, ricotta, mozzarella, and Locatelli cheeses layered with marinara sauce. Full description > All catering items will be cold upon pickup.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 52.99,
+            "currency": "$",
+            "unknown": 3
+          },
+          "extensions": [
+            "$52.99",
+            "\u200eFree delivery",
+            "\u200e3",
+            "day returns"
+          ]
+        }
+      },
+      "source": "Carlino's Market"
+    },
+    {
+      "position": 8,
+      "title": "Homemade Lasagna Recipe",
+      "link": "https://www.allrecipes.com/recipe/19344/homemade-lasagna/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.allrecipes.com/recipe/19344/homemade-lasagna/&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8QFnoECEcQAQ",
+      "displayed_link": "https://www.allrecipes.com \u203a ... \u203a Meat Lasagna Recipes",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-DNVy64VjqOg5jB126-zHnfuVdahp9mZ4z00RXDZ6imNlNkhIkTxz&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30014791c40e346830b8/images/469151070d8bfb7944b5ea286766d31656b8099da7d9ab0078efb16d0fd6812f.webp",
+      "date": "May 22, 2024",
+      "snippet": "This is my mom's special homemade lasagna recipe with a meaty, made-from-scratch tomato sauce and a deliciously cheesy filling.",
+      "snippet_highlighted_words": [
+        "lasagna"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Homemade Lasagna Ingredients",
+            "link": "https://www.allrecipes.com/recipe/19344/homemade-lasagna/#:~:text=Homemade%20Lasagna%20Ingredients"
+          },
+          {
+            "title": "Directions",
+            "link": "https://www.allrecipes.com/recipe/19344/homemade-lasagna/#:~:text=Directions"
+          },
+          {
+            "title": "Allrecipes Community Tips...",
+            "link": "https://www.allrecipes.com/recipe/19344/homemade-lasagna/#:~:text=Allrecipes%20Community%20Tips%20and%20Praise"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.6,
+            "hr_min": 2
+          },
+          "extensions": [
+            "4.6(376)",
+            "2 hr 50 min"
+          ]
+        }
+      },
+      "source": "Allrecipes"
+    },
+    {
+      "position": 9,
+      "title": "The Best Homemade Lasagna Recipe",
+      "link": "https://www.simplyrecipes.com/recipes/lasagna/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.simplyrecipes.com/recipes/lasagna/&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8QFnoECEYQAQ",
+      "displayed_link": "https://www.simplyrecipes.com \u203a ... \u203a Family Dinners",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfHNQpC8y1ELBQSFXh3HhT3T3WR68-jocJepsUiD6ChIAqMxJXZbLJ&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30014791c40e346830b8/images/469151070d8bfb7944b5ea286766d3160d2d2fb63032a4dc4d18f36e594d381a.webp",
+      "snippet": "This classic lasagna recipe is made with an easy meat sauce as the base. Layer the sauce with noodles and cheese, then bake until bubbly!",
+      "snippet_highlighted_words": [
+        "lasagna"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.8,
+            "hr_min": 1
+          },
+          "extensions": [
+            "4.8(141)",
+            "1 hr 45 min"
+          ]
+        }
+      },
+      "source": "Simply Recipes"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Lasagna ingredients",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Lasagna+ingredients&sa=X&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Q1QJ6BAhqEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lasagna+ingredients"
+    },
+    {
+      "block_position": 1,
+      "query": "Italian lasagna recipe",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Italian+lasagna+recipe&sa=X&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Q1QJ6BAhuEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Italian+lasagna+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Easy lasagna recipe",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Easy+lasagna+recipe&sa=X&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Q1QJ6BAhrEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Easy+lasagna+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Traditional lasagna recipe easy",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Traditional+lasagna+recipe+easy&sa=X&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Q1QJ6BAhvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Traditional+lasagna+recipe+easy"
+    },
+    {
+      "block_position": 1,
+      "query": "Best lasagna recipe",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Best+lasagna+recipe&sa=X&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Q1QJ6BAhmEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Best+lasagna+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Lasagna with meat sauce",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Lasagna+with+meat+sauce&sa=X&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Q1QJ6BAhtEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lasagna+with+meat+sauce"
+    },
+    {
+      "block_position": 1,
+      "query": "Lasagna recipe vegetarian",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Lasagna+recipe+vegetarian&sa=X&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Q1QJ6BAhsEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lasagna+recipe+vegetarian"
+    },
+    {
+      "block_position": 1,
+      "query": "Traditional lasagna ingredients",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Traditional+lasagna+ingredients&sa=X&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Q1QJ6BAhpEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Traditional+lasagna+ingredients"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Recipes",
+        "subtitle": "Lasagna Recipe",
+        "date": "May 22, 2024",
+        "favicon": "https://serpapi.com/searches/670a30014791c40e346830b8/images/e81c2d4ed89316a2db94ed9719f268ed17ad49617afa8a49342bbe88a0d2404920781cf6b9d7203a.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2gjfI9bnyq9nZIPSSjaZgq3Pl1PSPr3JUugO6GWHpdleHI4fOZV-w0n7wI3U",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=lasagna+recipe&sa=X&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8QrooIegQIFRAH",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lasagna+recipe"
+      },
+      {
+        "text": "Ingredients",
+        "subtitle": "What Is In Lasagna",
+        "date": "Feb 28, 2024",
+        "favicon": "https://serpapi.com/searches/670a30014791c40e346830b8/images/e81c2d4ed89316a2db94ed9719f268edad447b4290558ead8edc1298a9c6ec88a12e04c576461d95.jpeg",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSN9rasdqaO92LLbg3OplS4GfQnoY2ck1eRkA_xSvj-zJC0WnSwuXakTjkZFP0",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=what+is+in+lasagna&sa=X&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8QrooIegQIFRAN",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+is+in+lasagna"
+      },
+      {
+        "text": "Layers",
+        "subtitle": "Lasagna Layers",
+        "title": "This Is The Right Way To Order Lasagna Layers - Southern Living",
+        "link": "https://www.southernliving.com/food/pasta/lasagna-layer-order#:~:text=Begin%20Layering,of%20sauce%20and%20ricotta%20cheese.",
+        "displayed_link": "https://www.southernliving.com \u203a food \u203a pasta \u203a lasagna-l...",
+        "date": "Nov 6, 2023",
+        "snippet": "Begin Layering After the initial sauce layer, add a layer of pasta sheets, ricotta mixture (or bechamel), sauce, and cheese. Then repeat the layers. Top the last layer of your lasagna with sauce and cheese. You can also alternate layers of sauce and ricotta cheese.",
+        "snippet_highlighted_words": [
+          "After the initial sauce layer, add a layer of pasta sheets, ricotta mixture (or bechamel), sauce, and cheese"
+        ],
+        "favicon": "https://serpapi.com/searches/670a30014791c40e346830b8/images/e81c2d4ed89316a2db94ed9719f268edbd4dd1da9a92c8242f4157c2a25abc14adbcd59bb6088f1a.png",
+        "source": "southernliving.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS99gtuIkzxbejIFCEObHCj-no2aVTp8JxMt1Q_A8hyImo&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=lasagna+layers&sa=X&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8QrooIegQIFRAW",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lasagna+layers"
+      },
+      {
+        "text": "Temperature",
+        "subtitle": "Lasagna Temperature",
+        "title": "Lasagna Cooking Instructions - Amici's East Coast Pizzeria",
+        "link": "https://www.amicis.com/lasagna-cooking-instructions#:~:text=Preheat%20oven%20to%20350%20degrees,wish%20to%20brown%20the%20top)",
+        "displayed_link": "https://www.amicis.com \u203a lasagna-cooking-instructions",
+        "snippet": "Preheat oven to 350 degrees. Place the lasagna (without the container of sauce) in a small, ovenproof pan; Cover the lasagna with foil and place in the oven. Cook the lasagna for about 20 minutes until it reaches an internal temperature of 165 degrees (remove the foil if you wish to brown the top)",
+        "snippet_highlighted_words": [
+          "350 degrees"
+        ],
+        "favicon": "https://serpapi.com/searches/670a30014791c40e346830b8/images/e81c2d4ed89316a2db94ed9719f268ed7adc00c503ebe1d98cf9fa442849bb4382c6edfc72bf21b2.png",
+        "source": "amicis.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=lasagna+temperature&sa=X&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8QrooIegQIFRAc",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lasagna+temperature"
+      },
+      {
+        "text": "Pronunciation",
+        "subtitle": "How To Pronounce Lasagna",
+        "thumbnail": "https://ssl.gstatic.com/dictionary/static/pronunciation/20180801/desktop/sil.svg",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=How+to+pronounce+Lasagna&si=ACC90nxWRUtRtpkYg5Su5hMI1pYLM8wYumPGtoObTWkLZRmMMT2bEp7boLRb8KRJtqvFHvJ8QP36yT83BTXQjDeqVessD24BgDD8q2Krn9urwuTTM4Y2CSsWcHDlYDtf4QvhfzwuM0hTjGJA7tcN-m0DuDlo-vcHCA%3D%3D&sa=X&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8QrooIegQIFRAk",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=How+to+pronounce+Lasagna&si=ACC90nxWRUtRtpkYg5Su5hMI1pYLM8wYumPGtoObTWkLZRmMMT2bEp7boLRb8KRJtqvFHvJ8QP36yT83BTXQjDeqVessD24BgDD8q2Krn9urwuTTM4Y2CSsWcHDlYDtf4QvhfzwuM0hTjGJA7tcN-m0DuDlo-vcHCA%3D%3D"
+      },
+      {
+        "text": "Baking time",
+        "subtitle": "Why Does Lasagna Have To Bake So Long",
+        "title": "Why do lasagna and other pasta cassaroles need to bake so long in ...",
+        "link": "https://www.quora.com/Why-do-lasagna-and-other-pasta-cassaroles-need-to-bake-so-long-in-the-oven-when-all-the-ingredients-are-pre-cooked#:~:text=Precooked%20or%20not%2C%20a%20lasagna,texture%20of%20the%20finished%20product.",
+        "displayed_link": "https://www.quora.com \u203a Why-do-lasagna-and-other-past...",
+        "date": "Jan 4, 2022",
+        "snippet": "Precooked or not, a lasagna is a dense mass of food that has to be heated through, and that's going to take some time. Putting heat to food also causes chemical and physical changes that heighten the flavor and texture of the finished product.",
+        "snippet_highlighted_words": [
+          "Putting heat to food also causes chemical and physical changes that heighten the flavor and texture of the finished product"
+        ],
+        "favicon": "https://serpapi.com/searches/670a30014791c40e346830b8/images/e81c2d4ed89316a2db94ed9719f268edc4bab9f871f2d8fb2b89be4005aacac2256314f1e4f407a4.png",
+        "source": "quora.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=why+does+lasagna+have+to+bake+so+long&sa=X&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8QrooIegQIFRAq",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=why+does+lasagna+have+to+bake+so+long"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=lasagna&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=ATAKZ5S3LdOuptQPxoCl-QE&start=10&sa=N&sstk=AagrsuiHUM2AtSSqFQFuP8Agc9I92UkppAwR7pBnQUj38VatISxHVzoS956yuTBLQRildzzsmPTrRe85Chd7nEcV9yeOT83Q189Eug&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Q8NMDegQIBxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=lasagna&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=ATAKZ5S3LdOuptQPxoCl-QE&start=10&sa=N&sstk=AagrsuiHUM2AtSSqFQFuP8Agc9I92UkppAwR7pBnQUj38VatISxHVzoS956yuTBLQRildzzsmPTrRe85Chd7nEcV9yeOT83Q189Eug&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Q8tMDegQIBxAE",
+      "3": "https://www.google.com/search?q=lasagna&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=ATAKZ5S3LdOuptQPxoCl-QE&start=20&sa=N&sstk=AagrsuiHUM2AtSSqFQFuP8Agc9I92UkppAwR7pBnQUj38VatISxHVzoS956yuTBLQRildzzsmPTrRe85Chd7nEcV9yeOT83Q189Eug&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Q8tMDegQIBxAG",
+      "4": "https://www.google.com/search?q=lasagna&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=ATAKZ5S3LdOuptQPxoCl-QE&start=30&sa=N&sstk=AagrsuiHUM2AtSSqFQFuP8Agc9I92UkppAwR7pBnQUj38VatISxHVzoS956yuTBLQRildzzsmPTrRe85Chd7nEcV9yeOT83Q189Eug&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Q8tMDegQIBxAI",
+      "5": "https://www.google.com/search?q=lasagna&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=ATAKZ5S3LdOuptQPxoCl-QE&start=40&sa=N&sstk=AagrsuiHUM2AtSSqFQFuP8Agc9I92UkppAwR7pBnQUj38VatISxHVzoS956yuTBLQRildzzsmPTrRe85Chd7nEcV9yeOT83Q189Eug&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Q8tMDegQIBxAK",
+      "6": "https://www.google.com/search?q=lasagna&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=ATAKZ5S3LdOuptQPxoCl-QE&start=50&sa=N&sstk=AagrsuiHUM2AtSSqFQFuP8Agc9I92UkppAwR7pBnQUj38VatISxHVzoS956yuTBLQRildzzsmPTrRe85Chd7nEcV9yeOT83Q189Eug&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Q8tMDegQIBxAM",
+      "7": "https://www.google.com/search?q=lasagna&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=ATAKZ5S3LdOuptQPxoCl-QE&start=60&sa=N&sstk=AagrsuiHUM2AtSSqFQFuP8Agc9I92UkppAwR7pBnQUj38VatISxHVzoS956yuTBLQRildzzsmPTrRe85Chd7nEcV9yeOT83Q189Eug&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Q8tMDegQIBxAO",
+      "8": "https://www.google.com/search?q=lasagna&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=ATAKZ5S3LdOuptQPxoCl-QE&start=70&sa=N&sstk=AagrsuiHUM2AtSSqFQFuP8Agc9I92UkppAwR7pBnQUj38VatISxHVzoS956yuTBLQRildzzsmPTrRe85Chd7nEcV9yeOT83Q189Eug&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Q8tMDegQIBxAQ",
+      "9": "https://www.google.com/search?q=lasagna&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=ATAKZ5S3LdOuptQPxoCl-QE&start=80&sa=N&sstk=AagrsuiHUM2AtSSqFQFuP8Agc9I92UkppAwR7pBnQUj38VatISxHVzoS956yuTBLQRildzzsmPTrRe85Chd7nEcV9yeOT83Q189Eug&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Q8tMDegQIBxAS",
+      "10": "https://www.google.com/search?q=lasagna&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=ATAKZ5S3LdOuptQPxoCl-QE&start=90&sa=N&sstk=AagrsuiHUM2AtSSqFQFuP8Agc9I92UkppAwR7pBnQUj38VatISxHVzoS956yuTBLQRildzzsmPTrRe85Chd7nEcV9yeOT83Q189Eug&ved=2ahUKEwjUu5qYs4iJAxVTl4kEHUZAKR8Q8tMDegQIBxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lasagna&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lasagna&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lasagna&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lasagna&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lasagna&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lasagna&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lasagna&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lasagna&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lasagna&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lasagna&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lasagna&start=90"
+    }
+  }
+}

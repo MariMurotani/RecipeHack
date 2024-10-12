@@ -1,0 +1,638 @@
+{
+  "search_metadata": {
+    "id": "670a2e7fba1142e44763b61d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3bb4aba02675a505/670a2e7fba1142e44763b61d.json",
+    "created_at": "2024-10-12 08:08:31 UTC",
+    "processed_at": "2024-10-12 08:08:31 UTC",
+    "google_url": "https://www.google.com/search?q=wild+rice&oq=wild+rice&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/3bb4aba02675a505/670a2e7fba1142e44763b61d.html",
+    "total_time_taken": 1.02
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "wild rice",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "wild rice",
+    "total_results": 275000000,
+    "time_taken_displayed": 0.33,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "recipes_results": [
+    {
+      "title": "How to Cook Wild Rice",
+      "link": "https://www.loveandlemons.com/wild-rice-recipe/",
+      "source": "Love and Lemons",
+      "rating": 5.0,
+      "reviews": 11,
+      "total_time": "1 hr",
+      "ingredients": [
+        "Wild rice",
+        "pot"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0TinFABNCMrRTC9mJx2xP3qmaQfuOq5mH2xXnx9S7lfu8AQOFVUtuKmdm&s"
+    },
+    {
+      "title": "Perfect Wild Rice",
+      "link": "https://cookieandkate.com/perfect-wild-rice-recipe/",
+      "source": "Cookie and Kate",
+      "rating": 4.3,
+      "reviews": 6,
+      "total_time": "50 min",
+      "ingredients": [
+        "Wild rice",
+        "olive oil"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMzYCox-kLeB8zPZe9Jes9W0Vw_2M8megcgWATpaiPqym-ro89XDHqhC3r&s"
+    },
+    {
+      "title": "Wild and Brown Rice",
+      "link": "https://www.allrecipes.com/recipe/230896/wild-and-brown-rice/",
+      "source": "Allrecipes",
+      "rating": 4.0,
+      "reviews": 23,
+      "total_time": "1 hr 40 min",
+      "ingredients": [
+        "Wild rice",
+        "brown rice",
+        "chicken broth",
+        "carrots",
+        "celery"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCozNr5kxvg8NMAP8ZhUm1cC5o9MsBpzrRd-NBCypYsNf9VLj5iB2plowuDg&s"
+    },
+    {
+      "title": "Wild Rice | Instant Pot Recipe",
+      "link": "https://instafreshmeals.com/wild-rice/",
+      "source": "InstaFresh Meals",
+      "total_time": "45 min",
+      "ingredients": [
+        "Wild rice"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRROgULmvvV9gVNT9Jo317gRLz6ItbD7fhMmghqLqjvd8IIN8b2JDxW1t3C&s"
+    }
+  ],
+  "knowledge_graph": {
+    "title": "Wild rice",
+    "entity_type": "biology, food",
+    "main_tab_text": "Overview",
+    "kgmid": "/m/035bfz",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/035bfz&hl=en-US&q=Wild+rice&shndl=17&source=sh/x/kp/osrp/m5/1",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F035bfz&location=Austin%2CTexas%2CUnited+States&q=Wild+rice",
+    "tabs": [
+      {
+        "text": "Benefits",
+        "si": "ACC90nyedZ5OHuZaEeTOHpMdKlA6SoMkULyAmSsO4GzP565Zh3YMCJlC6uGbxHhbECDGPi9BVJx0CGVfCEn5UJaYHJbP06VbznuwpzM2BIUhRu-VkbIueCk=",
+        "link": "https://www.google.com/search?si=ACC90nyedZ5OHuZaEeTOHpMdKlA6SoMkULyAmSsO4GzP565Zh3YMCJlC6uGbxHhbECDGPi9BVJx0CGVfCEn5UJaYHJbP06VbznuwpzM2BIUhRu-VkbIueCk=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wild+rice&si=ACC90nyedZ5OHuZaEeTOHpMdKlA6SoMkULyAmSsO4GzP565Zh3YMCJlC6uGbxHhbECDGPi9BVJx0CGVfCEn5UJaYHJbP06VbznuwpzM2BIUhRu-VkbIueCk%3D"
+      },
+      {
+        "text": "Nutrition facts",
+        "si": "ACC90nxTdMcO6OZzoZh0HrxDJWYN1DtHXZkqZfhb8Fa7RW0267AK07xBOH4TEsrFG6wvmB15eLLomLMFwN-cM6f4LHbKUnTig5wFRKvwYSgN054nSIy9P_ZfYXUqOXakXWKYZd90UrSk",
+        "link": "https://www.google.com/search?si=ACC90nxTdMcO6OZzoZh0HrxDJWYN1DtHXZkqZfhb8Fa7RW0267AK07xBOH4TEsrFG6wvmB15eLLomLMFwN-cM6f4LHbKUnTig5wFRKvwYSgN054nSIy9P_ZfYXUqOXakXWKYZd90UrSk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wild+rice&si=ACC90nxTdMcO6OZzoZh0HrxDJWYN1DtHXZkqZfhb8Fa7RW0267AK07xBOH4TEsrFG6wvmB15eLLomLMFwN-cM6f4LHbKUnTig5wFRKvwYSgN054nSIy9P_ZfYXUqOXakXWKYZd90UrSk"
+      },
+      {
+        "text": "Recipes",
+        "si": "ACC90nxfnToZlyjBQFudWSoOG2dcIxoMHQMA1spgcp6oeLV_loW1iq0Lvev9QsuVJ1JoY9d2OaCwcrgFMxkFfULQFj_0yTWV-hwg250t7ezriPzgw9AV3GCvROhyyTmSnesW3C_6ZATW",
+        "link": "https://www.google.com/search?si=ACC90nxfnToZlyjBQFudWSoOG2dcIxoMHQMA1spgcp6oeLV_loW1iq0Lvev9QsuVJ1JoY9d2OaCwcrgFMxkFfULQFj_0yTWV-hwg250t7ezriPzgw9AV3GCvROhyyTmSnesW3C_6ZATW",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wild+rice&si=ACC90nxfnToZlyjBQFudWSoOG2dcIxoMHQMA1spgcp6oeLV_loW1iq0Lvev9QsuVJ1JoY9d2OaCwcrgFMxkFfULQFj_0yTWV-hwg250t7ezriPzgw9AV3GCvROhyyTmSnesW3C_6ZATW"
+      }
+    ],
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2e7fba1142e44763b61d/images/b7f59f88c61b4ebdc19028c7f9db85ab6289892b47890804e186d04e6eefc7b342e764d82c52751f.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2e7fba1142e44763b61d/images/b7f59f88c61b4ebdc19028c7f9db85ab6289892b47890804baeaccdbb684e8920eb6e67747b8d661.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2e7fba1142e44763b61d/images/b7f59f88c61b4ebdc19028c7f9db85ab6289892b47890804ed0dd2e359a35ee22acb02dd25f1d4f7.webp"
+      }
+    ],
+    "description": "Wild rice, also called manoomin, mnomen, Ps\u00ed\u014b, Canada rice, Indian rice, or water oats, is any of four species of grasses that form the genus Zizania, and the grain that can be harvested from them.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Wild_rice"
+    },
+    "sources_include": "USDAUSDAWild rice, raw571 Calories - 1 cup (160 g)",
+    "web_results": [
+      {
+        "thumbnail": "https://serpapi.com/searches/670a2e7fba1142e44763b61d/images/b7f59f88c61b4ebdc19028c7f9db85ab31159c01f4e5b829487af629dd06fa635e294b4bca091e8b.jpeg",
+        "title": "Lesson: How to Cook Wild Rice | Blue Jean Chef",
+        "snippet": "What's intriguing about wild rice is that despite its name, it's not actually rice\u2014it's a type of grass seed. With its nutty taste, ...",
+        "source": "YouTube \u2022 Blue Jean Chef",
+        "source_image": "https://serpapi.com/searches/670a2e7fba1142e44763b61d/images/b7f59f88c61b4ebdc19028c7f9db85ab31159c01f4e5b829542c8269777171735cd00e611d236b4907228b6e70f95748.png",
+        "link": "https://www.youtube.com/watch?v=GZi1V6wFK0E",
+        "duration": "2:31"
+      },
+      {
+        "title": "Family",
+        "snippet": "Poaceae",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=wild+rice+family&stick=H4sIAAAAAAAAAOPgE-LUz9U3MDZNSqvSEi4uttIvT01KS0wuKbZKS8zNzMlcxCpQnpmTolCUmZyqABaqBABXkbeHNQAAAA&sa=X&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQ18AJegQIHRAB"
+      },
+      {
+        "title": "Genus",
+        "snippet": "Zizania; L.",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=wild+rice+genus&stick=H4sIAAAAAAAAAOPgE-LUz9U3MDZNSqvSEiouttIvT01KS0wuKbZKT80rLV7Eyl-emZOiUJSZnKoAFgEAICg_yjMAAAA&sa=X&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQ18AJegQIIxAB"
+      },
+      {
+        "thumbnail": "https://serpapi.com/searches/670a2e7fba1142e44763b61d/images/b7f59f88c61b4ebdc19028c7f9db85ab31159c01f4e5b829f8d94cca60fd835af22d078e84e7c727.jpeg",
+        "title": "How to Cook Perfect Wild Rice - Cookie and Kate",
+        "link": "https://cookieandkate.com/perfect-wild-rice-recipe/"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Northern wild rice",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep5_3Gvja5LmmxwYXjYPLqFBLCzJ3-J15cIMrJQW7RTgYApF2Uw3oOVmO1299au7b0Rrp2obnT4Wb64HVLxZjvnWgYghm5Tv3Un47TKKxUaSZRfNJtmWVYGtsWf8sFfNMMhLwXwDqZWzTTpsZCkB60wipoGMnigIY2N_Mif_JI662idZVOao3Qa70EnR1_ahjF-l-OL3kb3y9MLZjhp8TcvBWz-1MP2ywtgZR4sQftVwSI-g5Wq_yEOv3ACmohPnCNdE3UU1ObTQeZuy2Hl23T9Bd36Qz&q=Northern+wild+rice&sa=X&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQs9oBKAB6BAgVEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Northern+wild+rice&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep5_3Gvja5LmmxwYXjYPLqFBLCzJ3-J15cIMrJQW7RTgYApF2Uw3oOVmO1299au7b0Rrp2obnT4Wb64HVLxZjvnWgYghm5Tv3Un47TKKxUaSZRfNJtmWVYGtsWf8sFfNMMhLwXwDqZWzTTpsZCkB60wipoGMnigIY2N_Mif_JI662idZVOao3Qa70EnR1_ahjF-l-OL3kb3y9MLZjhp8TcvBWz-1MP2ywtgZR4sQftVwSI-g5Wq_yEOv3ACmohPnCNdE3UU1ObTQeZuy2Hl23T9Bd36Qz",
+        "image": "https://serpapi.com/searches/670a2e7fba1142e44763b61d/images/b7f59f88c61b4ebdc19028c7f9db85ab930f7c70e4fc19c8ecc2d91af6ce8ab3cc253780a1b1e10b5fbe6d1f2ec08954.jpeg"
+      },
+      {
+        "name": "Zizania latifolia",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nyByJNAHfkzzi7l4JA4fcQKXOYDCI7plJH6uVksGWg6XqVpCsvlNL0Okq7mReaWQoEWg7M6GUQggkuZHu7kiPaGbfUiZ8VEi5cBg7pHx9hW3FsPBL0ZNF9LS1vEgCrbgBHP86e-01tWo9M-nO8ujoGcX67iN_sQpxKHZ-UiVWTT6p1-zHTRLMnXj-t2Haq0w1w-oecIyVF07mtjxxGOn9YvpTCH-nKE68VvvRCZ6cd8PK7iKxPITNKTC4ZgJzoWhinzW6BstOj1lrEVqWTFW8yX7nX_A24p1LDwAh7zwOd9jLdVY6AXZII6xIOwW4IYqAd7EhOg&q=Zizania+latifolia&sa=X&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQs9oBKAB6BAgVEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Zizania+latifolia&si=ACC90nyByJNAHfkzzi7l4JA4fcQKXOYDCI7plJH6uVksGWg6XqVpCsvlNL0Okq7mReaWQoEWg7M6GUQggkuZHu7kiPaGbfUiZ8VEi5cBg7pHx9hW3FsPBL0ZNF9LS1vEgCrbgBHP86e-01tWo9M-nO8ujoGcX67iN_sQpxKHZ-UiVWTT6p1-zHTRLMnXj-t2Haq0w1w-oecIyVF07mtjxxGOn9YvpTCH-nKE68VvvRCZ6cd8PK7iKxPITNKTC4ZgJzoWhinzW6BstOj1lrEVqWTFW8yX7nX_A24p1LDwAh7zwOd9jLdVY6AXZII6xIOwW4IYqAd7EhOg",
+        "image": "https://serpapi.com/searches/670a2e7fba1142e44763b61d/images/b7f59f88c61b4ebdc19028c7f9db85ab930f7c70e4fc19c8ecc2d91af6ce8ab3cb3cdd6f9b031a476771c8fd7fea0426.jpeg"
+      },
+      {
+        "name": "Oryza rufipogon",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQQWn5KgShN_JF__Lk3lbz11Y4GoaBaxji4FHstYG4k-3zDmbbZm_tXW9iKXZYNBeZRpFkSU1unF9xo7tg6z6jV1ATa5B-Udr5J0fahEDgGuAC1k8u6b8t2y6do0GdYyskzBgQaQ1BSd6hEfaWFPvvEIZ3h_IaqGfTN1ewyWD-jVorTumXOyRJW9vY7LB49w1-S0RsAKCPeAIKKaqi8nw-3RCP86FRkm0QKQGjKNexzoW4nL27VRr5pgv9KTKAB8gqUVl6Ew%3D&q=Oryza+rufipogon&sa=X&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQs9oBKAB6BAgVEA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Oryza+rufipogon&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQQWn5KgShN_JF__Lk3lbz11Y4GoaBaxji4FHstYG4k-3zDmbbZm_tXW9iKXZYNBeZRpFkSU1unF9xo7tg6z6jV1ATa5B-Udr5J0fahEDgGuAC1k8u6b8t2y6do0GdYyskzBgQaQ1BSd6hEfaWFPvvEIZ3h_IaqGfTN1ewyWD-jVorTumXOyRJW9vY7LB49w1-S0RsAKCPeAIKKaqi8nw-3RCP86FRkm0QKQGjKNexzoW4nL27VRr5pgv9KTKAB8gqUVl6Ew%3D",
+        "image": "https://serpapi.com/searches/670a2e7fba1142e44763b61d/images/b7f59f88c61b4ebdc19028c7f9db85ab930f7c70e4fc19c8ecc2d91af6ce8ab359018d27d7d448b671e29d918ee8421a.jpeg"
+      },
+      {
+        "name": "Oryza",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm63wTLb2XCzyCHT0iMNzTDiv9HC_kpBCHQ6jmluZ4XPeXWUKNdtdcNiyDFOeI6qNR2WAo16CtBWAyxUhDw6JAXf-oPkYKDHP5PO0QGa-WgBfq9ksvQk6vZykolru8MyJm4R8cYsJKAmIIiwtE_wMTWKhcOdzja8kvm_-VV0AA4vNzza4ktYqYuM5ix8pKCX-YBcyiSpzD9MKSi7-2Ae18uy8kcbBOQPEFF_jTad-1D_84aCa5g%3D%3D&q=Oryza&sa=X&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQs9oBKAB6BAgVEBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Oryza&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm63wTLb2XCzyCHT0iMNzTDiv9HC_kpBCHQ6jmluZ4XPeXWUKNdtdcNiyDFOeI6qNR2WAo16CtBWAyxUhDw6JAXf-oPkYKDHP5PO0QGa-WgBfq9ksvQk6vZykolru8MyJm4R8cYsJKAmIIiwtE_wMTWKhcOdzja8kvm_-VV0AA4vNzza4ktYqYuM5ix8pKCX-YBcyiSpzD9MKSi7-2Ae18uy8kcbBOQPEFF_jTad-1D_84aCa5g%3D%3D",
+        "image": "https://serpapi.com/searches/670a2e7fba1142e44763b61d/images/b7f59f88c61b4ebdc19028c7f9db85ab930f7c70e4fc19c8ecc2d91af6ce8ab378d029f0079678879b745fbc9a0b3c86.jpeg"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "1.7 g",
+        "2%"
+      ],
+      "cholesterol": [
+        "0 mg",
+        "0%"
+      ],
+      "sodium": [
+        "11 mg",
+        "0%"
+      ],
+      "potassium": [
+        "683 mg",
+        "19%"
+      ],
+      "total_carbohydrate": [
+        "120 g",
+        "40%"
+      ],
+      "protein": [
+        "24 g",
+        "48%"
+      ]
+    }
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Lesson: How to Cook Wild Rice | Blue Jean Chef",
+      "link": "https://www.youtube.com/watch?v=GZi1V6wFK0E",
+      "thumbnail": "https://i.ytimg.com/vi/GZi1V6wFK0E/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3nZWTQSmri1EJirdQsWcH3kmGRg4A",
+      "channel": "Blue Jean Chef",
+      "duration": "2:31",
+      "platform": "YouTube",
+      "date": "Feb 1, 2024"
+    },
+    {
+      "position": 2,
+      "title": "How to cook wild rice",
+      "link": "https://www.youtube.com/watch?v=4PZSWTJDUOQ",
+      "thumbnail": "https://i.ytimg.com/vi/4PZSWTJDUOQ/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3nmiUzg0xaaM1sYC_dKhfciZ5SlPg",
+      "channel": "Great British Chefs",
+      "duration": "1:37",
+      "platform": "YouTube",
+      "date": "Jan 10, 2017",
+      "key_moments": [
+        {
+          "time": "00:16",
+          "title": "Soak the rice",
+          "link": "https://www.youtube.com/watch?v=4PZSWTJDUOQ&t=16",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfO2XRGteSMb6g25IdDWK6vqO6b-QbLtHGG_AF4d_Kfg&s"
+        },
+        {
+          "time": "00:34",
+          "title": "Cook the rice",
+          "link": "https://www.youtube.com/watch?v=4PZSWTJDUOQ&t=34",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScHuabRCdqHy_JBcH9iok3sJ8nH7o_pD-gG1Q8ZFqclA&s"
+        },
+        {
+          "time": "01:15",
+          "title": "Serving suggestions",
+          "link": "https://www.youtube.com/watch?v=4PZSWTJDUOQ&t=75",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8iw0hT93iuS83--1cY_kyfQguywX7z1WZyoJWv6K_nw&s"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "Wild Way to Cook Wild Rice",
+      "link": "https://www.youtube.com/watch?v=psEsICsqWoc",
+      "thumbnail": "https://i.ytimg.com/vi/psEsICsqWoc/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kKoXEP6tp0SREXv7c75JDw2PqZfg",
+      "channel": "Plant-Based with Jane Esselstyn and Ann Esselstyn",
+      "duration": "4:55",
+      "platform": "YouTube",
+      "date": "Jan 25, 2024"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is wild rice the healthiest rice?",
+      "snippet": "Wild rice is a type of wheatgrass. Wild rice is healthier than brown or white rice because it has more dietary fiber and protein.",
+      "title": "Is Wild Rice Healthier Than Brown or White Rice? - MedicineNet",
+      "date": "Nov 3, 2022",
+      "link": "https://www.medicinenet.com/is_wild_rice_healthier_than_brown_or_white_rice/article.htm",
+      "displayed_link": "https://www.medicinenet.com \u203a article",
+      "source_logo": "https://serpapi.com/searches/670a2e7fba1142e44763b61d/images/0035f540b55fe6ca7e2aca3547e6ef60fe32158ffccffbf04720ec8051e63bf8.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFdrVXdNbUpoY0hOWWVXWTNkRzVMZW5abVR6aHJSRUozUVRGalJtRjFTblZZV2w4MGFESlFSbWs1UldsRlZIZzNTWGhyUkV4d09EWmFUMVZpY1VORFVIUk5kRlV0RWhkbWVUUkxXaTE2ZDB4aVQyWnJVRWxRY25KaVpHOUJZeG9pUVVaWWNrVmpjbFJoVlRCaGMyODRSRUZZWVZKR2FqTkhWRlJOTUdwaGVrMDRkdyIsImZjdiI6IjMiLCJlaSI6ImZ5NEtaLXp3TGJPZmtQSVBycmJkb0FjIiwicWMiOiJDZ2wzYVd4a0lISnBZMlVRQUgwTzNSQV8iLCJxdWVzdGlvbiI6IklzIHdpbGQgcmljZSB0aGUgaGVhbHRoaWVzdCByaWNlPyIsImxrIjoiYzVOU3lDeFdLTV9NU1ZFb3lreE9WU2pKU0ZYSVNFM01LY25JVEMwdUFZc0JBQSIsImJzIjoiYy1QeTRsTDBMRllvejh4SlVTaktURTVWS01sSVZjaElUY3dweWNoTUxTNEJpOWxMVEJBMlVwSlN5Q1NnanN1SlN4YkZyS3hTb0V4U1RtSnlOdFNjU3c1R2NsSXltWGpVY05seFNZZG5WSUxzeWl4UlNFN015VWxOUWFpMmwxaGVhaVFqSlZXT1V3V1hDNWNjVkRfQ2p1SjhoZFNLZ3RTODRzd3lvQkZQWlkza3BXVEw4U2tTWUFRQSIsImlkIjoiZmNfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFdrVXdNbUpoY0hOWWVXWTNkRzVMZW5abVR6aHJSRUozUVRGalJtRjFTblZZV2w4MGFESlFSbWs1UldsRlZIZzNTWGhyUkV4d09EWmFUMVZpY1VORFVIUk5kRlV0RWhkbWVUUkxXaTE2ZDB4aVQyWnJVRWxRY25KaVpHOUJZeG9pUVVaWWNrVmpjbFJoVlRCaGMyODRSRUZZWVZKR2FqTkhWRlJOTUdwaGVrMDRkdyIsImZjdiI6IjMiLCJlaSI6ImZ5NEtaLXp3TGJPZmtQSVBycmJkb0FjIiwicWMiOiJDZ2wzYVd4a0lISnBZMlVRQUgwTzNSQV8iLCJxdWVzdGlvbiI6IklzIHdpbGQgcmljZSB0aGUgaGVhbHRoaWVzdCByaWNlPyIsImxrIjoiYzVOU3lDeFdLTV9NU1ZFb3lreE9WU2pKU0ZYSVNFM01LY25JVEMwdUFZc0JBQSIsImJzIjoiYy1QeTRsTDBMRllvejh4SlVTaktURTVWS01sSVZjaElUY3dweWNoTUxTNEJpOWxMVEJBMlVwSlN5Q1NnanN1SlN4YkZyS3hTb0V4U1RtSnlOdFNjU3c1R2NsSXltWGpVY05seFNZZG5WSUxzeWl4UlNFN015VWxOUWFpMmwxaGVhaVFqSlZXT1V3V1hDNWNjVkRfQ2p1SjhoZFNLZ3RTODRzd3lvQkZQWlkza3BXVEw4U2tTWUFRQSIsImlkIjoiZmNfMiJ9"
+    },
+    {
+      "question": "Is wild rice just black rice?",
+      "snippet": "Are Black Rice and Wild Rice the Same? No, black rice is a whole grain rice that's similar to brown rice, while wild rice is technically the seed of a semi-aquatic grass.",
+      "title": "What Is Black Rice \u2014 How to Cook It, Store It, and Eat It | The Kitchn",
+      "link": "https://www.thekitchn.com/what-is-black-rice-how-to-cook-it-23152636",
+      "displayed_link": "https://www.thekitchn.com \u203a what-is-black-rice-how-to-c...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg-3EPbPAdODuTVCueUKonWg0mrqerhPO_2oZQW3e5VsDCUdC2QVzmGRv4iA&s",
+      "source_logo": "https://serpapi.com/searches/670a2e7fba1142e44763b61d/images/0035f540b55fe6ca7e2aca3547e6ef60b290d6b5932ce1670da627cab9948a4a.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFdrVXdNbUpoY0hOWWVXWTNkRzVMZW5abVR6aHJSRUozUVRGalJtRjFTblZZV2w4MGFESlFSbWs1UldsRlZIZzNTWGhyUkV4d09EWmFUMVZpY1VORFVIUk5kRlV0RWhkbWVUUkxXaTE2ZDB4aVQyWnJVRWxRY25KaVpHOUJZeG9pUVVaWWNrVmpjbFJoVlRCaGMyODRSRUZZWVZKR2FqTkhWRlJOTUdwaGVrMDRkdyIsImZjdiI6IjMiLCJlaSI6ImZ5NEtaLXp3TGJPZmtQSVBycmJkb0FjIiwicWMiOiJDZ2wzYVd4a0lISnBZMlVRQUgwTzNSQV8iLCJxdWVzdGlvbiI6IklzIHdpbGQgcmljZSBqdXN0IGJsYWNrIHJpY2U/IiwibGsiOiJjNU9TeVN4V0tNX01TVkVveWt4T1ZjZ3FMUzVSU01wSlRNNEc4d0UiLCJicyI6ImMtUHk0bEwwTEZZb3o4eEpVU2pLVEU1VktNbElWY2hJVGN3cHljaE1MUzRCaTlsTFRCQTJVcEpTeUNTZ2pzdUpTeGJGckt4U29FeFNUbUp5TnRTY1N3NUdjbEl5bVhqVWNObHhTWWRuVklMc3lpeFJTRTdNeVVsTlFhaTJsMWhlYWlRakpWV09Vd1dYQzVjY1ZEX0NqdUo4aGRTS2d0Uzg0c3d5b0JGUFpZM2twV1RMOFNrU1lBUUEiLCJpZCI6ImZjXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFdrVXdNbUpoY0hOWWVXWTNkRzVMZW5abVR6aHJSRUozUVRGalJtRjFTblZZV2w4MGFESlFSbWs1UldsRlZIZzNTWGhyUkV4d09EWmFUMVZpY1VORFVIUk5kRlV0RWhkbWVUUkxXaTE2ZDB4aVQyWnJVRWxRY25KaVpHOUJZeG9pUVVaWWNrVmpjbFJoVlRCaGMyODRSRUZZWVZKR2FqTkhWRlJOTUdwaGVrMDRkdyIsImZjdiI6IjMiLCJlaSI6ImZ5NEtaLXp3TGJPZmtQSVBycmJkb0FjIiwicWMiOiJDZ2wzYVd4a0lISnBZMlVRQUgwTzNSQV8iLCJxdWVzdGlvbiI6IklzIHdpbGQgcmljZSBqdXN0IGJsYWNrIHJpY2U%2FIiwibGsiOiJjNU9TeVN4V0tNX01TVkVveWt4T1ZjZ3FMUzVSU01wSlRNNEc4d0UiLCJicyI6ImMtUHk0bEwwTEZZb3o4eEpVU2pLVEU1VktNbElWY2hJVGN3cHljaE1MUzRCaTlsTFRCQTJVcEpTeUNTZ2pzdUpTeGJGckt4U29FeFNUbUp5TnRTY1N3NUdjbEl5bVhqVWNObHhTWWRuVklMc3lpeFJTRTdNeVVsTlFhaTJsMWhlYWlRakpWV09Vd1dYQzVjY1ZEX0NqdUo4aGRTS2d0Uzg0c3d5b0JGUFpZM2twV1RMOFNrU1lBUUEiLCJpZCI6ImZjXzIifQ%3D%3D"
+    },
+    {
+      "question": "Why is it called wild rice?",
+      "snippet": "The early European explorers saw the plant growing in water and observed the local people harvesting it. The habitat and harvest reminded them of rice paddies, thus they assumed it was a \u201cwild\u201d rice.",
+      "title": "Wild Rice | The 10 Plants That Changed Minnesota",
+      "link": "https://top10plantsmn.umn.edu/10-plants/wild-rice",
+      "displayed_link": "https://top10plantsmn.umn.edu \u203a 10-plants \u203a wild-rice",
+      "source_logo": "https://serpapi.com/searches/670a2e7fba1142e44763b61d/images/0035f540b55fe6ca7e2aca3547e6ef60d2457ac49ec5f4d9278fb6a993e5d804.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFdrVXdNbUpoY0hOWWVXWTNkRzVMZW5abVR6aHJSRUozUVRGalJtRjFTblZZV2w4MGFESlFSbWs1UldsRlZIZzNTWGhyUkV4d09EWmFUMVZpY1VORFVIUk5kRlV0RWhkbWVUUkxXaTE2ZDB4aVQyWnJVRWxRY25KaVpHOUJZeG9pUVVaWWNrVmpjbFJoVlRCaGMyODRSRUZZWVZKR2FqTkhWRlJOTUdwaGVrMDRkdyIsImZjdiI6IjMiLCJlaSI6ImZ5NEtaLXp3TGJPZmtQSVBycmJkb0FjIiwicWMiOiJDZ2wzYVd4a0lISnBZMlVRQUgwTzNSQV8iLCJxdWVzdGlvbiI6IldoeSBpcyBpdCBjYWxsZWQgd2lsZCByaWNlPyIsImxrIjoiR2hwM2FIa2dhWE1nYVhRZ1kyRnNiR1ZrSUhkcGJHUWdjbWxqWlEiLCJicyI6ImMtUHk0bEwwTEZZb3o4eEpVU2pLVEU1VktNbElWY2hJVGN3cHljaE1MUzRCaTlsTFRCQTJVcEpTeUNTZ2pzdUpTeGJGckt4U29FeFNUbUp5TnRTY1N3NUdjbEl5bVhqVWNObHhTWWRuVklMc3lpeFJTRTdNeVVsTlFhaTJsMWhlYWlRakpWV09Vd1dYQzVjY1ZEX0NqdUo4aGRTS2d0Uzg0c3d5b0JGUFpZM2twV1RMOFNrU1lBUUEiLCJpZCI6ImZjXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFdrVXdNbUpoY0hOWWVXWTNkRzVMZW5abVR6aHJSRUozUVRGalJtRjFTblZZV2w4MGFESlFSbWs1UldsRlZIZzNTWGhyUkV4d09EWmFUMVZpY1VORFVIUk5kRlV0RWhkbWVUUkxXaTE2ZDB4aVQyWnJVRWxRY25KaVpHOUJZeG9pUVVaWWNrVmpjbFJoVlRCaGMyODRSRUZZWVZKR2FqTkhWRlJOTUdwaGVrMDRkdyIsImZjdiI6IjMiLCJlaSI6ImZ5NEtaLXp3TGJPZmtQSVBycmJkb0FjIiwicWMiOiJDZ2wzYVd4a0lISnBZMlVRQUgwTzNSQV8iLCJxdWVzdGlvbiI6IldoeSBpcyBpdCBjYWxsZWQgd2lsZCByaWNlPyIsImxrIjoiR2hwM2FIa2dhWE1nYVhRZ1kyRnNiR1ZrSUhkcGJHUWdjbWxqWlEiLCJicyI6ImMtUHk0bEwwTEZZb3o4eEpVU2pLVEU1VktNbElWY2hJVGN3cHljaE1MUzRCaTlsTFRCQTJVcEpTeUNTZ2pzdUpTeGJGckt4U29FeFNUbUp5TnRTY1N3NUdjbEl5bVhqVWNObHhTWWRuVklMc3lpeFJTRTdNeVVsTlFhaTJsMWhlYWlRakpWV09Vd1dYQzVjY1ZEX0NqdUo4aGRTS2d0Uzg0c3d5b0JGUFpZM2twV1RMOFNrU1lBUUEiLCJpZCI6ImZjXzIifQ%3D%3D"
+    },
+    {
+      "question": "Why is wild rice so expensive?",
+      "snippet": "Because of its unique harvesting needs (learn more about it here), wild rice is significantly more expensive than brown rice. In fact, it's one of the most expensive grains. In Washington State, as of January 2023, wild rice costs $5.16 per pound and brown rice costs 80 cents a pound.",
+      "title": "Wild Rice vs Brown Rice - \u2022 The Incredible Bulks",
+      "date": "Jan 18, 2023",
+      "link": "https://www.theincrediblebulks.com/wild-rice-vs-brown-rice/",
+      "displayed_link": "https://www.theincrediblebulks.com \u203a wild-rice-vs-brown...",
+      "source_logo": "https://serpapi.com/searches/670a2e7fba1142e44763b61d/images/0035f540b55fe6ca7e2aca3547e6ef60dd4cae2e0c18fd7babf3de4eb46c3ae7.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFdrVXdNbUpoY0hOWWVXWTNkRzVMZW5abVR6aHJSRUozUVRGalJtRjFTblZZV2w4MGFESlFSbWs1UldsRlZIZzNTWGhyUkV4d09EWmFUMVZpY1VORFVIUk5kRlV0RWhkbWVUUkxXaTE2ZDB4aVQyWnJVRWxRY25KaVpHOUJZeG9pUVVaWWNrVmpjbFJoVlRCaGMyODRSRUZZWVZKR2FqTkhWRlJOTUdwaGVrMDRkdyIsImZjdiI6IjMiLCJlaSI6ImZ5NEtaLXp3TGJPZmtQSVBycmJkb0FjIiwicWMiOiJDZ2wzYVd4a0lISnBZMlVRQUgwTzNSQV8iLCJxdWVzdGlvbiI6IldoeSBpcyB3aWxkIHJpY2Ugc28gZXhwZW5zaXZlPyIsImxrIjoiR2gxM2FIa2dhWE1nZDJsc1pDQnlhV05sSUhOdklHVjRjR1Z1YzJsMlpRIiwiYnMiOiJjLVB5NGxMMExGWW96OHhKVVNqS1RFNVZLTWxJVmNoSVRjd3B5Y2hNTFM0Qmk5bExUQkEyVXBKU3lDU2dqc3VKU3hiRnJLeFNvRXhTVG1KeU50U2NTdzVHY2xJeW1YalVjTmx4U1lkblZJTHN5aXhSU0U3TXlVbE5RYWkybDFoZWFpUWpKVldPVXdXWEM1Y2NWRF9DanVKOGhkU0tndFM4NHN3eW9CRlBaWTNrcFdUTDhTa1NZQVFBIiwiaWQiOiJmY18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFdrVXdNbUpoY0hOWWVXWTNkRzVMZW5abVR6aHJSRUozUVRGalJtRjFTblZZV2w4MGFESlFSbWs1UldsRlZIZzNTWGhyUkV4d09EWmFUMVZpY1VORFVIUk5kRlV0RWhkbWVUUkxXaTE2ZDB4aVQyWnJVRWxRY25KaVpHOUJZeG9pUVVaWWNrVmpjbFJoVlRCaGMyODRSRUZZWVZKR2FqTkhWRlJOTUdwaGVrMDRkdyIsImZjdiI6IjMiLCJlaSI6ImZ5NEtaLXp3TGJPZmtQSVBycmJkb0FjIiwicWMiOiJDZ2wzYVd4a0lISnBZMlVRQUgwTzNSQV8iLCJxdWVzdGlvbiI6IldoeSBpcyB3aWxkIHJpY2Ugc28gZXhwZW5zaXZlPyIsImxrIjoiR2gxM2FIa2dhWE1nZDJsc1pDQnlhV05sSUhOdklHVjRjR1Z1YzJsMlpRIiwiYnMiOiJjLVB5NGxMMExGWW96OHhKVVNqS1RFNVZLTWxJVmNoSVRjd3B5Y2hNTFM0Qmk5bExUQkEyVXBKU3lDU2dqc3VKU3hiRnJLeFNvRXhTVG1KeU50U2NTdzVHY2xJeW1YalVjTmx4U1lkblZJTHN5aXhSU0U3TXlVbE5RYWkybDFoZWFpUWpKVldPVXdXWEM1Y2NWRF9DanVKOGhkU0tndFM4NHN3eW9CRlBaWTNrcFdUTDhTa1NZQVFBIiwiaWQiOiJmY18yIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "How to Cook Wild Rice Recipe",
+      "link": "https://www.loveandlemons.com/wild-rice-recipe/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.loveandlemons.com/wild-rice-recipe/&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQFnoECEMQAQ&usg=AOvVaw0xl87CbrbYdx8UvinANJ-0",
+      "displayed_link": "https://www.loveandlemons.com \u203a Recipes",
+      "thumbnail": "https://serpapi.com/searches/670a2e7fba1142e44763b61d/images/6afb7455e9328086785202e710c1e9df4efc1d0d2663ee72bdcabdcf908d7c18.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2e7fba1142e44763b61d/images/6afb7455e9328086785202e710c1e9df7f416496b2c73997230700bdfa3228c5.png",
+      "snippet": "How to Cook Wild Rice \u00b7 Start by bringing a medium pot or saucepan of water to a boil. No need to worry about a specific rice-to-water ratio for this recipe.",
+      "snippet_highlighted_words": [
+        "Wild Rice"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "hr": 1
+          },
+          "extensions": [
+            "5.0(11)",
+            "1 hr"
+          ]
+        }
+      },
+      "source": "Love and Lemons"
+    },
+    {
+      "position": 2,
+      "title": "Wild rice",
+      "link": "https://en.wikipedia.org/wiki/Wild_rice",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Wild_rice&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQFnoECFsQAQ&usg=AOvVaw16gStUB7VjSeYHLRqwoxUn",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Wild_rice",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw5fvjJNim6x0p7P0UYrd9DtaFQukcbaghbmn4P-5CrlLFtSVDUbkK&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2e7fba1142e44763b61d/images/6afb7455e9328086785202e710c1e9dfe1f319dcd69c813c6c3f970df8dd606e.png",
+      "snippet": "Wild rice, also called manoomin, mnomen, Ps\u00ed\u014b, Canada rice, Indian rice, or water oats, is any of four species of grasses that form the genus Zizania, ...",
+      "snippet_highlighted_words": [
+        "Wild rice"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Culinary use",
+            "link": "https://en.wikipedia.org/wiki/Wild_rice#Culinary_use"
+          },
+          {
+            "title": "Manchurian wild rice",
+            "link": "https://en.wikipedia.org/wiki/Wild_rice#Manchurian_wild_rice"
+          },
+          {
+            "title": "Nutrition",
+            "link": "https://en.wikipedia.org/wiki/Wild_rice#Nutrition"
+          },
+          {
+            "title": "Archaeology of Minnesota wild...",
+            "link": "https://en.wikipedia.org/wiki/Wild_rice#Archaeology_of_Minnesota_wild_rice"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 3,
+      "title": "How to Cook Perfect Wild Rice",
+      "link": "https://cookieandkate.com/perfect-wild-rice-recipe/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cookieandkate.com/perfect-wild-rice-recipe/&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQFnoECFkQAQ&usg=AOvVaw1HEf8M6bWxvdoR2gAQzVgf",
+      "displayed_link": "https://cookieandkate.com \u203a perfect-wild-rice-recipe",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNAWG9kxWop_npBrkzAMV6KoyaH8Zbhs1p6ygfNKj30V21e5r5nvQc&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2e7fba1142e44763b61d/images/6afb7455e9328086785202e710c1e9df5bc3fd75e01d9fbda93061b3eeb57f9d.png",
+      "date": "Aug 29, 2024",
+      "snippet": "Instructions \u00b7 Bring a large pot of water to boil, using at least 6 cups water per 1 cup rice (or see Instant Pot option provided in notes).",
+      "snippet_highlighted_words": [
+        "rice"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.3,
+            "min": 50
+          },
+          "extensions": [
+            "4.3(6)",
+            "50 min"
+          ]
+        }
+      },
+      "source": "Cookie and Kate"
+    },
+    {
+      "position": 4,
+      "title": "Lundberg Organic Wild Rice - 100% Natural California ...",
+      "link": "https://www.amazon.com/Lundberg-Wild-Rice-Ounce-Organic/dp/B006R1SQMK",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/Lundberg-Wild-Rice-Ounce-Organic/dp/B006R1SQMK&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQFnoECF0QAQ&usg=AOvVaw1ZG3VfyVDXa45Tpt8ipu-T",
+      "displayed_link": "https://www.amazon.com \u203a Lundberg-Wild-Rice-Ounce...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuRyVHrQVjJeXFjzf4xNBhzXq4u4Xmwr3sopW1BxM_UXjoBdQ-kmeR&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2e7fba1142e44763b61d/images/6afb7455e9328086785202e710c1e9df52c10e455c0e2af5d78fa3d4fc4acf62.png",
+      "snippet": "100% Natural California Cultivated Black Wild Rice for Healthy Meals, Vegan Food, Gluten-Free Rice, Pantry Staples, 8 Oz",
+      "snippet_highlighted_words": [
+        "Wild Rice"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 30,
+            "price": 12.99,
+            "currency": "$"
+          },
+          "extensions": [
+            "4.5(1,321)",
+            "$12.99",
+            "\u200e30",
+            "day returns"
+          ]
+        }
+      },
+      "source": "Amazon.com"
+    },
+    {
+      "position": 5,
+      "title": "How to Cook Wild Rice",
+      "link": "https://fedandfit.com/how-to-cook-wild-rice/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fedandfit.com/how-to-cook-wild-rice/&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQFnoECF4QAQ&usg=AOvVaw0wtUaPNPxf6iPyewxmXifJ",
+      "displayed_link": "https://fedandfit.com \u203a Recipes \u203a Side Dishes \u203a Grains",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjBs_NkLFYLD0K-UkdNPV-Ic3xv6107GnmcA1hauJpI3BdyRs-1Y_V&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2e7fba1142e44763b61d/images/6afb7455e9328086785202e710c1e9df2fc3e8820a6b274d321ab9f16f367782.png",
+      "date": "Jan 3, 2024",
+      "snippet": "Instructions \u00b7 Rinse the wild rice. \u00b7 Add the rinsed wild rice, water or broth, butter or olive oil, and salt to a pot. \u00b7 Bring to a boil, then ...",
+      "snippet_highlighted_words": [
+        "wild rice",
+        "wild rice"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "This recipe is\u2026",
+            "link": "https://fedandfit.com/how-to-cook-wild-rice/#this-recipe-is"
+          },
+          {
+            "title": "Recipe Variations and...",
+            "link": "https://fedandfit.com/how-to-cook-wild-rice/#recipe-variations-and-modifications"
+          },
+          {
+            "title": "How to Cook Wild Rice",
+            "link": "https://fedandfit.com/how-to-cook-wild-rice/#how-to-cook-wild-rice"
+          },
+          {
+            "title": "Recipe Tips",
+            "link": "https://fedandfit.com/how-to-cook-wild-rice/#recipe-tips"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "min": 50
+          },
+          "extensions": [
+            "5.0(1)",
+            "50 min"
+          ]
+        }
+      },
+      "source": "Fed & Fit"
+    },
+    {
+      "position": 6,
+      "title": "Wild rice, cooked (SR Legacy, 168897) - FoodData Central",
+      "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/168897/nutrients",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fdc.nal.usda.gov/fdc-app.html%23/food-details/168897/nutrients&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQFnoECFUQAQ&usg=AOvVaw0LaXKtiFGd2F8ViulLPfBN",
+      "displayed_link": "https://fdc.nal.usda.gov \u203a fdc-app",
+      "favicon": "https://serpapi.com/searches/670a2e7fba1142e44763b61d/images/6afb7455e9328086785202e710c1e9df5a3ede5dfdb5e6be39ac312d3fda6fce.png",
+      "snippet": "Wild rice, cooked ; Protein, 3.99, g ; Total lipid (fat), 0.34, g ; Ash, 0.4, g ; Carbohydrate, by difference, 21.3, g ...",
+      "snippet_highlighted_words": [
+        "Wild rice"
+      ],
+      "source": "USDA FoodData Central (.gov)"
+    },
+    {
+      "position": 7,
+      "title": "What Is Wild Rice?",
+      "link": "https://www.thespruceeats.com/what-is-wild-rice-4770907",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thespruceeats.com/what-is-wild-rice-4770907&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQFnoECFwQAQ&usg=AOvVaw1Gu4p2UeMJxRWa-ya2_JoD",
+      "displayed_link": "https://www.thespruceeats.com \u203a what-is-wild-rice-4770...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBVlSxWagtZsxfKPC-M4waxsvQU-TEL2MEKMR19JGdmYYykyCCHmeN&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2e7fba1142e44763b61d/images/6afb7455e9328086785202e710c1e9df11d5446b79e80cfb79523684e8103f43.png",
+      "date": "Jan 31, 2023",
+      "snippet": "Wild rice isn't rice but a semi-aquatic grass with a toothsome texture and nutty flavor. It is cooked and used like rice yet requires longer ...",
+      "snippet_highlighted_words": [
+        "Wild rice"
+      ],
+      "source": "The Spruce Eats"
+    },
+    {
+      "position": 8,
+      "title": "Red Lake Nation Foods Minnesota Cultivated Wild Rice ...",
+      "link": "https://shoptocabe.com/products/red-lake-nation-cultivated-wild-rice?srsltid=AfmBOoqE0ZlTkVfMYCL7DYhksNaiyxUIiKUuNyEQMj_DNRoHCbqx1GNF",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://shoptocabe.com/products/red-lake-nation-cultivated-wild-rice%3Fsrsltid%3DAfmBOoqE0ZlTkVfMYCL7DYhksNaiyxUIiKUuNyEQMj_DNRoHCbqx1GNF&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQFnoECH0QAQ&usg=AOvVaw0GBDFOPCE9YvqGQ_qpNjlW",
+      "displayed_link": "https://shoptocabe.com \u203a products \u203a red-lake-nation-cult...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi4HLuB77osDO8-QkptiprhAiLf-GB-zyjLGU9SoNUmS4SZUNBySR-&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2e7fba1142e44763b61d/images/6afb7455e9328086785202e710c1e9dfe120571b80c3012909c16dc6697de656.png",
+      "snippet": "Packed with minerals and antioxidants, this wild rice has a nutty flavor, firm texture, and vibrant color. A product of the Red Lake Nation band of Chippewa ...",
+      "snippet_highlighted_words": [
+        "wild rice"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 30,
+            "price": 11.0,
+            "currency": "$",
+            "day_delivery": 5
+          },
+          "extensions": [
+            "5.0(34)",
+            "$11.00",
+            "\u200e5\u20138 day delivery",
+            "\u200e30",
+            "day returns"
+          ]
+        }
+      },
+      "source": "Tocabe Indigenous Marketplace"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Wild+rice&stick=H4sIAAAAAAAAAONgFuLUz9U3MDZNSqtSQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1i5QzPzElRKMpMTt3ByniLTZKh-2mPsY0kW4XgtObGJ55HFD_OfbelRL6UHQDrtCkkbwAAAA&sa=X&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQzO0BKAR6BAgVEBM",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Wild+rice&stick=H4sIAAAAAAAAAONgFuLUz9U3MDZNSqtSQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1i5QzPzElRKMpMTt3ByniLTZKh-2mPsY0kW4XgtObGJ55HFD_OfbelRL6UHQDrtCkkbwAAAA",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Wild rice recipe",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Wild+rice+recipe&sa=X&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQ1QJ6BQiEARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Wild+rice+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Wild Rice price",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Wild+Rice+price&sa=X&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQ1QJ6BQiGARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Wild+Rice+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Wild rice scientific name",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Wild+rice+scientific+name&sa=X&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQ1QJ6BQiHARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Wild+rice+scientific+name"
+    },
+    {
+      "block_position": 1,
+      "query": "Wild Rice where to buy",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Wild+Rice+where+to+buy&sa=X&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQ1QJ6BQiIARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Wild+Rice+where+to+buy"
+    },
+    {
+      "block_position": 1,
+      "query": "Wild Rice Walmart",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Wild+Rice+Walmart&sa=X&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQ1QJ6BQiFARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Wild+Rice+Walmart"
+    },
+    {
+      "block_position": 1,
+      "query": "Wild Rice - tesco",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Wild+Rice+-+tesco&sa=X&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQ1QJ6BQiJARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Wild+Rice+-+tesco"
+    },
+    {
+      "block_position": 1,
+      "query": "Steam wild rice",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Steam+wild+rice&sa=X&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQ1QJ6BQiKARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Steam+wild+rice"
+    },
+    {
+      "block_position": 1,
+      "query": "Wild rice blend",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Wild+rice+blend&sa=X&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQ1QJ6BQiLARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Wild+rice+blend"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Wild Rice",
+      "link": "https://www.reddit.com/r/Chefit/comments/17rcv85/wild_rice/",
+      "date": "11mo ago",
+      "extensions": [
+        "r/Chefit",
+        "20+ comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "To all the people recently singing the praises of Minnesota wild rice in ...",
+      "link": "https://www.reddit.com/r/Cooking/comments/11krh9z/to_all_the_people_recently_singing_the_praises_of/",
+      "date": "1y ago",
+      "extensions": [
+        "r/Cooking",
+        "40+ comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "Wild Rice Recipe",
+      "link": "https://forum.recipes.net/threads/wild-rice-recipe.8800/",
+      "date": "3mo ago",
+      "source": "Forum.Recipes.net"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=wild+rice&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=fy4KZ-zwLbOfkPIPrrbdoAc&start=10&sa=N&sstk=AagrsujeKkFHC9jnLyWm4oTwpuefj7S90unVV7SE0tInqXX3WF4tGc4M3zOpqGwPfhcviAAm1bmv1bkh6Exohvck1N-P0b9SYfYtPg&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQ8NMDegQIJRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=wild+rice&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=fy4KZ-zwLbOfkPIPrrbdoAc&start=10&sa=N&sstk=AagrsujeKkFHC9jnLyWm4oTwpuefj7S90unVV7SE0tInqXX3WF4tGc4M3zOpqGwPfhcviAAm1bmv1bkh6Exohvck1N-P0b9SYfYtPg&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQ8tMDegQIJRAE",
+      "3": "https://www.google.com/search?q=wild+rice&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=fy4KZ-zwLbOfkPIPrrbdoAc&start=20&sa=N&sstk=AagrsujeKkFHC9jnLyWm4oTwpuefj7S90unVV7SE0tInqXX3WF4tGc4M3zOpqGwPfhcviAAm1bmv1bkh6Exohvck1N-P0b9SYfYtPg&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQ8tMDegQIJRAG",
+      "4": "https://www.google.com/search?q=wild+rice&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=fy4KZ-zwLbOfkPIPrrbdoAc&start=30&sa=N&sstk=AagrsujeKkFHC9jnLyWm4oTwpuefj7S90unVV7SE0tInqXX3WF4tGc4M3zOpqGwPfhcviAAm1bmv1bkh6Exohvck1N-P0b9SYfYtPg&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQ8tMDegQIJRAI",
+      "5": "https://www.google.com/search?q=wild+rice&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=fy4KZ-zwLbOfkPIPrrbdoAc&start=40&sa=N&sstk=AagrsujeKkFHC9jnLyWm4oTwpuefj7S90unVV7SE0tInqXX3WF4tGc4M3zOpqGwPfhcviAAm1bmv1bkh6Exohvck1N-P0b9SYfYtPg&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQ8tMDegQIJRAK",
+      "6": "https://www.google.com/search?q=wild+rice&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=fy4KZ-zwLbOfkPIPrrbdoAc&start=50&sa=N&sstk=AagrsujeKkFHC9jnLyWm4oTwpuefj7S90unVV7SE0tInqXX3WF4tGc4M3zOpqGwPfhcviAAm1bmv1bkh6Exohvck1N-P0b9SYfYtPg&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQ8tMDegQIJRAM",
+      "7": "https://www.google.com/search?q=wild+rice&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=fy4KZ-zwLbOfkPIPrrbdoAc&start=60&sa=N&sstk=AagrsujeKkFHC9jnLyWm4oTwpuefj7S90unVV7SE0tInqXX3WF4tGc4M3zOpqGwPfhcviAAm1bmv1bkh6Exohvck1N-P0b9SYfYtPg&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQ8tMDegQIJRAO",
+      "8": "https://www.google.com/search?q=wild+rice&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=fy4KZ-zwLbOfkPIPrrbdoAc&start=70&sa=N&sstk=AagrsujeKkFHC9jnLyWm4oTwpuefj7S90unVV7SE0tInqXX3WF4tGc4M3zOpqGwPfhcviAAm1bmv1bkh6Exohvck1N-P0b9SYfYtPg&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQ8tMDegQIJRAQ",
+      "9": "https://www.google.com/search?q=wild+rice&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=fy4KZ-zwLbOfkPIPrrbdoAc&start=80&sa=N&sstk=AagrsujeKkFHC9jnLyWm4oTwpuefj7S90unVV7SE0tInqXX3WF4tGc4M3zOpqGwPfhcviAAm1bmv1bkh6Exohvck1N-P0b9SYfYtPg&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQ8tMDegQIJRAS",
+      "10": "https://www.google.com/search?q=wild+rice&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=fy4KZ-zwLbOfkPIPrrbdoAc&start=90&sa=N&sstk=AagrsujeKkFHC9jnLyWm4oTwpuefj7S90unVV7SE0tInqXX3WF4tGc4M3zOpqGwPfhcviAAm1bmv1bkh6Exohvck1N-P0b9SYfYtPg&ved=2ahUKEwisrJPgsYiJAxWzD0QIHS5bF3QQ8tMDegQIJRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wild+rice&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wild+rice&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wild+rice&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wild+rice&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wild+rice&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wild+rice&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wild+rice&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wild+rice&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wild+rice&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wild+rice&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wild+rice&start=90"
+    }
+  }
+}

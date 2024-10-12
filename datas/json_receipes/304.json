@@ -1,0 +1,647 @@
+{
+  "search_metadata": {
+    "id": "670a2b173c863dc9231acd55",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/18945d53f6b19d97/670a2b173c863dc9231acd55.json",
+    "created_at": "2024-10-12 07:53:59 UTC",
+    "processed_at": "2024-10-12 07:53:59 UTC",
+    "google_url": "https://www.google.com/search?q=hops&oq=hops&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/18945d53f6b19d97/670a2b173c863dc9231acd55.html",
+    "total_time_taken": 2.25
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "hops",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "hops",
+    "total_results": 2090000000,
+    "time_taken_displayed": 0.28,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "recipes_results": [
+    {
+      "title": "Hop Leaf Fettuccine, With Morels, Ramps, And Hop Shoots",
+      "link": "https://foragerchef.com/hop-shoots/",
+      "source": "- Forager | Chef",
+      "rating": 5.0,
+      "reviews": 2,
+      "total_time": "45 min",
+      "ingredients": [
+        "Aged goat cheese",
+        "white wine",
+        "fettuccine",
+        "fresh morels",
+        "chicken stock"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9IAC6SfcEnSO7TdKYfLfM30Soj6I2zHUhXumSqVkTX-pnXlxQ2ttZJYLt&s"
+    },
+    {
+      "title": "Hops & Peel Recipe",
+      "link": "https://www.today.com/recipes/hops-peel-recipe-t244419",
+      "source": "TODAY.com",
+      "rating": 3.7,
+      "reviews": 15,
+      "ingredients": [
+        "Champagne vinegar",
+        "orange slice",
+        "ipa"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW5vLXxImQBqObJj9orUAJwYwCMemmx1Do19Y3PDxNc-J7hgTSC9fmM-wPqg&s"
+    },
+    {
+      "title": "\u201cHOPS\u201d AND JOHN",
+      "link": "https://www.guinness.com/en-us/experiences/recipes/hops-and-john",
+      "source": "Guinness",
+      "ingredients": [
+        "Black eyed peas",
+        "ham hock",
+        "rib",
+        "long grain rice",
+        "green bell pepper"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9XdtAWeIWvB_jlAUmOY9YWCrz0qIQhLWi0Q8q8mJrA2iwqru5z4Hi36e4A&s"
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=hops&npsic=0&rflfq=1&rldoc=1&rllag=30301890,-97853856,12074&tbm=lcl&sa=X&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQtgN6BAhJEAI",
+    "image": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/498b32b251a76e2b9aa31c052a510fae.png",
+    "gps_coordinates": {
+      "latitude": 30.30189,
+      "longitude": -97.853856
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.4,
+        "reviews_original": "(441)",
+        "reviews": 441,
+        "description": "\"Highly recommend Hops & Thyme for a delicious meal and fantastic service!\"",
+        "lsig": "AB86z5UJN6k2W28uTBugACCfUwDp",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPLQ-Fyx1sUL8GN98UrGmqmPN1i1l84SU2mVcXu=w92-h92-n-k-no",
+        "title": "Hops & Thyme",
+        "type": "Restaurant",
+        "address": "Lakeway, TX",
+        "hours": "Closed \u22c5 Opens 11 AM",
+        "place_id": "2767944998270328244",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=2767944998270328244&q=hops",
+        "gps_coordinates": {
+          "latitude": 30.342838,
+          "longitude": -97.970345
+        }
+      },
+      {
+        "position": 2,
+        "rating": 3.5,
+        "reviews_original": "(4K)",
+        "reviews": 4000,
+        "description": "\"There is a happy hour menu after 3pm\"",
+        "lsig": "AB86z5UWWH82lXHNme2C_txWdDJx",
+        "thumbnail": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/ee1b0e697e45c9fbd662a8414a2ac38ca461f47a8de129c316fcd6308d95424e4c3c0acfd93c1de0.jpeg",
+        "title": "IHOP",
+        "type": "Breakfast",
+        "address": "707 E Cesar Chavez St",
+        "place_id": "13037896282424988605",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=13037896282424988605&q=hops",
+        "gps_coordinates": {
+          "latitude": 30.260942,
+          "longitude": -97.73737
+        }
+      },
+      {
+        "position": 3,
+        "rating": 4.5,
+        "reviews_original": "(1.1K)",
+        "reviews": 1100,
+        "price": "$$",
+        "description": "\"Truly exceptional food and beer selection in a unique building.\"",
+        "lsig": "AB86z5VSErCV4DfZUqm6ZAQLHC4T",
+        "thumbnail": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/ee1b0e697e45c9fbd662a8414a2ac38cb9fd6d0c76dc621439f5076704ffc17607de67fa4881c832.jpeg",
+        "title": "Hopfields",
+        "type": "Brasserie",
+        "address": "3110 Guadalupe St #400",
+        "hours": "Closed \u22c5 Opens 11 AM",
+        "place_id": "6872867379462336347",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=6872867379462336347&q=hops",
+        "gps_coordinates": {
+          "latitude": 30.298523,
+          "longitude": -97.74097
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=hops&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQjGp6BAhKEAE"
+  },
+  "knowledge_graph": {
+    "title": "Hops",
+    "entity_type": "food, kp3_verticals",
+    "kgmid": "/m/03qjz",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/03qjz&hl=en-US&q=Hops",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F03qjz&location=Austin%2CTexas%2CUnited+States&q=Hops",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/6517491b571044159af8244ddd5a9a125bed76598bbc5cb77390f05b75bde30917446459c47bbfc1.jpeg",
+        "source": "https://en.wikipedia.org/wiki/Hops"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/6517491b571044159af8244ddd5a9a125bed76598bbc5cb7d4edf0f19215f7e24bc17d4f3cff9c5f.jpeg",
+        "source": "https://sierranevada.com/blog/our-beer/what-are-hops"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/6517491b571044159af8244ddd5a9a125bed76598bbc5cb7278ef50cc0129fb5216fdb37f4e276c0.jpeg",
+        "source": "https://www.wineenthusiast.com/culture/beer/what-are-hops/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/6517491b571044159af8244ddd5a9a125bed76598bbc5cb7a4e1519c98b66d35732021d3c27732c0.jpeg",
+        "source": "https://www.ageold.com/growing-hops-at-home-an-act-of-tradition/"
+      }
+    ],
+    "description": "Hops are the flowers of the hop plant Humulus lupulus, a member of the Cannabaceae family of flowering plants. They are used primarily as a bittering, flavouring, and stability agent in beer, to which, in addition to bitterness, they impart floral, fruity, or citrus flavours and aromas.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Hops"
+    },
+    "largest_producer": "The United States of America",
+    "people_also_search_for": [
+      {
+        "name": "Malt",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm8eFf5tcz3EOh7GkjW1OhDE5wpF9cHLX0-4Vxv-b6XeGd2mVeH7z-F96-3kITo87QWg0ESksy6jviAfTT18WXXL16xERdEA7Hd0c3zBvPEWgV1amJog6iNBH-ryJy3QY-jG_DCiVuBFVit_JJvylZJAnx-z6CN3c-Rh6dn7gPOnRAq9kEnL-fBNB3D_vzvlM5dS_FQPhAke61z1KjZZufBrU87d3VhYIETng5lLf20oXW2b_iw%3D%3D&q=Malt&sa=X&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQs9oBKAB6BAg5EAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Malt&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm8eFf5tcz3EOh7GkjW1OhDE5wpF9cHLX0-4Vxv-b6XeGd2mVeH7z-F96-3kITo87QWg0ESksy6jviAfTT18WXXL16xERdEA7Hd0c3zBvPEWgV1amJog6iNBH-ryJy3QY-jG_DCiVuBFVit_JJvylZJAnx-z6CN3c-Rh6dn7gPOnRAq9kEnL-fBNB3D_vzvlM5dS_FQPhAke61z1KjZZufBrU87d3VhYIETng5lLf20oXW2b_iw%3D%3D",
+        "image": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/6517491b571044159af8244ddd5a9a12e30f99456b81c0d112ff28ea4d06019a1cc94e8aea2676d5e95a16ee16839f5a.jpeg"
+      },
+      {
+        "name": "Barley",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm6OyUlRXN4o0V3yFmgLZo7MXXGrh96878Rx1Wz5cnpn2eFv2FFXFiapvyz8bEJRRfUmOAS5bfTISdj9pMQ7BW9aUdxc-uNSoa69na7L2FqrMsyxBuqbREP9pad2_X-wGVfwsVl1u7-jog_s13pp809OzAS6u2NRRHwVysT0TMidFUzLsUjJgwQpNLNz7788C4KYYKhyeHW5V04Ynbn4_fh_iIiln-KHBK31AjZd9YBz414m6pA%3D%3D&q=Barley&sa=X&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQs9oBKAB6BAg5EAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Barley&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm6OyUlRXN4o0V3yFmgLZo7MXXGrh96878Rx1Wz5cnpn2eFv2FFXFiapvyz8bEJRRfUmOAS5bfTISdj9pMQ7BW9aUdxc-uNSoa69na7L2FqrMsyxBuqbREP9pad2_X-wGVfwsVl1u7-jog_s13pp809OzAS6u2NRRHwVysT0TMidFUzLsUjJgwQpNLNz7788C4KYYKhyeHW5V04Ynbn4_fh_iIiln-KHBK31AjZd9YBz414m6pA%3D%3D",
+        "image": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/6517491b571044159af8244ddd5a9a12e30f99456b81c0d112ff28ea4d06019ad06c25f2e918d07fcd0371b7c48e0ff5.jpeg"
+      },
+      {
+        "name": "India pale ale",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L6LSCTaSc2Njjeh_dt23_im-zllqQuQPdqxLr__Tx4V6ik1fTK0lbq9VLZ4BMjbHyFsn-_2D1bRBEIno-umP4eiUK41W4_BFRAIadKqzc9vM80G5L2qrUnN4Nnjs4XDuve0TrcB6Ec5WHONr8DBouwNPfTCh7RoVATSsSDjXJnyNTOsvNMqhBcZmNWOoxuxIc7a3jOinpHLNOIZMXRiO9MgZaoqjo6c1oMRcAzeoBYQIYMzVbwYupee13ZOZXYb4WAOMhvY%3D&q=India+pale+ale&sa=X&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQs9oBKAB6BAg5EA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=India+pale+ale&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L6LSCTaSc2Njjeh_dt23_im-zllqQuQPdqxLr__Tx4V6ik1fTK0lbq9VLZ4BMjbHyFsn-_2D1bRBEIno-umP4eiUK41W4_BFRAIadKqzc9vM80G5L2qrUnN4Nnjs4XDuve0TrcB6Ec5WHONr8DBouwNPfTCh7RoVATSsSDjXJnyNTOsvNMqhBcZmNWOoxuxIc7a3jOinpHLNOIZMXRiO9MgZaoqjo6c1oMRcAzeoBYQIYMzVbwYupee13ZOZXYb4WAOMhvY%3D",
+        "image": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/6517491b571044159af8244ddd5a9a12e30f99456b81c0d112ff28ea4d06019a48004bd1b23e8cfcef1904473bce2efc.jpeg"
+      },
+      {
+        "name": "Beer",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm5Fhpdgk0-pkNtBRDfmahCie-GlZaP2abIjsv9bOUh5r4_DEfH3BiEdX5fjucBSWrS9XB3ekYjAFmkVf20s45QOmVDQBrCzFwQvxXVLchzd7Kqu-PHADq59u6o2JKXLNpzYmcIBbVorYtZLDlFB7jRQ61sTT_IIdcy0Je2XPK5IHSFJqlRVbLCwMLzQfGtZQmFcU5RC20robjwEEGRjCFI-ib9Lv5m605sQSucYmSI9Q756UDA%3D%3D&q=Beer&sa=X&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQs9oBKAB6BAg5EBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Beer&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm5Fhpdgk0-pkNtBRDfmahCie-GlZaP2abIjsv9bOUh5r4_DEfH3BiEdX5fjucBSWrS9XB3ekYjAFmkVf20s45QOmVDQBrCzFwQvxXVLchzd7Kqu-PHADq59u6o2JKXLNpzYmcIBbVorYtZLDlFB7jRQ61sTT_IIdcy0Je2XPK5IHSFJqlRVbLCwMLzQfGtZQmFcU5RC20robjwEEGRjCFI-ib9Lv5m605sQSucYmSI9Q756UDA%3D%3D",
+        "image": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/6517491b571044159af8244ddd5a9a12e30f99456b81c0d112ff28ea4d06019ade26b07aef4aef99e53697be08bd64bb.jpeg"
+      }
+    ]
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=hops&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=lk9yQ2OmMUu34M%252CK1El4jb_PRAEXM%252C%252Fm%252F03qjz%253BTH1MaUgNDBhFAM%252CHIKJxPbdXYI_GM%252C_%253BJXVoXqRnzismZM%252CsbzE93Bh9s3y5M%252C_%253B59fE4ydPBHYBDM%252CrWm0Tq72ugwM3M%252C_&usg=AI4_-kSs9j-j7Sc_kFLRsMfKwThp04EBcQ&sa=X&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQ_B16BAg9EAE#vhid=lk9yQ2OmMUu34M&vssid=mosaic",
+      "source": "https://en.wikipedia.org/wiki/Hops",
+      "thumbnail": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/45f232b5d328dd9dbe774026f0e324223f66a8a83bb8db1c7243cf8b1c3e1a2f.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/08/Humulus_Lupulus_Hopfendolde-mit-hopfengarten.jpg",
+      "title": "upload.wikimedia.org/wikipedia/commons/0/08/Humulu...",
+      "source_name": "en.wikipedia.org"
+    },
+    {
+      "link": "https://www.google.com/search?q=hops&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=lk9yQ2OmMUu34M%252CK1El4jb_PRAEXM%252C_%253BTH1MaUgNDBhFAM%252CHIKJxPbdXYI_GM%252C_%253BJXVoXqRnzismZM%252CsbzE93Bh9s3y5M%252C_%253B59fE4ydPBHYBDM%252CrWm0Tq72ugwM3M%252C_&usg=AI4_-kSCy0WXLlHGmvKO6cvHdSUy_NF1Vw&sa=X&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQ_h16BAg-EAE#vhid=TH1MaUgNDBhFAM&vssid=mosaic",
+      "source": "https://sierranevada.com/blog/our-beer/what-are-hops",
+      "thumbnail": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/45f232b5d328dd9d656d867003b8004885fd7d2609766416be4ac82310672c37.jpeg",
+      "original": "https://webadmin.sierranevada.com/wp-content/uploads/2022/11/23.SN_Hop-Yard-Garden_8.7.19_1800x1200.jpg",
+      "title": "What Are Hops? Everything You Need To Know | Sierra Nevada ...",
+      "source_name": "Sierra Nevada Brewing Co."
+    },
+    {
+      "link": "https://www.google.com/search?q=hops&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=lk9yQ2OmMUu34M%252CK1El4jb_PRAEXM%252C_%253BTH1MaUgNDBhFAM%252CHIKJxPbdXYI_GM%252C_%253BJXVoXqRnzismZM%252CsbzE93Bh9s3y5M%252C_%253B59fE4ydPBHYBDM%252CrWm0Tq72ugwM3M%252C_&usg=AI4_-kSCy0WXLlHGmvKO6cvHdSUy_NF1Vw&sa=X&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQ_h16BAg8EAE#vhid=JXVoXqRnzismZM&vssid=mosaic",
+      "source": "https://www.wineenthusiast.com/culture/beer/what-are-hops/",
+      "thumbnail": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/45f232b5d328dd9da3402335388572b5aae17a938b943f773617d7b35e16c16c.jpeg",
+      "original": "https://www.wineenthusiast.com/wp-content/uploads/2023/05/05_23_Everything_Hops_HERO_Alamy_H2PHDB_1920x1280.jpg",
+      "title": "What Are Hops? A Beginner's Guide | Wine Enthusiast",
+      "source_name": "Wine Enthusiast"
+    },
+    {
+      "link": "https://www.google.com/search?q=hops&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=lk9yQ2OmMUu34M%252CK1El4jb_PRAEXM%252C_%253BTH1MaUgNDBhFAM%252CHIKJxPbdXYI_GM%252C_%253BJXVoXqRnzismZM%252CsbzE93Bh9s3y5M%252C_%253B59fE4ydPBHYBDM%252CrWm0Tq72ugwM3M%252C_&usg=AI4_-kSCy0WXLlHGmvKO6cvHdSUy_NF1Vw&sa=X&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQ_h16BAg7EAE#vhid=59fE4ydPBHYBDM&vssid=mosaic",
+      "source": "https://www.ageold.com/growing-hops-at-home-an-act-of-tradition/",
+      "thumbnail": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/45f232b5d328dd9ddd58c77b30e2742438a70000e0fca82ebed86cfb613a77e0.jpeg",
+      "original": "https://www.ageold.com/wp-content/uploads/2015/11/Dollarphotoclub_93136047-1-1024x1024.jpg",
+      "title": "Growing Hops at Home: An Act of Tradition - Age Old",
+      "source_name": "Age Old Nutrients"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What are hops used for?",
+      "snippet": "Hops are a crucial ingredient in the brewing process and are responsible for the distinct bitter flavour and aroma of beer. However, hops have uses beyond the world of brewing. In fact, this versatile plant can be found in a surprising range of products, from food and drink to herbal remedies and skincare.",
+      "title": "Are hops used in anything other than beer? Find Out Now!",
+      "link": "https://www.hukins-hops.co.uk/our-story/news-press/are-hops-used-in-anything-other-than-beer/#:~:text=Hops%20are%20a%20crucial%20ingredient,to%20herbal%20remedies%20and%20skincare.",
+      "displayed_link": "https://www.hukins-hops.co.uk \u203a our-story \u203a news-press",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRveK4pb4wgro-a_XscawPQN2LJ-SwzwnVLWqAHnIZBvg&s",
+      "source_logo": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/98f042dc48612f1215ba5e73c1ed9892e0152ada6d1fcd0f9e23364116f39b61.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmRGbHBSMlpGVW1sMFFVTkxkVVF5TjE4dFJHWkllRWQyYW1wTE1HZ3daREZHUkdkc1ZrTkVVR1pSYlRSek9ESlhXblpxYVZRM1ZHTnFXamwxV2xZMVoyaFBZbGxtRWhkSFEzTkxXalp0T0VaYVJFUndPRFJRZFdVdFZuZFJXUm9pUVVaWWNrVmpjR0YyUmxCU1pXVlJZa1ZZTmtWTVRIbGtUbXcwZDNSbGVqSmtadyIsImZjdiI6IjMiLCJlaSI6IkdDc0taNm04RlpERHA4NFB1ZS1Wd1FZIiwicWMiOiJDZ1JvYjNCekVBQjlXQVF2UHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIGhvcHMgdXNlZCBmb3I/IiwibGsiOiJHaFozYUdGMElHRnlaU0JvYjNCeklIVnpaV1FnWm05eSIsImJzIjoiYy1NeTR4SVB6MGdzVVVnc1NsWEl5QzhvVmlndFRrMVJTTXN2c3BkNG1tWWtJU1ZXamxXV3k0bEx4aU9fWENFbEh5S2VtSmFXbWx5aVVKS1JxcENVbjFKcExfRWczRWhlU2pZRHJDUzFHS3NpTGxzdTZmQ01Tb1RoaVNrcFFOTkw4aFdTVWxPQjlwOVFNNUtXa2l3SHFzZ3N4cUtBeTRoTEZOWHBtWGtLbmdHTzloTFBTNHpFcEVUSzBlVXlDeElGR0FFIiwiaWQiOiJmY18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmRGbHBSMlpGVW1sMFFVTkxkVVF5TjE4dFJHWkllRWQyYW1wTE1HZ3daREZHUkdkc1ZrTkVVR1pSYlRSek9ESlhXblpxYVZRM1ZHTnFXamwxV2xZMVoyaFBZbGxtRWhkSFEzTkxXalp0T0VaYVJFUndPRFJRZFdVdFZuZFJXUm9pUVVaWWNrVmpjR0YyUmxCU1pXVlJZa1ZZTmtWTVRIbGtUbXcwZDNSbGVqSmtadyIsImZjdiI6IjMiLCJlaSI6IkdDc0taNm04RlpERHA4NFB1ZS1Wd1FZIiwicWMiOiJDZ1JvYjNCekVBQjlXQVF2UHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIGhvcHMgdXNlZCBmb3I%2FIiwibGsiOiJHaFozYUdGMElHRnlaU0JvYjNCeklIVnpaV1FnWm05eSIsImJzIjoiYy1NeTR4SVB6MGdzVVVnc1NsWEl5QzhvVmlndFRrMVJTTXN2c3BkNG1tWWtJU1ZXamxXV3k0bEx4aU9fWENFbEh5S2VtSmFXbWx5aVVKS1JxcENVbjFKcExfRWczRWhlU2pZRHJDUzFHS3NpTGxzdTZmQ01Tb1RoaVNrcFFOTkw4aFdTVWxPQjlwOVFNNUtXa2l3SHFzZ3N4cUtBeTRoTEZOWHBtWGtLbmdHTzloTFBTNHpFcEVUSzBlVXlDeElGR0FFIiwiaWQiOiJmY18yIn0%3D"
+    },
+    {
+      "question": "How do hops affect the body?",
+      "snippet": "It has been attributed anti-inflammatory and antimicrobial properties, as well as diuretic, digestive, sedative, progestogenic properties, even being considered a cure for insomnia. For this wide range of health benefits, it was regarded as a life prolonging plant [3].",
+      "title": "Antioxidants in Hops: Bioavailability, Health Effects and Perspectives for ...",
+      "date": "Jan 27, 2022",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8868281/#:~:text=It%20has%20been%20attributed%20anti,life%20prolonging%20plant%20%5B3%5D.",
+      "displayed_link": "https://www.ncbi.nlm.nih.gov \u203a articles \u203a PMC8868281",
+      "source_logo": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/98f042dc48612f1215ba5e73c1ed98923caff30982a4e05817e5fd184a7ecb83.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmRGbHBSMlpGVW1sMFFVTkxkVVF5TjE4dFJHWkllRWQyYW1wTE1HZ3daREZHUkdkc1ZrTkVVR1pSYlRSek9ESlhXblpxYVZRM1ZHTnFXamwxV2xZMVoyaFBZbGxtRWhkSFEzTkxXalp0T0VaYVJFUndPRFJRZFdVdFZuZFJXUm9pUVVaWWNrVmpjR0YyUmxCU1pXVlJZa1ZZTmtWTVRIbGtUbXcwZDNSbGVqSmtadyIsImZjdiI6IjMiLCJlaSI6IkdDc0taNm04RlpERHA4NFB1ZS1Wd1FZIiwicWMiOiJDZ1JvYjNCekVBQjlXQVF2UHciLCJxdWVzdGlvbiI6IkhvdyBkbyBob3BzIGFmZmVjdCB0aGUgYm9keT8iLCJsayI6IkdoMW9iM2NnWkc5bGN5Qm9iM0J6SUdGbVptVmpkQ0IwYUdVZ1ltOWtlUSIsImJzIjoiYy1NeTR4SVB6MGdzVVVnc1NsWEl5QzhvVmlndFRrMVJTTXN2c3BkNG1tWWtJU1ZXamxXV3k0bEx4aU9fWENFbEh5S2VtSmFXbWx5aVVKS1JxcENVbjFKcExfRWczRWhlU2pZRHJDUzFHS3NpTGxzdTZmQ01Tb1RoaVNrcFFOTkw4aFdTVWxPQjlwOVFNNUtXa2l3SHFzZ3N4cUtBeTRoTEZOWHBtWGtLbmdHTzloTFBTNHpFcEVUSzBlVXlDeElGR0FFIiwiaWQiOiJmY18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmRGbHBSMlpGVW1sMFFVTkxkVVF5TjE4dFJHWkllRWQyYW1wTE1HZ3daREZHUkdkc1ZrTkVVR1pSYlRSek9ESlhXblpxYVZRM1ZHTnFXamwxV2xZMVoyaFBZbGxtRWhkSFEzTkxXalp0T0VaYVJFUndPRFJRZFdVdFZuZFJXUm9pUVVaWWNrVmpjR0YyUmxCU1pXVlJZa1ZZTmtWTVRIbGtUbXcwZDNSbGVqSmtadyIsImZjdiI6IjMiLCJlaSI6IkdDc0taNm04RlpERHA4NFB1ZS1Wd1FZIiwicWMiOiJDZ1JvYjNCekVBQjlXQVF2UHciLCJxdWVzdGlvbiI6IkhvdyBkbyBob3BzIGFmZmVjdCB0aGUgYm9keT8iLCJsayI6IkdoMW9iM2NnWkc5bGN5Qm9iM0J6SUdGbVptVmpkQ0IwYUdVZ1ltOWtlUSIsImJzIjoiYy1NeTR4SVB6MGdzVVVnc1NsWEl5QzhvVmlndFRrMVJTTXN2c3BkNG1tWWtJU1ZXamxXV3k0bEx4aU9fWENFbEh5S2VtSmFXbWx5aVVKS1JxcENVbjFKcExfRWczRWhlU2pZRHJDUzFHS3NpTGxzdTZmQ01Tb1RoaVNrcFFOTkw4aFdTVWxPQjlwOVFNNUtXa2l3SHFzZ3N4cUtBeTRoTEZOWHBtWGtLbmdHTzloTFBTNHpFcEVUSzBlVXlDeElGR0FFIiwiaWQiOiJmY18yIn0%3D"
+    },
+    {
+      "question": "Why are hops added to beer?",
+      "snippet": "Hops help to keep beer fresher, longer; help beer retain its head of foam\u2014a key component of a beer's aroma and flavor; and, of course, add \u201choppy\u201d aroma, flavor, and bitterness. Hops belong to the Cannabinaceae family, which also happens to include Cannabis (hemp and marijuana).",
+      "title": "Beer Fundamentals - What are hops? - Allagash Brewing Company",
+      "date": "Mar 25, 2020",
+      "link": "https://www.allagash.com/discover/about-beer/beer-fundamentals-what-are-hops/#:~:text=Hops%20help%20to%20keep%20beer,Cannabis%20(hemp%20and%20marijuana).",
+      "displayed_link": "https://www.allagash.com \u203a discover \u203a about-beer \u203a beer...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGxMGQQenpa_iYiVc2XRULQfbbW6Bs-m1IskjhAnr0&s",
+      "source_logo": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/98f042dc48612f1215ba5e73c1ed9892f6789847f514b59256cb3a765ba26830.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmRGbHBSMlpGVW1sMFFVTkxkVVF5TjE4dFJHWkllRWQyYW1wTE1HZ3daREZHUkdkc1ZrTkVVR1pSYlRSek9ESlhXblpxYVZRM1ZHTnFXamwxV2xZMVoyaFBZbGxtRWhkSFEzTkxXalp0T0VaYVJFUndPRFJRZFdVdFZuZFJXUm9pUVVaWWNrVmpjR0YyUmxCU1pXVlJZa1ZZTmtWTVRIbGtUbXcwZDNSbGVqSmtadyIsImZjdiI6IjMiLCJlaSI6IkdDc0taNm04RlpERHA4NFB1ZS1Wd1FZIiwicWMiOiJDZ1JvYjNCekVBQjlXQVF2UHciLCJxdWVzdGlvbiI6IldoeSBhcmUgaG9wcyBhZGRlZCB0byBiZWVyPyIsImxrIjoiR2hsM2FIa2dhWE1nYUc5d2N5QmhaR1JsWkNCMGJ5QmlaV1Z5IiwiYnMiOiJjLU15NHhJUHowZ3NVVWdzU2xYSXlDOG9WaWd0VGsxUlNNc3ZzcGQ0bW1Za0lTVldqbFdXeTRsTHhpT19YQ0VsSHlLZW1KYVdtbHlpVUpLUnFwQ1VuMUpwTF9FZzNFaGVTallEckNTMUdLc2lMbHN1NmZDTVNvVGhpU2twUU5OTDhoV1NVbE9COXA5UU01S1draXdIcXNnc3hxS0F5NGhMRk5YcG1Ya0tuZ0dPOWhMUFM0ekVwRVRLMGVVeUN4SUZHQUUiLCJpZCI6ImZjXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmRGbHBSMlpGVW1sMFFVTkxkVVF5TjE4dFJHWkllRWQyYW1wTE1HZ3daREZHUkdkc1ZrTkVVR1pSYlRSek9ESlhXblpxYVZRM1ZHTnFXamwxV2xZMVoyaFBZbGxtRWhkSFEzTkxXalp0T0VaYVJFUndPRFJRZFdVdFZuZFJXUm9pUVVaWWNrVmpjR0YyUmxCU1pXVlJZa1ZZTmtWTVRIbGtUbXcwZDNSbGVqSmtadyIsImZjdiI6IjMiLCJlaSI6IkdDc0taNm04RlpERHA4NFB1ZS1Wd1FZIiwicWMiOiJDZ1JvYjNCekVBQjlXQVF2UHciLCJxdWVzdGlvbiI6IldoeSBhcmUgaG9wcyBhZGRlZCB0byBiZWVyPyIsImxrIjoiR2hsM2FIa2dhWE1nYUc5d2N5QmhaR1JsWkNCMGJ5QmlaV1Z5IiwiYnMiOiJjLU15NHhJUHowZ3NVVWdzU2xYSXlDOG9WaWd0VGsxUlNNc3ZzcGQ0bW1Za0lTVldqbFdXeTRsTHhpT19YQ0VsSHlLZW1KYVdtbHlpVUpLUnFwQ1VuMUpwTF9FZzNFaGVTallEckNTMUdLc2lMbHN1NmZDTVNvVGhpU2twUU5OTDhoV1NVbE9COXA5UU01S1draXdIcXNnc3hxS0F5NGhMRk5YcG1Ya0tuZ0dPOWhMUFM0ekVwRVRLMGVVeUN4SUZHQUUiLCJpZCI6ImZjXzIifQ%3D%3D"
+    },
+    {
+      "question": "What are hops in IPA?",
+      "snippet": "They're a climbing perennial, and tucked inside each cone are tiny yellow pods called lupulin which contain resin and essential oils \u2014 the driving source of bitterness, aroma, and flavor in all of your favorite beers. And craft brewers especially love lupulin to pack flavor into IPAs.",
+      "title": "What are Hops | Hops in Beer | Hi-Wire Brewing",
+      "date": "May 9, 2023",
+      "link": "https://hiwirebrewing.com/blog/what-are-hops/#:~:text=They're%20a%20climbing%20perennial,to%20pack%20flavor%20into%20IPAs.",
+      "displayed_link": "https://hiwirebrewing.com \u203a blog \u203a what-are-hops",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmRGbHBSMlpGVW1sMFFVTkxkVVF5TjE4dFJHWkllRWQyYW1wTE1HZ3daREZHUkdkc1ZrTkVVR1pSYlRSek9ESlhXblpxYVZRM1ZHTnFXamwxV2xZMVoyaFBZbGxtRWhkSFEzTkxXalp0T0VaYVJFUndPRFJRZFdVdFZuZFJXUm9pUVVaWWNrVmpjR0YyUmxCU1pXVlJZa1ZZTmtWTVRIbGtUbXcwZDNSbGVqSmtadyIsImZjdiI6IjMiLCJlaSI6IkdDc0taNm04RlpERHA4NFB1ZS1Wd1FZIiwicWMiOiJDZ1JvYjNCekVBQjlXQVF2UHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIGhvcHMgaW4gSVBBPyIsImxrIjoiR2hSM2FHRjBJR0Z5WlNCb2IzQnpJR2x1SUdsd1lRIiwiYnMiOiJjLU15NHhJUHowZ3NVVWdzU2xYSXlDOG9WaWd0VGsxUlNNc3ZzcGQ0bW1Za0lTVldqbFdXeTRsTHhpT19YQ0VsSHlLZW1KYVdtbHlpVUpLUnFwQ1VuMUpwTF9FZzNFaGVTallEckNTMUdLc2lMbHN1NmZDTVNvVGhpU2twUU5OTDhoV1NVbE9COXA5UU01S1draXdIcXNnc3hxS0F5NGhMRk5YcG1Ya0tuZ0dPOWhMUFM0ekVwRVRLMGVVeUN4SUZHQUUiLCJpZCI6ImZjXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmRGbHBSMlpGVW1sMFFVTkxkVVF5TjE4dFJHWkllRWQyYW1wTE1HZ3daREZHUkdkc1ZrTkVVR1pSYlRSek9ESlhXblpxYVZRM1ZHTnFXamwxV2xZMVoyaFBZbGxtRWhkSFEzTkxXalp0T0VaYVJFUndPRFJRZFdVdFZuZFJXUm9pUVVaWWNrVmpjR0YyUmxCU1pXVlJZa1ZZTmtWTVRIbGtUbXcwZDNSbGVqSmtadyIsImZjdiI6IjMiLCJlaSI6IkdDc0taNm04RlpERHA4NFB1ZS1Wd1FZIiwicWMiOiJDZ1JvYjNCekVBQjlXQVF2UHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIGhvcHMgaW4gSVBBPyIsImxrIjoiR2hSM2FHRjBJR0Z5WlNCb2IzQnpJR2x1SUdsd1lRIiwiYnMiOiJjLU15NHhJUHowZ3NVVWdzU2xYSXlDOG9WaWd0VGsxUlNNc3ZzcGQ0bW1Za0lTVldqbFdXeTRsTHhpT19YQ0VsSHlLZW1KYVdtbHlpVUpLUnFwQ1VuMUpwTF9FZzNFaGVTallEckNTMUdLc2lMbHN1NmZDTVNvVGhpU2twUU5OTDhoV1NVbE9COXA5UU01S1draXdIcXNnc3hxS0F5NGhMRk5YcG1Ya0tuZ0dPOWhMUFM0ekVwRVRLMGVVeUN4SUZHQUUiLCJpZCI6ImZjXzIifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Hops",
+      "link": "https://en.wikipedia.org/wiki/Hops",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Hops&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQFnoECBUQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Hops",
+      "favicon": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/a56fa0ca74e4dd968b0a9ab0b4c76321d94eff27b8990ce3eb4c892a2f535eed.webp",
+      "snippet": "Hops are the flowers of the hop plant Humulus lupulus, a member of the Cannabaceae family of flowering plants. They are used primarily as a bittering, ...",
+      "snippet_highlighted_words": [
+        "Hops",
+        "hop"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Saaz hops",
+            "link": "https://en.wikipedia.org/wiki/Saaz_hops"
+          },
+          {
+            "title": "Cannabaceae",
+            "link": "https://en.wikipedia.org/wiki/Cannabaceae"
+          },
+          {
+            "title": "Humulus lupulus",
+            "link": "https://en.wikipedia.org/wiki/Humulus_lupulus"
+          },
+          {
+            "title": "Gruit",
+            "link": "https://en.wikipedia.org/wiki/Gruit"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "What Are Hops? Everything You Need To Know",
+      "link": "https://sierranevada.com/blog/our-beer/what-are-hops",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sierranevada.com/blog/our-beer/what-are-hops&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQFnoECBEQAQ",
+      "displayed_link": "https://sierranevada.com \u203a blog \u203a our-beer \u203a what-are-h...",
+      "favicon": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/a56fa0ca74e4dd968b0a9ab0b4c763210627d87f82a39b5e662d14c660806081.webp",
+      "date": "Jun 7, 2021",
+      "snippet": "Hops are the green cone-shaped flowers, or \u201cinflorescence,\u201d of the Humulus lupulus plant. They're a climbing perennial with a distinct ...",
+      "snippet_highlighted_words": [
+        "Hops"
+      ],
+      "source": "Sierra Nevada Brewing Co."
+    },
+    {
+      "position": 3,
+      "title": "How to Grow Hops At Home",
+      "link": "https://www.homebrewersassociation.org/how-to-brew/how-to-grow-hops/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.homebrewersassociation.org/how-to-brew/how-to-grow-hops/&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQFnoECFUQAQ",
+      "displayed_link": "https://www.homebrewersassociation.org \u203a how-to-brew",
+      "favicon": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/a56fa0ca74e4dd968b0a9ab0b4c76321ac1a15a6b93cfdc964b85eadec9cd526.webp",
+      "snippet": "Prior to planting, you'll need to prepare your soil. Hops thrive in a loamy, well-draining soil with a pH between 6.0 and 7.5.",
+      "snippet_highlighted_words": [
+        "Hops"
+      ],
+      "source": "American Homebrewers Association"
+    },
+    {
+      "position": 4,
+      "title": "Hops Direct | Buy Hops | Beer Brewing Hops Provider",
+      "link": "https://hopsdirect.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://hopsdirect.com/&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQFnoECFIQAQ",
+      "displayed_link": "https://hopsdirect.com",
+      "snippet": "Farm grown hops in leaf and pellet, sold directly from our family to you and yours. Hops Direct is located in Mabton, WA. Buy hops in leaf and pellet form, ...",
+      "snippet_highlighted_words": [
+        "hops",
+        "Hops",
+        "hops"
+      ],
+      "source": "Hops Direct"
+    },
+    {
+      "position": 5,
+      "title": "Hops | Virginia Cooperative Extension",
+      "link": "https://ext.vt.edu/agriculture/commercial-horticulture/hops.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ext.vt.edu/agriculture/commercial-horticulture/hops.html&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQFnoECFQQAQ",
+      "displayed_link": "https://ext.vt.edu \u203a agriculture \u203a commercial-horticulture",
+      "favicon": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/a56fa0ca74e4dd968b0a9ab0b4c76321878a32db283685a653f43076dc85141f.webp",
+      "snippet": "High-quality hops are an essential component of craft beer. This site provides region-specific information for those currently growing hops, as well as those ...",
+      "snippet_highlighted_words": [
+        "hops",
+        "hops"
+      ],
+      "source": "Virginia Cooperative Extension"
+    },
+    {
+      "position": 6,
+      "title": "HOPS - Uses, Side Effects, and More",
+      "link": "https://www.webmd.com/vitamins/ai/ingredientmono-856/hops",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.webmd.com/vitamins/ai/ingredientmono-856/hops&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQFnoECFMQAQ",
+      "displayed_link": "https://www.webmd.com \u203a vitamins \u203a ingredientmono-856",
+      "favicon": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/a56fa0ca74e4dd968b0a9ab0b4c76321760de73ad6123e44f702adbda883c114.webp",
+      "snippet": "Hops are the dried, flowering parts of the hop plant (Humulus lupulus), commonly used in brewing beer. They have limited evidence of health benefits.",
+      "snippet_highlighted_words": [
+        "Hops",
+        "hop"
+      ],
+      "source": "WebMD"
+    },
+    {
+      "position": 7,
+      "title": "Hops for Beer Brewing",
+      "link": "https://www.northernbrewer.com/collections/hops?srsltid=AfmBOorZOfI0ELkN33PmtaIdBJoQl57nnp0jFLlE0EgED8Lptm_QFgYv",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.northernbrewer.com/collections/hops%3Fsrsltid%3DAfmBOorZOfI0ELkN33PmtaIdBJoQl57nnp0jFLlE0EgED8Lptm_QFgYv&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQFnoECFcQAQ",
+      "displayed_link": "https://www.northernbrewer.com \u203a collections \u203a hops",
+      "favicon": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/a56fa0ca74e4dd968b0a9ab0b4c763218eba7c926791c5c5af682d3a6ef7ae9d.webp",
+      "snippet": "Hops are the essence of beer brewing. They are the tiny cone-shaped flowers of the Humulus lupulus plant. Hops provide both bitterness (IBUs) ...",
+      "snippet_highlighted_words": [
+        "Hops",
+        "Hops"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "store_rating_k": 4.7,
+            "price": 2,
+            "currency": "$ to $",
+            "day_delivery": 4,
+            "unknown": 60
+          },
+          "extensions": [
+            "4.7store rating (2.1K)",
+            "\u200e$2 to $12",
+            "\u200e4\u20137 day delivery",
+            "\u200e60",
+            "day returns"
+          ]
+        }
+      },
+      "source": "Northern Brewer"
+    },
+    {
+      "position": 8,
+      "title": "Cascade Hops",
+      "link": "https://yakimavalleyhops.com/products/cascade-hop-pellets?srsltid=AfmBOorYhuUM5csVD1575yC-LIUZ1qK6AkXAoDorejLWpLXDpFKZQYlh",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://yakimavalleyhops.com/products/cascade-hop-pellets%3Fsrsltid%3DAfmBOorYhuUM5csVD1575yC-LIUZ1qK6AkXAoDorejLWpLXDpFKZQYlh&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQFnoECGMQAQ",
+      "displayed_link": "https://yakimavalleyhops.com \u203a cascade-hop-pellets",
+      "favicon": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/a56fa0ca74e4dd968b0a9ab0b4c76321e15cc21874dc86a3fa0a89dbb7023b4b.webp",
+      "snippet": "Cascade is the hop that made hops famous. It single-handedly defined the American Pale Ale style. Cascade is bursting with zesty grapefruit flavor and aroma ...",
+      "snippet_highlighted_words": [
+        "hop",
+        "hops"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 4.8,
+            "price": 11.75,
+            "currency": "$ \u2013 day delivery"
+          },
+          "extensions": [
+            "4.8(24)",
+            "$1.70 to $9.34",
+            "\u200e$11.75 6\u20137 day delivery",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Yakima Valley Hops"
+    },
+    {
+      "position": 9,
+      "title": "What are Hops | Hops in Beer | Hi- ...",
+      "link": "https://hiwirebrewing.com/blog/what-are-hops/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://hiwirebrewing.com/blog/what-are-hops/&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQFnoECFYQAQ",
+      "displayed_link": "https://hiwirebrewing.com \u203a blog \u203a what-are-hops",
+      "favicon": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/a56fa0ca74e4dd968b0a9ab0b4c7632121031fc9226074b682193f9d3da39853.webp",
+      "date": "May 9, 2023",
+      "snippet": "Hops are the hanging flowers of the Humulus lupulus plant. They're a climbing perennial, and tucked inside each cone are tiny yellow pods called ...",
+      "snippet_highlighted_words": [
+        "Hops"
+      ],
+      "source": "Hi-Wire Brewing"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=hops&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQjGp6BAhKEAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hops&tbs=lf%3A1%2Clf_ui%3A9&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Hops beer",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Hops+beer&sa=X&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQ1QJ6BAh2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hops+beer"
+    },
+    {
+      "block_position": 1,
+      "query": "Hops en espa\u00f1ol",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Hops+en+espa%C3%B1ol&sa=X&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQ1QJ6BAh0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hops+en+espa%C3%B1ol"
+    },
+    {
+      "block_position": 1,
+      "query": "Hops plant",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Hops+plant&sa=X&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQ1QJ6BAhzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hops+plant"
+    },
+    {
+      "block_position": 1,
+      "query": "Hops medical",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Hops+medical&sa=X&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQ1QJ6BAhvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hops+medical"
+    },
+    {
+      "block_position": 1,
+      "query": "Hops benefits",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Hops+benefits&sa=X&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQ1QJ6BAhwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hops+benefits"
+    },
+    {
+      "block_position": 1,
+      "query": "Hops in Hindi",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Hops+in+Hindi&sa=X&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQ1QJ6BAhxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hops+in+Hindi"
+    },
+    {
+      "block_position": 1,
+      "query": "Hops restaurant",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Hops+restaurant&sa=X&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQ1QJ6BAhyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hops+restaurant"
+    },
+    {
+      "block_position": 1,
+      "query": "Where are hops grown",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Where+are+hops+grown&sa=X&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQ1QJ6BAh1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Where+are+hops+grown"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Taste",
+        "subtitle": "What Do Hops Taste Like",
+        "title": "What Does a \"Hoppy Beer\" Taste Like? - Lowercase Brewing",
+        "link": "https://www.lowercasebrewing.com/beer-blog/what-does-hoppy-beer-taste-like#:~:text=New%20varieties%20of%20hops%20are,floral%2C%20citrus%2C%20and%20fruity.",
+        "displayed_link": "https://www.lowercasebrewing.com \u203a beer-blog \u203a what-d...",
+        "date": "May 14, 2021",
+        "snippet": "New varieties of hops are always being developed, so the kaleidoscope of flavors they can offer continues to grow and expand. However, as a rule, hops add bitter flavors to beer along with a whole spectrum of aromatic notes that can range from woody, spicy, and earthy to floral, citrus, and fruity.",
+        "snippet_highlighted_words": [
+          "bitter flavors to beer along with a whole spectrum of aromatic notes that can range from woody, spicy, and earthy to floral, citrus, and fruity"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/49a21e2c4a95f27a23953011b514c1423d4ecdbcd51df56e0ac04b70351fc8bdca5d3cab152530c6.png",
+        "source": "lowercasebrewing.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=what+do+hops+taste+like&sa=X&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQrooIegQIbBAF",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+do+hops+taste+like"
+      },
+      {
+        "text": "Effects on beer",
+        "subtitle": "What Do Hops Do To Beer",
+        "title": "Beer Fundamentals - What are hops? - Allagash Brewing Company",
+        "link": "https://www.allagash.com/discover/about-beer/beer-fundamentals-what-are-hops/#:~:text=Hops%20help%20to%20keep%20beer,Cannabis%20(hemp%20and%20marijuana).",
+        "displayed_link": "https://www.allagash.com \u203a discover \u203a about-beer \u203a beer...",
+        "date": "Mar 25, 2020",
+        "snippet": "Hops help to keep beer fresher, longer; help beer retain its head of foam\u2014a key component of a beer's aroma and flavor; and, of course, add \u201choppy\u201d aroma, flavor, and bitterness. Hops belong to the Cannabinaceae family, which also happens to include Cannabis (hemp and marijuana).",
+        "snippet_highlighted_words": [
+          "help to keep beer fresher, longer; help beer retain its head of foam\u2014a key component of a beer's aroma and flavor; and, of course, add \u201choppy\u201d aroma, flavor, and bitterness"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/49a21e2c4a95f27a23953011b514c14263feeda06e296e14587062a3244eae9babca9734edee30d0.png",
+        "source": "allagash.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlrvKLsknRKZt8pZeUOrTWivnrFt86p2r2AWjiDWg2KNA&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=what+do+hops+do+to+beer&sa=X&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQrooIegQIbBAN",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+do+hops+do+to+beer"
+      },
+      {
+        "text": "Nutrition",
+        "subtitle": "What Is The Nutrition Of Hops",
+        "title": "Health Benefits of Hops: Are They Good for You?",
+        "link": "https://www.hukins-hops.co.uk/our-story/news-press/are-hops-good-for-you/#:~:text=What%20nutrients%20are%20found%20in,like%20xanthohumol%20and%208%2Dprenylnaringenin.",
+        "displayed_link": "https://www.hukins-hops.co.uk \u203a our-story \u203a news-press",
+        "snippet": "What nutrients are found in hops? While not typically consumed for their nutritional value, hops contain a range of compounds including essential oils, bitter acids such as humulone and lupulone, and flavonoids like xanthohumol and 8-prenylnaringenin.",
+        "snippet_highlighted_words": [
+          "essential oils, bitter acids such as humulone and lupulone, and flavonoids like xanthohumol and 8-prenylnaringenin"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/49a21e2c4a95f27a23953011b514c142d84caec4601219d6babf62c758f897587b12d05725f23469.png",
+        "source": "hukins-hops.co.uk",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=what+is+the+nutrition+of+hops&sa=X&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQrooIegQIbBAS",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+is+the+nutrition+of+hops"
+      },
+      {
+        "text": "How to eat",
+        "subtitle": "How To Eat Hops",
+        "title": "Can You Eat Hops? Explore the Edible Benefits & Uses",
+        "link": "https://www.hukins-hops.co.uk/our-story/news-press/can-you-eat-hops/#:~:text=The%20most%20popular%20culinary%20use,a%20unique%20depth%20of%20flavour.",
+        "displayed_link": "https://www.hukins-hops.co.uk \u203a our-story \u203a news-press",
+        "snippet": "The most popular culinary use of hops is in the form of hop-infused oils or vinegars. These can be used in dressings, marinades, and sauces to add a distinct hoppy flavour. Hops can also be used to make tea or added to stews, soups, and casseroles for a unique depth of flavour.",
+        "snippet_highlighted_words": [
+          "hop-infused oils or vinegars"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/49a21e2c4a95f27a23953011b514c142fc07c454ba4f63a25e04f6092b00a4c66e6f0dd9f5b56eb0.png",
+        "source": "hukins-hops.co.uk",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=how+to+eat+hops&sa=X&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQrooIegQIbBAX",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+to+eat+hops"
+      },
+      {
+        "text": "Allergies",
+        "subtitle": "Hops Allergies",
+        "title": "Hops Allergy: Etiology, Presentation & Management - Los Angeles Allergist",
+        "link": "https://allergylosangeles.com/allergy-blog/hops-allergy-understanding-the-etiology/#:~:text=Common%20allergic%20reactions%20include%20skin,%2C%20conjunctivitis%2C%20and%20asthma%20exacerbation.",
+        "displayed_link": "https://allergylosangeles.com \u203a allergy-blog \u203a hops-allerg...",
+        "date": "Aug 30, 2023",
+        "snippet": "Common allergic reactions include skin manifestations like itching, erythema, and urticaria upon contact with hops or hops-containing products. Inhalation of hop dust during brewing or consumption of products containing hops can lead to respiratory symptoms, such as rhinitis, conjunctivitis, and asthma exacerbation.",
+        "snippet_highlighted_words": [
+          "Common allergic reactions include skin manifestations like itching, erythema, and urticaria upon contact with hops or hops-containing products"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/49a21e2c4a95f27a23953011b514c14252d82a06a3db82d01316d9d77c31d0363d56dd14b44320f2.png",
+        "source": "allergylosangeles.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=hops+allergies&sa=X&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQrooIegQIbBAd",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hops+allergies"
+      },
+      {
+        "text": "Planting",
+        "subtitle": "How To Plant Hops",
+        "title": "Hops: Planting, Growing, and Pruning Hops",
+        "link": "https://www.almanac.com/plant/hops",
+        "displayed_link": "https://www.almanac.com \u203a plant \u203a hops",
+        "date": "Aug 22, 2024",
+        "snippet": "How to Plant Hops",
+        "snippet_highlighted_words": [
+          "How to Plant Hops"
+        ],
+        "list": [
+          "Commercial hops are propagated via root cuttings or rhizomes, not from seeds. ... ",
+          "In the home garden, hops are best planted in hills. ... ",
+          "Plant two rhizomes per hill with the buds pointing up and the roots of the rhizome down.",
+          "Dig a hole that's about twice as wide as the pot and as deep."
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b173c863dc9231acd55/images/49a21e2c4a95f27a23953011b514c142f035ef35fd66a5e5219f1b702fd3dbd2aa9384bf343ef1af.jpeg",
+        "source": "almanac.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=how+to+plant+hops&sa=X&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQrooIegQIbBAi",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+to+plant+hops"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=hops&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=GCsKZ6m8FZDDp84Pue-VwQY&start=10&sa=N&sstk=Aagrsuhh_LwsGTFlIvAj8cDtnNRIzt6aHsqxDMHQ29ljPzlcMzpcIMcNUycsTEXCGZG-9Izz2aAIauiM0giGSnwPEEk3Kv2CtMkRJg&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQ8NMDegQIEhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=hops&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=GCsKZ6m8FZDDp84Pue-VwQY&start=10&sa=N&sstk=Aagrsuhh_LwsGTFlIvAj8cDtnNRIzt6aHsqxDMHQ29ljPzlcMzpcIMcNUycsTEXCGZG-9Izz2aAIauiM0giGSnwPEEk3Kv2CtMkRJg&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQ8tMDegQIEhAE",
+      "3": "https://www.google.com/search?q=hops&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=GCsKZ6m8FZDDp84Pue-VwQY&start=20&sa=N&sstk=Aagrsuhh_LwsGTFlIvAj8cDtnNRIzt6aHsqxDMHQ29ljPzlcMzpcIMcNUycsTEXCGZG-9Izz2aAIauiM0giGSnwPEEk3Kv2CtMkRJg&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQ8tMDegQIEhAG",
+      "4": "https://www.google.com/search?q=hops&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=GCsKZ6m8FZDDp84Pue-VwQY&start=30&sa=N&sstk=Aagrsuhh_LwsGTFlIvAj8cDtnNRIzt6aHsqxDMHQ29ljPzlcMzpcIMcNUycsTEXCGZG-9Izz2aAIauiM0giGSnwPEEk3Kv2CtMkRJg&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQ8tMDegQIEhAI",
+      "5": "https://www.google.com/search?q=hops&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=GCsKZ6m8FZDDp84Pue-VwQY&start=40&sa=N&sstk=Aagrsuhh_LwsGTFlIvAj8cDtnNRIzt6aHsqxDMHQ29ljPzlcMzpcIMcNUycsTEXCGZG-9Izz2aAIauiM0giGSnwPEEk3Kv2CtMkRJg&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQ8tMDegQIEhAK",
+      "6": "https://www.google.com/search?q=hops&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=GCsKZ6m8FZDDp84Pue-VwQY&start=50&sa=N&sstk=Aagrsuhh_LwsGTFlIvAj8cDtnNRIzt6aHsqxDMHQ29ljPzlcMzpcIMcNUycsTEXCGZG-9Izz2aAIauiM0giGSnwPEEk3Kv2CtMkRJg&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQ8tMDegQIEhAM",
+      "7": "https://www.google.com/search?q=hops&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=GCsKZ6m8FZDDp84Pue-VwQY&start=60&sa=N&sstk=Aagrsuhh_LwsGTFlIvAj8cDtnNRIzt6aHsqxDMHQ29ljPzlcMzpcIMcNUycsTEXCGZG-9Izz2aAIauiM0giGSnwPEEk3Kv2CtMkRJg&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQ8tMDegQIEhAO",
+      "8": "https://www.google.com/search?q=hops&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=GCsKZ6m8FZDDp84Pue-VwQY&start=70&sa=N&sstk=Aagrsuhh_LwsGTFlIvAj8cDtnNRIzt6aHsqxDMHQ29ljPzlcMzpcIMcNUycsTEXCGZG-9Izz2aAIauiM0giGSnwPEEk3Kv2CtMkRJg&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQ8tMDegQIEhAQ",
+      "9": "https://www.google.com/search?q=hops&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=GCsKZ6m8FZDDp84Pue-VwQY&start=80&sa=N&sstk=Aagrsuhh_LwsGTFlIvAj8cDtnNRIzt6aHsqxDMHQ29ljPzlcMzpcIMcNUycsTEXCGZG-9Izz2aAIauiM0giGSnwPEEk3Kv2CtMkRJg&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQ8tMDegQIEhAS",
+      "10": "https://www.google.com/search?q=hops&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=GCsKZ6m8FZDDp84Pue-VwQY&start=90&sa=N&sstk=Aagrsuhh_LwsGTFlIvAj8cDtnNRIzt6aHsqxDMHQ29ljPzlcMzpcIMcNUycsTEXCGZG-9Izz2aAIauiM0giGSnwPEEk3Kv2CtMkRJg&ved=2ahUKEwipqNHAroiJAxWQ4ckDHbl3JWgQ8tMDegQIEhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hops&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hops&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hops&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hops&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hops&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hops&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hops&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hops&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hops&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hops&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hops&start=90"
+    }
+  }
+}

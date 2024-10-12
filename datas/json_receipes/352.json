@@ -1,0 +1,640 @@
+{
+  "search_metadata": {
+    "id": "670a2b97f922f6c85eb76b8c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/e7de8d5f1a07e768/670a2b97f922f6c85eb76b8c.json",
+    "created_at": "2024-10-12 07:56:07 UTC",
+    "processed_at": "2024-10-12 07:56:07 UTC",
+    "google_url": "https://www.google.com/search?q=brussels+sprout&oq=brussels+sprout&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/e7de8d5f1a07e768/670a2b97f922f6c85eb76b8c.html",
+    "total_time_taken": 1.29
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "brussels sprout",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "brussels sprout",
+    "total_results": 10100000,
+    "time_taken_displayed": 0.35,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "recipes_results": [
+    {
+      "title": "Roasted Brussels Sprouts",
+      "link": "https://www.loveandlemons.com/roasted-brussels-sprouts/",
+      "source": "Love and Lemons",
+      "rating": 5.0,
+      "reviews": 154,
+      "total_time": "35 min",
+      "ingredients": [
+        "Brussels sprouts",
+        "red pepper flakes",
+        "parmesan cheese",
+        "olive oil",
+        "lemon juice"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a2b97f922f6c85eb76b8c/images/76cdb831da312d3e3f2e2bb0aaa8540beb0c437620a10d7f32f30b9762021881.jpeg"
+    },
+    {
+      "title": "The Best Brussels Sprouts of Your Life",
+      "link": "https://www.errenskitchen.com/the-best-brussels-sprouts-of-your-life/",
+      "source": "Erren's Kitchen",
+      "rating": 5.0,
+      "reviews": 635,
+      "total_time": "25 min",
+      "ingredients": [
+        "Brussels sprouts",
+        "coconut oil",
+        "parmesan cheese",
+        "garlic",
+        "black pepper"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a2b97f922f6c85eb76b8c/images/76cdb831da312d3e3f2e2bb0aaa8540bf8e17c9d2334335f997d8eeb7542f932.jpeg"
+    },
+    {
+      "title": "Roasted Brussels Sprouts with Balsamic Vinegar & Honey",
+      "link": "https://www.onceuponachef.com/recipes/roasted-brussels-sprouts.html",
+      "source": "Once Upon a Chef",
+      "rating": 4.8,
+      "reviews": 303,
+      "total_time": "30 min",
+      "ingredients": [
+        "Brussels sprouts",
+        "balsamic vinegar",
+        "honey",
+        "olive oil",
+        "black pepper"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a2b97f922f6c85eb76b8c/images/76cdb831da312d3e3f2e2bb0aaa8540b319fdbca5934d9d64ac7417042bf5ef5.jpeg"
+    },
+    {
+      "title": "Pan Fried Brussels Sprouts",
+      "link": "https://www.allrecipes.com/recipe/216805/pan-fried-brussels-sprouts/",
+      "source": "Allrecipes",
+      "rating": 4.2,
+      "reviews": 92,
+      "total_time": "30 min",
+      "ingredients": [
+        "Brussels sprouts",
+        "olive oil",
+        "garlic powder",
+        "black pepper"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a2b97f922f6c85eb76b8c/images/76cdb831da312d3e3f2e2bb0aaa8540ba4d946aaffbf9fe8cd69d4fb180c87b0.jpeg"
+    }
+  ],
+  "knowledge_graph": {
+    "title": "Brussels sprout",
+    "type": "Vegetable",
+    "entity_type": "biology, food",
+    "main_tab_text": "Overview",
+    "kgmid": "/m/0250zy",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0250zy&hl=en-US&q=Brussels+sprout&shndl=17&source=sh/x/kp/osrp/m5/1",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0250zy&location=Austin%2CTexas%2CUnited+States&q=Brussels+sprout",
+    "tabs": [
+      {
+        "text": "Nutrition facts",
+        "si": "ACC90nxTdMcO6OZzoZh0HrxDJWYN1DtHXZkqZfhb8Fa7RW0269S90YxlSuhgxl9zGFS2CYFHbUmdcAvJvDnih7vDaw-wXktCrWVdDpcxz6mV81ifZThlh1LKxJieZ9yFsbEPEIHi4hb6",
+        "link": "https://www.google.com/search?si=ACC90nxTdMcO6OZzoZh0HrxDJWYN1DtHXZkqZfhb8Fa7RW0269S90YxlSuhgxl9zGFS2CYFHbUmdcAvJvDnih7vDaw-wXktCrWVdDpcxz6mV81ifZThlh1LKxJieZ9yFsbEPEIHi4hb6",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brussels+sprout&si=ACC90nxTdMcO6OZzoZh0HrxDJWYN1DtHXZkqZfhb8Fa7RW0269S90YxlSuhgxl9zGFS2CYFHbUmdcAvJvDnih7vDaw-wXktCrWVdDpcxz6mV81ifZThlh1LKxJieZ9yFsbEPEIHi4hb6"
+      },
+      {
+        "text": "Benefits",
+        "si": "ACC90nyedZ5OHuZaEeTOHpMdKlA6SoMkULyAmSsO4GzP565Zh09U9KLjc2oz9nlri9MquNXhUkggXJODmD9OjmY-85ksXr7WN38Kz2R12LRwh4tEctYZB7E6E_5O080AFukSyAJWfToT",
+        "link": "https://www.google.com/search?si=ACC90nyedZ5OHuZaEeTOHpMdKlA6SoMkULyAmSsO4GzP565Zh09U9KLjc2oz9nlri9MquNXhUkggXJODmD9OjmY-85ksXr7WN38Kz2R12LRwh4tEctYZB7E6E_5O080AFukSyAJWfToT",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brussels+sprout&si=ACC90nyedZ5OHuZaEeTOHpMdKlA6SoMkULyAmSsO4GzP565Zh09U9KLjc2oz9nlri9MquNXhUkggXJODmD9OjmY-85ksXr7WN38Kz2R12LRwh4tEctYZB7E6E_5O080AFukSyAJWfToT"
+      },
+      {
+        "text": "Recipes",
+        "si": "ACC90nxfnToZlyjBQFudWSoOG2dcIxoMHQMA1spgcp6oeLV_lrjMOxkHgthdhtYyzohvj_cKRTX0_b_mLiCjJl9kUfVDP9x2gN4CcY-dTPVINCQsCEOv0Ik_kM4wQ_MdAXyU-7dGOWba",
+        "link": "https://www.google.com/search?si=ACC90nxfnToZlyjBQFudWSoOG2dcIxoMHQMA1spgcp6oeLV_lrjMOxkHgthdhtYyzohvj_cKRTX0_b_mLiCjJl9kUfVDP9x2gN4CcY-dTPVINCQsCEOv0Ik_kM4wQ_MdAXyU-7dGOWba",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brussels+sprout&si=ACC90nxfnToZlyjBQFudWSoOG2dcIxoMHQMA1spgcp6oeLV_lrjMOxkHgthdhtYyzohvj_cKRTX0_b_mLiCjJl9kUfVDP9x2gN4CcY-dTPVINCQsCEOv0Ik_kM4wQ_MdAXyU-7dGOWba"
+      },
+      {
+        "text": "Taste",
+        "si": "ACC90nx3sMnF068b4kQ9EdfDa2hCqa6PYeYpXqkjc-21sGohnD6Yjgyn2KGn_VOKDYs8all4REO_ksw7Hn1J3H9nkq8mun8jKA6cPSfht_MYnxId9jo5dYVSEw8Qt_sqN85VEArOcACkmZTv1mvGbfiKHKTY7FDLUA==",
+        "link": "https://www.google.com/search?si=ACC90nx3sMnF068b4kQ9EdfDa2hCqa6PYeYpXqkjc-21sGohnD6Yjgyn2KGn_VOKDYs8all4REO_ksw7Hn1J3H9nkq8mun8jKA6cPSfht_MYnxId9jo5dYVSEw8Qt_sqN85VEArOcACkmZTv1mvGbfiKHKTY7FDLUA==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brussels+sprout&si=ACC90nx3sMnF068b4kQ9EdfDa2hCqa6PYeYpXqkjc-21sGohnD6Yjgyn2KGn_VOKDYs8all4REO_ksw7Hn1J3H9nkq8mun8jKA6cPSfht_MYnxId9jo5dYVSEw8Qt_sqN85VEArOcACkmZTv1mvGbfiKHKTY7FDLUA%3D%3D"
+      }
+    ],
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2b97f922f6c85eb76b8c/images/68e0c8254b16e2f69ee1b9a43aa39eea9a7f401512b8cad9539fc984aed12e0ac7d11cf52dfdf10c.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2b97f922f6c85eb76b8c/images/68e0c8254b16e2f69ee1b9a43aa39eea9a7f401512b8cad93092aff12320c06d0d98a83cd8557d62.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2b97f922f6c85eb76b8c/images/68e0c8254b16e2f69ee1b9a43aa39eea9a7f401512b8cad9d8e58be56f8bb7d27de876690d0b6e50.webp"
+      }
+    ],
+    "description": "The Brussels sprout is a member of the Gemmifera cultivar group of cabbages, grown for its edible buds.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Brussels_sprout"
+    },
+    "sources_include": "USDAUSDABrussels sprouts38 Calories - 1 cup (88 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170383/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/169971/nutrients"
+      }
+    ],
+    "web_results": [
+      {
+        "thumbnail": "https://serpapi.com/searches/670a2b97f922f6c85eb76b8c/images/68e0c8254b16e2f69ee1b9a43aa39eea379b7905779a51eaa3e01f3a024ffe335480e68bab4c7979.jpeg",
+        "title": "29 Brussels Sprouts Recipes We Love, Full Stop - Bon Appetit",
+        "snippet": "Platter surface on gray marble surface. ... Balsamic-Roasted Brussels Sprouts. A simple mixture of extra-virgin olive oil, balsamic vinegar, ...",
+        "link": "https://www.bonappetit.com/gallery/best-brussels-sprouts-recipes"
+      },
+      {
+        "title": "Cultivar group",
+        "snippet": "Gemmifera Group",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=brussels+sprout+cultivar+group&stick=H4sIAAAAAAAAAOPgE-LUz9U3MDI1qKrUki4uttIvT01KS0wuKbZKLs0pySxLLIpPL8ovLVjEKpdUVFpcnJpTrFBcABQpUYApUAArAAD8uUIySwAAAA&sa=X&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQ18AJegQIHxAB"
+      },
+      {
+        "title": "Origin",
+        "snippet": "Low Countries; (year unknown)",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=brussels+sprout+origin&stick=H4sIAAAAAAAAAOPgE-LUz9U3MDI1qKrUEi4uttIvT01KS0wuKbbKL8pMz8xbxCqWVFRaXJyaU6xQXFCUX1qiAJEAAHMZ1NI7AAAA&sa=X&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQ18AJegQIHhAB"
+      },
+      {
+        "thumbnail": "https://serpapi.com/searches/670a2b97f922f6c85eb76b8c/images/68e0c8254b16e2f69ee1b9a43aa39eea379b7905779a51eab839c83118f74d5d3be81a91d6e92d0f.jpeg",
+        "title": "How To Make Brussel's Sprouts That Don't SUCK!",
+        "source": "YouTube \u2022 ThatDudeCanCook",
+        "source_image": "https://serpapi.com/searches/670a2b97f922f6c85eb76b8c/images/68e0c8254b16e2f69ee1b9a43aa39eea379b7905779a51eae47a9dd52c9b36b758e6794ba870fd31fff65fe5be8561f6.png",
+        "link": "https://www.youtube.com/watch?v=dCQpT9FZ7B8",
+        "duration": "11:40"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "0.3 g",
+        "0%"
+      ],
+      "cholesterol": [
+        "0 mg",
+        "0%"
+      ],
+      "sodium": [
+        "22 mg",
+        "0%"
+      ],
+      "potassium": [
+        "342 mg",
+        "9%"
+      ],
+      "total_carbohydrate": [
+        "8 g",
+        "2%"
+      ],
+      "protein": [
+        "3 g",
+        "6%"
+      ]
+    }
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "How To Make Brussel's Sprouts That Don't SUCK!",
+      "link": "https://www.youtube.com/watch?v=dCQpT9FZ7B8",
+      "thumbnail": "https://i.ytimg.com/vi/dCQpT9FZ7B8/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3mfDO5Cn9sn9X6wNUTiTKLPNsAV4g",
+      "channel": "ThatDudeCanCook",
+      "duration": "11:40",
+      "platform": "YouTube",
+      "date": "Nov 13, 2023"
+    },
+    {
+      "position": 2,
+      "title": "Oven Roasted Brussel Sprouts- Ridiculously Easy Recipe ...",
+      "link": "https://www.youtube.com/watch?v=0bHWdUS74aM",
+      "thumbnail": "https://i.ytimg.com/vi/0bHWdUS74aM/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3n3-RkdbO6awRxUmD1SoU9DsZlcZQ",
+      "channel": "Steph\u2019s Stove by Stephanie Thomas",
+      "duration": "10:42",
+      "platform": "YouTube",
+      "date": "3 weeks ago"
+    },
+    {
+      "position": 3,
+      "title": "2 Drool-Worthy Brussels Sprouts Recipes",
+      "link": "https://www.youtube.com/watch?v=sZsAQ_OMCrU",
+      "thumbnail": "https://i.ytimg.com/vi/sZsAQ_OMCrU/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3mgJWX-D9KYfY9hz8bsckiLD4jk9g",
+      "channel": "Giadzy by Giada De Laurentiis",
+      "duration": "10:33",
+      "platform": "YouTube",
+      "date": "Nov 21, 2023",
+      "key_moments": [
+        {
+          "time": "00:16",
+          "title": "Balsamic Roasted Brussels Sprouts",
+          "link": "https://www.youtube.com/watch?v=sZsAQ_OMCrU&t=16",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSovDc7UEHD_dnwBfsz0G_DUlEiC8DxnPfi8Alr4nmDqA&s"
+        },
+        {
+          "time": "03:38",
+          "title": "Bacon Bourbon Brussels Sprout Skewers",
+          "link": "https://www.youtube.com/watch?v=sZsAQ_OMCrU&t=218",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWKOvgCFCpSIzlkPGeKJXl4U_GyqJFUsF17wDifyI_Iw&s"
+        }
+      ]
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is a brussels sprout a baby cabbage?",
+      "snippet": "Are Brussels Sprouts Just Baby Cabbages? Sorry to burst a Barbie-sized bubble, but no, these sprouts are not actually baby cabbages. However, they are in the same family, the Brassica, or cruciferous family. Other members include kale, broccoli, cauliflower, collard greens, turnips, mustard, and bok choy.",
+      "title": "Brussels Sprouts vs. Cabbage: Differences, Uses, and Recipes",
+      "date": "Sep 16, 2021",
+      "link": "https://greatist.com/eat/cabbage-and-brussels-sprouts-what-is-the-difference#:~:text=Are%20Brussels%20Sprouts%20Just%20Baby%20Cabbages%3F&text=Sorry%20to%20burst%20a%20Barbie,%2C%20mustard%2C%20and%20bok%20choy.",
+      "displayed_link": "https://greatist.com \u203a eat \u203a cabbage-and-brussels-sprouts-w...",
+      "source_logo": "https://serpapi.com/searches/670a2b97f922f6c85eb76b8c/images/5cf6bc1269f8df97b240af7c6896caaeffab331b097c711220dd18041d2b07b7.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWNXRjNXRWhWTFZoWWIxOTZkMk5oTmkxQmFGaG1SRVZ1VmxGa09YRkJiV1Z0YW01aExXcHBPRFF5ZVhGSllsUk1aRkJGUlRWeU5ERTVaRTlTVEZCTmMwaGFYemhyRWhkdFEzTkxXalptYzBoWlMwWjNZbXRRYmpoNU9XbFJNQm9pUVVaWWNrVmpjbFkyZEZsU2RsaDVNamgwZEZWaWVFaFRTWE5oYmtWbVNtbGFadyIsImZjdiI6IjMiLCJlaSI6Im1Dc0taNmZzSFlLRndia1BuOHk5aVEwIiwicWMiOiJDZzlpY25WemMyVnNjeUJ6Y0hKdmRYUVFBSDBPM1JBXyIsInF1ZXN0aW9uIjoiSXMgYSBicnVzc2VscyBzcHJvdXQgYSBiYWJ5IGNhYmJhZ2U/IiwibGsiOiJHaU5wY3lCaElHSnlkWE56Wld4eklITndjbTkxZENCaElHSmhZbmtnWTJGaVltRm5aUSIsImJzIjoiYzVXUHNRckNNQkNHY2Mza1dEb2RhSGVOT2hlN2RWTWNPbF9xYVNxaGtTU2w1RTE4RTVfSDBiY3dBUkVxUW5HOS03X3Z2Mk03Tmk4dElBalRXVXZLZ3IwYTNiazRRZUdoUmlId1RIbHlQX0FzblRYalVkYXlWU1hSUWNnNlNTQUpsWk1OV1FjOWVuQWFLQ3lMb2NQbXlkUHpkY3I3VWZLcjNiSTl5eXJwQVExRkt0NmhGQjFfTkR6Sy1FTF9JX3QyZnBRWHR0eUdTREVjZ3lEbnlNQkpHX0M2Q3dac0E2cnJXcXNtVDI0Ynp0TkZWSXNfdU9ua0JRIiwiaWQiOiJmY18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWNXRjNXRWhWTFZoWWIxOTZkMk5oTmkxQmFGaG1SRVZ1VmxGa09YRkJiV1Z0YW01aExXcHBPRFF5ZVhGSllsUk1aRkJGUlRWeU5ERTVaRTlTVEZCTmMwaGFYemhyRWhkdFEzTkxXalptYzBoWlMwWjNZbXRRYmpoNU9XbFJNQm9pUVVaWWNrVmpjbFkyZEZsU2RsaDVNamgwZEZWaWVFaFRTWE5oYmtWbVNtbGFadyIsImZjdiI6IjMiLCJlaSI6Im1Dc0taNmZzSFlLRndia1BuOHk5aVEwIiwicWMiOiJDZzlpY25WemMyVnNjeUJ6Y0hKdmRYUVFBSDBPM1JBXyIsInF1ZXN0aW9uIjoiSXMgYSBicnVzc2VscyBzcHJvdXQgYSBiYWJ5IGNhYmJhZ2U%2FIiwibGsiOiJHaU5wY3lCaElHSnlkWE56Wld4eklITndjbTkxZENCaElHSmhZbmtnWTJGaVltRm5aUSIsImJzIjoiYzVXUHNRckNNQkNHY2Mza1dEb2RhSGVOT2hlN2RWTWNPbF9xYVNxaGtTU2w1RTE4RTVfSDBiY3dBUkVxUW5HOS03X3Z2Mk03Tmk4dElBalRXVXZLZ3IwYTNiazRRZUdoUmlId1RIbHlQX0FzblRYalVkYXlWU1hSUWNnNlNTQUpsWk1OV1FjOWVuQWFLQ3lMb2NQbXlkUHpkY3I3VWZLcjNiSTl5eXJwQVExRkt0NmhGQjFfTkR6Sy1FTF9JX3QyZnBRWHR0eUdTREVjZ3lEbnlNQkpHX0M2Q3dac0E2cnJXcXNtVDI0Ynp0TkZWSXNfdU9ua0JRIiwiaWQiOiJmY18yIn0%3D"
+    },
+    {
+      "question": "What is the healthiest way to eat Brussels sprouts?",
+      "snippet": "Roast with olive oil on a sheet pan for 25 to 30 minutes at 400\u00b0F (204\u00b0C). Add a little salt and pepper, or other flavorings like red pepper flakes or garlic powder. Saut\u00e9 on stove top with garlic and olive oil.",
+      "title": "Healthy food trends - Brussels sprouts - MedlinePlus",
+      "date": "May 14, 2024",
+      "link": "https://medlineplus.gov/ency/patientinstructions/000725.htm#:~:text=Roast%20with%20olive%20oil%20on,with%20garlic%20and%20olive%20oil.",
+      "displayed_link": "https://medlineplus.gov \u203a ency \u203a patientinstructions",
+      "source_logo": "https://serpapi.com/searches/670a2b97f922f6c85eb76b8c/images/5cf6bc1269f8df97b240af7c6896caaef17817f4b82e7455fae406be603d1b00.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWNXRjNXRWhWTFZoWWIxOTZkMk5oTmkxQmFGaG1SRVZ1VmxGa09YRkJiV1Z0YW01aExXcHBPRFF5ZVhGSllsUk1aRkJGUlRWeU5ERTVaRTlTVEZCTmMwaGFYemhyRWhkdFEzTkxXalptYzBoWlMwWjNZbXRRYmpoNU9XbFJNQm9pUVVaWWNrVmpjbFkyZEZsU2RsaDVNamgwZEZWaWVFaFRTWE5oYmtWbVNtbGFadyIsImZjdiI6IjMiLCJlaSI6Im1Dc0taNmZzSFlLRndia1BuOHk5aVEwIiwicWMiOiJDZzlpY25WemMyVnNjeUJ6Y0hKdmRYUVFBSDBPM1JBXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgaGVhbHRoaWVzdCB3YXkgdG8gZWF0IEJydXNzZWxzIHNwcm91dHM/IiwibGsiOiJHakozYUdGMElHbHpJSFJvWlNCb1pXRnNkR2hwWlhOMElIZGhlU0IwYnlCbFlYUWdZbkoxYzNObGJITWdjM0J5YjNWMGN3IiwiYnMiOiJjNVdQc1FyQ01CQ0djYzNrV0RvZGFIZU5PaGU3ZFZNY09sX3FhU3Foa1NTbDVFMThFNV9IMGJjd0FSRXFRbkc5LTdfdnYyTTdOaTh0SUFqVFdVdktncjBhM2JrNFFlR2hSaUh3VEhseVBfQXNuVFhqVWRheVZTWFJRY2c2U1NBSmxaTU5XUWM5ZW5BYUtDeUxvY1BteWRQemRjcjdVZktyM2JJOXl5cnBBUTFGS3Q2aEZCMV9ORHpLLUVMX0lfdDJmcFFYdHR5R1NERWNneURueU1CSkdfQzZDd1pzQTZycldxc21UMjRienRORlZJc191T25rQlEiLCJpZCI6ImZjXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWNXRjNXRWhWTFZoWWIxOTZkMk5oTmkxQmFGaG1SRVZ1VmxGa09YRkJiV1Z0YW01aExXcHBPRFF5ZVhGSllsUk1aRkJGUlRWeU5ERTVaRTlTVEZCTmMwaGFYemhyRWhkdFEzTkxXalptYzBoWlMwWjNZbXRRYmpoNU9XbFJNQm9pUVVaWWNrVmpjbFkyZEZsU2RsaDVNamgwZEZWaWVFaFRTWE5oYmtWbVNtbGFadyIsImZjdiI6IjMiLCJlaSI6Im1Dc0taNmZzSFlLRndia1BuOHk5aVEwIiwicWMiOiJDZzlpY25WemMyVnNjeUJ6Y0hKdmRYUVFBSDBPM1JBXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgaGVhbHRoaWVzdCB3YXkgdG8gZWF0IEJydXNzZWxzIHNwcm91dHM%2FIiwibGsiOiJHakozYUdGMElHbHpJSFJvWlNCb1pXRnNkR2hwWlhOMElIZGhlU0IwYnlCbFlYUWdZbkoxYzNObGJITWdjM0J5YjNWMGN3IiwiYnMiOiJjNVdQc1FyQ01CQ0djYzNrV0RvZGFIZU5PaGU3ZFZNY09sX3FhU3Foa1NTbDVFMThFNV9IMGJjd0FSRXFRbkc5LTdfdnYyTTdOaTh0SUFqVFdVdktncjBhM2JrNFFlR2hSaUh3VEhseVBfQXNuVFhqVWRheVZTWFJRY2c2U1NBSmxaTU5XUWM5ZW5BYUtDeUxvY1BteWRQemRjcjdVZktyM2JJOXl5cnBBUTFGS3Q2aEZCMV9ORHpLLUVMX0lfdDJmcFFYdHR5R1NERWNneURueU1CSkdfQzZDd1pzQTZycldxc21UMjRienRORlZJc191T25rQlEiLCJpZCI6ImZjXzIifQ%3D%3D"
+    },
+    {
+      "question": "Why are they called Brussels sprouts?",
+      "snippet": "Brussels sprouts are named after Brussels, Belgium, where it is believed they were first widely cultivated in the 16th century. Sometimes called mini cabbages, they have appeared on \u201cmost hated vegetable\u201d lists due to their potentially bitter flavors caused by sulfur-containing compounds.",
+      "title": "Brussels Sprouts - The Nutrition Source",
+      "link": "https://nutritionsource.hsph.harvard.edu/food-features/brussels-sprouts/#:~:text=Brussels%20sprouts%20are%20named%20after,caused%20by%20sulfur%2Dcontaining%20compounds.",
+      "displayed_link": "https://nutritionsource.hsph.harvard.edu \u203a food-features",
+      "source_logo": "https://serpapi.com/searches/670a2b97f922f6c85eb76b8c/images/5cf6bc1269f8df97b240af7c6896caaeb59beb45b66fa6ceaf97b36cab1e9366.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWNXRjNXRWhWTFZoWWIxOTZkMk5oTmkxQmFGaG1SRVZ1VmxGa09YRkJiV1Z0YW01aExXcHBPRFF5ZVhGSllsUk1aRkJGUlRWeU5ERTVaRTlTVEZCTmMwaGFYemhyRWhkdFEzTkxXalptYzBoWlMwWjNZbXRRYmpoNU9XbFJNQm9pUVVaWWNrVmpjbFkyZEZsU2RsaDVNamgwZEZWaWVFaFRTWE5oYmtWbVNtbGFadyIsImZjdiI6IjMiLCJlaSI6Im1Dc0taNmZzSFlLRndia1BuOHk5aVEwIiwicWMiOiJDZzlpY25WemMyVnNjeUJ6Y0hKdmRYUVFBSDBPM1JBXyIsInF1ZXN0aW9uIjoiV2h5IGFyZSB0aGV5IGNhbGxlZCBCcnVzc2VscyBzcHJvdXRzPyIsImxrIjoiR2lOM2FIa2dZWEpsSUhSb1pYa2dZMkZzYkdWa0lHSnlkWE56Wld3Z2MzQnliM1YwY3ciLCJicyI6ImM1V1BzUXJDTUJDR2NjM2tXRG9kYUhlTk9oZTdkVk1jT2xfcWFTcWhrU1NsNUUxOEU1X0gwYmN3QVJFcVFuRzktN192djJNN05pOHRJQWpUV1V2S2dyMGEzYms0UWVHaFJpSHdUSGx5UF9Bc25UWGpVZGF5VlNYUlFjZzZTU0FKbFpNTldRYzllbkFhS0N5TG9jUG15ZFB6ZGNyN1VmS3IzYkk5eXlycEFRMUZLdDZoRkIxX05EekstRUxfSV90MmZwUVh0dHlHU0RFY2d5RG55TUJKR19DNkN3WnNBNnJyV3FzbVQyNGJ6dE5GVklzX3VPbmtCUSIsImlkIjoiZmNfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWNXRjNXRWhWTFZoWWIxOTZkMk5oTmkxQmFGaG1SRVZ1VmxGa09YRkJiV1Z0YW01aExXcHBPRFF5ZVhGSllsUk1aRkJGUlRWeU5ERTVaRTlTVEZCTmMwaGFYemhyRWhkdFEzTkxXalptYzBoWlMwWjNZbXRRYmpoNU9XbFJNQm9pUVVaWWNrVmpjbFkyZEZsU2RsaDVNamgwZEZWaWVFaFRTWE5oYmtWbVNtbGFadyIsImZjdiI6IjMiLCJlaSI6Im1Dc0taNmZzSFlLRndia1BuOHk5aVEwIiwicWMiOiJDZzlpY25WemMyVnNjeUJ6Y0hKdmRYUVFBSDBPM1JBXyIsInF1ZXN0aW9uIjoiV2h5IGFyZSB0aGV5IGNhbGxlZCBCcnVzc2VscyBzcHJvdXRzPyIsImxrIjoiR2lOM2FIa2dZWEpsSUhSb1pYa2dZMkZzYkdWa0lHSnlkWE56Wld3Z2MzQnliM1YwY3ciLCJicyI6ImM1V1BzUXJDTUJDR2NjM2tXRG9kYUhlTk9oZTdkVk1jT2xfcWFTcWhrU1NsNUUxOEU1X0gwYmN3QVJFcVFuRzktN192djJNN05pOHRJQWpUV1V2S2dyMGEzYms0UWVHaFJpSHdUSGx5UF9Bc25UWGpVZGF5VlNYUlFjZzZTU0FKbFpNTldRYzllbkFhS0N5TG9jUG15ZFB6ZGNyN1VmS3IzYkk5eXlycEFRMUZLdDZoRkIxX05EekstRUxfSV90MmZwUVh0dHlHU0RFY2d5RG55TUJKR19DNkN3WnNBNnJyV3FzbVQyNGJ6dE5GVklzX3VPbmtCUSIsImlkIjoiZmNfMiJ9"
+    },
+    {
+      "question": "Are Brussel sprouts better for you than broccoli?",
+      "snippet": "While broccoli may have a higher count of calories, fat, and carbs, it is richer in calcium, iron, and pantothenic acid (a B vitamin that does wonders for healthy hair), and has a bit more potassium. Brussels sprouts, on the other hand, are lower in sodium.",
+      "title": "Comparing Brussels Sprouts and Broccoli | POPSUGAR Fitness",
+      "date": "Sep 22, 2010",
+      "link": "https://www.popsugar.com/fitness/Comparing-Brussels-Sprouts-Broccoli-11112713#:~:text=While%20broccoli%20may%20have%20a,hand%2C%20are%20lower%20in%20sodium.",
+      "displayed_link": "https://www.popsugar.com \u203a fitness \u203a Comparing-Brussels...",
+      "source_logo": "https://serpapi.com/searches/670a2b97f922f6c85eb76b8c/images/5cf6bc1269f8df97b240af7c6896caaed93a4333bc780deaa98eeebcf2a650a8.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWNXRjNXRWhWTFZoWWIxOTZkMk5oTmkxQmFGaG1SRVZ1VmxGa09YRkJiV1Z0YW01aExXcHBPRFF5ZVhGSllsUk1aRkJGUlRWeU5ERTVaRTlTVEZCTmMwaGFYemhyRWhkdFEzTkxXalptYzBoWlMwWjNZbXRRYmpoNU9XbFJNQm9pUVVaWWNrVmpjbFkyZEZsU2RsaDVNamgwZEZWaWVFaFRTWE5oYmtWbVNtbGFadyIsImZjdiI6IjMiLCJlaSI6Im1Dc0taNmZzSFlLRndia1BuOHk5aVEwIiwicWMiOiJDZzlpY25WemMyVnNjeUJ6Y0hKdmRYUVFBSDBPM1JBXyIsInF1ZXN0aW9uIjoiQXJlIEJydXNzZWwgc3Byb3V0cyBiZXR0ZXIgZm9yIHlvdSB0aGFuIGJyb2Njb2xpPyIsImxrIjoiR2pCaGNtVWdZbkoxYzNObGJDQnpjSEp2ZFhSeklHSmxkSFJsY2lCbWIzSWdlVzkxSUhSb1lXNGdZbkp2WTJOdmJHayIsImJzIjoiYzVXUHNRckNNQkNHY2Mza1dEb2RhSGVOT2hlN2RWTWNPbF9xYVNxaGtTU2w1RTE4RTVfSDBiY3dBUkVxUW5HOS03X3Z2Mk03Tmk4dElBalRXVXZLZ3IwYTNiazRRZUdoUmlId1RIbHlQX0FzblRYalVkYXlWU1hSUWNnNlNTQUpsWk1OV1FjOWVuQWFLQ3lMb2NQbXlkUHpkY3I3VWZLcjNiSTl5eXJwQVExRkt0NmhGQjFfTkR6Sy1FTF9JX3QyZnBRWHR0eUdTREVjZ3lEbnlNQkpHX0M2Q3dac0E2cnJXcXNtVDI0Ynp0TkZWSXNfdU9ua0JRIiwiaWQiOiJmY18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWNXRjNXRWhWTFZoWWIxOTZkMk5oTmkxQmFGaG1SRVZ1VmxGa09YRkJiV1Z0YW01aExXcHBPRFF5ZVhGSllsUk1aRkJGUlRWeU5ERTVaRTlTVEZCTmMwaGFYemhyRWhkdFEzTkxXalptYzBoWlMwWjNZbXRRYmpoNU9XbFJNQm9pUVVaWWNrVmpjbFkyZEZsU2RsaDVNamgwZEZWaWVFaFRTWE5oYmtWbVNtbGFadyIsImZjdiI6IjMiLCJlaSI6Im1Dc0taNmZzSFlLRndia1BuOHk5aVEwIiwicWMiOiJDZzlpY25WemMyVnNjeUJ6Y0hKdmRYUVFBSDBPM1JBXyIsInF1ZXN0aW9uIjoiQXJlIEJydXNzZWwgc3Byb3V0cyBiZXR0ZXIgZm9yIHlvdSB0aGFuIGJyb2Njb2xpPyIsImxrIjoiR2pCaGNtVWdZbkoxYzNObGJDQnpjSEp2ZFhSeklHSmxkSFJsY2lCbWIzSWdlVzkxSUhSb1lXNGdZbkp2WTJOdmJHayIsImJzIjoiYzVXUHNRckNNQkNHY2Mza1dEb2RhSGVOT2hlN2RWTWNPbF9xYVNxaGtTU2w1RTE4RTVfSDBiY3dBUkVxUW5HOS03X3Z2Mk03Tmk4dElBalRXVXZLZ3IwYTNiazRRZUdoUmlId1RIbHlQX0FzblRYalVkYXlWU1hSUWNnNlNTQUpsWk1OV1FjOWVuQWFLQ3lMb2NQbXlkUHpkY3I3VWZLcjNiSTl5eXJwQVExRkt0NmhGQjFfTkR6Sy1FTF9JX3QyZnBRWHR0eUdTREVjZ3lEbnlNQkpHX0M2Q3dac0E2cnJXcXNtVDI0Ynp0TkZWSXNfdU9ua0JRIiwiaWQiOiJmY18yIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Roasted Brussels Sprouts Recipe",
+      "link": "https://www.loveandlemons.com/roasted-brussels-sprouts/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.loveandlemons.com/roasted-brussels-sprouts/&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQFnoECEMQAQ",
+      "displayed_link": "https://www.loveandlemons.com \u203a Recipes",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmWtKe-fEwY2DuDzhlNWCCtbhk4S71fnI50rKSkNTDzGOPhqh-nQM3&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2b97f922f6c85eb76b8c/images/46e7efdaaa3f496b2a1f4d68e520a8d0c9513164ac51ae7d9c673f54ed2f4aee.webp",
+      "snippet": "This easy roasted Brussels sprouts recipe is a delicious side dish! The golden brown, crispy sprouts are tossed in a zingy Lemon Parmesan dressing.",
+      "snippet_highlighted_words": [
+        "Brussels sprouts"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Balsamic Brussels Sprouts",
+            "link": "https://www.loveandlemons.com/balsamic-brussels-sprouts/"
+          },
+          {
+            "title": "Saut\u00e9ed Brussels Sprouts",
+            "link": "https://www.loveandlemons.com/sauteed-brussels-sprouts/"
+          },
+          {
+            "title": "Creamy Pasta Bake",
+            "link": "https://www.loveandlemons.com/creamy-vegan-pasta-bake-brussels-sprouts/"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "min": 35
+          },
+          "extensions": [
+            "5.0(154)",
+            "35 min"
+          ]
+        }
+      },
+      "source": "Love and Lemons"
+    },
+    {
+      "position": 2,
+      "title": "Brussels sprout",
+      "link": "https://en.wikipedia.org/wiki/Brussels_sprout",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Brussels_sprout&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQFnoECEAQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Brussels_sprout",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXfy2GOasXSd1HjUYCBjaaFHI_a2svgaCPliza0EsLaD1KTHXK_vk0&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2b97f922f6c85eb76b8c/images/46e7efdaaa3f496b2a1f4d68e520a8d0a11865f17bec1799144b5865cce9ca48.webp",
+      "snippet": "The Brussels sprout is a member of the Gemmifera cultivar group of cabbages (Brassica oleracea), grown for its edible buds.",
+      "snippet_highlighted_words": [
+        "Brussels sprout"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 3,
+      "title": "Roasted Brussels Sprouts with Balsamic Vinegar and Honey",
+      "link": "https://www.onceuponachef.com/recipes/roasted-brussels-sprouts.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.onceuponachef.com/recipes/roasted-brussels-sprouts.html&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQFnoECEIQAQ",
+      "displayed_link": "https://www.onceuponachef.com \u203a Recipes",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtCbqmS62_3_USaI85vliJ5aFF2z9ibt1MVeudNY6piKk0Q-Mz3zYi&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2b97f922f6c85eb76b8c/images/46e7efdaaa3f496b2a1f4d68e520a8d054e2620351eca89f432aca01f2c9b6d4.webp",
+      "snippet": "It's hard to improve on simple roasted Brussels sprouts, but a splash of balsamic vinegar and a drizzle of honey bring the flavors to life.",
+      "snippet_highlighted_words": [
+        "Brussels sprouts"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.8,
+            "min": 30
+          },
+          "extensions": [
+            "4.8(303)",
+            "30 min"
+          ]
+        }
+      },
+      "source": "Once Upon a Chef"
+    },
+    {
+      "position": 4,
+      "title": "The Best Brussels Sprouts of Your Life!",
+      "link": "https://www.errenskitchen.com/the-best-brussels-sprouts-of-your-life/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.errenskitchen.com/the-best-brussels-sprouts-of-your-life/&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQFnoECEYQAQ",
+      "displayed_link": "https://www.errenskitchen.com \u203a Erren's Picks",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNzp6yKonze95vd-8Ud0KcwGfBFwcl35NCqhp8RlWDQ0fRggzczDqU&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2b97f922f6c85eb76b8c/images/46e7efdaaa3f496b2a1f4d68e520a8d078354e7cf002526be6cb03bc43a3e9c9.webp",
+      "snippet": "Golden & crisp on the outside, tender on the inside, and ready to serve in less than 30 minutes - The Best Brussels Sprouts of Your Life!",
+      "snippet_highlighted_words": [
+        "Brussels Sprouts"
+      ],
+      "source": "Erren's Kitchen"
+    },
+    {
+      "position": 5,
+      "title": "29 Brussels Sprouts Recipes We Love, Full Stop",
+      "link": "https://www.bonappetit.com/gallery/best-brussels-sprouts-recipes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bonappetit.com/gallery/best-brussels-sprouts-recipes&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQFnoECEEQAQ",
+      "displayed_link": "https://www.bonappetit.com \u203a recipes \u203a Thanksgiving",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6B6RW54BVB-MLY85FrVZGusJuVWFDNKR4M1hFxuKm5_Uth4r4RmAa&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2b97f922f6c85eb76b8c/images/46e7efdaaa3f496b2a1f4d68e520a8d04147da771847e1e7ee5c2387c2530940.webp",
+      "date": "3 days ago",
+      "snippet": "Our best recipes for brussels sprouts include holidays side dishes, big seasonal fall salads, and even mains like a riff on nasi goreng and ...",
+      "snippet_highlighted_words": [
+        "brussels sprouts"
+      ],
+      "source": "bonappetit.com"
+    },
+    {
+      "position": 6,
+      "title": "Roasted Brussels Sprouts With Garlic Recipe - NYT Cooking",
+      "link": "https://cooking.nytimes.com/recipes/1890-roasted-brussels-sprouts-with-garlic",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cooking.nytimes.com/recipes/1890-roasted-brussels-sprouts-with-garlic&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQFnoECEQQAQ",
+      "displayed_link": "https://cooking.nytimes.com \u203a recipes \u203a 1890-roasted-bru...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwgkMd3rW5uYiNdMMuV31XCaJF_LWykWQzZHZ2JGPF9aRZyXXHyBwg&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2b97f922f6c85eb76b8c/images/46e7efdaaa3f496b2a1f4d68e520a8d06047af3df1db13f58f74baa961214d5d.webp",
+      "date": "Aug 12, 2024",
+      "snippet": "This recipe for roasted brussels sprouts from Mark Bittman is our most popular version and is perfect as a Thanksgiving side dish.",
+      "snippet_highlighted_words": [
+        "brussels sprouts"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Crispy Roasted Brussels...",
+            "link": "https://cooking.nytimes.com/recipes/1020618-crispy-roasted-brussels-sprouts-and-shallots"
+          },
+          {
+            "title": "Caramelized Brussels Sprouts...",
+            "link": "https://cooking.nytimes.com/recipes/1024796-caramelized-brussels-sprouts-with-lemon"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "min": 35
+          },
+          "extensions": [
+            "5.0(11,862)",
+            "35 min"
+          ]
+        }
+      },
+      "source": "NYT Cooking"
+    },
+    {
+      "position": 7,
+      "title": "Perfect Roasted Brussel Sprouts",
+      "link": "https://itdoesnttastelikechicken.com/perfect-roasted-brussel-sprouts/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://itdoesnttastelikechicken.com/perfect-roasted-brussel-sprouts/&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQFnoECH4QAQ",
+      "displayed_link": "https://itdoesnttastelikechicken.com \u203a perfect-roasted-brus...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnHW2Ujz71uYkiKp-g8lyKkLG4QQvyZzkO4vjnlP5Ic9h28MdrGLTp&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2b97f922f6c85eb76b8c/images/46e7efdaaa3f496b2a1f4d68e520a8d091778b4cee40e2e1779973075703b6b4.webp",
+      "date": "Nov 12, 2023",
+      "snippet": "Perfect Roasted Brussel Sprouts- golden-brown crispy outer leaves, tender on the inside, and seasoned to perfection. 6 ingredients 15 mins.",
+      "snippet_highlighted_words": [
+        "Brussel Sprouts"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "min": 40
+          },
+          "extensions": [
+            "5.0(13)",
+            "40 min"
+          ]
+        }
+      },
+      "source": "It Doesn't Taste Like Chicken"
+    },
+    {
+      "position": 8,
+      "title": "Roasted Brussels Sprouts",
+      "link": "https://themodernproper.com/roasted-brussels-sprouts",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://themodernproper.com/roasted-brussels-sprouts&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQFnoECH0QAQ",
+      "displayed_link": "https://themodernproper.com \u203a Recipes \u203a Fall",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAH0eCuIvhl8k1yxIGGtHjq1ADL0-_Refd97-uLI7Bug2DCDR9X2tN&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2b97f922f6c85eb76b8c/images/46e7efdaaa3f496b2a1f4d68e520a8d0bf8fe460a2560f8e11530c9453ad4692.webp",
+      "date": "Sep 4, 2024",
+      "snippet": "At 425\u00b0F, we recommend roasting brussel sprouts in the oven for around 18 minutes, but suggest keeping a good eye on them to avoid burning or ...",
+      "snippet_highlighted_words": [
+        "brussel sprouts"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "min": 23
+          },
+          "extensions": [
+            "5.0(1)",
+            "23 min"
+          ]
+        }
+      },
+      "source": "The Modern Proper"
+    },
+    {
+      "position": 9,
+      "title": "Sprout (@brussels.sprout) \u2022 Instagram photos and videos",
+      "link": "https://www.instagram.com/brussels.sprout/?hl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/brussels.sprout/%3Fhl%3Den&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQFnoECHwQAQ",
+      "displayed_link": "182.4K+ followers",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV2t9Yc8bNgCgUJYa23Ru_Xtbk3_8BcN0UbuqZ97OHhd9_hRQL2IdF&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2b97f922f6c85eb76b8c/images/46e7efdaaa3f496b2a1f4d68e520a8d0bfdb7efe774fd847c072852adb3a178c.webp",
+      "snippet": "Made it in the hustle and Brussel of NYC, now puppin' in VA Order my book \u201cThe Good Boy's Guide to Being Good\u201d below! \u00b7 2,394 posts \u00b7 182,379 followers.",
+      "snippet_highlighted_words": [
+        "Brussel"
+      ],
+      "source": "Instagram \u00b7 brussels.sprout"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "items": [
+        {
+          "name": "Cabbage",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcS94jJcX5DtdkmGkgfVm0IrL83I7jne5eNfN_0hhkUzJrvMdLQI7UmFPUWF7sRf2cuw98ay-Htk&s=19",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Cabbage&stick=H4sIAAAAAAAAAOMwVGI0-MXIsIGF4RULFxeHfq6-QVpSudkrFm4uThDHpDKnyOgVCw8XF4hnWVKeZ5kEV2mSlI1QaZxemB7_ioWXi1s_Xd_QyNigzNTAHK40OavYHK40zaTYqBzOMzIvSC6D8wxNy80LFrGyOycmJSWmp95ik2ToftpjHBgfUvBOpfmg1KE9S56a_Fw3u8x71SIOsYDU_IKcVIXEnOJ8heLUxKLkDIW0_KIVHIwA4BWz6dkAAAA&sa=X&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQs9oBKAB6BAg_EAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Cabbage&stick=H4sIAAAAAAAAAOMwVGI0-MXIsIGF4RULFxeHfq6-QVpSudkrFm4uThDHpDKnyOgVCw8XF4hnWVKeZ5kEV2mSlI1QaZxemB7_ioWXi1s_Xd_QyNigzNTAHK40OavYHK40zaTYqBzOMzIvSC6D8wxNy80LFrGyOycmJSWmp95ik2ToftpjHBgfUvBOpfmg1KE9S56a_Fw3u8x71SIOsYDU_IKcVIXEnOJ8heLUxKLkDIW0_KIVHIwA4BWz6dkAAAA"
+        },
+        {
+          "name": "Wild cabbage",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLH-z8_to9w2Dy_f5dXO44g7af8QpKAbwWgghvrapereOoWnkBN0y&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Brassica+oleracea&stick=H4sIAAAAAAAAAOMwVGI0_MXIsIGF4RULFxeHfq6-QVpSudkrFm4uThDHpDKnyOgVCw8XF4hnWVKeZ5kEV2mSlI1QaZxemB7_ioWXi1s_Xd_QyNigzNTAHK40OavYHK40zaTYqBzOMzIvSC6D8wxNy80LFrEKOhUlFhdnJicq5OekFiUmpybeYpNk6H7aYxwYH1LwTqX5oNShPUuemvxcN7vMe9UiDrGA1PyCnFSFxJzifIXi1MSi5AyFtPyiFRyMAEPJxBvjAAAA&sa=X&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQs9oBKAF6BAg_EAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Brassica+oleracea&stick=H4sIAAAAAAAAAOMwVGI0_MXIsIGF4RULFxeHfq6-QVpSudkrFm4uThDHpDKnyOgVCw8XF4hnWVKeZ5kEV2mSlI1QaZxemB7_ioWXi1s_Xd_QyNigzNTAHK40OavYHK40zaTYqBzOMzIvSC6D8wxNy80LFrEKOhUlFhdnJicq5OekFiUmpybeYpNk6H7aYxwYH1LwTqX5oNShPUuemvxcN7vMe9UiDrGA1PyCnFSFxJzifIXi1MSi5AyFtPyiFRyMAEPJxBvjAAAA"
+        },
+        {
+          "name": "Broccoli",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBSNHs_ZUYv9-AmZSnbLCjKRTuQhaTyi3YsdLCOQ0oj-Y3bVphSCDG&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Broccoli&stick=H4sIAAAAAAAAAOMwVGI0-sXIsIGF4RULFxeHfq6-QVpSudkrFm4uThDHpDKnyOgVCw8XF4hnWVKeZ5kEV2mSlI1QaZxemB7_ioWXi1s_Xd_QyNigzNTAHK40OavYHK40zaTYqBzOMzIvSC6D8wxNy80LFrFyOBXlJyfn52TeYpNk6H7aYxwYH1LwTqX5oNShPUuemvxcN7vMe9UiDrGA1PyCnFSFxJzifIXi1MSi5AyFtPyiFRyMAEmzOk_aAAAA&sa=X&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQs9oBKAJ6BAg_EAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Broccoli&stick=H4sIAAAAAAAAAOMwVGI0-sXIsIGF4RULFxeHfq6-QVpSudkrFm4uThDHpDKnyOgVCw8XF4hnWVKeZ5kEV2mSlI1QaZxemB7_ioWXi1s_Xd_QyNigzNTAHK40OavYHK40zaTYqBzOMzIvSC6D8wxNy80LFrFyOBXlJyfn52TeYpNk6H7aYxwYH1LwTqX5oNShPUuemvxcN7vMe9UiDrGA1PyCnFSFxJzifIXi1MSi5AyFtPyiFRyMAEmzOk_aAAAA"
+        },
+        {
+          "name": "Kohlrabi",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAraToj3pwLj11_TpNkI31Q2-pBdmEwGmhRsll6UVJg1lNYh_n4HxX&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Kohlrabi&stick=H4sIAAAAAAAAAOMwVGI0_sXIsIGF4RULFxeHfq6-QVpSudkrFm4uThDHpDKnyOgVCw8XF4hnWVKeZ5kEV2mSlI1QaZxemB7_ioWXi1s_Xd_QyNigzNTAHK40OavYHK40zaTYqBzOMzIvSC6D8wxNy80LFrFyeOdn5BQlJmXeYpNk6H7aYxwYH1LwTqX5oNShPUuemvxcN7vMe9UiDrGA1PyCnFSFxJzifIXi1MSi5AyFtPyiFRyMADBoo2_aAAAA&sa=X&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQs9oBKAN6BAg_EAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Kohlrabi&stick=H4sIAAAAAAAAAOMwVGI0_sXIsIGF4RULFxeHfq6-QVpSudkrFm4uThDHpDKnyOgVCw8XF4hnWVKeZ5kEV2mSlI1QaZxemB7_ioWXi1s_Xd_QyNigzNTAHK40OavYHK40zaTYqBzOMzIvSC6D8wxNy80LFrFyeOdn5BQlJmXeYpNk6H7aYxwYH1LwTqX5oNShPUuemvxcN7vMe9UiDrGA1PyCnFSFxJzifIXi1MSi5AyFtPyiFRyMADBoo2_aAAAA"
+        },
+        {
+          "name": "Balsamic vinegar",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcC7Juo4_Hj-DR79oBx6x3VQ_uZ197eYI-TKJ1&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Balsamic+Vinegar&stick=H4sIAAAAAAAAAOMwVGI0-cXIsIGF4RULFxeHfq6-QVpSudkrFm4uThDHpDKnyOgVCw8XF4hnWVKeZ5kEV2mSlI1QaZxemB7_ioWXi1s_Xd_QyNigzNTAHK40OavYHK40zaTYqBzOMzIvSC6D8wxNy80LFrEKOCXmFCfmZiYrhGXmpaYnFt1ik2ToftpjHBgfUvBOpfmg1KE9S56a_Fw3u8x71SIOsYDU_IKcVAWgpnyF4tTEouQMhbT8ohUcjAB82nK04gAAAA&sa=X&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQs9oBKAR6BAg_EAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Balsamic+Vinegar&stick=H4sIAAAAAAAAAOMwVGI0-cXIsIGF4RULFxeHfq6-QVpSudkrFm4uThDHpDKnyOgVCw8XF4hnWVKeZ5kEV2mSlI1QaZxemB7_ioWXi1s_Xd_QyNigzNTAHK40OavYHK40zaTYqBzOMzIvSC6D8wxNy80LFrEKOCXmFCfmZiYrhGXmpaYnFt1ik2ToftpjHBgfUvBOpfmg1KE9S56a_Fw3u8x71SIOsYDU_IKcVAWgpnyF4tTEouQMhbT8ohUcjAB82nK04gAAAA"
+        },
+        {
+          "name": "Kale",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSPWMxXdHoIgbej_hltAJuycYhjiYv6hGmPDLQZTN0JYGIEBINODYzWU_uLXVNQ-c9ywfLV7OOj&s=19",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Kale&stick=H4sIAAAAAAAAAOMwVGI0_cXIsIGF4RULFxeHfq6-QVpSudkrFm4uThDHpDKnyOgVCw8XF4hnWVKeZ5kEV2mSlI1QaZxemB7_ioWXi1s_Xd_QyNigzNTAHK40OavYHK40zaTYqBzOMzIvSC6D8wxNy80LFrGyeCfmpN5ik2ToftpjHBgfUvBOpfmg1KE9S56a_Fw3u8x71SIOsYDU_IKcVIXEnOJ8heLUxKLkDIW0_KIVHIwA8iUXE9YAAAA&sa=X&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQs9oBKAV6BAg_EAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Kale&stick=H4sIAAAAAAAAAOMwVGI0_cXIsIGF4RULFxeHfq6-QVpSudkrFm4uThDHpDKnyOgVCw8XF4hnWVKeZ5kEV2mSlI1QaZxemB7_ioWXi1s_Xd_QyNigzNTAHK40OavYHK40zaTYqBzOMzIvSC6D8wxNy80LFrGyeCfmpN5ik2ToftpjHBgfUvBOpfmg1KE9S56a_Fw3u8x71SIOsYDU_IKcVIXEnOJ8heLUxKLkDIW0_KIVHIwA8iUXE9YAAAA"
+        }
+      ]
+    },
+    {
+      "block_position": 1,
+      "query": "Brussels sprout recipes",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Brussels+sprout+recipes&sa=X&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQ1QJ6BAhuEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Brussels+sprout+recipes"
+    },
+    {
+      "block_position": 1,
+      "query": "Roasted brussels sprout",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Roasted+brussels+sprout&sa=X&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQ1QJ6BAhtEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Roasted+brussels+sprout"
+    },
+    {
+      "block_position": 1,
+      "query": "Brussels sprouts family",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Brussels+sprouts+family&sa=X&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQ1QJ6BAhnEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Brussels+sprouts+family"
+    },
+    {
+      "block_position": 1,
+      "query": "Brussels sprouts scientific name",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Brussels+sprouts+scientific+name&sa=X&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQ1QJ6BAhjEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Brussels+sprouts+scientific+name"
+    },
+    {
+      "block_position": 1,
+      "query": "Brussels sprouts in Hindi",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Brussels+sprouts+in+Hindi&sa=X&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQ1QJ6BAhaEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Brussels+sprouts+in+Hindi"
+    },
+    {
+      "block_position": 1,
+      "query": "Brussels sprouts origin",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Brussels+sprouts+origin&sa=X&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQ1QJ6BAhREAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Brussels+sprouts+origin"
+    },
+    {
+      "block_position": 1,
+      "query": "How to cook brussel sprouts on stove",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=How+to+cook+brussel+sprouts+on+stove&sa=X&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQ1QJ6BAhPEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=How+to+cook+brussel+sprouts+on+stove"
+    },
+    {
+      "block_position": 1,
+      "query": "Roasted Brussel sprouts with balsamic",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Roasted+Brussel+sprouts+with+balsamic&sa=X&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQ1QJ6BAhvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Roasted+Brussel+sprouts+with+balsamic"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=brussels+sprout&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=mCsKZ6fsHYKFwbkPn8y9iQ0&start=10&sa=N&sstk=AagrsujjVorXede00oUmAAOfy4V9WTdfcHK_Ne-y2OtNDp4qAauzFaxRA4r2aDiFwJ1wXQGOvhXLQQaGam6u7EbXU8ujBSHZ7-WgzA&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQ8NMDegQIBhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=brussels+sprout&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=mCsKZ6fsHYKFwbkPn8y9iQ0&start=10&sa=N&sstk=AagrsujjVorXede00oUmAAOfy4V9WTdfcHK_Ne-y2OtNDp4qAauzFaxRA4r2aDiFwJ1wXQGOvhXLQQaGam6u7EbXU8ujBSHZ7-WgzA&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQ8tMDegQIBhAE",
+      "3": "https://www.google.com/search?q=brussels+sprout&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=mCsKZ6fsHYKFwbkPn8y9iQ0&start=20&sa=N&sstk=AagrsujjVorXede00oUmAAOfy4V9WTdfcHK_Ne-y2OtNDp4qAauzFaxRA4r2aDiFwJ1wXQGOvhXLQQaGam6u7EbXU8ujBSHZ7-WgzA&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQ8tMDegQIBhAG",
+      "4": "https://www.google.com/search?q=brussels+sprout&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=mCsKZ6fsHYKFwbkPn8y9iQ0&start=30&sa=N&sstk=AagrsujjVorXede00oUmAAOfy4V9WTdfcHK_Ne-y2OtNDp4qAauzFaxRA4r2aDiFwJ1wXQGOvhXLQQaGam6u7EbXU8ujBSHZ7-WgzA&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQ8tMDegQIBhAI",
+      "5": "https://www.google.com/search?q=brussels+sprout&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=mCsKZ6fsHYKFwbkPn8y9iQ0&start=40&sa=N&sstk=AagrsujjVorXede00oUmAAOfy4V9WTdfcHK_Ne-y2OtNDp4qAauzFaxRA4r2aDiFwJ1wXQGOvhXLQQaGam6u7EbXU8ujBSHZ7-WgzA&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQ8tMDegQIBhAK",
+      "6": "https://www.google.com/search?q=brussels+sprout&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=mCsKZ6fsHYKFwbkPn8y9iQ0&start=50&sa=N&sstk=AagrsujjVorXede00oUmAAOfy4V9WTdfcHK_Ne-y2OtNDp4qAauzFaxRA4r2aDiFwJ1wXQGOvhXLQQaGam6u7EbXU8ujBSHZ7-WgzA&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQ8tMDegQIBhAM",
+      "7": "https://www.google.com/search?q=brussels+sprout&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=mCsKZ6fsHYKFwbkPn8y9iQ0&start=60&sa=N&sstk=AagrsujjVorXede00oUmAAOfy4V9WTdfcHK_Ne-y2OtNDp4qAauzFaxRA4r2aDiFwJ1wXQGOvhXLQQaGam6u7EbXU8ujBSHZ7-WgzA&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQ8tMDegQIBhAO",
+      "8": "https://www.google.com/search?q=brussels+sprout&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=mCsKZ6fsHYKFwbkPn8y9iQ0&start=70&sa=N&sstk=AagrsujjVorXede00oUmAAOfy4V9WTdfcHK_Ne-y2OtNDp4qAauzFaxRA4r2aDiFwJ1wXQGOvhXLQQaGam6u7EbXU8ujBSHZ7-WgzA&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQ8tMDegQIBhAQ",
+      "9": "https://www.google.com/search?q=brussels+sprout&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=mCsKZ6fsHYKFwbkPn8y9iQ0&start=80&sa=N&sstk=AagrsujjVorXede00oUmAAOfy4V9WTdfcHK_Ne-y2OtNDp4qAauzFaxRA4r2aDiFwJ1wXQGOvhXLQQaGam6u7EbXU8ujBSHZ7-WgzA&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQ8tMDegQIBhAS",
+      "10": "https://www.google.com/search?q=brussels+sprout&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=mCsKZ6fsHYKFwbkPn8y9iQ0&start=90&sa=N&sstk=AagrsujjVorXede00oUmAAOfy4V9WTdfcHK_Ne-y2OtNDp4qAauzFaxRA4r2aDiFwJ1wXQGOvhXLQQaGam6u7EbXU8ujBSHZ7-WgzA&ved=2ahUKEwinmN79roiJAxWCQjABHR9mL9EQ8tMDegQIBhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brussels+sprout&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brussels+sprout&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brussels+sprout&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brussels+sprout&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brussels+sprout&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brussels+sprout&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brussels+sprout&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brussels+sprout&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brussels+sprout&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brussels+sprout&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brussels+sprout&start=90"
+    }
+  }
+}

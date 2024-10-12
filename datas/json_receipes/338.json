@@ -1,0 +1,682 @@
+{
+  "search_metadata": {
+    "id": "670a2b70a5e502b1f9bd32e1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9730d5f4224fed4c/670a2b70a5e502b1f9bd32e1.json",
+    "created_at": "2024-10-12 07:55:28 UTC",
+    "processed_at": "2024-10-12 07:55:29 UTC",
+    "google_url": "https://www.google.com/search?q=parsley&oq=parsley&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/9730d5f4224fed4c/670a2b70a5e502b1f9bd32e1.html",
+    "total_time_taken": 0.92
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "parsley",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "parsley",
+    "total_results": 166000000,
+    "time_taken_displayed": 0.25,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=parsley&npsic=0&rflfq=1&rldoc=1&rllag=30270953,-97748422,570&tbm=lcl&sa=X&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQtgN6BAh6EAI",
+    "image": "https://www.google.com/maps/vt/data=VpPBUR-hHS1n01vGE8cyeICQOS8OdxMU9QALH72wakCcjTQo27X4zGxkicus8otVzCLnTzsAkk4AGcp80nY8wT96gSNqEoQBjvahhVNQcbObhIhhLNgr4OZNGZGEylt5Aw-81S-BUgQPlfEIQMaiKQbl6jozkAqvk59gw3--7fJj7mLFw50PYMXVAvO13WsB8dxIG55-KTBGqPjt5ofa8X1kd1r4K-4yagomyfWj0IECUo7QX3gZCIrtG4j0fpOBgESdBt5coN8hR-19dJ6QpTWr_QXz9JaObMbctIfmOCKH3BFP6XVBav-HPJpFRMi6gtVlqS_40qu84UN4rye5YpEpXNLYlMDpISER4SD_LY79vRqJbCPNqakhzBshHvCZplSZtoKA4Bz6HgPSJwP4nPwUbPVexfRnklMIi6FqYg2TOXs4S7oH3UIDLJctMvGXrkSKbmrm_kldQXamDl1faZhKY4PJVB7jVx6gcWQBPUd_V9z3gxGP3kMlC965eCryqjXeBLoUNFw4ilgw8Tl7qYzyZHmvnboTGZWifZyTsNM8dkRFcEtViCjRyLnT40WyW1iTWyIJxYslIGyfFdo7xE5kP1-T0rXGJ5YM8uvaK3DocZ3EsFOEXsKgYyu4qut6yGxsJ65VRL7f75RJtWS1Cm3O80x-eo5OQmxIRn8UK__Beaf2tvDYMKTE2H0vkFwqKlUmVmzDiIpbEeG_f9bspRr2WpBz9Trp1_KqbDu-q7gtsFWpE9CxAmN2n_kpuMikZJ3GB4XEkR2xQ5VTlytTeNftG0Rqmlg_sRggn7ahGt6W5Gw8yVnLU_GNIe7yxg",
+    "gps_coordinates": {
+      "latitude": 30.270953,
+      "longitude": -97.748422
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 5.0,
+        "reviews_original": "(2)",
+        "reviews": 2,
+        "description": "\"He did so with professionalism, clarity, speed, and for a great price!\"",
+        "lsig": "AB86z5WOMPqYIUFDumKxzGQuAVvZ",
+        "thumbnail": "https://ssl.gstatic.com/local/servicebusiness/default_user.png",
+        "links": {
+          "directions": "https://www.google.com/maps/dir//Parsley+Clint,+604+W+12th+St,+Austin,+TX+78701/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8644b574ac1f53a9:0xba8def67c425ac90?sa=X&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQ48ADegQIdhAA&hl=en&gl=us"
+        },
+        "title": "Parsley Clint",
+        "type": "Attorney",
+        "phone": "(512) 479-6407",
+        "address": "604 W 12th St",
+        "place_id": "13442663691722271888",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=13442663691722271888&q=parsley",
+        "gps_coordinates": {
+          "latitude": 30.275799,
+          "longitude": -97.74671
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.4,
+        "reviews_original": "(833)",
+        "reviews": 833,
+        "description": "\"Portion sizes are perfect, coffee was amazing, great brunch menu.\"",
+        "lsig": "AB86z5W4ffPUTMqm02X9vk0RX2nQ",
+        "thumbnail": "https://ssl.gstatic.com/local/servicebusiness/default_user.png",
+        "links": {
+          "website": "https://www.properhotel.com/austin/restaurants-bars/the-peacock/",
+          "directions": "https://www.google.com/maps/dir//The+Peacock+Mediterranean+Grill,+600+W+2nd+St,+Austin,+TX+78701/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8644b582b493c7fb:0x31372a751de43d86?sa=X&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQ48ADegQIdxAA&hl=en&gl=us"
+        },
+        "title": "The Peacock Mediterranean Grill",
+        "type": "Mediterranean restaurant",
+        "phone": "(512) 628-1410",
+        "address": "600 W 2nd St",
+        "hours": "Closed \u22c5 Opens 7 AM",
+        "place_id": "3546349914078592390",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=3546349914078592390&q=parsley",
+        "gps_coordinates": {
+          "latitude": 30.26605,
+          "longitude": -97.75016
+        }
+      },
+      {
+        "position": 3,
+        "lsig": "AB86z5Vj0bs-Q8ClPgSYoZkKV9TA",
+        "links": {
+          "website": "https://parsleystaffing.com/"
+        },
+        "title": "Parsley Staffing",
+        "reviews_original": "No reviews",
+        "type": "Employment agency",
+        "phone": "(512) 796-0070",
+        "hours": "Closed \u22c5 Opens 8 AM Mon",
+        "place_id": "382922457235908744",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=382922457235908744&q=parsley"
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&tbs=lf:1,lf_ui:2&tbm=lcl&q=parsley&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQjGp6BAh7EAE"
+  },
+  "knowledge_graph": {
+    "title": "Parsley",
+    "type": "Herb",
+    "entity_type": "biology, food",
+    "kgmid": "/m/05s28",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/05s28&hl=en-US&q=Parsley",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F05s28&location=Austin%2CTexas%2CUnited+States&q=Parsley",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/52dc8273aed99f92b0b3eb2e618c79461f23b01a6a3f8d7f76c186a315ce6715bc01dce0b0775d8a.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/52dc8273aed99f92b0b3eb2e618c79461f23b01a6a3f8d7f6f6d6e7d7b1f067710f417b5ecc1960f.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/52dc8273aed99f92b0b3eb2e618c79461f23b01a6a3f8d7f16de80c92f1b5706230be697548f4a64.webp"
+      }
+    ],
+    "sources_include": "USDAUSDAParsley1 Calories - 1 tbsp (3.8 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170416/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170930/nutrients"
+      }
+    ],
+    "web_results": [
+      {
+        "snippet": "Parsley, or garden parsley is a species of flowering plant in the family Apiaceae that is native to Greece, Morocco and the former Yugoslavia. It has been introduced and naturalized in Europe and elsewhere in the world with suitable climates, and is widely cultivated as an herb and a vegetable.",
+        "source": "Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Parsley"
+      },
+      {
+        "title": "Scientific name",
+        "snippet": "Petroselinum crispum",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=parsley+scientific+name&stick=H4sIAAAAAAAAAOPgE-LQz9U3MC02stCyz0620k_KzM_JT6_Uzy9KT8zLLM6NT85JLC7OTMtMTizJzM-zKk7OTM0rAfEV8hJzUxUS81IUclOBSvPSF7GKFyQWFeekViqgqQIAhSTAaWcAAAA&sa=X&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQ18AJegQIPxAB"
+      },
+      {
+        "title": "Family",
+        "snippet": "Apiaceae",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=parsley+family&stick=H4sIAAAAAAAAAOPgE-LQz9U3MC02stASLi620i9PTUpLTC4ptkpLzM3MyVzEyleQWFSck1qpABaoBAD8N6TTMgAAAA&sa=X&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQ18AJegQIQBAB"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "0 g",
+        "0%"
+      ],
+      "cholesterol": [
+        "0 mg",
+        "0%"
+      ],
+      "sodium": [
+        "2 mg",
+        "0%"
+      ],
+      "potassium": [
+        "21 mg",
+        "0%"
+      ],
+      "total_carbohydrate": [
+        "0.2 g",
+        "0%"
+      ],
+      "protein": [
+        "0.1 g",
+        "0%"
+      ]
+    }
+  },
+  "related_questions": [
+    {
+      "question": "What does parsley do to your body?",
+      "snippet": "Parsley's vitamin K is important because it helps blood to clot in addition to contributing to bone health. Parsley is rich in vitamin C and other antioxidants, which help reduce the risk of serious health conditions like diabetes, stroke, heart disease and cancer. It's also an excellent source of: Vitamin A.",
+      "title": "Health Benefits of Parsley - WebMD",
+      "date": "Nov 27, 2022",
+      "link": "https://www.webmd.com/diet/health-benefits-parsley#:~:text=Parsley's%20vitamin%20K%20is%20important,Vitamin%20A",
+      "source_logo": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/45e7ea1838d1e75dca7cb4eab7e39de4403dd2565b6e6fc7647be2ee818ee9e0.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFRsQjVlR1JNZVhWMExXWnhhMnQyYWpSbGQyOW1iMncyWlU5TmNYSkRTbVE0TWtWUWFGRkVZVkYyTkdnME1tRlNRa3RvVFdOeWEyWXdhRE14Vld0WmNuQnBSRXBQRWhkalUzTkxXbDlsVDBkalUzUndkRkZRWDJacVNEQlJSUm9pUVVaWWNrVmpiMFpvY2twd2NuaDZZWFp4VjA5eVpsWmpZbGhDTUdaTE5UY3dRUSIsImZjdiI6IjMiLCJlaSI6ImNTc0taX2VPR2NTdHB0UVBfZmpIMFFFIiwicWMiOiJDZ2R3WVhKemJHVjVFQUI5V0JJcFB3IiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgcGFyc2xleSBkbyB0byB5b3VyIGJvZHk/IiwibGsiOiJHaUYzYUdGMElHUnZaWE1nY0dGeWMyeGxlU0JrYnlCMGJ5QjViM1Z5SUdKdlpIayIsImJzIjoiYy1QeTRWSUt6MGdzVVVqSlR5MVdLRWdzS3M1SnJRUnlGRXJ5RlNyelM0c1VrdkpUS3UwbHJsb2JLVXNwbGhOU3lHWEZKZW1Ka00wcUxTNVJTTTdNU2N3cktjcTNsN2dmWlNRbEpaR0pRNTdMZ1VzRzZoS1FnUXFseGFsd2hXbjVSZllTRF9PTlpLV2t5M0VyNGZMaVVrU3lQVDBfUHdVa0RIRmVkbVpLWG1wbHNiM0VXWHNqSlNtRlRBTHFCQmdCIiwiaWQiOiJmY19jU3NLWl9lT0djU3RwdFFQX2ZqSDBRRV8yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFRsQjVlR1JNZVhWMExXWnhhMnQyYWpSbGQyOW1iMncyWlU5TmNYSkRTbVE0TWtWUWFGRkVZVkYyTkdnME1tRlNRa3RvVFdOeWEyWXdhRE14Vld0WmNuQnBSRXBQRWhkalUzTkxXbDlsVDBkalUzUndkRkZRWDJacVNEQlJSUm9pUVVaWWNrVmpiMFpvY2twd2NuaDZZWFp4VjA5eVpsWmpZbGhDTUdaTE5UY3dRUSIsImZjdiI6IjMiLCJlaSI6ImNTc0taX2VPR2NTdHB0UVBfZmpIMFFFIiwicWMiOiJDZ2R3WVhKemJHVjVFQUI5V0JJcFB3IiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgcGFyc2xleSBkbyB0byB5b3VyIGJvZHk%2FIiwibGsiOiJHaUYzYUdGMElHUnZaWE1nY0dGeWMyeGxlU0JrYnlCMGJ5QjViM1Z5SUdKdlpIayIsImJzIjoiYy1QeTRWSUt6MGdzVVVqSlR5MVdLRWdzS3M1SnJRUnlGRXJ5RlNyelM0c1VrdkpUS3UwbHJsb2JLVXNwbGhOU3lHWEZKZW1Ka00wcUxTNVJTTTdNU2N3cktjcTNsN2dmWlNRbEpaR0pRNTdMZ1VzRzZoS1FnUXFseGFsd2hXbjVSZllTRF9PTlpLV2t5M0VyNGZMaVVrU3lQVDBfUHdVa0RIRmVkbVpLWG1wbHNiM0VXWHNqSlNtRlRBTHFCQmdCIiwiaWQiOiJmY19jU3NLWl9lT0djU3RwdFFQX2ZqSDBRRV8yIn0%3D"
+    },
+    {
+      "question": "Is parsley just cilantro?",
+      "snippet": "They come from the same botanical family, called Apiaceae (1, 2 ). People in some regions refer to cilantro as coriander or Chinese parsley. Although cilantro and parsley bear a great resemblance, you can tell them apart by examining their leaves. Cilantro leaves are more rounded, while parsley leaves are pointed.",
+      "title": "Parsley vs. Cilantro: What's the Difference? - Healthline",
+      "date": "Apr 8, 2021",
+      "link": "https://www.healthline.com/nutrition/parsley-vs-cilantro#:~:text=They%20come%20from%20the%20same,while%20parsley%20leaves%20are%20pointed.",
+      "source_logo": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/45e7ea1838d1e75dca7cb4eab7e39de4f58e4c0a5cf45bb59f6d676002796cef.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFRsQjVlR1JNZVhWMExXWnhhMnQyYWpSbGQyOW1iMncyWlU5TmNYSkRTbVE0TWtWUWFGRkVZVkYyTkdnME1tRlNRa3RvVFdOeWEyWXdhRE14Vld0WmNuQnBSRXBQRWhkalUzTkxXbDlsVDBkalUzUndkRkZRWDJacVNEQlJSUm9pUVVaWWNrVmpiMFpvY2twd2NuaDZZWFp4VjA5eVpsWmpZbGhDTUdaTE5UY3dRUSIsImZjdiI6IjMiLCJlaSI6ImNTc0taX2VPR2NTdHB0UVBfZmpIMFFFIiwicWMiOiJDZ2R3WVhKemJHVjVFQUI5V0JJcFB3IiwicXVlc3Rpb24iOiJJcyBwYXJzbGV5IGp1c3QgY2lsYW50cm8/IiwibGsiOiJHaGhwY3lCd1lYSnpiR1Y1SUdwMWMzUWdZMmxzWVc1MGNtOCIsImJzIjoiYy1QeTRWSUt6MGdzVVVqSlR5MVdLRWdzS3M1SnJRUnlGRXJ5RlNyelM0c1VrdkpUS3UwbHJsb2JLVXNwbGhOU3lHWEZKZW1Ka00wcUxTNVJTTTdNU2N3cktjcTNsN2dmWlNRbEpaR0pRNTdMZ1VzRzZoS1FnUXFseGFsd2hXbjVSZllTRF9PTlpLV2t5M0VyNGZMaVVrU3lQVDBfUHdVa0RIRmVkbVpLWG1wbHNiM0VXWHNqSlNtRlRBTHFCQmdCIiwiaWQiOiJmY19jU3NLWl9lT0djU3RwdFFQX2ZqSDBRRV8yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFRsQjVlR1JNZVhWMExXWnhhMnQyYWpSbGQyOW1iMncyWlU5TmNYSkRTbVE0TWtWUWFGRkVZVkYyTkdnME1tRlNRa3RvVFdOeWEyWXdhRE14Vld0WmNuQnBSRXBQRWhkalUzTkxXbDlsVDBkalUzUndkRkZRWDJacVNEQlJSUm9pUVVaWWNrVmpiMFpvY2twd2NuaDZZWFp4VjA5eVpsWmpZbGhDTUdaTE5UY3dRUSIsImZjdiI6IjMiLCJlaSI6ImNTc0taX2VPR2NTdHB0UVBfZmpIMFFFIiwicWMiOiJDZ2R3WVhKemJHVjVFQUI5V0JJcFB3IiwicXVlc3Rpb24iOiJJcyBwYXJzbGV5IGp1c3QgY2lsYW50cm8%2FIiwibGsiOiJHaGhwY3lCd1lYSnpiR1Y1SUdwMWMzUWdZMmxzWVc1MGNtOCIsImJzIjoiYy1QeTRWSUt6MGdzVVVqSlR5MVdLRWdzS3M1SnJRUnlGRXJ5RlNyelM0c1VrdkpUS3UwbHJsb2JLVXNwbGhOU3lHWEZKZW1Ka00wcUxTNVJTTTdNU2N3cktjcTNsN2dmWlNRbEpaR0pRNTdMZ1VzRzZoS1FnUXFseGFsd2hXbjVSZllTRF9PTlpLV2t5M0VyNGZMaVVrU3lQVDBfUHdVa0RIRmVkbVpLWG1wbHNiM0VXWHNqSlNtRlRBTHFCQmdCIiwiaWQiOiJmY19jU3NLWl9lT0djU3RwdFFQX2ZqSDBRRV8yIn0%3D"
+    },
+    {
+      "question": "What do you use parsley for?",
+      "snippet": "Put chopped parsley on everything: Don't chop it too finely \u2014 bigger pieces are prettier and have more flavor. Throw it with abandon on top of grilled vegetables, roasted potatoes, a cold green-bean salad, stews, soups, pasta, hot or cold grain dishes like couscous or quinoa or tabbouleh or \u2026 2.",
+      "title": "9 great things to do with boring old parsley | The Seattle Times",
+      "date": "May 29, 2018",
+      "link": "https://www.seattletimes.com/pacific-nw-magazine/9-great-things-to-do-with-boring-old-parsley/#:~:text=Put%20chopped%20parsley%20on%20everything,2.",
+      "source_logo": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/45e7ea1838d1e75dca7cb4eab7e39de4ef7e15aab4f33f2bb7784e6cffdea508.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFRsQjVlR1JNZVhWMExXWnhhMnQyYWpSbGQyOW1iMncyWlU5TmNYSkRTbVE0TWtWUWFGRkVZVkYyTkdnME1tRlNRa3RvVFdOeWEyWXdhRE14Vld0WmNuQnBSRXBQRWhkalUzTkxXbDlsVDBkalUzUndkRkZRWDJacVNEQlJSUm9pUVVaWWNrVmpiMFpvY2twd2NuaDZZWFp4VjA5eVpsWmpZbGhDTUdaTE5UY3dRUSIsImZjdiI6IjMiLCJlaSI6ImNTc0taX2VPR2NTdHB0UVBfZmpIMFFFIiwicWMiOiJDZ2R3WVhKemJHVjVFQUI5V0JJcFB3IiwicXVlc3Rpb24iOiJXaGF0IGRvIHlvdSB1c2UgcGFyc2xleSBmb3I/IiwibGsiOiJHaHQzYUdGMElHUnZJSGx2ZFNCMWMyVWdjR0Z5YzJ4bGVTQm1iM0kiLCJicyI6ImMtUHk0VklLejBnc1VVakpUeTFXS0Vnc0tzNUpyUVJ5RkVyeUZTcnpTNHNVa3ZKVEt1MGxybG9iS1VzcGxoTlN5R1hGSmVtSmtNMHFMUzVSU003TVNjd3JLY3EzbDdnZlpTUWxKWkdKUTU3TGdVc0c2aEtRZ1FxbHhhbHdoV241UmZZU0RfT05aS1dreTNFcjRmTGlVa1N5UFQwX1B3VWtESEZlZG1aS1htcGxzYjNFV1hzakpTbUZUQUxxQkJnQiIsImlkIjoiZmNfY1NzS1pfZU9HY1N0cHRRUF9makgwUUVfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFRsQjVlR1JNZVhWMExXWnhhMnQyYWpSbGQyOW1iMncyWlU5TmNYSkRTbVE0TWtWUWFGRkVZVkYyTkdnME1tRlNRa3RvVFdOeWEyWXdhRE14Vld0WmNuQnBSRXBQRWhkalUzTkxXbDlsVDBkalUzUndkRkZRWDJacVNEQlJSUm9pUVVaWWNrVmpiMFpvY2twd2NuaDZZWFp4VjA5eVpsWmpZbGhDTUdaTE5UY3dRUSIsImZjdiI6IjMiLCJlaSI6ImNTc0taX2VPR2NTdHB0UVBfZmpIMFFFIiwicWMiOiJDZ2R3WVhKemJHVjVFQUI5V0JJcFB3IiwicXVlc3Rpb24iOiJXaGF0IGRvIHlvdSB1c2UgcGFyc2xleSBmb3I%2FIiwibGsiOiJHaHQzYUdGMElHUnZJSGx2ZFNCMWMyVWdjR0Z5YzJ4bGVTQm1iM0kiLCJicyI6ImMtUHk0VklLejBnc1VVakpUeTFXS0Vnc0tzNUpyUVJ5RkVyeUZTcnpTNHNVa3ZKVEt1MGxybG9iS1VzcGxoTlN5R1hGSmVtSmtNMHFMUzVSU003TVNjd3JLY3EzbDdnZlpTUWxKWkdKUTU3TGdVc0c2aEtRZ1FxbHhhbHdoV241UmZZU0RfT05aS1dreTNFcjRmTGlVa1N5UFQwX1B3VWtESEZlZG1aS1htcGxzYjNFV1hzakpTbUZUQUxxQkJnQiIsImlkIjoiZmNfY1NzS1pfZU9HY1N0cHRRUF9makgwUUVfMiJ9"
+    },
+    {
+      "question": "Is parsley good for your kidneys?",
+      "snippet": "Parsley helps prevent the formation of stones in the kidneys by making urine more acidic and acting as a diuretic, which increases urine production. Drinking parsley tea can help the body flush out excess toxins, fats, salts, and water and thus reduce strain on the kidneys.",
+      "title": "11 Surprising Benefits of Parsley Tea and How to Make It - MedicineNet",
+      "link": "https://www.medicinenet.com/surprising_benefits_of_parsley_tea/article.htm#:~:text=Parsley%20helps%20prevent%20the%20formation,reduce%20strain%20on%20the%20kidneys.",
+      "source_logo": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/45e7ea1838d1e75dca7cb4eab7e39de412d0b8a36147153b23f69c36fa165eef.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFRsQjVlR1JNZVhWMExXWnhhMnQyYWpSbGQyOW1iMncyWlU5TmNYSkRTbVE0TWtWUWFGRkVZVkYyTkdnME1tRlNRa3RvVFdOeWEyWXdhRE14Vld0WmNuQnBSRXBQRWhkalUzTkxXbDlsVDBkalUzUndkRkZRWDJacVNEQlJSUm9pUVVaWWNrVmpiMFpvY2twd2NuaDZZWFp4VjA5eVpsWmpZbGhDTUdaTE5UY3dRUSIsImZjdiI6IjMiLCJlaSI6ImNTc0taX2VPR2NTdHB0UVBfZmpIMFFFIiwicWMiOiJDZ2R3WVhKemJHVjVFQUI5V0JJcFB3IiwicXVlc3Rpb24iOiJJcyBwYXJzbGV5IGdvb2QgZm9yIHlvdXIga2lkbmV5cz8iLCJsayI6IkdpQnBjeUJ3WVhKemJHVjVJR2R2YjJRZ1ptOXlJSGx2ZFhJZ2EybGtibVY1Y3ciLCJicyI6ImMtUHk0VklLejBnc1VVakpUeTFXS0Vnc0tzNUpyUVJ5RkVyeUZTcnpTNHNVa3ZKVEt1MGxybG9iS1VzcGxoTlN5R1hGSmVtSmtNMHFMUzVSU003TVNjd3JLY3EzbDdnZlpTUWxKWkdKUTU3TGdVc0c2aEtRZ1FxbHhhbHdoV241UmZZU0RfT05aS1dreTNFcjRmTGlVa1N5UFQwX1B3VWtESEZlZG1aS1htcGxzYjNFV1hzakpTbUZUQUxxQkJnQiIsImlkIjoiZmNfY1NzS1pfZU9HY1N0cHRRUF9makgwUUVfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFRsQjVlR1JNZVhWMExXWnhhMnQyYWpSbGQyOW1iMncyWlU5TmNYSkRTbVE0TWtWUWFGRkVZVkYyTkdnME1tRlNRa3RvVFdOeWEyWXdhRE14Vld0WmNuQnBSRXBQRWhkalUzTkxXbDlsVDBkalUzUndkRkZRWDJacVNEQlJSUm9pUVVaWWNrVmpiMFpvY2twd2NuaDZZWFp4VjA5eVpsWmpZbGhDTUdaTE5UY3dRUSIsImZjdiI6IjMiLCJlaSI6ImNTc0taX2VPR2NTdHB0UVBfZmpIMFFFIiwicWMiOiJDZ2R3WVhKemJHVjVFQUI5V0JJcFB3IiwicXVlc3Rpb24iOiJJcyBwYXJzbGV5IGdvb2QgZm9yIHlvdXIga2lkbmV5cz8iLCJsayI6IkdpQnBjeUJ3WVhKemJHVjVJR2R2YjJRZ1ptOXlJSGx2ZFhJZ2EybGtibVY1Y3ciLCJicyI6ImMtUHk0VklLejBnc1VVakpUeTFXS0Vnc0tzNUpyUVJ5RkVyeUZTcnpTNHNVa3ZKVEt1MGxybG9iS1VzcGxoTlN5R1hGSmVtSmtNMHFMUzVSU003TVNjd3JLY3EzbDdnZlpTUWxKWkdKUTU3TGdVc0c2aEtRZ1FxbHhhbHdoV241UmZZU0RfT05aS1dreTNFcjRmTGlVa1N5UFQwX1B3VWtESEZlZG1aS1htcGxzYjNFV1hzakpTbUZUQUxxQkJnQiIsImlkIjoiZmNfY1NzS1pfZU9HY1N0cHRRUF9makgwUUVfMiJ9"
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "Parsley, Petroselinum crispum - Wisconsin Horticulture",
+    "link": "https://hort.extension.wisc.edu/articles/parsley-petroselinum-crispum/#:~:text=Parsley%20is%20an%20herb%20grown,C%2C%20vitamin%20A%20and%20iron.",
+    "displayed_link": "https://hort.extension.wisc.edu",
+    "hover_info": [
+      {
+        "text": "Petroselinum",
+        "info": "Petroselinum is a genus of two parsley species of flowering plants in the family Apiaceae, native to western and southern Europe and northern Africa.",
+        "title": "Petroselinum - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Petroselinum",
+        "displayed_link": "https://en.wikipedia.org"
+      },
+      {
+        "text": "carrot family",
+        "info": "Apiaceae (/e\u026api\u02d0\u02c8e\u026asi\u02cca\u026a, -si\u02d0\u02cci\u02d0/) or Umbelliferae is a family of mostly aromatic flowering plants named after the type genus Apium, and commonly known as the celery, carrot or parsley family, or simply as umbellifers.",
+        "title": "Apiaceae - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Apiaceae",
+        "displayed_link": "https://en.wikipedia.org"
+      }
+    ],
+    "snippet": "Parsley is an herb grown for the pungent flavored leaves. Parsley, Petroselinum crispum, is a hardy biennial in the carrot family (Umbelliferae/Apiaceae) generally grown for its flavorful, dark green leaves that are a rich source of vitamin C, vitamin A and iron.",
+    "snippet_highlighted_words": [
+      "an herb grown for the pungent flavored leaves"
+    ],
+    "favicon": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/4b3943dbd62137d960cd07e0900d48b3358e94ed014cd0be.webp",
+    "source": "Wisconsin Horticulture \u2013 Division of Extension",
+    "images": [
+      "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/4b3943dbd62137d987a6a7f628517a05054ef43b4b982aeb.jpeg",
+      "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/4b3943dbd62137d987a6a7f628517a0599f1381b049dd750.jpeg",
+      "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/4b3943dbd62137d987a6a7f628517a05140e8f06301132fa.jpeg"
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Parsley",
+      "link": "https://en.wikipedia.org/wiki/Parsley",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Parsley&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQFnoECBIQAQ",
+      "displayed_link": "https://en.wikipedia.org",
+      "thumbnail": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/078eea2ce252f97bbf5bd237af3b77c46fc90f161c7274b365af1e7ec4e27ea9.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/078eea2ce252f97bbf5bd237af3b77c48d1021ece5f2532a8e6e893adbe8c5c3.webp",
+      "snippet": "Parsley, or garden parsley (Petroselinum crispum) is a species of flowering plant in the family Apiaceae that is native to Greece, Morocco and the former ...",
+      "snippet_highlighted_words": [
+        "Parsley",
+        "parsley"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "PARSLEY - Uses, Side Effects, and More",
+      "link": "https://www.webmd.com/vitamins/ai/ingredientmono-792/parsley",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.webmd.com/vitamins/ai/ingredientmono-792/parsley&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQFnoECE0QAQ",
+      "displayed_link": "https://www.webmd.com",
+      "favicon": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/078eea2ce252f97bbf5bd237af3b77c4d42485675d51ce2d6d06c1cfd8ec7998.webp",
+      "snippet": "Parsley might help stimulate the appetite, improve digestion, increase urine production, reduce spasms, and increase menstrual flow.",
+      "snippet_highlighted_words": [
+        "Parsley"
+      ],
+      "source": "WebMD"
+    },
+    {
+      "position": 3,
+      "title": "Everything You Need To Know About Cooking With Parsley",
+      "link": "https://www.allrecipes.com/article/what-is-parsley/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.allrecipes.com/article/what-is-parsley/&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQFnoECFIQAQ",
+      "displayed_link": "https://www.allrecipes.com",
+      "thumbnail": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/078eea2ce252f97bbf5bd237af3b77c479176b3d6ac3fe50d048f362404f5cad.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/078eea2ce252f97bbf5bd237af3b77c49349b77b1ff83a980212f43b614434ab.webp",
+      "date": "Dec 28, 2021",
+      "snippet": "Parsley (Petroselinum crispum) is a flowering plant in the family Apiaceae. It is native to the Mediterranean region, including Northern Africa.",
+      "snippet_highlighted_words": [
+        "Parsley"
+      ],
+      "source": "Allrecipes"
+    },
+    {
+      "position": 4,
+      "title": "Parsley: Health Benefits, facts, and research",
+      "link": "https://www.medicalnewstoday.com/articles/284490",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.medicalnewstoday.com/articles/284490&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQFnoECFAQAQ",
+      "displayed_link": "https://www.medicalnewstoday.com",
+      "thumbnail": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/078eea2ce252f97bbf5bd237af3b77c489a18c5830cfd8a567a9f5e8d0bdc89a.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/078eea2ce252f97bbf5bd237af3b77c46abc819e88c1d318944047c5af17e4ea.webp",
+      "snippet": "Parsley is a popular and flavourful cooking herb. Aside from its culinary uses, parsley is also highly nutritious and may also possess many health benefits.",
+      "snippet_highlighted_words": [
+        "Parsley",
+        "parsley"
+      ],
+      "source": "MedicalNewsToday"
+    },
+    {
+      "position": 5,
+      "title": "How to Grow Parsley Plants: The Complete Guide",
+      "link": "https://www.almanac.com/plant/parsley",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.almanac.com/plant/parsley&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQFnoECFEQAQ",
+      "displayed_link": "https://www.almanac.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv71zXHA2BD7GfMBOe_nYQ5hQF14Cv6yriLIOKj8EZRRmUSt1ucc_X&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/078eea2ce252f97bbf5bd237af3b77c4ac796e64cb00359900c5878c1f90fceb.webp",
+      "date": "Mar 7, 2024",
+      "snippet": "For the best germination, soil should be around 70\u00baF (21\u00b0C), though parsley seeds will germinate in temperatures as low as 50\u00baF (10\u00baC).",
+      "snippet_highlighted_words": [
+        "parsley"
+      ],
+      "source": "The Old Farmer's Almanac"
+    },
+    {
+      "position": 6,
+      "title": "Parsley Health: Root-Cause Resolution Medicine | ...",
+      "link": "https://www.parsleyhealth.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.parsleyhealth.com/&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQFnoECE4QAQ",
+      "displayed_link": "https://www.parsleyhealth.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrC4gvVVuaNSBLOr6xVojnVUyg5Up7Vig8Lif2WDm87Zlwh9UdRdJm&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/078eea2ce252f97bbf5bd237af3b77c44b7acd2c1b85ac819647e6e76973d7f9.webp",
+      "snippet": "Meet Parsley Health, a virtual clinic built by experts trained to help you find long-term solutions, not short-term band-aids.",
+      "snippet_highlighted_words": [
+        "Parsley"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Membership",
+            "link": "https://www.parsleyhealth.com/membership/"
+          },
+          {
+            "title": "Our Providers",
+            "link": "https://www.parsleyhealth.com/providers/"
+          },
+          {
+            "title": "Contact us for a free consultation",
+            "link": "https://www.parsleyhealth.com/contact/free-consultation/"
+          },
+          {
+            "title": "Supplements",
+            "link": "https://store.parsleyhealth.com/"
+          }
+        ]
+      },
+      "source": "Parsley Health"
+    },
+    {
+      "position": 7,
+      "title": "Parsley | Description, Uses, & Facts",
+      "link": "https://www.britannica.com/plant/parsley",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.britannica.com/plant/parsley&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQFnoECFQQAQ",
+      "displayed_link": "https://www.britannica.com \u203a ... \u203a Food",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXQdSgV9AMf_bRJBcN2hdCD0ROPSJgtlw6ZvNC1w4pdO1_djBZVZCp&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/078eea2ce252f97bbf5bd237af3b77c49fe1fed1d7932c4d2904af9710173a22.webp",
+      "date": "Aug 22, 2024",
+      "snippet": "Parsley, hardy biennial herb of the carrot family (also called parsley family; Apiaceae), native to Mediterranean lands.",
+      "snippet_highlighted_words": [
+        "Parsley",
+        "parsley"
+      ],
+      "source": "Britannica"
+    },
+    {
+      "position": 8,
+      "title": "Parsley - USA Regenerative Agricultural Alliance, INC.",
+      "link": "https://usaregenalliance.org/blog/parsley",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://usaregenalliance.org/blog/parsley&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQFnoECFMQAQ",
+      "displayed_link": "https://usaregenalliance.org",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRY7dvYPBFQ6CaVF4fFlcKnCaziMlBgb_fM-dXlh9ROC4GM1w7ojdC&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/078eea2ce252f97bbf5bd237af3b77c4c2dc428045add8611d68eed044bb2cfd.webp",
+      "date": "Mar 11, 2024",
+      "snippet": "Parsley is a good source of vitamin C, which is a potent antioxidant and immune booster. Vitamin C helps the body fight infections, heal wounds, ...",
+      "snippet_highlighted_words": [
+        "Parsley"
+      ],
+      "source": "USA Regenerative Agricultural Alliance, INC."
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&tbs=lf:1,lf_ui:2&tbm=lcl&q=parsley&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQjGp6BAh7EAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=parsley&tbs=lf%3A1%2Clf_ui%3A2&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Parsley in Hindi",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Parsley+in+Hindi&sa=X&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQ1QJ6BAhtEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Parsley+in+Hindi"
+    },
+    {
+      "block_position": 1,
+      "query": "Parsley in Urdu",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Parsley+in+Urdu&sa=X&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQ1QJ6BAhsEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Parsley+in+Urdu"
+    },
+    {
+      "block_position": 1,
+      "query": "Parsley vs coriander",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Parsley+vs+coriander&sa=X&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQ1QJ6BAhxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Parsley+vs+coriander"
+    },
+    {
+      "block_position": 1,
+      "query": "Parsley en espa\u00f1ol",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Parsley+en+espa%C3%B1ol&sa=X&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQ1QJ6BAhzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Parsley+en+espa%C3%B1ol"
+    },
+    {
+      "block_position": 1,
+      "query": "Parsley leaves",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Parsley+leaves&sa=X&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQ1QJ6BAhwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Parsley+leaves"
+    },
+    {
+      "block_position": 1,
+      "query": "Parsley uses",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Parsley+uses&sa=X&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQ1QJ6BAh0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Parsley+uses"
+    },
+    {
+      "block_position": 1,
+      "query": "Parsley in Malayalam",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Parsley+in+Malayalam&sa=X&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQ1QJ6BAh1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Parsley+in+Malayalam"
+    },
+    {
+      "block_position": 1,
+      "query": "Parsley in Tamil",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Parsley+in+Tamil&sa=X&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQ1QJ6BAhyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Parsley+in+Tamil"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Healthy or not",
+        "subtitle": "Is Parsley Good For You?",
+        "title": "8 Impressive Health Benefits and Uses of Parsley - Healthline",
+        "link": "https://www.healthline.com/nutrition/parsley-benefits#:~:text=Parsley%20is%20a%20versatile%20herb,diseases%2C%20and%20provide%20antioxidant%20benefits.",
+        "displayed_link": "https://www.healthline.com",
+        "date": "Apr 5, 2019",
+        "snippet": "Parsley is a versatile herb that provides a concentrated source of nutrients. It's particularly rich in vitamins A, C, and K. The vitamins and beneficial plant compounds in parsley may improve bone health, protect against chronic diseases, and provide antioxidant benefits.",
+        "snippet_highlighted_words": [
+          "provides a concentrated source of nutrients"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a0154eac719b5398b620ba1ecb31121ceabe039d8d8877d9db3.png",
+        "source": "healthline.com",
+        "images": [
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a0154eac719b5398b628b9dcbcf691547c7207d106e6f314fb6.jpeg",
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a0154eac719b5398b628b9dcbcf691547c78d9f3f75994f8c32.jpeg",
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a0154eac719b5398b628b9dcbcf691547c795a421d85664e770.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=is+parsley+good+for+you&sa=X&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQrooIegQIExAF",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=is+parsley+good+for+you"
+      },
+      {
+        "text": "Common uses",
+        "subtitle": "What Is Parsley Commonly Used For?",
+        "title": "PARSLEY - Uses, Side Effects, and More - WebMD",
+        "link": "https://www.webmd.com/vitamins/ai/ingredientmono-792/parsley#:~:text=In%20foods%20and%20beverages%2C%20parsley,are%20used%20to%20make%20medicine.",
+        "displayed_link": "https://www.webmd.com",
+        "snippet": "In foods and beverages, parsley is widely used as a garnish, condiment, food, and flavoring. In manufacturing, parsley seed oil is used as a fragrance in soaps, cosmetics, and perfumes. The leaf, seed, and root are used to make medicine.",
+        "snippet_highlighted_words": [
+          "a garnish, condiment, food, and flavoring"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a01b850d145d9c83ad274a9bc6568f86d6c4079ee648fb2324e.png",
+        "source": "webmd.com",
+        "images": [
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a01b850d145d9c83ad24dcf3a93be06da61184d3ed5838a54a5.jpeg",
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a01b850d145d9c83ad24dcf3a93be06da61745c9e289b44dfbe.jpeg",
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a01b850d145d9c83ad24dcf3a93be06da61573aec14e226b050.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=what+is+parsley+commonly+used+for&sa=X&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQrooIegQIExAK",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+is+parsley+commonly+used+for"
+      },
+      {
+        "text": "Good",
+        "subtitle": "What Food Is Parsley Good For",
+        "title": "Health Benefits of Parsley - WebMD",
+        "link": "https://www.webmd.com/diet/health-benefits-parsley#:~:text=It%20is%20easy%20to%20add,French%20soups%2C%20stocks%2C%20and%20sauces",
+        "displayed_link": "https://www.webmd.com",
+        "date": "Nov 27, 2022",
+        "snippet": "It is easy to add parsley to your diet. It can be added to soups or salads or sprinkled over dishes as a finishing touch. Parsley also makes up one of the key ingredients in several herbal seasonings, sauces, and dishes such as: A bouquet garni, a bundle of herbs commonly added to French soups, stocks, and sauces.",
+        "snippet_highlighted_words": [
+          "soups or salads or sprinkled over dishes as a finishing touch"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a01685fbfae8dbd312ddafcdc8911a28c86ab9e2a7bf9f65dda.png",
+        "source": "webmd.com",
+        "images": [
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a01685fbfae8dbd312d4aef5ac60723cc0377078c5c48b11211.jpeg",
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a01685fbfae8dbd312d4aef5ac60723cc03617d4eab21c36152.jpeg",
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a01685fbfae8dbd312d4aef5ac60723cc03ffe449878e8feff9.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=what+food+is+parsley+good+for&sa=X&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQrooIegQIExAP",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+food+is+parsley+good+for"
+      },
+      {
+        "text": "How to eat",
+        "subtitle": "How To Eat Parsley",
+        "title": "31 Delicious Ways to Use Up a Bunch of Parsley - The Kitchn",
+        "link": "https://www.thekitchn.com/parsley-recipes-246217#:~:text=It's%20easy%20to%20think%20of,bowl%20or%20marinated%20bean%20salad.",
+        "displayed_link": "https://www.thekitchn.com",
+        "date": "May 31, 2024",
+        "snippet": "It's easy to think of fresh parsley as a just a garnish to sprinkle over dinner, but it's such a versatile herb! Chop it up and add it to your favorite salads; blitz it into a sauce, like fresh chimichurri or mojo verde (Spanish green sauce); or stir it into a hearty grain bowl or marinated bean salad.",
+        "snippet_highlighted_words": [
+          "Chop it up and add it to your favorite salads; blitz it into a sauce, like fresh chimichurri or mojo verde (Spanish green sauce); or stir it into a hearty grain bowl or marinated bean salad"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a017d221333d12d8d08fa1dec978d9f750cc05bb571a758dfac.png",
+        "source": "thekitchn.com",
+        "images": [
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a017d221333d12d8d08fbd8413c1e89fd22275edeec071b594e.jpeg",
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a017d221333d12d8d08fbd8413c1e89fd2299dcd3366b37523d.jpeg",
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a017d221333d12d8d08fbd8413c1e89fd2244d0ff0299f5fa37.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=how+to+eat+parsley&sa=X&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQrooIegQIExAU",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+to+eat+parsley"
+      },
+      {
+        "text": "Taste",
+        "subtitle": "What Does Parsley Taste Like",
+        "title": "Minari Plant: 6 Ways to Use Minari in Your Cooking - 2024 - MasterClass",
+        "link": "https://www.masterclass.com/articles/minari-plant-guide#:~:text=Sign%20Up-,What%20Does%20Minari%20Taste%20Like%3F,its%20similar%20texture%20and%20flavor.",
+        "displayed_link": "https://www.masterclass.com",
+        "date": "Dec 21, 2021",
+        "snippet": "What Does Minari Taste Like? Minari tastes peppery, fresh, and grassy, like a blend of watercress and celery. (One of its nicknames is \u201cwater celery.\u201d) The herb is often compared to parsley because of its similar texture and flavor.",
+        "snippet_highlighted_words": [
+          "peppery, fresh, and grassy, like a blend of watercress and celery"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a013d6fdfd867c0e59cdb9c1f527513e6151887f0344f9661f1.png",
+        "source": "masterclass.com",
+        "images": [
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a013d6fdfd867c0e59cb3606a40b95273520553508a3b639a61.jpeg",
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a013d6fdfd867c0e59cb3606a40b9527352c00a7480521fb58b.jpeg",
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a013d6fdfd867c0e59cb3606a40b952735277941efa1d1ec0fa.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=what+does+parsley+taste+like&sa=X&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQrooIegQIExAd",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+does+parsley+taste+like"
+      },
+      {
+        "text": "Daily intake",
+        "subtitle": "How Much Parsley Can I Eat A Day",
+        "title": "Can You Eat Too Much Parsley? - Livestrong.com",
+        "link": "https://www.livestrong.com/article/464565-can-you-eat-too-much-parsley/#:~:text=If%20you%20ate%20nothing%20but,133%20mg%20of%20the%20vitamin.",
+        "displayed_link": "https://www.livestrong.com",
+        "snippet": "If you ate nothing but parsley for vitamin C, you'd have to eat between 3 and 15 cups a day to overdose on the vitamin. But a daily intake of large amounts of parsley, combined with other C-rich foods and vitamin C supplements, could lead to toxicity. A 1 cup serving of fresh parsley contains 133 mg of the vitamin.",
+        "snippet_highlighted_words": [
+          "between 3 and 15 cups a day"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a01f15adf093e1cf6bd9754322f9edbf1102e66e32ea167866d.png",
+        "source": "livestrong.com",
+        "images": [
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a01f15adf093e1cf6bdb3c1404f8043143bbf9f7d408ddfaa9d.jpeg",
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a01f15adf093e1cf6bdb3c1404f8043143bd905bee29f752cac.jpeg",
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a01f15adf093e1cf6bdb3c1404f8043143b8b7f580d4808e79e.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=how+much+parsley+can+i+eat+a+day&sa=X&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQrooIegQIExAi",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+much+parsley+can+i+eat+a+day"
+      },
+      {
+        "text": "How to use",
+        "subtitle": "How To Use Parsley",
+        "title": "9 great things to do with boring old parsley | The Seattle Times",
+        "link": "https://www.seattletimes.com/pacific-nw-magazine/9-great-things-to-do-with-boring-old-parsley/#:~:text=Put%20chopped%20parsley%20on%20everything,2.",
+        "displayed_link": "https://www.seattletimes.com",
+        "date": "May 29, 2018",
+        "snippet": "Put chopped parsley on everything: Don't chop it too finely \u2014 bigger pieces are prettier and have more flavor. Throw it with abandon on top of grilled vegetables, roasted potatoes, a cold green-bean salad, stews, soups, pasta, hot or cold grain dishes like couscous or quinoa or tabbouleh or \u2026 2.",
+        "snippet_highlighted_words": [
+          "Put chopped parsley on everything"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a01b7c8ea3fd52486843f3a43d16b96b2695ae01c60fc421014.png",
+        "source": "seattletimes.com",
+        "images": [
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a01b7c8ea3fd5248684a452d9272788bfa57319ca2a849dca30.jpeg",
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a01b7c8ea3fd5248684a452d9272788bfa5dc84792b96708e80.jpeg",
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a01b7c8ea3fd5248684a452d9272788bfa54e073ececc0c1385.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=how+to+use+parsley&sa=X&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQrooIegQIExAn",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+to+use+parsley"
+      },
+      {
+        "text": "Substitutes",
+        "subtitle": "Parsley Substitute",
+        "title": "10 Great Substitutes for Parsley - Healthline",
+        "link": "https://www.healthline.com/nutrition/parsley-substitute",
+        "displayed_link": "https://www.healthline.com",
+        "date": "Jan 10, 2020",
+        "snippet": "Here are 10 great substitutes for fresh or dried parsley.",
+        "snippet_highlighted_words": [
+          "Here are 10 great substitutes for fresh or dried parsley."
+        ],
+        "list": [
+          "Chervil. Chervil is closely related to parsley, but it has a milder flavor \u2014 making it well suited for substituting fresh or dried parsley. ... ",
+          "Tarragon. Tarragon is a staple herb in French cuisine. ... ",
+          "Oregano. ... ",
+          "Chives. ... ",
+          "Arugula. ... ",
+          "Endive. ... ",
+          "Cilantro. ... ",
+          "Basil."
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a01a96843a2972045d27a09df996e43f190624fde631fddf2aa.png",
+        "source": "healthline.com",
+        "images": [
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a01a96843a2972045d279d723eb7214cf84cd70d85d8fbbdcf9.jpeg",
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a01a96843a2972045d279d723eb7214cf844dbcec2c4284aa86.jpeg",
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a01a96843a2972045d279d723eb7214cf84da186236b705fa21.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=parsley+substitute&sa=X&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQrooIegQIExAs",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=parsley+substitute"
+      },
+      {
+        "text": "Pronunciation",
+        "subtitle": "How To Pronounce Parsley",
+        "images": [
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a010576d6fd7647cfd8847823a12968a05e972be23315785f37.jpeg",
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a010576d6fd7647cfd8847823a12968a05e70924cba10b2b1c3.jpeg",
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a010576d6fd7647cfd8847823a12968a05efc8d8578658ac939.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=How+to+pronounce+Parsley&si=ACC90nyGxZ2AUYYi9WqREQi-3G3NOvrH0_MxYuAiQ-wqVKPquKBJf71dPXVkhUBpH1qIZM-FR8X8ye769F9erb1Eth7rXUUnHeqqC3_vgx8Cj1frauM0pVuR0RBNYKk2cZjcFR4x1uiqYZJNu2-hjbQx99riw0-f4g%3D%3D&sa=X&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQrooIegQIExAx",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=How+to+pronounce+Parsley&si=ACC90nyGxZ2AUYYi9WqREQi-3G3NOvrH0_MxYuAiQ-wqVKPquKBJf71dPXVkhUBpH1qIZM-FR8X8ye769F9erb1Eth7rXUUnHeqqC3_vgx8Cj1frauM0pVuR0RBNYKk2cZjcFR4x1uiqYZJNu2-hjbQx99riw0-f4g%3D%3D"
+      },
+      {
+        "text": "Care",
+        "subtitle": "Parsley Plant Care",
+        "title": "How To Grow And Care For Curly Parsley - Bunnings Australia",
+        "link": "https://www.bunnings.com.au/diy-advice/garden/planting-and-growing/how-to-grow-and-care-for-curly-parsley#:~:text=Easy%20to%20grow%2C%20parsley%20prefers,to%20prematurely%20run%20to%20seed.",
+        "displayed_link": "https://www.bunnings.com.au",
+        "snippet": "Easy to grow, parsley prefers full sun and regular water. Protect from snails and slugs and apply a seaweed solution regularly during establishment to maintain optimal plant health. Do not let the soil dry out, as this can cause parsley to prematurely run to seed.",
+        "snippet_highlighted_words": [
+          "prefers full sun and regular water"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a011c86cb9ceb804d275cdfe9cf8250e6449d25efa2b8e25b4a.png",
+        "source": "bunnings.com.au",
+        "images": [
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a011c86cb9ceb804d27d46391c115095238602ba3f9c436f02f.jpeg",
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a011c86cb9ceb804d27d46391c115095238c909230be50df0c3.jpeg",
+          "https://serpapi.com/searches/670a2b70a5e502b1f9bd32e1/images/32aa17ccf718478b8845167278c48a011c86cb9ceb804d27d46391c115095238d5729d556e0cd654.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=parsley+plant+care&sa=X&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQrooIegQIExA5",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=parsley+plant+care"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=parsley&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=cSsKZ_eOGcStptQP_fjH0QE&start=10&sa=N&sstk=AagrsugE_QZUyU0qecBxYgYocCBTLt7oGDK_Y0Z2w7BzNMbhg2X8hKdwD35AwJqBReBYT_MOCNU7TWrwS4ArtrrsC-xA5YqEPUSR2g&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQ8NMDegQIFRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=parsley&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=cSsKZ_eOGcStptQP_fjH0QE&start=10&sa=N&sstk=AagrsugE_QZUyU0qecBxYgYocCBTLt7oGDK_Y0Z2w7BzNMbhg2X8hKdwD35AwJqBReBYT_MOCNU7TWrwS4ArtrrsC-xA5YqEPUSR2g&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQ8tMDegQIFRAE",
+      "3": "https://www.google.com/search?q=parsley&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=cSsKZ_eOGcStptQP_fjH0QE&start=20&sa=N&sstk=AagrsugE_QZUyU0qecBxYgYocCBTLt7oGDK_Y0Z2w7BzNMbhg2X8hKdwD35AwJqBReBYT_MOCNU7TWrwS4ArtrrsC-xA5YqEPUSR2g&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQ8tMDegQIFRAG",
+      "4": "https://www.google.com/search?q=parsley&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=cSsKZ_eOGcStptQP_fjH0QE&start=30&sa=N&sstk=AagrsugE_QZUyU0qecBxYgYocCBTLt7oGDK_Y0Z2w7BzNMbhg2X8hKdwD35AwJqBReBYT_MOCNU7TWrwS4ArtrrsC-xA5YqEPUSR2g&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQ8tMDegQIFRAI",
+      "5": "https://www.google.com/search?q=parsley&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=cSsKZ_eOGcStptQP_fjH0QE&start=40&sa=N&sstk=AagrsugE_QZUyU0qecBxYgYocCBTLt7oGDK_Y0Z2w7BzNMbhg2X8hKdwD35AwJqBReBYT_MOCNU7TWrwS4ArtrrsC-xA5YqEPUSR2g&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQ8tMDegQIFRAK",
+      "6": "https://www.google.com/search?q=parsley&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=cSsKZ_eOGcStptQP_fjH0QE&start=50&sa=N&sstk=AagrsugE_QZUyU0qecBxYgYocCBTLt7oGDK_Y0Z2w7BzNMbhg2X8hKdwD35AwJqBReBYT_MOCNU7TWrwS4ArtrrsC-xA5YqEPUSR2g&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQ8tMDegQIFRAM",
+      "7": "https://www.google.com/search?q=parsley&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=cSsKZ_eOGcStptQP_fjH0QE&start=60&sa=N&sstk=AagrsugE_QZUyU0qecBxYgYocCBTLt7oGDK_Y0Z2w7BzNMbhg2X8hKdwD35AwJqBReBYT_MOCNU7TWrwS4ArtrrsC-xA5YqEPUSR2g&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQ8tMDegQIFRAO",
+      "8": "https://www.google.com/search?q=parsley&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=cSsKZ_eOGcStptQP_fjH0QE&start=70&sa=N&sstk=AagrsugE_QZUyU0qecBxYgYocCBTLt7oGDK_Y0Z2w7BzNMbhg2X8hKdwD35AwJqBReBYT_MOCNU7TWrwS4ArtrrsC-xA5YqEPUSR2g&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQ8tMDegQIFRAQ",
+      "9": "https://www.google.com/search?q=parsley&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=cSsKZ_eOGcStptQP_fjH0QE&start=80&sa=N&sstk=AagrsugE_QZUyU0qecBxYgYocCBTLt7oGDK_Y0Z2w7BzNMbhg2X8hKdwD35AwJqBReBYT_MOCNU7TWrwS4ArtrrsC-xA5YqEPUSR2g&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQ8tMDegQIFRAS",
+      "10": "https://www.google.com/search?q=parsley&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=cSsKZ_eOGcStptQP_fjH0QE&start=90&sa=N&sstk=AagrsugE_QZUyU0qecBxYgYocCBTLt7oGDK_Y0Z2w7BzNMbhg2X8hKdwD35AwJqBReBYT_MOCNU7TWrwS4ArtrrsC-xA5YqEPUSR2g&ved=2ahUKEwi3i43rroiJAxXElokEHX38MRoQ8tMDegQIFRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=parsley&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=parsley&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=parsley&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=parsley&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=parsley&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=parsley&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=parsley&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=parsley&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=parsley&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=parsley&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=parsley&start=90"
+    }
+  }
+}

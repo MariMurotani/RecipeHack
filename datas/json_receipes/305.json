@@ -1,0 +1,640 @@
+{
+  "search_metadata": {
+    "id": "670a2b1a7ef9fa3be17cfca6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d247e7e2d26707f0/670a2b1a7ef9fa3be17cfca6.json",
+    "created_at": "2024-10-12 07:54:02 UTC",
+    "processed_at": "2024-10-12 07:54:02 UTC",
+    "google_url": "https://www.google.com/search?q=laurel&oq=laurel&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/d247e7e2d26707f0/670a2b1a7ef9fa3be17cfca6.html",
+    "total_time_taken": 1.81
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "laurel",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "laurel",
+    "total_results": 347000000,
+    "time_taken_displayed": 0.37,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=laurel&npsic=0&rflfq=1&rldoc=1&rllag=30280472,-97751458,7814&tbm=lcl&sa=X&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQtgN6BAgyEAI",
+    "image": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/e10fe5c84a374be839fdf44124177acd.png",
+    "gps_coordinates": {
+      "latitude": 30.280472,
+      "longitude": -97.751458
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.4,
+        "reviews_original": "(78)",
+        "reviews": 78,
+        "description": "\"The apartments and amenities are very good, clean and feels safe.\"",
+        "lsig": "AB86z5Ur5_lHsPytzF1fGr-EN8PY",
+        "thumbnail": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/e164bb6b519fb1789ae9042d8c4e2d4f32bd628d8b66cbfe7c5d4a53619f8ec8ff46fbfa6b77264a.jpeg",
+        "title": "Laurel",
+        "type": "Apartment rental agency",
+        "address": "2001 Ed Bluestein Blvd",
+        "hours": "Closed \u22c5 Opens 10 AM",
+        "place_id": "14434009099969762079",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=14434009099969762079&q=laurel",
+        "gps_coordinates": {
+          "latitude": 30.25998,
+          "longitude": -97.67362
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.3,
+        "reviews_original": "(111)",
+        "reviews": 111,
+        "description": "\"Hair was an absolute delight and super attentive!\"",
+        "lsig": "AB86z5UkiaghDB4Qs8kOIGO7a_OJ",
+        "thumbnail": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/e164bb6b519fb1789ae9042d8c4e2d4fd043ce2fd28e3dc1f29d2eab9c3d93bfa6dfe1c0588e218c.jpeg",
+        "title": "Laurel Restaurant",
+        "type": "Restaurant",
+        "address": "West Lake Hills, TX",
+        "hours": "Closed \u22c5 Opens 7 AM",
+        "place_id": "11703274444230314949",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=11703274444230314949&q=laurel",
+        "gps_coordinates": {
+          "latitude": 30.300985,
+          "longitude": -97.829315
+        }
+      },
+      {
+        "position": 3,
+        "rating": 4.5,
+        "reviews_original": "(26)",
+        "reviews": 26,
+        "description": "\"The residents here emphasize the social aspect of co-op living.\"",
+        "lsig": "AB86z5WYugnd8i3G75uS-RM4nFoN",
+        "thumbnail": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/e164bb6b519fb1789ae9042d8c4e2d4f2420cdb3358dac1f3efc8c9ff12d64deb6c0a0cc8f3c502d.jpeg",
+        "title": "Laurel Nueces & Halstead Co-Ops",
+        "type": "Student housing center",
+        "address": "1905 Nueces St",
+        "hours": "Closed \u22c5 Opens 12 PM Mon",
+        "place_id": "14337126360033149262",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=14337126360033149262&q=laurel",
+        "gps_coordinates": {
+          "latitude": 30.283192,
+          "longitude": -97.74398
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&tbs=lf:1,lf_ui:1&tbm=lcl&q=laurel&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQjGp6BAg3EAE"
+  },
+  "knowledge_graph": {
+    "title": "Bay laurel",
+    "type": "Plant",
+    "entity_type": "biology, food",
+    "kgmid": "/m/027f8z",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/027f8z&hl=en-US&q=Bay+laurel",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F027f8z&location=Austin%2CTexas%2CUnited+States&q=Bay+laurel",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/c046a2a6b6242a48193dc8aca178bf017308aae81c4206081b5c2e70f5db982180130a2aac015138.jpeg"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/c046a2a6b6242a48193dc8aca178bf017308aae81c42060815c5d58fad89ef45df8cb50a2ebd79d5.jpeg"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/c046a2a6b6242a48193dc8aca178bf017308aae81c420608ea03aa1af58a070933b127fda8392bfe.jpeg"
+      }
+    ],
+    "soil_ph": "6 to 7 thespruce.com",
+    "genus": "Laurus",
+    "kingdom": "Plantae",
+    "order": "Laurales",
+    "web_results": [
+      {
+        "snippet": "Laurus nobilis is an aromatic evergreen tree or large shrub with green, glabrous leaves. It is in the flowering plant family Lauraceae. It is native to the Mediterranean region and is used as bay leaf for seasoning in cooking.",
+        "source": "Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Laurus_nobilis"
+      },
+      {
+        "title": "Scientific name",
+        "snippet": "Laurus nobilis",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=laurus+nobilis+scientific+name&stick=H4sIAAAAAAAAAOPgE-LUz9U3MDJPs6jSss9OttJPyszPyU-v1M8vSk_MyyzOjU_OSSwuzkzLTE4syczPsypOzkzNKwHxFfISc1MVEvNSFHJTgUrz0hexyuUklhaVFivk5Sdl5mQWK6ApBgDiws9_bwAAAA&sa=X&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQ18AJegQIKRAB"
+      },
+      {
+        "title": "Family",
+        "snippet": "Lauraceae",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=laurus+nobilis+family&stick=H4sIAAAAAAAAAOPgE-LUz9U3MDJPs6jSEi4uttIvT01KS0wuKbZKS8zNzMlcxCqak1haVFqskJefBOQXK4DFKwG8_eUAOgAAAA&sa=X&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQ18AJegQIKBAB"
+      }
+    ]
+  },
+  "related_questions": [
+    {
+      "question": "What is the meaning of the laurel?",
+      "snippet": "A laurel is a type of wreath \u2014 circular, made from leaves and branches \u2014 worn on the head in ancient times. The laurel is a symbol of victory that lives on in the phrase \"Resting on one's laurels.\" When you rest on your laurels, you're happy with previous successes but not doing much to continue succeeding.",
+      "title": "Laurel - Definition, Meaning & Synonyms - Vocabulary.com",
+      "link": "https://www.vocabulary.com/dictionary/laurel#:~:text=A%20laurel%20is%20a%20type,doing%20much%20to%20continue%20succeeding.",
+      "displayed_link": "https://www.vocabulary.com \u203a dictionary \u203a laurel",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU5XUlJjbEZoYUVob05HbFVlbk5PWVROclYxaE1TVXBxUkhBM2RGTlZORGhPWDJkc1NFUm9XVjlKV1V0WlRtbGZZbVZsV0Zwa2ExQXRlWGRCWW5SS1QweEthelp6RWhkSGVYTkxXamQ1VGtkeVptVndPRFJRY3pkNmFYVkJheG9pUVVaWWNrVmpja3RMU1VSbFUxQm1aMlZaTkZsdVpXMVpTalJQVkhOUFpXMU5RUSIsImZjdiI6IjMiLCJlaSI6Ikd5c0taN3lOR3JmZXA4NFBzN3ppdUFrIiwicWMiOiJDZ1pzWVhWeVpXd1FBSDFwenk0XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbWVhbmluZyBvZiB0aGUgbGF1cmVsPyIsImxrIjoiR2hCc1lYVnlaV3dnYzJsbmJtbG1hV1Z6IiwiYnMiOiJjLU95NWxJS3owZ3NVY2dzVmlqSlNGWElUVTNNeTh4TFY4aFBBM056RWt1TFVuUHNKVzdhR1FsSkNVQjRDc1daNlhtWmFabXB4VncyWEZKZ3pTbjVVSlhGQ3NXVnVVbjVPWmxWcWZZU2JlNUcwbEtTNWJnVWNBVnhxVUoxcDBJc2Q4cE15a2xWS0U2c1ZFaE15aTh0Z2R1LTM4QklUVXFsSEVWdEVsYTFYRzVjOHA3RlVBNVlYWEZpYnFwQ1lyRkNFbEJsVG1waW1yM0UxeW9qQlNtNVRMeXFCQmdCIiwiaWQiOiJmY19HeXNLWjd5TkdyZmVwODRQczd6aXVBa181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU5XUlJjbEZoYUVob05HbFVlbk5PWVROclYxaE1TVXBxUkhBM2RGTlZORGhPWDJkc1NFUm9XVjlKV1V0WlRtbGZZbVZsV0Zwa2ExQXRlWGRCWW5SS1QweEthelp6RWhkSGVYTkxXamQ1VGtkeVptVndPRFJRY3pkNmFYVkJheG9pUVVaWWNrVmpja3RMU1VSbFUxQm1aMlZaTkZsdVpXMVpTalJQVkhOUFpXMU5RUSIsImZjdiI6IjMiLCJlaSI6Ikd5c0taN3lOR3JmZXA4NFBzN3ppdUFrIiwicWMiOiJDZ1pzWVhWeVpXd1FBSDFwenk0XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbWVhbmluZyBvZiB0aGUgbGF1cmVsPyIsImxrIjoiR2hCc1lYVnlaV3dnYzJsbmJtbG1hV1Z6IiwiYnMiOiJjLU95NWxJS3owZ3NVY2dzVmlqSlNGWElUVTNNeTh4TFY4aFBBM056RWt1TFVuUHNKVzdhR1FsSkNVQjRDc1daNlhtWmFabXB4VncyWEZKZ3pTbjVVSlhGQ3NXVnVVbjVPWmxWcWZZU2JlNUcwbEtTNWJnVWNBVnhxVUoxcDBJc2Q4cE15a2xWS0U2c1ZFaE15aTh0Z2R1LTM4QklUVXFsSEVWdEVsYTFYRzVjOHA3RlVBNVlYWEZpYnFwQ1lyRkNFbEJsVG1waW1yM0UxeW9qQlNtNVRMeXFCQmdCIiwiaWQiOiJmY19HeXNLWjd5TkdyZmVwODRQczd6aXVBa181In0%3D"
+    },
+    {
+      "question": "What do laurels symbolize?",
+      "snippet": "In Ancient Rome, it was worn on the head as a symbol of triumph. The symbol of the laurel wreath is from Greek mythology. The Romans adopted the symbol because they admired Greek culture. In Rome, they were symbols of military victory.",
+      "title": "History at Home: Laurel Wreath Activity",
+      "link": "https://www.historymuseumofmobile.com/uploads/LaurelWreathActivity.pdf",
+      "displayed_link": "https://www.historymuseumofmobile.com \u203a uploads \u203a La...",
+      "source_logo": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU5XUlJjbEZoYUVob05HbFVlbk5PWVROclYxaE1TVXBxUkhBM2RGTlZORGhPWDJkc1NFUm9XVjlKV1V0WlRtbGZZbVZsV0Zwa2ExQXRlWGRCWW5SS1QweEthelp6RWhkSGVYTkxXamQ1VGtkeVptVndPRFJRY3pkNmFYVkJheG9pUVVaWWNrVmpja3RMU1VSbFUxQm1aMlZaTkZsdVpXMVpTalJQVkhOUFpXMU5RUSIsImZjdiI6IjMiLCJlaSI6Ikd5c0taN3lOR3JmZXA4NFBzN3ppdUFrIiwicWMiOiJDZ1pzWVhWeVpXd1FBSDFwenk0XyIsInF1ZXN0aW9uIjoiV2hhdCBkbyBsYXVyZWxzIHN5bWJvbGl6ZT8iLCJsayI6IkdobDNhR0YwSUdSdklHeGhkWEpsYkhNZ2MzbHRZbTlzYVhwbCIsImJzIjoiYy1PeTVsSUt6MGdzVWNnc1ZpakpTRlhJVFUzTXk4eExWOGhQQTNOekVrdUxVblBzSlc3YUdRbEpDVUI0Q3NXWjZYbVphWm1weFZ3MlhGSmd6U241VUpYRkNzV1Z1VW41T1psVnFmWVNiZTVHMGxLUzViZ1VjQVZ4cVVKMXAwSXNkOHBNeWtsVktFNnNWRWhNeWk4dGdkdS0zOEJJVFVxbEhFVnRFbGExWEc1YzhwN0ZVQTVZWFhGaWJxcENZckZDRWxCbFRtcGltcjNFMXlvakJTbTVUTHlxQkJnQiIsImlkIjoiZmNfR3lzS1o3eU5HcmZlcDg0UHM3eml1QWtfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU5XUlJjbEZoYUVob05HbFVlbk5PWVROclYxaE1TVXBxUkhBM2RGTlZORGhPWDJkc1NFUm9XVjlKV1V0WlRtbGZZbVZsV0Zwa2ExQXRlWGRCWW5SS1QweEthelp6RWhkSGVYTkxXamQ1VGtkeVptVndPRFJRY3pkNmFYVkJheG9pUVVaWWNrVmpja3RMU1VSbFUxQm1aMlZaTkZsdVpXMVpTalJQVkhOUFpXMU5RUSIsImZjdiI6IjMiLCJlaSI6Ikd5c0taN3lOR3JmZXA4NFBzN3ppdUFrIiwicWMiOiJDZ1pzWVhWeVpXd1FBSDFwenk0XyIsInF1ZXN0aW9uIjoiV2hhdCBkbyBsYXVyZWxzIHN5bWJvbGl6ZT8iLCJsayI6IkdobDNhR0YwSUdSdklHeGhkWEpsYkhNZ2MzbHRZbTlzYVhwbCIsImJzIjoiYy1PeTVsSUt6MGdzVWNnc1ZpakpTRlhJVFUzTXk4eExWOGhQQTNOekVrdUxVblBzSlc3YUdRbEpDVUI0Q3NXWjZYbVphWm1weFZ3MlhGSmd6U241VUpYRkNzV1Z1VW41T1psVnFmWVNiZTVHMGxLUzViZ1VjQVZ4cVVKMXAwSXNkOHBNeWtsVktFNnNWRWhNeWk4dGdkdS0zOEJJVFVxbEhFVnRFbGExWEc1YzhwN0ZVQTVZWFhGaWJxcENZckZDRWxCbFRtcGltcjNFMXlvakJTbTVUTHlxQkJnQiIsImlkIjoiZmNfR3lzS1o3eU5HcmZlcDg0UHM3eml1QWtfNSJ9"
+    },
+    {
+      "question": "What does the Bible say about laurel?",
+      "snippet": "In the Bible, it is also an emblem of prosperity and fame. In Christianity, it can symbolize the resurrection of Christ and the triumph of humanity. In some cultures, laurel branches are substituted with palm branches to remember the triumphal entry of Jesus into Jerusalem (Palm Sunday).",
+      "title": "LAUREL - Explore",
+      "link": "https://symbolsproject.eu/explore/plants-and-vegetations/laurel.aspx#:~:text=In%20the%20Bible%2C%20it%20is,into%20Jerusalem%20(Palm%20Sunday).",
+      "displayed_link": "https://symbolsproject.eu \u203a plants-and-vegetations \u203a laurel",
+      "source_logo": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/e56fdd28d33f5175937e2030f76ef1d58b3b6ee91b5c5b8538bd9c0c50875558.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU5XUlJjbEZoYUVob05HbFVlbk5PWVROclYxaE1TVXBxUkhBM2RGTlZORGhPWDJkc1NFUm9XVjlKV1V0WlRtbGZZbVZsV0Zwa2ExQXRlWGRCWW5SS1QweEthelp6RWhkSGVYTkxXamQ1VGtkeVptVndPRFJRY3pkNmFYVkJheG9pUVVaWWNrVmpja3RMU1VSbFUxQm1aMlZaTkZsdVpXMVpTalJQVkhOUFpXMU5RUSIsImZjdiI6IjMiLCJlaSI6Ikd5c0taN3lOR3JmZXA4NFBzN3ppdUFrIiwicWMiOiJDZ1pzWVhWeVpXd1FBSDFwenk0XyIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIHRoZSBCaWJsZSBzYXkgYWJvdXQgbGF1cmVsPyIsImxrIjoiR2lSM2FHRjBJR1J2WlhNZ2RHaGxJR0pwWW14bElITmhlU0JoWW05MWRDQnNZWFZ5Wld3IiwiYnMiOiJjLU95NWxJS3owZ3NVY2dzVmlqSlNGWElUVTNNeTh4TFY4aFBBM056RWt1TFVuUHNKVzdhR1FsSkNVQjRDc1daNlhtWmFabXB4VncyWEZKZ3pTbjVVSlhGQ3NXVnVVbjVPWmxWcWZZU2JlNUcwbEtTNWJnVWNBVnhxVUoxcDBJc2Q4cE15a2xWS0U2c1ZFaE15aTh0Z2R1LTM4QklUVXFsSEVWdEVsYTFYRzVjOHA3RlVBNVlYWEZpYnFwQ1lyRkNFbEJsVG1waW1yM0UxeW9qQlNtNVRMeXFCQmdCIiwiaWQiOiJmY19HeXNLWjd5TkdyZmVwODRQczd6aXVBa181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU5XUlJjbEZoYUVob05HbFVlbk5PWVROclYxaE1TVXBxUkhBM2RGTlZORGhPWDJkc1NFUm9XVjlKV1V0WlRtbGZZbVZsV0Zwa2ExQXRlWGRCWW5SS1QweEthelp6RWhkSGVYTkxXamQ1VGtkeVptVndPRFJRY3pkNmFYVkJheG9pUVVaWWNrVmpja3RMU1VSbFUxQm1aMlZaTkZsdVpXMVpTalJQVkhOUFpXMU5RUSIsImZjdiI6IjMiLCJlaSI6Ikd5c0taN3lOR3JmZXA4NFBzN3ppdUFrIiwicWMiOiJDZ1pzWVhWeVpXd1FBSDFwenk0XyIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIHRoZSBCaWJsZSBzYXkgYWJvdXQgbGF1cmVsPyIsImxrIjoiR2lSM2FHRjBJR1J2WlhNZ2RHaGxJR0pwWW14bElITmhlU0JoWW05MWRDQnNZWFZ5Wld3IiwiYnMiOiJjLU95NWxJS3owZ3NVY2dzVmlqSlNGWElUVTNNeTh4TFY4aFBBM056RWt1TFVuUHNKVzdhR1FsSkNVQjRDc1daNlhtWmFabXB4VncyWEZKZ3pTbjVVSlhGQ3NXVnVVbjVPWmxWcWZZU2JlNUcwbEtTNWJnVWNBVnhxVUoxcDBJc2Q4cE15a2xWS0U2c1ZFaE15aTh0Z2R1LTM4QklUVXFsSEVWdEVsYTFYRzVjOHA3RlVBNVlYWEZpYnFwQ1lyRkNFbEJsVG1waW1yM0UxeW9qQlNtNVRMeXFCQmdCIiwiaWQiOiJmY19HeXNLWjd5TkdyZmVwODRQczd6aXVBa181In0%3D"
+    },
+    {
+      "question": "Is laurel the same as bay leaf?",
+      "snippet": "Is laurel leaf the same as bay leaf? Yes, the laurel leaf and the bay leaf are the same thing. Bay leaves come from an ancient Mediterranean tree called the bay laurel tree or Laurus nobilis, from the family Lauraceae.",
+      "title": "Is laurel leaf the same as bay leaf? - PictureThis",
+      "link": "https://www.picturethisai.com/ask/Umbellularia_californica-2.html#:~:text=and%20symbolism%2C%20etc.-,Is%20laurel%20leaf%20the%20same%20as%20bay%20leaf%3F,nobilis%2C%20from%20the%20family%20Lauraceae.",
+      "displayed_link": "https://www.picturethisai.com \u203a Umbellularia_californica-2",
+      "source_logo": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/e56fdd28d33f5175937e2030f76ef1d55946d0d264fd85aa1fbb69c770317580.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU5XUlJjbEZoYUVob05HbFVlbk5PWVROclYxaE1TVXBxUkhBM2RGTlZORGhPWDJkc1NFUm9XVjlKV1V0WlRtbGZZbVZsV0Zwa2ExQXRlWGRCWW5SS1QweEthelp6RWhkSGVYTkxXamQ1VGtkeVptVndPRFJRY3pkNmFYVkJheG9pUVVaWWNrVmpja3RMU1VSbFUxQm1aMlZaTkZsdVpXMVpTalJQVkhOUFpXMU5RUSIsImZjdiI6IjMiLCJlaSI6Ikd5c0taN3lOR3JmZXA4NFBzN3ppdUFrIiwicWMiOiJDZ1pzWVhWeVpXd1FBSDFwenk0XyIsInF1ZXN0aW9uIjoiSXMgbGF1cmVsIHRoZSBzYW1lIGFzIGJheSBsZWFmPyIsImxrIjoiR2g1cGN5QnNZWFZ5Wld3Z2RHaGxJSE5oYldVZ1lYTWdZbUY1SUd4bFlXWSIsImJzIjoiYy1PeTVsSUt6MGdzVWNnc1ZpakpTRlhJVFUzTXk4eExWOGhQQTNOekVrdUxVblBzSlc3YUdRbEpDVUI0Q3NXWjZYbVphWm1weFZ3MlhGSmd6U241VUpYRkNzV1Z1VW41T1psVnFmWVNiZTVHMGxLUzViZ1VjQVZ4cVVKMXAwSXNkOHBNeWtsVktFNnNWRWhNeWk4dGdkdS0zOEJJVFVxbEhFVnRFbGExWEc1YzhwN0ZVQTVZWFhGaWJxcENZckZDRWxCbFRtcGltcjNFMXlvakJTbTVUTHlxQkJnQiIsImlkIjoiZmNfR3lzS1o3eU5HcmZlcDg0UHM3eml1QWtfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU5XUlJjbEZoYUVob05HbFVlbk5PWVROclYxaE1TVXBxUkhBM2RGTlZORGhPWDJkc1NFUm9XVjlKV1V0WlRtbGZZbVZsV0Zwa2ExQXRlWGRCWW5SS1QweEthelp6RWhkSGVYTkxXamQ1VGtkeVptVndPRFJRY3pkNmFYVkJheG9pUVVaWWNrVmpja3RMU1VSbFUxQm1aMlZaTkZsdVpXMVpTalJQVkhOUFpXMU5RUSIsImZjdiI6IjMiLCJlaSI6Ikd5c0taN3lOR3JmZXA4NFBzN3ppdUFrIiwicWMiOiJDZ1pzWVhWeVpXd1FBSDFwenk0XyIsInF1ZXN0aW9uIjoiSXMgbGF1cmVsIHRoZSBzYW1lIGFzIGJheSBsZWFmPyIsImxrIjoiR2g1cGN5QnNZWFZ5Wld3Z2RHaGxJSE5oYldVZ1lYTWdZbUY1SUd4bFlXWSIsImJzIjoiYy1PeTVsSUt6MGdzVWNnc1ZpakpTRlhJVFUzTXk4eExWOGhQQTNOekVrdUxVblBzSlc3YUdRbEpDVUI0Q3NXWjZYbVphWm1weFZ3MlhGSmd6U241VUpYRkNzV1Z1VW41T1psVnFmWVNiZTVHMGxLUzViZ1VjQVZ4cVVKMXAwSXNkOHBNeWtsVktFNnNWRWhNeWk4dGdkdS0zOEJJVFVxbEhFVnRFbGExWEc1YzhwN0ZVQTVZWFhGaWJxcENZckZDRWxCbFRtcGltcjNFMXlvakJTbTVUTHlxQkJnQiIsImlkIjoiZmNfR3lzS1o3eU5HcmZlcDg0UHM3eml1QWtfNSJ9"
+    }
+  ],
+  "answer_box": {
+    "type": "dictionary_results",
+    "syllables": "lau\u00b7rel",
+    "pronunciation_audio": "https://ssl.gstatic.com/dictionary/static/sounds/20220808/laurel--_us_1.mp3",
+    "phonetic": "/\u02c8l\u00f4r\u0259l/",
+    "word_type": "noun",
+    "definitions": [
+      "any of a number of shrubs and other plants with dark green glossy leaves.",
+      "an aromatic evergreen shrub related to the bay tree, several kinds of which form forests in tropical and warm countries.",
+      "bestow an award or praise on (someone) in recognition of an achievement."
+    ],
+    "examples": [
+      "she will be laureled alongside politicians, historians, and other actors"
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Laurus nobilis",
+      "link": "https://en.wikipedia.org/wiki/Laurus_nobilis",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Laurus_nobilis&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQFnoECD8QAQ&usg=AOvVaw2dxrSHLjJ3DgnZ5OZCC0bk",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Laurus_nobilis",
+      "thumbnail": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/b625c4600fba6aace783a464bb4983cee59d46c0d70b122213059871e4241ee3.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/b625c4600fba6aace783a464bb4983cefefd542b18495faa247f0f5c2b886c76.png",
+      "snippet": "Laurus nobilis /\u02c8l\u0254\u02d0r\u0259s \u02c8n\u0252b\u026al\u026as/ is an aromatic evergreen tree or large shrub with green, glabrous (smooth) leaves. It is in the flowering plant family ...",
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Laurel Definition & Meaning",
+      "link": "https://www.merriam-webster.com/dictionary/laurel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.merriam-webster.com/dictionary/laurel&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQFnoECEQQAQ&usg=AOvVaw0EvktsvVp86UE50iH7VLgn",
+      "displayed_link": "https://www.merriam-webster.com \u203a dictionary \u203a laurel",
+      "favicon": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/b625c4600fba6aace783a464bb4983ce6a174997aadd9dff4dc52258c919874e.png",
+      "snippet": "The meaning of LAUREL is an evergreen shrub or tree (Laurus nobilis of the family Lauraceae, the laurel family) of southern Europe with small yellow flowers ...",
+      "snippet_highlighted_words": [
+        "LAUREL",
+        "laurel"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Mountain laurel",
+            "link": "https://www.merriam-webster.com/dictionary/mountain%20laurel"
+          },
+          {
+            "title": "California laurel",
+            "link": "https://www.merriam-webster.com/dictionary/California%20laurel"
+          },
+          {
+            "title": "Great laurel",
+            "link": "https://www.merriam-webster.com/dictionary/great%20laurel"
+          },
+          {
+            "title": "Sheep laurel",
+            "link": "https://www.merriam-webster.com/dictionary/sheep%20laurel"
+          }
+        ]
+      },
+      "source": "Merriam-Webster"
+    },
+    {
+      "position": 3,
+      "title": "LAUREL (@classiclaurel) \u2022 Instagram photos and videos",
+      "link": "https://www.instagram.com/classiclaurel/?hl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/classiclaurel/%3Fhl%3Den&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQFnoECD0QAQ&usg=AOvVaw2Vt5tR89y8Adhrytyedh74",
+      "displayed_link": "42K+ followers",
+      "favicon": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/b625c4600fba6aace783a464bb4983ce15cf4d9fd1b9d191fab5036c7e2c01a1.png",
+      "snippet": "42K Followers, 1544 Following, 126 Posts - LAUREL (@classiclaurel) on Instagram: \" music for sunsets My new album PALPITATIONS is out now depop,discord ...",
+      "snippet_highlighted_words": [
+        "LAUREL"
+      ],
+      "source": "Instagram \u00b7 classiclaurel"
+    },
+    {
+      "position": 4,
+      "title": "Laurel Restaurant & Bar",
+      "link": "https://www.hotelviata.com/restaurant-austin/laurel-restaurant",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hotelviata.com/restaurant-austin/laurel-restaurant&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQFnoECGcQAQ&usg=AOvVaw2tzYhTXeLIiQRQi5istrO9",
+      "displayed_link": "https://www.hotelviata.com \u203a restaurant-austin \u203a laurel-r...",
+      "favicon": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/b625c4600fba6aace783a464bb4983cef8b710b189e1b8196cef673498fb3f05.jpeg",
+      "snippet": "Laurel Restaurant at Hotel Viata highlights authentic Northern Italian cuisine combined with seasonal and local specialties that will tempt any palate.",
+      "snippet_highlighted_words": [
+        "Laurel"
+      ],
+      "source": "Hotel Viata"
+    },
+    {
+      "position": 5,
+      "title": "Automated Timekeeping Software | Laurel",
+      "link": "https://www.laurel.ai/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.laurel.ai/&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQFnoECD4QAQ&usg=AOvVaw1BF-_IW0SmiQojFqbRqD4F",
+      "displayed_link": "https://www.laurel.ai",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFEj7pyrkEZuvGJyVZJW_Z8ei-DbYorJCENnDiBm4Hr_b52xdEKpbU&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/b625c4600fba6aace783a464bb4983ce68f7392fbfa1cafe599d10fce631d8e4.png",
+      "snippet": "Laurel's automated timekeeping software frees lawyers from tedious time tracking so they can focus on their work and understand where time is being spent.",
+      "snippet_highlighted_words": [
+        "Laurel's"
+      ],
+      "source": "Laurel.ai"
+    },
+    {
+      "position": 6,
+      "title": "Laurel | French & American Restaurant in Philadelphia, PA",
+      "link": "https://www.restaurantlaurel.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.restaurantlaurel.com/&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQFnoECEUQAQ&usg=AOvVaw3cdgxvgLA5tSKsqrgazot8",
+      "displayed_link": "https://www.restaurantlaurel.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvQbOVcT74S1yoMVtazgnfDgJ9K1eAA86fL9UG819IJmhDT79XngcF&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/b625c4600fba6aace783a464bb4983ceefbb23776321e1a342bca10cde49ff3a.png",
+      "snippet": "A tight menu of creative French & American fare in a small, stylish setting. Tasting menu, wine pairing, and alcohol for purchase.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Menus",
+            "link": "https://www.restaurantlaurel.com/menus/"
+          },
+          {
+            "title": "FAQ",
+            "link": "https://www.restaurantlaurel.com/faq/"
+          },
+          {
+            "title": "Hours & Location",
+            "link": "https://www.restaurantlaurel.com/location/laurel/"
+          },
+          {
+            "title": "About",
+            "link": "https://www.restaurantlaurel.com/about/"
+          }
+        ]
+      },
+      "source": "restaurantlaurel.com"
+    },
+    {
+      "position": 7,
+      "title": "Laurel, MD | Official Website",
+      "link": "https://www.cityoflaurel.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cityoflaurel.org/&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQFnoECEEQAQ&usg=AOvVaw0O0TJZR9h60n4D_-Zt0JIF",
+      "displayed_link": "https://www.cityoflaurel.org",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDs1VF8GBmVZEvk2ia-raF_5Y28Zd_-xpIQQbYPX-FSnplpRGgOX7x&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/b625c4600fba6aace783a464bb4983ce2ebc1ab6cd3de894909ae3389563e515.jpeg",
+      "snippet": "Agendas & Minutes, Employment, Online Payments, Recreation Permits, Passports, Latest News & Events",
+      "source": "City of Laurel, MD"
+    },
+    {
+      "position": 8,
+      "title": "Laurel",
+      "link": "https://www.facebook.com/ClassicLaurel/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/ClassicLaurel/&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQFnoECEIQAQ&usg=AOvVaw3EnT38NRccSuqSnDNzXTuf",
+      "displayed_link": "25.6K+ followers",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9yfsiVvqPBr-wZNbtZcPykL5qYZSlhKvzy6hJWgbnMIKV_i31ipl6&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/b625c4600fba6aace783a464bb4983ce3eabba26543b4e7c2fe10461544dbe19.png",
+      "snippet": "MY NEW ALBUM 'PALPITATIONS' OUT JUNE 14TH. 'WILD THINGS' IS OUT NOW!!! \u2764\ufe0f https://laurel.lnk.to/PALPITATIONS.",
+      "snippet_highlighted_words": [
+        "laurel"
+      ],
+      "source": "Facebook \u00b7 Laurel"
+    },
+    {
+      "position": 9,
+      "title": "Laurel - Definition, Meaning & Synonyms",
+      "link": "https://www.vocabulary.com/dictionary/laurel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vocabulary.com/dictionary/laurel&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQFnoECGsQAQ&usg=AOvVaw2p8wzmSevsP1ijj2M7f9K9",
+      "displayed_link": "https://www.vocabulary.com \u203a dictionary \u203a laurel",
+      "favicon": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/b625c4600fba6aace783a464bb4983ce435193908418e64b9a332bb0d746d88a.jpeg",
+      "snippet": "A laurel is a wreath worn on the head, usually as a symbol of victory. If you see an image of Julius Caesar, chances are he's wearing a laurel.",
+      "snippet_highlighted_words": [
+        "laurel",
+        "laurel"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Laurel wreath",
+            "link": "https://www.vocabulary.com/dictionary/laurel%20wreath"
+          },
+          {
+            "title": "Laurels",
+            "link": "https://www.vocabulary.com/dictionary/laurels"
+          },
+          {
+            "title": "True laurel",
+            "link": "https://www.vocabulary.com/dictionary/true%20laurel"
+          },
+          {
+            "title": "Bay laurel",
+            "link": "https://www.vocabulary.com/dictionary/bay%20laurel"
+          }
+        ]
+      },
+      "source": "Vocabulary.com"
+    },
+    {
+      "position": 10,
+      "title": "Laurel, MS - The City Beautiful",
+      "link": "https://www.laurelms.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.laurelms.com/&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQFnoECEMQAQ&usg=AOvVaw2Lk7hT115OE8kZFEkDnqX-",
+      "displayed_link": "https://www.laurelms.com",
+      "favicon": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/b625c4600fba6aace783a464bb4983ce23eeb4668767917aac41251b287c4ee6.png",
+      "snippet": "The City of Laurel, established as a lumber town in 1882, is conveniently situated approximately two hours from larger destination cities such as Jackson, ...",
+      "snippet_highlighted_words": [
+        "Laurel"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Departments",
+            "link": "https://www.laurelms.com/departments/"
+          },
+          {
+            "title": "Government",
+            "link": "https://www.laurelms.com/government/"
+          },
+          {
+            "title": "Tourism",
+            "link": "https://www.laurelms.com/tourism/"
+          },
+          {
+            "title": "Contact Us",
+            "link": "https://www.laurelms.com/contact/"
+          }
+        ]
+      },
+      "source": "The City of Laurel, MS"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&tbs=lf:1,lf_ui:1&tbm=lcl&q=laurel&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQjGp6BAg3EAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=laurel&tbs=lf%3A1%2Clf_ui%3A1&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Laurel Crown",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Laurel+Crown&sa=X&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQ1QJ6BAhfEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Laurel+Crown"
+    },
+    {
+      "block_position": 1,
+      "query": "Laurel in English",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Laurel+in+English&sa=X&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQ1QJ6BAheEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Laurel+in+English"
+    },
+    {
+      "block_position": 1,
+      "query": "Laurel wreath",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Laurel+wreath&sa=X&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQ1QJ6BAhjEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Laurel+wreath"
+    },
+    {
+      "block_position": 1,
+      "query": "City of Laurel",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=City+of+Laurel&sa=X&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQ1QJ6BAhmEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=City+of+Laurel"
+    },
+    {
+      "block_position": 1,
+      "query": "LAUREL singer",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=LAUREL+singer&sa=X&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQ1QJ6BAhgEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=LAUREL+singer"
+    },
+    {
+      "block_position": 1,
+      "query": "Laurel pronunciation",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Laurel+pronunciation&sa=X&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQ1QJ6BAhlEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Laurel+pronunciation"
+    },
+    {
+      "block_position": 1,
+      "query": "Laurel flowers",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Laurel+flowers&sa=X&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQ1QJ6BAhkEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Laurel+flowers"
+    },
+    {
+      "block_position": 1,
+      "query": "Laurel spice",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Laurel+spice&sa=X&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQ1QJ6BAhhEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Laurel+spice"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "How to grow",
+        "subtitle": "How To Grow Laurus Nobilis",
+        "title": "Sweet Bay, Laurus nobilis - Wisconsin Horticulture",
+        "link": "https://hort.extension.wisc.edu/articles/sweet-bay-laurus-nobilis/#:~:text=Minnesota%20Landscape%20Arboretum.-,L.,allowed%20to%20dry%20out%20completely.",
+        "displayed_link": "https://hort.extension.wisc.edu \u203a articles \u203a sweet-bay-laur...",
+        "snippet": "L. nobilis is widely grown as an ornamental plant in mild climates (zones 7-10), but can be grown as a long-lived houseplant or outdoor container plant in cold climates. Although it prefers well-drained soil and regular moisture, it is fairly tolerant of most conditions but can never be allowed to dry out completely.",
+        "snippet_highlighted_words": [
+          "widely grown as an ornamental plant in mild climates (zones 7-10), but can be grown as a long-lived houseplant or outdoor container plant in cold climates"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/b51c366ea597bbdfe3869d36c706692fbd2ef2d360a40b6bcab3b373fd14424be9a1218e16b901ef.png",
+        "source": "wisc.edu",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ad3Q-ovpMkRhq-jei23D0aLxEcyfKc-mQzZW2Hd61so&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=how+to+grow+laurus+nobilis&sa=X&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQrooIegQIXBAI",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+to+grow+laurus+nobilis"
+      },
+      {
+        "text": "Uses",
+        "subtitle": "What Are The Uses Of Laurus Nobilis",
+        "title": "Beneficial Effects of Laurel (Laurus nobilis L.) and Myrtle (Myrtus ... - NCBI",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8778765/#:~:text=Thus%2C%20Laurus%20leaves%20are%20rich,3%2C6%2C7%5D.",
+        "displayed_link": "https://www.ncbi.nlm.nih.gov \u203a articles \u203a PMC8778765",
+        "date": "Jan 17, 2022",
+        "snippet": "Thus, Laurus leaves are rich in the needed trace elements and tannins that help in the elimination of body toxins [7] and it has been traditionally used orally to treat flatulence, digestive problems, nerve pain, and epilepsy [3,6,7].",
+        "snippet_highlighted_words": [
+          "to treat flatulence, digestive problems, nerve pain, and epilepsy"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/b51c366ea597bbdfe3869d36c706692f5bcf7f434380e3260165367cd08c059cce93e70f0b9c51cc.png",
+        "source": "nih.gov",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=what+are+the+uses+of+laurus+nobilis&sa=X&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQrooIegQIXBAN",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+are+the+uses+of+laurus+nobilis"
+      },
+      {
+        "text": "Benefits",
+        "subtitle": "What Are The Benefits Of Bay Laurel Tree",
+        "title": "Bay Leaf: Potential Health Benefits - Nutrition Today",
+        "link": "https://journals.lww.com/nutritiontodayonline/fulltext/2021/07000/bay_leaf__potential_health_benefits.8.aspx#:~:text=Many%20uses%20of%20bay%20leaf,diuretic%2C%20to%20name%20a%20few.",
+        "displayed_link": "https://journals.lww.com \u203a nutritiontodayonline \u203a fulltext",
+        "snippet": "Many uses of bay leaf and its oil in traditional and folk medicines have been documented. These include as treatment of respiratory disorders and infections, gastrointestinal discomfort and irregularity, diarrhea, and amenorrhea and as an emetic, stimulant, and diuretic, to name a few.",
+        "snippet_highlighted_words": [
+          "treatment of respiratory disorders and infections, gastrointestinal discomfort and irregularity, diarrhea, and amenorrhea and as an emetic, stimulant, and diuretic"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/b51c366ea597bbdfe3869d36c706692fdae80adb1eeda8d00a82e795b98303652025dcf3ecf3ff6c.png",
+        "source": "lww.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=what+are+the+benefits+of+bay+laurel+tree&sa=X&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQrooIegQIXBAS",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+are+the+benefits+of+bay+laurel+tree"
+      },
+      {
+        "text": "Growth rate",
+        "subtitle": "How Fast Do Bay Trees Grow",
+        "title": "How to Grow Bay (Laurus nobilis) - Gardeners' World",
+        "link": "https://www.gardenersworld.com/how-to/grow-plants/bay-grow-guide/#:~:text=Bay%20is%20slow%2Dgrowing%20and,of%20formality%20to%20the%20garden.",
+        "displayed_link": "https://www.gardenersworld.com \u203a bay-grow-guide",
+        "date": "Feb 9, 2024",
+        "snippet": "Bay is slow-growing and, while a plant will eventually become a tree up to 8m tall, it will take many years to do this and can be clipped to keep it at the desired size. Bay trees are traditionally trained and clipped as topiary, and bring a touch of formality to the garden.",
+        "snippet_highlighted_words": [
+          "slow-growing"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/b51c366ea597bbdfe3869d36c706692f537eb550dcd05c24cc38681fb928ab74c924bc478a2c6229.png",
+        "source": "gardenersworld.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4aXQYOZwlkNgSzPGIludN9wx471-qt4tColnMTuxmgrE&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=how+fast+do+bay+trees+grow&sa=X&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQrooIegQIXBAa",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+fast+do+bay+trees+grow"
+      },
+      {
+        "text": "Hedge",
+        "subtitle": "How To Grow English Laurel Hedge",
+        "title": "Planting a Laurel Hedge? Here's Everything You Need to Know",
+        "link": "https://hedginguk.com/hedging-advice/planting-a-laurel-hedge-heres-everything-you-need-to-know/",
+        "displayed_link": "https://hedginguk.com \u203a hedging-advice \u203a planting-a-lau...",
+        "snippet": "Below is a five-step process to give your laurel hedge plants the best possible start.",
+        "snippet_highlighted_words": [
+          "Below is a five-step process to give your laurel hedge plants the best possible start."
+        ],
+        "list": [
+          "Step One: Clear the area where you'll be planting laurels. ... ",
+          "Step Two: Digging out the hole/trench. ... ",
+          "Step Three: Placing the laurel plants in the hole/trench. ... ",
+          "Step Four: Backfilling the hole/trench with soil. ... ",
+          "Step Five: Staking the plant."
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/b51c366ea597bbdfe3869d36c706692f86ec15b2007873afa5a276a31d384f7999b76350a3e4feb1.png",
+        "source": "hedginguk.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMFZTaXSNltCWQRGeJ2u_7Iur1TbrfbElKOASpJPjzITk&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=how+to+grow+english+laurel+hedge&sa=X&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQrooIegQIXBAj",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+to+grow+english+laurel+hedge"
+      },
+      {
+        "text": "Size",
+        "subtitle": "Laurus Nobilis Size",
+        "title": "Laurus nobilis - Plant Finder - Missouri Botanical Garden",
+        "link": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=d418#:~:text=Laurus%20nobilis%2C%20commonly%20called%20bay,to%208'%20tall%20or%20less.",
+        "displayed_link": "https://www.missouribotanicalgarden.org \u203a PlantFinder",
+        "snippet": "Laurus nobilis, commonly called bay laurel, is native to the Mediterranean. It is a pyramidal, aromatic, evergreen tree or large shrub that grows to as much as 60' tall, but is usually seen much smaller (10-30' tall). For garden purposes, it is often pruned to 8' tall or less.",
+        "snippet_highlighted_words": [
+          "as much as 60' tall, but is usually seen much smaller (10-30' tall)"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/b51c366ea597bbdfe3869d36c706692f13d7a61bd6d62e7b957dcee558852443de7fa331a5419d34.png",
+        "source": "missouribotanicalgarden.org",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=laurus+nobilis+size&sa=X&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQrooIegQIXBAo",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=laurus+nobilis+size"
+      },
+      {
+        "text": "Care",
+        "subtitle": "Bay Laurel Tree Care",
+        "title": "Bay Tree Care Guide | How to Look After a Bay Tree UK - Tree2mydoor",
+        "link": "https://tree2mydoor.com/blogs/content/bay-tree-care-guide",
+        "displayed_link": "https://tree2mydoor.com \u203a blogs \u203a content \u203a bay-tree-car...",
+        "date": "Jan 12, 2022",
+        "snippet": "Bay Tree Care Guide",
+        "snippet_highlighted_words": [
+          "Bay Tree Care Guide"
+        ],
+        "list": [
+          "Latin name: Laurus nobilis.",
+          "Position: Bay trees love a sunny or partially shaded area of the garden.",
+          "Watering: Water regularly with well-drained soil during the growing season. ... ",
+          "Hardiness: Mostly Hardy, can withstand temperatures down to -5\u00b0C. ... ",
+          "Pruning: Prune in spring and summer for shape."
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/b51c366ea597bbdfe3869d36c706692f0b9009418ee98cbfba7c2683a25eeacf868b8fb919b50d08.png",
+        "source": "tree2mydoor.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=bay+laurel+tree+care&sa=X&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQrooIegQIXBAt",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bay+laurel+tree+care"
+      },
+      {
+        "text": "Family",
+        "subtitle": "Laurel Tree Family",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=laurel+tree+family&sa=X&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQrooIegQIXBAy",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=laurel+tree+family"
+      },
+      {
+        "text": "Propagation",
+        "subtitle": "Propagating Bay Laurel",
+        "title": "Bay Tree Propagation Methods - Gardening Know How",
+        "link": "https://www.gardeningknowhow.com/edible/herbs/bay/bay-tree-propagation.htm#:~:text=Propagating%20Bay%20Trees%20from%20Cuttings&text=Cut%20a%206%20inch%20(15,and%20out%20of%20direct%20sunlight.",
+        "displayed_link": "https://www.gardeningknowhow.com \u203a edible \u203a herbs",
+        "date": "Sep 19, 2022",
+        "snippet": "Propagating Bay Trees from Cuttings Cut a 6 inch (15 cm.) length from the end of a stem and remove all but the top couple leaves. Stick the cutting in a pot of good growing medium (Note: you may dip the end in rooting hormone first, if desired.) and keep it moist and out of direct sunlight.",
+        "snippet_highlighted_words": [
+          "Cut a 6 inch (15 cm.)",
+          "length from the end of a stem and remove all but the top couple leaves"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b1a7ef9fa3be17cfca6/images/b51c366ea597bbdfe3869d36c706692f5d006d9ed8f737bc331caac79a60ec03a43723ef5b6a8b33.png",
+        "source": "gardeningknowhow.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMRcOBCpEQEgV76E4GynaIMoV7pQ2clNV7pa3nbFtocAM&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=propagating+bay+laurel&sa=X&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQrooIegQIXBA6",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=propagating+bay+laurel"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=laurel&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=GysKZ7yNGrfep84Ps7ziuAk&start=10&sa=N&sstk=AagrsuiUrD8GFa0SylzNPHjp3wtvfflJT8j7qh_J5BDCpEUOUlDdWWApxd21ebN-fBhgVkS_58NKF6vrf_OANkSaq2_gatVjKnc4gQ&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQ8NMDegQICRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=laurel&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=GysKZ7yNGrfep84Ps7ziuAk&start=10&sa=N&sstk=AagrsuiUrD8GFa0SylzNPHjp3wtvfflJT8j7qh_J5BDCpEUOUlDdWWApxd21ebN-fBhgVkS_58NKF6vrf_OANkSaq2_gatVjKnc4gQ&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQ8tMDegQICRAE",
+      "3": "https://www.google.com/search?q=laurel&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=GysKZ7yNGrfep84Ps7ziuAk&start=20&sa=N&sstk=AagrsuiUrD8GFa0SylzNPHjp3wtvfflJT8j7qh_J5BDCpEUOUlDdWWApxd21ebN-fBhgVkS_58NKF6vrf_OANkSaq2_gatVjKnc4gQ&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQ8tMDegQICRAG",
+      "4": "https://www.google.com/search?q=laurel&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=GysKZ7yNGrfep84Ps7ziuAk&start=30&sa=N&sstk=AagrsuiUrD8GFa0SylzNPHjp3wtvfflJT8j7qh_J5BDCpEUOUlDdWWApxd21ebN-fBhgVkS_58NKF6vrf_OANkSaq2_gatVjKnc4gQ&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQ8tMDegQICRAI",
+      "5": "https://www.google.com/search?q=laurel&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=GysKZ7yNGrfep84Ps7ziuAk&start=40&sa=N&sstk=AagrsuiUrD8GFa0SylzNPHjp3wtvfflJT8j7qh_J5BDCpEUOUlDdWWApxd21ebN-fBhgVkS_58NKF6vrf_OANkSaq2_gatVjKnc4gQ&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQ8tMDegQICRAK",
+      "6": "https://www.google.com/search?q=laurel&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=GysKZ7yNGrfep84Ps7ziuAk&start=50&sa=N&sstk=AagrsuiUrD8GFa0SylzNPHjp3wtvfflJT8j7qh_J5BDCpEUOUlDdWWApxd21ebN-fBhgVkS_58NKF6vrf_OANkSaq2_gatVjKnc4gQ&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQ8tMDegQICRAM",
+      "7": "https://www.google.com/search?q=laurel&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=GysKZ7yNGrfep84Ps7ziuAk&start=60&sa=N&sstk=AagrsuiUrD8GFa0SylzNPHjp3wtvfflJT8j7qh_J5BDCpEUOUlDdWWApxd21ebN-fBhgVkS_58NKF6vrf_OANkSaq2_gatVjKnc4gQ&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQ8tMDegQICRAO",
+      "8": "https://www.google.com/search?q=laurel&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=GysKZ7yNGrfep84Ps7ziuAk&start=70&sa=N&sstk=AagrsuiUrD8GFa0SylzNPHjp3wtvfflJT8j7qh_J5BDCpEUOUlDdWWApxd21ebN-fBhgVkS_58NKF6vrf_OANkSaq2_gatVjKnc4gQ&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQ8tMDegQICRAQ",
+      "9": "https://www.google.com/search?q=laurel&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=GysKZ7yNGrfep84Ps7ziuAk&start=80&sa=N&sstk=AagrsuiUrD8GFa0SylzNPHjp3wtvfflJT8j7qh_J5BDCpEUOUlDdWWApxd21ebN-fBhgVkS_58NKF6vrf_OANkSaq2_gatVjKnc4gQ&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQ8tMDegQICRAS",
+      "10": "https://www.google.com/search?q=laurel&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=GysKZ7yNGrfep84Ps7ziuAk&start=90&sa=N&sstk=AagrsuiUrD8GFa0SylzNPHjp3wtvfflJT8j7qh_J5BDCpEUOUlDdWWApxd21ebN-fBhgVkS_58NKF6vrf_OANkSaq2_gatVjKnc4gQ&ved=2ahUKEwj8ho3CroiJAxU378kDHTOeGJcQ8tMDegQICRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=laurel&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=laurel&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=laurel&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=laurel&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=laurel&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=laurel&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=laurel&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=laurel&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=laurel&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=laurel&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=laurel&start=90"
+    }
+  }
+}

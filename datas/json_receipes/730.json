@@ -1,0 +1,756 @@
+{
+  "search_metadata": {
+    "id": "670a2f087e1d1f543cc85533",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ac13986ae004439f/670a2f087e1d1f543cc85533.json",
+    "created_at": "2024-10-12 08:10:48 UTC",
+    "processed_at": "2024-10-12 08:10:48 UTC",
+    "google_url": "https://www.google.com/search?q=true+frog&oq=true+frog&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/ac13986ae004439f/670a2f087e1d1f543cc85533.html",
+    "total_time_taken": 1.2
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "true frog",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "true frog",
+    "total_results": 72500000,
+    "time_taken_displayed": 0.39,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "title": "True frog",
+    "type": "Amphibian",
+    "entity_type": "biology, animal",
+    "kgmid": "/m/021csx",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/021csx&hl=en-US&q=True+frog",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F021csx&location=Austin%2CTexas%2CUnited+States&q=True+frog",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/93e1b68975f0f37456d198709476856790beee77efaa33b5ae2cc9d70bb0529fbed7215d444b0145.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/93e1b68975f0f37456d198709476856790beee77efaa33b51ab6c501463059f711c7c26e62b75d69.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/93e1b68975f0f37456d198709476856790beee77efaa33b5a70868714b5efcfb593f1a6da338169b.webp"
+      }
+    ],
+    "family": "Ranidae; Rafinesque, 1814",
+    "class": "Amphibia",
+    "order": "Anura",
+    "domain": "Eukaryota",
+    "kingdom": "Animalia",
+    "web_results": [
+      {
+        "snippet": "True frogs is the common name for the frog family Ranidae. They have the widest distribution of any frog family. They are abundant throughout most of the world, occurring on all continents except Antarctica. The true frogs are present in North America, northern South America, Europe, Africa, and Asia.",
+        "source": "Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/True_frog"
+      },
+      {
+        "title": "Scientific name",
+        "snippet": "Ranidae",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=true+frog+scientific+name&stick=H4sIAAAAAAAAAOPgE-LUz9U3MDJMLq7QMs5OttJPyszPyU-v1M8vSk_MyyzOjU_OSSwuzkzLTE4syczPsypOzkzNKwHxFfISc1MXsUqWFJWmKqQV5acroMkBAGcuRkdeAAAA&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQ18AJegQISRAB"
+      },
+      {
+        "title": "Class",
+        "snippet": "Amphibian",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Amphibians&si=ACC90nyYzndfSpHALlN52qAqlQZE2s8nxEbc9OSW3jbjf5_eZi7AGc6YvT060KVZIv3l6vUgPCuNGY3tqTIwxYL_Y-NkPGUWksHGFZdR6jqIII9uyMzcRfhByvvp4I2rYW8TjbY3-WM0RMVYrQadIPUj1BcMdbjGv85_dfu-ZfRECHKlM9mg9jt_AYuiiBqmYpeqavJI6f4-&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQ18AJegQISBAB"
+      }
+    ],
+    "lower_classifications": [
+      {
+        "name": "American bullfrog",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=American+bullfrog&stick=H4sIAAAAAAAAAONgFuLUz9U3MDJMLq5QgjHzirUss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7EKOuamFgG5eQpJpTk5aUX56TtYGQGXd9yQagAAAA&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQxA16BAhEEAM",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=American+bullfrog&stick=H4sIAAAAAAAAAONgFuLUz9U3MDJMLq5QgjHzirUss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7EKOuamFgG5eQpJpTk5aUX56TtYGQGXd9yQagAAAA",
+        "image": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/93e1b68975f0f37456d1987094768567e0f388f8502aa8a1a260e32ef372cc8e3287d2f6a5a60ee03617f269c90c4a75.jpeg"
+      },
+      {
+        "name": "Goliath frog",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Goliath+frog&stick=H4sIAAAAAAAAAONgFuLUz9U3MDJMLq5QAjNNzLOMK7Qss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7HyuOfnZCaWZCikFeWn72BlBAAPTwrvZQAAAA&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQxA16BAhEEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Goliath+frog&stick=H4sIAAAAAAAAAONgFuLUz9U3MDJMLq5QAjNNzLOMK7Qss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7HyuOfnZCaWZCikFeWn72BlBAAPTwrvZQAAAA",
+        "image": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/93e1b68975f0f37456d1987094768567e0f388f8502aa8a1a260e32ef372cc8e74f89762e41719edc5fdb8d308aac925.jpeg"
+      },
+      {
+        "name": "Pond frogs",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Rana+(genus)&stick=H4sIAAAAAAAAAONgFuLUz9U3MDJMLq5QAjPNDfMsLLUss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7HyBCXmJSpopKfmlRZr7mBlBADX07RGZQAAAA&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQxA16BAhEEAc",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Rana+%28genus%29&stick=H4sIAAAAAAAAAONgFuLUz9U3MDJMLq5QAjPNDfMsLLUss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7HyBCXmJSpopKfmlRZr7mBlBADX07RGZQAAAA",
+        "image": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/93e1b68975f0f37456d1987094768567e0f388f8502aa8a1a260e32ef372cc8ede3e68f03dc0d335b4bf578697b17ce8.jpeg"
+      },
+      {
+        "name": "African bullfrog",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=African+bullfrog&stick=H4sIAAAAAAAAAONgFuLUz9U3MDJMLq5Q4gIzy00Mck20LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixexCjimFQF5eQpJpTk5aUX56TtYGQETVP8uagAAAA&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQxA16BAhEEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=African+bullfrog&stick=H4sIAAAAAAAAAONgFuLUz9U3MDJMLq5Q4gIzy00Mck20LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixexCjimFQF5eQpJpTk5aUX56TtYGQETVP8uagAAAA",
+        "image": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/93e1b68975f0f37456d1987094768567e0f388f8502aa8a1a260e32ef372cc8e1aaee74983559b06daa62c5ed367c13a.jpeg"
+      }
+    ]
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "True Frog | Good ingredients matter! \ud83c\udf43 Here\u2019s our beautiful ...",
+      "link": "https://www.instagram.com/truefrog_/reel/DAEB8S2ID3v/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqqv3Hvk6gu5qge7Loi-Wamwm4UvJ7CAu_Asc15td8QqQA&s",
+      "channel": "truefrog_",
+      "duration": "1:01",
+      "platform": "Instagram",
+      "date": "3 weeks ago"
+    },
+    {
+      "position": 2,
+      "title": "True Frog | Craving voluminous, defined curls without the heat ...",
+      "link": "https://www.instagram.com/truefrog_/reel/C3jcmlWqu-g/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEoxTSqdivH-A14zSRXd6vlgkvtDMQGd_6cHzgOGv19UF7&s",
+      "channel": "truefrog_",
+      "duration": "0:08",
+      "platform": "Instagram",
+      "date": "Feb 20, 2024"
+    },
+    {
+      "position": 3,
+      "title": "True Frog Haircare Range Review & Styling Tutorial",
+      "link": "https://www.youtube.com/watch?v=9_CAkdPi7cI",
+      "thumbnail": "https://i.ytimg.com/vi/9_CAkdPi7cI/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3k8D6_Z0j8qgKmWrurhH7c5-pfo3w",
+      "channel": "Elizabeth | Curly Hair Blogger",
+      "duration": "5:50",
+      "platform": "YouTube",
+      "date": "Oct 26, 2022",
+      "key_moments": [
+        {
+          "time": "00:10",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=9_CAkdPi7cI&t=10",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnClYbFb2dISfJD1-IDMNdYDfAw1ip9GROoz4YZO4Y8A&s"
+        },
+        {
+          "time": "00:48",
+          "title": "Shampoo, Conditioner & Mask",
+          "link": "https://www.youtube.com/watch?v=9_CAkdPi7cI&t=48",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDeRoG9_yEBx7HORwXYR_zdyJ8Ak_s9KIJb18ic46sRQ&s"
+        },
+        {
+          "time": "00:59",
+          "title": "True Frog Conditioner",
+          "link": "https://www.youtube.com/watch?v=9_CAkdPi7cI&t=59",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrN09yZc2yesgufwwkfcI0P57vyMm44mlsYHx0a1PKOw&s"
+        },
+        {
+          "time": "01:19",
+          "title": "Styling Tutorial",
+          "link": "https://www.youtube.com/watch?v=9_CAkdPi7cI&t=79",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuXgSdVYczrz9Mpa5hqiSCa8lFL4dgsA6160I6IG0EwQ&s"
+        },
+        {
+          "time": "02:09",
+          "title": "Mousse",
+          "link": "https://www.youtube.com/watch?v=9_CAkdPi7cI&t=129",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ2Bqu8E0qpvsRbRUeKuBtpIq2I4xzPwVTOpAVrrCXOQ&s"
+        },
+        {
+          "time": "02:53",
+          "title": "Product Recommendations",
+          "link": "https://www.youtube.com/watch?v=9_CAkdPi7cI&t=173",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-vWAQE7vwJjrHshxR4g6nl60fD6xFot8Q_JHBTugCA&s"
+        },
+        {
+          "time": "03:23",
+          "title": "Coconut Free",
+          "link": "https://www.youtube.com/watch?v=9_CAkdPi7cI&t=203",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTObtWJFHyxAPkXfo8QwHbCMD4-xY9XmGxKRMhz-vE7pg&s"
+        },
+        {
+          "time": "04:03",
+          "title": "Styling",
+          "link": "https://www.youtube.com/watch?v=9_CAkdPi7cI&t=243",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvJ34D3zXXTW6s1tHfh0CJTFaTWncutR7CCF9nMwtbzQ&s"
+        },
+        {
+          "time": "04:18",
+          "title": "Final thoughts",
+          "link": "https://www.youtube.com/watch?v=9_CAkdPi7cI&t=258",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebhE1yDU-Ur8nTtdJQbLP89Qsiva1R74Jo3lA8Qws3A&s"
+        },
+        {
+          "time": "05:20",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=9_CAkdPi7cI&t=320",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGzMKZQ0BV58YY_jzGGCe9ITEnmQhnJmINl2qbrT1rlQ&s"
+        }
+      ]
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/b8dea576f626b453fa5d8c814ad4bd2cebfe9a11da9fd3be324eccdda6900a34.webp",
+      "source_logo": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/b8dea576f626b453fa5d8c814ad4bd2c120c99667552201af5dc28c334116ed279b2548c4d62521d.png",
+      "source": "Amazon",
+      "title": "True Frog Hair Shampoo for Curls",
+      "rating": 4.4,
+      "reviews": 179,
+      "price": "$41.00",
+      "extracted_price": 41.0,
+      "immersive_product_page_token": "eyJlaSI6IkNDOEtaOGFjTk5XS3dia1BnOVBsMEFzIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTEyODEzNTEwMTM4NTMxODU2OTEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjY5OTI4NTczNzU5ODUzNjUxOTYiLCJpbWFnZURvY2lkIjoiOTY5NTA4MjQ1MzI2NTIwMjYzNCIsInJkcyI6IlBDXzEyMjYzNzUwMjIxMTk5NDI4ODA4fFBST0RfUENfMTIyNjM3NTAyMjExOTk0Mjg4MDgiLCJxdWVyeSI6InRydWUrZnJvZyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkNDOEtaOGFjTk5XS3dia1BnOVBsMEFzIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTEyODEzNTEwMTM4NTMxODU2OTEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjY5OTI4NTczNzU5ODUzNjUxOTYiLCJpbWFnZURvY2lkIjoiOTY5NTA4MjQ1MzI2NTIwMjYzNCIsInJkcyI6IlBDXzEyMjYzNzUwMjIxMTk5NDI4ODA4fFBST0RfUENfMTIyNjM3NTAyMjExOTk0Mjg4MDgiLCJxdWVyeSI6InRydWUrZnJvZyJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/b8dea576f626b453fa5d8c814ad4bd2cb1fed574e6e42b3f7f56c995f9ed3d09.webp",
+      "source_logo": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/b8dea576f626b453fa5d8c814ad4bd2c68a057beb1cd590cd0329d7005439ca7038a0f9b0d825fb2.png",
+      "source": "Walmart - KandiKash",
+      "title": "True Frog Everyday Hair Conditioner",
+      "rating": 4.4,
+      "reviews": 115,
+      "price": "$29.99",
+      "extracted_price": 29.99,
+      "original_price": "$50",
+      "extracted_original_price": 50,
+      "extensions": [
+        "40% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IkNDOEtaOGFjTk5XS3dia1BnOVBsMEFzIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODYzMjg1ODIzNjMzMjMxNzIyMiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTU5MTA1NTY0MzMyMDk3OTA2MDEiLCJpbWFnZURvY2lkIjoiMTAyODEyMzY0NTAyNzg0NjI1NDMiLCJyZHMiOiJQQ185NDY4NjYwNDc5NTYxMjAzODE2fFBST0RfUENfOTQ2ODY2MDQ3OTU2MTIwMzgxNiIsInF1ZXJ5IjoidHJ1ZStmcm9nIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkNDOEtaOGFjTk5XS3dia1BnOVBsMEFzIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODYzMjg1ODIzNjMzMjMxNzIyMiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTU5MTA1NTY0MzMyMDk3OTA2MDEiLCJpbWFnZURvY2lkIjoiMTAyODEyMzY0NTAyNzg0NjI1NDMiLCJyZHMiOiJQQ185NDY4NjYwNDc5NTYxMjAzODE2fFBST0RfUENfOTQ2ODY2MDQ3OTU2MTIwMzgxNiIsInF1ZXJ5IjoidHJ1ZStmcm9nIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/b8dea576f626b453fa5d8c814ad4bd2c021c4be41bd19e31bf9979252bfddecb.webp",
+      "source_logo": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/b8dea576f626b453fa5d8c814ad4bd2c1913fa1e16215c0299120ef060ab4b488ed67cddf82ef392.png",
+      "source": "Distacart",
+      "title": "Trendia Foods True Frog Deep Conditioning Mask",
+      "rating": 4.5,
+      "reviews": 97,
+      "price": "$20.32",
+      "extracted_price": 20.32,
+      "delivery": "Free $59+",
+      "immersive_product_page_token": "eyJlaSI6IkNDOEtaOGFjTk5XS3dia1BnOVBsMEFzIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTYzNDg4Nzc1NDQ4Nzg5MTA0MDkiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwNDE4OTgzOTYwMTUyNTM5Nzk2IiwiaW1hZ2VEb2NpZCI6IjcyOTUxNzk2MjY1MjAyMzM4MjgiLCJyZHMiOiJQQ18xMjg2NjE5NDYzNzA1MzI1MzAxMnxQUk9EX1BDXzEyODY2MTk0NjM3MDUzMjUzMDEyIiwicXVlcnkiOiJ0cnVlK2Zyb2cifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkNDOEtaOGFjTk5XS3dia1BnOVBsMEFzIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTYzNDg4Nzc1NDQ4Nzg5MTA0MDkiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwNDE4OTgzOTYwMTUyNTM5Nzk2IiwiaW1hZ2VEb2NpZCI6IjcyOTUxNzk2MjY1MjAyMzM4MjgiLCJyZHMiOiJQQ18xMjg2NjE5NDYzNzA1MzI1MzAxMnxQUk9EX1BDXzEyODY2MTk0NjM3MDUzMjUzMDEyIiwicXVlcnkiOiJ0cnVlK2Zyb2cifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/b8dea576f626b453fa5d8c814ad4bd2c515b25da59509e504b95ee68c30897bc.webp",
+      "source_logo": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/b8dea576f626b453fa5d8c814ad4bd2cdc050a41c5e75823523b5aaf4c8045ac59cd498cb09fa6d3.png",
+      "source": "eBay",
+      "title": "TRue FRoG Leave n Conditioner For Curly Frizzy Hair With Baobab 200gm",
+      "rating": 4.4,
+      "reviews": 65,
+      "price": "$24.42",
+      "extracted_price": 24.42,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "eyJlaSI6IkNDOEtaOGFjTk5XS3dia1BnOVBsMEFzIiwicHJvZHVjdGlkIjoiMTY2MDE1NTc4MDU3NTIwODk1MTUiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2NjAxNTU3ODA1NzUyMDg5NTE1IiwiaW1hZ2VEb2NpZCI6IjE1OTYzOTEwMjM1NzU0NzU2NTQiLCJyZHMiOiJQQ183NDUyMjM2NjY1NjIzNzEwMjU1fFBST0RfUENfNzQ1MjIzNjY2NTYyMzcxMDI1NSIsInF1ZXJ5IjoidHJ1ZStmcm9nIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkNDOEtaOGFjTk5XS3dia1BnOVBsMEFzIiwicHJvZHVjdGlkIjoiMTY2MDE1NTc4MDU3NTIwODk1MTUiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2NjAxNTU3ODA1NzUyMDg5NTE1IiwiaW1hZ2VEb2NpZCI6IjE1OTYzOTEwMjM1NzU0NzU2NTQiLCJyZHMiOiJQQ183NDUyMjM2NjY1NjIzNzEwMjU1fFBST0RfUENfNzQ1MjIzNjY2NTYyMzcxMDI1NSIsInF1ZXJ5IjoidHJ1ZStmcm9nIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/b8dea576f626b453fa5d8c814ad4bd2c1f7a607b6a190a1c65db6ba2651bda13.webp",
+      "source_logo": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/b8dea576f626b453fa5d8c814ad4bd2cbaa28e61c797db32e9ddc3c40eeeab33c9a2869e85b392a2.png",
+      "source": "Walmart - ShopGlobal",
+      "title": "True Frog Leave-In Conditioner For Curly, Wavy, Dry And Frizzy Hair With Baobab Oil And Hibiscus Extracts, Silicone Free, Phthalate Free & Paraben",
+      "rating": 4.4,
+      "reviews": 65,
+      "price": "$30.00",
+      "extracted_price": 30.0,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "eyJlaSI6IkNDOEtaOGFjTk5XS3dia1BnOVBsMEFzIiwicHJvZHVjdGlkIjoiOTc5NzY5MjIzMzI5NTU4MDQxNSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTc5NzY5MjIzMzI5NTU4MDQxNSIsImltYWdlRG9jaWQiOiI4OTg3MjYxNTM0MDM4OTc1ODc0IiwicmRzIjoiUENfNzQ1MjIzNjY2NTYyMzcxMDI1NXxQUk9EX1BDXzc0NTIyMzY2NjU2MjM3MTAyNTUiLCJxdWVyeSI6InRydWUrZnJvZyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkNDOEtaOGFjTk5XS3dia1BnOVBsMEFzIiwicHJvZHVjdGlkIjoiOTc5NzY5MjIzMzI5NTU4MDQxNSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTc5NzY5MjIzMzI5NTU4MDQxNSIsImltYWdlRG9jaWQiOiI4OTg3MjYxNTM0MDM4OTc1ODc0IiwicmRzIjoiUENfNzQ1MjIzNjY2NTYyMzcxMDI1NXxQUk9EX1BDXzc0NTIyMzY2NjU2MjM3MTAyNTUiLCJxdWVyeSI6InRydWUrZnJvZyJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/b8dea576f626b453fa5d8c814ad4bd2c2abc8fc59c8b81621db99df6c32cebbf.webp",
+      "source_logo": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/b8dea576f626b453fa5d8c814ad4bd2c36ebe9ce9d1471b0f596861760d1840bce09e1817ce16af7.png",
+      "source": "Walmart - Ifusion",
+      "title": "True FRoG Shampoo for Curls and Deep Conditioning Mask for Curly, Wavy, Dry and Frizzy Hair, Sulphate and Paraben Free, (Combo Pack of 2-450ml), Size:",
+      "rating": 4.4,
+      "reviews": 179,
+      "price": "$55.00",
+      "extracted_price": 55.0,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "eyJlaSI6IkNDOEtaOGFjTk5XS3dia1BnOVBsMEFzIiwicHJvZHVjdGlkIjoiMTMxNzgzNDQzNjM3Nzc1NjU5NiIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTMxNzgzNDQzNjM3Nzc1NjU5NiIsImltYWdlRG9jaWQiOiI0NjkxNjE3ODc2MzU1MjI0NzQiLCJyZHMiOiJQQ18xMjI2Mzc1MDIyMTE5OTQyODgwOHxQUk9EX1BDXzEyMjYzNzUwMjIxMTk5NDI4ODA4IiwicXVlcnkiOiJ0cnVlK2Zyb2cifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkNDOEtaOGFjTk5XS3dia1BnOVBsMEFzIiwicHJvZHVjdGlkIjoiMTMxNzgzNDQzNjM3Nzc1NjU5NiIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTMxNzgzNDQzNjM3Nzc1NjU5NiIsImltYWdlRG9jaWQiOiI0NjkxNjE3ODc2MzU1MjI0NzQiLCJyZHMiOiJQQ18xMjI2Mzc1MDIyMTE5OTQyODgwOHxQUk9EX1BDXzEyMjYzNzUwMjIxMTk5NDI4ODA4IiwicXVlcnkiOiJ0cnVlK2Zyb2cifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/b8dea576f626b453fa5d8c814ad4bd2c4f68888a83874be3159586f24a702323.webp",
+      "source_logo": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/b8dea576f626b453fa5d8c814ad4bd2c12b1a88ec217d4ed7d8ff82bca70acbbc2faacccbe971b78.png",
+      "source": "Distacart",
+      "title": "True Frog Anti Dandruff Shampoo",
+      "rating": 4.3,
+      "reviews": 32,
+      "price": "$18.18",
+      "extracted_price": 18.18,
+      "delivery": "Free $59+",
+      "immersive_product_page_token": "eyJlaSI6IkNDOEtaOGFjTk5XS3dia1BnOVBsMEFzIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI4NjA2ODIwOTQzODE4MjIwODYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijc1NjU0NjA3ODM0MTEwMjY0OTUiLCJpbWFnZURvY2lkIjoiMjM3MDAxNTk0MDY5MzAzNzcxNSIsInJkcyI6IlBDXzQxNTE3MjI5MDQzNjI4NDY3Mzl8UFJPRF9QQ180MTUxNzIyOTA0MzYyODQ2NzM5IiwicXVlcnkiOiJ0cnVlK2Zyb2cifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkNDOEtaOGFjTk5XS3dia1BnOVBsMEFzIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI4NjA2ODIwOTQzODE4MjIwODYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijc1NjU0NjA3ODM0MTEwMjY0OTUiLCJpbWFnZURvY2lkIjoiMjM3MDAxNTk0MDY5MzAzNzcxNSIsInJkcyI6IlBDXzQxNTE3MjI5MDQzNjI4NDY3Mzl8UFJPRF9QQ180MTUxNzIyOTA0MzYyODQ2NzM5IiwicXVlcnkiOiJ0cnVlK2Zyb2cifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/b8dea576f626b453fa5d8c814ad4bd2c57214706bf85553495ad11241baa790e.webp",
+      "source_logo": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/b8dea576f626b453fa5d8c814ad4bd2cbcd394fb98083a054a8a55a10d9547c3a3b1a386f5559009.png",
+      "source": "Distacart",
+      "title": "True Frog Hair-Fall Control Bundle - Combo",
+      "rating": 4.9,
+      "reviews": 17,
+      "price": "$36.38",
+      "extracted_price": 36.38,
+      "delivery": "Free $59+",
+      "immersive_product_page_token": "eyJlaSI6IkNDOEtaOGFjTk5XS3dia1BnOVBsMEFzIiwicHJvZHVjdGlkIjoiODQzMTUxNjA3NjEyMTYyODc3NCIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODQzMTUxNjA3NjEyMTYyODc3NCIsImltYWdlRG9jaWQiOiIxMTY0NzAwNzE4MzQ2MTc1MzkzOSIsInJkcyI6IlBDXzI5Njg0NTA3NzgzNTY4NjgyMjl8UFJPRF9QQ18yOTY4NDUwNzc4MzU2ODY4MjI5IiwicXVlcnkiOiJ0cnVlK2Zyb2cifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkNDOEtaOGFjTk5XS3dia1BnOVBsMEFzIiwicHJvZHVjdGlkIjoiODQzMTUxNjA3NjEyMTYyODc3NCIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODQzMTUxNjA3NjEyMTYyODc3NCIsImltYWdlRG9jaWQiOiIxMTY0NzAwNzE4MzQ2MTc1MzkzOSIsInJkcyI6IlBDXzI5Njg0NTA3NzgzNTY4NjgyMjl8UFJPRF9QQ18yOTY4NDUwNzc4MzU2ODY4MjI5IiwicXVlcnkiOiJ0cnVlK2Zyb2cifQ%3D%3D"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What makes a True Frog?",
+      "snippet": "This is a group of long-legged, narrow waisted, and smooth-skinned frogs. Adults are typically larger than toads and treefrogs. Their fingers are not webbed, although their toes are joined by webs.",
+      "title": "True Frogs - Family Ranidae - Minnesota DNR",
+      "link": "https://www.dnr.state.mn.us/reptiles_amphibians/frogs_toads/truefrogs/index.html#:~:text=This%20is%20a%20group%20of,toes%20are%20joined%20by%20webs.",
+      "displayed_link": "https://www.dnr.state.mn.us \u203a frogs_toads \u203a truefrogs",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2JYVkdPVTU0UlRObmFrNW5iblU1VTJoa1EyVkRjMlZDVUhSM1dqRTJUMVJoTjJVME1saHdWWHBYYjNoSWVrbE5RakoyY0c5dVkxUXdaVkV5V1ZOMlowaDJSRFZQRWhkRFF6aExXamhoWTA1T1YwdDNZbXRRWnpsUWJEQkJjeG9pUVVaWWNrVmpjRjlNVDJWb2VFaFpVWGxmTWpaNVdWaDJOM2xDT1RsdVp6RlBRUSIsImZjdiI6IjMiLCJlaSI6IkNDOEtaOGFjTk5XS3dia1BnOVBsMEFzIiwicWMiOiJDZ2wwY25WbElHWnliMmNRQUgxZE1DUV8iLCJxdWVzdGlvbiI6IldoYXQgbWFrZXMgYSBUcnVlIEZyb2c/IiwibGsiOiJHaFozYUdGMElHMWhhMlZ6SUdFZ2RISjFaU0JtY205biIsImJzIjoiYy1NeTR4SVB6MGdzVWNoTnpFNHRWa2hVQ0NrcVRWVndLOHBQdDVlWTZtOGtJU1ZXaml4YkFwSk5BOHB5T1hISmVoWWpWQ3NrNWlsNDVxVmtBcW1rb3NTOEZIdUp4U1pHY2xJeW1jVUlQU0ExbVVocXVHSzRyTUYyZ3hSbHBDcWtaS2FscFJhbDVpV25LaVNsbHBTbnB1WWh1d2VvT3dYc2dsU0lhZllTLTN5TnBLUWs0TVlYSzVRVkk2U0x1YXk0Sk1NemdPWXBwT1FySUNuS3lTeEx0WmZZbEFUU1c0NURYb0FSQUEiLCJpZCI6ImZjX0NDOEtaOGFjTk5XS3dia1BnOVBsMEFzXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2JYVkdPVTU0UlRObmFrNW5iblU1VTJoa1EyVkRjMlZDVUhSM1dqRTJUMVJoTjJVME1saHdWWHBYYjNoSWVrbE5RakoyY0c5dVkxUXdaVkV5V1ZOMlowaDJSRFZQRWhkRFF6aExXamhoWTA1T1YwdDNZbXRRWnpsUWJEQkJjeG9pUVVaWWNrVmpjRjlNVDJWb2VFaFpVWGxmTWpaNVdWaDJOM2xDT1RsdVp6RlBRUSIsImZjdiI6IjMiLCJlaSI6IkNDOEtaOGFjTk5XS3dia1BnOVBsMEFzIiwicWMiOiJDZ2wwY25WbElHWnliMmNRQUgxZE1DUV8iLCJxdWVzdGlvbiI6IldoYXQgbWFrZXMgYSBUcnVlIEZyb2c%2FIiwibGsiOiJHaFozYUdGMElHMWhhMlZ6SUdFZ2RISjFaU0JtY205biIsImJzIjoiYy1NeTR4SVB6MGdzVWNoTnpFNHRWa2hVQ0NrcVRWVndLOHBQdDVlWTZtOGtJU1ZXaml4YkFwSk5BOHB5T1hISmVoWWpWQ3NrNWlsNDVxVmtBcW1rb3NTOEZIdUp4U1pHY2xJeW1jVUlQU0ExbVVocXVHSzRyTUYyZ3hSbHBDcWtaS2FscFJhbDVpV25LaVNsbHBTbnB1WWh1d2VvT3dYc2dsU0lhZllTLTN5TnBLUWs0TVlYSzVRVkk2U0x1YXk0Sk1NemdPWXBwT1FySUNuS3lTeEx0WmZZbEFUU1c0NURYb0FSQUEiLCJpZCI6ImZjX0NDOEtaOGFjTk5XS3dia1BnOVBsMEFzXzEifQ%3D%3D"
+    },
+    {
+      "question": "Is True Frog an Indian brand?",
+      "snippet": "With a mission to build a brand that acknowledges the simple truth that Beauty can have integrity, True Frog is an Indian skincare and hair care brand that offers chemical-free, vegan, cruelty-free, and environment friendly products.",
+      "title": "Brand:True Frog - kindlife",
+      "link": "https://www.kindlife.in/true-frog/#:~:text=With%20a%20mission%20to%20build,free%2C%20and%20environment%20friendly%20products.",
+      "displayed_link": "https://www.kindlife.in \u203a true-frog",
+      "source_logo": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/bdbce58f5ecd5138f95d9303c2cb7fed6dc0987a9b6a6b214598694129fac1a2.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2JYVkdPVTU0UlRObmFrNW5iblU1VTJoa1EyVkRjMlZDVUhSM1dqRTJUMVJoTjJVME1saHdWWHBYYjNoSWVrbE5RakoyY0c5dVkxUXdaVkV5V1ZOMlowaDJSRFZQRWhkRFF6aExXamhoWTA1T1YwdDNZbXRRWnpsUWJEQkJjeG9pUVVaWWNrVmpjRjlNVDJWb2VFaFpVWGxmTWpaNVdWaDJOM2xDT1RsdVp6RlBRUSIsImZjdiI6IjMiLCJlaSI6IkNDOEtaOGFjTk5XS3dia1BnOVBsMEFzIiwicWMiOiJDZ2wwY25WbElHWnliMmNRQUgxZE1DUV8iLCJxdWVzdGlvbiI6IklzIFRydWUgRnJvZyBhbiBJbmRpYW4gYnJhbmQ/IiwibGsiOiJHaHhwY3lCMGNuVmxJR1p5YjJjZ1lXNGdhVzVrYVdGdUlHSnlZVzVrIiwiYnMiOiJjLU15NHhJUHowZ3NVY2hOekU0dFZraFVDQ2txVFZWd0s4cFB0NWVZNm04a0lTVldqaXhiQXBKTkE4cHlPWEhKZWhZalZDc2s1aWw0NXFWa0FxbWtvc1M4Rkh1SnhTWkdjbEl5bWNVSVBTQTFtVWhxdUdLNHJNRjJneFJscENxa1pLYWxwUmFsNWlXbktpU2xscFNucHVZaHV3ZW9Pd1hzZ2xTSWFmWVMtM3lOcEtRazRNWVhLNVFWSTZTTHVheTRKTU16Z09ZcHBPUXJJQ25LeVN4THRaZllsQVRTVzQ1RFhvQVJBQSIsImlkIjoiZmNfQ0M4S1o4YWNOTldLd2JrUGc5UGwwQXNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2JYVkdPVTU0UlRObmFrNW5iblU1VTJoa1EyVkRjMlZDVUhSM1dqRTJUMVJoTjJVME1saHdWWHBYYjNoSWVrbE5RakoyY0c5dVkxUXdaVkV5V1ZOMlowaDJSRFZQRWhkRFF6aExXamhoWTA1T1YwdDNZbXRRWnpsUWJEQkJjeG9pUVVaWWNrVmpjRjlNVDJWb2VFaFpVWGxmTWpaNVdWaDJOM2xDT1RsdVp6RlBRUSIsImZjdiI6IjMiLCJlaSI6IkNDOEtaOGFjTk5XS3dia1BnOVBsMEFzIiwicWMiOiJDZ2wwY25WbElHWnliMmNRQUgxZE1DUV8iLCJxdWVzdGlvbiI6IklzIFRydWUgRnJvZyBhbiBJbmRpYW4gYnJhbmQ%2FIiwibGsiOiJHaHhwY3lCMGNuVmxJR1p5YjJjZ1lXNGdhVzVrYVdGdUlHSnlZVzVrIiwiYnMiOiJjLU15NHhJUHowZ3NVY2hOekU0dFZraFVDQ2txVFZWd0s4cFB0NWVZNm04a0lTVldqaXhiQXBKTkE4cHlPWEhKZWhZalZDc2s1aWw0NXFWa0FxbWtvc1M4Rkh1SnhTWkdjbEl5bWNVSVBTQTFtVWhxdUdLNHJNRjJneFJscENxa1pLYWxwUmFsNWlXbktpU2xscFNucHVZaHV3ZW9Pd1hzZ2xTSWFmWVMtM3lOcEtRazRNWVhLNVFWSTZTTHVheTRKTU16Z09ZcHBPUXJJQ25LeVN4THRaZllsQVRTVzQ1RFhvQVJBQSIsImlkIjoiZmNfQ0M4S1o4YWNOTldLd2JrUGc5UGwwQXNfMSJ9"
+    },
+    {
+      "question": "What is the difference between a True Frog and a tree frog?",
+      "snippet": "Treefrogs are considerably smaller than toads or true frogs. All treefrogs have toe pads, though they vary in size among the species. Species with large toe pads can climb high into trees to feed.",
+      "title": "Treefrogs - Family Hylidae - Minnesota DNR",
+      "link": "https://www.dnr.state.mn.us/reptiles_amphibians/frogs_toads/treefrogs/index.html#:~:text=Treefrogs%20are%20considerably%20smaller%20than,high%20into%20trees%20to%20feed.",
+      "displayed_link": "https://www.dnr.state.mn.us \u203a frogs_toads \u203a treefrogs",
+      "source_logo": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/bdbce58f5ecd5138f95d9303c2cb7fed6fb225abac6c7df9fe086e9bfe8307dd.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2JYVkdPVTU0UlRObmFrNW5iblU1VTJoa1EyVkRjMlZDVUhSM1dqRTJUMVJoTjJVME1saHdWWHBYYjNoSWVrbE5RakoyY0c5dVkxUXdaVkV5V1ZOMlowaDJSRFZQRWhkRFF6aExXamhoWTA1T1YwdDNZbXRRWnpsUWJEQkJjeG9pUVVaWWNrVmpjRjlNVDJWb2VFaFpVWGxmTWpaNVdWaDJOM2xDT1RsdVp6RlBRUSIsImZjdiI6IjMiLCJlaSI6IkNDOEtaOGFjTk5XS3dia1BnOVBsMEFzIiwicWMiOiJDZ2wwY25WbElHWnliMmNRQUgxZE1DUV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiBhIFRydWUgRnJvZyBhbmQgYSB0cmVlIGZyb2c/IiwibGsiOiJjNU9TS0NrcVRWVklLOHBQTDFZb0sxWW9LVXFGOGdBIiwiYnMiOiJjLU15NHhJUHowZ3NVY2hOekU0dFZraFVDQ2txVFZWd0s4cFB0NWVZNm04a0lTVldqaXhiQXBKTkE4cHlPWEhKZWhZalZDc2s1aWw0NXFWa0FxbWtvc1M4Rkh1SnhTWkdjbEl5bWNVSVBTQTFtVWhxdUdLNHJNRjJneFJscENxa1pLYWxwUmFsNWlXbktpU2xscFNucHVZaHV3ZW9Pd1hzZ2xTSWFmWVMtM3lOcEtRazRNWVhLNVFWSTZTTHVheTRKTU16Z09ZcHBPUXJJQ25LeVN4THRaZllsQVRTVzQ1RFhvQVJBQSIsImlkIjoiZmNfQ0M4S1o4YWNOTldLd2JrUGc5UGwwQXNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2JYVkdPVTU0UlRObmFrNW5iblU1VTJoa1EyVkRjMlZDVUhSM1dqRTJUMVJoTjJVME1saHdWWHBYYjNoSWVrbE5RakoyY0c5dVkxUXdaVkV5V1ZOMlowaDJSRFZQRWhkRFF6aExXamhoWTA1T1YwdDNZbXRRWnpsUWJEQkJjeG9pUVVaWWNrVmpjRjlNVDJWb2VFaFpVWGxmTWpaNVdWaDJOM2xDT1RsdVp6RlBRUSIsImZjdiI6IjMiLCJlaSI6IkNDOEtaOGFjTk5XS3dia1BnOVBsMEFzIiwicWMiOiJDZ2wwY25WbElHWnliMmNRQUgxZE1DUV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiBhIFRydWUgRnJvZyBhbmQgYSB0cmVlIGZyb2c%2FIiwibGsiOiJjNU9TS0NrcVRWVklLOHBQTDFZb0sxWW9LVXFGOGdBIiwiYnMiOiJjLU15NHhJUHowZ3NVY2hOekU0dFZraFVDQ2txVFZWd0s4cFB0NWVZNm04a0lTVldqaXhiQXBKTkE4cHlPWEhKZWhZalZDc2s1aWw0NXFWa0FxbWtvc1M4Rkh1SnhTWkdjbEl5bWNVSVBTQTFtVWhxdUdLNHJNRjJneFJscENxa1pLYWxwUmFsNWlXbktpU2xscFNucHVZaHV3ZW9Pd1hzZ2xTSWFmWVMtM3lOcEtRazRNWVhLNVFWSTZTTHVheTRKTU16Z09ZcHBPUXJJQ25LeVN4THRaZllsQVRTVzQ1RFhvQVJBQSIsImlkIjoiZmNfQ0M4S1o4YWNOTldLd2JrUGc5UGwwQXNfMSJ9"
+    },
+    {
+      "question": "Where do true frogs live?",
+      "snippet": "The true frogs are present in North America, northern South America, Europe, Africa (including Madagascar), and Asia. The Asian range extends across the East Indies to New Guinea and a single species, the Australian wood frog (Hylarana daemelii), has spread into the far north of Australia.",
+      "title": "True frog - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/True_frog#:~:text=The%20true%20frogs%20are%20present,the%20far%20north%20of%20Australia.",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a True_frog",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXEmCBI4ITxgGYxClt9sNd_BBuxI8j7VQdxqEJRjeO6Q&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2JYVkdPVTU0UlRObmFrNW5iblU1VTJoa1EyVkRjMlZDVUhSM1dqRTJUMVJoTjJVME1saHdWWHBYYjNoSWVrbE5RakoyY0c5dVkxUXdaVkV5V1ZOMlowaDJSRFZQRWhkRFF6aExXamhoWTA1T1YwdDNZbXRRWnpsUWJEQkJjeG9pUVVaWWNrVmpjRjlNVDJWb2VFaFpVWGxmTWpaNVdWaDJOM2xDT1RsdVp6RlBRUSIsImZjdiI6IjMiLCJlaSI6IkNDOEtaOGFjTk5XS3dia1BnOVBsMEFzIiwicWMiOiJDZ2wwY25WbElHWnliMmNRQUgxZE1DUV8iLCJxdWVzdGlvbiI6IldoZXJlIGRvIHRydWUgZnJvZ3MgbGl2ZT8iLCJsayI6IkdoaDNhR1Z5WlNCa2J5QjBjblZsSUdaeWIyZHpJR3hwZG1VIiwiYnMiOiJjLU15NHhJUHowZ3NVY2hOekU0dFZraFVDQ2txVFZWd0s4cFB0NWVZNm04a0lTVldqaXhiQXBKTkE4cHlPWEhKZWhZalZDc2s1aWw0NXFWa0FxbWtvc1M4Rkh1SnhTWkdjbEl5bWNVSVBTQTFtVWhxdUdLNHJNRjJneFJscENxa1pLYWxwUmFsNWlXbktpU2xscFNucHVZaHV3ZW9Pd1hzZ2xTSWFmWVMtM3lOcEtRazRNWVhLNVFWSTZTTHVheTRKTU16Z09ZcHBPUXJJQ25LeVN4THRaZllsQVRTVzQ1RFhvQVJBQSIsImlkIjoiZmNfQ0M4S1o4YWNOTldLd2JrUGc5UGwwQXNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2JYVkdPVTU0UlRObmFrNW5iblU1VTJoa1EyVkRjMlZDVUhSM1dqRTJUMVJoTjJVME1saHdWWHBYYjNoSWVrbE5RakoyY0c5dVkxUXdaVkV5V1ZOMlowaDJSRFZQRWhkRFF6aExXamhoWTA1T1YwdDNZbXRRWnpsUWJEQkJjeG9pUVVaWWNrVmpjRjlNVDJWb2VFaFpVWGxmTWpaNVdWaDJOM2xDT1RsdVp6RlBRUSIsImZjdiI6IjMiLCJlaSI6IkNDOEtaOGFjTk5XS3dia1BnOVBsMEFzIiwicWMiOiJDZ2wwY25WbElHWnliMmNRQUgxZE1DUV8iLCJxdWVzdGlvbiI6IldoZXJlIGRvIHRydWUgZnJvZ3MgbGl2ZT8iLCJsayI6IkdoaDNhR1Z5WlNCa2J5QjBjblZsSUdaeWIyZHpJR3hwZG1VIiwiYnMiOiJjLU15NHhJUHowZ3NVY2hOekU0dFZraFVDQ2txVFZWd0s4cFB0NWVZNm04a0lTVldqaXhiQXBKTkE4cHlPWEhKZWhZalZDc2s1aWw0NXFWa0FxbWtvc1M4Rkh1SnhTWkdjbEl5bWNVSVBTQTFtVWhxdUdLNHJNRjJneFJscENxa1pLYWxwUmFsNWlXbktpU2xscFNucHVZaHV3ZW9Pd1hzZ2xTSWFmWVMtM3lOcEtRazRNWVhLNVFWSTZTTHVheTRKTU16Z09ZcHBPUXJJQ25LeVN4THRaZllsQVRTVzQ1RFhvQVJBQSIsImlkIjoiZmNfQ0M4S1o4YWNOTldLd2JrUGc5UGwwQXNfMSJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "True frog",
+      "link": "https://en.wikipedia.org/wiki/True_frog",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/True_frog&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQFnoECBAQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a True_frog",
+      "thumbnail": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/6861596e1c118a3473c2f5f7bad3bc771a2c6fa32f08c623e44f7ff466ab56eb.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/6861596e1c118a3473c2f5f7bad3bc7791c872b9089dd18460fb4a2aaa9d0117.png",
+      "snippet": "True frogs is the common name for the frog family Ranidae. They have the widest distribution of any frog family. They are abundant throughout most of the ...",
+      "snippet_highlighted_words": [
+        "True frogs"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "True Frog: Buy Hair and Skin Care Products Online in India |",
+      "link": "https://truefrog.in/?srsltid=AfmBOoq7QM5N9pdzKs2Xj6iR2pfwMiboY2yFoOvwahEUBiTFs3nunLnU",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://truefrog.in/%3Fsrsltid%3DAfmBOoq7QM5N9pdzKs2Xj6iR2pfwMiboY2yFoOvwahEUBiTFs3nunLnU&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQFnoECBIQAQ",
+      "displayed_link": "https://truefrog.in",
+      "thumbnail": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/6861596e1c118a3473c2f5f7bad3bc7778903dc88e39d472d8e687e0d8d71c88.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/6861596e1c118a3473c2f5f7bad3bc7748cfbb568a78d9ae9435922ab2970c76.png",
+      "snippet": "Today's Offers \u00b7 Curly Hair Regime; Haircare. Shampoos \u00b7 Conditioner \u00b7 Hair Mask \u00b7 Curl Styling \u00b7 Dandruff Treatment \u00b7 Shop All. Shop By Concern.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Today's Offers",
+            "link": "https://truefrog.in/collections/all"
+          },
+          {
+            "title": "Shop By Concern",
+            "link": "https://truefrog.in/collections/curly-care"
+          },
+          {
+            "title": "Hair Care",
+            "link": "https://truefrog.in/collections/hair-care"
+          },
+          {
+            "title": "Curly Hair Regime",
+            "link": "https://truefrog.in/collections/curly-hair-regime"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 7
+          },
+          "extensions": [
+            "7",
+            "day returns"
+          ]
+        }
+      },
+      "source": "True Frog"
+    },
+    {
+      "position": 3,
+      "title": "True Frogs - Family Ranidae",
+      "link": "https://www.dnr.state.mn.us/reptiles_amphibians/frogs_toads/truefrogs/index.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dnr.state.mn.us/reptiles_amphibians/frogs_toads/truefrogs/index.html&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQFnoECA8QAQ",
+      "displayed_link": "https://www.dnr.state.mn.us \u203a frogs_toads \u203a truefrogs",
+      "favicon": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/6861596e1c118a3473c2f5f7bad3bc7759ade956d68560dadb8acdeb6cf30808.png",
+      "snippet": "True Frogs - Family Ranidae. This is a group of long-legged, narrow waisted, and smooth-skinned frogs. Adults are typically larger than toads and treefrogs.",
+      "snippet_highlighted_words": [
+        "True Frogs"
+      ],
+      "source": "Minnesota DNR"
+    },
+    {
+      "position": 4,
+      "title": "Ranidae | Frogs, Toads, Tadpoles",
+      "link": "https://www.britannica.com/animal/Ranidae",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.britannica.com/animal/Ranidae&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQFnoECFYQAQ",
+      "displayed_link": "https://www.britannica.com \u203a ... \u203a Amphibians",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs8dCu7ky80P5w-QEYHhYSmPZH9jj5kHd0r7ptdpsZC4mFymyNstOB&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/6861596e1c118a3473c2f5f7bad3bc775c381ba04b801f6386be0a9d471d2f01.png",
+      "snippet": "Members of this group are referred to as the true frogs. Although most are aquatic or semiaquatic, a few ranids are ground burrowers or arboreal. Some species ...",
+      "snippet_highlighted_words": [
+        "true frogs"
+      ],
+      "source": "Britannica"
+    },
+    {
+      "position": 5,
+      "title": "Kids' Inquiry of Diverse Species, Ranidae, true frogs",
+      "link": "https://www.biokids.umich.edu/critters/Ranidae/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.biokids.umich.edu/critters/Ranidae/&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQFnoECFkQAQ",
+      "displayed_link": "https://www.biokids.umich.edu \u203a critters \u203a Ranidae",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpK4cHea5-2T6qitkKxZfCzyPBfTBe_rzOjgws1Wvp8uWbxYGkc6iv&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/6861596e1c118a3473c2f5f7bad3bc77b2ccccd0a020e3d212efb25fe12b0591.png",
+      "snippet": "This family of over 500 species can be found worldwide. The true frogs are a diverse group and it is difficult to describe characteristics shared by all of ...",
+      "snippet_highlighted_words": [
+        "true frogs"
+      ],
+      "source": "University of Michigan"
+    },
+    {
+      "position": 6,
+      "title": "True Frog - an overview",
+      "link": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/true-frog",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/true-frog&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQFnoECFcQAQ",
+      "displayed_link": "https://www.sciencedirect.com \u203a topics \u203a true-frog",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnmwt-i9Tu3Q8V1CbpfzCSsKYAGWeMZUevoPhibvj-1eYEmQ0Z3l1j&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/6861596e1c118a3473c2f5f7bad3bc77e96a68bfca37dc8310af386bb9bd8491.png",
+      "snippet": "Frogs of the family Ranidae synthesize in granular glands in the skin a remarkably diverse range of antimicrobial peptides that are released into skin ...",
+      "snippet_highlighted_words": [
+        "Frogs"
+      ],
+      "source": "ScienceDirect.com"
+    },
+    {
+      "position": 7,
+      "title": "True Frogs - Kentucky Department of Fish & Wildlife",
+      "link": "https://fw.ky.gov/Wildlife/Pages/True-Frogs.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fw.ky.gov/Wildlife/Pages/True-Frogs.aspx&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQFnoECFgQAQ",
+      "displayed_link": "https://fw.ky.gov \u203a Wildlife \u203a Pages \u203a True-Frogs",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSagEJdw6tf4WcRKBqJCMmIau26vVP9ea1s5hkjjYhGKInX1NmnTs-P&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/6861596e1c118a3473c2f5f7bad3bc77a09c883493c4a5975d3fd8b09d054e30.png",
+      "snippet": "True Frogs ... \u200bAdults are medium-sized to large frogs with long hind legs and pointed snouts; all except the American Bullfrog have a pair of low ridges ( ...",
+      "snippet_highlighted_words": [
+        "True Frogs"
+      ],
+      "source": "Kentucky Department of Fish & Wildlife (.gov)"
+    },
+    {
+      "position": 8,
+      "title": "True Frog (@truefrog_)",
+      "link": "https://www.instagram.com/truefrog_/?hl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/truefrog_/%3Fhl%3Den&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQFnoECFoQAQ",
+      "displayed_link": "12.6K+ followers",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxVQZMLJOXtJFr0qu1_tqDuIAF1Bi7FrBKW100wDjp9bUBinZvdqwIVy8&s",
+      "favicon": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/6861596e1c118a3473c2f5f7bad3bc7732791dc516a341e2852fb6a774daec98.png",
+      "snippet": "Clean Beauty for Cool People Explore the Clean Vegan Truth Talk to us - info@truefrog.in \u00b7 605 posts \u00b7 12,642 followers \u00b7 178 following ...",
+      "snippet_highlighted_words": [
+        "Truth"
+      ],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxVQZMLJOXtJFr0qu1_tqDuIAF1Bi7FrBKW100wDjp9bUBinZvdqwIVy8&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3I9fNTl-niThWapqN1zxP6MyVOGDtW5-J8TIOY5XmPz2Gk10mrvxqNxNl89hoE-HTqqs4&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6REAeOhVvCiAWyx9msPw9z3iMA8lt2SwMCQVz1ToO4r1GJYkeLmrOiS0&s"
+      ],
+      "source": "Instagram \u00b7 truefrog_"
+    },
+    {
+      "position": 9,
+      "title": "NSIS: Florida Wildlife - True Frogs",
+      "link": "https://www.nsis.org/wildlife/amph/frog-true.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nsis.org/wildlife/amph/frog-true.html&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQFnoECFUQAQ",
+      "displayed_link": "https://www.nsis.org \u203a wildlife \u203a amph \u203a frog-true",
+      "snippet": "Its snout is pointed. Reaching a length of 6\", it is the second largest frog in Florida. Its call is similar to a subdued pig's grunt. Over 8000 eggs may be ...",
+      "snippet_highlighted_words": [
+        "frog"
+      ],
+      "source": "nsis.org"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "True frog scientific name",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=True+frog+scientific+name&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQ1QJ6BQiBARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=True+frog+scientific+name"
+    },
+    {
+      "block_position": 1,
+      "query": "True frog shampoo",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=True+frog+shampoo&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQ1QJ6BQiCARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=True+frog+shampoo"
+    },
+    {
+      "block_position": 1,
+      "query": "True frog species",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=True+frog+species&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQ1QJ6BQiDARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=True+frog+species"
+    },
+    {
+      "block_position": 1,
+      "query": "True Frog Leave in Conditioner",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=True+Frog+Leave+in+Conditioner&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQ1QJ6BQiAARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=True+Frog+Leave+in+Conditioner"
+    },
+    {
+      "block_position": 1,
+      "query": "True Frog Curl Cream",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=True+Frog+Curl+Cream&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQ1QJ6BAh8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=True+Frog+Curl+Cream"
+    },
+    {
+      "block_position": 1,
+      "query": "True Frog Hair products",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=True+Frog+Hair+products&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQ1QJ6BAh9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=True+Frog+Hair+products"
+    },
+    {
+      "block_position": 1,
+      "query": "the true frog family contains nearly ______________ members.",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=the+true+frog+family+contains+nearly+______________+members.&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQ1QJ6BAh_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=the+true+frog+family+contains+nearly+______________+members."
+    },
+    {
+      "block_position": 1,
+      "query": "True frog habitat",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=True+frog+habitat&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQ1QJ6BAh-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=True+frog+habitat"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=reviews+true+frog&shoprs=GBIqCXRydWUgZnJvZzILCBISB1Jldmlld3NgAQ&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQip4GKAF6BAg0EF8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=reviews+true+frog"
+    },
+    {
+      "query": "Shirts & Tops",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=shirts+%26+tops+true+frog&shoprs=GAkqCXRydWUgZnJvZzIRCAkSDVNoaXJ0cyAmIFRvcHNgAQ&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQip4GKAJ6BAg0EGA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=shirts+%26+tops+true+frog"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=true+frog+sale&shoprs=EgRKAhgBGAYqCXRydWUgZnJvZzITCAYSB09uIHNhbGUYAiIESgIYAVimsiBgAQ&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQip4GKAN6BAg0EGE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=true+frog+sale"
+    },
+    {
+      "query": "Stuffed Animals",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=stuffed+animals+true+frog&shoprs=GAkqCXRydWUgZnJvZzITCAkSD1N0dWZmZWQgQW5pbWFsc2AB&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQip4GKAR6BAg0EGI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=stuffed+animals+true+frog"
+    },
+    {
+      "query": "Hats",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=hats+true+frog&shoprs=GAkqCXRydWUgZnJvZzIICAkSBEhhdHNgAQ&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQip4GKAV6BAg0EGM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hats+true+frog"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=true+frog+for+sale&shoprs=GBIqCXRydWUgZnJvZzIMCBISCEZvciBTYWxlYAE&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQip4GKAZ6BAg0EGQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=true+frog+for+sale"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=buy+true+frog&shoprs=GBIqCXRydWUgZnJvZzIHCBISA0J1eWAB&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQip4GKAd6BAg0EGU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=buy+true+frog"
+    },
+    {
+      "query": "Baits & Lures",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=baits+%26+lures+true+frog&shoprs=GAkqCXRydWUgZnJvZzIRCAkSDUJhaXRzICYgTHVyZXNgAQ&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQip4GKAh6BAg0EGY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=baits+%26+lures+true+frog"
+    },
+    {
+      "query": "Girl",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=girl+true+frog&shoprs=GBIqCXRydWUgZnJvZzIICBISBEdpcmxgAQ&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQip4GKAl6BAg0EGc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=girl+true+frog"
+    },
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=true+frog+nearby&shoprs=GAMqCXRydWUgZnJvZzIMCAMSBk5lYXJieRgCWKayIGAB&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQip4GKAp6BAg0EGg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=true+frog+nearby"
+    },
+    {
+      "query": "Get it fast",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=true+frog&shoprs=Eg2aAQoKCBADOAFAAkgBGBQqCXRydWUgZnJvZzIkCBQSC0dldCBpdCBmYXN0Ig2aAQoKCBADOAFAAkgBKgQQARgBYAE&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQip4GKAt6BAg0EGk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=true+frog"
+    },
+    {
+      "query": "Hooded",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=hooded+true+frog&shoprs=GAEqCXRydWUgZnJvZzIYCAESBkhvb2RlZDoMCIySsAEQjZKwATADWKayIGAB&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQip4GKAx6BAg0EGo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hooded+true+frog"
+    },
+    {
+      "query": "Man",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=man+true+frog&shoprs=GBIqCXRydWUgZnJvZzIHCBISA01hbmAB&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQip4GKA16BAg0EGs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=man+true+frog"
+    },
+    {
+      "query": "Boy",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=boy+true+frog&shoprs=GBIqCXRydWUgZnJvZzIHCBISA0JveWAB&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQip4GKA56BAg0EGw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=boy+true+frog"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=price+true+frog&shoprs=GBIqCXRydWUgZnJvZzIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQip4GKA96BAg0EG0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=price+true+frog"
+    },
+    {
+      "query": "Online",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=online+true+frog&shoprs=GBIqCXRydWUgZnJvZzIKCBISBk9ubGluZWAB&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQip4GKBB6BAg0EG4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=online+true+frog"
+    },
+    {
+      "query": "Clothing",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=clothing+true+frog&shoprs=GBIqCXRydWUgZnJvZzIMCBISCENsb3RoaW5nYAE&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQip4GKBF6BAg0EG8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=clothing+true+frog"
+    },
+    {
+      "query": "Female",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=female+true+frog&shoprs=GBIqCXRydWUgZnJvZzIKCBISBkZlbWFsZWAB&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQip4GKBJ6BAg0EHA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=female+true+frog"
+    },
+    {
+      "query": "Crankbait",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=crankbait+true+frog&shoprs=GAEqCXRydWUgZnJvZzIbCAESCUNyYW5rYmFpdDoMCICH4AEQhYfgATACWKayIGAB&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQip4GKBN6BAg0EHE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=crankbait+true+frog"
+    },
+    {
+      "query": "Bass",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=bass+true+frog&shoprs=GAEqCXRydWUgZnJvZzIWCAESBEJhc3M6DAiN04QDEKHUhAMwAFimsiBgAQ&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQip4GKBR6BAg0EHI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bass+true+frog"
+    },
+    {
+      "query": "Trout",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=trout+true+frog&shoprs=GAEqCXRydWUgZnJvZzIXCAESBVRyb3V0OgwIjdOEAxD204QDMABYprIgYAE&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQip4GKBV6BAg0EHM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=trout+true+frog"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=black+true+frog&shoprs=GAEqCXRydWUgZnJvZzIXCAESBUJsYWNrOgwI7IH9ARDugf0BMABYprIgYAE&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQip4GKBZ6BAg0EHQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=black+true+frog"
+    },
+    {
+      "query": "0.63 \u2013 0.88 oz",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=0.63+oz+to+0.88+oz+true+frog&shoprs=EhsqGQj_gf0BEhIJAAAAAAAA5D8RAAAAAAAA7D8YASoJdHJ1ZSBmcm9nMlQIARIQMC42MyDigJMgMC44OCBveiIbKhkI_4H9ARISCQAAAAAAAOQ_EQAAAAAAAOw_KhYKEjAuNjMgb3ogdG8gMC44OCBvehgBOgkI_4H9ARAAMAZYprIgYAE&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQip4GKBd6BAg0EHU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=0.63+oz+to+0.88+oz+true+frog"
+    },
+    {
+      "query": "0.5 \u2013 0.63 oz",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=0.5+oz+to+0.63+oz+true+frog&shoprs=EhsqGQj_gf0BEhIJAAAAAAAA4D8RAAAAAAAA5D8YASoJdHJ1ZSBmcm9nMlIIARIPMC41IOKAkyAwLjYzIG96IhsqGQj_gf0BEhIJAAAAAAAA4D8RAAAAAAAA5D8qFQoRMC41IG96IHRvIDAuNjMgb3oYAToJCP-B_QEQADAGWKayIGAB&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQip4GKBh6BAg0EHY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=0.5+oz+to+0.63+oz+true+frog"
+    },
+    {
+      "query": "Over 0.88 oz",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=over+0.88+oz+true+frog&shoprs=EhIqEAj_gf0BEgkJAAAAAAAA7D8YASoJdHJ1ZSBmcm9nMjMIARIMT3ZlciAwLjg4IG96IhIqEAj_gf0BEgkJAAAAAAAA7D8qAhgBOgkI_4H9ARAAMAZYprIgYAE&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQip4GKBl6BAg0EHc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=over+0.88+oz+true+frog"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Characteristics",
+        "subtitle": "Ranidae Characteristics",
+        "title": "Ranidae - AmphibiaWeb",
+        "link": "https://amphibiaweb.org/lists/Ranidae.shtml#:~:text=Commonly%20Called%20True%20Frogs&text=Ranids%20have%20generalized%20frog%20body,hatch%20into%20free%2Dliving%20tadpoles.",
+        "displayed_link": "https://amphibiaweb.org \u203a lists \u203a Ranidae",
+        "snippet": "Commonly Called True Frogs Ranids have generalized frog body forms with strong hindlimbs, toe webbing, and a generalized aquatic tadpole stage. Most species can be both terrestrial and aquatic as adults and breed in water to lay eggs that will hatch into free-living tadpoles.",
+        "snippet_highlighted_words": [
+          "generalized frog body forms with strong hindlimbs, toe webbing, and a generalized aquatic tadpole stage"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/c11633c4bf32f9465684268c67e06f155a48a70d8dbd752dafa6e647a98d5c79755a066219b2c527.png",
+        "source": "amphibiaweb.org",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=ranidae+characteristics&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQrooIegQIAxAH",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ranidae+characteristics"
+      },
+      {
+        "text": "Species",
+        "subtitle": "True Frog Species",
+        "thumbnail": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/c11633c4bf32f9465684268c67e06f1594db6ae396a1b0c3932b5f32a210f889d931d6c76d35f342.png",
+        "web_links": [
+          {
+            "title": "True frog - Wikipedia",
+            "snippet": "True frogs is the common name for the frog family Ranidae. They have the widest distribution of any frog family. They...",
+            "link": "https://en.wikipedia.org/wiki/True_frog",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFhRspHCydjiXj5IAHd_vUX5dD6MNb-7aYzoFep4LWL-ewMe0dwXUDaUwK-n4",
+            "source": "Wikipedia",
+            "source_thumbnail": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/c11633c4bf32f9465684268c67e06f1594db6ae396a1b0c3f0034d1a671ad6d9d241b43786fabb9f82323ab8619f5b6f86fd506e88dea512.png"
+          },
+          {
+            "title": "True Frogs - Family Ranidae - Minnesota DNR",
+            "snippet": "Their fingers are not webbed, although their toes are joined by webs. The presence of dorsolateral folds aids in the...",
+            "link": "https://www.dnr.state.mn.us/reptiles_amphibians/frogs_toads/truefrogs/index.html",
+            "source": "Minnesota DNR",
+            "source_thumbnail": "https://serpapi.com/searches/670a2f087e1d1f543cc85533/images/c11633c4bf32f9465684268c67e06f1594db6ae396a1b0c3f0034d1a671ad6d9b7d8a2aedcf0ea58db9017c015dcf27289301bcb3164f2df.png"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=true+frog+species&sa=X&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQrooIegQIAxAN",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=true+frog+species"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=true+frog&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=CC8KZ8acNNWKwbkPg9Pl0As&start=10&sa=N&sstk=Aagrsujht415Ee68nXr3kfpsbgTjRNmVhtJVHHfy79b1L47aEIJhFNDJ8Ccdi5Yb9bevYBX6KHZ3iMCt4uxuvYIhK5VpKsVuzI0fHw&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQ8NMDegQIDBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=true+frog&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=CC8KZ8acNNWKwbkPg9Pl0As&start=10&sa=N&sstk=Aagrsujht415Ee68nXr3kfpsbgTjRNmVhtJVHHfy79b1L47aEIJhFNDJ8Ccdi5Yb9bevYBX6KHZ3iMCt4uxuvYIhK5VpKsVuzI0fHw&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQ8tMDegQIDBAE",
+      "3": "https://www.google.com/search?q=true+frog&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=CC8KZ8acNNWKwbkPg9Pl0As&start=20&sa=N&sstk=Aagrsujht415Ee68nXr3kfpsbgTjRNmVhtJVHHfy79b1L47aEIJhFNDJ8Ccdi5Yb9bevYBX6KHZ3iMCt4uxuvYIhK5VpKsVuzI0fHw&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQ8tMDegQIDBAG",
+      "4": "https://www.google.com/search?q=true+frog&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=CC8KZ8acNNWKwbkPg9Pl0As&start=30&sa=N&sstk=Aagrsujht415Ee68nXr3kfpsbgTjRNmVhtJVHHfy79b1L47aEIJhFNDJ8Ccdi5Yb9bevYBX6KHZ3iMCt4uxuvYIhK5VpKsVuzI0fHw&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQ8tMDegQIDBAI",
+      "5": "https://www.google.com/search?q=true+frog&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=CC8KZ8acNNWKwbkPg9Pl0As&start=40&sa=N&sstk=Aagrsujht415Ee68nXr3kfpsbgTjRNmVhtJVHHfy79b1L47aEIJhFNDJ8Ccdi5Yb9bevYBX6KHZ3iMCt4uxuvYIhK5VpKsVuzI0fHw&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQ8tMDegQIDBAK",
+      "6": "https://www.google.com/search?q=true+frog&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=CC8KZ8acNNWKwbkPg9Pl0As&start=50&sa=N&sstk=Aagrsujht415Ee68nXr3kfpsbgTjRNmVhtJVHHfy79b1L47aEIJhFNDJ8Ccdi5Yb9bevYBX6KHZ3iMCt4uxuvYIhK5VpKsVuzI0fHw&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQ8tMDegQIDBAM",
+      "7": "https://www.google.com/search?q=true+frog&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=CC8KZ8acNNWKwbkPg9Pl0As&start=60&sa=N&sstk=Aagrsujht415Ee68nXr3kfpsbgTjRNmVhtJVHHfy79b1L47aEIJhFNDJ8Ccdi5Yb9bevYBX6KHZ3iMCt4uxuvYIhK5VpKsVuzI0fHw&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQ8tMDegQIDBAO",
+      "8": "https://www.google.com/search?q=true+frog&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=CC8KZ8acNNWKwbkPg9Pl0As&start=70&sa=N&sstk=Aagrsujht415Ee68nXr3kfpsbgTjRNmVhtJVHHfy79b1L47aEIJhFNDJ8Ccdi5Yb9bevYBX6KHZ3iMCt4uxuvYIhK5VpKsVuzI0fHw&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQ8tMDegQIDBAQ",
+      "9": "https://www.google.com/search?q=true+frog&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=CC8KZ8acNNWKwbkPg9Pl0As&start=80&sa=N&sstk=Aagrsujht415Ee68nXr3kfpsbgTjRNmVhtJVHHfy79b1L47aEIJhFNDJ8Ccdi5Yb9bevYBX6KHZ3iMCt4uxuvYIhK5VpKsVuzI0fHw&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQ8tMDegQIDBAS",
+      "10": "https://www.google.com/search?q=true+frog&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=CC8KZ8acNNWKwbkPg9Pl0As&start=90&sa=N&sstk=Aagrsujht415Ee68nXr3kfpsbgTjRNmVhtJVHHfy79b1L47aEIJhFNDJ8Ccdi5Yb9bevYBX6KHZ3iMCt4uxuvYIhK5VpKsVuzI0fHw&ved=2ahUKEwjGwMOhsoiJAxVVRTABHYNpGboQ8tMDegQIDBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=true+frog&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=true+frog&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=true+frog&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=true+frog&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=true+frog&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=true+frog&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=true+frog&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=true+frog&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=true+frog&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=true+frog&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=true+frog&start=90"
+    }
+  }
+}

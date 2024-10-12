@@ -1,0 +1,641 @@
+{
+  "search_metadata": {
+    "id": "670a2b89ee677f7ee6e977d1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c1830a4970660d5f/670a2b89ee677f7ee6e977d1.json",
+    "created_at": "2024-10-12 07:55:53 UTC",
+    "processed_at": "2024-10-12 07:55:53 UTC",
+    "google_url": "https://www.google.com/search?q=lettuce&oq=lettuce&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/c1830a4970660d5f/670a2b89ee677f7ee6e977d1.html",
+    "total_time_taken": 1.77
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "lettuce",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "lettuce",
+    "total_results": 285000000,
+    "time_taken_displayed": 0.28,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "recipes_results": [
+    {
+      "title": "Butter Lettuce Salad with Honey Mustard Vinaigrette",
+      "link": "https://themodernproper.com/butter-lettuce-salad-with-honey-mustard-vinaigrette",
+      "source": "The Modern Proper",
+      "rating": 5.0,
+      "reviews": 5,
+      "total_time": "20 min",
+      "ingredients": [
+        "Butter lettuce",
+        "honey",
+        "dijon mustard",
+        "olive oil",
+        "lemon juice"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_zmJjTsenyPw3NURsmQjULyG9dHAx0-2Va1viesVS4uDevAiEfmjJ52qQ&s"
+    },
+    {
+      "title": "Lettuce recipes",
+      "link": "https://www.bbcgoodfood.com/recipes/collection/lettuce-recipes",
+      "source": "BBC Good Food",
+      "ingredients": [
+        "Lettuce"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcOyCUshsVJzFBa6h_eGfTCpZilSROqbC54GKOxdVqF2GaOT_AUxRdkOzavw&s"
+    },
+    {
+      "title": "Red Leaf Lettuce & Pear Salad",
+      "link": "https://carolinechambers.com/recipes/salads-and-bowls/red-leaf-lettuce-pear-salad",
+      "source": "Caroline Chambers",
+      "ingredients": [
+        "Apple cider vinegar",
+        "butter lettuce",
+        "gouda",
+        "tahini",
+        "honey"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ99OmE6kdN4ZX1AM_iTto5GrkcStF8HntiRkKwGiSMZGegMwS4jrXvpzep&s"
+    },
+    {
+      "title": "Lettuce Recipes",
+      "link": "https://www.hellofresh.com/recipes/vegetarian-recipes/lettuce",
+      "source": "HelloFresh",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-l_SRUFgEo3C9r9TWhDizK_smX7b6BWBwKI4lp-fcEI2EkvjqCo1rVZI34A&s"
+    }
+  ],
+  "knowledge_graph": {
+    "title": "Lettuce",
+    "type": "Vegetable",
+    "entity_type": "biology, food",
+    "main_tab_text": "Overview",
+    "kgmid": "/m/0fqlj",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0fqlj&hl=en-US&q=Lettuce&shndl=17&source=sh/x/kp/osrp/m5/1",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0fqlj&location=Austin%2CTexas%2CUnited+States&q=Lettuce",
+    "tabs": [
+      {
+        "text": "Nutrition facts",
+        "si": "ACC90nzK9txMLHQFiv9hpViDGmoEpfpmoG9c5uCNvoB5L0Dy0XBBO7JZWSl-1TpMjDozT4NW7m8WhdqAMIDTOkIadVLuBLcp_aaj1s2REWht6JteUu4x7t-6rL3nD0Cpf45K8Vkg0lar72CArl4Cm4etj-SA2XwZwQ==",
+        "link": "https://www.google.com/search?si=ACC90nzK9txMLHQFiv9hpViDGmoEpfpmoG9c5uCNvoB5L0Dy0XBBO7JZWSl-1TpMjDozT4NW7m8WhdqAMIDTOkIadVLuBLcp_aaj1s2REWht6JteUu4x7t-6rL3nD0Cpf45K8Vkg0lar72CArl4Cm4etj-SA2XwZwQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lettuce&si=ACC90nzK9txMLHQFiv9hpViDGmoEpfpmoG9c5uCNvoB5L0Dy0XBBO7JZWSl-1TpMjDozT4NW7m8WhdqAMIDTOkIadVLuBLcp_aaj1s2REWht6JteUu4x7t-6rL3nD0Cpf45K8Vkg0lar72CArl4Cm4etj-SA2XwZwQ%3D%3D"
+      },
+      {
+        "text": "Lower classifications",
+        "si": "ACC90nw9u7Ejwdz41Ixemr1dIq2MJR4S5ABpLtfilW6cqNvFdtF4S8JbiIjZ9aUTUcpY5eWRGveNcxzO5D_L1t7nrJ3lBtWFEctIKAOi42FQWMQWtLJsEj64NvxKeEdx2y1xZNxGM-M2UCxcKI3Pvy4ELuJkcQ9Y-6enb27jJ7gLddzT83ue3Fc=",
+        "link": "https://www.google.com/search?si=ACC90nw9u7Ejwdz41Ixemr1dIq2MJR4S5ABpLtfilW6cqNvFdtF4S8JbiIjZ9aUTUcpY5eWRGveNcxzO5D_L1t7nrJ3lBtWFEctIKAOi42FQWMQWtLJsEj64NvxKeEdx2y1xZNxGM-M2UCxcKI3Pvy4ELuJkcQ9Y-6enb27jJ7gLddzT83ue3Fc=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lettuce&si=ACC90nw9u7Ejwdz41Ixemr1dIq2MJR4S5ABpLtfilW6cqNvFdtF4S8JbiIjZ9aUTUcpY5eWRGveNcxzO5D_L1t7nrJ3lBtWFEctIKAOi42FQWMQWtLJsEj64NvxKeEdx2y1xZNxGM-M2UCxcKI3Pvy4ELuJkcQ9Y-6enb27jJ7gLddzT83ue3Fc%3D"
+      },
+      {
+        "text": "Benefits",
+        "si": "ACC90nwZt9ciGwENsdSy3iD-x77SRrgb9jj2gFwjvcPCWwTlc9GIoLVr9ZR9VV-gNZAU3GkYh6Rh9E5MnnmP4mRVTLkxbiwx1PFfresWqY7m2NB1d1MNBaU=",
+        "link": "https://www.google.com/search?si=ACC90nwZt9ciGwENsdSy3iD-x77SRrgb9jj2gFwjvcPCWwTlc9GIoLVr9ZR9VV-gNZAU3GkYh6Rh9E5MnnmP4mRVTLkxbiwx1PFfresWqY7m2NB1d1MNBaU=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lettuce&si=ACC90nwZt9ciGwENsdSy3iD-x77SRrgb9jj2gFwjvcPCWwTlc9GIoLVr9ZR9VV-gNZAU3GkYh6Rh9E5MnnmP4mRVTLkxbiwx1PFfresWqY7m2NB1d1MNBaU%3D"
+      },
+      {
+        "text": "Recipes",
+        "si": "ACC90nxejdEeXkshbQvL44EObtt-EVTD-PZRDtX-l-DY2oD0dSNmXfxZs_IRnslrd_Z6brHGaofHbg6PiZpnk2X0x1k_oyb3QfON4lC4MF14zjnqAsBXvSc=",
+        "link": "https://www.google.com/search?si=ACC90nxejdEeXkshbQvL44EObtt-EVTD-PZRDtX-l-DY2oD0dSNmXfxZs_IRnslrd_Z6brHGaofHbg6PiZpnk2X0x1k_oyb3QfON4lC4MF14zjnqAsBXvSc=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lettuce&si=ACC90nxejdEeXkshbQvL44EObtt-EVTD-PZRDtX-l-DY2oD0dSNmXfxZs_IRnslrd_Z6brHGaofHbg6PiZpnk2X0x1k_oyb3QfON4lC4MF14zjnqAsBXvSc%3D"
+      }
+    ],
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2b89ee677f7ee6e977d1/images/73d7e0d9608df690bc8149f30b2ef5daf33e8d410402d1cb2465e8cfdb60da343df801f016e8923d.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2b89ee677f7ee6e977d1/images/73d7e0d9608df690bc8149f30b2ef5daf33e8d410402d1cbd938843686b067360dfd3e3327559ff0.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2b89ee677f7ee6e977d1/images/73d7e0d9608df690bc8149f30b2ef5daf33e8d410402d1cbc3c249d3fecb1b84df4209cd8bbe363d.webp"
+      }
+    ],
+    "description": "Lettuce is an annual plant of the family Asteraceae. It is most often grown as a leaf vegetable, but sometimes for its stem and seeds. Lettuce is most often used for salads, although it is also seen in other kinds of food, such as soups, sandwiches and wraps; it can also be grilled.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Lettuce"
+    },
+    "scientific_name": "Lactuca sativa",
+    "sources_include": "USDAUSDAUSDAUSDALettuce, green leaf5 Calories - 1 cup shredded (36 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/169249/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/169248/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/168431/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/169247/nutrients"
+      }
+    ],
+    "web_results": [
+      {
+        "thumbnail": "https://serpapi.com/searches/670a2b89ee677f7ee6e977d1/images/73d7e0d9608df690bc8149f30b2ef5da3c373d0615b32989bda78fc0c1b404d51bca6262f5f0829a.jpeg",
+        "title": "The Ultimate Guide To Lettuce and Salad Green Varieties",
+        "snippet": "The multitude of lettuce varieties available at the grocery store and farmer's markets offer a wide range of textures, colors, and flavors.",
+        "link": "https://www.thespruceeats.com/varieties-of-lettuce-4065606"
+      },
+      {
+        "title": "Fruit or Vegetable",
+        "snippet": "Vegetable",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Vegetable&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L5pXFHBUjr1dKho6u60elQywdGNbjqarWJxiymkh0r4vB55MQLBEJ28JzvnTmxBQUKBNXuy2Vfg0VPsC4BD_9jDpcc5U9WSKTKejK5GDjk-qcDszLdJSzy2C1d4WXMoijjX3I8DxtWuTz0zxZfTqaGjscG26&sa=X&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQ18AJegQIJhAB"
+      },
+      {
+        "title": "Family",
+        "snippet": "Daisy family",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Asteraceae&si=ACC90nyYzndfSpHALlN52qAqlQZE2s8nxEbc9OSW3jbjf5_eZnjivfMhYDU_eDcfBG-jUbkiMVWJwq2lP6QIJpHoDosw8e-jI4o8dnB6ZEOKa3VNn23UoDihCOI_oTIvMw-ukLJcUZxwby3P79KhM7XtMhREfdS4HhZoSEDhgavoI20ltXK9iE5LTZIskbfkSKqx4WRggFJv&sa=X&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQ18AJegQIJBAB"
+      },
+      {
+        "thumbnail": "https://serpapi.com/searches/670a2b89ee677f7ee6e977d1/images/73d7e0d9608df690bc8149f30b2ef5da3c373d0615b329898134657877ce9d2f02ddc683ab5ec28a.jpeg",
+        "title": "4 Types of Lettuce to Grow in Your Garden",
+        "source": "YouTube \u2022 Stoney Acres Gardening",
+        "source_image": "https://serpapi.com/searches/670a2b89ee677f7ee6e977d1/images/73d7e0d9608df690bc8149f30b2ef5da3c373d0615b32989485c5e8fa912665a8ceafe545d6eb48889dcf39232c8de3d.png",
+        "link": "https://www.youtube.com/watch?v=nK_bliEPDXA",
+        "duration": "10:03"
+      }
+    ],
+    "lower_classifications": [
+      {
+        "name": "Iceberg lettuce",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Iceberg+lettuce&stick=H4sIAAAAAAAAAONgFuLQz9U3SCvMyVLiArFMTMySDXK0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixex8nsmpyalFqUr5KSWlJQmp-5gZQQAqgpXCmgAAAA&sa=X&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQxA16BAghEAM",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Iceberg+lettuce&stick=H4sIAAAAAAAAAONgFuLQz9U3SCvMyVLiArFMTMySDXK0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixex8nsmpyalFqUr5KSWlJQmp-5gZQQAqgpXCmgAAAA",
+        "image": "https://serpapi.com/searches/670a2b89ee677f7ee6e977d1/images/73d7e0d9608df690bc8149f30b2ef5dacdea8c5b943b6b5f2baa83514b5583b78c94c814b04348f886597864f2de4e98.jpeg"
+      },
+      {
+        "name": "Butterhead lettuce",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Butterhead+lettuce&stick=H4sIAAAAAAAAAONgFuLQz9U3SCvMyVLi1k_XNzQyKDAxLUrRssxOttJPyszPyU-v1M8vSk_MyyzOjU_OSSwuzkzLTE4syczPs8rJL08tUkAVLF7EKuRUWlKSWpSRmpiikJNaUlKanLqDlREApG5-fmwAAAA&sa=X&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQxA16BAghEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Butterhead+lettuce&stick=H4sIAAAAAAAAAONgFuLQz9U3SCvMyVLi1k_XNzQyKDAxLUrRssxOttJPyszPyU-v1M8vSk_MyyzOjU_OSSwuzkzLTE4syczPs8rJL08tUkAVLF7EKuRUWlKSWpSRmpiikJNaUlKanLqDlREApG5-fmwAAAA",
+        "image": "https://serpapi.com/searches/670a2b89ee677f7ee6e977d1/images/73d7e0d9608df690bc8149f30b2ef5dacdea8c5b943b6b5f2baa83514b5583b76791e9d376723750619ddf35c81db72b.jpeg"
+      },
+      {
+        "name": "Batavia lettuce",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Batavia+lettuce&stick=H4sIAAAAAAAAAONgFuLQz9U3SCvMyVLi1k_XNzQyKk5PSi_QssxOttJPyszPyU-v1M8vSk_MyyzOjU_OSSwuzkzLTE4syczPs8rJL08tUkAVLF7Eyu-UWJJYlpmokJNaUlKanLqDlREAOBGMUWkAAAA&sa=X&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQxA16BAghEAc",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Batavia+lettuce&stick=H4sIAAAAAAAAAONgFuLQz9U3SCvMyVLi1k_XNzQyKk5PSi_QssxOttJPyszPyU-v1M8vSk_MyyzOjU_OSSwuzkzLTE4syczPs8rJL08tUkAVLF7Eyu-UWJJYlpmokJNaUlKanLqDlREAOBGMUWkAAAA",
+        "image": "https://serpapi.com/searches/670a2b89ee677f7ee6e977d1/images/73d7e0d9608df690bc8149f30b2ef5dacdea8c5b943b6b5f2baa83514b5583b7cbf97dc4d3928b6c8c0fc8c68e81ebe9.jpeg"
+      },
+      {
+        "name": "Leaf lettuce",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Leaf+lettuce&stick=H4sIAAAAAAAAAONgFuLQz9U3SCvMyVLi1k_XNzQyLDA3tjTTssxOttJPyszPyU-v1M8vSk_MyyzOjU_OSSwuzkzLTE4syczPs8rJL08tUkAVLF7EyuOTmpimkJNaUlKanLqDlREAmzxkJmYAAAA&sa=X&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQxA16BAghEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Leaf+lettuce&stick=H4sIAAAAAAAAAONgFuLQz9U3SCvMyVLi1k_XNzQyLDA3tjTTssxOttJPyszPyU-v1M8vSk_MyyzOjU_OSSwuzkzLTE4syczPs8rJL08tUkAVLF7EyuOTmpimkJNaUlKanLqDlREAmzxkJmYAAAA",
+        "image": "https://serpapi.com/searches/670a2b89ee677f7ee6e977d1/images/73d7e0d9608df690bc8149f30b2ef5dacdea8c5b943b6b5f2baa83514b5583b7b951fb1f8f1d4a252e7e69f8452d1127.jpeg"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "0.1 g",
+        "0%"
+      ],
+      "cholesterol": [
+        "0 mg",
+        "0%"
+      ],
+      "sodium": [
+        "10 mg",
+        "0%"
+      ],
+      "potassium": [
+        "70 mg",
+        "2%"
+      ],
+      "total_carbohydrate": [
+        "1 g",
+        "0%"
+      ],
+      "protein": [
+        "0.5 g",
+        "1%"
+      ]
+    }
+  },
+  "related_questions": [
+    {
+      "question": "What is the healthiest lettuce?",
+      "snippet": "While all lettuce is going to provide you with healthy vitamins and minerals, romaine lettuce is the most nutrient-dense, says registered dietitian Danielle Crumble Smith. \u201cIt's going to have the highest amount of vitamin A, K, C,\u201d she says.",
+      "title": "romaine lettuce",
+      "date": "Nov 4, 2023",
+      "link": "https://www.usatoday.com/story/life/food-dining/2023/11/04/what-is-the-healthiest-lettuce/71314700007/#:~:text=While%20all%20lettuce%20is%20going,%2C%20C%2C%E2%80%9D%20she%20says.",
+      "displayed_link": "https://www.usatoday.com \u203a food-dining \u203a 2023/11/04",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKQ_pqJTflicQeSPpUAPOk7P_KxL2bf829GDSZVdkqCkrHRVpCRXJZf-_ptA&s",
+      "source_logo": "https://serpapi.com/searches/670a2b89ee677f7ee6e977d1/images/ee8a9d473483e320ad67ddc73650417135baa8b319453b89ebf20536d0d38b5f.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UGNEbE1PQzAwWm5aVFJFMUNVVXhIUVZvdFpURlVObFpOZFhCVVYxQm9UR3BYTTJkdE9GaDRka1o2UjNoSVUzb3dabU4wUkZWMmVreGxWVmRLTmxsSWQwZHBUMHBIRWhkcGFYTkxXalJVYWtSTWVrbDNUalJRTFVzelduRlJVUm9pUVVaWWNrVmpjRmhTYW5Cd01IQXhVVlpWZWpSclZWaGFhV2szVHpkRFdWaE1adyIsImZjdiI6IjMiLCJlaSI6Imlpc0taNFRqREx6SXdONFAtSzNacVFRIiwicWMiOiJDZ2RzWlhSMGRXTmxFQUI5RzhVb1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBoZWFsdGhpZXN0IGxldHR1Y2U/IiwibGsiOiJHaDUzYUdGMElHbHpJSFJvWlNCb1pXRnNkR2hwWlhOMElHeGxkSFIxWTJVIiwiYnMiOiJjLU55NDVJUHowZ3NVY2dzVmlqSlNGWElTRTNNS2NuSVRDMHVVY2hKTFNrcFRVNjFsMmlSTlZLUWtpdkhxNHJMajBzWmJFNUtmbW94VEJESVVVakxMMUtvekM4dFVraktUNm0wbDVoZFphUWlwVlJPVUNXWE5aY0MyTHpFb2xTd2xTWUtKWlVGUUEzNWFRaUhiZVF6RXBFU3dwVGhzdUNTOE1ndkJ4a0tORkFodlFqSWhtdmFHV2NrS1NXZWdWMWFnQkVBIiwiaWQiOiJmY19paXNLWjRUakRMekl3TjRQLUszWnFRUV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UGNEbE1PQzAwWm5aVFJFMUNVVXhIUVZvdFpURlVObFpOZFhCVVYxQm9UR3BYTTJkdE9GaDRka1o2UjNoSVUzb3dabU4wUkZWMmVreGxWVmRLTmxsSWQwZHBUMHBIRWhkcGFYTkxXalJVYWtSTWVrbDNUalJRTFVzelduRlJVUm9pUVVaWWNrVmpjRmhTYW5Cd01IQXhVVlpWZWpSclZWaGFhV2szVHpkRFdWaE1adyIsImZjdiI6IjMiLCJlaSI6Imlpc0taNFRqREx6SXdONFAtSzNacVFRIiwicWMiOiJDZ2RzWlhSMGRXTmxFQUI5RzhVb1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBoZWFsdGhpZXN0IGxldHR1Y2U%2FIiwibGsiOiJHaDUzYUdGMElHbHpJSFJvWlNCb1pXRnNkR2hwWlhOMElHeGxkSFIxWTJVIiwiYnMiOiJjLU55NDVJUHowZ3NVY2dzVmlqSlNGWElTRTNNS2NuSVRDMHVVY2hKTFNrcFRVNjFsMmlSTlZLUWtpdkhxNHJMajBzWmJFNUtmbW94VEJESVVVakxMMUtvekM4dFVraktUNm0wbDVoZFphUWlwVlJPVUNXWE5aY0MyTHpFb2xTd2xTWUtKWlVGUUEzNWFRaUhiZVF6RXBFU3dwVGhzdUNTOE1ndkJ4a0tORkFodlFqSWhtdmFHV2NrS1NXZWdWMWFnQkVBIiwiaWQiOiJmY19paXNLWjRUakRMekl3TjRQLUszWnFRUV8xIn0%3D"
+    },
+    {
+      "question": "What does lettuce do for your body?",
+      "snippet": "Did you know? Lettuce is an excellent source of beta carotene (vitamin A) which is needed for healthy skin, bones, and eyes. Lettuce is a fair source of folate, which is needed for healthy cells and the healthy growth of babies during pregnancy in order to prevent neural tube defects.",
+      "title": "Lettuce - Health and Social Services",
+      "link": "https://www.hss.gov.nt.ca/en/services/nutritional-food-fact-sheet-series/lettuce#:~:text=Did%20you%20know%3F,to%20prevent%20neural%20tube%20defects.",
+      "displayed_link": "https://www.hss.gov.nt.ca \u203a services \u203a lettuce",
+      "source_logo": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UGNEbE1PQzAwWm5aVFJFMUNVVXhIUVZvdFpURlVObFpOZFhCVVYxQm9UR3BYTTJkdE9GaDRka1o2UjNoSVUzb3dabU4wUkZWMmVreGxWVmRLTmxsSWQwZHBUMHBIRWhkcGFYTkxXalJVYWtSTWVrbDNUalJRTFVzelduRlJVUm9pUVVaWWNrVmpjRmhTYW5Cd01IQXhVVlpWZWpSclZWaGFhV2szVHpkRFdWaE1adyIsImZjdiI6IjMiLCJlaSI6Imlpc0taNFRqREx6SXdONFAtSzNacVFRIiwicWMiOiJDZ2RzWlhSMGRXTmxFQUI5RzhVb1B3IiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgbGV0dHVjZSBkbyBmb3IgeW91ciBib2R5PyIsImxrIjoiR2lKM2FHRjBJR1J2WlhNZ2JHVjBkSFZqWlNCa2J5Qm1iM0lnZVc5MWNpQmliMlI1IiwiYnMiOiJjLU55NDVJUHowZ3NVY2dzVmlqSlNGWElTRTNNS2NuSVRDMHVVY2hKTFNrcFRVNjFsMmlSTlZLUWtpdkhxNHJMajBzWmJFNUtmbW94VEJESVVVakxMMUtvekM4dFVraktUNm0wbDVoZFphUWlwVlJPVUNXWE5aY0MyTHpFb2xTd2xTWUtKWlVGUUEzNWFRaUhiZVF6RXBFU3dwVGhzdUNTOE1ndkJ4a0tORkFodlFqSWhtdmFHV2NrS1NXZWdWMWFnQkVBIiwiaWQiOiJmY19paXNLWjRUakRMekl3TjRQLUszWnFRUV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UGNEbE1PQzAwWm5aVFJFMUNVVXhIUVZvdFpURlVObFpOZFhCVVYxQm9UR3BYTTJkdE9GaDRka1o2UjNoSVUzb3dabU4wUkZWMmVreGxWVmRLTmxsSWQwZHBUMHBIRWhkcGFYTkxXalJVYWtSTWVrbDNUalJRTFVzelduRlJVUm9pUVVaWWNrVmpjRmhTYW5Cd01IQXhVVlpWZWpSclZWaGFhV2szVHpkRFdWaE1adyIsImZjdiI6IjMiLCJlaSI6Imlpc0taNFRqREx6SXdONFAtSzNacVFRIiwicWMiOiJDZ2RzWlhSMGRXTmxFQUI5RzhVb1B3IiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgbGV0dHVjZSBkbyBmb3IgeW91ciBib2R5PyIsImxrIjoiR2lKM2FHRjBJR1J2WlhNZ2JHVjBkSFZqWlNCa2J5Qm1iM0lnZVc5MWNpQmliMlI1IiwiYnMiOiJjLU55NDVJUHowZ3NVY2dzVmlqSlNGWElTRTNNS2NuSVRDMHVVY2hKTFNrcFRVNjFsMmlSTlZLUWtpdkhxNHJMajBzWmJFNUtmbW94VEJESVVVakxMMUtvekM4dFVraktUNm0wbDVoZFphUWlwVlJPVUNXWE5aY0MyTHpFb2xTd2xTWUtKWlVGUUEzNWFRaUhiZVF6RXBFU3dwVGhzdUNTOE1ndkJ4a0tORkFodlFqSWhtdmFHV2NrS1NXZWdWMWFnQkVBIiwiaWQiOiJmY19paXNLWjRUakRMekl3TjRQLUszWnFRUV8xIn0%3D"
+    },
+    {
+      "question": "What are the 4 types of lettuce?",
+      "snippet": "There are four main types of lettuce: romaine (or cos), which forms tall and loose oblong heads; crisphead, which grows in tight heads that resemble cabbage; butterhead, which grows in soft, thick-leaved heads; and looseleaf, or leaf lettuce, which grows in a loose rosette of tender leaves off the stem.",
+      "title": "10 Types of Lettuce and What They're Used for - HelloFresh",
+      "link": "https://www.hellofresh.com/eat/ingredient-info/10-types-of-lettuce-and-what-they-are-used-for#:~:text=There%20are%20four%20main%20types,tender%20leaves%20off%20the%20stem.",
+      "displayed_link": "https://www.hellofresh.com \u203a eat \u203a ingredient-info \u203a 10-ty...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaDw-PwAe2l-QuJ91d1R4JRgKOPkNWtNhazAwSpFLlYOE-GVdvxQLc18IfwA&s",
+      "source_logo": "https://serpapi.com/searches/670a2b89ee677f7ee6e977d1/images/ee8a9d473483e320ad67ddc73650417121e9bdad45579be905cf4e79e1cbb793.webp",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UGNEbE1PQzAwWm5aVFJFMUNVVXhIUVZvdFpURlVObFpOZFhCVVYxQm9UR3BYTTJkdE9GaDRka1o2UjNoSVUzb3dabU4wUkZWMmVreGxWVmRLTmxsSWQwZHBUMHBIRWhkcGFYTkxXalJVYWtSTWVrbDNUalJRTFVzelduRlJVUm9pUVVaWWNrVmpjRmhTYW5Cd01IQXhVVlpWZWpSclZWaGFhV2szVHpkRFdWaE1adyIsImZjdiI6IjMiLCJlaSI6Imlpc0taNFRqREx6SXdONFAtSzNacVFRIiwicWMiOiJDZ2RzWlhSMGRXTmxFQUI5RzhVb1B3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgNCB0eXBlcyBvZiBsZXR0dWNlPyIsImxrIjoiR2hJMElIUjVjR1Z6SUc5bUlHeGxkSFIxWTJVIiwiYnMiOiJjLU55NDVJUHowZ3NVY2dzVmlqSlNGWElTRTNNS2NuSVRDMHVVY2hKTFNrcFRVNjFsMmlSTlZLUWtpdkhxNHJMajBzWmJFNUtmbW94VEJESVVVakxMMUtvekM4dFVraktUNm0wbDVoZFphUWlwVlJPVUNXWE5aY0MyTHpFb2xTd2xTWUtKWlVGUUEzNWFRaUhiZVF6RXBFU3dwVGhzdUNTOE1ndkJ4a0tORkFodlFqSWhtdmFHV2NrS1NXZWdWMWFnQkVBIiwiaWQiOiJmY19paXNLWjRUakRMekl3TjRQLUszWnFRUV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UGNEbE1PQzAwWm5aVFJFMUNVVXhIUVZvdFpURlVObFpOZFhCVVYxQm9UR3BYTTJkdE9GaDRka1o2UjNoSVUzb3dabU4wUkZWMmVreGxWVmRLTmxsSWQwZHBUMHBIRWhkcGFYTkxXalJVYWtSTWVrbDNUalJRTFVzelduRlJVUm9pUVVaWWNrVmpjRmhTYW5Cd01IQXhVVlpWZWpSclZWaGFhV2szVHpkRFdWaE1adyIsImZjdiI6IjMiLCJlaSI6Imlpc0taNFRqREx6SXdONFAtSzNacVFRIiwicWMiOiJDZ2RzWlhSMGRXTmxFQUI5RzhVb1B3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgNCB0eXBlcyBvZiBsZXR0dWNlPyIsImxrIjoiR2hJMElIUjVjR1Z6SUc5bUlHeGxkSFIxWTJVIiwiYnMiOiJjLU55NDVJUHowZ3NVY2dzVmlqSlNGWElTRTNNS2NuSVRDMHVVY2hKTFNrcFRVNjFsMmlSTlZLUWtpdkhxNHJMajBzWmJFNUtmbW94VEJESVVVakxMMUtvekM4dFVraktUNm0wbDVoZFphUWlwVlJPVUNXWE5aY0MyTHpFb2xTd2xTWUtKWlVGUUEzNWFRaUhiZVF6RXBFU3dwVGhzdUNTOE1ndkJ4a0tORkFodlFqSWhtdmFHV2NrS1NXZWdWMWFnQkVBIiwiaWQiOiJmY19paXNLWjRUakRMekl3TjRQLUszWnFRUV8xIn0%3D"
+    },
+    {
+      "question": "How do you grow lettuce?",
+      "snippet": "Summary. Lettuce is a cool-season vegetable that prefers sunny locations and fertile, well-drained soil. Plant seeds \u00bc-\u00bd inch deep, 2-3 weeks before the last frost. Final spacing for head lettuce should be 8-12 inches apart in the row with rows 12-18 inches apart.",
+      "title": "How to Grow Lettuce in Your Garden | USU",
+      "link": "https://extension.usu.edu/yardandgarden/research/lettuce-in-the-garden#:~:text=Summary,rows%2012%2D18%20inches%20apart.",
+      "displayed_link": "https://extension.usu.edu \u203a yardandgarden \u203a research \u203a let...",
+      "source_logo": "https://serpapi.com/searches/670a2b89ee677f7ee6e977d1/images/ee8a9d473483e320ad67ddc736504171708416ee9d0d799258d6ec752a9e33ff.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UGNEbE1PQzAwWm5aVFJFMUNVVXhIUVZvdFpURlVObFpOZFhCVVYxQm9UR3BYTTJkdE9GaDRka1o2UjNoSVUzb3dabU4wUkZWMmVreGxWVmRLTmxsSWQwZHBUMHBIRWhkcGFYTkxXalJVYWtSTWVrbDNUalJRTFVzelduRlJVUm9pUVVaWWNrVmpjRmhTYW5Cd01IQXhVVlpWZWpSclZWaGFhV2szVHpkRFdWaE1adyIsImZjdiI6IjMiLCJlaSI6Imlpc0taNFRqREx6SXdONFAtSzNacVFRIiwicWMiOiJDZ2RzWlhSMGRXTmxFQUI5RzhVb1B3IiwicXVlc3Rpb24iOiJIb3cgZG8geW91IGdyb3cgbGV0dHVjZT8iLCJsayI6IkdoZG9iM2NnWkc4Z2VXOTFJR2R5YjNjZ2JHVjBkSFZqWlEiLCJicyI6ImMtTnk0NUlQejBnc1VjZ3NWaWpKU0ZYSVNFM01LY25JVEMwdVVjaEpMU2twVFU2MWwyaVJOVktRa2l2SHE0ckxqMHNaYkU1S2Ztb3hUQkRJVVVqTEwxS296Qzh0VWtqS1Q2bTBsNWhkWmFRaXBWUk9VQ1dYTlpjQzJMekVvbFN3bFNZS0paVUZRQTM1YVFpSGJlUXpFcEVTd3BUaHN1Q1M4TWd2QnhrS05GQWh2UWpJaG12YUdXY2tLU1dlZ1YxYWdCRUEiLCJpZCI6ImZjX2lpc0taNFRqREx6SXdONFAtSzNacVFRXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UGNEbE1PQzAwWm5aVFJFMUNVVXhIUVZvdFpURlVObFpOZFhCVVYxQm9UR3BYTTJkdE9GaDRka1o2UjNoSVUzb3dabU4wUkZWMmVreGxWVmRLTmxsSWQwZHBUMHBIRWhkcGFYTkxXalJVYWtSTWVrbDNUalJRTFVzelduRlJVUm9pUVVaWWNrVmpjRmhTYW5Cd01IQXhVVlpWZWpSclZWaGFhV2szVHpkRFdWaE1adyIsImZjdiI6IjMiLCJlaSI6Imlpc0taNFRqREx6SXdONFAtSzNacVFRIiwicWMiOiJDZ2RzWlhSMGRXTmxFQUI5RzhVb1B3IiwicXVlc3Rpb24iOiJIb3cgZG8geW91IGdyb3cgbGV0dHVjZT8iLCJsayI6IkdoZG9iM2NnWkc4Z2VXOTFJR2R5YjNjZ2JHVjBkSFZqWlEiLCJicyI6ImMtTnk0NUlQejBnc1VjZ3NWaWpKU0ZYSVNFM01LY25JVEMwdVVjaEpMU2twVFU2MWwyaVJOVktRa2l2SHE0ckxqMHNaYkU1S2Ztb3hUQkRJVVVqTEwxS296Qzh0VWtqS1Q2bTBsNWhkWmFRaXBWUk9VQ1dYTlpjQzJMekVvbFN3bFNZS0paVUZRQTM1YVFpSGJlUXpFcEVTd3BUaHN1Q1M4TWd2QnhrS05GQWh2UWpJaG12YUdXY2tLU1dlZ1YxYWdCRUEiLCJpZCI6ImZjX2lpc0taNFRqREx6SXdONFAtSzNacVFRXzEifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Lettuce",
+      "link": "https://en.wikipedia.org/wiki/Lettuce",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Lettuce&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQFnoECDwQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Lettuce",
+      "thumbnail": "https://serpapi.com/searches/670a2b89ee677f7ee6e977d1/images/88b249b0e7a8b10e3d77cc3f0b8806049714f881c2334f7b639e98c1136d2619.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2b89ee677f7ee6e977d1/images/88b249b0e7a8b10e3d77cc3f0b8806045b9d72241140e902b3284d3c70ac6f19.webp",
+      "snippet": "Lettuce (Lactuca sativa) is an annual plant of the family Asteraceae. It is most often grown as a leaf vegetable, but sometimes for its stem and seeds.",
+      "snippet_highlighted_words": [
+        "Lettuce"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Romaine lettuce",
+            "link": "https://en.wikipedia.org/wiki/Romaine_lettuce"
+          },
+          {
+            "title": "Category:Lettuce",
+            "link": "https://en.wikipedia.org/wiki/Category:Lettuce"
+          },
+          {
+            "title": "Red leaf lettuce",
+            "link": "https://en.wikipedia.org/wiki/Red_leaf_lettuce"
+          },
+          {
+            "title": "Lettuce (disambiguation)",
+            "link": "https://en.wikipedia.org/wiki/Lettuce_(disambiguation)"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "LETTUCE",
+      "link": "https://www.lettucefunk.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lettucefunk.com/&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQFnoECFkQAQ",
+      "displayed_link": "https://www.lettucefunk.com",
+      "favicon": "https://serpapi.com/searches/670a2b89ee677f7ee6e977d1/images/88b249b0e7a8b10e3d77cc3f0b8806048807852c8d548b5456b1190799703237.webp",
+      "snippet": "Tour, merchandise, new music, and more from funk band Lettuce.",
+      "snippet_highlighted_words": [
+        "Lettuce"
+      ],
+      "source": "lettucefunk.com"
+    },
+    {
+      "position": 3,
+      "title": "10 Types of Lettuce and What They're Used for",
+      "link": "https://www.hellofresh.com/eat/ingredient-info/10-types-of-lettuce-and-what-they-are-used-for",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hellofresh.com/eat/ingredient-info/10-types-of-lettuce-and-what-they-are-used-for&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQFnoECHcQAQ",
+      "displayed_link": "https://www.hellofresh.com \u203a eat \u203a ingredient-info \u203a 10-ty...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM-6doIhbsE-p8ZWODbeEG6740USoVxBNSpC8arWkFqGHwJlBu5gVOg4-tYtVd-sJXVaA&s",
+      "favicon": "https://serpapi.com/searches/670a2b89ee677f7ee6e977d1/images/88b249b0e7a8b10e3d77cc3f0b8806049588cba293e573644c1bd8244c684ed0.webp",
+      "snippet": "There are four main types of lettuce: romaine (or cos), which forms tall and loose oblong heads; crisphead, which grows in tight heads that resemble cabbage; ...",
+      "snippet_highlighted_words": [
+        "lettuce"
+      ],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM-6doIhbsE-p8ZWODbeEG6740USoVxBNSpC8arWkFqGHwJlBu5gVOg4-tYtVd-sJXVaA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ-1WqyLIgbLR96qRxMu6mvF1cS_WMnnTXVEdAznf_XQ3Z7h22PFLIds2qIaxGiy4Qemc&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTojuHk8Yg66hWU1ToHXX-ksJuPbbw8mzJ8nsSGeBiOpYVmeWruPB_s&s"
+      ],
+      "source": "HelloFresh"
+    },
+    {
+      "position": 4,
+      "title": "Lettuce: Health Benefits, Nutrients, Preparation, and More",
+      "link": "https://www.webmd.com/diet/health-benefits-lettuce",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.webmd.com/diet/health-benefits-lettuce&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQFnoECFoQAQ",
+      "displayed_link": "https://www.webmd.com \u203a ... \u203a Reference",
+      "favicon": "https://serpapi.com/searches/670a2b89ee677f7ee6e977d1/images/88b249b0e7a8b10e3d77cc3f0b880604c85b5d457ff8ac02423e7c5cde18031f.webp",
+      "date": "Sep 9, 2022",
+      "snippet": "Lettuce is a source of vitamin K, which helps strengthen bones. Consuming adequate amounts of vitamin K can also reduce your risk of bone fracture.",
+      "snippet_highlighted_words": [
+        "Lettuce"
+      ],
+      "source": "WebMD"
+    },
+    {
+      "position": 5,
+      "title": "Lettuce Restaurant and Catering Walnut Creek - Lettuce ...",
+      "link": "https://lettucerestaurant.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lettucerestaurant.com/&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQFnoECGAQAQ",
+      "displayed_link": "https://lettucerestaurant.com",
+      "favicon": "https://serpapi.com/searches/670a2b89ee677f7ee6e977d1/images/88b249b0e7a8b10e3d77cc3f0b8806049b0240e5a3710f1e90cf3d742f97bf5e.webp",
+      "snippet": "Lettuce Restaurant Walnut Creek serving and catering healthy lunch, dinner sandwiches, gluten free salads, Italian pasta, gluten free soups, desserts.",
+      "snippet_highlighted_words": [
+        "Lettuce"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Lettuce Restaurant Menu",
+            "link": "https://lettucerestaurant.com/lettuce-restaurant-menu/"
+          },
+          {
+            "title": "Location & Hours",
+            "link": "https://lettucerestaurant.com/lettuce-restaurant-walnut-creek-location-hours/"
+          },
+          {
+            "title": "Press & Reviews",
+            "link": "https://lettucerestaurant.com/lettuce-restaurant-press-reviews/"
+          },
+          {
+            "title": "About Us",
+            "link": "https://lettucerestaurant.com/about-lettuce-restaurant-best-lunch-in-walnut-creek/"
+          }
+        ]
+      },
+      "source": "lettucerestaurant.com"
+    },
+    {
+      "position": 6,
+      "title": "4 Types of Lettuce to Grow in Your Garden",
+      "link": "https://www.youtube.com/watch?v=nK_bliEPDXA",
+      "displayed_link": "24.4K+ views \u00b7 6 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/nK_bliEPDXA/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3m4hhoz1uVLmrrciCHUP_jQJAFgnw",
+      "favicon": "https://serpapi.com/searches/670a2b89ee677f7ee6e977d1/images/88b249b0e7a8b10e3d77cc3f0b880604a59806b8ad3548e3244f9ecfdd0fb9ae.png",
+      "snippet": "Today I'm teaching you about the 4 different types of lettuce you can grow in your garden! The first 3 lettuces are great for home gardeners ...",
+      "duration": "10:03",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Introduction",
+          "link": "https://www.youtube.com/watch?v=nK_bliEPDXA&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS54rXjTSaQYtVU2j5Q-FN0Kyll1OcmxG54VOps5q2g2Q&s"
+        },
+        {
+          "time": "00:38",
+          "title": "Leaf Lettuce",
+          "link": "https://www.youtube.com/watch?v=nK_bliEPDXA&t=38",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi6G3Uru_0F3LQBwTHTFvtqY2rafxPwGEb1Uuj9SSy-A&s"
+        },
+        {
+          "time": "02:20",
+          "title": "Butter Crunch Lettuce",
+          "link": "https://www.youtube.com/watch?v=nK_bliEPDXA&t=140",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVvBhKtHjhgdD_aZn7iFie0_xgJOZRiX7EFVgAeh32eg&s"
+        },
+        {
+          "time": "03:45",
+          "title": "Romain or Cos Lettuce",
+          "link": "https://www.youtube.com/watch?v=nK_bliEPDXA&t=225",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6SNGeZSQcZzXcOB88kxxBk_epqQuZyUCu9dVAO7ZPlg&s"
+        },
+        {
+          "time": "05:02",
+          "title": "Iceberg Lettuce",
+          "link": "https://www.youtube.com/watch?v=nK_bliEPDXA&t=302",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSg_A4_8m-M69xGCnIb5yxYEpihW5XU3LdSCbY0r29VA&s"
+        },
+        {
+          "time": "07:38",
+          "title": "Planting Lettuce",
+          "link": "https://www.youtube.com/watch?v=nK_bliEPDXA&t=458",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5cubvH5ovtNxq1AHA-xoszzyNYji_nuxlWdLcORfzAQ&s"
+        },
+        {
+          "time": "09:13",
+          "title": "Join the Gardening Academy",
+          "link": "https://www.youtube.com/watch?v=nK_bliEPDXA&t=553",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY8t2rD8Omo_9h8dqNWzhwKugfuo2M1Z_0v6AQg6jBig&s"
+        }
+      ],
+      "source": "YouTube \u00b7 Stoney Acres Gardening"
+    },
+    {
+      "position": 7,
+      "title": "Lettuce: Taxes and accounting for your business-of-one",
+      "link": "https://lettuce.co/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lettuce.co/&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQFnoECF8QAQ",
+      "displayed_link": "https://lettuce.co",
+      "favicon": "https://serpapi.com/searches/670a2b89ee677f7ee6e977d1/images/88b249b0e7a8b10e3d77cc3f0b8806049393b3510d50c738f31eb0d33f8ba090.webp",
+      "snippet": "At Lettuce, we've built an automated tax and accounting system so your business-of-one can thrive. If you are making $100K, you could be overpaying by $10,000.",
+      "snippet_highlighted_words": [
+        "Lettuce"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Lettuce Financial Labs",
+            "link": "https://app.lettuce.co/"
+          },
+          {
+            "title": "How it Works",
+            "link": "https://lettuce.co/how-it-works"
+          },
+          {
+            "title": "What's an S Corp?",
+            "link": "https://lettuce.co/what-is-an-s-corp"
+          },
+          {
+            "title": "Pricing",
+            "link": "https://lettuce.co/pricing"
+          }
+        ]
+      },
+      "source": "Lettuce Financial"
+    },
+    {
+      "position": 8,
+      "title": "Lettuce | Description, Varieties, & Facts",
+      "link": "https://www.britannica.com/plant/lettuce",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.britannica.com/plant/lettuce&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQFnoECGEQAQ",
+      "displayed_link": "https://www.britannica.com \u203a ... \u203a Food",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ10BIfBkZlxcJS5EL6NsoqouEtAZ4U48npQBSJZpjET-rGAh-4YLFi&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2b89ee677f7ee6e977d1/images/88b249b0e7a8b10e3d77cc3f0b8806047aa8abb580d8382ef6fbc68631359a16.webp",
+      "date": "Aug 23, 2024",
+      "snippet": "Lettuce, annual leaf vegetable of the aster family. Most lettuce varieties are eaten fresh and are commonly served as the base of green ...",
+      "snippet_highlighted_words": [
+        "Lettuce",
+        "lettuce"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Head lettuce",
+            "link": "https://www.britannica.com/plant/head-lettuce"
+          },
+          {
+            "title": "Leaf lettuce",
+            "link": "https://www.britannica.com/plant/leaf-lettuce"
+          },
+          {
+            "title": "Romaine lettuce",
+            "link": "https://www.britannica.com/plant/romaine-lettuce"
+          },
+          {
+            "title": "Celtuce",
+            "link": "https://www.britannica.com/plant/asparagus-lettuce"
+          }
+        ]
+      },
+      "source": "Britannica"
+    },
+    {
+      "position": 9,
+      "title": "Lettuce - Health and Social Services",
+      "link": "https://www.hss.gov.nt.ca/en/services/nutritional-food-fact-sheet-series/lettuce",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hss.gov.nt.ca/en/services/nutritional-food-fact-sheet-series/lettuce&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQFnoECGQQAQ",
+      "displayed_link": "https://www.hss.gov.nt.ca \u203a services \u203a lettuce",
+      "snippet": "Lettuce is a fair source of folate, which is needed for healthy cells and the healthy growth of babies during pregnancy in order to prevent neural tube defects.",
+      "snippet_highlighted_words": [
+        "Lettuce"
+      ],
+      "source": "Government of Northwest Territories"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "items": [
+        {
+          "name": "Daisy family",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8s9xwMw1txL9J3301JhOwaMr9ETqXyskHF8k_OKLTezG6YfG-eyLj&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Asteraceae&stick=H4sIAAAAAAAAAOMwVGI0-MXIsIGF4RULJxe7fq6-QY5p0SsWbi5OENvcOKc8F84zNC3KToHzzIxScoxesXBxcYBVZlmYwzlpSeVmr1j4uXj10_UNDdPyzEwsS8wMkcypMEHYkWZSbFSOkDMryjBfxMrlWFySWpSYnJqYeotNkqH7aY9xYHxIwTuV5oNSh_YseWryc93sMu9VizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIAFiyXbNwAAAA&sa=X&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQs9oBKAB6BAh8EAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Asteraceae&stick=H4sIAAAAAAAAAOMwVGI0-MXIsIGF4RULJxe7fq6-QY5p0SsWbi5OENvcOKc8F84zNC3KToHzzIxScoxesXBxcYBVZlmYwzlpSeVmr1j4uXj10_UNDdPyzEwsS8wMkcypMEHYkWZSbFSOkDMryjBfxMrlWFySWpSYnJqYeotNkqH7aY9xYHxIwTuV5oNSh_YseWryc93sMu9VizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIAFiyXbNwAAAA"
+        },
+        {
+          "name": "Romaine lettuce",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQ-fv_riySfkV8SdvcCQZdK56luWmX4NG9vD-XgyoPGD1CHGu4bdIZHQxyqa_ru3_eciYIchogw&s=19",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Romaine+lettuce&stick=H4sIAAAAAAAAAOMwVGI0_MXIsIGF4RULJxe7fq6-QY5p0SsWbi5OENvcOKc8F84zNC3KToHzzIxScoxesXBxcYBVZlmYwzlpSeVmr1j4uXj10_UNDdPyzEwsS8wMkcypMEHYkWZSbFSOkDMryjBfxMoflJ-bmJmXqpCTWlJSmpx6i02Softpj3FgfEjBO5Xmg1KH9ix5avJz3ewy71WLOMQCUvMLclIVEnOK8xWKUxOLkjMU0vKLVnAwAgCP8Ych4QAAAA&sa=X&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQs9oBKAF6BAh8EAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Romaine+lettuce&stick=H4sIAAAAAAAAAOMwVGI0_MXIsIGF4RULJxe7fq6-QY5p0SsWbi5OENvcOKc8F84zNC3KToHzzIxScoxesXBxcYBVZlmYwzlpSeVmr1j4uXj10_UNDdPyzEwsS8wMkcypMEHYkWZSbFSOkDMryjBfxMoflJ-bmJmXqpCTWlJSmpx6i02Softpj3FgfEjBO5Xmg1KH9ix5avJz3ewy71WLOMQCUvMLclIVEnOK8xWKUxOLkjMU0vKLVnAwAgCP8Ych4QAAAA"
+        },
+        {
+          "name": "Chicory",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_EmbbZDm9g7mPKs98aQpwKu7fBtyHlPft72c1laAavAXwcKt51mwD&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Chicory&stick=H4sIAAAAAAAAAOMwVGI0-sXIsIGF4RULJxe7fq6-QY5p0SsWbi5OENvcOKc8F84zNC3KToHzzIxScoxesXBxcYBVZlmYwzlpSeVmr1j4uXj10_UNDdPyzEwsS8wMkcypMEHYkWZSbFSOkDMryjBfxMrunJGZnF9UeYtNkqH7aY9xYHxIwTuV5oNSh_YseWryc93sMu9VizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIAW8gistkAAAA&sa=X&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQs9oBKAJ6BAh8EAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Chicory&stick=H4sIAAAAAAAAAOMwVGI0-sXIsIGF4RULJxe7fq6-QY5p0SsWbi5OENvcOKc8F84zNC3KToHzzIxScoxesXBxcYBVZlmYwzlpSeVmr1j4uXj10_UNDdPyzEwsS8wMkcypMEHYkWZSbFSOkDMryjBfxMrunJGZnF9UeYtNkqH7aY9xYHxIwTuV5oNSh_YseWryc93sMu9VizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIAW8gistkAAAA"
+        },
+        {
+          "name": "Celtuce",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUNBKi06p4HqKlBshXfcqajoTak344PKOXBlwlJCFQq1LztBRt_Cgp&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Celtuce&stick=H4sIAAAAAAAAAOMwVGI0_sXIsIGF4RULJxe7fq6-QY5p0SsWbi5OENvcOKc8F84zNC3KToHzzIxScoxesXBxcYBVZlmYwzlpSeVmr1j4uXj10_UNDdPyzEwsS8wMkcypMEHYkWZSbFSOkDMryjBfxMrunJpTUpqceotNkqH7aY9xYHxIwTuV5oNSh_YseWryc93sMu9VizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIA4ygwAtkAAAA&sa=X&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQs9oBKAN6BAh8EAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Celtuce&stick=H4sIAAAAAAAAAOMwVGI0_sXIsIGF4RULJxe7fq6-QY5p0SsWbi5OENvcOKc8F84zNC3KToHzzIxScoxesXBxcYBVZlmYwzlpSeVmr1j4uXj10_UNDdPyzEwsS8wMkcypMEHYkWZSbFSOkDMryjBfxMrunJpTUpqceotNkqH7aY9xYHxIwTuV5oNSh_YseWryc93sMu9VizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIA4ygwAtkAAAA"
+        },
+        {
+          "name": "Tomato",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTNhlAVep9PNvi1Y1Sw3xv3qNIg4aKfSB0_ChGwY14hreGkR2VTov9SCTlEO_kyDMznb4fEimUm&s=19",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Tomato&stick=H4sIAAAAAAAAAOMwVGI0-cXIsIGF4RULJxe7fq6-QY5p0SsWbi5OENvcOKc8F84zNC3KToHzzIxScoxesXBxcYBVZlmYwzlpSeVmr1j4uXj10_UNDdPyzEwsS8wMkcypMEHYkWZSbFSOkDMryjBfxMoWkp-bWJJ_i02Softpj3FgfEjBO5Xmg1KH9ix5avJz3ewy71WLOMQCUvMLclIVEnOK8xWKUxOLkjMU0vKLVnAwAgD2es332AAAAA&sa=X&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQs9oBKAR6BAh8EAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Tomato&stick=H4sIAAAAAAAAAOMwVGI0-cXIsIGF4RULJxe7fq6-QY5p0SsWbi5OENvcOKc8F84zNC3KToHzzIxScoxesXBxcYBVZlmYwzlpSeVmr1j4uXj10_UNDdPyzEwsS8wMkcypMEHYkWZSbFSOkDMryjBfxMoWkp-bWJJ_i02Softpj3FgfEjBO5Xmg1KH9ix5avJz3ewy71WLOMQCUvMLclIVEnOK8xWKUxOLkjMU0vKLVnAwAgD2es332AAAAA"
+        },
+        {
+          "name": "Cabbage",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcS94jJcX5DtdkmGkgfVm0IrL83I7jne5eNfN_0hhkUzJrvMdLQI7UmFPUWF7sRf2cuw98ay-Htk&s=19",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Cabbage&stick=H4sIAAAAAAAAAOMwVGI0_cXIsIGF4RULJxe7fq6-QY5p0SsWbi5OENvcOKc8F84zNC3KToHzzIxScoxesXBxcYBVZlmYwzlpSeVmr1j4uXj10_UNDdPyzEwsS8wMkcypMEHYkWZSbFSOkDMryjBfxMrunJiUlJieeotNkqH7aY9xYHxIwTuV5oNSh_YseWryc93sMu9VizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIA8KO8m9kAAAA&sa=X&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQs9oBKAV6BAh8EAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Cabbage&stick=H4sIAAAAAAAAAOMwVGI0_cXIsIGF4RULJxe7fq6-QY5p0SsWbi5OENvcOKc8F84zNC3KToHzzIxScoxesXBxcYBVZlmYwzlpSeVmr1j4uXj10_UNDdPyzEwsS8wMkcypMEHYkWZSbFSOkDMryjBfxMrunJiUlJieeotNkqH7aY9xYHxIwTuV5oNSh_YseWryc93sMu9VizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIA8KO8m9kAAAA"
+        }
+      ]
+    },
+    {
+      "block_position": 1,
+      "query": "Lettuce in Hindi",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Lettuce+in+Hindi&sa=X&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQ1QJ6BQiCARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lettuce+in+Hindi"
+    },
+    {
+      "block_position": 1,
+      "query": "Lettuce pronunciation",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Lettuce+pronunciation&sa=X&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQ1QJ6BQiDARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lettuce+pronunciation"
+    },
+    {
+      "block_position": 1,
+      "query": "Lettuce vs cabbage",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Lettuce+vs+cabbage&sa=X&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQ1QJ6BQiBARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lettuce+vs+cabbage"
+    },
+    {
+      "block_position": 1,
+      "query": "Lettuce meaning",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Lettuce+meaning&sa=X&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQ1QJ6BQiAARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lettuce+meaning"
+    },
+    {
+      "block_position": 1,
+      "query": "Lettuce price",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Lettuce+price&sa=X&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQ1QJ6BAh_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lettuce+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Lettuce benefits",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Lettuce+benefits&sa=X&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQ1QJ6BAh9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lettuce+benefits"
+    },
+    {
+      "block_position": 1,
+      "query": "Lettuce seeds",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Lettuce+seeds&sa=X&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQ1QJ6BAh-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lettuce+seeds"
+    },
+    {
+      "block_position": 1,
+      "query": "Lettuce family",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Lettuce+family&sa=X&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQ1QJ6BQiEARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lettuce+family"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=lettuce&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=iisKZ4TjDLzIwN4P-K3ZqQQ&start=10&sa=N&sstk=AagrsujkDZEDR35Ott2aMo3WEQCHTYMlC09MfQSSFy76Cq8Z-L4BSe_GnCFWkEPWf2nrtfpq4jr57XVnlU0ozRGi1xFgESsFu9S33g&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQ8NMDegQIBxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=lettuce&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=iisKZ4TjDLzIwN4P-K3ZqQQ&start=10&sa=N&sstk=AagrsujkDZEDR35Ott2aMo3WEQCHTYMlC09MfQSSFy76Cq8Z-L4BSe_GnCFWkEPWf2nrtfpq4jr57XVnlU0ozRGi1xFgESsFu9S33g&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQ8tMDegQIBxAE",
+      "3": "https://www.google.com/search?q=lettuce&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=iisKZ4TjDLzIwN4P-K3ZqQQ&start=20&sa=N&sstk=AagrsujkDZEDR35Ott2aMo3WEQCHTYMlC09MfQSSFy76Cq8Z-L4BSe_GnCFWkEPWf2nrtfpq4jr57XVnlU0ozRGi1xFgESsFu9S33g&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQ8tMDegQIBxAG",
+      "4": "https://www.google.com/search?q=lettuce&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=iisKZ4TjDLzIwN4P-K3ZqQQ&start=30&sa=N&sstk=AagrsujkDZEDR35Ott2aMo3WEQCHTYMlC09MfQSSFy76Cq8Z-L4BSe_GnCFWkEPWf2nrtfpq4jr57XVnlU0ozRGi1xFgESsFu9S33g&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQ8tMDegQIBxAI",
+      "5": "https://www.google.com/search?q=lettuce&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=iisKZ4TjDLzIwN4P-K3ZqQQ&start=40&sa=N&sstk=AagrsujkDZEDR35Ott2aMo3WEQCHTYMlC09MfQSSFy76Cq8Z-L4BSe_GnCFWkEPWf2nrtfpq4jr57XVnlU0ozRGi1xFgESsFu9S33g&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQ8tMDegQIBxAK",
+      "6": "https://www.google.com/search?q=lettuce&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=iisKZ4TjDLzIwN4P-K3ZqQQ&start=50&sa=N&sstk=AagrsujkDZEDR35Ott2aMo3WEQCHTYMlC09MfQSSFy76Cq8Z-L4BSe_GnCFWkEPWf2nrtfpq4jr57XVnlU0ozRGi1xFgESsFu9S33g&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQ8tMDegQIBxAM",
+      "7": "https://www.google.com/search?q=lettuce&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=iisKZ4TjDLzIwN4P-K3ZqQQ&start=60&sa=N&sstk=AagrsujkDZEDR35Ott2aMo3WEQCHTYMlC09MfQSSFy76Cq8Z-L4BSe_GnCFWkEPWf2nrtfpq4jr57XVnlU0ozRGi1xFgESsFu9S33g&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQ8tMDegQIBxAO",
+      "8": "https://www.google.com/search?q=lettuce&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=iisKZ4TjDLzIwN4P-K3ZqQQ&start=70&sa=N&sstk=AagrsujkDZEDR35Ott2aMo3WEQCHTYMlC09MfQSSFy76Cq8Z-L4BSe_GnCFWkEPWf2nrtfpq4jr57XVnlU0ozRGi1xFgESsFu9S33g&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQ8tMDegQIBxAQ",
+      "9": "https://www.google.com/search?q=lettuce&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=iisKZ4TjDLzIwN4P-K3ZqQQ&start=80&sa=N&sstk=AagrsujkDZEDR35Ott2aMo3WEQCHTYMlC09MfQSSFy76Cq8Z-L4BSe_GnCFWkEPWf2nrtfpq4jr57XVnlU0ozRGi1xFgESsFu9S33g&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQ8tMDegQIBxAS",
+      "10": "https://www.google.com/search?q=lettuce&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=iisKZ4TjDLzIwN4P-K3ZqQQ&start=90&sa=N&sstk=AagrsujkDZEDR35Ott2aMo3WEQCHTYMlC09MfQSSFy76Cq8Z-L4BSe_GnCFWkEPWf2nrtfpq4jr57XVnlU0ozRGi1xFgESsFu9S33g&ved=2ahUKEwiE0Pb2roiJAxU8JNAFHfhWNkUQ8tMDegQIBxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lettuce&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lettuce&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lettuce&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lettuce&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lettuce&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lettuce&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lettuce&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lettuce&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lettuce&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lettuce&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lettuce&start=90"
+    }
+  }
+}

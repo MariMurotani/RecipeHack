@@ -1,0 +1,1617 @@
+{
+  "search_metadata": {
+    "id": "670a2cabb4fe87d5ceaa154b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/05f8b28e56551697/670a2cabb4fe87d5ceaa154b.json",
+    "created_at": "2024-10-12 08:00:43 UTC",
+    "processed_at": "2024-10-12 08:00:43 UTC",
+    "google_url": "https://www.google.com/search?q=breakfast+cereal&oq=breakfast+cereal&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/05f8b28e56551697/670a2cabb4fe87d5ceaa154b.html",
+    "total_time_taken": 1.8
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "breakfast cereal",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "breakfast cereal",
+    "total_results": 122000000,
+    "time_taken_displayed": 0.42,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "recipes_results": [
+    {
+      "title": "Better Breakfast Cereal",
+      "link": "https://www.101cookbooks.com/better-breakfast-cereal-recipe/",
+      "source": "101 Cookbooks",
+      "rating": 4.5,
+      "reviews": 2,
+      "total_time": "2 min",
+      "ingredients": [
+        "Oat bran",
+        "almond milk",
+        "7 grain",
+        "freeze dried",
+        "rolled oats"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBU7SpQnYtThhBVufsT8wmPTAPpsyGhcE2stbP0gJJ0mK1aQf7b2yVS7U&s"
+    },
+    {
+      "title": "Crunchy Granola Breakfast Cereal",
+      "link": "https://www.allrecipes.com/recipe/231625/crunchy-granola-breakfast-cereal/",
+      "source": "Allrecipes",
+      "rating": 5.0,
+      "reviews": 3,
+      "total_time": "1 hr 35 min",
+      "ingredients": [
+        "Steel cut oats",
+        "oat bran",
+        "pumpkin pie spice",
+        "wheat germ",
+        "brown sugar"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDoVD00CasWZBv74OoYZOt3RWMQZZnOiRW-dyiuFtpYynM0vrW60BRFC_I&s"
+    },
+    {
+      "title": "Triple-Oat Breakfast Cereal",
+      "link": "https://www.101cookbooks.com/archives/tripleoat-breakfast-cereal-recipe.html",
+      "source": "101 Cookbooks",
+      "total_time": "5 min",
+      "ingredients": [
+        "Oat bran",
+        "brown rice",
+        "dried blueberries",
+        "rolled oats",
+        "ground flax seeds"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD6Zp4wlVAgahg68lfu44Lp95bMGRGIlefqZQ0tk45rjAFjMylmv2HWE2eUg&s"
+    }
+  ],
+  "knowledge_graph": {
+    "title": "Breakfast cereal",
+    "type": "Food",
+    "entity_type": "food, foods_and_dishes",
+    "kgmid": "/m/0l6sg",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0l6sg&hl=en-US&q=Breakfast+cereal",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0l6sg&location=Austin%2CTexas%2CUnited+States&q=Breakfast+cereal",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/06c283c2fb0e9a453c5033c29ab26575d2054fbac17c3eb3150dfda893481aeb9a821709efa27b08.jpeg",
+        "source": "https://en.wikipedia.org/wiki/Breakfast_cereal"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/06c283c2fb0e9a453c5033c29ab26575d2054fbac17c3eb35ab12612903a32825a53fd341b4ca498.jpeg",
+        "source": "https://www.101cookbooks.com/better-breakfast-cereal-recipe/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/06c283c2fb0e9a453c5033c29ab26575d2054fbac17c3eb3f1194b79c4bca45c9e6db35c6fabf969.jpeg",
+        "source": "https://www.amazon.com/Total-Cereal-Whole-Grain-Box/dp/B000VDR3WO"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/06c283c2fb0e9a453c5033c29ab26575d2054fbac17c3eb301e53c606fa494f16959ae2c43a76f6e.jpeg",
+        "source": "https://www.foodandwine.com/news/most-popular-cereals-every-state"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/06c283c2fb0e9a453c5033c29ab26575d2054fbac17c3eb3c037ec150695049dc856c1478d42e293.jpeg",
+        "source": "https://notablyvegan.com/homemade-healthy-breakfast-superfood-cereal-vegan/"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiMch0gLHjMHGSNdTJpkq3hLSfcpc4MNXhPQ1q_HEqCA&s",
+        "source": "https://www.verywellhealth.com/should-you-eat-cereal-for-breakfast-1087523"
+      }
+    ],
+    "description": "Breakfast cereal is a breakfast food made from processed cereal grains. It is traditionally eaten as part of breakfast, or a snack food, primarily in Western societies.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Breakfast_cereal"
+    },
+    "sources_include": "USDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDABreakfast cereal307 Calories - 1 cup (81 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173904/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171642/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171652/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173015/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/174643/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171662/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171648/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171647/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173919/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/174622/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Cereal",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmzyWt3X_jvq9Ub2lJZtj3BlIZ_v7apRjEC0nE4gPBTqrB56dBSOL9Eza3Jj0av3jfxQN4KlPCd29Bkh-RTeRUOSigKKx9QpPlqFoD-brpW69LIlM0tMDr9_fUu_D-WU_SryG9Q19O9nz_aXWMyAPDs4GHNTUF2bopDFvdRZ2IAOEXD2-EFx4HeF9A6C5t1LuYcLJQ9ex25cGR7b1RekZeUbJxQmscAs4exxgJTd7HSb3QqxHnA%3D%3D&q=Cereal&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQs9oBKAB6BAg9EAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Cereal&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmzyWt3X_jvq9Ub2lJZtj3BlIZ_v7apRjEC0nE4gPBTqrB56dBSOL9Eza3Jj0av3jfxQN4KlPCd29Bkh-RTeRUOSigKKx9QpPlqFoD-brpW69LIlM0tMDr9_fUu_D-WU_SryG9Q19O9nz_aXWMyAPDs4GHNTUF2bopDFvdRZ2IAOEXD2-EFx4HeF9A6C5t1LuYcLJQ9ex25cGR7b1RekZeUbJxQmscAs4exxgJTd7HSb3QqxHnA%3D%3D",
+        "image": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/06c283c2fb0e9a453c5033c29ab26575f8546634c8d2fff04d36eb407c7c41fc2f8e10135f3c00a6461b39eef9596734.jpeg"
+      },
+      {
+        "name": "Corn flakes",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L2z2p-_D8LZj4rVgg_kxqK02drYgs6bSLGWk4E67b-jwE0bf2z0g1AOOgljxGIkk_TrTzmQ34gt71z0Pnm0Mx8JWxqL-Zk7NPE2K9XQsJ_Lo-aiIEtmjgzXActC8EQG0mAlEzKS5xrr1LxyT2mO7_lg9UP1ik-KAv8UldQel2NxrojKAZGDqil0BEuk78HbdsdVn1tfEaMQmjBbR7nTpw8jlHzjrfWPGFV6RgY9lcW4AzTZ_qYCqdNC8YTMNlrlaKGZGnvA%3D&q=Corn+flakes&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQs9oBKAB6BAg9EAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Corn+flakes&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L2z2p-_D8LZj4rVgg_kxqK02drYgs6bSLGWk4E67b-jwE0bf2z0g1AOOgljxGIkk_TrTzmQ34gt71z0Pnm0Mx8JWxqL-Zk7NPE2K9XQsJ_Lo-aiIEtmjgzXActC8EQG0mAlEzKS5xrr1LxyT2mO7_lg9UP1ik-KAv8UldQel2NxrojKAZGDqil0BEuk78HbdsdVn1tfEaMQmjBbR7nTpw8jlHzjrfWPGFV6RgY9lcW4AzTZ_qYCqdNC8YTMNlrlaKGZGnvA%3D",
+        "image": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/06c283c2fb0e9a453c5033c29ab26575f8546634c8d2fff04d36eb407c7c41fce17bdc57ed7bdfdd132c491320909b76.jpeg"
+      },
+      {
+        "name": "Granola",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L5bChNx3-98jGNMey3Ba6SXyRkbJSi2A4tjBSOOkHXmOuWbtaBrZr49Y-0jdqYZ4rTfoJWYWpRA_4k1pp-NwOD2A4AzLWSZbWG_7FfGdO1wDag8_M_pyMhnG4DLau4MuDT-FaQ8APgB59NYXVLXwLHdyn8FgMzJCbB8yTBpZFMc9O6dXGLfeI-mbMK_szAjWTGGuC2Q5IXYnc-CG-VXduVnNGSddckcAQPL0rDwVk8ai1vCMKiGl52MlGucd3DuDDvFrwiA%3D&q=Granola&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQs9oBKAB6BAg9EA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Granola&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L5bChNx3-98jGNMey3Ba6SXyRkbJSi2A4tjBSOOkHXmOuWbtaBrZr49Y-0jdqYZ4rTfoJWYWpRA_4k1pp-NwOD2A4AzLWSZbWG_7FfGdO1wDag8_M_pyMhnG4DLau4MuDT-FaQ8APgB59NYXVLXwLHdyn8FgMzJCbB8yTBpZFMc9O6dXGLfeI-mbMK_szAjWTGGuC2Q5IXYnc-CG-VXduVnNGSddckcAQPL0rDwVk8ai1vCMKiGl52MlGucd3DuDDvFrwiA%3D",
+        "image": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/06c283c2fb0e9a453c5033c29ab26575f8546634c8d2fff04d36eb407c7c41fc5ab4bf6c7b23f3e939b6a19285857dea.jpeg"
+      },
+      {
+        "name": "Candy",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm2jJf0CNipvROSttFG-wdTapmKKAhQY_4-mO_aTTQtNUvJ3plHMWpFwBG_IB7CYjfEZIEcddVkaRFaCfQpfF-h6LO7rK1l7eQv18a43Lt3rlwG2gtlflvhQ2JfZ4OVcFIwS0-tLoD-2XEyI4G_Ji-_p_Xp3JjZxhU_a53f0f7py5tHuT5OrLKRYJyjBsTQCr9DhgjGsh6e_lRXJIC4OpSk-91dGg9AZ5m9VlLNTRKU-SfMVQTQ%3D%3D&q=Candy&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQs9oBKAB6BAg9EBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Candy&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm2jJf0CNipvROSttFG-wdTapmKKAhQY_4-mO_aTTQtNUvJ3plHMWpFwBG_IB7CYjfEZIEcddVkaRFaCfQpfF-h6LO7rK1l7eQv18a43Lt3rlwG2gtlflvhQ2JfZ4OVcFIwS0-tLoD-2XEyI4G_Ji-_p_Xp3JjZxhU_a53f0f7py5tHuT5OrLKRYJyjBsTQCr9DhgjGsh6e_lRXJIC4OpSk-91dGg9AZ5m9VlLNTRKU-SfMVQTQ%3D%3D",
+        "image": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/06c283c2fb0e9a453c5033c29ab26575f8546634c8d2fff04d36eb407c7c41fca49912358738c4b6d779ccccee3bf126.jpeg"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "5 g",
+        "7%"
+      ],
+      "cholesterol": [
+        "0 mg",
+        "0%"
+      ],
+      "sodium": [
+        "5 mg",
+        "0%"
+      ],
+      "potassium": [
+        "293 mg",
+        "8%"
+      ],
+      "total_carbohydrate": [
+        "55 g",
+        "18%"
+      ],
+      "protein": [
+        "11 g",
+        "22%"
+      ]
+    }
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=breakfast+cereal&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=jZhz-932VFZ2wM%252CwinBAqDO-5dZcM%252C%252Fm%252F0l6sg%253B_beGF0sHmJ6pOM%252C6S6bMIZNswZGVM%252C_%253BNphNPFStbWhDYM%252CXc7exYIxfkZ-fM%252C_%253B_-l4JmXnwzcgHM%252CwKNqxxI96fFQqM%252C_%253BaCqOR4kMCmpkCM%252CdZEWaTjsgfTb4M%252C_%253Bz595GAjvjsExqM%252CGf_FIjIz4JMPfM%252C_&usg=AI4_-kT1siuq2bxTwaLvaYHeQ7m3inIYzA&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQ_B16BAg_EAE#vhid=jZhz-932VFZ2wM&vssid=mosaic",
+      "source": "https://en.wikipedia.org/wiki/Breakfast_cereal",
+      "thumbnail": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/6f1eba87076ec4304390ef25d9de282b8679d968de6475e932a47f1aab7a22df.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9b/NCI_Visuals_Food_Meal_Breakfast.jpg",
+      "title": "upload.wikimedia.org/wikipedia/commons/9/9b/NCI_Vi...",
+      "source_name": "en.wikipedia.org"
+    },
+    {
+      "link": "https://www.google.com/search?q=breakfast+cereal&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=jZhz-932VFZ2wM%252CwinBAqDO-5dZcM%252C_%253B_beGF0sHmJ6pOM%252C6S6bMIZNswZGVM%252C_%253BNphNPFStbWhDYM%252CXc7exYIxfkZ-fM%252C_%253B_-l4JmXnwzcgHM%252CwKNqxxI96fFQqM%252C_%253BaCqOR4kMCmpkCM%252CdZEWaTjsgfTb4M%252C_%253Bz595GAjvjsExqM%252CGf_FIjIz4JMPfM%252C_&usg=AI4_-kTGQ9bD0m6FDRn_a9YX7ZH4hKA6YA&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQ_h16BAhDEAE#vhid=_beGF0sHmJ6pOM&vssid=mosaic",
+      "source": "https://www.101cookbooks.com/better-breakfast-cereal-recipe/",
+      "thumbnail": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/6f1eba87076ec430283fdb8de154f7262019501422b4133932269ecdc74d2b06.jpeg",
+      "original": "https://images.101cookbooks.com/better-breakfast-cereal-h.jpg?w=1200&auto=format",
+      "title": "Better Breakfast Cereal",
+      "source_name": "101 Cookbooks"
+    },
+    {
+      "link": "https://www.google.com/search?q=breakfast+cereal&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=jZhz-932VFZ2wM%252CwinBAqDO-5dZcM%252C_%253B_beGF0sHmJ6pOM%252C6S6bMIZNswZGVM%252C_%253BNphNPFStbWhDYM%252CXc7exYIxfkZ-fM%252C_%253B_-l4JmXnwzcgHM%252CwKNqxxI96fFQqM%252C_%253BaCqOR4kMCmpkCM%252CdZEWaTjsgfTb4M%252C_%253Bz595GAjvjsExqM%252CGf_FIjIz4JMPfM%252C_&usg=AI4_-kTGQ9bD0m6FDRn_a9YX7ZH4hKA6YA&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQ_h16BAhEEAE#vhid=NphNPFStbWhDYM&vssid=mosaic",
+      "source": "https://www.amazon.com/Total-Cereal-Whole-Grain-Box/dp/B000VDR3WO",
+      "thumbnail": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/6f1eba87076ec43045eea9c0b598c2a6c3cda151669fb732fc521f7cf646b10d.jpeg",
+      "original": "https://m.media-amazon.com/images/I/815WFaVuDNL.jpg",
+      "title": "Total Breakfast Cereal, 100% Daily Value of 11 Vitamins & Minerals, Whole  Grain Cereal, 16 oz",
+      "source_name": "Amazon.com"
+    },
+    {
+      "link": "https://www.google.com/search?q=breakfast+cereal&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=jZhz-932VFZ2wM%252CwinBAqDO-5dZcM%252C_%253B_beGF0sHmJ6pOM%252C6S6bMIZNswZGVM%252C_%253BNphNPFStbWhDYM%252CXc7exYIxfkZ-fM%252C_%253B_-l4JmXnwzcgHM%252CwKNqxxI96fFQqM%252C_%253BaCqOR4kMCmpkCM%252CdZEWaTjsgfTb4M%252C_%253Bz595GAjvjsExqM%252CGf_FIjIz4JMPfM%252C_&usg=AI4_-kTGQ9bD0m6FDRn_a9YX7ZH4hKA6YA&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQ_h16BAhBEAE#vhid=_-l4JmXnwzcgHM&vssid=mosaic",
+      "source": "https://www.foodandwine.com/news/most-popular-cereals-every-state",
+      "thumbnail": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/6f1eba87076ec43035a92946a0274eca7b740baa9bca415a146e71c968eb5903.jpeg",
+      "original": "https://www.foodandwine.com/thmb/VNMRLU7JdJsbJ3Ul3UV7u_ocjl8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/cereal-recipes-ft-blog0816-2000-9ca7e8d7490b4fd3be62084431df8d23.jpg",
+      "title": "Most Popular Cereals in America According to Google",
+      "source_name": "Food & Wine"
+    },
+    {
+      "link": "https://www.google.com/search?q=breakfast+cereal&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=jZhz-932VFZ2wM%252CwinBAqDO-5dZcM%252C_%253B_beGF0sHmJ6pOM%252C6S6bMIZNswZGVM%252C_%253BNphNPFStbWhDYM%252CXc7exYIxfkZ-fM%252C_%253B_-l4JmXnwzcgHM%252CwKNqxxI96fFQqM%252C_%253BaCqOR4kMCmpkCM%252CdZEWaTjsgfTb4M%252C_%253Bz595GAjvjsExqM%252CGf_FIjIz4JMPfM%252C_&usg=AI4_-kTGQ9bD0m6FDRn_a9YX7ZH4hKA6YA&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQ_h16BAhCEAE#vhid=aCqOR4kMCmpkCM&vssid=mosaic",
+      "source": "https://notablyvegan.com/homemade-healthy-breakfast-superfood-cereal-vegan/",
+      "thumbnail": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/6f1eba87076ec430cd5b8d136868862f339242643d491720352bfe9b8a2471a0.jpeg",
+      "original": "https://notablyvegan.com/wp-content/uploads/2023/09/homemade-healthy-cereal-21.jpg",
+      "title": "Homemade Healthy Breakfast Superfood Cereal (Vegan)",
+      "source_name": "Notably Vegan"
+    },
+    {
+      "link": "https://www.google.com/search?q=breakfast+cereal&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=jZhz-932VFZ2wM%252CwinBAqDO-5dZcM%252C_%253B_beGF0sHmJ6pOM%252C6S6bMIZNswZGVM%252C_%253BNphNPFStbWhDYM%252CXc7exYIxfkZ-fM%252C_%253B_-l4JmXnwzcgHM%252CwKNqxxI96fFQqM%252C_%253BaCqOR4kMCmpkCM%252CdZEWaTjsgfTb4M%252C_%253Bz595GAjvjsExqM%252CGf_FIjIz4JMPfM%252C_&usg=AI4_-kTGQ9bD0m6FDRn_a9YX7ZH4hKA6YA&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQ_h16BAhAEAE#vhid=z595GAjvjsExqM&vssid=mosaic",
+      "source": "https://www.verywellhealth.com/should-you-eat-cereal-for-breakfast-1087523",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiMch0gLHjMHGSNdTJpkq3hLSfcpc4MNXhPQ1q_HEqCA&s",
+      "original": "https://www.verywellhealth.com/thmb/HEl_K0SAzH5F81RHXCvSvGhroq0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/30D7A016-ABA5-48DD-BE39-3E7A223A03BF-96f2ba9e6c724dc9b2ba638b0c0f44a2.jpeg",
+      "title": "The 11 Best Breakfast Cereals for People With Diabetes",
+      "source_name": "Verywell Health"
+    }
+  ],
+  "inline_products": [
+    {
+      "position": 1,
+      "title": "Cinnamon Toast Crunch Cereal",
+      "block_title": "In stores nearby",
+      "tag": "67% OFF",
+      "source": "CVS Pharmacy",
+      "price": 2.49,
+      "currency": "$",
+      "original_price": 8,
+      "rating": 4.7,
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSWB3yDy-gg7NUsCpFk9pQUWyACgX7yPpZkcT719AbgCBdXnBf3UaQ6g8oT54-kxaiOtbRaBQ0gfTn07-_Z8UCu_IGdwqIPVRyuGnr9pTf4"
+    },
+    {
+      "position": 2,
+      "title": "Quaker Brown Sugar Oatmeal Squares Cereal",
+      "block_title": "In stores nearby",
+      "source": "Target",
+      "price": 3.79,
+      "currency": "$",
+      "rating": 4.5,
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQzmucYF4WpIB0EEuNbf6T6SoEFOGCupNkc_Qvr_W2f-dt2i0fUmytBvzpT0URzw1gZ2H50lUXLvEyKpNP9quorN5Ocw-eIKok_4BOsRaSL"
+    },
+    {
+      "position": 3,
+      "title": "Cinnamon Toast Crunch Cereal",
+      "block_title": "In stores nearby",
+      "source": "Walmart",
+      "price": 4.93,
+      "currency": "$",
+      "rating": 4.7,
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSWB3yDy-gg7NUsCpFk9pQUWyACgX7yPpZkcT719AbgCBdXnBf3UaQ6g8oT54-kxaiOtbRaBQ0gfTn07-_Z8UCu_IGdwqIPVRyuGnr9pTf4"
+    },
+    {
+      "position": 4,
+      "title": "Honey Bunches of Oats Cereal with Almonds",
+      "block_title": "In stores nearby",
+      "source": "Sam's Club",
+      "price": 7.68,
+      "currency": "$",
+      "rating": 4.8,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQKbqBDGmuPFaWaJ-GzEdHLbcQbaam6DfcO47tQAwhg1hC7PM6XN090wre2RCc90QW93kKimGGUTnBcsui7LuuHyO3F1vSIvndyp4qD_Do"
+    },
+    {
+      "position": 5,
+      "title": "Pebbles Post Fruity Cereal",
+      "block_title": "In stores nearby",
+      "tag": "46% OFF",
+      "source": "CVS Pharmacy",
+      "price": 3.49,
+      "currency": "$",
+      "original_price": 6,
+      "rating": 4.5,
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSJxF9_Q_7QT3HI224BE8zEA3I56XmDsOTuJwPY4UHsJ4CrqLNTXkwGasOsr5BHXe5KjbDBOlyNFW0HVt1xHKYEUXQJpoFNj3wB-ito49I"
+    },
+    {
+      "position": 6,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 7,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 8,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 9,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 10,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 11,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 12,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 13,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 14,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 15,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 16,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 17,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 18,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 19,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 20,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 21,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 22,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 23,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 24,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 25,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 26,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 27,
+      "block_title": "In stores nearby"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/d8fbefc0228e18c372892eafe487547e30654dbe5a05be08868524eafb392908.webp",
+      "source_logo": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/d8fbefc0228e18c372892eafe487547e9c8575489cf1d168c6e0dc37883788a0f507eec8b8465686.png",
+      "source": "Amazon.com - Seller",
+      "title": "Poop Like A Champion Cinnamon Toast Ultra Fiber Cereal",
+      "rating": 4.6,
+      "reviews": 7,
+      "price": "$11.67",
+      "extracted_price": 11.67,
+      "original_price": "$13",
+      "extracted_original_price": 13,
+      "extensions": [
+        "10% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjU5MjU3MzU2NzQ0MDMzMTE4MSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc3OTM2NjE5NDAxNzUzOTE0NDkiLCJpbWFnZURvY2lkIjoiMTc1MDIyMDY1NjA4NDk5MTk0MTAiLCJyZHMiOiJQQ18zNDcxOTAwMTM3NTIwMjAxNTAwfFBST0RfUENfMzQ3MTkwMDEzNzUyMDIwMTUwMCIsInF1ZXJ5IjoiYnJlYWtmYXN0K2NlcmVhbCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjU5MjU3MzU2NzQ0MDMzMTE4MSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc3OTM2NjE5NDAxNzUzOTE0NDkiLCJpbWFnZURvY2lkIjoiMTc1MDIyMDY1NjA4NDk5MTk0MTAiLCJyZHMiOiJQQ18zNDcxOTAwMTM3NTIwMjAxNTAwfFBST0RfUENfMzQ3MTkwMDEzNzUyMDIwMTUwMCIsInF1ZXJ5IjoiYnJlYWtmYXN0K2NlcmVhbCJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/d8fbefc0228e18c372892eafe487547e2c9c87909b1dec7635ce11049bdaca04.webp",
+      "source_logo": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/d8fbefc0228e18c372892eafe487547ecb8c4e2fb4bfdd961f8f1def998f5cbc057daf0dfc711143.png",
+      "source": "CVS Pharmacy",
+      "title": "Cinnamon Toast Crunch Cereal",
+      "rating": 4.7,
+      "reviews": 31000,
+      "price": "$2.49",
+      "extracted_price": 2.49,
+      "original_price": "$8",
+      "extracted_original_price": 8,
+      "location": "11 mi \u00b7 In stock",
+      "returns": "60-day returns",
+      "extensions": [
+        "67% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzUzMDU0MjQyMDIyMzQ2OTkwMCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTU2NDY3MTQ1MTE2MTM5MjU3MyIsImltYWdlRG9jaWQiOiIxOTIyNDUzNTY0NzIxMjIzODA5IiwicmRzIjoiUENfMTMxNzI4NzYzNTY0ODY4MTMyfFBST0RfUENfMTMxNzI4NzYzNTY0ODY4MTMyIiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzUzMDU0MjQyMDIyMzQ2OTkwMCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTU2NDY3MTQ1MTE2MTM5MjU3MyIsImltYWdlRG9jaWQiOiIxOTIyNDUzNTY0NzIxMjIzODA5IiwicmRzIjoiUENfMTMxNzI4NzYzNTY0ODY4MTMyfFBST0RfUENfMTMxNzI4NzYzNTY0ODY4MTMyIiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/d8fbefc0228e18c372892eafe487547e574cd5dc56107c69ed34d7d9be5e6288.webp",
+      "source_logo": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/d8fbefc0228e18c372892eafe487547ee5894ef2541f85387c3ba403fd78c4f7230924188a69b2af.png",
+      "source": "Target",
+      "title": "Quaker Brown Sugar Oatmeal Squares Cereal",
+      "rating": 4.5,
+      "reviews": 1300,
+      "price": "$3.79",
+      "extracted_price": 3.79,
+      "location": "12 mi \u00b7 In stock",
+      "returns": "Free 90-day returns",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE5ODIwOTk2OTIwODcwNjQ2MDEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2NDI3OTI3NjQ1OTY2MDQ3MTQ4IiwiaW1hZ2VEb2NpZCI6IjYzNDMzMzE5OTY5NzQ2OTUxMTUiLCJyZHMiOiJQQ183ODQwMTUxMDkwODY3NjI3NDgzfFBST0RfUENfNzg0MDE1MTA5MDg2NzYyNzQ4MyIsInF1ZXJ5IjoiYnJlYWtmYXN0K2NlcmVhbCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE5ODIwOTk2OTIwODcwNjQ2MDEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2NDI3OTI3NjQ1OTY2MDQ3MTQ4IiwiaW1hZ2VEb2NpZCI6IjYzNDMzMzE5OTY5NzQ2OTUxMTUiLCJyZHMiOiJQQ183ODQwMTUxMDkwODY3NjI3NDgzfFBST0RfUENfNzg0MDE1MTA5MDg2NzYyNzQ4MyIsInF1ZXJ5IjoiYnJlYWtmYXN0K2NlcmVhbCJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/d8fbefc0228e18c372892eafe487547ea5d121acd606b347eba2a59444e0dada.webp",
+      "source_logo": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/d8fbefc0228e18c372892eafe487547e4136f8967af93fa3d40b98ad32a43d44a214da00f7f83e11.png",
+      "source": "Walmart",
+      "title": "Kellogg s Froot Loops Cereal",
+      "rating": 4.8,
+      "reviews": 25000,
+      "price": "$4.48",
+      "extracted_price": 4.48,
+      "location": "11 mi \u00b7 In stock",
+      "returns": "Free 90-day returns",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIxMzYxMTAwNjA3MTQ5NTAyODciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjUwMzEwMjQ4MDkzNDE2NzczODIiLCJpbWFnZURvY2lkIjoiNzExNTE0NzAwNTIwODI2NzI2NSIsInJkcyI6IlBDXzE0MTc5OTc4NDQ2NDA5MTQ1Njk3fFBST0RfUENfMTQxNzk5Nzg0NDY0MDkxNDU2OTciLCJxdWVyeSI6ImJyZWFrZmFzdCtjZXJlYWwifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIxMzYxMTAwNjA3MTQ5NTAyODciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjUwMzEwMjQ4MDkzNDE2NzczODIiLCJpbWFnZURvY2lkIjoiNzExNTE0NzAwNTIwODI2NzI2NSIsInJkcyI6IlBDXzE0MTc5OTc4NDQ2NDA5MTQ1Njk3fFBST0RfUENfMTQxNzk5Nzg0NDY0MDkxNDU2OTciLCJxdWVyeSI6ImJyZWFrZmFzdCtjZXJlYWwifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/d8fbefc0228e18c372892eafe487547e22a9a0e8332992f1637f0c1f57439ba3.webp",
+      "source_logo": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/d8fbefc0228e18c372892eafe487547e960753384f5d474cdff7cd3d382487f0bb5544ebd4355ba8.png",
+      "source": "H-E-B",
+      "title": "Kellogg Honey Smacks Cereal",
+      "rating": 3.1,
+      "reviews": 337,
+      "price": "$5.18",
+      "extracted_price": 5.18,
+      "location": "10 mi \u00b7 In stock",
+      "returns": "Free 90-day returns",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzE2MzQ0MzYwMDkxODY3ODM1NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTYzMjA2NDM0MDkzMTkyNTI4OCIsImltYWdlRG9jaWQiOiIxNjc4MDAyMTcyMjc0ODQxODg5IiwicmRzIjoiUENfNzgyNDgxOTQ5MTMwMzY0NjY5NnxQUk9EX1BDXzc4MjQ4MTk0OTEzMDM2NDY2OTYiLCJxdWVyeSI6ImJyZWFrZmFzdCtjZXJlYWwifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzE2MzQ0MzYwMDkxODY3ODM1NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTYzMjA2NDM0MDkzMTkyNTI4OCIsImltYWdlRG9jaWQiOiIxNjc4MDAyMTcyMjc0ODQxODg5IiwicmRzIjoiUENfNzgyNDgxOTQ5MTMwMzY0NjY5NnxQUk9EX1BDXzc4MjQ4MTk0OTEzMDM2NDY2OTYiLCJxdWVyeSI6ImJyZWFrZmFzdCtjZXJlYWwifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/d8fbefc0228e18c372892eafe487547e59b64a4035df705f4381c4092b53d9a2.webp",
+      "source_logo": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/d8fbefc0228e18c372892eafe487547eaac5fafdc8273a7b7c0f0fe2eb03e81d2dab40c2ec6158ab.png",
+      "source": "Amazon.com",
+      "title": "Post Grape Nuts Cereal",
+      "rating": 4.5,
+      "reviews": 758,
+      "price": "$4.49",
+      "extracted_price": 4.49,
+      "location": "Also nearby",
+      "returns": "30-day returns",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjUxOTM5NTkzMTM5MTc3MzkzIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI4NjQyMDYzOTY3ODUyNTUyODk2IiwiaW1hZ2VEb2NpZCI6IjE2NTUyODcyNTg4MjA0Mjc1MTg3IiwicmRzIjoiUENfNDg1NjcyNDg4MTgzNTUxNjgzfFBST0RfUENfNDg1NjcyNDg4MTgzNTUxNjgzIiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjUxOTM5NTkzMTM5MTc3MzkzIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI4NjQyMDYzOTY3ODUyNTUyODk2IiwiaW1hZ2VEb2NpZCI6IjE2NTUyODcyNTg4MjA0Mjc1MTg3IiwicmRzIjoiUENfNDg1NjcyNDg4MTgzNTUxNjgzfFBST0RfUENfNDg1NjcyNDg4MTgzNTUxNjgzIiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/d8fbefc0228e18c372892eafe487547ee5c49a1c14349565b085eb534eefbafd.webp",
+      "source_logo": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/d8fbefc0228e18c372892eafe487547e76ef0abfd231806ec859ab34af4e4d27611b86d22f5f0475.png",
+      "source": "CVS Pharmacy",
+      "title": "Pebbles Post Fruity Cereal",
+      "rating": 4.5,
+      "reviews": 3300,
+      "price": "$3.49",
+      "extracted_price": 3.49,
+      "original_price": "$6",
+      "extracted_original_price": 6,
+      "location": "11 mi \u00b7 In stock",
+      "returns": "60-day returns",
+      "extensions": [
+        "46% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjIyMTE4ODY4OTg3NjAxMTYwIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDIyNzQwMjUxMDcyMTYwMzQ4OCIsImltYWdlRG9jaWQiOiIxNTc4MTYzNzE4MDMwMjg0MDg0NyIsInJkcyI6IlBDXzEwMjA2MjIwOTA4OTYyNDg4NDYyfFBST0RfUENfMTAyMDYyMjA5MDg5NjI0ODg0NjIiLCJxdWVyeSI6ImJyZWFrZmFzdCtjZXJlYWwifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjIyMTE4ODY4OTg3NjAxMTYwIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDIyNzQwMjUxMDcyMTYwMzQ4OCIsImltYWdlRG9jaWQiOiIxNTc4MTYzNzE4MDMwMjg0MDg0NyIsInJkcyI6IlBDXzEwMjA2MjIwOTA4OTYyNDg4NDYyfFBST0RfUENfMTAyMDYyMjA5MDg5NjI0ODg0NjIiLCJxdWVyeSI6ImJyZWFrZmFzdCtjZXJlYWwifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/d8fbefc0228e18c372892eafe487547e2d1aa952d0e75f52b1a6cc5c6f38a02b.webp",
+      "source_logo": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/d8fbefc0228e18c372892eafe487547ef512876531a5b4e15e02d009dbdf81a2084033197373faff.png",
+      "source": "Target",
+      "title": "Kellogg's Cookies & Creme Family Size Cereal",
+      "rating": 2.3,
+      "reviews": 109,
+      "price": "$5.29",
+      "extracted_price": 5.29,
+      "location": "14 mi \u00b7 In stock",
+      "returns": "Free 90-day returns",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTgzMjAzNzcxNjk3MzE3MTYwODEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MjUwMzEwNjg5MzQwNDIyODIxIiwiaW1hZ2VEb2NpZCI6IjcwODE1NDQ5NzI3MzQxMzU1NzIiLCJyZHMiOiJQQ18xMDMwMDM3NTgxNDAyMzE0MjkzMXxQUk9EX1BDXzEwMzAwMzc1ODE0MDIzMTQyOTMxIiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTgzMjAzNzcxNjk3MzE3MTYwODEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MjUwMzEwNjg5MzQwNDIyODIxIiwiaW1hZ2VEb2NpZCI6IjcwODE1NDQ5NzI3MzQxMzU1NzIiLCJyZHMiOiJQQ18xMDMwMDM3NTgxNDAyMzE0MjkzMXxQUk9EX1BDXzEwMzAwMzc1ODE0MDIzMTQyOTMxIiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSWB3yDy-gg7NUsCpFk9pQUWyACgX7yPpZkcT719AbgCBdXnBf3UaQ6g8oT54-kxaiOtbRaBQ0gfTn07-_Z8UCu_IGdwqIPVRyuGnr9pTf4",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQwNQuzSmDF8_rZu40RJ6kU6_tfvoEpQTNECF7aBM-ELm7BFVtUG0h0o0dHo34Vh8PfFRur4VqTIblTRXaYqBbgeOybVA",
+      "source": "CVS Pharmacy",
+      "title": "Cinnamon Toast Crunch Cereal",
+      "rating": 4.7,
+      "reviews": 31000,
+      "price": "$2.49",
+      "extracted_price": 2.49,
+      "original_price": "$8",
+      "extracted_original_price": 8,
+      "location": "11 mi \u00b7 In stock",
+      "returns": "60-day returns",
+      "extensions": [
+        "67% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzUzMDU0MjQyMDIyMzQ2OTkwMCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTU2NDY3MTQ1MTE2MTM5MjU3MyIsImltYWdlRG9jaWQiOiIxOTIyNDUzNTY0NzIxMjIzODA5IiwicmRzIjoiUENfMTMxNzI4NzYzNTY0ODY4MTMyfFBST0RfUENfMTMxNzI4NzYzNTY0ODY4MTMyIiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzUzMDU0MjQyMDIyMzQ2OTkwMCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTU2NDY3MTQ1MTE2MTM5MjU3MyIsImltYWdlRG9jaWQiOiIxOTIyNDUzNTY0NzIxMjIzODA5IiwicmRzIjoiUENfMTMxNzI4NzYzNTY0ODY4MTMyfFBST0RfUENfMTMxNzI4NzYzNTY0ODY4MTMyIiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQzmucYF4WpIB0EEuNbf6T6SoEFOGCupNkc_Qvr_W2f-dt2i0fUmytBvzpT0URzw1gZ2H50lUXLvEyKpNP9quorN5Ocw-eIKok_4BOsRaSL",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "Quaker Brown Sugar Oatmeal Squares Cereal",
+      "rating": 4.5,
+      "reviews": 1300,
+      "price": "$3.79",
+      "extracted_price": 3.79,
+      "location": "12 mi \u00b7 In stock",
+      "returns": "Free 90-day returns",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE5ODIwOTk2OTIwODcwNjQ2MDEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2NDI3OTI3NjQ1OTY2MDQ3MTQ4IiwiaW1hZ2VEb2NpZCI6IjYzNDMzMzE5OTY5NzQ2OTUxMTUiLCJyZHMiOiJQQ183ODQwMTUxMDkwODY3NjI3NDgzfFBST0RfUENfNzg0MDE1MTA5MDg2NzYyNzQ4MyIsInF1ZXJ5IjoiYnJlYWtmYXN0K2NlcmVhbCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE5ODIwOTk2OTIwODcwNjQ2MDEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2NDI3OTI3NjQ1OTY2MDQ3MTQ4IiwiaW1hZ2VEb2NpZCI6IjYzNDMzMzE5OTY5NzQ2OTUxMTUiLCJyZHMiOiJQQ183ODQwMTUxMDkwODY3NjI3NDgzfFBST0RfUENfNzg0MDE1MTA5MDg2NzYyNzQ4MyIsInF1ZXJ5IjoiYnJlYWtmYXN0K2NlcmVhbCJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSWB3yDy-gg7NUsCpFk9pQUWyACgX7yPpZkcT719AbgCBdXnBf3UaQ6g8oT54-kxaiOtbRaBQ0gfTn07-_Z8UCu_IGdwqIPVRyuGnr9pTf4",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Cinnamon Toast Crunch Cereal",
+      "rating": 4.7,
+      "reviews": 31000,
+      "price": "$4.93",
+      "extracted_price": 4.93,
+      "location": "12 mi \u00b7 In stock",
+      "returns": "Free 90-day returns",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzUzMDU0MjQyMDIyMzQ2OTkwMCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc5NDI0MzUzMjQ3Mzg5NDU1OTkiLCJpbWFnZURvY2lkIjoiMTkyMjQ1MzU2NDcyMTIyMzgwOSIsInJkcyI6IlBDXzEzMTcyODc2MzU2NDg2ODEzMnxQUk9EX1BDXzEzMTcyODc2MzU2NDg2ODEzMiIsInF1ZXJ5IjoiYnJlYWtmYXN0K2NlcmVhbCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzUzMDU0MjQyMDIyMzQ2OTkwMCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc5NDI0MzUzMjQ3Mzg5NDU1OTkiLCJpbWFnZURvY2lkIjoiMTkyMjQ1MzU2NDcyMTIyMzgwOSIsInJkcyI6IlBDXzEzMTcyODc2MzU2NDg2ODEzMnxQUk9EX1BDXzEzMTcyODc2MzU2NDg2ODEzMiIsInF1ZXJ5IjoiYnJlYWtmYXN0K2NlcmVhbCJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQKbqBDGmuPFaWaJ-GzEdHLbcQbaam6DfcO47tQAwhg1hC7PM6XN090wre2RCc90QW93kKimGGUTnBcsui7LuuHyO3F1vSIvndyp4qD_Do",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRGj77Bp2MtyuBjRh6ORUjyPRrKInP7XrHQbcgGLvMacgiVIf4ApZG2EbFv27Di12xoo3RrxcOgWtVxjU6qqDaMIb7zQERnmacn",
+      "source": "Sam's Club",
+      "title": "Honey Bunches of Oats Cereal with Almonds",
+      "rating": 4.8,
+      "reviews": 3500,
+      "price": "$7.68",
+      "extracted_price": 7.68,
+      "location": "12 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzQ5NjUzMjEzMzM1ODQwNDQzNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzIwNDA0NzY1ODkzODA5Mzg5NyIsImltYWdlRG9jaWQiOiIxODk2NzE1MjQ0NTAwMzM4OTM4IiwicmRzIjoiUENfODI0OTg5NDY0MjI3MDYwMjAyMXxQUk9EX1BDXzgyNDk4OTQ2NDIyNzA2MDIwMjEiLCJxdWVyeSI6ImJyZWFrZmFzdCtjZXJlYWwifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzQ5NjUzMjEzMzM1ODQwNDQzNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzIwNDA0NzY1ODkzODA5Mzg5NyIsImltYWdlRG9jaWQiOiIxODk2NzE1MjQ0NTAwMzM4OTM4IiwicmRzIjoiUENfODI0OTg5NDY0MjI3MDYwMjAyMXxQUk9EX1BDXzgyNDk4OTQ2NDIyNzA2MDIwMjEiLCJxdWVyeSI6ImJyZWFrZmFzdCtjZXJlYWwifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSJxF9_Q_7QT3HI224BE8zEA3I56XmDsOTuJwPY4UHsJ4CrqLNTXkwGasOsr5BHXe5KjbDBOlyNFW0HVt1xHKYEUXQJpoFNj3wB-ito49I",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQwNQuzSmDF8_rZu40RJ6kU6_tfvoEpQTNECF7aBM-ELm7BFVtUG0h0o0dHo34Vh8PfFRur4VqTIblTRXaYqBbgeOybVA",
+      "source": "CVS Pharmacy",
+      "title": "Pebbles Post Fruity Cereal",
+      "rating": 4.5,
+      "reviews": 3300,
+      "price": "$3.49",
+      "extracted_price": 3.49,
+      "original_price": "$6",
+      "extracted_original_price": 6,
+      "location": "11 mi \u00b7 In stock",
+      "returns": "60-day returns",
+      "extensions": [
+        "46% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjIyMTE4ODY4OTg3NjAxMTYwIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDIyNzQwMjUxMDcyMTYwMzQ4OCIsImltYWdlRG9jaWQiOiIxNTc4MTYzNzE4MDMwMjg0MDg0NyIsInJkcyI6IlBDXzEwMjA2MjIwOTA4OTYyNDg4NDYyfFBST0RfUENfMTAyMDYyMjA5MDg5NjI0ODg0NjIiLCJxdWVyeSI6ImJyZWFrZmFzdCtjZXJlYWwifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjIyMTE4ODY4OTg3NjAxMTYwIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDIyNzQwMjUxMDcyMTYwMzQ4OCIsImltYWdlRG9jaWQiOiIxNTc4MTYzNzE4MDMwMjg0MDg0NyIsInJkcyI6IlBDXzEwMjA2MjIwOTA4OTYyNDg4NDYyfFBST0RfUENfMTAyMDYyMjA5MDg5NjI0ODg0NjIiLCJxdWVyeSI6ImJyZWFrZmFzdCtjZXJlYWwifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDI3NzM0NDkyNDcyMjIxMjIzNyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTMyOTU0MDM1MzAwNjY4NzIyOCIsImltYWdlRG9jaWQiOiIxMzY3NjI3NTAxMDU5NDg1NzI5MCIsInJkcyI6IlBDXzMwNDc3OTU3NTk4NDA2MjM3NTV8UFJPRF9QQ18zMDQ3Nzk1NzU5ODQwNjIzNzU1IiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDI3NzM0NDkyNDcyMjIxMjIzNyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTMyOTU0MDM1MzAwNjY4NzIyOCIsImltYWdlRG9jaWQiOiIxMzY3NjI3NTAxMDU5NDg1NzI5MCIsInJkcyI6IlBDXzMwNDc3OTU3NTk4NDA2MjM3NTV8UFJPRF9QQ18zMDQ3Nzk1NzU5ODQwNjIzNzU1IiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA4NDgwNDAxMDA4NTQ1OTI0ODMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk5MjYwODgxMTk0MDg1MDY1OSIsImltYWdlRG9jaWQiOiIxNTc4MzQ3MzgwNjUzNTQ2NzE0MiIsInJkcyI6IlBDXzQ5Mzk4OTE5Mzg1NzI0MDUwMzl8UFJPRF9QQ180OTM5ODkxOTM4NTcyNDA1MDM5IiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA4NDgwNDAxMDA4NTQ1OTI0ODMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk5MjYwODgxMTk0MDg1MDY1OSIsImltYWdlRG9jaWQiOiIxNTc4MzQ3MzgwNjUzNTQ2NzE0MiIsInJkcyI6IlBDXzQ5Mzk4OTE5Mzg1NzI0MDUwMzl8UFJPRF9QQ180OTM5ODkxOTM4NTcyNDA1MDM5IiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzE2MzQ0MzYwMDkxODY3ODM1NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTY3OTk5ODE0NzY0NTI0NTgyNyIsImltYWdlRG9jaWQiOiIxNjc4MDAyMTcyMjc0ODQxODg5IiwicmRzIjoiUENfNzgyNDgxOTQ5MTMwMzY0NjY5NnxQUk9EX1BDXzc4MjQ4MTk0OTEzMDM2NDY2OTYiLCJxdWVyeSI6ImJyZWFrZmFzdCtjZXJlYWwifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzE2MzQ0MzYwMDkxODY3ODM1NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTY3OTk5ODE0NzY0NTI0NTgyNyIsImltYWdlRG9jaWQiOiIxNjc4MDAyMTcyMjc0ODQxODg5IiwicmRzIjoiUENfNzgyNDgxOTQ5MTMwMzY0NjY5NnxQUk9EX1BDXzc4MjQ4MTk0OTEzMDM2NDY2OTYiLCJxdWVyeSI6ImJyZWFrZmFzdCtjZXJlYWwifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzQ5NjUzMjEzMzM1ODQwNDQzNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTMyMzc5NTU3MzMwMDM0MDY5NiIsImltYWdlRG9jaWQiOiIxODk2NzE1MjQ0NTAwMzM4OTM4IiwicmRzIjoiUENfODI0OTg5NDY0MjI3MDYwMjAyMXxQUk9EX1BDXzgyNDk4OTQ2NDIyNzA2MDIwMjEiLCJxdWVyeSI6ImJyZWFrZmFzdCtjZXJlYWwifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzQ5NjUzMjEzMzM1ODQwNDQzNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTMyMzc5NTU3MzMwMDM0MDY5NiIsImltYWdlRG9jaWQiOiIxODk2NzE1MjQ0NTAwMzM4OTM4IiwicmRzIjoiUENfODI0OTg5NDY0MjI3MDYwMjAyMXxQUk9EX1BDXzgyNDk4OTQ2NDIyNzA2MDIwMjEiLCJxdWVyeSI6ImJyZWFrZmFzdCtjZXJlYWwifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU1NzQzMTE5OTAyNjc3MjQ5NzAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ3MTMxNzUzMTA4MjE1Mzg0NjkiLCJpbWFnZURvY2lkIjoiMTQ4MDIwMzcxMzM1NjA3NDM4NiIsInJkcyI6IlBDXzExMjAzMTYyOTAzMjk1NjMyODI4fFBST0RfUENfMTEyMDMxNjI5MDMyOTU2MzI4MjgiLCJxdWVyeSI6ImJyZWFrZmFzdCtjZXJlYWwifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU1NzQzMTE5OTAyNjc3MjQ5NzAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ3MTMxNzUzMTA4MjE1Mzg0NjkiLCJpbWFnZURvY2lkIjoiMTQ4MDIwMzcxMzM1NjA3NDM4NiIsInJkcyI6IlBDXzExMjAzMTYyOTAzMjk1NjMyODI4fFBST0RfUENfMTEyMDMxNjI5MDMyOTU2MzI4MjgiLCJxdWVyeSI6ImJyZWFrZmFzdCtjZXJlYWwifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIxMzYxMTAwNjA3MTQ5NTAyODciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjUwMzEwMjQ4MDkzNDE2NzczODIiLCJpbWFnZURvY2lkIjoiNzExNTE0NzAwNTIwODI2NzI2NSIsInJkcyI6IlBDXzE0MTc5OTc4NDQ2NDA5MTQ1Njk3fFBST0RfUENfMTQxNzk5Nzg0NDY0MDkxNDU2OTciLCJxdWVyeSI6ImJyZWFrZmFzdCtjZXJlYWwifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIxMzYxMTAwNjA3MTQ5NTAyODciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjUwMzEwMjQ4MDkzNDE2NzczODIiLCJpbWFnZURvY2lkIjoiNzExNTE0NzAwNTIwODI2NzI2NSIsInJkcyI6IlBDXzE0MTc5OTc4NDQ2NDA5MTQ1Njk3fFBST0RfUENfMTQxNzk5Nzg0NDY0MDkxNDU2OTciLCJxdWVyeSI6ImJyZWFrZmFzdCtjZXJlYWwifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODI0NDI4ODQ4MzE0NzY3MDMxMCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzg0MzI3NDc4ODA2MjIzNDAwNSIsImltYWdlRG9jaWQiOiI1MTMyMzQyMjIyODQxMzUzNjEwIiwicmRzIjoiUENfMTI3NzQ2NDgzNTI5MzgzMjQ0NHxQUk9EX1BDXzEyNzc0NjQ4MzUyOTM4MzI0NDQiLCJxdWVyeSI6ImJyZWFrZmFzdCtjZXJlYWwifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODI0NDI4ODQ4MzE0NzY3MDMxMCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzg0MzI3NDc4ODA2MjIzNDAwNSIsImltYWdlRG9jaWQiOiI1MTMyMzQyMjIyODQxMzUzNjEwIiwicmRzIjoiUENfMTI3NzQ2NDgzNTI5MzgzMjQ0NHxQUk9EX1BDXzEyNzc0NjQ4MzUyOTM4MzI0NDQiLCJxdWVyeSI6ImJyZWFrZmFzdCtjZXJlYWwifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTExNDUzNDczMTA4Njc3NTQ2NDEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2MTQwOTc3NzI4NTE2NDkxOCIsImltYWdlRG9jaWQiOiI2MDc5MTg0NDIyNTIyODE5MDQxIiwicmRzIjoiUENfNzAwNjgzMDM2NDU3NTEyNjA5fFBST0RfUENfNzAwNjgzMDM2NDU3NTEyNjA5IiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTExNDUzNDczMTA4Njc3NTQ2NDEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2MTQwOTc3NzI4NTE2NDkxOCIsImltYWdlRG9jaWQiOiI2MDc5MTg0NDIyNTIyODE5MDQxIiwicmRzIjoiUENfNzAwNjgzMDM2NDU3NTEyNjA5fFBST0RfUENfNzAwNjgzMDM2NDU3NTEyNjA5IiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjM5NDYxNzIyODQzMDc3MTMzOSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTEwNzM3NTA1MjM0MzA3MTMzMDUiLCJpbWFnZURvY2lkIjoiMTYwNzYzMDMxMTIwNDQ0Mjc0MDMiLCJyZHMiOiJQQ18xNjM1ODQ2MDc1NDc2MTY1NzAyMHxQUk9EX1BDXzE2MzU4NDYwNzU0NzYxNjU3MDIwIiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjM5NDYxNzIyODQzMDc3MTMzOSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTEwNzM3NTA1MjM0MzA3MTMzMDUiLCJpbWFnZURvY2lkIjoiMTYwNzYzMDMxMTIwNDQ0Mjc0MDMiLCJyZHMiOiJQQ18xNjM1ODQ2MDc1NDc2MTY1NzAyMHxQUk9EX1BDXzE2MzU4NDYwNzU0NzYxNjU3MDIwIiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTMwMzIwMDc0NzQzODAyMTI1MCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTgzNTMzMTczNDI0MDQyMzQ4NTUiLCJpbWFnZURvY2lkIjoiNTI2NDUzOTEyMDMyNTA0NTYyNiIsInJkcyI6IlBDXzE0ODk4ODA2NTk2OTM1MDc2NzA1fFBST0RfUENfMTQ4OTg4MDY1OTY5MzUwNzY3MDUiLCJxdWVyeSI6ImJyZWFrZmFzdCtjZXJlYWwifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTMwMzIwMDc0NzQzODAyMTI1MCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTgzNTMzMTczNDI0MDQyMzQ4NTUiLCJpbWFnZURvY2lkIjoiNTI2NDUzOTEyMDMyNTA0NTYyNiIsInJkcyI6IlBDXzE0ODk4ODA2NTk2OTM1MDc2NzA1fFBST0RfUENfMTQ4OTg4MDY1OTY5MzUwNzY3MDUiLCJxdWVyeSI6ImJyZWFrZmFzdCtjZXJlYWwifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMzNDYyMjY0Mzg0Njk5MTE5NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTM5NjE4OTMyNTE5OTMyMzg3MjEiLCJpbWFnZURvY2lkIjoiOTM5ODg5MjEwMzUxNTg3MzM4MSIsInJkcyI6IlBDXzkwMzkxMDIzMTk5MjIwNTIxNzF8UFJPRF9QQ185MDM5MTAyMzE5OTIyMDUyMTcxIiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMzNDYyMjY0Mzg0Njk5MTE5NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTM5NjE4OTMyNTE5OTMyMzg3MjEiLCJpbWFnZURvY2lkIjoiOTM5ODg5MjEwMzUxNTg3MzM4MSIsInJkcyI6IlBDXzkwMzkxMDIzMTk5MjIwNTIxNzF8UFJPRF9QQ185MDM5MTAyMzE5OTIyMDUyMTcxIiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzQ0OTM5MjE1OTU2ODkxNzEyMyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTM2MTE1NjA1NDM3NTExNDM5NTQiLCJpbWFnZURvY2lkIjoiMTUxMjEwOTg1NDc2OTQ1ODY0MDciLCJyZHMiOiJQQ18xMzE0NTY2MTM3MDAyNTY4NTgzM3xQUk9EX1BDXzEzMTQ1NjYxMzcwMDI1Njg1ODMzIiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzQ0OTM5MjE1OTU2ODkxNzEyMyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTM2MTE1NjA1NDM3NTExNDM5NTQiLCJpbWFnZURvY2lkIjoiMTUxMjEwOTg1NDc2OTQ1ODY0MDciLCJyZHMiOiJQQ18xMzE0NTY2MTM3MDAyNTY4NTgzM3xQUk9EX1BDXzEzMTQ1NjYxMzcwMDI1Njg1ODMzIiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzczNTY4MTY2MjQ2Nzg0OTIxIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxOTQ5ODg5Nzk1NjQxNDk1NDgwIiwiaW1hZ2VEb2NpZCI6IjExMTk0NjU5MjQyNDEwMjE1OTkxIiwicmRzIjoiUENfMTY5MzY0MTIwMjE2MjExNTQyMHxQUk9EX1BDXzE2OTM2NDEyMDIxNjIxMTU0MjAiLCJxdWVyeSI6ImJyZWFrZmFzdCtjZXJlYWwifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzczNTY4MTY2MjQ2Nzg0OTIxIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxOTQ5ODg5Nzk1NjQxNDk1NDgwIiwiaW1hZ2VEb2NpZCI6IjExMTk0NjU5MjQyNDEwMjE1OTkxIiwicmRzIjoiUENfMTY5MzY0MTIwMjE2MjExNTQyMHxQUk9EX1BDXzE2OTM2NDEyMDIxNjIxMTU0MjAiLCJxdWVyeSI6ImJyZWFrZmFzdCtjZXJlYWwifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU1NzQzMTE5OTAyNjc3MjQ5NzAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0ODE5ODYyOTQ5MjIzMDgyMjg2IiwiaW1hZ2VEb2NpZCI6IjE0ODAyMDM3MTMzNTYwNzQzODYiLCJyZHMiOiJQQ18xMTIwMzE2MjkwMzI5NTYzMjgyOHxQUk9EX1BDXzExMjAzMTYyOTAzMjk1NjMyODI4IiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU1NzQzMTE5OTAyNjc3MjQ5NzAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0ODE5ODYyOTQ5MjIzMDgyMjg2IiwiaW1hZ2VEb2NpZCI6IjE0ODAyMDM3MTMzNTYwNzQzODYiLCJyZHMiOiJQQ18xMTIwMzE2MjkwMzI5NTYzMjgyOHxQUk9EX1BDXzExMjAzMTYyOTAzMjk1NjMyODI4IiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTI3NDY0Mzk0OTMxODgzMDY3MyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzM5NzA0MzQ1MjEyMTI1OTk2MyIsImltYWdlRG9jaWQiOiIxNjgzMTEzOTMyNzE2ODI0MDE2OCIsInJkcyI6IlBDXzQ4NTY3MjQ4ODE4MzU1MTY4M3xQUk9EX1BDXzQ4NTY3MjQ4ODE4MzU1MTY4MyIsInF1ZXJ5IjoiYnJlYWtmYXN0K2NlcmVhbCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTI3NDY0Mzk0OTMxODgzMDY3MyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzM5NzA0MzQ1MjEyMTI1OTk2MyIsImltYWdlRG9jaWQiOiIxNjgzMTEzOTMyNzE2ODI0MDE2OCIsInJkcyI6IlBDXzQ4NTY3MjQ4ODE4MzU1MTY4M3xQUk9EX1BDXzQ4NTY3MjQ4ODE4MzU1MTY4MyIsInF1ZXJ5IjoiYnJlYWtmYXN0K2NlcmVhbCJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ3MTA1ODU1MjAxMzE4MjY0MDciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjkxNTEwMDQwMzEwNzYxMTEyNDYiLCJpbWFnZURvY2lkIjoiOTM2NDc2NDE3NjE0MTE5Nzg5MyIsInJkcyI6IlBDXzExMTQ1Nzk3NzMxNTE0NTc1MjgyfFBST0RfUENfMTExNDU3OTc3MzE1MTQ1NzUyODIiLCJxdWVyeSI6ImJyZWFrZmFzdCtjZXJlYWwifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ3MTA1ODU1MjAxMzE4MjY0MDciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjkxNTEwMDQwMzEwNzYxMTEyNDYiLCJpbWFnZURvY2lkIjoiOTM2NDc2NDE3NjE0MTE5Nzg5MyIsInJkcyI6IlBDXzExMTQ1Nzk3NzMxNTE0NTc1MjgyfFBST0RfUENfMTExNDU3OTc3MzE1MTQ1NzUyODIiLCJxdWVyeSI6ImJyZWFrZmFzdCtjZXJlYWwifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMwNDQyODAzMzQ0MzAwMDA2NTIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExNjIwNzYxNDc4MzEyNjU5NDgiLCJpbWFnZURvY2lkIjoiMjYwNDE3MTMyMzE3NTQ2ODY1NSIsInJkcyI6IlBDXzMwNDY0Mzk0Njk0MDM5ODc1NTl8UFJPRF9QQ18zMDQ2NDM5NDY5NDAzOTg3NTU5IiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMwNDQyODAzMzQ0MzAwMDA2NTIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExNjIwNzYxNDc4MzEyNjU5NDgiLCJpbWFnZURvY2lkIjoiMjYwNDE3MTMyMzE3NTQ2ODY1NSIsInJkcyI6IlBDXzMwNDY0Mzk0Njk0MDM5ODc1NTl8UFJPRF9QQ18zMDQ2NDM5NDY5NDAzOTg3NTU5IiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTc4ODY1MzYxMzA3Mjk5NzQ1MCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzA3NTUzMTYwODM0MTgyMTczMCIsImltYWdlRG9jaWQiOiIxNDIzMjgzMTE2OTI0MDM3MDE4OCIsInJkcyI6IlBDXzg4OTg0Njk1ODE0NTYxMTg0OHxQUk9EX1BDXzg4OTg0Njk1ODE0NTYxMTg0OCIsInF1ZXJ5IjoiYnJlYWtmYXN0K2NlcmVhbCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTc4ODY1MzYxMzA3Mjk5NzQ1MCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzA3NTUzMTYwODM0MTgyMTczMCIsImltYWdlRG9jaWQiOiIxNDIzMjgzMTE2OTI0MDM3MDE4OCIsInJkcyI6IlBDXzg4OTg0Njk1ODE0NTYxMTg0OHxQUk9EX1BDXzg4OTg0Njk1ODE0NTYxMTg0OCIsInF1ZXJ5IjoiYnJlYWtmYXN0K2NlcmVhbCJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjA2MTE5NjI4MTQzNDIyNjQ1MyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTU3NDM1MDcyNzM2ODMwNzI1NjUiLCJpbWFnZURvY2lkIjoiMTQwNTMzMTc3ODMyNDE3MDA3NTMiLCJyZHMiOiJQQ18xNDk5Nzc0NTUyMTAyODk5MjMxM3xQUk9EX1BDXzE0OTk3NzQ1NTIxMDI4OTkyMzEzIiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjA2MTE5NjI4MTQzNDIyNjQ1MyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTU3NDM1MDcyNzM2ODMwNzI1NjUiLCJpbWFnZURvY2lkIjoiMTQwNTMzMTc3ODMyNDE3MDA3NTMiLCJyZHMiOiJQQ18xNDk5Nzc0NTUyMTAyODk5MjMxM3xQUk9EX1BDXzE0OTk3NzQ1NTIxMDI4OTkyMzEzIiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODIxNTQ3MjEyODQ5Mjc3ODM1IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI4NjMwODA0Njk0ODgzMjMyMTUxIiwiaW1hZ2VEb2NpZCI6IjMxMTY3MjgxOTc3NjMzMzAyNzMiLCJyZHMiOiJQQ18zOTgwNjQ5NTI2MTQyODc2NzQ0fFBST0RfUENfMzk4MDY0OTUyNjE0Mjg3Njc0NCIsInF1ZXJ5IjoiYnJlYWtmYXN0K2NlcmVhbCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODIxNTQ3MjEyODQ5Mjc3ODM1IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI4NjMwODA0Njk0ODgzMjMyMTUxIiwiaW1hZ2VEb2NpZCI6IjMxMTY3MjgxOTc3NjMzMzAyNzMiLCJyZHMiOiJQQ18zOTgwNjQ5NTI2MTQyODc2NzQ0fFBST0RfUENfMzk4MDY0OTUyNjE0Mjg3Njc0NCIsInF1ZXJ5IjoiYnJlYWtmYXN0K2NlcmVhbCJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU1NzQzMTE5OTAyNjc3MjQ5NzAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyODI2OTA4Njc1Mjk4MDE1NjgxIiwiaW1hZ2VEb2NpZCI6IjE0ODAyMDM3MTMzNTYwNzQzODYiLCJyZHMiOiJQQ18xMTIwMzE2MjkwMzI5NTYzMjgyOHxQUk9EX1BDXzExMjAzMTYyOTAzMjk1NjMyODI4IiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU1NzQzMTE5OTAyNjc3MjQ5NzAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyODI2OTA4Njc1Mjk4MDE1NjgxIiwiaW1hZ2VEb2NpZCI6IjE0ODAyMDM3MTMzNTYwNzQzODYiLCJyZHMiOiJQQ18xMTIwMzE2MjkwMzI5NTYzMjgyOHxQUk9EX1BDXzExMjAzMTYyOTAzMjk1NjMyODI4IiwicXVlcnkiOiJicmVha2Zhc3QrY2VyZWFsIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM0NDA3MzAyNDYxODI1NzIxOTQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2MDQ1NDUyNzYzNTE5ODU2ODU2IiwiaW1hZ2VEb2NpZCI6IjExMzgzODE2NDY4OTI4OTYyMzgxIiwicmRzIjoiUENfMTQ3MjM4MDU0MTUxOTc5MjQ5MjF8UFJPRF9QQ18xNDcyMzgwNTQxNTE5NzkyNDkyMSIsInF1ZXJ5IjoiYnJlYWtmYXN0K2NlcmVhbCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM0NDA3MzAyNDYxODI1NzIxOTQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2MDQ1NDUyNzYzNTE5ODU2ODU2IiwiaW1hZ2VEb2NpZCI6IjExMzgzODE2NDY4OTI4OTYyMzgxIiwicmRzIjoiUENfMTQ3MjM4MDU0MTUxOTc5MjQ5MjF8UFJPRF9QQ18xNDcyMzgwNTQxNTE5NzkyNDkyMSIsInF1ZXJ5IjoiYnJlYWtmYXN0K2NlcmVhbCJ9"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What are the 10 most popular breakfast cereals?",
+      "title": "These are America's Top 10 Favorite Cereals",
+      "date": "Mar 6, 2024",
+      "link": "https://nowbn.com/2024/03/06/these-are-americas-top-10-favorite-cereals/",
+      "list": [
+        "Cheerios.",
+        "Cream of Wheat.",
+        "Honey Bunches of Oats.",
+        "Lucky Charms.",
+        "Frosted Flakes.",
+        "Cinnamon Toast Crunch.",
+        "Corn Flakes.",
+        "Raisin Bran."
+      ],
+      "displayed_link": "https://nowbn.com \u203a 2024/03/06 \u203a these-are-americas-to...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGwZIPsm2PchcEg4n_RV4F-3tDteg5Ylye558eghc6qw&s",
+      "source_logo": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/dc148a9af2ac784556ffe29c04b1135b51384bc8511df2c4613a32b9ceb512c8.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFFVNDJjVTUwVDJOeFdsVkRjSEJ0YTIxcGQxRkpPSEl5ZUVoQ1ZWVlpiV2h3T1hwelZXMTJVR2c0VjBseGFuazFaV2hZVTNKT1FtVkhiWFJrY1VkWGR6VTNTRXhrRWhkeVEzZExXaTEyYjAxeGFWbHdkRkZRTFUxRGFuVlJTUm9pUVVaWWNrVmpjVTlYT0VJNU0wOHhabUpPYXpORlExbE5kRXRuVkVkbmVrazNkdyIsImZjdiI6IjMiLCJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicWMiOiJDaEJpY21WaGEyWmhjM1FnWTJWeVpXRnNFQUI5N1VBdFB3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgMTAgbW9zdCBwb3B1bGFyIGJyZWFrZmFzdCBjZXJlYWxzPyIsImxrIjoiYzVQU0s4OUlMRkZJTEVwVktNbElWVEEwVU1qTkx5NVJLTWd2S00xSkxGSklLa3BOekU1TEJJb2twd0taT2NVQSIsImJzIjoiYy1OSzQ5SVB6MGdzVVVnc1NsVW95VWhWTURSUXlNMHZMbEVveUM4b3pVa3NVa2dxU2szTVRrc0VpaVNuQXBrNXhmWVM2LXVNREtUMHlrblN4UlhGcFJtZWtabWNnU0dsa0ZrTU5pSUR5QzdKeUV3dExyR1hlT1JycENXbFVVNmtlcTRBTGhXd0g2QXktVGtwUUZFTWpmWVN4OHlNVktXVXl3a3I1Y3JqTXZZc1ZzZ3NVZkQzVmlqSlYwaE5oTnVlbG9fc3U5U3kxS0pLb05lTDhqTHowdTBsN3ZJWW1VZ1paWUoxNW1jVHIxT0FFUUEiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFFVNDJjVTUwVDJOeFdsVkRjSEJ0YTIxcGQxRkpPSEl5ZUVoQ1ZWVlpiV2h3T1hwelZXMTJVR2c0VjBseGFuazFaV2hZVTNKT1FtVkhiWFJrY1VkWGR6VTNTRXhrRWhkeVEzZExXaTEyYjAxeGFWbHdkRkZRTFUxRGFuVlJTUm9pUVVaWWNrVmpjVTlYT0VJNU0wOHhabUpPYXpORlExbE5kRXRuVkVkbmVrazNkdyIsImZjdiI6IjMiLCJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicWMiOiJDaEJpY21WaGEyWmhjM1FnWTJWeVpXRnNFQUI5N1VBdFB3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgMTAgbW9zdCBwb3B1bGFyIGJyZWFrZmFzdCBjZXJlYWxzPyIsImxrIjoiYzVQU0s4OUlMRkZJTEVwVktNbElWVEEwVU1qTkx5NVJLTWd2S00xSkxGSklLa3BOekU1TEJJb2twd0taT2NVQSIsImJzIjoiYy1OSzQ5SVB6MGdzVVVnc1NsVW95VWhWTURSUXlNMHZMbEVveUM4b3pVa3NVa2dxU2szTVRrc0VpaVNuQXBrNXhmWVM2LXVNREtUMHlrblN4UlhGcFJtZWtabWNnU0dsa0ZrTU5pSUR5QzdKeUV3dExyR1hlT1JycENXbFVVNmtlcTRBTGhXd0g2QXktVGtwUUZFTWpmWVN4OHlNVktXVXl3a3I1Y3JqTXZZc1ZzZ3NVZkQzVmlqSlYwaE5oTnVlbG9fc3U5U3kxS0pLb05lTDhqTHowdTBsN3ZJWW1VZ1paWUoxNW1jVHIxT0FFUUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+    },
+    {
+      "question": "Which breakfast cereal is the healthiest?",
+      "title": "This article will cover the 14 healthiest cereals you can eat.",
+      "link": "https://www.healthline.com/nutrition/15-healthiest-cereals",
+      "list": [
+        "Ezekiel 4:9 Sprouted Grain Cereals. ... ",
+        "Nature's Path Organics Superfood Cereals. ... ",
+        "Barbara's Shredded Wheat Cereal. ... ",
+        "Arrowhead Mills Spelt Flakes. ... ",
+        "Cauliflower \u201coatmeal\u201d ... ",
+        "DIY peanut butter puffs cereal. ... ",
+        "Love Grown Original Power O's. ... ",
+        "DIY flax chia cereal."
+      ],
+      "displayed_link": "https://www.healthline.com \u203a nutrition \u203a 15-healthiest-c...",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFFVNDJjVTUwVDJOeFdsVkRjSEJ0YTIxcGQxRkpPSEl5ZUVoQ1ZWVlpiV2h3T1hwelZXMTJVR2c0VjBseGFuazFaV2hZVTNKT1FtVkhiWFJrY1VkWGR6VTNTRXhrRWhkeVEzZExXaTEyYjAxeGFWbHdkRkZRTFUxRGFuVlJTUm9pUVVaWWNrVmpjVTlYT0VJNU0wOHhabUpPYXpORlExbE5kRXRuVkVkbmVrazNkdyIsImZjdiI6IjMiLCJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicWMiOiJDaEJpY21WaGEyWmhjM1FnWTJWeVpXRnNFQUI5N1VBdFB3IiwicXVlc3Rpb24iOiJXaGljaCBicmVha2Zhc3QgY2VyZWFsIGlzIHRoZSBoZWFsdGhpZXN0PyIsImxrIjoiYzVQU0tNX0lUTTVRU0NwS1RjeE9TeXd1VVVoT0JUSnpGREtMRlVveVVoVXlnT3lTak16VTRoSUEiLCJicyI6ImMtTks0OUlQejBnc1VVZ3NTbFVveVVoVk1EUlF5TTB2TGxFb3lDOG96VWtzVWtncVNrM01Ua3NFaWlTbkFwazV4ZllTNi11TURLVDB5a25TeFJYRnBSbWVrWm1jZ1NHbGtGa01OaUlEeUM3SnlFd3RMckdYZU9ScnBDV2xVVTZrZXE0QUxoV3dINkF5LVRrcFFGRU1qZllTeDh5TVZLV1V5d2tyNWNyak12WXNWc2dzVWZEM1ZpakpWMGhOaE51ZWxvX3N1OVN5MUtKS29OZUw4akx6MHUwbDd2SVltVWdaWllKMTVtY1RyMU9BRVFBIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFFVNDJjVTUwVDJOeFdsVkRjSEJ0YTIxcGQxRkpPSEl5ZUVoQ1ZWVlpiV2h3T1hwelZXMTJVR2c0VjBseGFuazFaV2hZVTNKT1FtVkhiWFJrY1VkWGR6VTNTRXhrRWhkeVEzZExXaTEyYjAxeGFWbHdkRkZRTFUxRGFuVlJTUm9pUVVaWWNrVmpjVTlYT0VJNU0wOHhabUpPYXpORlExbE5kRXRuVkVkbmVrazNkdyIsImZjdiI6IjMiLCJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicWMiOiJDaEJpY21WaGEyWmhjM1FnWTJWeVpXRnNFQUI5N1VBdFB3IiwicXVlc3Rpb24iOiJXaGljaCBicmVha2Zhc3QgY2VyZWFsIGlzIHRoZSBoZWFsdGhpZXN0PyIsImxrIjoiYzVQU0tNX0lUTTVRU0NwS1RjeE9TeXd1VVVoT0JUSnpGREtMRlVveVVoVXlnT3lTak16VTRoSUEiLCJicyI6ImMtTks0OUlQejBnc1VVZ3NTbFVveVVoVk1EUlF5TTB2TGxFb3lDOG96VWtzVWtncVNrM01Ua3NFaWlTbkFwazV4ZllTNi11TURLVDB5a25TeFJYRnBSbWVrWm1jZ1NHbGtGa01OaUlEeUM3SnlFd3RMckdYZU9ScnBDV2xVVTZrZXE0QUxoV3dINkF5LVRrcFFGRU1qZllTeDh5TVZLV1V5d2tyNWNyak12WXNWc2dzVWZEM1ZpakpWMGhOaE51ZWxvX3N1OVN5MUtKS29OZUw4akx6MHUwbDd2SVltVWdaWllKMTVtY1RyMU9BRVFBIiwiaWQiOiJmY18xIn0%3D"
+    },
+    {
+      "question": "What is the oldest breakfast cereal?",
+      "title": "The First Breakfast Cereal, Granula, Had to Be Soaked Before Being Eaten",
+      "date": "Mar 7, 2017",
+      "link": "https://www.smithsonianmag.com/smart-news/first-breakfast-cereal-granula-had-be-soaked-being-eaten-180962340/",
+      "list": [
+        "Granula wasn't much like the cereal we eat today.",
+        "The first manufactured breakfast cereal, it was developed in 1863 by a doctor and health reformer named James Caleb Jackson."
+      ],
+      "displayed_link": "https://www.smithsonianmag.com \u203a smart-news \u203a first-br...",
+      "source_logo": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/dc148a9af2ac784556ffe29c04b1135b194093109a9068597edfed7aba82fe72.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFFVNDJjVTUwVDJOeFdsVkRjSEJ0YTIxcGQxRkpPSEl5ZUVoQ1ZWVlpiV2h3T1hwelZXMTJVR2c0VjBseGFuazFaV2hZVTNKT1FtVkhiWFJrY1VkWGR6VTNTRXhrRWhkeVEzZExXaTEyYjAxeGFWbHdkRkZRTFUxRGFuVlJTUm9pUVVaWWNrVmpjVTlYT0VJNU0wOHhabUpPYXpORlExbE5kRXRuVkVkbmVrazNkdyIsImZjdiI6IjMiLCJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicWMiOiJDaEJpY21WaGEyWmhjM1FnWTJWeVpXRnNFQUI5N1VBdFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBvbGRlc3QgYnJlYWtmYXN0IGNlcmVhbD8iLCJsayI6ImM1TlNMczlJTEZISUxGWW95VWhWeU05SlNTMHVVVWdxU2szTVRrc0VzcEpUZ2N3Y0FBIiwiYnMiOiJjLU5LNDlJUHowZ3NVVWdzU2xVb3lVaFZNRFJReU0wdkxsRW95QzhvelVrc1VrZ3FTazNNVGtzRWlpU25BcGs1eGZZUzYtdU1ES1QweWtuU3hSWEZwUm1la1ptY2dTR2xrRmtNTmlJRHlDN0p5RXd0THJHWGVPUnJwQ1dsVVU2a2VxNEFMaFd3SDZBeS1Ua3BRRkVNamZZU3g4eU1WS1dVeXdrcjVjcmpNdllzVnNnc1VmRDNWaWpKVjBoTmhOdWVsb19zdTlTeTFLSktvTmVMOGpMejB1MGw3dklZbVVnWlpZSjE1bWNUcjFPQUVRQSIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFFVNDJjVTUwVDJOeFdsVkRjSEJ0YTIxcGQxRkpPSEl5ZUVoQ1ZWVlpiV2h3T1hwelZXMTJVR2c0VjBseGFuazFaV2hZVTNKT1FtVkhiWFJrY1VkWGR6VTNTRXhrRWhkeVEzZExXaTEyYjAxeGFWbHdkRkZRTFUxRGFuVlJTUm9pUVVaWWNrVmpjVTlYT0VJNU0wOHhabUpPYXpORlExbE5kRXRuVkVkbmVrazNkdyIsImZjdiI6IjMiLCJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicWMiOiJDaEJpY21WaGEyWmhjM1FnWTJWeVpXRnNFQUI5N1VBdFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBvbGRlc3QgYnJlYWtmYXN0IGNlcmVhbD8iLCJsayI6ImM1TlNMczlJTEZISUxGWW95VWhWeU05SlNTMHVVVWdxU2szTVRrc0VzcEpUZ2N3Y0FBIiwiYnMiOiJjLU5LNDlJUHowZ3NVVWdzU2xVb3lVaFZNRFJReU0wdkxsRW95QzhvelVrc1VrZ3FTazNNVGtzRWlpU25BcGs1eGZZUzYtdU1ES1QweWtuU3hSWEZwUm1la1ptY2dTR2xrRmtNTmlJRHlDN0p5RXd0THJHWGVPUnJwQ1dsVVU2a2VxNEFMaFd3SDZBeS1Ua3BRRkVNamZZU3g4eU1WS1dVeXdrcjVjcmpNdllzVnNnc1VmRDNWaWpKVjBoTmhOdWVsb19zdTlTeTFLSktvTmVMOGpMejB1MGw3dklZbVVnWlpZSjE1bWNUcjFPQUVRQSIsImlkIjoiZmNfMSJ9"
+    },
+    {
+      "question": "Is it OK to eat cereal for breakfast every morning?",
+      "snippet": "It's completely fine to enjoy cereal every day, as long as you're choosing nutritious options and meeting your nutritional needs by pairing it with other foods, like fruit, nuts and seeds and unsweetened milk.",
+      "title": "How Bad Is It Really to Eat Cereal for Breakfast Every Day?",
+      "link": "https://www.livestrong.com/article/13774827-is-eating-cereal-every-day-bad/#:~:text=It's%20completely%20fine%20to%20enjoy,and%20seeds%20and%20unsweetened%20milk.",
+      "displayed_link": "https://www.livestrong.com \u203a article \u203a 13774827-is-eatin...",
+      "source_logo": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/dc148a9af2ac784556ffe29c04b1135b8f5cfb57a13f662c0b571bffad00d309.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFFVNDJjVTUwVDJOeFdsVkRjSEJ0YTIxcGQxRkpPSEl5ZUVoQ1ZWVlpiV2h3T1hwelZXMTJVR2c0VjBseGFuazFaV2hZVTNKT1FtVkhiWFJrY1VkWGR6VTNTRXhrRWhkeVEzZExXaTEyYjAxeGFWbHdkRkZRTFUxRGFuVlJTUm9pUVVaWWNrVmpjVTlYT0VJNU0wOHhabUpPYXpORlExbE5kRXRuVkVkbmVrazNkdyIsImZjdiI6IjMiLCJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicWMiOiJDaEJpY21WaGEyWmhjM1FnWTJWeVpXRnNFQUI5N1VBdFB3IiwicXVlc3Rpb24iOiJJcyBpdCBPSyB0byBlYXQgY2VyZWFsIGZvciBicmVha2Zhc3QgZXZlcnkgbW9ybmluZz8iLCJsayI6IkdqSnBjeUJwZENCdmF5QjBieUJsWVhRZ1kyVnlaV0ZzSUdadmNpQmljbVZoYTJaaGMzUWdaWFpsY25rZ2JXOXlibWx1WnciLCJicyI6ImMtTks0OUlQejBnc1VVZ3NTbFVveVVoVk1EUlF5TTB2TGxFb3lDOG96VWtzVWtncVNrM01Ua3NFaWlTbkFwazV4ZllTNi11TURLVDB5a25TeFJYRnBSbWVrWm1jZ1NHbGtGa01OaUlEeUM3SnlFd3RMckdYZU9ScnBDV2xVVTZrZXE0QUxoV3dINkF5LVRrcFFGRU1qZllTeDh5TVZLV1V5d2tyNWNyak12WXNWc2dzVWZEM1ZpakpWMGhOaE51ZWxvX3N1OVN5MUtKS29OZUw4akx6MHUwbDd2SVltVWdaWllKMTVtY1RyMU9BRVFBIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFFVNDJjVTUwVDJOeFdsVkRjSEJ0YTIxcGQxRkpPSEl5ZUVoQ1ZWVlpiV2h3T1hwelZXMTJVR2c0VjBseGFuazFaV2hZVTNKT1FtVkhiWFJrY1VkWGR6VTNTRXhrRWhkeVEzZExXaTEyYjAxeGFWbHdkRkZRTFUxRGFuVlJTUm9pUVVaWWNrVmpjVTlYT0VJNU0wOHhabUpPYXpORlExbE5kRXRuVkVkbmVrazNkdyIsImZjdiI6IjMiLCJlaSI6InJDd0taLXZvTXFpWXB0UVAtTUNqdVFJIiwicWMiOiJDaEJpY21WaGEyWmhjM1FnWTJWeVpXRnNFQUI5N1VBdFB3IiwicXVlc3Rpb24iOiJJcyBpdCBPSyB0byBlYXQgY2VyZWFsIGZvciBicmVha2Zhc3QgZXZlcnkgbW9ybmluZz8iLCJsayI6IkdqSnBjeUJwZENCdmF5QjBieUJsWVhRZ1kyVnlaV0ZzSUdadmNpQmljbVZoYTJaaGMzUWdaWFpsY25rZ2JXOXlibWx1WnciLCJicyI6ImMtTks0OUlQejBnc1VVZ3NTbFVveVVoVk1EUlF5TTB2TGxFb3lDOG96VWtzVWtncVNrM01Ua3NFaWlTbkFwazV4ZllTNi11TURLVDB5a25TeFJYRnBSbWVrWm1jZ1NHbGtGa01OaUlEeUM3SnlFd3RMckdYZU9ScnBDV2xVVTZrZXE0QUxoV3dINkF5LVRrcFFGRU1qZllTeDh5TVZLV1V5d2tyNWNyak12WXNWc2dzVWZEM1ZpakpWMGhOaE51ZWxvX3N1OVN5MUtKS29OZUw4akx6MHUwbDd2SVltVWdaWllKMTVtY1RyMU9BRVFBIiwiaWQiOiJmY18xIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Breakfast cereal",
+      "link": "https://en.wikipedia.org/wiki/Breakfast_cereal",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Breakfast_cereal&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQFnoECBQQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Breakfast_cereal",
+      "thumbnail": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/538cd224b60a70e7c29e9043c2a1f0fc0d449fa36761b6997d9248629eccb6ff.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/538cd224b60a70e7c29e9043c2a1f0fc97aa48d721cfd236c9864e2c81be0365.png",
+      "snippet": "Breakfast cereal is a breakfast food made from processed cereal grains. It is traditionally eaten as part of breakfast, or a snack food, primarily in ...",
+      "snippet_highlighted_words": [
+        "Breakfast cereal"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "List",
+            "link": "https://en.wikipedia.org/wiki/List_of_breakfast_cereals"
+          },
+          {
+            "title": "Cereal box prize",
+            "link": "https://en.wikipedia.org/wiki/Cereal_box_prize"
+          },
+          {
+            "title": "Granula",
+            "link": "https://en.wikipedia.org/wiki/Granula"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Breakfast & Cereal - Walmart.com",
+      "link": "https://www.walmart.com/cp/breakfast-cereal/976783",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.walmart.com/cp/breakfast-cereal/976783&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQFnoFCIEBEAE",
+      "displayed_link": "https://www.walmart.com \u203a breakfast-cereal",
+      "thumbnail": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/538cd224b60a70e7c29e9043c2a1f0fc1146082fea05233869886e79512e2bac.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/538cd224b60a70e7c29e9043c2a1f0fcd6d4bfc51e2a09360dc270009092f000.png",
+      "snippet": "Shop for Breakfast & cereal at Walmart.com. Buy cereal & granola, pancakes & waffles, oatmeal & grits, grab & go bars, variety packs. Save money.",
+      "snippet_highlighted_words": [
+        "Breakfast",
+        "cereal",
+        "cereal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "store_rating_k": 4.5,
+            "price": 1,
+            "currency": "$ to $",
+            "free": 90
+          },
+          "extensions": [
+            "4.5store rating (1.4K)",
+            "\u200e$1 to $24",
+            "\u200eFree 90",
+            "day returns"
+          ]
+        }
+      },
+      "source": "Walmart"
+    },
+    {
+      "position": 3,
+      "title": "Breakfast Cereal",
+      "link": "https://www.amazon.com/Breakfast-Cereal/b?ie=UTF8&node=118518014011",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/Breakfast-Cereal/b%3Fie%3DUTF8%26node%3D118518014011&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQFnoECFUQAQ",
+      "displayed_link": "https://www.amazon.com \u203a Breakfast-Cereal",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrZ2Sf-NNxvE0w6mBe76hN7hkYdmW6hnpL3HQTupPUtH_glv50jxJk&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/538cd224b60a70e7c29e9043c2a1f0fc1eb2b3fb039ead7d3e2cce6268d769dd.png",
+      "snippet": "Honey Nut Cheerios Cereal, Limited Edition Happy Heart Shapes, Heart Healthy Cereal With Whole Grain Oats, Giant Size, 27.2 oz. $4.99$4.99.",
+      "snippet_highlighted_words": [
+        "Cereal",
+        "Cereal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 30
+          },
+          "extensions": [
+            "30",
+            "day returns"
+          ]
+        }
+      },
+      "source": "Amazon.com"
+    },
+    {
+      "position": 4,
+      "title": "Breakfast Cereal - Kellogg's \u00ae Special K",
+      "link": "https://www.specialk.com/en_US/products/cereal.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.specialk.com/en_US/products/cereal.html&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQFnoFCIoBEAE",
+      "displayed_link": "https://www.specialk.com \u203a en_US \u203a products \u203a cereal",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa5CXbi-Kw9Hh8wnKy3AZP7dc8vMvn7BEquGgjrfuT6rTyUFJ-XMkO&s",
+      "favicon": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/538cd224b60a70e7c29e9043c2a1f0fc112e0375243ff2d85398b031fb9cc721.png",
+      "snippet": "Start your day with nourishing Special K\u00ae Breakfast Cereals. Choose from protein cereals, granola, and fruity cereals made with whole grains.",
+      "snippet_highlighted_words": [
+        "Breakfast Cereals"
+      ],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa5CXbi-Kw9Hh8wnKy3AZP7dc8vMvn7BEquGgjrfuT6rTyUFJ-XMkO&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs6CxB1Z3WKBZyGcOJij8w4-0e80nq1UpIYCCUpRSPz9GZXR5pPRCd&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQElNZRxvPKbg6YmCBXoqZXCc0PCH6MHZYp_JfiqS60JKSzyQITy6pgbS4tMqTisEQrGQ&s"
+      ],
+      "source": "WK Kellogg Co"
+    },
+    {
+      "position": 5,
+      "title": "The 14 Healthiest Cereals You Can Eat",
+      "link": "https://www.healthline.com/nutrition/15-healthiest-cereals",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.healthline.com/nutrition/15-healthiest-cereals&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQFnoECFMQAQ",
+      "displayed_link": "https://www.healthline.com \u203a nutrition \u203a 15-healthiest-c...",
+      "favicon": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/538cd224b60a70e7c29e9043c2a1f0fc8480c5cfa6b49bda34559413d2602a06.png",
+      "snippet": "Cereal is a popular breakfast food, but it's often high in sugar and other unhealthy ingredients. These 14 cereals are both nutritious and delicious.",
+      "snippet_highlighted_words": [
+        "Cereal",
+        "breakfast",
+        "cereals"
+      ],
+      "source": "Healthline"
+    },
+    {
+      "position": 6,
+      "title": "Hot Cereals",
+      "link": "https://www.quakeroats.com/products/hot-cereals",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quakeroats.com/products/hot-cereals&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQFnoECGEQAQ",
+      "displayed_link": "https://www.quakeroats.com \u203a products \u203a hot-cereals",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aEm4eTjoqWnu5y6iSdfAPpHhWrVxWC-EUKjMWqgm0_w3c2dr-0u4&s",
+      "favicon": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/538cd224b60a70e7c29e9043c2a1f0fc292eb85552dc75f221c6b63cbb90f72c.png",
+      "snippet": "Made with heart-healthy*, 100% whole grain oats, these oatmeal varieties are what you love. Endless flavor possibilities and a good source of fiber.",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aEm4eTjoqWnu5y6iSdfAPpHhWrVxWC-EUKjMWqgm0_w3c2dr-0u4&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIDrDiKvPR-RqkdvfyCWbWElLIPTpsJLOD1xFfIH3GVOpfabPjJP3r&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_UueXaj9BqLInUFet0Ob4Kk2uNMhBP-HapxmZPFjgIOB7AyXMCLjM&s"
+      ],
+      "source": "Quaker Oats"
+    },
+    {
+      "position": 7,
+      "title": "List of breakfast cereals",
+      "link": "https://en.wikipedia.org/wiki/List_of_breakfast_cereals",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/List_of_breakfast_cereals&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQFnoECFQQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a List_of_breakfast_cere...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs6nZRCft5sCmRwkkYeqPcOl3yMUyAeXkz98HppKxpKNJi0d_dhoNR&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/538cd224b60a70e7c29e9043c2a1f0fc5a966aaa425328e8b0f7b07cc9a970a2.png",
+      "snippet": "This is a list of breakfast cereals. Many cereals are trademarked brands of large companies, such as Kellanova, WK Kellogg Co, General Mills, Malt-O-Meal, ...",
+      "snippet_highlighted_words": [
+        "breakfast cereals"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 8,
+      "title": "Breakfast cereals ranked best to worst",
+      "link": "https://www.bhf.org.uk/informationsupport/heart-matters-magazine/nutrition/breakfast-cereals-ranked-best-to-worst",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bhf.org.uk/informationsupport/heart-matters-magazine/nutrition/breakfast-cereals-ranked-best-to-worst&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQFnoECGIQAQ",
+      "displayed_link": "https://www.bhf.org.uk \u203a informationsupport \u203a nutrition",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz51EqmR33kVczg5z75UNEnpLDuTITeRIoVz0EbCrFXzuas2jFNfc9&s",
+      "favicon": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/538cd224b60a70e7c29e9043c2a1f0fc3581e5b0e18a89aa8b3c1a7b07797558.png",
+      "snippet": "We've ranked popular cereals from best to worst based on their ingredients \u2013 in particular added sugar, fibre content and salt.",
+      "snippet_highlighted_words": [
+        "cereals"
+      ],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz51EqmR33kVczg5z75UNEnpLDuTITeRIoVz0EbCrFXzuas2jFNfc9&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTKdcFGnH9JXbcYGowz5BE6XmftYov_2n-i0waKMjeHJvldoftucLQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNo5Vqb15gFqOzNbLIJugw_yow5H5v4zsXp5lGwwe5PL8hCrQBegye&s"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "How healthy are your favourite...",
+            "link": "https://www.bhf.org.uk/informationsupport/heart-matters-magazine/nutrition/how-healthy-are-your-favourite-sandwich-fillings"
+          },
+          {
+            "title": "Heart-healthy porridge ideas",
+            "link": "https://www.bhf.org.uk/informationsupport/heart-matters-magazine/nutrition/14-delicious-heart-healthy-porridge-ideas"
+          },
+          {
+            "title": "Fruit vs vegetables",
+            "link": "https://www.bhf.org.uk/informationsupport/heart-matters-magazine/nutrition/ask-the-expert/fruit-vs-vegetables"
+          }
+        ]
+      },
+      "source": "British Heart Foundation"
+    }
+  ],
+  "perspectives": [
+    {
+      "author": "Liam",
+      "source": "TikTok",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9G7Wu6wmWMohLoUDAWRAEjLNcs9VAFKe4Qq8ZD-IaJwkljyuwFJ5UELP4&usqp=CAI&s"
+      ],
+      "title": "If this works for you @Katie & Harry I am so happy for you! However, c... | Cereal For Breakfast",
+      "snippet": "Sashtana. Totally agree. Most of the time it's a struggle to get kids to ingest anything. Saw one mom discovered putting foods in a tortilla...",
+      "link": "https://www.tiktok.com/@theplantslant/video/7424339795305860398",
+      "date": "1 day ago"
+    },
+    {
+      "author": "Eat with GG",
+      "source": "TikTok",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-kCVogoJ7SLN1_YsDSHrQVKQbpTx5mnYQctPGqiQLdsTZAMEVTKUbldhN&usqp=CAI&s"
+      ],
+      "title": "Delicious Breakfast Mukbang with Ice Cereal | Eat with GG",
+      "snippet": "5383 Likes, 84 Comments. TikTok video from Eat with GG (@ggflavour): \u201cJoin GG for a mouthwatering breakfast mukbang featuring ice cereal!",
+      "link": "https://www.tiktok.com/@ggflavour/video/7422972253261942049?lang=en",
+      "date": "4 days ago"
+    },
+    {
+      "author": "\ud835\udc29\ud835\udc1a\ud835\udc2d\ud835\udc2b\ud835\udc22\ud835\udc1c\ud835\udc22\ud835\udc1a \ud835\udc29\ud835\udc1e\ud835\udc1a\ud835\udc2b\ud835\udc25\ud835\udc2c\u2606",
+      "source": "TikTok",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtAUKRsXmJOy5i5JA5AQyO5a0F1ggkcwz4ZjcokOlmwRhIb8TJ1Ns9AuGH&usqp=CAI&s"
+      ],
+      "title": "cereal #breakfast #cereal #frootloops #bussingirl #bussin #cookformyhu...",
+      "snippet": "837 Likes, 125 Comments. TikTok video from patricia pearls\u2606 (@thepatriciapearls): \u201ccereal #breakfast #cereal #frootloops #bussingirl #bussin...",
+      "link": "https://www.tiktok.com/@thepatriciapearls/video/7417722460969258270",
+      "date": "3 weeks ago"
+    },
+    {
+      "author": "Coupling!",
+      "source": "YouTube",
+      "thumbnails": [
+        "https://img.youtube.com/vi/D22giogNRGQ/hqdefault.jpg"
+      ],
+      "title": "Trying & Rating Breakfast Cereals!",
+      "snippet": "It's time for a new trying & rating video! What's your favourite breakfast cereal ? Products Mentioned *affiliate links below Yogabar...",
+      "link": "https://www.youtube.com/watch?v=D22giogNRGQ",
+      "date": "1 week ago"
+    },
+    {
+      "author": "ramboraph4life",
+      "source": "YouTube",
+      "thumbnails": [
+        "https://img.youtube.com/vi/t6ehU5w3DsY/hqdefault.jpg"
+      ],
+      "title": "Trying: Franken Berry Breakfast Cereal",
+      "snippet": "Out of the Monster Cereals, I always liked Count Chocula the most. Also, I remember back in the 90's that the cereals were available all...",
+      "link": "https://www.youtube.com/watch?v=t6ehU5w3DsY",
+      "date": "1 week ago"
+    },
+    {
+      "author": "Rammseth Mukbang",
+      "source": "YouTube",
+      "thumbnails": [
+        "https://img.youtube.com/vi/-ZFL753z_tk/hqdefault.jpg"
+      ],
+      "title": "ORGANIC RAISIN BRAN BREAKFAST CEREAL, ASMR EATING SOUNDS MUKBANG",
+      "snippet": "Cereal Man is back with an more healthy, organic version of raisin bran cereal! Enjoy the eating sounds of this ASMR mukbang!",
+      "link": "https://www.youtube.com/watch?v=-ZFL753z_tk",
+      "date": "2 days ago"
+    },
+    {
+      "author": "reesespuffs",
+      "source": "Instagram",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVhBIoKrAk1UJsfZf3igC77Qf6zG8voHAuTKBfP9fFhq5V7kbwbkMnlfaU&usqp=CAI&s"
+      ],
+      "title": "REESE'S PUFFS CEREAL | You asked, we answered! Join our epic sweepstakes for a chance to win a limited edition ...",
+      "link": "https://www.instagram.com/reesespuffs/reel/DAToJMHM6Rn/",
+      "date": "2 weeks ago"
+    },
+    {
+      "author": "Eva \ud83c\udf6b\u2615\ufe0f",
+      "source": "TikTok",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ94oEi42G-7eqv8JWzFgJPTq70aDK_kMoX17H00F9tALzizazDYUG03ni-&usqp=CAI&s"
+      ],
+      "title": "Name a better cereal combo \ud83d\udc49 #cereal #cerealmilk #cerealbox #kelcebro... | Cereal",
+      "snippet": "547 Likes, TikTok video from Eva \u2615\ufe0f (@eatswithevad): \u201cName a better cereal combo #cereal #cerealmilk #cerealbox #kelcebrothers #kelceswift...",
+      "link": "https://www.tiktok.com/@eatswithevad/video/7419488237590236462",
+      "date": "2 weeks ago"
+    },
+    {
+      "author": "Josh New | MS, RD, CSSD, CSCS",
+      "source": "TikTok",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6v5_WTSgLhc0AMFz7cUHh7e58_zXfOFJPwjKKQC16xVAnj9DczG_GeDY&usqp=CAI&s"
+      ],
+      "title": "Dietitian One Word Review Breakfast Cereal Review\u2063 \u2063 Ezekiel 4:9 Sprou... | Magic Spoon Cereal",
+      "snippet": "I've had other flavors in the past that tasted like cardboard, but this tasted EXACTLY like fruit loops in my opinion. Instant add to the...",
+      "link": "https://www.tiktok.com/@jnewtrition/video/7413846583814393131",
+      "date": "1 month ago"
+    },
+    {
+      "author": "BootlegFoodReview",
+      "source": "TikTok",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuX6WSjYeo81u_kyAvHBid8jgwfJlaqReAaTV3G7j0K3xnXdf_MIu-o4CG&usqp=CAI&s"
+      ],
+      "title": "Cinnamon Toast Crunch Bacon!? \ud83e\udd53 \ud83e\udd2f This can\u2019t be real life!! \ud83d\ude33 Drop ... | Cereal",
+      "snippet": "1192 Likes, 60 Comments. TikTok video from BootlegFoodReview (@bootlegfoodreview): \u201cCinnamon Toast Crunch Bacon!? This can't be real...",
+      "link": "https://www.tiktok.com/@bootlegfoodreview/video/7420179990890728747",
+      "date": "2 weeks ago"
+    },
+    {
+      "author": "JOSH",
+      "source": "TikTok",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQymv35fmNQ9lPcxorMn0uCgxTwhbs1ZOcjMQjm2l6vtDEwlU8ZS6edDBGY&usqp=CAI&s"
+      ],
+      "title": "#cereal #breakfast #kelcebrothers #taylorswift #taylorsversion #food #...",
+      "snippet": "112 Likes, TikTok video from JOSH (@beardenjosh): \u201c#cereal #breakfast #kelcebrothers #taylorswift #taylorsversion #food #foodie #fyp\u201d.",
+      "link": "https://www.tiktok.com/@beardenjosh/video/7420073308596620586",
+      "date": "2 weeks ago"
+    },
+    {
+      "author": "Farah Shams",
+      "source": "TikTok",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUfvbf_F1ZCRZ0IVidy7opotrLGUBL2wEtySS1_fmY0ESy7A2vraMc3fx5&usqp=CAI&s"
+      ],
+      "title": "Why Are Cereal Prices So High? Exploring Affordable Breakfast Options",
+      "snippet": "Delve into the mystery of high cereal prices and discover the best affordable breakfast options. Join me in uncovering the truth behind expensive breakfast...",
+      "link": "https://www.tiktok.com/@fdontcare/video/7409793906453400865",
+      "date": "1 month ago"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Breakfast cereal brands",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Breakfast+cereal+brands&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQ1QJ6BQiaARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Breakfast+cereal+brands"
+    },
+    {
+      "block_position": 1,
+      "query": "Breakfast cereal for adults",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Breakfast+cereal+for+adults&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQ1QJ6BQiZARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Breakfast+cereal+for+adults"
+    },
+    {
+      "block_position": 1,
+      "query": "Breakfast cereal crossword clue",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Breakfast+cereal+crossword+clue&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQ1QJ6BQieARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Breakfast+cereal+crossword+clue"
+    },
+    {
+      "block_position": 1,
+      "query": "Breakfast cereal list",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Breakfast+cereal+list&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQ1QJ6BQidARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Breakfast+cereal+list"
+    },
+    {
+      "block_position": 1,
+      "query": "Best breakfast cereal",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Best+breakfast+cereal&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQ1QJ6BQicARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Best+breakfast+cereal"
+    },
+    {
+      "block_position": 1,
+      "query": "Kellogg's breakfast cereal",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Kellogg%27s+breakfast+cereal&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQ1QJ6BQigARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Kellogg%27s+breakfast+cereal"
+    },
+    {
+      "block_position": 1,
+      "query": "What was the first breakfast cereal invented in 1863",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=What+was+the+first+breakfast+cereal+invented+in+1863&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQ1QJ6BQihARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=What+was+the+first+breakfast+cereal+invented+in+1863"
+    },
+    {
+      "block_position": 1,
+      "query": "Breakfast cereal for diabetics",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Breakfast+cereal+for+diabetics&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQ1QJ6BQibARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Breakfast+cereal+for+diabetics"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Brand",
+      "link": "https://www.google.com/search?hl=en&q=brand+breakfast+cereal&gl=us&shoprs=GBIqEGJyZWFrZmFzdCBjZXJlYWwyCQgSEgVCcmFuZGAB&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQip4GKAF6BAgwEFs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brand+breakfast+cereal"
+    },
+    {
+      "query": "Healthy",
+      "link": "https://www.google.com/search?hl=en&q=healthy+breakfast+cereal&gl=us&shoprs=GBIqEGJyZWFrZmFzdCBjZXJlYWwyCwgSEgdIZWFsdGh5YAE&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQip4GKAJ6BAgwEFw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=healthy+breakfast+cereal"
+    },
+    {
+      "query": "Honey",
+      "link": "https://www.google.com/search?hl=en&q=honey+breakfast+cereal&gl=us&shoprs=GAEqEGJyZWFrZmFzdCBjZXJlYWwyFQgBEgVIb25leToKCLyvZRC_r2UwAFiApCBgAQ&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQip4GKAN6BAgwEF0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=honey+breakfast+cereal"
+    },
+    {
+      "query": "Recipe",
+      "link": "https://www.google.com/search?hl=en&q=recipe+breakfast+cereal&gl=us&shoprs=GBIqEGJyZWFrZmFzdCBjZXJlYWwyCggSEgZSZWNpcGVgAQ&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQip4GKAR6BAgwEF4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=recipe+breakfast+cereal"
+    },
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?hl=en&q=breakfast+cereal+nearby&gl=us&shoprs=GAMqEGJyZWFrZmFzdCBjZXJlYWwyDAgDEgZOZWFyYnkYAliApCBgAQ&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQip4GKAV6BAgwEF8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+cereal+nearby"
+    },
+    {
+      "query": "Get it fast",
+      "link": "https://www.google.com/search?hl=en&q=breakfast+cereal&gl=us&shoprs=Eg2aAQoKCBADOAFAAkgBGBQqEGJyZWFrZmFzdCBjZXJlYWwyJAgUEgtHZXQgaXQgZmFzdCINmgEKCggQAzgBQAJIASoEEAEYAWAB&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQip4GKAZ6BAgwEGA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+cereal"
+    },
+    {
+      "query": "Fruit",
+      "link": "https://www.google.com/search?hl=en&q=fruit+breakfast+cereal&gl=us&shoprs=GAEqEGJyZWFrZmFzdCBjZXJlYWwyFQgBEgVGcnVpdDoKCLyvZRDEr2UwAFiApCBgAQ&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQip4GKAd6BAgwEGE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=fruit+breakfast+cereal"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?hl=en&q=buy+breakfast+cereal&gl=us&shoprs=GBIqEGJyZWFrZmFzdCBjZXJlYWwyBwgSEgNCdXlgAQ&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQip4GKAh6BAgwEGI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=buy+breakfast+cereal"
+    },
+    {
+      "query": "Chocolate",
+      "link": "https://www.google.com/search?hl=en&q=chocolate+breakfast+cereal&gl=us&shoprs=GAEqEGJyZWFrZmFzdCBjZXJlYWwyGQgBEglDaG9jb2xhdGU6Cgi8r2UQva9lMABYgKQgYAE&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQip4GKAl6BAgwEGM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=chocolate+breakfast+cereal"
+    },
+    {
+      "query": "Organic",
+      "link": "https://www.google.com/search?hl=en&q=organic+breakfast+cereal&gl=us&shoprs=GAEqEGJyZWFrZmFzdCBjZXJlYWwyGQgBEgdPcmdhbmljOgwIvvmHARC_-YcBMANYgKQgYAE&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQip4GKAp6BAgwEGQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=organic+breakfast+cereal"
+    },
+    {
+      "query": "Cinnamon",
+      "link": "https://www.google.com/search?hl=en&q=cinnamon+breakfast+cereal&gl=us&shoprs=GAEqEGJyZWFrZmFzdCBjZXJlYWwyGAgBEghDaW5uYW1vbjoKCLyvZRDCr2UwAFiApCBgAQ&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQip4GKAt6BAgwEGU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=cinnamon+breakfast+cereal"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?hl=en&q=breakfast+cereal+sale&gl=us&shoprs=EgRKAhgBGAYqEGJyZWFrZmFzdCBjZXJlYWwyEwgGEgdPbiBzYWxlGAIiBEoCGAFYgKQgYAE&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQip4GKAx6BAgwEGY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+cereal+sale"
+    },
+    {
+      "query": "Berry",
+      "link": "https://www.google.com/search?hl=en&q=berry+breakfast+cereal&gl=us&shoprs=GAEqEGJyZWFrZmFzdCBjZXJlYWwyFQgBEgVCZXJyeToKCLyvZRC-r2UwAFiApCBgAQ&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQip4GKA16BAgwEGc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=berry+breakfast+cereal"
+    },
+    {
+      "query": "Gluten-free",
+      "link": "https://www.google.com/search?hl=en&q=gluten-free+breakfast+cereal&gl=us&shoprs=GAEqEGJyZWFrZmFzdCBjZXJlYWwyHQgBEgtHbHV0ZW4tZnJlZToMCLKKiAEQs4qIATADWICkIGAB&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQip4GKA56BAgwEGg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=gluten-free+breakfast+cereal"
+    },
+    {
+      "query": "Low Fat",
+      "link": "https://www.google.com/search?hl=en&q=low+fat+breakfast+cereal&gl=us&shoprs=GAEqEGJyZWFrZmFzdCBjZXJlYWwyGQgBEgdMb3cgRmF0OgwIwN-HARDB34cBMABYgKQgYAE&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQip4GKA96BAgwEGk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=low+fat+breakfast+cereal"
+    },
+    {
+      "query": "Adult",
+      "link": "https://www.google.com/search?hl=en&q=adult+breakfast+cereal&gl=us&shoprs=GBIqEGJyZWFrZmFzdCBjZXJlYWwyCQgSEgVBZHVsdGAB&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQip4GKBB6BAgwEGo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=adult+breakfast+cereal"
+    },
+    {
+      "query": "High",
+      "link": "https://www.google.com/search?hl=en&q=high+breakfast+cereal&gl=us&shoprs=GBIqEGJyZWFrZmFzdCBjZXJlYWwyCAgSEgRIaWdoYAE&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQip4GKBF6BAgwEGs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=high+breakfast+cereal"
+    },
+    {
+      "query": "Under $5",
+      "link": "https://www.google.com/search?hl=en&q=breakfast+cereal+under+$5&gl=us&shoprs=Eg0SCxEAAAAAiCpRQRgBGAUqEGJyZWFrZmFzdCBjZXJlYWwyIQgFEghVbmRlciAkNRgCIg0SCxEAAAAAiCpRQRgBKgIYAViApCBgAQ&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQip4GKBJ6BAgwEGw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+cereal+under+%245"
+    },
+    {
+      "query": "Oatmeal",
+      "link": "https://www.google.com/search?hl=en&q=oatmeal+breakfast+cereal&gl=us&shoprs=GAEqEGJyZWFrZmFzdCBjZXJlYWwyGQgBEgdPYXRtZWFsOgwI8-uiARDS6qMBMAJYgKQgYAE&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQip4GKBN6BAgwEG0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oatmeal+breakfast+cereal"
+    },
+    {
+      "query": "Kosher",
+      "link": "https://www.google.com/search?hl=en&q=kosher+breakfast+cereal&gl=us&shoprs=GAEqEGJyZWFrZmFzdCBjZXJlYWwyGAgBEgZLb3NoZXI6DAjx34cBEPLfhwEwA1iApCBgAQ&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQip4GKBR6BAgwEG4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=kosher+breakfast+cereal"
+    },
+    {
+      "query": "Cholesterol-free",
+      "link": "https://www.google.com/search?hl=en&q=cholesterol-free+breakfast+cereal&gl=us&shoprs=GAEqEGJyZWFrZmFzdCBjZXJlYWwyIggBEhBDaG9sZXN0ZXJvbC1mcmVlOgwIx76HARDIvocBMANYgKQgYAE&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQip4GKBV6BAgwEG8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=cholesterol-free+breakfast+cereal"
+    },
+    {
+      "query": "12 ounces \u2013 1.1 pounds",
+      "link": "https://www.google.com/search?hl=en&q=12+ounces+to+1.1+pounds+breakfast+cereal&gl=us&shoprs=EhsqGQidn-kBEhIJAAAAwBtDdUARAAAAoKnkf0AYASoQYnJlYWtmYXN0IGNlcmVhbDJhCAESGDEyIG91bmNlcyDigJMgMS4xIHBvdW5kcyIbKhkInZ_pARISCQAAAMAbQ3VAEQAAAKCp5H9AKhsKFzEyIG91bmNlcyB0byAxLjEgcG91bmRzGAE6CQidn-kBEAAwBliApCBgAQ&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQip4GKBZ6BAgwEHA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=12+ounces+to+1.1+pounds+breakfast+cereal"
+    },
+    {
+      "query": "1.1 \u2013 2 pounds",
+      "link": "https://www.google.com/search?hl=en&q=1.1+pounds+to+2+pounds+breakfast+cereal&gl=us&shoprs=EhsqGQidn-kBEhIJAAAAoKnkf0ARAAAAYHpZjEAYASoQYnJlYWtmYXN0IGNlcmVhbDJYCAESEDEuMSDigJMgMiBwb3VuZHMiGyoZCJ2f6QESEgkAAACgqeR_QBEAAABgelmMQCoaChYxLjEgcG91bmRzIHRvIDIgcG91bmRzGAE6CQidn-kBEAAwBliApCBgAQ&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQip4GKBd6BAgwEHE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=1.1+pounds+to+2+pounds+breakfast+cereal"
+    },
+    {
+      "query": "Under 12 ounces",
+      "link": "https://www.google.com/search?hl=en&q=under+12+ounces+breakfast+cereal&gl=us&shoprs=EhIqEAidn-kBEgkRAAAAwBtDdUAYASoQYnJlYWtmYXN0IGNlcmVhbDI2CAESD1VuZGVyIDEyIG91bmNlcyISKhAInZ_pARIJEQAAAMAbQ3VAKgIYAToJCJ2f6QEQADAGWICkIGAB&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQip4GKBh6BAgwEHI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=under+12+ounces+breakfast+cereal"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "List",
+        "subtitle": "Breakfast Cereals List",
+        "title": "List of breakfast cereals - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/List_of_breakfast_cereals",
+        "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a List_of_breakfast_cereals",
+        "snippet": "A",
+        "snippet_highlighted_words": [
+          "A"
+        ],
+        "list": [
+          "Addams Family \u2013 Ralston (1991)",
+          "All-Bran \u2013 Kellogg's (1916\u2013present)",
+          "Almond Delight \u2013 Ralston.",
+          "Alpen \u2013 Weetabix Limited.",
+          "Alpen No Sugar \u2013 Weetabix Limited.",
+          "Alpha-Bits \u2013 Post Cereals (1958\u20132021)",
+          "The Amazing Spider-Man Cereal \u2013 Kellogg's (2012)",
+          "Apple Cinnamon Oh! s \u2013 Quaker Oats (1989)"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/26dc14042310b2ee3d1d469a0812380b00307bb03717263fe45292ce37bcfa203515d4b4675db649.png",
+        "source": "wikipedia.org",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7xPY3fw4c391SAa6Mx9F5weuH8vWdSkEmFxZIVk_Y_hY&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=breakfast+cereals+list&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQrooIegQIaBAI",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+cereals+list"
+      },
+      {
+        "text": "Best",
+        "subtitle": "What Is The Best Cereal For Breakfast",
+        "title": "10 Healthiest Cereals That Taste Good, According To Dietitians",
+        "link": "https://www.today.com/health/diet-fitness/healthiest-cereals-rcna137277",
+        "displayed_link": "https://www.today.com \u203a healthiest-cereals-rcna137277",
+        "date": "Jun 17, 2024",
+        "snippet": "When Consumer Reports nutrition experts evaluated 32 breakfast cereals, they recommended the following options that rated high for both nutrition and taste:",
+        "snippet_highlighted_words": [
+          "When Consumer Reports nutrition experts evaluated 32 breakfast cereals, they recommended the following options that rated high for both nutrition and taste:"
+        ],
+        "list": [
+          "One Degree Organic Foods Sprouted Ancient Maize Flakes.",
+          "General Mills Wheaties.",
+          "Kind Honey Almond.",
+          "Post Grape-Nuts Original.",
+          "Barbara's Multigrain Spoonfuls Original."
+        ],
+        "favicon": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/26dc14042310b2ee3d1d469a0812380b1c3bf9c5ea580939e527aa8b95bf0ec7fd5a02842f671397.png",
+        "source": "today.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM6KevLwDWEZmQhzPdYQk96dextOX6lMA1mFUnZsRP3_Y&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=what+is+the+best+cereal+for+breakfast&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQrooIegQIaBAQ",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+is+the+best+cereal+for+breakfast"
+      },
+      {
+        "text": "Recipes",
+        "subtitle": "Best Breakfast Cereal",
+        "title": "Guide to Choosing the Healthiest Breakfast Cereal Options",
+        "link": "https://www.silversneakers.com/blog/how-to-choose-the-healthiest-breakfast-cereal/",
+        "displayed_link": "https://www.silversneakers.com \u203a blog \u203a how-to-choose-t...",
+        "date": "Mar 4, 2024",
+        "snippet": "6 Top Cereal Picks, According to a Registered Dietitian",
+        "snippet_highlighted_words": [
+          "6 Top Cereal Picks, According to a Registered Dietitian"
+        ],
+        "list": [
+          "Bob's Red Mill Protein Oats. ... ",
+          "Uncle Sam Original Wheat Berry Flakes. ... ",
+          "Nature's Path Organic Flax Plus Mulitbran Flakes. ... ",
+          "Barbara's Shredded Wheat Cereal. ... ",
+          "Cascadian Farm Organic No Added Sugar Cinnamon Apple Granola."
+        ],
+        "favicon": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/26dc14042310b2ee3d1d469a0812380bba7541186c6a2311cece7d005c2fc6c7b399ba818170625b.png",
+        "source": "silversneakers.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=best+breakfast+cereal&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQrooIegQIaBAV",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=best+breakfast+cereal"
+      },
+      {
+        "text": "Healthy or not",
+        "subtitle": "Is Breakfast Cereal Healthy",
+        "title": "Cereal offenders: potentially harmful ingredients in 'healthy' breakfast food",
+        "link": "https://www.ewg.org/news-insights/news/2022/01/cereal-offenders-potentially-harmful-ingredients-healthy-breakfast-food#:~:text=Cereal%20can%20be%20part%20of,that%20undermine%20their%20nutritional%20value.&text=%3F",
+        "displayed_link": "https://www.ewg.org \u203a news-insights \u203a news \u203a 2022/01",
+        "date": "Jan 3, 2022",
+        "snippet": "Cereal can be part of a balanced and nutritious breakfast. But many contain excess sugar, potentially harmful additives like food dye and added nutrients that undermine their nutritional value. ?",
+        "snippet_highlighted_words": [
+          "Cereal can be part of a balanced and nutritious breakfast"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/26dc14042310b2ee3d1d469a0812380b745d841858ac52f23ef8ab9ed73bf201928d1095d275fb2e.png",
+        "source": "ewg.org",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=is+breakfast+cereal+healthy&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQrooIegQIaBAa",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=is+breakfast+cereal+healthy"
+      },
+      {
+        "text": "Healthiest",
+        "subtitle": "Healthiest Breakfast Cereal",
+        "title": "The 14 Healthiest Cereals You Can Eat - Healthline",
+        "link": "https://www.healthline.com/nutrition/15-healthiest-cereals",
+        "displayed_link": "https://www.healthline.com \u203a nutrition \u203a 15-healthiest-ce...",
+        "snippet": "This article will cover the 14 healthiest cereals you can eat.",
+        "snippet_highlighted_words": [
+          "This article will cover the 14 healthiest cereals you can eat."
+        ],
+        "list": [
+          "Ezekiel 4:9 Sprouted Grain Cereals. ... ",
+          "Nature's Path Organics Superfood Cereals. ... ",
+          "Barbara's Shredded Wheat Cereal. ... ",
+          "Arrowhead Mills Spelt Flakes. ... ",
+          "Cauliflower \u201coatmeal\u201d ... ",
+          "DIY peanut butter puffs cereal. ... ",
+          "Love Grown Original Power O's. ... ",
+          "DIY flax chia cereal."
+        ],
+        "favicon": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/26dc14042310b2ee3d1d469a0812380b528738ac202041a3f43dd6061ab44b7b1af179db6333d355.png",
+        "source": "healthline.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=healthiest+breakfast+cereal&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQrooIegQIaBAg",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=healthiest+breakfast+cereal"
+      },
+      {
+        "text": "Brands",
+        "subtitle": "Cereal Brands",
+        "title": "Discover our Delicious Cereal Brands - Nestl\u00e9 Cereals",
+        "link": "https://www.nestle-cereals.com/global/cereals",
+        "displayed_link": "https://www.nestle-cereals.com \u203a global \u203a cereals",
+        "list": [
+          "KitKat\u00ae Cereal.",
+          "Cheerios\u00ae",
+          "Corn Flakes.",
+          "Koko Krunch\u00ae",
+          "Lion\u00ae Cereals.",
+          "NESQUIK\u00ae Cereal.",
+          "Shreddies\u00ae",
+          "Shredded Wheat\u00ae"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/26dc14042310b2ee3d1d469a0812380b35a4b251f648a98009853a4d9a46564b9df868ad1d2debd7.png",
+        "source": "nestle-cereals.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=cereal+brands&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQrooIegQIaBAl",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=cereal+brands"
+      },
+      {
+        "text": "Sugar Amount",
+        "subtitle": "How Much Sugar Is In Cereal?",
+        "title": "Breakfast cereals - Action on Sugar",
+        "link": "https://www.actiononsugar.org/surveys/2015/breakfast-cereals/",
+        "displayed_link": "https://www.actiononsugar.org \u203a surveys \u203a breakfast-cere...",
+        "favicon": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/26dc14042310b2ee3d1d469a0812380b1c8541fff636dbf0c08d20adfe5baacf5f6af9253d0261db.png",
+        "source": "actiononsugar.org",
+        "table": [
+          [
+            "Breakfast Cereal",
+            "2012 Sugars (g) per 100g",
+            "2015 Sugars (tsp) per 30g serving"
+          ],
+          [
+            "Kellogg's Frosties",
+            "37",
+            "3"
+          ],
+          [
+            "Morrisons Honey & Nut Corn Flakes",
+            "33.6",
+            "3"
+          ],
+          [
+            "Sainsbury's Honey Nut Corn Flakes",
+            "33.6",
+            "3"
+          ],
+          [
+            "Kellogg's Crunchy Nut",
+            "35",
+            "3"
+          ]
+        ],
+        "formatted": [
+          {
+            "breakfast_cereal": "Kellogg's Frosties",
+            "2012_sugars_g_per_100g": "37",
+            "2015_sugars_tsp_per_30g_serving": "3"
+          },
+          {
+            "breakfast_cereal": "Morrisons Honey & Nut Corn Flakes",
+            "2012_sugars_g_per_100g": "33.6",
+            "2015_sugars_tsp_per_30g_serving": "3"
+          },
+          {
+            "breakfast_cereal": "Sainsbury's Honey Nut Corn Flakes",
+            "2012_sugars_g_per_100g": "33.6",
+            "2015_sugars_tsp_per_30g_serving": "3"
+          },
+          {
+            "breakfast_cereal": "Kellogg's Crunchy Nut",
+            "2012_sugars_g_per_100g": "35",
+            "2015_sugars_tsp_per_30g_serving": "3"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=how+much+sugar+is+in+cereal&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQrooIegQIaBAq",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+much+sugar+is+in+cereal"
+      },
+      {
+        "text": "Iron Amount",
+        "subtitle": "Does Cereal Have Iron?",
+        "title": "Top 10 Cereals High in Iron - DSB Nutrition",
+        "link": "https://dsbnutrition.com/cereals-high-in-iron/",
+        "displayed_link": "https://dsbnutrition.com \u203a cereals-high-in-iron",
+        "date": "Apr 5, 2024",
+        "snippet": "10 Healthy Cereals High in Iron",
+        "snippet_highlighted_words": [
+          "10 Healthy Cereals High in Iron"
+        ],
+        "list": [
+          "Multi-Grain Cheerios: 1 1/3 cup (39g) has 18mg (100%DV)",
+          "Total Whole Grain Cereal: 1 cup (40g) has 18mg (100%DV)",
+          "Quaker Oatmeal Squares: 1 cup (56g) has 16.5mg (90%DV)",
+          "365 by Whole Foods Market, Raisin Bran Cereal: 1 cup (55g) has 8.1mg (45%DV)"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/26dc14042310b2ee3d1d469a0812380b299ac8df4d4d477be971a0556bfaddbf9c27f74631459222.png",
+        "source": "dsbnutrition.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgyawD6yxvKH_3ueK4p_MbJMHjXli9AdYllooZaTsgjc&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=does+cereal+have+iron&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQrooIegQIaBAy",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=does+cereal+have+iron"
+      },
+      {
+        "text": "Has Carbohydrate",
+        "subtitle": "Cereal Carbs",
+        "title": "Carbs in Cereal",
+        "link": "https://www.carbmanager.com/food-detail/nl:b95191ac07a837d783b934616e03c1a7/cereal#:~:text=Cereal%20(1%20cup)%20contains%2027.4,g%20protein%2C%20and%20124%20calories.",
+        "displayed_link": "https://www.carbmanager.com \u203a food-detail \u203a cereal",
+        "snippet": "Cereal (1 cup) contains 27.4g total carbs, 25.5g net carbs, 1.1g fat, 2.5g protein, and 124 calories.",
+        "snippet_highlighted_words": [
+          "27.4g"
+        ],
+        "answer": "27.4g",
+        "favicon": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/26dc14042310b2ee3d1d469a0812380b711b63772f4b00e5b7950e57938b9f7f3736921c70f0541b.png",
+        "source": "carbmanager.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=cereal+carbs&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQrooIegQIaBA3",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=cereal+carbs"
+      },
+      {
+        "text": "Protein Amount",
+        "subtitle": "Protein Cereal",
+        "title": "High-protein cereals: A Healthier Breakfast Alternative?",
+        "link": "https://integrishealth.org/resources/on-your-health/2022/november/high-protein-cereals#:~:text=Protein%20in%20cereal&text=Most%20traditional%20breakfast%20cereals%20have,Shredded%20Wheat%20(7%20grams)",
+        "displayed_link": "https://integrishealth.org \u203a on-your-health \u203a november",
+        "date": "Nov 4, 2022",
+        "snippet": "Protein in cereal Most traditional breakfast cereals have anywhere from 2 to 7 grams of protein per serving. Some examples include: Special K (7 grams) Shredded Wheat (7 grams)",
+        "snippet_highlighted_words": [
+          "2 to 7 grams of protein per serving"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2cabb4fe87d5ceaa154b/images/26dc14042310b2ee3d1d469a0812380bb1efc5596fbd64f350d76a6c8c8b7625476d766b78fb10d4.png",
+        "source": "integrishealth.org",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=protein+cereal&sa=X&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQrooIegQIaBA8",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=protein+cereal"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=breakfast+cereal&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=rCwKZ-voMqiYptQP-MCjuQI&start=10&sa=N&sstk=AagrsuhXRUDefHN4_P5gjNp8fIFDTBGikRNcgLL1yWCKUV_hN6e5RPwW7TZCs5-UF3nuyucSVdXuQn9DNquBhulola6TJpFFlawiVQ&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQ8NMDegQIERAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=breakfast+cereal&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=rCwKZ-voMqiYptQP-MCjuQI&start=10&sa=N&sstk=AagrsuhXRUDefHN4_P5gjNp8fIFDTBGikRNcgLL1yWCKUV_hN6e5RPwW7TZCs5-UF3nuyucSVdXuQn9DNquBhulola6TJpFFlawiVQ&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQ8tMDegQIERAE",
+      "3": "https://www.google.com/search?q=breakfast+cereal&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=rCwKZ-voMqiYptQP-MCjuQI&start=20&sa=N&sstk=AagrsuhXRUDefHN4_P5gjNp8fIFDTBGikRNcgLL1yWCKUV_hN6e5RPwW7TZCs5-UF3nuyucSVdXuQn9DNquBhulola6TJpFFlawiVQ&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQ8tMDegQIERAG",
+      "4": "https://www.google.com/search?q=breakfast+cereal&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=rCwKZ-voMqiYptQP-MCjuQI&start=30&sa=N&sstk=AagrsuhXRUDefHN4_P5gjNp8fIFDTBGikRNcgLL1yWCKUV_hN6e5RPwW7TZCs5-UF3nuyucSVdXuQn9DNquBhulola6TJpFFlawiVQ&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQ8tMDegQIERAI",
+      "5": "https://www.google.com/search?q=breakfast+cereal&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=rCwKZ-voMqiYptQP-MCjuQI&start=40&sa=N&sstk=AagrsuhXRUDefHN4_P5gjNp8fIFDTBGikRNcgLL1yWCKUV_hN6e5RPwW7TZCs5-UF3nuyucSVdXuQn9DNquBhulola6TJpFFlawiVQ&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQ8tMDegQIERAK",
+      "6": "https://www.google.com/search?q=breakfast+cereal&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=rCwKZ-voMqiYptQP-MCjuQI&start=50&sa=N&sstk=AagrsuhXRUDefHN4_P5gjNp8fIFDTBGikRNcgLL1yWCKUV_hN6e5RPwW7TZCs5-UF3nuyucSVdXuQn9DNquBhulola6TJpFFlawiVQ&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQ8tMDegQIERAM",
+      "7": "https://www.google.com/search?q=breakfast+cereal&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=rCwKZ-voMqiYptQP-MCjuQI&start=60&sa=N&sstk=AagrsuhXRUDefHN4_P5gjNp8fIFDTBGikRNcgLL1yWCKUV_hN6e5RPwW7TZCs5-UF3nuyucSVdXuQn9DNquBhulola6TJpFFlawiVQ&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQ8tMDegQIERAO",
+      "8": "https://www.google.com/search?q=breakfast+cereal&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=rCwKZ-voMqiYptQP-MCjuQI&start=70&sa=N&sstk=AagrsuhXRUDefHN4_P5gjNp8fIFDTBGikRNcgLL1yWCKUV_hN6e5RPwW7TZCs5-UF3nuyucSVdXuQn9DNquBhulola6TJpFFlawiVQ&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQ8tMDegQIERAQ",
+      "9": "https://www.google.com/search?q=breakfast+cereal&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=rCwKZ-voMqiYptQP-MCjuQI&start=80&sa=N&sstk=AagrsuhXRUDefHN4_P5gjNp8fIFDTBGikRNcgLL1yWCKUV_hN6e5RPwW7TZCs5-UF3nuyucSVdXuQn9DNquBhulola6TJpFFlawiVQ&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQ8tMDegQIERAS",
+      "10": "https://www.google.com/search?q=breakfast+cereal&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=rCwKZ-voMqiYptQP-MCjuQI&start=90&sa=N&sstk=AagrsuhXRUDefHN4_P5gjNp8fIFDTBGikRNcgLL1yWCKUV_hN6e5RPwW7TZCs5-UF3nuyucSVdXuQn9DNquBhulola6TJpFFlawiVQ&ved=2ahUKEwjr7sCBsIiJAxUojIkEHXjgKCcQ8tMDegQIERAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+cereal&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+cereal&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+cereal&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+cereal&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+cereal&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+cereal&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+cereal&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+cereal&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+cereal&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+cereal&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+cereal&start=90"
+    }
+  }
+}

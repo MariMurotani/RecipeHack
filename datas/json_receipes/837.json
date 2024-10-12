@@ -1,0 +1,787 @@
+{
+  "search_metadata": {
+    "id": "670a2fdc1fc7c54fa96e99d9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9b9ff98585b32a01/670a2fdc1fc7c54fa96e99d9.json",
+    "created_at": "2024-10-12 08:14:20 UTC",
+    "processed_at": "2024-10-12 08:14:20 UTC",
+    "google_url": "https://www.google.com/search?q=salad&oq=salad&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/9b9ff98585b32a01/670a2fdc1fc7c54fa96e99d9.html",
+    "total_time_taken": 1.2
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "salad",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "salad",
+    "total_results": 1550000000,
+    "time_taken_displayed": 0.24,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "recipes_results": [
+    {
+      "title": "Best Salad Recipes: Easy Greek Salad",
+      "link": "https://www.loveandlemons.com/salad-recipes/",
+      "source": "Love and Lemons",
+      "rating": 5.0,
+      "reviews": 133,
+      "total_time": "15 min",
+      "ingredients": [
+        "Red wine vinegar",
+        "feta cheese",
+        "cherry tomatoes",
+        "dijon mustard",
+        "kalamata olives"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7bxt5gq_XpciD04NsfXL8G_h4WtQdJGgc7ELWrcfUrgI5jVYb0548LXdv&s"
+    },
+    {
+      "title": "Everyday Salad",
+      "link": "https://www.gimmesomeoven.com/everyday-salad-recipe/",
+      "source": "Gimme Some Oven",
+      "rating": 5.0,
+      "reviews": 39,
+      "total_time": "15 min",
+      "ingredients": [
+        "Red wine vinegar",
+        "spring greens",
+        "pine nuts",
+        "dijon mustard",
+        "red onion"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTbFqYJpcrz-LNJ0tSnVmlX_xAf5HuFqC7boX8D04YJ1Mydf85qEva_iVX&s"
+    },
+    {
+      "title": "The Best Salad Recipe {Salad de Maison}",
+      "link": "https://www.cookingclassy.com/best-salad/",
+      "source": "Cooking Classy",
+      "rating": 5.0,
+      "reviews": 19,
+      "total_time": "45 min",
+      "ingredients": [
+        "Swiss cheese",
+        "bacon",
+        "honey",
+        "dijon mustard",
+        "grape tomatoes"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSbVrSRvnj_EdltL34SxFBXGMHsuJOu7qbByw9TtzENuhBSNwpGHsQNkag&s"
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=salad&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQtgN6BAgmEAE",
+    "image": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/8dac75f384ea7063cfd008b197165acf.png"
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 1.9,
+        "reviews_original": "(7)",
+        "reviews": 7,
+        "price": "$$",
+        "description": "\"After tossing some of those, these were the toppings, which were $1 each.\"",
+        "lsig": "AB86z5W5Bx2if73q00BgYxEFtOaN",
+        "thumbnail": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/3507e9daee702a9cba173fc6d4d6145fc9a085e60d74570ec6de7cebaa93edec16d3e90470c8d590.jpeg",
+        "title": "Austin Salad Company",
+        "type": "Health Food",
+        "address": "214 E 6th St",
+        "place_id": "3620449705292218851",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=3620449705292218851&q=salad",
+        "gps_coordinates": {
+          "latitude": 30.267927,
+          "longitude": -97.740654
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.5,
+        "reviews_original": "(297)",
+        "reviews": 297,
+        "description": "\"Great ambiance, delicious fresh salads and soup.\"",
+        "lsig": "AB86z5U2q_SDLzLpWHx6K-HewMwE",
+        "thumbnail": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/3507e9daee702a9cba173fc6d4d6145f0cc892b86020732abcc77550ea4f0e04e5cb1267ff2f2485.jpeg",
+        "title": "Local Foods -- 2nd Street District",
+        "type": "American",
+        "address": "454 W 2nd St",
+        "hours": "Closed \u22c5 Opens 9 AM",
+        "place_id": "15237544026401310190",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=15237544026401310190&q=salad",
+        "gps_coordinates": {
+          "latitude": 30.265694,
+          "longitude": -97.74857
+        }
+      },
+      {
+        "position": 3,
+        "rating": 4.1,
+        "reviews_original": "(115)",
+        "reviews": 115,
+        "description": "\"The dressings were great, packaging was solid and sustainable.\"",
+        "lsig": "AB86z5V1NM3Fr_joQlCpLeuAP85x",
+        "thumbnail": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/3507e9daee702a9cba173fc6d4d6145f29e7aa13078e2937cddf0dc535017475bdfbd410ce8b5f7c.jpeg",
+        "title": "sweetgreen",
+        "type": "Health Food",
+        "address": "200 W 2nd St",
+        "hours": "Closed \u22c5 Opens 10:30 AM",
+        "place_id": "14568668421638341386",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=14568668421638341386&q=salad",
+        "gps_coordinates": {
+          "latitude": 30.264942,
+          "longitude": -97.7457
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=salad&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQjGp6BAgpEAE"
+  },
+  "inline_images": [
+    {
+      "source": "https://www.foodandwine.com/recipes/big-italian-salad",
+      "thumbnail": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/619bd95f8e5da289f444fca9528b7447dfa39d59207b07abc475b5cd24f816e3.jpeg",
+      "original": "https://www.foodandwine.com/thmb/IuZPWAXBp4YaT9hn1YLHhuijT3k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/FAW-recipes-big-italian-salad-hero-83e6ea846722478f8feb1eea33158b00.jpg",
+      "title": "Big Italian Salad",
+      "source_name": "Food & Wine"
+    },
+    {
+      "source": "https://www.loveandlemons.com/green-salad-recipe/",
+      "thumbnail": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/619bd95f8e5da28990511ea830b87e8539225fbfd6ae24fd3a712ba6988983f4.jpeg",
+      "original": "https://cdn.loveandlemons.com/wp-content/uploads/2021/04/green-salad.jpg",
+      "title": "Simple Green Salad",
+      "source_name": "Love and Lemons"
+    },
+    {
+      "source": "https://www.refreshmyhealth.com/how-to-make-a-simple-salad-recipe-vegan-gluten-free/",
+      "thumbnail": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/619bd95f8e5da289f0333529c0324e48a0703ed5f009de18c6f6da2c5525afb5.jpeg",
+      "original": "https://www.refreshmyhealth.com/wp-content/uploads/2020/07/how-to-make-a-simple-salad-recipe-vegan-gluten-free-lunch_260-main_img_6804-lrcc.jpg",
+      "title": "How To Make A Simple Salad + Recipe | Vegan & Gluten-Free",
+      "source_name": "Refresh My Health"
+    },
+    {
+      "source": "https://www.onceuponachef.com/recipes/big-italian-salad.html",
+      "thumbnail": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/619bd95f8e5da289cb2fb49aa14c7be8eb1ef1e1e12869915790bc5a3de26a44.jpeg",
+      "original": "https://www.onceuponachef.com/images/2019/07/Big-Italian-Salad.jpg",
+      "title": "Big Italian Salad",
+      "source_name": "Once Upon a Chef"
+    },
+    {
+      "source": "https://www.loveandlemons.com/salad-recipes/",
+      "thumbnail": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/619bd95f8e5da28946ed1dfcedfe75696dd77ccdcff776b105356d7b081ea351.jpeg",
+      "original": "https://cdn.loveandlemons.com/wp-content/uploads/2019/07/salad.jpg",
+      "title": "Best Salad Recipes: Easy Greek Salad",
+      "source_name": "Love and Lemons"
+    },
+    {
+      "source": "https://www.allrecipes.com/recipe/285625/chefs-salad-with-grilled-chicken-and-black-pepper-ranch/",
+      "thumbnail": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/619bd95f8e5da2893ab3f5f72af2d3912315ca0dad4f89ab6b296c4011e38ec8.jpeg",
+      "original": "https://www.allrecipes.com/thmb/Q84xeMgnOJPZAUOdNyrb9dbFZr4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/285625-ChefsSalad_MFS_006-2550ecee70ae46dbaec530a58314c99c.jpg",
+      "title": "Chef's Salad with Grilled Chicken and Black Pepper Ranch",
+      "source_name": "Allrecipes"
+    },
+    {
+      "source": "https://feelgoodfoodie.net/recipe/mediterranean-chopped-salad/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9aeEAeHxudbk5XsJ_eaLS7dvzWj-O6wlRxbvYVvhfLT5D2sBcNPpwSdw&s",
+      "original": "https://feelgoodfoodie.net/wp-content/uploads/2019/02/Mediterranean-Chopped-Salad-12.jpg",
+      "title": "Mediterranean Chopped Salad",
+      "source_name": "Feel Good Foodie"
+    },
+    {
+      "source": "https://www.gimmesomeoven.com/everyday-salad-recipe/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAiMH-PlAMmrFvsl1i3OWghcseqSJ1kbY0dl0lNeI5r2gfW4XXOwjGO5Y&s",
+      "original": "https://www.gimmesomeoven.com/wp-content/uploads/2018/06/Everyday-Green-Salad-Recipe-3.jpg",
+      "title": "Everyday Salad",
+      "source_name": "Gimme Some Oven"
+    },
+    {
+      "source": "https://www.eatyourselfskinny.com/sweet-cucumber-red-onion-dill-salad/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShcPhQUiNqozXZzLswTj4udNyULzV9nKdhn744m9lOo9F3gACqhblQygI&s",
+      "original": "https://www.eatyourselfskinny.com/wp-content/uploads/2023/08/cucumber-salad-1-scaled.jpg",
+      "title": "Sweet Cucumber Salad",
+      "source_name": "Eat Yourself Skinny"
+    },
+    {
+      "source": "https://themodernproper.com/fruit-salad",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKN5ehOuXb0GWTVTgVCgtIVMAh4RmRoNXS6o2xrpMwJQ7ZjsDhYPHMTB8&s",
+      "original": "https://images.themodernproper.com/billowy-turkey/production/posts/2022/FruitSalad_Shot4_20.jpg?w=1200&q=82&auto=format&fit=crop&dm=1654019861&s=0f79489bdf4ecee2c0dcd15c19144b30",
+      "title": "Fruit Salad",
+      "source_name": "The Modern Proper"
+    },
+    {
+      "source": "https://www.thespruceeats.com/our-favorite-simple-green-salad-recipe-7370448",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhHGN4THdZ8aCunvzhATUSWYlVH4IwU4bG6JoNazRPyqrvUHwAPX1AgO8&s",
+      "original": "https://www.thespruceeats.com/thmb/2GoDt7juuaU7lxtQDq-_IjEr6t8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SES-our-favorite-simple-green-salad-recipe-7370448-hero-01-4ca9788a0a3c4d53b70f1d07f8382b7f.jpg",
+      "title": "Our Favorite Simple Green Salad",
+      "source_name": "The Spruce Eats"
+    },
+    {
+      "source": "https://wellandfull.com/2024/07/mediterranean-dense-bean-salad/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQswQHsmoTDbNhN-tWSgUtI7xGO-Uq3v1k8CCJSjrLiZrZSQZW8oGiAhsk&s",
+      "original": "https://i0.wp.com/wellandfull.com/wp-content/uploads/2024/07/densebeansalad-orig-3.jpg?fit=3792%2C5309&ssl=1",
+      "title": "Mediterranean Dense Bean Salad",
+      "source_name": "Well and Full"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What are the 5 basic types of salads?",
+      "snippet": "salad, any of a wide variety of dishes that fall into the following principal categories: green salads; vegetable salads; salads of pasta, legumes, or grains; mixed salads incorporating meat, poultry, or seafood; and fruit salads.",
+      "title": "Salad | Types, Vegetables, & Ingredients - Britannica",
+      "date": "Aug 22, 2024",
+      "link": "https://www.britannica.com/topic/salad#:~:text=salad%2C%20any%20of%20a%20wide,or%20seafood%3B%20and%20fruit%20salads.",
+      "displayed_link": "https://www.britannica.com \u203a topic \u203a salad",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYjl0rxMR72CWt8mqRloSN18xDgc2880y7LncLlURzaw&s",
+      "source_logo": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/c2fdea75571e9b596bac38c97738f35bade951a5d7ee44e5d9c943a697a8c5cf.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFlqTjBWa0p1TjA1cVQxTjBObVp1UTJzeFZXaFpOVGhOZG1sWVlVVk1NMkpHU21WbU5reHBXazh4VDFKNk1HaFlOelpaV1doT1JURmpiVVZDVG1ORldHaFRhREJzRWhjelV6aExXamR4UlVaMk0yZHJVRWxRTlRaSFdHOUJUUm9pUVVaWWNrVmpjWHBZZGtSQlNXazBSVFpXWVVSNk0wcFlRMm8xTFc1U1kxcEdkdyIsImZjdiI6IjMiLCJlaSI6IjNTOEtaN3FFRnYzZ2tQSVA1NkdYb0FNIiwicWMiOiJDZ1Z6WVd4aFpCQUFmV2hORGo4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgNSBiYXNpYyB0eXBlcyBvZiBzYWxhZHM/IiwibGsiOiJHaVIzYUdGMElHRnlaU0IwYUdVZ05TQmlZWE5wWXlCMGVYQmxjeUJ2WmlCellXeGhaSE0iLCJicyI6ImMtTUs0bElOejBnc1VVZ3NTbFVveVVoVk1GVklTaXpPVEZZb3FTeElMVmJJVDFNb1RzeEpUQ20ybDlpWVlhUW1wVkpPaEZvdVpETU5EWUJLTV9QU2l4Vks4aFVLU2tzVU12TVVFaUVLN1NXMlpxR1lpVWN0VnhTWEp0ak16R0t3MVJtcGlUbEF0YW5GSlJCNWhjcjhVb1hreER5RjFNUVNlNGt6NlVaYVVocmxSS3JuY3NZSWctVDgzSUw4dk5TOEVyQzM0TzY5V21Ra0xpV0tMZzJXRkdBRUFBIiwiaWQiOiJmY18zUzhLWjdxRUZ2M2drUElQNTZHWG9BTV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFlqTjBWa0p1TjA1cVQxTjBObVp1UTJzeFZXaFpOVGhOZG1sWVlVVk1NMkpHU21WbU5reHBXazh4VDFKNk1HaFlOelpaV1doT1JURmpiVVZDVG1ORldHaFRhREJzRWhjelV6aExXamR4UlVaMk0yZHJVRWxRTlRaSFdHOUJUUm9pUVVaWWNrVmpjWHBZZGtSQlNXazBSVFpXWVVSNk0wcFlRMm8xTFc1U1kxcEdkdyIsImZjdiI6IjMiLCJlaSI6IjNTOEtaN3FFRnYzZ2tQSVA1NkdYb0FNIiwicWMiOiJDZ1Z6WVd4aFpCQUFmV2hORGo4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgNSBiYXNpYyB0eXBlcyBvZiBzYWxhZHM%2FIiwibGsiOiJHaVIzYUdGMElHRnlaU0IwYUdVZ05TQmlZWE5wWXlCMGVYQmxjeUJ2WmlCellXeGhaSE0iLCJicyI6ImMtTUs0bElOejBnc1VVZ3NTbFVveVVoVk1GVklTaXpPVEZZb3FTeElMVmJJVDFNb1RzeEpUQ20ybDlpWVlhUW1wVkpPaEZvdVpETU5EWUJLTV9QU2l4Vks4aFVLU2tzVU12TVVFaUVLN1NXMlpxR1lpVWN0VnhTWEp0ak16R0t3MVJtcGlUbEF0YW5GSlJCNWhjcjhVb1hreER5RjFNUVNlNGt6NlVaYVVocmxSS3JuY3NZSWctVDgzSUw4dk5TOEVyQzM0TzY5V21Ra0xpV0tMZzJXRkdBRUFBIiwiaWQiOiJmY18zUzhLWjdxRUZ2M2drUElQNTZHWG9BTV80In0%3D"
+    },
+    {
+      "question": "What are 10 things to put in a salad?",
+      "title": "Here are the top 20 healthy salad toppings.",
+      "date": "Dec 17, 2018",
+      "link": "https://www.healthline.com/nutrition/healthy-salad-toppings",
+      "list": [
+        "Chopped Raw Vegetables. A typical salad starts with raw greens, such as lettuce, spinach, kale, mixed greens or arugula. ... ",
+        "Nuts and Seeds. ... ",
+        "Dried Fruit. ... ",
+        "Whole Grains. ... ",
+        "Beans and Legumes. ... ",
+        "Fresh Fruit. ... ",
+        "Baked Tortilla or Pita Chips. ... ",
+        "Shredded Hard Cheeses."
+      ],
+      "displayed_link": "https://www.healthline.com \u203a nutrition \u203a healthy-salad-to...",
+      "source_logo": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/c2fdea75571e9b596bac38c97738f35ba7bc495d33611112d98264b259859186.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFlqTjBWa0p1TjA1cVQxTjBObVp1UTJzeFZXaFpOVGhOZG1sWVlVVk1NMkpHU21WbU5reHBXazh4VDFKNk1HaFlOelpaV1doT1JURmpiVVZDVG1ORldHaFRhREJzRWhjelV6aExXamR4UlVaMk0yZHJVRWxRTlRaSFdHOUJUUm9pUVVaWWNrVmpjWHBZZGtSQlNXazBSVFpXWVVSNk0wcFlRMm8xTFc1U1kxcEdkdyIsImZjdiI6IjMiLCJlaSI6IjNTOEtaN3FFRnYzZ2tQSVA1NkdYb0FNIiwicWMiOiJDZ1Z6WVd4aFpCQUFmV2hORGo4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSAxMCB0aGluZ3MgdG8gcHV0IGluIGEgc2FsYWQ/IiwibGsiOiJHaVIzYUdGMElHRnlaU0F4TUNCMGFHbHVaM01nZEc4Z2NIVjBJR2x1SUdFZ2MyRnNZV1EiLCJicyI6ImMtTUs0bElOejBnc1VVZ3NTbFVveVVoVk1GVklTaXpPVEZZb3FTeElMVmJJVDFNb1RzeEpUQ20ybDlpWVlhUW1wVkpPaEZvdVpETU5EWUJLTV9QU2l4Vks4aFVLU2tzVU12TVVFaUVLN1NXMlpxR1lpVWN0VnhTWEp0ak16R0t3MVJtcGlUbEF0YW5GSlJCNWhjcjhVb1hreER5RjFNUVNlNGt6NlVaYVVocmxSS3JuY3NZSWctVDgzSUw4dk5TOEVyQzM0TzY5V21Ra0xpV0tMZzJXRkdBRUFBIiwiaWQiOiJmY18zUzhLWjdxRUZ2M2drUElQNTZHWG9BTV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFlqTjBWa0p1TjA1cVQxTjBObVp1UTJzeFZXaFpOVGhOZG1sWVlVVk1NMkpHU21WbU5reHBXazh4VDFKNk1HaFlOelpaV1doT1JURmpiVVZDVG1ORldHaFRhREJzRWhjelV6aExXamR4UlVaMk0yZHJVRWxRTlRaSFdHOUJUUm9pUVVaWWNrVmpjWHBZZGtSQlNXazBSVFpXWVVSNk0wcFlRMm8xTFc1U1kxcEdkdyIsImZjdiI6IjMiLCJlaSI6IjNTOEtaN3FFRnYzZ2tQSVA1NkdYb0FNIiwicWMiOiJDZ1Z6WVd4aFpCQUFmV2hORGo4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSAxMCB0aGluZ3MgdG8gcHV0IGluIGEgc2FsYWQ%2FIiwibGsiOiJHaVIzYUdGMElHRnlaU0F4TUNCMGFHbHVaM01nZEc4Z2NIVjBJR2x1SUdFZ2MyRnNZV1EiLCJicyI6ImMtTUs0bElOejBnc1VVZ3NTbFVveVVoVk1GVklTaXpPVEZZb3FTeElMVmJJVDFNb1RzeEpUQ20ybDlpWVlhUW1wVkpPaEZvdVpETU5EWUJLTV9QU2l4Vks4aFVLU2tzVU12TVVFaUVLN1NXMlpxR1lpVWN0VnhTWEp0ak16R0t3MVJtcGlUbEF0YW5GSlJCNWhjcjhVb1hreER5RjFNUVNlNGt6NlVaYVVocmxSS3JuY3NZSWctVDgzSUw4dk5TOEVyQzM0TzY5V21Ra0xpV0tMZzJXRkdBRUFBIiwiaWQiOiJmY18zUzhLWjdxRUZ2M2drUElQNTZHWG9BTV80In0%3D"
+    },
+    {
+      "question": "What is the healthiest salad you can eat?",
+      "snippet": "Opt for dark, leafy greens like kale, spinach, or arugula, which are packed with vitamins A, C, and K, as well as folate, calcium, and fiber. These greens provide a low-calorie base while offering a wealth of essential nutrients to support your overall health.",
+      "title": "What's the Healthiest Salad? - Taylor Farms",
+      "date": "May 24, 2024",
+      "link": "https://www.taylorfarms.com/the-taylor-leaf/whats-the-healthiest-salad/#:~:text=Opt%20for%20dark%2C%20leafy%20greens,to%20support%20your%20overall%20health.",
+      "displayed_link": "https://www.taylorfarms.com \u203a the-taylor-leaf \u203a whats-th...",
+      "source_logo": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/c2fdea75571e9b596bac38c97738f35ba5431cc121c45c027625f5d8cd42ac98.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFlqTjBWa0p1TjA1cVQxTjBObVp1UTJzeFZXaFpOVGhOZG1sWVlVVk1NMkpHU21WbU5reHBXazh4VDFKNk1HaFlOelpaV1doT1JURmpiVVZDVG1ORldHaFRhREJzRWhjelV6aExXamR4UlVaMk0yZHJVRWxRTlRaSFdHOUJUUm9pUVVaWWNrVmpjWHBZZGtSQlNXazBSVFpXWVVSNk0wcFlRMm8xTFc1U1kxcEdkdyIsImZjdiI6IjMiLCJlaSI6IjNTOEtaN3FFRnYzZ2tQSVA1NkdYb0FNIiwicWMiOiJDZ1Z6WVd4aFpCQUFmV2hORGo4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBoZWFsdGhpZXN0IHNhbGFkIHlvdSBjYW4gZWF0PyIsImxrIjoiR2loM2FHRjBJR2x6SUhSb1pTQm9aV0ZzZEdocFpYTjBJSE5oYkdGa0lIbHZkU0JqWVc0Z1pXRjAiLCJicyI6ImMtTUs0bElOejBnc1VVZ3NTbFVveVVoVk1GVklTaXpPVEZZb3FTeElMVmJJVDFNb1RzeEpUQ20ybDlpWVlhUW1wVkpPaEZvdVpETU5EWUJLTV9QU2l4Vks4aFVLU2tzVU12TVVFaUVLN1NXMlpxR1lpVWN0VnhTWEp0ak16R0t3MVJtcGlUbEF0YW5GSlJCNWhjcjhVb1hreER5RjFNUVNlNGt6NlVaYVVocmxSS3JuY3NZSWctVDgzSUw4dk5TOEVyQzM0TzY5V21Ra0xpV0tMZzJXRkdBRUFBIiwiaWQiOiJmY18zUzhLWjdxRUZ2M2drUElQNTZHWG9BTV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFlqTjBWa0p1TjA1cVQxTjBObVp1UTJzeFZXaFpOVGhOZG1sWVlVVk1NMkpHU21WbU5reHBXazh4VDFKNk1HaFlOelpaV1doT1JURmpiVVZDVG1ORldHaFRhREJzRWhjelV6aExXamR4UlVaMk0yZHJVRWxRTlRaSFdHOUJUUm9pUVVaWWNrVmpjWHBZZGtSQlNXazBSVFpXWVVSNk0wcFlRMm8xTFc1U1kxcEdkdyIsImZjdiI6IjMiLCJlaSI6IjNTOEtaN3FFRnYzZ2tQSVA1NkdYb0FNIiwicWMiOiJDZ1Z6WVd4aFpCQUFmV2hORGo4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBoZWFsdGhpZXN0IHNhbGFkIHlvdSBjYW4gZWF0PyIsImxrIjoiR2loM2FHRjBJR2x6SUhSb1pTQm9aV0ZzZEdocFpYTjBJSE5oYkdGa0lIbHZkU0JqWVc0Z1pXRjAiLCJicyI6ImMtTUs0bElOejBnc1VVZ3NTbFVveVVoVk1GVklTaXpPVEZZb3FTeElMVmJJVDFNb1RzeEpUQ20ybDlpWVlhUW1wVkpPaEZvdVpETU5EWUJLTV9QU2l4Vks4aFVLU2tzVU12TVVFaUVLN1NXMlpxR1lpVWN0VnhTWEp0ak16R0t3MVJtcGlUbEF0YW5GSlJCNWhjcjhVb1hreER5RjFNUVNlNGt6NlVaYVVocmxSS3JuY3NZSWctVDgzSUw4dk5TOEVyQzM0TzY5V21Ra0xpV0tMZzJXRkdBRUFBIiwiaWQiOiJmY18zUzhLWjdxRUZ2M2drUElQNTZHWG9BTV80In0%3D"
+    },
+    {
+      "question": "What are the 5 components of a salad?",
+      "title": "Let's talk about each one.",
+      "date": "Oct 12, 2023",
+      "link": "https://www.lynnettesheppard.com/perfect-salad/",
+      "list": [
+        "GREENS. There are undoubtedly salads that do not include greens, but we will talk about those another day. ... ",
+        "SWEETNESS. I am a big believer in adding a little sweetness to almost every salad. ... ",
+        "CRUNCHINESS. This is where the party happens, friends. ... ",
+        "CREAMINESS. ... ",
+        "DRESSING."
+      ],
+      "displayed_link": "https://www.lynnettesheppard.com \u203a perfect-salad",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtY79T_hR2qUqI34E4PO_wnhdmcRulSZCxNOU9vzu4&s",
+      "source_logo": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/c2fdea75571e9b596bac38c97738f35bbd49d29456b99bacd8f469bf0bb97d4c.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFlqTjBWa0p1TjA1cVQxTjBObVp1UTJzeFZXaFpOVGhOZG1sWVlVVk1NMkpHU21WbU5reHBXazh4VDFKNk1HaFlOelpaV1doT1JURmpiVVZDVG1ORldHaFRhREJzRWhjelV6aExXamR4UlVaMk0yZHJVRWxRTlRaSFdHOUJUUm9pUVVaWWNrVmpjWHBZZGtSQlNXazBSVFpXWVVSNk0wcFlRMm8xTFc1U1kxcEdkdyIsImZjdiI6IjMiLCJlaSI6IjNTOEtaN3FFRnYzZ2tQSVA1NkdYb0FNIiwicWMiOiJDZ1Z6WVd4aFpCQUFmV2hORGo4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgNSBjb21wb25lbnRzIG9mIGEgc2FsYWQ/IiwibGsiOiJHaFUxSUdOdmJYQnZibVZ1ZEhNZ2IyWWdjMkZzWVdRIiwiYnMiOiJjLU1LNGxJTnowZ3NVVWdzU2xVb3lVaFZNRlZJU2l6T1RGWW9xU3hJTFZiSVQxTW9Uc3hKVENtMmw5aVlZYVFtcFZKT2hGb3VaRE1ORFlCS01fUFNpeFZLOGhVS1Nrc1VNdk1VRWlFSzdTVzJacUdZaVVjdFZ4U1hKdGpNekdLdzFSbXBpVGxBdGFuRkpSQjVoY3I4VW9Ya3hEeUYxTVFTZTRrejZVWmFVaHJsUktybmNzWUlnLVQ4M0lMOHZOUzhFckMzNE82OVdtUWtMaVdLTGcyV0ZHQUVBQSIsImlkIjoiZmNfM1M4S1o3cUVGdjNna1BJUDU2R1hvQU1fNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFlqTjBWa0p1TjA1cVQxTjBObVp1UTJzeFZXaFpOVGhOZG1sWVlVVk1NMkpHU21WbU5reHBXazh4VDFKNk1HaFlOelpaV1doT1JURmpiVVZDVG1ORldHaFRhREJzRWhjelV6aExXamR4UlVaMk0yZHJVRWxRTlRaSFdHOUJUUm9pUVVaWWNrVmpjWHBZZGtSQlNXazBSVFpXWVVSNk0wcFlRMm8xTFc1U1kxcEdkdyIsImZjdiI6IjMiLCJlaSI6IjNTOEtaN3FFRnYzZ2tQSVA1NkdYb0FNIiwicWMiOiJDZ1Z6WVd4aFpCQUFmV2hORGo4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgNSBjb21wb25lbnRzIG9mIGEgc2FsYWQ%2FIiwibGsiOiJHaFUxSUdOdmJYQnZibVZ1ZEhNZ2IyWWdjMkZzWVdRIiwiYnMiOiJjLU1LNGxJTnowZ3NVVWdzU2xVb3lVaFZNRlZJU2l6T1RGWW9xU3hJTFZiSVQxTW9Uc3hKVENtMmw5aVlZYVFtcFZKT2hGb3VaRE1ORFlCS01fUFNpeFZLOGhVS1Nrc1VNdk1VRWlFSzdTVzJacUdZaVVjdFZ4U1hKdGpNekdLdzFSbXBpVGxBdGFuRkpSQjVoY3I4VW9Ya3hEeUYxTVFTZTRrejZVWmFVaHJsUktybmNzWUlnLVQ4M0lMOHZOUzhFckMzNE82OVdtUWtMaVdLTGcyV0ZHQUVBQSIsImlkIjoiZmNfM1M4S1o3cUVGdjNna1BJUDU2R1hvQU1fNCJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "51 Best Salad Recipes",
+      "link": "https://www.loveandlemons.com/salad-recipes/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.loveandlemons.com/salad-recipes/&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQFnoECBoQAQ&usg=AOvVaw0f9fm8fkUJQO5uve21fI5W",
+      "displayed_link": "https://www.loveandlemons.com \u203a Recipes",
+      "thumbnail": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/830908256f015446df849111b63676120ec0773d488ccc57c44b584571254914.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/830908256f015446df849111b63676124abe0b0a33f63aecc49a0bcaa90d2055.png",
+      "snippet": "These easy salad recipes are perfect for lunches, summer cookouts, and dinner parties! Healthy and delicious, each one can double as a main or side dish!",
+      "snippet_highlighted_words": [
+        "salad"
+      ],
+      "images": [
+        "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/830908256f015446df849111b636761225ad1e5849dbb3d9e903749c5fe84991.jpeg",
+        "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/830908256f015446df849111b636761225ad1e5849dbb3d9d0fb1c7798b63748.jpeg",
+        "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/830908256f015446df849111b636761225ad1e5849dbb3d9b5bdadd185de589f.jpeg"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "min": 15
+          },
+          "extensions": [
+            "5.0(133)",
+            "15 min"
+          ]
+        }
+      },
+      "source": "Love and Lemons"
+    },
+    {
+      "position": 2,
+      "title": "Salad",
+      "link": "https://en.wikipedia.org/wiki/Salad",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Salad&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQFnoECBsQAQ&usg=AOvVaw0A-XctKjHhdAPN78BIWqzv",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Salad",
+      "thumbnail": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/830908256f015446df849111b636761227e9470e70f55e6f235f3a897b572246.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/830908256f015446df849111b6367612642e6bbedc648dec21ef985c22eccc2f.png",
+      "snippet": "A salad is a dish consisting of mixed ingredients, frequently vegetables. They are typically served chilled or at room temperature, though some can be ...",
+      "snippet_highlighted_words": [
+        "salad"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "List of salads",
+            "link": "https://en.wikipedia.org/wiki/List_of_salads"
+          },
+          {
+            "title": "Egg salad",
+            "link": "https://en.wikipedia.org/wiki/Egg_salad"
+          },
+          {
+            "title": "Chef salad",
+            "link": "https://en.wikipedia.org/wiki/Chef_salad"
+          },
+          {
+            "title": "Potato salad",
+            "link": "https://en.wikipedia.org/wiki/Potato_salad"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 3,
+      "title": "Salad - Distributed GPU Cloud | 11,000+ daily active GPUs ...",
+      "link": "https://salad.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://salad.com/&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQFnoECDEQAQ&usg=AOvVaw3JpOk_6kpUHG5YKyccgAAb",
+      "displayed_link": "https://salad.com",
+      "favicon": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/830908256f015446df849111b63676126dd159e4e0f0c04034483414791a4bbd.png",
+      "snippet": "SaladCloud offers a fully-managed container service opening up access to thousands of AI-enabled consumer GPUs on the world's largest distributed network.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Download Salad",
+            "link": "https://salad.com/download"
+          },
+          {
+            "title": "About Salad",
+            "link": "https://salad.com/about"
+          },
+          {
+            "title": "Salad Transcription",
+            "link": "https://salad.com/transcription"
+          },
+          {
+            "title": "Salad Chef Community",
+            "link": "https://community.salad.com/"
+          }
+        ]
+      },
+      "source": "Salad"
+    },
+    {
+      "position": 4,
+      "title": "Everyday Salad",
+      "link": "https://www.gimmesomeoven.com/everyday-salad-recipe/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gimmesomeoven.com/everyday-salad-recipe/&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQFnoECDsQAQ&usg=AOvVaw3kcsC8uJxs_BTKYY56tsM_",
+      "displayed_link": "https://www.gimmesomeoven.com \u203a everyday-salad-recipe",
+      "thumbnail": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/830908256f015446df849111b6367612fa7bf58ca3bc4b4b68e8e59eca5b9d6f.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/830908256f015446df849111b6367612d89dc030de475d8745a4a671346f7c0a.png",
+      "snippet": "My go-to everyday salad recipe -- quick, easy, healthy, and SO delicious! Perfect for serving as .a side salad or as a main dish.",
+      "snippet_highlighted_words": [
+        "salad",
+        "salad"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "min": 15
+          },
+          "extensions": [
+            "5.0(39)",
+            "15 min"
+          ]
+        }
+      },
+      "source": "Gimme Some Oven"
+    },
+    {
+      "position": 5,
+      "title": "Salad Recipes & Ideas",
+      "link": "https://www.thekitchn.com/collection/salad",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thekitchn.com/collection/salad&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQFnoECDwQAQ&usg=AOvVaw29f9D-EEZIWEQ9EEW29pRp",
+      "displayed_link": "https://www.thekitchn.com \u203a collection \u203a salad",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU1Cpnnq13-Xei9anUDBoZP2Sz6UKFRdQ0T0Ptc3Yg4SSCJPce3bK-&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/830908256f015446df849111b6367612eb7e1a9d3a20e70b93052ffaf0d19d36.png",
+      "snippet": "Our collection of hearty vegetable salads, pasta salads, and grain salads ... My Lazy Chopped Salad Trick Has Forever Changed the Way I Make SaladRecipes.",
+      "snippet_highlighted_words": [
+        "salads",
+        "salads",
+        "salads",
+        "Salad",
+        "Salad"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Salad Dressing",
+            "link": "https://www.thekitchn.com/collection/salad-dressing"
+          },
+          {
+            "title": "43 Best Lunch Salad Recipes",
+            "link": "https://www.thekitchn.com/salad-lunch-ideas-260364"
+          },
+          {
+            "title": "Joanna Gaines\u2019 Greek Pasta...",
+            "link": "https://www.thekitchn.com/joanna-gaines-greek-pasta-salad-recipe-review-23672589"
+          }
+        ]
+      },
+      "source": "The Kitchn"
+    },
+    {
+      "position": 6,
+      "title": "Salad And Go: Home page",
+      "link": "https://www.saladandgo.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.saladandgo.com/&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQFnoECEYQAQ&usg=AOvVaw2C0ZaX7MJWNCb4IwIB3mCi",
+      "displayed_link": "https://www.saladandgo.com",
+      "favicon": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/830908256f015446df849111b636761298d55c802890d52ab73f762cec5dcf46.png",
+      "snippet": "It's a drive-thru revolution! Salad and Go brings salads & more to the drive-thru with blazing fast, friendly service and a fresh crunch of whole-food ...",
+      "snippet_highlighted_words": [
+        "Salad",
+        "salads"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Menu",
+            "link": "https://www.saladandgo.com/menu/"
+          },
+          {
+            "title": "Locations",
+            "link": "https://www.saladandgo.com/locations/"
+          },
+          {
+            "title": "Caesar Salad",
+            "link": "https://www.saladandgo.com/menu-product/caesar-salad/"
+          },
+          {
+            "title": "Caprese Salad",
+            "link": "https://www.saladandgo.com/menu-product/caprese-salad/"
+          }
+        ]
+      },
+      "source": "Salad And Go"
+    },
+    {
+      "position": 7,
+      "title": "Download Salad",
+      "link": "https://salad.com/download",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://salad.com/download&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQFnoECC4QAQ&usg=AOvVaw1iKDupNHQQWHOrefZzXdoS",
+      "displayed_link": "https://salad.com \u203a download",
+      "favicon": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/830908256f015446df849111b6367612cb5a7b6621ff87f47d6d51d4907a89e8.png",
+      "snippet": "Salad is a worldwide computesharing community composed of thousand of gamers. Our users, the mighty Salad Chefs, share resources from their idle PCs, power ...",
+      "snippet_highlighted_words": [
+        "Salad",
+        "Salad"
+      ],
+      "source": "Salad"
+    }
+  ],
+  "filters": [
+    {
+      "name": "Recipes",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dCkH7jUOA-VsrzXzgx3zlfGqlAtU6Z0Z4FHB6vLxquHR26gMcc9vShUsoVFTCX0fBQvsq7fgtZ95-fwNNxPbe0QNDwy0ydRbJeRS5GPF-r4cqn7-9Fl1KZoSGM9qEe9Ae67uuPA",
+        "q": "Salad recipes"
+      },
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Salad+recipes&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dCkH7jUOA-VsrzXzgx3zlfGqlAtU6Z0Z4FHB6vLxquHR26gMcc9vShUsoVFTCX0fBQvsq7fgtZ95-fwNNxPbe0QNDwy0ydRbJeRS5GPF-r4cqn7-9Fl1KZoSGM9qEe9Ae67uuPA&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQxKsJegQIDxAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Salad+recipes&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dCkH7jUOA-VsrzXzgx3zlfGqlAtU6Z0Z4FHB6vLxquHR26gMcc9vShUsoVFTCX0fBQvsq7fgtZ95-fwNNxPbe0QNDwy0ydRbJeRS5GPF-r4cqn7-9Fl1KZoSGM9qEe9Ae67uuPA"
+    },
+    {
+      "name": "Near me",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dCkH7jUOA-VsrzXzgx3zlfH4ZmjZhJJJRZIC2g7_ZCUUZ0g4PxxGAkT_1557aS8YCOsNsFdtxGRV9OqQVS_KNWbgR3a4I49_HWxxzslpFWxXqYAYhe87gm68Z3ZPJkE8mJK8-3Q",
+        "q": "Salad near me"
+      },
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Salad+near+me&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dCkH7jUOA-VsrzXzgx3zlfH4ZmjZhJJJRZIC2g7_ZCUUZ0g4PxxGAkT_1557aS8YCOsNsFdtxGRV9OqQVS_KNWbgR3a4I49_HWxxzslpFWxXqYAYhe87gm68Z3ZPJkE8mJK8-3Q&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQxKsJegQIEBAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Salad+near+me&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dCkH7jUOA-VsrzXzgx3zlfH4ZmjZhJJJRZIC2g7_ZCUUZ0g4PxxGAkT_1557aS8YCOsNsFdtxGRV9OqQVS_KNWbgR3a4I49_HWxxzslpFWxXqYAYhe87gm68Z3ZPJkE8mJK8-3Q"
+    },
+    {
+      "name": "Pronunciation",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dvT1XWsjT4yz1anB_zSpXvGH21MrOj93F09BeXbVJYE1NCLm7U3kxNtCxcWETs5nF8SMcPE_3R0C0vn9MbSEpWNusQyYlyfS_i1Ojaw_2rUjke9jIHJY9CG_w6wVr9f6llr5mySmDAgDDwimpDSwb97GQrrY",
+        "q": "Salad pronunciation"
+      },
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Salad+pronunciation&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dvT1XWsjT4yz1anB_zSpXvGH21MrOj93F09BeXbVJYE1NCLm7U3kxNtCxcWETs5nF8SMcPE_3R0C0vn9MbSEpWNusQyYlyfS_i1Ojaw_2rUjke9jIHJY9CG_w6wVr9f6llr5mySmDAgDDwimpDSwb97GQrrY&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQxKsJegQIDhAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Salad+pronunciation&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dvT1XWsjT4yz1anB_zSpXvGH21MrOj93F09BeXbVJYE1NCLm7U3kxNtCxcWETs5nF8SMcPE_3R0C0vn9MbSEpWNusQyYlyfS_i1Ojaw_2rUjke9jIHJY9CG_w6wVr9f6llr5mySmDAgDDwimpDSwb97GQrrY"
+    },
+    {
+      "name": "Open now",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dd9fr75l7EyGe0hGUJRkYMemy8cWSfroUmwsJQbrqP9o56h1z5Gq2InVgW5EZ8CQP87igA8lT_5GKRBT3xtbNsi8rBAyb4PWMICteu11ScB6y5Ssdofv96ORJczl7WFHdV_BulZbQl5ZpqjfjySdjfjYpC4Q",
+        "q": "salad open now"
+      },
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=salad+open+now&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dd9fr75l7EyGe0hGUJRkYMemy8cWSfroUmwsJQbrqP9o56h1z5Gq2InVgW5EZ8CQP87igA8lT_5GKRBT3xtbNsi8rBAyb4PWMICteu11ScB6y5Ssdofv96ORJczl7WFHdV_BulZbQl5ZpqjfjySdjfjYpC4Q&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQxKsJegQIDRAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salad+open+now&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dd9fr75l7EyGe0hGUJRkYMemy8cWSfroUmwsJQbrqP9o56h1z5Gq2InVgW5EZ8CQP87igA8lT_5GKRBT3xtbNsi8rBAyb4PWMICteu11ScB6y5Ssdofv96ORJczl7WFHdV_BulZbQl5ZpqjfjySdjfjYpC4Q"
+    },
+    {
+      "name": "Ingredients",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGa4cIqozF3VNFXM5gXU_EZ30xaa-k6r4jDLJ9XpD1tCxN8QuA6_M-Jwzkq8HlFkboCRcusaAjM7x9GdfthilaqNVqpdIZ2sY4Pe3Y7v5tET05LWARCyjG66ZoNvA64Pq552-QQU",
+        "q": "Salad ingredients"
+      },
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Salad+ingredients&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGa4cIqozF3VNFXM5gXU_EZ30xaa-k6r4jDLJ9XpD1tCxN8QuA6_M-Jwzkq8HlFkboCRcusaAjM7x9GdfthilaqNVqpdIZ2sY4Pe3Y7v5tET05LWARCyjG66ZoNvA64Pq552-QQU&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQxKsJegQICxAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Salad+ingredients&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGa4cIqozF3VNFXM5gXU_EZ30xaa-k6r4jDLJ9XpD1tCxN8QuA6_M-Jwzkq8HlFkboCRcusaAjM7x9GdfthilaqNVqpdIZ2sY4Pe3Y7v5tET05LWARCyjG66ZoNvA64Pq552-QQU"
+    },
+    {
+      "name": "Vibe",
+      "options": [
+        {
+          "name": "Any vibe"
+        },
+        {
+          "name": "Casual",
+          "parameters": {
+            "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dcVVg8CTFueS8wd6z1QDcV_gGdZ01ZQjc4aLpGtmnBVzbalW8jNrgSQb3G2GVAGNeRqQLIBevwkW4NQB_pQQFr4aaqA4d-OKfL2wav0M9ir-DELrP4DdSvcrejIRc5BU0FeTfsT4dDW6Zjy9r7ZjgjK54FRHFMoeyx8d7lirX06vfINTV6A-qYnS37jdtEF4mL3dGAmaqG2ZCBQikFxhCOLGzvKjejpfnwDDjrwZSW9XJlcoC970JAUvbFAKvcXuiJtLaISbvxx5_Fpk5B4ELceysstgFUjyiUlfoJbNLDMtxDcz91FWkrd61_LwsvyG_qgoMDMrr1Um1AsxrCxFnsws5_DJNDAcv1ZbI_IV7YhQjPKBEwv1qnstu74itBYRQyrVF4PGMLjdfI4FxRKsu9kVXd94",
+            "q": "casual salad"
+          },
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=casual+salad&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dcVVg8CTFueS8wd6z1QDcV_gGdZ01ZQjc4aLpGtmnBVzbalW8jNrgSQb3G2GVAGNeRqQLIBevwkW4NQB_pQQFr4aaqA4d-OKfL2wav0M9ir-DELrP4DdSvcrejIRc5BU0FeTfsT4dDW6Zjy9r7ZjgjK54FRHFMoeyx8d7lirX06vfINTV6A-qYnS37jdtEF4mL3dGAmaqG2ZCBQikFxhCOLGzvKjejpfnwDDjrwZSW9XJlcoC970JAUvbFAKvcXuiJtLaISbvxx5_Fpk5B4ELceysstgFUjyiUlfoJbNLDMtxDcz91FWkrd61_LwsvyG_qgoMDMrr1Um1AsxrCxFnsws5_DJNDAcv1ZbI_IV7YhQjPKBEwv1qnstu74itBYRQyrVF4PGMLjdfI4FxRKsu9kVXd94&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQkbEKegQIfhAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=casual+salad&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dcVVg8CTFueS8wd6z1QDcV_gGdZ01ZQjc4aLpGtmnBVzbalW8jNrgSQb3G2GVAGNeRqQLIBevwkW4NQB_pQQFr4aaqA4d-OKfL2wav0M9ir-DELrP4DdSvcrejIRc5BU0FeTfsT4dDW6Zjy9r7ZjgjK54FRHFMoeyx8d7lirX06vfINTV6A-qYnS37jdtEF4mL3dGAmaqG2ZCBQikFxhCOLGzvKjejpfnwDDjrwZSW9XJlcoC970JAUvbFAKvcXuiJtLaISbvxx5_Fpk5B4ELceysstgFUjyiUlfoJbNLDMtxDcz91FWkrd61_LwsvyG_qgoMDMrr1Um1AsxrCxFnsws5_DJNDAcv1ZbI_IV7YhQjPKBEwv1qnstu74itBYRQyrVF4PGMLjdfI4FxRKsu9kVXd94"
+        },
+        {
+          "name": "Cozy",
+          "parameters": {
+            "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dY1Jv_rRQ3relPfGKfBSPZazcYg1rdhktWcLbnIuJlyUonzo9oIYBLwkpVSKafLqrgdt5MkTGFlUchoxrGLOY-DGtJ75feLV55Ipe7Wpm8zqfSMKL_0Uyj4moWm08-PoGkfkvv5DWAcizs7hqTxc6GuLCBAN277drso6YDQCau1_E_CdPBlbCvpZjCmDbzhorkQvPcohEczHus6wfwrrsaessXYPYTt9b2Oen6UWHXOo-38LwXK6Ak66yh4SiO3boMYqRa4a3mfnInx3Dzp8syeFW1GxfOjWheH2mPxvQuxwa287c-kvYJ0WWNW8RSl6Z0CTHv5rJON7bdYdztkQCs3KBe7bF2KtzoV7KmA79QCdxe_7xM9WZJVpKRKjE-oWMnxO3m8M8OK4_rEVBNty_8KncPvw",
+            "q": "cozy salad"
+          },
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=cozy+salad&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dY1Jv_rRQ3relPfGKfBSPZazcYg1rdhktWcLbnIuJlyUonzo9oIYBLwkpVSKafLqrgdt5MkTGFlUchoxrGLOY-DGtJ75feLV55Ipe7Wpm8zqfSMKL_0Uyj4moWm08-PoGkfkvv5DWAcizs7hqTxc6GuLCBAN277drso6YDQCau1_E_CdPBlbCvpZjCmDbzhorkQvPcohEczHus6wfwrrsaessXYPYTt9b2Oen6UWHXOo-38LwXK6Ak66yh4SiO3boMYqRa4a3mfnInx3Dzp8syeFW1GxfOjWheH2mPxvQuxwa287c-kvYJ0WWNW8RSl6Z0CTHv5rJON7bdYdztkQCs3KBe7bF2KtzoV7KmA79QCdxe_7xM9WZJVpKRKjE-oWMnxO3m8M8OK4_rEVBNty_8KncPvw&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQkbEKegQIfhAF",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=cozy+salad&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dY1Jv_rRQ3relPfGKfBSPZazcYg1rdhktWcLbnIuJlyUonzo9oIYBLwkpVSKafLqrgdt5MkTGFlUchoxrGLOY-DGtJ75feLV55Ipe7Wpm8zqfSMKL_0Uyj4moWm08-PoGkfkvv5DWAcizs7hqTxc6GuLCBAN277drso6YDQCau1_E_CdPBlbCvpZjCmDbzhorkQvPcohEczHus6wfwrrsaessXYPYTt9b2Oen6UWHXOo-38LwXK6Ak66yh4SiO3boMYqRa4a3mfnInx3Dzp8syeFW1GxfOjWheH2mPxvQuxwa287c-kvYJ0WWNW8RSl6Z0CTHv5rJON7bdYdztkQCs3KBe7bF2KtzoV7KmA79QCdxe_7xM9WZJVpKRKjE-oWMnxO3m8M8OK4_rEVBNty_8KncPvw"
+        },
+        {
+          "name": "Trendy",
+          "parameters": {
+            "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dcVVg8CTFueS8wd6z1QDcV1FxwMPk99XeLml-SPAgDB7L-wq2h69yVQ3h-e5UEC5zhf8BNoHaQmcMivzySJGozemDozzy_ALYSHOrwNhb6BAmNBMc1wK-G3A7o3VMl8PuWe9tj0Dv_uoDak1RVBCN2mXchkxahvMKg4gTiTiWMdF44px5u_UXtwqyTdJCIVvY96Ey2e_aIOHDm17lYBavlsAhlD5wESdMpTY3fPeQfxoYF4FHwAeft1ktGZef3OAVL3a_zfR9bkP3PyNDAJJJIqDosBQBRN8svNAYhNL4hltW0MDSu2iViarKWpK2DbN25C30D_8UmNQPpzV5E1ljC8IsCUle0_iiC05ZVRJqneZsKz-VqGzy6xFIdn92tsi1_c3HTkZAPLoJogpwtxJnEzYKXp0",
+            "q": "trendy salad"
+          },
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=trendy+salad&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dcVVg8CTFueS8wd6z1QDcV1FxwMPk99XeLml-SPAgDB7L-wq2h69yVQ3h-e5UEC5zhf8BNoHaQmcMivzySJGozemDozzy_ALYSHOrwNhb6BAmNBMc1wK-G3A7o3VMl8PuWe9tj0Dv_uoDak1RVBCN2mXchkxahvMKg4gTiTiWMdF44px5u_UXtwqyTdJCIVvY96Ey2e_aIOHDm17lYBavlsAhlD5wESdMpTY3fPeQfxoYF4FHwAeft1ktGZef3OAVL3a_zfR9bkP3PyNDAJJJIqDosBQBRN8svNAYhNL4hltW0MDSu2iViarKWpK2DbN25C30D_8UmNQPpzV5E1ljC8IsCUle0_iiC05ZVRJqneZsKz-VqGzy6xFIdn92tsi1_c3HTkZAPLoJogpwtxJnEzYKXp0&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQkbEKegQIfhAG",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=trendy+salad&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dcVVg8CTFueS8wd6z1QDcV1FxwMPk99XeLml-SPAgDB7L-wq2h69yVQ3h-e5UEC5zhf8BNoHaQmcMivzySJGozemDozzy_ALYSHOrwNhb6BAmNBMc1wK-G3A7o3VMl8PuWe9tj0Dv_uoDak1RVBCN2mXchkxahvMKg4gTiTiWMdF44px5u_UXtwqyTdJCIVvY96Ey2e_aIOHDm17lYBavlsAhlD5wESdMpTY3fPeQfxoYF4FHwAeft1ktGZef3OAVL3a_zfR9bkP3PyNDAJJJIqDosBQBRN8svNAYhNL4hltW0MDSu2iViarKWpK2DbN25C30D_8UmNQPpzV5E1ljC8IsCUle0_iiC05ZVRJqneZsKz-VqGzy6xFIdn92tsi1_c3HTkZAPLoJogpwtxJnEzYKXp0"
+        },
+        {
+          "name": "Romantic",
+          "parameters": {
+            "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dmYvkWXpBHupq9El9GRD6Qx_0rRcPR4zgRS23vioiii_PhHvV6Bkjbd4mgiOkwFeoqPFOhqdb4LO3M_k7E-OSh0_eE47kJDMh7-ULMSahMkiH0kPXZOxqvEq1BlIQPb7lTFFg7MAQCjdLArO7fz0sHU04KNbrMY6Vf5sSCmHTClVrvYTm5CDuBRbZKdKtUC1rOOT5Fl20p4Wc7ADDCcUnh7wKg9Z12-CLTNQnai0KRZlHp9VfbirEF_Ln_2ODJ9cc5glU5bkv6AaQfeoKSzjNw2sUIEyqH-V31Rw0EuP4yd8HmgQiblWepbjjHZmj_r6SIT9GWDNnWfAQZcBxku0kn0oQoLUswm9lsHJ5AWmqFt3FibiwuLkEHUCB5DeBS3EUu-RiXAV5zIHaf0Vk8L2R59tA70Y",
+            "q": "romantic salad"
+          },
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=romantic+salad&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dmYvkWXpBHupq9El9GRD6Qx_0rRcPR4zgRS23vioiii_PhHvV6Bkjbd4mgiOkwFeoqPFOhqdb4LO3M_k7E-OSh0_eE47kJDMh7-ULMSahMkiH0kPXZOxqvEq1BlIQPb7lTFFg7MAQCjdLArO7fz0sHU04KNbrMY6Vf5sSCmHTClVrvYTm5CDuBRbZKdKtUC1rOOT5Fl20p4Wc7ADDCcUnh7wKg9Z12-CLTNQnai0KRZlHp9VfbirEF_Ln_2ODJ9cc5glU5bkv6AaQfeoKSzjNw2sUIEyqH-V31Rw0EuP4yd8HmgQiblWepbjjHZmj_r6SIT9GWDNnWfAQZcBxku0kn0oQoLUswm9lsHJ5AWmqFt3FibiwuLkEHUCB5DeBS3EUu-RiXAV5zIHaf0Vk8L2R59tA70Y&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQkbEKegQIfhAH",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=romantic+salad&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dmYvkWXpBHupq9El9GRD6Qx_0rRcPR4zgRS23vioiii_PhHvV6Bkjbd4mgiOkwFeoqPFOhqdb4LO3M_k7E-OSh0_eE47kJDMh7-ULMSahMkiH0kPXZOxqvEq1BlIQPb7lTFFg7MAQCjdLArO7fz0sHU04KNbrMY6Vf5sSCmHTClVrvYTm5CDuBRbZKdKtUC1rOOT5Fl20p4Wc7ADDCcUnh7wKg9Z12-CLTNQnai0KRZlHp9VfbirEF_Ln_2ODJ9cc5glU5bkv6AaQfeoKSzjNw2sUIEyqH-V31Rw0EuP4yd8HmgQiblWepbjjHZmj_r6SIT9GWDNnWfAQZcBxku0kn0oQoLUswm9lsHJ5AWmqFt3FibiwuLkEHUCB5DeBS3EUu-RiXAV5zIHaf0Vk8L2R59tA70Y"
+        }
+      ]
+    },
+    {
+      "name": "App",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dee_YpCLlMQbCBhk2v5kr-NxinWmnuQny2Faoju6FMwWbjsCDppbJRzs7QQcRMCxYBbOlwNs7bk29rQ2OgsXuXZzSmOfsxwd-jw04Cf2U4RmeoTj-GCYtVBcn5lHwG5vXGmKiOg",
+        "q": "Salad app"
+      },
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Salad+app&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dee_YpCLlMQbCBhk2v5kr-NxinWmnuQny2Faoju6FMwWbjsCDppbJRzs7QQcRMCxYBbOlwNs7bk29rQ2OgsXuXZzSmOfsxwd-jw04Cf2U4RmeoTj-GCYtVBcn5lHwG5vXGmKiOg&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQxKsJegQIfBAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Salad+app&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dee_YpCLlMQbCBhk2v5kr-NxinWmnuQny2Faoju6FMwWbjsCDppbJRzs7QQcRMCxYBbOlwNs7bk29rQ2OgsXuXZzSmOfsxwd-jw04Cf2U4RmeoTj-GCYtVBcn5lHwG5vXGmKiOg"
+    },
+    {
+      "name": "Download",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dFkBLZ55gGyeTF3ustRBQs1Y20Ypc0Tf-RShqBEuu0RjwXbp_a9BgyPGudFjgZ2cWPnsH0U0D_CSGSnAdlm50UJIDO1riJYLIKxOvGXCHvcvY1QaRmgs1RDt2Zr9n2YL5YSO0RQ",
+        "q": "Salad download"
+      },
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Salad+download&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dFkBLZ55gGyeTF3ustRBQs1Y20Ypc0Tf-RShqBEuu0RjwXbp_a9BgyPGudFjgZ2cWPnsH0U0D_CSGSnAdlm50UJIDO1riJYLIKxOvGXCHvcvY1QaRmgs1RDt2Zr9n2YL5YSO0RQ&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQxKsJegQIexAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Salad+download&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dFkBLZ55gGyeTF3ustRBQs1Y20Ypc0Tf-RShqBEuu0RjwXbp_a9BgyPGudFjgZ2cWPnsH0U0D_CSGSnAdlm50UJIDO1riJYLIKxOvGXCHvcvY1QaRmgs1RDt2Zr9n2YL5YSO0RQ"
+    },
+    {
+      "name": "Within 0.5 mi",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dNJkbpgjqZNv4hs5fyca8-He6fhrCX5njkDh41RAqwUM7ALS-Lv2DSRzWjvycsqwiGtd-7shVQigB3ZGiJhLJfpwMGGAr6s5fsBb0w75RL_6kHWFNUOZ5TFcZdO4R1esKrlCtwm48V6qBZO8-ULJeAdBvM_pz1QO-Q9ZsoKdjN_j6njs4",
+        "q": "salad within 0.5 mi"
+      },
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=salad+within+0.5+mi&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dNJkbpgjqZNv4hs5fyca8-He6fhrCX5njkDh41RAqwUM7ALS-Lv2DSRzWjvycsqwiGtd-7shVQigB3ZGiJhLJfpwMGGAr6s5fsBb0w75RL_6kHWFNUOZ5TFcZdO4R1esKrlCtwm48V6qBZO8-ULJeAdBvM_pz1QO-Q9ZsoKdjN_j6njs4&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQxKsJegQIehAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salad+within+0.5+mi&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dNJkbpgjqZNv4hs5fyca8-He6fhrCX5njkDh41RAqwUM7ALS-Lv2DSRzWjvycsqwiGtd-7shVQigB3ZGiJhLJfpwMGGAr6s5fsBb0w75RL_6kHWFNUOZ5TFcZdO4R1esKrlCtwm48V6qBZO8-ULJeAdBvM_pz1QO-Q9ZsoKdjN_j6njs4"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=salad&udm=2&source=univ&fir=G_BL54qP7mo18M%252CNQigvZe3V3hUeM%252C_%253BgOlsNrSdtybuZM%252CHWpeSd7539VDDM%252C_%253BoanuDQTsQG8KJM%252CSsv9TtZoALFgXM%252C_%253BumQC4txP6e-MJM%252CiB0klZBAtAOJyM%252C_%253BgEN_q4PTtyDKGM%252CeFSoLCTZCUn86M%252C_%253BoB_8Q4uQuzVt-M%252Chcmj1VWZEZhjHM%252C_%253Bclp0v8jb-8008M%252CH4n0MwqmN9nXxM%252C_%253BgmGJ7fE9CIvzOM%252CPBCRYr6b4fTzHM%252C_%253Buj3JXUxf8avPlM%252C-nseOYTPy4aqCM%252C_%253B5QubeeNuSbrVpM%252CGOtqBIZUMofHPM%252C_%253BTaONISPIhihkYM%252CNyN5CUfxyWfBvM%252C_%253B51u16u_iHZWhxM%252CzilXFo9nYOh3sM%252C_&usg=AI4_-kQ7H24pF077lHBo5LtkO8di0lmmLA&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQ7Al6BAhjEAY",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salad",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Salad recipes",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Salad+recipes&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Salad+recipes"
+    },
+    {
+      "block_position": 1,
+      "query": "Salad pronunciation",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Salad+pronunciation&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Salad+pronunciation"
+    },
+    {
+      "block_position": 1,
+      "query": "Salad app",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Salad+app&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Salad+app"
+    },
+    {
+      "block_position": 1,
+      "query": "Salad download",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Salad+download&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Salad+download"
+    },
+    {
+      "block_position": 1,
+      "query": "Salad ingredients",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Salad+ingredients&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Salad+ingredients"
+    },
+    {
+      "block_position": 1,
+      "query": "Vegetable salad",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Vegetable+salad&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Vegetable+salad"
+    },
+    {
+      "block_position": 1,
+      "query": "Easy salad recipes",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Easy+salad+recipes&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Easy+salad+recipes"
+    },
+    {
+      "block_position": 1,
+      "query": "Types of salad",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Types+of+salad&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQ1QJ6BAgwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Types+of+salad"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "What to put",
+        "subtitle": "What Should I Put In A Salad",
+        "title": "Ultimate List of Salad Topping Ideas + What to Put in Salads",
+        "link": "https://nourishedbynic.com/ultimate-list-of-salad-topping-ideas-what-to-put-in-salads/",
+        "displayed_link": "https://nourishedbynic.com \u203a ultimate-list-of-salad-toppi...",
+        "date": "Jun 11, 2024",
+        "snippet": "Some examples of ingredients that add to the satisfaction of salads are:",
+        "snippet_highlighted_words": [
+          "Some examples of ingredients that add to the satisfaction of salads are:"
+        ],
+        "list": [
+          "Creamy dressings.",
+          "Oil based dressings.",
+          "Cheese, such as feta or shredded cheddar.",
+          "Nuts or seeds.",
+          "Fruit, such as grapes or strawberries.",
+          "Herbs, such as dill.",
+          "Sauces or dips, such as hummus."
+        ],
+        "favicon": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/18e2933e60e147778a1798cee6362aecb1466fb856bafcfed5eb4096764ae1a66bcd2ecab4ec569a.png",
+        "source": "nourishedbynic.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=what+should+i+put+in+a+salad&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQrooIegQIQBAH",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+should+i+put+in+a+salad"
+      },
+      {
+        "text": "Ingredients",
+        "subtitle": "What Goes In A Salad?",
+        "title": "How to build a better salad - Heart and Stroke Foundation of Canada",
+        "link": "https://www.heartandstroke.ca/articles/how-to-build-a-better-salad#:~:text=leafy%20greens%20such%20as%20romaine,tomato%2C%20cabbage%2C%20and%20beets.",
+        "displayed_link": "https://www.heartandstroke.ca \u203a articles \u203a how-to-build-a...",
+        "snippet": "leafy greens such as romaine, arugula, kale and spinach. whole grains such as quinoa, brown rice and bulgur. chopped or shredded vegetables such as cucumber, tomato, cabbage, and beets.",
+        "snippet_highlighted_words": [
+          "leafy greens such as romaine, arugula, kale and spinach",
+          "whole grains such as quinoa, brown rice and bulgur",
+          "chopped or shredded vegetables such as cucumber, tomato, cabbage, and beets"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/18e2933e60e147778a1798cee6362aec54ff931c05b46c63e3c07abb73d9c476d5c8b69a35eb02ab.png",
+        "source": "heartandstroke.ca",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=what+goes+in+a+salad&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQrooIegQIQBAN",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+goes+in+a+salad"
+      },
+      {
+        "text": "Basic types",
+        "subtitle": "What Are The Basic Types Of Salads",
+        "title": "List of salads - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/List_of_salads#:~:text=Salad%20is%20any%20of%20a,often%20include%20vegetables%20and%20fruits.",
+        "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a List_of_salads",
+        "snippet": "Salad is any of a wide variety of dishes including green salads; vegetable salads; long beans; salads of pasta, legumes, or grains; mixed salads incorporating meat, poultry, or seafood; and fruit salads. They often include vegetables and fruits.",
+        "snippet_highlighted_words": [
+          "green salads; vegetable salads; long beans; salads of pasta, legumes, or grains; mixed salads incorporating meat, poultry, or seafood; and fruit salads"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/18e2933e60e147778a1798cee6362aec286b7f94286430a7235cfc63d628626be98cb27d9541461f.png",
+        "source": "wikipedia.org",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTIPetCQaJGHn6oV08HoGdNGEQ2IPthUS5AvNjUNolBs8&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=what+are+the+basic+types+of+salads&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQrooIegQIQBAW",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+are+the+basic+types+of+salads"
+      },
+      {
+        "text": "Recipe",
+        "subtitle": "Salad Recipes",
+        "thumbnail": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/18e2933e60e147778a1798cee6362aecb90c34f91f675eff35732bcfffd9e1330d3130c7dc5bc295.png",
+        "web_links": [
+          {
+            "title": "Salad Recipes - Allrecipes",
+            "snippet": "Salad Recipes \u00b7 Coleslaw \u00b7 Curry Salad \u00b7 Waldorf Salad \u00b7 Taco Salad \u00b7 Egg Salad...",
+            "link": "https://www.allrecipes.com/recipes/96/salad/",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTUDwBqro5vVxoe98LFoNShuLtyWgcpHgKK24kfu811lcIpbS0vMAfTa5sE8g",
+            "source": "Allrecipes",
+            "source_thumbnail": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/18e2933e60e147778a1798cee6362aecb90c34f91f675eff7c642b24372a7f85c87ab6de478629d656be11d40764860f3a502752b2102025.png"
+          },
+          {
+            "title": "51 Best Salad Recipes - Love and Lemons",
+            "snippet": "With everything from green salads to pasta salads and more, these recipes are perfect for passing at potlucks, serving...",
+            "link": "https://www.loveandlemons.com/salad-recipes/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnU1eEzgp0ODKu_yIHqVVHuQb1Z3HMHefqHpduBuHVUdWVWsE3pKKaYz37_ck",
+            "source": "Love and Lemons",
+            "source_thumbnail": "https://serpapi.com/searches/670a2fdc1fc7c54fa96e99d9/images/18e2933e60e147778a1798cee6362aecb90c34f91f675eff7c642b24372a7f8545dc8aae9dbaa619ceb10daebccc27ef91b4146db4579a05.png"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=salad+recipes&sa=X&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQrooIegQIQBAc",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salad+recipes"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=salad&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=3S8KZ7qEFv3gkPIP56GXoAM&start=10&sa=N&sstk=AagrsugY8fvmfyo7_VJMKmEqv4APgcV41RDe4Qf0_-GWDtXZvwGIUn5RGlwmSu68hkHx0xS9mCtLEAXoSXiIaTbkXHEECV2HXdPs_Q&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQ8NMDegQIBxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=salad&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=3S8KZ7qEFv3gkPIP56GXoAM&start=10&sa=N&sstk=AagrsugY8fvmfyo7_VJMKmEqv4APgcV41RDe4Qf0_-GWDtXZvwGIUn5RGlwmSu68hkHx0xS9mCtLEAXoSXiIaTbkXHEECV2HXdPs_Q&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQ8tMDegQIBxAE",
+      "3": "https://www.google.com/search?q=salad&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=3S8KZ7qEFv3gkPIP56GXoAM&start=20&sa=N&sstk=AagrsugY8fvmfyo7_VJMKmEqv4APgcV41RDe4Qf0_-GWDtXZvwGIUn5RGlwmSu68hkHx0xS9mCtLEAXoSXiIaTbkXHEECV2HXdPs_Q&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQ8tMDegQIBxAG",
+      "4": "https://www.google.com/search?q=salad&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=3S8KZ7qEFv3gkPIP56GXoAM&start=30&sa=N&sstk=AagrsugY8fvmfyo7_VJMKmEqv4APgcV41RDe4Qf0_-GWDtXZvwGIUn5RGlwmSu68hkHx0xS9mCtLEAXoSXiIaTbkXHEECV2HXdPs_Q&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQ8tMDegQIBxAI",
+      "5": "https://www.google.com/search?q=salad&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=3S8KZ7qEFv3gkPIP56GXoAM&start=40&sa=N&sstk=AagrsugY8fvmfyo7_VJMKmEqv4APgcV41RDe4Qf0_-GWDtXZvwGIUn5RGlwmSu68hkHx0xS9mCtLEAXoSXiIaTbkXHEECV2HXdPs_Q&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQ8tMDegQIBxAK",
+      "6": "https://www.google.com/search?q=salad&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=3S8KZ7qEFv3gkPIP56GXoAM&start=50&sa=N&sstk=AagrsugY8fvmfyo7_VJMKmEqv4APgcV41RDe4Qf0_-GWDtXZvwGIUn5RGlwmSu68hkHx0xS9mCtLEAXoSXiIaTbkXHEECV2HXdPs_Q&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQ8tMDegQIBxAM",
+      "7": "https://www.google.com/search?q=salad&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=3S8KZ7qEFv3gkPIP56GXoAM&start=60&sa=N&sstk=AagrsugY8fvmfyo7_VJMKmEqv4APgcV41RDe4Qf0_-GWDtXZvwGIUn5RGlwmSu68hkHx0xS9mCtLEAXoSXiIaTbkXHEECV2HXdPs_Q&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQ8tMDegQIBxAO",
+      "8": "https://www.google.com/search?q=salad&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=3S8KZ7qEFv3gkPIP56GXoAM&start=70&sa=N&sstk=AagrsugY8fvmfyo7_VJMKmEqv4APgcV41RDe4Qf0_-GWDtXZvwGIUn5RGlwmSu68hkHx0xS9mCtLEAXoSXiIaTbkXHEECV2HXdPs_Q&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQ8tMDegQIBxAQ",
+      "9": "https://www.google.com/search?q=salad&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=3S8KZ7qEFv3gkPIP56GXoAM&start=80&sa=N&sstk=AagrsugY8fvmfyo7_VJMKmEqv4APgcV41RDe4Qf0_-GWDtXZvwGIUn5RGlwmSu68hkHx0xS9mCtLEAXoSXiIaTbkXHEECV2HXdPs_Q&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQ8tMDegQIBxAS",
+      "10": "https://www.google.com/search?q=salad&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=3S8KZ7qEFv3gkPIP56GXoAM&start=90&sa=N&sstk=AagrsugY8fvmfyo7_VJMKmEqv4APgcV41RDe4Qf0_-GWDtXZvwGIUn5RGlwmSu68hkHx0xS9mCtLEAXoSXiIaTbkXHEECV2HXdPs_Q&ved=2ahUKEwj65u2Gs4iJAxV9MEQIHefQBTQQ8tMDegQIBxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salad&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salad&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salad&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salad&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salad&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salad&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salad&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salad&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salad&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salad&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salad&start=90"
+    }
+  }
+}

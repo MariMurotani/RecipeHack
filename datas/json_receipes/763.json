@@ -1,0 +1,788 @@
+{
+  "search_metadata": {
+    "id": "670a2f4c39e232b9eb3967bd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7111eab36319bd36/670a2f4c39e232b9eb3967bd.json",
+    "created_at": "2024-10-12 08:11:56 UTC",
+    "processed_at": "2024-10-12 08:11:56 UTC",
+    "google_url": "https://www.google.com/search?q=ice+cream&oq=ice+cream&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/7111eab36319bd36/670a2f4c39e232b9eb3967bd.html",
+    "total_time_taken": 1.38
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "ice cream",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "ice cream",
+    "total_results": 1780000000,
+    "time_taken_displayed": 0.25,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=ice+cream&npsic=0&rflfq=1&rldoc=1&rllag=30262070,-97755734,1397&tbm=lcl&sa=X&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4QtgN6BAhBEAI",
+    "image": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/1dbf7957205533b3715f1e034d57d020.png",
+    "gps_coordinates": {
+      "latitude": 30.26207,
+      "longitude": -97.755734
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.5,
+        "reviews_original": "(1.5K)",
+        "reviews": 1500,
+        "description": "\"The ice cream was creamy, rich and had the perfect balance of sweetness.\"",
+        "lsig": "AB86z5Wbj_LE2soLQDRDFjFo9ea5",
+        "thumbnail": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/c386621ac408218c07f4fda78cf491f510dbf2b2ae4e2ee22c05fe8d2fe48a9da8d174faab5efc1b.jpeg",
+        "title": "Amy's Ice Creams",
+        "type": "Ice Cream",
+        "address": "1301 S Congress Ave",
+        "hours": "Closed \u22c5 Opens 11:30 AM",
+        "place_id": "2222764107043793198",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=2222764107043793198&q=ice+cream",
+        "gps_coordinates": {
+          "latitude": 30.250969,
+          "longitude": -97.74896
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.3,
+        "reviews_original": "(664)",
+        "reviews": 664,
+        "description": "\"The ice cream is delicious, innovative and comes in good potions.\"",
+        "lsig": "AB86z5VHAsEpfVVlyojDdhgPcdK7",
+        "thumbnail": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/c386621ac408218c07f4fda78cf491f5a7a3838f429d0bd40563e937c4a987646970b2d45ee149aa.jpeg",
+        "title": "Frozen Rolls Creamery",
+        "type": "Ice Cream",
+        "address": "704 N Lamar Blvd",
+        "hours": "Closed \u22c5 Opens 11 AM",
+        "place_id": "7298306825960066779",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=7298306825960066779&q=ice+cream",
+        "gps_coordinates": {
+          "latitude": 30.273178,
+          "longitude": -97.75321
+        }
+      },
+      {
+        "position": 3,
+        "rating": 4.6,
+        "reviews_original": "(1.1K)",
+        "reviews": 1100,
+        "description": "\"The ice cream was creamy yet had a fluffy light texture.\"",
+        "lsig": "AB86z5UCNU1OdoCsN--IXRNleOUF",
+        "thumbnail": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/c386621ac408218c07f4fda78cf491f5ff4e0c62ec74fd8e1fbb5f1247f7e88a92a6ddf5b6a9af6a.jpeg",
+        "title": "Lick Honest Ice Creams",
+        "type": "Ice Cream",
+        "address": "1100 S Lamar Blvd #1135",
+        "hours": "Closed \u22c5 Opens 12 PM",
+        "place_id": "14719466227429637748",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=14719466227429637748&q=ice+cream",
+        "gps_coordinates": {
+          "latitude": 30.255564,
+          "longitude": -97.76253
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&tbs=lf:1,lf_ui:9&tbm=lcl&q=ice+cream&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4QjGp6BAhHEAE"
+  },
+  "knowledge_graph": {
+    "title": "Ice cream",
+    "type": "Food",
+    "entity_type": "food, foods_and_dishes",
+    "kgmid": "/m/0cxn2",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0cxn2&hl=en-US&q=Ice+cream",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0cxn2&location=Austin%2CTexas%2CUnited+States&q=Ice+cream",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/6057b175faf90c526d0a8fe2410b00c1304402754e0f2e490de367ea1d441d953bd8aecd06e73aac.jpeg",
+        "source": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcTNjG7QqZS3X6zYSWUFYyq-wLcZjaDL5sUz8bpfOZ39phir1_Sy0U-FDBq8BDM3u-Ls"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/6057b175faf90c526d0a8fe2410b00c1304402754e0f2e49edd22c7df2a5dd715059f2e533dce3c2.jpeg",
+        "source": "https://www.thespruceeats.com/what-is-ice-cream-1328784"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/6057b175faf90c526d0a8fe2410b00c1304402754e0f2e499763e9f5b59f84874908396dc7cac518.jpeg",
+        "source": "https://www.foodnetwork.com/recipes/milky-way-ice-cream-recipe-2108503"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/6057b175faf90c526d0a8fe2410b00c1304402754e0f2e4916575284b68a1b00b0f461d7b6235273.jpeg",
+        "source": "https://www.allrecipes.com/recipe/140877/easy-eggless-strawberry-ice-cream/"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSThm7JdAn3YuCYutzy6VsmXQsvCh5cNQfHcuiOzWs8Q&s",
+        "source": "https://tarateaspoon.com/how-to-make-the-best-vanilla-ice-cream/"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnknROAj-b_4LqiK01buyXVruhCN2J6bqb880lSx4pNw&s",
+        "source": "https://www.theroastedroot.net/dairy-free-vanilla-ice-cream-vegan/"
+      }
+    ],
+    "description": "Ice cream is a frozen dessert typically made from milk or cream that has been flavoured with a sweetener, either sugar or an alternative, and a spice, such as cocoa or vanilla, or with fruit, such as strawberries or peaches. Food colouring is sometimes added in addition to stabilizers.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Ice_cream"
+    },
+    "sources_include": "USDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAIce cream, vanilla137 Calories - 1 serving 1/2 cup (66 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170261/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170265/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170662/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170269/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170660/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170664/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170264/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/168809/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/167585/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173465/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/168810/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/167575/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170659/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/167572/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170666/nutrients"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Gelato",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LxTb7uUWVasAE3lmMjVf-iNr4ymQ1TX9-f0vNny7RlE7Lb1UBa9KUirGAfqRPmq2Rat2MZ-u0CTbKjmEAQAOs5VfD2ElKx73qrsiwngtDqpbUVY8OC3BHSeLZgFCXMy3BOnYRjcuDivKrzDRL3fdyleNSh7Kfl5uIT2-7CbnkM5uMKVDntArj9xV4cPnXCh7u41IOGU0Dta2-oGkg3olNMqLJW4dTe_KOm7bg-Kuw36dYD26XXXndwxHKaP8kXGEcnrCGUg%3D&q=Gelato&sa=X&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Qs9oBKAB6BAgzEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Gelato&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LxTb7uUWVasAE3lmMjVf-iNr4ymQ1TX9-f0vNny7RlE7Lb1UBa9KUirGAfqRPmq2Rat2MZ-u0CTbKjmEAQAOs5VfD2ElKx73qrsiwngtDqpbUVY8OC3BHSeLZgFCXMy3BOnYRjcuDivKrzDRL3fdyleNSh7Kfl5uIT2-7CbnkM5uMKVDntArj9xV4cPnXCh7u41IOGU0Dta2-oGkg3olNMqLJW4dTe_KOm7bg-Kuw36dYD26XXXndwxHKaP8kXGEcnrCGUg%3D",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaSaYlHYN_5Vq4QJTTgI1AWSId-V_3VxCc5xKRP6lIraXuIVTxjljW&s=0"
+      },
+      {
+        "name": "Chocolate",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmzH3mG41Vz18SMI3StfexpYf2Fk2m29SggN6E_vW5LzHxwe_np-DA2xgemiSeaKVFZa1YpBQTmx9-dVWDRayHIhQpvUgdrjQI2XhRZrBNXS3P74RqxoKLXGWjZmXdxpJvvJoqwmdK7VRLZZkYAsGVoqmdsjNhwabLYKwYtBaCT3yE-MesBY0Xa7Bz774qpiHXwVeak0Q3VeavtvijI4XRcG3l5BwQwRUPeX1lkDxRO_-eyfkLNiOkkZzh3I72hHNfCBHZLc%3D&q=Chocolate&sa=X&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Qs9oBKAB6BAgzEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Chocolate&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmzH3mG41Vz18SMI3StfexpYf2Fk2m29SggN6E_vW5LzHxwe_np-DA2xgemiSeaKVFZa1YpBQTmx9-dVWDRayHIhQpvUgdrjQI2XhRZrBNXS3P74RqxoKLXGWjZmXdxpJvvJoqwmdK7VRLZZkYAsGVoqmdsjNhwabLYKwYtBaCT3yE-MesBY0Xa7Bz774qpiHXwVeak0Q3VeavtvijI4XRcG3l5BwQwRUPeX1lkDxRO_-eyfkLNiOkkZzh3I72hHNfCBHZLc%3D",
+        "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTCFnQnkS3oGv-HyiaTBtdQId761ghX0TC92uq1jmHBExhXPltzoGumjlrzIv0uxXOUNo5kvbQe&s=19"
+      },
+      {
+        "name": "Ice pop",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L3wK2grdmbcRqnskGNfDiVJnEa-rF0sFevE2IZvNuEK-qf4hgfOcdx0VPSChbepFcPUbeGQGil9cBVh4d1VgSB2IifhEkhCuK4rkR83mxw0iJrdsN9gbI0Zl-PhXOSQxhYgR1RqsBdZrKiRKcYygMUmgCRZMRxJp03-7RZ8llTsBoCGArUbg_D4_lyeZC7qc0_hU66W4vRIACYWyyI6xmufEx8xILcFqPU6DW1ejpfwK9qeaVI36KrqHS5zAJrm_mF44oSI%3D&q=Ice+pop&sa=X&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Qs9oBKAB6BAgzEA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Ice+pop&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L3wK2grdmbcRqnskGNfDiVJnEa-rF0sFevE2IZvNuEK-qf4hgfOcdx0VPSChbepFcPUbeGQGil9cBVh4d1VgSB2IifhEkhCuK4rkR83mxw0iJrdsN9gbI0Zl-PhXOSQxhYgR1RqsBdZrKiRKcYygMUmgCRZMRxJp03-7RZ8llTsBoCGArUbg_D4_lyeZC7qc0_hU66W4vRIACYWyyI6xmufEx8xILcFqPU6DW1ejpfwK9qeaVI36KrqHS5zAJrm_mF44oSI%3D",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc7qN48BGUNuqOAkK8Y9eXatazkwCeks6tZPGvc1Lyxv7NZiWpphj5&s=0"
+      },
+      {
+        "name": "Ice cream maker",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L3WCJccdthe8WkgjKCsors-AZdor4rSRoop1RgAjH5IFOeZmp57LJu6sah4K6z8TETCmZ7S-FsuRNy5D_tHh0u9HgWisTrp7fY4iyJ9Mh-1DVpjBjFEByyUEtsqxSy6JsT1t9NrSg8VkUdvV9eRf-xXd2y2brLoV-KyIMJKoeRHjB3D1d0B6Oy926jq2Ab4AehPZDOVfxBypIYS0XodxdxsHZDeJTd4yHHMdSZeK3kbSzuz4G7wiRgQGx293FKJQZWf_56g%3D&q=Ice+Cream+Maker&sa=X&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Qs9oBKAB6BAgzEBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Ice+Cream+Maker&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L3WCJccdthe8WkgjKCsors-AZdor4rSRoop1RgAjH5IFOeZmp57LJu6sah4K6z8TETCmZ7S-FsuRNy5D_tHh0u9HgWisTrp7fY4iyJ9Mh-1DVpjBjFEByyUEtsqxSy6JsT1t9NrSg8VkUdvV9eRf-xXd2y2brLoV-KyIMJKoeRHjB3D1d0B6Oy926jq2Ab4AehPZDOVfxBypIYS0XodxdxsHZDeJTd4yHHMdSZeK3kbSzuz4G7wiRgQGx293FKJQZWf_56g%3D",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTBrTBD3tBJtbM5_GsdUpQcvFn_VEei8ZXJAXN9Um5E-G2rjrUUwXQ&s=0"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "7 g",
+        "10%"
+      ],
+      "cholesterol": [
+        "29 mg",
+        "9%"
+      ],
+      "sodium": [
+        "53 mg",
+        "2%"
+      ],
+      "potassium": [
+        "131 mg",
+        "3%"
+      ],
+      "total_carbohydrate": [
+        "16 g",
+        "5%"
+      ],
+      "protein": [
+        "2.3 g",
+        "4%"
+      ]
+    }
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=ice+cream&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=2xqF14bPE6fKpM%252ClhzBSjTEBZ9nDM%252C%252Fm%252F0cxn2%253By4qyD8W51cto9M%252C5VDeCydq8mvvWM%252C_%253B3bogsyhFez-vcM%252CY_AVF0a8b9dejM%252C_%253BYrG6J6RwXekgDM%252CZOQXegVmGFFvqM%252C_%253B7JddP0ob07ApAM%252CBXny5aBGIUl3kM%252C_%253BmteYoDMvw_LzqM%252CgX55C_Wo93P7rM%252C_&usg=AI4_-kQNBlMi_d6cCEV__4KWFUOofx3MYQ&sa=X&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Q_B16BAg4EAE#vhid=2xqF14bPE6fKpM&vssid=mosaic",
+      "source": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcTNjG7QqZS3X6zYSWUFYyq-wLcZjaDL5sUz8bpfOZ39phir1_Sy0U-FDBq8BDM3u-Ls",
+      "thumbnail": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/2244fd4451c556dc58e919b5d63eaa2fbb7c6f3513b472ed0bf85cb5fb3eadaa.jpeg",
+      "original": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcTNjG7QqZS3X6zYSWUFYyq-wLcZjaDL5sUz8bpfOZ39phir1_Sy0U-FDBq8BDM3u-Ls",
+      "source_name": "t3.gstatic.com"
+    },
+    {
+      "link": "https://www.google.com/search?q=ice+cream&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=y4qyD8W51cto9M%252C5VDeCydq8mvvWM%252C_%253B3bogsyhFez-vcM%252CY_AVF0a8b9dejM%252C_%253BYrG6J6RwXekgDM%252CZOQXegVmGFFvqM%252C_%253B7JddP0ob07ApAM%252CBXny5aBGIUl3kM%252C_%253BmteYoDMvw_LzqM%252CgX55C_Wo93P7rM%252C_&usg=AI4_-kS7zRjYjQ7PIWjGHZoYIT4uytRO0w&sa=X&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Q_h16BAg9EAE#vhid=y4qyD8W51cto9M&vssid=mosaic",
+      "source": "https://www.thespruceeats.com/what-is-ice-cream-1328784",
+      "thumbnail": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/2244fd4451c556dca577d269086a44b61a9c7fcc944862f273908dad4041e472.jpeg",
+      "original": "https://www.thespruceeats.com/thmb/QjCQ4RTjmnhrovGkuJWzZCXYFX8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-90053856-588b7aff5f9b5874ee534b04.jpg",
+      "title": "What Is Ice Cream?",
+      "source_name": "The Spruce Eats"
+    },
+    {
+      "link": "https://www.google.com/search?q=ice+cream&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=y4qyD8W51cto9M%252C5VDeCydq8mvvWM%252C_%253B3bogsyhFez-vcM%252CY_AVF0a8b9dejM%252C_%253BYrG6J6RwXekgDM%252CZOQXegVmGFFvqM%252C_%253B7JddP0ob07ApAM%252CBXny5aBGIUl3kM%252C_%253BmteYoDMvw_LzqM%252CgX55C_Wo93P7rM%252C_&usg=AI4_-kS7zRjYjQ7PIWjGHZoYIT4uytRO0w&sa=X&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Q_h16BAg5EAE#vhid=3bogsyhFez-vcM&vssid=mosaic",
+      "source": "https://www.foodnetwork.com/recipes/milky-way-ice-cream-recipe-2108503",
+      "thumbnail": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/2244fd4451c556dcc747b31fc946f20122314a0d6dad700282d0defad3714406.jpeg",
+      "original": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/6/1/1/FNM_070112-Milky-Way-Ice-Cream-Recipe_s4x3.jpg.rend.hgtvcom.1280.960.suffix/1382541468590.webp",
+      "title": "Milky Way Ice Cream",
+      "source_name": "Food Network"
+    },
+    {
+      "link": "https://www.google.com/search?q=ice+cream&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=y4qyD8W51cto9M%252C5VDeCydq8mvvWM%252C_%253B3bogsyhFez-vcM%252CY_AVF0a8b9dejM%252C_%253BYrG6J6RwXekgDM%252CZOQXegVmGFFvqM%252C_%253B7JddP0ob07ApAM%252CBXny5aBGIUl3kM%252C_%253BmteYoDMvw_LzqM%252CgX55C_Wo93P7rM%252C_&usg=AI4_-kS7zRjYjQ7PIWjGHZoYIT4uytRO0w&sa=X&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Q_h16BAg7EAE#vhid=YrG6J6RwXekgDM&vssid=mosaic",
+      "source": "https://www.allrecipes.com/recipe/140877/easy-eggless-strawberry-ice-cream/",
+      "thumbnail": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/2244fd4451c556dc02b6ca92d729b421d2bb63f97f74b0e32a9206fb40636f51.jpeg",
+      "original": "https://www.allrecipes.com/thmb/pH8hoFfytcOT9XVK1DSmxv3L0OU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/140877-easy-eggless-strawberry-ice-cream-ddmfs-3x4-1-092e4d11b59049c8b3843014ea3c57f2.jpg",
+      "title": "Easy Strawberry Ice Cream",
+      "source_name": "Allrecipes"
+    },
+    {
+      "link": "https://www.google.com/search?q=ice+cream&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=y4qyD8W51cto9M%252C5VDeCydq8mvvWM%252C_%253B3bogsyhFez-vcM%252CY_AVF0a8b9dejM%252C_%253BYrG6J6RwXekgDM%252CZOQXegVmGFFvqM%252C_%253B7JddP0ob07ApAM%252CBXny5aBGIUl3kM%252C_%253BmteYoDMvw_LzqM%252CgX55C_Wo93P7rM%252C_&usg=AI4_-kS7zRjYjQ7PIWjGHZoYIT4uytRO0w&sa=X&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Q_h16BAg3EAE#vhid=7JddP0ob07ApAM&vssid=mosaic",
+      "source": "https://tarateaspoon.com/how-to-make-the-best-vanilla-ice-cream/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSThm7JdAn3YuCYutzy6VsmXQsvCh5cNQfHcuiOzWs8Q&s",
+      "original": "https://tarateaspoon.com/wp-content/uploads/2021/06/Vanilla-Ice-Cream-hand-cone-vert.jpeg",
+      "title": "Creamy Eggless Vanilla Ice Cream",
+      "source_name": "Tara Teaspoon"
+    },
+    {
+      "link": "https://www.google.com/search?q=ice+cream&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=y4qyD8W51cto9M%252C5VDeCydq8mvvWM%252C_%253B3bogsyhFez-vcM%252CY_AVF0a8b9dejM%252C_%253BYrG6J6RwXekgDM%252CZOQXegVmGFFvqM%252C_%253B7JddP0ob07ApAM%252CBXny5aBGIUl3kM%252C_%253BmteYoDMvw_LzqM%252CgX55C_Wo93P7rM%252C_&usg=AI4_-kS7zRjYjQ7PIWjGHZoYIT4uytRO0w&sa=X&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Q_h16BAg2EAE#vhid=mteYoDMvw_LzqM&vssid=mosaic",
+      "source": "https://www.theroastedroot.net/dairy-free-vanilla-ice-cream-vegan/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnknROAj-b_4LqiK01buyXVruhCN2J6bqb880lSx4pNw&s",
+      "original": "https://www.theroastedroot.net/wp-content/uploads/2023/06/dairy-free-vanilla-ice-cream-8-500x500.jpg",
+      "title": "Dairy-Free Vanilla Ice Cream",
+      "source_name": "The Roasted Root"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What brand of ice cream is being recalled?",
+      "snippet": "The full list of brands and recalled products can be found online, but include multiple products by Friendly's, Abylin's Frozen, some Hershey's ice cream, Yelloh!, Jeni's, Cumberland Farms, The Frozen Farmer, Marco, ChipWich, AMAFruits, Taharka, Dolcezza Gelato, and Lasalle products.",
+      "title": "Concerns of Listeria Contamination Prompt Nationwide Ice Cream Recall",
+      "date": "Jul 1, 2024",
+      "link": "https://www.infectiousdiseaseadvisor.com/news/concerns-of-listeria-contamination-prompt-nationwide-ice-cream-recall/#:~:text=The%20full%20list%20of%20brands,Dolcezza%20Gelato%2C%20and%20Lasalle%20products.",
+      "displayed_link": "https://www.infectiousdiseaseadvisor.com \u203a news \u203a conce...",
+      "source_logo": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/0c3b30fb818be4a6c22ea22d05418c310af54b2ffffef33c0b84ad111799e7f7.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFlVWlBZa3hOWDB0TVRHaHdUMGx5VkZCRWJXZDBXa3hLZERCS1lqUjRXSGsyWjFBNE1tNW5kbkJ3UkVwV2NXZFRNVzFYVFY5cFoyVXdNR1oxVFhwWmQwUm1lWFEyRWhkVVV6aExXaTE1VlVwaVNFWndPRFJRZDBwcFdqaEJZeG9pUVVaWWNrVmpjbTQzUTFZM1lqWmZPVWhtUkhWTFpFZE5URUZTZFZreU5GQndVUSIsImZjdiI6IjMiLCJlaSI6IlRTOEtaLXlVSmJIRnA4NFB3SmlaOEFjIiwicWMiOiJDZ2xwWTJVZ1kzSmxZVzBRQUgwU19EY18iLCJxdWVzdGlvbiI6IldoYXQgYnJhbmQgb2YgaWNlIGNyZWFtIGlzIGJlaW5nIHJlY2FsbGVkPyIsImxrIjoiR2lsM2FHRjBJR0p5WVc1a0lHOW1JR2xqWlNCamNtVmhiU0JwY3lCaVpXbHVaeUJ5WldOaGJHeGxaQSIsImJzIjoiYzQyT3Z3X0JRQnpGWTczSjJEVEJFd3lZWENkVEJ5UVl4R2F4ZkxWSHI2azd1WjQwX1Z2OFUwYngxN2cwUVN5TjRTMHZuX2VEN2Rsb2w1REZ3WkNLb1ktUWtVQmtCSjBoY3h5RVZDY1lFVkdXaVRqMGJnRWYtOFBpM3dCYk1sVHRaQVJzNHFRdkNINUNvWGRQZWRmdkZQVVkyN0wtS3NmNm1wV1lURzJDRFZtcEZXVllPV1JXemMtcERMM25nZ184bm51U2ZsRDFScjlQWXlyWm5MVmQ0OWZUU2tBYjJFS2owQ2JPUS1fUjVCMl9KZXVnWnVNRiIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFlVWlBZa3hOWDB0TVRHaHdUMGx5VkZCRWJXZDBXa3hLZERCS1lqUjRXSGsyWjFBNE1tNW5kbkJ3UkVwV2NXZFRNVzFYVFY5cFoyVXdNR1oxVFhwWmQwUm1lWFEyRWhkVVV6aExXaTE1VlVwaVNFWndPRFJRZDBwcFdqaEJZeG9pUVVaWWNrVmpjbTQzUTFZM1lqWmZPVWhtUkhWTFpFZE5URUZTZFZreU5GQndVUSIsImZjdiI6IjMiLCJlaSI6IlRTOEtaLXlVSmJIRnA4NFB3SmlaOEFjIiwicWMiOiJDZ2xwWTJVZ1kzSmxZVzBRQUgwU19EY18iLCJxdWVzdGlvbiI6IldoYXQgYnJhbmQgb2YgaWNlIGNyZWFtIGlzIGJlaW5nIHJlY2FsbGVkPyIsImxrIjoiR2lsM2FHRjBJR0p5WVc1a0lHOW1JR2xqWlNCamNtVmhiU0JwY3lCaVpXbHVaeUJ5WldOaGJHeGxaQSIsImJzIjoiYzQyT3Z3X0JRQnpGWTczSjJEVEJFd3lZWENkVEJ5UVl4R2F4ZkxWSHI2azd1WjQwX1Z2OFUwYngxN2cwUVN5TjRTMHZuX2VEN2Rsb2w1REZ3WkNLb1ktUWtVQmtCSjBoY3h5RVZDY1lFVkdXaVRqMGJnRWYtOFBpM3dCYk1sVHRaQVJzNHFRdkNINUNvWGRQZWRmdkZQVVkyN0wtS3NmNm1wV1lURzJDRFZtcEZXVllPV1JXemMtcERMM25nZ184bm51U2ZsRDFScjlQWXlyWm5MVmQ0OWZUU2tBYjJFS2owQ2JPUS1fUjVCMl9KZXVnWnVNRiIsImlkIjoiZmNfMSJ9"
+    },
+    {
+      "question": "What are the top 3 of ice cream?",
+      "title": "The top five ice cream flavors that reign supreme are:",
+      "date": "Feb 14, 2024",
+      "link": "https://www.limepack.eu/blog/ice-cream/the-top-5-ice-cream-flavors-everyone-should-try",
+      "list": [
+        "Vanilla.",
+        "Chocolate.",
+        "Strawberry.",
+        "Mint chocolate chip.",
+        "Cookies & cream."
+      ],
+      "displayed_link": "https://www.limepack.eu \u203a blog \u203a the-top-5-ice-cream-fla...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDA-9jE-vGiohN1Q_MDd3aU-cjRyDt7SQO6b_YuH5jw&s",
+      "source_logo": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/0c3b30fb818be4a6c22ea22d05418c3100c677cc0cd23fa2599634068d73ca75.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFlVWlBZa3hOWDB0TVRHaHdUMGx5VkZCRWJXZDBXa3hLZERCS1lqUjRXSGsyWjFBNE1tNW5kbkJ3UkVwV2NXZFRNVzFYVFY5cFoyVXdNR1oxVFhwWmQwUm1lWFEyRWhkVVV6aExXaTE1VlVwaVNFWndPRFJRZDBwcFdqaEJZeG9pUVVaWWNrVmpjbTQzUTFZM1lqWmZPVWhtUkhWTFpFZE5URUZTZFZreU5GQndVUSIsImZjdiI6IjMiLCJlaSI6IlRTOEtaLXlVSmJIRnA4NFB3SmlaOEFjIiwicWMiOiJDZ2xwWTJVZ1kzSmxZVzBRQUgwU19EY18iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSB0b3AgMyBvZiBpY2UgY3JlYW0/IiwibGsiOiJHaDkzYUdGMElHRnlaU0IwYUdVZ2RHOXdJRE1nYjJZZ2FXTmxJR055WldGdCIsImJzIjoiYzQyT3Z3X0JRQnpGWTczSjJEVEJFd3lZWENkVEJ5UVl4R2F4ZkxWSHI2azd1WjQwX1Z2OFUwYngxN2cwUVN5TjRTMHZuX2VEN2Rsb2w1REZ3WkNLb1ktUWtVQmtCSjBoY3h5RVZDY1lFVkdXaVRqMGJnRWYtOFBpM3dCYk1sVHRaQVJzNHFRdkNINUNvWGRQZWRmdkZQVVkyN0wtS3NmNm1wV1lURzJDRFZtcEZXVllPV1JXemMtcERMM25nZ184bm51U2ZsRDFScjlQWXlyWm5MVmQ0OWZUU2tBYjJFS2owQ2JPUS1fUjVCMl9KZXVnWnVNRiIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFlVWlBZa3hOWDB0TVRHaHdUMGx5VkZCRWJXZDBXa3hLZERCS1lqUjRXSGsyWjFBNE1tNW5kbkJ3UkVwV2NXZFRNVzFYVFY5cFoyVXdNR1oxVFhwWmQwUm1lWFEyRWhkVVV6aExXaTE1VlVwaVNFWndPRFJRZDBwcFdqaEJZeG9pUVVaWWNrVmpjbTQzUTFZM1lqWmZPVWhtUkhWTFpFZE5URUZTZFZreU5GQndVUSIsImZjdiI6IjMiLCJlaSI6IlRTOEtaLXlVSmJIRnA4NFB3SmlaOEFjIiwicWMiOiJDZ2xwWTJVZ1kzSmxZVzBRQUgwU19EY18iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSB0b3AgMyBvZiBpY2UgY3JlYW0%2FIiwibGsiOiJHaDkzYUdGMElHRnlaU0IwYUdVZ2RHOXdJRE1nYjJZZ2FXTmxJR055WldGdCIsImJzIjoiYzQyT3Z3X0JRQnpGWTczSjJEVEJFd3lZWENkVEJ5UVl4R2F4ZkxWSHI2azd1WjQwX1Z2OFUwYngxN2cwUVN5TjRTMHZuX2VEN2Rsb2w1REZ3WkNLb1ktUWtVQmtCSjBoY3h5RVZDY1lFVkdXaVRqMGJnRWYtOFBpM3dCYk1sVHRaQVJzNHFRdkNINUNvWGRQZWRmdkZQVVkyN0wtS3NmNm1wV1lURzJDRFZtcEZXVllPV1JXemMtcERMM25nZ184bm51U2ZsRDFScjlQWXlyWm5MVmQ0OWZUU2tBYjJFS2owQ2JPUS1fUjVCMl9KZXVnWnVNRiIsImlkIjoiZmNfMSJ9"
+    },
+    {
+      "question": "Is July 19th National Ice Cream Day?",
+      "snippet": "NATIONAL ICE CREAM DAY | Third Sunday in July.",
+      "title": "NATIONAL ICE CREAM DAY | Third Sunday in July",
+      "link": "https://www.nationaldaycalendar.com/national-day/national-ice-cream-day-third-sunday-in-july",
+      "displayed_link": "https://www.nationaldaycalendar.com \u203a national-day \u203a na...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-MwJQkmVBeqxIYuwM6-UlCZfQtH0FRKmc451ohWRY1A&s",
+      "source_logo": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/0c3b30fb818be4a6c22ea22d05418c310f736066b37e3f37d6fa2ddcd4c6e44d.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFlVWlBZa3hOWDB0TVRHaHdUMGx5VkZCRWJXZDBXa3hLZERCS1lqUjRXSGsyWjFBNE1tNW5kbkJ3UkVwV2NXZFRNVzFYVFY5cFoyVXdNR1oxVFhwWmQwUm1lWFEyRWhkVVV6aExXaTE1VlVwaVNFWndPRFJRZDBwcFdqaEJZeG9pUVVaWWNrVmpjbTQzUTFZM1lqWmZPVWhtUkhWTFpFZE5URUZTZFZreU5GQndVUSIsImZjdiI6IjMiLCJlaSI6IlRTOEtaLXlVSmJIRnA4NFB3SmlaOEFjIiwicWMiOiJDZ2xwWTJVZ1kzSmxZVzBRQUgwU19EY18iLCJxdWVzdGlvbiI6IklzIEp1bHkgMTl0aCBOYXRpb25hbCBJY2UgQ3JlYW0gRGF5PyIsImxrIjoiR2lOcGN5QnFkV3g1SURFNWRHZ2dibUYwYVc5dVlXd2dhV05sSUdOeVpXRnRJR1JoZVEiLCJicyI6ImM0Mk92d19CUUJ6Rlk3M0oyRFRCRXd5WVhDZFRCeVFZeEdheGZMVkhyNms3dVo0MF9WdjhVMGJ4MTdnMFFTeU40UzB2bl9lRDdkbG9sNURGd1pDS29ZLVFrVUJrQkowaGN4eUVWQ2NZRVZHV2lUajBiZ0VmLThQaTN3QmJNbFR0WkFSczRxUXZDSDVDb1hkUGVkZnZGUFVZMjdMLUtzZjZtcFdZVEcyQ0RWbXBGV1ZZT1dSV3pjLXBETDNuZ2dfOG5udVNmbEQxUnI5UFl5clpuTFZkNDlmVFNrQWIyRUtqMENiT1EtX1I1QjJfSmV1Z1p1TUYiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFlVWlBZa3hOWDB0TVRHaHdUMGx5VkZCRWJXZDBXa3hLZERCS1lqUjRXSGsyWjFBNE1tNW5kbkJ3UkVwV2NXZFRNVzFYVFY5cFoyVXdNR1oxVFhwWmQwUm1lWFEyRWhkVVV6aExXaTE1VlVwaVNFWndPRFJRZDBwcFdqaEJZeG9pUVVaWWNrVmpjbTQzUTFZM1lqWmZPVWhtUkhWTFpFZE5URUZTZFZreU5GQndVUSIsImZjdiI6IjMiLCJlaSI6IlRTOEtaLXlVSmJIRnA4NFB3SmlaOEFjIiwicWMiOiJDZ2xwWTJVZ1kzSmxZVzBRQUgwU19EY18iLCJxdWVzdGlvbiI6IklzIEp1bHkgMTl0aCBOYXRpb25hbCBJY2UgQ3JlYW0gRGF5PyIsImxrIjoiR2lOcGN5QnFkV3g1SURFNWRHZ2dibUYwYVc5dVlXd2dhV05sSUdOeVpXRnRJR1JoZVEiLCJicyI6ImM0Mk92d19CUUJ6Rlk3M0oyRFRCRXd5WVhDZFRCeVFZeEdheGZMVkhyNms3dVo0MF9WdjhVMGJ4MTdnMFFTeU40UzB2bl9lRDdkbG9sNURGd1pDS29ZLVFrVUJrQkowaGN4eUVWQ2NZRVZHV2lUajBiZ0VmLThQaTN3QmJNbFR0WkFSczRxUXZDSDVDb1hkUGVkZnZGUFVZMjdMLUtzZjZtcFdZVEcyQ0RWbXBGV1ZZT1dSV3pjLXBETDNuZ2dfOG5udVNmbEQxUnI5UFl5clpuTFZkNDlmVFNrQWIyRUtqMENiT1EtX1I1QjJfSmV1Z1p1TUYiLCJpZCI6ImZjXzEifQ%3D%3D"
+    },
+    {
+      "question": "Is ice cream one or two words?",
+      "snippet": "There you will find two forms of the compound. The first is an entry for hyphenated \u201cice-cream,\u201d defined as an adjective meaning \u201cof a color similar to that of vanilla ice cream.\u201d The second is for unhyphenated \u201cice cream,\u201d the far more popular noun form that you can eat.",
+      "title": "Hyphens, En Dashes, Em Dashes - FAQ Item",
+      "link": "https://www.chicagomanualofstyle.org/qanda/data/faq/topics/HyphensEnDashesEmDashes/faq0148.html#:~:text=There%20you%20will%20find%20two,form%20that%20you%20can%20eat.",
+      "displayed_link": "https://www.chicagomanualofstyle.org \u203a topics \u203a faq0148",
+      "source_logo": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/0c3b30fb818be4a6c22ea22d05418c31c7275fdc0473cc41559ef3e1bd0e3ebb.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFlVWlBZa3hOWDB0TVRHaHdUMGx5VkZCRWJXZDBXa3hLZERCS1lqUjRXSGsyWjFBNE1tNW5kbkJ3UkVwV2NXZFRNVzFYVFY5cFoyVXdNR1oxVFhwWmQwUm1lWFEyRWhkVVV6aExXaTE1VlVwaVNFWndPRFJRZDBwcFdqaEJZeG9pUVVaWWNrVmpjbTQzUTFZM1lqWmZPVWhtUkhWTFpFZE5URUZTZFZreU5GQndVUSIsImZjdiI6IjMiLCJlaSI6IlRTOEtaLXlVSmJIRnA4NFB3SmlaOEFjIiwicWMiOiJDZ2xwWTJVZ1kzSmxZVzBRQUgwU19EY18iLCJxdWVzdGlvbiI6IklzIGljZSBjcmVhbSBvbmUgb3IgdHdvIHdvcmRzPyIsImxrIjoiR2gxcGN5QnBZMlVnWTNKbFlXMGdiMjVsSUc5eUlIUjNieUIzYjNKa2N3IiwiYnMiOiJjNDJPdndfQlFCekZZNzNKMkRUQkV3eVlYQ2RUQnlRWXhHYXhmTFZIcjZrN3VaNDBfVnY4VTBieDE3ZzBRU3lONFMwdm5fZUQ3ZGxvbDVERndaQ0tvWS1Ra1VCa0JKMGhjeHlFVkNjWUVWR1dpVGowYmdFZi04UGkzd0JiTWxUdFpBUnM0cVF2Q0g1Q29YZFBlZGZ2RlBVWTI3TC1Lc2Y2bXBXWVRHMkNEVm1wRldWWU9XUld6Yy1wREwzbmdnXzhubnVTZmxEMVJyOVBZeXJabkxWZDQ5ZlRTa0FiMkVLajBDYk9RLV9SNUIyX0pldWdadU1GIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFlVWlBZa3hOWDB0TVRHaHdUMGx5VkZCRWJXZDBXa3hLZERCS1lqUjRXSGsyWjFBNE1tNW5kbkJ3UkVwV2NXZFRNVzFYVFY5cFoyVXdNR1oxVFhwWmQwUm1lWFEyRWhkVVV6aExXaTE1VlVwaVNFWndPRFJRZDBwcFdqaEJZeG9pUVVaWWNrVmpjbTQzUTFZM1lqWmZPVWhtUkhWTFpFZE5URUZTZFZreU5GQndVUSIsImZjdiI6IjMiLCJlaSI6IlRTOEtaLXlVSmJIRnA4NFB3SmlaOEFjIiwicWMiOiJDZ2xwWTJVZ1kzSmxZVzBRQUgwU19EY18iLCJxdWVzdGlvbiI6IklzIGljZSBjcmVhbSBvbmUgb3IgdHdvIHdvcmRzPyIsImxrIjoiR2gxcGN5QnBZMlVnWTNKbFlXMGdiMjVsSUc5eUlIUjNieUIzYjNKa2N3IiwiYnMiOiJjNDJPdndfQlFCekZZNzNKMkRUQkV3eVlYQ2RUQnlRWXhHYXhmTFZIcjZrN3VaNDBfVnY4VTBieDE3ZzBRU3lONFMwdm5fZUQ3ZGxvbDVERndaQ0tvWS1Ra1VCa0JKMGhjeHlFVkNjWUVWR1dpVGowYmdFZi04UGkzd0JiTWxUdFpBUnM0cVF2Q0g1Q29YZFBlZGZ2RlBVWTI3TC1Lc2Y2bXBXWVRHMkNEVm1wRldWWU9XUld6Yy1wREwzbmdnXzhubnVTZmxEMVJyOVBZeXJabkxWZDQ5ZlRTa0FiMkVLajBDYk9RLV9SNUIyX0pldWdadU1GIiwiaWQiOiJmY18xIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Ice cream",
+      "link": "https://en.wikipedia.org/wiki/Ice_cream",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Ice_cream&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4QFnoECFcQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Ice_cream",
+      "thumbnail": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/d33a1edd493aed588a411041d98568f71443163ba426a948b4d2a10f2c7f6d6c.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/d33a1edd493aed588a411041d98568f7dfbaaf2925b0fcaefa2abd0be18538b6.webp",
+      "snippet": "Ice cream is a frozen dessert typically made from milk or cream that has been flavoured with a sweetener, either sugar or an alternative, and a spice, ...",
+      "snippet_highlighted_words": [
+        "Ice cream"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "List of ice cream flavors",
+            "link": "https://en.wikipedia.org/wiki/List_of_ice_cream_flavors"
+          },
+          {
+            "title": "List of ice cream brands",
+            "link": "https://en.wikipedia.org/wiki/List_of_ice_cream_brands"
+          },
+          {
+            "title": "List of ice cream varieties by...",
+            "link": "https://en.wikipedia.org/wiki/List_of_ice_cream_varieties_by_country"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Jeni's Ice Creams",
+      "link": "https://jenis.com/?srsltid=AfmBOop_Aqo3zFNDMMe8njFx2UleTsUEgb2wChBfUbmhxHfb1wRADPwj",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jenis.com/%3Fsrsltid%3DAfmBOop_Aqo3zFNDMMe8njFx2UleTsUEgb2wChBfUbmhxHfb1wRADPwj&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4QFnoECFYQAQ",
+      "displayed_link": "https://jenis.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTO96TMbEOTsz7SMVzQbQVkujtGawDsaYW_2-gystIa8g0hXigDQet&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/d33a1edd493aed588a411041d98568f7492a6664297822cb7ce5b4e316ed14d4.webp",
+      "snippet": "Jeni's Ice Creams are made for ice cream lovers. Order ice cream online, send a gift delivery nationwide, visit a scoop shop or find our ice cream in a ...",
+      "snippet_highlighted_words": [
+        "Ice Creams",
+        "ice cream",
+        "ice cream",
+        "ice cream"
+      ],
+      "source": "Jeni's Ice Creams"
+    },
+    {
+      "position": 3,
+      "title": "Graeter's Ice Cream - Ice Cream Delivery & Gifts",
+      "link": "https://www.graeters.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.graeters.com/&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4QFnoECFUQAQ",
+      "displayed_link": "https://www.graeters.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqKimhckSBb_oN8XnzvNpvTffXmhDL34A6qqLM8S2jiJggKgHa8oyh&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/d33a1edd493aed588a411041d98568f7c9d678d845c97a53dddbeb153568ea13.webp",
+      "snippet": "Denser and Creamier: Discover Our French Pot Ice Cream Shipped anywhere in the US and guaranteed to arrive frozen. Shop All Flavors",
+      "snippet_highlighted_words": [
+        "Ice Cream"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Create Your Own Gift Pack",
+            "link": "https://www.graeters.com/shop-online/create-your-own-pack"
+          },
+          {
+            "title": "Where To Find Us",
+            "link": "https://www.graeters.com/where-to-find-us"
+          },
+          {
+            "title": "Graeter's Locations",
+            "link": "https://www.graeters.com/neighborhood-locations"
+          },
+          {
+            "title": "Graeter's",
+            "link": "https://order.graeters.com/"
+          }
+        ]
+      },
+      "source": "Graeter\u2019s Ice Cream"
+    },
+    {
+      "position": 4,
+      "title": "Van Leeuwen Ice Cream",
+      "link": "https://vanleeuwenicecream.com/product-category/van-leeuwen-ice-cream/classic-ice-cream/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://vanleeuwenicecream.com/product-category/van-leeuwen-ice-cream/classic-ice-cream/&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4QFnoECFEQAQ",
+      "displayed_link": "https://vanleeuwenicecream.com \u203a Ice Cream",
+      "favicon": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/d33a1edd493aed588a411041d98568f7d5c5018eeb434ddd4769ea6f395facca.webp",
+      "snippet": "Ice Cream \u00b7 Showing all 21 results \u00b7 Pumpkin Cheesecake \u00b7 Malted Cookie Dough Shake \u00b7 Peanut Butter Brownie Honeycomb \u00b7 Lemon Poppy Seed Muffin \u00b7 Buttermilk ...",
+      "snippet_highlighted_words": [
+        "Ice Cream"
+      ],
+      "source": "Van Leeuwen Ice Cream"
+    },
+    {
+      "position": 5,
+      "title": "Homemade Vanilla Ice Cream Recipe",
+      "link": "https://www.loveandlemons.com/homemade-ice-cream-recipe/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.loveandlemons.com/homemade-ice-cream-recipe/&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4QFnoFCIEBEAE",
+      "displayed_link": "https://www.loveandlemons.com \u203a Recipes",
+      "favicon": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/d33a1edd493aed588a411041d98568f7c225fdf6792c1edbc4086376c4068c77.webp",
+      "snippet": "Instructions \u00b7 In a medium saucepan, combine the cream, milk, sugar, vanilla, and salt. \u00b7 Pour into a heatproof bowl, cover, and chill for 2 hours or overnight.",
+      "snippet_highlighted_words": [
+        "cream"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Vegan Ice Cream",
+            "link": "https://www.loveandlemons.com/vegan-ice-cream/"
+          },
+          {
+            "title": "Homemade Hazelnut Milk Latte",
+            "link": "https://www.loveandlemons.com/homemade-vanilla-hazelnut-milk-latte/"
+          },
+          {
+            "title": "Strawberry Compote",
+            "link": "https://www.loveandlemons.com/strawberry-compote/"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "hr_min": 2
+          },
+          "extensions": [
+            "5.0(99)",
+            "2 hr 30 min"
+          ]
+        }
+      },
+      "source": "Love and Lemons"
+    },
+    {
+      "position": 6,
+      "title": "BLACKPINK - 'Ice Cream (with Selena Gomez)' M/V",
+      "link": "https://www.youtube.com/watch?v=vRXZj0DzXIA",
+      "displayed_link": "927.1M+ views \u00b7 4 years ago",
+      "thumbnail": "https://i.ytimg.com/vi/vRXZj0DzXIA/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3lE3twLl9_d-17KsNgcRXG3a09kig",
+      "favicon": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/d33a1edd493aed588a411041d98568f71612eee994f962c70adf29ff1265548f.png",
+      "snippet": "BLACKPINK - Ice Cream (with Selena Gomez) Come a little closer cause you looking thirsty Imma make it better sip it like a Slurpee Snow cone ...",
+      "duration": "3:03",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSUHc-xkuL5e-rE2o2IAiPO2UUzv-HhJPJUHg",
+      "source": "YouTube \u00b7 BLACKPINK"
+    },
+    {
+      "position": 7,
+      "title": "Ben & Jerry's: Home",
+      "link": "https://www.benjerry.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.benjerry.com/&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4QFnoECFAQAQ",
+      "displayed_link": "https://www.benjerry.com",
+      "favicon": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/d33a1edd493aed588a411041d98568f786318f28854ccb97aefad8684346c180.webp",
+      "snippet": "Official site for Ben & Jerry's super premium ice cream, frozen yogurt, sorbet, and non-dairy. Peace, Love, & Ice Cream.",
+      "snippet_highlighted_words": [
+        "ice cream",
+        "Ice Cream"
+      ],
+      "source": "Ben & Jerry\u2019s"
+    },
+    {
+      "position": 8,
+      "title": "MUSEUM OF ICE CREAM",
+      "link": "https://www.museumoficecream.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.museumoficecream.com/&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4QFnoECFIQAQ",
+      "displayed_link": "https://www.museumoficecream.com",
+      "favicon": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/d33a1edd493aed588a411041d98568f79f7338885bdc6a404e95ed4f33ee4d7e.webp",
+      "snippet": "Unlimited Ice Cream and Unlimited Play! Experience our world famous ice cream attraction and rediscover the kid in you!",
+      "snippet_highlighted_words": [
+        "Ice Cream",
+        "ice cream"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Miami",
+            "link": "https://www.museumoficecream.com/miami/"
+          },
+          {
+            "title": "About",
+            "link": "https://www.museumoficecream.com/about/"
+          },
+          {
+            "title": "College of Ice Cream",
+            "link": "https://www.museumoficecream.com/blog-categories/college-of-ice-cream/"
+          },
+          {
+            "title": "Celebrate National Ice Cream",
+            "link": "https://www.museumoficecream.com/blog/celebrate-national-ice-cream-day-at-moic-new-york/"
+          }
+        ]
+      },
+      "source": "MUSEUM OF ICE CREAM"
+    },
+    {
+      "position": 9,
+      "title": "Welcome to the Home of Ice Cream | IceCream.com",
+      "link": "https://www.icecream.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.icecream.com/&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4QFnoECFMQAQ",
+      "displayed_link": "https://www.icecream.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQspP7wu9Sxc5-cUVk1p4V48M5b0kZNauhtZInr-UmjYfYem2pWi3oE&usqp=CAE&s",
+      "snippet": "The best ice cream brands. All your faves, all in one place. Get the scoop! Find your new fave flavor. Take the quiz to see which flavor you're feeling.",
+      "snippet_highlighted_words": [
+        "ice cream"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "History",
+            "link": "https://www.icecream.com/us/en/experience-ice-cream/history"
+          },
+          {
+            "title": "Ice Cream Bars",
+            "link": "https://www.icecream.com/us/en/experience-ice-cream/our-products/ice-cream-bars"
+          },
+          {
+            "title": "Scoopable Ice Cream",
+            "link": "https://www.icecream.com/us/en/experience-ice-cream/our-products/scoopable-ice-cream"
+          },
+          {
+            "title": "Ice Cream Cones",
+            "link": "https://www.icecream.com/us/en/experience-ice-cream/our-products/ice-cream-cones"
+          }
+        ]
+      },
+      "source": "IceCream.com"
+    },
+    {
+      "position": 10,
+      "title": "Amy's Ice Creams | The Best Ice Cream Lives In Texas",
+      "link": "https://amysicecreams.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://amysicecreams.com/&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4QFnoECFQQAQ",
+      "displayed_link": "https://amysicecreams.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhCCBv-EwaJ0rDspQWngpYxxYmbh7l0MshxLcrES-YmwMtaR9Uafgb&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/d33a1edd493aed588a411041d98568f7a1aaca297354daa3af362879903cfe08.webp",
+      "snippet": "It all began with our famous Mexican Vanilla ice cream. Now we're serving up over 350 constantly-rotating flavors to kick off your next ice cream adventure.",
+      "snippet_highlighted_words": [
+        "ice cream",
+        "ice cream"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Locations",
+            "link": "https://amysicecreams.com/locations/"
+          },
+          {
+            "title": "Ice Cream & More",
+            "link": "https://amysicecreams.com/ice-cream-more/"
+          },
+          {
+            "title": "Ice Cream Cakes",
+            "link": "https://amysicecreams.com/ice-cream-more/ice-cream-cakes/"
+          },
+          {
+            "title": "Flavor List",
+            "link": "https://amysicecreams.com/flavors/"
+          }
+        ]
+      },
+      "source": "Amy's Ice Creams"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&tbs=lf:1,lf_ui:9&tbm=lcl&q=ice+cream&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4QjGp6BAhHEAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ice+cream&tbs=lf%3A1%2Clf_ui%3A9&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Ice cream near me",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Ice+cream+near+me&sa=X&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Q1QJ6BAh-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Ice+cream+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Ice cream flavors",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Ice+cream+flavors&sa=X&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Q1QJ6BAh9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Ice+cream+flavors"
+    },
+    {
+      "block_position": 1,
+      "query": "Ice cream recipe",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Ice+cream+recipe&sa=X&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Q1QJ6BAh8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Ice+cream+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Ice Cream Walmart",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Ice+Cream+Walmart&sa=X&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Q1QJ6BAh7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Ice+Cream+Walmart"
+    },
+    {
+      "block_position": 1,
+      "query": "Ice cream drawing",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Ice+cream+drawing&sa=X&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Q1QJ6BAh5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Ice+cream+drawing"
+    },
+    {
+      "block_position": 1,
+      "query": "Ice cream cake",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Ice+cream+cake&sa=X&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Q1QJ6BAh4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Ice+cream+cake"
+    },
+    {
+      "block_position": 1,
+      "query": "Ice cream brand",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Ice+cream+brand&sa=X&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Q1QJ6BAh6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Ice+cream+brand"
+    },
+    {
+      "block_position": 1,
+      "query": "Ice cream recall 2024",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Ice+cream+recall+2024&sa=X&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Q1QJ6BAh_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Ice+cream+recall+2024"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Types",
+        "subtitle": "Types Of Ice Cream",
+        "title": "An Illustrated Tour of Ice Cream Styles Around the World - Serious Eats",
+        "link": "https://www.seriouseats.com/ice-cream-style-guide",
+        "displayed_link": "https://www.seriouseats.com \u203a ice-cream-style-guide",
+        "snippet": "An Illustrated Tour of Ice Cream Styles Around the World",
+        "snippet_highlighted_words": [
+          "An Illustrated Tour of Ice Cream Styles Around the World"
+        ],
+        "list": [
+          "Hard Custard Ice Cream.",
+          "Gelato.",
+          "New England Ice Cream.",
+          "Philadelphia Ice Cream.",
+          "Midwestern Frozen Custard.",
+          "Frozen Yogurt.",
+          "Sorbet.",
+          "Italian Ice."
+        ],
+        "favicon": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/b03d3a438fe2eebd4b09260f518dd5cd5545bac0770d65421469b13317a5f5c24cd0b471dbe1602f.png",
+        "source": "seriouseats.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Ub5mstCaLpFc3aA9NETvVEy3K43EflDAGEBH8DEmfD0&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=types+of+ice+cream&sa=X&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4QrooIegQIWBAI",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=types+of+ice+cream"
+      },
+      {
+        "text": "List",
+        "subtitle": "List Of Ice Creams",
+        "title": "List of ice cream flavors - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/List_of_ice_cream_flavors",
+        "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a List_of_ice_cream_flavors",
+        "list": [
+          "Sweets.",
+          "Blue Moon.",
+          "Butterscotch in cone.",
+          "Butter pecan caramel.",
+          "Chocolate.",
+          "Chocolate chip cookie dough.",
+          "Coconut.",
+          "Cookies and cream."
+        ],
+        "favicon": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/b03d3a438fe2eebd4b09260f518dd5cdb6894e439fcdccce4c006d7ef164790ed757b063b8189509.png",
+        "source": "wikipedia.org",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=list+of+ice+creams&sa=X&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4QrooIegQIWBAN",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=list+of+ice+creams"
+      },
+      {
+        "text": "Ingredients",
+        "subtitle": "Ice Cream Ingredients",
+        "title": "Ice cream - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Ice_cream#:~:text=Ice%20cream%20is%20a%20frozen,added%20in%20addition%20to%20stabilizers.",
+        "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Ice_cream",
+        "snippet": "Ice cream is a frozen dessert typically made from milk or cream that has been flavoured with a sweetener, either sugar or an alternative, and a spice, such as cocoa or vanilla, or with fruit, such as strawberries or peaches. Food colouring is sometimes added in addition to stabilizers.",
+        "snippet_highlighted_words": [
+          "milk or cream that has been flavoured with a sweetener, either sugar or an alternative, and a spice, such as cocoa or vanilla, or with fruit, such as strawberries or peaches"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/b03d3a438fe2eebd4b09260f518dd5cdd31aa50cc216f2a8fe6dff4449295552b49acd45391822c9.png",
+        "source": "wikipedia.org",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6J_jFYPkyaaTHXCHvJo3FnVLyZC5V4KgGuyQR0tMCaQo&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=ice+cream+ingredients&sa=X&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4QrooIegQIWBAV",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ice+cream+ingredients"
+      },
+      {
+        "text": "Brands",
+        "subtitle": "Ice Cream Brands",
+        "title": "Your Favorite Grocery Store Ice Cream Isn't Actually Ice Cream",
+        "link": "https://www.allrecipes.com/grocery-store-ice-cream-vs-frozen-dairy-dessert-7487887#:~:text=Formidable%20brands%20like%20Ben%20%26%20Jerry's,all%20considered%20real%20ice%20cream.",
+        "displayed_link": "https://www.allrecipes.com \u203a grocery-store-ice-cream-vs-f...",
+        "date": "May 19, 2023",
+        "snippet": "Formidable brands like Ben & Jerry's, Jeni's, or even Haagen-Dazs are all considered real ice cream.",
+        "snippet_highlighted_words": [
+          "Ben & Jerry's, Jeni's, or even Haagen-Dazs"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2f4c39e232b9eb3967bd/images/b03d3a438fe2eebd4b09260f518dd5cdc916c06a3c6c7da48a79b3c24ba307e62d561a560a7726a4.png",
+        "source": "allrecipes.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=ice+cream+brands&sa=X&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4QrooIegQIWBAa",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ice+cream+brands"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=ice+cream&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=TS8KZ-yUJbHFp84PwJiZ8Ac&start=10&sa=N&sstk=AagrsuijC2H7KJ4xVbt0F7-89pH_m9PiOh5DFUxGGcJumWiLYHeYOv7LIJohKRZhjcO1Nx01WGSVmF7Hy6awv3s2WZq4G1mGb5SmKQ&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Q8NMDegQIEhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=ice+cream&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=TS8KZ-yUJbHFp84PwJiZ8Ac&start=10&sa=N&sstk=AagrsuijC2H7KJ4xVbt0F7-89pH_m9PiOh5DFUxGGcJumWiLYHeYOv7LIJohKRZhjcO1Nx01WGSVmF7Hy6awv3s2WZq4G1mGb5SmKQ&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Q8tMDegQIEhAE",
+      "3": "https://www.google.com/search?q=ice+cream&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=TS8KZ-yUJbHFp84PwJiZ8Ac&start=20&sa=N&sstk=AagrsuijC2H7KJ4xVbt0F7-89pH_m9PiOh5DFUxGGcJumWiLYHeYOv7LIJohKRZhjcO1Nx01WGSVmF7Hy6awv3s2WZq4G1mGb5SmKQ&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Q8tMDegQIEhAG",
+      "4": "https://www.google.com/search?q=ice+cream&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=TS8KZ-yUJbHFp84PwJiZ8Ac&start=30&sa=N&sstk=AagrsuijC2H7KJ4xVbt0F7-89pH_m9PiOh5DFUxGGcJumWiLYHeYOv7LIJohKRZhjcO1Nx01WGSVmF7Hy6awv3s2WZq4G1mGb5SmKQ&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Q8tMDegQIEhAI",
+      "5": "https://www.google.com/search?q=ice+cream&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=TS8KZ-yUJbHFp84PwJiZ8Ac&start=40&sa=N&sstk=AagrsuijC2H7KJ4xVbt0F7-89pH_m9PiOh5DFUxGGcJumWiLYHeYOv7LIJohKRZhjcO1Nx01WGSVmF7Hy6awv3s2WZq4G1mGb5SmKQ&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Q8tMDegQIEhAK",
+      "6": "https://www.google.com/search?q=ice+cream&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=TS8KZ-yUJbHFp84PwJiZ8Ac&start=50&sa=N&sstk=AagrsuijC2H7KJ4xVbt0F7-89pH_m9PiOh5DFUxGGcJumWiLYHeYOv7LIJohKRZhjcO1Nx01WGSVmF7Hy6awv3s2WZq4G1mGb5SmKQ&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Q8tMDegQIEhAM",
+      "7": "https://www.google.com/search?q=ice+cream&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=TS8KZ-yUJbHFp84PwJiZ8Ac&start=60&sa=N&sstk=AagrsuijC2H7KJ4xVbt0F7-89pH_m9PiOh5DFUxGGcJumWiLYHeYOv7LIJohKRZhjcO1Nx01WGSVmF7Hy6awv3s2WZq4G1mGb5SmKQ&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Q8tMDegQIEhAO",
+      "8": "https://www.google.com/search?q=ice+cream&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=TS8KZ-yUJbHFp84PwJiZ8Ac&start=70&sa=N&sstk=AagrsuijC2H7KJ4xVbt0F7-89pH_m9PiOh5DFUxGGcJumWiLYHeYOv7LIJohKRZhjcO1Nx01WGSVmF7Hy6awv3s2WZq4G1mGb5SmKQ&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Q8tMDegQIEhAQ",
+      "9": "https://www.google.com/search?q=ice+cream&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=TS8KZ-yUJbHFp84PwJiZ8Ac&start=80&sa=N&sstk=AagrsuijC2H7KJ4xVbt0F7-89pH_m9PiOh5DFUxGGcJumWiLYHeYOv7LIJohKRZhjcO1Nx01WGSVmF7Hy6awv3s2WZq4G1mGb5SmKQ&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Q8tMDegQIEhAS",
+      "10": "https://www.google.com/search?q=ice+cream&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=TS8KZ-yUJbHFp84PwJiZ8Ac&start=90&sa=N&sstk=AagrsuijC2H7KJ4xVbt0F7-89pH_m9PiOh5DFUxGGcJumWiLYHeYOv7LIJohKRZhjcO1Nx01WGSVmF7Hy6awv3s2WZq4G1mGb5SmKQ&ved=2ahUKEwis76fCsoiJAxWx4skDHUBMBn4Q8tMDegQIEhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ice+cream&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ice+cream&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ice+cream&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ice+cream&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ice+cream&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ice+cream&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ice+cream&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ice+cream&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ice+cream&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ice+cream&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ice+cream&start=90"
+    }
+  }
+}

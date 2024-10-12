@@ -1,0 +1,721 @@
+{
+  "search_metadata": {
+    "id": "670a2fcdb2ebaeffe951fc38",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9bf7b3ecfe237c6a/670a2fcdb2ebaeffe951fc38.json",
+    "created_at": "2024-10-12 08:14:05 UTC",
+    "processed_at": "2024-10-12 08:14:05 UTC",
+    "google_url": "https://www.google.com/search?q=burrito&oq=burrito&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/9bf7b3ecfe237c6a/670a2fcdb2ebaeffe951fc38.html",
+    "total_time_taken": 2.64
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "burrito",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "burrito",
+    "total_results": 187000000,
+    "time_taken_displayed": 0.33,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=burrito&npsic=0&rflfq=1&rldoc=1&rllag=30279366,-97742676,1825&tbm=lcl&sa=X&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQtgN6BAhCEAI",
+    "image": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/d8952c0fbf0332daf17a158f6d5b48c9.png",
+    "gps_coordinates": {
+      "latitude": 30.279366,
+      "longitude": -97.742676
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.7,
+        "reviews_original": "(231)",
+        "reviews": 231,
+        "description": "\"perfectly spicy (actual mexican heat) and great sauces and portions\"",
+        "lsig": "AB86z5V9pwC3a-kOBB4v5yGufPk4",
+        "thumbnail": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/402bdf26f314ecb44b1eb257c45f7dfb5e7a257bb5992b33b52bac38b4333d04cad8b337e25794b9.jpeg",
+        "title": "Burrito Factory",
+        "type": "Mexican",
+        "address": "2025 Guadalupe St # 244",
+        "hours": "Closed \u22c5 Opens 11 AM Mon",
+        "place_id": "18171463510109083474",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=18171463510109083474&q=burrito",
+        "gps_coordinates": {
+          "latitude": 30.283598,
+          "longitude": -97.7409
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.5,
+        "reviews_original": "(2.8K)",
+        "reviews": 2800,
+        "description": "\"Delicious burrito, very tasty especialy with their sauces - red and green.\"",
+        "lsig": "AB86z5XMi8DVdpBfeQK5UsBUrshd",
+        "thumbnail": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/402bdf26f314ecb44b1eb257c45f7dfbf33c8ac0b255a88be2ae98f7f028970d3971b54c08aec8f5.jpeg",
+        "title": "Veracruz All Natural",
+        "type": "Mexican",
+        "address": "111 E Cesar Chavez St",
+        "hours": "Closed \u22c5 Opens 7 AM",
+        "place_id": "8510171859437144938",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=8510171859437144938&q=burrito",
+        "gps_coordinates": {
+          "latitude": 30.263031,
+          "longitude": -97.74448
+        }
+      },
+      {
+        "position": 3,
+        "rating": 4.7,
+        "reviews_original": "(1.6K)",
+        "reviews": 1600,
+        "description": "\"The burritos were huge, a very fair price, and so delicious.\"",
+        "lsig": "AB86z5XahQvH0VSUZX97p19KHv3i",
+        "thumbnail": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/402bdf26f314ecb44b1eb257c45f7dfb1747c448d4e8a84356e50a05f43e02b900e01747f2008c78.jpeg",
+        "title": "Cabo Bob's Burritos",
+        "type": "Burritos",
+        "address": "2828 Rio Grande St",
+        "hours": "Closed \u22c5 Opens 10:30 AM",
+        "place_id": "4905714903611082620",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=4905714903611082620&q=burrito",
+        "gps_coordinates": {
+          "latitude": 30.295763,
+          "longitude": -97.74421
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=burrito&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQjGp6BAhDEAE"
+  },
+  "knowledge_graph": {
+    "title": "Burrito",
+    "type": "Food",
+    "entity_type": "food, foods_and_dishes",
+    "kgmid": "/m/01j3zr",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/01j3zr&hl=en-US&q=Burrito",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F01j3zr&location=Austin%2CTexas%2CUnited+States&q=Burrito",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/663ff9c39395bc7665d158ab67c41ed1eccb97e6d48bccf1e24d43a62ddd6dcc29aff3f3d258ebd4.jpeg",
+        "source": "https://en.wikipedia.org/wiki/Burrito"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/663ff9c39395bc7665d158ab67c41ed1eccb97e6d48bccf129f36eeeef32ddbac529bb0362848b0a.jpeg",
+        "source": "https://www.espressomykitchen.com/the-ultimate-california-burrito/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/663ff9c39395bc7665d158ab67c41ed1eccb97e6d48bccf1305dbb42a1d39196ca38db28bbfe7b11.jpeg",
+        "source": "https://themodernproper.com/breakfast-burritos"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/663ff9c39395bc7665d158ab67c41ed1eccb97e6d48bccf100c6925bdc4ccd13b303f23f3dd62dc3.jpeg",
+        "source": "https://inkristaskitchen.com/california-burrito-recipe-with-carne-asada/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/663ff9c39395bc7665d158ab67c41ed1eccb97e6d48bccf137824996c124d2f6a533e6710095cc0d.jpeg",
+        "source": "https://thegirlonbloor.com/pulled-chicken-burrito-recipe/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/663ff9c39395bc7665d158ab67c41ed1eccb97e6d48bccf14f1153bbf2f9321bbbc7f163ea2be7e2.jpeg",
+        "source": "https://www.giallozafferano.com/recipes/Burrito.html"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4yoLFBkXF7XloA53o0WndKQfywIcU1gm6Rd59qSqwNg&s",
+        "source": "https://m.youtube.com/watch?v=krkf7ObsTM4"
+      }
+    ],
+    "description": "A burrito in Mexico is, historically, a regional name, among others, for what is known as a taco, a tortilla filled with food, in other parts of the country.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Burrito"
+    },
+    "origins": "Mexico, Texas",
+    "origins_links": [
+      {
+        "text": "Mexico",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Mexico&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-Lyw1Mwg6vKK0M7N5M1qFqntgJMUWgAQKynBbLhXVxg9kDCgAUIAL_2MHXwUtCn1AOLhVyXntQamJHE0OvLPB6MwPt7QzD0ebjgjSdYWzwGAMsfi0mGy15yOyrkcbRVU5MPiVbQbzTCjSULK4RDcmCVejpTZeXbKRMjmAPS7eRkFy2-SJgqg1Su3iLKUOVbPq3VZGb1SjDAP2KiltxmLVaJ9H39nTFP6TUofiAo_GNbd6537oHg%3D%3D&sa=X&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQmxMoAHoECDIQAg"
+      },
+      {
+        "text": "Texas",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Texas&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm38L-KX57-fRgneGIoLAIYzNfGCEc5hCG8BzwJ0tI4uX7xtDi73j6Ned2oTigafW7D1n8sZNHqsolNjGq-StknqfTme0g28MwZgrt_XJYxgbx8ujjYB0STGWWSkmrwupWl5mOsvmegZ4oljONU_Y1wUy8LyqZTlwtOVBIHpYk8NJu_lPJp9b7OZuQeXdIdmajUlG_t_eAOFclL734Em-F5gRa38I&sa=X&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQmxMoAXoECDIQAw"
+      }
+    ],
+    "type_of_dish": "Convenience food",
+    "type_of_dish_links": [
+      {
+        "text": "Convenience food",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Convenience+food&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L4XykZpXauFJDlTPmqceLIbUUsq-JP2JOPianYj-NwHwv0w3oKdHlw9gqhlr2LT32TJmyj5Rfry9pWlILQLaPUFmAPkDuxWilX4aoLcCAVgvMmBx0EEML1rbWnz8qhh67xEqw1IJVxGtNvUzk_GbyH3r2PvNSlh_5qH6eZuiJO7jQ6NZig%3D%3D&sa=X&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQmxMoAHoECDQQAg"
+      }
+    ],
+    "sources_include": "USDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDABurrito, with beans447 Calories - 2 pieces (217 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/172038/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173278/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/172063/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170734/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170735/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170334/nutrients"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "13 g",
+        "20%"
+      ],
+      "cholesterol": [
+        "4 mg",
+        "1%"
+      ],
+      "sodium": [
+        "985 mg",
+        "41%"
+      ],
+      "potassium": [
+        "653 mg",
+        "18%"
+      ],
+      "total_carbohydrate": [
+        "71 g",
+        "23%"
+      ],
+      "protein": [
+        "14 g",
+        "28%"
+      ]
+    }
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=burrito&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=M5Q7O0HR6BugZM%252Ch5QuvLyJt02j7M%252C%252Fm%252F01j3zr%253BjsuW3lqiaS8qmM%252CpbLHInNAfUltmM%252C_%253B7HNsBIMYL4It7M%252CfSS0pOkv3Ar9pM%252C_%253BOi5HBDnxHtFbCM%252Ck1SsyhCCsr-coM%252C_%253Bc0asVGkJVefi_M%252CxUfjlxv3ITodHM%252C_%253BFOnZGyrfHrj4lM%252C9t9FyPllIgNpcM%252C_%253BtX8NyFCJuGVRWM%252CE7jAasvCXlpHSM%252C_&usg=AI4_-kQfPOd8JlHeuiqui6V9qYRLwc6fCA&sa=X&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQ_B16BAg6EAE#vhid=M5Q7O0HR6BugZM&vssid=mosaic",
+      "source": "https://en.wikipedia.org/wiki/Burrito",
+      "thumbnail": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/0e41b024b6792ac812990ec5edad5121ac338dd8fd0747fba465419df650de12.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Burrito.JPG/800px-Burrito.JPG",
+      "title": "upload.wikimedia.org/wikipedia/commons/thumb/6/60/...",
+      "source_name": "en.wikipedia.org"
+    },
+    {
+      "link": "https://www.google.com/search?q=burrito&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=M5Q7O0HR6BugZM%252Ch5QuvLyJt02j7M%252C_%253BjsuW3lqiaS8qmM%252CpbLHInNAfUltmM%252C_%253B7HNsBIMYL4It7M%252CfSS0pOkv3Ar9pM%252C_%253BOi5HBDnxHtFbCM%252Ck1SsyhCCsr-coM%252C_%253Bc0asVGkJVefi_M%252CxUfjlxv3ITodHM%252C_%253BFOnZGyrfHrj4lM%252C9t9FyPllIgNpcM%252C_%253BtX8NyFCJuGVRWM%252CE7jAasvCXlpHSM%252C_&usg=AI4_-kTjXth2IUgHiazCOb6VxMWIE5MqlA&sa=X&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQ_h16BAg8EAE#vhid=jsuW3lqiaS8qmM&vssid=mosaic",
+      "source": "https://www.espressomykitchen.com/the-ultimate-california-burrito/",
+      "thumbnail": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/0e41b024b6792ac84e893503495a3341b3d87818b92ae2bde849f7ee7ff42f8f.jpeg",
+      "original": "https://www.espressomykitchen.com/wp-content/uploads/2024/04/EMK-The-Ultimate-California-Burrito-hero.jpg",
+      "title": "The Ultimate California Burrito",
+      "source_name": "Espresso My Kitchen"
+    },
+    {
+      "link": "https://www.google.com/search?q=burrito&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=M5Q7O0HR6BugZM%252Ch5QuvLyJt02j7M%252C_%253BjsuW3lqiaS8qmM%252CpbLHInNAfUltmM%252C_%253B7HNsBIMYL4It7M%252CfSS0pOkv3Ar9pM%252C_%253BOi5HBDnxHtFbCM%252Ck1SsyhCCsr-coM%252C_%253Bc0asVGkJVefi_M%252CxUfjlxv3ITodHM%252C_%253BFOnZGyrfHrj4lM%252C9t9FyPllIgNpcM%252C_%253BtX8NyFCJuGVRWM%252CE7jAasvCXlpHSM%252C_&usg=AI4_-kTjXth2IUgHiazCOb6VxMWIE5MqlA&sa=X&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQ_h16BAg5EAE#vhid=7HNsBIMYL4It7M&vssid=mosaic",
+      "source": "https://themodernproper.com/breakfast-burritos",
+      "thumbnail": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/0e41b024b6792ac884a8a8d56201a28468e679c218f95e8056d27e949de21306.jpeg",
+      "original": "https://images.themodernproper.com/billowy-turkey/production/posts/BreakfastBurritos_13.jpg?w=960&h=960&q=82&fm=jpg&fit=crop&dm=1712004278&s=15ce88d19cb29ec2e19fcf2e7556af05",
+      "title": "Homemade Breakfast Burrito Recipe",
+      "source_name": "The Modern Proper"
+    },
+    {
+      "link": "https://www.google.com/search?q=burrito&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=M5Q7O0HR6BugZM%252Ch5QuvLyJt02j7M%252C_%253BjsuW3lqiaS8qmM%252CpbLHInNAfUltmM%252C_%253B7HNsBIMYL4It7M%252CfSS0pOkv3Ar9pM%252C_%253BOi5HBDnxHtFbCM%252Ck1SsyhCCsr-coM%252C_%253Bc0asVGkJVefi_M%252CxUfjlxv3ITodHM%252C_%253BFOnZGyrfHrj4lM%252C9t9FyPllIgNpcM%252C_%253BtX8NyFCJuGVRWM%252CE7jAasvCXlpHSM%252C_&usg=AI4_-kTjXth2IUgHiazCOb6VxMWIE5MqlA&sa=X&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQ_h16BAg4EAE#vhid=Oi5HBDnxHtFbCM&vssid=mosaic",
+      "source": "https://inkristaskitchen.com/california-burrito-recipe-with-carne-asada/",
+      "thumbnail": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/0e41b024b6792ac8e6ddcb7fd693156ee3bb1bb0cf67a832415ca2fba1b12ce9.jpeg",
+      "original": "https://inkristaskitchen.com/wp-content/uploads/2022/04/california-burritos-comp-15-1.jpg",
+      "title": "California Burrito Recipe {with Carne Asada}",
+      "source_name": "In Krista's Kitchen"
+    },
+    {
+      "link": "https://www.google.com/search?q=burrito&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=M5Q7O0HR6BugZM%252Ch5QuvLyJt02j7M%252C_%253BjsuW3lqiaS8qmM%252CpbLHInNAfUltmM%252C_%253B7HNsBIMYL4It7M%252CfSS0pOkv3Ar9pM%252C_%253BOi5HBDnxHtFbCM%252Ck1SsyhCCsr-coM%252C_%253Bc0asVGkJVefi_M%252CxUfjlxv3ITodHM%252C_%253BFOnZGyrfHrj4lM%252C9t9FyPllIgNpcM%252C_%253BtX8NyFCJuGVRWM%252CE7jAasvCXlpHSM%252C_&usg=AI4_-kTjXth2IUgHiazCOb6VxMWIE5MqlA&sa=X&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQ_h16BAg3EAE#vhid=c0asVGkJVefi_M&vssid=mosaic",
+      "source": "https://thegirlonbloor.com/pulled-chicken-burrito-recipe/",
+      "thumbnail": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/0e41b024b6792ac8a3c1a571203152fbcadd508f3a7b3672e6d5b27cab9048aa.jpeg",
+      "original": "https://thegirlonbloor.com/wp-content/uploads/2015/03/Pulled-Chicken-Burrito-2.jpg",
+      "title": "Easy Chicken Burrito Recipe",
+      "source_name": "The Girl on Bloor"
+    },
+    {
+      "link": "https://www.google.com/search?q=burrito&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=M5Q7O0HR6BugZM%252Ch5QuvLyJt02j7M%252C_%253BjsuW3lqiaS8qmM%252CpbLHInNAfUltmM%252C_%253B7HNsBIMYL4It7M%252CfSS0pOkv3Ar9pM%252C_%253BOi5HBDnxHtFbCM%252Ck1SsyhCCsr-coM%252C_%253Bc0asVGkJVefi_M%252CxUfjlxv3ITodHM%252C_%253BFOnZGyrfHrj4lM%252C9t9FyPllIgNpcM%252C_%253BtX8NyFCJuGVRWM%252CE7jAasvCXlpHSM%252C_&usg=AI4_-kTjXth2IUgHiazCOb6VxMWIE5MqlA&sa=X&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQ_h16BAg7EAE#vhid=FOnZGyrfHrj4lM&vssid=mosaic",
+      "source": "https://www.giallozafferano.com/recipes/Burrito.html",
+      "thumbnail": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/0e41b024b6792ac89790752a496e5e56b064dea88f08f9bd2a8fdde4aa8e4d44.jpeg",
+      "original": "https://www.giallozafferano.com/images/274-27477/Burrito_1200x800.jpg",
+      "title": "Burrito",
+      "source_name": "Italian recipes by GialloZafferano"
+    },
+    {
+      "link": "https://www.google.com/search?q=burrito&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=M5Q7O0HR6BugZM%252Ch5QuvLyJt02j7M%252C_%253BjsuW3lqiaS8qmM%252CpbLHInNAfUltmM%252C_%253B7HNsBIMYL4It7M%252CfSS0pOkv3Ar9pM%252C_%253BOi5HBDnxHtFbCM%252Ck1SsyhCCsr-coM%252C_%253Bc0asVGkJVefi_M%252CxUfjlxv3ITodHM%252C_%253BFOnZGyrfHrj4lM%252C9t9FyPllIgNpcM%252C_%253BtX8NyFCJuGVRWM%252CE7jAasvCXlpHSM%252C_&usg=AI4_-kTjXth2IUgHiazCOb6VxMWIE5MqlA&sa=X&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQ_h16BAg2EAE#vhid=tX8NyFCJuGVRWM&vssid=mosaic",
+      "source": "https://m.youtube.com/watch?v=krkf7ObsTM4",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4yoLFBkXF7XloA53o0WndKQfywIcU1gm6Rd59qSqwNg&s",
+      "original": "https://i.ytimg.com/vi/krkf7ObsTM4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDDP9RiilGzrADFeqw9xMTFdpzpng",
+      "title": "Beef Burrito Recipe",
+      "source_name": "YouTube"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is typically in a burrito?",
+      "snippet": "Burritos are filled with savory ingredients, most often a meat such as beef, chicken, or pork, and often include other ingredients, such as rice, cooked beans (either whole or refried), vegetables, such as lettuce and tomatoes, cheese, and condiments such as salsa, pico de gallo, guacamole, or crema.",
+      "title": "Burrito - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Burrito#:~:text=Burritos%20are%20filled%20with%20savory,gallo%2C%20guacamole%2C%20or%20crema.",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Burrito",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSzyUmY8Y1FE88pU3td1SHUCjvGxLfGPWctvUn3yGbNQ&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T01tSkdUVUpZYlZkM1JqTXpRbm8wZUdrMGVsSnBVQzFLVFd3elN6VXdlWFZwYjNjMGNTMXlkVjlNV0RScFVUSlBXRWxJUW1kd2VraGlkekppY2t4WGRFOTFSak5oRWhkNmVUaExXbDk1VWtaUFpVaDNZbXRRYTI5TGRHbFJXUm9pUVVaWWNrVmpiMUpCUkcxM2JrbHpTWEpYUm1kSFZUazJWVzAyVkVWc1ExVm1RUSIsImZjdiI6IjMiLCJlaSI6Inp5OEtaX3lSRk9lSHdia1Brb0t0aVFZIiwicWMiOiJDZ2RpZFhKeWFYUnZFQUI5SVpVZFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHR5cGljYWxseSBpbiBhIGJ1cnJpdG8/IiwibGsiOiJHaDUzYUdGMElHbHpJSFI1Y0dsallXeHNlU0JwYmlCaElHSjFjbkpwZEc4IiwiYnMiOiJjLU55NDVJUHowZ3NVY2dzVmlpcExNaE1Uc3pKcVZUSXpGTklWRWdxTFNyS0xNbTNsMmlLTjFLUWtpdkhxNHJMakVzY2JFNUtmbW94VEZBaE56VXh6MTdpdXFtUmhKUllPVlpaTGhzdUtaajlNUEhpbk1TOGRJVzBfQ0o3aVlOOFJ0SlNrdVc0RkhEVmNGbkJYWi1ScXBDU21aYVdXcFNhbDV5cWtKUmFVcDZhaXVSQ2hjUzhGQ0JXQU1wbVpPWWtwaVRhU3l5TE1iS1dzaXduMXdBQlJnQSIsImlkIjoiZmNfenk4S1pfeVJGT2VId2JrUGtvS3RpUVlfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T01tSkdUVUpZYlZkM1JqTXpRbm8wZUdrMGVsSnBVQzFLVFd3elN6VXdlWFZwYjNjMGNTMXlkVjlNV0RScFVUSlBXRWxJUW1kd2VraGlkekppY2t4WGRFOTFSak5oRWhkNmVUaExXbDk1VWtaUFpVaDNZbXRRYTI5TGRHbFJXUm9pUVVaWWNrVmpiMUpCUkcxM2JrbHpTWEpYUm1kSFZUazJWVzAyVkVWc1ExVm1RUSIsImZjdiI6IjMiLCJlaSI6Inp5OEtaX3lSRk9lSHdia1Brb0t0aVFZIiwicWMiOiJDZ2RpZFhKeWFYUnZFQUI5SVpVZFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHR5cGljYWxseSBpbiBhIGJ1cnJpdG8%2FIiwibGsiOiJHaDUzYUdGMElHbHpJSFI1Y0dsallXeHNlU0JwYmlCaElHSjFjbkpwZEc4IiwiYnMiOiJjLU55NDVJUHowZ3NVY2dzVmlpcExNaE1Uc3pKcVZUSXpGTklWRWdxTFNyS0xNbTNsMmlLTjFLUWtpdkhxNHJMakVzY2JFNUtmbW94VEZBaE56VXh6MTdpdXFtUmhKUllPVlpaTGhzdUtaajlNUEhpbk1TOGRJVzBfQ0o3aVlOOFJ0SlNrdVc0RkhEVmNGbkJYWi1ScXBDU21aYVdXcFNhbDV5cWtKUmFVcDZhaXVSQ2hjUzhGQ0JXQU1wbVpPWWtwaVRhU3l5TE1iS1dzaXduMXdBQlJnQSIsImlkIjoiZmNfenk4S1pfeVJGT2VId2JrUGtvS3RpUVlfMSJ9"
+    },
+    {
+      "question": "What does burrito mean?",
+      "snippet": "bur\u00b7\u200bri\u00b7\u200bto b\u0259-\u02c8r\u0113t-\u014d plural burritos. : a flour tortilla rolled or folded around a filling (as of meat, beans, and cheese) Etymology. American Spanish burrito \"baked stuffed tortilla,\" from Spanish burrito, literally, \"little donkey\"",
+      "title": "Burrito Definition & Meaning - Merriam-Webster",
+      "date": "Oct 2, 2024",
+      "link": "https://www.merriam-webster.com/dictionary/burrito#:~:text=bur%C2%B7%E2%80%8Bri%C2%B7%E2%80%8Bto%20b%C9%99%2D%CB%88r%C4%93t%2D%C5%8D,%2C%20literally%2C%20%22little%20donkey%22",
+      "displayed_link": "https://www.merriam-webster.com \u203a dictionary \u203a burrito",
+      "source_logo": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/87db6259c0e3aeb70410f27340c468757d830b7fdbf3c18a362e5540a2a5aade.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T01tSkdUVUpZYlZkM1JqTXpRbm8wZUdrMGVsSnBVQzFLVFd3elN6VXdlWFZwYjNjMGNTMXlkVjlNV0RScFVUSlBXRWxJUW1kd2VraGlkekppY2t4WGRFOTFSak5oRWhkNmVUaExXbDk1VWtaUFpVaDNZbXRRYTI5TGRHbFJXUm9pUVVaWWNrVmpiMUpCUkcxM2JrbHpTWEpYUm1kSFZUazJWVzAyVkVWc1ExVm1RUSIsImZjdiI6IjMiLCJlaSI6Inp5OEtaX3lSRk9lSHdia1Brb0t0aVFZIiwicWMiOiJDZ2RpZFhKeWFYUnZFQUI5SVpVZFB3IiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgYnVycml0byBtZWFuPyIsImxrIjoiR2haM2FHRjBJR1J2WlhNZ1luVnljbWwwYnlCdFpXRnUiLCJicyI6ImMtTnk0NUlQejBnc1VjZ3NWaWlwTE1oTVRzekpxVlRJekZOSVZFZ3FMU3JLTE1tM2wyaUtOMUtRa2l2SHE0ckxqRXNjYkU1S2Ztb3hURkFoTnpVeHoxN2l1cW1SaEpSWU9WWlpMaHN1S1pqOU1QSGluTVM4ZElXMF9DSjdpWU44UnRKU2t1VzRGSERWY0ZuQlhaLVJxcENTbVphV1dwU2FsNXlxa0pSYVVwNmFpdVJDaGNTOEZDQldBTXBtWk9Za3BpVGFTeXlMTWJLV3Npd24xd0FCUmdBIiwiaWQiOiJmY196eThLWl95UkZPZUh3YmtQa29LdGlRWV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T01tSkdUVUpZYlZkM1JqTXpRbm8wZUdrMGVsSnBVQzFLVFd3elN6VXdlWFZwYjNjMGNTMXlkVjlNV0RScFVUSlBXRWxJUW1kd2VraGlkekppY2t4WGRFOTFSak5oRWhkNmVUaExXbDk1VWtaUFpVaDNZbXRRYTI5TGRHbFJXUm9pUVVaWWNrVmpiMUpCUkcxM2JrbHpTWEpYUm1kSFZUazJWVzAyVkVWc1ExVm1RUSIsImZjdiI6IjMiLCJlaSI6Inp5OEtaX3lSRk9lSHdia1Brb0t0aVFZIiwicWMiOiJDZ2RpZFhKeWFYUnZFQUI5SVpVZFB3IiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgYnVycml0byBtZWFuPyIsImxrIjoiR2haM2FHRjBJR1J2WlhNZ1luVnljbWwwYnlCdFpXRnUiLCJicyI6ImMtTnk0NUlQejBnc1VjZ3NWaWlwTE1oTVRzekpxVlRJekZOSVZFZ3FMU3JLTE1tM2wyaUtOMUtRa2l2SHE0ckxqRXNjYkU1S2Ztb3hURkFoTnpVeHoxN2l1cW1SaEpSWU9WWlpMaHN1S1pqOU1QSGluTVM4ZElXMF9DSjdpWU44UnRKU2t1VzRGSERWY0ZuQlhaLVJxcENTbVphV1dwU2FsNXlxa0pSYVVwNmFpdVJDaGNTOEZDQldBTXBtWk9Za3BpVGFTeXlMTWJLV3Npd24xd0FCUmdBIiwiaWQiOiJmY196eThLWl95UkZPZUh3YmtQa29LdGlRWV8xIn0%3D"
+    },
+    {
+      "question": "What is burrito slang for?",
+      "snippet": "Street name, slang, or code word for heroin. Note: Innumerable substances\u2013legal or illicit or combinations thereof\u2013are used to facilitate illegal activities.",
+      "title": "burrito - CFNEI",
+      "link": "https://www.cfnei.com/glossary/burrito/#:~:text=Street%20name%2C%20slang%2C%20or%20code,used%20to%20facilitate%20illegal%20activities.",
+      "displayed_link": "https://www.cfnei.com \u203a glossary \u203a burrito",
+      "source_logo": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T01tSkdUVUpZYlZkM1JqTXpRbm8wZUdrMGVsSnBVQzFLVFd3elN6VXdlWFZwYjNjMGNTMXlkVjlNV0RScFVUSlBXRWxJUW1kd2VraGlkekppY2t4WGRFOTFSak5oRWhkNmVUaExXbDk1VWtaUFpVaDNZbXRRYTI5TGRHbFJXUm9pUVVaWWNrVmpiMUpCUkcxM2JrbHpTWEpYUm1kSFZUazJWVzAyVkVWc1ExVm1RUSIsImZjdiI6IjMiLCJlaSI6Inp5OEtaX3lSRk9lSHdia1Brb0t0aVFZIiwicWMiOiJDZ2RpZFhKeWFYUnZFQUI5SVpVZFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIGJ1cnJpdG8gc2xhbmcgZm9yPyIsImxrIjoiR2hsM2FHRjBJR2x6SUdKMWNuSnBkRzhnYzJ4aGJtY2dabTl5IiwiYnMiOiJjLU55NDVJUHowZ3NVY2dzVmlpcExNaE1Uc3pKcVZUSXpGTklWRWdxTFNyS0xNbTNsMmlLTjFLUWtpdkhxNHJMakVzY2JFNUtmbW94VEZBaE56VXh6MTdpdXFtUmhKUllPVlpaTGhzdUtaajlNUEhpbk1TOGRJVzBfQ0o3aVlOOFJ0SlNrdVc0RkhEVmNGbkJYWi1ScXBDU21aYVdXcFNhbDV5cWtKUmFVcDZhaXVSQ2hjUzhGQ0JXQU1wbVpPWWtwaVRhU3l5TE1iS1dzaXduMXdBQlJnQSIsImlkIjoiZmNfenk4S1pfeVJGT2VId2JrUGtvS3RpUVlfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T01tSkdUVUpZYlZkM1JqTXpRbm8wZUdrMGVsSnBVQzFLVFd3elN6VXdlWFZwYjNjMGNTMXlkVjlNV0RScFVUSlBXRWxJUW1kd2VraGlkekppY2t4WGRFOTFSak5oRWhkNmVUaExXbDk1VWtaUFpVaDNZbXRRYTI5TGRHbFJXUm9pUVVaWWNrVmpiMUpCUkcxM2JrbHpTWEpYUm1kSFZUazJWVzAyVkVWc1ExVm1RUSIsImZjdiI6IjMiLCJlaSI6Inp5OEtaX3lSRk9lSHdia1Brb0t0aVFZIiwicWMiOiJDZ2RpZFhKeWFYUnZFQUI5SVpVZFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIGJ1cnJpdG8gc2xhbmcgZm9yPyIsImxrIjoiR2hsM2FHRjBJR2x6SUdKMWNuSnBkRzhnYzJ4aGJtY2dabTl5IiwiYnMiOiJjLU55NDVJUHowZ3NVY2dzVmlpcExNaE1Uc3pKcVZUSXpGTklWRWdxTFNyS0xNbTNsMmlLTjFLUWtpdkhxNHJMakVzY2JFNUtmbW94VEZBaE56VXh6MTdpdXFtUmhKUllPVlpaTGhzdUtaajlNUEhpbk1TOGRJVzBfQ0o3aVlOOFJ0SlNrdVc0RkhEVmNGbkJYWi1ScXBDU21aYVdXcFNhbDV5cWtKUmFVcDZhaXVSQ2hjUzhGQ0JXQU1wbVpPWWtwaVRhU3l5TE1iS1dzaXduMXdBQlJnQSIsImlkIjoiZmNfenk4S1pfeVJGT2VId2JrUGtvS3RpUVlfMSJ9"
+    },
+    {
+      "question": "What is the difference between a burrito and an enchilada?",
+      "snippet": "One of the main differences between enchiladas and burritos is that the enchilada is usually made with corn tortillas and the burrito is made with flour. The second difference between the two is that you eat enchiladas with a fork. They are covered in (smothered with) sauce. Burritos can be hand held food.",
+      "title": "Burritos, Enchiladas, and Chimichangas, Oh My!",
+      "date": "Oct 30, 2018",
+      "link": "https://www.theplazarestaurant.com/burritos-enchiladas-chimichangas-difference/#:~:text=One%20of%20the%20main%20differences,can%20be%20hand%20held%20food.",
+      "displayed_link": "https://www.theplazarestaurant.com \u203a burritos-enchiladas...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-uO7rddCmruFGcu9UgRWdPIH9W8IS0ax9dDE_N5KCtg&s",
+      "source_logo": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/87db6259c0e3aeb70410f27340c468750b598ed47676fd8a25df6ea58aaf990d.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T01tSkdUVUpZYlZkM1JqTXpRbm8wZUdrMGVsSnBVQzFLVFd3elN6VXdlWFZwYjNjMGNTMXlkVjlNV0RScFVUSlBXRWxJUW1kd2VraGlkekppY2t4WGRFOTFSak5oRWhkNmVUaExXbDk1VWtaUFpVaDNZbXRRYTI5TGRHbFJXUm9pUVVaWWNrVmpiMUpCUkcxM2JrbHpTWEpYUm1kSFZUazJWVzAyVkVWc1ExVm1RUSIsImZjdiI6IjMiLCJlaSI6Inp5OEtaX3lSRk9lSHdia1Brb0t0aVFZIiwicWMiOiJDZ2RpZFhKeWFYUnZFQUI5SVpVZFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gYSBidXJyaXRvIGFuZCBhbiBlbmNoaWxhZGE/IiwibGsiOiJjdzNKc1EyQU1Bd0V3RDJvZmczRy1lQ1BiQWtaeVJobGZWSmNkY2U1bkkxNDBTNVl6S2xTWHNKUUx5bEJqSzhxLWdIVE51ejF1R244QVEiLCJicyI6ImMtTnk0NUlQejBnc1VjZ3NWaWlwTE1oTVRzekpxVlRJekZOSVZFZ3FMU3JLTE1tM2wyaUtOMUtRa2l2SHE0ckxqRXNjYkU1S2Ztb3hURkFoTnpVeHoxN2l1cW1SaEpSWU9WWlpMaHN1S1pqOU1QSGluTVM4ZElXMF9DSjdpWU44UnRKU2t1VzRGSERWY0ZuQlhaLVJxcENTbVphV1dwU2FsNXlxa0pSYVVwNmFpdVJDaGNTOEZDQldBTXBtWk9Za3BpVGFTeXlMTWJLV3Npd24xd0FCUmdBIiwiaWQiOiJmY196eThLWl95UkZPZUh3YmtQa29LdGlRWV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T01tSkdUVUpZYlZkM1JqTXpRbm8wZUdrMGVsSnBVQzFLVFd3elN6VXdlWFZwYjNjMGNTMXlkVjlNV0RScFVUSlBXRWxJUW1kd2VraGlkekppY2t4WGRFOTFSak5oRWhkNmVUaExXbDk1VWtaUFpVaDNZbXRRYTI5TGRHbFJXUm9pUVVaWWNrVmpiMUpCUkcxM2JrbHpTWEpYUm1kSFZUazJWVzAyVkVWc1ExVm1RUSIsImZjdiI6IjMiLCJlaSI6Inp5OEtaX3lSRk9lSHdia1Brb0t0aVFZIiwicWMiOiJDZ2RpZFhKeWFYUnZFQUI5SVpVZFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gYSBidXJyaXRvIGFuZCBhbiBlbmNoaWxhZGE%2FIiwibGsiOiJjdzNKc1EyQU1Bd0V3RDJvZmczRy1lQ1BiQWtaeVJobGZWSmNkY2U1bkkxNDBTNVl6S2xTWHNKUUx5bEJqSzhxLWdIVE51ejF1R244QVEiLCJicyI6ImMtTnk0NUlQejBnc1VjZ3NWaWlwTE1oTVRzekpxVlRJekZOSVZFZ3FMU3JLTE1tM2wyaUtOMUtRa2l2SHE0ckxqRXNjYkU1S2Ztb3hURkFoTnpVeHoxN2l1cW1SaEpSWU9WWlpMaHN1S1pqOU1QSGluTVM4ZElXMF9DSjdpWU44UnRKU2t1VzRGSERWY0ZuQlhaLVJxcENTbVphV1dwU2FsNXlxa0pSYVVwNmFpdVJDaGNTOEZDQldBTXBtWk9Za3BpVGFTeXlMTWJLV3Npd24xd0FCUmdBIiwiaWQiOiJmY196eThLWl95UkZPZUh3YmtQa29LdGlRWV8xIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Burrito",
+      "link": "https://en.wikipedia.org/wiki/Burrito",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Burrito&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQFnoECFcQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Burrito",
+      "thumbnail": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/c428c91900e713890714e3d5a7d5b132819d7def8e1ce5f493e6c6b2f2fba05f.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/c428c91900e713890714e3d5a7d5b1322f80e24fb367592faa55b5d2f90ab323.png",
+      "snippet": "Burritos are filled with savory ingredients, most often a meat such as beef, chicken, or pork, and often include other ingredients, such as rice, cooked beans.",
+      "snippet_highlighted_words": [
+        "Burritos"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Mission burrito",
+            "link": "https://en.wikipedia.org/wiki/Mission_burrito"
+          },
+          {
+            "title": "Breakfast burrito",
+            "link": "https://en.wikipedia.org/wiki/Breakfast_burrito"
+          },
+          {
+            "title": "Chimichanga",
+            "link": "https://en.wikipedia.org/wiki/Chimichanga"
+          },
+          {
+            "title": "Enchilada",
+            "link": "https://en.wikipedia.org/wiki/Enchilada"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Beef Burrito",
+      "link": "https://www.recipetineats.com/beef-burritos/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.recipetineats.com/beef-burritos/&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQFnoECHoQAQ",
+      "displayed_link": "https://www.recipetineats.com \u203a Mexican",
+      "thumbnail": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/c428c91900e713890714e3d5a7d5b13273ab1beab8e4bf2a2052143ca58d05ff.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/c428c91900e713890714e3d5a7d5b132c1a5f691976e3c9e5194843ff318d5cb.png",
+      "date": "Oct 7, 2018",
+      "snippet": "Simple, super tasty everyday beef burritos made with a homemade beef mince filling (ground beef), rice and your choice of fillings. One of the best freezer ...",
+      "snippet_highlighted_words": [
+        "burritos"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "min": 35
+          },
+          "extensions": [
+            "5.0(83)",
+            "35 min"
+          ]
+        }
+      },
+      "source": "RecipeTin Eats"
+    },
+    {
+      "position": 3,
+      "title": "The Easiest Burrito Recipe",
+      "link": "https://www.theseasonedmom.com/easiest-burrito-recipe/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theseasonedmom.com/easiest-burrito-recipe/&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQFnoECFgQAQ",
+      "displayed_link": "https://www.theseasonedmom.com \u203a easiest-burrito-recipe",
+      "thumbnail": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/c428c91900e713890714e3d5a7d5b13241257e319ba58b4b1576fdfde33bdb05.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/c428c91900e713890714e3d5a7d5b132fc4bdb8f0826dabc26c981c0964d6652.jpeg",
+      "date": "Apr 29, 2024",
+      "snippet": "To prepare 1 burrito: spread \u00bc cup beans down center of tortillas; top with \u00bd cup rice, beef, 2 tablespoons corn, and \u00bc cup cheese.",
+      "snippet_highlighted_words": [
+        "burrito"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "min": 45
+          },
+          "extensions": [
+            "5.0(57)",
+            "45 min"
+          ]
+        }
+      },
+      "source": "The Seasoned Mom"
+    },
+    {
+      "position": 4,
+      "title": "Super Burrito | Mexican food in Austin, TX",
+      "link": "https://www.ilovesuperburrito.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ilovesuperburrito.com/&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQFnoECFQQAQ",
+      "displayed_link": "https://www.ilovesuperburrito.com",
+      "favicon": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/c428c91900e713890714e3d5a7d5b1324f8abcbd35da819bc5e748bfc88d3c58.png",
+      "snippet": "Super Burrito. choice of meat, rice, beans, pico de gallo, cheese and guacamole. $11.89 ...",
+      "snippet_highlighted_words": [
+        "Burrito"
+      ],
+      "source": "ilovesuperburrito.com"
+    },
+    {
+      "position": 5,
+      "title": "Easy Burritos Recipe (with Video) - NYT Cooking",
+      "link": "https://cooking.nytimes.com/recipes/1024725-easy-burritos",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cooking.nytimes.com/recipes/1024725-easy-burritos&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQFnoECFkQAQ",
+      "displayed_link": "https://cooking.nytimes.com \u203a 1024725-easy-burritos",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtQBWETjNreATFVKi0_Zw-35kW9hVH3rCnKWWYHXclLKd2wMtKls&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/c428c91900e713890714e3d5a7d5b132612e2381db8770af3cbcd6c00d30972a.png",
+      "date": "Jul 23, 2024",
+      "snippet": "Saucy and savory with just ground beef, beans and cheese, this easy recipe is inspired by Los Angeles-style burritos, which restaurant ...",
+      "snippet_highlighted_words": [
+        "burritos"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.0,
+            "min": 50
+          },
+          "extensions": [
+            "4.0(1,598)",
+            "50 min"
+          ]
+        }
+      },
+      "source": "NYT Cooking"
+    },
+    {
+      "position": 6,
+      "title": "How to make a BURRITO SUPREMO | Easy BURRITO Bowl ...",
+      "link": "https://www.youtube.com/watch?v=5nsuctc9NEk",
+      "displayed_link": "201K+ views \u00b7 1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/5nsuctc9NEk/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3mHUEIg_pdY95Bhnw4VC7LyPENUzg",
+      "favicon": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/c428c91900e713890714e3d5a7d5b13231f8c1ef7de379a168b12caebfea0881.png",
+      "snippet": "food #mexicanfood #burrito Easy to make burrito supremo. It's loaded with fresh, deep flavors. And, dressed with a smoky, creamy chipotle ...",
+      "duration": "7:50",
+      "source": "YouTube \u00b7 Villa Cocina"
+    },
+    {
+      "position": 7,
+      "title": "Taco Bell Burritos | Order Ahead Online for Pick Up or ...",
+      "link": "https://www.tacobell.com/food/burritos",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tacobell.com/food/burritos&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQFnoECFUQAQ",
+      "displayed_link": "https://www.tacobell.com \u203a food \u203a burritos",
+      "favicon": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/c428c91900e713890714e3d5a7d5b132d32b145caccb0b1d9b0f20071f85a88d.png",
+      "snippet": "Discover burritos at Taco Bell. Order burritos online through the app and roll through our drive-thru to pick it up. Try Taco Bell's burritos today!",
+      "snippet_highlighted_words": [
+        "burritos",
+        "burritos",
+        "burritos"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Burrito Supreme",
+            "link": "https://www.tacobell.com/food/burritos/burrito-supreme"
+          },
+          {
+            "title": "Beefy 5-Layer Burrito",
+            "link": "https://www.tacobell.com/food/burritos/beefy-5-layer-burrito"
+          },
+          {
+            "title": "Bean Burrito",
+            "link": "https://www.tacobell.com/food/burritos/bean-burrito"
+          },
+          {
+            "title": "Grilled Cheese Burrito",
+            "link": "https://www.tacobell.com/food/burritos/grilled-cheese-burrito"
+          }
+        ]
+      },
+      "source": "Taco Bell"
+    },
+    {
+      "position": 8,
+      "title": "Burrito - Italian recipes by GialloZafferano",
+      "link": "https://www.giallozafferano.com/recipes/Burrito.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.giallozafferano.com/recipes/Burrito.html&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQFnoECFoQAQ",
+      "displayed_link": "https://www.giallozafferano.com \u203a recipes \u203a Burrito",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtF8-FPjPpVPoksaA86QrGNuWLAibieYgh0BUDeUWs5PfqfMu1I9L&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/c428c91900e713890714e3d5a7d5b132f4b0be343da1e36994cfe4a893e67053.png",
+      "snippet": "The burrito is a delicious Tex-Mex recipe: a flour tortilla wraps a rich filling of chili with meat and cheese! Find out how it's made!",
+      "snippet_highlighted_words": [
+        "burrito"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.4,
+            "hr_min": 3
+          },
+          "extensions": [
+            "4.4(178)",
+            "3 hr 20 min"
+          ]
+        }
+      },
+      "source": "GialloZafferano Recipes"
+    },
+    {
+      "position": 9,
+      "title": "Freebirds World Burrito | Texas' No. 1 Burrito",
+      "link": "https://www.freebirds.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.freebirds.com/&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQFnoECFYQAQ",
+      "displayed_link": "https://www.freebirds.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq1b4w5TyL1z1nRHv089jLjfMlI3hu4OcrR3ZowRXINMG4eHf35eNy&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/c428c91900e713890714e3d5a7d5b132dc465111245046dce00af92daa09ee01.png",
+      "snippet": "Birria, Spanish Rice, Black Beans, Queso, Grilled Corn Salsa, Cilantro, White Onion, Roasted Tomatillo, and Lime Juice. Wrapped in a Flour Tortilla.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Find a Location",
+            "link": "https://www.freebirds.com/locations"
+          },
+          {
+            "title": "Careers",
+            "link": "https://careers.freebirds.com/"
+          },
+          {
+            "title": "Catering",
+            "link": "https://catering.freebirds.com/"
+          },
+          {
+            "title": "Contact Us",
+            "link": "https://www.freebirds.com/contact-us"
+          }
+        ]
+      },
+      "source": "Freebirds"
+    },
+    {
+      "position": 10,
+      "title": "The History of the Burrito",
+      "link": "https://thefoodweknow.com/the-history-of-the-burrito/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thefoodweknow.com/the-history-of-the-burrito/&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQFnoECHYQAQ",
+      "displayed_link": "https://thefoodweknow.com \u203a the-history-of-the-burrito",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrpPzvAAFplt0dWKFgPA4hSP7qiK59bc7sN-k2geccsL1Ft8SbLvWc&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/c428c91900e713890714e3d5a7d5b132dd12bf8b5d580e12d4a18d853ec81c39.png",
+      "snippet": "The burrito, in all its forms, is Mexican food. It's eaten in Mexico in Sonora, Ciudad Juarez, and Tijuana. At almost every point in the burrito's evolution, ...",
+      "snippet_highlighted_words": [
+        "burrito",
+        "burrito's"
+      ],
+      "source": "The Food We Know"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=burrito&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQjGp6BAhDEAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=burrito&tbs=lf%3A1%2Clf_ui%3A9&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Burritos recipe",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Burritos+recipe&sa=X&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQ1QJ6BQiHARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Burritos+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Burrito near me",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Burrito+near+me&sa=X&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQ1QJ6BQiDARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Burrito+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Beef burritos recipe",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Beef+burritos+recipe&sa=X&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQ1QJ6BQiBARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Beef+burritos+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Chicken burrito recipe",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Chicken+burrito+recipe&sa=X&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQ1QJ6BQiCARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Chicken+burrito+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Burrito Chipotle",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Burrito+Chipotle&sa=X&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQ1QJ6BQiEARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Burrito+Chipotle"
+    },
+    {
+      "block_position": 1,
+      "query": "Burrito bowl",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Burrito+bowl&sa=X&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQ1QJ6BQiGARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Burrito+bowl"
+    },
+    {
+      "block_position": 1,
+      "query": "Burrito restaurant",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Burrito+restaurant&sa=X&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQ1QJ6BQiFARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Burrito+restaurant"
+    },
+    {
+      "block_position": 1,
+      "query": "Burrito pronunciation",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Burrito+pronunciation&sa=X&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQ1QJ6BQiIARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Burrito+pronunciation"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Ingredients",
+        "subtitle": "What Is In A Burrito",
+        "thumbnail": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/0db8a0a38327ff052bc47b80d2603e35df4cefb14a6becd9ff4b834c87db787880aef30d9eba5041.png",
+        "web_links": [
+          {
+            "title": "Traditional Beef Burrito - - What's In The Pan?",
+            "snippet": "these beef burritos are totally typical \u2014 just saut\u00e9ed ground beef and onion, rolled up with rice, beans and cheese in...",
+            "link": "https://whatsinthepan.com/beef-burrito/",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbJ-YssaO8snO1KuihcIiV3pQY0DvTFwiPpc7VNTHdardrA60xu5xt1JxePVo",
+            "source": "What's In The Pan?",
+            "source_thumbnail": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/0db8a0a38327ff052bc47b80d2603e35df4cefb14a6becd98a401a173065da2a6d4112fca8d742d4c9cab7c1d945fab93c6727802c0ae666.png"
+          },
+          {
+            "title": "Beef Burrito - RecipeTin Eats",
+            "snippet": "Simple, super tasty everyday beef burritos made with a homemade beef mince filling (ground beef), rice and your choice...",
+            "link": "https://www.recipetineats.com/beef-burritos/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbinxrJG8J_4tSwSBbEhanWW0KsVCy_2MCvEKrvNLwRgXtNdl_B1RKadDatAM",
+            "source": "RecipeTin Eats",
+            "source_thumbnail": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/0db8a0a38327ff052bc47b80d2603e35df4cefb14a6becd98a401a173065da2ae9ddcdbcc9b5a97ab2331fef2db2874124fb48ad6a5f29bf.png"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=what+is+in+a+burrito&sa=X&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQrooIegQIUxAF",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+is+in+a+burrito"
+      },
+      {
+        "text": "Fillings",
+        "subtitle": "Burrito Fillings",
+        "title": "The Tastiest Burrito Filling Ideas - World of Spice",
+        "link": "https://www.worldofspice.co.uk/blog/the-tastiest-burrito-filling-ideas/",
+        "displayed_link": "https://www.worldofspice.co.uk \u203a blog \u203a the-tastiest-burr...",
+        "date": "Dec 2, 2021",
+        "snippet": "Here is a list of the more traditional burrito filling ingredients.",
+        "snippet_highlighted_words": [
+          "Here is a list of the more traditional burrito filling ingredients."
+        ],
+        "list": [
+          "Refried beans.",
+          "Rice.",
+          "Meat \u2013 chicken, beef, pork.",
+          "Guacamole.",
+          "Salsa.",
+          "Pico de Gallo.",
+          "Cheese.",
+          "Sour Cream."
+        ],
+        "favicon": "https://serpapi.com/searches/670a2fcdb2ebaeffe951fc38/images/0db8a0a38327ff052bc47b80d2603e35fb0cd722d6b8093f490e79dc785faa90b3b820a65cb3c168.jpeg",
+        "source": "worldofspice.co.uk",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfe5vjSXdHxHz70MF8Rj3xKs12slAUPfqTxWMvMOhetqk&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=burrito+fillings&sa=X&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQrooIegQIUxAN",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=burrito+fillings"
+      },
+      {
+        "text": "Pronunciation",
+        "subtitle": "How To Pronounce Burrito",
+        "thumbnail": "https://ssl.gstatic.com/dictionary/static/pronunciation/20180801/desktop/sil.svg",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=How+to+pronounce+Burrito&si=ACC90nxWRUtRtpkYg5Su5hMI1pYLM8wYumPGtoObTWkLZRmMMeHihrX2_gvJS7C_l5Yc1QXe9swBeLzsLoql4hxdjBsmzp53pMJmvvC11kFzjzccs9PNxdN42_bvw1SkfUzrXIjpFmHWZCvu4aHSpkqrRSZhg-OltA%3D%3D&sa=X&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQrooIegQIUxAS",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=How+to+pronounce+Burrito&si=ACC90nxWRUtRtpkYg5Su5hMI1pYLM8wYumPGtoObTWkLZRmMMeHihrX2_gvJS7C_l5Yc1QXe9swBeLzsLoql4hxdjBsmzp53pMJmvvC11kFzjzccs9PNxdN42_bvw1SkfUzrXIjpFmHWZCvu4aHSpkqrRSZhg-OltA%3D%3D"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=burrito&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=zy8KZ_yRFOeHwbkPkoKtiQY&start=10&sa=N&sstk=AagrsuiS-cpC7Dz3BHzjeWSnLNnsrlwRfyZ7GTUY2cTBNtRnA-rTzRuAzQOVO0X_YmXvi8FL5SJ_NycwaWmol_VaFRJJsqwkKzXHbg&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQ8NMDegQIDBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=burrito&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=zy8KZ_yRFOeHwbkPkoKtiQY&start=10&sa=N&sstk=AagrsuiS-cpC7Dz3BHzjeWSnLNnsrlwRfyZ7GTUY2cTBNtRnA-rTzRuAzQOVO0X_YmXvi8FL5SJ_NycwaWmol_VaFRJJsqwkKzXHbg&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQ8tMDegQIDBAE",
+      "3": "https://www.google.com/search?q=burrito&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=zy8KZ_yRFOeHwbkPkoKtiQY&start=20&sa=N&sstk=AagrsuiS-cpC7Dz3BHzjeWSnLNnsrlwRfyZ7GTUY2cTBNtRnA-rTzRuAzQOVO0X_YmXvi8FL5SJ_NycwaWmol_VaFRJJsqwkKzXHbg&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQ8tMDegQIDBAG",
+      "4": "https://www.google.com/search?q=burrito&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=zy8KZ_yRFOeHwbkPkoKtiQY&start=30&sa=N&sstk=AagrsuiS-cpC7Dz3BHzjeWSnLNnsrlwRfyZ7GTUY2cTBNtRnA-rTzRuAzQOVO0X_YmXvi8FL5SJ_NycwaWmol_VaFRJJsqwkKzXHbg&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQ8tMDegQIDBAI",
+      "5": "https://www.google.com/search?q=burrito&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=zy8KZ_yRFOeHwbkPkoKtiQY&start=40&sa=N&sstk=AagrsuiS-cpC7Dz3BHzjeWSnLNnsrlwRfyZ7GTUY2cTBNtRnA-rTzRuAzQOVO0X_YmXvi8FL5SJ_NycwaWmol_VaFRJJsqwkKzXHbg&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQ8tMDegQIDBAK",
+      "6": "https://www.google.com/search?q=burrito&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=zy8KZ_yRFOeHwbkPkoKtiQY&start=50&sa=N&sstk=AagrsuiS-cpC7Dz3BHzjeWSnLNnsrlwRfyZ7GTUY2cTBNtRnA-rTzRuAzQOVO0X_YmXvi8FL5SJ_NycwaWmol_VaFRJJsqwkKzXHbg&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQ8tMDegQIDBAM",
+      "7": "https://www.google.com/search?q=burrito&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=zy8KZ_yRFOeHwbkPkoKtiQY&start=60&sa=N&sstk=AagrsuiS-cpC7Dz3BHzjeWSnLNnsrlwRfyZ7GTUY2cTBNtRnA-rTzRuAzQOVO0X_YmXvi8FL5SJ_NycwaWmol_VaFRJJsqwkKzXHbg&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQ8tMDegQIDBAO",
+      "8": "https://www.google.com/search?q=burrito&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=zy8KZ_yRFOeHwbkPkoKtiQY&start=70&sa=N&sstk=AagrsuiS-cpC7Dz3BHzjeWSnLNnsrlwRfyZ7GTUY2cTBNtRnA-rTzRuAzQOVO0X_YmXvi8FL5SJ_NycwaWmol_VaFRJJsqwkKzXHbg&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQ8tMDegQIDBAQ",
+      "9": "https://www.google.com/search?q=burrito&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=zy8KZ_yRFOeHwbkPkoKtiQY&start=80&sa=N&sstk=AagrsuiS-cpC7Dz3BHzjeWSnLNnsrlwRfyZ7GTUY2cTBNtRnA-rTzRuAzQOVO0X_YmXvi8FL5SJ_NycwaWmol_VaFRJJsqwkKzXHbg&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQ8tMDegQIDBAS",
+      "10": "https://www.google.com/search?q=burrito&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=zy8KZ_yRFOeHwbkPkoKtiQY&start=90&sa=N&sstk=AagrsuiS-cpC7Dz3BHzjeWSnLNnsrlwRfyZ7GTUY2cTBNtRnA-rTzRuAzQOVO0X_YmXvi8FL5SJ_NycwaWmol_VaFRJJsqwkKzXHbg&ved=2ahUKEwi8tZWAs4iJAxXnQzABHRJBK2EQ8tMDegQIDBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=burrito&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=burrito&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=burrito&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=burrito&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=burrito&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=burrito&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=burrito&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=burrito&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=burrito&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=burrito&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=burrito&start=90"
+    }
+  }
+}

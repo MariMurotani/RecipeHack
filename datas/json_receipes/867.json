@@ -1,0 +1,1096 @@
+{
+  "search_metadata": {
+    "id": "670a302072f716bd0be534e1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3f959588660f1053/670a302072f716bd0be534e1.json",
+    "created_at": "2024-10-12 08:15:28 UTC",
+    "processed_at": "2024-10-12 08:15:28 UTC",
+    "google_url": "https://www.google.com/search?q=coffee+mocha&oq=coffee+mocha&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/3f959588660f1053/670a302072f716bd0be534e1.html",
+    "total_time_taken": 0.65
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "coffee mocha",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "coffee mocha",
+    "total_results": 70400000,
+    "time_taken_displayed": 0.4,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "recipes_results": [
+    {
+      "title": "Mocha Coffee",
+      "link": "https://www.allrecipes.com/recipe/23538/mocha-coffee/",
+      "source": "Allrecipes",
+      "rating": 4.3,
+      "reviews": 202,
+      "total_time": "10 min",
+      "ingredients": [
+        "Unsweetened cocoa powder",
+        "milk",
+        "brewed coffee",
+        "white sugar"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/39a8fd732e3f7f0542f26c14272bbf100a1fdf3cc3977af041258b32e734f001.jpeg"
+    },
+    {
+      "title": "Caf\u00e9 Mocha",
+      "link": "https://www.folgerscoffee.com/coffee/recipes/holiday-seasonal/cafe-mocha-hot",
+      "source": "Folgers Coffee",
+      "total_time": "7 min",
+      "ingredients": [
+        "Colombian coffee",
+        "cocoa powder",
+        "whipped cream",
+        "chocolate topping"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/39a8fd732e3f7f0542f26c14272bbf102299350d7d47baa3cc0796b510c53fda.jpeg"
+    },
+    {
+      "title": "Caff\u00e8 Mocha Recipe (Coffee Mocha)",
+      "link": "https://www.everyday-delicious.com/caffe-mocha-recipe/",
+      "source": "Everyday Delicious",
+      "rating": 5.0,
+      "reviews": 2,
+      "total_time": "5 min",
+      "ingredients": [
+        "Cocoa powder",
+        "whipped cream",
+        "chocolate sauce"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/39a8fd732e3f7f0542f26c14272bbf10c92b87eb62f84c95a9362d6d0e49f9f1.jpeg"
+    }
+  ],
+  "knowledge_graph": {
+    "title": "Caff\u00e8 mocha",
+    "type": "Beverages",
+    "entity_type": "food, lightweight_vertical, foods_and_dishes",
+    "kgmid": "/m/06jdrl",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/06jdrl&hl=en-US&q=Caff%C3%A8+mocha",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F06jdrl&location=Austin%2CTexas%2CUnited+States&q=Caff%C3%A8+mocha",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/90afe35d304fdb72accda2a8933014c7f8300cce57d5203ea1d48ef44e0a9c4c7b44c31a5298a5d1.jpeg",
+        "source": "https://en.wikipedia.org/wiki/Caff%C3%A8_mocha"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/90afe35d304fdb72accda2a8933014c7f8300cce57d5203e839d16acda917c96869b50313de3e101.jpeg",
+        "source": "https://www.folgerscoffee.com/coffee/recipes/iced-coffee/cafe-mocha-iced"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/90afe35d304fdb72accda2a8933014c7f8300cce57d5203ee12d3e0a7dd344230ce23e27e5f97242.jpeg",
+        "source": "https://www.mommyhatescooking.com/easy-cafe-mocha-latte-recipe"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/90afe35d304fdb72accda2a8933014c7f8300cce57d5203ed0825f6189d8d42af714c8c04955db6b.jpeg",
+        "source": "https://athome.starbucks.com/recipe/caffe-mocha"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/90afe35d304fdb72accda2a8933014c7f8300cce57d5203efda08119844b93f807edba4a6c38d702.jpeg",
+        "source": "https://www.folgerscoffee.com/coffee/recipes/holiday-seasonal/cafe-mocha-hot"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTaX0B4WgX38nITLJaNi-5zyJ7Z9zgSnlv3rfMcW2EJw&s",
+        "source": "https://www.everyday-delicious.com/caffe-mocha-recipe/"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQErHV4ZG0HNbmjnwX5ldyyZ4Wy-v0M6-8LIZLzlXSWoA&s",
+        "source": "https://www.spoonfulofflavor.com/mocha-latte/"
+      }
+    ],
+    "description": "A caff\u00e8 mocha, also called mocaccino, is a chocolate-flavoured warm beverage that is a variant of a caff\u00e8 latte, commonly served in a glass rather than a mug. Other commonly used spellings are mochaccino and also mochachino.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Caff%C3%A8_mocha"
+    },
+    "variants": "White caff\u00e8 mocha",
+    "variants_links": [
+      {
+        "text": "White caff\u00e8 mocha",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=White+caff%C3%A8+mocha&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgGiW7uCcdoQgDzvIHIInq2-YvNDENHqtlzwZ0CcbXtjLfWwiM72G-OVuYUAtcgmaWP0aChvTUJr_k_e-m5uFuDPUxFyoBN-yKBit4ugq1mBO9l03kHvrQFWRNfrPLAyrtjZf0Pvqxpe8NA95gZ5bUJgsEMFTnl_EqRaZJslQFz_GNqMjIw%3D%3D&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQmxMoAHoECDMQAg"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Latte",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-Lx0h3iHs-gZ131GnZWm7qgNWx1P16EzLttpfebNDVwpYsUSaqsx4zzwvcbcDNXMYzCydm214KmmkeBD2Oz9U1p3euwyirnnbIj_3ZyyVHBrZb3Cp6ILTB9N9j8QmANu2FKhgaIGvUh-Wq8ZNcdP9BoP5LGkJTOSHWa9XcrW4QCmiuMiBT-lwqPYl14sg-HkCEs37S68SRhZGpYHpUDcKZSN4Hs6lj8e8A8j6W5i4I3Af6AiAVqRhRoxBROHq8V1InXjvCDw%3D&q=Latte&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQs9oBKAB6BAg0EAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Latte&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-Lx0h3iHs-gZ131GnZWm7qgNWx1P16EzLttpfebNDVwpYsUSaqsx4zzwvcbcDNXMYzCydm214KmmkeBD2Oz9U1p3euwyirnnbIj_3ZyyVHBrZb3Cp6ILTB9N9j8QmANu2FKhgaIGvUh-Wq8ZNcdP9BoP5LGkJTOSHWa9XcrW4QCmiuMiBT-lwqPYl14sg-HkCEs37S68SRhZGpYHpUDcKZSN4Hs6lj8e8A8j6W5i4I3Af6AiAVqRhRoxBROHq8V1InXjvCDw%3D",
+        "image": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/90afe35d304fdb72accda2a8933014c7dfd960f6713d4b3b7eef74c29acdb3752fb7dc82844e83d387be4883968c8eee.jpeg"
+      },
+      {
+        "name": "Cappuccino",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm6hqn45R6HDq_bRft1V3sEs5SFg7AnMgKGqcMKb-88Djo-obJzbDghWY78qsFURPwD-rPrzltETeXYFtPBWzln7WQkz-aMy9I2MFJIiE9yMN_Y3O5T_OkF_axV1u8Pfvell8Q4mmumz10OxgYyRMahLb-p9917JiJWvjdobsh1hRugFsMbmcgFo493doHPK9RIMCr7jaAL8XKipD7Xn6GADjSNjjrjDEY2TbCWEOA8v4JnA8vYFqKHsnXg8v9BIwhnxdcog%3D&q=Cappuccino&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQs9oBKAB6BAg0EAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Cappuccino&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm6hqn45R6HDq_bRft1V3sEs5SFg7AnMgKGqcMKb-88Djo-obJzbDghWY78qsFURPwD-rPrzltETeXYFtPBWzln7WQkz-aMy9I2MFJIiE9yMN_Y3O5T_OkF_axV1u8Pfvell8Q4mmumz10OxgYyRMahLb-p9917JiJWvjdobsh1hRugFsMbmcgFo493doHPK9RIMCr7jaAL8XKipD7Xn6GADjSNjjrjDEY2TbCWEOA8v4JnA8vYFqKHsnXg8v9BIwhnxdcog%3D",
+        "image": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/90afe35d304fdb72accda2a8933014c7dfd960f6713d4b3b7eef74c29acdb375adb02363ccc834771e79efdb939aa6d6.jpeg"
+      },
+      {
+        "name": "Caff\u00e8 macchiato",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-Lx7I118hCbxwEhJO6CY9lCvVk9lETo2YCVbYpUFRnJS7v4-gH3Qts1L0VuVTz1IjgLmmitSFqPEq3gtuepoBG1ud53EWjN2EZ7jIsSjeSyzC1jxTqUIwGKhFSFvmwRZmcvZWjX3AUZIyj-phC-krA8seOcXSnDm-J_UaHDpQ8Ul1tPuxJ4-2oOHJ_WHKmDC4eLczsg2RGFcNv8dqUCPqqc89y828YEhrs926pt0UOuEjYA0uRMYfZayP9xohN54YKUQufZk%3D&q=Caff%C3%A8+macchiato&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQs9oBKAB6BAg0EA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Caff%C3%A8+macchiato&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-Lx7I118hCbxwEhJO6CY9lCvVk9lETo2YCVbYpUFRnJS7v4-gH3Qts1L0VuVTz1IjgLmmitSFqPEq3gtuepoBG1ud53EWjN2EZ7jIsSjeSyzC1jxTqUIwGKhFSFvmwRZmcvZWjX3AUZIyj-phC-krA8seOcXSnDm-J_UaHDpQ8Ul1tPuxJ4-2oOHJ_WHKmDC4eLczsg2RGFcNv8dqUCPqqc89y828YEhrs926pt0UOuEjYA0uRMYfZayP9xohN54YKUQufZk%3D",
+        "image": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/90afe35d304fdb72accda2a8933014c7dfd960f6713d4b3b7eef74c29acdb37533e39e4e20a31acec484953a24eae7b6.jpeg"
+      },
+      {
+        "name": "Matcha",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L7XDPwLcx87Y-G0avW4TZ2gQjbr3Ppd0UUMvnLfhUGwqlAkrMOeh09oo7bILqNW6nvNe4l6LapUjuvd0tq5Pgx6VIEC_XHAMRM1Ko95pRtxGj0B8q3r3oo057xSLGrFawanjWeNifchm8JmsCl5yNUOqcAwxLAsQxO6M3eiayqE-tOEJnCqqKVI4GECFjPr8RNqAQosi3IU2Y_vqPf4x1pTkShZx3gAd2rfVlTEuDG9qIw406RSpzQoocSK0FLSoaEoqJNI%3D&q=Matcha&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQs9oBKAB6BAg0EBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Matcha&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L7XDPwLcx87Y-G0avW4TZ2gQjbr3Ppd0UUMvnLfhUGwqlAkrMOeh09oo7bILqNW6nvNe4l6LapUjuvd0tq5Pgx6VIEC_XHAMRM1Ko95pRtxGj0B8q3r3oo057xSLGrFawanjWeNifchm8JmsCl5yNUOqcAwxLAsQxO6M3eiayqE-tOEJnCqqKVI4GECFjPr8RNqAQosi3IU2Y_vqPf4x1pTkShZx3gAd2rfVlTEuDG9qIw406RSpzQoocSK0FLSoaEoqJNI%3D",
+        "image": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/90afe35d304fdb72accda2a8933014c7dfd960f6713d4b3b7eef74c29acdb375a0f78cf3ed50433be39374e60beb9659.jpeg"
+      }
+    ]
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=coffee+mocha&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=t8JBrhU2uMdanM%252CCMY6Z2JLxjCX2M%252C%252Fm%252F06jdrl%253BY8HfOGqmUWCGPM%252Cz919ifAa1RCWXM%252C_%253BIePL8Kz9dOozBM%252CzU6KCioWEq9-_M%252C_%253Bx9XwR3b13OOchM%252CPkz1regEQUljrM%252C_%253BHd4bEUvuPC5wDM%252CUV5ABDsdsJyb2M%252C_%253B8J9hkhkvgggLKM%252C2LxybA7irsUL9M%252C_%253BHKb3mId2zSmgYM%252C2Htz3NkbS9E4bM%252C_&usg=AI4_-kQO9JubfZIRRWFq4D1QqW_3_zSzAw&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQ_B16BAg_EAE#vhid=t8JBrhU2uMdanM&vssid=mosaic",
+      "source": "https://en.wikipedia.org/wiki/Caff%C3%A8_mocha",
+      "thumbnail": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/94817c75c48ac6db959aa4b93745f47021cfe5340bf7cd8f630d04d0128d1fd6.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Mocha_coffee.jpg",
+      "title": "upload.wikimedia.org/wikipedia/commons/7/7e/Mocha_...",
+      "source_name": "en.wikipedia.org"
+    },
+    {
+      "link": "https://www.google.com/search?q=coffee+mocha&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=t8JBrhU2uMdanM%252CCMY6Z2JLxjCX2M%252C_%253BY8HfOGqmUWCGPM%252Cz919ifAa1RCWXM%252C_%253BIePL8Kz9dOozBM%252CzU6KCioWEq9-_M%252C_%253Bx9XwR3b13OOchM%252CPkz1regEQUljrM%252C_%253BHd4bEUvuPC5wDM%252CUV5ABDsdsJyb2M%252C_%253B8J9hkhkvgggLKM%252C2LxybA7irsUL9M%252C_%253BHKb3mId2zSmgYM%252C2Htz3NkbS9E4bM%252C_&usg=AI4_-kT1l7yRekffDAplLWMzrvyudOok3w&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQ_h16BAhDEAE#vhid=Y8HfOGqmUWCGPM&vssid=mosaic",
+      "source": "https://www.folgerscoffee.com/coffee/recipes/iced-coffee/cafe-mocha-iced",
+      "thumbnail": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/94817c75c48ac6dbb862bd8b75ad018e9c17a5d2f1156d814a16b667fd26fe18.jpeg",
+      "original": "http://www.folgerscoffee.com/folgers/recipes/_Hero%20Images/Detail%20Pages/5598/image-thumb__5598__schema_image/MochaIced-hero.58f3878d.jpg",
+      "title": "Iced Mocha",
+      "source_name": "Folgers Coffee"
+    },
+    {
+      "link": "https://www.google.com/search?q=coffee+mocha&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=t8JBrhU2uMdanM%252CCMY6Z2JLxjCX2M%252C_%253BY8HfOGqmUWCGPM%252Cz919ifAa1RCWXM%252C_%253BIePL8Kz9dOozBM%252CzU6KCioWEq9-_M%252C_%253Bx9XwR3b13OOchM%252CPkz1regEQUljrM%252C_%253BHd4bEUvuPC5wDM%252CUV5ABDsdsJyb2M%252C_%253B8J9hkhkvgggLKM%252C2LxybA7irsUL9M%252C_%253BHKb3mId2zSmgYM%252C2Htz3NkbS9E4bM%252C_&usg=AI4_-kT1l7yRekffDAplLWMzrvyudOok3w&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQ_h16BAhBEAE#vhid=IePL8Kz9dOozBM&vssid=mosaic",
+      "source": "https://www.mommyhatescooking.com/easy-cafe-mocha-latte-recipe",
+      "thumbnail": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/94817c75c48ac6db35f29f10dd670ee666c9994ecb056d924a1018204d16a99d.jpeg",
+      "original": "https://www.mommyhatescooking.com/wp-content/uploads/2023/10/mocha-4-scaled.jpg",
+      "title": "Cafe Mocha Latte",
+      "source_name": "Mommy Hates Cooking"
+    },
+    {
+      "link": "https://www.google.com/search?q=coffee+mocha&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=t8JBrhU2uMdanM%252CCMY6Z2JLxjCX2M%252C_%253BY8HfOGqmUWCGPM%252Cz919ifAa1RCWXM%252C_%253BIePL8Kz9dOozBM%252CzU6KCioWEq9-_M%252C_%253Bx9XwR3b13OOchM%252CPkz1regEQUljrM%252C_%253BHd4bEUvuPC5wDM%252CUV5ABDsdsJyb2M%252C_%253B8J9hkhkvgggLKM%252C2LxybA7irsUL9M%252C_%253BHKb3mId2zSmgYM%252C2Htz3NkbS9E4bM%252C_&usg=AI4_-kT1l7yRekffDAplLWMzrvyudOok3w&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQ_h16BAhCEAE#vhid=x9XwR3b13OOchM&vssid=mosaic",
+      "source": "https://athome.starbucks.com/recipe/caffe-mocha",
+      "thumbnail": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/94817c75c48ac6dbb74aff7e943f3695ec4a03eef2c729f31f535c96fd960944.jpeg",
+      "original": "https://athome.starbucks.com/sites/default/files/styles/recipe_banner_xlarge/public/2024-05/CaffeMocha_RecipeHeader_848x539_%402x.jpg.webp?itok=ov3gQo8W",
+      "title": "Caff\u00e8 Mocha",
+      "source_name": "Starbucks\u00ae\ufe0f Coffee"
+    },
+    {
+      "link": "https://www.google.com/search?q=coffee+mocha&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=t8JBrhU2uMdanM%252CCMY6Z2JLxjCX2M%252C_%253BY8HfOGqmUWCGPM%252Cz919ifAa1RCWXM%252C_%253BIePL8Kz9dOozBM%252CzU6KCioWEq9-_M%252C_%253Bx9XwR3b13OOchM%252CPkz1regEQUljrM%252C_%253BHd4bEUvuPC5wDM%252CUV5ABDsdsJyb2M%252C_%253B8J9hkhkvgggLKM%252C2LxybA7irsUL9M%252C_%253BHKb3mId2zSmgYM%252C2Htz3NkbS9E4bM%252C_&usg=AI4_-kT1l7yRekffDAplLWMzrvyudOok3w&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQ_h16BAg-EAE#vhid=Hd4bEUvuPC5wDM&vssid=mosaic",
+      "source": "https://www.folgerscoffee.com/coffee/recipes/holiday-seasonal/cafe-mocha-hot",
+      "thumbnail": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/94817c75c48ac6dbe534d1feca9c3e2ca76b4c8996d195d254c1b60f4a8886f2.jpeg",
+      "original": "http://www.folgerscoffee.com/folgers/recipes/_Hero%20Images/Detail%20Pages/6330/image-thumb__6330__schema_image/CafeMocha-hero.61028a28.jpg",
+      "title": "Caf\u00e9 Mocha",
+      "source_name": "Folgers Coffee"
+    },
+    {
+      "link": "https://www.google.com/search?q=coffee+mocha&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=t8JBrhU2uMdanM%252CCMY6Z2JLxjCX2M%252C_%253BY8HfOGqmUWCGPM%252Cz919ifAa1RCWXM%252C_%253BIePL8Kz9dOozBM%252CzU6KCioWEq9-_M%252C_%253Bx9XwR3b13OOchM%252CPkz1regEQUljrM%252C_%253BHd4bEUvuPC5wDM%252CUV5ABDsdsJyb2M%252C_%253B8J9hkhkvgggLKM%252C2LxybA7irsUL9M%252C_%253BHKb3mId2zSmgYM%252C2Htz3NkbS9E4bM%252C_&usg=AI4_-kT1l7yRekffDAplLWMzrvyudOok3w&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQ_h16BAhAEAE#vhid=8J9hkhkvgggLKM&vssid=mosaic",
+      "source": "https://www.everyday-delicious.com/caffe-mocha-recipe/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTaX0B4WgX38nITLJaNi-5zyJ7Z9zgSnlv3rfMcW2EJw&s",
+      "original": "https://www.everyday-delicious.com/wp-content/uploads/2021/05/caffee-mocha-kawa-mokka-everyday-delicious-1.jpg",
+      "title": "Caff\u00e8 Mocha Recipe (Coffee Mocha)",
+      "source_name": "Everyday Delicious"
+    },
+    {
+      "link": "https://www.google.com/search?q=coffee+mocha&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=t8JBrhU2uMdanM%252CCMY6Z2JLxjCX2M%252C_%253BY8HfOGqmUWCGPM%252Cz919ifAa1RCWXM%252C_%253BIePL8Kz9dOozBM%252CzU6KCioWEq9-_M%252C_%253Bx9XwR3b13OOchM%252CPkz1regEQUljrM%252C_%253BHd4bEUvuPC5wDM%252CUV5ABDsdsJyb2M%252C_%253B8J9hkhkvgggLKM%252C2LxybA7irsUL9M%252C_%253BHKb3mId2zSmgYM%252C2Htz3NkbS9E4bM%252C_&usg=AI4_-kT1l7yRekffDAplLWMzrvyudOok3w&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQ_h16BAg8EAE#vhid=HKb3mId2zSmgYM&vssid=mosaic",
+      "source": "https://www.spoonfulofflavor.com/mocha-latte/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQErHV4ZG0HNbmjnwX5ldyyZ4Wy-v0M6-8LIZLzlXSWoA&s",
+      "original": "https://www.spoonfulofflavor.com/wp-content/uploads/2021/11/mocha-latte-recipe-500x500.jpg",
+      "title": "Mocha Latte (Starbucks Copycat)",
+      "source_name": "Spoonful of Flavor"
+    }
+  ],
+  "inline_products": [
+    {
+      "position": 1,
+      "title": "Maxwell House International Suisse Mocha Cafe Beverage Mix",
+      "block_title": "In stores nearby",
+      "source": "H-E-B",
+      "price": 3.52,
+      "currency": "$",
+      "rating": 4.5,
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS6FfjGQVObARMuvWWf4fkiHuuXztDUqaDaQuQzby4UbKFcYDIcaHcdkhFNj93kLk3MjeG2vmL5CFBuwXwAw440xMXwlPpwor-2R-bcDp1pRWxhiN3u_phgDA"
+    },
+    {
+      "position": 2,
+      "title": "Starbucks Mocha Flavored Ground Coffee",
+      "block_title": "In stores nearby",
+      "source": "Walmart",
+      "price": 8.48,
+      "currency": "$",
+      "rating": 4.3,
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSE4Jmv8Fsp0Xrn-8X_8AX1DpvtoQi5jbnoFi2nm7pjVumF5tHyQOkDhMvLcH70x8rKp86Ovad3X6L1XWnFpcoYWYFGhWbXZ1nwspFrEJTGuhSjnJuLWmc9"
+    },
+    {
+      "position": 3,
+      "title": "Starbucks Flavored K-Cup Coffee Pods Mocha",
+      "block_title": "In stores nearby",
+      "source": "Randalls",
+      "price": 10.99,
+      "currency": "$",
+      "rating": 3.7,
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ4sGn54f0-PJbBJDi-IFJFrBn_DcZHQV9OeQ85G_IB21aN_BpsJVFU-g53DWI72rMhZ6mg-RInQ0qAi7C45bS_u16lknIsEAzyevzAEWjw"
+    },
+    {
+      "position": 4,
+      "title": "Starbucks Frappuccino Coffee Drink Mocha",
+      "block_title": "In stores nearby",
+      "source": "CVS Pharmacy",
+      "price": 4.29,
+      "currency": "$",
+      "rating": 4.5,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ89tLynjosCs68bi8NruTlJMwPDi-YC0btE4J3Bs20phEnsqI2WoNnHhSPKtTXjpuMyQ5et-2QXUmysTlJpQftq97Hy_xer5RDLaGmf2rT"
+    },
+    {
+      "position": 5,
+      "title": "Good & Gather Mocha Marshmallow Light Roast Ground Coffee",
+      "block_title": "In stores nearby",
+      "source": "Target",
+      "price": 6.99,
+      "currency": "$",
+      "rating": 3.0,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTrXbW64iLtaYDLnN-SWqGrlfpwxmNkBGIjfs6qoNcAot2zzKMJiIobiRQbttuQBfrb5b8qpSvRM-okyvJnVY1Eh0ncx2PpeoQ8CCEqazT8hMy7G37guUKF"
+    },
+    {
+      "position": 6,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 7,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 8,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 9,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 10,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 11,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 12,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 13,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 14,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 15,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 16,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 17,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 18,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 19,
+      "block_title": "In stores nearby"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/a9915d85bc97109565fc641cd977b0fad118730e232bf2f63bcc02e182200b6c.webp",
+      "source_logo": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/a9915d85bc97109565fc641cd977b0fa4507f2301a836abf59c4dab99b5bc85a2e854ec50558e522.png",
+      "source": "Amazon",
+      "title": "Nescaf\u00e9 Nescafe Gold Double Choc Mocha",
+      "rating": 4.5,
+      "reviews": 1200,
+      "price": "$9.99",
+      "extracted_price": 9.99,
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiI1Mjg1ODI5MDcwMjg1NzM5NTM5IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzNTMwMjA3OTA1NDYyNTgwNDgzIiwiaW1hZ2VEb2NpZCI6IjE0NDUzNDMyNTc5NTIxNzQ5NTkwIiwicmRzIjoiUENfMjk0NTEzNDE5ODQ4ODQzNDU4NnxQUk9EX1BDXzI5NDUxMzQxOTg0ODg0MzQ1ODYiLCJxdWVyeSI6ImNvZmZlZSttb2NoYSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiI1Mjg1ODI5MDcwMjg1NzM5NTM5IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzNTMwMjA3OTA1NDYyNTgwNDgzIiwiaW1hZ2VEb2NpZCI6IjE0NDUzNDMyNTc5NTIxNzQ5NTkwIiwicmRzIjoiUENfMjk0NTEzNDE5ODQ4ODQzNDU4NnxQUk9EX1BDXzI5NDUxMzQxOTg0ODg0MzQ1ODYiLCJxdWVyeSI6ImNvZmZlZSttb2NoYSJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/a9915d85bc97109565fc641cd977b0fa096471f4751531017ea4aff4286b9ab3.webp",
+      "source_logo": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/a9915d85bc97109565fc641cd977b0fa5db75454d1a48e57f0a9107f8cae1c0d7100dd3b6f5c2f76.png",
+      "source": "H-E-B",
+      "title": "Maxwell House International Suisse Mocha Cafe Beverage Mix",
+      "rating": 4.5,
+      "reviews": 511,
+      "price": "$3.52",
+      "extracted_price": 3.52,
+      "location": "10 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIxMTAwMjgxNTc1MTUyNjYwMDE1OSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTIxODg3Nzk1MTA1MDgyMjU1MyIsImltYWdlRG9jaWQiOiIxMjA5MTg3NTIzNDk5MjI3OTkwNyIsInJkcyI6IlBDXzc2NDUxODEzMjIyNzkyOTYxMzl8UFJPRF9QQ183NjQ1MTgxMzIyMjc5Mjk2MTM5IiwicXVlcnkiOiJjb2ZmZWUrbW9jaGEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIxMTAwMjgxNTc1MTUyNjYwMDE1OSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTIxODg3Nzk1MTA1MDgyMjU1MyIsImltYWdlRG9jaWQiOiIxMjA5MTg3NTIzNDk5MjI3OTkwNyIsInJkcyI6IlBDXzc2NDUxODEzMjIyNzkyOTYxMzl8UFJPRF9QQ183NjQ1MTgxMzIyMjc5Mjk2MTM5IiwicXVlcnkiOiJjb2ZmZWUrbW9jaGEifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/a9915d85bc97109565fc641cd977b0fa1fd11ef937e4ef0a8e441886c23a0933.webp",
+      "source_logo": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/a9915d85bc97109565fc641cd977b0fa3dd2b52fe2bea4f03bb3c4142e6a5d8d3cf420729140618d.png",
+      "source": "Walmart",
+      "title": "Starbucks Mocha Flavored Ground Coffee",
+      "rating": 4.3,
+      "reviews": 616,
+      "price": "$8.48",
+      "extracted_price": 8.48,
+      "location": "12 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiI1MjA2NDIyNTE5NTYwMDUxNzQ4IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI4NzgzODY1MDA3MTk3OTk0OTA3IiwiaW1hZ2VEb2NpZCI6IjEyNDU5NTY0NDUyOTM1NTk4MzcxIiwicmRzIjoiUENfMTQ3NzAzOTYxMTYyNjEzNzIxNzN8UFJPRF9QQ18xNDc3MDM5NjExNjI2MTM3MjE3MyIsInF1ZXJ5IjoiY29mZmVlK21vY2hhIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiI1MjA2NDIyNTE5NTYwMDUxNzQ4IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI4NzgzODY1MDA3MTk3OTk0OTA3IiwiaW1hZ2VEb2NpZCI6IjEyNDU5NTY0NDUyOTM1NTk4MzcxIiwicmRzIjoiUENfMTQ3NzAzOTYxMTYyNjEzNzIxNzN8UFJPRF9QQ18xNDc3MDM5NjExNjI2MTM3MjE3MyIsInF1ZXJ5IjoiY29mZmVlK21vY2hhIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/a9915d85bc97109565fc641cd977b0fa5cfc22cf10d65e7ab9431d79d4e18ffa.webp",
+      "source_logo": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/a9915d85bc97109565fc641cd977b0faaeaa521b98b1309965bb78b746fb156531755db4b186cae3.jpeg",
+      "source": "Keurig.com",
+      "title": "Mccafe Chocolate Mocha Coffee K-Cup Pods",
+      "rating": 4.1,
+      "reviews": 914,
+      "price": "$11.49",
+      "extracted_price": 11.49,
+      "delivery": "Free $29+",
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIyMTI5NzU5OTkyMDU2NDE1MjA5IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI2NTM5NTY5NzIwNzkwNzYxOTUiLCJpbWFnZURvY2lkIjoiNDg0ODg2MzMxODA3MzA5ODMxNiIsInJkcyI6IlBDXzEyNzg1MTI0MTIyMzA1MjAzNTk1fFBST0RfUENfMTI3ODUxMjQxMjIzMDUyMDM1OTUiLCJxdWVyeSI6ImNvZmZlZSttb2NoYSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIyMTI5NzU5OTkyMDU2NDE1MjA5IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI2NTM5NTY5NzIwNzkwNzYxOTUiLCJpbWFnZURvY2lkIjoiNDg0ODg2MzMxODA3MzA5ODMxNiIsInJkcyI6IlBDXzEyNzg1MTI0MTIyMzA1MjAzNTk1fFBST0RfUENfMTI3ODUxMjQxMjIzMDUyMDM1OTUiLCJxdWVyeSI6ImNvZmZlZSttb2NoYSJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/a9915d85bc97109565fc641cd977b0fa79a9c181b730db45c67f2e66e8b62ad5.webp",
+      "source_logo": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/a9915d85bc97109565fc641cd977b0faebaa7656f9a7085db20a7b2aec47a3806be8d413775229b8.png",
+      "source": "Target",
+      "title": "Maxwell House International Suisse Mocha Decaf Sugar Free Instant Coffee Beverage Mix",
+      "rating": 4.5,
+      "reviews": 440,
+      "price": "$3.59",
+      "extracted_price": 3.59,
+      "location": "62 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiI3MDc4MTQ1MjYzMTY5MDM2NzYxIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI0NTc2MTUyMTIwNDkxNTUzOTk5IiwiaW1hZ2VEb2NpZCI6IjEzODUwODcyODg4NzA2NzMxNDkxIiwicmRzIjoiUENfMTM3NzE1MDYzMTU4NzQ3OTY3NDR8UFJPRF9QQ18xMzc3MTUwNjMxNTg3NDc5Njc0NCIsInF1ZXJ5IjoiY29mZmVlK21vY2hhIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiI3MDc4MTQ1MjYzMTY5MDM2NzYxIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI0NTc2MTUyMTIwNDkxNTUzOTk5IiwiaW1hZ2VEb2NpZCI6IjEzODUwODcyODg4NzA2NzMxNDkxIiwicmRzIjoiUENfMTM3NzE1MDYzMTU4NzQ3OTY3NDR8UFJPRF9QQ18xMzc3MTUwNjMxNTg3NDc5Njc0NCIsInF1ZXJ5IjoiY29mZmVlK21vY2hhIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/a9915d85bc97109565fc641cd977b0fa7ac64a51382313455c760b89e717fbaf.webp",
+      "source_logo": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/a9915d85bc97109565fc641cd977b0fae23fa73768bc738b14fce7b79e5956351c615dfc18b4b472.png",
+      "source": "Amazon.com",
+      "title": "Green Mountain Coffee Mountainside Mocha Latte K-Cup Pods",
+      "rating": 3.7,
+      "reviews": 92,
+      "price": "$11.99",
+      "extracted_price": 11.99,
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIxNzE4MTczMDM5ODY0NzAwODU2NyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjExNjgyODAzODQ4OTA2Nzg0NyIsImltYWdlRG9jaWQiOiI4Mjk4Njg2MzIyMjcxNDg4MjE0IiwicmRzIjoiUENfMTMzODUzODQ5NzM5MzE1MjUzNjl8UFJPRF9QQ18xMzM4NTM4NDk3MzkzMTUyNTM2OSIsInF1ZXJ5IjoiY29mZmVlK21vY2hhIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIxNzE4MTczMDM5ODY0NzAwODU2NyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjExNjgyODAzODQ4OTA2Nzg0NyIsImltYWdlRG9jaWQiOiI4Mjk4Njg2MzIyMjcxNDg4MjE0IiwicmRzIjoiUENfMTMzODUzODQ5NzM5MzE1MjUzNjl8UFJPRF9QQ18xMzM4NTM4NDk3MzkzMTUyNTM2OSIsInF1ZXJ5IjoiY29mZmVlK21vY2hhIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/a9915d85bc97109565fc641cd977b0fa198de4346f388f0e12b590242b0733fc.webp",
+      "source_logo": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/a9915d85bc97109565fc641cd977b0fa7e143c2832ec3ca5e8970b6e83d563578f75b3589836c3a0.png",
+      "source": "H-E-B",
+      "title": "International Delight Iced Coffee Mocha",
+      "rating": 4.2,
+      "reviews": 2400,
+      "price": "$4.76",
+      "extracted_price": 4.76,
+      "location": "10 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiI5MDMzNDI1NjI5Mzk3NzQyNTkyIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNzk1NTQ4ODg2Mjg3MTI4OTA5NSIsImltYWdlRG9jaWQiOiIxMjE3MDEyNjYwMzc1MTczMzMyMyIsInJkcyI6IlBDXzM5MjU1NzY3MTQxNTc0MDE2MjF8UFJPRF9QQ18zOTI1NTc2NzE0MTU3NDAxNjIxIiwicXVlcnkiOiJjb2ZmZWUrbW9jaGEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiI5MDMzNDI1NjI5Mzk3NzQyNTkyIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNzk1NTQ4ODg2Mjg3MTI4OTA5NSIsImltYWdlRG9jaWQiOiIxMjE3MDEyNjYwMzc1MTczMzMyMyIsInJkcyI6IlBDXzM5MjU1NzY3MTQxNTc0MDE2MjF8UFJPRF9QQ18zOTI1NTc2NzE0MTU3NDAxNjIxIiwicXVlcnkiOiJjb2ZmZWUrbW9jaGEifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/a9915d85bc97109565fc641cd977b0fa85dab84dff024e476569f1fbf918b8fd.webp",
+      "source_logo": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/a9915d85bc97109565fc641cd977b0fa78307e58cf2558887469e1788e8668d4b82df0f8792fdae4.png",
+      "source": "Walmart - Sweet Source USA",
+      "title": "Mocha Coffee (6 Pack)",
+      "rating": 4.9,
+      "reviews": 2200,
+      "price": "$20.99",
+      "extracted_price": 20.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIxMDQzMTQyNTE0MDY2Njc3MzY3NSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTEzMzQxMTUxODAyNjQxMjEwNjIiLCJpbWFnZURvY2lkIjoiMTE4ODk4MDM3MTgxMzQ2MjAwMDQiLCJyZHMiOiJQQ18xMTMyNzU2NDM0OTQyNjY5NTM5N3xQUk9EX1BDXzExMzI3NTY0MzQ5NDI2Njk1Mzk3IiwicXVlcnkiOiJjb2ZmZWUrbW9jaGEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIxMDQzMTQyNTE0MDY2Njc3MzY3NSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTEzMzQxMTUxODAyNjQxMjEwNjIiLCJpbWFnZURvY2lkIjoiMTE4ODk4MDM3MTgxMzQ2MjAwMDQiLCJyZHMiOiJQQ18xMTMyNzU2NDM0OTQyNjY5NTM5N3xQUk9EX1BDXzExMzI3NTY0MzQ5NDI2Njk1Mzk3IiwicXVlcnkiOiJjb2ZmZWUrbW9jaGEifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS6FfjGQVObARMuvWWf4fkiHuuXztDUqaDaQuQzby4UbKFcYDIcaHcdkhFNj93kLk3MjeG2vmL5CFBuwXwAw440xMXwlPpwor-2R-bcDp1pRWxhiN3u_phgDA",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTgDJw2mofi7kQOWQDu65XUMCogtBFyaL3uW1_L0YswzEotE9DR3MUFprG9U6UTG7noAIxhyS1gZPaJReHMyGVoRNkSYQ",
+      "source": "H-E-B",
+      "title": "Maxwell House International Suisse Mocha Cafe Beverage Mix",
+      "rating": 4.5,
+      "reviews": 511,
+      "price": "$3.52",
+      "extracted_price": 3.52,
+      "location": "10 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIxMTAwMjgxNTc1MTUyNjYwMDE1OSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTIxODg3Nzk1MTA1MDgyMjU1MyIsImltYWdlRG9jaWQiOiIxMjA5MTg3NTIzNDk5MjI3OTkwNyIsInJkcyI6IlBDXzc2NDUxODEzMjIyNzkyOTYxMzl8UFJPRF9QQ183NjQ1MTgxMzIyMjc5Mjk2MTM5IiwicXVlcnkiOiJjb2ZmZWUrbW9jaGEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIxMTAwMjgxNTc1MTUyNjYwMDE1OSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTIxODg3Nzk1MTA1MDgyMjU1MyIsImltYWdlRG9jaWQiOiIxMjA5MTg3NTIzNDk5MjI3OTkwNyIsInJkcyI6IlBDXzc2NDUxODEzMjIyNzkyOTYxMzl8UFJPRF9QQ183NjQ1MTgxMzIyMjc5Mjk2MTM5IiwicXVlcnkiOiJjb2ZmZWUrbW9jaGEifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSE4Jmv8Fsp0Xrn-8X_8AX1DpvtoQi5jbnoFi2nm7pjVumF5tHyQOkDhMvLcH70x8rKp86Ovad3X6L1XWnFpcoYWYFGhWbXZ1nwspFrEJTGuhSjnJuLWmc9",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Starbucks Mocha Flavored Ground Coffee",
+      "rating": 4.3,
+      "reviews": 616,
+      "price": "$8.48",
+      "extracted_price": 8.48,
+      "location": "12 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiI1MjA2NDIyNTE5NTYwMDUxNzQ4IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI4NzgzODY1MDA3MTk3OTk0OTA3IiwiaW1hZ2VEb2NpZCI6IjEyNDU5NTY0NDUyOTM1NTk4MzcxIiwicmRzIjoiUENfMTQ3NzAzOTYxMTYyNjEzNzIxNzN8UFJPRF9QQ18xNDc3MDM5NjExNjI2MTM3MjE3MyIsInF1ZXJ5IjoiY29mZmVlK21vY2hhIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiI1MjA2NDIyNTE5NTYwMDUxNzQ4IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI4NzgzODY1MDA3MTk3OTk0OTA3IiwiaW1hZ2VEb2NpZCI6IjEyNDU5NTY0NDUyOTM1NTk4MzcxIiwicmRzIjoiUENfMTQ3NzAzOTYxMTYyNjEzNzIxNzN8UFJPRF9QQ18xNDc3MDM5NjExNjI2MTM3MjE3MyIsInF1ZXJ5IjoiY29mZmVlK21vY2hhIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ4sGn54f0-PJbBJDi-IFJFrBn_DcZHQV9OeQ85G_IB21aN_BpsJVFU-g53DWI72rMhZ6mg-RInQ0qAi7C45bS_u16lknIsEAzyevzAEWjw",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTNUmppK-lnis9Xc6-QCWT3x4BEvuDTG1ZAlAUnb8JBMDAshETTiOzHhWyu2oKq1x0mUGc1VjECakwvPIAAdUlal-n2wCqxGOotZg",
+      "source": "Randalls",
+      "title": "Starbucks Flavored K-Cup Coffee Pods Mocha",
+      "rating": 3.7,
+      "reviews": 271,
+      "price": "$10.99",
+      "extracted_price": 10.99,
+      "location": "9.3 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiI4NzU2Mjk5ODcwNjQ2NjM5NTYwIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNTU5NDQ3NTg0NTQwMTM2MzYxMiIsImltYWdlRG9jaWQiOiIxMjczNjM5NzMzMTQwMDY1MDciLCJyZHMiOiJQQ184NzY2NDM4MzAzOTk1NTU0NzcyfFBST0RfUENfODc2NjQzODMwMzk5NTU1NDc3MiIsInF1ZXJ5IjoiY29mZmVlK21vY2hhIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiI4NzU2Mjk5ODcwNjQ2NjM5NTYwIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNTU5NDQ3NTg0NTQwMTM2MzYxMiIsImltYWdlRG9jaWQiOiIxMjczNjM5NzMzMTQwMDY1MDciLCJyZHMiOiJQQ184NzY2NDM4MzAzOTk1NTU0NzcyfFBST0RfUENfODc2NjQzODMwMzk5NTU1NDc3MiIsInF1ZXJ5IjoiY29mZmVlK21vY2hhIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ89tLynjosCs68bi8NruTlJMwPDi-YC0btE4J3Bs20phEnsqI2WoNnHhSPKtTXjpuMyQ5et-2QXUmysTlJpQftq97Hy_xer5RDLaGmf2rT",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQwNQuzSmDF8_rZu40RJ6kU6_tfvoEpQTNECF7aBM-ELm7BFVtUG0h0o0dHo34Vh8PfFRur4VqTIblTRXaYqBbgeOybVA",
+      "source": "CVS Pharmacy",
+      "title": "Starbucks Frappuccino Coffee Drink Mocha",
+      "rating": 4.5,
+      "reviews": 13000,
+      "price": "$4.29",
+      "extracted_price": 4.29,
+      "location": "11 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiI4ODQzNzg0NzAyMDI5ODczNjM2IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI5NjEzNDc3NTI1NTY2NzY5NDg5IiwiaW1hZ2VEb2NpZCI6Ijk4NTI1NDM0NTQ4MTA1NTM3MDQiLCJyZHMiOiJQQ183MDY0NTE3MjkxOTIyODQ2MDUyfFBST0RfUENfNzA2NDUxNzI5MTkyMjg0NjA1MiIsInF1ZXJ5IjoiY29mZmVlK21vY2hhIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiI4ODQzNzg0NzAyMDI5ODczNjM2IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI5NjEzNDc3NTI1NTY2NzY5NDg5IiwiaW1hZ2VEb2NpZCI6Ijk4NTI1NDM0NTQ4MTA1NTM3MDQiLCJyZHMiOiJQQ183MDY0NTE3MjkxOTIyODQ2MDUyfFBST0RfUENfNzA2NDUxNzI5MTkyMjg0NjA1MiIsInF1ZXJ5IjoiY29mZmVlK21vY2hhIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTrXbW64iLtaYDLnN-SWqGrlfpwxmNkBGIjfs6qoNcAot2zzKMJiIobiRQbttuQBfrb5b8qpSvRM-okyvJnVY1Eh0ncx2PpeoQ8CCEqazT8hMy7G37guUKF",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "Good & Gather Mocha Marshmallow Light Roast Ground Coffee",
+      "rating": 3.0,
+      "reviews": 35,
+      "price": "$6.99",
+      "extracted_price": 6.99,
+      "location": "12 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIyOTg5MTg0MjYyNzQyMzQ0NzY1IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxODQyMjcyNDg4NjU2NzcyNTk0NyIsImltYWdlRG9jaWQiOiIxMzEzMzY0MzcxNDYwMzE3NjIyMCIsInJkcyI6IlBDXzk3OTM3NTk2NjUzOTExMTg2NnxQUk9EX1BDXzk3OTM3NTk2NjUzOTExMTg2NiIsInF1ZXJ5IjoiY29mZmVlK21vY2hhIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIyOTg5MTg0MjYyNzQyMzQ0NzY1IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxODQyMjcyNDg4NjU2NzcyNTk0NyIsImltYWdlRG9jaWQiOiIxMzEzMzY0MzcxNDYwMzE3NjIyMCIsInJkcyI6IlBDXzk3OTM3NTk2NjUzOTExMTg2NnxQUk9EX1BDXzk3OTM3NTk2NjUzOTExMTg2NiIsInF1ZXJ5IjoiY29mZmVlK21vY2hhIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiI5MDMzNDI1NjI5Mzk3NzQyNTkyIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNzk1NTQ4ODg2Mjg3MTI4OTA5NSIsImltYWdlRG9jaWQiOiIxMjE3MDEyNjYwMzc1MTczMzMyMyIsInJkcyI6IlBDXzM5MjU1NzY3MTQxNTc0MDE2MjF8UFJPRF9QQ18zOTI1NTc2NzE0MTU3NDAxNjIxIiwicXVlcnkiOiJjb2ZmZWUrbW9jaGEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiI5MDMzNDI1NjI5Mzk3NzQyNTkyIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNzk1NTQ4ODg2Mjg3MTI4OTA5NSIsImltYWdlRG9jaWQiOiIxMjE3MDEyNjYwMzc1MTczMzMyMyIsInJkcyI6IlBDXzM5MjU1NzY3MTQxNTc0MDE2MjF8UFJPRF9QQ18zOTI1NTc2NzE0MTU3NDAxNjIxIiwicXVlcnkiOiJjb2ZmZWUrbW9jaGEifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIxMjYyNTU5Nzc2MjkxOTcxNDU5NCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc2MTI4MDUyNDQzNTMxMzQ2OTMiLCJpbWFnZURvY2lkIjoiMTI4NTI4Nzk1MDIxMjc2NTAwOTMiLCJyZHMiOiJQQ18xNzkyMjc5MzQzOTA1MzMzNzI4N3xQUk9EX1BDXzE3OTIyNzkzNDM5MDUzMzM3Mjg3IiwicXVlcnkiOiJjb2ZmZWUrbW9jaGEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIxMjYyNTU5Nzc2MjkxOTcxNDU5NCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc2MTI4MDUyNDQzNTMxMzQ2OTMiLCJpbWFnZURvY2lkIjoiMTI4NTI4Nzk1MDIxMjc2NTAwOTMiLCJyZHMiOiJQQ18xNzkyMjc5MzQzOTA1MzMzNzI4N3xQUk9EX1BDXzE3OTIyNzkzNDM5MDUzMzM3Mjg3IiwicXVlcnkiOiJjb2ZmZWUrbW9jaGEifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIxMDkwMDIxMDIxMjk4OTc5Nzc4IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIyOTE5Nzc2ODE3NTY4NDMxNjYwIiwiaW1hZ2VEb2NpZCI6IjQwMTYyMDU3NDM2Mzc1NzkwMzQiLCJyZHMiOiJQQ18xNjA4MTQ3NDE0ODI0MjA4Mjg3OXxQUk9EX1BDXzE2MDgxNDc0MTQ4MjQyMDgyODc5IiwicXVlcnkiOiJjb2ZmZWUrbW9jaGEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIxMDkwMDIxMDIxMjk4OTc5Nzc4IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIyOTE5Nzc2ODE3NTY4NDMxNjYwIiwiaW1hZ2VEb2NpZCI6IjQwMTYyMDU3NDM2Mzc1NzkwMzQiLCJyZHMiOiJQQ18xNjA4MTQ3NDE0ODI0MjA4Mjg3OXxQUk9EX1BDXzE2MDgxNDc0MTQ4MjQyMDgyODc5IiwicXVlcnkiOiJjb2ZmZWUrbW9jaGEifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIxMjYyNTU5Nzc2MjkxOTcxNDU5NCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTkwNDE3MzA5MzU4NTk1NjM1NSIsImltYWdlRG9jaWQiOiIxMjg1Mjg3OTUwMjEyNzY1MDA5MyIsInJkcyI6IlBDXzE3OTIyNzkzNDM5MDUzMzM3Mjg3fFBST0RfUENfMTc5MjI3OTM0MzkwNTMzMzcyODciLCJxdWVyeSI6ImNvZmZlZSttb2NoYSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIxMjYyNTU5Nzc2MjkxOTcxNDU5NCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTkwNDE3MzA5MzU4NTk1NjM1NSIsImltYWdlRG9jaWQiOiIxMjg1Mjg3OTUwMjEyNzY1MDA5MyIsInJkcyI6IlBDXzE3OTIyNzkzNDM5MDUzMzM3Mjg3fFBST0RfUENfMTc5MjI3OTM0MzkwNTMzMzcyODciLCJxdWVyeSI6ImNvZmZlZSttb2NoYSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIxNDcxOTYxODAxMjU2NzM1NDE5NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzM4Nzk5OTM3NjIyMDkzNjQzNSIsImltYWdlRG9jaWQiOiIxNTU3MjU0OTY2MTU2NTM4NjY0MCIsInJkcyI6IlBDXzk3NTY0OTU5OTYzOTQ5NTUzNDR8UFJPRF9QQ185NzU2NDk1OTk2Mzk0OTU1MzQ0IiwicXVlcnkiOiJjb2ZmZWUrbW9jaGEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIxNDcxOTYxODAxMjU2NzM1NDE5NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzM4Nzk5OTM3NjIyMDkzNjQzNSIsImltYWdlRG9jaWQiOiIxNTU3MjU0OTY2MTU2NTM4NjY0MCIsInJkcyI6IlBDXzk3NTY0OTU5OTYzOTQ5NTUzNDR8UFJPRF9QQ185NzU2NDk1OTk2Mzk0OTU1MzQ0IiwicXVlcnkiOiJjb2ZmZWUrbW9jaGEifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIxMjYyNTU5Nzc2MjkxOTcxNDU5NCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTU0NDA1OTU1ODcxNjkzODQxOSIsImltYWdlRG9jaWQiOiIxMjg1Mjg3OTUwMjEyNzY1MDA5MyIsInJkcyI6IlBDXzE3OTIyNzkzNDM5MDUzMzM3Mjg3fFBST0RfUENfMTc5MjI3OTM0MzkwNTMzMzcyODciLCJxdWVyeSI6ImNvZmZlZSttb2NoYSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIxMjYyNTU5Nzc2MjkxOTcxNDU5NCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTU0NDA1OTU1ODcxNjkzODQxOSIsImltYWdlRG9jaWQiOiIxMjg1Mjg3OTUwMjEyNzY1MDA5MyIsInJkcyI6IlBDXzE3OTIyNzkzNDM5MDUzMzM3Mjg3fFBST0RfUENfMTc5MjI3OTM0MzkwNTMzMzcyODciLCJxdWVyeSI6ImNvZmZlZSttb2NoYSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiI2MjAyMTg2ODQxMTI3MDk3Nzk3IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTIzNjM5NjIyNTE4NTc1MDUyNCIsImltYWdlRG9jaWQiOiIzMTc3MDkxOTA5NTIxMTAzMTk0IiwicmRzIjoiUENfNDY1MDU1NjE0Njk1NTMxNDkwMnxQUk9EX1BDXzQ2NTA1NTYxNDY5NTUzMTQ5MDIiLCJxdWVyeSI6ImNvZmZlZSttb2NoYSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiI2MjAyMTg2ODQxMTI3MDk3Nzk3IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTIzNjM5NjIyNTE4NTc1MDUyNCIsImltYWdlRG9jaWQiOiIzMTc3MDkxOTA5NTIxMTAzMTk0IiwicmRzIjoiUENfNDY1MDU1NjE0Njk1NTMxNDkwMnxQUk9EX1BDXzQ2NTA1NTYxNDY5NTUzMTQ5MDIiLCJxdWVyeSI6ImNvZmZlZSttb2NoYSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIxMDA1NTk2OTk5ODA1MTYzMTYzIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNzQ2MjEwMTExNDI1MTk0MjkwNiIsImltYWdlRG9jaWQiOiI4OTk2OTIxNzk4NDg1NDA0OTk5IiwicmRzIjoiUENfNDM5MTkxMjQyNDAzMTYyODE5OHxQUk9EX1BDXzQzOTE5MTI0MjQwMzE2MjgxOTgiLCJxdWVyeSI6ImNvZmZlZSttb2NoYSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIxMDA1NTk2OTk5ODA1MTYzMTYzIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNzQ2MjEwMTExNDI1MTk0MjkwNiIsImltYWdlRG9jaWQiOiI4OTk2OTIxNzk4NDg1NDA0OTk5IiwicmRzIjoiUENfNDM5MTkxMjQyNDAzMTYyODE5OHxQUk9EX1BDXzQzOTE5MTI0MjQwMzE2MjgxOTgiLCJxdWVyeSI6ImNvZmZlZSttb2NoYSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIyMDU4Mzk1NDk3NTgzMTgyMTM5IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDA5OTk5MzY4NDY3Njc4NTI0OCIsImltYWdlRG9jaWQiOiIxNTQwODEzMjM4ODQ2NDU5NDMyNyIsInJkcyI6IlBDXzU0MjIxNDExMjQ2NjM4MjE2MzZ8UFJPRF9QQ181NDIyMTQxMTI0NjYzODIxNjM2IiwicXVlcnkiOiJjb2ZmZWUrbW9jaGEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIyMDU4Mzk1NDk3NTgzMTgyMTM5IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDA5OTk5MzY4NDY3Njc4NTI0OCIsImltYWdlRG9jaWQiOiIxNTQwODEzMjM4ODQ2NDU5NDMyNyIsInJkcyI6IlBDXzU0MjIxNDExMjQ2NjM4MjE2MzZ8UFJPRF9QQ181NDIyMTQxMTI0NjYzODIxNjM2IiwicXVlcnkiOiJjb2ZmZWUrbW9jaGEifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiI2NjU4MzE3MDc4NDQyODQxMDEzIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzM1NzM2OTg0ODAzMzc4ODYzMSIsImltYWdlRG9jaWQiOiIxNTk0NzY0NDE2MTkwNjQwOTg5NyIsInJkcyI6IlBDXzE4MTc1NTc4MzgyMzQ0MTU3NTAzfFBST0RfUENfMTgxNzU1NzgzODIzNDQxNTc1MDMiLCJxdWVyeSI6ImNvZmZlZSttb2NoYSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiI2NjU4MzE3MDc4NDQyODQxMDEzIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzM1NzM2OTg0ODAzMzc4ODYzMSIsImltYWdlRG9jaWQiOiIxNTk0NzY0NDE2MTkwNjQwOTg5NyIsInJkcyI6IlBDXzE4MTc1NTc4MzgyMzQ0MTU3NTAzfFBST0RfUENfMTgxNzU1NzgzODIzNDQxNTc1MDMiLCJxdWVyeSI6ImNvZmZlZSttb2NoYSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiI5MDMzNDI1NjI5Mzk3NzQyNTkyIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI3NjA4NTE5MzU0NTgxMjQ4NzIwIiwiaW1hZ2VEb2NpZCI6IjEyMTcwMTI2NjAzNzUxNzMzMzIzIiwicmRzIjoiUENfMzkyNTU3NjcxNDE1NzQwMTYyMXxQUk9EX1BDXzM5MjU1NzY3MTQxNTc0MDE2MjEiLCJxdWVyeSI6ImNvZmZlZSttb2NoYSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiI5MDMzNDI1NjI5Mzk3NzQyNTkyIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI3NjA4NTE5MzU0NTgxMjQ4NzIwIiwiaW1hZ2VEb2NpZCI6IjEyMTcwMTI2NjAzNzUxNzMzMzIzIiwicmRzIjoiUENfMzkyNTU3NjcxNDE1NzQwMTYyMXxQUk9EX1BDXzM5MjU1NzY3MTQxNTc0MDE2MjEiLCJxdWVyeSI6ImNvZmZlZSttb2NoYSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIxNjY2NzYwMDE2MzQ5MzEyMTUzIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNzEwNzAwODYyOTMxMDYwMzY3OSIsImltYWdlRG9jaWQiOiIxMDA1MTY0NTg2NzYyMDk0NzI3NyIsInJkcyI6IlBDXzkxNzI5MTk1MzkwMTYyNTI5MTB8UFJPRF9QQ185MTcyOTE5NTM5MDE2MjUyOTEwIiwicXVlcnkiOiJjb2ZmZWUrbW9jaGEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiIxNjY2NzYwMDE2MzQ5MzEyMTUzIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNzEwNzAwODYyOTMxMDYwMzY3OSIsImltYWdlRG9jaWQiOiIxMDA1MTY0NTg2NzYyMDk0NzI3NyIsInJkcyI6IlBDXzkxNzI5MTk1MzkwMTYyNTI5MTB8UFJPRF9QQ185MTcyOTE5NTM5MDE2MjUyOTEwIiwicXVlcnkiOiJjb2ZmZWUrbW9jaGEifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiI2NjEwMDE0NDIzODYzMzE1NzE4IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNjc5NDc3NjA2MTcwMTYzNTIyMCIsImltYWdlRG9jaWQiOiI4MzAzOTExMzM5Mzk2MDkyNjg0IiwicmRzIjoiUENfOTQ1NDMyMTE5MDg0NzE2ODM1MXxQUk9EX1BDXzk0NTQzMjExOTA4NDcxNjgzNTEiLCJxdWVyeSI6ImNvZmZlZSttb2NoYSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiI2NjEwMDE0NDIzODYzMzE1NzE4IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNjc5NDc3NjA2MTcwMTYzNTIyMCIsImltYWdlRG9jaWQiOiI4MzAzOTExMzM5Mzk2MDkyNjg0IiwicmRzIjoiUENfOTQ1NDMyMTE5MDg0NzE2ODM1MXxQUk9EX1BDXzk0NTQzMjExOTA4NDcxNjgzNTEiLCJxdWVyeSI6ImNvZmZlZSttb2NoYSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiI3MDc4MTQ1MjYzMTY5MDM2NzYxIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI0NTc2MTUyMTIwNDkxNTUzOTk5IiwiaW1hZ2VEb2NpZCI6IjEzODUwODcyODg4NzA2NzMxNDkxIiwicmRzIjoiUENfMTM3NzE1MDYzMTU4NzQ3OTY3NDR8UFJPRF9QQ18xMzc3MTUwNjMxNTg3NDc5Njc0NCIsInF1ZXJ5IjoiY29mZmVlK21vY2hhIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IklEQUtaLXJhTzlHdjVOb1A0cUtGRVEiLCJwcm9kdWN0aWQiOiIiLCJjYXRhbG9naWQiOiI3MDc4MTQ1MjYzMTY5MDM2NzYxIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI0NTc2MTUyMTIwNDkxNTUzOTk5IiwiaW1hZ2VEb2NpZCI6IjEzODUwODcyODg4NzA2NzMxNDkxIiwicmRzIjoiUENfMTM3NzE1MDYzMTU4NzQ3OTY3NDR8UFJPRF9QQ18xMzc3MTUwNjMxNTg3NDc5Njc0NCIsInF1ZXJ5IjoiY29mZmVlK21vY2hhIn0%3D"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is a mocha coffee?",
+      "snippet": "Although a mocha is often interpreted differently across the world, the basis is that a shot of espresso is combined with chocolate powder or syrup, followed by milk or cream. It is a variant of a latte, in the sense that it is often 1/3 espresso and 2/3 steamed milk.",
+      "title": "What is a mocha coffee? | Nescaf\u00e9 UK &IE",
+      "link": "https://www.nescafe.com/gb/coffee-culture/knowledge/what-is-a-mocha#:~:text=Although%20a%20mocha%20is%20often,and%202%2F3%20steamed%20milk.",
+      "displayed_link": "https://www.nescafe.com \u203a coffee-culture \u203a knowledge",
+      "source_logo": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/a89eeee06b1ac2028e06ba8e3148868fed45925fceb38a4e6658d1f31c4c0fa9.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210TmRYZHpWVE5CY2sxNFdXUnZTemxtYTFkS2FtaHhXVmRHY0dSVmVuZExaVWhwV0VoWmVTMUZiR0ZTVDJ4eFptaEZjRWw1Tkc0eWNrbHRkVUl4Y25reVpsSnRkRXRZRWhaSlJFRkxXaTF5WVU4NVIzWTFUbTlRTkhGTFJrVlJHaUpCUmxoeVJXTndMVVowVG14S1NsTndiMHhLYW1SNk1rUmxWV2xEWWxWNVdHNUIiLCJmY3YiOiIzIiwiZWkiOiJJREFLWi1yYU85R3Y1Tm9QNHFLRkVRIiwicWMiOiJDZ3hqYjJabVpXVWdiVzlqYUdFUUFIMnJvU0FfIiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgbW9jaGEgY29mZmVlPyIsImxrIjoiR2hWM2FHRjBKM01nWVNCdGIyTm9ZU0JqYjJabVpXVSIsImJzIjoiYy1NeTVSSVB6MGdzVWNnc1ZraFV5TTFQemtoVVNNNVBTMHROdFpkWTcySWtMaVZhRHBSVlI1ZmtDdUJTOFN5R0NtV1ZGcGRBeFJYS00wc3lGSkl6OHBQemN4SkxnR2IweWhtcFNpbG5FbGJLWmNVbGllNlFzbUlGb0JUSW1EdDhSbEpTRXVVNDVMbGN1T1FRZXBNVDAxSVJDc0FNZTRtbk5rYnlVckxsLUJRSk1BSUEiLCJpZCI6ImZjX0lEQUtaLXJhTzlHdjVOb1A0cUtGRVFfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210TmRYZHpWVE5CY2sxNFdXUnZTemxtYTFkS2FtaHhXVmRHY0dSVmVuZExaVWhwV0VoWmVTMUZiR0ZTVDJ4eFptaEZjRWw1Tkc0eWNrbHRkVUl4Y25reVpsSnRkRXRZRWhaSlJFRkxXaTF5WVU4NVIzWTFUbTlRTkhGTFJrVlJHaUpCUmxoeVJXTndMVVowVG14S1NsTndiMHhLYW1SNk1rUmxWV2xEWWxWNVdHNUIiLCJmY3YiOiIzIiwiZWkiOiJJREFLWi1yYU85R3Y1Tm9QNHFLRkVRIiwicWMiOiJDZ3hqYjJabVpXVWdiVzlqYUdFUUFIMnJvU0FfIiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgbW9jaGEgY29mZmVlPyIsImxrIjoiR2hWM2FHRjBKM01nWVNCdGIyTm9ZU0JqYjJabVpXVSIsImJzIjoiYy1NeTVSSVB6MGdzVWNnc1ZraFV5TTFQemtoVVNNNVBTMHROdFpkWTcySWtMaVZhRHBSVlI1ZmtDdUJTOFN5R0NtV1ZGcGRBeFJYS00wc3lGSkl6OHBQemN4SkxnR2IweWhtcFNpbG5FbGJLWmNVbGllNlFzbUlGb0JUSW1EdDhSbEpTRXVVNDVMbGN1T1FRZXBNVDAxSVJDc0FNZTRtbk5rYnlVckxsLUJRSk1BSUEiLCJpZCI6ImZjX0lEQUtaLXJhTzlHdjVOb1A0cUtGRVFfMSJ9"
+    },
+    {
+      "question": "Is mocha just coffee with chocolate?",
+      "snippet": "What exactly is mocha? A mocha is a blend of a cappuccino and a hot chocolate. Like a cappuccino it contains espresso, warm milk and a frothy top but it also contains a sweet chocolatey twist using either chocolate powder, chocolate syrup or melted chocolate.",
+      "title": "The only mocha guide you'll ever need | Nespresso AU",
+      "link": "https://www.nespresso.com/au/en/news/the-only-mocha-guide-you-will-ever-need#:~:text=What%20exactly%20is%20mocha%3F,chocolate%20syrup%20or%20melted%20chocolate.",
+      "displayed_link": "https://www.nespresso.com \u203a news \u203a the-only-mocha-gui...",
+      "source_logo": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/a89eeee06b1ac2028e06ba8e3148868f977d2deb779995f25bfddebefc6374bf.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210TmRYZHpWVE5CY2sxNFdXUnZTemxtYTFkS2FtaHhXVmRHY0dSVmVuZExaVWhwV0VoWmVTMUZiR0ZTVDJ4eFptaEZjRWw1Tkc0eWNrbHRkVUl4Y25reVpsSnRkRXRZRWhaSlJFRkxXaTF5WVU4NVIzWTFUbTlRTkhGTFJrVlJHaUpCUmxoeVJXTndMVVowVG14S1NsTndiMHhLYW1SNk1rUmxWV2xEWWxWNVdHNUIiLCJmY3YiOiIzIiwiZWkiOiJJREFLWi1yYU85R3Y1Tm9QNHFLRkVRIiwicWMiOiJDZ3hqYjJabVpXVWdiVzlqYUdFUUFIMnJvU0FfIiwicXVlc3Rpb24iOiJJcyBtb2NoYSBqdXN0IGNvZmZlZSB3aXRoIGNob2NvbGF0ZT8iLCJsayI6IkdpTnBjeUJ0YjJOb1lTQnFkWE4wSUdOdlptWmxaU0IzYVhSb0lHTm9iMk52YkdGMFpRIiwiYnMiOiJjLU15NVJJUHowZ3NVY2dzVmtoVXlNMVB6a2hVU001UFMwdE50WmRZNzJJa0xpVmFEcFJWUjVma0N1QlM4U3lHQ21XVkZwZEF4UlhLTTBzeUZKSXo4cFB6Y3hKTGdHYjB5aG1wU2lsbkVsYktaY1VsaWU2UXNtSUZvQlRJbUR0OFJsSlNFdVU0NUxsY3VPUVFlcE1UMDFJUkNzQU1lNG1uTmtieVVyTGwtQlFKTUFJQSIsImlkIjoiZmNfSURBS1otcmFPOUd2NU5vUDRxS0ZFUV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210TmRYZHpWVE5CY2sxNFdXUnZTemxtYTFkS2FtaHhXVmRHY0dSVmVuZExaVWhwV0VoWmVTMUZiR0ZTVDJ4eFptaEZjRWw1Tkc0eWNrbHRkVUl4Y25reVpsSnRkRXRZRWhaSlJFRkxXaTF5WVU4NVIzWTFUbTlRTkhGTFJrVlJHaUpCUmxoeVJXTndMVVowVG14S1NsTndiMHhLYW1SNk1rUmxWV2xEWWxWNVdHNUIiLCJmY3YiOiIzIiwiZWkiOiJJREFLWi1yYU85R3Y1Tm9QNHFLRkVRIiwicWMiOiJDZ3hqYjJabVpXVWdiVzlqYUdFUUFIMnJvU0FfIiwicXVlc3Rpb24iOiJJcyBtb2NoYSBqdXN0IGNvZmZlZSB3aXRoIGNob2NvbGF0ZT8iLCJsayI6IkdpTnBjeUJ0YjJOb1lTQnFkWE4wSUdOdlptWmxaU0IzYVhSb0lHTm9iMk52YkdGMFpRIiwiYnMiOiJjLU15NVJJUHowZ3NVY2dzVmtoVXlNMVB6a2hVU001UFMwdE50WmRZNzJJa0xpVmFEcFJWUjVma0N1QlM4U3lHQ21XVkZwZEF4UlhLTTBzeUZKSXo4cFB6Y3hKTGdHYjB5aG1wU2lsbkVsYktaY1VsaWU2UXNtSUZvQlRJbUR0OFJsSlNFdVU0NUxsY3VPUVFlcE1UMDFJUkNzQU1lNG1uTmtieVVyTGwtQlFKTUFJQSIsImlkIjoiZmNfSURBS1otcmFPOUd2NU5vUDRxS0ZFUV8xIn0%3D"
+    },
+    {
+      "question": "What is a mocha vs latte?",
+      "snippet": "The difference between these two drinks primarily comes from their ingredients: a mocha consists of espresso, chocolate syrup or powder, and steamed milk, while a latte is made with espresso and steamed milk. Mocha has a strong chocolate flavor with a hint of coffee, while latte offers a milder coffee flavor.",
+      "title": "Mocha vs. Latte: The Ultimate Guide to Coffee Choices",
+      "date": "May 14, 2023",
+      "link": "https://majestycoffee.com/blogs/posts/mocha-vs-latte#:~:text=The%20difference%20between%20these%20two,offers%20a%20milder%20coffee%20flavor.",
+      "displayed_link": "https://majestycoffee.com \u203a blogs \u203a posts \u203a mocha-vs-latte",
+      "source_logo": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/a89eeee06b1ac2028e06ba8e3148868f46df665cf2032f2db139543d03e4eedb.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210TmRYZHpWVE5CY2sxNFdXUnZTemxtYTFkS2FtaHhXVmRHY0dSVmVuZExaVWhwV0VoWmVTMUZiR0ZTVDJ4eFptaEZjRWw1Tkc0eWNrbHRkVUl4Y25reVpsSnRkRXRZRWhaSlJFRkxXaTF5WVU4NVIzWTFUbTlRTkhGTFJrVlJHaUpCUmxoeVJXTndMVVowVG14S1NsTndiMHhLYW1SNk1rUmxWV2xEWWxWNVdHNUIiLCJmY3YiOiIzIiwiZWkiOiJJREFLWi1yYU85R3Y1Tm9QNHFLRkVRIiwicWMiOiJDZ3hqYjJabVpXVWdiVzlqYUdFUUFIMnJvU0FfIiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgbW9jaGEgdnMgbGF0dGU/IiwibGsiOiJHaGgzYUdGMElHbHpJR0VnYlc5amFHRWdkbk1nYkdGMGRHVSIsImJzIjoiYy1NeTVSSVB6MGdzVWNnc1ZraFV5TTFQemtoVVNNNVBTMHROdFpkWTcySWtMaVZhRHBSVlI1ZmtDdUJTOFN5R0NtV1ZGcGRBeFJYS00wc3lGSkl6OHBQemN4SkxnR2IweWhtcFNpbG5FbGJLWmNVbGllNlFzbUlGb0JUSW1EdDhSbEpTRXVVNDVMbGN1T1FRZXBNVDAxSVJDc0FNZTRtbk5rYnlVckxsLUJRSk1BSUEiLCJpZCI6ImZjX0lEQUtaLXJhTzlHdjVOb1A0cUtGRVFfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210TmRYZHpWVE5CY2sxNFdXUnZTemxtYTFkS2FtaHhXVmRHY0dSVmVuZExaVWhwV0VoWmVTMUZiR0ZTVDJ4eFptaEZjRWw1Tkc0eWNrbHRkVUl4Y25reVpsSnRkRXRZRWhaSlJFRkxXaTF5WVU4NVIzWTFUbTlRTkhGTFJrVlJHaUpCUmxoeVJXTndMVVowVG14S1NsTndiMHhLYW1SNk1rUmxWV2xEWWxWNVdHNUIiLCJmY3YiOiIzIiwiZWkiOiJJREFLWi1yYU85R3Y1Tm9QNHFLRkVRIiwicWMiOiJDZ3hqYjJabVpXVWdiVzlqYUdFUUFIMnJvU0FfIiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgbW9jaGEgdnMgbGF0dGU%2FIiwibGsiOiJHaGgzYUdGMElHbHpJR0VnYlc5amFHRWdkbk1nYkdGMGRHVSIsImJzIjoiYy1NeTVSSVB6MGdzVWNnc1ZraFV5TTFQemtoVVNNNVBTMHROdFpkWTcySWtMaVZhRHBSVlI1ZmtDdUJTOFN5R0NtV1ZGcGRBeFJYS00wc3lGSkl6OHBQemN4SkxnR2IweWhtcFNpbG5FbGJLWmNVbGllNlFzbUlGb0JUSW1EdDhSbEpTRXVVNDVMbGN1T1FRZXBNVDAxSVJDc0FNZTRtbk5rYnlVckxsLUJRSk1BSUEiLCJpZCI6ImZjX0lEQUtaLXJhTzlHdjVOb1A0cUtGRVFfMSJ9"
+    },
+    {
+      "question": "What is a cafe mocha vs mocha?",
+      "snippet": "Mocha in general refers to any drink that is a mix of coffee and chocolate. A cafe mocha is basically a hot chocolate with some coffee. So you make a hot chocolate drink using cocoa mix and milk, then add some espresso or coffee.",
+      "title": "What is the difference between a Cafe Mocha and a Mocha Latte? - Quora",
+      "date": "Jul 31, 2021",
+      "link": "https://www.quora.com/What-is-the-difference-between-a-Cafe-Mocha-and-a-Mocha-Latte#:~:text=Mocha%20in%20general%20refers%20to,add%20some%20espresso%20or%20coffee.",
+      "displayed_link": "https://www.quora.com \u203a What-is-the-difference-betwee...",
+      "source_logo": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/a89eeee06b1ac2028e06ba8e3148868f535e670720ab45c151992956512d3791.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210TmRYZHpWVE5CY2sxNFdXUnZTemxtYTFkS2FtaHhXVmRHY0dSVmVuZExaVWhwV0VoWmVTMUZiR0ZTVDJ4eFptaEZjRWw1Tkc0eWNrbHRkVUl4Y25reVpsSnRkRXRZRWhaSlJFRkxXaTF5WVU4NVIzWTFUbTlRTkhGTFJrVlJHaUpCUmxoeVJXTndMVVowVG14S1NsTndiMHhLYW1SNk1rUmxWV2xEWWxWNVdHNUIiLCJmY3YiOiIzIiwiZWkiOiJJREFLWi1yYU85R3Y1Tm9QNHFLRkVRIiwicWMiOiJDZ3hqYjJabVpXVWdiVzlqYUdFUUFIMnJvU0FfIiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgY2FmZSBtb2NoYSB2cyBtb2NoYT8iLCJsayI6ImM1T1NMYzlJTEZISUxGWklWRWhPVEV0VnlNMVB6a2hVS0N1R01BQSIsImJzIjoiYy1NeTVSSVB6MGdzVWNnc1ZraFV5TTFQemtoVVNNNVBTMHROdFpkWTcySWtMaVZhRHBSVlI1ZmtDdUJTOFN5R0NtV1ZGcGRBeFJYS00wc3lGSkl6OHBQemN4SkxnR2IweWhtcFNpbG5FbGJLWmNVbGllNlFzbUlGb0JUSW1EdDhSbEpTRXVVNDVMbGN1T1FRZXBNVDAxSVJDc0FNZTRtbk5rYnlVckxsLUJRSk1BSUEiLCJpZCI6ImZjX0lEQUtaLXJhTzlHdjVOb1A0cUtGRVFfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210TmRYZHpWVE5CY2sxNFdXUnZTemxtYTFkS2FtaHhXVmRHY0dSVmVuZExaVWhwV0VoWmVTMUZiR0ZTVDJ4eFptaEZjRWw1Tkc0eWNrbHRkVUl4Y25reVpsSnRkRXRZRWhaSlJFRkxXaTF5WVU4NVIzWTFUbTlRTkhGTFJrVlJHaUpCUmxoeVJXTndMVVowVG14S1NsTndiMHhLYW1SNk1rUmxWV2xEWWxWNVdHNUIiLCJmY3YiOiIzIiwiZWkiOiJJREFLWi1yYU85R3Y1Tm9QNHFLRkVRIiwicWMiOiJDZ3hqYjJabVpXVWdiVzlqYUdFUUFIMnJvU0FfIiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgY2FmZSBtb2NoYSB2cyBtb2NoYT8iLCJsayI6ImM1T1NMYzlJTEZISUxGWklWRWhPVEV0VnlNMVB6a2hVS0N1R01BQSIsImJzIjoiYy1NeTVSSVB6MGdzVWNnc1ZraFV5TTFQemtoVVNNNVBTMHROdFpkWTcySWtMaVZhRHBSVlI1ZmtDdUJTOFN5R0NtV1ZGcGRBeFJYS00wc3lGSkl6OHBQemN4SkxnR2IweWhtcFNpbG5FbGJLWmNVbGllNlFzbUlGb0JUSW1EdDhSbEpTRXVVNDVMbGN1T1FRZXBNVDAxSVJDc0FNZTRtbk5rYnlVckxsLUJRSk1BSUEiLCJpZCI6ImZjX0lEQUtaLXJhTzlHdjVOb1A0cUtGRVFfMSJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Mocha Coffee Recipe",
+      "link": "https://www.allrecipes.com/recipe/23538/mocha-coffee/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.allrecipes.com/recipe/23538/mocha-coffee/&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQFnoECBQQAQ",
+      "displayed_link": "https://www.allrecipes.com \u203a Recipes \u203a Drinks Recipes",
+      "thumbnail": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/1c70e5323b70f7e7379b5cda4579bd6f528985e8a8899705fc8fa49f67badf06.jpeg",
+      "favicon": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/1c70e5323b70f7e7379b5cda4579bd6f9a26ce5da252c4eba958196f0e45aaeb.webp",
+      "date": "Feb 25, 2023",
+      "snippet": "Ingredients \u00b7 1 cup hot brewed coffee \u00b7 1 tablespoon unsweetened cocoa powder \u00b7 1 tablespoon white sugar \u00b7 2 tablespoons milk ...",
+      "snippet_highlighted_words": [
+        "coffee"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.3,
+            "min": 10
+          },
+          "extensions": [
+            "4.3(202)",
+            "10 min"
+          ]
+        }
+      },
+      "source": "Allrecipes"
+    },
+    {
+      "position": 2,
+      "title": "Caff\u00e8 mocha",
+      "link": "https://en.wikipedia.org/wiki/Caff%C3%A8_mocha",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Caff%25C3%25A8_mocha&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQFnoECE8QAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Caff\u00e8_mocha",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLcT8bcIKoXQs2MhmS0s_0sKuoDMOk1FLNg5mokacgdxXV44tFJuSJ&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/1c70e5323b70f7e7379b5cda4579bd6f707ffa7b625883da1b95245114340a8b.webp",
+      "snippet": "A caff\u00e8 mocha also called mocaccino is a chocolate-flavoured warm beverage that is a variant of a caff\u00e8 latte, commonly served in a glass rather than a mug.",
+      "snippet_highlighted_words": [
+        "mocha"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 3,
+      "title": "How to make a Mocha",
+      "link": "https://www.youtube.com/watch?v=CagWOmrkKoc",
+      "displayed_link": "1.6M+ views \u00b7 1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/CagWOmrkKoc/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3k4p4HF2kSzznjpvXn89W3YKN7yRQ",
+      "favicon": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/1c70e5323b70f7e7379b5cda4579bd6fb5b654550e7c1db9a5ed26810ebb7e35.png",
+      "snippet": "... Coffee Recipe | Better than Coffee Shop Style Cold Coffee | Easy Summer Drinks ... Three Cafe Style Coffees At Home | Simple Hot Coffee Recipes | ...",
+      "duration": "0:56",
+      "source": "YouTube \u00b7 Brewing Habits"
+    },
+    {
+      "position": 4,
+      "title": "Make A Perfect Cafe Mocha [3 Ways]",
+      "link": "https://homecafebycharlie.com/make-a-perfect-cafe-mocha-3-ways/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://homecafebycharlie.com/make-a-perfect-cafe-mocha-3-ways/&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQFnoECFIQAQ",
+      "displayed_link": "https://homecafebycharlie.com \u203a make-a-perfect-cafe-m...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAC1QZJG9mfSdVaipuD9IxKEsJ2x6RRr7o5nIki_4FcKspMsA3X4QN&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/1c70e5323b70f7e7379b5cda4579bd6f5f9f52427fe00a6f63a0a780b0e5e0ca.webp",
+      "snippet": "Simple and Quick Cafe Mocha (Recipe 1) \u00b7 2tsp Cocoa Powder (Dutch Processed is best, but whatever you can get your hands on) \u00b7 1tsp of brown sugar (the molasses ...",
+      "snippet_highlighted_words": [
+        "Cafe Mocha"
+      ],
+      "source": "Home Cafe by Charlie"
+    },
+    {
+      "position": 5,
+      "title": "Caff\u00e8 Mocha Recipe",
+      "link": "https://athome.starbucks.com/recipe/caffe-mocha",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://athome.starbucks.com/recipe/caffe-mocha&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQFnoECFMQAQ",
+      "displayed_link": "https://athome.starbucks.com \u203a recipe \u203a caffe-mocha",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXWpcd_n_Ws2XM3A_FStBFFC9sPTT2pALqL2J0jkxkMf1G6ZLL9zQi&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/1c70e5323b70f7e7379b5cda4579bd6f9946928fcdb41107d0ad8c0b374afa68.webp",
+      "snippet": "This Starbucks classic combines espresso, bittersweet mocha sauce and steamed milk for a sweetly satisfying coffee. Top it off with whipped cream and chocolate ...",
+      "snippet_highlighted_words": [
+        "mocha",
+        "coffee"
+      ],
+      "rich_snippet": {
+        "bottom": {}
+      },
+      "source": "Starbucks"
+    },
+    {
+      "position": 6,
+      "title": "White Chocolate Mocha",
+      "link": "https://www.starbucks.com/menu/product/420/hot",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.starbucks.com/menu/product/420/hot&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQFnoECFEQAQ",
+      "displayed_link": "https://www.starbucks.com \u203a menu \u203a product \u203a hot",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs_7dzrYCXdzLuTddLgJukyK0DMphxSF-HKp62mf805scOutfBIxHq&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/1c70e5323b70f7e7379b5cda4579bd6f8073ee23b955029acdd4ddfc5f80ebd7.webp",
+      "snippet": "White Chocolate Mocha. We ran into problems loading this product.",
+      "snippet_highlighted_words": [
+        "Mocha"
+      ],
+      "source": "Starbucks"
+    },
+    {
+      "position": 7,
+      "title": "The Mocha #barista #coffee | mocha coffee",
+      "link": "https://www.tiktok.com/@morgandrinkscoffee/video/7283861834224946478?lang=en",
+      "displayed_link": "517.6K+ views \u00b7 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Gqpp4aWFVXOyNPQz3H9hKVrOpWOD2rlg8WETT5youUZK&s",
+      "favicon": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/1c70e5323b70f7e7379b5cda4579bd6f142bfd69f4cd506eb4883095591bb43e.png",
+      "snippet": "Mocha is my go to even after having drank coffee for years. Good coffee is enhanced and bad coffee is tolerable with chocolate.",
+      "duration": "0:35",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRa2ZfALYSZV9OPaVYzDbIuRMhyVQ8RSzS-ow",
+      "source": "TikTok \u00b7 Morgan Eckroth"
+    },
+    {
+      "position": 8,
+      "title": "Mocha Iced Coffee, Single Serve",
+      "link": "https://www.prairiefarms.com/products/iced-coffee/mocha-iced-coffee-single-serve-copy/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.prairiefarms.com/products/iced-coffee/mocha-iced-coffee-single-serve-copy/&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQFnoECFAQAQ",
+      "displayed_link": "https://www.prairiefarms.com \u203a Products \u203a Iced Coffee",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_XOIGxXG8m_yIbq5GMnDPuOtXT3iXicIDaAB9ToO-NBdjDFjRbt1s&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/1c70e5323b70f7e7379b5cda4579bd6f95040cb9917ad3a9898e7720c87e6685.webp",
+      "snippet": "Mocha Iced Coffee, Single Serve \u00b7 Made with Real Arabica Coffee \u00b7 Ultra Pasteurized \u00b7 Gluten Free \u00b7 Kosher \u00b7 Recyclable Packaging. Related products ...",
+      "snippet_highlighted_words": [
+        "Mocha",
+        "Coffee",
+        "Coffee"
+      ],
+      "source": "Prairie Farms Dairy, Inc."
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?q=coffee+mocha&sca_esv=7d18109a394306ad&udm=18&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQ8poLegQIThAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=coffee+mocha",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Coffee mocha starbucks",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Coffee+mocha+starbucks&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQ1QJ6BAh4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Coffee+mocha+starbucks"
+    },
+    {
+      "block_position": 1,
+      "query": "Coffee mocha recipe",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Coffee+mocha+recipe&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQ1QJ6BAh3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Coffee+mocha+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Mocha pronunciation",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Mocha+pronunciation&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQ1QJ6BAh2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Mocha+pronunciation"
+    },
+    {
+      "block_position": 1,
+      "query": "Coffee mocha ingredients",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Coffee+mocha+ingredients&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQ1QJ6BAh1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Coffee+mocha+ingredients"
+    },
+    {
+      "block_position": 1,
+      "query": "Is mocha coffee or chocolate",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Is+mocha+coffee+or+chocolate&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQ1QJ6BAh0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Is+mocha+coffee+or+chocolate"
+    },
+    {
+      "block_position": 1,
+      "query": "Mocha latte",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Mocha+latte&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQ1QJ6BAhyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Mocha+latte"
+    },
+    {
+      "block_position": 1,
+      "query": "How to make a mocha with instant coffee",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=How+to+make+a+mocha+with+instant+coffee&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQ1QJ6BAhzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=How+to+make+a+mocha+with+instant+coffee"
+    },
+    {
+      "block_position": 1,
+      "query": "Mocha coffee benefits",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Mocha+coffee+benefits&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQ1QJ6BAh5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Mocha+coffee+benefits"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Recipe",
+      "link": "https://www.google.com/search?q=recipe+coffee+mocha&shoprs=GBIqDGNvZmZlZSBtb2NoYTIKCBISBlJlY2lwZWAB&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQip4GKAF6BAgTEFw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=recipe+coffee+mocha"
+    },
+    {
+      "query": "Coffee Creamer",
+      "link": "https://www.google.com/search?q=coffee+creamer+mocha&shoprs=GAkqDGNvZmZlZSBtb2NoYTISCAkSDkNvZmZlZSBDcmVhbWVyYAE&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQip4GKAJ6BAgTEF0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=coffee+creamer+mocha"
+    },
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?q=coffee+mocha+nearby&shoprs=GAMqDGNvZmZlZSBtb2NoYTIMCAMSBk5lYXJieRgCWLfLH2AB&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQip4GKAN6BAgTEF4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=coffee+mocha+nearby"
+    },
+    {
+      "query": "Get it fast",
+      "link": "https://www.google.com/search?q=coffee+mocha&shoprs=Eg2aAQoKCBADOAFAAkgBGBQqDGNvZmZlZSBtb2NoYTIkCBQSC0dldCBpdCBmYXN0Ig2aAQoKCBADOAFAAkgBKgQQARgBYAE&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQip4GKAR6BAgTEF8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=coffee+mocha"
+    },
+    {
+      "query": "Whole Bean",
+      "link": "https://www.google.com/search?q=whole+bean+coffee+mocha&shoprs=GAEqDGNvZmZlZSBtb2NoYTIaCAESCldob2xlIEJlYW46Cgju_jgQ8f44MAJYt8sfYAE&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQip4GKAV6BAgTEGA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=whole+bean+coffee+mocha"
+    },
+    {
+      "query": "Pod",
+      "link": "https://www.google.com/search?q=pod+coffee+mocha&shoprs=GAEqDGNvZmZlZSBtb2NoYTITCAESA1BvZDoKCPucZRD8nGUwA1i3yx9gAQ&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQip4GKAZ6BAgTEGE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pod+coffee+mocha"
+    },
+    {
+      "query": "Starbucks",
+      "link": "https://www.google.com/search?q=starbucks+coffee+mocha&shoprs=GAEqDGNvZmZlZSBtb2NoYTIZCAESCVN0YXJidWNrczoKCIPzPBCdmUAwAVi3yx9gAQ&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQip4GKAd6BAgTEGI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=starbucks+coffee+mocha"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?q=buy+coffee+mocha&shoprs=GBIqDGNvZmZlZSBtb2NoYTIHCBISA0J1eWAB&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQip4GKAh6BAgTEGM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=buy+coffee+mocha"
+    },
+    {
+      "query": "Bag",
+      "link": "https://www.google.com/search?q=bag+coffee+mocha&shoprs=GAEqDGNvZmZlZSBtb2NoYTITCAESA0JhZzoKCIGdZRCEnWUwAFi3yx9gAQ&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQip4GKAl6BAgTEGQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bag+coffee+mocha"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?q=reviews+coffee+mocha&shoprs=GBIqDGNvZmZlZSBtb2NoYTILCBISB1Jldmlld3NgAQ&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQip4GKAp6BAgTEGU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=reviews+coffee+mocha"
+    },
+    {
+      "query": "Can",
+      "link": "https://www.google.com/search?q=can+coffee+mocha&shoprs=GAEqDGNvZmZlZSBtb2NoYTITCAESA0NhbjoKCIGdZRCGnWUwAFi3yx9gAQ&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQip4GKAt6BAgTEGY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=can+coffee+mocha"
+    },
+    {
+      "query": "8 \u2013 11 oz",
+      "link": "https://www.google.com/search?q=8+oz+to+11+oz+coffee+mocha&shoprs=EhoqGAj-nGUSEgkAAABgqAfNPxEAAADgQ_XTPxgBKgxjb2ZmZWUgbW9jaGEySAgBEgs4IOKAkyAxMSBveiIaKhgI_pxlEhIJAAAAYKgHzT8RAAAA4EP10z8qEQoNOCBveiB0byAxMSBvehgBOggI_pxlEAAwBli3yx9gAQ&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQip4GKAx6BAgTEGc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=8+oz+to+11+oz+coffee+mocha"
+    },
+    {
+      "query": "11 oz \u2013 1 lb",
+      "link": "https://www.google.com/search?q=11+oz+to+1+lb+coffee+mocha&shoprs=EhoqGAj-nGUSEgkAAADgQ_XTPxEAAABgqAfdPxgBKgxjb2ZmZWUgbW9jaGEySwgBEg4xMSBveiDigJMgMSBsYiIaKhgI_pxlEhIJAAAA4EP10z8RAAAAYKgH3T8qEQoNMTEgb3ogdG8gMSBsYhgBOggI_pxlEAAwBli3yx9gAQ&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQip4GKA16BAgTEGg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=11+oz+to+1+lb+coffee+mocha"
+    },
+    {
+      "query": "Ground",
+      "link": "https://www.google.com/search?q=ground+coffee+mocha&shoprs=GAEqDGNvZmZlZSBtb2NoYTIWCAESBkdyb3VuZDoKCO7-OBDv_jgwAli3yx9gAQ&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQip4GKA56BAgTEGk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ground+coffee+mocha"
+    },
+    {
+      "query": "Over 1.85 lb",
+      "link": "https://www.google.com/search?q=over+1.85+lb+coffee+mocha&shoprs=EhEqDwj-nGUSCQkAAACASNrqPxgBKgxjb2ZmZWUgbW9jaGEyMQgBEgxPdmVyIDEuODUgbGIiESoPCP6cZRIJCQAAAIBI2uo_KgIYAToICP6cZRAAMAZYt8sfYAE&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQip4GKA96BAgTEGo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=over+1.85+lb+coffee+mocha"
+    },
+    {
+      "query": "Under 8 oz",
+      "link": "https://www.google.com/search?q=under+8+oz+coffee+mocha&shoprs=EhEqDwj-nGUSCREAAABgqAfNPxgBKgxjb2ZmZWUgbW9jaGEyLwgBEgpVbmRlciA4IG96IhEqDwj-nGUSCREAAABgqAfNPyoCGAE6CAj-nGUQADAGWLfLH2AB&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQip4GKBB6BAgTEGs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=under+8+oz+coffee+mocha"
+    },
+    {
+      "query": "Bottle",
+      "link": "https://www.google.com/search?q=bottle+coffee+mocha&shoprs=GAEqDGNvZmZlZSBtb2NoYTIWCAESBkJvdHRsZToKCIGdZRCFnWUwAFi3yx9gAQ&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQip4GKBF6BAgTEGw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bottle+coffee+mocha"
+    },
+    {
+      "query": "1 \u2013 1.85 lb",
+      "link": "https://www.google.com/search?q=1+lb+to+1.85+lb+coffee+mocha&shoprs=EhoqGAj-nGUSEgkAAABgqAfdPxEAAACASNrqPxgBKgxjb2ZmZWUgbW9jaGEyTAgBEg0xIOKAkyAxLjg1IGxiIhoqGAj-nGUSEgkAAABgqAfdPxEAAACASNrqPyoTCg8xIGxiIHRvIDEuODUgbGIYAToICP6cZRAAMAZYt8sfYAE&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQip4GKBJ6BAgTEG0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=1+lb+to+1.85+lb+coffee+mocha"
+    },
+    {
+      "query": "Brand",
+      "link": "https://www.google.com/search?q=brand+coffee+mocha&shoprs=GBIqDGNvZmZlZSBtb2NoYTIJCBISBUJyYW5kYAE&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQip4GKBN6BAgTEG4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brand+coffee+mocha"
+    },
+    {
+      "query": "Instant",
+      "link": "https://www.google.com/search?q=instant+coffee+mocha&shoprs=GAEqDGNvZmZlZSBtb2NoYTIXCAESB0luc3RhbnQ6Cgju_jgQ8P44MAJYt8sfYAE&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQip4GKBR6BAgTEG8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=instant+coffee+mocha"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?q=coffee+mocha+sale&shoprs=EgRKAhgBGAYqDGNvZmZlZSBtb2NoYTITCAYSB09uIHNhbGUYAiIESgIYAVi3yx9gAQ&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQip4GKBV6BAgTEHA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=coffee+mocha+sale"
+    },
+    {
+      "query": "Kosher",
+      "link": "https://www.google.com/search?q=kosher+coffee+mocha&shoprs=GAEqDGNvZmZlZSBtb2NoYTIYCAESBktvc2hlcjoMCPHfhwEQ8t-HATADWLfLH2AB&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQip4GKBZ6BAgTEHE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=kosher+coffee+mocha"
+    },
+    {
+      "query": "Medium Roast",
+      "link": "https://www.google.com/search?q=medium+roast+coffee+mocha&shoprs=GAEqDGNvZmZlZSBtb2NoYTIcCAESDE1lZGl1bSBSb2FzdDoKCJm4OxCbuDswAFi3yx9gAQ&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQip4GKBd6BAgTEHI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=medium+roast+coffee+mocha"
+    },
+    {
+      "query": "Sugar Free",
+      "link": "https://www.google.com/search?q=sugar+free+coffee+mocha&shoprs=GAEqDGNvZmZlZSBtb2NoYTIcCAESClN1Z2FyIEZyZWU6DAj334cBEPnfhwEwAFi3yx9gAQ&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQip4GKBh6BAgTEHM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sugar+free+coffee+mocha"
+    },
+    {
+      "query": "Box",
+      "link": "https://www.google.com/search?q=box+coffee+mocha&shoprs=GAEqDGNvZmZlZSBtb2NoYTITCAESA0JveDoKCIGdZRCPnWUwAFi3yx9gAQ&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQip4GKBl6BAgTEHQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=box+coffee+mocha"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "DIY iced (or hot) mocha recipe",
+      "link": "https://www.reddit.com/r/Coffee/comments/frvjvt/diy_iced_or_hot_mocha_recipe/",
+      "date": "4y ago",
+      "extensions": [
+        "r/Coffee",
+        "10+ comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "How do I make a Mocha?",
+      "link": "https://www.reddit.com/r/barista/comments/qkfi9k/how_do_i_make_a_mocha/",
+      "date": "2y ago",
+      "extensions": [
+        "r/barista",
+        "20+ comments"
+      ],
+      "source": "Reddit"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Recipes",
+        "subtitle": "Caf\u00e9 Mocha Recipe",
+        "thumbnail": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/b30ef53b6b56e0cd499926715adb2c9b43c2eb1c07696b35006e086507f7114566e8ba865d733370.png",
+        "web_links": [
+          {
+            "title": "Caff\u00e8 Mocha Recipe (Coffee Mocha) - Everyday Delicious",
+            "snippet": "How to make homemade caffe mocha ; STEP 1: Add chocolate sauce (2 Tbsp) into a large glass coffee mug. ; STEP 2: Pour in...",
+            "link": "https://www.everyday-delicious.com/caffe-mocha-recipe/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhiDHOBPwfpFgVC6s1zF0xNBOoy9ohmDaoJ-qHYSIHbZY0MXVpR1QxS1L4G_o",
+            "source": "Everyday Delicious",
+            "source_thumbnail": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/b30ef53b6b56e0cd499926715adb2c9b43c2eb1c07696b35da9a530a886587389c93e5c90e1943acf3605c07074caabc4c07a3c773fc6df4.png"
+          },
+          {
+            "title": "Make A Perfect Cafe Mocha [3 Ways]",
+            "snippet": "Simple and Quick Cafe Mocha (Recipe 1) \u00b7 2tsp Cocoa Powder (Dutch Processed is best, but whatever you can get...",
+            "link": "https://homecafebycharlie.com/make-a-perfect-cafe-mocha-3-ways/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQL7e7YT_jI_H7-l6ZZA35dGG9TyPAqfDTHm5uv_3UIamPzDfrR_0VR46c0d8",
+            "source": "Home Cafe by Charlie",
+            "source_thumbnail": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/b30ef53b6b56e0cd499926715adb2c9b43c2eb1c07696b35da9a530a88658738ad84a69344429a27c7a1a104eaf0d21fc88c9544b533e472.jpeg"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=cafe+mocha+recipe&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQrooIegQIVBAF",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=cafe+mocha+recipe"
+      },
+      {
+        "text": "Kind",
+        "subtitle": "What Kind Of Coffee Is Mocha?",
+        "title": "What is Mocha? A 787 Coffee Drinks Explained Guide",
+        "link": "https://www.787coffee.com/drinks-explained-787-coffee/what-is-mocha#:~:text=Mocha%20is%20one%20of%20the,forms%20to%20suit%20your%20preferences.",
+        "displayed_link": "https://www.787coffee.com \u203a drinks-explained-787-coffee",
+        "date": "May 8, 2024",
+        "snippet": "Mocha is one of the most loved coffee drinks around the world. It's a perfect blend of espresso, chocolate, and milk that gives you a caffeine kick and satisfies your sweet cravings at the same time. It's versatile, customizable, and comforting, and it can be enjoyed in various forms to suit your preferences.",
+        "snippet_highlighted_words": [
+          "a perfect blend of espresso, chocolate, and milk"
+        ],
+        "favicon": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/b30ef53b6b56e0cd499926715adb2c9b5640b54e1254d0019c14f78b8955af8687122b814cd249ed.png",
+        "source": "787coffee.com",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=what+kind+of+coffee+is+mocha&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQrooIegQIVBAK",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+kind+of+coffee+is+mocha"
+      },
+      {
+        "text": "Caffeine content",
+        "subtitle": "How Much Caffeine Is In A Mocha?",
+        "title": "What Is Mocha Coffee? - Find Out More | Cafe Du Monde",
+        "link": "https://www.cafedumonde.co.uk/academie/guides/types-of-coffee-drinks/mocha/#:~:text=The%20mocha's%20invisible%20ingredients,and%20roughly%20105mg%20of%20caffeine.",
+        "displayed_link": "https://www.cafedumonde.co.uk \u203a types-of-coffee-drinks",
+        "snippet": "The mocha's invisible ingredients It's not a secret that the mocha drink is one of the most sugar and calorie-packed coffee out there. On average, the drink contains 25.6g of sugar, 183 calories and roughly 105mg of caffeine.",
+        "snippet_highlighted_words": [
+          "roughly 105mg"
+        ],
+        "favicon": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/b30ef53b6b56e0cd499926715adb2c9b7ebb3d7514bdeda6b763ef7abe5638ae81cce4bfcd66556a.png",
+        "source": "cafedumonde.co.uk",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=how+much+caffeine+is+in+a+mocha&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQrooIegQIVBAP",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+much+caffeine+is+in+a+mocha"
+      },
+      {
+        "text": "Ingredients",
+        "subtitle": "Whats In A Mocha",
+        "title": "What Is a Mocha? A Guide to the Popular Coffee Drink. - SpotOn",
+        "link": "https://www.spoton.com/blog/what-is-a-mocha/#:~:text=A%20mocha%20beverage%2C%20otherwise%20known,coffee%2C%20or%20other%20cold%20ingredients.",
+        "displayed_link": "https://www.spoton.com \u203a blog \u203a what-is-a-mocha",
+        "date": "Dec 20, 2023",
+        "snippet": "A mocha beverage, otherwise known as a caff\u00e8 mocha, is an espresso-based drink with whipped cream, steamed milk, chocolate syrup, and a shot of espresso. A mocha coffee is primarily served hot but can also be made into a cold beverage by mixing in ice, iced coffee, or other cold ingredients.",
+        "snippet_highlighted_words": [
+          "whipped cream, steamed milk, chocolate syrup, and a shot of espresso"
+        ],
+        "favicon": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/b30ef53b6b56e0cd499926715adb2c9b7e1b343cb5856b09a053cb453584b6ce91be62b7199bac7f.png",
+        "source": "spoton.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8zlHU4yC47UjrYgbiielPEAnwYh8LA7Lx8PFdR7Y_KGw&s",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=whats+in+a+mocha&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQrooIegQIVBAX",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=whats+in+a+mocha"
+      },
+      {
+        "text": "Caffeine Amount",
+        "subtitle": "Does Mocha Have Caffeine?",
+        "title": "How Much Caffeine in a Mocha Coffee? - Whitakers Chocolates",
+        "link": "https://www.whitakerschocolates.com/blogs/blog/how-much-caffeine-in-a-mocha-coffee#:~:text=A%20large%20mocha%20or%20one,to%20manage%20their%20caffeine%20intake.",
+        "displayed_link": "https://www.whitakerschocolates.com \u203a blogs \u203a blog \u203a h...",
+        "date": "Nov 16, 2023",
+        "snippet": "A large mocha or one with two espresso shots will have more caffeine. Overall, while a mocha contains caffeine, it is not typically considered high relative to other popular coffee drinks, making it a moderate choice for those looking to manage their caffeine intake.",
+        "snippet_highlighted_words": [
+          "a mocha contains caffeine"
+        ],
+        "favicon": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/b30ef53b6b56e0cd499926715adb2c9b93095a23f3d7429de12239961a354b24a4124d81c2cd46cf.png",
+        "source": "whitakerschocolates.com",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=does+mocha+have+caffeine&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQrooIegQIVBAd",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=does+mocha+have+caffeine"
+      },
+      {
+        "text": "Taste",
+        "subtitle": "What Does Mocha Taste Like?",
+        "title": "What is Mocha Coffee | Mocha Origin and Differences | Nescaf\u00e9 IN",
+        "link": "https://www.nescafe.com/in/coffee-culture/knowledge/mocha#:~:text=Mocha%20is%20known%20to%20taste,a%20velvety%20smooth%2C%20luxurious%20combination.",
+        "displayed_link": "https://www.nescafe.com \u203a coffee-culture \u203a knowledge",
+        "snippet": "Mocha is known to taste like a chocolatey coffee. The espresso shot offers an almost bitter taste and the chocolate adds a sweetness to create a velvety smooth, luxurious combination.",
+        "snippet_highlighted_words": [
+          "a chocolatey coffee"
+        ],
+        "answer": "chocolatey coffee",
+        "favicon": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/b30ef53b6b56e0cd499926715adb2c9b2126b5814b586080e9be738a87c4a50fb1e8c5572fe42a0b.png",
+        "source": "nescafe.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6B4BMp-3sxuKuWNO_fEURa1D9zynj1de6gmz9M-z-W5wo&s",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=what+does+mocha+taste+like&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQrooIegQIVBAl",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+does+mocha+taste+like"
+      },
+      {
+        "text": "Calories",
+        "subtitle": "Mocha Calories",
+        "title": "Latte vs Mocha Calories: In-Depth Comparison Guide - Majesty Coffee",
+        "link": "https://majestycoffee.com/blogs/posts/latte-vs-mocha-calories#:~:text=Caf%C3%A9%20Mocha%3A%20A%20combination%20of,to%20400%20calories%20per%20serving.",
+        "displayed_link": "https://majestycoffee.com \u203a blogs \u203a posts \u203a latte-vs-moch...",
+        "date": "May 15, 2023",
+        "snippet": "Caf\u00e9 Mocha: A combination of espresso, steamed milk, and milk chocolate syrup, resulting in a sweeter and more calorie-dense beverage, with approximately 300 to 400 calories per serving.",
+        "snippet_highlighted_words": [
+          "300 to 400 calories per serving"
+        ],
+        "favicon": "https://serpapi.com/searches/670a302072f716bd0be534e1/images/b30ef53b6b56e0cd499926715adb2c9b0d0e0baa04c520ab1de3a6bf3e6de1867a288960adc25150.png",
+        "source": "majestycoffee.com",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=mocha+calories&sa=X&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQrooIegQIVBAq",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=mocha+calories"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=coffee+mocha&sca_esv=7d18109a394306ad&ei=IDAKZ-raO9Gv5NoP4qKFEQ&start=10&sa=N&sstk=Aagrsugw3bql8uOi7LgayjijcQf7GPJK2myVzfTTuutCe-4fKdT7TvneUN2-eb_TdlEF6cmRGlvsAvOjT3lk-dun6T-Kl0RZpUq9pA&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQ8NMDegQIBxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=coffee+mocha&sca_esv=7d18109a394306ad&ei=IDAKZ-raO9Gv5NoP4qKFEQ&start=10&sa=N&sstk=Aagrsugw3bql8uOi7LgayjijcQf7GPJK2myVzfTTuutCe-4fKdT7TvneUN2-eb_TdlEF6cmRGlvsAvOjT3lk-dun6T-Kl0RZpUq9pA&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQ8tMDegQIBxAE",
+      "3": "https://www.google.com/search?q=coffee+mocha&sca_esv=7d18109a394306ad&ei=IDAKZ-raO9Gv5NoP4qKFEQ&start=20&sa=N&sstk=Aagrsugw3bql8uOi7LgayjijcQf7GPJK2myVzfTTuutCe-4fKdT7TvneUN2-eb_TdlEF6cmRGlvsAvOjT3lk-dun6T-Kl0RZpUq9pA&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQ8tMDegQIBxAG",
+      "4": "https://www.google.com/search?q=coffee+mocha&sca_esv=7d18109a394306ad&ei=IDAKZ-raO9Gv5NoP4qKFEQ&start=30&sa=N&sstk=Aagrsugw3bql8uOi7LgayjijcQf7GPJK2myVzfTTuutCe-4fKdT7TvneUN2-eb_TdlEF6cmRGlvsAvOjT3lk-dun6T-Kl0RZpUq9pA&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQ8tMDegQIBxAI",
+      "5": "https://www.google.com/search?q=coffee+mocha&sca_esv=7d18109a394306ad&ei=IDAKZ-raO9Gv5NoP4qKFEQ&start=40&sa=N&sstk=Aagrsugw3bql8uOi7LgayjijcQf7GPJK2myVzfTTuutCe-4fKdT7TvneUN2-eb_TdlEF6cmRGlvsAvOjT3lk-dun6T-Kl0RZpUq9pA&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQ8tMDegQIBxAK",
+      "6": "https://www.google.com/search?q=coffee+mocha&sca_esv=7d18109a394306ad&ei=IDAKZ-raO9Gv5NoP4qKFEQ&start=50&sa=N&sstk=Aagrsugw3bql8uOi7LgayjijcQf7GPJK2myVzfTTuutCe-4fKdT7TvneUN2-eb_TdlEF6cmRGlvsAvOjT3lk-dun6T-Kl0RZpUq9pA&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQ8tMDegQIBxAM",
+      "7": "https://www.google.com/search?q=coffee+mocha&sca_esv=7d18109a394306ad&ei=IDAKZ-raO9Gv5NoP4qKFEQ&start=60&sa=N&sstk=Aagrsugw3bql8uOi7LgayjijcQf7GPJK2myVzfTTuutCe-4fKdT7TvneUN2-eb_TdlEF6cmRGlvsAvOjT3lk-dun6T-Kl0RZpUq9pA&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQ8tMDegQIBxAO",
+      "8": "https://www.google.com/search?q=coffee+mocha&sca_esv=7d18109a394306ad&ei=IDAKZ-raO9Gv5NoP4qKFEQ&start=70&sa=N&sstk=Aagrsugw3bql8uOi7LgayjijcQf7GPJK2myVzfTTuutCe-4fKdT7TvneUN2-eb_TdlEF6cmRGlvsAvOjT3lk-dun6T-Kl0RZpUq9pA&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQ8tMDegQIBxAQ",
+      "9": "https://www.google.com/search?q=coffee+mocha&sca_esv=7d18109a394306ad&ei=IDAKZ-raO9Gv5NoP4qKFEQ&start=80&sa=N&sstk=Aagrsugw3bql8uOi7LgayjijcQf7GPJK2myVzfTTuutCe-4fKdT7TvneUN2-eb_TdlEF6cmRGlvsAvOjT3lk-dun6T-Kl0RZpUq9pA&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQ8tMDegQIBxAS",
+      "10": "https://www.google.com/search?q=coffee+mocha&sca_esv=7d18109a394306ad&ei=IDAKZ-raO9Gv5NoP4qKFEQ&start=90&sa=N&sstk=Aagrsugw3bql8uOi7LgayjijcQf7GPJK2myVzfTTuutCe-4fKdT7TvneUN2-eb_TdlEF6cmRGlvsAvOjT3lk-dun6T-Kl0RZpUq9pA&ved=2ahUKEwjq6oyns4iJAxXRF1kFHWJRIQIQ8tMDegQIBxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=coffee+mocha&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=coffee+mocha&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=coffee+mocha&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=coffee+mocha&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=coffee+mocha&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=coffee+mocha&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=coffee+mocha&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=coffee+mocha&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=coffee+mocha&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=coffee+mocha&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=coffee+mocha&start=90"
+    }
+  }
+}

@@ -1,0 +1,604 @@
+{
+  "search_metadata": {
+    "id": "670a2ab8310300f730d06381",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/46af525d5e56c3c6/670a2ab8310300f730d06381.json",
+    "created_at": "2024-10-12 07:52:24 UTC",
+    "processed_at": "2024-10-12 07:52:24 UTC",
+    "google_url": "https://www.google.com/search?q=mint&oq=mint&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/46af525d5e56c3c6/670a2ab8310300f730d06381.html",
+    "total_time_taken": 1.95
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "mint",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "mint",
+    "total_results": 1480000000,
+    "time_taken_displayed": 0.32,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=mint&npsic=0&rflfq=1&rldoc=1&rllag=30287544,-97739138,2072&tbm=lcl&sa=X&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQtgN6BAg5EAI",
+    "image": "https://serpapi.com/searches/670a2ab8310300f730d06381/images/6e6d51fb8bbc962128d6db0608ec4f63.png",
+    "gps_coordinates": {
+      "latitude": 30.287544,
+      "longitude": -97.739138
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.8,
+        "reviews_original": "(93)",
+        "reviews": 93,
+        "description": "\"10/10 recommend Amanda at Mint Salon for hair and makeup!\"",
+        "lsig": "AB86z5UEAqnYRy8oWERC4pt_MSom",
+        "thumbnail": "https://serpapi.com/searches/670a2ab8310300f730d06381/images/b197b6c0d821250a9b51aa622c938f025753d0d0f5ad1eb1e825ecb9c5124f2a8246ab7bb460d780.png",
+        "links": {
+          "website": "http://www.mintforbeauty.com/",
+          "directions": "https://www.google.com/maps/dir//Mint,+4023+Guadalupe+St,+Austin,+TX+78751/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8644ca7bf23ce397:0xfdea8ef0ad5dcc51?sa=X&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQ48ADegQIKBAA&hl=en&gl=us"
+        },
+        "title": "Mint",
+        "type": "Beauty salon",
+        "phone": "(512) 302-9990",
+        "address": "4023 Guadalupe St",
+        "hours": "Closed \u22c5 Opens 10 AM",
+        "place_id": "18296593600497962065",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=18296593600497962065&q=mint",
+        "gps_coordinates": {
+          "latitude": 30.30595,
+          "longitude": -97.735916
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.9,
+        "reviews_original": "(28)",
+        "reviews": 28,
+        "description": "\"The environment was clean and comfortable, with good prices.\"",
+        "lsig": "AB86z5U3vCOT3DxqHSOCAElcqqTf",
+        "thumbnail": "https://serpapi.com/searches/670a2ab8310300f730d06381/images/b197b6c0d821250a9b51aa622c938f025e6a209e2a8944ce86a2f187db07ac66276ab122abfc7af2.png",
+        "links": {
+          "website": "http://www.mintandthyme.com/",
+          "directions": "https://www.google.com/maps/dir//Mint+and+Thyme,+709+W+34th+St,+Austin,+TX+78705/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8644ca807b4ad223:0x5037604e97f789fc?sa=X&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQ48ADegQILRAA&hl=en&gl=us",
+          "order": "https://www.mindbodyonline.com/explore/locations/mint-and-thyme?hl=en-US&gei=uSoKZ7mrEpKf5NoPqpmi2AE&rwg_token=AJKvS9W41UE1kh3oYmzMBym7JUcI2x6Ry1avFtBPWHNQvQglLTParFsff7NaYym6NVfD2MBDir5KYtpFS5M_zn8-6o8a54W0uA%3D%3D&source=cat"
+        },
+        "title": "Mint and Thyme",
+        "type": "Medical spa",
+        "phone": "(512) 436-0817",
+        "address": "709 W 34th St",
+        "hours": "Closed \u22c5 Opens 10 AM",
+        "place_id": "5780194537426618876",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=5780194537426618876&q=mint",
+        "gps_coordinates": {
+          "latitude": 30.301218,
+          "longitude": -97.74232
+        }
+      },
+      {
+        "position": 3,
+        "lsig": "AB86z5WUJ3AMzgdeyVFLaoflEOJ0",
+        "links": {
+          "website": "http://minturban.com/redriver/location.html",
+          "directions": "https://www.google.com/maps/dir//Mint+Urban+%7C+RiverPlace,+855+Red+River+St,+Austin,+TX+78701/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8644b5a41fc5b53b:0xae6680f352dbaf71?sa=X&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQ48ADegQIJxAA&hl=en&gl=us"
+        },
+        "title": "Mint Urban | RiverPlace",
+        "reviews_original": "No reviews",
+        "type": "Apartment building",
+        "phone": "(855) 562-7092",
+        "address": "855 Red River St",
+        "place_id": "12566873592779485041",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=12566873592779485041&q=mint",
+        "gps_coordinates": {
+          "latitude": 30.269146,
+          "longitude": -97.73606
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&tbs=lf:1,lf_ui:2&tbm=lcl&q=mint&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQjGp6BAg6EAE"
+  },
+  "knowledge_graph": {
+    "title": "Intuit Mint",
+    "type": "Personal financial management company",
+    "entity_type": "companies, company",
+    "kgmid": "/m/03cj4p7",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/03cj4p7&hl=en-US&q=Intuit+Mint",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F03cj4p7&location=Austin%2CTexas%2CUnited+States&q=Intuit+Mint",
+    "image": "https://serpapi.com/searches/670a2ab8310300f730d06381/images/0ff25a03b87b0edc2daf7e98f855d3e9b46def156509d027.jpeg",
+    "description": "Mint, also known as Intuit Mint and formerly known as Mint.com, was a personal financial management website and mobile app for the US and Canada produced by Intuit, Inc. Mint.com was originally created ...",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Intuit_Mint"
+    },
+    "parent_organization": "Intuit",
+    "parent_organization_links": [
+      {
+        "text": "Intuit",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Intuit&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LySsBpkAkDbidaIIdgHD3OSID57vDM_xIbKlWEl7euVC9DF8VTQminRe8INO2F7uOqbcsoqENOvaBgwi8cVvomI5VeDQbPhKSLMuvDd4Y8BC6Oj_HslqlR4BZ6jdJ5EFtfaHO822vQ0p8VTfMWMYT9R4VYzG&sa=X&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQmxMoAHoECCwQAg"
+      }
+    ],
+    "founder": "Aaron Patzer",
+    "founder_links": [
+      {
+        "text": "Aaron Patzer",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Aaron+Patzer&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQXhfqwSPvCLJ8v_cUKkYTAPIzeB7XimiR360SzY4u-0NQn9v9Sc39k0geCp4MADkcwPs7H_RQgG45fmJEto39vu5rrxSk2wHwVmcC0YS8FxO4sIElsydtChSSAf-SPdrrujGlSc7g823cEZnRcXAKeKB9YTU6MotInWgrRm4ygCHv5bBlQ%3D%3D&sa=X&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQmxMoAHoECCsQAg"
+      }
+    ],
+    "founded": "2006",
+    "headquarters": "Mountain View, CA",
+    "headquarters_links": [
+      {
+        "text": "Mountain View, CA",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Mountain+View,+California&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm6HZT5qBQTfKiJQuzezCgljSjl-_OAr-lbAP2C2bBDgKY1fIR4TrxUfgM7KC8LU2V0vor-A-08oAcPIPnuE4o82N5DH-423Y0Q2YhGtjuee7IjFqrm-C82vP8eukjOsx5tkco8hU7_Yob3J2KuSFv7CetTXoPfuUQYfPA9kvcDDP2BJm0g%3D%3D&sa=X&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQmxMoAHoECC8QAg"
+      }
+    ],
+    "number_of_employees": "35; before acquired by Intuit in 2009",
+    "number_of_employees_links": [
+      {
+        "text": "Intuit",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Intuit&stick=H4sIAAAAAAAAAONgVuLVT9c3NEwuLrQ0yrOoWMTK5plXUppZAgAPBugyGgAAAA&sa=X&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQmxMoAHoECDAQAg"
+      }
+    ],
+    "profiles": [
+      {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/mint/",
+        "image": "https://serpapi.com/searches/670a2ab8310300f730d06381/images/0ff25a03b87b0edc2daf7e98f855d3e92b81f3a0164d6aa4949cf92b921de92405f4cef3c915f18d.png"
+      },
+      {
+        "name": "YouTube",
+        "link": "https://www.youtube.com/c/mint",
+        "image": "https://serpapi.com/searches/670a2ab8310300f730d06381/images/0ff25a03b87b0edc2daf7e98f855d3e92b81f3a0164d6aa4c91553f46f9cde97dca8dce9994ea14e.png"
+      },
+      {
+        "name": "X (Twitter)",
+        "link": "https://twitter.com/mint",
+        "image": "https://serpapi.com/searches/670a2ab8310300f730d06381/images/0ff25a03b87b0edc2daf7e98f855d3e92b81f3a0164d6aa4914bb90114982652267f2264f8bf475a.png"
+      }
+    ]
+  },
+  "inline_images": [
+    {
+      "source": "https://www.gardenia.net/guide/learn-how-to-grow-and-care-mint",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgA5i0QIO2BiDGlA7Wam1CF_7EyWJZkpjtHqsPwIOQK8iRyB7PI7OwBUw&s",
+      "original": "https://www.gardenia.net/wp-content/uploads/2023/05/learn-how-to-grow-and-care-mint-780x520.webp",
+      "title": "Mint - All you Need to Know",
+      "source_name": "Gardenia.net"
+    },
+    {
+      "source": "https://www.medicalnewstoday.com/articles/275944",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOFdGIZfBeh8MdbHQs9l3ABYA_qCp2OiumsNCWFXie_qVr3B6yf-gvR74&s",
+      "original": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2020/02/266128_2200-732x549.jpg",
+      "title": "Mint: Benefits, nutrition, and dietary tips",
+      "source_name": "MedicalNewsToday"
+    },
+    {
+      "source": "https://www.farmersmarketonline.com/guides/mint",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HJX2Td8pWTxYftlNv2RfZR3OMgfsX0F8SExgJma3apFhn7xku7VffLY&s",
+      "original": "https://images.squarespace-cdn.com/content/v1/6194770be1df8110c05c5328/1693265593786-IWZ0EJ8R8TQUC0IKRTES/guides.jpeg",
+      "title": "Farmer's Market Online\u00ae Guide to Mint \u2014 Farmer's Market Online",
+      "source_name": "Farmer's Market Online"
+    },
+    {
+      "source": "https://www.medicalnewstoday.com/articles/275944",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKruJLC49N3bdqP4RdnvYOBwXN-DHV8uiHAKXgTytJzJhIfj-Lbe8eNSc&s"
+    },
+    {
+      "source": "https://www.figma.com/colors/mint-green/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEXpw5p8TMwBArCOVXMXxFM8WTFg17mxY9WrkrJBTMUjstgRf33ghF7Rg&s"
+    },
+    {
+      "source": "https://www.amazon.com/Fresh-Mint-Leaves-3-oz/dp/B01EDDEPUK",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHduXD0z_eT_zLRi9LR4HNWC3ZyB0QW9-N_Z8ALCB-TQr0ZK1g199N2C4&s"
+    },
+    {
+      "source": "https://www.epicurious.com/ingredients/how-to-buy-and-store-mint-peppermint-spearmint-article",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEdm6dVh5h8ek0pEyNYKimPpD0YtX0Cf_gFmD7Gn2ydRzdFIphwkbTt4&s"
+    },
+    {
+      "source": "https://www.getquip.com/products/mint-refill",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThB7_0YsCCevjUS8gFYWYAB72HmIp0FR6YPfOmPjll-ac0XASg4DBAkjc&s"
+    },
+    {
+      "source": "https://www.ispiceyou.com/blogs/news/mint-vs-spearmint",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDpqtQyIluITnJcf1DmQftebeb9-0r74f3XIRMpQKXyWzE62hLXxF76pY&s"
+    }
+  ],
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Mint.com Is Closing--Here Are The 5 Best Alternatives",
+      "link": "https://www.youtube.com/watch?v=Z3cjuyo-hvs",
+      "thumbnail": "https://i.ytimg.com/vi/Z3cjuyo-hvs/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3mDU5P_oOrCIqqNCq0UwqhKPpEE8Q",
+      "channel": "DoughRoller Money Podcast",
+      "duration": "9:44",
+      "platform": "YouTube",
+      "date": "Oct 27, 2023",
+      "key_moments": [
+        {
+          "time": "01:40",
+          "title": "Empower",
+          "link": "https://www.youtube.com/watch?v=Z3cjuyo-hvs&t=100"
+        },
+        {
+          "time": "04:03",
+          "title": "Foundation Template",
+          "link": "https://www.youtube.com/watch?v=Z3cjuyo-hvs&t=243"
+        },
+        {
+          "time": "06:34",
+          "title": "Monarch",
+          "link": "https://www.youtube.com/watch?v=Z3cjuyo-hvs&t=394"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Playing Lost City With Ail-Mint Plants Only woo",
+      "link": "https://www.youtube.com/watch?v=U1WUZjHYcGU",
+      "thumbnail": "https://i.ytimg.com/vi/U1WUZjHYcGU/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kbp4EYu5cObMvz1D86PSUAz21-Xw",
+      "channel": "SylviaYSI",
+      "duration": "1:56:13",
+      "platform": "YouTube",
+      "date": "15 hours ago"
+    },
+    {
+      "position": 3,
+      "title": "Mint is SHUTTING DOWN // Best Budgeting Apps to use Instead",
+      "link": "https://www.youtube.com/watch?v=tRk86yLezRw",
+      "thumbnail": "https://i.ytimg.com/vi/tRk86yLezRw/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3nXNkudaqkUaHDyfWmfzkR8ZubHTw",
+      "channel": "Brittany Flammer",
+      "duration": "4:59",
+      "platform": "YouTube",
+      "date": "Nov 7, 2023"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Why is Intuit shutting down mint?",
+      "snippet": "In less than two weeks, the budgeting app Mint \u2014 which once had 3.6 million active users, including me \u2014 will shut down forever. According to its parent company, Intuit, Mint wasn't making enough money, so Intuit began the app's closure in January.",
+      "title": "It's Time to Try a New Budgeting App - The Cut",
+      "date": "Mar 14, 2024",
+      "link": "https://www.thecut.com/article/mint-shutting-down-other-budgeting-apps.html#:~:text=In%20less%20than%20two%20weeks,the%20app's%20closure%20in%20January.",
+      "displayed_link": "https://www.thecut.com \u203a article \u203a mint-shutting-down-ot...",
+      "source_logo": "https://serpapi.com/searches/670a2ab8310300f730d06381/images/4b6351c316ca44d5814364679988b3280747fc05d45f090f098c992ba594cb81.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1IxUndRbWxXYzBWbk5FMDVMWHBGU1RsWFZsVlpVbnBhVldaUU5FZHBlak5wWWpKUlQzcFZWVE5VTjNoaE0xOUxjbFkzYWtSNFZUZGxZV3g0ZWtWa1dsTXlhbUZuRWhkMVUyOUxXamR0Y2tWd1MyWTFUbTlRY1hCdGFUSkJSUm9pUVVaWWNrVmpjRVV6Y1VoVU4yMVdTakJYYm5sUFNTMWtMWHBUWkhjek4ydGpkdyIsImZjdiI6IjMiLCJlaSI6InVTb0taN21yRXBLZjVOb1BxcG1pMkFFIiwicWMiOiJDZ1J0YVc1MEVBQjlQZndzUHciLCJxdWVzdGlvbiI6IldoeSBpcyBJbnR1aXQgc2h1dHRpbmcgZG93biBtaW50PyIsImxrIjoiR2lCM2FIa2dhWE1nYVc1MGRXbDBJSE5vZFhSMGFXNW5JR1J2ZDI0Z2JXbHVkQSIsImJzIjoiYy1QeTRsSU16NmhVeUN4VzhNd3JLYzBzVVNqT0tDMHB5Y3hMVjBqSkw4OVR5TTNNSzdHWGFDb3hVcEpTS0llb3k4U2xqc3VHU3lvOEk3RUVLSkphREJZQnNoVFM4b3NVS3ZOTDdTVTJGaGxKUzBtVzQxTEE1YzJsNWdrVlRjeExVU2hJTFNoSUxRSnpTekpTRllvVGMxT0JES0NGOWhKYm80emtwR1NRRklEVW82amtNdU1TaHh1bWtGWUVjakRRbXJKVW9PNGJ2a1lTVW1LWldHVUZHQUUiLCJpZCI6ImZjX3VTb0taN21yRXBLZjVOb1BxcG1pMkFFXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1IxUndRbWxXYzBWbk5FMDVMWHBGU1RsWFZsVlpVbnBhVldaUU5FZHBlak5wWWpKUlQzcFZWVE5VTjNoaE0xOUxjbFkzYWtSNFZUZGxZV3g0ZWtWa1dsTXlhbUZuRWhkMVUyOUxXamR0Y2tWd1MyWTFUbTlRY1hCdGFUSkJSUm9pUVVaWWNrVmpjRVV6Y1VoVU4yMVdTakJYYm5sUFNTMWtMWHBUWkhjek4ydGpkdyIsImZjdiI6IjMiLCJlaSI6InVTb0taN21yRXBLZjVOb1BxcG1pMkFFIiwicWMiOiJDZ1J0YVc1MEVBQjlQZndzUHciLCJxdWVzdGlvbiI6IldoeSBpcyBJbnR1aXQgc2h1dHRpbmcgZG93biBtaW50PyIsImxrIjoiR2lCM2FIa2dhWE1nYVc1MGRXbDBJSE5vZFhSMGFXNW5JR1J2ZDI0Z2JXbHVkQSIsImJzIjoiYy1QeTRsSU16NmhVeUN4VzhNd3JLYzBzVVNqT0tDMHB5Y3hMVjBqSkw4OVR5TTNNSzdHWGFDb3hVcEpTS0llb3k4U2xqc3VHU3lvOEk3RUVLSkphREJZQnNoVFM4b3NVS3ZOTDdTVTJGaGxKUzBtVzQxTEE1YzJsNWdrVlRjeExVU2hJTFNoSUxRSnpTekpTRllvVGMxT0JES0NGOWhKYm80emtwR1NRRklEVW82amtNdU1TaHh1bWtGWUVjakRRbXJKVW9PNGJ2a1lTVW1LWldHVUZHQUUiLCJpZCI6ImZjX3VTb0taN21yRXBLZjVOb1BxcG1pMkFFXzUifQ%3D%3D"
+    },
+    {
+      "question": "What does mint do for you?",
+      "snippet": "Mint contains a number of different nutrients, such as: Fibre \u2013 maintains a healthy bowel. Vitamin A \u2013 improves eye health and prevents cardiovascular disease. Vitamin C \u2013 supports immune system and tissue repair.",
+      "title": "10 Health Benefits of Mint - Equinox Kombucha",
+      "date": "Sep 14, 2022",
+      "link": "https://equinoxkombucha.com/blog/mint-health-benefits/#:~:text=Mint%20contains%20a%20number%20of,immune%20system%20and%20tissue%20repair",
+      "displayed_link": "https://equinoxkombucha.com \u203a blog \u203a mint-health-bene...",
+      "source_logo": "https://serpapi.com/searches/670a2ab8310300f730d06381/images/4b6351c316ca44d5814364679988b328dcd4c7c52cfc6b17a9136b61e340aa9c.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1IxUndRbWxXYzBWbk5FMDVMWHBGU1RsWFZsVlpVbnBhVldaUU5FZHBlak5wWWpKUlQzcFZWVE5VTjNoaE0xOUxjbFkzYWtSNFZUZGxZV3g0ZWtWa1dsTXlhbUZuRWhkMVUyOUxXamR0Y2tWd1MyWTFUbTlRY1hCdGFUSkJSUm9pUVVaWWNrVmpjRVV6Y1VoVU4yMVdTakJYYm5sUFNTMWtMWHBUWkhjek4ydGpkdyIsImZjdiI6IjMiLCJlaSI6InVTb0taN21yRXBLZjVOb1BxcG1pMkFFIiwicWMiOiJDZ1J0YVc1MEVBQjlQZndzUHciLCJxdWVzdGlvbiI6IldoYXQgZG9lcyBtaW50IGRvIGZvciB5b3U/IiwibGsiOiJjNU9TTE05SUxGRkl5VTh0VnNqTnpBT3hGTkx5aXhRcTgwc0IiLCJicyI6ImMtUHk0bElNejZoVXlDeFc4TXdyS2Mwc1VTak9LQzBweWN4TFYwakpMODlUeU0zTUs3R1hhQ294VXBKU0tJZW95OFNsanN1R1N5bzhJN0VFS0pKYURCWUJzaFRTOG9zVUt2Tkw3U1UyRmhsSlMwbVc0MUxBNWMybDVna1ZUY3hMVVNoSUxTaElMUUp6U3pKU0ZZb1RjMU9CREtDRjloSmJvNHprcEdTUUZJRFVvNmprTXVNU2h4dW1rRllFY2pEUW1ySlVvTzRidmtZU1VtS1pXR1VGR0FFIiwiaWQiOiJmY191U29LWjdtckVwS2Y1Tm9QcXBtaTJBRV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1IxUndRbWxXYzBWbk5FMDVMWHBGU1RsWFZsVlpVbnBhVldaUU5FZHBlak5wWWpKUlQzcFZWVE5VTjNoaE0xOUxjbFkzYWtSNFZUZGxZV3g0ZWtWa1dsTXlhbUZuRWhkMVUyOUxXamR0Y2tWd1MyWTFUbTlRY1hCdGFUSkJSUm9pUVVaWWNrVmpjRVV6Y1VoVU4yMVdTakJYYm5sUFNTMWtMWHBUWkhjek4ydGpkdyIsImZjdiI6IjMiLCJlaSI6InVTb0taN21yRXBLZjVOb1BxcG1pMkFFIiwicWMiOiJDZ1J0YVc1MEVBQjlQZndzUHciLCJxdWVzdGlvbiI6IldoYXQgZG9lcyBtaW50IGRvIGZvciB5b3U%2FIiwibGsiOiJjNU9TTE05SUxGRkl5VTh0VnNqTnpBT3hGTkx5aXhRcTgwc0IiLCJicyI6ImMtUHk0bElNejZoVXlDeFc4TXdyS2Mwc1VTak9LQzBweWN4TFYwakpMODlUeU0zTUs3R1hhQ294VXBKU0tJZW95OFNsanN1R1N5bzhJN0VFS0pKYURCWUJzaFRTOG9zVUt2Tkw3U1UyRmhsSlMwbVc0MUxBNWMybDVna1ZUY3hMVVNoSUxTaElMUUp6U3pKU0ZZb1RjMU9CREtDRjloSmJvNHprcEdTUUZJRFVvNmprTXVNU2h4dW1rRllFY2pEUW1ySlVvTzRidmtZU1VtS1pXR1VGR0FFIiwiaWQiOiJmY191U29LWjdtckVwS2Y1Tm9QcXBtaTJBRV81In0%3D"
+    },
+    {
+      "question": "Is mint and peppermint the same thing?",
+      "snippet": "Peppermint is a hybrid of spearmint and water mint. Its flavor is similar to spearmint, but it packs a more potent punch with spicy notes (hence the pepper in the name). Peppermint contains several chemical compounds that define its flavor and aroma, including menthol, menthone, and eucalyptol.",
+      "title": "What's the Difference between Mint and Peppermint? - Imperial Sugar",
+      "link": "https://www.imperialsugar.com/blog/whats-the-difference-between-mint-and-peppermint#:~:text=Peppermint%20is%20a%20hybrid%20of,menthol%2C%20menthone%2C%20and%20eucalyptol.",
+      "displayed_link": "https://www.imperialsugar.com \u203a blog \u203a whats-the-differ...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXFBOuuwN5rYVqsZRP2OhMD7IMNOZGgITtlI3d4h-h&s",
+      "source_logo": "https://serpapi.com/searches/670a2ab8310300f730d06381/images/4b6351c316ca44d5814364679988b3281de2181a43a95a7a35e76598164e635e.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1IxUndRbWxXYzBWbk5FMDVMWHBGU1RsWFZsVlpVbnBhVldaUU5FZHBlak5wWWpKUlQzcFZWVE5VTjNoaE0xOUxjbFkzYWtSNFZUZGxZV3g0ZWtWa1dsTXlhbUZuRWhkMVUyOUxXamR0Y2tWd1MyWTFUbTlRY1hCdGFUSkJSUm9pUVVaWWNrVmpjRVV6Y1VoVU4yMVdTakJYYm5sUFNTMWtMWHBUWkhjek4ydGpkdyIsImZjdiI6IjMiLCJlaSI6InVTb0taN21yRXBLZjVOb1BxcG1pMkFFIiwicWMiOiJDZ1J0YVc1MEVBQjlQZndzUHciLCJxdWVzdGlvbiI6IklzIG1pbnQgYW5kIHBlcHBlcm1pbnQgdGhlIHNhbWUgdGhpbmc/IiwibGsiOiJjNU9TS1VndEtFZ3R5czNNSzFGSXpFdFJBRE5LTWxJVmloTnpVd0UiLCJicyI6ImMtUHk0bElNejZoVXlDeFc4TXdyS2Mwc1VTak9LQzBweWN4TFYwakpMODlUeU0zTUs3R1hhQ294VXBKU0tJZW95OFNsanN1R1N5bzhJN0VFS0pKYURCWUJzaFRTOG9zVUt2Tkw3U1UyRmhsSlMwbVc0MUxBNWMybDVna1ZUY3hMVVNoSUxTaElMUUp6U3pKU0ZZb1RjMU9CREtDRjloSmJvNHprcEdTUUZJRFVvNmprTXVNU2h4dW1rRllFY2pEUW1ySlVvTzRidmtZU1VtS1pXR1VGR0FFIiwiaWQiOiJmY191U29LWjdtckVwS2Y1Tm9QcXBtaTJBRV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1IxUndRbWxXYzBWbk5FMDVMWHBGU1RsWFZsVlpVbnBhVldaUU5FZHBlak5wWWpKUlQzcFZWVE5VTjNoaE0xOUxjbFkzYWtSNFZUZGxZV3g0ZWtWa1dsTXlhbUZuRWhkMVUyOUxXamR0Y2tWd1MyWTFUbTlRY1hCdGFUSkJSUm9pUVVaWWNrVmpjRVV6Y1VoVU4yMVdTakJYYm5sUFNTMWtMWHBUWkhjek4ydGpkdyIsImZjdiI6IjMiLCJlaSI6InVTb0taN21yRXBLZjVOb1BxcG1pMkFFIiwicWMiOiJDZ1J0YVc1MEVBQjlQZndzUHciLCJxdWVzdGlvbiI6IklzIG1pbnQgYW5kIHBlcHBlcm1pbnQgdGhlIHNhbWUgdGhpbmc%2FIiwibGsiOiJjNU9TS1VndEtFZ3R5czNNSzFGSXpFdFJBRE5LTWxJVmloTnpVd0UiLCJicyI6ImMtUHk0bElNejZoVXlDeFc4TXdyS2Mwc1VTak9LQzBweWN4TFYwakpMODlUeU0zTUs3R1hhQ294VXBKU0tJZW95OFNsanN1R1N5bzhJN0VFS0pKYURCWUJzaFRTOG9zVUt2Tkw3U1UyRmhsSlMwbVc0MUxBNWMybDVna1ZUY3hMVVNoSUxTaElMUUp6U3pKU0ZZb1RjMU9CREtDRjloSmJvNHprcEdTUUZJRFVvNmprTXVNU2h4dW1rRllFY2pEUW1ySlVvTzRidmtZU1VtS1pXR1VGR0FFIiwiaWQiOiJmY191U29LWjdtckVwS2Y1Tm9QcXBtaTJBRV81In0%3D"
+    },
+    {
+      "question": "Is mint a fruit or veg?",
+      "snippet": "Mint is a popular herb that may possess potential health benefits. This may include helping with digestive health, reducing allergic symptoms, and soothing common cold symptoms. Mint or mentha belongs to the Lamiaceae family, which contains around 15\u201320 plant species, including peppermint and spearmint.",
+      "title": "Mint: Benefits, nutrition, and dietary tips - MedicalNewsToday",
+      "link": "https://www.medicalnewstoday.com/articles/275944#:~:text=Mint%20is%20a%20popular%20herb,species%2C%20including%20peppermint%20and%20spearmint.",
+      "displayed_link": "https://www.medicalnewstoday.com \u203a articles",
+      "source_logo": "https://serpapi.com/searches/670a2ab8310300f730d06381/images/4b6351c316ca44d5814364679988b328ec7703e965717f2d98d8413e69e1988f.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1IxUndRbWxXYzBWbk5FMDVMWHBGU1RsWFZsVlpVbnBhVldaUU5FZHBlak5wWWpKUlQzcFZWVE5VTjNoaE0xOUxjbFkzYWtSNFZUZGxZV3g0ZWtWa1dsTXlhbUZuRWhkMVUyOUxXamR0Y2tWd1MyWTFUbTlRY1hCdGFUSkJSUm9pUVVaWWNrVmpjRVV6Y1VoVU4yMVdTakJYYm5sUFNTMWtMWHBUWkhjek4ydGpkdyIsImZjdiI6IjMiLCJlaSI6InVTb0taN21yRXBLZjVOb1BxcG1pMkFFIiwicWMiOiJDZ1J0YVc1MEVBQjlQZndzUHciLCJxdWVzdGlvbiI6IklzIG1pbnQgYSBmcnVpdCBvciB2ZWc/IiwibGsiOiJHaFpwY3lCdGFXNTBJR0VnWm5KMWFYUWdiM0lnZG1WbiIsImJzIjoiYy1QeTRsSU16NmhVeUN4VzhNd3JLYzBzVVNqT0tDMHB5Y3hMVjBqSkw4OVR5TTNNSzdHWGFDb3hVcEpTS0llb3k4U2xqc3VHU3lvOEk3RUVLSkphREJZQnNoVFM4b3NVS3ZOTDdTVTJGaGxKUzBtVzQxTEE1YzJsNWdrVlRjeExVU2hJTFNoSUxRSnpTekpTRllvVGMxT0JES0NGOWhKYm80emtwR1NRRklEVW82amtNdU1TaHh1bWtGWUVjakRRbXJKVW9PNGJ2a1lTVW1LWldHVUZHQUUiLCJpZCI6ImZjX3VTb0taN21yRXBLZjVOb1BxcG1pMkFFXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1IxUndRbWxXYzBWbk5FMDVMWHBGU1RsWFZsVlpVbnBhVldaUU5FZHBlak5wWWpKUlQzcFZWVE5VTjNoaE0xOUxjbFkzYWtSNFZUZGxZV3g0ZWtWa1dsTXlhbUZuRWhkMVUyOUxXamR0Y2tWd1MyWTFUbTlRY1hCdGFUSkJSUm9pUVVaWWNrVmpjRVV6Y1VoVU4yMVdTakJYYm5sUFNTMWtMWHBUWkhjek4ydGpkdyIsImZjdiI6IjMiLCJlaSI6InVTb0taN21yRXBLZjVOb1BxcG1pMkFFIiwicWMiOiJDZ1J0YVc1MEVBQjlQZndzUHciLCJxdWVzdGlvbiI6IklzIG1pbnQgYSBmcnVpdCBvciB2ZWc%2FIiwibGsiOiJHaFpwY3lCdGFXNTBJR0VnWm5KMWFYUWdiM0lnZG1WbiIsImJzIjoiYy1QeTRsSU16NmhVeUN4VzhNd3JLYzBzVVNqT0tDMHB5Y3hMVjBqSkw4OVR5TTNNSzdHWGFDb3hVcEpTS0llb3k4U2xqc3VHU3lvOEk3RUVLSkphREJZQnNoVFM4b3NVS3ZOTDdTVTJGaGxKUzBtVzQxTEE1YzJsNWdrVlRjeExVU2hJTFNoSUxRSnpTekpTRllvVGMxT0JES0NGOWhKYm80emtwR1NRRklEVW82amtNdU1TaHh1bWtGWUVjakRRbXJKVW9PNGJ2a1lTVW1LWldHVUZHQUUiLCJpZCI6ImZjX3VTb0taN21yRXBLZjVOb1BxcG1pMkFFXzUifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Intuit Mint",
+      "link": "https://mint.intuit.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mint.intuit.com/&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQFnoECAgQAQ",
+      "displayed_link": "https://mint.intuit.com",
+      "favicon": "https://serpapi.com/searches/670a2ab8310300f730d06381/images/f3adc9798629bb8a735a7c3debb023caf9b9d782a182cf4f7793c02b27f925f3.png",
+      "snippet": "Review your transactions, track your spending by category and receive monthly insights that help you better understand your money habits. Learn more.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Manage All Accounts In One...",
+            "link": "https://mint.intuit.com/how-mint-works/"
+          },
+          {
+            "title": "Tools",
+            "link": "https://mint.intuit.com/how-mint-works"
+          },
+          {
+            "title": "Credit Cards",
+            "link": "https://mint.intuit.com/credit-cards/"
+          },
+          {
+            "title": "Loans",
+            "link": "https://mint.intuit.com/loan-center/"
+          }
+        ]
+      },
+      "source": "Mint"
+    },
+    {
+      "position": 2,
+      "title": "Mint Mobile | Wireless that's Easy, Online, $15 Bucks a Month",
+      "link": "https://www.mintmobile.com/?srsltid=AfmBOopH4gL-msFjipUUQE-F6mq4l7mPSPmLnmCE1Z9oZ-vklbzEU88V",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mintmobile.com/%3Fsrsltid%3DAfmBOopH4gL-msFjipUUQE-F6mq4l7mPSPmLnmCE1Z9oZ-vklbzEU88V&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQFnoECBoQAQ",
+      "displayed_link": "https://www.mintmobile.com",
+      "favicon": "https://serpapi.com/searches/670a2ab8310300f730d06381/images/f3adc9798629bb8a735a7c3debb023ca5d80361ab9b16bfaa5cbdd0771a8874e.png",
+      "snippet": "With flexible plans that include high speed data coverage and unlimited talk and text, we're helping you keep more money in your pockets.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Phone Plans with Unlimited",
+            "link": "https://www.mintmobile.com/plans/"
+          },
+          {
+            "title": "Login - Mint Mobile",
+            "link": "https://my.mintmobile.com/login"
+          },
+          {
+            "title": "How Do Mint Mobile Plans Work",
+            "link": "https://www.mintmobile.com/how-it-works/plans/"
+          }
+        ]
+      },
+      "source": "Mint Mobile"
+    },
+    {
+      "position": 3,
+      "title": "Official Site of the United States Mint",
+      "link": "https://www.usmint.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.usmint.gov/&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQFnoECBwQAQ",
+      "displayed_link": "https://www.usmint.gov",
+      "favicon": "https://serpapi.com/searches/670a2ab8310300f730d06381/images/f3adc9798629bb8a735a7c3debb023ca1ce80526298196e6bb04a501cd231b65.png",
+      "snippet": "Explore U.S. circulating coins, bullion, and collectibles. Find information on U.S. Mint public tours, numismatic news, and our product schedule.",
+      "snippet_highlighted_words": [
+        "Mint"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Visiting the Denver Mint",
+            "link": "https://www.usmint.gov/about/mint-tours-facilities/denver/visiting-the-denver-mint"
+          },
+          {
+            "title": "About the Mint",
+            "link": "https://www.usmint.gov/learn/kids/about-the-mint"
+          },
+          {
+            "title": "Tours & Facilities",
+            "link": "https://www.usmint.gov/about/mint-tours-facilities"
+          },
+          {
+            "title": "Washington, DC",
+            "link": "https://www.usmint.gov/about/mint-tours-facilities/washington-dc"
+          }
+        ]
+      },
+      "source": "United States Mint (.gov)"
+    },
+    {
+      "position": 4,
+      "title": "Linux Mint: Home",
+      "link": "https://linuxmint.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://linuxmint.com/&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQFnoECEQQAQ",
+      "displayed_link": "https://linuxmint.com",
+      "favicon": "https://serpapi.com/searches/670a2ab8310300f730d06381/images/f3adc9798629bb8a735a7c3debb023ca7276fc7b5236a8a08fd77dd2a1baab3d.png",
+      "snippet": "Linux Mint is an elegant, easy to use, up to date and comfortable desktop operating system.",
+      "snippet_highlighted_words": [
+        "Mint"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Download",
+            "link": "https://www.linuxmint.com/download.php"
+          },
+          {
+            "title": "How to upgrade to Linux Mint 22",
+            "link": "https://blog.linuxmint.com/?p=4732"
+          },
+          {
+            "title": "Linux Mint 22 \u201cWilma\u201d released!",
+            "link": "https://blog.linuxmint.com/?p=4731"
+          },
+          {
+            "title": "FAQ",
+            "link": "https://www.linuxmint.com/faq.php"
+          }
+        ]
+      },
+      "source": "Linux Mint"
+    },
+    {
+      "position": 5,
+      "title": "Mentha",
+      "link": "https://en.wikipedia.org/wiki/Mentha",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Mentha&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQFnoECEMQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Mentha",
+      "favicon": "https://serpapi.com/searches/670a2ab8310300f730d06381/images/f3adc9798629bb8a735a7c3debb023ca6b094382af6f6d2d3ee64a7868efdc9a.png",
+      "snippet": "Mentha, also known as mint is a genus of flowering plants in the mint family, Lamiaceae. It is estimated that 13 to 24 species exist, but the exact ...",
+      "snippet_highlighted_words": [
+        "mint",
+        "mint"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 6,
+      "title": "Mint Definition & Meaning",
+      "link": "https://www.merriam-webster.com/dictionary/mint",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.merriam-webster.com/dictionary/mint&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQFnoECEUQAQ",
+      "displayed_link": "https://www.merriam-webster.com \u203a dictionary \u203a mint",
+      "favicon": "https://serpapi.com/searches/670a2ab8310300f730d06381/images/f3adc9798629bb8a735a7c3debb023caa58066852e5a9ab5ae46ceb8ce278410.png",
+      "date": "5 days ago",
+      "snippet": "1. a place where coins, medals, or tokens are made 2. a place where something is manufactured 3. a vast sum or amount worth a mint",
+      "snippet_highlighted_words": [
+        "mint"
+      ],
+      "source": "Merriam-Webster"
+    },
+    {
+      "position": 7,
+      "title": "Mint Mobile on the App Store",
+      "link": "https://apps.apple.com/us/app/mint-mobile/id1295303441",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/mint-mobile/id1295303441&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQFnoECEkQAQ",
+      "displayed_link": "https://apps.apple.com \u203a app \u203a mint-mobile",
+      "favicon": "https://serpapi.com/searches/670a2ab8310300f730d06381/images/f3adc9798629bb8a735a7c3debb023ca4f49f4fa4b4d0f960d17f4fd21c8930e.png",
+      "snippet": "Mint Mobile is premium wireless, without all the B.S, for just $15 bucks a month. All our plans come with everything you need and nothing you don't: ...",
+      "snippet_highlighted_words": [
+        "Mint"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 4.7
+          },
+          "extensions": [
+            "4.7(156,774)",
+            "Free",
+            "\u200eiOS",
+            "\u200eUtilities/Tools"
+          ]
+        }
+      },
+      "source": "Apple"
+    },
+    {
+      "position": 8,
+      "title": "Phone Plans with Unlimited Talk, Text, & Data",
+      "link": "https://www.mintmobile.com/plans/?srsltid=AfmBOope4MDxn8HIz0FjKyTQfaQwQ3bnoixD9ZI1M0Z5lkxkQb90TAeZ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mintmobile.com/plans/%3Fsrsltid%3DAfmBOope4MDxn8HIz0FjKyTQfaQwQ3bnoixD9ZI1M0Z5lkxkQb90TAeZ&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQFnoECEYQAQ",
+      "displayed_link": "https://www.mintmobile.com \u203a plans",
+      "favicon": "https://serpapi.com/searches/670a2ab8310300f730d06381/images/f3adc9798629bb8a735a7c3debb023ca32dc436583b53693ee0563fa70a0f216.png",
+      "snippet": "All plans include high speed data, unlimited talk & text, and nationwide coverage. New to Mint? Get any 3-month plan for as low as $15/mo.",
+      "snippet_highlighted_words": [
+        "Mint"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Mint Modern Family Plan",
+            "link": "https://www.mintmobile.com/family-phone-plans/"
+          },
+          {
+            "title": "3 Month Plans",
+            "link": "https://www.mintmobile.com/phone-plans/3-month-plans"
+          },
+          {
+            "title": "Unlimited plan",
+            "link": "https://www.mintmobile.com/unlimited-data-phone-plans"
+          },
+          {
+            "title": "Shop 12-Month Plans",
+            "link": "https://www.mintmobile.com/phone-plans/12-month-plans"
+          }
+        ]
+      },
+      "source": "Mint Mobile"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&tbs=lf:1,lf_ui:2&tbm=lcl&q=mint&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQjGp6BAg6EAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=mint&tbs=lf%3A1%2Clf_ui%3A2&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Mint Mobile",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Mint+Mobile&sa=X&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQ1QJ6BAh1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Mint+Mobile"
+    },
+    {
+      "block_position": 1,
+      "query": "Mint leaves",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Mint+leaves&sa=X&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQ1QJ6BAhxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Mint+leaves"
+    },
+    {
+      "block_position": 1,
+      "query": "Mint color",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Mint+color&sa=X&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQ1QJ6BAh2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Mint+color"
+    },
+    {
+      "block_position": 1,
+      "query": "Mint app",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Mint+app&sa=X&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQ1QJ6BAhyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Mint+app"
+    },
+    {
+      "block_position": 1,
+      "query": "Mint Linux",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Mint+Linux&sa=X&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQ1QJ6BAhvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Mint+Linux"
+    },
+    {
+      "block_position": 1,
+      "query": "Mint Candy",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Mint+Candy&sa=X&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQ1QJ6BAh3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Mint+Candy"
+    },
+    {
+      "block_position": 1,
+      "query": "Mint money",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Mint+money&sa=X&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQ1QJ6BAhwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Mint+money"
+    },
+    {
+      "block_position": 1,
+      "query": "Mint restaurant",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Mint+restaurant&sa=X&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQ1QJ6BAh0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Mint+restaurant"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=mint&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=uSoKZ7mrEpKf5NoPqpmi2AE&start=10&sa=N&sstk=Aagrsuhqi8utJwXWhoxYk2ZWA4FfRAnRcFHcMaXFeeP4ag1U7LbHPdM8MFE3mzsk8cnRWc4wwjjIgjD7maI2IXevDKWhz7B2ncLcBg&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQ8NMDegQIXxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=mint&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=uSoKZ7mrEpKf5NoPqpmi2AE&start=10&sa=N&sstk=Aagrsuhqi8utJwXWhoxYk2ZWA4FfRAnRcFHcMaXFeeP4ag1U7LbHPdM8MFE3mzsk8cnRWc4wwjjIgjD7maI2IXevDKWhz7B2ncLcBg&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQ8tMDegQIXxAE",
+      "3": "https://www.google.com/search?q=mint&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=uSoKZ7mrEpKf5NoPqpmi2AE&start=20&sa=N&sstk=Aagrsuhqi8utJwXWhoxYk2ZWA4FfRAnRcFHcMaXFeeP4ag1U7LbHPdM8MFE3mzsk8cnRWc4wwjjIgjD7maI2IXevDKWhz7B2ncLcBg&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQ8tMDegQIXxAG",
+      "4": "https://www.google.com/search?q=mint&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=uSoKZ7mrEpKf5NoPqpmi2AE&start=30&sa=N&sstk=Aagrsuhqi8utJwXWhoxYk2ZWA4FfRAnRcFHcMaXFeeP4ag1U7LbHPdM8MFE3mzsk8cnRWc4wwjjIgjD7maI2IXevDKWhz7B2ncLcBg&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQ8tMDegQIXxAI",
+      "5": "https://www.google.com/search?q=mint&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=uSoKZ7mrEpKf5NoPqpmi2AE&start=40&sa=N&sstk=Aagrsuhqi8utJwXWhoxYk2ZWA4FfRAnRcFHcMaXFeeP4ag1U7LbHPdM8MFE3mzsk8cnRWc4wwjjIgjD7maI2IXevDKWhz7B2ncLcBg&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQ8tMDegQIXxAK",
+      "6": "https://www.google.com/search?q=mint&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=uSoKZ7mrEpKf5NoPqpmi2AE&start=50&sa=N&sstk=Aagrsuhqi8utJwXWhoxYk2ZWA4FfRAnRcFHcMaXFeeP4ag1U7LbHPdM8MFE3mzsk8cnRWc4wwjjIgjD7maI2IXevDKWhz7B2ncLcBg&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQ8tMDegQIXxAM",
+      "7": "https://www.google.com/search?q=mint&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=uSoKZ7mrEpKf5NoPqpmi2AE&start=60&sa=N&sstk=Aagrsuhqi8utJwXWhoxYk2ZWA4FfRAnRcFHcMaXFeeP4ag1U7LbHPdM8MFE3mzsk8cnRWc4wwjjIgjD7maI2IXevDKWhz7B2ncLcBg&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQ8tMDegQIXxAO",
+      "8": "https://www.google.com/search?q=mint&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=uSoKZ7mrEpKf5NoPqpmi2AE&start=70&sa=N&sstk=Aagrsuhqi8utJwXWhoxYk2ZWA4FfRAnRcFHcMaXFeeP4ag1U7LbHPdM8MFE3mzsk8cnRWc4wwjjIgjD7maI2IXevDKWhz7B2ncLcBg&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQ8tMDegQIXxAQ",
+      "9": "https://www.google.com/search?q=mint&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=uSoKZ7mrEpKf5NoPqpmi2AE&start=80&sa=N&sstk=Aagrsuhqi8utJwXWhoxYk2ZWA4FfRAnRcFHcMaXFeeP4ag1U7LbHPdM8MFE3mzsk8cnRWc4wwjjIgjD7maI2IXevDKWhz7B2ncLcBg&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQ8tMDegQIXxAS",
+      "10": "https://www.google.com/search?q=mint&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=uSoKZ7mrEpKf5NoPqpmi2AE&start=90&sa=N&sstk=Aagrsuhqi8utJwXWhoxYk2ZWA4FfRAnRcFHcMaXFeeP4ag1U7LbHPdM8MFE3mzsk8cnRWc4wwjjIgjD7maI2IXevDKWhz7B2ncLcBg&ved=2ahUKEwj566eTroiJAxWSD1kFHaqMCBsQ8tMDegQIXxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=mint&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=mint&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=mint&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=mint&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=mint&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=mint&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=mint&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=mint&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=mint&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=mint&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=mint&start=90"
+    }
+  }
+}

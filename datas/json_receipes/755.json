@@ -1,0 +1,518 @@
+{
+  "search_metadata": {
+    "id": "670a2f3d89055e3f94f41e92",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a46672afd08fbd5f/670a2f3d89055e3f94f41e92.json",
+    "created_at": "2024-10-12 08:11:41 UTC",
+    "processed_at": "2024-10-12 08:11:41 UTC",
+    "google_url": "https://www.google.com/search?q=common+tuna&oq=common+tuna&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/a46672afd08fbd5f/670a2f3d89055e3f94f41e92.html",
+    "total_time_taken": 1.92
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "common tuna",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "common tuna",
+    "total_results": 40500000,
+    "time_taken_displayed": 0.29,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "title": "Tuna",
+    "type": "Fish",
+    "entity_type": "biology, food, animal",
+    "kgmid": "/m/0cj45",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0cj45&hl=en-US&q=Tuna",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0cj45&location=Austin%2CTexas%2CUnited+States&q=Tuna",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2f3d89055e3f94f41e92/images/59214d8b68d0f69a89f66ca6342ae532a5f76f75aecef3cac9f8a6fa04002d15842371feba937ec1.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2f3d89055e3f94f41e92/images/59214d8b68d0f69a89f66ca6342ae532a5f76f75aecef3ca842257225acee6e80eee90fbf6cc6925.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2f3d89055e3f94f41e92/images/59214d8b68d0f69a89f66ca6342ae532a5f76f75aecef3cad3576d3d9900d8b1b2c5d9129ad32a46.webp"
+      }
+    ],
+    "sources_include": "USDAUSDASkipjack tuna203 Calories - 0.5 fillet (154 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/172005/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/172006/nutrients"
+      }
+    ],
+    "web_results": [
+      {
+        "snippet": "A tuna is a saltwater fish that belongs to the tribe Thunnini, a subgrouping of the Scombridae family. The Thunnini comprise 15 species across five genera, the sizes of which vary greatly, ranging from the bullet tuna up to the Atlantic bluefin tuna, which averages 2 m and is believed to live up to 50 years.",
+        "source": "Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Tuna"
+      },
+      {
+        "title": "Largest species",
+        "snippet": "Bluefin tuna",
+        "source": "worldwildlife.org",
+        "link": "https://www.worldwildlife.org/species/bluefin-tuna"
+      },
+      {
+        "title": "Class",
+        "snippet": "Actinopterygii",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=tuna+class&stick=H4sIAAAAAAAAAOPgE-LQz9U3SM4yMdUSKi620i9PTUpLTC4ptkrOSSwuXsTKVVKal6gA5gAA0h71BS0AAAA&sa=X&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQ18AJegQITBAB"
+      }
+    ],
+    "lower_classifications": [
+      {
+        "name": "True tunas",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Thunnus&stick=H4sIAAAAAAAAAONgFuLQz9U3SM4yMVXiArGMCqqM8wq0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixexsodklObllRbvYGUEAI49eJxgAAAA&sa=X&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQxA16BAhQEAM",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Thunnus&stick=H4sIAAAAAAAAAONgFuLQz9U3SM4yMVXiArGMCqqM8wq0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixexsodklObllRbvYGUEAI49eJxgAAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQHFpoHLQXVNbVu8l7gbCNNVML5r7IGyiGHfPHlUqjCkprfZB2nuOorcy6cs7zLDr9PutI5bGx7zagUhF7zc--K1Q&s=19"
+      },
+      {
+        "name": "Skipjack tuna",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Skipjack+tuna&stick=H4sIAAAAAAAAAONgFuLQz9U3SM4yMVXiBLHM0suLi7Uss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7HyBmdnFmQlJmcrlJTmJe5gZQQAJyJHumUAAAA&sa=X&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQxA16BAhQEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Skipjack+tuna&stick=H4sIAAAAAAAAAONgFuLQz9U3SM4yMVXiBLHM0suLi7Uss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7HyBmdnFmQlJmcrlJTmJe5gZQQAJyJHumUAAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT22ozeKRlN_wy4qb4vmdnkhpGPlHGNRqdy_nta60ir0T78cM6kD-RYHeYyyj8O_zBkyt2a3w&s=0"
+      },
+      {
+        "name": "Mackerel tuna",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Euthynnus+affinis&stick=H4sIAAAAAAAAAONgFuLQz9U3SM4yMVXiArPyKnPLTLUss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7EKupaWZFTm5ZUWKySmpWUCde5gZQQACcaOzmoAAAA&sa=X&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQxA16BAhQEAc",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Euthynnus+affinis&stick=H4sIAAAAAAAAAONgFuLQz9U3SM4yMVXiArPyKnPLTLUss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7EKupaWZFTm5ZUWKySmpWUCde5gZQQACcaOzmoAAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl9o5_6WIFGDKh1lhLzf2znNudxX8MlIn78BCUJeKFYI_sANSG1VWO8bEMUeeLw5_H1OS8Pg&s=0"
+      },
+      {
+        "name": "Little tunny",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Little+tunny&stick=H4sIAAAAAAAAAONgFuLQz9U3SM4yMVXiArGMiooq4qu0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixex8vhklpTkpCqUlOblVe5gZQQAvqQasWUAAAA&sa=X&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQxA16BAhQEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Little+tunny&stick=H4sIAAAAAAAAAONgFuLQz9U3SM4yMVXiArGMiooq4qu0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixex8vhklpTkpCqUlOblVe5gZQQAvqQasWUAAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUKFUSmw4O5r-2samrzWvNSyCnKHQsurptXOuwj6w-4iklDMAIpxbKjpKGlspFfDsJgdMVxg&s=0"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "2 g",
+        "3%"
+      ],
+      "cholesterol": [
+        "92 mg",
+        "30%"
+      ],
+      "sodium": [
+        "72 mg",
+        "3%"
+      ],
+      "potassium": [
+        "804 mg",
+        "22%"
+      ],
+      "total_carbohydrate": [
+        "0 g",
+        "0%"
+      ],
+      "protein": [
+        "43 g",
+        "86%"
+      ]
+    }
+  },
+  "inline_people_also_search_for": [
+    {
+      "items": [
+        {
+          "name": "Yellowfin tuna",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrys8gMMGLomCqG6VSc6BRIIU7REHLZGyCJ8IMVyFL_Ut_SYVcASTb&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Yellowfin+tuna&stick=H4sIAAAAAAAAAOMwVGI0-MXIsIGF4RULNxenfq6-gXF6pWUugmeUbFEO55mllxcXw3mG5VXZFq9YeLi4QDyjgirjvIJXLFxcHCBucpaJKVxlsnFKvDlcytLc3BxhQUpOcfYiVr7I1Jyc_PK0zDyFktK8xFtskgzdT3uMA-NDCt6pNB-UOrRnyVOTn-tml3mvWsQhFpCaX5CTqpCYU5yvUJyaWJScoZCWX7SCgxEAHcBBjdEAAAA&sa=X&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQs9oBKAB6BAhjEAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Yellowfin+tuna&stick=H4sIAAAAAAAAAOMwVGI0-MXIsIGF4RULNxenfq6-gXF6pWUugmeUbFEO55mllxcXw3mG5VXZFq9YeLi4QDyjgirjvIJXLFxcHCBucpaJKVxlsnFKvDlcytLc3BxhQUpOcfYiVr7I1Jyc_PK0zDyFktK8xFtskgzdT3uMA-NDCt6pNB-UOrRnyVOTn-tml3mvWsQhFpCaX5CTqpCYU5yvUJyaWJScoZCWX7SCgxEAHcBBjdEAAAA"
+        },
+        {
+          "name": "Atlantic bluefin tuna",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj1xNrjzvXn_0SjgEEXebtqVRzZZvnoEcAjVDpTYqru5xjLZ2XLgmY&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Atlantic+bluefin+tuna&stick=H4sIAAAAAAAAAOMwVGI0_MXIsIGF4RULNxenfq6-gXF6pWUugmeUbFEO55mllxcXw3mG5VXZFq9YeLi4QDyjgirjvIJXLFxcHCBucpaJKVxlsnFKvDlcytLc3BxhQUpOcfYiVlHHkpzEvJLMZIWknNLUtMw8hZLSvMRbbJIM3U97jAPjQwreqTQflDq0Z8lTk5_rZpd5r1rEIRaQml-Qk6qQmFOcr1CcmliUnKGQll-0goMRAErI8fDYAAAA&sa=X&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQs9oBKAF6BAhjEAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Atlantic+bluefin+tuna&stick=H4sIAAAAAAAAAOMwVGI0_MXIsIGF4RULNxenfq6-gXF6pWUugmeUbFEO55mllxcXw3mG5VXZFq9YeLi4QDyjgirjvIJXLFxcHCBucpaJKVxlsnFKvDlcytLc3BxhQUpOcfYiVlHHkpzEvJLMZIWknNLUtMw8hZLSvMRbbJIM3U97jAPjQwreqTQflDq0Z8lTk5_rZpd5r1rEIRaQml-Qk6qQmFOcr1CcmliUnKGQll-0goMRAErI8fDYAAAA"
+        },
+        {
+          "name": "Skipjack tuna",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkP_3uw17z3BK0iBr9KXo0tfZnJYJrZuWCLe1SETBNfHbmEvFeS7JU&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Skipjack+tuna&stick=H4sIAAAAAAAAAOMwVGI0-sXIsIGF4RULNxenfq6-gXF6pWUugmeUbFEO55mllxcXw3mG5VXZFq9YeLi4QDyjgirjvIJXLFxcHCBucpaJKVxlsnFKvDlcytLc3BxhQUpOcfYiVt7g7MyCrMTkbIWS0rzEW2ySDN1Pe4wD40MK3qk0H5Q6tGfJU5Of62aXea9axCEWkJpfkJOqkJhTnK9QnJpYlJyhkJZftIKDEQCVgKCu0AAAAA&sa=X&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQs9oBKAJ6BAhjEAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Skipjack+tuna&stick=H4sIAAAAAAAAAOMwVGI0-sXIsIGF4RULNxenfq6-gXF6pWUugmeUbFEO55mllxcXw3mG5VXZFq9YeLi4QDyjgirjvIJXLFxcHCBucpaJKVxlsnFKvDlcytLc3BxhQUpOcfYiVt7g7MyCrMTkbIWS0rzEW2ySDN1Pe4wD40MK3qk0H5Q6tGfJU5Of62aXea9axCEWkJpfkJOqkJhTnK9QnJpYlJyhkJZftIKDEQCVgKCu0AAAAA"
+        },
+        {
+          "name": "Albacore",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbfcVSA4oF8yWEaJRQ0xrr5D8c2RBDxZjYUzyvlI35dVa_bDhdh2EB&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Albacore&stick=H4sIAAAAAAAAAOMwVGI0_sXIsIGF4RULNxenfq6-gXF6pWUugmeUbFEO55mllxcXw3mG5VXZFq9YeLi4QDyjgirjvIJXLFxcHCBucpaJKVxlsnFKvDlcytLc3BxhQUpOcfYiVg7HnKTE5Pyi1FtskgzdT3uMA-NDCt6pNB-UOrRnyVOTn-tml3mvWsQhFpCaX5CTqpCYU5yvUJyaWJScoZCWX7SCgxEA-BjOqMsAAAA&sa=X&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQs9oBKAN6BAhjEAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Albacore&stick=H4sIAAAAAAAAAOMwVGI0_sXIsIGF4RULNxenfq6-gXF6pWUugmeUbFEO55mllxcXw3mG5VXZFq9YeLi4QDyjgirjvIJXLFxcHCBucpaJKVxlsnFKvDlcytLc3BxhQUpOcfYiVg7HnKTE5Pyi1FtskgzdT3uMA-NDCt6pNB-UOrRnyVOTn-tml3mvWsQhFpCaX5CTqpCYU5yvUJyaWJScoZCWX7SCgxEA-BjOqMsAAAA"
+        },
+        {
+          "name": "True tunas",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcR-IOuN07rjtg8YPYPS24UAH_l5XeRYmvab1ev7HJjaCVFlTiJgu3MYhsiASlBSSOS8Im8KoM15&s=19",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Thunnus&stick=H4sIAAAAAAAAAOMwVGI0-cXIsIGF4RULNxenfq6-gXF6pWUugmeUbFEO55mllxcXw3mG5VXZFq9YeLi4QDyjgirjvIJXLFxcHCBucpaJKVxlsnFKvDlcytLc3BxhQUpOcfYiVvaQjNK8vNLiW2ySDN1Pe4wD40MK3qk0H5Q6tGfJU5Of62aXea9axCEWkJpfkJOqkJhTnK9QnJpYlJyhkJZftIKDEQAAi9t0ygAAAA&sa=X&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQs9oBKAR6BAhjEAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Thunnus&stick=H4sIAAAAAAAAAOMwVGI0-cXIsIGF4RULNxenfq6-gXF6pWUugmeUbFEO55mllxcXw3mG5VXZFq9YeLi4QDyjgirjvIJXLFxcHCBucpaJKVxlsnFKvDlcytLc3BxhQUpOcfYiVvaQjNK8vNLiW2ySDN1Pe4wD40MK3qk0H5Q6tGfJU5Of62aXea9axCEWkJpfkJOqkJhTnK9QnJpYlJyhkJZftIKDEQAAi9t0ygAAAA"
+        },
+        {
+          "name": "Tuna",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcR-IOuN07rjtg8YPYPS24UAH_l5XeRYmvab1ev7HJjaCVFlTiJgu3MYhsiASlBSSOS8Im8KoM15&s=19",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Tuna&stick=H4sIAAAAAAAAAOMwVGI0_cXIsIGF4RULNxenfq6-gXF6pWUugmeUbFEO55mllxcXw3mG5VXZFq9YeLi4QDyjgirjvIJXLFxcHCBucpaJKVxlsnFKvDlcytLc3BxhQUpOcfYiVpaQ0rzEW2ySDN1Pe4wD40MK3qk0H5Q6tGfJU5Of62aXea9axCEWkJpfkJOqkJhTnK9QnJpYlJyhkJZftIKDEQBV4vYUxwAAAA&sa=X&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQs9oBKAV6BAhjEAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Tuna&stick=H4sIAAAAAAAAAOMwVGI0_cXIsIGF4RULNxenfq6-gXF6pWUugmeUbFEO55mllxcXw3mG5VXZFq9YeLi4QDyjgirjvIJXLFxcHCBucpaJKVxlsnFKvDlcytLc3BxhQUpOcfYiVpaQ0rzEW2ySDN1Pe4wD40MK3qk0H5Q6tGfJU5Of62aXea9axCEWkJpfkJOqkJhTnK9QnJpYlJyhkJZftIKDEQBV4vYUxwAAAA"
+        }
+      ]
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the most common tuna?",
+      "snippet": "The majority of the market is made up of four species: skipjack alone accounts for more than half of the global catch of tuna, followed by yellowfin, bigeye, and albacore.",
+      "title": "skipjack",
+      "link": "https://www.worldwildlife.org/species/tuna#:~:text=The%20majority%20of%20the%20market,yellowfin%2C%20bigeye%2C%20and%20albacore.",
+      "displayed_link": "https://www.worldwildlife.org \u203a species \u203a tuna",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmtb2ertfoYmp-mObtrtpHou2CynJfKJOIb02QpPiSQA&s",
+      "source_logo": "https://serpapi.com/searches/670a2f3d89055e3f94f41e92/images/bda87ca5b3a884d56dd57e820e6a27405dfc2b83bbc6ecefc3d38545e9ab771c.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TldVdHZkMEppVHpGdVVIUlNUazVpUmpaeFRFSjFNbkJ2TW5NeVFrOXFjVWxmUVVNMGQwVkdPRUpDTkRsVVoxZHZVRVZpVkU5TFlqVlBNbVJwWm1WQlZGRmZTWEJZRWhkUVV6aExXalpmWmt4UFNITndkRkZRYjA5dVlXMUJUUm9pUVVaWWNrVmpiMnB0VjJ4U1ZHNDViazFuVTNWS05ERjROSFF0UWsxNVNsUlhRUSIsImZjdiI6IjMiLCJlaSI6IlBTOEtaNl9mTE9Ic3B0UVBvT25hbUFNIiwicWMiOiJDZ3RqYjIxdGIyNGdkSFZ1WVJBQWZkS3NJejgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG1vc3QgY29tbW9uIHR1bmE/IiwibGsiOiJHaHgzYUdGMElHbHpJSFJvWlNCdGIzTjBJR052YlcxdmJpQjBkVzVoIiwiYnMiOiJjLU55NHBJTnowZ3NVY2dzVmlqSlNGWEl6Uzh1VVVqT3o4M056MU1vS2MxTHRKZm9DelNTazVJcHg2T0d5NGxMR1o4WkNzVWxxWW5aOWhJdFBrWVNVbUxZWmJuOG9HWWtGcVdDRFNuSktFcE5WU2d1U0UzT1RDMVd5RS1EdXVaMm9KR0tsRkk1UVpWY1pselNNRGRCTFV0T3pNdExUWUdhODhiRlNFUktDRk5HZ0JFQSIsImlkIjoiZmNfUFM4S1o2X2ZMT0hzcHRRUG9PbmFtQU1fMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TldVdHZkMEppVHpGdVVIUlNUazVpUmpaeFRFSjFNbkJ2TW5NeVFrOXFjVWxmUVVNMGQwVkdPRUpDTkRsVVoxZHZVRVZpVkU5TFlqVlBNbVJwWm1WQlZGRmZTWEJZRWhkUVV6aExXalpmWmt4UFNITndkRkZRYjA5dVlXMUJUUm9pUVVaWWNrVmpiMnB0VjJ4U1ZHNDViazFuVTNWS05ERjROSFF0UWsxNVNsUlhRUSIsImZjdiI6IjMiLCJlaSI6IlBTOEtaNl9mTE9Ic3B0UVBvT25hbUFNIiwicWMiOiJDZ3RqYjIxdGIyNGdkSFZ1WVJBQWZkS3NJejgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG1vc3QgY29tbW9uIHR1bmE%2FIiwibGsiOiJHaHgzYUdGMElHbHpJSFJvWlNCdGIzTjBJR052YlcxdmJpQjBkVzVoIiwiYnMiOiJjLU55NHBJTnowZ3NVY2dzVmlqSlNGWEl6Uzh1VVVqT3o4M056MU1vS2MxTHRKZm9DelNTazVJcHg2T0d5NGxMR1o4WkNzVWxxWW5aOWhJdFBrWVNVbUxZWmJuOG9HWWtGcVdDRFNuSktFcE5WU2d1U0UzT1RDMVd5RS1EdXVaMm9KR0tsRkk1UVpWY1pselNNRGRCTFV0T3pNdExUWUdhODhiRlNFUktDRk5HZ0JFQSIsImlkIjoiZmNfUFM4S1o2X2ZMT0hzcHRRUG9PbmFtQU1fMSJ9"
+    },
+    {
+      "question": "What is the most common tuna steak?",
+      "snippet": "Skipjack accounts for 57% of the worldwide tuna catch, followed by yellowfin (31%), bigeye (7%), albacore (4%), and bluefin (1%). Buying fresh tuna, though, can be more of a challenge, so let's take a look at the different varieties of tuna.",
+      "title": "Your Essential Guide to Tuna - Fulton Fish Market",
+      "link": "https://fultonfishmarket.com/blogs/articles/essential-guide-to-tuna#:~:text=Skipjack%20accounts%20for%2057%25%20of,the%20different%20varieties%20of%20tuna.",
+      "displayed_link": "https://fultonfishmarket.com \u203a blogs \u203a articles \u203a essentia...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnbtO_GpaDP6Di-7hgoZ9H4F4FWPjMr0yRRKPzzpU3eg&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TldVdHZkMEppVHpGdVVIUlNUazVpUmpaeFRFSjFNbkJ2TW5NeVFrOXFjVWxmUVVNMGQwVkdPRUpDTkRsVVoxZHZVRVZpVkU5TFlqVlBNbVJwWm1WQlZGRmZTWEJZRWhkUVV6aExXalpmWmt4UFNITndkRkZRYjA5dVlXMUJUUm9pUVVaWWNrVmpiMnB0VjJ4U1ZHNDViazFuVTNWS05ERjROSFF0UWsxNVNsUlhRUSIsImZjdiI6IjMiLCJlaSI6IlBTOEtaNl9mTE9Ic3B0UVBvT25hbUFNIiwicWMiOiJDZ3RqYjIxdGIyNGdkSFZ1WVJBQWZkS3NJejgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG1vc3QgY29tbW9uIHR1bmEgc3RlYWs/IiwibGsiOiJHaFp0YjNOMElHTnZiVzF2YmlCMGRXNWhJSE4wWldGciIsImJzIjoiYy1OeTRwSU56MGdzVWNnc1ZpakpTRlhJelM4dVVVak96ODNOejFNb0tjMUx0SmZvQ3pTU2s1SXB4Nk9HeTRsTEdaOFpDc1VscVluWjloSXRQa1lTVW1MWVpibjhvR1lrRnFXQ0RTbkpLRXBOVlNndVNFM09UQzFXeUUtRHV1WjJvSkdLbEZJNVFaVmNabHpTTURkQkxVdE96TXRMVFlHYTg4YkZTRVJLQ0ZOR2dCRUEiLCJpZCI6ImZjX1BTOEtaNl9mTE9Ic3B0UVBvT25hbUFNXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TldVdHZkMEppVHpGdVVIUlNUazVpUmpaeFRFSjFNbkJ2TW5NeVFrOXFjVWxmUVVNMGQwVkdPRUpDTkRsVVoxZHZVRVZpVkU5TFlqVlBNbVJwWm1WQlZGRmZTWEJZRWhkUVV6aExXalpmWmt4UFNITndkRkZRYjA5dVlXMUJUUm9pUVVaWWNrVmpiMnB0VjJ4U1ZHNDViazFuVTNWS05ERjROSFF0UWsxNVNsUlhRUSIsImZjdiI6IjMiLCJlaSI6IlBTOEtaNl9mTE9Ic3B0UVBvT25hbUFNIiwicWMiOiJDZ3RqYjIxdGIyNGdkSFZ1WVJBQWZkS3NJejgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG1vc3QgY29tbW9uIHR1bmEgc3RlYWs%2FIiwibGsiOiJHaFp0YjNOMElHTnZiVzF2YmlCMGRXNWhJSE4wWldGciIsImJzIjoiYy1OeTRwSU56MGdzVWNnc1ZpakpTRlhJelM4dVVVak96ODNOejFNb0tjMUx0SmZvQ3pTU2s1SXB4Nk9HeTRsTEdaOFpDc1VscVluWjloSXRQa1lTVW1MWVpibjhvR1lrRnFXQ0RTbkpLRXBOVlNndVNFM09UQzFXeUUtRHV1WjJvSkdLbEZJNVFaVmNabHpTTURkQkxVdE96TXRMVFlHYTg4YkZTRVJLQ0ZOR2dCRUEiLCJpZCI6ImZjX1BTOEtaNl9mTE9Ic3B0UVBvT25hbUFNXzEifQ%3D%3D"
+    },
+    {
+      "question": "What are the three species of tuna?",
+      "snippet": "According to the ISSF, the most important species for commercial and recreational tuna fisheries are yellowfin (Thunnus albacares), bigeye (T. obesus), bluefin (T. thynnus, T.",
+      "title": "Tuna - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Tuna#:~:text=According%20to%20the%20ISSF%2C%20the,thynnus%2C%20T.",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Tuna",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBBKqKlnL2ieXX8bnXyz-SvohF4boNrQtn6rJtZfxIg&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TldVdHZkMEppVHpGdVVIUlNUazVpUmpaeFRFSjFNbkJ2TW5NeVFrOXFjVWxmUVVNMGQwVkdPRUpDTkRsVVoxZHZVRVZpVkU5TFlqVlBNbVJwWm1WQlZGRmZTWEJZRWhkUVV6aExXalpmWmt4UFNITndkRkZRYjA5dVlXMUJUUm9pUVVaWWNrVmpiMnB0VjJ4U1ZHNDViazFuVTNWS05ERjROSFF0UWsxNVNsUlhRUSIsImZjdiI6IjMiLCJlaSI6IlBTOEtaNl9mTE9Ic3B0UVBvT25hbUFNIiwicWMiOiJDZ3RqYjIxdGIyNGdkSFZ1WVJBQWZkS3NJejgiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSB0aHJlZSBzcGVjaWVzIG9mIHR1bmE/IiwibGsiOiJjNU5TS3M5SUxGRklMRXBWS01rQTRhTFVWSVhpZ3RUa3pOUmloZncwaFpMU3ZFUUEiLCJicyI6ImMtTnk0cElOejBnc1VjZ3NWaWpKU0ZYSXpTOHVVVWpPejgzTnoxTW9LYzFMdEpmb0N6U1NrNUlweDZPR3k0bExHWjhaQ3NVbHFZblo5aEl0UGtZU1VtTFlaYm44b0dZa0ZxV0NEU25KS0VwTlZTZ3VTRTNPVEMxV3lFLUR1dVoyb0pHS2xGSTVRWlZjWmx6U01EZEJMVXRPek10TFRZR2E4OGJGU0VSS0NGTkdnQkVBIiwiaWQiOiJmY19QUzhLWjZfZkxPSHNwdFFQb09uYW1BTV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TldVdHZkMEppVHpGdVVIUlNUazVpUmpaeFRFSjFNbkJ2TW5NeVFrOXFjVWxmUVVNMGQwVkdPRUpDTkRsVVoxZHZVRVZpVkU5TFlqVlBNbVJwWm1WQlZGRmZTWEJZRWhkUVV6aExXalpmWmt4UFNITndkRkZRYjA5dVlXMUJUUm9pUVVaWWNrVmpiMnB0VjJ4U1ZHNDViazFuVTNWS05ERjROSFF0UWsxNVNsUlhRUSIsImZjdiI6IjMiLCJlaSI6IlBTOEtaNl9mTE9Ic3B0UVBvT25hbUFNIiwicWMiOiJDZ3RqYjIxdGIyNGdkSFZ1WVJBQWZkS3NJejgiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSB0aHJlZSBzcGVjaWVzIG9mIHR1bmE%2FIiwibGsiOiJjNU5TS3M5SUxGRklMRXBWS01rQTRhTFVWSVhpZ3RUa3pOUmloZncwaFpMU3ZFUUEiLCJicyI6ImMtTnk0cElOejBnc1VjZ3NWaWpKU0ZYSXpTOHVVVWpPejgzTnoxTW9LYzFMdEpmb0N6U1NrNUlweDZPR3k0bExHWjhaQ3NVbHFZblo5aEl0UGtZU1VtTFlaYm44b0dZa0ZxV0NEU25KS0VwTlZTZ3VTRTNPVEMxV3lFLUR1dVoyb0pHS2xGSTVRWlZjWmx6U01EZEJMVXRPek10TFRZR2E4OGJGU0VSS0NGTkdnQkVBIiwiaWQiOiJmY19QUzhLWjZfZkxPSHNwdFFQb09uYW1BTV8xIn0%3D"
+    },
+    {
+      "question": "What is common canned tuna?",
+      "snippet": "There are a few species of tuna you'll find canned; the most common are albacore and skipjack. Each has a slightly different flavor and texture. Albacore: With an overall light and mild flavor and a natural salinity, albacore is popular for its versatility.",
+      "title": "Our Canned Tuna Guide Will Help You Identify High-Quality Fish",
+      "date": "Feb 17, 2023",
+      "link": "https://www.marthastewart.com/8371924/canned-tuna-guide#:~:text=There%20are%20a%20few%20species,is%20popular%20for%20its%20versatility.",
+      "displayed_link": "https://www.marthastewart.com \u203a canned-tuna-guide",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVNYQ_mNjuZUQwxJGk9YBYs2Cs1ti0JVChyVwBrc4n2A&s",
+      "source_logo": "https://serpapi.com/searches/670a2f3d89055e3f94f41e92/images/bda87ca5b3a884d56dd57e820e6a2740d82456ea7d33d09ef8f55905f1b3a1e4.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TldVdHZkMEppVHpGdVVIUlNUazVpUmpaeFRFSjFNbkJ2TW5NeVFrOXFjVWxmUVVNMGQwVkdPRUpDTkRsVVoxZHZVRVZpVkU5TFlqVlBNbVJwWm1WQlZGRmZTWEJZRWhkUVV6aExXalpmWmt4UFNITndkRkZRYjA5dVlXMUJUUm9pUVVaWWNrVmpiMnB0VjJ4U1ZHNDViazFuVTNWS05ERjROSFF0UWsxNVNsUlhRUSIsImZjdiI6IjMiLCJlaSI6IlBTOEtaNl9mTE9Ic3B0UVBvT25hbUFNIiwicWMiOiJDZ3RqYjIxdGIyNGdkSFZ1WVJBQWZkS3NJejgiLCJxdWVzdGlvbiI6IldoYXQgaXMgY29tbW9uIGNhbm5lZCB0dW5hPyIsImxrIjoiR2hKamIyMXRiMjRnWTJGdWJtVmtJSFIxYm1FIiwiYnMiOiJjLU55NHBJTnowZ3NVY2dzVmlqSlNGWEl6Uzh1VVVqT3o4M056MU1vS2MxTHRKZm9DelNTazVJcHg2T0d5NGxMR1o4WkNzVWxxWW5aOWhJdFBrWVNVbUxZWmJuOG9HWWtGcVdDRFNuSktFcE5WU2d1U0UzT1RDMVd5RS1EdXVaMm9KR0tsRkk1UVpWY1pselNNRGRCTFV0T3pNdExUWUdhODhiRlNFUktDRk5HZ0JFQSIsImlkIjoiZmNfUFM4S1o2X2ZMT0hzcHRRUG9PbmFtQU1fMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TldVdHZkMEppVHpGdVVIUlNUazVpUmpaeFRFSjFNbkJ2TW5NeVFrOXFjVWxmUVVNMGQwVkdPRUpDTkRsVVoxZHZVRVZpVkU5TFlqVlBNbVJwWm1WQlZGRmZTWEJZRWhkUVV6aExXalpmWmt4UFNITndkRkZRYjA5dVlXMUJUUm9pUVVaWWNrVmpiMnB0VjJ4U1ZHNDViazFuVTNWS05ERjROSFF0UWsxNVNsUlhRUSIsImZjdiI6IjMiLCJlaSI6IlBTOEtaNl9mTE9Ic3B0UVBvT25hbUFNIiwicWMiOiJDZ3RqYjIxdGIyNGdkSFZ1WVJBQWZkS3NJejgiLCJxdWVzdGlvbiI6IldoYXQgaXMgY29tbW9uIGNhbm5lZCB0dW5hPyIsImxrIjoiR2hKamIyMXRiMjRnWTJGdWJtVmtJSFIxYm1FIiwiYnMiOiJjLU55NHBJTnowZ3NVY2dzVmlqSlNGWEl6Uzh1VVVqT3o4M056MU1vS2MxTHRKZm9DelNTazVJcHg2T0d5NGxMR1o4WkNzVWxxWW5aOWhJdFBrWVNVbUxZWmJuOG9HWWtGcVdDRFNuSktFcE5WU2d1U0UzT1RDMVd5RS1EdXVaMm9KR0tsRkk1UVpWY1pselNNRGRCTFV0T3pNdExUWUdhODhiRlNFUktDRk5HZ0JFQSIsImlkIjoiZmNfUFM4S1o2X2ZMT0hzcHRRUG9PbmFtQU1fMSJ9"
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "What To Know About Various Tuna Species | Wild Planet Foods",
+    "link": "https://wildplanetfoods.com/blogs/blog/what-to-know-about-various-tuna-species#:~:text=There%20are%20fifteen%20species%20of,frequently%20as%20albacore%20and%20skipjack.",
+    "displayed_link": "https://wildplanetfoods.com \u203a blogs \u203a blog \u203a what-to-k...",
+    "hover_info": [
+      {
+        "text": "skipjack",
+        "info": "In Indonesian cuisine, skipjack tuna is known as cakalang. The most popular Indonesian dish made from skipjack tuna is cakalang fufu from Minahasa. It is a cured and smoked skipjack tuna dish, made by cooking the fish after clipping it to a bamboo frame.",
+        "title": "Skipjack tuna - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Skipjack_tuna",
+        "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Skipjack_tuna"
+      }
+    ],
+    "snippet": "There are fifteen species of tuna. However, the species that are most commonly found on grocery shelves are albacore (known as white tuna) and skipjack (often known as light tuna). Yellowfin and bigeye are also found on shelf, though not as frequently as albacore and skipjack.",
+    "snippet_highlighted_words": [
+      "albacore (known as white tuna) and skipjack (often known as light tuna)"
+    ],
+    "favicon": "https://serpapi.com/searches/670a2f3d89055e3f94f41e92/images/456203d805d63978435a9e62e22e9532d7ea179408cbedc1.png",
+    "source": "Wild Planet Foods",
+    "images": [
+      "https://serpapi.com/searches/670a2f3d89055e3f94f41e92/images/456203d805d639789fb2926a1bd2b9e8536cd0defad5a5e0.jpeg",
+      "https://serpapi.com/searches/670a2f3d89055e3f94f41e92/images/456203d805d639789fb2926a1bd2b9e80f13d6c1d2513c08.jpeg"
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Tuna",
+      "link": "https://en.wikipedia.org/wiki/Tuna",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Tuna&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQFnoECBUQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Tuna",
+      "thumbnail": "https://serpapi.com/searches/670a2f3d89055e3f94f41e92/images/3526fd1ea4711f34e5e448787b4c0b076faca5d9f7119d0385bd0b5c99aebca8.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2f3d89055e3f94f41e92/images/3526fd1ea4711f34e5e448787b4c0b0774cc71930eadaa34fceea683a6859b93.png",
+      "snippet": "Allothunnus: slender tunas; Auxis: frigate tunas; Euthynnus: little tunas; Katsuwonus: skipjack tunas; Thunnus: albacores, true tunas ; Allothunnus: slender ...",
+      "snippet_highlighted_words": [
+        "tunas",
+        "tunas",
+        "tunas",
+        "tunas",
+        "tunas"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "List of tuna dishes",
+            "link": "https://en.wikipedia.org/wiki/List_of_tuna_dishes"
+          },
+          {
+            "title": "Atlantic bluefin tuna",
+            "link": "https://en.wikipedia.org/wiki/Atlantic_bluefin_tuna"
+          },
+          {
+            "title": "Yellowfin tuna",
+            "link": "https://en.wikipedia.org/wiki/Yellowfin_tuna"
+          },
+          {
+            "title": "Bluefin tuna",
+            "link": "https://en.wikipedia.org/wiki/Bluefin_tuna"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Different Types of Tuna, Species of Tuna",
+      "link": "https://www.sportfishingmag.com/tunas-world-an-illustrated-guide/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sportfishingmag.com/tunas-world-an-illustrated-guide/&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQFnoECBQQAQ",
+      "displayed_link": "https://www.sportfishingmag.com \u203a Game Fish",
+      "thumbnail": "https://serpapi.com/searches/670a2f3d89055e3f94f41e92/images/3526fd1ea4711f34e5e448787b4c0b070373be4facf9846d944b3e4da8fc1a7c.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2f3d89055e3f94f41e92/images/3526fd1ea4711f34e5e448787b4c0b07adb30f81be42448bc0aef44b335de211.png",
+      "date": "Apr 1, 2024",
+      "snippet": "BLACKFIN (Thunnus atlanticus)\u200b\u200b The most common tuna of the Florida Keys and South Florida, blackfin tuna are found in tropical and warm ...",
+      "source": "Sport Fishing Mag"
+    },
+    {
+      "position": 3,
+      "title": "Tuna Species of the U.S. West Coast - noaa fisheries",
+      "link": "https://swfsc-publications.fisheries.noaa.gov/publications/TM/SWFSC/NOAA-TM-NMFS-SWFSC-624.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://swfsc-publications.fisheries.noaa.gov/publications/TM/SWFSC/NOAA-TM-NMFS-SWFSC-624.pdf&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQFnoECFwQAQ",
+      "displayed_link": "https://swfsc-publications.fisheries.noaa.gov \u203a NO...",
+      "favicon": "https://serpapi.com/searches/670a2f3d89055e3f94f41e92/images/3526fd1ea4711f34e5e448787b4c0b07b10684143c13a1e80c45b12820e77816.png",
+      "author": "by LN Heberer",
+      "date": "2019",
+      "snippet": "Although seasonal, the most common species are Pacific bluefin tuna (Thunnus orientalis), yellowfin tuna (Thunnus albacares), North Pacific albacore tuna. ( ...",
+      "snippet_highlighted_words": [
+        "common",
+        "tuna",
+        "tuna",
+        "tuna"
+      ],
+      "source": "National Oceanic and Atmospheric Administration (.gov)"
+    },
+    {
+      "position": 4,
+      "title": "Types of Tuna Explained: Taste, Cost, and More",
+      "link": "https://fishingbooker.com/blog/types-of-tuna-food/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fishingbooker.com/blog/types-of-tuna-food/&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQFnoECGEQAQ",
+      "displayed_link": "https://fishingbooker.com \u203a blog \u203a types-of-tuna-food",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2L6cHCjX9tiX5jyQLpOmhqhzES-iX4DqI7PrtYp60x3rElQlf4J-F&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2f3d89055e3f94f41e92/images/3526fd1ea4711f34e5e448787b4c0b07d42eb6a300d4107ea45a73398cdf086e.png",
+      "date": "Oct 11, 2023",
+      "snippet": "These are Skipjack, Albacore, Yellowfin, Bigeye, and Bluefin Tuna. Each of these five Tunas boasts a different texture of meat, a different color, and ...",
+      "snippet_highlighted_words": [
+        "Tuna",
+        "Tunas"
+      ],
+      "source": "FishingBooker"
+    },
+    {
+      "position": 5,
+      "title": "Tuna Species Guide - Atuna",
+      "link": "https://www.atuna.com/tuna-species-guide/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.atuna.com/tuna-species-guide/&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQFnoECFsQAQ",
+      "displayed_link": "https://www.atuna.com \u203a tuna-species-guide",
+      "snippet": "Skipjack is the most popular tuna for consumption. It prefers to swim in the upper mixed layers of the ocean waters and is mostly found between 45oN and 40oS. ...",
+      "source": "atuna.com"
+    },
+    {
+      "position": 6,
+      "title": "If You Eat Tuna, You Should Know These Five Fish",
+      "link": "https://www.greenpeace.org/usa/eat-tuna-know-fish/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.greenpeace.org/usa/eat-tuna-know-fish/&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQFnoECF4QAQ",
+      "displayed_link": "https://www.greenpeace.org \u203a usa \u203a eat-tuna-know-fish",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPceyQHBgZWnZMSi14zWdLiVQCQre8d8Aiuy6LZIQlfkiWSu8VyVr3&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2f3d89055e3f94f41e92/images/3526fd1ea4711f34e5e448787b4c0b073cd4b15d55a82548dc0d0982d5816386.png",
+      "date": "May 5, 2014",
+      "snippet": "Albacore tuna is often sold as solid white albacore in cans. They make up approximately 20% of the U.S. shelf-stable tuna market. Skipjack tuna ...",
+      "source": "Greenpeace"
+    },
+    {
+      "position": 7,
+      "title": "Tuna Fish Species Overview",
+      "link": "https://sahabatlautlestari.com/tuna-fish-species-overview/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sahabatlautlestari.com/tuna-fish-species-overview/&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQFnoECGIQAQ",
+      "displayed_link": "https://sahabatlautlestari.com \u203a Blog",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZs5tfZHCiuh7zdR31Z6XpKGmVAPQJcJyoTViDOggUTTLjs-BrWNT_&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2f3d89055e3f94f41e92/images/3526fd1ea4711f34e5e448787b4c0b07fae74a239c2604b138207d8766a14fc7.png",
+      "date": "May 10, 2023",
+      "snippet": "The article discusses various species of tuna, including Yellowfin, Bluefin, Skipjack, Bigeye, and Albacore Tuna, their unique features, and their habitats.",
+      "snippet_highlighted_words": [
+        "tuna",
+        "Tuna"
+      ],
+      "source": "Sahabat Laut Lestari"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?q=common+tuna&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=18&sa=X&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQ8poLegQIaRAF",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=common+tuna",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "items": [
+        {
+          "name": "Yellowfin tuna",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrys8gMMGLomCqG6VSc6BRIIU7REHLZGyCJ8IMVyFL_Ut_SYVcASTb&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Yellowfin+tuna&stick=H4sIAAAAAAAAAOMwVGI0-MXIsIGF4RULNxenfq6-gXF6pWUugmeUbFEO55mllxcXw3mG5VXZFq9YeLi4QDyjgirjvIJXLFxcHCBucpaJKVxlsnFKvDlcytLc3BxhQUpOcfYiVr7I1Jyc_PK0zDyFktK8xFtskgzdT3uMA-NDCt6pNB-UOrRnyVOTn-tml3mvWsQhFpCaX5CTqpCYU5yvUJyaWJScoZCWX7SCgxEAHcBBjdEAAAA&sa=X&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQs9oBKAB6BAhjEAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Yellowfin+tuna&stick=H4sIAAAAAAAAAOMwVGI0-MXIsIGF4RULNxenfq6-gXF6pWUugmeUbFEO55mllxcXw3mG5VXZFq9YeLi4QDyjgirjvIJXLFxcHCBucpaJKVxlsnFKvDlcytLc3BxhQUpOcfYiVr7I1Jyc_PK0zDyFktK8xFtskgzdT3uMA-NDCt6pNB-UOrRnyVOTn-tml3mvWsQhFpCaX5CTqpCYU5yvUJyaWJScoZCWX7SCgxEAHcBBjdEAAAA"
+        },
+        {
+          "name": "Atlantic bluefin tuna",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj1xNrjzvXn_0SjgEEXebtqVRzZZvnoEcAjVDpTYqru5xjLZ2XLgmY&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Atlantic+bluefin+tuna&stick=H4sIAAAAAAAAAOMwVGI0_MXIsIGF4RULNxenfq6-gXF6pWUugmeUbFEO55mllxcXw3mG5VXZFq9YeLi4QDyjgirjvIJXLFxcHCBucpaJKVxlsnFKvDlcytLc3BxhQUpOcfYiVlHHkpzEvJLMZIWknNLUtMw8hZLSvMRbbJIM3U97jAPjQwreqTQflDq0Z8lTk5_rZpd5r1rEIRaQml-Qk6qQmFOcr1CcmliUnKGQll-0goMRAErI8fDYAAAA&sa=X&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQs9oBKAF6BAhjEAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Atlantic+bluefin+tuna&stick=H4sIAAAAAAAAAOMwVGI0_MXIsIGF4RULNxenfq6-gXF6pWUugmeUbFEO55mllxcXw3mG5VXZFq9YeLi4QDyjgirjvIJXLFxcHCBucpaJKVxlsnFKvDlcytLc3BxhQUpOcfYiVlHHkpzEvJLMZIWknNLUtMw8hZLSvMRbbJIM3U97jAPjQwreqTQflDq0Z8lTk5_rZpd5r1rEIRaQml-Qk6qQmFOcr1CcmliUnKGQll-0goMRAErI8fDYAAAA"
+        },
+        {
+          "name": "Skipjack tuna",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkP_3uw17z3BK0iBr9KXo0tfZnJYJrZuWCLe1SETBNfHbmEvFeS7JU&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Skipjack+tuna&stick=H4sIAAAAAAAAAOMwVGI0-sXIsIGF4RULNxenfq6-gXF6pWUugmeUbFEO55mllxcXw3mG5VXZFq9YeLi4QDyjgirjvIJXLFxcHCBucpaJKVxlsnFKvDlcytLc3BxhQUpOcfYiVt7g7MyCrMTkbIWS0rzEW2ySDN1Pe4wD40MK3qk0H5Q6tGfJU5Of62aXea9axCEWkJpfkJOqkJhTnK9QnJpYlJyhkJZftIKDEQCVgKCu0AAAAA&sa=X&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQs9oBKAJ6BAhjEAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Skipjack+tuna&stick=H4sIAAAAAAAAAOMwVGI0-sXIsIGF4RULNxenfq6-gXF6pWUugmeUbFEO55mllxcXw3mG5VXZFq9YeLi4QDyjgirjvIJXLFxcHCBucpaJKVxlsnFKvDlcytLc3BxhQUpOcfYiVt7g7MyCrMTkbIWS0rzEW2ySDN1Pe4wD40MK3qk0H5Q6tGfJU5Of62aXea9axCEWkJpfkJOqkJhTnK9QnJpYlJyhkJZftIKDEQCVgKCu0AAAAA"
+        },
+        {
+          "name": "Albacore",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbfcVSA4oF8yWEaJRQ0xrr5D8c2RBDxZjYUzyvlI35dVa_bDhdh2EB&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Albacore&stick=H4sIAAAAAAAAAOMwVGI0_sXIsIGF4RULNxenfq6-gXF6pWUugmeUbFEO55mllxcXw3mG5VXZFq9YeLi4QDyjgirjvIJXLFxcHCBucpaJKVxlsnFKvDlcytLc3BxhQUpOcfYiVg7HnKTE5Pyi1FtskgzdT3uMA-NDCt6pNB-UOrRnyVOTn-tml3mvWsQhFpCaX5CTqpCYU5yvUJyaWJScoZCWX7SCgxEA-BjOqMsAAAA&sa=X&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQs9oBKAN6BAhjEAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Albacore&stick=H4sIAAAAAAAAAOMwVGI0_sXIsIGF4RULNxenfq6-gXF6pWUugmeUbFEO55mllxcXw3mG5VXZFq9YeLi4QDyjgirjvIJXLFxcHCBucpaJKVxlsnFKvDlcytLc3BxhQUpOcfYiVg7HnKTE5Pyi1FtskgzdT3uMA-NDCt6pNB-UOrRnyVOTn-tml3mvWsQhFpCaX5CTqpCYU5yvUJyaWJScoZCWX7SCgxEA-BjOqMsAAAA"
+        },
+        {
+          "name": "True tunas",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcR-IOuN07rjtg8YPYPS24UAH_l5XeRYmvab1ev7HJjaCVFlTiJgu3MYhsiASlBSSOS8Im8KoM15&s=19",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Thunnus&stick=H4sIAAAAAAAAAOMwVGI0-cXIsIGF4RULNxenfq6-gXF6pWUugmeUbFEO55mllxcXw3mG5VXZFq9YeLi4QDyjgirjvIJXLFxcHCBucpaJKVxlsnFKvDlcytLc3BxhQUpOcfYiVvaQjNK8vNLiW2ySDN1Pe4wD40MK3qk0H5Q6tGfJU5Of62aXea9axCEWkJpfkJOqkJhTnK9QnJpYlJyhkJZftIKDEQAAi9t0ygAAAA&sa=X&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQs9oBKAR6BAhjEAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Thunnus&stick=H4sIAAAAAAAAAOMwVGI0-cXIsIGF4RULNxenfq6-gXF6pWUugmeUbFEO55mllxcXw3mG5VXZFq9YeLi4QDyjgirjvIJXLFxcHCBucpaJKVxlsnFKvDlcytLc3BxhQUpOcfYiVvaQjNK8vNLiW2ySDN1Pe4wD40MK3qk0H5Q6tGfJU5Of62aXea9axCEWkJpfkJOqkJhTnK9QnJpYlJyhkJZftIKDEQAAi9t0ygAAAA"
+        },
+        {
+          "name": "Tuna",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcR-IOuN07rjtg8YPYPS24UAH_l5XeRYmvab1ev7HJjaCVFlTiJgu3MYhsiASlBSSOS8Im8KoM15&s=19",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Tuna&stick=H4sIAAAAAAAAAOMwVGI0_cXIsIGF4RULNxenfq6-gXF6pWUugmeUbFEO55mllxcXw3mG5VXZFq9YeLi4QDyjgirjvIJXLFxcHCBucpaJKVxlsnFKvDlcytLc3BxhQUpOcfYiVpaQ0rzEW2ySDN1Pe4wD40MK3qk0H5Q6tGfJU5Of62aXea9axCEWkJpfkJOqkJhTnK9QnJpYlJyhkJZftIKDEQBV4vYUxwAAAA&sa=X&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQs9oBKAV6BAhjEAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Tuna&stick=H4sIAAAAAAAAAOMwVGI0_cXIsIGF4RULNxenfq6-gXF6pWUugmeUbFEO55mllxcXw3mG5VXZFq9YeLi4QDyjgirjvIJXLFxcHCBucpaJKVxlsnFKvDlcytLc3BxhQUpOcfYiVpaQ0rzEW2ySDN1Pe4wD40MK3qk0H5Q6tGfJU5Of62aXea9axCEWkJpfkJOqkJhTnK9QnJpYlJyhkJZftIKDEQBV4vYUxwAAAA"
+        }
+      ]
+    },
+    {
+      "block_position": 1,
+      "query": "What are the 15 species of tuna",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=What+are+the+15+species+of+tuna&sa=X&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQ1QJ6BQiEARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=What+are+the+15+species+of+tuna"
+    },
+    {
+      "block_position": 1,
+      "query": "Common tuna vs bluefin tuna",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Common+tuna+vs+bluefin+tuna&sa=X&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQ1QJ6BQiDARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Common+tuna+vs+bluefin+tuna"
+    },
+    {
+      "block_position": 1,
+      "query": "Tuna fish",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Tuna+fish&sa=X&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQ1QJ6BQiFARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Tuna+fish"
+    },
+    {
+      "block_position": 1,
+      "query": "Common tuna vs albacore",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Common+tuna+vs+albacore&sa=X&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQ1QJ6BAh_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Common+tuna+vs+albacore"
+    },
+    {
+      "block_position": 1,
+      "query": "Tuna species",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Tuna+species&sa=X&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQ1QJ6BQiBARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Tuna+species"
+    },
+    {
+      "block_position": 1,
+      "query": "Tuna species chart",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Tuna+species+chart&sa=X&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQ1QJ6BAh-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Tuna+species+chart"
+    },
+    {
+      "block_position": 1,
+      "query": "Tuna Scientific name",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Tuna+Scientific+name&sa=X&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQ1QJ6BAh7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Tuna+Scientific+name"
+    },
+    {
+      "block_position": 1,
+      "query": "Tuna Fish price",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Tuna+Fish+price&sa=X&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQ1QJ6BQiCARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Tuna+Fish+price"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "A cool guide about the types of tuna",
+      "link": "https://www.reddit.com/r/coolguides/comments/1bhci90/a_cool_guide_about_the_types_of_tuna/",
+      "date": "6mo ago",
+      "extensions": [
+        "r/coolguides",
+        "90+ comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "What kind of tuna do the restaurant serve in most restaurants?",
+      "link": "https://www.reddit.com/r/sushi/comments/16ovzmw/what_kind_of_tuna_do_the_restaurant_serve_in_most/",
+      "date": "1y ago",
+      "extensions": [
+        "r/sushi",
+        "20+ comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "Why is tuna so commonly canned but other types of fish aren't?",
+      "link": "https://www.quora.com/Why-is-tuna-so-commonly-canned-but-other-types-of-fish-aren-t",
+      "date": "2y ago",
+      "extensions": [
+        "4 answers"
+      ],
+      "source": "Quora"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=common+tuna&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=PS8KZ6_fLOHsptQPoOnamAM&start=10&sa=N&sstk=AagrsugRLn-8COexEmx65ZtDJwJWrPWuDJLCtnaW1rR5D2XnEESYuQGS8jiUwxHyJLA5z7OnqN6TL-d1ZoVqxydF43mnOZy_b6iZtA&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQ8NMDegQIChAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=common+tuna&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=PS8KZ6_fLOHsptQPoOnamAM&start=10&sa=N&sstk=AagrsugRLn-8COexEmx65ZtDJwJWrPWuDJLCtnaW1rR5D2XnEESYuQGS8jiUwxHyJLA5z7OnqN6TL-d1ZoVqxydF43mnOZy_b6iZtA&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQ8tMDegQIChAE",
+      "3": "https://www.google.com/search?q=common+tuna&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=PS8KZ6_fLOHsptQPoOnamAM&start=20&sa=N&sstk=AagrsugRLn-8COexEmx65ZtDJwJWrPWuDJLCtnaW1rR5D2XnEESYuQGS8jiUwxHyJLA5z7OnqN6TL-d1ZoVqxydF43mnOZy_b6iZtA&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQ8tMDegQIChAG",
+      "4": "https://www.google.com/search?q=common+tuna&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=PS8KZ6_fLOHsptQPoOnamAM&start=30&sa=N&sstk=AagrsugRLn-8COexEmx65ZtDJwJWrPWuDJLCtnaW1rR5D2XnEESYuQGS8jiUwxHyJLA5z7OnqN6TL-d1ZoVqxydF43mnOZy_b6iZtA&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQ8tMDegQIChAI",
+      "5": "https://www.google.com/search?q=common+tuna&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=PS8KZ6_fLOHsptQPoOnamAM&start=40&sa=N&sstk=AagrsugRLn-8COexEmx65ZtDJwJWrPWuDJLCtnaW1rR5D2XnEESYuQGS8jiUwxHyJLA5z7OnqN6TL-d1ZoVqxydF43mnOZy_b6iZtA&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQ8tMDegQIChAK",
+      "6": "https://www.google.com/search?q=common+tuna&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=PS8KZ6_fLOHsptQPoOnamAM&start=50&sa=N&sstk=AagrsugRLn-8COexEmx65ZtDJwJWrPWuDJLCtnaW1rR5D2XnEESYuQGS8jiUwxHyJLA5z7OnqN6TL-d1ZoVqxydF43mnOZy_b6iZtA&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQ8tMDegQIChAM",
+      "7": "https://www.google.com/search?q=common+tuna&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=PS8KZ6_fLOHsptQPoOnamAM&start=60&sa=N&sstk=AagrsugRLn-8COexEmx65ZtDJwJWrPWuDJLCtnaW1rR5D2XnEESYuQGS8jiUwxHyJLA5z7OnqN6TL-d1ZoVqxydF43mnOZy_b6iZtA&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQ8tMDegQIChAO",
+      "8": "https://www.google.com/search?q=common+tuna&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=PS8KZ6_fLOHsptQPoOnamAM&start=70&sa=N&sstk=AagrsugRLn-8COexEmx65ZtDJwJWrPWuDJLCtnaW1rR5D2XnEESYuQGS8jiUwxHyJLA5z7OnqN6TL-d1ZoVqxydF43mnOZy_b6iZtA&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQ8tMDegQIChAQ",
+      "9": "https://www.google.com/search?q=common+tuna&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=PS8KZ6_fLOHsptQPoOnamAM&start=80&sa=N&sstk=AagrsugRLn-8COexEmx65ZtDJwJWrPWuDJLCtnaW1rR5D2XnEESYuQGS8jiUwxHyJLA5z7OnqN6TL-d1ZoVqxydF43mnOZy_b6iZtA&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQ8tMDegQIChAS",
+      "10": "https://www.google.com/search?q=common+tuna&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=PS8KZ6_fLOHsptQPoOnamAM&start=90&sa=N&sstk=AagrsugRLn-8COexEmx65ZtDJwJWrPWuDJLCtnaW1rR5D2XnEESYuQGS8jiUwxHyJLA5z7OnqN6TL-d1ZoVqxydF43mnOZy_b6iZtA&ved=2ahUKEwjv8d66soiJAxVhtokEHaC0FjMQ8tMDegQIChAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=common+tuna&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=common+tuna&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=common+tuna&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=common+tuna&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=common+tuna&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=common+tuna&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=common+tuna&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=common+tuna&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=common+tuna&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=common+tuna&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=common+tuna&start=90"
+    }
+  }
+}

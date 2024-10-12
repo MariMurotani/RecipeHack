@@ -1,0 +1,652 @@
+{
+  "search_metadata": {
+    "id": "670a302d0f1a33b5114848cd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2a984d1d06cd3bc6/670a302d0f1a33b5114848cd.json",
+    "created_at": "2024-10-12 08:15:41 UTC",
+    "processed_at": "2024-10-12 08:15:41 UTC",
+    "google_url": "https://www.google.com/search?q=hot+dog&oq=hot+dog&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/2a984d1d06cd3bc6/670a302d0f1a33b5114848cd.html",
+    "total_time_taken": 1.95
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "hot dog",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "hot dog",
+    "total_results": 1930000000,
+    "time_taken_displayed": 0.9,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=hot+dog&npsic=0&rflfq=1&rldoc=1&rllag=30265048,-97750337,1802&tbm=lcl&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0QtgN6BAhBEAI",
+    "image": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/b23f438ea6743e7054867a6204602cbc.png",
+    "gps_coordinates": {
+      "latitude": 30.265048,
+      "longitude": -97.750337
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.4,
+        "reviews_original": "(96)",
+        "reviews": 96,
+        "description": "Menu highlight: hot dog",
+        "lsig": "AB86z5WddDqpviD9SiC2xHfW6SLN",
+        "thumbnail": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/6c157e285f60ed2ea3a6698e414681dee3631120bf50a32b07627ebb43074a04dcf22f6ddac683f4.jpeg",
+        "title": "Mad Dogs",
+        "type": "Restaurant",
+        "address": "917 W 12th St",
+        "hours": "Closes soon \u22c5 4 AM",
+        "place_id": "9389757652358182965",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=9389757652358182965&q=hot+dog",
+        "gps_coordinates": {
+          "latitude": 30.276564,
+          "longitude": -97.75077
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.9,
+        "reviews_original": "(322)",
+        "reviews": 322,
+        "description": "\"Best hotdog I\u2019ve had in awhile, and reasonably priced.\"",
+        "lsig": "AB86z5V9iBTONere9XKQOGNz60vN",
+        "thumbnail": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/6c157e285f60ed2ea3a6698e414681de9613b31ff29fb0b3a037e30e50f7c06dd533f99ff263eea4.png",
+        "title": "DittyDog",
+        "type": "Restaurant",
+        "address": "519 E 7th St",
+        "hours": "Closed \u22c5 Opens 8 PM",
+        "place_id": "7886117609305430771",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=7886117609305430771&q=hot+dog",
+        "gps_coordinates": {
+          "latitude": 30.267345,
+          "longitude": -97.73712
+        }
+      },
+      {
+        "position": 3,
+        "rating": 4.6,
+        "reviews_original": "(97)",
+        "reviews": 97,
+        "description": "\"The hot dog was on point and the poppy seed bun brought back memories.\"",
+        "lsig": "AB86z5XnKfBn0iqCxWrE6dsUsHUg",
+        "thumbnail": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/6c157e285f60ed2ea3a6698e414681ded3a2a7e7c0fe05893d086540318fa1be8ae1cedf26ac05bd.jpeg",
+        "title": "Wrigleyville South Dogs & Beef",
+        "type": "Hot Dog Stand",
+        "address": "1320 S Lamar Blvd",
+        "hours": "Closed \u22c5 Opens 12 PM",
+        "place_id": "3897984146463057885",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=3897984146463057885&q=hot+dog",
+        "gps_coordinates": {
+          "latitude": 30.253532,
+          "longitude": -97.76355
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=hot+dog&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0QjGp6BAhCEAE"
+  },
+  "knowledge_graph": {
+    "title": "Hot dog",
+    "type": "Dish",
+    "entity_type": "food, foods_and_dishes",
+    "kgmid": "/m/01b9xk",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/01b9xk&hl=en-US&q=Hot+dog",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F01b9xk&location=Austin%2CTexas%2CUnited+States&q=Hot+dog",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/deb9cd36a015062e68718e422d980712917ffd113792863b4f18cfe7b0d93f70f5e40af69da85e9e.jpeg",
+        "source": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcTnnbHgVI8vDeiM6yrRHsREMFXTSxyYx8ayuUyJguwLB442wxteMn0ezH0xb8jai8ec"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/deb9cd36a015062e68718e422d980712917ffd113792863b77e712fea2f8b9f3dd6fa55663b716ab.jpeg",
+        "source": "https://en.wikipedia.org/wiki/Hot_dog"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/deb9cd36a015062e68718e422d980712917ffd113792863b7a1721175ce0f68495d2ada2409768ab.jpeg",
+        "source": "https://www.newyorker.com/culture/kitchen-notes/hear-me-out-hot-dog-salad"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/deb9cd36a015062e68718e422d980712917ffd113792863be210e40687ef463feb28801e762e573d.jpeg",
+        "source": "https://themodernproper.com/how-to-make-a-hot-dog"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR056IIhSHqOzNiYPDaF9ZSCjjwQIOmT9wlxx8cE-i5zw&s",
+        "source": "https://www.thespruceeats.com/homemade-frankfurters-hot-dogs-recipe-1808481"
+      }
+    ],
+    "description": "A hot dog is a dish consisting of a grilled, steamed, or boiled sausage served in the slit of a partially sliced bun. The term hot dog can refer to the sausage itself. The sausage used is a wiener or a frankfurter. The names of these sausages commonly refer to their assembled dish.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Hot_dog"
+    },
+    "people_also_search_for": [
+      {
+        "name": "Sausage",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm1y06uowuxxB5dsY5suVjDr8uTq79ojQ5DQQ9TWCQF7miLj0hj_7ehY93JQJcYHUYGQADYnaTW1UIQsu25oYbpFHvUy4h_Gz4D4UgyUUptlI5fUlyF17_GQvb2zKpofwnkCB9o6CPHlrAC1IEOSs4qpKKhGRksdM3nK-IecsrIOb6rgIYLAwolW3nggEy9uBk_Jnxyoqqu94iRgMmAT28HnxCVDtlZepK1MoZOVuePNqLc-zmFdsStgIBsWTmRLgr1_qrjQ%3D&q=Sausage&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Qs9oBKAB6BAguEAI",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sausage&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm1y06uowuxxB5dsY5suVjDr8uTq79ojQ5DQQ9TWCQF7miLj0hj_7ehY93JQJcYHUYGQADYnaTW1UIQsu25oYbpFHvUy4h_Gz4D4UgyUUptlI5fUlyF17_GQvb2zKpofwnkCB9o6CPHlrAC1IEOSs4qpKKhGRksdM3nK-IecsrIOb6rgIYLAwolW3nggEy9uBk_Jnxyoqqu94iRgMmAT28HnxCVDtlZepK1MoZOVuePNqLc-zmFdsStgIBsWTmRLgr1_qrjQ%3D",
+        "image": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/deb9cd36a015062e68718e422d98071218239f0859815a9a46e3e95e75156fde31413b36e873871671663e1abf47c2bb.jpeg"
+      },
+      {
+        "name": "Hamburger",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmw9k4kGSBGVT2Kt86q7VLyAFe88YmQ8AwW5TZlmjHNj7LFjoUk7PGy-PLYkvRb50oFSiA6eEB-qVaBlmwQL67WF52GkvvIxsi3gbE7-HuxgpO-_pa-YhRxKYZ2YprxmrlFrb0ktMI2bCCy0a_qUW85RqqxgWrBrNeSlXH-zKzVfXmLlr8sVChm52_rLup9ElpHy8EwOa2XCrl7f_kvZuJUmEe4IZEpnajMdRXoRpCZrqjCwVPnC9wmkTj-JaJ-7PSHy2dYk%3D&q=Hamburger&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Qs9oBKAF6BAguEAM",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hamburger&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmw9k4kGSBGVT2Kt86q7VLyAFe88YmQ8AwW5TZlmjHNj7LFjoUk7PGy-PLYkvRb50oFSiA6eEB-qVaBlmwQL67WF52GkvvIxsi3gbE7-HuxgpO-_pa-YhRxKYZ2YprxmrlFrb0ktMI2bCCy0a_qUW85RqqxgWrBrNeSlXH-zKzVfXmLlr8sVChm52_rLup9ElpHy8EwOa2XCrl7f_kvZuJUmEe4IZEpnajMdRXoRpCZrqjCwVPnC9wmkTj-JaJ-7PSHy2dYk%3D",
+        "image": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/deb9cd36a015062e68718e422d98071218239f0859815a9a46e3e95e75156fde7add429e8d71b66422522148f167acbb.jpeg"
+      },
+      {
+        "name": "Corn dog",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L9TtNX3sppd6O8niPWJRWr6Wnp7Ap5i8e0JopMeetkp60eeYop31jsw9Nb-lECS-PSJYmvIfQ-RR_JRm1DZyB7JgYczcHtnyqZKjt7DYGFgIsfDd8Jpse3_7f7OhSBXQyMiOugq7A1yFGNmsA93FJqKjv_wWI5hEujfka1DhNCn6IMaKGOcZEqR8r1zO0M02GESW1duVnKCCv4Pet3SquZgC3YpgtlSzpjY4OJ40MJoxxuz6q5LhllEmc7ggNWj3SX-jzL0%3D&q=Corn+dog&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Qs9oBKAJ6BAguEAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Corn+dog&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L9TtNX3sppd6O8niPWJRWr6Wnp7Ap5i8e0JopMeetkp60eeYop31jsw9Nb-lECS-PSJYmvIfQ-RR_JRm1DZyB7JgYczcHtnyqZKjt7DYGFgIsfDd8Jpse3_7f7OhSBXQyMiOugq7A1yFGNmsA93FJqKjv_wWI5hEujfka1DhNCn6IMaKGOcZEqR8r1zO0M02GESW1duVnKCCv4Pet3SquZgC3YpgtlSzpjY4OJ40MJoxxuz6q5LhllEmc7ggNWj3SX-jzL0%3D",
+        "image": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/deb9cd36a015062e68718e422d98071218239f0859815a9a46e3e95e75156fdeb4cb25ad8a4419d42501e2ab79937553.jpeg"
+      },
+      {
+        "name": "Pizza",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm-B87EtWgMNcnRET6iY8uEL-GwA-OYZJ6oi1t2lzdo7YOgX2C6jvMawAlggAX8OzsUCptA0qC4XPp6GhnDDN6EU_zEdNv6Ze8slz86Ecns20kNIVRz6ZXwKyqy3CLdt5GyHbF9mOhHi8HaQ5h4zZ0ZnQMs_aZy8ooy57Z-CVCOSGiI6F3iIgiqmw3Qvvzwx3sUnnT-E8Z8Z4RfO_3sdm44uyEsmyXEi_8gJfkuCV-3Tk3udLqg%3D%3D&q=Pizza&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Qs9oBKAN6BAguEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pizza&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm-B87EtWgMNcnRET6iY8uEL-GwA-OYZJ6oi1t2lzdo7YOgX2C6jvMawAlggAX8OzsUCptA0qC4XPp6GhnDDN6EU_zEdNv6Ze8slz86Ecns20kNIVRz6ZXwKyqy3CLdt5GyHbF9mOhHi8HaQ5h4zZ0ZnQMs_aZy8ooy57Z-CVCOSGiI6F3iIgiqmw3Qvvzwx3sUnnT-E8Z8Z4RfO_3sdm44uyEsmyXEi_8gJfkuCV-3Tk3udLqg%3D%3D",
+        "image": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/deb9cd36a015062e68718e422d98071218239f0859815a9a46e3e95e75156fdeb0c2591ac4adc91c7f33c5969ea37d13.jpeg"
+      }
+    ]
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=hot+dog&sca_esv=7d18109a394306ad&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=hZS8SICh9ZJN7M%252CvkeNFUkMtgzNUM%252C%252Fm%252F01b9xk%253BlQVZp5c1CnhQ7M%252ChITNL9GZPT6kDM%252C_%253BSUd3A3x1LS5uHM%252C5WjId0VLzWakMM%252C_%253BkQ87icZKzCCh7M%252CdAhRF-w4A4zLqM%252C_%253BmfO0XDq0xPjS4M%252CxHPsjTPB3XXHSM%252C_&usg=AI4_-kQZQiB5zmPj8MlCR27_uOcr8rsfXQ&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Q_B16BAg6EAE#vhid=hZS8SICh9ZJN7M&vssid=mosaic",
+      "source": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcTnnbHgVI8vDeiM6yrRHsREMFXTSxyYx8ayuUyJguwLB442wxteMn0ezH0xb8jai8ec",
+      "thumbnail": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/10a7b7637b32d6bb81de34b4e1b15d59ef1ce85cda968549a3d040908325a5a9.jpeg",
+      "original": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcTnnbHgVI8vDeiM6yrRHsREMFXTSxyYx8ayuUyJguwLB442wxteMn0ezH0xb8jai8ec",
+      "source_name": "t1.gstatic.com"
+    },
+    {
+      "link": "https://www.google.com/search?q=hot+dog&sca_esv=7d18109a394306ad&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=lQVZp5c1CnhQ7M%252ChITNL9GZPT6kDM%252C_%253BSUd3A3x1LS5uHM%252C5WjId0VLzWakMM%252C_%253BkQ87icZKzCCh7M%252CdAhRF-w4A4zLqM%252C_%253BmfO0XDq0xPjS4M%252CxHPsjTPB3XXHSM%252C_&usg=AI4_-kR9EFnXSvVJjxU9vTQpbHNNH0gwgQ&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Q_h16BAg5EAE#vhid=lQVZp5c1CnhQ7M&vssid=mosaic",
+      "source": "https://en.wikipedia.org/wiki/Hot_dog",
+      "thumbnail": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/10a7b7637b32d6bbb0c9fbd2b3080c1770b0072095ad00bbf4be8acd70b5651b.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hot_dog_with_mustard.png/800px-Hot_dog_with_mustard.png",
+      "title": "Hot dog",
+      "source_name": "Wikipedia"
+    },
+    {
+      "link": "https://www.google.com/search?q=hot+dog&sca_esv=7d18109a394306ad&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=lQVZp5c1CnhQ7M%252ChITNL9GZPT6kDM%252C_%253BSUd3A3x1LS5uHM%252C5WjId0VLzWakMM%252C_%253BkQ87icZKzCCh7M%252CdAhRF-w4A4zLqM%252C_%253BmfO0XDq0xPjS4M%252CxHPsjTPB3XXHSM%252C_&usg=AI4_-kR9EFnXSvVJjxU9vTQpbHNNH0gwgQ&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Q_h16BAgzEAE#vhid=SUd3A3x1LS5uHM&vssid=mosaic",
+      "source": "https://www.newyorker.com/culture/kitchen-notes/hear-me-out-hot-dog-salad",
+      "thumbnail": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/10a7b7637b32d6bb6a7f36b1d3e984741a7e836fcd8c80898c7860d084f950d9.jpeg",
+      "original": "http://media.newyorker.com/photos/5f287763da874d6b00137c33/master/pass/Adler-HotDogs.jpg",
+      "title": "Hear Me Out: Hot-Dog Salad | The New Yorker",
+      "source_name": "The New Yorker"
+    },
+    {
+      "link": "https://www.google.com/search?q=hot+dog&sca_esv=7d18109a394306ad&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=lQVZp5c1CnhQ7M%252ChITNL9GZPT6kDM%252C_%253BSUd3A3x1LS5uHM%252C5WjId0VLzWakMM%252C_%253BkQ87icZKzCCh7M%252CdAhRF-w4A4zLqM%252C_%253BmfO0XDq0xPjS4M%252CxHPsjTPB3XXHSM%252C_&usg=AI4_-kR9EFnXSvVJjxU9vTQpbHNNH0gwgQ&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Q_h16BAg3EAE#vhid=kQ87icZKzCCh7M&vssid=mosaic",
+      "source": "https://themodernproper.com/how-to-make-a-hot-dog",
+      "thumbnail": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/10a7b7637b32d6bb40142f49b29c2ee3d04ea7943628b03df7607cbe4bdf84c2.jpeg",
+      "original": "https://images.themodernproper.com/billowy-turkey/production/posts/2023/HowToMakeAHotDog_4.jpg?w=1200&q=82&auto=format&fit=crop&dm=1685065757&s=1e77770420691f0072ac565df15eaa8e",
+      "title": "How To Make A Hot Dog",
+      "source_name": "The Modern Proper"
+    },
+    {
+      "link": "https://www.google.com/search?q=hot+dog&sca_esv=7d18109a394306ad&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=lQVZp5c1CnhQ7M%252ChITNL9GZPT6kDM%252C_%253BSUd3A3x1LS5uHM%252C5WjId0VLzWakMM%252C_%253BkQ87icZKzCCh7M%252CdAhRF-w4A4zLqM%252C_%253BmfO0XDq0xPjS4M%252CxHPsjTPB3XXHSM%252C_&usg=AI4_-kR9EFnXSvVJjxU9vTQpbHNNH0gwgQ&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Q_h16BAg2EAE#vhid=mfO0XDq0xPjS4M&vssid=mosaic",
+      "source": "https://www.thespruceeats.com/homemade-frankfurters-hot-dogs-recipe-1808481",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR056IIhSHqOzNiYPDaF9ZSCjjwQIOmT9wlxx8cE-i5zw&s",
+      "original": "https://www.thespruceeats.com/thmb/EbAuyfHYpa2brec4IbbvjeMKcns=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/homemade-hot-dogs-1808491-final-01-ddf78878cb784ccdb617a2ae31674b75.jpg",
+      "title": "Homemade Hot Dogs",
+      "source_name": "The Spruce Eats"
+    }
+  ],
+  "inline_people_also_search_for": [
+    {
+      "items": [
+        {
+          "name": "Sausage",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRmF5iASiOdRlvBvPBPMiX7CdJa_TZjdzejacXbh0cdOLCfYrSDInRr1tv6De2tYTciFBOxzQo4&s=19",
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Sausage&stick=H4sIAAAAAAAAAOMwVGI0-MXIsIGF4RULFxeHfq6-QXZKVd4rFm4uThDHLMcyxxLOM4ovqTSH8wyTLCuy4drSigrN4ByjSjOEGUY55fFGcKkMg4pcOMeyMDkbri7NyLTcchEre3BiaXFieuotNkmG7qc9xoHxIQXvVJoPSh3as-Spyc91s8u8Vy3iEAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9awcEIACDj80_UAAAA&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Qs9oBKAB6BAhpEAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sausage&stick=H4sIAAAAAAAAAOMwVGI0-MXIsIGF4RULFxeHfq6-QXZKVd4rFm4uThDHLMcyxxLOM4ovqTSH8wyTLCuy4drSigrN4ByjSjOEGUY55fFGcKkMg4pcOMeyMDkbri7NyLTcchEre3BiaXFieuotNkmG7qc9xoHxIQXvVJoPSh3as-Spyc91s8u8Vy3iEAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9awcEIACDj80_UAAAA"
+        },
+        {
+          "name": "Vienna sausage",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwFKO7K6Jn7YNf5bCAX_yuyDuoWsJxos3nEfaKvGCOOlx1dq3q4JhS&s=0",
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Vienna+sausage&stick=H4sIAAAAAAAAAOMwVGI0_MXIsIGF4RULFxeHfq6-QXZKVd4rFm4uThDHLMcyxxLOM4ovqTSH8wyTLCuy4drSigrN4ByjSjOEGUY55fFGcKkMg4pcOMeyMDkbri7NyLTcchErX1hmal5eokJxYmlxYnrqLTZJhu6nPcaB8SEF71SaD0od2rPkqcnPdbPLvFct4hALSM0vyElVSMwpzlcoTk0sSs5QSMsvWsHBCADri4e_2wAAAA&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Qs9oBKAF6BAhpEAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Vienna+sausage&stick=H4sIAAAAAAAAAOMwVGI0_MXIsIGF4RULFxeHfq6-QXZKVd4rFm4uThDHLMcyxxLOM4ovqTSH8wyTLCuy4drSigrN4ByjSjOEGUY55fFGcKkMg4pcOMeyMDkbri7NyLTcchErX1hmal5eokJxYmlxYnrqLTZJhu6nPcaB8SEF71SaD0od2rPkqcnPdbPLvFct4hALSM0vyElVSMwpzlcoTk0sSs5QSMsvWsHBCADri4e_2wAAAA"
+        },
+        {
+          "name": "Corn dog",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQbyqnF4E6LFoP9fSX__913UpyESoGG9fpXFaIqa28S_FFk9Jm3bIdN3IGQ85KZMb3RBbjP-AU&s=19",
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Corn+dog&stick=H4sIAAAAAAAAAOMwVGI0-sXIsIGF4RULFxeHfq6-QXZKVd4rFm4uThDHLMcyxxLOM4ovqTSH8wyTLCuy4drSigrN4ByjSjOEGUY55fFGcKkMg4pcOMeyMDkbri7NyLTcchErh3N-UZ5CSn76LTZJhu6nPcaB8SEF71SaD0od2rPkqcnPdbPLvFct4hALSM0vyElVSMwpzlcoTk0sSs5QSMsvWsHBCAAnnMR61QAAAA&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Qs9oBKAJ6BAhpEAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Corn+dog&stick=H4sIAAAAAAAAAOMwVGI0-sXIsIGF4RULFxeHfq6-QXZKVd4rFm4uThDHLMcyxxLOM4ovqTSH8wyTLCuy4drSigrN4ByjSjOEGUY55fFGcKkMg4pcOMeyMDkbri7NyLTcchErh3N-UZ5CSn76LTZJhu6nPcaB8SEF71SaD0od2rPkqcnPdbPLvFct4hALSM0vyElVSMwpzlcoTk0sSs5QSMsvWsHBCAAnnMR61QAAAA"
+        },
+        {
+          "name": "Hot dog",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRePdzcQ6lxYZGhYLEopVwrbAgnjXzJwB-cxBzVYeqH401bYL4pmVV-_WtmLacAduBFgGoyyVWF&s=19",
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Hot+Dog&stick=H4sIAAAAAAAAAOMwVGI0_sXIsIGF4RULFxeHfq6-QXZKVd4rFm4uThDHLMcyxxLOM4ovqTSH8wyTLCuy4drSigrN4ByjSjOEGUY55fFGcKkMg4pcOMeyMDkbri7NyLTcchEru0d-iYJLfvotNkmG7qc9xoHxIQXvVJoPSh3as-Spyc91s8u8Vy3iEAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9awcEIACGKfIDUAAAA&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Qs9oBKAN6BAhpEAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hot+Dog&stick=H4sIAAAAAAAAAOMwVGI0_sXIsIGF4RULFxeHfq6-QXZKVd4rFm4uThDHLMcyxxLOM4ovqTSH8wyTLCuy4drSigrN4ByjSjOEGUY55fFGcKkMg4pcOMeyMDkbri7NyLTcchEru0d-iYJLfvotNkmG7qc9xoHxIQXvVJoPSh3as-Spyc91s8u8Vy3iEAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9awcEIACGKfIDUAAAA"
+        },
+        {
+          "name": "Pork",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg6oAjaCuP6nNWXjg7wyhsN4_6jLQ0-mAFfgBhFR43gW4aOVo0EmMJ&s=0",
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Pork&stick=H4sIAAAAAAAAAOMwVGI0-cXIsIGF4RULFxeHfq6-QXZKVd4rFm4uThDHLMcyxxLOM4ovqTSH8wyTLCuy4drSigrN4ByjSjOEGUY55fFGcKkMg4pcOMeyMDkbri7NyLTcchErS0B-UfYtNkmG7qc9xoHxIQXvVJoPSh3as-Spyc91s8u8Vy3iEAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9awcEIAFwXrdHRAAAA&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Qs9oBKAR6BAhpEAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pork&stick=H4sIAAAAAAAAAOMwVGI0-cXIsIGF4RULFxeHfq6-QXZKVd4rFm4uThDHLMcyxxLOM4ovqTSH8wyTLCuy4drSigrN4ByjSjOEGUY55fFGcKkMg4pcOMeyMDkbri7NyLTcchErS0B-UfYtNkmG7qc9xoHxIQXvVJoPSh3as-Spyc91s8u8Vy3iEAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9awcEIAFwXrdHRAAAA"
+        },
+        {
+          "name": "French fries",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSDWlmnmXzLJnWX60XdeCgqvEV1C-L8R5QZVafmfEhXgRXZSrZpKjK_gawp3rYku1af8A6Bu0_h&s=19",
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=French+fries&stick=H4sIAAAAAAAAAOMwVGI0_cXIsIGF4RULFxeHfq6-QXZKVd4rFm4uThDHLMcyxxLOM4ovqTSH8wyTLCuy4drSigrN4ByjSjOEGUY55fFGcKkMg4pcOMeyMDkbri7NyLTcchErj1tRal5yhkJaUWZq8S02SYbupz3GgfEhBe9Umg9KHdqz5KnJz3Wzy7xXLeIQC0jNL8hJVUjMKc5XKE5NLAJpyy9awcEIAJl8KWvZAAAA&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Qs9oBKAV6BAhpEAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=French+fries&stick=H4sIAAAAAAAAAOMwVGI0_cXIsIGF4RULFxeHfq6-QXZKVd4rFm4uThDHLMcyxxLOM4ovqTSH8wyTLCuy4drSigrN4ByjSjOEGUY55fFGcKkMg4pcOMeyMDkbri7NyLTcchErj1tRal5yhkJaUWZq8S02SYbupz3GgfEhBe9Umg9KHdqz5KnJz3Wzy7xXLeIQC0jNL8hJVUjMKc5XKE5NLAJpyy9awcEIAJl8KWvZAAAA"
+        }
+      ]
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is a hot dog slang?",
+      "snippet": "If someone calls you a hotdog, they mean you're a daredevil or a risk-taker. Also, you can say \u201chotdog!\u201d to express delight, kind of like \u201cwoohoo!\u201d Hotdog! Definitions of hotdog. noun. a frankfurter served hot on a bun.",
+      "title": "Hotdog - Definition, Meaning & Synonyms - Vocabulary.com",
+      "link": "https://www.vocabulary.com/dictionary/hotdog#:~:text=If%20someone%20calls%20you%20a,served%20hot%20on%20a%20bun",
+      "displayed_link": "https://www.vocabulary.com \u203a dictionary \u203a hotdog",
+      "source_logo": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/fb49a511942b3399fe8b54ece4239c5a191e44b609c12282f7dff56368b46bb9.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UE1qbGZOMFpzVG1ka1REWXhjVjkwWVhWU1pHbHhTbGhPU2psRWRtcHdTRWt4UkZCS1dUTTVNbXRoVlZCT01WZHJTMmRJZVZwNmVtc3dkMjVFWTNKMGEzTlNaREpxRWhkTWFrRkxXalZZVWtKeWNWaDRZemhRZGxCRVN6WkJTUm9pUVVaWWNrVmpjbVJ4V1hwTWFFTmFaekZWVUUwMlFXYzVjVXRJWlRCSFRFdzBRUSIsImZjdiI6IjMiLCJlaSI6IkxqQUtaNVhSQnJxWHhjOFB2UERLNkFJIiwicWMiOiJDZ2RvYjNRZ1pHOW5FQUI5djNZclB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgaG90IGRvZyBzbGFuZz8iLCJsayI6IkdnMW9iM1FnWkc5bklITnNZVzVuIiwiYnMiOiJjLVBTNDVJSXowZ3NVY2dzVmtoVXlNZ3ZVVWpKVDFjb3prbk1TN2VYYUhNeTRwZmlSUkhrc2dDcHJ3UXB6eXhSU0U3TXlVbE5BV2tES3JDWFdLRmhKQ2tsWG81ZG1rdVBTOWl6R0c1RlJtcGlUa2xHcGIzRVdVOGpFU21oVEF3Wkxqc3VPYkRMRW90U1lYTEZDcm1KS2FrSy1hVWxDdmxwOWhLSHRFRDJ3ZlJsd21UVEZNcUItZ1FZQVEiLCJpZCI6ImZjXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UE1qbGZOMFpzVG1ka1REWXhjVjkwWVhWU1pHbHhTbGhPU2psRWRtcHdTRWt4UkZCS1dUTTVNbXRoVlZCT01WZHJTMmRJZVZwNmVtc3dkMjVFWTNKMGEzTlNaREpxRWhkTWFrRkxXalZZVWtKeWNWaDRZemhRZGxCRVN6WkJTUm9pUVVaWWNrVmpjbVJ4V1hwTWFFTmFaekZWVUUwMlFXYzVjVXRJWlRCSFRFdzBRUSIsImZjdiI6IjMiLCJlaSI6IkxqQUtaNVhSQnJxWHhjOFB2UERLNkFJIiwicWMiOiJDZ2RvYjNRZ1pHOW5FQUI5djNZclB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgaG90IGRvZyBzbGFuZz8iLCJsayI6IkdnMW9iM1FnWkc5bklITnNZVzVuIiwiYnMiOiJjLVBTNDVJSXowZ3NVY2dzVmtoVXlNZ3ZVVWpKVDFjb3prbk1TN2VYYUhNeTRwZmlSUkhrc2dDcHJ3UXB6eXhSU0U3TXlVbE5BV2tES3JDWFdLRmhKQ2tsWG81ZG1rdVBTOWl6R0c1RlJtcGlUa2xHcGIzRVdVOGpFU21oVEF3Wkxqc3VPYkRMRW90U1lYTEZDcm1KS2FrSy1hVWxDdmxwOWhLSHRFRDJ3ZlJsd21UVEZNcUItZ1FZQVEiLCJpZCI6ImZjXzIifQ%3D%3D"
+    },
+    {
+      "question": "Why is it called hotdog?",
+      "snippet": "References to dachshund sausages and ultimately hot dogs can be traced to German immigrants in the 1800s. These immigrants brought not only sausages to America, but dachshund dogs. The name most likely began as a joke about the Germans' small, long, thin dogs.",
+      "title": "Hot Dog History | NHDSC",
+      "link": "https://www.hot-dog.org/culture/hot-dog-history#:~:text=References%20to%20dachshund%20sausages%20and,small%2C%20long%2C%20thin%20dogs.",
+      "displayed_link": "https://www.hot-dog.org \u203a culture \u203a hot-dog-history",
+      "source_logo": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/fb49a511942b3399fe8b54ece4239c5a23e7ce1ee80a40398a4c015d52b190c6.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UE1qbGZOMFpzVG1ka1REWXhjVjkwWVhWU1pHbHhTbGhPU2psRWRtcHdTRWt4UkZCS1dUTTVNbXRoVlZCT01WZHJTMmRJZVZwNmVtc3dkMjVFWTNKMGEzTlNaREpxRWhkTWFrRkxXalZZVWtKeWNWaDRZemhRZGxCRVN6WkJTUm9pUVVaWWNrVmpjbVJ4V1hwTWFFTmFaekZWVUUwMlFXYzVjVXRJWlRCSFRFdzBRUSIsImZjdiI6IjMiLCJlaSI6IkxqQUtaNVhSQnJxWHhjOFB2UERLNkFJIiwicWMiOiJDZ2RvYjNRZ1pHOW5FQUI5djNZclB3IiwicXVlc3Rpb24iOiJXaHkgaXMgaXQgY2FsbGVkIGhvdGRvZz8iLCJsayI6IkdoZDNhSGtnYVhNZ2FYUWdZMkZzYkdWa0lHaHZkR1J2WnciLCJicyI6ImMtUFM0NUlJejBnc1VjZ3NWa2hVeU1ndlVVakpUMWNvemtuTVM3ZVhhSE15NHBmaVJSSGtzZ0NwcndRcHp5eFJTRTdNeVVsTkFXa0RLckNYV0tGaEpDa2xYbzVkbWt1UFM5aXpHRzVGUm1waVRrbEdwYjNFV1U4akVTbWhUQXdaTGpzdU9iRExFb3RTWVhMRkNybUpLYWtLLWFVbEN2bHA5aEtIdEVEMndmUmx3bVRURk1xQi1nUVlBUSIsImlkIjoiZmNfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UE1qbGZOMFpzVG1ka1REWXhjVjkwWVhWU1pHbHhTbGhPU2psRWRtcHdTRWt4UkZCS1dUTTVNbXRoVlZCT01WZHJTMmRJZVZwNmVtc3dkMjVFWTNKMGEzTlNaREpxRWhkTWFrRkxXalZZVWtKeWNWaDRZemhRZGxCRVN6WkJTUm9pUVVaWWNrVmpjbVJ4V1hwTWFFTmFaekZWVUUwMlFXYzVjVXRJWlRCSFRFdzBRUSIsImZjdiI6IjMiLCJlaSI6IkxqQUtaNVhSQnJxWHhjOFB2UERLNkFJIiwicWMiOiJDZ2RvYjNRZ1pHOW5FQUI5djNZclB3IiwicXVlc3Rpb24iOiJXaHkgaXMgaXQgY2FsbGVkIGhvdGRvZz8iLCJsayI6IkdoZDNhSGtnYVhNZ2FYUWdZMkZzYkdWa0lHaHZkR1J2WnciLCJicyI6ImMtUFM0NUlJejBnc1VjZ3NWa2hVeU1ndlVVakpUMWNvemtuTVM3ZVhhSE15NHBmaVJSSGtzZ0NwcndRcHp5eFJTRTdNeVVsTkFXa0RLckNYV0tGaEpDa2xYbzVkbWt1UFM5aXpHRzVGUm1waVRrbEdwYjNFV1U4akVTbWhUQXdaTGpzdU9iRExFb3RTWVhMRkNybUpLYWtLLWFVbEN2bHA5aEtIdEVEMndmUmx3bVRURk1xQi1nUVlBUSIsImlkIjoiZmNfMiJ9"
+    },
+    {
+      "question": "Is hot dog healthy?",
+      "snippet": "While hot dogs are a favorite staple for many summertime festivities, they may not be suitable for certain people and can negatively affect health when consumed in excess. Hot dogs tend to be high in sodium, and high sodium intake has been linked to an increased risk of heart disease and high blood pressure.",
+      "title": "Are Hot Dogs Bad For You? - Health",
+      "date": "Jul 29, 2024",
+      "link": "https://www.health.com/are-hot-dogs-bad-for-you-8678166#:~:text=While%20hot%20dogs%20are%20a,disease%20and%20high%20blood%20pressure.",
+      "displayed_link": "https://www.health.com \u203a are-hot-dogs-bad-for-you-867...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvM5EK6QRLEbVlTSAKM1gMAK_ncqA4IrDvyXzzqGUMDw&s",
+      "source_logo": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/fb49a511942b3399fe8b54ece4239c5a4d633a689511c4f22516ecdc9c140450.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UE1qbGZOMFpzVG1ka1REWXhjVjkwWVhWU1pHbHhTbGhPU2psRWRtcHdTRWt4UkZCS1dUTTVNbXRoVlZCT01WZHJTMmRJZVZwNmVtc3dkMjVFWTNKMGEzTlNaREpxRWhkTWFrRkxXalZZVWtKeWNWaDRZemhRZGxCRVN6WkJTUm9pUVVaWWNrVmpjbVJ4V1hwTWFFTmFaekZWVUUwMlFXYzVjVXRJWlRCSFRFdzBRUSIsImZjdiI6IjMiLCJlaSI6IkxqQUtaNVhSQnJxWHhjOFB2UERLNkFJIiwicWMiOiJDZ2RvYjNRZ1pHOW5FQUI5djNZclB3IiwicXVlc3Rpb24iOiJJcyBob3QgZG9nIGhlYWx0aHk/IiwibGsiOiJHaEpwY3lCb2IzUWdaRzluSUdobFlXeDBhSGsiLCJicyI6ImMtUFM0NUlJejBnc1VjZ3NWa2hVeU1ndlVVakpUMWNvemtuTVM3ZVhhSE15NHBmaVJSSGtzZ0NwcndRcHp5eFJTRTdNeVVsTkFXa0RLckNYV0tGaEpDa2xYbzVkbWt1UFM5aXpHRzVGUm1waVRrbEdwYjNFV1U4akVTbWhUQXdaTGpzdU9iRExFb3RTWVhMRkNybUpLYWtLLWFVbEN2bHA5aEtIdEVEMndmUmx3bVRURk1xQi1nUVlBUSIsImlkIjoiZmNfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UE1qbGZOMFpzVG1ka1REWXhjVjkwWVhWU1pHbHhTbGhPU2psRWRtcHdTRWt4UkZCS1dUTTVNbXRoVlZCT01WZHJTMmRJZVZwNmVtc3dkMjVFWTNKMGEzTlNaREpxRWhkTWFrRkxXalZZVWtKeWNWaDRZemhRZGxCRVN6WkJTUm9pUVVaWWNrVmpjbVJ4V1hwTWFFTmFaekZWVUUwMlFXYzVjVXRJWlRCSFRFdzBRUSIsImZjdiI6IjMiLCJlaSI6IkxqQUtaNVhSQnJxWHhjOFB2UERLNkFJIiwicWMiOiJDZ2RvYjNRZ1pHOW5FQUI5djNZclB3IiwicXVlc3Rpb24iOiJJcyBob3QgZG9nIGhlYWx0aHk%2FIiwibGsiOiJHaEpwY3lCb2IzUWdaRzluSUdobFlXeDBhSGsiLCJicyI6ImMtUFM0NUlJejBnc1VjZ3NWa2hVeU1ndlVVakpUMWNvemtuTVM3ZVhhSE15NHBmaVJSSGtzZ0NwcndRcHp5eFJTRTdNeVVsTkFXa0RLckNYV0tGaEpDa2xYbzVkbWt1UFM5aXpHRzVGUm1waVRrbEdwYjNFV1U4akVTbWhUQXdaTGpzdU9iRExFb3RTWVhMRkNybUpLYWtLLWFVbEN2bHA5aEtIdEVEMndmUmx3bVRURk1xQi1nUVlBUSIsImlkIjoiZmNfMiJ9"
+    },
+    {
+      "question": "What are hot dogs made out of?",
+      "snippet": "What are hot dogs made of? Hot dogs are made from the emulsified meat trimmings of chicken, beef, or pork. This meat mixture is blended with other ingredients (like preservatives, spices, and coloring) into a batter-like substance.",
+      "title": "What's really in a hot dog? What is it made out of? - The Humane League",
+      "date": "Dec 8, 2021",
+      "link": "https://thehumaneleague.org/article/what-are-hot-dogs-made-of#:~:text=veggie%20dogs%20instead.-,What%20are%20hot%20dogs%20made%20of%3F,into%20a%20batter%2Dlike%20substance.",
+      "displayed_link": "https://thehumaneleague.org \u203a article \u203a what-are-hot-dog...",
+      "source_logo": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/fb49a511942b3399fe8b54ece4239c5a5983b34604179c722534930db38aadc7.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UE1qbGZOMFpzVG1ka1REWXhjVjkwWVhWU1pHbHhTbGhPU2psRWRtcHdTRWt4UkZCS1dUTTVNbXRoVlZCT01WZHJTMmRJZVZwNmVtc3dkMjVFWTNKMGEzTlNaREpxRWhkTWFrRkxXalZZVWtKeWNWaDRZemhRZGxCRVN6WkJTUm9pUVVaWWNrVmpjbVJ4V1hwTWFFTmFaekZWVUUwMlFXYzVjVXRJWlRCSFRFdzBRUSIsImZjdiI6IjMiLCJlaSI6IkxqQUtaNVhSQnJxWHhjOFB2UERLNkFJIiwicWMiOiJDZ2RvYjNRZ1pHOW5FQUI5djNZclB3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSBob3QgZG9ncyBtYWRlIG91dCBvZj8iLCJsayI6IkdoZG9iM1FnWkc5bklHbHpJRzFoWkdVZ2IyWWdkMmhoZEEiLCJicyI6ImMtUFM0NUlJejBnc1VjZ3NWa2hVeU1ndlVVakpUMWNvemtuTVM3ZVhhSE15NHBmaVJSSGtzZ0NwcndRcHp5eFJTRTdNeVVsTkFXa0RLckNYV0tGaEpDa2xYbzVkbWt1UFM5aXpHRzVGUm1waVRrbEdwYjNFV1U4akVTbWhUQXdaTGpzdU9iRExFb3RTWVhMRkNybUpLYWtLLWFVbEN2bHA5aEtIdEVEMndmUmx3bVRURk1xQi1nUVlBUSIsImlkIjoiZmNfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UE1qbGZOMFpzVG1ka1REWXhjVjkwWVhWU1pHbHhTbGhPU2psRWRtcHdTRWt4UkZCS1dUTTVNbXRoVlZCT01WZHJTMmRJZVZwNmVtc3dkMjVFWTNKMGEzTlNaREpxRWhkTWFrRkxXalZZVWtKeWNWaDRZemhRZGxCRVN6WkJTUm9pUVVaWWNrVmpjbVJ4V1hwTWFFTmFaekZWVUUwMlFXYzVjVXRJWlRCSFRFdzBRUSIsImZjdiI6IjMiLCJlaSI6IkxqQUtaNVhSQnJxWHhjOFB2UERLNkFJIiwicWMiOiJDZ2RvYjNRZ1pHOW5FQUI5djNZclB3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSBob3QgZG9ncyBtYWRlIG91dCBvZj8iLCJsayI6IkdoZG9iM1FnWkc5bklHbHpJRzFoWkdVZ2IyWWdkMmhoZEEiLCJicyI6ImMtUFM0NUlJejBnc1VjZ3NWa2hVeU1ndlVVakpUMWNvemtuTVM3ZVhhSE15NHBmaVJSSGtzZ0NwcndRcHp5eFJTRTdNeVVsTkFXa0RLckNYV0tGaEpDa2xYbzVkbWt1UFM5aXpHRzVGUm1waVRrbEdwYjNFV1U4akVTbWhUQXdaTGpzdU9iRExFb3RTWVhMRkNybUpLYWtLLWFVbEN2bHA5aEtIdEVEMndmUmx3bVRURk1xQi1nUVlBUSIsImlkIjoiZmNfMiJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Hot dog",
+      "link": "https://en.wikipedia.org/wiki/Hot_dog",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Hot_dog&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0QFnoECBUQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Hot_dog",
+      "thumbnail": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/6a8915e1246135486a82f04f82f6a46d2e6d94f4d1fed4c00ee5f5ce440a3f47.jpeg",
+      "favicon": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/6a8915e1246135486a82f04f82f6a46d838d2cef650d9aa87e0c7fd549769489.webp",
+      "snippet": "A hot dog is a dish consisting of a grilled, steamed, or boiled sausage served in the slit of a partially sliced bun. The term hot dog can refer to the ...",
+      "snippet_highlighted_words": [
+        "hot dog",
+        "hot dog"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "List of hot dogs",
+            "link": "https://en.wikipedia.org/wiki/List_of_hot_dogs"
+          },
+          {
+            "title": "Variations",
+            "link": "https://en.wikipedia.org/wiki/Hot_dog_variations"
+          },
+          {
+            "title": "Hot dog bun",
+            "link": "https://en.wikipedia.org/wiki/Hot_dog_bun"
+          },
+          {
+            "title": "Italian hot dog",
+            "link": "https://en.wikipedia.org/wiki/Italian_hot_dog"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "5 Hot Dogs From Basic To Gourmet - Level Up Your Party Food",
+      "link": "https://www.youtube.com/watch?v=rH2EmY_ytf4",
+      "displayed_link": "418.2K+ views \u00b7 3 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/rH2EmY_ytf4/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3nLy0970Dgz3P2JN3C8cE5F6v0NZA",
+      "favicon": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/6a8915e1246135486a82f04f82f6a46d85f21d9f7e842fe2b8d7eae4a0c27da8.png",
+      "snippet": "You don't have to travel to a big city to find a small cart that sells delicious hot dogs. Here are 5 world class hot dogs that any home ...",
+      "duration": "10:47",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=rH2EmY_ytf4&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1mIQnv_L_taAp1eTCS49OhYGuzVmOl9pM3FGeZzhmNQ&s"
+        },
+        {
+          "time": "01:20",
+          "title": "The Classic",
+          "link": "https://www.youtube.com/watch?v=rH2EmY_ytf4&t=80",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlvj76MOy7e2DJPf2NJZK-1iksilz0r0dxTb3-uFqBEQ&s"
+        },
+        {
+          "time": "02:26",
+          "title": "Cheese Dog",
+          "link": "https://www.youtube.com/watch?v=rH2EmY_ytf4&t=146",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvoQoPXRMbxIwWnIJlF1uedoFmYmOa5d55bnJm2711QQ&s"
+        },
+        {
+          "time": "04:04",
+          "title": "Chicago Dog",
+          "link": "https://www.youtube.com/watch?v=rH2EmY_ytf4&t=244",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQei1GtjIqI9XduiDYKgJ-0p3W11_HzTKPZIQ0Jq-WMpA&s"
+        },
+        {
+          "time": "05:51",
+          "title": "Korean Corn Dog",
+          "link": "https://www.youtube.com/watch?v=rH2EmY_ytf4&t=351",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc4bcNO5NVCPCqg5F4lDXnUH8HOjx1dCQ0MYp0R-02WQ&s"
+        },
+        {
+          "time": "06:29",
+          "title": "Potato Dog",
+          "link": "https://www.youtube.com/watch?v=rH2EmY_ytf4&t=389",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvG4yzcBdpaKZy-FIeJYl0OWtH4f5DHmUifY4lWu04ig&s"
+        },
+        {
+          "time": "08:21",
+          "title": "Chilli Dog",
+          "link": "https://www.youtube.com/watch?v=rH2EmY_ytf4&t=501",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv0rFUBT3qEBSVV2f5_yqJc8uU9d5fFSfym0wsl_pg4w&s"
+        }
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRN1Ony9BmIe81GMthRVNm99U9fuVW83oCy5Q",
+      "source": "YouTube \u00b7 Andy Cooks"
+    },
+    {
+      "position": 3,
+      "title": "National Hot Dog and Sausage Council",
+      "link": "https://www.hot-dog.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hot-dog.org/&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0QFnoECE4QAQ",
+      "displayed_link": "https://www.hot-dog.org",
+      "favicon": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/6a8915e1246135486a82f04f82f6a46de86c35a96dd63dcc41104bd6caa2536b.webp",
+      "snippet": "Get your fill of hot dog and sausage facts, culture and history. You'll relish the variety of information on the All-American Food.",
+      "snippet_highlighted_words": [
+        "hot dog"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Hot Dog Fast Facts",
+            "link": "https://www.hot-dog.org/culture/hot-dog-fast-facts"
+          },
+          {
+            "title": "Sandwich",
+            "link": "https://www.hot-dog.org/culture/hot-dog-sandwich"
+          },
+          {
+            "title": "History",
+            "link": "https://www.hot-dog.org/culture/hot-dog-history"
+          },
+          {
+            "title": "Etiquette",
+            "link": "https://www.hot-dog.org/culture/hot-dog-etiquette"
+          }
+        ]
+      },
+      "source": "National Hot Dog and Sausage Council"
+    },
+    {
+      "position": 4,
+      "title": "How To Make A Better Hot Dog | How To Make Spiral Hot ...",
+      "link": "https://www.facebook.com/carolinagelen/videos/how-to-make-a-better-hot-dog/2887633578044920/",
+      "displayed_link": "160+ reactions \u00b7 3 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8RcYwkaLLN_9ty4X2RvUj_83w75f19zIHyRkg2fb6Sxnc&s",
+      "favicon": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/6a8915e1246135486a82f04f82f6a46d24d773589a26f96d3d616bb571c21900.png",
+      "snippet": "How to make your hot dogs better. Turn them into spiral hot dogs. This easy technique gives you more surface area for caramelization, more ...",
+      "duration": "0:37",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSEbhm_6f6f2QXG-h314HHj0IdfZGTTdY1F7w",
+      "source": "Facebook \u00b7 Carolina Gelen"
+    },
+    {
+      "position": 5,
+      "title": "Hot Dog Recall as Customers Told Meat 'Should Be ...",
+      "link": "https://www.newsweek.com/food-recall-usda-fsis-hot-dog-weiner-pork-soy-allergens-1953355",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.newsweek.com/food-recall-usda-fsis-hot-dog-weiner-pork-soy-allergens-1953355&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0QFnoECGQQAQ",
+      "displayed_link": "https://www.newsweek.com \u203a food-recall-usda-fsis-hot-...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw6x2kkF2AfadQzXtQtVPjlhTvVm-FUHkB8TaMP7HMOyxJgvxBQplm&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/6a8915e1246135486a82f04f82f6a46d9fa3256ca0e29181921cdbb95c981e53.webp",
+      "date": "Sep 13, 2024",
+      "snippet": "Nearly 2,000 pounds of wieners have been recalled due to containing undeclared pork and soy, with customers warned to throw away any ...",
+      "source": "Newsweek"
+    },
+    {
+      "position": 6,
+      "title": "Hot Dog on a Stick: Home",
+      "link": "https://hotdogonastick.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://hotdogonastick.com/&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0QFnoECE0QAQ",
+      "displayed_link": "https://hotdogonastick.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3y0_Q4-toZf7zRrOAGZGGwt9LInmYN7hRgP9FGcxjswiXREf_ZPmZ&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/6a8915e1246135486a82f04f82f6a46db5de64387e8855f30b25df81d9374651.webp",
+      "snippet": "Enjoy Hot Dog on a Stick's made-to-order menu by ordering online! Our iconic brand is known for our striped uniforms and hand-stomped lemonade.",
+      "snippet_highlighted_words": [
+        "Hot Dog"
+      ],
+      "source": "Hot Dog on a Stick"
+    },
+    {
+      "position": 7,
+      "title": "Once I Started Cooking Hot Dogs Like This, I've Never ...",
+      "link": "https://www.thekitchn.com/griddle-hot-dogs-tip-23673485",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thekitchn.com/griddle-hot-dogs-tip-23673485&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0QFnoECFAQAQ",
+      "displayed_link": "https://www.thekitchn.com \u203a ... \u203a Grilling",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeouutujeoIvARhHfzV1eU4jU2r8TAMRy3J_S7g_B6k8gqqcWbsSYf&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/6a8915e1246135486a82f04f82f6a46d40f0d8e7eab8a6e880e905602099bde2.webp",
+      "date": "Aug 15, 2024",
+      "snippet": "Tips for Cooking Hot Dogs in Butter \u00b7 Use another pan to weigh down the hot dog while it's cooking to ensure an even sear all over the surface ...",
+      "snippet_highlighted_words": [
+        "Hot Dogs",
+        "hot dog"
+      ],
+      "source": "The Kitchn"
+    },
+    {
+      "position": 8,
+      "title": "Wienerschnitzel Premium Hot Dogs - The World's Largest ...",
+      "link": "https://www.wienerschnitzel.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wienerschnitzel.com/&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0QFnoECE8QAQ",
+      "displayed_link": "https://www.wienerschnitzel.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhqbQPIHLWpZT51P--vHR3UZ4V70hJyzA6vWNPXrHXEBdheuig_yw0&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/6a8915e1246135486a82f04f82f6a46d841a55711c424de086bbbd0ea65f33a4.webp",
+      "snippet": "Wienerschnitzel serving Hot Dog, Chili Cheese-Burgers, Corn Dogs, Chili, Tastee-Freez, and Breakfast. More than 320 quick-serve restaurants in 11 states.",
+      "snippet_highlighted_words": [
+        "Hot Dog",
+        "Corn Dogs"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Hot Dogs",
+            "link": "https://www.wienerschnitzel.com/food/hot-dogs/"
+          },
+          {
+            "title": "Locations",
+            "link": "https://www.wienerschnitzel.com/locations/"
+          },
+          {
+            "title": "Menu & Food Items",
+            "link": "https://www.wienerschnitzel.com/food/"
+          },
+          {
+            "title": "All Wienerschnitzel Locations",
+            "link": "https://www.wienerschnitzel.com/locations-all/"
+          }
+        ]
+      },
+      "source": "Wienerschnitzel"
+    },
+    {
+      "position": 9,
+      "title": "The Best Hot Dog Brand: A Blind Taste Test - Bon Appetit",
+      "link": "https://www.bonappetit.com/test-kitchen/story/best-hot-dog-brand",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bonappetit.com/test-kitchen/story/best-hot-dog-brand&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0QFnoECEwQAQ",
+      "displayed_link": "https://www.bonappetit.com \u203a cooking \u203a cooking",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5dLAZ1YM1Hhyce4lhbB0Lbklpn5BplfzzByqAF6UkBvJMKZinrf4G&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/6a8915e1246135486a82f04f82f6a46d0a4c95e8a3589fa2fe1ed41fdbadf077.webp",
+      "date": "May 3, 2023",
+      "snippet": "We tried seven brands of popular hot dogs, including Oscar Mayer, Hebrew National, and more, to see how they compared on texture and flavor.",
+      "snippet_highlighted_words": [
+        "hot dogs"
+      ],
+      "source": "bonappetit.com"
+    },
+    {
+      "position": 10,
+      "title": "Grilled Cheese Hot Dogs are INSANE | Weber Slate Griddle",
+      "link": "https://www.youtube.com/watch?v=AL4kqAi-0jc",
+      "displayed_link": "1.3M+ views \u00b7 3 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/AL4kqAi-0jc/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3mzdkLMH9CZ-W6i3FPdhoYYXGparA",
+      "favicon": "https://serpapi.com/searches/670a302d0f1a33b5114848cd/images/6a8915e1246135486a82f04f82f6a46d6b3ec1fed76e5f9ec29eed83178c2f79.png",
+      "snippet": "I have a feeling these grilled cheese hot dogs are going to be the star of summer. They combine the bite of a savory hot dog enveloped in a ...",
+      "duration": "6:45",
+      "source": "YouTube \u00b7 Chiles and Smoke"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=hot+dog&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0QjGp6BAhCEAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hot+dog&tbs=lf%3A1%2Clf_ui%3A9&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "items": [
+        {
+          "name": "Sausage",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRmF5iASiOdRlvBvPBPMiX7CdJa_TZjdzejacXbh0cdOLCfYrSDInRr1tv6De2tYTciFBOxzQo4&s=19",
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Sausage&stick=H4sIAAAAAAAAAOMwVGI0-MXIsIGF4RULFxeHfq6-QXZKVd4rFm4uThDHLMcyxxLOM4ovqTSH8wyTLCuy4drSigrN4ByjSjOEGUY55fFGcKkMg4pcOMeyMDkbri7NyLTcchEre3BiaXFieuotNkmG7qc9xoHxIQXvVJoPSh3as-Spyc91s8u8Vy3iEAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9awcEIACDj80_UAAAA&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Qs9oBKAB6BAhpEAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sausage&stick=H4sIAAAAAAAAAOMwVGI0-MXIsIGF4RULFxeHfq6-QXZKVd4rFm4uThDHLMcyxxLOM4ovqTSH8wyTLCuy4drSigrN4ByjSjOEGUY55fFGcKkMg4pcOMeyMDkbri7NyLTcchEre3BiaXFieuotNkmG7qc9xoHxIQXvVJoPSh3as-Spyc91s8u8Vy3iEAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9awcEIACDj80_UAAAA"
+        },
+        {
+          "name": "Vienna sausage",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwFKO7K6Jn7YNf5bCAX_yuyDuoWsJxos3nEfaKvGCOOlx1dq3q4JhS&s=0",
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Vienna+sausage&stick=H4sIAAAAAAAAAOMwVGI0_MXIsIGF4RULFxeHfq6-QXZKVd4rFm4uThDHLMcyxxLOM4ovqTSH8wyTLCuy4drSigrN4ByjSjOEGUY55fFGcKkMg4pcOMeyMDkbri7NyLTcchErX1hmal5eokJxYmlxYnrqLTZJhu6nPcaB8SEF71SaD0od2rPkqcnPdbPLvFct4hALSM0vyElVSMwpzlcoTk0sSs5QSMsvWsHBCADri4e_2wAAAA&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Qs9oBKAF6BAhpEAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Vienna+sausage&stick=H4sIAAAAAAAAAOMwVGI0_MXIsIGF4RULFxeHfq6-QXZKVd4rFm4uThDHLMcyxxLOM4ovqTSH8wyTLCuy4drSigrN4ByjSjOEGUY55fFGcKkMg4pcOMeyMDkbri7NyLTcchErX1hmal5eokJxYmlxYnrqLTZJhu6nPcaB8SEF71SaD0od2rPkqcnPdbPLvFct4hALSM0vyElVSMwpzlcoTk0sSs5QSMsvWsHBCADri4e_2wAAAA"
+        },
+        {
+          "name": "Corn dog",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQbyqnF4E6LFoP9fSX__913UpyESoGG9fpXFaIqa28S_FFk9Jm3bIdN3IGQ85KZMb3RBbjP-AU&s=19",
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Corn+dog&stick=H4sIAAAAAAAAAOMwVGI0-sXIsIGF4RULFxeHfq6-QXZKVd4rFm4uThDHLMcyxxLOM4ovqTSH8wyTLCuy4drSigrN4ByjSjOEGUY55fFGcKkMg4pcOMeyMDkbri7NyLTcchErh3N-UZ5CSn76LTZJhu6nPcaB8SEF71SaD0od2rPkqcnPdbPLvFct4hALSM0vyElVSMwpzlcoTk0sSs5QSMsvWsHBCAAnnMR61QAAAA&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Qs9oBKAJ6BAhpEAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Corn+dog&stick=H4sIAAAAAAAAAOMwVGI0-sXIsIGF4RULFxeHfq6-QXZKVd4rFm4uThDHLMcyxxLOM4ovqTSH8wyTLCuy4drSigrN4ByjSjOEGUY55fFGcKkMg4pcOMeyMDkbri7NyLTcchErh3N-UZ5CSn76LTZJhu6nPcaB8SEF71SaD0od2rPkqcnPdbPLvFct4hALSM0vyElVSMwpzlcoTk0sSs5QSMsvWsHBCAAnnMR61QAAAA"
+        },
+        {
+          "name": "Hot dog",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRePdzcQ6lxYZGhYLEopVwrbAgnjXzJwB-cxBzVYeqH401bYL4pmVV-_WtmLacAduBFgGoyyVWF&s=19",
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Hot+Dog&stick=H4sIAAAAAAAAAOMwVGI0_sXIsIGF4RULFxeHfq6-QXZKVd4rFm4uThDHLMcyxxLOM4ovqTSH8wyTLCuy4drSigrN4ByjSjOEGUY55fFGcKkMg4pcOMeyMDkbri7NyLTcchEru0d-iYJLfvotNkmG7qc9xoHxIQXvVJoPSh3as-Spyc91s8u8Vy3iEAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9awcEIACGKfIDUAAAA&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Qs9oBKAN6BAhpEAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hot+Dog&stick=H4sIAAAAAAAAAOMwVGI0_sXIsIGF4RULFxeHfq6-QXZKVd4rFm4uThDHLMcyxxLOM4ovqTSH8wyTLCuy4drSigrN4ByjSjOEGUY55fFGcKkMg4pcOMeyMDkbri7NyLTcchEru0d-iYJLfvotNkmG7qc9xoHxIQXvVJoPSh3as-Spyc91s8u8Vy3iEAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9awcEIACGKfIDUAAAA"
+        },
+        {
+          "name": "Pork",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg6oAjaCuP6nNWXjg7wyhsN4_6jLQ0-mAFfgBhFR43gW4aOVo0EmMJ&s=0",
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Pork&stick=H4sIAAAAAAAAAOMwVGI0-cXIsIGF4RULFxeHfq6-QXZKVd4rFm4uThDHLMcyxxLOM4ovqTSH8wyTLCuy4drSigrN4ByjSjOEGUY55fFGcKkMg4pcOMeyMDkbri7NyLTcchErS0B-UfYtNkmG7qc9xoHxIQXvVJoPSh3as-Spyc91s8u8Vy3iEAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9awcEIAFwXrdHRAAAA&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Qs9oBKAR6BAhpEAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pork&stick=H4sIAAAAAAAAAOMwVGI0-cXIsIGF4RULFxeHfq6-QXZKVd4rFm4uThDHLMcyxxLOM4ovqTSH8wyTLCuy4drSigrN4ByjSjOEGUY55fFGcKkMg4pcOMeyMDkbri7NyLTcchErS0B-UfYtNkmG7qc9xoHxIQXvVJoPSh3as-Spyc91s8u8Vy3iEAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9awcEIAFwXrdHRAAAA"
+        },
+        {
+          "name": "French fries",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSDWlmnmXzLJnWX60XdeCgqvEV1C-L8R5QZVafmfEhXgRXZSrZpKjK_gawp3rYku1af8A6Bu0_h&s=19",
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=French+fries&stick=H4sIAAAAAAAAAOMwVGI0_cXIsIGF4RULFxeHfq6-QXZKVd4rFm4uThDHLMcyxxLOM4ovqTSH8wyTLCuy4drSigrN4ByjSjOEGUY55fFGcKkMg4pcOMeyMDkbri7NyLTcchErj1tRal5yhkJaUWZq8S02SYbupz3GgfEhBe9Umg9KHdqz5KnJz3Wzy7xXLeIQC0jNL8hJVUjMKc5XKE5NLAJpyy9awcEIAJl8KWvZAAAA&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Qs9oBKAV6BAhpEAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=French+fries&stick=H4sIAAAAAAAAAOMwVGI0_cXIsIGF4RULFxeHfq6-QXZKVd4rFm4uThDHLMcyxxLOM4ovqTSH8wyTLCuy4drSigrN4ByjSjOEGUY55fFGcKkMg4pcOMeyMDkbri7NyLTcchErj1tRal5yhkJaUWZq8S02SYbupz3GgfEhBe9Umg9KHdqz5KnJz3Wzy7xXLeIQC0jNL8hJVUjMKc5XKE5NLAJpyy9awcEIAJl8KWvZAAAA"
+        }
+      ]
+    },
+    {
+      "block_position": 1,
+      "query": "Hot dogs near me",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Hot+dogs+near+me&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Q1QJ6BAhwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hot+dogs+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Hot dog recipe",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Hot+dog+recipe&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Q1QJ6BAhvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hot+dog+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Hot dogs Costco",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Hot+dogs+Costco&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Q1QJ6BAhuEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hot+dogs+Costco"
+    },
+    {
+      "block_position": 1,
+      "query": "Hot dog sausage",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Hot+dog+sausage&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Q1QJ6BAhtEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hot+dog+sausage"
+    },
+    {
+      "block_position": 1,
+      "query": "Hotdog or hot dog",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Hotdog+or+hot+dog&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Q1QJ6BAhrEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hotdog+or+hot+dog"
+    },
+    {
+      "block_position": 1,
+      "query": "Hot Dogs Walmart",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Hot+Dogs+Walmart&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Q1QJ6BAhqEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hot+Dogs+Walmart"
+    },
+    {
+      "block_position": 1,
+      "query": "Hot dog buns",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Hot+dog+buns&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Q1QJ6BAhsEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hot+dog+buns"
+    },
+    {
+      "block_position": 1,
+      "query": "Why is it called hot dog",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Why+is+it+called+hot+dog&sa=X&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Q1QJ6BAhxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Why+is+it+called+hot+dog"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=hot+dog&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=LjAKZ5XRBrqXxc8PvPDK6AI&start=10&sa=N&sstk=AagrsujdFHcUYdwCtJqms-zH682iIEx7ekk83fZVhivErnBhsdZOML_uuFkSY6DjGeC6HPh2ISXy2DHDFxMVDVrzvjxrXogKlr1jOQ&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Q8NMDegQIBRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=hot+dog&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=LjAKZ5XRBrqXxc8PvPDK6AI&start=10&sa=N&sstk=AagrsujdFHcUYdwCtJqms-zH682iIEx7ekk83fZVhivErnBhsdZOML_uuFkSY6DjGeC6HPh2ISXy2DHDFxMVDVrzvjxrXogKlr1jOQ&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Q8tMDegQIBRAE",
+      "3": "https://www.google.com/search?q=hot+dog&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=LjAKZ5XRBrqXxc8PvPDK6AI&start=20&sa=N&sstk=AagrsujdFHcUYdwCtJqms-zH682iIEx7ekk83fZVhivErnBhsdZOML_uuFkSY6DjGeC6HPh2ISXy2DHDFxMVDVrzvjxrXogKlr1jOQ&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Q8tMDegQIBRAG",
+      "4": "https://www.google.com/search?q=hot+dog&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=LjAKZ5XRBrqXxc8PvPDK6AI&start=30&sa=N&sstk=AagrsujdFHcUYdwCtJqms-zH682iIEx7ekk83fZVhivErnBhsdZOML_uuFkSY6DjGeC6HPh2ISXy2DHDFxMVDVrzvjxrXogKlr1jOQ&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Q8tMDegQIBRAI",
+      "5": "https://www.google.com/search?q=hot+dog&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=LjAKZ5XRBrqXxc8PvPDK6AI&start=40&sa=N&sstk=AagrsujdFHcUYdwCtJqms-zH682iIEx7ekk83fZVhivErnBhsdZOML_uuFkSY6DjGeC6HPh2ISXy2DHDFxMVDVrzvjxrXogKlr1jOQ&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Q8tMDegQIBRAK",
+      "6": "https://www.google.com/search?q=hot+dog&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=LjAKZ5XRBrqXxc8PvPDK6AI&start=50&sa=N&sstk=AagrsujdFHcUYdwCtJqms-zH682iIEx7ekk83fZVhivErnBhsdZOML_uuFkSY6DjGeC6HPh2ISXy2DHDFxMVDVrzvjxrXogKlr1jOQ&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Q8tMDegQIBRAM",
+      "7": "https://www.google.com/search?q=hot+dog&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=LjAKZ5XRBrqXxc8PvPDK6AI&start=60&sa=N&sstk=AagrsujdFHcUYdwCtJqms-zH682iIEx7ekk83fZVhivErnBhsdZOML_uuFkSY6DjGeC6HPh2ISXy2DHDFxMVDVrzvjxrXogKlr1jOQ&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Q8tMDegQIBRAO",
+      "8": "https://www.google.com/search?q=hot+dog&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=LjAKZ5XRBrqXxc8PvPDK6AI&start=70&sa=N&sstk=AagrsujdFHcUYdwCtJqms-zH682iIEx7ekk83fZVhivErnBhsdZOML_uuFkSY6DjGeC6HPh2ISXy2DHDFxMVDVrzvjxrXogKlr1jOQ&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Q8tMDegQIBRAQ",
+      "9": "https://www.google.com/search?q=hot+dog&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=LjAKZ5XRBrqXxc8PvPDK6AI&start=80&sa=N&sstk=AagrsujdFHcUYdwCtJqms-zH682iIEx7ekk83fZVhivErnBhsdZOML_uuFkSY6DjGeC6HPh2ISXy2DHDFxMVDVrzvjxrXogKlr1jOQ&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Q8tMDegQIBRAS",
+      "10": "https://www.google.com/search?q=hot+dog&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=LjAKZ5XRBrqXxc8PvPDK6AI&start=90&sa=N&sstk=AagrsujdFHcUYdwCtJqms-zH682iIEx7ekk83fZVhivErnBhsdZOML_uuFkSY6DjGeC6HPh2ISXy2DHDFxMVDVrzvjxrXogKlr1jOQ&ved=2ahUKEwiVoK6ts4iJAxW6S_EDHTy4Ei0Q8tMDegQIBRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hot+dog&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hot+dog&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hot+dog&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hot+dog&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hot+dog&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hot+dog&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hot+dog&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hot+dog&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hot+dog&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hot+dog&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hot+dog&start=90"
+    }
+  }
+}

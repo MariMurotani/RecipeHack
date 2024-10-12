@@ -1,0 +1,751 @@
+{
+  "search_metadata": {
+    "id": "670a302cfc183d5bb70bdf81",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5579acbf2bcd8c59/670a302cfc183d5bb70bdf81.json",
+    "created_at": "2024-10-12 08:15:40 UTC",
+    "processed_at": "2024-10-12 08:15:40 UTC",
+    "google_url": "https://www.google.com/search?q=baked+potato&oq=baked+potato&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/5579acbf2bcd8c59/670a302cfc183d5bb70bdf81.html",
+    "total_time_taken": 0.59
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "baked potato",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "baked potato",
+    "total_results": 394000000,
+    "time_taken_displayed": 0.41,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "recipes_results": [
+    {
+      "title": "Perfect Baked Potato",
+      "link": "https://www.loveandlemons.com/baked-potato/",
+      "source": "Love and Lemons",
+      "rating": 5.0,
+      "reviews": 418,
+      "ingredients": [
+        "Olive oil",
+        "russet potatoes",
+        "sea salt"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/ac65e57b6190ca0db56902dd5f46f896dc0d2071a1c294a79c7ec5f2a23bb007.jpeg"
+    },
+    {
+      "title": "Simple Baked Potato",
+      "link": "https://www.allrecipes.com/recipe/270750/simple-baked-potato/",
+      "source": "Allrecipes",
+      "rating": 4.3,
+      "reviews": 9,
+      "total_time": "1 hr 10 min",
+      "ingredients": [
+        "Potatoes",
+        "butter",
+        "olive oil",
+        "garlic powder",
+        "black pepper"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/ac65e57b6190ca0db56902dd5f46f896b6813fe466207028e9071a40aae7fcf1.jpeg"
+    },
+    {
+      "title": "The Perfect Baked Potato",
+      "link": "https://www.gimmesomeoven.com/baked-potato/",
+      "source": "Gimme Some Oven",
+      "rating": 4.8,
+      "reviews": 274,
+      "total_time": "52 min",
+      "ingredients": [
+        "Olive oil",
+        "russet potato",
+        "black pepper"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/ac65e57b6190ca0db56902dd5f46f8961d7370999fb8dfd2560ce64647ed5c1b.jpeg"
+    }
+  ],
+  "knowledge_graph": {
+    "title": "Baked potato",
+    "type": "Food",
+    "entity_type": "food, foods_and_dishes",
+    "kgmid": "/m/039blp",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/039blp&hl=en-US&q=Baked+potato",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F039blp&location=Austin%2CTexas%2CUnited+States&q=Baked+potato",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/df9a0c4d6db465e12a21b92a34e88165c611de1c5f9c74cbe03a5854e83ed23664abea4d79bd36c9.jpeg",
+        "source": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcT9uS86EkUVQR6ybdREp0f3bjon4_KEeBfdnFaji1X9m6c3GiiCkPB9P0ERNCXrdnSD"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/df9a0c4d6db465e12a21b92a34e88165c611de1c5f9c74cb67b8504fe255be48ff827a83494b7b60.jpeg",
+        "source": "https://www.onceuponachef.com/recipes/baked-potatoes.html"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/df9a0c4d6db465e12a21b92a34e88165c611de1c5f9c74cbfbebcac7f3fce8bcb541bfc390335f2b.jpeg",
+        "source": "https://ameessavorydish.com/protein-packed-baked-potato-bar-thereciperedux/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/df9a0c4d6db465e12a21b92a34e88165c611de1c5f9c74cb19d92e51211d91cb40ba2d5cb2590ac2.jpeg",
+        "source": "https://www.thekitchn.com/french-onion-baked-potatoes-recipe-23613310"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/df9a0c4d6db465e12a21b92a34e88165c611de1c5f9c74cb1105ff9fcd9456f064fc2aaa73f29de8.jpeg",
+        "source": "https://tastesbetterfromscratch.com/twice-baked-potatoes/"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlEbXH6yGx9Z8sDJFyniHMEXiSYXJzkSgwUYmloUYOpQ&s",
+        "source": "https://www.101cookbooks.com/baked-potato/"
+      }
+    ],
+    "description": "A baked potato, known in some parts of the United Kingdom as a jacket potato, is a preparation of potato originating from South America, specifically Peru. It may be served with fillings, toppings or condiments such as butter, cheese, sour cream, gravy, baked beans, and tuna, among others.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Baked_potato"
+    },
+    "main_ingredient": "Potato",
+    "main_ingredient_links": [
+      {
+        "text": "Potato",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Potato&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep5MsTSpJbfA_IZrEmhvLn2SOFPq6pHP5ZMUWg9cNbR0f7DDwKzYDYUyXC-eAe-Fv2L9hxNgBeD_Q_7Vw0jIXiDzfmoDAbSwDzSkKD8r-Nr1CzGBVrmXbeuMwK7vmvcCuH1knmGWD1nhmELGUkGPicKmvxB22&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQmxMoAHoECDIQAg"
+      }
+    ],
+    "sources_include": "USDAUSDAUSDAPotato, baked161 Calories - 1 potato medium (173 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170093/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170434/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170033/nutrients"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Potato wedges",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQdfDVRrzv6xECSTrpsyuOuM3mGYBrDojEU5NqwLue8Hmr7r9Pj_RrHrV4K3oQj_3HGbAiLuGG1X8SxC51G5ygm5ZxjwVs30xlBL2w_vEavHBNs9brKtD8249zsqKQRFgMpVM2_hFUgn_894cvxvgIrnzmtCMO-VLz5E5-Rc9ZI5Vke_T444NUgwqbIkYchKA4jYMeCLKd9oQZAymyWICHazvUknigrbcQaBQVVIhXMo9gWrionRXPQei0S0vUszqEapaOT4%3D&q=Potato+wedges&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQs9oBKAB6BAg1EAI",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Potato+wedges&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQdfDVRrzv6xECSTrpsyuOuM3mGYBrDojEU5NqwLue8Hmr7r9Pj_RrHrV4K3oQj_3HGbAiLuGG1X8SxC51G5ygm5ZxjwVs30xlBL2w_vEavHBNs9brKtD8249zsqKQRFgMpVM2_hFUgn_894cvxvgIrnzmtCMO-VLz5E5-Rc9ZI5Vke_T444NUgwqbIkYchKA4jYMeCLKd9oQZAymyWICHazvUknigrbcQaBQVVIhXMo9gWrionRXPQei0S0vUszqEapaOT4%3D",
+        "image": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/df9a0c4d6db465e12a21b92a34e881651be67218d81ea69451e9676a2111f17f95a967812a3c0f5cf419e8081bda12da.jpeg"
+      },
+      {
+        "name": "German fries",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&si=ACC90nyByJNAHfkzzi7l4JA4fcQKXOYDCI7plJH6uVksGWg6XkD32AlwFd65_miu3nkFabmN4ZmTZQgD4z2HDBqNbXLW87m7ulUt_nWzFkyt3YUvWgPRzU5JFPZArw6BijcW7EnvQ-xO-rDXS90orvRxlhBQ4WmbFERsz7m-XGcI5KbKX2BoxQPFQJZo3PI18WSAx8_yeyAR-w_Uavls3DaFDqLRUuH5Ca_vUCT-7RtGY7Mgrlm_7rAQWXgsHjJNBV3dKrDu3os-fgYy-7ULXS0qHKV8erdFD0NRBDFTTFnsMGWT6ROFq0c%3D&q=Bratkartoffeln&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQs9oBKAF6BAg1EAM",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Bratkartoffeln&si=ACC90nyByJNAHfkzzi7l4JA4fcQKXOYDCI7plJH6uVksGWg6XkD32AlwFd65_miu3nkFabmN4ZmTZQgD4z2HDBqNbXLW87m7ulUt_nWzFkyt3YUvWgPRzU5JFPZArw6BijcW7EnvQ-xO-rDXS90orvRxlhBQ4WmbFERsz7m-XGcI5KbKX2BoxQPFQJZo3PI18WSAx8_yeyAR-w_Uavls3DaFDqLRUuH5Ca_vUCT-7RtGY7Mgrlm_7rAQWXgsHjJNBV3dKrDu3os-fgYy-7ULXS0qHKV8erdFD0NRBDFTTFnsMGWT6ROFq0c%3D",
+        "image": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/df9a0c4d6db465e12a21b92a34e881651be67218d81ea69451e9676a2111f17f988f646e00f8cc3aed173e7302b6e658.jpeg"
+      },
+      {
+        "name": "Sour cream",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L5YbaQ2lcVawE6dE6yMrG36PabZuNMtDUuaqjHJZq-5btBoSJf0uCvswrLGq9QoBQqmEiBKh6ZSHf-F9KDIGSpuguDtxJ0X_rB8IHLFc-T9OZjvL9jEpzL5eP79E4YetzkWRXwCMivZPH_lmbfEDKQaCQCjVLC9Jr5dMepxBQYyXLHSdLP7iq1vcMnEbWotSd3kJauZCQuRrSnXVLt3hz40Ern1RjY8rrHVzEck0GGwcCCsYQhrnLM1El3wnknLWE10K9nI%3D&q=Sour+Cream&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQs9oBKAJ6BAg1EAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sour+Cream&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L5YbaQ2lcVawE6dE6yMrG36PabZuNMtDUuaqjHJZq-5btBoSJf0uCvswrLGq9QoBQqmEiBKh6ZSHf-F9KDIGSpuguDtxJ0X_rB8IHLFc-T9OZjvL9jEpzL5eP79E4YetzkWRXwCMivZPH_lmbfEDKQaCQCjVLC9Jr5dMepxBQYyXLHSdLP7iq1vcMnEbWotSd3kJauZCQuRrSnXVLt3hz40Ern1RjY8rrHVzEck0GGwcCCsYQhrnLM1El3wnknLWE10K9nI%3D",
+        "image": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/df9a0c4d6db465e12a21b92a34e881651be67218d81ea69451e9676a2111f17f6678cb5ef1ebfefc40c130c7807aa8b7.jpeg"
+      },
+      {
+        "name": "Gratin dauphinois",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&si=ACC90nyByJNAHfkzzi7l4JA4fcQKXOYDCI7plJH6uVksGWg6XtSzjs8PqKZM4oPyGolcvIiGC0Zm5ANip7f5bBY16E870nVzI0RRlHGGEKWA5RA8ejDtUXsF5p00Oy3lU7ae_PoxLEypWJoQPRd6w1s1D1CODbS4XNjiOdlVDaBcULmo39eQEvPI7CUEco_5L5McJHUsp0g2qDwQBTzgySXKT3VS369EJHCgwDqM51ksHsxUgZD-Uh9h8Zu6IJ4ViLhDKBbcUw8lhXk28Eu49m-zgXUHZuizW_tdVZHSTr3K7qOa37Sk_RS37Oown8cLqGt--yLYbsFt&q=Gratin+dauphinois&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQs9oBKAN6BAg1EAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Gratin+dauphinois&si=ACC90nyByJNAHfkzzi7l4JA4fcQKXOYDCI7plJH6uVksGWg6XtSzjs8PqKZM4oPyGolcvIiGC0Zm5ANip7f5bBY16E870nVzI0RRlHGGEKWA5RA8ejDtUXsF5p00Oy3lU7ae_PoxLEypWJoQPRd6w1s1D1CODbS4XNjiOdlVDaBcULmo39eQEvPI7CUEco_5L5McJHUsp0g2qDwQBTzgySXKT3VS369EJHCgwDqM51ksHsxUgZD-Uh9h8Zu6IJ4ViLhDKBbcUw8lhXk28Eu49m-zgXUHZuizW_tdVZHSTr3K7qOa37Sk_RS37Oown8cLqGt--yLYbsFt",
+        "image": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/df9a0c4d6db465e12a21b92a34e881651be67218d81ea69451e9676a2111f17f1e10077e1b3ff876d63de0cf00d9b9e3.jpeg"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "0.2 g",
+        "0%"
+      ],
+      "cholesterol": [
+        "0 mg",
+        "0%"
+      ],
+      "sodium": [
+        "17 mg",
+        "0%"
+      ],
+      "potassium": [
+        "926 mg",
+        "26%"
+      ],
+      "total_carbohydrate": [
+        "37 g",
+        "12%"
+      ],
+      "protein": [
+        "4.3 g",
+        "8%"
+      ]
+    }
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=baked+potato&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=6IZNMmp6M6L9bM%252C00mWYHoz2RPnCM%252C%252Fm%252F039blp%253B0xaIS5pzcN6w8M%252CJiRbRKtUjLVbgM%252C_%253B5S2D6QleRCEquM%252CGyuFgWHLuWxHDM%252C_%253BNYcee6qBH16fIM%252C4gteYcNG012tcM%252C_%253Bs9PvZR_5ULES_M%252C_pT5WbcOmnkruM%252C_%253BHZoz0550s00CcM%252CrhyPF5p-tgwMeM%252C_&usg=AI4_-kTrhGnlGdE8P-aeXemzOdz6HtK6bw&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQ_B16BAg2EAE#vhid=6IZNMmp6M6L9bM&vssid=mosaic",
+      "source": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcT9uS86EkUVQR6ybdREp0f3bjon4_KEeBfdnFaji1X9m6c3GiiCkPB9P0ERNCXrdnSD",
+      "thumbnail": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/91a717cb16d26fb20fb7cd7960a22cd60007d9e03e97bc9eace5dc040f38540d.jpeg",
+      "original": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcT9uS86EkUVQR6ybdREp0f3bjon4_KEeBfdnFaji1X9m6c3GiiCkPB9P0ERNCXrdnSD",
+      "source_name": "t0.gstatic.com"
+    },
+    {
+      "link": "https://www.google.com/search?q=baked+potato&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=0xaIS5pzcN6w8M%252CJiRbRKtUjLVbgM%252C_%253B5S2D6QleRCEquM%252CGyuFgWHLuWxHDM%252C_%253BNYcee6qBH16fIM%252C4gteYcNG012tcM%252C_%253Bs9PvZR_5ULES_M%252C_pT5WbcOmnkruM%252C_%253BHZoz0550s00CcM%252CrhyPF5p-tgwMeM%252C_&usg=AI4_-kRXQ93gefL-6vhlBGwZOpSYT5WCGA&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQ_h16BAg9EAE#vhid=0xaIS5pzcN6w8M&vssid=mosaic",
+      "source": "https://www.onceuponachef.com/recipes/baked-potatoes.html",
+      "thumbnail": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/91a717cb16d26fb213eaa9751ea4a6e6ca8f3def4f6eff689e88f593e73a250e.jpeg",
+      "original": "https://www.onceuponachef.com/images/2022/11/baked-potatoes.jpg",
+      "title": "Baked Potatoes",
+      "source_name": "Once Upon a Chef"
+    },
+    {
+      "link": "https://www.google.com/search?q=baked+potato&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=0xaIS5pzcN6w8M%252CJiRbRKtUjLVbgM%252C_%253B5S2D6QleRCEquM%252CGyuFgWHLuWxHDM%252C_%253BNYcee6qBH16fIM%252C4gteYcNG012tcM%252C_%253Bs9PvZR_5ULES_M%252C_pT5WbcOmnkruM%252C_%253BHZoz0550s00CcM%252CrhyPF5p-tgwMeM%252C_&usg=AI4_-kRXQ93gefL-6vhlBGwZOpSYT5WCGA&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQ_h16BAg8EAE#vhid=5S2D6QleRCEquM&vssid=mosaic",
+      "source": "https://ameessavorydish.com/protein-packed-baked-potato-bar-thereciperedux/",
+      "thumbnail": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/91a717cb16d26fb24519994c2a7d68d5bd6e1c0f65b9eeeb3f44cb3104f390a6.jpeg",
+      "original": "https://ameessavorydish.com/wp-content/uploads/2017/01/Baked-potato-bar-feature.jpg",
+      "title": "Baked Potato Bar",
+      "source_name": "Amee's Savory Dish"
+    },
+    {
+      "link": "https://www.google.com/search?q=baked+potato&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=0xaIS5pzcN6w8M%252CJiRbRKtUjLVbgM%252C_%253B5S2D6QleRCEquM%252CGyuFgWHLuWxHDM%252C_%253BNYcee6qBH16fIM%252C4gteYcNG012tcM%252C_%253Bs9PvZR_5ULES_M%252C_pT5WbcOmnkruM%252C_%253BHZoz0550s00CcM%252CrhyPF5p-tgwMeM%252C_&usg=AI4_-kRXQ93gefL-6vhlBGwZOpSYT5WCGA&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQ_h16BAg7EAE#vhid=NYcee6qBH16fIM&vssid=mosaic",
+      "source": "https://www.thekitchn.com/french-onion-baked-potatoes-recipe-23613310",
+      "thumbnail": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/91a717cb16d26fb2185c97c60a26a91e593823a1300bd457d899c68599b204a3.jpeg",
+      "original": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2Frecipes%2F2023%2F2023-12-french-onion-baked-potato%2Ffrench-onion-baked-potato-vert",
+      "title": "Cheesy French Onion Baked Potatoes",
+      "source_name": "The Kitchn"
+    },
+    {
+      "link": "https://www.google.com/search?q=baked+potato&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=0xaIS5pzcN6w8M%252CJiRbRKtUjLVbgM%252C_%253B5S2D6QleRCEquM%252CGyuFgWHLuWxHDM%252C_%253BNYcee6qBH16fIM%252C4gteYcNG012tcM%252C_%253Bs9PvZR_5ULES_M%252C_pT5WbcOmnkruM%252C_%253BHZoz0550s00CcM%252CrhyPF5p-tgwMeM%252C_&usg=AI4_-kRXQ93gefL-6vhlBGwZOpSYT5WCGA&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQ_h16BAg5EAE#vhid=s9PvZR_5ULES_M&vssid=mosaic",
+      "source": "https://tastesbetterfromscratch.com/twice-baked-potatoes/",
+      "thumbnail": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/91a717cb16d26fb2cb5941c1eac92ae11faa9aa43972ea01be33daaaee690d1f.jpeg",
+      "original": "https://tastesbetterfromscratch.com/wp-content/uploads/2023/12/Twice-Baked-Potatoes-1.jpg",
+      "title": "Twice Baked Potatoes",
+      "source_name": "Tastes Better From Scratch"
+    },
+    {
+      "link": "https://www.google.com/search?q=baked+potato&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=0xaIS5pzcN6w8M%252CJiRbRKtUjLVbgM%252C_%253B5S2D6QleRCEquM%252CGyuFgWHLuWxHDM%252C_%253BNYcee6qBH16fIM%252C4gteYcNG012tcM%252C_%253Bs9PvZR_5ULES_M%252C_pT5WbcOmnkruM%252C_%253BHZoz0550s00CcM%252CrhyPF5p-tgwMeM%252C_&usg=AI4_-kRXQ93gefL-6vhlBGwZOpSYT5WCGA&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQ_h16BAg6EAE#vhid=HZoz0550s00CcM&vssid=mosaic",
+      "source": "https://www.101cookbooks.com/baked-potato/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlEbXH6yGx9Z8sDJFyniHMEXiSYXJzkSgwUYmloUYOpQ&s",
+      "original": "https://images.101cookbooks.com/baked-potato-recipe-h.jpg?w=1200&auto=compress&auto=format",
+      "title": "Perfect Baked Potato",
+      "source_name": "101 Cookbooks"
+    }
+  ],
+  "inline_people_also_search_for": [
+    {
+      "items": [
+        {
+          "name": "Air fryer baked potato",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzwG-wrntJt5YzhRKKgryCkLwHEA4IYGGaayeCiQ&s=0",
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Air+fryer+baked+potato&stick=H4sIAAAAAAAAAOMwVGI0-MXIsIGF4RULPxevfrq-oWFhUUZxeXaGGUIkz7QqKzmlrBAhklaYZGFimo4hYmyCYk6JeVJxBrKIZYVRcaU5QiTZ1CKnxCDJ8hULDxeXfq6-gWmZmYV5Doqx5vHF2YZIjqk0Tq_KzjBdxCrmmFmkkFZUmVqkkJSYnZqiUJBfkliSf4tNkqH7aY9xYHxIwTuV5oNSh_YseWryc93sMu9VizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIAE8h3xw0BAAA&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQs9oBKAB6BAhOEAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Air+fryer+baked+potato&stick=H4sIAAAAAAAAAOMwVGI0-MXIsIGF4RULPxevfrq-oWFhUUZxeXaGGUIkz7QqKzmlrBAhklaYZGFimo4hYmyCYk6JeVJxBrKIZYVRcaU5QiTZ1CKnxCDJ8hULDxeXfq6-gWmZmYV5Doqx5vHF2YZIjqk0Tq_KzjBdxCrmmFmkkFZUmVqkkJSYnZqiUJBfkliSf4tNkqH7aY9xYHxIwTuV5oNSh_YseWryc93sMu9VizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIAE8h3xw0BAAA"
+        },
+        {
+          "name": "Microwave baked potato",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgAinsW5hvYIdI5AalQzKRC-uqb91G4Yo7c4wttyjvsLa0vmdXzzXR9w&s=0",
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Microwave+baked+potato&stick=H4sIAAAAAAAAAOMwVGI0_MXIsIGF4RULPxevfrq-oWFhUUZxeXaGGUIkz7QqKzmlrBAhklaYZGFimo4hYmyCYk6JeVJxBrKIZYVRcaU5QiTZ1CKnxCDJ8hULDxeXfq6-gWmZmYV5Doqx5vHF2YZIjqk0Tq_KzjBdxCrmm5lclF-eWJaqkJSYnZqiUJBfkliSf4tNkqH7aY9xYHxIwTuV5oNSh_YseWryc93sMu9VizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIA4EW4qg0BAAA&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQs9oBKAF6BAhOEAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Microwave+baked+potato&stick=H4sIAAAAAAAAAOMwVGI0_MXIsIGF4RULPxevfrq-oWFhUUZxeXaGGUIkz7QqKzmlrBAhklaYZGFimo4hYmyCYk6JeVJxBrKIZYVRcaU5QiTZ1CKnxCDJ8hULDxeXfq6-gWmZmYV5Doqx5vHF2YZIjqk0Tq_KzjBdxCrmm5lclF-eWJaqkJSYnZqiUJBfkliSf4tNkqH7aY9xYHxIwTuV5oNSh_YseWryc93sMu9VizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIA4EW4qg0BAAA"
+        },
+        {
+          "name": "Twice baked potatoes",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREDR88m97vd-H6THFxCMRAMZFvLMTHq9WhfDVoYroOWI-pHjvShT1zKA&s=0",
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Twice+baked+potatoes&stick=H4sIAAAAAAAAAOMwVGI0-sXIsIGF4RULPxevfrq-oWFhUUZxeXaGGUIkz7QqKzmlrBAhklaYZGFimo4hYmyCYk6JeVJxBrKIZYVRcaU5QiTZ1CKnxCDJ8hULDxeXfq6-gWmZmYV5Doqx5vHF2YZIjqk0Tq_KzjBdxCoSUp6ZnKqQlJidmqJQkF-SWJKfWnyLTZKh-2mPcWB8SME7leaDUof2LHlq8nPd7DLvVYs4xAJS8wtyUhUSc4rzFYpTE4uSMxTS8otWcDACAOdEQM0LAQAA&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQs9oBKAJ6BAhOEAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Twice+baked+potatoes&stick=H4sIAAAAAAAAAOMwVGI0-sXIsIGF4RULPxevfrq-oWFhUUZxeXaGGUIkz7QqKzmlrBAhklaYZGFimo4hYmyCYk6JeVJxBrKIZYVRcaU5QiTZ1CKnxCDJ8hULDxeXfq6-gWmZmYV5Doqx5vHF2YZIjqk0Tq_KzjBdxCoSUp6ZnKqQlJidmqJQkF-SWJKfWnyLTZKh-2mPcWB8SME7leaDUof2LHlq8nPd7DLvVYs4xAJS8wtyUhUSc4rzFYpTE4uSMxTS8otWcDACAOdEQM0LAQAA"
+        },
+        {
+          "name": "Roasted potatoes",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4WBdQO-suFPLczPmwVWVZ_MnvNAIfphgpa_MXNZpzRMTrK0sIjcyNZQ&s=0",
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Roasted+potatoes&stick=H4sIAAAAAAAAAOMwVGI0_sXIsIGF4RULPxevfrq-oWFhUUZxeXaGGUIkz7QqKzmlrBAhklaYZGFimo4hYmyCYk6JeVJxBrKIZYVRcaU5QiTZ1CKnxCDJ8hULDxeXfq6-gWmZmYV5Doqx5vHF2YZIjqk0Tq_KzjBdxCoQlJ9YXJKaolCQX5JYkp9afItNkqH7aY9xYHxIwTuV5oNSh_YseWryc93sMu9VizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIAkyf46gcBAAA&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQs9oBKAN6BAhOEAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Roasted+potatoes&stick=H4sIAAAAAAAAAOMwVGI0_sXIsIGF4RULPxevfrq-oWFhUUZxeXaGGUIkz7QqKzmlrBAhklaYZGFimo4hYmyCYk6JeVJxBrKIZYVRcaU5QiTZ1CKnxCDJ8hULDxeXfq6-gWmZmYV5Doqx5vHF2YZIjqk0Tq_KzjBdxCoQlJ9YXJKaolCQX5JYkp9afItNkqH7aY9xYHxIwTuV5oNSh_YseWryc93sMu9VizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIAkyf46gcBAAA"
+        },
+        {
+          "name": "Baked potato bar",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUYuG5DlH-RgmAvOol2KKSsCslVHUOTN977PjpubwmVFuVItfNwCfjYw&s=0",
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Baked+potato+bar&stick=H4sIAAAAAAAAAOMwVGI0-cXIsIGF4RULPxevfrq-oWFhUUZxeXaGGUIkz7QqKzmlrBAhklaYZGFimo4hYmyCYk6JeVJxBrKIZYVRcaU5QiTZ1CKnxCDJ8hULDxeXfq6-gWmZmYV5Doqx5vHF2YZIjqk0Tq_KzjBdxCrglJidmqJQkF-SWJKvkJRYdItNkqH7aY9xYHxIwTuV5oNSh_YseWryc93sMu9VizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIA5sc8UAcBAAA&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQs9oBKAR6BAhOEAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Baked+potato+bar&stick=H4sIAAAAAAAAAOMwVGI0-cXIsIGF4RULPxevfrq-oWFhUUZxeXaGGUIkz7QqKzmlrBAhklaYZGFimo4hYmyCYk6JeVJxBrKIZYVRcaU5QiTZ1CKnxCDJ8hULDxeXfq6-gWmZmYV5Doqx5vHF2YZIjqk0Tq_KzjBdxCrglJidmqJQkF-SWJKvkJRYdItNkqH7aY9xYHxIwTuV5oNSh_YseWryc93sMu9VizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIA5sc8UAcBAAA"
+        },
+        {
+          "name": "Air fryer potatoes",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREcCIV0O193PV01DEKl-umPBcEK5YC_gj30A3wBw&s=0",
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Air+fryer+potatoes&stick=H4sIAAAAAAAAAOMwVGI0_cXIsIGF4RULPxevfrq-oWFhUUZxeXaGGUIkz7QqKzmlrBAhklaYZGFimo4hYmyCYk6JeVJxBrKIZYVRcaU5QiTZ1CKnxCDJ8hULDxeXfq6-gWmZmYV5Doqx5vHF2YZIjqk0Tq_KzjBdxCrkmFmkkFZUmVqkUJBfkliSn1p8i02Softpj3FgfEjBO5Xmg1KH9ix5avJz3ewy71WLOMQCUvMLclIVEnOK8xWKUxOLkjMU0vKLVnAwAgCoGPEPCQEAAA&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQs9oBKAV6BAhOEAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Air+fryer+potatoes&stick=H4sIAAAAAAAAAOMwVGI0_cXIsIGF4RULPxevfrq-oWFhUUZxeXaGGUIkz7QqKzmlrBAhklaYZGFimo4hYmyCYk6JeVJxBrKIZYVRcaU5QiTZ1CKnxCDJ8hULDxeXfq6-gWmZmYV5Doqx5vHF2YZIjqk0Tq_KzjBdxCrkmFmkkFZUmVqkUJBfkliSn1p8i02Softpj3FgfEjBO5Xmg1KH9ix5avJz3ewy71WLOMQCUvMLclIVEnOK8xWKUxOLkjMU0vKLVnAwAgCoGPEPCQEAAA"
+        }
+      ]
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is it better to bake a potato at 350 or 400?",
+      "snippet": "To get a nice, fluffy interior and the crispiest skin, bake your potatoes at 400 degrees.",
+      "title": "How to Bake a Potato Perfectly - The Pioneer Woman",
+      "date": "Jul 25, 2024",
+      "link": "https://www.thepioneerwoman.com/food-cooking/cooking-tips-tutorials/a32056706/how-to-bake-potato/#:~:text=To%20get%20a%20nice%2C%20fluffy,your%20potatoes%20at%20400%20degrees.",
+      "displayed_link": "https://www.thepioneerwoman.com \u203a cooking-tips-tutorials",
+      "source_logo": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/a49a3b07de028876ff24f9d7a325c52b76aa642ca82c62132b3c4852a397d2af.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU0xUk1Na1JPTkZscVYydHFSV0l6ZVdJMVZWUTJWemN6TTFSd1J6WldTalJqUzNWa05tOWlZbEJwZEhkdFZsbHhVVlkxYWxNdFMyaGZMVEpUY1VoclVrNUZNazlWRWhkTVJFRkxXbDlRVTBrMFQydHBURTFRZFRsMVdESkJXUm9pUVVaWWNrVmpiell6TUY5M2JGUjZSVUUwZWxOVFRsOXBhSE5hWW1aa1MzUnJkdyIsImZjdiI6IjMiLCJlaSI6IkxEQUtaX1BTSTRPa2lMTVB1OXVYMkFZIiwicWMiOiJDZ3hpWVd0bFpDQndiM1JoZEc4UUFIMDhPUm9fIiwicXVlc3Rpb24iOiJJcyBpdCBiZXR0ZXIgdG8gYmFrZSBhIHBvdGF0byBhdCAzNTAgb3IgNDAwPyIsImxrIjoiR2l0cGN5QnBkQ0JpWlhSMFpYSWdkRzhnWW1GclpTQmhJSEJ2ZEdGMGJ5QmhkQ0F6TlRBZ2IzSWdOREF3IiwiYnMiOiJjNTJQdXc2Q1FCQkZZN3VWSmRscUtqVkJsT0N6b3pQYTJKaG82NUpkWlNNd1pCa2tmcG1sWDJSdDYwTHN0RkRMU2M2WmV5X2JzXzZxQUUwUUtTSmxnQkFpY1ZJZ0lFY1M5aElFbzRrUGFHRHMtNkZ6Y3dPUHVfcDdoVWsyV0dJRkNXWkhrS2dhazJyLWs5ZGtYTDFneUwzNEY0bHRXWGNUWTVsSXVHQUpsUkY1dzhrWFZuX0k0SUE2Q1ozN0l1anhUdkVWemM1c3RvdHRobDFNc2JLVEMxdEVwYmt5Z2twamUyUVNTS2Z2eFVMbnNRN21mRnI5WmJkYlR3IiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU0xUk1Na1JPTkZscVYydHFSV0l6ZVdJMVZWUTJWemN6TTFSd1J6WldTalJqUzNWa05tOWlZbEJwZEhkdFZsbHhVVlkxYWxNdFMyaGZMVEpUY1VoclVrNUZNazlWRWhkTVJFRkxXbDlRVTBrMFQydHBURTFRZFRsMVdESkJXUm9pUVVaWWNrVmpiell6TUY5M2JGUjZSVUUwZWxOVFRsOXBhSE5hWW1aa1MzUnJkdyIsImZjdiI6IjMiLCJlaSI6IkxEQUtaX1BTSTRPa2lMTVB1OXVYMkFZIiwicWMiOiJDZ3hpWVd0bFpDQndiM1JoZEc4UUFIMDhPUm9fIiwicXVlc3Rpb24iOiJJcyBpdCBiZXR0ZXIgdG8gYmFrZSBhIHBvdGF0byBhdCAzNTAgb3IgNDAwPyIsImxrIjoiR2l0cGN5QnBkQ0JpWlhSMFpYSWdkRzhnWW1GclpTQmhJSEJ2ZEdGMGJ5QmhkQ0F6TlRBZ2IzSWdOREF3IiwiYnMiOiJjNTJQdXc2Q1FCQkZZN3VWSmRscUtqVkJsT0N6b3pQYTJKaG82NUpkWlNNd1pCa2tmcG1sWDJSdDYwTHN0RkRMU2M2WmV5X2JzXzZxQUUwUUtTSmxnQkFpY1ZJZ0lFY1M5aElFbzRrUGFHRHMtNkZ6Y3dPUHVfcDdoVWsyV0dJRkNXWkhrS2dhazJyLWs5ZGtYTDFneUwzNEY0bHRXWGNUWTVsSXVHQUpsUkY1dzhrWFZuX0k0SUE2Q1ozN0l1anhUdkVWemM1c3RvdHRobDFNc2JLVEMxdEVwYmt5Z2twamUyUVNTS2Z2eFVMbnNRN21mRnI5WmJkYlR3IiwiaWQiOiJmY18xIn0%3D"
+    },
+    {
+      "question": "How long does it take to bake a potato at 400?",
+      "snippet": "How long to bake a potato at 400 degrees? It takes about 1 hour to bake a potato in the oven at 400 degrees. Scrub the potatoes clean, poke holes with a fork, and rub with oil, salt, and pepper if desired.",
+      "title": "How to Bake Potatoes - Culinary Hill",
+      "date": "Mar 19, 2024",
+      "link": "https://www.culinaryhill.com/how-to-bake-potatoes/#:~:text=How%20long%20to%20bake%20a,salt%2C%20and%20pepper%20if%20desired.",
+      "displayed_link": "https://www.culinaryhill.com \u203a how-to-bake-potatoes",
+      "source_logo": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/a49a3b07de028876ff24f9d7a325c52bf7d8ccd05fe85ef296e871853588bb12.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU0xUk1Na1JPTkZscVYydHFSV0l6ZVdJMVZWUTJWemN6TTFSd1J6WldTalJqUzNWa05tOWlZbEJwZEhkdFZsbHhVVlkxYWxNdFMyaGZMVEpUY1VoclVrNUZNazlWRWhkTVJFRkxXbDlRVTBrMFQydHBURTFRZFRsMVdESkJXUm9pUVVaWWNrVmpiell6TUY5M2JGUjZSVUUwZWxOVFRsOXBhSE5hWW1aa1MzUnJkdyIsImZjdiI6IjMiLCJlaSI6IkxEQUtaX1BTSTRPa2lMTVB1OXVYMkFZIiwicWMiOiJDZ3hpWVd0bFpDQndiM1JoZEc4UUFIMDhPUm9fIiwicXVlc3Rpb24iOiJIb3cgbG9uZyBkb2VzIGl0IHRha2UgdG8gYmFrZSBhIHBvdGF0byBhdCA0MDA/IiwibGsiOiJjNVBTemNndlY4akp6MHRYU01sUExWYklMRkVvU2N4T1ZTakpWMGdDMFlrS0Jma2xpVUJlWW9tQ2lZRUJBQSIsImJzIjoiYzUyUHV3NkNRQkJGWTd1VkpkbHFLalZCbE9Dem96UGEySmhvNjVKZFpTTXdaQmtrZnBtbFgyUnQ2MExzdEZETFNjNlpleV9ic182cUFFMFFLU0psZ0JBaWNWSWdJRWNTOWhJRW80a1BhR0RzLTZGemN3T1B1X3A3aFVrMldHSUZDV1pIa0tnYWsyci1rOWRrWEwxZ3lMMzRGNGx0V1hjVFk1bEl1R0FKbFJGNXc4a1hWbl9JNElBNkNaMzdJdWp4VHZFVnpjNXN0b3R0aGwxTXNiS1RDMXRFcGJreWdrcGplMlFTU0tmdnhVTG5zUTdtZkZyOVpiZGJUdyIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU0xUk1Na1JPTkZscVYydHFSV0l6ZVdJMVZWUTJWemN6TTFSd1J6WldTalJqUzNWa05tOWlZbEJwZEhkdFZsbHhVVlkxYWxNdFMyaGZMVEpUY1VoclVrNUZNazlWRWhkTVJFRkxXbDlRVTBrMFQydHBURTFRZFRsMVdESkJXUm9pUVVaWWNrVmpiell6TUY5M2JGUjZSVUUwZWxOVFRsOXBhSE5hWW1aa1MzUnJkdyIsImZjdiI6IjMiLCJlaSI6IkxEQUtaX1BTSTRPa2lMTVB1OXVYMkFZIiwicWMiOiJDZ3hpWVd0bFpDQndiM1JoZEc4UUFIMDhPUm9fIiwicXVlc3Rpb24iOiJIb3cgbG9uZyBkb2VzIGl0IHRha2UgdG8gYmFrZSBhIHBvdGF0byBhdCA0MDA%2FIiwibGsiOiJjNVBTemNndlY4akp6MHRYU01sUExWYklMRkVvU2N4T1ZTakpWMGdDMFlrS0Jma2xpVUJlWW9tQ2lZRUJBQSIsImJzIjoiYzUyUHV3NkNRQkJGWTd1VkpkbHFLalZCbE9Dem96UGEySmhvNjVKZFpTTXdaQmtrZnBtbFgyUnQ2MExzdEZETFNjNlpleV9ic182cUFFMFFLU0psZ0JBaWNWSWdJRWNTOWhJRW80a1BhR0RzLTZGemN3T1B1X3A3aFVrMldHSUZDV1pIa0tnYWsyci1rOWRrWEwxZ3lMMzRGNGx0V1hjVFk1bEl1R0FKbFJGNXc4a1hWbl9JNElBNkNaMzdJdWp4VHZFVnpjNXN0b3R0aGwxTXNiS1RDMXRFcGJreWdrcGplMlFTU0tmdnhVTG5zUTdtZkZyOVpiZGJUdyIsImlkIjoiZmNfMSJ9"
+    },
+    {
+      "question": "Should you wrap baked potatoes in foil?",
+      "snippet": "\"I see a lot of people using foil to wrap their potatoes in but this is a big no-no and causes soggy skins!\" he says. Foil holds in moisture and steams the potatoes, resulting in a \"boiled\" taste and texture. Plus, without the use of foil, the skin will get extra crispy and flavorful.",
+      "title": "How to make restaurant-worthy baked potatoes at home - Today Show",
+      "date": "Jan 5, 2023",
+      "link": "https://www.today.com/food/how-make-best-baked-potatoes-today-t207073#:~:text=%22I%20see%20a%20lot%20of,get%20extra%20crispy%20and%20flavorful.",
+      "displayed_link": "https://www.today.com \u203a food \u203a how-make-best-baked-p...",
+      "source_logo": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/a49a3b07de028876ff24f9d7a325c52b236683a420b97e315dc97914375a1535.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU0xUk1Na1JPTkZscVYydHFSV0l6ZVdJMVZWUTJWemN6TTFSd1J6WldTalJqUzNWa05tOWlZbEJwZEhkdFZsbHhVVlkxYWxNdFMyaGZMVEpUY1VoclVrNUZNazlWRWhkTVJFRkxXbDlRVTBrMFQydHBURTFRZFRsMVdESkJXUm9pUVVaWWNrVmpiell6TUY5M2JGUjZSVUUwZWxOVFRsOXBhSE5hWW1aa1MzUnJkdyIsImZjdiI6IjMiLCJlaSI6IkxEQUtaX1BTSTRPa2lMTVB1OXVYMkFZIiwicWMiOiJDZ3hpWVd0bFpDQndiM1JoZEc4UUFIMDhPUm9fIiwicXVlc3Rpb24iOiJTaG91bGQgeW91IHdyYXAgYmFrZWQgcG90YXRvZXMgaW4gZm9pbD8iLCJsayI6IkdpWnphRzkxYkdRZ2VXOTFJSGR5WVhBZ1ltRnJaV1FnY0c5MFlYUnZaWE1nYVc0Z1ptOXBiQSIsImJzIjoiYzUyUHV3NkNRQkJGWTd1VkpkbHFLalZCbE9Dem96UGEySmhvNjVKZFpTTXdaQmtrZnBtbFgyUnQ2MExzdEZETFNjNlpleV9ic182cUFFMFFLU0psZ0JBaWNWSWdJRWNTOWhJRW80a1BhR0RzLTZGemN3T1B1X3A3aFVrMldHSUZDV1pIa0tnYWsyci1rOWRrWEwxZ3lMMzRGNGx0V1hjVFk1bEl1R0FKbFJGNXc4a1hWbl9JNElBNkNaMzdJdWp4VHZFVnpjNXN0b3R0aGwxTXNiS1RDMXRFcGJreWdrcGplMlFTU0tmdnhVTG5zUTdtZkZyOVpiZGJUdyIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU0xUk1Na1JPTkZscVYydHFSV0l6ZVdJMVZWUTJWemN6TTFSd1J6WldTalJqUzNWa05tOWlZbEJwZEhkdFZsbHhVVlkxYWxNdFMyaGZMVEpUY1VoclVrNUZNazlWRWhkTVJFRkxXbDlRVTBrMFQydHBURTFRZFRsMVdESkJXUm9pUVVaWWNrVmpiell6TUY5M2JGUjZSVUUwZWxOVFRsOXBhSE5hWW1aa1MzUnJkdyIsImZjdiI6IjMiLCJlaSI6IkxEQUtaX1BTSTRPa2lMTVB1OXVYMkFZIiwicWMiOiJDZ3hpWVd0bFpDQndiM1JoZEc4UUFIMDhPUm9fIiwicXVlc3Rpb24iOiJTaG91bGQgeW91IHdyYXAgYmFrZWQgcG90YXRvZXMgaW4gZm9pbD8iLCJsayI6IkdpWnphRzkxYkdRZ2VXOTFJSGR5WVhBZ1ltRnJaV1FnY0c5MFlYUnZaWE1nYVc0Z1ptOXBiQSIsImJzIjoiYzUyUHV3NkNRQkJGWTd1VkpkbHFLalZCbE9Dem96UGEySmhvNjVKZFpTTXdaQmtrZnBtbFgyUnQ2MExzdEZETFNjNlpleV9ic182cUFFMFFLU0psZ0JBaWNWSWdJRWNTOWhJRW80a1BhR0RzLTZGemN3T1B1X3A3aFVrMldHSUZDV1pIa0tnYWsyci1rOWRrWEwxZ3lMMzRGNGx0V1hjVFk1bEl1R0FKbFJGNXc4a1hWbl9JNElBNkNaMzdJdWp4VHZFVnpjNXN0b3R0aGwxTXNiS1RDMXRFcGJreWdrcGplMlFTU0tmdnhVTG5zUTdtZkZyOVpiZGJUdyIsImlkIjoiZmNfMSJ9"
+    },
+    {
+      "question": "What is the best temperature and time to bake a potato?",
+      "snippet": "Bake the potatoes for about 50 to 60 minutes at 425\u00b0F (220\u00b0C) until completely soft when pierced. That's it! This method will give you the best baked potatoes that are crispy on the outside and fluffy in the middle.",
+      "title": "Perfect Baked Potato Recipe (the Only Method You Need!) | The Kitchn",
+      "link": "https://www.thekitchn.com/how-to-bake-a-potato-in-the-oven-165615#:~:text=Bake%20the%20potatoes%20for%20about,and%20fluffy%20in%20the%20middle.",
+      "displayed_link": "https://www.thekitchn.com \u203a how-to-bake-a-potato-in-th...",
+      "source_logo": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/a49a3b07de028876ff24f9d7a325c52b9bc02061040b270c47d361469c2c15d5.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU0xUk1Na1JPTkZscVYydHFSV0l6ZVdJMVZWUTJWemN6TTFSd1J6WldTalJqUzNWa05tOWlZbEJwZEhkdFZsbHhVVlkxYWxNdFMyaGZMVEpUY1VoclVrNUZNazlWRWhkTVJFRkxXbDlRVTBrMFQydHBURTFRZFRsMVdESkJXUm9pUVVaWWNrVmpiell6TUY5M2JGUjZSVUUwZWxOVFRsOXBhSE5hWW1aa1MzUnJkdyIsImZjdiI6IjMiLCJlaSI6IkxEQUtaX1BTSTRPa2lMTVB1OXVYMkFZIiwicWMiOiJDZ3hpWVd0bFpDQndiM1JoZEc4UUFIMDhPUm9fIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IHRlbXBlcmF0dXJlIGFuZCB0aW1lIHRvIGJha2UgYSBwb3RhdG8/IiwibGsiOiJjdzNJMFFuQUlCUUR3RDM4eWhUdUUybEFLZmFKUmx6ZjN1ZWxmQ3FOdHVBcUZDM0Q2a09UM2xQZzk4Q3RDdzRVdm45Z2hPbTQiLCJicyI6ImM1MlB1dzZDUUJCRlk3dVZKZGxxS2pWQmxPQ3pvelBhMkpobzY1SmRaU013WkJra2ZwbWxYMlJ0NjBMc3RGRExTYzZaZXlfYnNfNnFBRTBRS1NKbGdCQWljVklnSUVjUzloSUVvNGtQYUdEcy02Rnpjd09QdV9wN2hVazJXR0lGQ1daSGtLZ2FrMnItazlka1hMMWd5TDM0RjRsdFdYY1RZNWxJdUdBSmxSRjV3OGtYVm5fSTRJQTZDWjM3SXVqeFR2RVZ6YzVzdG90dGhsMU1zYktUQzF0RXBia3lna3BqZTJRU1NLZnZ4VUxuc1E3bWZGcjlaYmRiVHciLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU0xUk1Na1JPTkZscVYydHFSV0l6ZVdJMVZWUTJWemN6TTFSd1J6WldTalJqUzNWa05tOWlZbEJwZEhkdFZsbHhVVlkxYWxNdFMyaGZMVEpUY1VoclVrNUZNazlWRWhkTVJFRkxXbDlRVTBrMFQydHBURTFRZFRsMVdESkJXUm9pUVVaWWNrVmpiell6TUY5M2JGUjZSVUUwZWxOVFRsOXBhSE5hWW1aa1MzUnJkdyIsImZjdiI6IjMiLCJlaSI6IkxEQUtaX1BTSTRPa2lMTVB1OXVYMkFZIiwicWMiOiJDZ3hpWVd0bFpDQndiM1JoZEc4UUFIMDhPUm9fIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IHRlbXBlcmF0dXJlIGFuZCB0aW1lIHRvIGJha2UgYSBwb3RhdG8%2FIiwibGsiOiJjdzNJMFFuQUlCUUR3RDM4eWhUdUUybEFLZmFKUmx6ZjN1ZWxmQ3FOdHVBcUZDM0Q2a09UM2xQZzk4Q3RDdzRVdm45Z2hPbTQiLCJicyI6ImM1MlB1dzZDUUJCRlk3dVZKZGxxS2pWQmxPQ3pvelBhMkpobzY1SmRaU013WkJra2ZwbWxYMlJ0NjBMc3RGRExTYzZaZXlfYnNfNnFBRTBRS1NKbGdCQWljVklnSUVjUzloSUVvNGtQYUdEcy02Rnpjd09QdV9wN2hVazJXR0lGQ1daSGtLZ2FrMnItazlka1hMMWd5TDM0RjRsdFdYY1RZNWxJdUdBSmxSRjV3OGtYVm5fSTRJQTZDWjM3SXVqeFR2RVZ6YzVzdG90dGhsMU1zYktUQzF0RXBia3lna3BqZTJRU1NLZnZ4VUxuc1E3bWZGcjlaYmRiVHciLCJpZCI6ImZjXzEifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Perfect Baked Potato Recipe - Love and Lemons",
+      "link": "https://www.loveandlemons.com/baked-potato/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.loveandlemons.com/baked-potato/&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQFnoECAkQAQ",
+      "displayed_link": "https://www.loveandlemons.com \u203a Recipes",
+      "favicon": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/539f5e1588f0b2b3a057256386b2fd63e1559ff30242988605d5b8b68e76f10a.png",
+      "snippet": "Bake a potato perfectly every time! With the olive oil & sea salt coating, it'll come out of the oven with crispy skin and fluffy insides that are delicious",
+      "snippet_highlighted_words": [
+        "Bake",
+        "potato",
+        "oven"
+      ],
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "Previous Comments",
+            "link": "https://www.loveandlemons.com/baked-potato/comment-page-4/",
+            "snippet": "Instructions \u00b7 Preheat the oven to 425\u00b0F and line a baking sheet ..."
+          },
+          {
+            "title": "Air Fryer Baked Potato",
+            "link": "https://www.loveandlemons.com/air-fryer-baked-potato/",
+            "snippet": "Instructions \u00b7 Preheat the air fryer to 400\u00b0F. \u00b7 Use a fork to poke a ..."
+          },
+          {
+            "title": "How to Make Cashew Cream",
+            "link": "https://www.loveandlemons.com/cashew-cream/",
+            "snippet": "For example, I blend cashew cream with baked sweet potato ..."
+          },
+          {
+            "title": "Vegan Bacon",
+            "link": "https://www.loveandlemons.com/vegan-bacon/",
+            "snippet": "I also like to pile it onto a veggie club sandwich or crumble it up ..."
+          },
+          {
+            "title": "Side dishes",
+            "link": "https://www.loveandlemons.com/recipes/side-dish-recipes/",
+            "snippet": "How to Cook Spaghetti Squash. Basil Pesto Recipe. Perfect ..."
+          }
+        ]
+      },
+      "source": "Love and Lemons"
+    },
+    {
+      "position": 2,
+      "title": "Simple Baked Potato Recipe",
+      "link": "https://www.allrecipes.com/recipe/270750/simple-baked-potato/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.allrecipes.com/recipe/270750/simple-baked-potato/&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQFnoECFEQAQ",
+      "displayed_link": "https://www.allrecipes.com \u203a ... \u203a Baked Potato Recipes",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3zCV5_uhreJDajV-CojszCiRCSKTdctAnTUXKyx3QjScy5Ch4zwZx&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/539f5e1588f0b2b3a057256386b2fd63979807d1be15c06f678cf5ece2ea60ee.png",
+      "snippet": "Ingredients \u00b7 4 tablespoons butter \u00b7 2 teaspoons olive oil \u00b7 1 \u00bd teaspoons garlic powder \u00b7 salt and ground black pepper to taste \u00b7 6 medium potatoes, scrubbed ...",
+      "snippet_highlighted_words": [
+        "potatoes"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.3,
+            "hr_min": 1
+          },
+          "extensions": [
+            "4.3(9)",
+            "1 hr 10 min"
+          ]
+        }
+      },
+      "source": "Allrecipes"
+    },
+    {
+      "position": 3,
+      "title": "The BEST Baked Potato Recipe",
+      "link": "https://www.gimmesomeoven.com/baked-potato/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gimmesomeoven.com/baked-potato/&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQFnoECFQQAQ",
+      "displayed_link": "https://www.gimmesomeoven.com \u203a baked-potato",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl08jQYWe45SxjdoEflIvDtJ-afdQI5TKO1_FxwQTsh5vH498TTaUa&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/539f5e1588f0b2b3a057256386b2fd63645c8d7125b9ebff9b8c694016af586d.png",
+      "snippet": "The secret lies 100% in this method below. All you need are 4 easy ingredients, a few minutes of active prep time and a piping hot oven.",
+      "snippet_highlighted_words": [
+        "oven"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "506 Comments",
+            "link": "https://www.gimmesomeoven.com/baked-potato/comment-page-7/"
+          },
+          {
+            "title": "Baked Potato",
+            "link": "https://www.gimmesomeoven.com/baked-potato/comment-page-4/"
+          },
+          {
+            "title": "Baked Sweet Potatoes",
+            "link": "https://www.gimmesomeoven.com/baked-sweet-potatoes/"
+          },
+          {
+            "title": "Joe",
+            "link": "https://www.gimmesomeoven.com/baked-potato/comment-page-8/"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.8,
+            "min": 52
+          },
+          "extensions": [
+            "4.8(274)",
+            "52 min"
+          ]
+        }
+      },
+      "source": "Gimme Some Oven"
+    },
+    {
+      "position": 4,
+      "title": "The Baked Potato",
+      "link": "https://www.thebakedpotato.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thebakedpotato.com/&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQFnoECE8QAQ",
+      "displayed_link": "https://www.thebakedpotato.com",
+      "favicon": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/539f5e1588f0b2b3a057256386b2fd63ce1531579bbf49b963f1244f46a0c45b.png",
+      "snippet": "The world famous Baked Potato Jazz club offers stellar music nightly and great food. We invite you to buy tickets to one of our upcoming events.",
+      "snippet_highlighted_words": [
+        "Baked Potato"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Calendar",
+            "link": "https://www.thebakedpotato.com/events-calendar/"
+          },
+          {
+            "title": "Baked Potato T-Shirt",
+            "link": "https://www.thebakedpotato.com/product-tag/baked-potato-t-shirt/"
+          },
+          {
+            "title": "Menu",
+            "link": "https://www.thebakedpotato.com/menu/"
+          },
+          {
+            "title": "Artists",
+            "link": "https://www.thebakedpotato.com/artists/"
+          }
+        ]
+      },
+      "source": "The Baked Potato"
+    },
+    {
+      "position": 5,
+      "title": "My Secret To Making Baked Potatoes in Half the Time",
+      "link": "https://www.simplyrecipes.com/baked-potatoes-in-half-the-time-8640032",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.simplyrecipes.com/baked-potatoes-in-half-the-time-8640032&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQFnoECFAQAQ",
+      "displayed_link": "https://www.simplyrecipes.com \u203a Table Talk \u203a Voices",
+      "favicon": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/539f5e1588f0b2b3a057256386b2fd639a5d304771e33bf08da8f81b9202e6d8.png",
+      "date": "May 9, 2024",
+      "snippet": "Baking a potato can take an hour, while microwaving takes about 10 minutes. An equally good reason is this method produces a superior baked potato.",
+      "snippet_highlighted_words": [
+        "Baking",
+        "potato",
+        "baked",
+        "potato"
+      ],
+      "source": "Simply Recipes"
+    },
+    {
+      "position": 6,
+      "title": "Air Fryer Baked Potato",
+      "link": "https://www.skinnytaste.com/air-fryer-baked-potato/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.skinnytaste.com/air-fryer-baked-potato/&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQFnoECFUQAQ",
+      "displayed_link": "https://www.skinnytaste.com \u203a Recipes \u203a Air Fryer Recipes",
+      "favicon": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/539f5e1588f0b2b3a057256386b2fd632adf34693cd5e719719ded7f9e4101fd.png",
+      "date": "Jun 27, 2022",
+      "snippet": "Depending on the size of the potato, it will take 35 to 40 minutes at 400F for a 7 ounce russet or Idaho potato. Turn the potatoes over halfway ...",
+      "snippet_highlighted_words": [
+        "potato",
+        "potato",
+        "potatoes"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Perfect Baked Potato",
+            "link": "https://www.skinnytaste.com/perfect-baked-potato/"
+          },
+          {
+            "title": "Air Fryer Baked Sweet Potato",
+            "link": "https://www.skinnytaste.com/air-fryer-baked-sweet-potato/"
+          },
+          {
+            "title": "Loaded Turkey Chili Baked...",
+            "link": "https://www.skinnytaste.com/loaded-turkey-chili-baked-potato/"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "min": 43
+          },
+          "extensions": [
+            "5.0(57)",
+            "43 min"
+          ]
+        }
+      },
+      "source": "Skinnytaste"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "items": [
+        {
+          "name": "Air fryer baked potato",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzwG-wrntJt5YzhRKKgryCkLwHEA4IYGGaayeCiQ&s=0",
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Air+fryer+baked+potato&stick=H4sIAAAAAAAAAOMwVGI0-MXIsIGF4RULPxevfrq-oWFhUUZxeXaGGUIkz7QqKzmlrBAhklaYZGFimo4hYmyCYk6JeVJxBrKIZYVRcaU5QiTZ1CKnxCDJ8hULDxeXfq6-gWmZmYV5Doqx5vHF2YZIjqk0Tq_KzjBdxCrmmFmkkFZUmVqkkJSYnZqiUJBfkliSf4tNkqH7aY9xYHxIwTuV5oNSh_YseWryc93sMu9VizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIAE8h3xw0BAAA&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQs9oBKAB6BAhOEAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Air+fryer+baked+potato&stick=H4sIAAAAAAAAAOMwVGI0-MXIsIGF4RULPxevfrq-oWFhUUZxeXaGGUIkz7QqKzmlrBAhklaYZGFimo4hYmyCYk6JeVJxBrKIZYVRcaU5QiTZ1CKnxCDJ8hULDxeXfq6-gWmZmYV5Doqx5vHF2YZIjqk0Tq_KzjBdxCrmmFmkkFZUmVqkkJSYnZqiUJBfkliSf4tNkqH7aY9xYHxIwTuV5oNSh_YseWryc93sMu9VizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIAE8h3xw0BAAA"
+        },
+        {
+          "name": "Microwave baked potato",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgAinsW5hvYIdI5AalQzKRC-uqb91G4Yo7c4wttyjvsLa0vmdXzzXR9w&s=0",
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Microwave+baked+potato&stick=H4sIAAAAAAAAAOMwVGI0_MXIsIGF4RULPxevfrq-oWFhUUZxeXaGGUIkz7QqKzmlrBAhklaYZGFimo4hYmyCYk6JeVJxBrKIZYVRcaU5QiTZ1CKnxCDJ8hULDxeXfq6-gWmZmYV5Doqx5vHF2YZIjqk0Tq_KzjBdxCrmm5lclF-eWJaqkJSYnZqiUJBfkliSf4tNkqH7aY9xYHxIwTuV5oNSh_YseWryc93sMu9VizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIA4EW4qg0BAAA&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQs9oBKAF6BAhOEAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Microwave+baked+potato&stick=H4sIAAAAAAAAAOMwVGI0_MXIsIGF4RULPxevfrq-oWFhUUZxeXaGGUIkz7QqKzmlrBAhklaYZGFimo4hYmyCYk6JeVJxBrKIZYVRcaU5QiTZ1CKnxCDJ8hULDxeXfq6-gWmZmYV5Doqx5vHF2YZIjqk0Tq_KzjBdxCrmm5lclF-eWJaqkJSYnZqiUJBfkliSf4tNkqH7aY9xYHxIwTuV5oNSh_YseWryc93sMu9VizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIA4EW4qg0BAAA"
+        },
+        {
+          "name": "Twice baked potatoes",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREDR88m97vd-H6THFxCMRAMZFvLMTHq9WhfDVoYroOWI-pHjvShT1zKA&s=0",
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Twice+baked+potatoes&stick=H4sIAAAAAAAAAOMwVGI0-sXIsIGF4RULPxevfrq-oWFhUUZxeXaGGUIkz7QqKzmlrBAhklaYZGFimo4hYmyCYk6JeVJxBrKIZYVRcaU5QiTZ1CKnxCDJ8hULDxeXfq6-gWmZmYV5Doqx5vHF2YZIjqk0Tq_KzjBdxCoSUp6ZnKqQlJidmqJQkF-SWJKfWnyLTZKh-2mPcWB8SME7leaDUof2LHlq8nPd7DLvVYs4xAJS8wtyUhUSc4rzFYpTE4uSMxTS8otWcDACAOdEQM0LAQAA&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQs9oBKAJ6BAhOEAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Twice+baked+potatoes&stick=H4sIAAAAAAAAAOMwVGI0-sXIsIGF4RULPxevfrq-oWFhUUZxeXaGGUIkz7QqKzmlrBAhklaYZGFimo4hYmyCYk6JeVJxBrKIZYVRcaU5QiTZ1CKnxCDJ8hULDxeXfq6-gWmZmYV5Doqx5vHF2YZIjqk0Tq_KzjBdxCoSUp6ZnKqQlJidmqJQkF-SWJKfWnyLTZKh-2mPcWB8SME7leaDUof2LHlq8nPd7DLvVYs4xAJS8wtyUhUSc4rzFYpTE4uSMxTS8otWcDACAOdEQM0LAQAA"
+        },
+        {
+          "name": "Roasted potatoes",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4WBdQO-suFPLczPmwVWVZ_MnvNAIfphgpa_MXNZpzRMTrK0sIjcyNZQ&s=0",
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Roasted+potatoes&stick=H4sIAAAAAAAAAOMwVGI0_sXIsIGF4RULPxevfrq-oWFhUUZxeXaGGUIkz7QqKzmlrBAhklaYZGFimo4hYmyCYk6JeVJxBrKIZYVRcaU5QiTZ1CKnxCDJ8hULDxeXfq6-gWmZmYV5Doqx5vHF2YZIjqk0Tq_KzjBdxCoQlJ9YXJKaolCQX5JYkp9afItNkqH7aY9xYHxIwTuV5oNSh_YseWryc93sMu9VizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIAkyf46gcBAAA&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQs9oBKAN6BAhOEAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Roasted+potatoes&stick=H4sIAAAAAAAAAOMwVGI0_sXIsIGF4RULPxevfrq-oWFhUUZxeXaGGUIkz7QqKzmlrBAhklaYZGFimo4hYmyCYk6JeVJxBrKIZYVRcaU5QiTZ1CKnxCDJ8hULDxeXfq6-gWmZmYV5Doqx5vHF2YZIjqk0Tq_KzjBdxCoQlJ9YXJKaolCQX5JYkp9afItNkqH7aY9xYHxIwTuV5oNSh_YseWryc93sMu9VizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIAkyf46gcBAAA"
+        },
+        {
+          "name": "Baked potato bar",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUYuG5DlH-RgmAvOol2KKSsCslVHUOTN977PjpubwmVFuVItfNwCfjYw&s=0",
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Baked+potato+bar&stick=H4sIAAAAAAAAAOMwVGI0-cXIsIGF4RULPxevfrq-oWFhUUZxeXaGGUIkz7QqKzmlrBAhklaYZGFimo4hYmyCYk6JeVJxBrKIZYVRcaU5QiTZ1CKnxCDJ8hULDxeXfq6-gWmZmYV5Doqx5vHF2YZIjqk0Tq_KzjBdxCrglJidmqJQkF-SWJKvkJRYdItNkqH7aY9xYHxIwTuV5oNSh_YseWryc93sMu9VizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIA5sc8UAcBAAA&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQs9oBKAR6BAhOEAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Baked+potato+bar&stick=H4sIAAAAAAAAAOMwVGI0-cXIsIGF4RULPxevfrq-oWFhUUZxeXaGGUIkz7QqKzmlrBAhklaYZGFimo4hYmyCYk6JeVJxBrKIZYVRcaU5QiTZ1CKnxCDJ8hULDxeXfq6-gWmZmYV5Doqx5vHF2YZIjqk0Tq_KzjBdxCrglJidmqJQkF-SWJKvkJRYdItNkqH7aY9xYHxIwTuV5oNSh_YseWryc93sMu9VizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIA5sc8UAcBAAA"
+        },
+        {
+          "name": "Air fryer potatoes",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREcCIV0O193PV01DEKl-umPBcEK5YC_gj30A3wBw&s=0",
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Air+fryer+potatoes&stick=H4sIAAAAAAAAAOMwVGI0_cXIsIGF4RULPxevfrq-oWFhUUZxeXaGGUIkz7QqKzmlrBAhklaYZGFimo4hYmyCYk6JeVJxBrKIZYVRcaU5QiTZ1CKnxCDJ8hULDxeXfq6-gWmZmYV5Doqx5vHF2YZIjqk0Tq_KzjBdxCrkmFmkkFZUmVqkUJBfkliSn1p8i02Softpj3FgfEjBO5Xmg1KH9ix5avJz3ewy71WLOMQCUvMLclIVEnOK8xWKUxOLkjMU0vKLVnAwAgCoGPEPCQEAAA&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQs9oBKAV6BAhOEAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Air+fryer+potatoes&stick=H4sIAAAAAAAAAOMwVGI0_cXIsIGF4RULPxevfrq-oWFhUUZxeXaGGUIkz7QqKzmlrBAhklaYZGFimo4hYmyCYk6JeVJxBrKIZYVRcaU5QiTZ1CKnxCDJ8hULDxeXfq6-gWmZmYV5Doqx5vHF2YZIjqk0Tq_KzjBdxCrkmFmkkFZUmVqkUJBfkliSn1p8i02Softpj3FgfEjBO5Xmg1KH9ix5avJz3ewy71WLOMQCUvMLclIVEnOK8xWKUxOLkjMU0vKLVnAwAgCoGPEPCQEAAA"
+        }
+      ]
+    },
+    {
+      "block_position": 1,
+      "query": "Baked potato recipe",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Baked+potato+recipe&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQ1QJ6BAhcEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Baked+potato+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Baked potato in air fryer",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Baked+potato+in+air+fryer&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQ1QJ6BAhbEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Baked+potato+in+air+fryer"
+    },
+    {
+      "block_position": 1,
+      "query": "Baked potato in microwave",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Baked+potato+in+microwave&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQ1QJ6BAhTEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Baked+potato+in+microwave"
+    },
+    {
+      "block_position": 1,
+      "query": "Baked potato in oven wrapped in foil",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Baked+potato+in+oven+wrapped+in+foil&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQ1QJ6BAhaEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Baked+potato+in+oven+wrapped+in+foil"
+    },
+    {
+      "block_position": 1,
+      "query": "How long to cook baked potatoes in oven",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=How+long+to+cook+baked+potatoes+in+oven&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQ1QJ6BAhXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=How+long+to+cook+baked+potatoes+in+oven"
+    },
+    {
+      "block_position": 1,
+      "query": "How to make a baked potato in the oven fast",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=How+to+make+a+baked+potato+in+the+oven+fast&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQ1QJ6BAhWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=How+to+make+a+baked+potato+in+the+oven+fast"
+    },
+    {
+      "block_position": 1,
+      "query": "Baked potato toppings",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Baked+potato+toppings&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQ1QJ6BAhSEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Baked+potato+toppings"
+    },
+    {
+      "block_position": 1,
+      "query": "Baked potato temperature",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Baked+potato+temperature&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQ1QJ6BAhZEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Baked+potato+temperature"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Cook time",
+        "subtitle": "How Long To Bake A Potato?",
+        "thumbnail": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/3f7be3d1301805ee6e71778588924f1f49ba3a6372068d79860eeb044d679ab23c7c795b174c2c30.jpeg",
+        "web_links": [
+          {
+            "title": "Baked Potatoes - Once Upon a Chef",
+            "snippet": "How To Bake A Potato. Preheat the oven to 400\u00b0F and set an oven rack in the middle position. Line a baking sheet with...",
+            "link": "https://www.onceuponachef.com/recipes/baked-potatoes.html",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_Lo538InTjIBlTKzJAUev55COCv3HuIewPaI6jLZXgVjcpnCibTD9UlMXt-c",
+            "source": "Once Upon a Chef",
+            "source_thumbnail": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/3f7be3d1301805ee6e71778588924f1f49ba3a6372068d79e0dcf45f7643d924d368946769cde916f896419e76d2e4fe31ab8898b73df6fb.jpeg"
+          },
+          {
+            "title": "How to Bake a Potato | Cooking School - Food Network",
+            "snippet": "How Long to Bake a Potato? ... In a 400 degrees F oven, potatoes take 45 minutes to 1 hour - they're done when...",
+            "link": "https://www.foodnetwork.com/how-to/packages/food-network-essentials/how-to-bake-a-potato",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqipYnzGuJOluG6tP_EwRnzlo0ExGFWnqarXXS8-RO5G6ofk3FrarQTuegBto",
+            "source": "Food Network",
+            "source_thumbnail": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/3f7be3d1301805ee6e71778588924f1f49ba3a6372068d79e0dcf45f7643d9249771dbfdec1e2d8f4dcee112304bb4a4e2c714ddd11e46e0.png"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=how+long+to+bake+a+potato&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQrooIegQIHRAF",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+long+to+bake+a+potato"
+      },
+      {
+        "text": "How to bake",
+        "subtitle": "How To Bake A Perfect Baked Potato",
+        "thumbnail": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/3f7be3d1301805ee6e71778588924f1f66d7c9fc22132b24af6a5ac468c3a33573cab152e12ae946.png",
+        "web_links": [
+          {
+            "title": "The BEST Baked Potato Recipe | Gimme Some Oven",
+            "snippet": "How To Bake A Potato: \u00b7 Heat oven to 450\u00b0F. Yep, you read the temperature right. \u00b7 Prepare your baking...",
+            "link": "https://www.gimmesomeoven.com/baked-potato/",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRysvE_j8rvqg1T6xUaXsVXUlj2V8mrqY3P2IF6h8fdcbw2aj8qplv2ik3CBbs",
+            "source": "Gimme Some Oven",
+            "source_thumbnail": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/3f7be3d1301805ee6e71778588924f1f66d7c9fc22132b245ae2073a7c39a16e261cb33ef17f8299f9ea79951c2a8afc53049d8820c59e0e.png"
+          },
+          {
+            "title": "Perfect Baked Potato Recipe - Skinnytaste",
+            "snippet": "My go-to recipe for the perfect baked potato with crispy skin and a fluffy interior. This basic recipe for how to bake a...",
+            "link": "https://www.skinnytaste.com/perfect-baked-potato/",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRI4qdkJ0_o8K330dbdg81Zz1f__dwj1PQXBIKpTyksOjJH9omrpE7z0rgvEAA",
+            "source": "Skinnytaste",
+            "source_thumbnail": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/3f7be3d1301805ee6e71778588924f1f66d7c9fc22132b245ae2073a7c39a16e45253b235c3083adc64ca18287a165849eb5c56b8c75fbb0.png"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=how+to+bake+a+perfect+baked+potato&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQrooIegQIHRAK",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+to+bake+a+perfect+baked+potato"
+      },
+      {
+        "text": "Baking time",
+        "subtitle": "How Long To Bake A Potato At 350\u00b0?",
+        "thumbnail": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/3f7be3d1301805ee6e71778588924f1fb7ef7d490406e94c9b4ad1f81ca8eb4a049623ed394c8eed.png",
+        "web_links": [
+          {
+            "title": "Perfect Baked Potato Recipe | Bon App\u00e9tit",
+            "snippet": "Place potatoes directly on an oven rack and roast until very soft when squeezed and skin is crisp, 60\u201375 minutes. Step...",
+            "link": "https://www.bonappetit.com/recipe/perfect-baked-potato",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQt7B9Ko_w3a7Euw0FvPiNYS61ni3UKz5XV95YmcKa0gv-pNj2b8M-6yeqIv3A",
+            "source": "www.bonappetit.com",
+            "source_thumbnail": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/3f7be3d1301805ee6e71778588924f1fb7ef7d490406e94c27eeace0c8e04b3a08b8fccc692db523667500f86eb4070b73539ee7ff2da195.png"
+          },
+          {
+            "title": "How Long To Bake A Potato At 350 - Food Faith Fitness",
+            "snippet": "Place the potatoes directly on the middle oven rack. Roast them until the skin is crispy and they feel very soft when...",
+            "link": "https://www.foodfaithfitness.com/how-long-to-bake-a-potato-at-350/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1r7rLZnCjVvms2S0RQXXzIZmq1NUKQO01fCk_QHKZVgQY6KESGTmfrdmdEcM",
+            "source": "Food Faith Fitness",
+            "source_thumbnail": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/3f7be3d1301805ee6e71778588924f1fb7ef7d490406e94c27eeace0c8e04b3a6d3d63a540b367cade08d6ca0693efa4c52b01ce84b2ebaa.png"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=how+long+to+bake+a+potato+at+350&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQrooIegQIHRAP",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+long+to+bake+a+potato+at+350"
+      },
+      {
+        "text": "Temperature",
+        "subtitle": "What Temperature Should A Baked Potato Be",
+        "title": "Ideal temperature for a baked potato - Idaho Potato Commission",
+        "link": "https://idahopotato.com/dr-potato/ideal-temperature-for-a-baked-potato#:~:text=We%20recommend%20baking%20potatoes%20at,right%20at%20210%20degrees%20F.",
+        "displayed_link": "https://idahopotato.com \u203a dr-potato \u203a ideal-temperature-f...",
+        "snippet": "We recommend baking potatoes at 400 degrees F for about an hour. Smaller spuds might take a little less time, while larger baking potatoes over 1 pound might take a little more. For a fully baked Idaho Russet Burbank, the internal temperature should be right at 210 degrees F.",
+        "snippet_highlighted_words": [
+          "400 degrees F"
+        ],
+        "answer": "210 degrees F.",
+        "favicon": "https://serpapi.com/searches/670a302cfc183d5bb70bdf81/images/3f7be3d1301805ee6e71778588924f1f43c929a0642db76552c1a9afb821c6c8ed87c67d50eefe48.png",
+        "source": "idahopotato.com",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=what+temperature+should+a+baked+potato+be&sa=X&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQrooIegQIHRAU",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+temperature+should+a+baked+potato+be"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=baked+potato&sca_esv=7d18109a394306ad&ei=LDAKZ_PSI4OkiLMPu9uX2AY&start=10&sa=N&sstk=AagrsugoNT_DM4j7V3Mkt7Hz94igHIxWkap6wkjrI9dS19AOFBaYzc6W8OBt1IVR_nlmWiUuTK275lDpXEm_t08P_KLpVTVgw8TiOQ&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQ8NMDegQISxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=baked+potato&sca_esv=7d18109a394306ad&ei=LDAKZ_PSI4OkiLMPu9uX2AY&start=10&sa=N&sstk=AagrsugoNT_DM4j7V3Mkt7Hz94igHIxWkap6wkjrI9dS19AOFBaYzc6W8OBt1IVR_nlmWiUuTK275lDpXEm_t08P_KLpVTVgw8TiOQ&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQ8tMDegQISxAE",
+      "3": "https://www.google.com/search?q=baked+potato&sca_esv=7d18109a394306ad&ei=LDAKZ_PSI4OkiLMPu9uX2AY&start=20&sa=N&sstk=AagrsugoNT_DM4j7V3Mkt7Hz94igHIxWkap6wkjrI9dS19AOFBaYzc6W8OBt1IVR_nlmWiUuTK275lDpXEm_t08P_KLpVTVgw8TiOQ&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQ8tMDegQISxAG",
+      "4": "https://www.google.com/search?q=baked+potato&sca_esv=7d18109a394306ad&ei=LDAKZ_PSI4OkiLMPu9uX2AY&start=30&sa=N&sstk=AagrsugoNT_DM4j7V3Mkt7Hz94igHIxWkap6wkjrI9dS19AOFBaYzc6W8OBt1IVR_nlmWiUuTK275lDpXEm_t08P_KLpVTVgw8TiOQ&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQ8tMDegQISxAI",
+      "5": "https://www.google.com/search?q=baked+potato&sca_esv=7d18109a394306ad&ei=LDAKZ_PSI4OkiLMPu9uX2AY&start=40&sa=N&sstk=AagrsugoNT_DM4j7V3Mkt7Hz94igHIxWkap6wkjrI9dS19AOFBaYzc6W8OBt1IVR_nlmWiUuTK275lDpXEm_t08P_KLpVTVgw8TiOQ&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQ8tMDegQISxAK",
+      "6": "https://www.google.com/search?q=baked+potato&sca_esv=7d18109a394306ad&ei=LDAKZ_PSI4OkiLMPu9uX2AY&start=50&sa=N&sstk=AagrsugoNT_DM4j7V3Mkt7Hz94igHIxWkap6wkjrI9dS19AOFBaYzc6W8OBt1IVR_nlmWiUuTK275lDpXEm_t08P_KLpVTVgw8TiOQ&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQ8tMDegQISxAM",
+      "7": "https://www.google.com/search?q=baked+potato&sca_esv=7d18109a394306ad&ei=LDAKZ_PSI4OkiLMPu9uX2AY&start=60&sa=N&sstk=AagrsugoNT_DM4j7V3Mkt7Hz94igHIxWkap6wkjrI9dS19AOFBaYzc6W8OBt1IVR_nlmWiUuTK275lDpXEm_t08P_KLpVTVgw8TiOQ&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQ8tMDegQISxAO",
+      "8": "https://www.google.com/search?q=baked+potato&sca_esv=7d18109a394306ad&ei=LDAKZ_PSI4OkiLMPu9uX2AY&start=70&sa=N&sstk=AagrsugoNT_DM4j7V3Mkt7Hz94igHIxWkap6wkjrI9dS19AOFBaYzc6W8OBt1IVR_nlmWiUuTK275lDpXEm_t08P_KLpVTVgw8TiOQ&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQ8tMDegQISxAQ",
+      "9": "https://www.google.com/search?q=baked+potato&sca_esv=7d18109a394306ad&ei=LDAKZ_PSI4OkiLMPu9uX2AY&start=80&sa=N&sstk=AagrsugoNT_DM4j7V3Mkt7Hz94igHIxWkap6wkjrI9dS19AOFBaYzc6W8OBt1IVR_nlmWiUuTK275lDpXEm_t08P_KLpVTVgw8TiOQ&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQ8tMDegQISxAS",
+      "10": "https://www.google.com/search?q=baked+potato&sca_esv=7d18109a394306ad&ei=LDAKZ_PSI4OkiLMPu9uX2AY&start=90&sa=N&sstk=AagrsugoNT_DM4j7V3Mkt7Hz94igHIxWkap6wkjrI9dS19AOFBaYzc6W8OBt1IVR_nlmWiUuTK275lDpXEm_t08P_KLpVTVgw8TiOQ&ved=2ahUKEwjzmNGss4iJAxUDEmIAHbvtBWsQ8tMDegQISxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=baked+potato&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=baked+potato&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=baked+potato&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=baked+potato&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=baked+potato&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=baked+potato&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=baked+potato&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=baked+potato&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=baked+potato&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=baked+potato&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=baked+potato&start=90"
+    }
+  }
+}

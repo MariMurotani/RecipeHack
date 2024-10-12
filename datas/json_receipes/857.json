@@ -1,0 +1,815 @@
+{
+  "search_metadata": {
+    "id": "670a300675f9747e854c1c8f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/131b6e376bc6029f/670a300675f9747e854c1c8f.json",
+    "created_at": "2024-10-12 08:15:02 UTC",
+    "processed_at": "2024-10-12 08:15:02 UTC",
+    "google_url": "https://www.google.com/search?q=pancake&oq=pancake&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/131b6e376bc6029f/670a300675f9747e854c1c8f.html",
+    "total_time_taken": 0.65
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "pancake",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "pancake",
+    "total_results": 477000000,
+    "time_taken_displayed": 0.36,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "recipes_results": [
+    {
+      "title": "Good Old-Fashioned Pancakes",
+      "link": "https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/",
+      "source": "Allrecipes",
+      "rating": 4.5,
+      "reviews": 19000,
+      "total_time": "20 min",
+      "ingredients": [
+        "Butter",
+        "egg",
+        "baking powder",
+        "all purpose flour",
+        "white sugar"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/66b0362ca9abb98491b3a37fc9daf063203bcbac5b05391dbfd99f75f02dbba0.jpeg"
+    },
+    {
+      "title": "Best Fluffy Pancakes",
+      "link": "https://cafedelites.com/best-fluffy-pancakes/",
+      "source": "Cafe Delites",
+      "rating": 5.0,
+      "reviews": 719,
+      "total_time": "25 min",
+      "ingredients": [
+        "Plain flour",
+        "egg",
+        "baking soda",
+        "baking powder",
+        "vanilla extract"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/66b0362ca9abb98491b3a37fc9daf0637f9b65cab4473c5bf4938aa8ac821feb.jpeg"
+    },
+    {
+      "title": "Best Buttermilk Pancakes Recipe",
+      "link": "https://sugarspunrun.com/buttermilk-pancakes/",
+      "source": "Sugar Spun Run",
+      "rating": 5.0,
+      "reviews": 633,
+      "total_time": "15 min",
+      "ingredients": [
+        "Baking soda",
+        "baking powder",
+        "sugar",
+        "all purpose flour",
+        "vanilla extract"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/66b0362ca9abb98491b3a37fc9daf0632133f565457c7f3163531f5331d5e72e.jpeg"
+    }
+  ],
+  "knowledge_graph": {
+    "title": "Pancake",
+    "type": "Cake",
+    "entity_type": "food, foods_and_dishes",
+    "kgmid": "/m/01dwwc",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/01dwwc&hl=en-US&q=Pancake",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F01dwwc&location=Austin%2CTexas%2CUnited+States&q=Pancake",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/c23ab6668f0962c745e537d95ea60557492ddb907c4d5055d9941dd28c06422edf5c676e0a5f567c.jpeg",
+        "source": "https://en.wikipedia.org/wiki/Pancake"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/c23ab6668f0962c745e537d95ea60557492ddb907c4d5055caeaf0db3c03de3f0908c42330feff7a.jpeg",
+        "source": "https://www.onceuponachef.com/recipes/best-pancake-recipe.html"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/c23ab6668f0962c745e537d95ea60557492ddb907c4d5055222f4587393dfbe97c488c76912c34ba.jpeg",
+        "source": "https://www.inspiredtaste.net/24593/essential-pancake-recipe/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/c23ab6668f0962c745e537d95ea60557492ddb907c4d5055cc9cffd4affa81d241058784a8715d85.jpeg",
+        "source": "https://brokenovenbaking.com/easy-cinnamon-honey-pancakes/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/c23ab6668f0962c745e537d95ea60557492ddb907c4d50556156fc57e6cc18ad546b0ef8add33615.jpeg",
+        "source": "https://www.marthastewart.com/338185/basic-pancakes"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKFxNtmiQ5E1V5_yuW7lKVTSdKUcT0PfbfqBQl2I0J0g&s",
+        "source": "https://www.thekitchn.com/pancakes-recipe-263226"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuTajlekA0JNP7m9V5zPT3PgmKwRDDpTDA1T6KN7AmBg&s",
+        "source": "https://iambaker.net/buttermilk-pancakes/"
+      }
+    ],
+    "description": "A pancake, also known as hotcake, griddlecake, or flapjack, is a flat cake, often thin and round, prepared from a starch-based batter that may contain eggs, milk, and butter, and then cooked on a hot surface such as a griddle or frying pan. It is a type of batter bread.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Pancake"
+    },
+    "griddle_temperature": "350\u00b0F to 375\u00b0F kingarthurbaking.com",
+    "griddle_temperature_links": [
+      {
+        "text": "kingarthurbaking.com",
+        "link": "https://www.kingarthurbaking.com/blog/2023/02/20/better-pancakes"
+      }
+    ],
+    "sources_include": "USDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAPancakes64 Calories - 1 oz (28.4 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173299/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/175009/nutrients"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Cr\u00eape",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep6Xwg5AX39Qaax0iBp2fdpmZoXL7cUX_pDl_loRiHMNJxs68wXcEKh0RHyg4PHAM_lzTxAKI6s2GOXiSmOpBjUWvNElo9WozExKRiP0PeqacAQLGNT8y83jku5NktTMj4QobmkVlhBdiGdJpR4a_48GC2OEmIl5R-xoMqAu1F53vWk9WisaDQK5-sdFzgN9xWlQlUGgor0hQkIP0J7aQWtQEgXIX5R-m-QDQXUtzk2j3cY7W3mt5QMRuNHDXkyquD148VPk%3D&q=Cr%C3%AApe&sa=X&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQs9oBKAB6BAg4EAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Cr%C3%AApe&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep6Xwg5AX39Qaax0iBp2fdpmZoXL7cUX_pDl_loRiHMNJxs68wXcEKh0RHyg4PHAM_lzTxAKI6s2GOXiSmOpBjUWvNElo9WozExKRiP0PeqacAQLGNT8y83jku5NktTMj4QobmkVlhBdiGdJpR4a_48GC2OEmIl5R-xoMqAu1F53vWk9WisaDQK5-sdFzgN9xWlQlUGgor0hQkIP0J7aQWtQEgXIX5R-m-QDQXUtzk2j3cY7W3mt5QMRuNHDXkyquD148VPk%3D",
+        "image": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/c23ab6668f0962c745e537d95ea605571784365bec92b3351003cf78f54c0554304eb567733851dddbce71e0f2b52a37.jpeg"
+      },
+      {
+        "name": "Waffle",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LxAAFsFPRCBVh-XGlkfHgjUjgnbR2TDHKFfbW5sqOFLxnga6ilSVtN91vppQwVnfNm5cU29uMW43rQ-O4xOA5ZgHaGuGHZqe-TQLyi74w1vZxjP4-jQVChlg8NkdBxHMZEuiqsITRX5ccmumrq7cUc40MX95hlfEuPqwUt_LaFA4J3lJfOBB5_Iyw2my-O0fTU5syuIj04MjP6iCVkNfmE4xAP-_hlI3EX_Hw79Aztit2EXnOp_kSnkdUa3Uy5WwHZP3hqI%3D&q=Waffle&sa=X&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQs9oBKAB6BAg4EAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Waffle&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LxAAFsFPRCBVh-XGlkfHgjUjgnbR2TDHKFfbW5sqOFLxnga6ilSVtN91vppQwVnfNm5cU29uMW43rQ-O4xOA5ZgHaGuGHZqe-TQLyi74w1vZxjP4-jQVChlg8NkdBxHMZEuiqsITRX5ccmumrq7cUc40MX95hlfEuPqwUt_LaFA4J3lJfOBB5_Iyw2my-O0fTU5syuIj04MjP6iCVkNfmE4xAP-_hlI3EX_Hw79Aztit2EXnOp_kSnkdUa3Uy5WwHZP3hqI%3D",
+        "image": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/c23ab6668f0962c745e537d95ea605571784365bec92b3351003cf78f54c05543a38513bb161a832d3da90788ebc441c.jpeg"
+      },
+      {
+        "name": "Cake",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmz1-8ItN7_jAlMPHDs7T8vak4CHhqrOkcz9sFXLKxkQ5RrxGFh94gWMLfkW1qzOsHnRlqtNJ113CwpTlwkgEqYRT3Uuy-JJMnduDJIMrpKcWbS5xKgjkJqYkorLCPMU7Ls252VbHDr8ehKDvPl5jKcCO95dSIRWoP-1ucy5vFdQeX9kilQo_xDRnHGLuXIQISeYvpAqmGkP1wEQNmmNE4Q6X3LbzPYYhNHYnHWKRY5kaPnREoA%3D%3D&q=Cake&sa=X&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQs9oBKAB6BAg4EA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Cake&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmz1-8ItN7_jAlMPHDs7T8vak4CHhqrOkcz9sFXLKxkQ5RrxGFh94gWMLfkW1qzOsHnRlqtNJ113CwpTlwkgEqYRT3Uuy-JJMnduDJIMrpKcWbS5xKgjkJqYkorLCPMU7Ls252VbHDr8ehKDvPl5jKcCO95dSIRWoP-1ucy5vFdQeX9kilQo_xDRnHGLuXIQISeYvpAqmGkP1wEQNmmNE4Q6X3LbzPYYhNHYnHWKRY5kaPnREoA%3D%3D",
+        "image": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/c23ab6668f0962c745e537d95ea605571784365bec92b3351003cf78f54c05542fc38a2bb731b4ea04eeb783950df8a7.jpeg"
+      },
+      {
+        "name": "Lasagna",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L86Y1PMX-H2wIbhUEnrb85m1EVkHwEFXM0C80qbAwd413EpSmhjZkW0oYGhcQP5HSyouE7D265WY-4pA3wTOE9Bw3bORG_yb_Pil4QSIa88fVmW-ipkxfauQ27O5GWvXT-fmTFduO0nbpOLqZ2vI_GRFlNhXEZO7kssHXfhytyZEwF2mRDC7Q8ieeIt1m7aLLOe8mRSvWvfbI0vSidXfeD1WiuMNcTEZIRT7oJOV33uwvBCD1hXatbh7Lgc9r9nhCAEasak%3D&q=Lasagna&sa=X&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQs9oBKAB6BAg4EBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lasagna&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L86Y1PMX-H2wIbhUEnrb85m1EVkHwEFXM0C80qbAwd413EpSmhjZkW0oYGhcQP5HSyouE7D265WY-4pA3wTOE9Bw3bORG_yb_Pil4QSIa88fVmW-ipkxfauQ27O5GWvXT-fmTFduO0nbpOLqZ2vI_GRFlNhXEZO7kssHXfhytyZEwF2mRDC7Q8ieeIt1m7aLLOe8mRSvWvfbI0vSidXfeD1WiuMNcTEZIRT7oJOV33uwvBCD1hXatbh7Lgc9r9nhCAEasak%3D",
+        "image": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/c23ab6668f0962c745e537d95ea605571784365bec92b3351003cf78f54c0554091b62a5ef8b84651d592695f4b3287d.jpeg"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "2.7 g",
+        "4%"
+      ],
+      "cholesterol": [
+        "17 mg",
+        "5%"
+      ],
+      "sodium": [
+        "124 mg",
+        "5%"
+      ],
+      "potassium": [
+        "37 mg",
+        "1%"
+      ],
+      "total_carbohydrate": [
+        "8 g",
+        "2%"
+      ],
+      "protein": [
+        "1.8 g",
+        "3%"
+      ]
+    }
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=pancake&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=MgE_JLxJYDnQVM%252C1iFfPORO0R69TM%252C%252Fm%252F01dwwc%253B9m4pf63abEcfjM%252CTdfbDKrw7GPRSM%252C_%253BI4qzEwtHaAzy0M%252CbPMD0qJTdDy4TM%252C_%253BWikyZL0n3WMJCM%252Cfc9Y8mETWDsdFM%252C_%253B2SZnwxqu-qdf7M%252CEjDHuNwEgj-KsM%252C_%253B4kIXysbF94DFzM%252CS5qoaPhOpBe-qM%252C_%253BpM8u9ve2UDYsuM%252Co8X7zzifNWBU9M%252C_&usg=AI4_-kTOhR_R8wdE6Idic7GP-cyX28EcVQ&sa=X&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQ_B16BAhBEAE#vhid=MgE_JLxJYDnQVM&vssid=mosaic",
+      "source": "https://en.wikipedia.org/wiki/Pancake",
+      "thumbnail": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/61bf361d12cfb7e36bd2747b0d150ec2e7d1814d60b6cf44a83c357c02fd9ab7.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/40/Foodiesfeed.com_pouring-honey-on-pancakes-with-walnuts.jpg",
+      "title": "upload.wikimedia.org/wikipedia/commons/4/40/Foodie...",
+      "source_name": "en.wikipedia.org"
+    },
+    {
+      "link": "https://www.google.com/search?q=pancake&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=MgE_JLxJYDnQVM%252C1iFfPORO0R69TM%252C_%253B9m4pf63abEcfjM%252CTdfbDKrw7GPRSM%252C_%253BI4qzEwtHaAzy0M%252CbPMD0qJTdDy4TM%252C_%253BWikyZL0n3WMJCM%252Cfc9Y8mETWDsdFM%252C_%253B2SZnwxqu-qdf7M%252CEjDHuNwEgj-KsM%252C_%253B4kIXysbF94DFzM%252CS5qoaPhOpBe-qM%252C_%253BpM8u9ve2UDYsuM%252Co8X7zzifNWBU9M%252C_&usg=AI4_-kTGfQ3vrejF3Y_nNY_Mo_25p-1fWw&sa=X&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQ_h16BAhFEAE#vhid=9m4pf63abEcfjM&vssid=mosaic",
+      "source": "https://www.onceuponachef.com/recipes/best-pancake-recipe.html",
+      "thumbnail": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/61bf361d12cfb7e37d91063f48f7f72e02ce9a909c518f968348dd626578da4e.jpeg",
+      "original": "https://www.onceuponachef.com/images/2009/08/pancakes-01-760x1040.jpg",
+      "title": "Best Homemade Pancakes",
+      "source_name": "Once Upon a Chef"
+    },
+    {
+      "link": "https://www.google.com/search?q=pancake&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=MgE_JLxJYDnQVM%252C1iFfPORO0R69TM%252C_%253B9m4pf63abEcfjM%252CTdfbDKrw7GPRSM%252C_%253BI4qzEwtHaAzy0M%252CbPMD0qJTdDy4TM%252C_%253BWikyZL0n3WMJCM%252Cfc9Y8mETWDsdFM%252C_%253B2SZnwxqu-qdf7M%252CEjDHuNwEgj-KsM%252C_%253B4kIXysbF94DFzM%252CS5qoaPhOpBe-qM%252C_%253BpM8u9ve2UDYsuM%252Co8X7zzifNWBU9M%252C_&usg=AI4_-kTGfQ3vrejF3Y_nNY_Mo_25p-1fWw&sa=X&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQ_h16BAhIEAE#vhid=I4qzEwtHaAzy0M&vssid=mosaic",
+      "source": "https://www.inspiredtaste.net/24593/essential-pancake-recipe/",
+      "thumbnail": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/61bf361d12cfb7e3b962c2222aa3cff5b55d20f44b6cc53bc7e7fb4e78864525.jpeg",
+      "original": "https://www.inspiredtaste.net/wp-content/uploads/2024/03/Easy-Fluffy-Pancakes-Recipe-Video.jpg",
+      "title": "Easy Fluffy Pancakes",
+      "source_name": "Inspired Taste"
+    },
+    {
+      "link": "https://www.google.com/search?q=pancake&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=MgE_JLxJYDnQVM%252C1iFfPORO0R69TM%252C_%253B9m4pf63abEcfjM%252CTdfbDKrw7GPRSM%252C_%253BI4qzEwtHaAzy0M%252CbPMD0qJTdDy4TM%252C_%253BWikyZL0n3WMJCM%252Cfc9Y8mETWDsdFM%252C_%253B2SZnwxqu-qdf7M%252CEjDHuNwEgj-KsM%252C_%253B4kIXysbF94DFzM%252CS5qoaPhOpBe-qM%252C_%253BpM8u9ve2UDYsuM%252Co8X7zzifNWBU9M%252C_&usg=AI4_-kTGfQ3vrejF3Y_nNY_Mo_25p-1fWw&sa=X&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQ_h16BAhGEAE#vhid=WikyZL0n3WMJCM&vssid=mosaic",
+      "source": "https://brokenovenbaking.com/easy-cinnamon-honey-pancakes/",
+      "thumbnail": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/61bf361d12cfb7e38ba1f222b5eb20607f978a0d0f7093a7da75fbed3b8f99c4.jpeg",
+      "original": "https://brokenovenbaking.com/wp-content/uploads/2023/01/cinnamon-honey-pancakes-8-1.jpg",
+      "title": "Easy Cinnamon Honey Pancakes",
+      "source_name": "Broken Oven Baking"
+    },
+    {
+      "link": "https://www.google.com/search?q=pancake&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=MgE_JLxJYDnQVM%252C1iFfPORO0R69TM%252C_%253B9m4pf63abEcfjM%252CTdfbDKrw7GPRSM%252C_%253BI4qzEwtHaAzy0M%252CbPMD0qJTdDy4TM%252C_%253BWikyZL0n3WMJCM%252Cfc9Y8mETWDsdFM%252C_%253B2SZnwxqu-qdf7M%252CEjDHuNwEgj-KsM%252C_%253B4kIXysbF94DFzM%252CS5qoaPhOpBe-qM%252C_%253BpM8u9ve2UDYsuM%252Co8X7zzifNWBU9M%252C_&usg=AI4_-kTGfQ3vrejF3Y_nNY_Mo_25p-1fWw&sa=X&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQ_h16BAhDEAE#vhid=2SZnwxqu-qdf7M&vssid=mosaic",
+      "source": "https://www.marthastewart.com/338185/basic-pancakes",
+      "thumbnail": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/61bf361d12cfb7e374e4328e3b10d5d7659df8ad789f0f426fd1c428d78b09c5.jpeg",
+      "original": "https://www.marthastewart.com/thmb/Vgb9cQSlegZz5fcoSbkkqyHPmHY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/338185-basic-pancakes-09-00b18f8418fd4e52bb2050173d083d04.jpg",
+      "title": "Easy Basic Pancakes",
+      "source_name": "Martha Stewart"
+    },
+    {
+      "link": "https://www.google.com/search?q=pancake&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=MgE_JLxJYDnQVM%252C1iFfPORO0R69TM%252C_%253B9m4pf63abEcfjM%252CTdfbDKrw7GPRSM%252C_%253BI4qzEwtHaAzy0M%252CbPMD0qJTdDy4TM%252C_%253BWikyZL0n3WMJCM%252Cfc9Y8mETWDsdFM%252C_%253B2SZnwxqu-qdf7M%252CEjDHuNwEgj-KsM%252C_%253B4kIXysbF94DFzM%252CS5qoaPhOpBe-qM%252C_%253BpM8u9ve2UDYsuM%252Co8X7zzifNWBU9M%252C_&usg=AI4_-kTGfQ3vrejF3Y_nNY_Mo_25p-1fWw&sa=X&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQ_h16BAhCEAE#vhid=4kIXysbF94DFzM&vssid=mosaic",
+      "source": "https://www.thekitchn.com/pancakes-recipe-263226",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKFxNtmiQ5E1V5_yuW7lKVTSdKUcT0PfbfqBQl2I0J0g&s",
+      "original": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/k%2FPhoto%2FRecipes%2F2024-06-seo-pancakes%2Fseo-pancakes-232",
+      "title": "Fluffy Pancakes",
+      "source_name": "The Kitchn"
+    },
+    {
+      "link": "https://www.google.com/search?q=pancake&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=MgE_JLxJYDnQVM%252C1iFfPORO0R69TM%252C_%253B9m4pf63abEcfjM%252CTdfbDKrw7GPRSM%252C_%253BI4qzEwtHaAzy0M%252CbPMD0qJTdDy4TM%252C_%253BWikyZL0n3WMJCM%252Cfc9Y8mETWDsdFM%252C_%253B2SZnwxqu-qdf7M%252CEjDHuNwEgj-KsM%252C_%253B4kIXysbF94DFzM%252CS5qoaPhOpBe-qM%252C_%253BpM8u9ve2UDYsuM%252Co8X7zzifNWBU9M%252C_&usg=AI4_-kTGfQ3vrejF3Y_nNY_Mo_25p-1fWw&sa=X&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQ_h16BAg_EAE#vhid=pM8u9ve2UDYsuM&vssid=mosaic",
+      "source": "https://iambaker.net/buttermilk-pancakes/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuTajlekA0JNP7m9V5zPT3PgmKwRDDpTDA1T6KN7AmBg&s",
+      "original": "https://iambaker.net/wp-content/uploads/2022/07/buttermilk-pancakes-1.jpg",
+      "title": "Buttermilk Pancakes",
+      "source_name": "I Am Baker"
+    }
+  ],
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "The BEST Pancake Recipe",
+      "link": "https://www.youtube.com/watch?v=qE5ycgqswGY",
+      "thumbnail": "https://i.ytimg.com/vi/qE5ycgqswGY/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3lMuIGAVyelUl_U4gOEY8RuCtBKoQ",
+      "channel": "Preppy Kitchen",
+      "duration": "7:48",
+      "date": "Feb 27, 2024"
+    },
+    {
+      "position": 2,
+      "title": "\"Best\" Pancake from @buzzfeedtasty",
+      "link": "https://www.youtube.com/watch?v=mQSveKDTPoo",
+      "thumbnail": "https://i.ytimg.com/vi/mQSveKDTPoo/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3l2dpzvmAUBrNztx3Lk8TqzD0WvSg",
+      "channel": "FutureCanoe",
+      "duration": "1:00",
+      "date": "Dec 28, 2023"
+    },
+    {
+      "position": 3,
+      "title": "The Greatest Pancake Recipe of All Time (The GOAT)",
+      "link": "https://www.youtube.com/watch?v=4QcK3MXl9sg",
+      "thumbnail": "https://i.ytimg.com/vi/4QcK3MXl9sg/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3lpIPSaptA9F1S_21ClvafZgeJdQA",
+      "channel": "Brian Lagerstrom",
+      "duration": "7:30",
+      "date": "Jul 18, 2024",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Combining ingredients",
+          "link": "https://www.youtube.com/watch?v=4QcK3MXl9sg&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-btmHZ12fjpzg4iTFXtNyX24oWPodFzLqY4xbwgcSHQ&s"
+        },
+        {
+          "time": "02:33",
+          "title": "My jam (when it comes to daily nutrition)",
+          "link": "https://www.youtube.com/watch?v=4QcK3MXl9sg&t=153",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX-VcnmlzRvgk2561heRVSiI9VRnElv_qGdtyMkuGxow&s"
+        },
+        {
+          "time": "03:33",
+          "title": "Cooking the pancakes",
+          "link": "https://www.youtube.com/watch?v=4QcK3MXl9sg&t=213",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNuj7rXZFpM8uDG6U-ax-fMFtg_myOK3v03tAa12ABXg&s"
+        },
+        {
+          "time": "06:37",
+          "title": "What to do with leftover pancakes",
+          "link": "https://www.youtube.com/watch?v=4QcK3MXl9sg&t=397",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvu7qpCQgWo-Fdmz5u8vIUqgp5oPuW1AkjbNPC80QG0g&s"
+        }
+      ]
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How many types of pancakes are there?",
+      "title": "15 Types of Pancake Recipes from Across the Globe",
+      "link": "https://www.eurosparni.co.uk/15-types-of-pancake-recipes-from-across-the-globe",
+      "list": [
+        "French Cr\u00eapes. French cr\u00eapes are well known in the UK and are officially made in a cr\u00eape pan to form a thin pancake. ... ",
+        "American-Style Pancakes. ... ",
+        "Scotch Pancakes. ... ",
+        "Indonesian Serabi. ... ",
+        "Russian Blinis. ... ",
+        "Moroccan Msemen. ... ",
+        "Danish Aebleskiver. ... ",
+        "Irish Boxty."
+      ],
+      "displayed_link": "https://www.eurosparni.co.uk \u203a 15-types-of-pancake-reci...",
+      "source_logo": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/31e99fc70a8fd235254e99a5803839dbb50565d9aa1c3562392cd21fa83c6281.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1VqZFRObFoxTkdoVk9YWnlUSEp3YkV4T2NucExObVF3WVZocFFrbzJNbHAyVDJndFdHWlZTR1UxWm1wb2NITnBUMDVZZHpRME1XSkpPRlkwUVVKTVlscENlR1p1RWhkQ2FrRkxXamxJTjBZNVMyNDFUbTlRTUUxVVFtMUJaeG9pUVVaWWNrVmpjRU55WDJ4YWVHRmlXV0Z5WnpSUWNrMXlXVFJVTUUxSFEzUjVRUSIsImZjdiI6IjMiLCJlaSI6IkJqQUtaOUg3RjlLbjVOb1AwTVRCbUFnIiwicWMiOiJDZ2R3WVc1allXdGxFQUI5d3FBVFB3IiwicXVlc3Rpb24iOiJIb3cgbWFueSB0eXBlcyBvZiBwYW5jYWtlcyBhcmUgdGhlcmU/IiwibGsiOiJHaVJvYjNjZ2JXRnVlU0IwZVhCbGN5QnZaaUJ3WVc1allXdGxjeUJoY21VZ2RHaGxjbVUiLCJicyI6ImM1Mk51d3JDTUJoR2NjM2tHT0x0SDFSd3phSU9FbEFIQlNjWE55R21xUW0yVFVsLXFIMDNOeF9KRjFDOER3cmk5dkZ4RG9jc1NXZm1Da2hsVmdLV3VRN2dZc2hscHVUdXNxWFhnRVo3TGVocHdidXNiWDVneVo0TVZrYmk0d0diYmIyT3JNNHdRT3o4UzBsbHBDSDJMb1dndkVSbEJEMzItSkQxaV85ME1pWE5hemx5TVBZV2JUQ2daSkk4RlVFUEU5NWlqZUlPYlQ1QlpFUnE4d0FXd1RpOGxkNnFncTU1blRIN0ZhaFd6ZyIsImlkIjoiZmNfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1VqZFRObFoxTkdoVk9YWnlUSEp3YkV4T2NucExObVF3WVZocFFrbzJNbHAyVDJndFdHWlZTR1UxWm1wb2NITnBUMDVZZHpRME1XSkpPRlkwUVVKTVlscENlR1p1RWhkQ2FrRkxXamxJTjBZNVMyNDFUbTlRTUUxVVFtMUJaeG9pUVVaWWNrVmpjRU55WDJ4YWVHRmlXV0Z5WnpSUWNrMXlXVFJVTUUxSFEzUjVRUSIsImZjdiI6IjMiLCJlaSI6IkJqQUtaOUg3RjlLbjVOb1AwTVRCbUFnIiwicWMiOiJDZ2R3WVc1allXdGxFQUI5d3FBVFB3IiwicXVlc3Rpb24iOiJIb3cgbWFueSB0eXBlcyBvZiBwYW5jYWtlcyBhcmUgdGhlcmU%2FIiwibGsiOiJHaVJvYjNjZ2JXRnVlU0IwZVhCbGN5QnZaaUJ3WVc1allXdGxjeUJoY21VZ2RHaGxjbVUiLCJicyI6ImM1Mk51d3JDTUJoR2NjM2tHT0x0SDFSd3phSU9FbEFIQlNjWE55R21xUW0yVFVsLXFIMDNOeF9KRjFDOER3cmk5dkZ4RG9jc1NXZm1Da2hsVmdLV3VRN2dZc2hscHVUdXNxWFhnRVo3TGVocHdidXNiWDVneVo0TVZrYmk0d0diYmIyT3JNNHdRT3o4UzBsbHBDSDJMb1dndkVSbEJEMzItSkQxaV85ME1pWE5hemx5TVBZV2JUQ2daSkk4RlVFUEU5NWlqZUlPYlQ1QlpFUnE4d0FXd1RpOGxkNnFncTU1blRIN0ZhaFd6ZyIsImlkIjoiZmNfMyJ9"
+    },
+    {
+      "question": "What are the ingredients for pancakes made from scratch?",
+      "title": "Ingredients",
+      "date": "May 10, 2024",
+      "link": "https://www.marthastewart.com/338185/basic-pancakes",
+      "list": [
+        "1 cup all-purpose flour, (spooned and leveled)",
+        "2 tablespoons sugar.",
+        "2 teaspoons baking powder.",
+        "\u00bd teaspoon salt.",
+        "1 cup milk.",
+        "2 tablespoons unsalted butter, melted, or vegetable oil.",
+        "1 large egg.",
+        "1 tablespoon vegetable oil."
+      ],
+      "displayed_link": "https://www.marthastewart.com \u203a basic-pancakes",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLvrURzqE_f8IVE9bD5ZkT3JQ4iqfW_qrgL1XLYFDejA&s",
+      "source_logo": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/31e99fc70a8fd235254e99a5803839db7328e534fd87591aeff38007a38d2a29.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1VqZFRObFoxTkdoVk9YWnlUSEp3YkV4T2NucExObVF3WVZocFFrbzJNbHAyVDJndFdHWlZTR1UxWm1wb2NITnBUMDVZZHpRME1XSkpPRlkwUVVKTVlscENlR1p1RWhkQ2FrRkxXamxJTjBZNVMyNDFUbTlRTUUxVVFtMUJaeG9pUVVaWWNrVmpjRU55WDJ4YWVHRmlXV0Z5WnpSUWNrMXlXVFJVTUUxSFEzUjVRUSIsImZjdiI6IjMiLCJlaSI6IkJqQUtaOUg3RjlLbjVOb1AwTVRCbUFnIiwicWMiOiJDZ2R3WVc1allXdGxFQUI5d3FBVFB3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgaW5ncmVkaWVudHMgZm9yIHBhbmNha2VzIG1hZGUgZnJvbSBzY3JhdGNoPyIsImxrIjoiY3dYQjJ3bkFNQXdEd0QzNnBTMDZqM0NVT3BROHNBMWR2M2ZYX1RrTERLRmNHT3NKdGFGVmliNERoOHY0S2pIWmhCNTdJaTFZNWo4IiwiYnMiOiJjNTJOdXdyQ01CaEdjYzNrR09MdEgxUnd6YUlPRWxBSEJTY1hOeUdtcVFtMlRVbC1xSDAzTnhfSkYxQzhEd3JpOXZGeERvY3NTV2ZtQ2tobFZnS1d1UTdnWXNobHB1VHVzcVhYZ0VaN0xlaHB3YnVzYlg1Z3laNE1Wa2JpNHdHYmJiMk9yTTR3UU96OFMwbGxwQ0gyTG9XZ3ZFUmxCRDMyLUpEMWlfOTBNaVhOYXpseU1QWVdiVENnWkpJOEZVRVBFOTVpamVJT2JUNUJaRVJxOHdBV3dUaThsZDZxZ3E1NW5USDdGYWhXemciLCJpZCI6ImZjXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1VqZFRObFoxTkdoVk9YWnlUSEp3YkV4T2NucExObVF3WVZocFFrbzJNbHAyVDJndFdHWlZTR1UxWm1wb2NITnBUMDVZZHpRME1XSkpPRlkwUVVKTVlscENlR1p1RWhkQ2FrRkxXamxJTjBZNVMyNDFUbTlRTUUxVVFtMUJaeG9pUVVaWWNrVmpjRU55WDJ4YWVHRmlXV0Z5WnpSUWNrMXlXVFJVTUUxSFEzUjVRUSIsImZjdiI6IjMiLCJlaSI6IkJqQUtaOUg3RjlLbjVOb1AwTVRCbUFnIiwicWMiOiJDZ2R3WVc1allXdGxFQUI5d3FBVFB3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgaW5ncmVkaWVudHMgZm9yIHBhbmNha2VzIG1hZGUgZnJvbSBzY3JhdGNoPyIsImxrIjoiY3dYQjJ3bkFNQXdEd0QzNnBTMDZqM0NVT3BROHNBMWR2M2ZYX1RrTERLRmNHT3NKdGFGVmliNERoOHY0S2pIWmhCNTdJaTFZNWo4IiwiYnMiOiJjNTJOdXdyQ01CaEdjYzNrR09MdEgxUnd6YUlPRWxBSEJTY1hOeUdtcVFtMlRVbC1xSDAzTnhfSkYxQzhEd3JpOXZGeERvY3NTV2ZtQ2tobFZnS1d1UTdnWXNobHB1VHVzcVhYZ0VaN0xlaHB3YnVzYlg1Z3laNE1Wa2JpNHdHYmJiMk9yTTR3UU96OFMwbGxwQ0gyTG9XZ3ZFUmxCRDMyLUpEMWlfOTBNaVhOYXpseU1QWVdiVENnWkpJOEZVRVBFOTVpamVJT2JUNUJaRVJxOHdBV3dUaThsZDZxZ3E1NW5USDdGYWhXemciLCJpZCI6ImZjXzMifQ%3D%3D"
+    },
+    {
+      "question": "What do British call pancakes?",
+      "snippet": "In the UK, the word pancakes refers to the same thing, but the word flapjacks refers to something entirely different: a baked good made from oats, resembling what elsewhere may be called a granola bar or oat bar. The word flapjack is traced back to the late 1500s.",
+      "title": "flapjacks",
+      "date": "Jul 13, 2022",
+      "link": "https://www.dictionary.com/e/pancakes-vs-flapjacks-vs-hotcakes/#:~:text=In%20the%20UK%2C%20the%20word%20pancakes%20refers%20to%20the%20same,back%20to%20the%20late%201500s.",
+      "displayed_link": "https://www.dictionary.com \u203a pancakes-vs-flapjacks-vs-h...",
+      "source_logo": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/31e99fc70a8fd235254e99a5803839db532ffc1b3d9ab1956fea6b0c69ceee07.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1VqZFRObFoxTkdoVk9YWnlUSEp3YkV4T2NucExObVF3WVZocFFrbzJNbHAyVDJndFdHWlZTR1UxWm1wb2NITnBUMDVZZHpRME1XSkpPRlkwUVVKTVlscENlR1p1RWhkQ2FrRkxXamxJTjBZNVMyNDFUbTlRTUUxVVFtMUJaeG9pUVVaWWNrVmpjRU55WDJ4YWVHRmlXV0Z5WnpSUWNrMXlXVFJVTUUxSFEzUjVRUSIsImZjdiI6IjMiLCJlaSI6IkJqQUtaOUg3RjlLbjVOb1AwTVRCbUFnIiwicWMiOiJDZ2R3WVc1allXdGxFQUI5d3FBVFB3IiwicXVlc3Rpb24iOiJXaGF0IGRvIEJyaXRpc2ggY2FsbCBwYW5jYWtlcz8iLCJsayI6IkdoMTNhR0YwSUdSdklHSnlhWFJwYzJnZ1kyRnNiQ0J3WVc1allXdGxjdyIsImJzIjoiYzUyTnV3ckNNQmhHY2Mza0dPTHRIMVJ3emFJT0VsQUhCU2NYTnlHbXFRbTJUVWwtcUgwM054X0pGMUM4RHdyaTl2RnhEb2NzU1dmbUNraGxWZ0tXdVE3Z1lzaGxwdVR1c3FYWGdFWjdMZWhwd2J1c2JYNWd5WjRNVmtiaTR3R2JiYjJPck00d1FPejhTMGxscENIMkxvV2d2RVJsQkQzMi1KRDFpXzkwTWlYTmF6bHlNUFlXYlRDZ1pKSThGVUVQRTk1aWplSU9iVDVCWkVScTh3QVd3VGk4bGQ2cWdxNTVuVEg3RmFoV3pnIiwiaWQiOiJmY18zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1VqZFRObFoxTkdoVk9YWnlUSEp3YkV4T2NucExObVF3WVZocFFrbzJNbHAyVDJndFdHWlZTR1UxWm1wb2NITnBUMDVZZHpRME1XSkpPRlkwUVVKTVlscENlR1p1RWhkQ2FrRkxXamxJTjBZNVMyNDFUbTlRTUUxVVFtMUJaeG9pUVVaWWNrVmpjRU55WDJ4YWVHRmlXV0Z5WnpSUWNrMXlXVFJVTUUxSFEzUjVRUSIsImZjdiI6IjMiLCJlaSI6IkJqQUtaOUg3RjlLbjVOb1AwTVRCbUFnIiwicWMiOiJDZ2R3WVc1allXdGxFQUI5d3FBVFB3IiwicXVlc3Rpb24iOiJXaGF0IGRvIEJyaXRpc2ggY2FsbCBwYW5jYWtlcz8iLCJsayI6IkdoMTNhR0YwSUdSdklHSnlhWFJwYzJnZ1kyRnNiQ0J3WVc1allXdGxjdyIsImJzIjoiYzUyTnV3ckNNQmhHY2Mza0dPTHRIMVJ3emFJT0VsQUhCU2NYTnlHbXFRbTJUVWwtcUgwM054X0pGMUM4RHdyaTl2RnhEb2NzU1dmbUNraGxWZ0tXdVE3Z1lzaGxwdVR1c3FYWGdFWjdMZWhwd2J1c2JYNWd5WjRNVmtiaTR3R2JiYjJPck00d1FPejhTMGxscENIMkxvV2d2RVJsQkQzMi1KRDFpXzkwTWlYTmF6bHlNUFlXYlRDZ1pKSThGVUVQRTk1aWplSU9iVDVCWkVScTh3QVd3VGk4bGQ2cWdxNTVuVEg3RmFoV3pnIiwiaWQiOiJmY18zIn0%3D"
+    },
+    {
+      "question": "Is it hotcakes or pancakes?",
+      "snippet": "What is a Hotcake? It's a pancake. Our crew Googled it and the definition of a hotcake is in fact \u201ca pancake.\u201d There is, however, a subtle difference on how you prepare a hotcake versus a pancake. Generally, pancakes are wide and have a fluffy texture, whereas the hotcakes tend to be thicker and denser.",
+      "title": "What's the Difference Between Hotcakes, Pancakes, and Flapjacks?",
+      "date": "Feb 27, 2022",
+      "link": "https://sapjack.com/whats-the-difference-between-hotcakes-pancakes-and-flapjacks/#:~:text=What%20is%20a%20Hotcake%3F,to%20be%20thicker%20and%20denser.",
+      "displayed_link": "https://sapjack.com \u203a whats-the-difference-between-hotca...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWFW1zuLlj58OnBhyY_JhVTU1OrvPdf1O1G9UFiCUUw&s",
+      "source_logo": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/31e99fc70a8fd235254e99a5803839dbf10f3b5b07534275c2860e493123f806.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1VqZFRObFoxTkdoVk9YWnlUSEp3YkV4T2NucExObVF3WVZocFFrbzJNbHAyVDJndFdHWlZTR1UxWm1wb2NITnBUMDVZZHpRME1XSkpPRlkwUVVKTVlscENlR1p1RWhkQ2FrRkxXamxJTjBZNVMyNDFUbTlRTUUxVVFtMUJaeG9pUVVaWWNrVmpjRU55WDJ4YWVHRmlXV0Z5WnpSUWNrMXlXVFJVTUUxSFEzUjVRUSIsImZjdiI6IjMiLCJlaSI6IkJqQUtaOUg3RjlLbjVOb1AwTVRCbUFnIiwicWMiOiJDZ2R3WVc1allXdGxFQUI5d3FBVFB3IiwicXVlc3Rpb24iOiJJcyBpdCBob3RjYWtlcyBvciBwYW5jYWtlcz8iLCJsayI6ImM1T1N5aXhXeUN4UnlNZ3ZTVTdNVGkxV3lDOVNLRWpNQTdNQiIsImJzIjoiYzUyTnV3ckNNQmhHY2Mza0dPTHRIMVJ3emFJT0VsQUhCU2NYTnlHbXFRbTJUVWwtcUgwM054X0pGMUM4RHdyaTl2RnhEb2NzU1dmbUNraGxWZ0tXdVE3Z1lzaGxwdVR1c3FYWGdFWjdMZWhwd2J1c2JYNWd5WjRNVmtiaTR3R2JiYjJPck00d1FPejhTMGxscENIMkxvV2d2RVJsQkQzMi1KRDFpXzkwTWlYTmF6bHlNUFlXYlRDZ1pKSThGVUVQRTk1aWplSU9iVDVCWkVScTh3QVd3VGk4bGQ2cWdxNTVuVEg3RmFoV3pnIiwiaWQiOiJmY18zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1VqZFRObFoxTkdoVk9YWnlUSEp3YkV4T2NucExObVF3WVZocFFrbzJNbHAyVDJndFdHWlZTR1UxWm1wb2NITnBUMDVZZHpRME1XSkpPRlkwUVVKTVlscENlR1p1RWhkQ2FrRkxXamxJTjBZNVMyNDFUbTlRTUUxVVFtMUJaeG9pUVVaWWNrVmpjRU55WDJ4YWVHRmlXV0Z5WnpSUWNrMXlXVFJVTUUxSFEzUjVRUSIsImZjdiI6IjMiLCJlaSI6IkJqQUtaOUg3RjlLbjVOb1AwTVRCbUFnIiwicWMiOiJDZ2R3WVc1allXdGxFQUI5d3FBVFB3IiwicXVlc3Rpb24iOiJJcyBpdCBob3RjYWtlcyBvciBwYW5jYWtlcz8iLCJsayI6ImM1T1N5aXhXeUN4UnlNZ3ZTVTdNVGkxV3lDOVNLRWpNQTdNQiIsImJzIjoiYzUyTnV3ckNNQmhHY2Mza0dPTHRIMVJ3emFJT0VsQUhCU2NYTnlHbXFRbTJUVWwtcUgwM054X0pGMUM4RHdyaTl2RnhEb2NzU1dmbUNraGxWZ0tXdVE3Z1lzaGxwdVR1c3FYWGdFWjdMZWhwd2J1c2JYNWd5WjRNVmtiaTR3R2JiYjJPck00d1FPejhTMGxscENIMkxvV2d2RVJsQkQzMi1KRDFpXzkwTWlYTmF6bHlNUFlXYlRDZ1pKSThGVUVQRTk1aWplSU9iVDVCWkVScTh3QVd3VGk4bGQ2cWdxNTVuVEg3RmFoV3pnIiwiaWQiOiJmY18zIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Good Old-Fashioned Pancakes Recipe (with Video)",
+      "link": "https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQFnoECBYQAQ",
+      "displayed_link": "https://www.allrecipes.com \u203a ... \u203a Pancake Recipes",
+      "thumbnail": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/37d4887af89b24545eb7c3feb33bdfe0c55d217568969e1d4b6872af40820e59.jpeg",
+      "favicon": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/37d4887af89b24545eb7c3feb33bdfe0b51cd04daf687a44d87359e638887782.png",
+      "date": "Nov 29, 2022",
+      "snippet": "This pancake recipe produces thick, fluffy, and all-around delicious pancakes with just a few ingredients that are probably already in your kitchen",
+      "snippet_highlighted_words": [
+        "pancake",
+        "pancakes"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Pancake Recipes",
+            "link": "https://www.allrecipes.com/recipes/151/breakfast-and-brunch/pancakes/"
+          },
+          {
+            "title": "Mom's Applesauce Pancakes",
+            "link": "https://www.allrecipes.com/recipe/21429/moms-applesauce-pancakes/"
+          },
+          {
+            "title": "Authentic Swedish Pancakes",
+            "link": "https://www.allrecipes.com/recipe/246952/authentic-swedish-pancakes/"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.5,
+            "min": 20
+          },
+          "extensions": [
+            "4.5(19,499)",
+            "20 min"
+          ]
+        }
+      },
+      "source": "Allrecipes"
+    },
+    {
+      "position": 2,
+      "title": "Best Fluffy Pancakes",
+      "link": "https://cafedelites.com/best-fluffy-pancakes/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cafedelites.com/best-fluffy-pancakes/&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQFnoECF0QAQ",
+      "displayed_link": "https://cafedelites.com \u203a Recipes",
+      "thumbnail": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/37d4887af89b24545eb7c3feb33bdfe03e4c731a72e12d0840893a580bb13e3b.jpeg",
+      "favicon": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/37d4887af89b24545eb7c3feb33bdfe0960dfd5949db178bc0f4085143674246.png",
+      "date": "Jun 20, 2024",
+      "snippet": "A steaming stack of the world's Best Fluffy Pancakes are right here! Weekends will never be the same again. No buttermilk needed! SIMPLE. EASY. QUICK. FLUFFY.",
+      "snippet_highlighted_words": [
+        "Pancakes"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "min": 25
+          },
+          "extensions": [
+            "5.0(719)",
+            "25 min"
+          ]
+        }
+      },
+      "source": "Cafe Delites"
+    },
+    {
+      "position": 3,
+      "title": "Pancake & Waffle Mixes",
+      "link": "https://birchbenders.com/collections/pancake-waffle-mix",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://birchbenders.com/collections/pancake-waffle-mix&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQFnoECFUQAQ",
+      "displayed_link": "https://birchbenders.com \u203a collections \u203a pancake-waffle...",
+      "thumbnail": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/37d4887af89b24545eb7c3feb33bdfe02612d587e8e1364b8acd60fefc79762e.jpeg",
+      "favicon": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/37d4887af89b24545eb7c3feb33bdfe002b411d4b22c2f52e590cda27c6cfa73.png",
+      "snippet": "Our Pancake & Waffle Mixes have it all: convenience, deliciousness, and quality. Just add water, mix, and make!",
+      "snippet_highlighted_words": [
+        "Pancake"
+      ],
+      "source": "Birch Benders"
+    },
+    {
+      "position": 4,
+      "title": "What would happen if we fried chicken using pancake batter?",
+      "link": "https://www.reddit.com/r/Cooking/comments/1g09wn7/what_would_happen_if_we_fried_chicken_using/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/Cooking/comments/1g09wn7/what_would_happen_if_we_fried_chicken_using/&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQFnoECF8QAQ",
+      "displayed_link": "160+ comments \u00b7 2 days ago",
+      "favicon": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/37d4887af89b24545eb7c3feb33bdfe0e11913f2acfb7a6606cadf23e8755ba4.png",
+      "snippet": "What would happen if we fried chicken using pancake batter? Step 1: season chicken. Step2: toss in wet pancake batter.",
+      "snippet_highlighted_words": [
+        "pancake",
+        "pancake"
+      ],
+      "source": "Reddit \u00b7 r/Cooking"
+    },
+    {
+      "position": 5,
+      "title": "Easy Fluffy Pancakes Recipe",
+      "link": "https://www.inspiredtaste.net/24593/essential-pancake-recipe/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.inspiredtaste.net/24593/essential-pancake-recipe/&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQFnoECFsQAQ",
+      "displayed_link": "https://www.inspiredtaste.net \u203a essential-pancake-recipe",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjEqr8dfNDb4fkg3nxxJl6lz9NeY2q7L2vTBSDet8vxt2LpVJFxrVm&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/37d4887af89b24545eb7c3feb33bdfe05ae70825e99083686ce7be4410159ea2.png",
+      "snippet": "To make pancakes, you'll whisk the flour, baking powder, and salt in a large bowl. Then, whisk melted butter, milk, egg, and vanilla in another. Stir the wet ...",
+      "snippet_highlighted_words": [
+        "pancakes"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "min": 30
+          },
+          "extensions": [
+            "5.0(451)",
+            "30 min"
+          ]
+        }
+      },
+      "source": "Inspired Taste"
+    },
+    {
+      "position": 6,
+      "title": "Best Homemade Pancakes Recipe | How to Make Scratch ...",
+      "link": "https://www.food.com/recipe/petes-scratch-pancakes-5170",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.food.com/recipe/petes-scratch-pancakes-5170&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQFnoECFkQAQ",
+      "displayed_link": "https://www.food.com \u203a Recipes \u203a Breakfast",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqf4niD90EVg1woekA8qw7Lc-GvDw8wkpB4epuTJdoMqzJileDgbCP&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/37d4887af89b24545eb7c3feb33bdfe07279521c6e74835c0924bbe55b9501e7.png",
+      "snippet": "ingredients \u00b7 2 cups flour \u00b7 3 tablespoons sugar \u00b7 \u20442 teaspoon salt \u00b7 1 tablespoon baking powder \u00b7 2 eggs, beat them separately before adding to mixture \u00b7 \u20444 ...",
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "min": 20
+          },
+          "extensions": [
+            "5.0(751)",
+            "20 min"
+          ]
+        }
+      },
+      "source": "Food.com"
+    },
+    {
+      "position": 7,
+      "title": "Homemade Pancake Recipe - Once Upon ...",
+      "link": "https://www.onceuponachef.com/recipes/best-pancake-recipe.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.onceuponachef.com/recipes/best-pancake-recipe.html&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQFnoECFoQAQ",
+      "displayed_link": "https://www.onceuponachef.com \u203a recipes \u203a best-panca...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt7ZdyssU6szSHwrlpyerLs6CC7m6KLupcGLxmfFbhQe6ZeC9Va6kh&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/37d4887af89b24545eb7c3feb33bdfe0430271c9b8d5be1993cf994fd7a1ff00.jpeg",
+      "date": "Feb 12, 2024",
+      "snippet": "TESTED & PERFECTED RECIPE - This easy pancake recipe makes the perfect pancakes: fluffy on the inside and crispy on the outside.",
+      "snippet_highlighted_words": [
+        "pancake",
+        "pancakes"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Waffle Recipe",
+            "link": "https://www.onceuponachef.com/recipes/waffle-recipe.html"
+          },
+          {
+            "title": "Banana Pancakes",
+            "link": "https://www.onceuponachef.com/recipes/banana-pancakes.html"
+          },
+          {
+            "title": "Blueberry Pancakes",
+            "link": "https://www.onceuponachef.com/recipes/blueberry-pancakes.html"
+          },
+          {
+            "title": "Ricotta Pancakes",
+            "link": "https://www.onceuponachef.com/recipes/ricotta-pancakes.html"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.7,
+            "min": 40
+          },
+          "extensions": [
+            "4.7(249)",
+            "40 min"
+          ]
+        }
+      },
+      "source": "Once Upon a Chef"
+    },
+    {
+      "position": 8,
+      "title": "The Easy Pancake Recipe I Make Every Week",
+      "link": "https://www.thekitchn.com/kitchn-cottage-cheese-pancakes-recipe-review-23681500",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thekitchn.com/kitchn-cottage-cheese-pancakes-recipe-review-23681500&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQFnoECFYQAQ",
+      "displayed_link": "https://www.thekitchn.com \u203a ... \u203a Breakfast \u203a Pancakes",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgyE9tr4A-GLhLtGC1-NDNCT9Q1fPbNyvmQejoLVGC-QrZJDXIhucb&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/37d4887af89b24545eb7c3feb33bdfe083c48396ffd59e8c2f231bc1df2ab340.png",
+      "date": "Sep 21, 2024",
+      "snippet": "You only need 3 ingredients and 2 minutes to make the batter, so they're totally doable on weekday mornings.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Za'atar Chicken Thighs",
+            "link": "https://www.thekitchn.com/zaatar-chicken-thighs-recipe-23632484"
+          },
+          {
+            "title": "Cottage Cheese Pancakes",
+            "link": "https://www.thekitchn.com/cottage-cheese-pancakes-263223"
+          },
+          {
+            "title": "Creamy Miso Butter Pasta",
+            "link": "https://www.thekitchn.com/miso-butter-pasta-recipe-23602428"
+          }
+        ]
+      },
+      "source": "The Kitchn"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Pancakes recipe",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Pancakes+recipe&sa=X&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQ1QJ6BAhhEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pancakes+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Fluffy pancake recipe",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Fluffy+pancake+recipe&sa=X&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQ1QJ6BAhgEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Fluffy+pancake+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Pancake ingredients",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Pancake+ingredients&sa=X&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQ1QJ6BAheEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pancake+ingredients"
+    },
+    {
+      "block_position": 1,
+      "query": "Easy pancake recipe",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Easy+pancake+recipe&sa=X&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQ1QJ6BAhcEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Easy+pancake+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Fluffy pancakes",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Fluffy+pancakes&sa=X&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQ1QJ6BAhYEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Fluffy+pancakes"
+    },
+    {
+      "block_position": 1,
+      "query": "Pancake recipe for 1",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Pancake+recipe+for+1&sa=X&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQ1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pancake+recipe+for+1"
+    },
+    {
+      "block_position": 1,
+      "query": "Best pancake recipe",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Best+pancake+recipe&sa=X&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQ1QJ6BAhSEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Best+pancake+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Easy pancake recipe for kids",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Easy+pancake+recipe+for+kids&sa=X&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQ1QJ6BAhREAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Easy+pancake+recipe+for+kids"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Krusteaz",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=krusteaz+pancake&sa=X&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQs9oBKAB6BQiBARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=krusteaz+pancake",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQTfAsMqTRSNjAdz8r7hRa5pPo8sZDLUu_qpIDwf8epxZSIzJmNu-fG1tF9Nz5Cmy8kkS8RJdyWQaFd1lGesuxbJMUHsyc7Azj_565PLXX7vwgveVWbPNEOWA"
+    },
+    {
+      "query": "Aunt Jemima",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=aunt+jemima+pancake&sa=X&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQs9oBKAF6BQiBARAC",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=aunt+jemima+pancake",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQz8bMv-E1A17g_LkRz0r8lfEJt4SY7MlvGeexwIlB9L1D08xz_0efrElkjxghrlIC_XfKnBLGJJK-bXDF0Az8BqA8kzu6ELhyPlSzdcc4"
+    },
+    {
+      "query": "Bisquick",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=bisquick+pancake&sa=X&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQs9oBKAJ6BQiBARAD",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bisquick+pancake",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQuhE_lK5KXnjnAfR63_ojnb2lZdb8CL1JrmSXvQkkmPrqCbHpM3GL9oPRm47kCUgWBa80yOJyCf9nNaUVyoYkrzZ0TkhqHCMJo6DV5CrcZSEjRHk313a2q"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Make",
+        "subtitle": "How Do You Make Pancakes",
+        "thumbnail": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/2adce3ec62aafdb3f76c90c0524144177d61371a694c2e1c5828f783072acc99e0e4224afeeb9796.png",
+        "web_links": [
+          {
+            "title": "Best Fluffy Pancakes - Cafe Delites",
+            "snippet": "A couple of lumps is okay, but I do like to smooth out my batter as much as I can, gently with a wire whisk. HOW TO COOK...",
+            "link": "https://cafedelites.com/best-fluffy-pancakes/",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS51zpAPCt33EPng0IK8DQgjOrVIVICaeTY0WFuZKvKxk1O_xn6wZ-da5Wc3c4",
+            "source": "Cafe Delites",
+            "source_thumbnail": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/2adce3ec62aafdb3f76c90c0524144177d61371a694c2e1c65befc5dde5317a787eb33d2b47f5b77370051c509ee54ea0e4614ff27494135.png"
+          },
+          {
+            "title": "How to Make Scratch Pancakes - Food.com",
+            "snippet": "2 ... cups flour ... 3 ... tablespoons sugar ... 1\u20442 ... teaspoon salt ... 1 ... tablespoon baking powder ...",
+            "link": "https://www.food.com/recipe/petes-scratch-pancakes-5170",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzahZ0zKIBegY4DwtdInBnwfvioAnATJ8Y6wJ1RDlP5147qVeTBWxKndDXxM8",
+            "source": "Food.com",
+            "source_thumbnail": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/2adce3ec62aafdb3f76c90c0524144177d61371a694c2e1c65befc5dde5317a7696ba3d1f3d0253ab9b38ca60ac4ac307ba6a485c9760e9f.png"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=how+do+you+make+pancakes&sa=X&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQrooIegQIFBAH",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+do+you+make+pancakes"
+      },
+      {
+        "text": "Ingredients",
+        "subtitle": "Ingredients For Pancakes",
+        "thumbnail": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/2adce3ec62aafdb3f76c90c052414417b7caf9572de1d7e5ca420a5a72fce0d7cec5cc5f39542f6e.png",
+        "web_links": [
+          {
+            "title": "Good Old-Fashioned Pancakes Recipe (with Video) -",
+            "snippet": "This pancake recipe produces thick, fluffy, and all-around delicious pancakes with just a few ingredients that are...",
+            "link": "https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZkEhrIuLaPAQCdc-ACV55zAhj7GdfZ6tLBNiIOYTVY7Ygryv_69o-lbpNHuk",
+            "source": "Allrecipes",
+            "source_thumbnail": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/2adce3ec62aafdb3f76c90c052414417b7caf9572de1d7e5c5dcf0743892447cabb5a6bba9130ed8d997122e849b0950fde478fead526d64.png"
+          },
+          {
+            "title": "Homemade Pancake Recipe - Once Upon a Chef",
+            "snippet": "Made with ingredients I always have hand\u2014like flour, baking powder, sugar, salt, milk, eggs, and butter\u2014the pancakes...",
+            "link": "https://www.onceuponachef.com/recipes/best-pancake-recipe.html",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpwz3aDUuJE5bOyQ8HBnncCiOM5PbnVkdjLRmX9ySqTI_vng0FFYV0C6hJQZ0",
+            "source": "Once Upon a Chef",
+            "source_thumbnail": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/2adce3ec62aafdb3f76c90c052414417b7caf9572de1d7e5c5dcf0743892447c85cf11f955756a74e0350616851ead4a5bd8fe2f183644cb.jpeg"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=ingredients+for+pancakes&sa=X&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQrooIegQIFBAN",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ingredients+for+pancakes"
+      },
+      {
+        "text": "Tips",
+        "subtitle": "What Makes A Good Pancake?",
+        "title": "6 Tips for Making Perfect Pancakes - Williams-Sonoma Taste",
+        "link": "https://blog.williams-sonoma.com/six-tips-for-making-perfect-pancakes/",
+        "displayed_link": "https://blog.williams-sonoma.com \u203a six-tips-for-making-...",
+        "date": "Jan 15, 2024",
+        "snippet": "Tips for the Perfect Pancakes",
+        "snippet_highlighted_words": [
+          "Tips for the Perfect Pancakes"
+        ],
+        "list": [
+          "Use Fresh Ingredients. Baking soda should be no more than six months old.",
+          "Don't Overstir the Batter. ... ",
+          "No Buttermilk, No Problem! ... ",
+          "Cook on a Hot Surface. ... ",
+          "Know When to Flip. ... ",
+          "Serve Warm."
+        ],
+        "favicon": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/2adce3ec62aafdb3f76c90c0524144175340713aa331469dbf270dce8c192fcbd00cf7082a8b4650.png",
+        "source": "williams-sonoma.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGv_5v6dE14db-ZBFrQ_gEAC-xcsHU59RfY-ALBRFLg4pK&s",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=what+makes+a+good+pancake&sa=X&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQrooIegQIFBAW",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+makes+a+good+pancake"
+      },
+      {
+        "text": "Protein Amount",
+        "subtitle": "Protein Pancake Mix",
+        "title": "Quick & Easy Protein Pancake Bowl Recipe - TikTok",
+        "link": "https://www.tiktok.com/@ashley.paiige/video/7344043644514569514?lang=en#:~:text=healthy%20pancake%20breakfast%20bowl%20%F0%9F%A4%8E,and%20top%20with%20favorite%20toppings!",
+        "displayed_link": "https://www.tiktok.com \u203a video",
+        "date": "Mar 8, 2024",
+        "snippet": "healthy pancake breakfast bowl \ud83e\udd0e ready in 2 minutes and tons of protein! 1/4 cup pancake mix 1/4 cup liquid egg whites 1 scoop protein powder optional: almond milk or water (add until you reach desired consistency) optional: chocolate chips microwave for 1:30-2 mins and top with favorite toppings!",
+        "snippet_highlighted_words": [
+          "healthy pancake breakfast bowl"
+        ],
+        "favicon": "https://serpapi.com/searches/670a300675f9747e854c1c8f/images/2adce3ec62aafdb3f76c90c0524144173d781786465c61b913ae089c88a65536734237096a0cd217.png",
+        "source": "tiktok.com",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=protein+pancake+mix&sa=X&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQrooIegQIFBAc",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=protein+pancake+mix"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=pancake&sca_esv=7d18109a394306ad&ei=BjAKZ9H7F9Kn5NoP0MTBmAg&start=10&sa=N&sstk=Aagrsug2YhdSSxpb8w8oZKk2fR-8OAt2YxVK8u0Lf0Qq6fuiSTpB-hyCVUNqPgiLUJ7Elk0lr9tiJk-LZHgAl_R90l5BQyoreik5Eg&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQ8NMDegQIDRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=pancake&sca_esv=7d18109a394306ad&ei=BjAKZ9H7F9Kn5NoP0MTBmAg&start=10&sa=N&sstk=Aagrsug2YhdSSxpb8w8oZKk2fR-8OAt2YxVK8u0Lf0Qq6fuiSTpB-hyCVUNqPgiLUJ7Elk0lr9tiJk-LZHgAl_R90l5BQyoreik5Eg&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQ8tMDegQIDRAE",
+      "3": "https://www.google.com/search?q=pancake&sca_esv=7d18109a394306ad&ei=BjAKZ9H7F9Kn5NoP0MTBmAg&start=20&sa=N&sstk=Aagrsug2YhdSSxpb8w8oZKk2fR-8OAt2YxVK8u0Lf0Qq6fuiSTpB-hyCVUNqPgiLUJ7Elk0lr9tiJk-LZHgAl_R90l5BQyoreik5Eg&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQ8tMDegQIDRAG",
+      "4": "https://www.google.com/search?q=pancake&sca_esv=7d18109a394306ad&ei=BjAKZ9H7F9Kn5NoP0MTBmAg&start=30&sa=N&sstk=Aagrsug2YhdSSxpb8w8oZKk2fR-8OAt2YxVK8u0Lf0Qq6fuiSTpB-hyCVUNqPgiLUJ7Elk0lr9tiJk-LZHgAl_R90l5BQyoreik5Eg&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQ8tMDegQIDRAI",
+      "5": "https://www.google.com/search?q=pancake&sca_esv=7d18109a394306ad&ei=BjAKZ9H7F9Kn5NoP0MTBmAg&start=40&sa=N&sstk=Aagrsug2YhdSSxpb8w8oZKk2fR-8OAt2YxVK8u0Lf0Qq6fuiSTpB-hyCVUNqPgiLUJ7Elk0lr9tiJk-LZHgAl_R90l5BQyoreik5Eg&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQ8tMDegQIDRAK",
+      "6": "https://www.google.com/search?q=pancake&sca_esv=7d18109a394306ad&ei=BjAKZ9H7F9Kn5NoP0MTBmAg&start=50&sa=N&sstk=Aagrsug2YhdSSxpb8w8oZKk2fR-8OAt2YxVK8u0Lf0Qq6fuiSTpB-hyCVUNqPgiLUJ7Elk0lr9tiJk-LZHgAl_R90l5BQyoreik5Eg&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQ8tMDegQIDRAM",
+      "7": "https://www.google.com/search?q=pancake&sca_esv=7d18109a394306ad&ei=BjAKZ9H7F9Kn5NoP0MTBmAg&start=60&sa=N&sstk=Aagrsug2YhdSSxpb8w8oZKk2fR-8OAt2YxVK8u0Lf0Qq6fuiSTpB-hyCVUNqPgiLUJ7Elk0lr9tiJk-LZHgAl_R90l5BQyoreik5Eg&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQ8tMDegQIDRAO",
+      "8": "https://www.google.com/search?q=pancake&sca_esv=7d18109a394306ad&ei=BjAKZ9H7F9Kn5NoP0MTBmAg&start=70&sa=N&sstk=Aagrsug2YhdSSxpb8w8oZKk2fR-8OAt2YxVK8u0Lf0Qq6fuiSTpB-hyCVUNqPgiLUJ7Elk0lr9tiJk-LZHgAl_R90l5BQyoreik5Eg&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQ8tMDegQIDRAQ",
+      "9": "https://www.google.com/search?q=pancake&sca_esv=7d18109a394306ad&ei=BjAKZ9H7F9Kn5NoP0MTBmAg&start=80&sa=N&sstk=Aagrsug2YhdSSxpb8w8oZKk2fR-8OAt2YxVK8u0Lf0Qq6fuiSTpB-hyCVUNqPgiLUJ7Elk0lr9tiJk-LZHgAl_R90l5BQyoreik5Eg&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQ8tMDegQIDRAS",
+      "10": "https://www.google.com/search?q=pancake&sca_esv=7d18109a394306ad&ei=BjAKZ9H7F9Kn5NoP0MTBmAg&start=90&sa=N&sstk=Aagrsug2YhdSSxpb8w8oZKk2fR-8OAt2YxVK8u0Lf0Qq6fuiSTpB-hyCVUNqPgiLUJ7Elk0lr9tiJk-LZHgAl_R90l5BQyoreik5Eg&ved=2ahUKEwjRlraas4iJAxXSE1kFHVBiEIMQ8tMDegQIDRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pancake&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pancake&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pancake&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pancake&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pancake&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pancake&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pancake&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pancake&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pancake&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pancake&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pancake&start=90"
+    }
+  }
+}

@@ -1,0 +1,733 @@
+{
+  "search_metadata": {
+    "id": "670a301f48c429ded6a44771",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8745d07f9df97056/670a301f48c429ded6a44771.json",
+    "created_at": "2024-10-12 08:15:27 UTC",
+    "processed_at": "2024-10-12 08:15:27 UTC",
+    "google_url": "https://www.google.com/search?q=bulgur&oq=bulgur&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/8745d07f9df97056/670a301f48c429ded6a44771.html",
+    "total_time_taken": 0.66
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "bulgur",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "bulgur",
+    "total_results": 35900000,
+    "time_taken_displayed": 0.28,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "title": "Bulgur",
+    "type": "Foodstuff",
+    "entity_type": "food, kp3_verticals",
+    "kgmid": "/m/01s6l_",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/01s6l_&hl=en-US&q=Bulgur",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F01s6l_&location=Austin%2CTexas%2CUnited+States&q=Bulgur",
+    "description": "Bulgur, or burghul, is a cracked wheat foodstuff found in South Asian cuisine and West Asian cuisine.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Bulgur"
+    },
+    "flavors": "nutty allrecipes.com",
+    "flavors_links": [
+      {
+        "text": "allrecipes.com",
+        "link": "https://www.allrecipes.com/article/what-is-bulgur-wheat/"
+      }
+    ],
+    "sources_include": "USDAUSDABulgur, dry479 Calories - 1 cup (140 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170287/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170688/nutrients"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Couscous",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmzvBa4kUy6crrcSFg0pkR9AwKTITasb5f7cctJZofuk4ziTUx4m9zWdTaRMCh9sghOOrmpjq8PulJj-CmI2-F3t0ygnsouE2naSrbW73ZNva8iS3F2QRA37KrkGKNMH8o-CT0atXioSS8TCEn9o-xa8TasrewQn7DUR5cwIgfIZ4-6iglO_YY9LKcNklqqLEwh-neVbWSETpIEVQqkBlLVjoSd0Di7F4yXg4czD4yJTrgIVYzi3RZZUpDjOczgRb9JFKQ2c%3D&q=Couscous&sa=X&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQs9oBKAB6BAg2EAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Couscous&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmzvBa4kUy6crrcSFg0pkR9AwKTITasb5f7cctJZofuk4ziTUx4m9zWdTaRMCh9sghOOrmpjq8PulJj-CmI2-F3t0ygnsouE2naSrbW73ZNva8iS3F2QRA37KrkGKNMH8o-CT0atXioSS8TCEn9o-xa8TasrewQn7DUR5cwIgfIZ4-6iglO_YY9LKcNklqqLEwh-neVbWSETpIEVQqkBlLVjoSd0Di7F4yXg4czD4yJTrgIVYzi3RZZUpDjOczgRb9JFKQ2c%3D",
+        "image": "https://serpapi.com/searches/670a301f48c429ded6a44771/images/00a6f9db44895837ec2cf3fec608e43ec07f2440e41c5ebbebd5fe9ef8345434dd19f6b90085407857a3425c0159bca2.jpeg"
+      },
+      {
+        "name": "Quinoa",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm5nJZXlKyfQL9ILla3ICk_UAm_OzeHDeK-OhmJ3aV-a28FViSBq-Zd7Ya9smorSctHRTLQcnwzuRVo6UsWFweIkrMFpuY5IBPJ-FzaWUBc7SUXqse53qDIr9kc-lMej1kl_ByERQODFwk4pJteOvsPH-78IYRCO2loRpaB4fpRcG4z6m9DUzfwV40W-UMl4jarTLznCs9M4VJ58xVZI5-0OTxVeMbeebB_Pl6737fPaVb1zxj0TEmXHWrizSXhIJF-yB1Ww%3D&q=Quinoa&sa=X&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQs9oBKAB6BAg2EAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Quinoa&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm5nJZXlKyfQL9ILla3ICk_UAm_OzeHDeK-OhmJ3aV-a28FViSBq-Zd7Ya9smorSctHRTLQcnwzuRVo6UsWFweIkrMFpuY5IBPJ-FzaWUBc7SUXqse53qDIr9kc-lMej1kl_ByERQODFwk4pJteOvsPH-78IYRCO2loRpaB4fpRcG4z6m9DUzfwV40W-UMl4jarTLznCs9M4VJ58xVZI5-0OTxVeMbeebB_Pl6737fPaVb1zxj0TEmXHWrizSXhIJF-yB1Ww%3D",
+        "image": "https://serpapi.com/searches/670a301f48c429ded6a44771/images/00a6f9db44895837ec2cf3fec608e43ec07f2440e41c5ebbebd5fe9ef834543401aa2cfd1dc302a400659de66f0874cc.jpeg"
+      },
+      {
+        "name": "Tabbouleh",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L-o7NXWWmq6JfYglrWIZ2BpzKq862dnKZRGOW5DZqT6UApncHhG7qxdeFc9L6ZqIhAtME1Xyo-Sw1E86p1MbqjzGuLS4SbfeObrGiYVxo_qH-F-b1XUTPGOqIYS0XgHS6xCvas2ycHRNeyVfTpNAbyaRJVes3uGnfJT_GWEeratXUgrbYInWhwXCkr_-ryyA_3yMwmRZaLQBwf_9S5aExIqOiLg3Du6SaKUrrrJ18MsFJgU0872G6d7MRP2UbWDGcr333-I%3D&q=Tabbouleh&sa=X&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQs9oBKAB6BAg2EA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Tabbouleh&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L-o7NXWWmq6JfYglrWIZ2BpzKq862dnKZRGOW5DZqT6UApncHhG7qxdeFc9L6ZqIhAtME1Xyo-Sw1E86p1MbqjzGuLS4SbfeObrGiYVxo_qH-F-b1XUTPGOqIYS0XgHS6xCvas2ycHRNeyVfTpNAbyaRJVes3uGnfJT_GWEeratXUgrbYInWhwXCkr_-ryyA_3yMwmRZaLQBwf_9S5aExIqOiLg3Du6SaKUrrrJ18MsFJgU0872G6d7MRP2UbWDGcr333-I%3D",
+        "image": "https://serpapi.com/searches/670a301f48c429ded6a44771/images/00a6f9db44895837ec2cf3fec608e43ec07f2440e41c5ebbebd5fe9ef83454344b434447a963d2bf3b6e79838524bfc8.jpeg"
+      },
+      {
+        "name": "Rice",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmwDU0M85xEhlGfzNISqBI1NaKnAAFhozCv1B-6XCLmGP_hYWal6slCZXaAtSRxnOv3dORPOduYf_mZPM8OjFKhG8g7Cwd_augZLqKSO-dXJcr_sPaYmC6vXYNyACS6F-2S6M2C4iYLiDzJIzU2DsbmrirD1nkQB6pQ-weXOMIuM4ktuD2c_KjjHriEEMmF8O5cg6iKxv6DmfacGK4lDzgclGIUbnnw3yRoOC8ycgLLH0KHVNzQ%3D%3D&q=Rice&sa=X&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQs9oBKAB6BAg2EBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Rice&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmwDU0M85xEhlGfzNISqBI1NaKnAAFhozCv1B-6XCLmGP_hYWal6slCZXaAtSRxnOv3dORPOduYf_mZPM8OjFKhG8g7Cwd_augZLqKSO-dXJcr_sPaYmC6vXYNyACS6F-2S6M2C4iYLiDzJIzU2DsbmrirD1nkQB6pQ-weXOMIuM4ktuD2c_KjjHriEEMmF8O5cg6iKxv6DmfacGK4lDzgclGIUbnnw3yRoOC8ycgLLH0KHVNzQ%3D%3D",
+        "image": "https://serpapi.com/searches/670a301f48c429ded6a44771/images/00a6f9db44895837ec2cf3fec608e43ec07f2440e41c5ebbebd5fe9ef834543435570f53885dc21eb2a1253d67f28007.jpeg"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "1.9 g",
+        "2%"
+      ],
+      "cholesterol": [
+        "0 mg",
+        "0%"
+      ],
+      "sodium": [
+        "24 mg",
+        "1%"
+      ],
+      "potassium": [
+        "574 mg",
+        "16%"
+      ],
+      "total_carbohydrate": [
+        "106 g",
+        "35%"
+      ],
+      "protein": [
+        "17 g",
+        "34%"
+      ]
+    }
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "One Pot Chicken Bulgur Recipe",
+      "link": "https://www.youtube.com/watch?v=xcSQ9G7domE",
+      "thumbnail": "https://i.ytimg.com/vi/xcSQ9G7domE/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kZXarjbvBhTpC29bsmeUK4KGHjjg",
+      "channel": "The Cooking Foodie",
+      "duration": "2:38",
+      "date": "Jun 13, 2024"
+    },
+    {
+      "position": 2,
+      "title": "What is Bulgur?",
+      "link": "https://www.youtube.com/watch?v=UvpO8kby7po",
+      "thumbnail": "https://i.ytimg.com/vi/UvpO8kby7po/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3nUfeCSmyH4PFMZg3yE73Bx-5k1hg",
+      "channel": "Know Watts Cooking",
+      "duration": "1:22",
+      "date": "Nov 19, 2022",
+      "key_moments": [
+        {
+          "time": "00:14",
+          "title": "What Is Bulgur",
+          "link": "https://www.youtube.com/watch?v=UvpO8kby7po&t=14",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8T5onhf04sFmMqIG8rTvyZMrhN9fTsAZ_R-1F_wSvzQ&s"
+        },
+        {
+          "time": "00:31",
+          "title": "To Make Bulgur",
+          "link": "https://www.youtube.com/watch?v=UvpO8kby7po&t=31",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9QVuktj5ivY23atL0M2HHdyVvQWh7v3G-48DZF1tYjA&s"
+        },
+        {
+          "time": "00:59",
+          "title": "Fiber",
+          "link": "https://www.youtube.com/watch?v=UvpO8kby7po&t=59",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWErdgUCxNftOfm3kYxyOXmTTqghRJj3O6LqLZ6QZyPA&s"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "Bulgur Pilaf Middle Eastern Style",
+      "link": "https://www.youtube.com/watch?v=atFPBzE0O74",
+      "thumbnail": "https://i.ytimg.com/vi/atFPBzE0O74/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kyKMKiPigZcK1NrkdukMtc0Lbiyw",
+      "channel": "Sally That Girl in the Kitchen",
+      "duration": "10:33",
+      "date": "Jun 14, 2023"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is bulgur healthier than rice?",
+      "snippet": "In terms of nutrition, bulgur holds its own when compared to fiber-rich brown rice \u2013 with more than twice the fiber and four times as much folate! Bulgur can be used in recipes calling for converted rice, and has been found to be more nutritious than rice.",
+      "title": "Bulgur vs Brown Rice - Sunnyland Mills",
+      "link": "https://sunnylandmills.com/bulgur-vs-brown-rice/#:~:text=In%20terms%20of%20nutrition%2C%20bulgur,be%20more%20nutritious%20than%20rice.",
+      "displayed_link": "https://sunnylandmills.com \u203a bulgur-vs-brown-rice",
+      "source_logo": "https://serpapi.com/searches/670a301f48c429ded6a44771/images/0beaf4d4239eea68ede9d04d93f8efe6d46058f35ef0e7b34a325625a0f65455.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmRYcEtlRGhvYzB0QlFtbHhhelF3TVRCQ1ozUkthRFJ0TVVwWGRUTkNSMUZTUWtOVVVHSnVVbTlEZW1KamNsTnhPVGhXWlRsNE1GOUlZV04xV0RsSk1tRlRSbFZrRWhkSWVrRkxXalZtYUV3M1gyTndkRkZRZW1OZk5XZEJZeG9pUVVaWWNrVmpiMlpGTTNSSFdVbHFNMmRRYjJOVlpITmtTR3B2VFRGbmVrNXVadyIsImZjdiI6IjMiLCJlaSI6Ikh6QUtaNWZoTDdfY3B0UVB6Y181Z0FjIiwicWMiOiJDZ1ppZFd4bmRYSVFBSDBjeFNZXyIsInF1ZXN0aW9uIjoiSXMgYnVsZ3VyIGhlYWx0aGllciB0aGFuIHJpY2U/IiwibGsiOiJHaDFwY3lCaWRXeG5kWElnYUdWaGJIUm9hV1Z5SUhSb1lXNGdjbWxqWlEiLCJicyI6ImMtTnk0Wkx6TEZaSUtzMUpMeTFTeUVoTnpDbkp5RXd0VWlqSlNNeFRLTXBNVHJXWGFJdzBrcGVTemNTbmlDdUdTeXM4STdGRUFhaXFKQ05WSVNXek9ER2xMREd2SkRFOVZTRV9UU0Uxc1NRekx4MXFnTDNFTkNNamJTbk5jbUkxY0tHNE1iOUlvYkEwTXk4X0VlRVFlNGwzdHFodXhLS0l5NGxMRm1GS1ZtbHhpVUp5VVdKeWRtcUtRamxRVVltOXhEazVJemtwbVV3OGFnUVlBUSIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmRYcEtlRGhvYzB0QlFtbHhhelF3TVRCQ1ozUkthRFJ0TVVwWGRUTkNSMUZTUWtOVVVHSnVVbTlEZW1KamNsTnhPVGhXWlRsNE1GOUlZV04xV0RsSk1tRlRSbFZrRWhkSWVrRkxXalZtYUV3M1gyTndkRkZRZW1OZk5XZEJZeG9pUVVaWWNrVmpiMlpGTTNSSFdVbHFNMmRRYjJOVlpITmtTR3B2VFRGbmVrNXVadyIsImZjdiI6IjMiLCJlaSI6Ikh6QUtaNWZoTDdfY3B0UVB6Y181Z0FjIiwicWMiOiJDZ1ppZFd4bmRYSVFBSDBjeFNZXyIsInF1ZXN0aW9uIjoiSXMgYnVsZ3VyIGhlYWx0aGllciB0aGFuIHJpY2U%2FIiwibGsiOiJHaDFwY3lCaWRXeG5kWElnYUdWaGJIUm9hV1Z5SUhSb1lXNGdjbWxqWlEiLCJicyI6ImMtTnk0Wkx6TEZaSUtzMUpMeTFTeUVoTnpDbkp5RXd0VWlqSlNNeFRLTXBNVHJXWGFJdzBrcGVTemNTbmlDdUdTeXM4STdGRUFhaXFKQ05WSVNXek9ER2xMREd2SkRFOVZTRV9UU0Uxc1NRekx4MXFnTDNFTkNNamJTbk5jbUkxY0tHNE1iOUlvYkEwTXk4X0VlRVFlNGwzdHFodXhLS0l5NGxMRm1GS1ZtbHhpVUp5VVdKeWRtcUtRamxRVVltOXhEazVJemtwbVV3OGFnUVlBUSIsImlkIjoiZmNfMSJ9"
+    },
+    {
+      "question": "What is the disadvantage of eating bulgur?",
+      "snippet": "Some people with chronic bowel disease, such as inflammatory bowel disease or irritable bowel syndrome, may not be able to tolerate bulgur due to its insoluble fiber content.",
+      "title": "What is bulgur? How to cook? Advantages and disadvantages",
+      "date": "Dec 27, 2021",
+      "link": "https://www.foods-mkm.eu/what-is-bulgur-how-to-cook-advantages-and-disadvantages-mkm-foods.html#:~:text=Some%20people%20with%20chronic%20bowel,to%20its%20insoluble%20fiber%20content.",
+      "displayed_link": "https://www.foods-mkm.eu \u203a what-is-bulgur-how-to-coo...",
+      "source_logo": "https://serpapi.com/searches/670a301f48c429ded6a44771/images/0beaf4d4239eea68ede9d04d93f8efe67c41d334e9b31871a343da7e21c0983a.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmRYcEtlRGhvYzB0QlFtbHhhelF3TVRCQ1ozUkthRFJ0TVVwWGRUTkNSMUZTUWtOVVVHSnVVbTlEZW1KamNsTnhPVGhXWlRsNE1GOUlZV04xV0RsSk1tRlRSbFZrRWhkSWVrRkxXalZtYUV3M1gyTndkRkZRZW1OZk5XZEJZeG9pUVVaWWNrVmpiMlpGTTNSSFdVbHFNMmRRYjJOVlpITmtTR3B2VFRGbmVrNXVadyIsImZjdiI6IjMiLCJlaSI6Ikh6QUtaNWZoTDdfY3B0UVB6Y181Z0FjIiwicWMiOiJDZ1ppZFd4bmRYSVFBSDBjeFNZXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZGlzYWR2YW50YWdlIG9mIGVhdGluZyBidWxndXI/IiwibGsiOiJHaWwzYUdGMElHbHpJSFJvWlNCa2FYTmhaSFpoYm5SaFoyVWdiMllnWldGMGFXNW5JR0oxYkdkMWNnIiwiYnMiOiJjLU55NFpMekxGWklLczFKTHkxU3lFaE56Q25KeUV3dFVpakpTTXhUS01wTVRyV1hhSXcwa3BlU3pjU25pQ3VHU3lzOEk3RkVBYWlxSkNOVklTV3pPREdsTERHdkpERTlWU0VfVFNFMXNTUXpMeDFxZ0wzRU5DTWpiU25OY21JMWNLRzRNYjlJb2JBME15OF9FZUVRZTRsM3RxaHV4S0tJeTRsTEZtRktWbWx4aVVKeVVXSnlkbXFLUWpsUVVZbTl4RGs1SXprcG1VdzhhZ1FZQVEiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmRYcEtlRGhvYzB0QlFtbHhhelF3TVRCQ1ozUkthRFJ0TVVwWGRUTkNSMUZTUWtOVVVHSnVVbTlEZW1KamNsTnhPVGhXWlRsNE1GOUlZV04xV0RsSk1tRlRSbFZrRWhkSWVrRkxXalZtYUV3M1gyTndkRkZRZW1OZk5XZEJZeG9pUVVaWWNrVmpiMlpGTTNSSFdVbHFNMmRRYjJOVlpITmtTR3B2VFRGbmVrNXVadyIsImZjdiI6IjMiLCJlaSI6Ikh6QUtaNWZoTDdfY3B0UVB6Y181Z0FjIiwicWMiOiJDZ1ppZFd4bmRYSVFBSDBjeFNZXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZGlzYWR2YW50YWdlIG9mIGVhdGluZyBidWxndXI%2FIiwibGsiOiJHaWwzYUdGMElHbHpJSFJvWlNCa2FYTmhaSFpoYm5SaFoyVWdiMllnWldGMGFXNW5JR0oxYkdkMWNnIiwiYnMiOiJjLU55NFpMekxGWklLczFKTHkxU3lFaE56Q25KeUV3dFVpakpTTXhUS01wTVRyV1hhSXcwa3BlU3pjU25pQ3VHU3lzOEk3RkVBYWlxSkNOVklTV3pPREdsTERHdkpERTlWU0VfVFNFMXNTUXpMeDFxZ0wzRU5DTWpiU25OY21JMWNLRzRNYjlJb2JBME15OF9FZUVRZTRsM3RxaHV4S0tJeTRsTEZtRktWbWx4aVVKeVVXSnlkbXFLUWpsUVVZbTl4RGs1SXprcG1VdzhhZ1FZQVEiLCJpZCI6ImZjXzEifQ%3D%3D"
+    },
+    {
+      "question": "Is bulgur or quinoa healthier?",
+      "snippet": "If you are watching calories, and looking for weight loss, bulgur may be a better option for you. If you are looking for maximizing your vitamins and minerals intake, you should go for quinoa.",
+      "title": "\"Which is healthier\" Quinoa or Bulgur? - :: Nutrizonia ::",
+      "link": "https://www.nutrizonia.com/which-is-healthier-quinoa-or-bulgur/#:~:text=If%20you%20are%20watching%20calories,you%20should%20go%20for%20quinoa.",
+      "displayed_link": "https://www.nutrizonia.com \u203a which-is-healthier-quinoa-...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmd_7FcstwclcanOujzsGu0G1XIOhsrZTVO-NnRLcJUw&s",
+      "source_logo": "https://serpapi.com/searches/670a301f48c429ded6a44771/images/0beaf4d4239eea68ede9d04d93f8efe64c5cf11d0cf4894dfc0a0cad3a00088a.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmRYcEtlRGhvYzB0QlFtbHhhelF3TVRCQ1ozUkthRFJ0TVVwWGRUTkNSMUZTUWtOVVVHSnVVbTlEZW1KamNsTnhPVGhXWlRsNE1GOUlZV04xV0RsSk1tRlRSbFZrRWhkSWVrRkxXalZtYUV3M1gyTndkRkZRZW1OZk5XZEJZeG9pUVVaWWNrVmpiMlpGTTNSSFdVbHFNMmRRYjJOVlpITmtTR3B2VFRGbmVrNXVadyIsImZjdiI6IjMiLCJlaSI6Ikh6QUtaNWZoTDdfY3B0UVB6Y181Z0FjIiwicWMiOiJDZ1ppZFd4bmRYSVFBSDBjeFNZXyIsInF1ZXN0aW9uIjoiSXMgYnVsZ3VyIG9yIHF1aW5vYSBoZWFsdGhpZXI/IiwibGsiOiJHaDFwY3lCaWRXeG5kWElnYjNJZ2NYVnBibTloSUdobFlXeDBhR2xsY2ciLCJicyI6ImMtTnk0Wkx6TEZaSUtzMUpMeTFTeUVoTnpDbkp5RXd0VWlqSlNNeFRLTXBNVHJXWGFJdzBrcGVTemNTbmlDdUdTeXM4STdGRUFhaXFKQ05WSVNXek9ER2xMREd2SkRFOVZTRV9UU0Uxc1NRekx4MXFnTDNFTkNNamJTbk5jbUkxY0tHNE1iOUlvYkEwTXk4X0VlRVFlNGwzdHFodXhLS0l5NGxMRm1GS1ZtbHhpVUp5VVdKeWRtcUtRamxRVVltOXhEazVJemtwbVV3OGFnUVlBUSIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmRYcEtlRGhvYzB0QlFtbHhhelF3TVRCQ1ozUkthRFJ0TVVwWGRUTkNSMUZTUWtOVVVHSnVVbTlEZW1KamNsTnhPVGhXWlRsNE1GOUlZV04xV0RsSk1tRlRSbFZrRWhkSWVrRkxXalZtYUV3M1gyTndkRkZRZW1OZk5XZEJZeG9pUVVaWWNrVmpiMlpGTTNSSFdVbHFNMmRRYjJOVlpITmtTR3B2VFRGbmVrNXVadyIsImZjdiI6IjMiLCJlaSI6Ikh6QUtaNWZoTDdfY3B0UVB6Y181Z0FjIiwicWMiOiJDZ1ppZFd4bmRYSVFBSDBjeFNZXyIsInF1ZXN0aW9uIjoiSXMgYnVsZ3VyIG9yIHF1aW5vYSBoZWFsdGhpZXI%2FIiwibGsiOiJHaDFwY3lCaWRXeG5kWElnYjNJZ2NYVnBibTloSUdobFlXeDBhR2xsY2ciLCJicyI6ImMtTnk0Wkx6TEZaSUtzMUpMeTFTeUVoTnpDbkp5RXd0VWlqSlNNeFRLTXBNVHJXWGFJdzBrcGVTemNTbmlDdUdTeXM4STdGRUFhaXFKQ05WSVNXek9ER2xMREd2SkRFOVZTRV9UU0Uxc1NRekx4MXFnTDNFTkNNamJTbk5jbUkxY0tHNE1iOUlvYkEwTXk4X0VlRVFlNGwzdHFodXhLS0l5NGxMRm1GS1ZtbHhpVUp5VVdKeWRtcUtRamxRVVltOXhEazVJemtwbVV3OGFnUVlBUSIsImlkIjoiZmNfMSJ9"
+    },
+    {
+      "question": "Is bulgur just cracked wheat?",
+      "snippet": "Bulgur (sometimes spelled bulghur) is a form of whole wheat that has been cracked, cleaned, parboiled (or steamed), dried and then ground into various sizes. Bulgur is sold by its size. It isn't cracked wheat, which are whole raw wheat berries that have been milled into smaller pieces.",
+      "title": "Don't confuse bulgur with cracked wheat - The Denver Post",
+      "date": "May 15, 2019",
+      "link": "https://www.denverpost.com/2019/05/15/bulgur-get-cooking/#:~:text=Bulgur%20(sometimes%20spelled%20bulghur)%20is,been%20milled%20into%20smaller%20pieces.",
+      "displayed_link": "https://www.denverpost.com \u203a bulgur-get-cooking",
+      "source_logo": "https://serpapi.com/searches/670a301f48c429ded6a44771/images/0beaf4d4239eea68ede9d04d93f8efe62c424e19e0a2a8cb3b72dab8afbffe06.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmRYcEtlRGhvYzB0QlFtbHhhelF3TVRCQ1ozUkthRFJ0TVVwWGRUTkNSMUZTUWtOVVVHSnVVbTlEZW1KamNsTnhPVGhXWlRsNE1GOUlZV04xV0RsSk1tRlRSbFZrRWhkSWVrRkxXalZtYUV3M1gyTndkRkZRZW1OZk5XZEJZeG9pUVVaWWNrVmpiMlpGTTNSSFdVbHFNMmRRYjJOVlpITmtTR3B2VFRGbmVrNXVadyIsImZjdiI6IjMiLCJlaSI6Ikh6QUtaNWZoTDdfY3B0UVB6Y181Z0FjIiwicWMiOiJDZ1ppZFd4bmRYSVFBSDBjeFNZXyIsInF1ZXN0aW9uIjoiSXMgYnVsZ3VyIGp1c3QgY3JhY2tlZCB3aGVhdD8iLCJsayI6IkdoeHBjeUJpZFd4bmRYSWdhblZ6ZENCamNtRmphMlZrSUhkb1pXRjAiLCJicyI6ImMtTnk0Wkx6TEZaSUtzMUpMeTFTeUVoTnpDbkp5RXd0VWlqSlNNeFRLTXBNVHJXWGFJdzBrcGVTemNTbmlDdUdTeXM4STdGRUFhaXFKQ05WSVNXek9ER2xMREd2SkRFOVZTRV9UU0Uxc1NRekx4MXFnTDNFTkNNamJTbk5jbUkxY0tHNE1iOUlvYkEwTXk4X0VlRVFlNGwzdHFodXhLS0l5NGxMRm1GS1ZtbHhpVUp5VVdKeWRtcUtRamxRVVltOXhEazVJemtwbVV3OGFnUVlBUSIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmRYcEtlRGhvYzB0QlFtbHhhelF3TVRCQ1ozUkthRFJ0TVVwWGRUTkNSMUZTUWtOVVVHSnVVbTlEZW1KamNsTnhPVGhXWlRsNE1GOUlZV04xV0RsSk1tRlRSbFZrRWhkSWVrRkxXalZtYUV3M1gyTndkRkZRZW1OZk5XZEJZeG9pUVVaWWNrVmpiMlpGTTNSSFdVbHFNMmRRYjJOVlpITmtTR3B2VFRGbmVrNXVadyIsImZjdiI6IjMiLCJlaSI6Ikh6QUtaNWZoTDdfY3B0UVB6Y181Z0FjIiwicWMiOiJDZ1ppZFd4bmRYSVFBSDBjeFNZXyIsInF1ZXN0aW9uIjoiSXMgYnVsZ3VyIGp1c3QgY3JhY2tlZCB3aGVhdD8iLCJsayI6IkdoeHBjeUJpZFd4bmRYSWdhblZ6ZENCamNtRmphMlZrSUhkb1pXRjAiLCJicyI6ImMtTnk0Wkx6TEZaSUtzMUpMeTFTeUVoTnpDbkp5RXd0VWlqSlNNeFRLTXBNVHJXWGFJdzBrcGVTemNTbmlDdUdTeXM4STdGRUFhaXFKQ05WSVNXek9ER2xMREd2SkRFOVZTRV9UU0Uxc1NRekx4MXFnTDNFTkNNamJTbk5jbUkxY0tHNE1iOUlvYkEwTXk4X0VlRVFlNGwzdHFodXhLS0l5NGxMRm1GS1ZtbHhpVUp5VVdKeWRtcUtRamxRVVltOXhEazVJemtwbVV3OGFnUVlBUSIsImlkIjoiZmNfMSJ9"
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "Bulgur - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Bulgur#:~:text=Bulgur%20is%20a%20common%20ingredient,United%20States%20Department%20of%20Agriculture.",
+    "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Bulgur",
+    "snippet": "Bulgur is a common ingredient in cuisines of many countries of the West Asian cuisine and Mediterranean Basin. It has a light, nutty flavor. Bulgur is recognized as a whole grain by the United States Department of Agriculture.",
+    "snippet_highlighted_words": [
+      "a common ingredient in cuisines of many countries of the West Asian cuisine and Mediterranean Basin"
+    ],
+    "favicon": "https://serpapi.com/searches/670a301f48c429ded6a44771/images/eff228d5f62daa2462be8f2b3a7822a323af7a2ec931900f.png",
+    "source": "Wikipedia",
+    "images": [
+      "https://serpapi.com/searches/670a301f48c429ded6a44771/images/eff228d5f62daa24c0210d92c6a7ef9e2afe8536ded3c428.jpeg",
+      "https://serpapi.com/searches/670a301f48c429ded6a44771/images/eff228d5f62daa24c0210d92c6a7ef9eea63053843f55a4f.jpeg",
+      "https://serpapi.com/searches/670a301f48c429ded6a44771/images/eff228d5f62daa24c0210d92c6a7ef9e4d3aac770ba95a57.jpeg"
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "How to Cook Bulgur Wheat (Recipe + Tips)",
+      "link": "https://www.themediterraneandish.com/how-to-cook-bulgur-wheat/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.themediterraneandish.com/how-to-cook-bulgur-wheat/&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQFnoECFAQAQ",
+      "displayed_link": "https://www.themediterraneandish.com \u203a ... \u203a How To",
+      "favicon": "https://serpapi.com/searches/670a301f48c429ded6a44771/images/74b2712414e84f44cd486af383dfb2ac2d3dd420ef815bffb8edc8af2c2b5065.png",
+      "date": "May 2, 2022",
+      "snippet": "This bulgur wheat recipe is as simple as rinsing, boiling, and fluffing! Here's how to cook coarse or medium bulgur (see below for how to prep fine bulgur!)",
+      "snippet_highlighted_words": [
+        "bulgur",
+        "bulgur",
+        "bulgur"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Bulgur wheat",
+            "link": "https://www.themediterraneandish.com/how-to-cook-bulgur-wheat/#h-bulgur-wheat-nbsp"
+          },
+          {
+            "title": "How to cook bulgur wheat",
+            "link": "https://www.themediterraneandish.com/how-to-cook-bulgur-wheat/#h-how-to-cook-bulgur-wheat-nbsp"
+          },
+          {
+            "title": "How to cook fine bulgur",
+            "link": "https://www.themediterraneandish.com/how-to-cook-bulgur-wheat/#h-how-to-cook-fine-bulgur-nbsp"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "min": 14
+          },
+          "extensions": [
+            "5.0(18)",
+            "14 min"
+          ]
+        }
+      },
+      "source": "The Mediterranean Dish"
+    },
+    {
+      "position": 2,
+      "title": "What Is Bulgur Wheat?",
+      "link": "https://www.thespruceeats.com/what-is-bulgur-wheat-3376810",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thespruceeats.com/what-is-bulgur-wheat-3376810&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQFnoECEkQAQ",
+      "displayed_link": "https://www.thespruceeats.com \u203a what-is-bulgur-wheat-...",
+      "favicon": "https://serpapi.com/searches/670a301f48c429ded6a44771/images/74b2712414e84f44cd486af383dfb2ac9a93ad934d739faab48ff9d4ba0986dd.png",
+      "date": "Jun 13, 2024",
+      "snippet": "Bulgur wheat is cracked whole-grain parboiled and dried wheat with a nutty flavor and chewy texture. Its uses include tabbouleh, salads, ...",
+      "snippet_highlighted_words": [
+        "Bulgur"
+      ],
+      "source": "The Spruce Eats"
+    },
+    {
+      "position": 3,
+      "title": "Bulgur, cooked - FoodData Central - USDA",
+      "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170287/nutrients",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fdc.nal.usda.gov/fdc-app.html%23/food-details/170287/nutrients&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQFnoECEoQAQ",
+      "displayed_link": "https://fdc.nal.usda.gov \u203a fdc-app",
+      "favicon": "https://serpapi.com/searches/670a301f48c429ded6a44771/images/74b2712414e84f44cd486af383dfb2acf5361e0282b692334c83ebe5e4060b4f.png",
+      "snippet": "Bulgur, cooked ; Carbohydrate, by difference, 18.6, g ; Fiber, total dietary, 4.5, g ; Total Sugars, 0.1, g ; Calcium, Ca, 10, mg.",
+      "snippet_highlighted_words": [
+        "Bulgur"
+      ],
+      "source": "USDA FoodData Central (.gov)"
+    },
+    {
+      "position": 4,
+      "title": "Bulgur Wheat: Nutrition, Benefits, and How to Cook It",
+      "link": "https://www.healthline.com/nutrition/bulgur-wheat",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.healthline.com/nutrition/bulgur-wheat&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQFnoECEgQAQ",
+      "displayed_link": "https://www.healthline.com \u203a nutrition \u203a bulgur-wheat",
+      "favicon": "https://serpapi.com/searches/670a301f48c429ded6a44771/images/74b2712414e84f44cd486af383dfb2acb08631f825b8196a298e90f591264845.png",
+      "date": "Dec 16, 2021",
+      "snippet": "Bulgur wheat is a low calorie whole grain that provides various nutrients and is an especially good source of manganese, magnesium, iron, ...",
+      "snippet_highlighted_words": [
+        "Bulgur"
+      ],
+      "source": "Healthline"
+    },
+    {
+      "position": 5,
+      "title": "What is bulgur and how do you cook it?",
+      "link": "https://www.quora.com/What-is-bulgur-and-how-do-you-cook-it",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/What-is-bulgur-and-how-do-you-cook-it&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQFnoECE0QAQ",
+      "displayed_link": "https://www.quora.com \u203a What-is-bulgur-and-how-do-...",
+      "favicon": "https://serpapi.com/searches/670a301f48c429ded6a44771/images/74b2712414e84f44cd486af383dfb2ac3c104996089b6f181449f904aae6c3fb.png",
+      "snippet": "It's a type of whole wheat that has been cracked, partially pre-cooked (or parboiled), and dried. This process is what makes bulgur so incredibly user-friendly.",
+      "snippet_highlighted_words": [
+        "bulgur"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 6,
+      "title": "Why does nobody ever talk about bulgur wheat?",
+      "link": "https://www.reddit.com/r/Volumeeating/comments/1826jao/why_does_nobody_ever_talk_about_bulgur_wheat/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/Volumeeating/comments/1826jao/why_does_nobody_ever_talk_about_bulgur_wheat/&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQFnoECEcQAQ",
+      "displayed_link": "30+ comments \u00b7 10 months ago",
+      "favicon": "https://serpapi.com/searches/670a301f48c429ded6a44771/images/74b2712414e84f44cd486af383dfb2ac02285bf6280dbc380cec0dbe5e329612.png",
+      "snippet": "Bulgur plus a metric asston of parsley, some red onion, salt, lemon juice, olive oil, optional mint = tabbouleh.",
+      "snippet_highlighted_words": [
+        "Bulgur"
+      ],
+      "source": "Reddit \u00b7 r/Volumeeating"
+    },
+    {
+      "position": 7,
+      "title": "Plain Bulgur Recipe",
+      "link": "https://www.food.com/recipe/plain-bulgur-415661",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.food.com/recipe/plain-bulgur-415661&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQFnoECE4QAQ",
+      "displayed_link": "https://www.food.com \u203a Recipes \u203a Grains",
+      "favicon": "https://serpapi.com/searches/670a301f48c429ded6a44771/images/74b2712414e84f44cd486af383dfb2acb82719c06149019f1de42f3deac30155.png",
+      "snippet": "Bulgur is a light whole wheat grain that is a good substitute for rice. It can be cooked or soaked. I prefer cooked but am posting direction to both here.",
+      "snippet_highlighted_words": [
+        "Bulgur"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "min": 17
+          },
+          "extensions": [
+            "5.0(6)",
+            "17 min"
+          ]
+        }
+      },
+      "source": "Food.com"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?q=bulgur&sca_esv=7d18109a394306ad&gl=us&hl=en&udm=18&sa=X&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQ8poLegQITBAF",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bulgur",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Bulgur in Hindi",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Bulgur+in+Hindi&sa=X&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQ1QJ6BAhtEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Bulgur+in+Hindi"
+    },
+    {
+      "block_position": 1,
+      "query": "Bulgur wheat recipes",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Bulgur+wheat+recipes&sa=X&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQ1QJ6BAhrEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Bulgur+wheat+recipes"
+    },
+    {
+      "block_position": 1,
+      "query": "Bulgur wheat in Hindi",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Bulgur+wheat+in+Hindi&sa=X&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQ1QJ6BAhsEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Bulgur+wheat+in+Hindi"
+    },
+    {
+      "block_position": 1,
+      "query": "Shop Bulgur wheat brands",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Shop+Bulgur+wheat+brands&sa=X&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQ1QJ6BAhoEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Shop+Bulgur+wheat+brands"
+    },
+    {
+      "block_position": 1,
+      "query": "Bulgur rice",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Bulgur+rice&sa=X&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQ1QJ6BAhpEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Bulgur+rice"
+    },
+    {
+      "block_position": 1,
+      "query": "Bulgur wheat gluten",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Bulgur+wheat+gluten&sa=X&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQ1QJ6BAhnEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Bulgur+wheat+gluten"
+    },
+    {
+      "block_position": 1,
+      "query": "Bulgur wheat benefits",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Bulgur+wheat+benefits&sa=X&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQ1QJ6BAhqEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Bulgur+wheat+benefits"
+    },
+    {
+      "block_position": 1,
+      "query": "Bulgur in English",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Bulgur+in+English&sa=X&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQ1QJ6BAhuEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Bulgur+in+English"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Help me love bulgur wheat? (Or at least use it up)",
+      "link": "https://www.reddit.com/r/Cooking/comments/18lowdc/help_me_love_bulgur_wheat_or_at_least_use_it_up/",
+      "date": "9mo ago",
+      "extensions": [
+        "r/Cooking",
+        "20+ comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "Bulgur and Greens, Revised",
+      "link": "https://www.reddit.com/r/mediterraneandiet/comments/1bge0s5/bulgur_and_greens_revised/",
+      "date": "7mo ago",
+      "extensions": [
+        "r/mediterraneandiet",
+        "4 comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "Bulgur: what can I use it for? - Cooking",
+      "link": "https://forums.egullet.org/topic/162495-bulgur-what-can-i-use-it-for/",
+      "date": "3y ago",
+      "source": "eGullet Forums"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Healthy or not",
+        "subtitle": "Is Bulgur Healthy?",
+        "title": "Bulgur Wheat: Nutrition, Benefits, and How to Cook It - Healthline",
+        "link": "https://www.healthline.com/nutrition/bulgur-wheat#:~:text=Bulgur%20is%20a%20whole%20grain,salads%2C%20stews%2C%20and%20breads.",
+        "displayed_link": "https://www.healthline.com \u203a nutrition \u203a bulgur-wheat",
+        "date": "Dec 16, 2021",
+        "snippet": "Bulgur is a whole grain made from cracked wheat. It's packed with vitamins, minerals, and fiber. Fiber-rich foods like bulgur may reduce chronic disease risk, promote weight loss, and improve digestion and gut health. Plus, bulgur is easy to cook and can be added to many dishes, including salads, stews, and breads.",
+        "snippet_highlighted_words": [
+          "may reduce chronic disease risk, promote weight loss, and improve digestion and gut health"
+        ],
+        "favicon": "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b4337d00b97627d4d1319731d054ad1c78ebdf71ffe6f9f34d9.png",
+        "source": "healthline.com",
+        "images": [
+          "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b4337d00b97627d4d13a85b4099374ebbfffd12ac4db08402b9.jpeg",
+          "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b4337d00b97627d4d13a85b4099374ebbff87772d7cbd4f6104.jpeg",
+          "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b4337d00b97627d4d13a85b4099374ebbffe99cbb7490018192.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=is+bulgur+healthy&sa=X&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQrooIegQIExAF",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=is+bulgur+healthy"
+      },
+      {
+        "text": "How to eat",
+        "subtitle": "How To Eat Bulgur?",
+        "title": "How to Cook Bulgur Recipe (With Video) - Martha Stewart",
+        "link": "https://www.marthastewart.com/1527740/how-cook-bulgur#:~:text=You%20can%20enjoy%20bulgur%20as,for%20quinoa%20in%20most%20recipes.",
+        "displayed_link": "https://www.marthastewart.com \u203a how-cook-bulgur",
+        "date": "Jul 7, 2023",
+        "snippet": "You can enjoy bulgur as a simple, tasty side dish for dinner, or use it as an ingredient in a veggie burger, add it to soups, use in stuffing, turn it into a grain salad, or enjoy as a hot breakfast cereal. It's also a great substitute for quinoa in most recipes.",
+        "snippet_highlighted_words": [
+          "as a simple, tasty side dish for dinner, or use it as an ingredient in a veggie burger, add it to soups, use in stuffing, turn it into a grain salad, or enjoy as a hot breakfast cereal"
+        ],
+        "favicon": "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b43412b108f9b555451694fcf7a473bef582c42ff83edea5439.png",
+        "source": "marthastewart.com",
+        "images": [
+          "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b43412b108f9b555451772cd46dc2b0e2d1f76267bf7180fb66.jpeg",
+          "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b43412b108f9b555451772cd46dc2b0e2d1698bc5d924041f9d.jpeg",
+          "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b43412b108f9b555451772cd46dc2b0e2d1f5ba32763dd9dd76.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=how+to+eat+bulgur&sa=X&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQrooIegQIExAN",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+to+eat+bulgur"
+      },
+      {
+        "text": "Healthiest",
+        "subtitle": "Healthiest Bulgur",
+        "title": "Health Benefits of Bulgur Wheat - WebMD",
+        "link": "https://www.webmd.com/diet/health-benefits-bulgur-wheat#:~:text=Bulgur%20is%20a%20complex%20carbohydrate,contains%20more%20fiber%20and%20nutrients.&text=A%20half%20cup%20of%20boiled,Calories%3A%2076",
+        "displayed_link": "https://www.webmd.com \u203a diet \u203a health-benefits-bulgur-...",
+        "date": "Sep 14, 2022",
+        "snippet": "Bulgur is a complex carbohydrate and contains the whole wheat kernel. It is less processed than most grains and therefore contains more fiber and nutrients. A half cup of boiled bulgur wheat provides: Calories: 76.",
+        "snippet_highlighted_words": [
+          "less processed than most grains and therefore contains more fiber and nutrients"
+        ],
+        "favicon": "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b433685b90461bd9fa1411817d79dce3e5ddcba3fea09d0ad90.png",
+        "source": "webmd.com",
+        "images": [
+          "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b433685b90461bd9fa185a9fc1fc277d95340f3063b99e34455.jpeg",
+          "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b433685b90461bd9fa185a9fc1fc277d953e18b9bee055929a8.jpeg",
+          "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b433685b90461bd9fa185a9fc1fc277d9538599abec2976c119.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=healthiest+bulgur&sa=X&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQrooIegQIExAS",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=healthiest+bulgur"
+      },
+      {
+        "text": "Nutrition",
+        "subtitle": "What Is The Nutritional Value Of Bulgur Wheat",
+        "title": "Bulgur, cooked, 1 cup - Nutrition Facts - University Hospitals",
+        "link": "https://www.uhhospitals.org/health-information/health-and-wellness-library/article/nutritionfacts-v1/bulgur-cooked-1-cup",
+        "displayed_link": "https://www.uhhospitals.org \u203a health-information \u203a article",
+        "favicon": "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b43e83097abe5df6c832df75db3fb09b27c56ad918566f8797e.png",
+        "source": "uhhospitals.org",
+        "images": [
+          "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b43e83097abe5df6c834bddd722cf3a56000671062379e6461f.jpeg",
+          "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b43e83097abe5df6c834bddd722cf3a5600570b257025c76afd.jpeg",
+          "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b43e83097abe5df6c834bddd722cf3a56005d02160afa5fabc8.jpeg"
+        ],
+        "table": [
+          [
+            "Protein (g)",
+            "5.61"
+          ],
+          [
+            "Iron, Fe (mg)",
+            "1.75"
+          ],
+          [
+            "Magnesium, Mg (mg)",
+            "58.24"
+          ],
+          [
+            "Phosphorus, P (mg)",
+            "72.8"
+          ],
+          [
+            "Potassium, K (mg)",
+            "123.76"
+          ]
+        ],
+        "formatted": [
+          {
+            "protein_g": "Iron, Fe (mg)",
+            "5_61": "1.75"
+          },
+          {
+            "protein_g": "Magnesium, Mg (mg)",
+            "5_61": "58.24"
+          },
+          {
+            "protein_g": "Phosphorus, P (mg)",
+            "5_61": "72.8"
+          },
+          {
+            "protein_g": "Potassium, K (mg)",
+            "5_61": "123.76"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=what+is+the+nutritional+value+of+bulgur+wheat&sa=X&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQrooIegQIExAX",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+is+the+nutritional+value+of+bulgur+wheat"
+      },
+      {
+        "text": "Taste",
+        "subtitle": "What Does Bulgur Taste Like?",
+        "title": "What Is Bulgur Wheat? - Allrecipes",
+        "link": "https://www.allrecipes.com/article/what-is-bulgur-wheat/#:~:text=What%20Does%20Bulgur%20Taste%20Like,from%20fine%20to%20extra%20coarse.",
+        "displayed_link": "https://www.allrecipes.com \u203a article \u203a what-is-bulgur-wheat",
+        "date": "Feb 9, 2023",
+        "snippet": "What Does Bulgur Taste Like? Bulgur's flavor is light and nutty. Like other whole grains, it has a chewy texture when cooked. It's sold in a variety of grinds, from fine to extra coarse.",
+        "snippet_highlighted_words": [
+          "light and nutty"
+        ],
+        "favicon": "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b434979bae84a4c33b2a87fcbe5c156453db2d17f535f552e1b.png",
+        "source": "allrecipes.com",
+        "images": [
+          "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b434979bae84a4c33b2ad989705f931a2c9db8319465fd9a396.jpeg",
+          "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b434979bae84a4c33b2ad989705f931a2c952d55f958e454e24.jpeg",
+          "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b434979bae84a4c33b2ad989705f931a2c9832fb48c77c398e4.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=what+does+bulgur+taste+like&sa=X&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQrooIegQIExAd",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+does+bulgur+taste+like"
+      },
+      {
+        "text": "Materials",
+        "subtitle": "Materials In Bulgur",
+        "title": "Bulgur - an overview | ScienceDirect Topics",
+        "link": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/bulgur#:~:text=Bulgur%20consists%20of%20parboiled%20whole,oil%20and%20herbs%20cooked%20together.",
+        "displayed_link": "https://www.sciencedirect.com \u203a topics \u203a bulgur",
+        "snippet": "Bulgur consists of parboiled whole or crushed partially debranned wheat grains, and is used as a substitute for rice, e.g., in pilaf, an eastern European dish consisting of wheat, meat, oil and herbs cooked together.",
+        "snippet_highlighted_words": [
+          "parboiled whole or crushed partially debranned wheat grains"
+        ],
+        "answer": "wheat grains",
+        "favicon": "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b4315f6b3a4ba78a9acb766be9a150c8433a4681525e9b475db.png",
+        "source": "sciencedirect.com",
+        "images": [
+          "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b4315f6b3a4ba78a9ac217662788bedb6e9baa987a39c81cbe7.jpeg",
+          "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b4315f6b3a4ba78a9ac217662788bedb6e936f522430d14c530.jpeg",
+          "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b4315f6b3a4ba78a9ac217662788bedb6e90f22fd703d33c387.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=materials+in+bulgur&sa=X&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQrooIegQIExAi",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=materials+in+bulgur"
+      },
+      {
+        "text": "Dietary Fiber",
+        "subtitle": "Bulgur Fiber",
+        "title": "Bulgur, cooked - FoodData Central - USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170287/nutrients",
+        "displayed_link": "https://fdc.nal.usda.gov \u203a fdc-app",
+        "answer": "4.5 g",
+        "favicon": "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b43f1d97dd0a3c1674ada347d100dc329159ba916680f01ace2.png",
+        "source": "usda.gov",
+        "images": [
+          "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b43f1d97dd0a3c1674ad294fc1cae09f8cb562ec85789f80f91.jpeg",
+          "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b43f1d97dd0a3c1674ad294fc1cae09f8cbbd1c632f875abdf6.jpeg",
+          "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b43f1d97dd0a3c1674ad294fc1cae09f8cbaabb3fcf98b1fe60.jpeg"
+        ],
+        "table": [
+          [
+            "Name",
+            "Amount",
+            "Unit"
+          ],
+          [
+            "Carbohydrate, by difference",
+            "18.6",
+            "g"
+          ],
+          [
+            "Fiber, total dietary",
+            "4.5",
+            "g"
+          ],
+          [
+            "Total Sugars",
+            "0.1",
+            "g"
+          ],
+          [
+            "Calcium, Ca",
+            "10",
+            "mg"
+          ]
+        ],
+        "formatted": [
+          {
+            "name": "Carbohydrate, by difference",
+            "amount": "18.6",
+            "unit": "g"
+          },
+          {
+            "name": "Fiber, total dietary",
+            "amount": "4.5",
+            "unit": "g"
+          },
+          {
+            "name": "Total Sugars",
+            "amount": "0.1",
+            "unit": "g"
+          },
+          {
+            "name": "Calcium, Ca",
+            "amount": "10",
+            "unit": "mg"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=bulgur+fiber&sa=X&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQrooIegQIExAn",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bulgur+fiber"
+      },
+      {
+        "text": "Substitutes",
+        "subtitle": "Bulgur Substitute",
+        "title": "15 Best Substitutes for Bulgur Wheat - Foolproof Living",
+        "link": "https://foolproofliving.com/substitutes-for-bulgur-wheat/",
+        "displayed_link": "https://foolproofliving.com \u203a substitutes-for-bulgur-wheat",
+        "date": "Dec 9, 2022",
+        "snippet": "What Can I Substitute for Bulgur?",
+        "snippet_highlighted_words": [
+          "What Can I Substitute for Bulgur?"
+        ],
+        "list": [
+          "Quinoa. Quinoa is a gluten-free substitute for bulgur wheat with a similar profile of health benefits. ... ",
+          "Couscous. ... ",
+          "Wheat Berries. ... ",
+          "Farro. ... ",
+          "Barley. ... ",
+          "Orzo. ... ",
+          "Rice. ... ",
+          "Bamboo Rice."
+        ],
+        "favicon": "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b4388eea54f2cb8be93ba0f0bb55021b94a852113cb7921e4ce.png",
+        "source": "foolproofliving.com",
+        "images": [
+          "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b4388eea54f2cb8be93d5beda03ee60333bdb256febb6e86884.jpeg",
+          "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b4388eea54f2cb8be93d5beda03ee60333b1a1c60f05bc15a81.jpeg",
+          "https://serpapi.com/searches/670a301f48c429ded6a44771/images/de59d26222665b0949e1270e3e476b4388eea54f2cb8be93d5beda03ee60333b4825f1b3792380c8.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=bulgur+substitute&sa=X&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQrooIegQIExAv",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bulgur+substitute"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=bulgur&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=HzAKZ5fhL7_cptQPzc_5gAc&start=10&sa=N&sstk=AagrsugNHjGQC9-U7CG0NK4FTrPdl2vLJ1OfFw8SNIhKaPLKxeOS-NYoqAo7D8i7Uy1skb1u2yYDkDFNT3SnMqHfM3cIHqAF5j2pPQ&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQ8NMDegQIBhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=bulgur&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=HzAKZ5fhL7_cptQPzc_5gAc&start=10&sa=N&sstk=AagrsugNHjGQC9-U7CG0NK4FTrPdl2vLJ1OfFw8SNIhKaPLKxeOS-NYoqAo7D8i7Uy1skb1u2yYDkDFNT3SnMqHfM3cIHqAF5j2pPQ&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQ8tMDegQIBhAE",
+      "3": "https://www.google.com/search?q=bulgur&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=HzAKZ5fhL7_cptQPzc_5gAc&start=20&sa=N&sstk=AagrsugNHjGQC9-U7CG0NK4FTrPdl2vLJ1OfFw8SNIhKaPLKxeOS-NYoqAo7D8i7Uy1skb1u2yYDkDFNT3SnMqHfM3cIHqAF5j2pPQ&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQ8tMDegQIBhAG",
+      "4": "https://www.google.com/search?q=bulgur&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=HzAKZ5fhL7_cptQPzc_5gAc&start=30&sa=N&sstk=AagrsugNHjGQC9-U7CG0NK4FTrPdl2vLJ1OfFw8SNIhKaPLKxeOS-NYoqAo7D8i7Uy1skb1u2yYDkDFNT3SnMqHfM3cIHqAF5j2pPQ&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQ8tMDegQIBhAI",
+      "5": "https://www.google.com/search?q=bulgur&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=HzAKZ5fhL7_cptQPzc_5gAc&start=40&sa=N&sstk=AagrsugNHjGQC9-U7CG0NK4FTrPdl2vLJ1OfFw8SNIhKaPLKxeOS-NYoqAo7D8i7Uy1skb1u2yYDkDFNT3SnMqHfM3cIHqAF5j2pPQ&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQ8tMDegQIBhAK",
+      "6": "https://www.google.com/search?q=bulgur&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=HzAKZ5fhL7_cptQPzc_5gAc&start=50&sa=N&sstk=AagrsugNHjGQC9-U7CG0NK4FTrPdl2vLJ1OfFw8SNIhKaPLKxeOS-NYoqAo7D8i7Uy1skb1u2yYDkDFNT3SnMqHfM3cIHqAF5j2pPQ&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQ8tMDegQIBhAM",
+      "7": "https://www.google.com/search?q=bulgur&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=HzAKZ5fhL7_cptQPzc_5gAc&start=60&sa=N&sstk=AagrsugNHjGQC9-U7CG0NK4FTrPdl2vLJ1OfFw8SNIhKaPLKxeOS-NYoqAo7D8i7Uy1skb1u2yYDkDFNT3SnMqHfM3cIHqAF5j2pPQ&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQ8tMDegQIBhAO",
+      "8": "https://www.google.com/search?q=bulgur&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=HzAKZ5fhL7_cptQPzc_5gAc&start=70&sa=N&sstk=AagrsugNHjGQC9-U7CG0NK4FTrPdl2vLJ1OfFw8SNIhKaPLKxeOS-NYoqAo7D8i7Uy1skb1u2yYDkDFNT3SnMqHfM3cIHqAF5j2pPQ&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQ8tMDegQIBhAQ",
+      "9": "https://www.google.com/search?q=bulgur&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=HzAKZ5fhL7_cptQPzc_5gAc&start=80&sa=N&sstk=AagrsugNHjGQC9-U7CG0NK4FTrPdl2vLJ1OfFw8SNIhKaPLKxeOS-NYoqAo7D8i7Uy1skb1u2yYDkDFNT3SnMqHfM3cIHqAF5j2pPQ&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQ8tMDegQIBhAS",
+      "10": "https://www.google.com/search?q=bulgur&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=HzAKZ5fhL7_cptQPzc_5gAc&start=90&sa=N&sstk=AagrsugNHjGQC9-U7CG0NK4FTrPdl2vLJ1OfFw8SNIhKaPLKxeOS-NYoqAo7D8i7Uy1skb1u2yYDkDFNT3SnMqHfM3cIHqAF5j2pPQ&ved=2ahUKEwjX7MOms4iJAxU_rokEHc1nHnAQ8tMDegQIBhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bulgur&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bulgur&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bulgur&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bulgur&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bulgur&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bulgur&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bulgur&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bulgur&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bulgur&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bulgur&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bulgur&start=90"
+    }
+  }
+}

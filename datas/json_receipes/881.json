@@ -1,0 +1,741 @@
+{
+  "search_metadata": {
+    "id": "670a303d5c7cb9bce88442a9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/463753f568c90d8c/670a303d5c7cb9bce88442a9.json",
+    "created_at": "2024-10-12 08:15:57 UTC",
+    "processed_at": "2024-10-12 08:15:57 UTC",
+    "google_url": "https://www.google.com/search?q=breakfast+sandwich&oq=breakfast+sandwich&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/463753f568c90d8c/670a303d5c7cb9bce88442a9.html",
+    "total_time_taken": 0.72
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "breakfast sandwich",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "breakfast sandwich",
+    "total_results": 357000000,
+    "time_taken_displayed": 0.36,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "recipes_results": [
+    {
+      "title": "The Ultimate Breakfast Sandwich",
+      "link": "https://pinchofyum.com/breakfast-sandwich",
+      "source": "Pinch of Yum",
+      "rating": 5.0,
+      "reviews": 14,
+      "total_time": "15 min",
+      "ingredients": [
+        "Garlic butter",
+        "croissants",
+        "eggs",
+        "pepperjack cheese",
+        "guacamole"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/5970058859b686e2ba06388c97f14d00b595cb14e12f5e01b46d37dde579913d.jpeg"
+    },
+    {
+      "title": "Breakfast Sandwich",
+      "link": "https://www.loveandlemons.com/breakfast-sandwich/",
+      "source": "Love and Lemons",
+      "rating": 4.9,
+      "reviews": 9,
+      "total_time": "20 min",
+      "ingredients": [
+        "Goat cheese",
+        "spinach",
+        "english muffins",
+        "avocado",
+        "hot sauce"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/5970058859b686e2ba06388c97f14d00517429320e4dbd127493bb1be92f2b97.jpeg"
+    },
+    {
+      "title": "Breakfast Sandwich - A One Pan Breakfast (Video Recipe)",
+      "link": "https://natashaskitchen.com/breakfast-sandwich/",
+      "source": "Natasha's Kitchen",
+      "rating": 4.9,
+      "reviews": 65,
+      "total_time": "10 min",
+      "ingredients": [
+        "English muffin",
+        "black forest",
+        "olive oil",
+        "eggs",
+        "mexican cheese"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/5970058859b686e2ba06388c97f14d00920bd07e91fa559143970e8f26892685.jpeg"
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=breakfast+sandwich&npsic=0&rflfq=1&rldoc=1&rllag=30254630,-97766660,2129&tbm=lcl&sa=X&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQtgN6BAgyEAI",
+    "image": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/411f13946770179cad9ac84f73aec404.png",
+    "gps_coordinates": {
+      "latitude": 30.25463,
+      "longitude": -97.76666
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.9,
+        "reviews_original": "(273)",
+        "reviews": 273,
+        "description": "\"Super friendly staff fast service and great egg sandwich.\"",
+        "lsig": "AB86z5Wz8I0gcfzBgSvPaC-0T6eR",
+        "thumbnail": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/4b44f6ccde42dbd8fb50e37960c0c81605941851d849e7529f130744416a680aeb88eec1c25a46b9.jpeg",
+        "title": "Eggman ATX Breakfast Sandwiches",
+        "type": "Breakfast",
+        "address": "1311 S 1st St",
+        "hours": "Closed",
+        "place_id": "6017908755014232974",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=6017908755014232974&q=breakfast+sandwich",
+        "gps_coordinates": {
+          "latitude": 30.251177,
+          "longitude": -97.75419
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.3,
+        "reviews_original": "(3.2K)",
+        "reviews": 3200,
+        "description": "\"Bacon extra crispy.\"",
+        "lsig": "AB86z5UD40zYo1w-IVW00sHGpsET",
+        "thumbnail": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/4b44f6ccde42dbd8fb50e37960c0c816a9d2e85588ef5c4898269a75635d5b0f42325e2958833815.jpeg",
+        "title": "Kerbey Lane Cafe - South",
+        "type": "Breakfast",
+        "address": "3003 S Lamar Blvd",
+        "place_id": "8918224235363833844",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=8918224235363833844&q=breakfast+sandwich",
+        "gps_coordinates": {
+          "latitude": 30.242285,
+          "longitude": -97.783485
+        }
+      },
+      {
+        "position": 3,
+        "rating": 4.9,
+        "reviews_original": "(388)",
+        "reviews": 388,
+        "description": "\"The sandwiches were beyond filling and made to perfection.\"",
+        "lsig": "AB86z5Xy8bntBOKudLkyoV00Jnsg",
+        "thumbnail": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/4b44f6ccde42dbd8fb50e37960c0c8168669fbd07cac2da8f6b1ebfec3c8a5100361fbb7aa60d5a0.png",
+        "title": "Meat & Bread",
+        "type": "Sandwich",
+        "address": "360 Nueces St STE 20",
+        "hours": "Closed \u22c5 Opens 9 AM",
+        "place_id": "8714840683522357188",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=8714840683522357188&q=breakfast+sandwich",
+        "gps_coordinates": {
+          "latitude": 30.2671,
+          "longitude": -97.7498
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&tbs=lf:1,lf_ui:9&tbm=lcl&q=breakfast+sandwich&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQjGp6BAg0EAE"
+  },
+  "knowledge_graph": {
+    "title": "Breakfast sandwich",
+    "type": "Food",
+    "entity_type": "food, kp3_verticals",
+    "kgmid": "/m/027x8l3",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/027x8l3&hl=en-US&q=Breakfast+sandwich",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F027x8l3&location=Austin%2CTexas%2CUnited+States&q=Breakfast+sandwich",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/6c6ea3d8eabe8112d80c4e8f308b0b2e1bab7695279b923391e87d1d178075e4ccb9fa09c6a641e5.jpeg",
+        "source": "https://natashaskitchen.com/breakfast-sandwich/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/6c6ea3d8eabe8112d80c4e8f308b0b2e1bab7695279b92332c8495662dc5ff9333bb697179a7dde4.jpeg",
+        "source": "https://tastesbetterfromscratch.com/freezer-breakfast-sandwiches/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/6c6ea3d8eabe8112d80c4e8f308b0b2e1bab7695279b923307032b3ed3b0e0b71c14c546ce8530be.jpeg",
+        "source": "https://emilybites.com/2022/06/lighter-griddlecake-breakfast-sandwiches.html"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/6c6ea3d8eabe8112d80c4e8f308b0b2e1bab7695279b923391f019d3a6be9aab211f7626f9443108.jpeg",
+        "source": "https://www.bonappetit.com/recipe/bas-best-breakfast-sandwich"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/6c6ea3d8eabe8112d80c4e8f308b0b2e1bab7695279b9233583403600750e4f6ded0812bf3f3d1fe.jpeg",
+        "source": "https://www.jessicagavin.com/freezer-friendly-bacon-breakfast-sandwiches/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/6c6ea3d8eabe8112d80c4e8f308b0b2e1bab7695279b9233fc875f51dfa80aa58a7fc5a094ada853.jpeg",
+        "source": "https://pinchofyum.com/breakfast-sandwich"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/6c6ea3d8eabe8112d80c4e8f308b0b2e1bab7695279b923381e59cc337d98bff838b74682eb0a933.jpeg",
+        "source": "https://www.layersofhappiness.com/everything-bagel-breakfast-sandwich/"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0W-VBRGjvS9pdB4fAceRi3ni5fNJuQkPWGL9RXjpQkA&s",
+        "source": "https://www.framedcooks.com/the-best-breakfast-sandwich/"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLE1zed0-AsdOK8VEn_yFFjFWLWP5ORoWxN2XstQqqQ&s",
+        "source": "https://food52.com/recipes/81327-8-layer-breakfast-sandwich"
+      }
+    ],
+    "description": "A breakfast sandwich is any sandwich filled with foods associated with breakfast. Breakfast sandwiches are served at fast food restaurants and delicatessens, sold in supermarkets, or commonly made at home.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Breakfast_sandwich"
+    },
+    "sources_include": "USDAUSDAUSDAUSDAUSDAEgg and cheese sandwich340 Calories - 1 sandwich (146 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173307/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173308/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/172068/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173300/nutrients"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "19 g",
+        "29%"
+      ],
+      "cholesterol": [
+        "291 mg",
+        "97%"
+      ],
+      "sodium": [
+        "804 mg",
+        "33%"
+      ],
+      "potassium": [
+        "188 mg",
+        "5%"
+      ],
+      "total_carbohydrate": [
+        "26 g",
+        "8%"
+      ],
+      "protein": [
+        "16 g",
+        "32%"
+      ]
+    }
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=breakfast+sandwich&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=rGyRiXaDP8F1pM%252CbByAqrVLfP8kAM%252C%252Fm%252F027x8l3%253BCw8MzbUiMnyBnM%252ClRYSrvTGcwMBfM%252C_%253ByK2CKdLDd-vurM%252CA1ZAlhas_BqodM%252C_%253BF_s3J-MPmQxb3M%252CqD6c8Dw-10neuM%252C_%253BVBlmqlHKJ5xF5M%252Ca-g0Na6sIB7QbM%252C_%253BS0jboSuTGxKhaM%252Cce-6EX-FjWo4EM%252C_%253BYHXxtNKcPTR_aM%252CD4b5QU0zoNgaLM%252C_%253BGczZevSpwsf32M%252CVoDGhWXG1pIiUM%252C_%253Bt2VeBT4TjTlbSM%252CYIAeQBf4xJWsrM%252C_&usg=AI4_-kQIqyEXSNhxDq0TDkyRerNGWLnyxQ&sa=X&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ_B16BAghEAE#vhid=rGyRiXaDP8F1pM&vssid=mosaic",
+      "source": "https://natashaskitchen.com/breakfast-sandwich/",
+      "thumbnail": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/3a360ed2e09b6d887a163c148b2e47ea1f7fe89c6e47fedfb88e731c678e66c7.jpeg",
+      "original": "https://natashaskitchen.com/wp-content/uploads/2016/05/Breakfast-Sandwich-11.jpg",
+      "title": "natashaskitchen.com/wp-content/uploads/2016/05/Bre...",
+      "source_name": "natashaskitchen.com"
+    },
+    {
+      "link": "https://www.google.com/search?q=breakfast+sandwich&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=rGyRiXaDP8F1pM%252CbByAqrVLfP8kAM%252C_%253BCw8MzbUiMnyBnM%252ClRYSrvTGcwMBfM%252C_%253ByK2CKdLDd-vurM%252CA1ZAlhas_BqodM%252C_%253BF_s3J-MPmQxb3M%252CqD6c8Dw-10neuM%252C_%253BVBlmqlHKJ5xF5M%252Ca-g0Na6sIB7QbM%252C_%253BS0jboSuTGxKhaM%252Cce-6EX-FjWo4EM%252C_%253BYHXxtNKcPTR_aM%252CD4b5QU0zoNgaLM%252C_%253BGczZevSpwsf32M%252CVoDGhWXG1pIiUM%252C_%253Bt2VeBT4TjTlbSM%252CYIAeQBf4xJWsrM%252C_&usg=AI4_-kSH8XQoFvImNjCvVJvU4UFeFWXwww&sa=X&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ_h16BAgoEAE#vhid=Cw8MzbUiMnyBnM&vssid=mosaic",
+      "source": "https://tastesbetterfromscratch.com/freezer-breakfast-sandwiches/",
+      "thumbnail": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/3a360ed2e09b6d88f1c1226588dcd31f8a596938c52f9fe8aa33026bca04f316.jpeg",
+      "original": "https://tastesbetterfromscratch.com/wp-content/uploads/2019/03/Breakfast-Sandwiches-10.jpg",
+      "title": "Freezer Breakfast Sandwiches",
+      "source_name": "Tastes Better From Scratch"
+    },
+    {
+      "link": "https://www.google.com/search?q=breakfast+sandwich&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=rGyRiXaDP8F1pM%252CbByAqrVLfP8kAM%252C_%253BCw8MzbUiMnyBnM%252ClRYSrvTGcwMBfM%252C_%253ByK2CKdLDd-vurM%252CA1ZAlhas_BqodM%252C_%253BF_s3J-MPmQxb3M%252CqD6c8Dw-10neuM%252C_%253BVBlmqlHKJ5xF5M%252Ca-g0Na6sIB7QbM%252C_%253BS0jboSuTGxKhaM%252Cce-6EX-FjWo4EM%252C_%253BYHXxtNKcPTR_aM%252CD4b5QU0zoNgaLM%252C_%253BGczZevSpwsf32M%252CVoDGhWXG1pIiUM%252C_%253Bt2VeBT4TjTlbSM%252CYIAeQBf4xJWsrM%252C_&usg=AI4_-kSH8XQoFvImNjCvVJvU4UFeFWXwww&sa=X&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ_h16BAgjEAE#vhid=yK2CKdLDd-vurM&vssid=mosaic",
+      "source": "https://emilybites.com/2022/06/lighter-griddlecake-breakfast-sandwiches.html",
+      "thumbnail": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/3a360ed2e09b6d88a8c743715d574972167d0e8cd6ba95ff7d4306ca227b1f93.jpeg",
+      "original": "https://emilybites.com/wp-content/uploads/2022/06/Lighter-Griddlecake-Breakfast-Sandwiches-1b.jpg",
+      "title": "Lighter Griddlecake Breakfast Sandwiches",
+      "source_name": "Emily Bites"
+    },
+    {
+      "link": "https://www.google.com/search?q=breakfast+sandwich&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=rGyRiXaDP8F1pM%252CbByAqrVLfP8kAM%252C_%253BCw8MzbUiMnyBnM%252ClRYSrvTGcwMBfM%252C_%253ByK2CKdLDd-vurM%252CA1ZAlhas_BqodM%252C_%253BF_s3J-MPmQxb3M%252CqD6c8Dw-10neuM%252C_%253BVBlmqlHKJ5xF5M%252Ca-g0Na6sIB7QbM%252C_%253BS0jboSuTGxKhaM%252Cce-6EX-FjWo4EM%252C_%253BYHXxtNKcPTR_aM%252CD4b5QU0zoNgaLM%252C_%253BGczZevSpwsf32M%252CVoDGhWXG1pIiUM%252C_%253Bt2VeBT4TjTlbSM%252CYIAeQBf4xJWsrM%252C_&usg=AI4_-kSH8XQoFvImNjCvVJvU4UFeFWXwww&sa=X&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ_h16BAgsEAE#vhid=F_s3J-MPmQxb3M&vssid=mosaic",
+      "source": "https://www.bonappetit.com/recipe/bas-best-breakfast-sandwich",
+      "thumbnail": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/3a360ed2e09b6d88811e6c0df7e8e4341044ee1c6df4cf0a5412de0c5b78cf27.jpeg",
+      "original": "https://assets.bonappetit.com/photos/57acec251b3340441497533d/master/pass/ba-best-breakfast-sandwich.jpg",
+      "title": "BA's Best Breakfast Sandwich",
+      "source_name": "Bon Appetit"
+    },
+    {
+      "link": "https://www.google.com/search?q=breakfast+sandwich&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=rGyRiXaDP8F1pM%252CbByAqrVLfP8kAM%252C_%253BCw8MzbUiMnyBnM%252ClRYSrvTGcwMBfM%252C_%253ByK2CKdLDd-vurM%252CA1ZAlhas_BqodM%252C_%253BF_s3J-MPmQxb3M%252CqD6c8Dw-10neuM%252C_%253BVBlmqlHKJ5xF5M%252Ca-g0Na6sIB7QbM%252C_%253BS0jboSuTGxKhaM%252Cce-6EX-FjWo4EM%252C_%253BYHXxtNKcPTR_aM%252CD4b5QU0zoNgaLM%252C_%253BGczZevSpwsf32M%252CVoDGhWXG1pIiUM%252C_%253Bt2VeBT4TjTlbSM%252CYIAeQBf4xJWsrM%252C_&usg=AI4_-kSH8XQoFvImNjCvVJvU4UFeFWXwww&sa=X&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ_h16BAglEAE#vhid=VBlmqlHKJ5xF5M&vssid=mosaic",
+      "source": "https://www.jessicagavin.com/freezer-friendly-bacon-breakfast-sandwiches/",
+      "thumbnail": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/3a360ed2e09b6d88972bb5500b0bae2cda0f505ee2a5371b03c2ba17646bc908.jpeg",
+      "original": "https://www.jessicagavin.com/wp-content/uploads/2016/02/how-to-make-freezer-friendly-breakfast-sandwiches-1200.jpg",
+      "title": "Bacon Breakfast Sandwiches",
+      "source_name": "Jessica Gavin"
+    },
+    {
+      "link": "https://www.google.com/search?q=breakfast+sandwich&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=rGyRiXaDP8F1pM%252CbByAqrVLfP8kAM%252C_%253BCw8MzbUiMnyBnM%252ClRYSrvTGcwMBfM%252C_%253ByK2CKdLDd-vurM%252CA1ZAlhas_BqodM%252C_%253BF_s3J-MPmQxb3M%252CqD6c8Dw-10neuM%252C_%253BVBlmqlHKJ5xF5M%252Ca-g0Na6sIB7QbM%252C_%253BS0jboSuTGxKhaM%252Cce-6EX-FjWo4EM%252C_%253BYHXxtNKcPTR_aM%252CD4b5QU0zoNgaLM%252C_%253BGczZevSpwsf32M%252CVoDGhWXG1pIiUM%252C_%253Bt2VeBT4TjTlbSM%252CYIAeQBf4xJWsrM%252C_&usg=AI4_-kSH8XQoFvImNjCvVJvU4UFeFWXwww&sa=X&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ_h16BAgmEAE#vhid=S0jboSuTGxKhaM&vssid=mosaic",
+      "source": "https://pinchofyum.com/breakfast-sandwich",
+      "thumbnail": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/3a360ed2e09b6d8841163c8e5b92f0cbf63c7e9baae197a7ea23505c68eaa722.jpeg",
+      "original": "https://pinchofyum.com/wp-content/uploads/Breakfast-Sandwich-Recipe.jpg",
+      "title": "The Ultimate Breakfast Sandwich",
+      "source_name": "Pinch of Yum"
+    },
+    {
+      "link": "https://www.google.com/search?q=breakfast+sandwich&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=rGyRiXaDP8F1pM%252CbByAqrVLfP8kAM%252C_%253BCw8MzbUiMnyBnM%252ClRYSrvTGcwMBfM%252C_%253ByK2CKdLDd-vurM%252CA1ZAlhas_BqodM%252C_%253BF_s3J-MPmQxb3M%252CqD6c8Dw-10neuM%252C_%253BVBlmqlHKJ5xF5M%252Ca-g0Na6sIB7QbM%252C_%253BS0jboSuTGxKhaM%252Cce-6EX-FjWo4EM%252C_%253BYHXxtNKcPTR_aM%252CD4b5QU0zoNgaLM%252C_%253BGczZevSpwsf32M%252CVoDGhWXG1pIiUM%252C_%253Bt2VeBT4TjTlbSM%252CYIAeQBf4xJWsrM%252C_&usg=AI4_-kSH8XQoFvImNjCvVJvU4UFeFWXwww&sa=X&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ_h16BAgrEAE#vhid=YHXxtNKcPTR_aM&vssid=mosaic",
+      "source": "https://www.layersofhappiness.com/everything-bagel-breakfast-sandwich/",
+      "thumbnail": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/3a360ed2e09b6d88b085983a7ee095dcf2fdc752c0df02f2f7a939818902e91d.jpeg",
+      "original": "https://www.layersofhappiness.com/wp-content/uploads/2023/07/Everything-Bagel-Breakfast-Sandwich-6-scaled.jpg",
+      "title": "Everything Bagel Breakfast Sandwich",
+      "source_name": "Layers of Happiness"
+    },
+    {
+      "link": "https://www.google.com/search?q=breakfast+sandwich&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=rGyRiXaDP8F1pM%252CbByAqrVLfP8kAM%252C_%253BCw8MzbUiMnyBnM%252ClRYSrvTGcwMBfM%252C_%253ByK2CKdLDd-vurM%252CA1ZAlhas_BqodM%252C_%253BF_s3J-MPmQxb3M%252CqD6c8Dw-10neuM%252C_%253BVBlmqlHKJ5xF5M%252Ca-g0Na6sIB7QbM%252C_%253BS0jboSuTGxKhaM%252Cce-6EX-FjWo4EM%252C_%253BYHXxtNKcPTR_aM%252CD4b5QU0zoNgaLM%252C_%253BGczZevSpwsf32M%252CVoDGhWXG1pIiUM%252C_%253Bt2VeBT4TjTlbSM%252CYIAeQBf4xJWsrM%252C_&usg=AI4_-kSH8XQoFvImNjCvVJvU4UFeFWXwww&sa=X&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ_h16BAgkEAE#vhid=GczZevSpwsf32M&vssid=mosaic",
+      "source": "https://www.framedcooks.com/the-best-breakfast-sandwich/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0W-VBRGjvS9pdB4fAceRi3ni5fNJuQkPWGL9RXjpQkA&s",
+      "original": "https://www.framedcooks.com/wp-content/uploads/2021/09/the-best-breakfast-sandwich.jpg",
+      "title": "The Best Breakfast Sandwich",
+      "source_name": "Framed Cooks"
+    },
+    {
+      "link": "https://www.google.com/search?q=breakfast+sandwich&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=rGyRiXaDP8F1pM%252CbByAqrVLfP8kAM%252C_%253BCw8MzbUiMnyBnM%252ClRYSrvTGcwMBfM%252C_%253ByK2CKdLDd-vurM%252CA1ZAlhas_BqodM%252C_%253BF_s3J-MPmQxb3M%252CqD6c8Dw-10neuM%252C_%253BVBlmqlHKJ5xF5M%252Ca-g0Na6sIB7QbM%252C_%253BS0jboSuTGxKhaM%252Cce-6EX-FjWo4EM%252C_%253BYHXxtNKcPTR_aM%252CD4b5QU0zoNgaLM%252C_%253BGczZevSpwsf32M%252CVoDGhWXG1pIiUM%252C_%253Bt2VeBT4TjTlbSM%252CYIAeQBf4xJWsrM%252C_&usg=AI4_-kSH8XQoFvImNjCvVJvU4UFeFWXwww&sa=X&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ_h16BAgiEAE#vhid=t2VeBT4TjTlbSM&vssid=mosaic",
+      "source": "https://food52.com/recipes/81327-8-layer-breakfast-sandwich",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLE1zed0-AsdOK8VEn_yFFjFWLWP5ORoWxN2XstQqqQ&s",
+      "original": "https://images.food52.com/nqPnLX-anU_0XgWWz-mCVEurV_I=/1200x1200/e22afdca-3d7b-474c-9556-b0f2abfc2715--2018-0501_sponsored_pete-and-gerry_epic-breakfast-sandwich_3x2_ty-mecham_001.jpg",
+      "title": "8-Layer Breakfast Sandwich",
+      "source_name": "Food52"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "The Ultimate Breakfast Sandwich Recipe",
+      "link": "https://pinchofyum.com/breakfast-sandwich",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pinchofyum.com/breakfast-sandwich&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQFnoECGwQAQ",
+      "displayed_link": "https://pinchofyum.com \u203a Recipes \u203a Tomato",
+      "thumbnail": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/d1a4738d9bc37e151ca409ad3b87d6734ebc928891c709e852cd59b32abd1e43.jpeg",
+      "favicon": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/d1a4738d9bc37e151ca409ad3b87d67395fa9d39c2423956b8f97177d703e37d.png",
+      "snippet": "Ingredients \u00b7 8 eggs \u00b7 4 slices cooked bacon \u00b7 4 croissants \u00b7 1/2 cup guacamole \u00b7 4 slices pepperjack cheese \u00b7 1/2 cup basic garlic butter tomato sauce.",
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "min": 15
+          },
+          "extensions": [
+            "5.0(14)",
+            "15 min"
+          ]
+        }
+      },
+      "source": "Pinch of Yum"
+    },
+    {
+      "position": 2,
+      "title": "Breakfast Sandwich Recipe",
+      "link": "https://www.loveandlemons.com/breakfast-sandwich/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.loveandlemons.com/breakfast-sandwich/&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQFnoECGsQAQ",
+      "displayed_link": "https://www.loveandlemons.com \u203a Recipes",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2zrr8Fx1uT8U5pPIjrHvy4WAdMG26_aUBiU6cWCGPJREeNOnYuo1R&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/d1a4738d9bc37e151ca409ad3b87d67361dc5ec19e3486147dff234c0b063731.png",
+      "snippet": "This make-ahead breakfast sandwich is a great way to start the day. Filled with veggies, eggs, and a creamy goat cheese spread, it's healthy and delicious.",
+      "snippet_highlighted_words": [
+        "breakfast sandwich"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.9,
+            "min": 20
+          },
+          "extensions": [
+            "4.9(9)",
+            "20 min"
+          ]
+        }
+      },
+      "source": "Love and Lemons"
+    },
+    {
+      "position": 3,
+      "title": "Breakfast Sandwich - One Pan Breakfast (Video)",
+      "link": "https://natashaskitchen.com/breakfast-sandwich/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://natashaskitchen.com/breakfast-sandwich/&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQFnoECEcQAQ",
+      "displayed_link": "https://natashaskitchen.com \u203a Videos",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLAOHfHQgjXlEe8Lc1rK67aBIFa8dhfRKpS1ZlAELNt0q-qYUDNJz7&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/d1a4738d9bc37e151ca409ad3b87d67385b0191b484551ae8165052b5d94ed8a.png",
+      "date": "Apr 7, 2018",
+      "snippet": "This breakfast sandwich is loaded with eggs, ham and cheese and is hugged by a warm English muffin that toasts in the same pan.",
+      "snippet_highlighted_words": [
+        "breakfast sandwich"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.9,
+            "min": 10
+          },
+          "extensions": [
+            "4.9(65)",
+            "10 min"
+          ]
+        }
+      },
+      "source": "Natasha's Kitchen"
+    },
+    {
+      "position": 4,
+      "title": "share you breakfast sandwich recipes! : r/Dimension20",
+      "link": "https://www.reddit.com/r/Dimension20/comments/1arx4wv/share_you_breakfast_sandwich_recipes/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/Dimension20/comments/1arx4wv/share_you_breakfast_sandwich_recipes/&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQFnoECEgQAQ",
+      "displayed_link": "10+ comments \u00b7 7 months ago",
+      "favicon": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/d1a4738d9bc37e151ca409ad3b87d673e15d5ac9a1b66b3212eb5c85f4b652c3.png",
+      "snippet": "1 bagel, 1 egg, pesto, peanut butter, shredded cheese, spinach (optional), cherry tomatoes/sliced tomato (optional), any other toppings u like.",
+      "snippet_highlighted_words": [
+        "egg"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "What's your secret to a great breakfast sandwich? : r/Cooking",
+            "link": "https://www.reddit.com/r/Cooking/comments/s84jqc/whats_your_secret_to_a_great_breakfast_sandwich/",
+            "date": "Jan 19, 2022"
+          },
+          {
+            "title": "Give me your upscale/fancy breakfast sandwich ideas, please.",
+            "link": "https://www.reddit.com/r/Cooking/comments/18wwreg/give_me_your_upscalefancy_breakfast_sandwich/",
+            "date": "Jan 2, 2024"
+          },
+          {
+            "title": "Breakfast sandwich condiments? : r/Cooking - Reddit",
+            "link": "https://www.reddit.com/r/Cooking/comments/1c06xf2/breakfast_sandwich_condiments/",
+            "date": "Apr 9, 2024"
+          },
+          {
+            "title": "Looking for breakfast sandwich ideas : r/vegetarian - Reddit",
+            "link": "https://www.reddit.com/r/vegetarian/comments/zq8nd7/looking_for_breakfast_sandwich_ideas/",
+            "date": "Dec 20, 2022"
+          }
+        ]
+      },
+      "source": "Reddit \u00b7 r/Dimension20"
+    },
+    {
+      "position": 5,
+      "title": "Freezer Breakfast Sandwiches",
+      "link": "https://tastesbetterfromscratch.com/freezer-breakfast-sandwiches/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tastesbetterfromscratch.com/freezer-breakfast-sandwiches/&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQFnoECEUQAQ",
+      "displayed_link": "https://tastesbetterfromscratch.com \u203a freezer-breakfast-s...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHU3dOv0V5PM7zOeoEBQ5MCaodaH9haN6Q8ubs-yvKhpVJcxZaSASH&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/d1a4738d9bc37e151ca409ad3b87d6732aec9f68b9b18803829c274b116ff7a4.png",
+      "date": "Sep 9, 2021",
+      "snippet": "Freezer Breakfast Sandwiches made with baked eggs and topped with cheese, sausage, bacon, or ham on an English muffin. These make-ahead breakfast sandwiches ...",
+      "snippet_highlighted_words": [
+        "Breakfast Sandwiches",
+        "breakfast sandwiches"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "min": 40
+          },
+          "extensions": [
+            "5.0(599)",
+            "40 min"
+          ]
+        }
+      },
+      "source": "Tastes Better From Scratch"
+    },
+    {
+      "position": 6,
+      "title": "Sheet Pan Breakfast Sandwiches",
+      "link": "https://abeautifulmess.com/sheet-pan-breakfast-sandwiches/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://abeautifulmess.com/sheet-pan-breakfast-sandwiches/&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQFnoECEYQAQ",
+      "displayed_link": "https://abeautifulmess.com \u203a Food \u203a Breakfast",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROBe6tznHDt-udINV_28chptIiXUgTsb0el5ksePWxCVe2GfuLET6X&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/d1a4738d9bc37e151ca409ad3b87d67371f2689488e5c12dbaf965c920a3fa65.png",
+      "date": "Jul 27, 2023",
+      "snippet": "Sheet pan breakfast sandwiches made with Hawaiian rolls are super easy to make and the perfect breakfast recipe to feed a crowd.",
+      "snippet_highlighted_words": [
+        "breakfast sandwiches"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.8,
+            "min": 21
+          },
+          "extensions": [
+            "4.8(36)",
+            "21 min"
+          ]
+        }
+      },
+      "source": "A Beautiful Mess"
+    },
+    {
+      "position": 7,
+      "title": "Hot Breakfast: Starbucks Coffee Company",
+      "link": "https://www.starbucks.com/menu/food/hot-breakfast",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.starbucks.com/menu/food/hot-breakfast&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQFnoECEEQAQ",
+      "displayed_link": "https://www.starbucks.com \u203a menu \u203a food \u203a hot-breakfast",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8jhAYYVsfSXTbNbEOxENK_bowULo12vW_pBWMx1JyUD_g5pKN-WH0&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/d1a4738d9bc37e151ca409ad3b87d673954fe4cf1a273aaf744d6a22331a0a1e.png",
+      "snippet": "Breakfast Sandwiches & Wraps ; Egg, Pesto & Mozzarella Sandwich ; Chicken, Maple Butter & Egg Sandwich ; Bacon, Sausage & Egg Wrap ; Impossible\u2122 Breakfast Sandwich.",
+      "snippet_highlighted_words": [
+        "Breakfast Sandwiches",
+        "Egg Sandwich",
+        "Breakfast Sandwich"
+      ],
+      "source": "Starbucks"
+    },
+    {
+      "position": 8,
+      "title": "Breakfast Sandwich Austin, TX - Last Updated October 2024",
+      "link": "https://www.yelp.com/search?find_desc=Breakfast+Sandwich&find_loc=Austin%2C+TX",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yelp.com/search%3Ffind_desc%3DBreakfast%2BSandwich%26find_loc%3DAustin%252C%2BTX&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQFnoECEIQAQ",
+      "displayed_link": "https://www.yelp.com \u203a Restaurants",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_k9GXQKf3dXBLlJ9Xd-RNmKiJUWeFe-wp3pqYBh6aJaCUFUAnglkp&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/d1a4738d9bc37e151ca409ad3b87d673bc8346abbd7c023bbdc91c1cd8b5e1ed.png",
+      "snippet": "Breakfast Sandwich Austin, TX \u00b7 1. Eggman ATX - Breakfast Sandwiches \u00b7 2. Nervous Charlie's Bagels \u00b7 3. Paperboy \u00b7 4. Bird Bird Biscuit \u00b7 5. FoodHeads \u00b7 6.",
+      "snippet_highlighted_words": [
+        "Breakfast Sandwich",
+        "Breakfast Sandwiches"
+      ],
+      "source": "Yelp"
+    },
+    {
+      "position": 9,
+      "title": "17 Breakfast Sandwich Recipes",
+      "link": "https://www.delish.com/cooking/menus/g46512753/breakfast-sandwich-recipes/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.delish.com/cooking/menus/g46512753/breakfast-sandwich-recipes/&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQFnoECEMQAQ",
+      "displayed_link": "https://www.delish.com \u203a ... \u203a Menu Planning",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR59o_hDVRrtXh0luV6oUeeX_GZj0aCsTKGrfmFXOF7tMRCTLYkTcGa&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/d1a4738d9bc37e151ca409ad3b87d6733fc1eebd0a1d6a0f2157b6117080dd40.png",
+      "date": "Jan 26, 2024",
+      "snippet": "So many amazing breakfast sandwiches await you, like our French toast grilled cheese, French toast breakfast sandwiches, and a classic Monte Cristo sandwich.",
+      "snippet_highlighted_words": [
+        "breakfast sandwiches",
+        "breakfast sandwiches"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Cheesy Breakfast Burger",
+            "link": "https://www.delish.com/cooking/menus/g46512753/breakfast-sandwich-recipes/#:~:text=8-,Cheesy%20Breakfast%20Burger"
+          },
+          {
+            "title": "French Toast Breakfast...",
+            "link": "https://www.delish.com/cooking/menus/g46512753/breakfast-sandwich-recipes/#:~:text=9-,French%20Toast%20Breakfast%20Sandwiches"
+          },
+          {
+            "title": "French Toast Grilled Cheese",
+            "link": "https://www.delish.com/cooking/menus/g46512753/breakfast-sandwich-recipes/#:~:text=11-,French%20Toast%20Grilled%20Cheese"
+          }
+        ]
+      },
+      "source": "Delish"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&tbs=lf:1,lf_ui:9&tbm=lcl&q=breakfast+sandwich&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQjGp6BAg0EAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+sandwich&tbs=lf%3A1%2Clf_ui%3A9&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Breakfast sandwich recipes",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Breakfast+sandwich+recipes&sa=X&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ1QJ6BAhjEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Breakfast+sandwich+recipes"
+    },
+    {
+      "block_position": 1,
+      "query": "Breakfast sandwich near me",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Breakfast+sandwich+near+me&sa=X&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ1QJ6BAhlEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Breakfast+sandwich+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Breakfast sandwich frozen",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Breakfast+sandwich+frozen&sa=X&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ1QJ6BAhiEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Breakfast+sandwich+frozen"
+    },
+    {
+      "block_position": 1,
+      "query": "Easy breakfast sandwich recipes",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Easy+breakfast+sandwich+recipes&sa=X&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ1QJ6BAhpEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Easy+breakfast+sandwich+recipes"
+    },
+    {
+      "block_position": 1,
+      "query": "Breakfast sandwich restaurant",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Breakfast+sandwich+restaurant&sa=X&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ1QJ6BAhnEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Breakfast+sandwich+restaurant"
+    },
+    {
+      "block_position": 1,
+      "query": "Breakfast Sandwich Walmart",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Breakfast+Sandwich+Walmart&sa=X&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ1QJ6BAhmEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Breakfast+Sandwich+Walmart"
+    },
+    {
+      "block_position": 1,
+      "query": "Breakfast sandwich Recipes freezer",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Breakfast+sandwich+Recipes+freezer&sa=X&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ1QJ6BAhoEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Breakfast+sandwich+Recipes+freezer"
+    },
+    {
+      "block_position": 1,
+      "query": "Best breakfast sandwich recipes",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Best+breakfast+sandwich+recipes&sa=X&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ1QJ6BAhqEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Best+breakfast+sandwich+recipes"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Ingredients",
+        "subtitle": "What Goes On A Breakfast Sandwich",
+        "thumbnail": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/0fd62d1bd8b18d77ffe99e666921a79b731bcb95a70633cc8d508d7d4a9f510206e7fe878008df80.png",
+        "web_links": [
+          {
+            "title": "The Ultimate Breakfast Sandwich Recipe - Pinch of Yum",
+            "snippet": "Magic Green Sauce. Fried eggs with a runny yolk. How To Make The Best Breakfast Sandwich. Making these sandwiches could...",
+            "link": "https://pinchofyum.com/breakfast-sandwich",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtoO_h7cDK6bYjb4Dfl3hIG2Ic-dxSexO5zO2XZETlcRx3MLea7S4h-4wqoe4",
+            "source": "Pinch of Yum",
+            "source_thumbnail": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/0fd62d1bd8b18d77ffe99e666921a79b731bcb95a70633cc974ba8c5ad8d80c281c494526aa30e25a82b7d489cbeda39fa44552ea7a5b57b.png"
+          },
+          {
+            "title": "The Best Breakfast Sandwich - Framed Cooks",
+            "snippet": "Assemble sandwiches as follows: muffin bottom, spoonful of cheese sauce, spinach (if using), egg, bacon, another...",
+            "link": "https://www.framedcooks.com/the-best-breakfast-sandwich/",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ62uqJLp9hpqXRAmHdkeA8MPQMQDTHudO_WZR8KZVPx3Tlree90SVzVk5hEgk",
+            "source": "Framed Cooks",
+            "source_thumbnail": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/0fd62d1bd8b18d77ffe99e666921a79b731bcb95a70633cc974ba8c5ad8d80c21943a7a1dab27505d973969a97e14a87eed2971904883f67.png"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=what+goes+on+a+breakfast+sandwich&sa=X&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQrooIegQIEhAF",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+goes+on+a+breakfast+sandwich"
+      },
+      {
+        "text": "Recipes",
+        "subtitle": "Breakfast Sandwich Recipes",
+        "thumbnail": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/0fd62d1bd8b18d77ffe99e666921a79b5cafea951ab9b876f16d5499ed43e2807f7a8d24cbe57574.png",
+        "web_links": [
+          {
+            "title": "Freezer Breakfast Sandwiches | - Tastes Better From Scratch",
+            "snippet": "Instructions \u00b7 Preheat the oven to 325 degrees. \u00b7 Whisk the eggs, milk, salt and pepper. \u00b7 Pour the...",
+            "link": "https://tastesbetterfromscratch.com/freezer-breakfast-sandwiches/",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFSl3ufvf4DoZ-yJCEZxmA1Aa4CxyrHJO8LZssj8nIjwnIIywXH_VTfmifryc",
+            "source": "Tastes Better From Scratch",
+            "source_thumbnail": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/0fd62d1bd8b18d77ffe99e666921a79b5cafea951ab9b876ae4e45728aa85b88acf8350795316aa86c1d2336767838cccc7d04c9aecf7b00.png"
+          },
+          {
+            "title": "Breakfast Sandwich Recipe - Love and Lemons",
+            "snippet": "This make-ahead breakfast sandwich is a great way to start the day. Filled with veggies, eggs, and a creamy goat cheese...",
+            "link": "https://www.loveandlemons.com/breakfast-sandwich/",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoqXXAglHn9jiowpDscqwlT9WUC_DnPd2DeEbvgrTcbp4CITuIUc108ledQZk",
+            "source": "Love and Lemons",
+            "source_thumbnail": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/0fd62d1bd8b18d77ffe99e666921a79b5cafea951ab9b876ae4e45728aa85b88e495b6b6d1318f49367bb96ac8b1e622fec3605da4a2992b.png"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=breakfast+sandwich+recipes&sa=X&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQrooIegQIEhAK",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+sandwich+recipes"
+      },
+      {
+        "text": "Most popular",
+        "subtitle": "Most Popular Breakfast Sandwiches",
+        "title": "Top 50 most popular: breakfast sandwich - Nutritionix",
+        "link": "https://www.nutritionix.com/grocery/category/prepared-dish/breakfast-sandwich/283",
+        "displayed_link": "https://www.nutritionix.com \u203a category \u203a prepared-dish",
+        "favicon": "https://serpapi.com/searches/670a303d5c7cb9bce88442a9/images/0fd62d1bd8b18d77ffe99e666921a79baac468aa5177a1e63a4a43d9bf5a6e1b5c694b5b912cacde.png",
+        "source": "nutritionix.com",
+        "table": [
+          [
+            "Popularity"
+          ],
+          [
+            "#1",
+            "English Muffin, Turkey Sausage Egg White & Cheese Jimmy Dean",
+            "1 sandwich"
+          ],
+          [
+            "#2",
+            "Flatbread Breakfast Sandwich - Sausage, Egg, Cheese Kellogg's Special K",
+            "1 sandwich"
+          ],
+          [
+            "#3",
+            "Chicken Ranch Club Flatbread Melt Lean Cuisine",
+            "1 package"
+          ],
+          [
+            "#4",
+            "Peanut Butter & Grape Jelly Sandwich Smucker's",
+            "1 sandwich"
+          ]
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=most+popular+breakfast+sandwiches&sa=X&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQrooIegQIEhAP",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=most+popular+breakfast+sandwiches"
+      },
+      {
+        "text": "Calories",
+        "subtitle": "Breakfast Sandwich Calories",
+        "table": [
+          [
+            "Amount Per 100 grams1 sandwich (146 g)1 sandwich (146 g)"
+          ],
+          [
+            "Calories 340"
+          ]
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=breakfast+sandwich+calories&sa=X&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQrooIegQIEhAU",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+sandwich+calories"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=breakfast+sandwich&sca_esv=7d18109a394306ad&ei=PTAKZ9z1CM-EwbkPo4yA0AQ&start=10&sa=N&sstk=AagrsujVS3_lbdTOqkPn46iCrw3ajDnP7f7cCmdEqduGAK9VySGAlEJ_voGALdnGHA4cbWnqQfsrf-OYi9khmWDu1fLTOIsm0C3sig&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ8NMDegQICRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=breakfast+sandwich&sca_esv=7d18109a394306ad&ei=PTAKZ9z1CM-EwbkPo4yA0AQ&start=10&sa=N&sstk=AagrsujVS3_lbdTOqkPn46iCrw3ajDnP7f7cCmdEqduGAK9VySGAlEJ_voGALdnGHA4cbWnqQfsrf-OYi9khmWDu1fLTOIsm0C3sig&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ8tMDegQICRAE",
+      "3": "https://www.google.com/search?q=breakfast+sandwich&sca_esv=7d18109a394306ad&ei=PTAKZ9z1CM-EwbkPo4yA0AQ&start=20&sa=N&sstk=AagrsujVS3_lbdTOqkPn46iCrw3ajDnP7f7cCmdEqduGAK9VySGAlEJ_voGALdnGHA4cbWnqQfsrf-OYi9khmWDu1fLTOIsm0C3sig&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ8tMDegQICRAG",
+      "4": "https://www.google.com/search?q=breakfast+sandwich&sca_esv=7d18109a394306ad&ei=PTAKZ9z1CM-EwbkPo4yA0AQ&start=30&sa=N&sstk=AagrsujVS3_lbdTOqkPn46iCrw3ajDnP7f7cCmdEqduGAK9VySGAlEJ_voGALdnGHA4cbWnqQfsrf-OYi9khmWDu1fLTOIsm0C3sig&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ8tMDegQICRAI",
+      "5": "https://www.google.com/search?q=breakfast+sandwich&sca_esv=7d18109a394306ad&ei=PTAKZ9z1CM-EwbkPo4yA0AQ&start=40&sa=N&sstk=AagrsujVS3_lbdTOqkPn46iCrw3ajDnP7f7cCmdEqduGAK9VySGAlEJ_voGALdnGHA4cbWnqQfsrf-OYi9khmWDu1fLTOIsm0C3sig&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ8tMDegQICRAK",
+      "6": "https://www.google.com/search?q=breakfast+sandwich&sca_esv=7d18109a394306ad&ei=PTAKZ9z1CM-EwbkPo4yA0AQ&start=50&sa=N&sstk=AagrsujVS3_lbdTOqkPn46iCrw3ajDnP7f7cCmdEqduGAK9VySGAlEJ_voGALdnGHA4cbWnqQfsrf-OYi9khmWDu1fLTOIsm0C3sig&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ8tMDegQICRAM",
+      "7": "https://www.google.com/search?q=breakfast+sandwich&sca_esv=7d18109a394306ad&ei=PTAKZ9z1CM-EwbkPo4yA0AQ&start=60&sa=N&sstk=AagrsujVS3_lbdTOqkPn46iCrw3ajDnP7f7cCmdEqduGAK9VySGAlEJ_voGALdnGHA4cbWnqQfsrf-OYi9khmWDu1fLTOIsm0C3sig&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ8tMDegQICRAO",
+      "8": "https://www.google.com/search?q=breakfast+sandwich&sca_esv=7d18109a394306ad&ei=PTAKZ9z1CM-EwbkPo4yA0AQ&start=70&sa=N&sstk=AagrsujVS3_lbdTOqkPn46iCrw3ajDnP7f7cCmdEqduGAK9VySGAlEJ_voGALdnGHA4cbWnqQfsrf-OYi9khmWDu1fLTOIsm0C3sig&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ8tMDegQICRAQ",
+      "9": "https://www.google.com/search?q=breakfast+sandwich&sca_esv=7d18109a394306ad&ei=PTAKZ9z1CM-EwbkPo4yA0AQ&start=80&sa=N&sstk=AagrsujVS3_lbdTOqkPn46iCrw3ajDnP7f7cCmdEqduGAK9VySGAlEJ_voGALdnGHA4cbWnqQfsrf-OYi9khmWDu1fLTOIsm0C3sig&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ8tMDegQICRAS",
+      "10": "https://www.google.com/search?q=breakfast+sandwich&sca_esv=7d18109a394306ad&ei=PTAKZ9z1CM-EwbkPo4yA0AQ&start=90&sa=N&sstk=AagrsujVS3_lbdTOqkPn46iCrw3ajDnP7f7cCmdEqduGAK9VySGAlEJ_voGALdnGHA4cbWnqQfsrf-OYi9khmWDu1fLTOIsm0C3sig&ved=2ahUKEwiciMS0s4iJAxVPQjABHSMGAEoQ8tMDegQICRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+sandwich&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+sandwich&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+sandwich&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+sandwich&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+sandwich&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+sandwich&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+sandwich&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+sandwich&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+sandwich&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+sandwich&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breakfast+sandwich&start=90"
+    }
+  }
+}

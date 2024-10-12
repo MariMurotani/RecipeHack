@@ -1,0 +1,688 @@
+{
+  "search_metadata": {
+    "id": "670a2ffa0c6668d785866c99",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/82b0b61db6bf64d6/670a2ffa0c6668d785866c99.json",
+    "created_at": "2024-10-12 08:14:50 UTC",
+    "processed_at": "2024-10-12 08:14:50 UTC",
+    "google_url": "https://www.google.com/search?q=junket&oq=junket&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/82b0b61db6bf64d6/670a2ffa0c6668d785866c99.html",
+    "total_time_taken": 1.04
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "junket",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "junket",
+    "total_results": 6240000,
+    "time_taken_displayed": 0.38,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "recipes_results": [
+    {
+      "title": "Junket with Strawberries and Whipped Cream",
+      "link": "https://www.historicalfoodways.com/junket-with-strawberries-and-whipped-cream/",
+      "source": "historical foodways",
+      "ingredients": [
+        "Junket",
+        "whipping cream",
+        "food coloring",
+        "sugar",
+        "whole milk"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVWeWhsESOop7ARXJpYplk0BoFy5vieA-4xEZ-pRJYuk91kT36niDOkCq4&s"
+    },
+    {
+      "title": "Junket",
+      "link": "https://www.jamandclottedcream.co.uk/2020/07/creamy-junket-recipe.html",
+      "source": "Jam and Clotted Cream",
+      "total_time": "3 hr 12 min",
+      "ingredients": [
+        "Vanilla bean paste",
+        "vegetarian rennet",
+        "caster sugar",
+        "fat milk"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEZ24QDm34SSAZIoBRxAuzBzGTOxfCvHuqChckRC22NIt59Z-yUooFC0_3VQ&s"
+    },
+    {
+      "title": "Devonshire Junket",
+      "link": "https://tastebudsmagazine.co.uk/recipe/devonshire-junket/",
+      "source": "Taste Buds magazine",
+      "ingredients": [
+        "Single cream",
+        "rennet",
+        "brandy",
+        "caster sugar"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYks7mDP-umTBn-3BlNo2XvlFu6VhkYfWnFXLHCtUdi7dEMFPDRfzVjigoBg&s"
+    }
+  ],
+  "knowledge_graph": {
+    "title": "Junket",
+    "type": "Food",
+    "entity_type": "food, kp3_verticals",
+    "kgmid": "/m/08q3h3",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/08q3h3&hl=en-US&q=Junket",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F08q3h3&location=Austin%2CTexas%2CUnited+States&q=Junket",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/4374bb3366fb1cc9680fcba3b221d902f4a6c3e1026d236887de979904370a4d2828d1033097da1b.jpeg",
+        "source": "https://en.wikipedia.org/wiki/Junket_(dessert)"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/4374bb3366fb1cc9680fcba3b221d902f4a6c3e1026d2368211f4d64e8f959699d76475aaca39746.jpeg",
+        "source": "https://www.historicalfoodways.com/junket-with-strawberries-and-whipped-cream/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/4374bb3366fb1cc9680fcba3b221d902f4a6c3e1026d2368f026d364951d2caca6754cf3b25382cc.jpeg",
+        "source": "https://www.jamandclottedcream.co.uk/2020/07/creamy-junket-recipe.html"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/4374bb3366fb1cc9680fcba3b221d902f4a6c3e1026d23680869dedd4e37d5c3f4f7fbf4150d8149.jpeg",
+        "source": "https://tastebudsmagazine.co.uk/recipe/devonshire-junket/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/4374bb3366fb1cc9680fcba3b221d902f4a6c3e1026d2368b6719ceff79fd0d4f0deae7d49f9d6ab.jpeg",
+        "source": "https://en.wikipedia.org/wiki/Junket_(company)"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiq-p6r_gnTGM9r7-5Nj278c9cbwe1d3EcU1WYh8EmJw&s",
+        "source": "https://www.cookingwithnanaling.com/junket-how-to-enjoy-this-old-fashioned-dessert/"
+      }
+    ],
+    "description": "Junket is a milk-based dessert with a jelly texture, made with sweetened milk and rennet, the digestive enzyme that curdles milk. It is usually set in a mould and served cold. Some similar desserts are Ostkaka, Blancmange, panna cotta, Tavuk g\u00f6\u011fs\u00fc, almond tofu, haupia and tembleque.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Junket_(dessert)"
+    },
+    "people_also_search_for": [
+      {
+        "name": "Rennet",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm5oepFEF4rGC0nTD3DaRg7YjFU1SjcLnT4l1tpaQpxMwj9c8ZvcET9GKBbOESI2t53uRAeSv2Prt78HahskO66AmNz9ubTc29sEw4WTDSaWMoFl-RYmR38VnhkyWAKjc9CXFYYqFbPJF6OJJjMfLHWccAkgjdV1UW4F_OCX2TQcLv1qr27rYyFFFgnoLJwoU10nl3gO51kCXwXxBc0ZqBmf8wzBn0DzxqOExYVrXAB2ElgHliyPypvRtdrgJzwPGYARxThU%3D&q=Rennet&sa=X&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQs9oBKAB6BAguEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Rennet&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm5oepFEF4rGC0nTD3DaRg7YjFU1SjcLnT4l1tpaQpxMwj9c8ZvcET9GKBbOESI2t53uRAeSv2Prt78HahskO66AmNz9ubTc29sEw4WTDSaWMoFl-RYmR38VnhkyWAKjc9CXFYYqFbPJF6OJJjMfLHWccAkgjdV1UW4F_OCX2TQcLv1qr27rYyFFFgnoLJwoU10nl3gO51kCXwXxBc0ZqBmf8wzBn0DzxqOExYVrXAB2ElgHliyPypvRtdrgJzwPGYARxThU%3D",
+        "image": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/4374bb3366fb1cc9680fcba3b221d9021b3dba1a538eef3c4fd75a73da70a38109a6e9bc4daa5812d5ab6ff9d1f6d983.jpeg"
+      },
+      {
+        "name": "Blancmange",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm6Yp_Z5nrlQ_VmeB3iMNAzQLXgQsV0-QS-Ew-csAguF498JbwBWbUjUzPQbYjPl46w6uwDEgoDbfZpYpoBRDM71gCzmsBd-MlJHJR4uE6kbcmwCukbC29uQ-t4SeHZtkkrhnsEkemO3R75euGi7xePgUETDkFRhviuvDBAqL6dRtcqAkCenpfVvQ2LYFtS1fl32-7xhwLwk0ZRbVoc4FS9uvVx25LWyi07FAkbmCsLgnaV08Yngu2Jg9dOCu6cRRoOKGI0s%3D&q=Blancmange&sa=X&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQs9oBKAB6BAguEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Blancmange&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm6Yp_Z5nrlQ_VmeB3iMNAzQLXgQsV0-QS-Ew-csAguF498JbwBWbUjUzPQbYjPl46w6uwDEgoDbfZpYpoBRDM71gCzmsBd-MlJHJR4uE6kbcmwCukbC29uQ-t4SeHZtkkrhnsEkemO3R75euGi7xePgUETDkFRhviuvDBAqL6dRtcqAkCenpfVvQ2LYFtS1fl32-7xhwLwk0ZRbVoc4FS9uvVx25LWyi07FAkbmCsLgnaV08Yngu2Jg9dOCu6cRRoOKGI0s%3D",
+        "image": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/4374bb3366fb1cc9680fcba3b221d9021b3dba1a538eef3c4fd75a73da70a381266ee6a00b5f9ca01b0bc958e47be640.jpeg"
+      },
+      {
+        "name": "Sago",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm44kg3PkcNISUC-2C-XY64P8E1z_fYm-j62pM-x47JWG--tBxD8irVzsAcx8YXt75swwyzkXJZQxh5N5UoQsRwzFNc-6c9BxED4QHGHZ32TGbc7AAD1o88rx-eZwW4Zp-8RhDg77T2Ea9eT7HebhDLmGHb6Gx5FP3pZDPAL1c8qUtmFB3meZh_nNapwtfDp5uCYRG3u0wzVKp-xrqVgPtmS0BqN6plo9OeQY1cNJHcbEtXbWEw%3D%3D&q=Sago&sa=X&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQs9oBKAB6BAguEA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sago&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm44kg3PkcNISUC-2C-XY64P8E1z_fYm-j62pM-x47JWG--tBxD8irVzsAcx8YXt75swwyzkXJZQxh5N5UoQsRwzFNc-6c9BxED4QHGHZ32TGbc7AAD1o88rx-eZwW4Zp-8RhDg77T2Ea9eT7HebhDLmGHb6Gx5FP3pZDPAL1c8qUtmFB3meZh_nNapwtfDp5uCYRG3u0wzVKp-xrqVgPtmS0BqN6plo9OeQY1cNJHcbEtXbWEw%3D%3D",
+        "image": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/4374bb3366fb1cc9680fcba3b221d9021b3dba1a538eef3c4fd75a73da70a3810feab049b668dfd33db10c3ce6ca2916.jpeg"
+      },
+      {
+        "name": "Fruit",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm0CZO57UHzgX1IJUy4Y7PJymxtWPft9ejyG8qfOwKZIftMmGBzObNjV3-OiUUGXIZGtEPcjex6vK3XyVCn2dOjV0czcTOok6ktP4Fubt44GVKruMX1jXNBV64b0kWAlyrvAEcoAAnKYhmsXIGMYAvEi2IepqOIR3CDRI42mJ7DgOWuO9WyJ7_IRyj0nf6-j80CGDzjiuVVv_CiiWaLbB3imZ9cJn-ECuN9QXyBrHXbM-hkT9FQ%3D%3D&q=fruit&sa=X&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQs9oBKAB6BAguEBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=fruit&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm0CZO57UHzgX1IJUy4Y7PJymxtWPft9ejyG8qfOwKZIftMmGBzObNjV3-OiUUGXIZGtEPcjex6vK3XyVCn2dOjV0czcTOok6ktP4Fubt44GVKruMX1jXNBV64b0kWAlyrvAEcoAAnKYhmsXIGMYAvEi2IepqOIR3CDRI42mJ7DgOWuO9WyJ7_IRyj0nf6-j80CGDzjiuVVv_CiiWaLbB3imZ9cJn-ECuN9QXyBrHXbM-hkT9FQ%3D%3D",
+        "image": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/4374bb3366fb1cc9680fcba3b221d9021b3dba1a538eef3c4fd75a73da70a381ed1303009d6be74f59b5f50ae92f4da9.jpeg"
+      }
+    ]
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=junket&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=NC27UbOClxSq6M%252CUgFVqk9b2_-SDM%252C%252Fm%252F08q3h3%253BVOHbDfFZqMfXcM%252CKMiuAqkB8K7eZM%252C_%253BkJvhbNt4Kh6BkM%252CBkdm1gePIm1EcM%252C_%253BVr62t4_uFBV68M%252CZPuHMXx_kkIM9M%252C_%253BNNGib6YYBHM11M%252C_jelc0RVfIBikM%252C_%253BSB6Dp1keddLmdM%252CEWROgJl_PEP72M%252C_&usg=AI4_-kR1apPaxbi55NY2EgCu0prjqd1zUA&sa=X&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQ_B16BAgyEAE#vhid=NC27UbOClxSq6M&vssid=mosaic",
+      "source": "https://en.wikipedia.org/wiki/Junket_(dessert)",
+      "thumbnail": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/2c3099bb2214139b86fc649fac88285959888a76216af8e1133739b618ba040a.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Sportsman%2C_Seasalter%2C_Kent_%286477078261%29.jpg",
+      "title": "upload.wikimedia.org/wikipedia/commons/a/ad/Sports...",
+      "source_name": "en.wikipedia.org"
+    },
+    {
+      "link": "https://www.google.com/search?q=junket&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=NC27UbOClxSq6M%252CUgFVqk9b2_-SDM%252C_%253BVOHbDfFZqMfXcM%252CKMiuAqkB8K7eZM%252C_%253BkJvhbNt4Kh6BkM%252CBkdm1gePIm1EcM%252C_%253BVr62t4_uFBV68M%252CZPuHMXx_kkIM9M%252C_%253BNNGib6YYBHM11M%252C_jelc0RVfIBikM%252C_%253BSB6Dp1keddLmdM%252CEWROgJl_PEP72M%252C_&usg=AI4_-kT3wGXlu92ID6ZAmSUvIrp--0HgWQ&sa=X&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQ_h16BAg0EAE#vhid=VOHbDfFZqMfXcM&vssid=mosaic",
+      "source": "https://www.historicalfoodways.com/junket-with-strawberries-and-whipped-cream/",
+      "thumbnail": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/2c3099bb2214139bcdcdd69ef0e9a2b33c827b0d6bd5fac50a39b9a4a5e50b2c.jpeg",
+      "original": "https://i0.wp.com/www.historicalfoodways.com/wp-content/uploads/2021/03/P3230111_p_small.jpg?resize=750%2C938&ssl=1",
+      "title": "Junket with Strawberries and Whipped Cream - HISTORICAL FOODWAYS",
+      "source_name": "historical foodways"
+    },
+    {
+      "link": "https://www.google.com/search?q=junket&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=NC27UbOClxSq6M%252CUgFVqk9b2_-SDM%252C_%253BVOHbDfFZqMfXcM%252CKMiuAqkB8K7eZM%252C_%253BkJvhbNt4Kh6BkM%252CBkdm1gePIm1EcM%252C_%253BVr62t4_uFBV68M%252CZPuHMXx_kkIM9M%252C_%253BNNGib6YYBHM11M%252C_jelc0RVfIBikM%252C_%253BSB6Dp1keddLmdM%252CEWROgJl_PEP72M%252C_&usg=AI4_-kT3wGXlu92ID6ZAmSUvIrp--0HgWQ&sa=X&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQ_h16BAg3EAE#vhid=kJvhbNt4Kh6BkM&vssid=mosaic",
+      "source": "https://www.jamandclottedcream.co.uk/2020/07/creamy-junket-recipe.html",
+      "thumbnail": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/2c3099bb2214139b6aaf777a8a865ac4817e42f38dbcbfbdab54386fe894a852.jpeg",
+      "original": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB8I3ThPmFzsSXR9PRyZXNtYJw3LcejOjksESKa94ptxycQ0yVZZkK0JZ9cfkDDdD4TaOF40e3ra47p8CSJqIVKwKLS52rjnDg2bTDeCOcDoXRLHnJQc7pORC21EkcQCm3dVky6oOI9avw/s1600/junket-pin-1.jpg",
+      "title": "Junket",
+      "source_name": "Jam and Clotted Cream"
+    },
+    {
+      "link": "https://www.google.com/search?q=junket&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=NC27UbOClxSq6M%252CUgFVqk9b2_-SDM%252C_%253BVOHbDfFZqMfXcM%252CKMiuAqkB8K7eZM%252C_%253BkJvhbNt4Kh6BkM%252CBkdm1gePIm1EcM%252C_%253BVr62t4_uFBV68M%252CZPuHMXx_kkIM9M%252C_%253BNNGib6YYBHM11M%252C_jelc0RVfIBikM%252C_%253BSB6Dp1keddLmdM%252CEWROgJl_PEP72M%252C_&usg=AI4_-kT3wGXlu92ID6ZAmSUvIrp--0HgWQ&sa=X&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQ_h16BAgzEAE#vhid=Vr62t4_uFBV68M&vssid=mosaic",
+      "source": "https://tastebudsmagazine.co.uk/recipe/devonshire-junket/",
+      "thumbnail": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/2c3099bb2214139bff1df34d780a51ab3cc0ca93bbcb5e4cd018a461d7c473d2.jpeg",
+      "original": "https://tastebudsmagazine.co.uk/cmsAdmin/uploads/thumb/devonshire-junket-recipe-landscape.jpg",
+      "title": "Devonshire Junket",
+      "source_name": "Taste Buds magazine"
+    },
+    {
+      "link": "https://www.google.com/search?q=junket&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=NC27UbOClxSq6M%252CUgFVqk9b2_-SDM%252C_%253BVOHbDfFZqMfXcM%252CKMiuAqkB8K7eZM%252C_%253BkJvhbNt4Kh6BkM%252CBkdm1gePIm1EcM%252C_%253BVr62t4_uFBV68M%252CZPuHMXx_kkIM9M%252C_%253BNNGib6YYBHM11M%252C_jelc0RVfIBikM%252C_%253BSB6Dp1keddLmdM%252CEWROgJl_PEP72M%252C_&usg=AI4_-kT3wGXlu92ID6ZAmSUvIrp--0HgWQ&sa=X&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQ_h16BAg1EAE#vhid=NNGib6YYBHM11M&vssid=mosaic",
+      "source": "https://en.wikipedia.org/wiki/Junket_(company)",
+      "thumbnail": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/2c3099bb2214139b7098af7f9dbd8c847b7bc1f681cecac50b6a28e0ea00dd18.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/en/9/93/Junket_%28dessert%29.jpg",
+      "title": "Junket (company) - Wikipedia",
+      "source_name": "Wikipedia"
+    },
+    {
+      "link": "https://www.google.com/search?q=junket&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=NC27UbOClxSq6M%252CUgFVqk9b2_-SDM%252C_%253BVOHbDfFZqMfXcM%252CKMiuAqkB8K7eZM%252C_%253BkJvhbNt4Kh6BkM%252CBkdm1gePIm1EcM%252C_%253BVr62t4_uFBV68M%252CZPuHMXx_kkIM9M%252C_%253BNNGib6YYBHM11M%252C_jelc0RVfIBikM%252C_%253BSB6Dp1keddLmdM%252CEWROgJl_PEP72M%252C_&usg=AI4_-kT3wGXlu92ID6ZAmSUvIrp--0HgWQ&sa=X&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQ_h16BAgxEAE#vhid=SB6Dp1keddLmdM&vssid=mosaic",
+      "source": "https://www.cookingwithnanaling.com/junket-how-to-enjoy-this-old-fashioned-dessert/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiq-p6r_gnTGM9r7-5Nj278c9cbwe1d3EcU1WYh8EmJw&s",
+      "original": "https://www.cookingwithnanaling.com/wp-content/uploads/2023/10/junket-recipe.jpg",
+      "title": "Junket",
+      "source_name": "Cooking with Nana Ling"
+    }
+  ],
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Junket Milk Desserts! Vintage Dessert Forgotten, But Not ...",
+      "link": "https://www.youtube.com/watch?v=OrPx1MN3E04",
+      "thumbnail": "https://i.ytimg.com/vi/OrPx1MN3E04/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3n2dQ5TsnEw5iVjQ3DTyVi5Cz52-w",
+      "channel": "Everything Homemade",
+      "duration": "36:13",
+      "platform": "YouTube",
+      "date": "Jun 21, 2023"
+    },
+    {
+      "position": 2,
+      "title": "Junket Milk Dessert Easy Video recipe cheekyricho",
+      "link": "https://www.youtube.com/watch?v=SLUaXIBg_To",
+      "thumbnail": "https://i.ytimg.com/vi/SLUaXIBg_To/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3nVpiMuFkO8EG_gd9ahVMHYM5VrsQ",
+      "channel": "cheekyricho cooking",
+      "duration": "6:07",
+      "platform": "YouTube",
+      "date": "Jan 14, 2013",
+      "key_moments": [
+        {
+          "time": "00:03",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=SLUaXIBg_To&t=3",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP1cCc3e_uAESoVV2bXFZG0i2L_oCVWS8oWL5_xZXnVw&s"
+        },
+        {
+          "time": "00:50",
+          "title": "Heating the milk",
+          "link": "https://www.youtube.com/watch?v=SLUaXIBg_To&t=50",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNE2RrU-KN8J3rrRxacVk_2fXtf7q6iMP9p3-7hpOKYA&s"
+        },
+        {
+          "time": "01:04",
+          "title": "Mixing Junket Powder",
+          "link": "https://www.youtube.com/watch?v=SLUaXIBg_To&t=64",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWXf6bawJa9WS4WSBBMGROYpuGk8Y78mf17UqwSMH8FQ&s"
+        },
+        {
+          "time": "01:50",
+          "title": "Adding the milk",
+          "link": "https://www.youtube.com/watch?v=SLUaXIBg_To&t=110",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtyHqL6Fxc25oBu1Csp6pL6qgYd4OX_AzhLa7dsjGjQ&s"
+        },
+        {
+          "time": "02:01",
+          "title": "Adding Vanilla Extract",
+          "link": "https://www.youtube.com/watch?v=SLUaXIBg_To&t=121",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY-ynPuU4VmdRaBPAid-IcoJgYOkcElTbAc7F_ngvdFA&s"
+        },
+        {
+          "time": "04:37",
+          "title": "Cooling the Junket",
+          "link": "https://www.youtube.com/watch?v=SLUaXIBg_To&t=277",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW-rKyx4nI47lzZIq1W-974JiNQ4LVCAOB80c0n5rS4Q&s"
+        },
+        {
+          "time": "05:04",
+          "title": "Serving Tips",
+          "link": "https://www.youtube.com/watch?v=SLUaXIBg_To&t=304",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXQZzylpfjgq7uqq58iojpCr2V2e1UFiHrcO02Siz-dQ&s"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "1943 Caramel Junket Dessert Recipe",
+      "link": "https://www.youtube.com/watch?v=OVo8gGHnbPk",
+      "thumbnail": "https://i.ytimg.com/vi/OVo8gGHnbPk/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3ky20ZvPIrr37nr96D_V3SwaNymog",
+      "channel": "Glen And Friends Cooking",
+      "duration": "8:16",
+      "platform": "YouTube",
+      "date": "Oct 18, 2020",
+      "key_moments": [
+        {
+          "time": "00:05",
+          "title": "Cookbook Overview",
+          "link": "https://www.youtube.com/watch?v=OVo8gGHnbPk&t=5",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT77mbvFj2nwRGwQol5IjqHGMPMgr1ukoJNn_Cndqb9ng&s"
+        },
+        {
+          "time": "01:13",
+          "title": "Heating the milk",
+          "link": "https://www.youtube.com/watch?v=OVo8gGHnbPk&t=73",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLys2vEyS10oVPMtXltIPg4GugqoT79ZiFxv4Sz2yc4Q&s"
+        },
+        {
+          "time": "01:25",
+          "title": "Caramelizing the Sugar",
+          "link": "https://www.youtube.com/watch?v=OVo8gGHnbPk&t=85",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0kUDsg_RjBLLvhcaktAPsXL7v0KDW6zVX0JOT4j-FIw&s"
+        },
+        {
+          "time": "02:14",
+          "title": "Cooking the syrup",
+          "link": "https://www.youtube.com/watch?v=OVo8gGHnbPk&t=134",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe3Hy5_amUiU9Z0SWDjoBejCt3riQ2LYatIYFP4VN2uw&s"
+        },
+        {
+          "time": "02:27",
+          "title": "Cooling the syrup",
+          "link": "https://www.youtube.com/watch?v=OVo8gGHnbPk&t=147",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKl01N2SEvISNxscSRny4W87mitwJA0gZhmxyCGri1LQ&s"
+        },
+        {
+          "time": "02:55",
+          "title": "Mixing the Milk",
+          "link": "https://www.youtube.com/watch?v=OVo8gGHnbPk&t=175",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmlZxYv8L7n0plZj0t0Qn1-2xKW-6VM3xpRCoylf2Ayg&s"
+        },
+        {
+          "time": "03:12",
+          "title": "Dissolving the Rennet Tablet",
+          "link": "https://www.youtube.com/watch?v=OVo8gGHnbPk&t=192",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl7hisuZj3ordhsqHj0rkTCtPPqthWE2gzJi7KKAnBSA&s"
+        },
+        {
+          "time": "03:55",
+          "title": "Final Mix",
+          "link": "https://www.youtube.com/watch?v=OVo8gGHnbPk&t=235",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO6Bk8dqoJnkUbFmSNdte_aFu6ZS0ums33bcKKyOApmQ&s"
+        },
+        {
+          "time": "04:27",
+          "title": "Setting the Caramel Junket",
+          "link": "https://www.youtube.com/watch?v=OVo8gGHnbPk&t=267",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRro9JzEl8UERbTR0z-z3bYleQh4_xK3FxImq0IgSStDg&s"
+        }
+      ]
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the meaning of junket?",
+      "snippet": "(1) : a trip made by an official at public expense. (2) : a promotional trip made at another's expense.",
+      "title": "Junket Definition & Meaning - Merriam-Webster",
+      "date": "Sep 27, 2024",
+      "link": "https://www.merriam-webster.com/dictionary/junket#:~:text=(1),trip%20made%20at%20another's%20expense",
+      "displayed_link": "https://www.merriam-webster.com \u203a dictionary \u203a junket",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVpXMXFSa3M0Y2xoTlJtazRhME5QTWpaZlEzbHlURXBOUWt0QlZ6RXRUemRsT0d0bmIxQllPSEZsVDNKNlZsaExkbFZ5VmxObGQwSkJUVWhRVVdFdGFteERXaTFFRWhjdGFUaExXamQ2Wmt4dmRtdDRZemhRY1MxaFp6SlJheG9pUVVaWWNrVmpjVVJNVG1zd1pIZFJURlUwZEc1ZmNXaHNiRlpxUWtSSWFWSlFkdyIsImZjdiI6IjMiLCJlaSI6Ii1pOEtaN3pmTG92a3hjOFBxLWFnMlFrIiwicWMiOiJDZ1pxZFc1clpYUVFBSDA5X0N3XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbWVhbmluZyBvZiBqdW5rZXQ/IiwibGsiOiJHaEZxZFc1clpYUWdiV1ZoYm1sdVp5QnZaZyIsImJzIjoiYy1PeTRKSUx6MGdzVWNnc1ZpakpTRlhJVFUzTXk4eExWOGhQVThncXpjdE9MYkdYdUtac0pDd2xDT0VoeVhQNWNDbkJkQ1pDRlN0azVpazRGV1dXWkJabktCVG5KT2FsMjBzczBESlNsbElzeDZJd0NWa2hseEdYcUdjeFRMYTRKRE1uUnlFM01TWFZYdUsxdlpHWWxFZ21Gamt1Unk1WmJDNUlLaTNPekVzdExyYVhDREtTazVMQmFqZFVpUUFqQUEiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVpXMXFSa3M0Y2xoTlJtazRhME5QTWpaZlEzbHlURXBOUWt0QlZ6RXRUemRsT0d0bmIxQllPSEZsVDNKNlZsaExkbFZ5VmxObGQwSkJUVWhRVVdFdGFteERXaTFFRWhjdGFUaExXamQ2Wmt4dmRtdDRZemhRY1MxaFp6SlJheG9pUVVaWWNrVmpjVVJNVG1zd1pIZFJURlUwZEc1ZmNXaHNiRlpxUWtSSWFWSlFkdyIsImZjdiI6IjMiLCJlaSI6Ii1pOEtaN3pmTG92a3hjOFBxLWFnMlFrIiwicWMiOiJDZ1pxZFc1clpYUVFBSDA5X0N3XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbWVhbmluZyBvZiBqdW5rZXQ%2FIiwibGsiOiJHaEZxZFc1clpYUWdiV1ZoYm1sdVp5QnZaZyIsImJzIjoiYy1PeTRKSUx6MGdzVWNnc1ZpakpTRlhJVFUzTXk4eExWOGhQVThncXpjdE9MYkdYdUtac0pDd2xDT0VoeVhQNWNDbkJkQ1pDRlN0azVpazRGV1dXWkJabktCVG5KT2FsMjBzczBESlNsbElzeDZJd0NWa2hseEdYcUdjeFRMYTRKRE1uUnlFM01TWFZYdUsxdlpHWWxFZ21Gamt1Unk1WmJDNUlLaTNPekVzdExyYVhDREtTazVMQmFqZFVpUUFqQUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+    },
+    {
+      "question": "What is a junket in British slang?",
+      "snippet": "/\u02c8d\u0292\u028c\u014b.k\u026at/ uk. /\u02c8d\u0292\u028c\u014b.k\u026at/ Add to word list Add to word list. a trip or visit made for pleasure by an official that is paid for by someone else or with public money.",
+      "title": "JUNKET | definition in the Cambridge English Dictionary",
+      "link": "https://dictionary.cambridge.org/us/dictionary/english/junket#:~:text=%2F%CB%88d%CA%92%CA%8C%C5%8B.k%C9%AAt%2F%20uk,else%20or%20with%20public%20money",
+      "displayed_link": "https://dictionary.cambridge.org \u203a dictionary \u203a junket",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVpXMXFSa3M0Y2xoTlJtazRhME5QTWpaZlEzbHlURXBOUWt0QlZ6RXRUemRsT0d0bmIxQllPSEZsVDNKNlZsaExkbFZ5VmxObGQwSkJUVWhRVVdFdGFteERXaTFFRWhjdGFUaExXamQ2Wmt4dmRtdDRZemhRY1MxaFp6SlJheG9pUVVaWWNrVmpjVVJNVG1zd1pIZFJURlUwZEc1ZmNXaHNiRlpxUWtSSWFWSlFkdyIsImZjdiI6IjMiLCJlaSI6Ii1pOEtaN3pmTG92a3hjOFBxLWFnMlFrIiwicWMiOiJDZ1pxZFc1clpYUVFBSDA5X0N3XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIGp1bmtldCBpbiBCcml0aXNoIHNsYW5nPyIsImxrIjoiR2lGM2FHRjBJR2x6SUdFZ2FuVnVhMlYwSUdsdUlHSnlhWFJwYzJnZ2MyeGhibWMiLCJicyI6ImMtT3k0SklMejBnc1VjZ3NWaWpKU0ZYSVRVM015OHhMVjhoUFU4Z3F6Y3RPTGJHWHVLWnNKQ3dsQ09FaHlYUDVjQ25CZENaQ0ZTdGs1aWs0RldXV1pCWm5LQlRuSk9hbDIwc3MwREpTbGxJc3g2SXdDVmtobHhHWHFHY3hUTGE0SkRNblJ5RTNNU1hWWHVLMXZaR1lsRWdtRmprdVJ5NVpiQzVJS2kzT3pFc3RMcmFYQ0RLU2s1TEJhamRVaVFBakFBIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVpXMXFSa3M0Y2xoTlJtazRhME5QTWpaZlEzbHlURXBOUWt0QlZ6RXRUemRsT0d0bmIxQllPSEZsVDNKNlZsaExkbFZ5VmxObGQwSkJUVWhRVVdFdGFteERXaTFFRWhjdGFUaExXamQ2Wmt4dmRtdDRZemhRY1MxaFp6SlJheG9pUVVaWWNrVmpjVVJNVG1zd1pIZFJURlUwZEc1ZmNXaHNiRlpxUWtSSWFWSlFkdyIsImZjdiI6IjMiLCJlaSI6Ii1pOEtaN3pmTG92a3hjOFBxLWFnMlFrIiwicWMiOiJDZ1pxZFc1clpYUVFBSDA5X0N3XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIGp1bmtldCBpbiBCcml0aXNoIHNsYW5nPyIsImxrIjoiR2lGM2FHRjBJR2x6SUdFZ2FuVnVhMlYwSUdsdUlHSnlhWFJwYzJnZ2MyeGhibWMiLCJicyI6ImMtT3k0SklMejBnc1VjZ3NWaWpKU0ZYSVRVM015OHhMVjhoUFU4Z3F6Y3RPTGJHWHVLWnNKQ3dsQ09FaHlYUDVjQ25CZENaQ0ZTdGs1aWs0RldXV1pCWm5LQlRuSk9hbDIwc3MwREpTbGxJc3g2SXdDVmtobHhHWHFHY3hUTGE0SkRNblJ5RTNNU1hWWHVLMXZaR1lsRWdtRmprdVJ5NVpiQzVJS2kzT3pFc3RMcmFYQ0RLU2s1TEJhamRVaVFBakFBIiwiaWQiOiJmY18xIn0%3D"
+    },
+    {
+      "question": "Is junket still made?",
+      "snippet": "Rennet tablets, commonly referred to as \"Junket tablets\", are a common source of rennet for home cheesemakers. The \"Junket\" brand is now owned and operated by Junket Foods LLC a St. Louis Missouri company with a history with ice cream.",
+      "title": "Junket (company) - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Junket_(company)#:~:text=Rennet%20tablets%2C%20commonly%20referred%20to,a%20history%20with%20ice%20cream.",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Junket_(company)",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmZuedaMW9T3kr7Kr_Egr2GOOuYSs6MSAjK7R5A0Vtkg&s",
+      "source_logo": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/fd6efa6c5c4222ab7c43032c79f5ca9ff6700eeb968addec4a7764aecd056434.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVpXMXFSa3M0Y2xoTlJtazRhME5QTWpaZlEzbHlURXBOUWt0QlZ6RXRUemRsT0d0bmIxQllPSEZsVDNKNlZsaExkbFZ5VmxObGQwSkJUVWhRVVdFdGFteERXaTFFRWhjdGFUaExXamQ2Wmt4dmRtdDRZemhRY1MxaFp6SlJheG9pUVVaWWNrVmpjVVJNVG1zd1pIZFJURlUwZEc1ZmNXaHNiRlpxUWtSSWFWSlFkdyIsImZjdiI6IjMiLCJlaSI6Ii1pOEtaN3pmTG92a3hjOFBxLWFnMlFrIiwicWMiOiJDZ1pxZFc1clpYUVFBSDA5X0N3XyIsInF1ZXN0aW9uIjoiSXMganVua2V0IHN0aWxsIG1hZGU/IiwibGsiOiJHaFJwY3lCcWRXNXJaWFFnYzNScGJHd2diV0ZrWlEiLCJicyI6ImMtT3k0SklMejBnc1VjZ3NWaWpKU0ZYSVRVM015OHhMVjhoUFU4Z3F6Y3RPTGJHWHVLWnNKQ3dsQ09FaHlYUDVjQ25CZENaQ0ZTdGs1aWs0RldXV1pCWm5LQlRuSk9hbDIwc3MwREpTbGxJc3g2SXdDVmtobHhHWHFHY3hUTGE0SkRNblJ5RTNNU1hWWHVLMXZaR1lsRWdtRmprdVJ5NVpiQzVJS2kzT3pFc3RMcmFYQ0RLU2s1TEJhamRVaVFBakFBIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVpXMXFSa3M0Y2xoTlJtazRhME5QTWpaZlEzbHlURXBOUWt0QlZ6RXRUemRsT0d0bmIxQllPSEZsVDNKNlZsaExkbFZ5VmxObGQwSkJUVWhRVVdFdGFteERXaTFFRWhjdGFUaExXamQ2Wmt4dmRtdDRZemhRY1MxaFp6SlJheG9pUVVaWWNrVmpjVVJNVG1zd1pIZFJURlUwZEc1ZmNXaHNiRlpxUWtSSWFWSlFkdyIsImZjdiI6IjMiLCJlaSI6Ii1pOEtaN3pmTG92a3hjOFBxLWFnMlFrIiwicWMiOiJDZ1pxZFc1clpYUVFBSDA5X0N3XyIsInF1ZXN0aW9uIjoiSXMganVua2V0IHN0aWxsIG1hZGU%2FIiwibGsiOiJHaFJwY3lCcWRXNXJaWFFnYzNScGJHd2diV0ZrWlEiLCJicyI6ImMtT3k0SklMejBnc1VjZ3NWaWpKU0ZYSVRVM015OHhMVjhoUFU4Z3F6Y3RPTGJHWHVLWnNKQ3dsQ09FaHlYUDVjQ25CZENaQ0ZTdGs1aWs0RldXV1pCWm5LQlRuSk9hbDIwc3MwREpTbGxJc3g2SXdDVmtobHhHWHFHY3hUTGE0SkRNblJ5RTNNU1hWWHVLMXZaR1lsRWdtRmprdVJ5NVpiQzVJS2kzT3pFc3RMcmFYQ0RLU2s1TEJhamRVaVFBakFBIiwiaWQiOiJmY18xIn0%3D"
+    },
+    {
+      "question": "What is a junket in business?",
+      "snippet": "(d\u0292\u028c\u014bk\u026at ) Word forms: junkets. countable noun. If you describe a trip or visit by an official or businessperson as a junket, you disapprove of it because it is expensive, unnecessary, and often has been paid for with public money.",
+      "title": "JUNKET definition in American English - Collins Dictionary",
+      "link": "https://www.collinsdictionary.com/us/dictionary/english/junket#:~:text=(d%CA%92%CA%8C%C5%8Bk%C9%AAt%20),paid%20for%20with%20public%20money.",
+      "displayed_link": "https://www.collinsdictionary.com \u203a dictionary \u203a junket",
+      "source_logo": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/fd6efa6c5c4222ab7c43032c79f5ca9f0d2e547b190261ca339950f9f8eaf278.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVpXMXFSa3M0Y2xoTlJtazRhME5QTWpaZlEzbHlURXBOUWt0QlZ6RXRUemRsT0d0bmIxQllPSEZsVDNKNlZsaExkbFZ5VmxObGQwSkJUVWhRVVdFdGFteERXaTFFRWhjdGFUaExXamQ2Wmt4dmRtdDRZemhRY1MxaFp6SlJheG9pUVVaWWNrVmpjVVJNVG1zd1pIZFJURlUwZEc1ZmNXaHNiRlpxUWtSSWFWSlFkdyIsImZjdiI6IjMiLCJlaSI6Ii1pOEtaN3pmTG92a3hjOFBxLWFnMlFrIiwicWMiOiJDZ1pxZFc1clpYUVFBSDA5X0N3XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIGp1bmtldCBpbiBidXNpbmVzcz8iLCJsayI6IkdoeDNhR0YwSUdseklHRWdhblZ1YTJWMElHbHVJR0oxYzJsdVpYTnoiLCJicyI6ImMtT3k0SklMejBnc1VjZ3NWaWpKU0ZYSVRVM015OHhMVjhoUFU4Z3F6Y3RPTGJHWHVLWnNKQ3dsQ09FaHlYUDVjQ25CZENaQ0ZTdGs1aWs0RldXV1pCWm5LQlRuSk9hbDIwc3MwREpTbGxJc3g2SXdDVmtobHhHWHFHY3hUTGE0SkRNblJ5RTNNU1hWWHVLMXZaR1lsRWdtRmprdVJ5NVpiQzVJS2kzT3pFc3RMcmFYQ0RLU2s1TEJhamRVaVFBakFBIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVpXMXFSa3M0Y2xoTlJtazRhME5QTWpaZlEzbHlURXBOUWt0QlZ6RXRUemRsT0d0bmIxQllPSEZsVDNKNlZsaExkbFZ5VmxObGQwSkJUVWhRVVdFdGFteERXaTFFRWhjdGFUaExXamQ2Wmt4dmRtdDRZemhRY1MxaFp6SlJheG9pUVVaWWNrVmpjVVJNVG1zd1pIZFJURlUwZEc1ZmNXaHNiRlpxUWtSSWFWSlFkdyIsImZjdiI6IjMiLCJlaSI6Ii1pOEtaN3pmTG92a3hjOFBxLWFnMlFrIiwicWMiOiJDZ1pxZFc1clpYUVFBSDA5X0N3XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIGp1bmtldCBpbiBidXNpbmVzcz8iLCJsayI6IkdoeDNhR0YwSUdseklHRWdhblZ1YTJWMElHbHVJR0oxYzJsdVpYTnoiLCJicyI6ImMtT3k0SklMejBnc1VjZ3NWaWpKU0ZYSVRVM015OHhMVjhoUFU4Z3F6Y3RPTGJHWHVLWnNKQ3dsQ09FaHlYUDVjQ25CZENaQ0ZTdGs1aWs0RldXV1pCWm5LQlRuSk9hbDIwc3MwREpTbGxJc3g2SXdDVmtobHhHWHFHY3hUTGE0SkRNblJ5RTNNU1hWWHVLMXZaR1lsRWdtRmprdVJ5NVpiQzVJS2kzT3pFc3RMcmFYQ0RLU2s1TEJhamRVaVFBakFBIiwiaWQiOiJmY18xIn0%3D"
+    }
+  ],
+  "answer_box": {
+    "type": "dictionary_results",
+    "syllables": "jun\u00b7ket",
+    "pronunciation_audio": "https://ssl.gstatic.com/dictionary/static/sounds/20220808/junket--_us_1.mp3",
+    "phonetic": "/\u02c8j\u0259NGk\u0259t/",
+    "word_type": "noun",
+    "definitions": [
+      "an extravagant trip or celebration, in particular one enjoyed by a government official at public expense.",
+      "a dish of sweetened and flavored curds of milk, often served with fruit.",
+      "attend or go on a trip or celebration at public expense."
+    ],
+    "examples": [
+      "the latest row over city council junkets",
+      "a plate of junket",
+      "the mayor junketed off to Christchurch for a cricket match last week"
+    ],
+    "extras": [
+      "celebration",
+      "party",
+      "jamboree",
+      "feast",
+      "festivity",
+      "revelry",
+      "spree",
+      "excursion",
+      "outing",
+      "trip",
+      "jaunt",
+      "do",
+      "bash",
+      "shindy",
+      "shindig",
+      "shebang",
+      "beanfeast",
+      "jolly",
+      "thrash",
+      "bunfight",
+      "beano",
+      "jollo",
+      "shivoo",
+      "ding-dong"
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Home - Junket Desserts - Known and Loved Since 1874",
+      "link": "https://junketdesserts.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://junketdesserts.com/&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQFnoECBQQAQ",
+      "displayed_link": "https://junketdesserts.com",
+      "favicon": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/edd29ef8d3bf8afc70a3a05d08160a0fbc9a7e166fa51b62bbec3b2b2dd65b60.png",
+      "snippet": "Junket products are authentic and time-tested, known and loved since 1874. Timeless products for making delicious desserts, ice cream, and even cheese.",
+      "snippet_highlighted_words": [
+        "Junket"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Recipes",
+            "link": "https://junketdesserts.com/recipes"
+          },
+          {
+            "title": "Product categories",
+            "link": "https://junketdesserts.com/products"
+          },
+          {
+            "title": "Junket Memories",
+            "link": "https://junketdesserts.com/junket-memories"
+          },
+          {
+            "title": "Junket Rennet custard, the...",
+            "link": "https://junketdesserts.com/2019/11/junket-rennet-custard-the-growing-up-dessert"
+          }
+        ]
+      },
+      "source": "Junket Desserts"
+    },
+    {
+      "position": 2,
+      "title": "Junket Definition & Meaning",
+      "link": "https://www.merriam-webster.com/dictionary/junket",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.merriam-webster.com/dictionary/junket&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQFnoECEYQAQ",
+      "displayed_link": "https://www.merriam-webster.com \u203a dictionary \u203a junket",
+      "favicon": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/edd29ef8d3bf8afc70a3a05d08160a0f8f0a7a4081e1070c6d779583e38c6eb6.png",
+      "date": "Sep 27, 2024",
+      "snippet": "1. a : trip, journey: such as (1) : a trip made by an official at public expense (2) : a promotional trip made at another's expense a film's press junket.",
+      "source": "Merriam-Webster"
+    },
+    {
+      "position": 3,
+      "title": "Junket (dessert)",
+      "link": "https://en.wikipedia.org/wiki/Junket_(dessert)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Junket_(dessert)&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQFnoECFsQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Junket_(dessert)",
+      "favicon": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/edd29ef8d3bf8afc70a3a05d08160a0ff9492c2f0060bcbf53941d0b214fc1de.png",
+      "snippet": "Junket is a milk-based dessert with a jelly texture, made with sweetened milk and rennet, the digestive enzyme that curdles milk. It is usually set in a ...",
+      "snippet_highlighted_words": [
+        "Junket"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 4,
+      "title": "Ice Cream Mix, Danish Dessert, and Rennet",
+      "link": "https://junketdesserts.com/products",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://junketdesserts.com/products&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQFnoECFMQAQ",
+      "displayed_link": "https://junketdesserts.com \u203a products",
+      "favicon": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/edd29ef8d3bf8afc70a3a05d08160a0fc363e229c8248e69d1c39640625d51f6.png",
+      "snippet": "Since 1874, consumers have been enjoying Junket Products. These great-tasting homemade desserts are a tradition for many families and are available here ...",
+      "snippet_highlighted_words": [
+        "Junket"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 36.0,
+            "currency": "$"
+          },
+          "extensions": [
+            "$36.00"
+          ]
+        }
+      },
+      "source": "Junket Desserts"
+    },
+    {
+      "position": 5,
+      "title": "Junket, a Terrible Name for a Delicious Dessert!",
+      "link": "https://homesteadmuseum.blog/2020/09/08/from-the-homestead-kitchen-junket-a-terrible-name-for-a-delicious-dessert/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://homesteadmuseum.blog/2020/09/08/from-the-homestead-kitchen-junket-a-terrible-name-for-a-delicious-dessert/&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQFnoECEIQAQ",
+      "displayed_link": "https://homesteadmuseum.blog \u203a 2020/09/08 \u203a from-th...",
+      "favicon": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/edd29ef8d3bf8afc70a3a05d08160a0f7c66e9995715bed5b9656654bd7c058e.png",
+      "date": "Sep 8, 2020",
+      "snippet": "The name might have been derived from a French dish from the Middle Ages, made from a sweetened curdled cream known as jonquet. Once reserved ...",
+      "source": "The Homestead Blog"
+    },
+    {
+      "position": 6,
+      "title": "Junket",
+      "link": "https://wejunket.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wejunket.com/&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQFnoECEUQAQ",
+      "displayed_link": "https://wejunket.com",
+      "favicon": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/edd29ef8d3bf8afc70a3a05d08160a0f139ded0bcb7aad23c32dbaea01013b4f.png",
+      "snippet": "Junket is an experience company that provides premium experiences and walking tours in over 60 U.S. cities, each tailored to help you create a personal, ...",
+      "snippet_highlighted_words": [
+        "Junket"
+      ],
+      "source": "wejunket.com"
+    },
+    {
+      "position": 7,
+      "title": "JUNKET | definition in the Cambridge English Dictionary",
+      "link": "https://dictionary.cambridge.org/us/dictionary/english/junket",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dictionary.cambridge.org/us/dictionary/english/junket&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQFnoECEMQAQ",
+      "displayed_link": "https://dictionary.cambridge.org \u203a dictionary \u203a junket",
+      "favicon": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/edd29ef8d3bf8afc70a3a05d08160a0f36168e982b24fd01c6ebb26f610f5b25.jpeg",
+      "snippet": "a trip or visit made for pleasure by an official that is paid for by someone else or with public money",
+      "source": "Cambridge Dictionary"
+    },
+    {
+      "position": 8,
+      "title": "Junket with Strawberries and Whipped Cream",
+      "link": "https://www.historicalfoodways.com/junket-with-strawberries-and-whipped-cream/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.historicalfoodways.com/junket-with-strawberries-and-whipped-cream/&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQFnoECEgQAQ",
+      "displayed_link": "https://www.historicalfoodways.com \u203a junket-with-straw...",
+      "favicon": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/edd29ef8d3bf8afc70a3a05d08160a0fdb95889fc642099ecaf5b78888b2ef3d.png",
+      "date": "Mar 23, 2021",
+      "snippet": "Vegetarian milk dessert made with Junket Tablets, topped with strawberries and whipped cream. A light and refreshing dish.",
+      "snippet_highlighted_words": [
+        "Junket"
+      ],
+      "source": "historical foodways"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Junket casino",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Junket+casino&sa=X&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQ1QJ6BAhlEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Junket+casino"
+    },
+    {
+      "block_position": 1,
+      "query": "Junket recipe",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Junket+recipe&sa=X&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQ1QJ6BAhnEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Junket+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Junket tablets",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Junket+tablets&sa=X&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQ1QJ6BAhkEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Junket+tablets"
+    },
+    {
+      "block_position": 1,
+      "query": "Press junket",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Press+junket&sa=X&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQ1QJ6BAhiEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Press+junket"
+    },
+    {
+      "block_position": 1,
+      "query": "Junket meaning",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Junket+meaning&sa=X&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQ1QJ6BAhjEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Junket+meaning"
+    },
+    {
+      "block_position": 1,
+      "query": "Junket food",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Junket+food&sa=X&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQ1QJ6BAhgEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Junket+food"
+    },
+    {
+      "block_position": 1,
+      "query": "Junket trip",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Junket+trip&sa=X&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQ1QJ6BAhhEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Junket+trip"
+    },
+    {
+      "block_position": 1,
+      "query": "Junket dessert",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Junket+dessert&sa=X&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQ1QJ6BAhmEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Junket+dessert"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Purpose",
+        "subtitle": "What Are Junket Tablets For",
+        "thumbnail": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/6943d4b159dbc1ef81925bd84d60a9ce4c438960a625325d3347ab86433dd95e5d1ebf593b1f9310.png",
+        "web_links": [
+          {
+            "title": "What the Heck is Junket, Anyway? - Jessie Unicorn Moore",
+            "snippet": "Junket is a milk-based dessert made with rennet. Rennet is the digestive enzyme which makes milk curdle and coagulate...",
+            "link": "http://www.unicornlove.com/blog/2015/5/29/what-the-heck-is-junket-anyway",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQeqJhtNes6GavEg79vHW1ck_6Ra7_Ex5Bby3qSpAtAlGgDO_bSaxIw325sYU",
+            "source": "Jessie Unicorn Moore",
+            "source_thumbnail": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/6943d4b159dbc1ef81925bd84d60a9ce4c438960a625325d30ffd291a130f988533af102b55047b1c6807e2a659efb075a782946b99ac309.png"
+          },
+          {
+            "title": "What is this Junket, Anyway? - Smithsonian Magazine",
+            "snippet": "Google was quick to answer: Rennet. I have heard of that: it's an enzyme that makes milk proteins coagulate, used in many...",
+            "link": "https://www.smithsonianmag.com/arts-culture/what-is-this-junket-anyway-75292240/",
+            "source": "Smithsonian Magazine",
+            "source_thumbnail": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/6943d4b159dbc1ef81925bd84d60a9ce4c438960a625325d30ffd291a130f988c56dd911089d6cb4ecc75efd1ade82d78f1442fc4bc9e9b0.png"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=what+are+junket+tablets+for&sa=X&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQrooIegQIRBAH",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+are+junket+tablets+for"
+      },
+      {
+        "text": "Type of food",
+        "subtitle": "What Type Of Food Is Junket?",
+        "title": "Junket (dessert) - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Junket_(dessert)#:~:text=Junket%20is%20a%20milk%2Dbased,a%20mould%20and%20served%20cold.",
+        "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Junket_(dessert)",
+        "snippet": "Junket is a milk-based dessert with a jelly texture, made with sweetened milk and rennet, the digestive enzyme that curdles milk. It is usually set in a mould and served cold.",
+        "snippet_highlighted_words": [
+          "milk-based dessert"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/6943d4b159dbc1ef81925bd84d60a9ce997f2b90f7d6bfecda7ef54b0d0fbd76de86f66f073cf5af.png",
+        "source": "wikipedia.org",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8OdPhgCY3YTBYVQHeGhnbkON1oZYmt_yfB7j6XjEaLak&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=what+type+of+food+is+junket&sa=X&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQrooIegQIRBAQ",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+type+of+food+is+junket"
+      },
+      {
+        "text": "Uses",
+        "subtitle": "What Is Junket Used For",
+        "title": "Home - Junket Desserts - Known and Loved Since 1874",
+        "link": "https://junketdesserts.com/#:~:text=Junket%C2%AE%20products%20are%20authentic,cheeses%20from%20around%20the%20world.",
+        "displayed_link": "https://junketdesserts.com",
+        "snippet": "Junket\u00ae products are authentic and time-tested, known and loved since 1874. Rennet tablets allow the user to make creamy and delicious custard as well as cheeses from around the world.",
+        "snippet_highlighted_words": [
+          "make creamy and delicious custard as well as cheeses from around the world"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/6943d4b159dbc1ef81925bd84d60a9ce3450c9704533e255675a592cc233f53dc56fbefe32b5ac14.png",
+        "source": "junketdesserts.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=what+is+junket+used+for&sa=X&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQrooIegQIRBAW",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+is+junket+used+for"
+      },
+      {
+        "text": "Ingredients",
+        "subtitle": "Junket Ingredients",
+        "title": "Creamy Junket Recipe - A Cornish Food Blog | Jam and Clotted Cream",
+        "link": "https://www.jamandclottedcream.co.uk/2020/07/creamy-junket-recipe.html#:~:text=What%20is%20Junket%3F,like%20a%20set%20milk%20jelly.",
+        "displayed_link": "https://www.jamandclottedcream.co.uk \u203a 2020/07 \u203a crea...",
+        "date": "Jul 26, 2020",
+        "snippet": "What is Junket? Junket is an old English dessert made with creamy milk, sugar and other flavourings like nutmeg. The milk is curdled with rennet (rennin enzyme), which gives it a soft, creamy pudding like texture. If you were trying to compare it with something, it's a lot like a set milk jelly.",
+        "snippet_highlighted_words": [
+          "creamy milk, sugar and other flavourings like nutmeg"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2ffa0c6668d785866c99/images/6943d4b159dbc1ef81925bd84d60a9cea00c3667a88d378d490d7ca0c2809341a1746e02bb91c2f3.png",
+        "source": "jamandclottedcream.co.uk",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2p6OnWbhF15YwSz3mQHA26u-0B5kWPW-8FofALkDYsI0&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=junket+ingredients&sa=X&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQrooIegQIRBAf",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=junket+ingredients"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=junket&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=-i8KZ7zfLovkxc8Pq-ag2Qk&start=10&sa=N&sstk=AagrsujR0clkldMrMEUhoYHDmi1h6CX146L2Nov8eWiTZDkWYiLYoupxpRtNMUphP4Nxj6b25aXxyRTDfbPDTQfds819JN9y4IoWbw&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQ8NMDegQIBRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=junket&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=-i8KZ7zfLovkxc8Pq-ag2Qk&start=10&sa=N&sstk=AagrsujR0clkldMrMEUhoYHDmi1h6CX146L2Nov8eWiTZDkWYiLYoupxpRtNMUphP4Nxj6b25aXxyRTDfbPDTQfds819JN9y4IoWbw&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQ8tMDegQIBRAE",
+      "3": "https://www.google.com/search?q=junket&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=-i8KZ7zfLovkxc8Pq-ag2Qk&start=20&sa=N&sstk=AagrsujR0clkldMrMEUhoYHDmi1h6CX146L2Nov8eWiTZDkWYiLYoupxpRtNMUphP4Nxj6b25aXxyRTDfbPDTQfds819JN9y4IoWbw&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQ8tMDegQIBRAG",
+      "4": "https://www.google.com/search?q=junket&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=-i8KZ7zfLovkxc8Pq-ag2Qk&start=30&sa=N&sstk=AagrsujR0clkldMrMEUhoYHDmi1h6CX146L2Nov8eWiTZDkWYiLYoupxpRtNMUphP4Nxj6b25aXxyRTDfbPDTQfds819JN9y4IoWbw&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQ8tMDegQIBRAI",
+      "5": "https://www.google.com/search?q=junket&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=-i8KZ7zfLovkxc8Pq-ag2Qk&start=40&sa=N&sstk=AagrsujR0clkldMrMEUhoYHDmi1h6CX146L2Nov8eWiTZDkWYiLYoupxpRtNMUphP4Nxj6b25aXxyRTDfbPDTQfds819JN9y4IoWbw&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQ8tMDegQIBRAK",
+      "6": "https://www.google.com/search?q=junket&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=-i8KZ7zfLovkxc8Pq-ag2Qk&start=50&sa=N&sstk=AagrsujR0clkldMrMEUhoYHDmi1h6CX146L2Nov8eWiTZDkWYiLYoupxpRtNMUphP4Nxj6b25aXxyRTDfbPDTQfds819JN9y4IoWbw&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQ8tMDegQIBRAM",
+      "7": "https://www.google.com/search?q=junket&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=-i8KZ7zfLovkxc8Pq-ag2Qk&start=60&sa=N&sstk=AagrsujR0clkldMrMEUhoYHDmi1h6CX146L2Nov8eWiTZDkWYiLYoupxpRtNMUphP4Nxj6b25aXxyRTDfbPDTQfds819JN9y4IoWbw&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQ8tMDegQIBRAO",
+      "8": "https://www.google.com/search?q=junket&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=-i8KZ7zfLovkxc8Pq-ag2Qk&start=70&sa=N&sstk=AagrsujR0clkldMrMEUhoYHDmi1h6CX146L2Nov8eWiTZDkWYiLYoupxpRtNMUphP4Nxj6b25aXxyRTDfbPDTQfds819JN9y4IoWbw&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQ8tMDegQIBRAQ",
+      "9": "https://www.google.com/search?q=junket&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=-i8KZ7zfLovkxc8Pq-ag2Qk&start=80&sa=N&sstk=AagrsujR0clkldMrMEUhoYHDmi1h6CX146L2Nov8eWiTZDkWYiLYoupxpRtNMUphP4Nxj6b25aXxyRTDfbPDTQfds819JN9y4IoWbw&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQ8tMDegQIBRAS",
+      "10": "https://www.google.com/search?q=junket&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=-i8KZ7zfLovkxc8Pq-ag2Qk&start=90&sa=N&sstk=AagrsujR0clkldMrMEUhoYHDmi1h6CX146L2Nov8eWiTZDkWYiLYoupxpRtNMUphP4Nxj6b25aXxyRTDfbPDTQfds819JN9y4IoWbw&ved=2ahUKEwi8xPCUs4iJAxULcvEDHSszKJsQ8tMDegQIBRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=junket&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=junket&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=junket&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=junket&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=junket&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=junket&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=junket&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=junket&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=junket&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=junket&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=junket&start=90"
+    }
+  }
+}

@@ -1,0 +1,857 @@
+{
+  "search_metadata": {
+    "id": "670a30cb671f3fb4305e16e3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/82516c556217bf21/670a30cb671f3fb4305e16e3.json",
+    "created_at": "2024-10-12 08:18:19 UTC",
+    "processed_at": "2024-10-12 08:18:19 UTC",
+    "google_url": "https://www.google.com/search?q=empanada&oq=empanada&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/82516c556217bf21/670a30cb671f3fb4305e16e3.html",
+    "total_time_taken": 1.36
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "empanada",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "empanada",
+    "total_results": 86900000,
+    "time_taken_displayed": 0.33,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "recipes_results": [
+    {
+      "title": "Beef Empanadas",
+      "link": "https://handletheheat.com/how-to-make-empanadas/",
+      "source": "Handle the Heat",
+      "rating": 4.9,
+      "reviews": 86,
+      "total_time": "3 hr",
+      "ingredients": [
+        "Ground beef",
+        "beef broth",
+        "tomato paste",
+        "green bell pepper",
+        "red bell pepper"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/75ab6d8c443c360f8eaa510a31dff50e3d2691efc52e86fa60b9a24d5f801592.jpeg"
+    },
+    {
+      "title": "Puerto Rican Empanadas - Empandillas/Pastelillos",
+      "link": "https://www.nataknowsbest.com/puerto-rican-empanadas/",
+      "source": "Nata Knows Best",
+      "total_time": "1 hr 10 min",
+      "ingredients": [
+        "Lean ground beef",
+        "tomato sauce",
+        "empanada",
+        "frozen potatoes",
+        "red pepper flakes"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/75ab6d8c443c360f8eaa510a31dff50ee892b33799b6aa6281c6b32da1870b23.jpeg"
+    },
+    {
+      "title": "Beef Empanadas",
+      "link": "https://www.recipetineats.com/beef-empanadas/",
+      "source": "RecipeTin Eats",
+      "rating": 5.0,
+      "reviews": 20,
+      "total_time": "1 hr 35 min",
+      "ingredients": [
+        "Ground beef",
+        "chorizo",
+        "tomato sauce",
+        "potato",
+        "empanada"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/75ab6d8c443c360f8eaa510a31dff50e0d576ae1faf77684ade1c8bf49ae9ec7.jpeg"
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=empanada&npsic=0&rflfq=1&rldoc=1&rllag=30267850,-97720941,875&tbm=lcl&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQtgN6BAg1EAI",
+    "image": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/3aaf401ba2f7192a1f5fd33b159c4063.png",
+    "gps_coordinates": {
+      "latitude": 30.26785,
+      "longitude": -97.720941
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 3.4,
+        "reviews_original": "(8)",
+        "reviews": 8,
+        "description": "\"Some of the best empanadas I\u2019ve had and the ingredients are genuine.\"",
+        "lsig": "AB86z5VUbnR9oEfH3nfsyT7AClUy",
+        "thumbnail": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/6a0ee15768c5d13f05afdea927da7a782eb0635841ae72c653292459db1e584a0aced56dd52c54a1.jpeg",
+        "title": "Yapa Empanadas",
+        "type": "Restaurant",
+        "address": "1606 E 6th St",
+        "place_id": "3154985110569028328",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=3154985110569028328&q=empanada",
+        "gps_coordinates": {
+          "latitude": 30.26311,
+          "longitude": -97.72609
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.9,
+        "reviews_original": "(306)",
+        "reviews": 306,
+        "description": "\"The empanadas are made fresh in front of you and they taste incredible.\"",
+        "lsig": "AB86z5WJgWbm3g-ict6BU9-zQ4tZ",
+        "thumbnail": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/6a0ee15768c5d13f05afdea927da7a784b8c29674c0639f461a5586d4f0a9d61353f69e38cce0a25.jpeg",
+        "title": "The Doughminican",
+        "type": "Restaurant",
+        "address": "2505 Webberville Rd",
+        "hours": "Closed \u22c5 Opens 10 AM",
+        "place_id": "16917469964919251102",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=16917469964919251102&q=empanada",
+        "gps_coordinates": {
+          "latitude": 30.263042,
+          "longitude": -97.71372
+        }
+      },
+      {
+        "position": 3,
+        "rating": 4.9,
+        "reviews_original": "(326)",
+        "reviews": 326,
+        "description": "\"... clean, spacious, friendly and piping hot fresh empanadas\"",
+        "lsig": "AB86z5XPI_c_ABKw2yoBHW5xZc3t",
+        "thumbnail": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/6a0ee15768c5d13f05afdea927da7a78369acb466b53a3c9d85034f76ee8df5cf312fef9e34f0cd6.jpeg",
+        "title": "CACHITOS512",
+        "type": "Venezuelan",
+        "address": "1108 E 12th St",
+        "hours": "Closed \u22c5 Opens 11 AM",
+        "place_id": "10980207950139783720",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=10980207950139783720&q=empanada",
+        "gps_coordinates": {
+          "latitude": 30.27266,
+          "longitude": -97.728165
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=empanada&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQjGp6BAg2EAE"
+  },
+  "knowledge_graph": {
+    "title": "Empanada",
+    "type": "Food",
+    "entity_type": "food, foods_and_dishes",
+    "kgmid": "/m/02jvms",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/02jvms&hl=en-US&q=Empanada",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F02jvms&location=Austin%2CTexas%2CUnited+States&q=Empanada",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/b790fab3b544ff9c27eea42aa8002ff31da11f34c52059ef1939779554118da88dd6acc88ed8b082.jpeg",
+        "source": "https://themodernproper.com/beef-empanadas"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/b790fab3b544ff9c27eea42aa8002ff31da11f34c52059ef3aeec3c429e751dffff30324a21e606b.jpeg",
+        "source": "https://bonkerz4food.com/index.php/2020/08/24/beef-empanadas/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/b790fab3b544ff9c27eea42aa8002ff31da11f34c52059ef3f104bfa83f8f2d31436416fdeabfb2b.jpeg",
+        "source": "https://thetwobananas.com/gabes-beef-and-olive-empanadas/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/b790fab3b544ff9c27eea42aa8002ff31da11f34c52059ef4a2e1526ab17936ba5ceda7653f45c94.jpeg",
+        "source": "https://www.thekitchn.com/empanada-recipe-23631022"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/b790fab3b544ff9c27eea42aa8002ff31da11f34c52059ef629dfa785165e12083d3a834af351378.jpeg",
+        "source": "https://www.bonappetit.com/recipe/argentinian-beef-empanadas"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThhg8uSGSoI-_kKZLsPfp2vAlR1Oj_tZL7dP51yRRf0A&s",
+        "source": "https://beantrain.com/easy-beef-and-cheese-empanadas/"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOPB6yevRsFqLXdUyGgIRsY_jexPYlxtzi0ioaB-0iiQ&s",
+        "source": "https://www.177milkstreet.com/recipes/colombian-empanadas"
+      }
+    ],
+    "description": "An empanada is a type of baked or fried turnover consisting of pastry and filling, common in Spain, other Southern European countries, North African countries, Latin American countries, and the Philippines. The name comes from the Spanish empanar, and translates as 'breaded', that is, wrapped or coated in bread.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Empanada"
+    },
+    "sources_include": "USDAEmpanadas, beef299 Calories - 1 piece (89 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/167660/nutrients"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Arepa",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L6cLuztLW5xwfVruZP-qTrWvFgB8WiuPeBoLC8UnfiZAdeUCLqOzZuSy3peL1WZHYoPIE1bMd2KNVs27Chz_VbC-ytwZ1lIhgckV38Q4iJdxJ_QNkG6xV6GxGydoI8LlMjhk2L1Iz6OqVIpEEgiyDcfnTUoL8izIKkl6h-IXRX0YGUxJ64lv0-n7sPckRyNy2i90UFdJ6V_RKHltmyKP9o4o6VKkj4EcJbEcdHOrxq5tbmzICEhDal6n0AwLu34ARdxdKIc%3D&q=Arepa&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQs9oBKAB6BAg8EAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Arepa&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L6cLuztLW5xwfVruZP-qTrWvFgB8WiuPeBoLC8UnfiZAdeUCLqOzZuSy3peL1WZHYoPIE1bMd2KNVs27Chz_VbC-ytwZ1lIhgckV38Q4iJdxJ_QNkG6xV6GxGydoI8LlMjhk2L1Iz6OqVIpEEgiyDcfnTUoL8izIKkl6h-IXRX0YGUxJ64lv0-n7sPckRyNy2i90UFdJ6V_RKHltmyKP9o4o6VKkj4EcJbEcdHOrxq5tbmzICEhDal6n0AwLu34ARdxdKIc%3D",
+        "image": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/b790fab3b544ff9c27eea42aa8002ff30609553f585aeba7d82eda3af9f8c1540ccd2a1e854e2322a5d43f3b98e2b58c.jpeg"
+      },
+      {
+        "name": "Enchilada",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmwt6741u1Uqd8JaYtioIBmSxpaLlMJGH9xhUZtLQ2UIt27QhGS38Tm8iVNmn_YOHhjuCbMirczlhwQkU_CrlCdDb1BC6tqASe44FEEtGssCddvtwLuZHHihGpqOUCnHyPXYGPKZo-6ASGoMDvTicB_Lgz4QsHDsMND8_JvocAa06U8L8pOpGh7QAB75tesUUBHj7nut5wK_vj09-DxEmaVq2EQT93UU7ICqIWVTChrb53z6sxq0fjvvYoj6dWE_stecdWIU%3D&q=Enchilada&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQs9oBKAB6BAg8EAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Enchilada&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmwt6741u1Uqd8JaYtioIBmSxpaLlMJGH9xhUZtLQ2UIt27QhGS38Tm8iVNmn_YOHhjuCbMirczlhwQkU_CrlCdDb1BC6tqASe44FEEtGssCddvtwLuZHHihGpqOUCnHyPXYGPKZo-6ASGoMDvTicB_Lgz4QsHDsMND8_JvocAa06U8L8pOpGh7QAB75tesUUBHj7nut5wK_vj09-DxEmaVq2EQT93UU7ICqIWVTChrb53z6sxq0fjvvYoj6dWE_stecdWIU%3D",
+        "image": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/b790fab3b544ff9c27eea42aa8002ff30609553f585aeba7d82eda3af9f8c1541657b6c6f193fa7a31dc1f2c78c9023c.jpeg"
+      },
+      {
+        "name": "Tamale",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm6OPYJhUu0XUXtqFbwCoY0Yx7ic3Q_HhAjQK0CLMe0iFBujWiDQyAJF3YggRyFbwovpQEn2U63Xnl2PTj-bA9V7JXJ-jR4PJAyNGuwBOoLfMZJ4zdUFkTnTac1-N_k4DyV1LTBPWIrz_4V5Gfnfp9jMjqa-YonNUToW7A1jIegCk_9KdLx4sb3Ih3R3CPqyQt2IXxhVllwfTSofdT0i44T8ecif61U3VmjmXeCKlsNNfctbh_sPl4kHDqJlcSYmke8Q3yfo%3D&q=Tamale&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQs9oBKAB6BAg8EA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Tamale&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm6OPYJhUu0XUXtqFbwCoY0Yx7ic3Q_HhAjQK0CLMe0iFBujWiDQyAJF3YggRyFbwovpQEn2U63Xnl2PTj-bA9V7JXJ-jR4PJAyNGuwBOoLfMZJ4zdUFkTnTac1-N_k4DyV1LTBPWIrz_4V5Gfnfp9jMjqa-YonNUToW7A1jIegCk_9KdLx4sb3Ih3R3CPqyQt2IXxhVllwfTSofdT0i44T8ecif61U3VmjmXeCKlsNNfctbh_sPl4kHDqJlcSYmke8Q3yfo%3D",
+        "image": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/b790fab3b544ff9c27eea42aa8002ff30609553f585aeba7d82eda3af9f8c1540ab6107834e3af55aa517f97c330a2b2.jpeg"
+      },
+      {
+        "name": "Pupusa",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L0WGUh217GblCkZuLe6sQZX9kWkxlv_M-7dw9su5xbV6vN35KI3zw0bHZKlk-qs_GV2vX69CjRqvO8EpcF1Mc1V6QRK5EuWnE-ra8fh4N0lYKCKti5-MD7YH98l0-0sq5R-UCqqEyjpQTzhhT-1vWDx8rs04JEKuxtoMa4FjuW18g2m1MaoeutxBHN7jZ65mGQ-kNGw0xrzLqFLV5VnVu7jaRR-vafV-ZXnKsYMwkG5khhJVKt2eSTXTWPPlswwL1ZRPyRY%3D&q=Pupusa&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQs9oBKAB6BAg8EBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pupusa&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L0WGUh217GblCkZuLe6sQZX9kWkxlv_M-7dw9su5xbV6vN35KI3zw0bHZKlk-qs_GV2vX69CjRqvO8EpcF1Mc1V6QRK5EuWnE-ra8fh4N0lYKCKti5-MD7YH98l0-0sq5R-UCqqEyjpQTzhhT-1vWDx8rs04JEKuxtoMa4FjuW18g2m1MaoeutxBHN7jZ65mGQ-kNGw0xrzLqFLV5VnVu7jaRR-vafV-ZXnKsYMwkG5khhJVKt2eSTXTWPPlswwL1ZRPyRY%3D",
+        "image": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/b790fab3b544ff9c27eea42aa8002ff30609553f585aeba7d82eda3af9f8c154d9fbf2801233c776897763a1896b035e.jpeg"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "16 g",
+        "24%"
+      ],
+      "cholesterol": [
+        "23 mg",
+        "7%"
+      ],
+      "sodium": [
+        "392 mg",
+        "16%"
+      ],
+      "potassium": [
+        "169 mg",
+        "4%"
+      ],
+      "total_carbohydrate": [
+        "28 g",
+        "9%"
+      ],
+      "protein": [
+        "10 g",
+        "20%"
+      ]
+    }
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=empanada&sca_esv=7d18109a394306ad&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=wuyv-cEd4dpM0M%252Cco0B_MxHb5bRoM%252C%252Fm%252F02jvms%253BF_mTLJS0PSYsRM%252Cr_d7PosShfHbKM%252C_%253BZ3vs7p3pfAxrcM%252CmLdbn09QAo-P9M%252C_%253BFPucqqC1fKlVTM%252CQ553MLzbPA61eM%252C_%253BhTOiyTp2cUNtzM%252CImpMzhVs30ulgM%252C_%253BKN22yLR_8c7apM%252C1Cg-Coj7IFVDjM%252C_%253BOSKMAFGVtGFR1M%252CvGg6wsnoSbsH-M%252C_&usg=AI4_-kS_oRB8BCXRA2Nt-C8vVjT_3qngGw&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQ_B16BAhCEAE#vhid=wuyv-cEd4dpM0M&vssid=mosaic",
+      "source": "https://themodernproper.com/beef-empanadas",
+      "thumbnail": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/6b974f0dd0ea1717d872e8ef6ba1a391349f4c86903ef54062e5adbaab8fc796.jpeg",
+      "original": "https://images.themodernproper.com/billowy-turkey/production/posts/BeefEmpanadas_13.jpg?w=1200&q=82&auto=format&fit=crop&dm=1714517949&s=8930cab16e9cdd5d01823f15bce7b437",
+      "title": "images.themodernproper.com/billowy-turkey/producti...",
+      "source_name": "themodernproper.com"
+    },
+    {
+      "link": "https://www.google.com/search?q=empanada&sca_esv=7d18109a394306ad&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=wuyv-cEd4dpM0M%252Cco0B_MxHb5bRoM%252C_%253BF_mTLJS0PSYsRM%252Cr_d7PosShfHbKM%252C_%253BZ3vs7p3pfAxrcM%252CmLdbn09QAo-P9M%252C_%253BFPucqqC1fKlVTM%252CQ553MLzbPA61eM%252C_%253BhTOiyTp2cUNtzM%252CImpMzhVs30ulgM%252C_%253BKN22yLR_8c7apM%252C1Cg-Coj7IFVDjM%252C_%253BOSKMAFGVtGFR1M%252CvGg6wsnoSbsH-M%252C_&usg=AI4_-kQ4sipjoybfWoGka36r7Ve8ymt76g&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQ_h16BAhDEAE#vhid=F_mTLJS0PSYsRM&vssid=mosaic",
+      "source": "https://bonkerz4food.com/index.php/2020/08/24/beef-empanadas/",
+      "thumbnail": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/6b974f0dd0ea17175659455d4cccf70bbbe91effd811aa88f7096fb54a964726.jpeg",
+      "original": "https://bonkerz4food.com/wp-content/uploads/2020/08/empanadas-web-1.jpg",
+      "title": "Beef Empanadas",
+      "source_name": "Bonkerz4Food"
+    },
+    {
+      "link": "https://www.google.com/search?q=empanada&sca_esv=7d18109a394306ad&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=wuyv-cEd4dpM0M%252Cco0B_MxHb5bRoM%252C_%253BF_mTLJS0PSYsRM%252Cr_d7PosShfHbKM%252C_%253BZ3vs7p3pfAxrcM%252CmLdbn09QAo-P9M%252C_%253BFPucqqC1fKlVTM%252CQ553MLzbPA61eM%252C_%253BhTOiyTp2cUNtzM%252CImpMzhVs30ulgM%252C_%253BKN22yLR_8c7apM%252C1Cg-Coj7IFVDjM%252C_%253BOSKMAFGVtGFR1M%252CvGg6wsnoSbsH-M%252C_&usg=AI4_-kQ4sipjoybfWoGka36r7Ve8ymt76g&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQ_h16BAhKEAE#vhid=Z3vs7p3pfAxrcM&vssid=mosaic",
+      "source": "https://thetwobananas.com/gabes-beef-and-olive-empanadas/",
+      "thumbnail": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/6b974f0dd0ea1717780bad3410619a36596090e8a8bb6959fda5a554d8a625cd.jpeg",
+      "original": "https://thetwobananas.com/wp-content/uploads/2022/09/empanadas08.jpg",
+      "title": "Gabe's Beef and Olive Empanadas",
+      "source_name": "The Two Bananas"
+    },
+    {
+      "link": "https://www.google.com/search?q=empanada&sca_esv=7d18109a394306ad&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=wuyv-cEd4dpM0M%252Cco0B_MxHb5bRoM%252C_%253BF_mTLJS0PSYsRM%252Cr_d7PosShfHbKM%252C_%253BZ3vs7p3pfAxrcM%252CmLdbn09QAo-P9M%252C_%253BFPucqqC1fKlVTM%252CQ553MLzbPA61eM%252C_%253BhTOiyTp2cUNtzM%252CImpMzhVs30ulgM%252C_%253BKN22yLR_8c7apM%252C1Cg-Coj7IFVDjM%252C_%253BOSKMAFGVtGFR1M%252CvGg6wsnoSbsH-M%252C_&usg=AI4_-kQ4sipjoybfWoGka36r7Ve8ymt76g&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQ_h16BAhLEAE#vhid=FPucqqC1fKlVTM&vssid=mosaic",
+      "source": "https://www.thekitchn.com/empanada-recipe-23631022",
+      "thumbnail": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/6b974f0dd0ea1717e070729c14d416b24f0b00df77d867d3c33c93de7fa1f153.jpeg",
+      "original": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FRecipes%2F2024-02-empanadas%2Fempanadas-515_1",
+      "title": "Argentinian-Style Empanadas",
+      "source_name": "The Kitchn"
+    },
+    {
+      "link": "https://www.google.com/search?q=empanada&sca_esv=7d18109a394306ad&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=wuyv-cEd4dpM0M%252Cco0B_MxHb5bRoM%252C_%253BF_mTLJS0PSYsRM%252Cr_d7PosShfHbKM%252C_%253BZ3vs7p3pfAxrcM%252CmLdbn09QAo-P9M%252C_%253BFPucqqC1fKlVTM%252CQ553MLzbPA61eM%252C_%253BhTOiyTp2cUNtzM%252CImpMzhVs30ulgM%252C_%253BKN22yLR_8c7apM%252C1Cg-Coj7IFVDjM%252C_%253BOSKMAFGVtGFR1M%252CvGg6wsnoSbsH-M%252C_&usg=AI4_-kQ4sipjoybfWoGka36r7Ve8ymt76g&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQ_h16BAhEEAE#vhid=hTOiyTp2cUNtzM&vssid=mosaic",
+      "source": "https://www.bonappetit.com/recipe/argentinian-beef-empanadas",
+      "thumbnail": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/6b974f0dd0ea17175a0791d0ec1d9a0a7a8b975997418756d03552c2c0013631.jpeg",
+      "original": "https://assets.bonappetit.com/photos/58a34e1df12ac6e639bf24ae/16:9/w_4991,h_2807,c_limit/argentinian-beef-empanadas.jpg",
+      "title": "Argentinian Beef Empanadas",
+      "source_name": "Bon Appetit"
+    },
+    {
+      "link": "https://www.google.com/search?q=empanada&sca_esv=7d18109a394306ad&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=wuyv-cEd4dpM0M%252Cco0B_MxHb5bRoM%252C_%253BF_mTLJS0PSYsRM%252Cr_d7PosShfHbKM%252C_%253BZ3vs7p3pfAxrcM%252CmLdbn09QAo-P9M%252C_%253BFPucqqC1fKlVTM%252CQ553MLzbPA61eM%252C_%253BhTOiyTp2cUNtzM%252CImpMzhVs30ulgM%252C_%253BKN22yLR_8c7apM%252C1Cg-Coj7IFVDjM%252C_%253BOSKMAFGVtGFR1M%252CvGg6wsnoSbsH-M%252C_&usg=AI4_-kQ4sipjoybfWoGka36r7Ve8ymt76g&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQ_h16BAhFEAE#vhid=KN22yLR_8c7apM&vssid=mosaic",
+      "source": "https://beantrain.com/easy-beef-and-cheese-empanadas/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThhg8uSGSoI-_kKZLsPfp2vAlR1Oj_tZL7dP51yRRf0A&s",
+      "original": "https://beantrain.com/wp-content/uploads/2021/03/Empanada-Recipe.jpg",
+      "title": "Cuban Beef Empanada Recipe",
+      "source_name": "Bean Train"
+    },
+    {
+      "link": "https://www.google.com/search?q=empanada&sca_esv=7d18109a394306ad&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=wuyv-cEd4dpM0M%252Cco0B_MxHb5bRoM%252C_%253BF_mTLJS0PSYsRM%252Cr_d7PosShfHbKM%252C_%253BZ3vs7p3pfAxrcM%252CmLdbn09QAo-P9M%252C_%253BFPucqqC1fKlVTM%252CQ553MLzbPA61eM%252C_%253BhTOiyTp2cUNtzM%252CImpMzhVs30ulgM%252C_%253BKN22yLR_8c7apM%252C1Cg-Coj7IFVDjM%252C_%253BOSKMAFGVtGFR1M%252CvGg6wsnoSbsH-M%252C_&usg=AI4_-kQ4sipjoybfWoGka36r7Ve8ymt76g&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQ_h16BAhJEAE#vhid=OSKMAFGVtGFR1M&vssid=mosaic",
+      "source": "https://www.177milkstreet.com/recipes/colombian-empanadas",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOPB6yevRsFqLXdUyGgIRsY_jexPYlxtzi0ioaB-0iiQ&s",
+      "original": "https://www.177milkstreet.com/assets/site/Recipes/_large/Colombian-Empanadas.jpg",
+      "title": "Colombian-Style Empanadas",
+      "source_name": "Milk Street"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is usually in empanadas?",
+      "snippet": "Empanadas are crescent-shaped, savory pastries made of dough and filled with a variety of ingredients. Empanada fillings can include anything from ground or shredded beef, chicken, pork, cheese, or vegetables, seasoned vibrantly, then baked to perfection.",
+      "title": "Easy Beef Empanadas Recipe | The Modern Proper",
+      "date": "Sep 3, 2024",
+      "link": "https://themodernproper.com/beef-empanadas#:~:text=Empanadas%20are%20crescent%2Dshaped%2C%20savory,vibrantly%2C%20then%20baked%20to%20perfection.",
+      "displayed_link": "https://themodernproper.com \u203a beef-empanadas",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZh8f7-kPqhk6dsDUN8WjVNxljnnvCUXoK7KpfvGi7&s",
+      "source_logo": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/abd8189d0dbc7150139dd514119f07aeedaaab00d36fa89dd13718e5b6f7003b.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWJFSTRZazVOVFhSNU1UTlJVUzB0WVZwNE5GTkRjWEk1UWpJMk5VSnNUR3BMY2twYU1uUnRVemt0UnpsNmJXRXRVM2R0YTBOemJ6SndTVU5ET0ZWSGNWOVNWVkZhRWhkNWVrRkxXbDk2WDAxTWNVNTNZbXRRYVV4RVIzTkJNQm9pUVVaWWNrVmpjVXhWWDJOblpIRjVXVUZNZWpOVmNsSmhYM1ZaWVRWcGRXaGlkdyIsImZjdiI6IjMiLCJlaSI6Inl6QUtaX3pfTUxxTndia1BpTERHc0EwIiwicWMiOiJDZ2hsYlhCaGJtRmtZUkFBZlE1QUdqOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB1c3VhbGx5IGluIGVtcGFuYWRhcz8iLCJsayI6IkdoMTNhR0YwSUdGeVpTQjFjM1ZoYkd4NUlHbHVJR1Z0Y0dGdVlXUmhjdyIsImJzIjoiYy1OeTVwSU56MGdzVWNnc1ZpZ3RMazNNeWFsVXlNeFRTTTB0U014TFRFa3N0cGU0WjJna0x5VmJEbEtUV0pTS1ZSR1hDNWVjSTFBT0xxQ1FxT0NiV3BHWm5KaW5VSktSbVpkdUw3SFZDbVJLSXBxaVhHUkZYRTVRcDVSa3BDcGtwQ1puZzl5VWlMREdYbUtwb3BHY2xFdzVIalZjUGx4S01PLTRaZVprRm1UbTVjTWxGWElUVTFJVjh0UHNKZDZ6R1NsTEtaWkRGYWJoVWlqQUNBQSIsImlkIjoiZmNfeXpBS1pfel9NTHFOd2JrUGlMREdzQTBfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWJFSTRZazVOVFhSNU1UTlJVUzB0WVZwNE5GTkRjWEk1UWpJMk5VSnNUR3BMY2twYU1uUnRVemt0UnpsNmJXRXRVM2R0YTBOemJ6SndTVU5ET0ZWSGNWOVNWVkZhRWhkNWVrRkxXbDk2WDAxTWNVNTNZbXRRYVV4RVIzTkJNQm9pUVVaWWNrVmpjVXhWWDJOblpIRjVXVUZNZWpOVmNsSmhYM1ZaWVRWcGRXaGlkdyIsImZjdiI6IjMiLCJlaSI6Inl6QUtaX3pfTUxxTndia1BpTERHc0EwIiwicWMiOiJDZ2hsYlhCaGJtRmtZUkFBZlE1QUdqOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB1c3VhbGx5IGluIGVtcGFuYWRhcz8iLCJsayI6IkdoMTNhR0YwSUdGeVpTQjFjM1ZoYkd4NUlHbHVJR1Z0Y0dGdVlXUmhjdyIsImJzIjoiYy1OeTVwSU56MGdzVWNnc1ZpZ3RMazNNeWFsVXlNeFRTTTB0U014TFRFa3N0cGU0WjJna0x5VmJEbEtUV0pTS1ZSR1hDNWVjSTFBT0xxQ1FxT0NiV3BHWm5KaW5VSktSbVpkdUw3SFZDbVJLSXBxaVhHUkZYRTVRcDVSa3BDcGtwQ1puZzl5VWlMREdYbUtwb3BHY2xFdzVIalZjUGx4S01PLTRaZVprRm1UbTVjTWxGWElUVTFJVjh0UHNKZDZ6R1NsTEtaWkRGYWJoVWlqQUNBQSIsImlkIjoiZmNfeXpBS1pfel9NTHFOd2JrUGlMREdzQTBfMiJ9"
+    },
+    {
+      "question": "Are empanadas a Mexican thing?",
+      "snippet": "Empanadas have their origins in Galicia (Spain) and Portugal. They first appeared in Medieval Iberia during the time of the Moorish invasions. A cookbook published in Catalan in 1520 mentions empanadas filled with seafood among its recipes of Catalan, Italian, French, and Arabian food.",
+      "title": "History of Empanadas",
+      "link": "https://www.majuraps.act.edu.au/majp_-_administration?a=173358#:~:text=Empanadas%20have%20their%20origins%20in,%2C%20French%2C%20and%20Arabian%20food.",
+      "displayed_link": "https://www.majuraps.act.edu.au \u203a majp_-_administration",
+      "source_logo": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/abd8189d0dbc7150139dd514119f07aefe7c303c5142be955aa8bda2e73c4e7c.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWJFSTRZazVOVFhSNU1UTlJVUzB0WVZwNE5GTkRjWEk1UWpJMk5VSnNUR3BMY2twYU1uUnRVemt0UnpsNmJXRXRVM2R0YTBOemJ6SndTVU5ET0ZWSGNWOVNWVkZhRWhkNWVrRkxXbDk2WDAxTWNVNTNZbXRRYVV4RVIzTkJNQm9pUVVaWWNrVmpjVXhWWDJOblpIRjVXVUZNZWpOVmNsSmhYM1ZaWVRWcGRXaGlkdyIsImZjdiI6IjMiLCJlaSI6Inl6QUtaX3pfTUxxTndia1BpTERHc0EwIiwicWMiOiJDZ2hsYlhCaGJtRmtZUkFBZlE1QUdqOCIsInF1ZXN0aW9uIjoiQXJlIGVtcGFuYWRhcyBhIE1leGljYW4gdGhpbmc/IiwibGsiOiJHaDFoY21VZ1pXMXdZVzVoWkdGeklHRWdiV1Y0YVdOaGJpQjBhR2x1WnciLCJicyI6ImMtTnk1cElOejBnc1VjZ3NWaWd0TGszTXlhbFV5TXhUU00wdFNNeExURWtzdHBlNFoyZ2tMeVZiRGxLVFdKU0tWUkdYQzVlY0kxQU9McUNRcU9DYldwR1puSmluVUpLUm1aZHVMN0hWQ21SS0lwcWlYR1JGWEU1UXA1UmtwQ3BrcENabmc5eVVpTERHWG1LcG9wR2NsRXc1SGpWY1BseEtNTy00WmVaa0ZtVG01Y01sRlhJVFUxSVY4dFBzSmQ2ekdTbExLWlpERmFiaFVpakFDQUEiLCJpZCI6ImZjX3l6QUtaX3pfTUxxTndia1BpTERHc0EwXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWJFSTRZazVOVFhSNU1UTlJVUzB0WVZwNE5GTkRjWEk1UWpJMk5VSnNUR3BMY2twYU1uUnRVemt0UnpsNmJXRXRVM2R0YTBOemJ6SndTVU5ET0ZWSGNWOVNWVkZhRWhkNWVrRkxXbDk2WDAxTWNVNTNZbXRRYVV4RVIzTkJNQm9pUVVaWWNrVmpjVXhWWDJOblpIRjVXVUZNZWpOVmNsSmhYM1ZaWVRWcGRXaGlkdyIsImZjdiI6IjMiLCJlaSI6Inl6QUtaX3pfTUxxTndia1BpTERHc0EwIiwicWMiOiJDZ2hsYlhCaGJtRmtZUkFBZlE1QUdqOCIsInF1ZXN0aW9uIjoiQXJlIGVtcGFuYWRhcyBhIE1leGljYW4gdGhpbmc%2FIiwibGsiOiJHaDFoY21VZ1pXMXdZVzVoWkdGeklHRWdiV1Y0YVdOaGJpQjBhR2x1WnciLCJicyI6ImMtTnk1cElOejBnc1VjZ3NWaWd0TGszTXlhbFV5TXhUU00wdFNNeExURWtzdHBlNFoyZ2tMeVZiRGxLVFdKU0tWUkdYQzVlY0kxQU9McUNRcU9DYldwR1puSmluVUpLUm1aZHVMN0hWQ21SS0lwcWlYR1JGWEU1UXA1UmtwQ3BrcENabmc5eVVpTERHWG1LcG9wR2NsRXc1SGpWY1BseEtNTy00WmVaa0ZtVG01Y01sRlhJVFUxSVY4dFBzSmQ2ekdTbExLWlpERmFiaFVpakFDQUEiLCJpZCI6ImZjX3l6QUtaX3pfTUxxTndia1BpTERHc0EwXzIifQ%3D%3D"
+    },
+    {
+      "question": "What the heck is an empanada?",
+      "title": "How Empanadas Are Made \u2022 Tasty - YouTube",
+      "link": "https://www.youtube.com/watch?v=HHsmRoHE7K0",
+      "displayed_link": "https://www.youtube.com \u203a watch",
+      "source_logo": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/abd8189d0dbc7150139dd514119f07aea66e8a84ef97a6f3ff2435fe47f94bba.png",
+      "next_page_token": "eyJvbnMiOiIyNjc5IiwiZmMiOiJFcUlDQ3VJQlFVcEhPVXByVGpkQmNESkxjRVZWY21kS2EyUnRUekZ4Um1Kd1VEbDRNM1U1WmtSYVVGbFZaREZmZDA0MFpIZEdZMFpRZW5WcmNVczRTWEZNUldZek5HbGZaakZUYWtGa2VqQkNiREZpU1VkblQzQlRlVFZhUjFSaU9VOVFSVTlqZEY5UlJHTXlibUpXT0hWVmREaE5iR3hHU0d4eVpWTmxaR0puUTJ0QmNuUktZMk40V1ZGdmNFRlNZMGMzTkRoek5Vc3lXVWsxZVdOeFpESnZRVWhMWW10bVgweHhibEpxVEhSaVJGQmlNMFJGVERSVWRtbFFaSEY0VVd0WFNGVnJPRTlpV2tSVFFsRjViazUxVDFWU1JFMVVTbmd5UWxkeFZHRm1VaTFwY0RGdlp4SVhlWHBCUzFwZmVsOU5USEZPZDJKclVHbE1SRWR6UVRBYUlrRkdXSEpGWTNKSGRXaHNlbk5OUVU5blRrVnRkamhJZEhsTFdsTkxjSHB1WVhjIiwiZmN2IjoiMyIsImVpIjoieXpBS1pfel9NTHFOd2JrUGlMREdzQTAiLCJxYyI6IkNnaGxiWEJoYm1Ga1lSQUFmUTVBR2o4IiwicXVlc3Rpb24iOiJXaGF0IHRoZSBoZWNrIGlzIGFuIGVtcGFuYWRhPyIsImxrIjoiR2h4M2FHRjBJSFJvWlNCb1pXTnJJR2x6SUdGdUlHVnRjR0Z1WVdSaCIsImJzIjoiYy1OeTVwSU56MGdzVWNnc1ZpZ3RMazNNeWFsVXlNeFRTTTB0U014TFRFa3N0cGU0WjJna0x5VmJEbEtUV0pTS1ZSR1hDNWVjSTFBT0xxQ1FxT0NiV3BHWm5KaW5VSktSbVpkdUw3SFZDbVJLSXBxaVhHUkZYRTVRcDVSa3BDcGtwQ1puZzl5VWlMREdYbUtwb3BHY2xFdzVIalZjUGx4S01PLTRaZVprRm1UbTVjTWxGWElUVTFJVjh0UHNKZDZ6R1NsTEtaWkRGYWJoVWlqQUNBQSIsImlkIjoiZmNfeXpBS1pfel9NTHFOd2JrUGlMREdzQTBfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIyNjc5IiwiZmMiOiJFcUlDQ3VJQlFVcEhPVXByVGpkQmNESkxjRVZWY21kS2EyUnRUekZ4Um1Kd1VEbDRNM1U1WmtSYVVGbFZaREZmZDA0MFpIZEdZMFpRZW5WcmNVczRTWEZNUldZek5HbGZaakZUYWtGa2VqQkNiREZpU1VkblQzQlRlVFZhUjFSaU9VOVFSVTlqZEY5UlJHTXlibUpXT0hWVmREaE5iR3hHU0d4eVpWTmxaR0puUTJ0QmNuUktZMk40V1ZGdmNFRlNZMGMzTkRoek5Vc3lXVWsxZVdOeFpESnZRVWhMWW10bVgweHhibEpxVEhSaVJGQmlNMFJGVERSVWRtbFFaSEY0VVd0WFNGVnJPRTlpV2tSVFFsRjViazUxVDFWU1JFMVVTbmd5UWxkeFZHRm1VaTFwY0RGdlp4SVhlWHBCUzFwZmVsOU5USEZPZDJKclVHbE1SRWR6UVRBYUlrRkdXSEpGWTNKSGRXaHNlbk5OUVU5blRrVnRkamhJZEhsTFdsTkxjSHB1WVhjIiwiZmN2IjoiMyIsImVpIjoieXpBS1pfel9NTHFOd2JrUGlMREdzQTAiLCJxYyI6IkNnaGxiWEJoYm1Ga1lSQUFmUTVBR2o4IiwicXVlc3Rpb24iOiJXaGF0IHRoZSBoZWNrIGlzIGFuIGVtcGFuYWRhPyIsImxrIjoiR2h4M2FHRjBJSFJvWlNCb1pXTnJJR2x6SUdGdUlHVnRjR0Z1WVdSaCIsImJzIjoiYy1OeTVwSU56MGdzVWNnc1ZpZ3RMazNNeWFsVXlNeFRTTTB0U014TFRFa3N0cGU0WjJna0x5VmJEbEtUV0pTS1ZSR1hDNWVjSTFBT0xxQ1FxT0NiV3BHWm5KaW5VSktSbVpkdUw3SFZDbVJLSXBxaVhHUkZYRTVRcDVSa3BDcGtwQ1puZzl5VWlMREdYbUtwb3BHY2xFdzVIalZjUGx4S01PLTRaZVprRm1UbTVjTWxGWElUVTFJVjh0UHNKZDZ6R1NsTEtaWkRGYWJoVWlqQUNBQSIsImlkIjoiZmNfeXpBS1pfel9NTHFOd2JrUGlMREdzQTBfMyJ9"
+    },
+    {
+      "question": "What is Filipino empanada made of?",
+      "snippet": "What is a Filipino Empanada? The typical Filipino-style empanadas have savory fillings made with ground meat mixed with vegetables and sometimes raisins. The dough is slightly sweeter than other non-Filipino versions, and you could either bake or fry them depending on the empanada dough recipe.",
+      "title": "Addicting Baked Filipino-Style Meat Empanadas - Sees Food, Will Travel",
+      "date": "Nov 4, 2023",
+      "link": "https://seesfoodwilltravel.com/baked-filipino-meat-empanada/#:~:text=Tried%20This%20Recipe%3F-,What%20is%20a%20Filipino%20Empanada%3F,on%20the%20empanada%20dough%20recipe.",
+      "displayed_link": "https://seesfoodwilltravel.com \u203a baked-filipino-meat-emp...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROAVHcXEWNIex6CY8Vbi6qVhVN__oe541h9PqZyNWa&s",
+      "source_logo": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/abd8189d0dbc7150139dd514119f07ae7deee87f5c8d9ae99751698e21109e7e.png",
+      "next_page_token": "eyJvbnMiOiIyNjc5IiwiZmMiOiJFcUlDQ3VJQlFVcEhPVXByVGpkQmNESkxjRVZWY21kS2EyUnRUekZ4Um1Kd1VEbDRNM1U1WmtSYVVGbFZaREZmZDA0MFpIZEdZMFpRZW5WcmNVczRTWEZNUldZek5HbGZaakZUYWtGa2VqQkNiREZpU1VkblQzQlRlVFZhUjFSaU9VOVFSVTlqZEY5UlJHTXlibUpXT0hWVmREaE5iR3hHU0d4eVpWTmxaR0puUTJ0QmNuUktZMk40V1ZGdmNFRlNZMGMzTkRoek5Vc3lXVWsxZVdOeFpESnZRVWhMWW10bVgweHhibEpxVEhSaVJGQmlNMFJGVERSVWRtbFFaSEY0VVd0WFNGVnJPRTlpV2tSVFFsRjViazUxVDFWU1JFMVVTbmd5UWxkeFZHRm1VaTFwY0RGdlp4SVhlWHBCUzFwZmVsOU5USEZPZDJKclVHbE1SRWR6UVRBYUlrRkdXSEpGWTNKSGRXaHNlbk5OUVU5blRrVnRkamhJZEhsTFdsTkxjSHB1WVhjIiwiZmN2IjoiMyIsImVpIjoieXpBS1pfel9NTHFOd2JrUGlMREdzQTAiLCJxYyI6IkNnaGxiWEJoYm1Ga1lSQUFmUTVBR2o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIEZpbGlwaW5vIGVtcGFuYWRhIG1hZGUgb2Y/IiwibGsiOiJHaUYzYUdGMElHbHpJR1pwYkdsd2FXNXZJR1Z0Y0dGdVlXUmhJRzFoWkdVZ2IyWSIsImJzIjoiYy1OeTVwSU56MGdzVWNnc1ZpZ3RMazNNeWFsVXlNeFRTTTB0U014TFRFa3N0cGU0WjJna0x5VmJEbEtUV0pTS1ZSR1hDNWVjSTFBT0xxQ1FxT0NiV3BHWm5KaW5VSktSbVpkdUw3SFZDbVJLSXBxaVhHUkZYRTVRcDVSa3BDcGtwQ1puZzl5VWlMREdYbUtwb3BHY2xFdzVIalZjUGx4S01PLTRaZVprRm1UbTVjTWxGWElUVTFJVjh0UHNKZDZ6R1NsTEtaWkRGYWJoVWlqQUNBQSIsImlkIjoiZmNfeXpBS1pfel9NTHFOd2JrUGlMREdzQTBfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIyNjc5IiwiZmMiOiJFcUlDQ3VJQlFVcEhPVXByVGpkQmNESkxjRVZWY21kS2EyUnRUekZ4Um1Kd1VEbDRNM1U1WmtSYVVGbFZaREZmZDA0MFpIZEdZMFpRZW5WcmNVczRTWEZNUldZek5HbGZaakZUYWtGa2VqQkNiREZpU1VkblQzQlRlVFZhUjFSaU9VOVFSVTlqZEY5UlJHTXlibUpXT0hWVmREaE5iR3hHU0d4eVpWTmxaR0puUTJ0QmNuUktZMk40V1ZGdmNFRlNZMGMzTkRoek5Vc3lXVWsxZVdOeFpESnZRVWhMWW10bVgweHhibEpxVEhSaVJGQmlNMFJGVERSVWRtbFFaSEY0VVd0WFNGVnJPRTlpV2tSVFFsRjViazUxVDFWU1JFMVVTbmd5UWxkeFZHRm1VaTFwY0RGdlp4SVhlWHBCUzFwZmVsOU5USEZPZDJKclVHbE1SRWR6UVRBYUlrRkdXSEpGWTNKSGRXaHNlbk5OUVU5blRrVnRkamhJZEhsTFdsTkxjSHB1WVhjIiwiZmN2IjoiMyIsImVpIjoieXpBS1pfel9NTHFOd2JrUGlMREdzQTAiLCJxYyI6IkNnaGxiWEJoYm1Ga1lSQUFmUTVBR2o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIEZpbGlwaW5vIGVtcGFuYWRhIG1hZGUgb2Y%2FIiwibGsiOiJHaUYzYUdGMElHbHpJR1pwYkdsd2FXNXZJR1Z0Y0dGdVlXUmhJRzFoWkdVZ2IyWSIsImJzIjoiYy1OeTVwSU56MGdzVWNnc1ZpZ3RMazNNeWFsVXlNeFRTTTB0U014TFRFa3N0cGU0WjJna0x5VmJEbEtUV0pTS1ZSR1hDNWVjSTFBT0xxQ1FxT0NiV3BHWm5KaW5VSktSbVpkdUw3SFZDbVJLSXBxaVhHUkZYRTVRcDVSa3BDcGtwQ1puZzl5VWlMREdYbUtwb3BHY2xFdzVIalZjUGx4S01PLTRaZVprRm1UbTVjTWxGWElUVTFJVjh0UHNKZDZ6R1NsTEtaWkRGYWJoVWlqQUNBQSIsImlkIjoiZmNfeXpBS1pfel9NTHFOd2JrUGlMREdzQTBfMyJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "How to Make Empanadas",
+      "link": "https://handletheheat.com/how-to-make-empanadas/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://handletheheat.com/how-to-make-empanadas/&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQFnoECBQQAQ",
+      "displayed_link": "https://handletheheat.com \u203a ... \u203a Savory Recipes",
+      "thumbnail": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/ca355ca2d241ea310ba51830f0a9ae1b1daca5c5db4a6f7c63a9ded6e3f4298d.jpeg",
+      "favicon": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/ca355ca2d241ea310ba51830f0a9ae1b0e76176db761ff3b1fb5851c4021754b.png",
+      "date": "Jun 4, 2023",
+      "snippet": "Beef Empanadas feature a flavorful beef filling wrapped in flaky, buttery pastry & baked instead of fried! Step-by-step instructions + ...",
+      "snippet_highlighted_words": [
+        "Empanadas"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.9,
+            "hr": 3
+          },
+          "extensions": [
+            "4.9(87)",
+            "3 hr"
+          ]
+        }
+      },
+      "source": "Handle the Heat"
+    },
+    {
+      "position": 2,
+      "title": "Empanada",
+      "link": "https://en.wikipedia.org/wiki/Empanada",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Empanada&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQFnoECFcQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Empanada",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4JB6mGuEwiB_5hbsrV0qajCnGiG7JErAFJ00oaervj8GAgzRqmgO1&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/ca355ca2d241ea310ba51830f0a9ae1b71a533ea716b9f3109c732cfc1abf5c7.png",
+      "snippet": "An empanada is a type of baked or fried turnover consisting of pastry and filling, common in Spain, other Southern European countries, North African ...",
+      "snippet_highlighted_words": [
+        "empanada"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 3,
+      "title": "Beef empanadas",
+      "link": "https://www.recipetineats.com/beef-empanadas/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.recipetineats.com/beef-empanadas/&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQFnoECF0QAQ",
+      "displayed_link": "https://www.recipetineats.com \u203a Iconic Dishes",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN6H3o0XhxQz18wYwx723RD8cbXYDFmK-j_3DNmlBlNTu6V0jPUM32&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/ca355ca2d241ea310ba51830f0a9ae1b2789ba42a06ee1297f0eebb63303cea5.png",
+      "date": "Apr 28, 2023",
+      "snippet": "This recipe is everything you dream an empanada to be: golden, buttery, flaky pastry that's crispy all over. Inside, a juicy beef filling with an extra flavour ...",
+      "snippet_highlighted_words": [
+        "empanada"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "hr_min": 1
+          },
+          "extensions": [
+            "5.0(20)",
+            "1 hr 35 min"
+          ]
+        }
+      },
+      "source": "RecipeTin Eats"
+    },
+    {
+      "position": 4,
+      "title": "How to Make Empanadas | So Delicious and Easy!",
+      "link": "https://www.youtube.com/watch?v=RRNVLC6IAv4",
+      "displayed_link": "1.1M+ views \u00b7 2 years ago",
+      "thumbnail": "https://i.ytimg.com/vi/RRNVLC6IAv4/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3nrRcN4L3D4XP6NLPcQ3RNHtL5cQg",
+      "favicon": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/ca355ca2d241ea310ba51830f0a9ae1b67c2569ff2829112f7f624aa6f987d63.png",
+      "snippet": "You won't be able to have just one of these delightful Empanadas. Perfectly spiced beef and vegetables wrapped up in a flakey, golden crust, ...",
+      "duration": "11:00",
+      "key_moments": [
+        {
+          "time": "00:01",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=RRNVLC6IAv4&t=1",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcx_054YHEcm7sp8wc03SpuEbc0AJnCx8dOoJ7ZCaL_A&s"
+        },
+        {
+          "time": "01:06",
+          "title": "Preparing the onion",
+          "link": "https://www.youtube.com/watch?v=RRNVLC6IAv4&t=66",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpLmHL4qllJZ92tipMWxp7xUnt8zmNOY81SknuuTSBmQ&s"
+        },
+        {
+          "time": "01:53",
+          "title": "Cooking the meat filling",
+          "link": "https://www.youtube.com/watch?v=RRNVLC6IAv4&t=113",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5mR1_c91Dzp0YG_ShIU-HhBtv_dfNQtOE7zfnP5oyCQ&s"
+        },
+        {
+          "time": "04:03",
+          "title": "Add peas to filling",
+          "link": "https://www.youtube.com/watch?v=RRNVLC6IAv4&t=243",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMTGSemOuZPGvyCAVcMmR71-ioCFCJuw6-4FRHeDQG7w&s"
+        },
+        {
+          "time": "05:23",
+          "title": "Adding the butter",
+          "link": "https://www.youtube.com/watch?v=RRNVLC6IAv4&t=323",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMrvq7x0Sl5BBjAmHysFm7LJP2Ke35Ai1dAoZgnUgdug&s"
+        },
+        {
+          "time": "06:53",
+          "title": "Shaping the dough",
+          "link": "https://www.youtube.com/watch?v=RRNVLC6IAv4&t=413",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbB_HIIlSCyBQF76TYulCrBfLOuZAxkJEhG2xh0ZFuNw&s"
+        },
+        {
+          "time": "07:50",
+          "title": "Shaping the Empanadas",
+          "link": "https://www.youtube.com/watch?v=RRNVLC6IAv4&t=470",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtPKpruPdbZqyq900GKSkv0GlfeFNOJ-_kORIgXAR2bw&s"
+        },
+        {
+          "time": "08:51",
+          "title": "Adding filling to the dough",
+          "link": "https://www.youtube.com/watch?v=RRNVLC6IAv4&t=531",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW2Wc72HiYjRLywDd0y0Lu_xcZH7uYHhrc0oOK01ZOxQ&s"
+        },
+        {
+          "time": "09:30",
+          "title": "Folding the Empanadas",
+          "link": "https://www.youtube.com/watch?v=RRNVLC6IAv4&t=570",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQunxEQhOPQ817FH0aQmcEwgu5ifVa30mgbbaKZt2gLXA&s"
+        },
+        {
+          "time": "10:31",
+          "title": "Taste Test",
+          "link": "https://www.youtube.com/watch?v=RRNVLC6IAv4&t=631",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Wak1LX5yzsZUOq-KQa-Fc96UbZ-XSM3bGjQI_ci12A&s"
+        }
+      ],
+      "source": "YouTube \u00b7 Preppy Kitchen"
+    },
+    {
+      "position": 5,
+      "title": "Breakfast Empanada",
+      "link": "https://store.portosbakery.com/products/breakfast-empanada?srsltid=AfmBOorVDaFb7CqtzAQHh3Wu9VUkLfc_HjvCMLhwuq8owyMR4UP8Y_fi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://store.portosbakery.com/products/breakfast-empanada%3Fsrsltid%3DAfmBOorVDaFb7CqtzAQHh3Wu9VUkLfc_HjvCMLhwuq8owyMR4UP8Y_fi&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQFnoECFsQAQ",
+      "displayed_link": "https://store.portosbakery.com \u203a products \u203a breakfast-e...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrkWpJb4-JHgqATvPi5gvAnDmcHWyLWMeyA9cEyS0vTwipo9BiUEox&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/ca355ca2d241ea310ba51830f0a9ae1b8b8db9e14ab3228c6a79e43f6b6cca8e.png",
+      "snippet": "A savory handpie filled with a delightful blend of spicy chorizo, fluffy eggs, tender potatoes, bell peppers, and mozzarella cheese.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "price": 24.49,
+            "currency": "$",
+            "day_delivery": 3
+          },
+          "extensions": [
+            "5.0(1)",
+            "$24.49",
+            "\u200e3\u20138 day delivery",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Porto's Bake at Home"
+    },
+    {
+      "position": 6,
+      "title": "Chicken Empanada",
+      "link": "https://www.halfmoonempanadas.com/product/chicken-empanada/250",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.halfmoonempanadas.com/product/chicken-empanada/250&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQFnoECFgQAQ",
+      "displayed_link": "https://www.halfmoonempanadas.com \u203a product \u203a chic...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS48-9N5aks19ag9QjwQmAMG3s0gW5nO_r5OEe1_9bT9VddcFr5Yfaw&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/ca355ca2d241ea310ba51830f0a9ae1b1dc0e4c963c327b16ec6b32efc40758a.jpeg",
+      "snippet": "Chicken Empanada $4.15 - $5.67 1 Description Diced chicken, onion, red bell pepper, tomato sauce, hard-boiled egg, and spices.",
+      "snippet_highlighted_words": [
+        "Empanada"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 5.67,
+            "currency": "$"
+          },
+          "extensions": [
+            "$5.67",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Half Moon Empanadas"
+    },
+    {
+      "position": 7,
+      "title": "Empanada Dough Recipe",
+      "link": "https://www.allrecipes.com/recipe/212956/empanada-dough/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.allrecipes.com/recipe/212956/empanada-dough/&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQFnoECFwQAQ",
+      "displayed_link": "https://www.allrecipes.com \u203a ... \u203a Pastries \u203a Empanadas",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShrm8dAi1RKYjWckWIS4q4e9dYuMRWmX-sfl2BTj0ekwoXEGc76m0I&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/ca355ca2d241ea310ba51830f0a9ae1bc01c5816907ff8ee167eb07939d75709.png",
+      "date": "Apr 18, 2023",
+      "snippet": "Ingredients \u00b7 2 cups all-purpose flour \u00b7 \u2153 cup white sugar \u00b7 \u00bd teaspoon salt \u00b7 \u00bd cup water \u00b7 1 large egg yolk \u00b7 2 tablespoons all-purpose flour ...",
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 3.6,
+            "min": 20
+          },
+          "extensions": [
+            "3.6(52)",
+            "20 min"
+          ]
+        }
+      },
+      "source": "Allrecipes"
+    },
+    {
+      "position": 8,
+      "title": "COLOMBIAN EMPANADAS",
+      "link": "https://en.colombianfoodie.com/post/colombian-empanadas",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.colombianfoodie.com/post/colombian-empanadas&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQFnoECFkQAQ",
+      "displayed_link": "https://en.colombianfoodie.com \u203a post \u203a colombian-em...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTsRyY--2-duM9cxRrQzMDnpVm0YUotqg0jHH6zypFVk6JCulPzeYt&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/ca355ca2d241ea310ba51830f0a9ae1b1ea06d82e2e9b626a074baa72cf961bb.png",
+      "snippet": "COLOMBIAN EMPANADAS \u00b7 500 gr of organic ground beef (you can use vegetable meat) \u00b7 2 cloves of garlic, finely chopped \u00b7 1 red bell pepper, finely chopped \u00b7 1/2 ...",
+      "snippet_highlighted_words": [
+        "EMPANADAS"
+      ],
+      "source": "Colombian Foodie"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=empanada&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQjGp6BAg2EAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=empanada&tbs=lf%3A1%2Clf_ui%3A9&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Empanadas recipes",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Empanadas+recipes&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQ1QJ6BQiBARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Empanadas+recipes"
+    },
+    {
+      "block_position": 1,
+      "query": "Empanada ingredients",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Empanada+ingredients&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQ1QJ6BQiAARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Empanada+ingredients"
+    },
+    {
+      "block_position": 1,
+      "query": "Empanadas dough",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Empanadas+dough&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQ1QJ6BAh-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Empanadas+dough"
+    },
+    {
+      "block_position": 1,
+      "query": "Empanadas near me",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Empanadas+near+me&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQ1QJ6BAh_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Empanadas+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Empanada dough recipe",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Empanada+dough+recipe&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQ1QJ6BAh7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Empanada+dough+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Empanadas dessert",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Empanadas+dessert&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQ1QJ6BAh8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Empanadas+dessert"
+    },
+    {
+      "block_position": 1,
+      "query": "Empanadas Mexican",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Empanadas+Mexican&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQ1QJ6BAh9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Empanadas+Mexican"
+    },
+    {
+      "block_position": 1,
+      "query": "Empanadas fillings",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Empanadas+fillings&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQ1QJ6BQiCARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Empanadas+fillings"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Recipe - Empanadas & Fillings",
+      "link": "https://www.cookingbites.com/threads/empanadas-fillings.28664/",
+      "date": "3mo ago",
+      "source": "CookingBites Cooking Forum"
+    },
+    {
+      "title": "I made empanadas for the first time today",
+      "link": "https://www.reddit.com/r/Baking/comments/1cda27i/i_made_empanadas_for_the_first_time_today/",
+      "date": "5mo ago",
+      "extensions": [
+        "r/Baking",
+        "70+ comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "Puerto Rican Beef Empanadas (Empanadillas/Pastelillos)",
+      "link": "https://www.reddit.com/r/tonightsdinner/comments/jt536l/puerto_rican_beef_empanadas/",
+      "date": "3y ago",
+      "extensions": [
+        "r/tonightsdinner",
+        "10+ comments"
+      ],
+      "source": "Reddit"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "What's inside",
+        "subtitle": "What's Inside An Empanada?",
+        "thumbnail": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/c42ec5767063d5f3a19134bae1b8596502f611719435ab84b5a95fe68e5fc65e888d0c5d501a5cd2.png",
+        "web_links": [
+          {
+            "title": "Homemade Empanadas - The Recipe Critic",
+            "snippet": "All you need is a few pantry staples to make the empanada dough and the filling can be made with whatever you have on...",
+            "link": "https://therecipecritic.com/empanadas/",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwGSvahMS2AtyMeetEnPu9Ku6Q870hvthwPdiZbALzhwbz0OLoB-ICJYRGqtQ",
+            "source": "The Recipe Critic",
+            "source_thumbnail": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/c42ec5767063d5f3a19134bae1b8596502f611719435ab84a7c3574853c3b4b2cb6936f855ad3aba5c036bf07d7442b1769ef4c1215b905b.png"
+          },
+          {
+            "title": "What The Heck Is An Empanada? - Farmers' Almanac",
+            "snippet": "What is an Empanada? Empanadas are a Spanish or Latin-American pastry turnover filled with savory ingredients that are...",
+            "link": "https://www.farmersalmanac.com/what-the-heck-is-an-empanada",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsNuf-S1WcYAfwauqgmALFJ6y9noEnlJVuhcb0VP6sNncEFYCv0BYMa40RsZs",
+            "source": "www.farmersalmanac.com",
+            "source_thumbnail": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/c42ec5767063d5f3a19134bae1b8596502f611719435ab84a7c3574853c3b4b211e01a43d3d266e0de09c685973adb258b9bc918c5f36a32.png"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=what%27s+inside+an+empanada&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQrooIegQIcBAF",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what%27s+inside+an+empanada"
+      },
+      {
+        "text": "Filling options",
+        "subtitle": "What Is In Empanada Filling",
+        "thumbnail": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/c42ec5767063d5f3a19134bae1b85965eda004f43b1e587443dbdbf349b1ed8b4a60c06c2d1f2750.png",
+        "web_links": [
+          {
+            "title": "How to Make Empanadas - Handle the Heat",
+            "snippet": "For the Beef Filling: ; tablespoons olive oil, divided ; pound ground beef (85-90% lean) ; small yellow onion, peeled...",
+            "link": "https://handletheheat.com/how-to-make-empanadas/",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXNCCneUZpQosZrs_4BJFpE-2HPR1w0QV4kWc7rE8iMsmP4TFJLpPKT_eLUbU",
+            "source": "Handle the Heat",
+            "source_thumbnail": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/c42ec5767063d5f3a19134bae1b85965eda004f43b1e58743f17c50e131d35fb4d9540683a7b1dab7f280b60733eb5f50c330dbdc0ed247c.png"
+          },
+          {
+            "title": "Beef empanadas - RecipeTin Eats",
+            "snippet": "And this recipe is everything you dream an empanada to be: golden, buttery, flaky pastry that's crispy all over....",
+            "link": "https://www.recipetineats.com/beef-empanadas/",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4BQtdR_-PeIPJTpynQQxEqNELQ730OlhwL3D_g_41ALmCG_PH7jPr6trOMrg",
+            "source": "RecipeTin Eats",
+            "source_thumbnail": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/c42ec5767063d5f3a19134bae1b85965eda004f43b1e58743f17c50e131d35fb42f132ffa6814e2db44a3673499e9f3f0705063670e502c7.png"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=what+is+in+empanada+filling&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQrooIegQIcBAK",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+is+in+empanada+filling"
+      },
+      {
+        "text": "Traditionally",
+        "subtitle": "What Is In A Traditional Empanada",
+        "thumbnail": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/c42ec5767063d5f3a19134bae1b8596575c28292aec02fb1fc80bd4c3320c833e2092d44d385c959.png",
+        "web_links": [
+          {
+            "title": "Argentine Empanadas - Tastes Better from Scratch",
+            "snippet": "This authentic Argentine Empanadas recipe is so approachable, anyone can make them! The filling ingredients include...",
+            "link": "https://tastesbetterfromscratch.com/empanadas/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4PNiqoXW2PSButv6Kw4H1uZ19MoOk52cqLGD4hcdxMPKqq0xG1dDFNWQVj6Y",
+            "source": "Tastes Better From Scratch",
+            "source_thumbnail": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/c42ec5767063d5f3a19134bae1b8596575c28292aec02fb1367d6a44bcdace7a7c68375ae105d8e59047b9c5772d5457cf4d0deb0df8f6fd.png"
+          },
+          {
+            "title": "What Are Empanadas: A Guide on Everything You Need to ...",
+            "snippet": "Here, a typical empanada consists of a flour-based dough with various forms of meat fillings, including cubed or ground...",
+            "link": "https://yerbacrew.com/blogs/food-recipes/what-are-empanadas-a-guide-on-everything-you-need-to-know",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK8dya9lpo7R1sIvOY5BnmbKQhVPH_vamwPm88tJjtyy02v43it5GKhSDWiYI",
+            "source": "Yerba Crew",
+            "source_thumbnail": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/c42ec5767063d5f3a19134bae1b8596575c28292aec02fb1367d6a44bcdace7a16891d054db273474019e7f481213b6b6499420622069f92.png"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=what+is+in+a+traditional+empanada&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQrooIegQIcBAP",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+is+in+a+traditional+empanada"
+      },
+      {
+        "text": "Ingredients",
+        "subtitle": "What Is In An Empanada",
+        "title": "What are empanadas?",
+        "link": "https://www.halfmoonempanadas.com/s/stories/what-are-empanadas#:~:text=In%20Argentina%2C%20empanadas%20are%20often,meats%2C%20beans%2C%20and%20cheese.",
+        "displayed_link": "https://www.halfmoonempanadas.com \u203a stories \u203a what-ar...",
+        "snippet": "In Argentina, empanadas are often baked and made with a flaky pastry dough. The most common fillings include meat, chicken, and ham and cheese. In contrast, Venezuelan empanadas are usually fried and made with a thicker cornmeal-based dough. They are often filled with meats, beans, and cheese.",
+        "snippet_highlighted_words": [
+          "a flaky pastry dough"
+        ],
+        "favicon": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/c42ec5767063d5f3a19134bae1b859658e3aa593c7e6e7fe29c2b3b76da4187317a3071a98896624.png",
+        "source": "halfmoonempanadas.com",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=what+is+in+an+empanada&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQrooIegQIcBAU",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+is+in+an+empanada"
+      },
+      {
+        "text": "Recipes",
+        "subtitle": "Empanada Recipe",
+        "thumbnail": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/c42ec5767063d5f3a19134bae1b85965abdbea0ea274001d220327387bd735c8ef10bac730321057.png",
+        "web_links": [
+          {
+            "title": "Easy Beef Empanadas - Creme De La Crumb",
+            "snippet": "Beef Empanada Recipe. These crispy, cheesy, 30-minute easy beef empanadas are so simple to make with refrigerated pie...",
+            "link": "https://www.lecremedelacrumb.com/easy-beef-empanadas/",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjRmmORzud_NUa_VMBsDHUPk7W93FkdT-dmjXAsIoki3MaV1iI2EeyGoItnI0",
+            "source": "Creme De La Crumb",
+            "source_thumbnail": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/c42ec5767063d5f3a19134bae1b85965abdbea0ea274001d5483d094f385316bd48962f8ebaeb9ace0c1c4a55b230022dc47ff860cd37b34.png"
+          },
+          {
+            "title": "Beef Empanadas - Over The Fire Cooking",
+            "snippet": "Table of Contents. Why You'll Love Easy Beef Empanadas; Beef & Cheese Empanadas Ingredients. Homemade Empanada...",
+            "link": "https://overthefirecooking.com/beef-empanadas/",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXqiep6E08ylcMBvUGDYV_jfT8kKB2lE3Ve0-y-NpVMfxEXg_5ivcDLxy8pfM",
+            "source": "Over The Fire Cooking",
+            "source_thumbnail": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/c42ec5767063d5f3a19134bae1b85965abdbea0ea274001d5483d094f385316bb463687ebdd5a4897e2ab4b6333e4f2b787bcacb3f59c00d.png"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=empanada+recipe&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQrooIegQIcBAa",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=empanada+recipe"
+      },
+      {
+        "text": "What make",
+        "subtitle": "What Makes An Empanada And Empanada",
+        "title": "What Makes an Empanada Argentinian-Style? | El Sur",
+        "link": "https://www.elsursf.com/news-item/what-makes-an-empanada-argentinian-style/#:~:text=The%20name%20comes%20from%20the,potatoes%2C%20corn%2C%20and%20carrots.",
+        "displayed_link": "https://www.elsursf.com \u203a news-item \u203a what-makes-an-e...",
+        "snippet": "The name comes from the Spanish verb \u201cempenar,\u201d which, loosely translated, means to \u201cwrap something in bread.\u201d Empanadas are made by folding dough over a filling, which usually consists of some type of protein, such as beef, chicken, or cheese, and/or vegetables, like diced potatoes, corn, and carrots.",
+        "favicon": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/c42ec5767063d5f3a19134bae1b85965127405825972e774f947d50fce453e3ec0cc1dbb2ec6909e.png",
+        "source": "elsursf.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLaEmx8x6Qnx8cImvSUxevLZ5nP8pycs8aA8r-pu5huWk&s",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=what+makes+an+empanada+and+empanada&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQrooIegQIcBAi",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+makes+an+empanada+and+empanada"
+      },
+      {
+        "text": "Type of dish",
+        "subtitle": "Different Types Of Empanada",
+        "title": "Empanada | Definition, Filling, & Ingredients - Britannica",
+        "link": "https://www.britannica.com/topic/empanada#:~:text=empanada%2C%20a%20baked%20or%20fried,America%2C%20Spain%2C%20and%20Portugal.",
+        "displayed_link": "https://www.britannica.com \u203a topic \u203a empanada",
+        "snippet": "empanada, a baked or fried pastry stuffed with any of a variety of fillings, such as meat, cheese, vegetables, fruits, and other ingredients. Empanadas can be found around the world, especially in Latin America, Spain, and Portugal.",
+        "snippet_highlighted_words": [
+          "a baked or fried pastry stuffed with any of a variety of fillings, such as meat, cheese, vegetables, fruits, and other ingredients"
+        ],
+        "favicon": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/c42ec5767063d5f3a19134bae1b859652e336cb477b6781a6837ec14279b70fbae9d8801f9a68c8e.png",
+        "source": "britannica.com",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=different+types+of+empanada&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQrooIegQIcBAn",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=different+types+of+empanada"
+      },
+      {
+        "text": "Origin",
+        "subtitle": "Where Do Empanadas Come From",
+        "title": "A Brief History Of Empanadas - El Sur",
+        "link": "https://www.elsursf.com/news-item/a-brief-history-of-empanadas/#:~:text=%22Empanada%22%20comes%20from%20%22empanar,been%20the%20same%20ever%20since.",
+        "displayed_link": "https://www.elsursf.com \u203a news-item \u203a a-brief-history-of...",
+        "snippet": "\"Empanada\" comes from \"empanar\" which means \"to wrap or coat in bread\" in Spanish. The earliest mention of empanadas by name is in a 1520's cookbook in Catalan! The original empanadas resembled pies that were sliced into single pieces, but the basic concept has been the same ever since.",
+        "snippet_highlighted_words": [
+          "comes from \"empanar\" which means \"to wrap or coat in bread\" in Spanish"
+        ],
+        "favicon": "https://serpapi.com/searches/670a30cb671f3fb4305e16e3/images/c42ec5767063d5f3a19134bae1b85965be82b2590601c8868bbe2ebd14fd951d906cbfda8df54da5.png",
+        "source": "elsursf.com",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=where+do+empanadas+come+from&sa=X&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQrooIegQIcBAs",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=where+do+empanadas+come+from"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=empanada&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=yzAKZ_z_MLqNwbkPiLDGsA0&start=10&sa=N&sstk=Aagrsuiko28k_hFUac4nBFS7G87PvzjkDS4RIaBiY8tgVD0ww1aWJ1bx2Xu4J_3XxksMwsLcyHnF5kAL-yChd2w4fsaz8GfLJw74tg&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQ8NMDegQIBhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=empanada&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=yzAKZ_z_MLqNwbkPiLDGsA0&start=10&sa=N&sstk=Aagrsuiko28k_hFUac4nBFS7G87PvzjkDS4RIaBiY8tgVD0ww1aWJ1bx2Xu4J_3XxksMwsLcyHnF5kAL-yChd2w4fsaz8GfLJw74tg&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQ8tMDegQIBhAE",
+      "3": "https://www.google.com/search?q=empanada&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=yzAKZ_z_MLqNwbkPiLDGsA0&start=20&sa=N&sstk=Aagrsuiko28k_hFUac4nBFS7G87PvzjkDS4RIaBiY8tgVD0ww1aWJ1bx2Xu4J_3XxksMwsLcyHnF5kAL-yChd2w4fsaz8GfLJw74tg&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQ8tMDegQIBhAG",
+      "4": "https://www.google.com/search?q=empanada&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=yzAKZ_z_MLqNwbkPiLDGsA0&start=30&sa=N&sstk=Aagrsuiko28k_hFUac4nBFS7G87PvzjkDS4RIaBiY8tgVD0ww1aWJ1bx2Xu4J_3XxksMwsLcyHnF5kAL-yChd2w4fsaz8GfLJw74tg&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQ8tMDegQIBhAI",
+      "5": "https://www.google.com/search?q=empanada&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=yzAKZ_z_MLqNwbkPiLDGsA0&start=40&sa=N&sstk=Aagrsuiko28k_hFUac4nBFS7G87PvzjkDS4RIaBiY8tgVD0ww1aWJ1bx2Xu4J_3XxksMwsLcyHnF5kAL-yChd2w4fsaz8GfLJw74tg&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQ8tMDegQIBhAK",
+      "6": "https://www.google.com/search?q=empanada&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=yzAKZ_z_MLqNwbkPiLDGsA0&start=50&sa=N&sstk=Aagrsuiko28k_hFUac4nBFS7G87PvzjkDS4RIaBiY8tgVD0ww1aWJ1bx2Xu4J_3XxksMwsLcyHnF5kAL-yChd2w4fsaz8GfLJw74tg&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQ8tMDegQIBhAM",
+      "7": "https://www.google.com/search?q=empanada&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=yzAKZ_z_MLqNwbkPiLDGsA0&start=60&sa=N&sstk=Aagrsuiko28k_hFUac4nBFS7G87PvzjkDS4RIaBiY8tgVD0ww1aWJ1bx2Xu4J_3XxksMwsLcyHnF5kAL-yChd2w4fsaz8GfLJw74tg&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQ8tMDegQIBhAO",
+      "8": "https://www.google.com/search?q=empanada&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=yzAKZ_z_MLqNwbkPiLDGsA0&start=70&sa=N&sstk=Aagrsuiko28k_hFUac4nBFS7G87PvzjkDS4RIaBiY8tgVD0ww1aWJ1bx2Xu4J_3XxksMwsLcyHnF5kAL-yChd2w4fsaz8GfLJw74tg&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQ8tMDegQIBhAQ",
+      "9": "https://www.google.com/search?q=empanada&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=yzAKZ_z_MLqNwbkPiLDGsA0&start=80&sa=N&sstk=Aagrsuiko28k_hFUac4nBFS7G87PvzjkDS4RIaBiY8tgVD0ww1aWJ1bx2Xu4J_3XxksMwsLcyHnF5kAL-yChd2w4fsaz8GfLJw74tg&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQ8tMDegQIBhAS",
+      "10": "https://www.google.com/search?q=empanada&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=yzAKZ_z_MLqNwbkPiLDGsA0&start=90&sa=N&sstk=Aagrsuiko28k_hFUac4nBFS7G87PvzjkDS4RIaBiY8tgVD0ww1aWJ1bx2Xu4J_3XxksMwsLcyHnF5kAL-yChd2w4fsaz8GfLJw74tg&ved=2ahUKEwi8kcf4s4iJAxW6RjABHQiYEdYQ8tMDegQIBhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=empanada&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=empanada&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=empanada&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=empanada&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=empanada&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=empanada&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=empanada&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=empanada&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=empanada&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=empanada&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=empanada&start=90"
+    }
+  }
+}

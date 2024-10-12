@@ -1,0 +1,785 @@
+{
+  "search_metadata": {
+    "id": "670a30f906f4f295164230ff",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a0e242c620fabb32/670a30f906f4f295164230ff.json",
+    "created_at": "2024-10-12 08:19:05 UTC",
+    "processed_at": "2024-10-12 08:19:05 UTC",
+    "google_url": "https://www.google.com/search?q=egg&oq=egg&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/a0e242c620fabb32/670a30f906f4f295164230ff.html",
+    "total_time_taken": 2.58
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "egg",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "egg",
+    "total_results": 3150000000,
+    "time_taken_displayed": 0.31,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "recipes_results": [
+    {
+      "title": "How to Make Scrambled Eggs",
+      "link": "https://www.loveandlemons.com/scrambled-eggs-recipe/",
+      "source": "Love and Lemons",
+      "rating": 5.0,
+      "reviews": 74,
+      "total_time": "5 min",
+      "ingredients": [
+        "Olive oil",
+        "eggs",
+        "sea salt",
+        "black pepper"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT765eUG1IOpybwgBYq527BxebPJ3GidQ8SK8sxvrGd3l-WzWJopybpZk0&s"
+    },
+    {
+      "title": "Egg recipes",
+      "link": "https://www.bbcgoodfood.com/recipes/collection/egg-recipes",
+      "source": "BBC Good Food",
+      "ingredients": [
+        "Chicken"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKvirp5Dx8YXMF27AAJ7qcNKpJpRsOdWp_2K3XJFEQw7xWADJttxgUfAb9HA&s"
+    },
+    {
+      "title": "Perfect Creamy Scrambled Eggs",
+      "link": "https://www.inspiredtaste.net/26600/scrambled-eggs-recipe/",
+      "source": "Inspired Taste",
+      "rating": 5.0,
+      "reviews": 76,
+      "total_time": "15 min",
+      "ingredients": [
+        "Olive oil",
+        "eggs"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7aZX1vIKCu07YSONFWtk1COvUqwkAmEynRPLFrfqxSgPSI_J3g7RqqbF1og&s"
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=egg&npsic=0&rflfq=1&rldoc=1&rllag=30265881,-97749795,12320&tbm=lcl&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQtgN6BAhmEAI",
+    "image": "https://www.google.com/maps/vt/data=3YhSAVDiMxUigRR6GwnR5Vj_0Wzfpynn0ZX-M69vAYPZf7QJzaQgrz8GIDtS0Rh4rVkftoC5QDVllL9p2b8BBAo8olXHM-ZsZ7MVw3R9cVSh17W_-EkBD6o4bFYE6ZZTYJoEmBuBeJpg77oFUJMrTSakZwwuPQR4XeEAOWD4zsub4wHSg0fHxnRR_ie9tPpLwFjH3xrzZlf8BGPdG5BVUzMwz_kyJxe_WcFZiMb5kQbrqJErp98_BVxjdu2Jkdmhb6GnrjfibW4S5e59xLsN_pQeCDS4BMA4kgd28XNFKBdpoYqmn4owJtQERzG7OzcSeyIrpL188U_VorvncHLtkg8F1I9kdThKtjdXX8Oc3CxBGho5hPcRwklXnJxlX-jYs97gSgALkwLwsImDOk5hdIIsiQMXBk9aVUK1lc5TlHxdOJ3Hfh6RQLjEFUs2rSglvrG9a_Ob_19shkYPUpS2VlN8qHHLsG1HzkNJ3Fay8QXE0bokWV2F5BjOV-D4r6cBf2fAslW3ExRGsj-RoLEUQXSKk-cAG4XOCl3hETpfLzYTyBOARUzHEST1A6RDiGsS59b4Yl_Eoh7ic2RlB3IyEiG4tHAHFIwWOCWMhMT7OP2DtyGVUxJKJBYlsf7cbpLW503-9vjiUwkKu0se_xrYSQjs2CNYZxjl5IRZJIvdbPo00JE6Yb4DbDe5gpyMzSTy2G7PntUwopyw6t7GI8semeh4bS_dvqcD5Awce3WXRlQnA9TMhA5XIL1bnNFQS-J7mhQB6AAtki4jSN1EssyoH2KbInRo48FObktniwevHWg7l7Mv1OhVBOzzatQN6jFNHMwkhpE579GUot36q2VxD3LwFzt6GeQgo8HNL3fXz5pH6IxjCEIrR4DhbBKZTen2LsAEivpp7isvb9RoVlT8ghTtt6DHYGyWZoW8AmQgHnahHo43sgxWfDO9eWnSQZGbrXJ4ouMUxsCFpSGBu3kYhMk1-QglHxJAgl5FS5P6xONUlB-C3xF7EO-fsr6dhjmhDNWGLNRFpPOAZaXCVA0B-9TX-YrSOrkMc2bw6-CCn9148s2AhIt5oEJpkvHzUNCbeKfkp1cRM8R7egHgiWLGk8_oCeUICrBjGNaVRlFoPQP6PwV6woo8urUj4NeRdNW2TUvd3WEEcpt7Aa3tCrIiqIvjVQGz3Z-Dvl5GMZgZT2RnosbPMmod44SHqe-DqnYUEdZmF_cznCj5XND9-ZeXklWqnSJoLXzfNAAaUvbs9hFo7IiRX5IeoLEzXijdDwQJJ-g2cq8_yjbpmrpiMQJa5tPr43qSfiz0QQtrFURMNM7eXywv8lW8XdsAz2-6eZD7Wxd7mCZsevNcLECb5cmJy7Kc4SBr8GADwi_4t-eF2quBCUaApyLifjowQH-Z9pt6GFElhVyQ27GpLPcSfrxeCTNwBoofDlUmEg",
+    "gps_coordinates": {
+      "latitude": 30.265881,
+      "longitude": -97.749795
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.8,
+        "reviews_original": "(3.3K)",
+        "reviews": 3300,
+        "description": "\"The eggs were cooked perfectly and the sausage was well made.\"",
+        "lsig": "AB86z5WlxhZOBmKBGln5OeyLZ1Xa",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMf8JWhe_Dqx68O8P7Gl_cbPK1nvLhXFT3jI9Yd=w92-h92-n-k-no",
+        "title": "Another Broken Egg Cafe",
+        "type": "Brunch",
+        "address": "6406 N Interstate 35 Frontage Rd Suite 1600",
+        "hours": "Closed \u22c5 Opens 7 AM",
+        "place_id": "9341005358511215069",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=9341005358511215069&q=egg",
+        "gps_coordinates": {
+          "latitude": 30.326319,
+          "longitude": -97.70778
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.8,
+        "reviews_original": "(4K)",
+        "reviews": 4000,
+        "description": "\"The egg Benedict above the hash browns are seasoned well and are very juicy.\"",
+        "lsig": "AB86z5XUMumA_3QFpqHF2pAJiOA8",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMJ3oMDJq-EDHVNhU9lKR8JiccPX1KVj8lK9CO-=w92-h92-n-k-no",
+        "title": "Another Broken Egg Cafe",
+        "type": "Brunch",
+        "address": "8012 Mesa Dr",
+        "hours": "Closed \u22c5 Opens 7 AM",
+        "place_id": "8113345342847367938",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=8113345342847367938&q=egg",
+        "gps_coordinates": {
+          "latitude": 30.370567,
+          "longitude": -97.758446
+        }
+      },
+      {
+        "position": 3,
+        "description": "Dine-in\u00b7Curbside pickup\u00b7No-contact delivery",
+        "lsig": "AB86z5UzvYP2xZVivGUBkpRWTPhs",
+        "thumbnail": "/maps/vt/data=JWb8foMIexAGIdRWqyOzdxs2dwtzi5yXrC8OefeLVuQcfyapCnQOwXGV0X-LiwxuyosIqnljYJvFOEY6T7Vcbb7hYJH_91TbPLm695sxQto-lrMqRWqx17lDCRznNfr8mGN0tn-VmHiE1GGL8eg7Nn0xyVpRShuz3txrzcUF",
+        "service_options": {
+          "dine_in": true,
+          "curbside_pickup": true,
+          "no_contact_delivery": true
+        },
+        "title": "Another Broken Egg Cafe",
+        "reviews_original": "Brunch",
+        "address": "9600 S I35, Frontage Road Suite 96C-100",
+        "hours": "Opens November",
+        "place_id": "12085874962969544187",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=12085874962969544187&q=egg",
+        "gps_coordinates": {
+          "latitude": 30.161192,
+          "longitude": -97.79181
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&tbs=lf:1,lf_ui:9&tbm=lcl&q=egg&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQjGp6BAhnEAE"
+  },
+  "knowledge_graph": {
+    "title": "See results about",
+    "see_results_about": [
+      {
+        "name": "Egg",
+        "extensions": [
+          "Food"
+        ],
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Egg&si=ACC90nw_jPf0U9OHQLTsJBfNBfuzWP04Qb7uUj5bJ7NOdlcOVNDsnHG9Pr4u32WUgYnc15iA-9pAXu_Sfxfi4xzGZlDG5Z4KFxIJxFgKNKp9BUGubxZJo5BCngCANnVO_iGyKoDxdwm6UHep80S-MhVzVjfLsNDy0gVqK3Y4WTf1bJMOu043tGwyhV5glSNR2v0nJiKfpstK4ZUUFSj15_VLs6gNgOGnL7bRCzPUcRMdQrr3uX_6trdUVmAr-YTHVglocEIOgRkX&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQ6RN6BAgVEAE",
+        "image": "https://serpapi.com/searches/670a30f906f4f295164230ff/images/c4360b4dc153f7538521f466b72724babe0d2687163d805f2b3c37f7069ced9eb02034a9df890137899bf64d4bc0bac0.jpeg"
+      },
+      {
+        "name": "Egg",
+        "extensions": [
+          "An egg is an organic vessel grown by an animal to carry a ..."
+        ],
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Egg&si=ACC90nw_jPf0U9OHQLTsJBfNBfuzWP04Qb7uUj5bJ7NOdlcOVM7EhV1dHlqCBMJcyzwDIKbN2pa3GIjjM6ZzQco9WqvPlBsxiqMaTgVzvO45E76sl463nTu6j2BkyqjbV8M8Bxs6mDM0CxqIW-83MtmZ4F_L0i3se7_xQ3S164gS8rkfuUIAZAIMxdmqdQxolIj3HAOofQ4S3XSlKwyLms4LoH6W9xSg04XdPD0RCcqMxY8ae2WZTrX_JRqTp9EqZMIG82bxkWxJ&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQ6RN6BAgYEAE",
+        "image": "https://serpapi.com/searches/670a30f906f4f295164230ff/images/c4360b4dc153f7538521f466b72724babe0d2687163d805f2b3c37f7069ced9eca98b4eb43d46bb1eb732d04ea9852a8.jpeg"
+      }
+    ]
+  },
+  "inline_images": [
+    {
+      "source": "https://www.britannica.com/topic/egg-food",
+      "thumbnail": "https://serpapi.com/searches/670a30f906f4f295164230ff/images/3d4842acd2b59b13d13957e524d102a41078f6d47f8c921ce60b45e6a358d16c.jpeg",
+      "original": "https://cdn.britannica.com/94/151894-050-F72A5317/Brown-eggs.jpg",
+      "title": "Egg | Definition, Characteristics, & Nutritional Content ...",
+      "source_name": "Britannica"
+    },
+    {
+      "source": "https://en.wikipedia.org/wiki/Eggs_as_food",
+      "thumbnail": "https://serpapi.com/searches/670a30f906f4f295164230ff/images/3d4842acd2b59b132ba1b48d4d1ccef83c995990499b28e05f3fae0104971af7.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Fried_Egg_2.jpg",
+      "title": "Eggs as food - Wikipedia",
+      "source_name": "Wikipedia"
+    },
+    {
+      "source": "https://downshiftology.com/recipes/perfect-soft-boiled-hard-boiled-eggs/",
+      "thumbnail": "https://serpapi.com/searches/670a30f906f4f295164230ff/images/3d4842acd2b59b135da8257ead214501b99f6c97b996135d8bfb864ce0438b34.jpeg",
+      "original": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2018/03/How-to-Boil-Eggs-main-1-2.jpg",
+      "title": "How to Boil Eggs Perfectly",
+      "source_name": "Downshiftology"
+    },
+    {
+      "source": "https://www.sophisticatedgourmet.com/2020/04/how-to-fry-an-egg/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaJ9uJghglTHivyD_oCIihxmA8vhq4khqM5V37vy1lLWCyL9UjP-PVh60&s",
+      "original": "https://www.sophisticatedgourmet.com/wp-content/uploads/2020/04/how-to-fry-an-egg-recipe-735x979.jpg",
+      "title": "How to Fry an Egg",
+      "source_name": "Sophisticated Gourmet"
+    },
+    {
+      "source": "https://www.simplyrecipes.com/recipes/how_to_make_perfect_hard_boiled_eggs/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWVCO6Amv5yEnZJCLPAI77cStgxQ-u3hivLHDplTln_5ClNhF9NUe_LKU&s",
+      "original": "https://www.simplyrecipes.com/thmb/zsQvDavpqD2PtIO-7W6nBWVHCe4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Hard-Boiled-Eggs-LEAD-03-42506773297f4a15920c46628d534d67.jpg",
+      "title": "How to Make Perfect Hard Boiled Eggs",
+      "source_name": "Simply Recipes"
+    },
+    {
+      "source": "https://www.allrecipes.com/recipe/275944/instant-pot-hard-boiled-eggs/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKTMniaPpIIsxdYndgAD1N5eSMs8O6C2Y3moLWpRStUSG4n_dxbBO4rHg&s",
+      "original": "https://www.allrecipes.com/thmb/sKJTyo6t9cRUaCr6mqvqUdXmt3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9188544-1a3585fc8f3541c1891081af005ef7ff.jpg",
+      "title": "Instant Pot Hard-Boiled Eggs",
+      "source_name": "Allrecipes"
+    },
+    {
+      "source": "https://www.eatingwell.com/recipe/8031221/pristine-sunny-side-up-eggs/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVgl-4Auv2LqvGocVXtgpQIdGs32dzb_LipmEqyCcaARXdbfpIyyTCg2A&s",
+      "original": "https://www.eatingwell.com/thmb/kOTaLSImMIBGZ1QyLp2GjC3WBU4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ewl-8031221-pristine-sunny-side-up-eggs-hero-c-4000x4000-3adabd5701f644bcbf631b20dbea721a.jpg",
+      "title": "Pristine Sunny-Side Up Eggs",
+      "source_name": "EatingWell"
+    },
+    {
+      "source": "https://www.bbc.com/news/newsbeat-47127298",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlcXoTQOydhcCu3_sJy7yCzRMcWwKdsU-vsIJC05rlX48tCTyq-GHDKFc&s",
+      "original": "https://ichef.bbci.co.uk/news/480/cpsprodpb/7614/production/_105482203__105172250_gettyimages-857294664.jpg.webp",
+      "title": "Instagram's most-liked egg cracks to reveal a mental health ...",
+      "source_name": "BBC"
+    },
+    {
+      "source": "https://www.thekitchn.com/fried-egg-recipe-23664348",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHwZCaGZOPzoseKAv8FTo_gHC3qHvvwUwpElvhm2ulFbTQ9uhQ8zFkzc&s",
+      "original": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_16:9/k%2FPhoto%2FSeries%2F2024-05-how-to-fry-an-egg%2Fhow-to-fry-an-egg-402-sunny-side-up",
+      "title": "How to Fry an Egg",
+      "source_name": "The Kitchn"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What does egg mean in slang?",
+      "snippet": "'Egg' has become a kind of shorthand for \"Internet troll,\" though the avatar can simply indicate that a user is new to Twitter or inexperienced with the platform. Twitter recently made news by adding a feature that allows users to mute tweets coming from egg accounts.",
+      "title": "What does it mean to be an egg on Twitter? - Merriam-Webster",
+      "link": "https://www.merriam-webster.com/wordplay/which-came-first-the-twitter-chicken-or-the-twitter-egg#:~:text='Egg'%20has%20become%20a%20kind,tweets%20coming%20from%20egg%20accounts.",
+      "displayed_link": "https://www.merriam-webster.com \u203a wordplay \u203a which-c...",
+      "source_logo": "https://serpapi.com/searches/670a30f906f4f295164230ff/images/fdaab981bc94fb03138dbd25de198022cba12f4925112a38d8e11458c3d95b67.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFpsQmFUV2R3UWtobFpDMXdSMVJwVG1OdmFFOWlSMDV5ZWtFeWVVNVJNVGhpWXpWdlJXWmtTSFp4VEdWV1Z6UkljSEpQVGxGUU56VnFjakZSTjJSUmJqUnVVRFJ1RWhjdGVrRkxXamhFVUVobU5sQjNZbXRRYmtzeVRIRkJNQm9pUVVaWWNrVmpjR1ZYTUhKNlRIUllhMHh5UldKemEwVmlRV041TmsxNllWazVRUSIsImZjdiI6IjMiLCJlaSI6Ii16QUtaOERQSGY2UHdia1BuSzJMcUEwIiwicWMiOiJDZ05sWjJjUUFIMDlfQ3dfIiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgZWdnIG1lYW4gaW4gc2xhbmc/IiwibGsiOiJHaHQzYUdGMElHUnZaWE1nWldkbklHMWxZVzRnYVc0Z2MyeGhibWMiLCJicyI6ImMzMk9NUXJDTUJoRzZackpNVWFySDNpRDRpUklIVVQwQkoxajg1c0UwZ1NhbHRJTGVUTFA0R3dEcnUzOEhvX0hMbXhiR2RsQkJZb2dyZEdROUxBZTBVbXZTXzdPaWx4c2hubUZYZG11TXJZMkNVWElsdkFrNnpWYXFxVnpwS2JHcmRpTGZGaVMySW10SHhISFA0ZVNJN29RMFBTMUtmbjNYQWpCN1F4UEJfY3dJTHc2bXFaTTZKM0NHSHJRTkozOGtuOE82Y0FzU2F2c0J3IiwiaWQiOiJmY181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFpsQmFUV2R3UWtobFpDMXdSMVJwVG1OdmFFOWlSMDV5ZWtFeWVVNVJNVGhpWXpWdlJXWmtTSFp4VEdWV1Z6UkljSEpQVGxGUU56VnFjakZSTjJSUmJqUnVVRFJ1RWhjdGVrRkxXamhFVUVobU5sQjNZbXRRYmtzeVRIRkJNQm9pUVVaWWNrVmpjR1ZYTUhKNlRIUllhMHh5UldKemEwVmlRV041TmsxNllWazVRUSIsImZjdiI6IjMiLCJlaSI6Ii16QUtaOERQSGY2UHdia1BuSzJMcUEwIiwicWMiOiJDZ05sWjJjUUFIMDlfQ3dfIiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgZWdnIG1lYW4gaW4gc2xhbmc%2FIiwibGsiOiJHaHQzYUdGMElHUnZaWE1nWldkbklHMWxZVzRnYVc0Z2MyeGhibWMiLCJicyI6ImMzMk9NUXJDTUJoRzZackpNVWFySDNpRDRpUklIVVQwQkoxajg1c0UwZ1NhbHRJTGVUTFA0R3dEcnUzOEhvX0hMbXhiR2RsQkJZb2dyZEdROUxBZTBVbXZTXzdPaWx4c2hubUZYZG11TXJZMkNVWElsdkFrNnpWYXFxVnpwS2JHcmRpTGZGaVMySW10SHhISFA0ZVNJN29RMFBTMUtmbjNYQWpCN1F4UEJfY3dJTHc2bXFaTTZKM0NHSHJRTkozOGtuOE82Y0FzU2F2c0J3IiwiaWQiOiJmY181In0%3D"
+    },
+    {
+      "question": "Which eggs are being recalled?",
+      "snippet": "The recall affects all egg types, sizes, and expiration dates for eggs branded as \u201cMilo's Poultry Farms,\u201d \u201cTony's Fresh Market,\u201d \u201cHappy Quackers Farm,\u201d and \u201cM&E Family Farms.\u201d According to the FDA's website, the recall includes 345,417 dozen cartons of eggs, totaling more than 4 million eggs.",
+      "title": "FDA Upgrades Recall For Millions of Eggs Linked to Salmonella Outbreak",
+      "date": "2 days ago",
+      "link": "https://www.health.com/fda-egg-recall-upgrade-salmonella-8724923#:~:text=The%20recall%20affects%20all%20egg,more%20than%204%20million%20eggs.",
+      "displayed_link": "https://www.health.com \u203a fda-egg-recall-upgrade-salmon...",
+      "source_logo": "https://serpapi.com/searches/670a30f906f4f295164230ff/images/fdaab981bc94fb03138dbd25de198022b3f8a5fc06c665bd251b611aaf1a8b2e.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFpsQmFUV2R3UWtobFpDMXdSMVJwVG1OdmFFOWlSMDV5ZWtFeWVVNVJNVGhpWXpWdlJXWmtTSFp4VEdWV1Z6UkljSEpQVGxGUU56VnFjakZSTjJSUmJqUnVVRFJ1RWhjdGVrRkxXamhFVUVobU5sQjNZbXRRYmtzeVRIRkJNQm9pUVVaWWNrVmpjR1ZYTUhKNlRIUllhMHh5UldKemEwVmlRV041TmsxNllWazVRUSIsImZjdiI6IjMiLCJlaSI6Ii16QUtaOERQSGY2UHdia1BuSzJMcUEwIiwicWMiOiJDZ05sWjJjUUFIMDlfQ3dfIiwicXVlc3Rpb24iOiJXaGljaCBlZ2dzIGFyZSBiZWluZyByZWNhbGxlZD8iLCJsayI6IkdoMTNhR2xqYUNCbFoyZHpJR0Z5WlNCaVpXbHVaeUJ5WldOaGJHeGxaQSIsImJzIjoiYzMyT01RckNNQmhHNlpySk1VYXJIM2lENGlSSUhVVDBCSjFqODVzRTBnU2FsdElMZVRMUDRHd0RydTM4SG9fSExteGJHZGxCQllvZ3JkR1E5TEFlMFVtdlNfN09pbHhzaG5tRlhkbXVNclkyQ1VYSWx2QWs2elZhcXFWenBLYkdyZGlMZkZpUzJJbXRIeEhIUDRlU0k3b1EwUFMxS2ZuM1hBakI3UXhQQl9jd0lMdzZtcVpNNkozQ0dIclFOSjM4a244TzZjQXNTYXZzQnciLCJpZCI6ImZjXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFpsQmFUV2R3UWtobFpDMXdSMVJwVG1OdmFFOWlSMDV5ZWtFeWVVNVJNVGhpWXpWdlJXWmtTSFp4VEdWV1Z6UkljSEpQVGxGUU56VnFjakZSTjJSUmJqUnVVRFJ1RWhjdGVrRkxXamhFVUVobU5sQjNZbXRRYmtzeVRIRkJNQm9pUVVaWWNrVmpjR1ZYTUhKNlRIUllhMHh5UldKemEwVmlRV041TmsxNllWazVRUSIsImZjdiI6IjMiLCJlaSI6Ii16QUtaOERQSGY2UHdia1BuSzJMcUEwIiwicWMiOiJDZ05sWjJjUUFIMDlfQ3dfIiwicXVlc3Rpb24iOiJXaGljaCBlZ2dzIGFyZSBiZWluZyByZWNhbGxlZD8iLCJsayI6IkdoMTNhR2xqYUNCbFoyZHpJR0Z5WlNCaVpXbHVaeUJ5WldOaGJHeGxaQSIsImJzIjoiYzMyT01RckNNQmhHNlpySk1VYXJIM2lENGlSSUhVVDBCSjFqODVzRTBnU2FsdElMZVRMUDRHd0RydTM4SG9fSExteGJHZGxCQllvZ3JkR1E5TEFlMFVtdlNfN09pbHhzaG5tRlhkbXVNclkyQ1VYSWx2QWs2elZhcXFWenBLYkdyZGlMZkZpUzJJbXRIeEhIUDRlU0k3b1EwUFMxS2ZuM1hBakI3UXhQQl9jd0lMdzZtcVpNNkozQ0dIclFOSjM4a244TzZjQXNTYXZzQnciLCJpZCI6ImZjXzUifQ%3D%3D"
+    },
+    {
+      "question": "Is 4 eggs a day too much?",
+      "snippet": "We're here to put any concerns to rest and let (the majority) of you get back to doing what you do best \u2013 devouring your daily doses of delicious eggs. The Heart Foundation currently sets no limit for healthy people when it comes to how many eggs you can eat per day.",
+      "title": "How Many Eggs Should You Eat Per Day?",
+      "link": "https://www.australianeggs.org.au/questions/how-many-eggs-should-you-eat#:~:text=We're%20here%20to%20put,you%20can%20eat%20per%20day.",
+      "displayed_link": "https://www.australianeggs.org.au \u203a questions \u203a how-ma...",
+      "source_logo": "https://serpapi.com/searches/670a30f906f4f295164230ff/images/fdaab981bc94fb03138dbd25de1980221c7ae3afaf7b716def57aab258bf983f.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFpsQmFUV2R3UWtobFpDMXdSMVJwVG1OdmFFOWlSMDV5ZWtFeWVVNVJNVGhpWXpWdlJXWmtTSFp4VEdWV1Z6UkljSEpQVGxGUU56VnFjakZSTjJSUmJqUnVVRFJ1RWhjdGVrRkxXamhFVUVobU5sQjNZbXRRYmtzeVRIRkJNQm9pUVVaWWNrVmpjR1ZYTUhKNlRIUllhMHh5UldKemEwVmlRV041TmsxNllWazVRUSIsImZjdiI6IjMiLCJlaSI6Ii16QUtaOERQSGY2UHdia1BuSzJMcUEwIiwicWMiOiJDZ05sWjJjUUFIMDlfQ3dfIiwicXVlc3Rpb24iOiJJcyA0IGVnZ3MgYSBkYXkgdG9vIG11Y2g/IiwibGsiOiJHaGhwY3lBMElHVm5aM01nWVNCa1lYa2dkRzl2SUcxMVkyZyIsImJzIjoiYzMyT01RckNNQmhHNlpySk1VYXJIM2lENGlSSUhVVDBCSjFqODVzRTBnU2FsdElMZVRMUDRHd0RydTM4SG9fSExteGJHZGxCQllvZ3JkR1E5TEFlMFVtdlNfN09pbHhzaG5tRlhkbXVNclkyQ1VYSWx2QWs2elZhcXFWenBLYkdyZGlMZkZpUzJJbXRIeEhIUDRlU0k3b1EwUFMxS2ZuM1hBakI3UXhQQl9jd0lMdzZtcVpNNkozQ0dIclFOSjM4a244TzZjQXNTYXZzQnciLCJpZCI6ImZjXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFpsQmFUV2R3UWtobFpDMXdSMVJwVG1OdmFFOWlSMDV5ZWtFeWVVNVJNVGhpWXpWdlJXWmtTSFp4VEdWV1Z6UkljSEpQVGxGUU56VnFjakZSTjJSUmJqUnVVRFJ1RWhjdGVrRkxXamhFVUVobU5sQjNZbXRRYmtzeVRIRkJNQm9pUVVaWWNrVmpjR1ZYTUhKNlRIUllhMHh5UldKemEwVmlRV041TmsxNllWazVRUSIsImZjdiI6IjMiLCJlaSI6Ii16QUtaOERQSGY2UHdia1BuSzJMcUEwIiwicWMiOiJDZ05sWjJjUUFIMDlfQ3dfIiwicXVlc3Rpb24iOiJJcyA0IGVnZ3MgYSBkYXkgdG9vIG11Y2g%2FIiwibGsiOiJHaGhwY3lBMElHVm5aM01nWVNCa1lYa2dkRzl2SUcxMVkyZyIsImJzIjoiYzMyT01RckNNQmhHNlpySk1VYXJIM2lENGlSSUhVVDBCSjFqODVzRTBnU2FsdElMZVRMUDRHd0RydTM4SG9fSExteGJHZGxCQllvZ3JkR1E5TEFlMFVtdlNfN09pbHhzaG5tRlhkbXVNclkyQ1VYSWx2QWs2elZhcXFWenBLYkdyZGlMZkZpUzJJbXRIeEhIUDRlU0k3b1EwUFMxS2ZuM1hBakI3UXhQQl9jd0lMdzZtcVpNNkozQ0dIclFOSjM4a244TzZjQXNTYXZzQnciLCJpZCI6ImZjXzUifQ%3D%3D"
+    },
+    {
+      "question": "How often should you eat eggs?",
+      "snippet": "Eating one to three eggs per day can have several health benefits, but this varies from person to person. At this level of consumption, people can expect minimal changes in their cholesterol levels. It is unclear whether there is an upper limit on how many eggs a person can eat per day.",
+      "title": "How many eggs can you eat per week? - MedicalNewsToday",
+      "link": "https://www.medicalnewstoday.com/articles/323001#:~:text=Eating%20one%20to%20three%20eggs,person%20can%20eat%20per%20day.",
+      "displayed_link": "https://www.medicalnewstoday.com \u203a articles",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEHmBtZymiJHJagCktMa4-TTdHAI8QcxJ_guBY0aPiMQ&s",
+      "source_logo": "https://serpapi.com/searches/670a30f906f4f295164230ff/images/fdaab981bc94fb03138dbd25de1980225aed2189502461f00df54228a00b96c8.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFpsQmFUV2R3UWtobFpDMXdSMVJwVG1OdmFFOWlSMDV5ZWtFeWVVNVJNVGhpWXpWdlJXWmtTSFp4VEdWV1Z6UkljSEpQVGxGUU56VnFjakZSTjJSUmJqUnVVRFJ1RWhjdGVrRkxXamhFVUVobU5sQjNZbXRRYmtzeVRIRkJNQm9pUVVaWWNrVmpjR1ZYTUhKNlRIUllhMHh5UldKemEwVmlRV041TmsxNllWazVRUSIsImZjdiI6IjMiLCJlaSI6Ii16QUtaOERQSGY2UHdia1BuSzJMcUEwIiwicWMiOiJDZ05sWjJjUUFIMDlfQ3dfIiwicXVlc3Rpb24iOiJIb3cgb2Z0ZW4gc2hvdWxkIHlvdSBlYXQgZWdncz8iLCJsayI6IkdoMW9iM2NnYjJaMFpXNGdjMmh2ZFd4a0lIbHZkU0JsWVhRZ1pXZG5jdyIsImJzIjoiYzMyT01RckNNQmhHNlpySk1VYXJIM2lENGlSSUhVVDBCSjFqODVzRTBnU2FsdElMZVRMUDRHd0RydTM4SG9fSExteGJHZGxCQllvZ3JkR1E5TEFlMFVtdlNfN09pbHhzaG5tRlhkbXVNclkyQ1VYSWx2QWs2elZhcXFWenBLYkdyZGlMZkZpUzJJbXRIeEhIUDRlU0k3b1EwUFMxS2ZuM1hBakI3UXhQQl9jd0lMdzZtcVpNNkozQ0dIclFOSjM4a244TzZjQXNTYXZzQnciLCJpZCI6ImZjXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFpsQmFUV2R3UWtobFpDMXdSMVJwVG1OdmFFOWlSMDV5ZWtFeWVVNVJNVGhpWXpWdlJXWmtTSFp4VEdWV1Z6UkljSEpQVGxGUU56VnFjakZSTjJSUmJqUnVVRFJ1RWhjdGVrRkxXamhFVUVobU5sQjNZbXRRYmtzeVRIRkJNQm9pUVVaWWNrVmpjR1ZYTUhKNlRIUllhMHh5UldKemEwVmlRV041TmsxNllWazVRUSIsImZjdiI6IjMiLCJlaSI6Ii16QUtaOERQSGY2UHdia1BuSzJMcUEwIiwicWMiOiJDZ05sWjJjUUFIMDlfQ3dfIiwicXVlc3Rpb24iOiJIb3cgb2Z0ZW4gc2hvdWxkIHlvdSBlYXQgZWdncz8iLCJsayI6IkdoMW9iM2NnYjJaMFpXNGdjMmh2ZFd4a0lIbHZkU0JsWVhRZ1pXZG5jdyIsImJzIjoiYzMyT01RckNNQmhHNlpySk1VYXJIM2lENGlSSUhVVDBCSjFqODVzRTBnU2FsdElMZVRMUDRHd0RydTM4SG9fSExteGJHZGxCQllvZ3JkR1E5TEFlMFVtdlNfN09pbHhzaG5tRlhkbXVNclkyQ1VYSWx2QWs2elZhcXFWenBLYkdyZGlMZkZpUzJJbXRIeEhIUDRlU0k3b1EwUFMxS2ZuM1hBakI3UXhQQl9jd0lMdzZtcVpNNkozQ0dIclFOSjM4a244TzZjQXNTYXZzQnciLCJpZCI6ImZjXzUifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Egg | Definition, Characteristics, & Nutritional Content",
+      "link": "https://www.britannica.com/topic/egg-food",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.britannica.com/topic/egg-food&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQFnoECBQQAQ",
+      "displayed_link": "https://www.britannica.com \u203a ... \u203a Food",
+      "thumbnail": "https://serpapi.com/searches/670a30f906f4f295164230ff/images/2e89b3b86fc3039379d8832c45b226970d7dd97542698bee8e8aebe84de36991.jpeg",
+      "favicon": "https://serpapi.com/searches/670a30f906f4f295164230ff/images/2e89b3b86fc3039379d8832c45b226977a8796de19fe17092a36c33d89e96389.png",
+      "date": "Oct 4, 2024",
+      "snippet": "Egg, the content of the hard-shelled reproductive body produced by a bird, considered as food. While the primary role of the egg is to ...",
+      "snippet_highlighted_words": [
+        "Egg",
+        "egg"
+      ],
+      "source": "Britannica"
+    },
+    {
+      "position": 2,
+      "title": "Egg",
+      "link": "https://en.wikipedia.org/wiki/Egg",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Egg&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQFnoECC4QAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Egg",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmc5g_pMhIBiHU6VmJ2vCe2uB4hnk4NAQCim1UIkR_beWV4vfX0Rq1&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30f906f4f295164230ff/images/2e89b3b86fc3039379d8832c45b226976060c29b1d4bd1e214d5cacf28e6424d.png",
+      "snippet": "An egg is an organic vessel grown by an animal to carry a possibly fertilized egg cell (a zygote) and to incubate from it an embryo within the egg until the ...",
+      "snippet_highlighted_words": [
+        "egg",
+        "egg",
+        "egg"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "As food",
+            "link": "https://en.wikipedia.org/wiki/Eggs_as_food"
+          },
+          {
+            "title": "Egg cell",
+            "link": "https://en.wikipedia.org/wiki/Egg_cell"
+          },
+          {
+            "title": "Bird egg",
+            "link": "https://en.wikipedia.org/wiki/Bird_egg"
+          },
+          {
+            "title": "Egg (disambiguation)",
+            "link": "https://en.wikipedia.org/wiki/Egg_(disambiguation)"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 3,
+      "title": "Egg Definition & Meaning",
+      "link": "https://www.merriam-webster.com/dictionary/egg",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.merriam-webster.com/dictionary/egg&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQFnoECDEQAQ",
+      "displayed_link": "https://www.merriam-webster.com \u203a dictionary \u203a egg",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbpqn7cjTiHzzCu7dokTtVpt1uNeqgpG5-IxtWmFAhrUooqmB1Pq3g&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30f906f4f295164230ff/images/2e89b3b86fc3039379d8832c45b22697077ed432a22631f742e73b055790c5b0.png",
+      "date": "4 days ago",
+      "snippet": "The meaning of EGG is the hard-shelled reproductive body produced by a bird and especially by the common domestic chicken; ...",
+      "snippet_highlighted_words": [
+        "EGG"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Egged on",
+            "link": "https://www.merriam-webster.com/dictionary/egg%20on"
+          },
+          {
+            "title": "Chicken-and-egg",
+            "link": "https://www.merriam-webster.com/dictionary/chicken-and-egg"
+          },
+          {
+            "title": "Goose egg",
+            "link": "https://www.merriam-webster.com/dictionary/goose%20egg"
+          },
+          {
+            "title": "Bad egg",
+            "link": "https://www.merriam-webster.com/dictionary/bad%20egg"
+          }
+        ]
+      },
+      "source": "Merriam-Webster"
+    },
+    {
+      "position": 4,
+      "title": "Egg Composition | The Incredible Egg",
+      "link": "https://www.incredibleegg.org/professionals/foodservice/eggs-egg-products/egg-composition-nutrition/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.incredibleegg.org/professionals/foodservice/eggs-egg-products/egg-composition-nutrition/&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQFnoECC0QAQ",
+      "displayed_link": "https://www.incredibleegg.org \u203a eggs-egg-products \u203a e...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3tdnfZpWKjf-GND3XtHsWphNPIWhnPT53zVIlmVvo_wR-Q1iPXy1S&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30f906f4f295164230ff/images/2e89b3b86fc3039379d8832c45b226978430a5447afa621636247239e011c708.png",
+      "snippet": "Eggs are a naturally nutrient-rich food, containing eight essential nutrients. Eggs provide an excellent source of vitamin B12, biotin (B7), iodine, selenium, ...",
+      "snippet_highlighted_words": [
+        "Eggs",
+        "Eggs"
+      ],
+      "source": "American Egg Board"
+    },
+    {
+      "position": 5,
+      "title": "Egg",
+      "link": "https://www.eggrehoboth.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.eggrehoboth.com/&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQFnoECDAQAQ",
+      "displayed_link": "https://www.eggrehoboth.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_iqKtTmtqqF4JDk6NeuAhHHCj-9vqYKYLoUJTM9LNNgV9aYZSZWXN&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30f906f4f295164230ff/images/2e89b3b86fc3039379d8832c45b2269714f82f6ba1b47e5fd461cf56a854f2a7.png",
+      "snippet": "Breakfast, Lunch & More...Unique breakfast & brunch spot in downtown Rehoboth Beach, DE.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Menu",
+            "link": "https://www.eggrehoboth.com/menu"
+          },
+          {
+            "title": "Contact",
+            "link": "https://www.eggrehoboth.com/contact"
+          },
+          {
+            "title": "Drinks",
+            "link": "https://www.eggrehoboth.com/drinks"
+          }
+        ]
+      },
+      "source": "eggrehoboth.com"
+    },
+    {
+      "position": 6,
+      "title": "American Egg Board: Home",
+      "link": "https://www.incredibleegg.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.incredibleegg.org/&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQFnoECC8QAQ",
+      "displayed_link": "https://www.incredibleegg.org",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLSJk8F606yMiDhpY-CYLpBB7ziaF864dETQd2e2yD3ODTsZJr4nUk&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30f906f4f295164230ff/images/2e89b3b86fc3039379d8832c45b226979582679b57055aae0da04269796df1ab.png",
+      "snippet": "American Egg Board is dedicated to educating people about the benefits of eggs, including nutritional value, recipe versatility, and how eating eggs can ...",
+      "snippet_highlighted_words": [
+        "Egg",
+        "eggs",
+        "eggs"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Egg Composition & Nutrition",
+            "link": "https://www.incredibleegg.org/professionals/foodservice/eggs-egg-products/egg-composition-nutrition/"
+          },
+          {
+            "title": "Egg Nutrition",
+            "link": "https://www.incredibleegg.org/professionals/colleges-universities/egg-nutrition/"
+          },
+          {
+            "title": "Cooking School",
+            "link": "https://www.incredibleegg.org/recipes/cooking-school/"
+          },
+          {
+            "title": "Egg Types",
+            "link": "https://www.incredibleegg.org/professionals/foodservice/eggs-egg-products/egg-types/"
+          }
+        ]
+      },
+      "source": "American Egg Board"
+    },
+    {
+      "position": 7,
+      "title": "Eggs Recalled After 65 People Across Nine States Report ...",
+      "link": "https://www.foodnetwork.com/fn-dish/news/milos-poultry-farm-egg-recall-salmonella-september-2024",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.foodnetwork.com/fn-dish/news/milos-poultry-farm-egg-recall-salmonella-september-2024&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQFnoECCwQAQ",
+      "displayed_link": "https://www.foodnetwork.com \u203a FN Dish \u203a News",
+      "favicon": "https://serpapi.com/searches/670a30f906f4f295164230ff/images/2e89b3b86fc3039379d8832c45b226970eb65a528cf419304683251c0e8bb68b.png",
+      "date": "Sep 11, 2024",
+      "snippet": "The recalled eggs include all types of chicken eggs supplied by Milo's Poultry Farms: conventional cage-free, organic and non-GMO chicken eggs.",
+      "snippet_highlighted_words": [
+        "eggs",
+        "eggs",
+        "eggs"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "TikTok Is Obsessed With Egg...",
+            "link": "https://www.foodnetwork.com/fn-dish/news/tiktok-egg-flights-healthy"
+          },
+          {
+            "title": "How A Food Safety Expert...",
+            "link": "https://www.foodnetwork.com/healthyeats/healthy-tips/how-food-safety-expert-cleans-kitchen"
+          }
+        ]
+      },
+      "source": "Food Network"
+    }
+  ],
+  "filters": [
+    {
+      "name": "Nutrition facts",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dvT1XWsjT4yz1anB_zSpXvDDxhGiyqa-yoJFMWkn69XiwBuFKaxeGmFtaOsBNzkxk_qrs6rK8OV5CtlpxJTbNd2xzyDtXKvPPSkCVcYtDHZSK43N_EpZxW1_tFrMFuvxCp0JoEJsR1iRn8zxpu9L3rlp5Rco",
+        "q": "Egg nutrition facts"
+      },
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Egg+nutrition+facts&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dvT1XWsjT4yz1anB_zSpXvDDxhGiyqa-yoJFMWkn69XiwBuFKaxeGmFtaOsBNzkxk_qrs6rK8OV5CtlpxJTbNd2xzyDtXKvPPSkCVcYtDHZSK43N_EpZxW1_tFrMFuvxCp0JoEJsR1iRn8zxpu9L3rlp5Rco&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQxKsJegQIIxAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Egg+nutrition+facts&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dvT1XWsjT4yz1anB_zSpXvDDxhGiyqa-yoJFMWkn69XiwBuFKaxeGmFtaOsBNzkxk_qrs6rK8OV5CtlpxJTbNd2xzyDtXKvPPSkCVcYtDHZSK43N_EpZxW1_tFrMFuvxCp0JoEJsR1iRn8zxpu9L3rlp5Rco"
+    },
+    {
+      "name": "Recipes",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7daGtYstpXpxPF1kru9OHbjtwcfr0xehRy2nvutvP7cUQB58hbQ23-qLN2SBufbY0cYgpAy-Zzk63jRwcgJwgW7k7KCNteJsfkOGBHFYT2ajMZIcAYp2b7oQcZ3S8kizD8q8R57w",
+        "q": "Egg recipes"
+      },
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Egg+recipes&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7daGtYstpXpxPF1kru9OHbjtwcfr0xehRy2nvutvP7cUQB58hbQ23-qLN2SBufbY0cYgpAy-Zzk63jRwcgJwgW7k7KCNteJsfkOGBHFYT2ajMZIcAYp2b7oQcZ3S8kizD8q8R57w&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQxKsJegQIJBAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Egg+recipes&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7daGtYstpXpxPF1kru9OHbjtwcfr0xehRy2nvutvP7cUQB58hbQ23-qLN2SBufbY0cYgpAy-Zzk63jRwcgJwgW7k7KCNteJsfkOGBHFYT2ajMZIcAYp2b7oQcZ3S8kizD8q8R57w"
+    },
+    {
+      "name": "Cuisine",
+      "options": [
+        {
+          "name": "Any cuisine"
+        },
+        {
+          "name": "American",
+          "parameters": {
+            "uds": "ADvngMi6GPT5RIbKiEOGsFkp01Y_L0Bgwvq_vTm4-KdyqKzDHQB1-7AsR0nDpoA4Co1ATlSd8xpWy5KJdl-SHeH-ey35kspIQWpNyNN6q6e5aH62oozrmGv2va6OHaQJXaHcODS1qbHXk238f3nk4e8HPVwb4cRspVZfRDX-FdmUZ8xQZV1lcZJ8JAJ9gBZO6fT3nZ9tD4tzi6_xQh0b2AlzAHKMqdnfW8BHjjOp5XtwTiDfgqmfFuSeDAxxDaPegUbdmk79Mq3MTW13FMH9jPVga_HjyZ7VeZVhzjp6v05MgGv_5qwcYZCezI61XNsg4MyH3ePerZKRbEt1LZZ9y3H928mFitEDn3QTsdMlGjyNWNxmpooqekocq0yxo7cxsPrk3zW-Y9Ae3Ytm0f7dReZ26vFdoRMYRJmXZN035uPzvi1dVNTFmt4GDnU3eNx-wvSwXbCHgaPkkGwqpNwe9VI1dKq59QcnEQ9UbJx422KBedPZEkYurV3muv9JbAmVmAj8UkrBH7NAVTFbw4nBA-Fd4CYwz3uPQHtLiGZ6lpeM8OrA4EeZmeHDMvEjVs78SF-sVjwpPkLfmSXgRPJnQdlqmpaeYNKBUVgwlAHZMbAIw9trcj1l2IEBUn_euTzATxBU6WJGOgSehOKMhT5RqwWFwXkktnCbV0lAs4JWykIlYxhdV_7EF15C9SD7Ha1mrz8nIDkoZj5kt3p7zLhn5puv3fc7hPxUDHi_gXJZX5I4OsWcGwBfqb4",
+            "q": "american egg"
+          },
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=american+egg&uds=ADvngMi6GPT5RIbKiEOGsFkp01Y_L0Bgwvq_vTm4-KdyqKzDHQB1-7AsR0nDpoA4Co1ATlSd8xpWy5KJdl-SHeH-ey35kspIQWpNyNN6q6e5aH62oozrmGv2va6OHaQJXaHcODS1qbHXk238f3nk4e8HPVwb4cRspVZfRDX-FdmUZ8xQZV1lcZJ8JAJ9gBZO6fT3nZ9tD4tzi6_xQh0b2AlzAHKMqdnfW8BHjjOp5XtwTiDfgqmfFuSeDAxxDaPegUbdmk79Mq3MTW13FMH9jPVga_HjyZ7VeZVhzjp6v05MgGv_5qwcYZCezI61XNsg4MyH3ePerZKRbEt1LZZ9y3H928mFitEDn3QTsdMlGjyNWNxmpooqekocq0yxo7cxsPrk3zW-Y9Ae3Ytm0f7dReZ26vFdoRMYRJmXZN035uPzvi1dVNTFmt4GDnU3eNx-wvSwXbCHgaPkkGwqpNwe9VI1dKq59QcnEQ9UbJx422KBedPZEkYurV3muv9JbAmVmAj8UkrBH7NAVTFbw4nBA-Fd4CYwz3uPQHtLiGZ6lpeM8OrA4EeZmeHDMvEjVs78SF-sVjwpPkLfmSXgRPJnQdlqmpaeYNKBUVgwlAHZMbAIw9trcj1l2IEBUn_euTzATxBU6WJGOgSehOKMhT5RqwWFwXkktnCbV0lAs4JWykIlYxhdV_7EF15C9SD7Ha1mrz8nIDkoZj5kt3p7zLhn5puv3fc7hPxUDHi_gXJZX5I4OsWcGwBfqb4&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQkbEKegQIHhAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=american+egg&uds=ADvngMi6GPT5RIbKiEOGsFkp01Y_L0Bgwvq_vTm4-KdyqKzDHQB1-7AsR0nDpoA4Co1ATlSd8xpWy5KJdl-SHeH-ey35kspIQWpNyNN6q6e5aH62oozrmGv2va6OHaQJXaHcODS1qbHXk238f3nk4e8HPVwb4cRspVZfRDX-FdmUZ8xQZV1lcZJ8JAJ9gBZO6fT3nZ9tD4tzi6_xQh0b2AlzAHKMqdnfW8BHjjOp5XtwTiDfgqmfFuSeDAxxDaPegUbdmk79Mq3MTW13FMH9jPVga_HjyZ7VeZVhzjp6v05MgGv_5qwcYZCezI61XNsg4MyH3ePerZKRbEt1LZZ9y3H928mFitEDn3QTsdMlGjyNWNxmpooqekocq0yxo7cxsPrk3zW-Y9Ae3Ytm0f7dReZ26vFdoRMYRJmXZN035uPzvi1dVNTFmt4GDnU3eNx-wvSwXbCHgaPkkGwqpNwe9VI1dKq59QcnEQ9UbJx422KBedPZEkYurV3muv9JbAmVmAj8UkrBH7NAVTFbw4nBA-Fd4CYwz3uPQHtLiGZ6lpeM8OrA4EeZmeHDMvEjVs78SF-sVjwpPkLfmSXgRPJnQdlqmpaeYNKBUVgwlAHZMbAIw9trcj1l2IEBUn_euTzATxBU6WJGOgSehOKMhT5RqwWFwXkktnCbV0lAs4JWykIlYxhdV_7EF15C9SD7Ha1mrz8nIDkoZj5kt3p7zLhn5puv3fc7hPxUDHi_gXJZX5I4OsWcGwBfqb4"
+        },
+        {
+          "name": "Barbecue",
+          "parameters": {
+            "uds": "ADvngMi6GPT5RIbKiEOGsFkp01Y_xCz6ErjLw3OCg3IFKT0uI74D-ng-r5bfkV_xWpGF1Jjkx9ViKOaYO3KG5NL8OMpU9R-We6q1ftwiCBEZj-FMuT_3Jqrp20yvlBOvkaK6BGx_R2o2sYS_NM_xbH-NH4THLvBPvwPISC0NvAKF0KERcSUdmzCEOhCzCH2mUvvf3aMLauYt9V0PG_0CxqHffTcfMlXmw19CtYdtCwnbwA-LyZFzpuC4GptJaRD9PtlZIiZ1TX02D0MlGj0t_0HJJImasUpOm56WBh-RqLhxzzk97e6AgFkPLyYWJMePnkuke4LG2LBoDfLJmblIWIziVW-sbB99vkTrLUr5i4sP7ON95-lVDa4im4lH5wSgPeK1jnksVxhf1NHGjnzIlS_qNiCUd78CeGhR2VZ6b3y3LElM1TOy1t87VU1OG3JpyQ15U8fI5Yi0qSa9hKxIhkC8IGFv28VV9R04YImd8IVQKMI0r1LeXXgqnkejJ8kwFp4q-qDqcKwTWK4WPZyYDpBxZflsMEyD2ZsKvkmfUY6D4Yn5tinqWtgTNZ0YK5S-sqfALCvWtOqIJFicExwAtISZd_U6oqqmkeGWHqzROb_QCBOSrH-OHEXxpvz2OOKBcPHqbTI0SR14UfQNFhSfrRGevmLVJ0hAtOgQ-nzvje--sCuMI16kZsd-HTCIBrJjoy0JquQF6DtI4EZ0EpsENM2bC7g7-XqhZ1vPiUW-VoQCHSdWLvRi27g",
+            "q": "barbecue egg"
+          },
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=barbecue+egg&uds=ADvngMi6GPT5RIbKiEOGsFkp01Y_xCz6ErjLw3OCg3IFKT0uI74D-ng-r5bfkV_xWpGF1Jjkx9ViKOaYO3KG5NL8OMpU9R-We6q1ftwiCBEZj-FMuT_3Jqrp20yvlBOvkaK6BGx_R2o2sYS_NM_xbH-NH4THLvBPvwPISC0NvAKF0KERcSUdmzCEOhCzCH2mUvvf3aMLauYt9V0PG_0CxqHffTcfMlXmw19CtYdtCwnbwA-LyZFzpuC4GptJaRD9PtlZIiZ1TX02D0MlGj0t_0HJJImasUpOm56WBh-RqLhxzzk97e6AgFkPLyYWJMePnkuke4LG2LBoDfLJmblIWIziVW-sbB99vkTrLUr5i4sP7ON95-lVDa4im4lH5wSgPeK1jnksVxhf1NHGjnzIlS_qNiCUd78CeGhR2VZ6b3y3LElM1TOy1t87VU1OG3JpyQ15U8fI5Yi0qSa9hKxIhkC8IGFv28VV9R04YImd8IVQKMI0r1LeXXgqnkejJ8kwFp4q-qDqcKwTWK4WPZyYDpBxZflsMEyD2ZsKvkmfUY6D4Yn5tinqWtgTNZ0YK5S-sqfALCvWtOqIJFicExwAtISZd_U6oqqmkeGWHqzROb_QCBOSrH-OHEXxpvz2OOKBcPHqbTI0SR14UfQNFhSfrRGevmLVJ0hAtOgQ-nzvje--sCuMI16kZsd-HTCIBrJjoy0JquQF6DtI4EZ0EpsENM2bC7g7-XqhZ1vPiUW-VoQCHSdWLvRi27g&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQkbEKegQIHhAF",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=barbecue+egg&uds=ADvngMi6GPT5RIbKiEOGsFkp01Y_xCz6ErjLw3OCg3IFKT0uI74D-ng-r5bfkV_xWpGF1Jjkx9ViKOaYO3KG5NL8OMpU9R-We6q1ftwiCBEZj-FMuT_3Jqrp20yvlBOvkaK6BGx_R2o2sYS_NM_xbH-NH4THLvBPvwPISC0NvAKF0KERcSUdmzCEOhCzCH2mUvvf3aMLauYt9V0PG_0CxqHffTcfMlXmw19CtYdtCwnbwA-LyZFzpuC4GptJaRD9PtlZIiZ1TX02D0MlGj0t_0HJJImasUpOm56WBh-RqLhxzzk97e6AgFkPLyYWJMePnkuke4LG2LBoDfLJmblIWIziVW-sbB99vkTrLUr5i4sP7ON95-lVDa4im4lH5wSgPeK1jnksVxhf1NHGjnzIlS_qNiCUd78CeGhR2VZ6b3y3LElM1TOy1t87VU1OG3JpyQ15U8fI5Yi0qSa9hKxIhkC8IGFv28VV9R04YImd8IVQKMI0r1LeXXgqnkejJ8kwFp4q-qDqcKwTWK4WPZyYDpBxZflsMEyD2ZsKvkmfUY6D4Yn5tinqWtgTNZ0YK5S-sqfALCvWtOqIJFicExwAtISZd_U6oqqmkeGWHqzROb_QCBOSrH-OHEXxpvz2OOKBcPHqbTI0SR14UfQNFhSfrRGevmLVJ0hAtOgQ-nzvje--sCuMI16kZsd-HTCIBrJjoy0JquQF6DtI4EZ0EpsENM2bC7g7-XqhZ1vPiUW-VoQCHSdWLvRi27g"
+        },
+        {
+          "name": "Chinese",
+          "parameters": {
+            "uds": "ADvngMinEtdycUKS8byTcEUdynlrl79cLWB5DMsoHreuENmujSf9KsnO7j29xlm1Di8wIcLwaGlUqi3Hxh5ciw8KTjH_hTr4PAs_5_7PdECCs7I1ll7B0FuSq4C2dljR872EJB4CC6EbmVwkGYWO8ooxnmSFsOY59ndc7lfelrk52ul_A2Bw4dWDB1nmTHfxoQCll4lWjphUuxKtc11zhlDu9MwZQWqIE8b5vRnjcFxnp2VLxTJHJ1HmMG0-TW70w8zWL2FMp_b5yA88kF2iBVFSbBTgXWjl8osGGeWRt2GyrR1LgEMa8rTMjVirgaqA00R5Bw6y-bQIol8VSaqH7TlTblexfJvRk0kGO_yS35U-k8HPoZCMWpVB0kNYwsGdlG8v0xdZudlkrR5wJxjKmYYjtTDHtCnrR46erYuP4CvMnxG4SVtIBiZFIRSbfd4nPIfnVBPY3s5_NQfZvgdKOut96SwoQrdRyNZTrjuD0RoqOxzhFeBkgJ8T7NVAvpCzNd54fSqnyuHbECvf9kD9YON8NwUV4_c0lUYg96Cw3EGTe5Cv5SdQumdAg2nd6MnMLeKnzRJ2hrV7_xoLzQCXvaT0J2Us9FWk-Lvuk4wAN3t4gJ34k0zbLIqFVrlQ__pn6AnbYlZ7obQGoHkaW9n3zDG3EqtJGhJTuSSffAoRe0uuTJzN3cybFPNMpVJbyoAzLfgvrOAvtUnAl1o1wMpE17ED4JzSYJw13BdWGey4LsrQ4D8u3eYiYk8",
+            "q": "chinese egg"
+          },
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=chinese+egg&uds=ADvngMinEtdycUKS8byTcEUdynlrl79cLWB5DMsoHreuENmujSf9KsnO7j29xlm1Di8wIcLwaGlUqi3Hxh5ciw8KTjH_hTr4PAs_5_7PdECCs7I1ll7B0FuSq4C2dljR872EJB4CC6EbmVwkGYWO8ooxnmSFsOY59ndc7lfelrk52ul_A2Bw4dWDB1nmTHfxoQCll4lWjphUuxKtc11zhlDu9MwZQWqIE8b5vRnjcFxnp2VLxTJHJ1HmMG0-TW70w8zWL2FMp_b5yA88kF2iBVFSbBTgXWjl8osGGeWRt2GyrR1LgEMa8rTMjVirgaqA00R5Bw6y-bQIol8VSaqH7TlTblexfJvRk0kGO_yS35U-k8HPoZCMWpVB0kNYwsGdlG8v0xdZudlkrR5wJxjKmYYjtTDHtCnrR46erYuP4CvMnxG4SVtIBiZFIRSbfd4nPIfnVBPY3s5_NQfZvgdKOut96SwoQrdRyNZTrjuD0RoqOxzhFeBkgJ8T7NVAvpCzNd54fSqnyuHbECvf9kD9YON8NwUV4_c0lUYg96Cw3EGTe5Cv5SdQumdAg2nd6MnMLeKnzRJ2hrV7_xoLzQCXvaT0J2Us9FWk-Lvuk4wAN3t4gJ34k0zbLIqFVrlQ__pn6AnbYlZ7obQGoHkaW9n3zDG3EqtJGhJTuSSffAoRe0uuTJzN3cybFPNMpVJbyoAzLfgvrOAvtUnAl1o1wMpE17ED4JzSYJw13BdWGey4LsrQ4D8u3eYiYk8&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQkbEKegQIHhAG",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=chinese+egg&uds=ADvngMinEtdycUKS8byTcEUdynlrl79cLWB5DMsoHreuENmujSf9KsnO7j29xlm1Di8wIcLwaGlUqi3Hxh5ciw8KTjH_hTr4PAs_5_7PdECCs7I1ll7B0FuSq4C2dljR872EJB4CC6EbmVwkGYWO8ooxnmSFsOY59ndc7lfelrk52ul_A2Bw4dWDB1nmTHfxoQCll4lWjphUuxKtc11zhlDu9MwZQWqIE8b5vRnjcFxnp2VLxTJHJ1HmMG0-TW70w8zWL2FMp_b5yA88kF2iBVFSbBTgXWjl8osGGeWRt2GyrR1LgEMa8rTMjVirgaqA00R5Bw6y-bQIol8VSaqH7TlTblexfJvRk0kGO_yS35U-k8HPoZCMWpVB0kNYwsGdlG8v0xdZudlkrR5wJxjKmYYjtTDHtCnrR46erYuP4CvMnxG4SVtIBiZFIRSbfd4nPIfnVBPY3s5_NQfZvgdKOut96SwoQrdRyNZTrjuD0RoqOxzhFeBkgJ8T7NVAvpCzNd54fSqnyuHbECvf9kD9YON8NwUV4_c0lUYg96Cw3EGTe5Cv5SdQumdAg2nd6MnMLeKnzRJ2hrV7_xoLzQCXvaT0J2Us9FWk-Lvuk4wAN3t4gJ34k0zbLIqFVrlQ__pn6AnbYlZ7obQGoHkaW9n3zDG3EqtJGhJTuSSffAoRe0uuTJzN3cybFPNMpVJbyoAzLfgvrOAvtUnAl1o1wMpE17ED4JzSYJw13BdWGey4LsrQ4D8u3eYiYk8"
+        },
+        {
+          "name": "French",
+          "parameters": {
+            "uds": "ADvngMi6GPT5RIbKiEOGsFkp01Y_L0Bgwvq_vTm4-KdyqKzDHTaYU2H_FbJ7F6chL212aeBxbRn5E_La05F-IMn7Nf76une7qv0_lAPplnokhCNiuVOmelnAUPcH1e1F-fzeAhqCFGkRQqkrQpKxWaZleZz6A9nwQOxsGg7d0OPpbjvFLzruJ7Ht1N47ca6QTLdwXdWuY90gj5JQt25TM4loAZ4Q4s-0DzOmbHudVAX_nD5c8BWhHJE097sz0cVUyvpMf9vNhkYFAvG0dGVv0mkDKVxyCFzQUPzqyFFisMIO_cr3NBzgJn0NLL_92pdMnWx8pgmP-d0BIR4yT5-H9ksQ-XGoRjNypW0Y2TDz8i9ZngL29d4WrxMHUsNFHTsu73ePOnPNVL-dMhHR3o4M6cQPkI5IYpwViDDLNw5JMpzyXUrXv2Yel8fDOCNygg_BGQgtQb8hmQVxugHXNprPEe5Ji6EYJV0z_5IuHG37mCrTNcOEi9_sdWhQeTfzFglc3qDZbMaRsJSEs6zJ1yiSO7MJdK8Iwh7vmYqeywzPBUOckv0TqpV1IHetsFyqc8_ubLNvCbxH7UMiNVFZyNLgnvn7o9Y7piwJahS_jpmzVJgWQlFGUVM8_lZOpoeybG1IDcPHHYpEg4W-NHkrm0rHp8Hyh7zMVsuASGlYsCCq_cMCU49s4zolT1U94ghTvK_3BXCvmWBBZiJJxcIPf9ZmiXDY_LRVDX-MsvhueaFNqhBMWdWz5g-b3ic",
+            "q": "french egg"
+          },
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=french+egg&uds=ADvngMi6GPT5RIbKiEOGsFkp01Y_L0Bgwvq_vTm4-KdyqKzDHTaYU2H_FbJ7F6chL212aeBxbRn5E_La05F-IMn7Nf76une7qv0_lAPplnokhCNiuVOmelnAUPcH1e1F-fzeAhqCFGkRQqkrQpKxWaZleZz6A9nwQOxsGg7d0OPpbjvFLzruJ7Ht1N47ca6QTLdwXdWuY90gj5JQt25TM4loAZ4Q4s-0DzOmbHudVAX_nD5c8BWhHJE097sz0cVUyvpMf9vNhkYFAvG0dGVv0mkDKVxyCFzQUPzqyFFisMIO_cr3NBzgJn0NLL_92pdMnWx8pgmP-d0BIR4yT5-H9ksQ-XGoRjNypW0Y2TDz8i9ZngL29d4WrxMHUsNFHTsu73ePOnPNVL-dMhHR3o4M6cQPkI5IYpwViDDLNw5JMpzyXUrXv2Yel8fDOCNygg_BGQgtQb8hmQVxugHXNprPEe5Ji6EYJV0z_5IuHG37mCrTNcOEi9_sdWhQeTfzFglc3qDZbMaRsJSEs6zJ1yiSO7MJdK8Iwh7vmYqeywzPBUOckv0TqpV1IHetsFyqc8_ubLNvCbxH7UMiNVFZyNLgnvn7o9Y7piwJahS_jpmzVJgWQlFGUVM8_lZOpoeybG1IDcPHHYpEg4W-NHkrm0rHp8Hyh7zMVsuASGlYsCCq_cMCU49s4zolT1U94ghTvK_3BXCvmWBBZiJJxcIPf9ZmiXDY_LRVDX-MsvhueaFNqhBMWdWz5g-b3ic&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQkbEKegQIHhAH",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=french+egg&uds=ADvngMi6GPT5RIbKiEOGsFkp01Y_L0Bgwvq_vTm4-KdyqKzDHTaYU2H_FbJ7F6chL212aeBxbRn5E_La05F-IMn7Nf76une7qv0_lAPplnokhCNiuVOmelnAUPcH1e1F-fzeAhqCFGkRQqkrQpKxWaZleZz6A9nwQOxsGg7d0OPpbjvFLzruJ7Ht1N47ca6QTLdwXdWuY90gj5JQt25TM4loAZ4Q4s-0DzOmbHudVAX_nD5c8BWhHJE097sz0cVUyvpMf9vNhkYFAvG0dGVv0mkDKVxyCFzQUPzqyFFisMIO_cr3NBzgJn0NLL_92pdMnWx8pgmP-d0BIR4yT5-H9ksQ-XGoRjNypW0Y2TDz8i9ZngL29d4WrxMHUsNFHTsu73ePOnPNVL-dMhHR3o4M6cQPkI5IYpwViDDLNw5JMpzyXUrXv2Yel8fDOCNygg_BGQgtQb8hmQVxugHXNprPEe5Ji6EYJV0z_5IuHG37mCrTNcOEi9_sdWhQeTfzFglc3qDZbMaRsJSEs6zJ1yiSO7MJdK8Iwh7vmYqeywzPBUOckv0TqpV1IHetsFyqc8_ubLNvCbxH7UMiNVFZyNLgnvn7o9Y7piwJahS_jpmzVJgWQlFGUVM8_lZOpoeybG1IDcPHHYpEg4W-NHkrm0rHp8Hyh7zMVsuASGlYsCCq_cMCU49s4zolT1U94ghTvK_3BXCvmWBBZiJJxcIPf9ZmiXDY_LRVDX-MsvhueaFNqhBMWdWz5g-b3ic"
+        },
+        {
+          "name": "Hamburger",
+          "parameters": {
+            "uds": "ADvngMh7-X60explMuNvvHiKlJmRFAJfnQaTzYXT--kZ0BEPTD0R9Czxy3TBPD51I5iQl1yFbBsg_CiqASjhYLpPJopLOFslIVeiDDv2tSDZ0hZYZW123Uw6VuHHzfB6gnoOsxmFX-1zJLc2Oi6UE6F9McNr1cREIXrrVEG168LNydjM37UQN8KtYGsOkKVYGkKSl0AH9NBuYD8M_kKzFwaQvcKfWmCy9EqC8ysJV_-_zkulAIfQfqfTNx6JzgXH9JsIwi1-A5y1tSNXPbIDGQ-hlpf48Q-L3rPpbJs4V0C6cBARPBDuFLVseML_lO1TlxMtPQIAMeiTWA6h7Sw7lXI3qWte64ALxGPrnSi0QTjmZYxGiSlVy8WTaAXTQHGGgX-c8-scAAGpthzL5rvWtpGjwLmSEGbaKe5ulLlZ0sWa76yxDpBvK_-02hZX6UYZAD1WQGWzCxA2ec50tFDLPtcAGxEP91Lkr_BpUalN8xa8kCn9ykE7IPsKiq6q38NMZyAgnRvz1imX-CIMlRhSAqX1srdfuvcwvlBgBOBjZiUOnWI1q_XRcZ2vTduwW9gTA6VxRZlVmjP1UYXvA77R8qx7XeS0jso8nN3IQQ3uYEiJvuxxxYRt4vC7wKkIjaPbCPeXiukH2gWlVdINZUd-_pG7AlXhB6fXzePxL9Io70k7Dhl-ByhtosphG2HvioFMiBR1pPNooq6EH9Y07tIOCPz4T17ZG-NIUpKYiuALcLpW-Fg0DPcJDmM",
+            "q": "hamburger egg"
+          },
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=hamburger+egg&uds=ADvngMh7-X60explMuNvvHiKlJmRFAJfnQaTzYXT--kZ0BEPTD0R9Czxy3TBPD51I5iQl1yFbBsg_CiqASjhYLpPJopLOFslIVeiDDv2tSDZ0hZYZW123Uw6VuHHzfB6gnoOsxmFX-1zJLc2Oi6UE6F9McNr1cREIXrrVEG168LNydjM37UQN8KtYGsOkKVYGkKSl0AH9NBuYD8M_kKzFwaQvcKfWmCy9EqC8ysJV_-_zkulAIfQfqfTNx6JzgXH9JsIwi1-A5y1tSNXPbIDGQ-hlpf48Q-L3rPpbJs4V0C6cBARPBDuFLVseML_lO1TlxMtPQIAMeiTWA6h7Sw7lXI3qWte64ALxGPrnSi0QTjmZYxGiSlVy8WTaAXTQHGGgX-c8-scAAGpthzL5rvWtpGjwLmSEGbaKe5ulLlZ0sWa76yxDpBvK_-02hZX6UYZAD1WQGWzCxA2ec50tFDLPtcAGxEP91Lkr_BpUalN8xa8kCn9ykE7IPsKiq6q38NMZyAgnRvz1imX-CIMlRhSAqX1srdfuvcwvlBgBOBjZiUOnWI1q_XRcZ2vTduwW9gTA6VxRZlVmjP1UYXvA77R8qx7XeS0jso8nN3IQQ3uYEiJvuxxxYRt4vC7wKkIjaPbCPeXiukH2gWlVdINZUd-_pG7AlXhB6fXzePxL9Io70k7Dhl-ByhtosphG2HvioFMiBR1pPNooq6EH9Y07tIOCPz4T17ZG-NIUpKYiuALcLpW-Fg0DPcJDmM&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQkbEKegQIHhAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hamburger+egg&uds=ADvngMh7-X60explMuNvvHiKlJmRFAJfnQaTzYXT--kZ0BEPTD0R9Czxy3TBPD51I5iQl1yFbBsg_CiqASjhYLpPJopLOFslIVeiDDv2tSDZ0hZYZW123Uw6VuHHzfB6gnoOsxmFX-1zJLc2Oi6UE6F9McNr1cREIXrrVEG168LNydjM37UQN8KtYGsOkKVYGkKSl0AH9NBuYD8M_kKzFwaQvcKfWmCy9EqC8ysJV_-_zkulAIfQfqfTNx6JzgXH9JsIwi1-A5y1tSNXPbIDGQ-hlpf48Q-L3rPpbJs4V0C6cBARPBDuFLVseML_lO1TlxMtPQIAMeiTWA6h7Sw7lXI3qWte64ALxGPrnSi0QTjmZYxGiSlVy8WTaAXTQHGGgX-c8-scAAGpthzL5rvWtpGjwLmSEGbaKe5ulLlZ0sWa76yxDpBvK_-02hZX6UYZAD1WQGWzCxA2ec50tFDLPtcAGxEP91Lkr_BpUalN8xa8kCn9ykE7IPsKiq6q38NMZyAgnRvz1imX-CIMlRhSAqX1srdfuvcwvlBgBOBjZiUOnWI1q_XRcZ2vTduwW9gTA6VxRZlVmjP1UYXvA77R8qx7XeS0jso8nN3IQQ3uYEiJvuxxxYRt4vC7wKkIjaPbCPeXiukH2gWlVdINZUd-_pG7AlXhB6fXzePxL9Io70k7Dhl-ByhtosphG2HvioFMiBR1pPNooq6EH9Y07tIOCPz4T17ZG-NIUpKYiuALcLpW-Fg0DPcJDmM"
+        },
+        {
+          "name": "Indian",
+          "parameters": {
+            "uds": "ADvngMi6GPT5RIbKiEOGsFkp01Y_gvR81iqmgGZ2jH72RKcqcmAOgKPAjazooP-HZuzXhXZCq9KXCIkjjFvHdJRLPwTr7X0iY5XnGqWYY8IfYJXBP_1dbTEIg3tKwDwWUwOWUWnI7TKGUHyzaRRYedlG9y6C4cGy3WAnPwKeYTH73AluUo0lrbbS1veFg9IvoKTYmP0kQuyQXQJsc63vEFMisLVW9HvE1xLOplh6fiOUFbGsdsqQmZlGlJD9huQ-hZT_unxN-RcFosk-VdbF4XixzQzvmYuMuui2Retc7jvO0IABwUcGCbn2-n7IQWTY1yawuPNeWR8dIMj46hQwhQveLrTNKDnc2cWEmuYvWQ7FVnYrtI-AFWdk1Gyl8wgsz0twqcWBKhJyAKS_Iom7cpU6mBu8Px_9HKE3xnNQcOm7ZbwN6BpO5smLIhh2Wyk0JULWPTnvJ6n-UWeAJ4q3UzYeDAA78EMFR-3YqF9n7xbhIjExdhzk9iFKrd5Ktx_y1rjsL_N11Swu6FXIJI6f7lCRzxSs9WjrjtDFoWYJ3FxOSsy0sLXAzU1R6TjKemvVC1wq17wkg8fRz4OdsKg6VNhtoREBhvQV3jkh9jHYks7pO0T9vcp8iGGRJAXKpK75ldddnKX-WfcEGEFYmQ54bYzOI74EmYHCG1Nas6AkurlLqVxc--Tyitnjy9XxuYGrny51EnC4Rra0fR_oCqYmUDujBkeZsR-csSb5JXyitDiA1pwC8DK3NSo",
+            "q": "indian egg"
+          },
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=indian+egg&uds=ADvngMi6GPT5RIbKiEOGsFkp01Y_gvR81iqmgGZ2jH72RKcqcmAOgKPAjazooP-HZuzXhXZCq9KXCIkjjFvHdJRLPwTr7X0iY5XnGqWYY8IfYJXBP_1dbTEIg3tKwDwWUwOWUWnI7TKGUHyzaRRYedlG9y6C4cGy3WAnPwKeYTH73AluUo0lrbbS1veFg9IvoKTYmP0kQuyQXQJsc63vEFMisLVW9HvE1xLOplh6fiOUFbGsdsqQmZlGlJD9huQ-hZT_unxN-RcFosk-VdbF4XixzQzvmYuMuui2Retc7jvO0IABwUcGCbn2-n7IQWTY1yawuPNeWR8dIMj46hQwhQveLrTNKDnc2cWEmuYvWQ7FVnYrtI-AFWdk1Gyl8wgsz0twqcWBKhJyAKS_Iom7cpU6mBu8Px_9HKE3xnNQcOm7ZbwN6BpO5smLIhh2Wyk0JULWPTnvJ6n-UWeAJ4q3UzYeDAA78EMFR-3YqF9n7xbhIjExdhzk9iFKrd5Ktx_y1rjsL_N11Swu6FXIJI6f7lCRzxSs9WjrjtDFoWYJ3FxOSsy0sLXAzU1R6TjKemvVC1wq17wkg8fRz4OdsKg6VNhtoREBhvQV3jkh9jHYks7pO0T9vcp8iGGRJAXKpK75ldddnKX-WfcEGEFYmQ54bYzOI74EmYHCG1Nas6AkurlLqVxc--Tyitnjy9XxuYGrny51EnC4Rra0fR_oCqYmUDujBkeZsR-csSb5JXyitDiA1pwC8DK3NSo&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQkbEKegQIHhAJ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=indian+egg&uds=ADvngMi6GPT5RIbKiEOGsFkp01Y_gvR81iqmgGZ2jH72RKcqcmAOgKPAjazooP-HZuzXhXZCq9KXCIkjjFvHdJRLPwTr7X0iY5XnGqWYY8IfYJXBP_1dbTEIg3tKwDwWUwOWUWnI7TKGUHyzaRRYedlG9y6C4cGy3WAnPwKeYTH73AluUo0lrbbS1veFg9IvoKTYmP0kQuyQXQJsc63vEFMisLVW9HvE1xLOplh6fiOUFbGsdsqQmZlGlJD9huQ-hZT_unxN-RcFosk-VdbF4XixzQzvmYuMuui2Retc7jvO0IABwUcGCbn2-n7IQWTY1yawuPNeWR8dIMj46hQwhQveLrTNKDnc2cWEmuYvWQ7FVnYrtI-AFWdk1Gyl8wgsz0twqcWBKhJyAKS_Iom7cpU6mBu8Px_9HKE3xnNQcOm7ZbwN6BpO5smLIhh2Wyk0JULWPTnvJ6n-UWeAJ4q3UzYeDAA78EMFR-3YqF9n7xbhIjExdhzk9iFKrd5Ktx_y1rjsL_N11Swu6FXIJI6f7lCRzxSs9WjrjtDFoWYJ3FxOSsy0sLXAzU1R6TjKemvVC1wq17wkg8fRz4OdsKg6VNhtoREBhvQV3jkh9jHYks7pO0T9vcp8iGGRJAXKpK75ldddnKX-WfcEGEFYmQ54bYzOI74EmYHCG1Nas6AkurlLqVxc--Tyitnjy9XxuYGrny51EnC4Rra0fR_oCqYmUDujBkeZsR-csSb5JXyitDiA1pwC8DK3NSo"
+        },
+        {
+          "name": "Italian",
+          "parameters": {
+            "uds": "ADvngMh7-X60explMuNvvHiKlJmRvyjwKq-eBoSEe_bxA2Hw7fynf5o9kiLIrsZY7ispKTrEDdXrPv9-WokGyTnyJPSH2GH8LVTCLkm1kxFfq63tdT5HqEry6re722NflxWW65_9pTt70oF-KZcNIc0iDqqp4PoTyiDa4VmWl0Yp1w-l7bJikgnSvoM0FmhrZgw2YRP-yjAhs4J4is6Ppyc8-n0ejbtzDkOVDhIO5FDVQ4x3y7vzYQCi2JSMQMKzjSWx_EZLsa7YA3GFMNi4eCM5BLLwUwL7DRs5OtlP5m-BN17YisFGtpQjyXL4uK4q4BpcuebPaM_mzxhTOttsRJQvHENoqwOzeKfGILW6l9plvuTJ5SFdpXB2zh33PXZ4pZObaJMU9YTfRoX-LDBHnIVDBWHNnRb9BHY6UC3K-RbYyWeGKzkJ9Ge6J4JoVvlfog3Kl9rmICAQ9U5RvXBVYnJoNY_d9py4XhX0UDz5CZ6hUJC4N_VI1m19Kog38H5gU2__p6zvBb9b_OGikHOVQVukqmXfVSLUzw6w7LiZKmQ6ZfBCmHkHSQfOEi_TLaXP4cV-N-IPPzxnPFI1iWeu5qqfrSHvY34jiHYx6_A2PmufxQf57gza2q1Y1wPraCpqVx1TJn8_r9fX8K4r-5bhqHBJgyOZ4bBmkkhyBvFv9B_qr77_MKbnlILjZJcwROhY1ri0UMMoRWAgt-dvBcHnGWbWN6CFHuxqXU0U8PtfcrNIrzID1KLWOOA",
+            "q": "italian egg"
+          },
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=italian+egg&uds=ADvngMh7-X60explMuNvvHiKlJmRvyjwKq-eBoSEe_bxA2Hw7fynf5o9kiLIrsZY7ispKTrEDdXrPv9-WokGyTnyJPSH2GH8LVTCLkm1kxFfq63tdT5HqEry6re722NflxWW65_9pTt70oF-KZcNIc0iDqqp4PoTyiDa4VmWl0Yp1w-l7bJikgnSvoM0FmhrZgw2YRP-yjAhs4J4is6Ppyc8-n0ejbtzDkOVDhIO5FDVQ4x3y7vzYQCi2JSMQMKzjSWx_EZLsa7YA3GFMNi4eCM5BLLwUwL7DRs5OtlP5m-BN17YisFGtpQjyXL4uK4q4BpcuebPaM_mzxhTOttsRJQvHENoqwOzeKfGILW6l9plvuTJ5SFdpXB2zh33PXZ4pZObaJMU9YTfRoX-LDBHnIVDBWHNnRb9BHY6UC3K-RbYyWeGKzkJ9Ge6J4JoVvlfog3Kl9rmICAQ9U5RvXBVYnJoNY_d9py4XhX0UDz5CZ6hUJC4N_VI1m19Kog38H5gU2__p6zvBb9b_OGikHOVQVukqmXfVSLUzw6w7LiZKmQ6ZfBCmHkHSQfOEi_TLaXP4cV-N-IPPzxnPFI1iWeu5qqfrSHvY34jiHYx6_A2PmufxQf57gza2q1Y1wPraCpqVx1TJn8_r9fX8K4r-5bhqHBJgyOZ4bBmkkhyBvFv9B_qr77_MKbnlILjZJcwROhY1ri0UMMoRWAgt-dvBcHnGWbWN6CFHuxqXU0U8PtfcrNIrzID1KLWOOA&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQkbEKegQIHhAK",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=italian+egg&uds=ADvngMh7-X60explMuNvvHiKlJmRvyjwKq-eBoSEe_bxA2Hw7fynf5o9kiLIrsZY7ispKTrEDdXrPv9-WokGyTnyJPSH2GH8LVTCLkm1kxFfq63tdT5HqEry6re722NflxWW65_9pTt70oF-KZcNIc0iDqqp4PoTyiDa4VmWl0Yp1w-l7bJikgnSvoM0FmhrZgw2YRP-yjAhs4J4is6Ppyc8-n0ejbtzDkOVDhIO5FDVQ4x3y7vzYQCi2JSMQMKzjSWx_EZLsa7YA3GFMNi4eCM5BLLwUwL7DRs5OtlP5m-BN17YisFGtpQjyXL4uK4q4BpcuebPaM_mzxhTOttsRJQvHENoqwOzeKfGILW6l9plvuTJ5SFdpXB2zh33PXZ4pZObaJMU9YTfRoX-LDBHnIVDBWHNnRb9BHY6UC3K-RbYyWeGKzkJ9Ge6J4JoVvlfog3Kl9rmICAQ9U5RvXBVYnJoNY_d9py4XhX0UDz5CZ6hUJC4N_VI1m19Kog38H5gU2__p6zvBb9b_OGikHOVQVukqmXfVSLUzw6w7LiZKmQ6ZfBCmHkHSQfOEi_TLaXP4cV-N-IPPzxnPFI1iWeu5qqfrSHvY34jiHYx6_A2PmufxQf57gza2q1Y1wPraCpqVx1TJn8_r9fX8K4r-5bhqHBJgyOZ4bBmkkhyBvFv9B_qr77_MKbnlILjZJcwROhY1ri0UMMoRWAgt-dvBcHnGWbWN6CFHuxqXU0U8PtfcrNIrzID1KLWOOA"
+        },
+        {
+          "name": "Japanese",
+          "parameters": {
+            "uds": "ADvngMh7-X60explMuNvvHiKlJmRG5SCF_LwzFVF6-YsAc6M9wYFmLlWVn-1SSbY8-8uRNbRGh8GTEhoyUXtM8HU-UumtshDfo7VXGiqjUVpr3iCvEg48Afg-DiJSE-zazrIzKH30Q4vrYlR_Usq4q09Bv2jHt8BGRswNgJs203N9Cuc8g20uzVdKdZX2g7eWDiDP3lfkq_q5dYYzrHJP92-Ln_oKuLnkvs3cLMrFXM4eEm2lKm5xvYApUC80fdpOyeAmrUuEtLE_dY1OPAjWpbBK6lwoEHNsqhTiqWWeUFdVju1EyIs0v18YMaoqQ0I1GwpXmlhHoUTaPNl0Rxx_o3U_4msFVV8Eirkn7OEETzid3dRwWrxHgEdvcMrFoOOZtJg-24HUM8U3eHhR4u-m33UnL6HBgebUKvxJBN--hGixF1-klc_mKthjOnvvJrxD4fXef5_DClkWQKNz7LZ-jhnlzYH0O28sR9IePYpzVcvIOSfGSDPd4fWe5N7_TtM5cC2aV86HXo9Y8TyUOz-tvI8JzPUEjkov8KLc3E0AWcviDsB-nWzXcJN32_mI-KVd1X5dmBwaKuD-vWs3y3m4J-B54-wGesWnnSwxtanjOUWVVPq-h0k_dWIoHzD7EULnojksR0laHcUejoznt6oEnQ-qbkc213h9QPyFDnTQ1cjb7s-tkCpEW_RuDQ19zBbUXaIqmA3RvRGgH1xt-WQj-55aBN2sI-mYavc3Gu64fVUrocapZFTDgA",
+            "q": "japanese egg"
+          },
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=japanese+egg&uds=ADvngMh7-X60explMuNvvHiKlJmRG5SCF_LwzFVF6-YsAc6M9wYFmLlWVn-1SSbY8-8uRNbRGh8GTEhoyUXtM8HU-UumtshDfo7VXGiqjUVpr3iCvEg48Afg-DiJSE-zazrIzKH30Q4vrYlR_Usq4q09Bv2jHt8BGRswNgJs203N9Cuc8g20uzVdKdZX2g7eWDiDP3lfkq_q5dYYzrHJP92-Ln_oKuLnkvs3cLMrFXM4eEm2lKm5xvYApUC80fdpOyeAmrUuEtLE_dY1OPAjWpbBK6lwoEHNsqhTiqWWeUFdVju1EyIs0v18YMaoqQ0I1GwpXmlhHoUTaPNl0Rxx_o3U_4msFVV8Eirkn7OEETzid3dRwWrxHgEdvcMrFoOOZtJg-24HUM8U3eHhR4u-m33UnL6HBgebUKvxJBN--hGixF1-klc_mKthjOnvvJrxD4fXef5_DClkWQKNz7LZ-jhnlzYH0O28sR9IePYpzVcvIOSfGSDPd4fWe5N7_TtM5cC2aV86HXo9Y8TyUOz-tvI8JzPUEjkov8KLc3E0AWcviDsB-nWzXcJN32_mI-KVd1X5dmBwaKuD-vWs3y3m4J-B54-wGesWnnSwxtanjOUWVVPq-h0k_dWIoHzD7EULnojksR0laHcUejoznt6oEnQ-qbkc213h9QPyFDnTQ1cjb7s-tkCpEW_RuDQ19zBbUXaIqmA3RvRGgH1xt-WQj-55aBN2sI-mYavc3Gu64fVUrocapZFTDgA&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQkbEKegQIHhAL",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=japanese+egg&uds=ADvngMh7-X60explMuNvvHiKlJmRG5SCF_LwzFVF6-YsAc6M9wYFmLlWVn-1SSbY8-8uRNbRGh8GTEhoyUXtM8HU-UumtshDfo7VXGiqjUVpr3iCvEg48Afg-DiJSE-zazrIzKH30Q4vrYlR_Usq4q09Bv2jHt8BGRswNgJs203N9Cuc8g20uzVdKdZX2g7eWDiDP3lfkq_q5dYYzrHJP92-Ln_oKuLnkvs3cLMrFXM4eEm2lKm5xvYApUC80fdpOyeAmrUuEtLE_dY1OPAjWpbBK6lwoEHNsqhTiqWWeUFdVju1EyIs0v18YMaoqQ0I1GwpXmlhHoUTaPNl0Rxx_o3U_4msFVV8Eirkn7OEETzid3dRwWrxHgEdvcMrFoOOZtJg-24HUM8U3eHhR4u-m33UnL6HBgebUKvxJBN--hGixF1-klc_mKthjOnvvJrxD4fXef5_DClkWQKNz7LZ-jhnlzYH0O28sR9IePYpzVcvIOSfGSDPd4fWe5N7_TtM5cC2aV86HXo9Y8TyUOz-tvI8JzPUEjkov8KLc3E0AWcviDsB-nWzXcJN32_mI-KVd1X5dmBwaKuD-vWs3y3m4J-B54-wGesWnnSwxtanjOUWVVPq-h0k_dWIoHzD7EULnojksR0laHcUejoznt6oEnQ-qbkc213h9QPyFDnTQ1cjb7s-tkCpEW_RuDQ19zBbUXaIqmA3RvRGgH1xt-WQj-55aBN2sI-mYavc3Gu64fVUrocapZFTDgA"
+        },
+        {
+          "name": "Mexican",
+          "parameters": {
+            "uds": "ADvngMi6GPT5RIbKiEOGsFkp01Y_1JWe7-iwUEONzSheLjfd1f-43tIe7Pv78tWGEqcZ86oFLZKBtvzgVid_hTCBPA5z-Bc6FuiEwqkT0DB9pABhtBmoacjjuWel5MG59l4Y2KoOEvuiWCZnkoSvv48YvUfB4HLJVpUx3rYcXVnhSboUuS8CfOdIXJ232b8TKHOvIrxlsfzy1ba5Zwpnl_6F6goarz8Jw8I0R1KCUSL0wzVN5BppiGxmEkK4axDQ7v3b2e1ul8B4RFlViZ8Pfts8JISdGXSLnVCf-CyTgUZXgNxYTArA36ZIg119OqBCqxiuHtohCJDkZuezVnKx2yA9qO13BnAwvOTYHU0e8thwYxWx7sBTbyw8fjutW68AqQ3LzxFSMu1vmbA934oiaDmZBosa_GKjbBs0zyJ_WT_6BQHe4YyMIDWDzzsZk_wO-qjjCSd8SJr6My0MY2E_veDBbNxxkkNKqzT__IGDp7BDUr25zjclEcxw7FWXHw6odX3UZJBBOy7IK4oucl-Y204eVB3XDyLnYEewUrs3dSGJZmQIBfEUKi5KbYLFIGtKRT3bZ2o1SnaMsJ8D9Rj9TMuOh7xhKZLnwEAj-OJXjsuXxWkcr-vIVQTJVAY_1X4rxVQjlfwVp-llmsLIlu-F4gI-jL8ack-_vYRsaAdcby1H6Q5IMrbkhf1m9sv1yFKiOsXyzlcorHfZnpgszfIBe9LRpvjMPEpBQC_r4lY8q-18Zv-f75aIAX4",
+            "q": "mexican egg"
+          },
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=mexican+egg&uds=ADvngMi6GPT5RIbKiEOGsFkp01Y_1JWe7-iwUEONzSheLjfd1f-43tIe7Pv78tWGEqcZ86oFLZKBtvzgVid_hTCBPA5z-Bc6FuiEwqkT0DB9pABhtBmoacjjuWel5MG59l4Y2KoOEvuiWCZnkoSvv48YvUfB4HLJVpUx3rYcXVnhSboUuS8CfOdIXJ232b8TKHOvIrxlsfzy1ba5Zwpnl_6F6goarz8Jw8I0R1KCUSL0wzVN5BppiGxmEkK4axDQ7v3b2e1ul8B4RFlViZ8Pfts8JISdGXSLnVCf-CyTgUZXgNxYTArA36ZIg119OqBCqxiuHtohCJDkZuezVnKx2yA9qO13BnAwvOTYHU0e8thwYxWx7sBTbyw8fjutW68AqQ3LzxFSMu1vmbA934oiaDmZBosa_GKjbBs0zyJ_WT_6BQHe4YyMIDWDzzsZk_wO-qjjCSd8SJr6My0MY2E_veDBbNxxkkNKqzT__IGDp7BDUr25zjclEcxw7FWXHw6odX3UZJBBOy7IK4oucl-Y204eVB3XDyLnYEewUrs3dSGJZmQIBfEUKi5KbYLFIGtKRT3bZ2o1SnaMsJ8D9Rj9TMuOh7xhKZLnwEAj-OJXjsuXxWkcr-vIVQTJVAY_1X4rxVQjlfwVp-llmsLIlu-F4gI-jL8ack-_vYRsaAdcby1H6Q5IMrbkhf1m9sv1yFKiOsXyzlcorHfZnpgszfIBe9LRpvjMPEpBQC_r4lY8q-18Zv-f75aIAX4&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQkbEKegQIHhAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=mexican+egg&uds=ADvngMi6GPT5RIbKiEOGsFkp01Y_1JWe7-iwUEONzSheLjfd1f-43tIe7Pv78tWGEqcZ86oFLZKBtvzgVid_hTCBPA5z-Bc6FuiEwqkT0DB9pABhtBmoacjjuWel5MG59l4Y2KoOEvuiWCZnkoSvv48YvUfB4HLJVpUx3rYcXVnhSboUuS8CfOdIXJ232b8TKHOvIrxlsfzy1ba5Zwpnl_6F6goarz8Jw8I0R1KCUSL0wzVN5BppiGxmEkK4axDQ7v3b2e1ul8B4RFlViZ8Pfts8JISdGXSLnVCf-CyTgUZXgNxYTArA36ZIg119OqBCqxiuHtohCJDkZuezVnKx2yA9qO13BnAwvOTYHU0e8thwYxWx7sBTbyw8fjutW68AqQ3LzxFSMu1vmbA934oiaDmZBosa_GKjbBs0zyJ_WT_6BQHe4YyMIDWDzzsZk_wO-qjjCSd8SJr6My0MY2E_veDBbNxxkkNKqzT__IGDp7BDUr25zjclEcxw7FWXHw6odX3UZJBBOy7IK4oucl-Y204eVB3XDyLnYEewUrs3dSGJZmQIBfEUKi5KbYLFIGtKRT3bZ2o1SnaMsJ8D9Rj9TMuOh7xhKZLnwEAj-OJXjsuXxWkcr-vIVQTJVAY_1X4rxVQjlfwVp-llmsLIlu-F4gI-jL8ack-_vYRsaAdcby1H6Q5IMrbkhf1m9sv1yFKiOsXyzlcorHfZnpgszfIBe9LRpvjMPEpBQC_r4lY8q-18Zv-f75aIAX4"
+        },
+        {
+          "name": "Pizza",
+          "parameters": {
+            "uds": "ADvngMi6GPT5RIbKiEOGsFkp01Y_K3DUNdmC-m3Yf58XTQx3qRIbI_7_uZGpfTHr0t-9hla_okbGH-OwW5gvyGmHQuUEnC5D281kuUlk7DN3YN7xyPm20lXkZuEeHoOzo-mtT9aArvr45xjELi6pwr5M5Ze6lhntxRUhR5b0IOirl3uP69t1C71qwHDg3psKKhUoNuQWG61PCPiWk8Tte6jTkk1wN9EazrCh4IH_O7tec98oKLFAUh61L0fDb0YVoPjd3_xazp8A6-p0HcogNEwLhU1Biv0m7qDC58GgxXyON1hJWg9T_ye0WvOPdErjnEvR9rzBGJk07vp6woGO_5zZ7CHy60Rxa7jpjCeosY2uQ83FcxegJLmeMJ4VeWnVyVhkGS-PX1CFKvusaMauFW83J572QML5v-KXBTjqIpwRJg8R0zriH1fKYTKOWBCBNVjWaKZ7mZL7MmoffdawCirRESjPLUhGKZQdTMyfXBnwG6qVZMY1hWTKWCRtAOlciE0_8ssSoMYpmbe0zCNnpJCRx4aaU0U2wphrbrBDfcZ6bwoVelKmfeIc_wD387zu65gNRBYoPVBond3TRRvovQWcC6Dx3F1ckcwAe-V2u-C_5KZFm-IwyAt6RXjZZqc1OmCl7LbHzQOvogwsABbv_qqWDtBG92lrtKdoVtTJPub8IGMI5yPiS2B7nxEywPrHJvT59lHdlv4k4pPfzaHMRF2kVDOIOnGdKU82G35EQJYxWn0oSHCQPu0",
+            "q": "pizza egg"
+          },
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=pizza+egg&uds=ADvngMi6GPT5RIbKiEOGsFkp01Y_K3DUNdmC-m3Yf58XTQx3qRIbI_7_uZGpfTHr0t-9hla_okbGH-OwW5gvyGmHQuUEnC5D281kuUlk7DN3YN7xyPm20lXkZuEeHoOzo-mtT9aArvr45xjELi6pwr5M5Ze6lhntxRUhR5b0IOirl3uP69t1C71qwHDg3psKKhUoNuQWG61PCPiWk8Tte6jTkk1wN9EazrCh4IH_O7tec98oKLFAUh61L0fDb0YVoPjd3_xazp8A6-p0HcogNEwLhU1Biv0m7qDC58GgxXyON1hJWg9T_ye0WvOPdErjnEvR9rzBGJk07vp6woGO_5zZ7CHy60Rxa7jpjCeosY2uQ83FcxegJLmeMJ4VeWnVyVhkGS-PX1CFKvusaMauFW83J572QML5v-KXBTjqIpwRJg8R0zriH1fKYTKOWBCBNVjWaKZ7mZL7MmoffdawCirRESjPLUhGKZQdTMyfXBnwG6qVZMY1hWTKWCRtAOlciE0_8ssSoMYpmbe0zCNnpJCRx4aaU0U2wphrbrBDfcZ6bwoVelKmfeIc_wD387zu65gNRBYoPVBond3TRRvovQWcC6Dx3F1ckcwAe-V2u-C_5KZFm-IwyAt6RXjZZqc1OmCl7LbHzQOvogwsABbv_qqWDtBG92lrtKdoVtTJPub8IGMI5yPiS2B7nxEywPrHJvT59lHdlv4k4pPfzaHMRF2kVDOIOnGdKU82G35EQJYxWn0oSHCQPu0&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQkbEKegQIHhAN",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pizza+egg&uds=ADvngMi6GPT5RIbKiEOGsFkp01Y_K3DUNdmC-m3Yf58XTQx3qRIbI_7_uZGpfTHr0t-9hla_okbGH-OwW5gvyGmHQuUEnC5D281kuUlk7DN3YN7xyPm20lXkZuEeHoOzo-mtT9aArvr45xjELi6pwr5M5Ze6lhntxRUhR5b0IOirl3uP69t1C71qwHDg3psKKhUoNuQWG61PCPiWk8Tte6jTkk1wN9EazrCh4IH_O7tec98oKLFAUh61L0fDb0YVoPjd3_xazp8A6-p0HcogNEwLhU1Biv0m7qDC58GgxXyON1hJWg9T_ye0WvOPdErjnEvR9rzBGJk07vp6woGO_5zZ7CHy60Rxa7jpjCeosY2uQ83FcxegJLmeMJ4VeWnVyVhkGS-PX1CFKvusaMauFW83J572QML5v-KXBTjqIpwRJg8R0zriH1fKYTKOWBCBNVjWaKZ7mZL7MmoffdawCirRESjPLUhGKZQdTMyfXBnwG6qVZMY1hWTKWCRtAOlciE0_8ssSoMYpmbe0zCNnpJCRx4aaU0U2wphrbrBDfcZ6bwoVelKmfeIc_wD387zu65gNRBYoPVBond3TRRvovQWcC6Dx3F1ckcwAe-V2u-C_5KZFm-IwyAt6RXjZZqc1OmCl7LbHzQOvogwsABbv_qqWDtBG92lrtKdoVtTJPub8IGMI5yPiS2B7nxEywPrHJvT59lHdlv4k4pPfzaHMRF2kVDOIOnGdKU82G35EQJYxWn0oSHCQPu0"
+        },
+        {
+          "name": "Seafood",
+          "parameters": {
+            "uds": "ADvngMi6GPT5RIbKiEOGsFkp01Y_1JWe7-iwUEONzSheLjfd1f-43tIe7Pv78tWGEqcZ86oFLZKBtvzgVid_hTCBPA5zfYDfezJAOmRZBH5lDGVctM2vrJhy3UD688V8hsmV_OlZgeMNjfDTqfqjmRCH4FSzWgJBEgKF0ef-YHaB1T4wGYTFPNkqSsehB7xYVlrmLzh_4kVJpb0O1OGjkDnD66eW9MYm-ZKcR8d00eK-FM8gJuyDmNSKTSc8Thv6G-uOYsDxI1ZaIlqdSrMY_QHjewXczkp3YdzCQh7FxgW5BMBD0N_80M-XmwrslglJ8CCzUR2mmqxmaPlg-FuyFEBsgQtgo1Jh8voHyMHIhf8FmOAZh2Df7Dm2AJ_p2JvYDuCQhw6KCOKqUoC-oW7uZm_hoNgyDlI_X7dgC166awvuoOkNJvarVHIKz4Ig5Uye9vzVF-0V-5IxJRDsddMH-rAA4AkUfDRgS4Ch2BM7vxdVX1k3Pvp7iY7myQUFUwbmvtT0I_j76gh-6HDtVIosf_Wm3aFf6s3XrFPmg71BTQN4yCzaYB4wyCOFuAXzJbo1fJ6DPIUFBKurn7IR4OmsQXy9Y95WgKR67Z90eZEyBz6gFZ7Uun6SAX8eIAE4JgNUi9qdBPkB2IEC0P6oYPKAFaEEsURS6mol2pqC64-Om5o-MZpvL4mK-y-9hs067zpIbzJOL7jIkE038pavztWtnGXElaMQqRfeADXY41QEr3zY2kAHhOYPVxU",
+            "q": "seafood egg"
+          },
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=seafood+egg&uds=ADvngMi6GPT5RIbKiEOGsFkp01Y_1JWe7-iwUEONzSheLjfd1f-43tIe7Pv78tWGEqcZ86oFLZKBtvzgVid_hTCBPA5zfYDfezJAOmRZBH5lDGVctM2vrJhy3UD688V8hsmV_OlZgeMNjfDTqfqjmRCH4FSzWgJBEgKF0ef-YHaB1T4wGYTFPNkqSsehB7xYVlrmLzh_4kVJpb0O1OGjkDnD66eW9MYm-ZKcR8d00eK-FM8gJuyDmNSKTSc8Thv6G-uOYsDxI1ZaIlqdSrMY_QHjewXczkp3YdzCQh7FxgW5BMBD0N_80M-XmwrslglJ8CCzUR2mmqxmaPlg-FuyFEBsgQtgo1Jh8voHyMHIhf8FmOAZh2Df7Dm2AJ_p2JvYDuCQhw6KCOKqUoC-oW7uZm_hoNgyDlI_X7dgC166awvuoOkNJvarVHIKz4Ig5Uye9vzVF-0V-5IxJRDsddMH-rAA4AkUfDRgS4Ch2BM7vxdVX1k3Pvp7iY7myQUFUwbmvtT0I_j76gh-6HDtVIosf_Wm3aFf6s3XrFPmg71BTQN4yCzaYB4wyCOFuAXzJbo1fJ6DPIUFBKurn7IR4OmsQXy9Y95WgKR67Z90eZEyBz6gFZ7Uun6SAX8eIAE4JgNUi9qdBPkB2IEC0P6oYPKAFaEEsURS6mol2pqC64-Om5o-MZpvL4mK-y-9hs067zpIbzJOL7jIkE038pavztWtnGXElaMQqRfeADXY41QEr3zY2kAHhOYPVxU&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQkbEKegQIHhAO",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=seafood+egg&uds=ADvngMi6GPT5RIbKiEOGsFkp01Y_1JWe7-iwUEONzSheLjfd1f-43tIe7Pv78tWGEqcZ86oFLZKBtvzgVid_hTCBPA5zfYDfezJAOmRZBH5lDGVctM2vrJhy3UD688V8hsmV_OlZgeMNjfDTqfqjmRCH4FSzWgJBEgKF0ef-YHaB1T4wGYTFPNkqSsehB7xYVlrmLzh_4kVJpb0O1OGjkDnD66eW9MYm-ZKcR8d00eK-FM8gJuyDmNSKTSc8Thv6G-uOYsDxI1ZaIlqdSrMY_QHjewXczkp3YdzCQh7FxgW5BMBD0N_80M-XmwrslglJ8CCzUR2mmqxmaPlg-FuyFEBsgQtgo1Jh8voHyMHIhf8FmOAZh2Df7Dm2AJ_p2JvYDuCQhw6KCOKqUoC-oW7uZm_hoNgyDlI_X7dgC166awvuoOkNJvarVHIKz4Ig5Uye9vzVF-0V-5IxJRDsddMH-rAA4AkUfDRgS4Ch2BM7vxdVX1k3Pvp7iY7myQUFUwbmvtT0I_j76gh-6HDtVIosf_Wm3aFf6s3XrFPmg71BTQN4yCzaYB4wyCOFuAXzJbo1fJ6DPIUFBKurn7IR4OmsQXy9Y95WgKR67Z90eZEyBz6gFZ7Uun6SAX8eIAE4JgNUi9qdBPkB2IEC0P6oYPKAFaEEsURS6mol2pqC64-Om5o-MZpvL4mK-y-9hs067zpIbzJOL7jIkE038pavztWtnGXElaMQqRfeADXY41QEr3zY2kAHhOYPVxU"
+        },
+        {
+          "name": "Steak",
+          "parameters": {
+            "uds": "ADvngMi6GPT5RIbKiEOGsFkp01Y_B3MDr0gV9NqihRbVZrmpX6Xe_mWUTf5L_GcEKSgvSkSMMD-tMqlppaRx_qzQ8CKDIcmuIgB0v33E2Ed5EgygHA4bCDNuupG5reHeHchay0lGsYI2xm5vo7ExRPECuU2DvRkLdz5kTpr4vw_9UoFop_GiIVQ-KnKYAd87pQZbCsL3izWzRG9D0ZSWdPLmbad9JzTPsY00Fx9mGajOX46UuJj0-BoOJq52CN3-vJcdD6vXsnyH6N5G0I5e5Qzb-7oZNyWlJTp0e35oJ1Sk9y96BQYqcdAde19myID1jr3XtMWSXYoAtXO9CWqH2BDh4BFJ3Z7HGxpBKLZU5ms752g8gtpaS2a4KBvqJ4EQeAtP8xFAswalHwY9-ItSpWi6Sh8teCvh_sLOHCcgbop0Rq8nFF3bCdk_MU3mbtF_VdZ9xEbc33O7a1wp4_ISXrGBJCvqbE5c0ZI_QTH0zxEzXCYIXM6Sc5laG_ZDFDia8YSqBGj1plCxQLA9u0V_mMkev3HjEIgtLcDCgCxcf0GXHI3PHQyH8T4xAa-fwfzphonFdah5RzZ3u1Des0nEE6_9BQAhT51uNQx4zU2lx3-D6_RF0qgk95WANRUIiwlpajzXOYCX7ZfyuETaXRqGdSGqU5Vnj-2KmMlvmmisNNbHytW66RDp5JVwZv5bpaXmEOR16FR7FLlFRRWbt7syHuOEbiJQURI2LhUpbO7Gs719x-KofinCO_U",
+            "q": "steak egg"
+          },
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=steak+egg&uds=ADvngMi6GPT5RIbKiEOGsFkp01Y_B3MDr0gV9NqihRbVZrmpX6Xe_mWUTf5L_GcEKSgvSkSMMD-tMqlppaRx_qzQ8CKDIcmuIgB0v33E2Ed5EgygHA4bCDNuupG5reHeHchay0lGsYI2xm5vo7ExRPECuU2DvRkLdz5kTpr4vw_9UoFop_GiIVQ-KnKYAd87pQZbCsL3izWzRG9D0ZSWdPLmbad9JzTPsY00Fx9mGajOX46UuJj0-BoOJq52CN3-vJcdD6vXsnyH6N5G0I5e5Qzb-7oZNyWlJTp0e35oJ1Sk9y96BQYqcdAde19myID1jr3XtMWSXYoAtXO9CWqH2BDh4BFJ3Z7HGxpBKLZU5ms752g8gtpaS2a4KBvqJ4EQeAtP8xFAswalHwY9-ItSpWi6Sh8teCvh_sLOHCcgbop0Rq8nFF3bCdk_MU3mbtF_VdZ9xEbc33O7a1wp4_ISXrGBJCvqbE5c0ZI_QTH0zxEzXCYIXM6Sc5laG_ZDFDia8YSqBGj1plCxQLA9u0V_mMkev3HjEIgtLcDCgCxcf0GXHI3PHQyH8T4xAa-fwfzphonFdah5RzZ3u1Des0nEE6_9BQAhT51uNQx4zU2lx3-D6_RF0qgk95WANRUIiwlpajzXOYCX7ZfyuETaXRqGdSGqU5Vnj-2KmMlvmmisNNbHytW66RDp5JVwZv5bpaXmEOR16FR7FLlFRRWbt7syHuOEbiJQURI2LhUpbO7Gs719x-KofinCO_U&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQkbEKegQIHhAP",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=steak+egg&uds=ADvngMi6GPT5RIbKiEOGsFkp01Y_B3MDr0gV9NqihRbVZrmpX6Xe_mWUTf5L_GcEKSgvSkSMMD-tMqlppaRx_qzQ8CKDIcmuIgB0v33E2Ed5EgygHA4bCDNuupG5reHeHchay0lGsYI2xm5vo7ExRPECuU2DvRkLdz5kTpr4vw_9UoFop_GiIVQ-KnKYAd87pQZbCsL3izWzRG9D0ZSWdPLmbad9JzTPsY00Fx9mGajOX46UuJj0-BoOJq52CN3-vJcdD6vXsnyH6N5G0I5e5Qzb-7oZNyWlJTp0e35oJ1Sk9y96BQYqcdAde19myID1jr3XtMWSXYoAtXO9CWqH2BDh4BFJ3Z7HGxpBKLZU5ms752g8gtpaS2a4KBvqJ4EQeAtP8xFAswalHwY9-ItSpWi6Sh8teCvh_sLOHCcgbop0Rq8nFF3bCdk_MU3mbtF_VdZ9xEbc33O7a1wp4_ISXrGBJCvqbE5c0ZI_QTH0zxEzXCYIXM6Sc5laG_ZDFDia8YSqBGj1plCxQLA9u0V_mMkev3HjEIgtLcDCgCxcf0GXHI3PHQyH8T4xAa-fwfzphonFdah5RzZ3u1Des0nEE6_9BQAhT51uNQx4zU2lx3-D6_RF0qgk95WANRUIiwlpajzXOYCX7ZfyuETaXRqGdSGqU5Vnj-2KmMlvmmisNNbHytW66RDp5JVwZv5bpaXmEOR16FR7FLlFRRWbt7syHuOEbiJQURI2LhUpbO7Gs719x-KofinCO_U"
+        },
+        {
+          "name": "Sushi",
+          "parameters": {
+            "uds": "ADvngMh7-X60explMuNvvHiKlJmRZDUbOOqGwBb1iW9mmLG6RYT3_gaTz8_U2lm93sdPjgllwqtaME3YIFBrzdWPdP3hdDvOYAQ0w9BVoqvxjLjkja-9_2u7pYUjJeLenYvljSv4uIJRbjgUeHRSEJ-xzKz41ZQLN22XUnJ-DzzUHeeqhQ9m9NioB4IX0juH2AofOVBQ9PVwzWYknr9krnEdvEhWKgWmcgL40O3IZ89L4ZaLwzO01Jzbwl48FHR1msYktG3HqdqAAYXt5LxLoQcayQl7vxmVgrPT2WvrnkISfIRMlE35o7Y_rcyKSMIYdrpBAJ34YE1E48glX7W9kH50CLOZBehPsIi3Jn_FKCLpe7WF8VHJbkkB__Pk_Iw6qrmxygOJ6lMZwwy9NN5tX6baYI0vppA7d5a3RVX9gY6q6vVAJPrr-Z2uHVlBHyyQgouCeT2OPt4l6AgBPiWrI-AcIpoZM2oMtU5HQaem8_L9p03vUKvEYdLoPIjajTuB6nuGZ92OlTqMjH6BiMZYdFz_jkX5_XGyqN_YLBlJrR4p8ziztaUZxlwQzBecktw6MSyVqr1MDqgUaeOK_11c4qjbZgpFXm7yBiZdhpCXlKm_YC2ZMLpiY5KuN470O1vYM4YsTVCvwdlbPLU7lQzMvFYkeGOPU2ANfne9ezyD_aICIlwTTXxmzAjwe2fBzGR7j3mvOnfH9dJkBrXHcadpWneAwEfj5lM8Yn__4v52YzyFdieSVqBfASs",
+            "q": "sushi egg"
+          },
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=sushi+egg&uds=ADvngMh7-X60explMuNvvHiKlJmRZDUbOOqGwBb1iW9mmLG6RYT3_gaTz8_U2lm93sdPjgllwqtaME3YIFBrzdWPdP3hdDvOYAQ0w9BVoqvxjLjkja-9_2u7pYUjJeLenYvljSv4uIJRbjgUeHRSEJ-xzKz41ZQLN22XUnJ-DzzUHeeqhQ9m9NioB4IX0juH2AofOVBQ9PVwzWYknr9krnEdvEhWKgWmcgL40O3IZ89L4ZaLwzO01Jzbwl48FHR1msYktG3HqdqAAYXt5LxLoQcayQl7vxmVgrPT2WvrnkISfIRMlE35o7Y_rcyKSMIYdrpBAJ34YE1E48glX7W9kH50CLOZBehPsIi3Jn_FKCLpe7WF8VHJbkkB__Pk_Iw6qrmxygOJ6lMZwwy9NN5tX6baYI0vppA7d5a3RVX9gY6q6vVAJPrr-Z2uHVlBHyyQgouCeT2OPt4l6AgBPiWrI-AcIpoZM2oMtU5HQaem8_L9p03vUKvEYdLoPIjajTuB6nuGZ92OlTqMjH6BiMZYdFz_jkX5_XGyqN_YLBlJrR4p8ziztaUZxlwQzBecktw6MSyVqr1MDqgUaeOK_11c4qjbZgpFXm7yBiZdhpCXlKm_YC2ZMLpiY5KuN470O1vYM4YsTVCvwdlbPLU7lQzMvFYkeGOPU2ANfne9ezyD_aICIlwTTXxmzAjwe2fBzGR7j3mvOnfH9dJkBrXHcadpWneAwEfj5lM8Yn__4v52YzyFdieSVqBfASs&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQkbEKegQIHhAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sushi+egg&uds=ADvngMh7-X60explMuNvvHiKlJmRZDUbOOqGwBb1iW9mmLG6RYT3_gaTz8_U2lm93sdPjgllwqtaME3YIFBrzdWPdP3hdDvOYAQ0w9BVoqvxjLjkja-9_2u7pYUjJeLenYvljSv4uIJRbjgUeHRSEJ-xzKz41ZQLN22XUnJ-DzzUHeeqhQ9m9NioB4IX0juH2AofOVBQ9PVwzWYknr9krnEdvEhWKgWmcgL40O3IZ89L4ZaLwzO01Jzbwl48FHR1msYktG3HqdqAAYXt5LxLoQcayQl7vxmVgrPT2WvrnkISfIRMlE35o7Y_rcyKSMIYdrpBAJ34YE1E48glX7W9kH50CLOZBehPsIi3Jn_FKCLpe7WF8VHJbkkB__Pk_Iw6qrmxygOJ6lMZwwy9NN5tX6baYI0vppA7d5a3RVX9gY6q6vVAJPrr-Z2uHVlBHyyQgouCeT2OPt4l6AgBPiWrI-AcIpoZM2oMtU5HQaem8_L9p03vUKvEYdLoPIjajTuB6nuGZ92OlTqMjH6BiMZYdFz_jkX5_XGyqN_YLBlJrR4p8ziztaUZxlwQzBecktw6MSyVqr1MDqgUaeOK_11c4qjbZgpFXm7yBiZdhpCXlKm_YC2ZMLpiY5KuN470O1vYM4YsTVCvwdlbPLU7lQzMvFYkeGOPU2ANfne9ezyD_aICIlwTTXxmzAjwe2fBzGR7j3mvOnfH9dJkBrXHcadpWneAwEfj5lM8Yn__4v52YzyFdieSVqBfASs"
+        },
+        {
+          "name": "Thai",
+          "parameters": {
+            "uds": "ADvngMh7-X60explMuNvvHiKlJmR4kXJYW2M6RCxw8hti1E8pbrhNHqvURh2-s41YmBg6hAqbWJ2JaTb3dC1pfTdd753ydH0ME4r3zKogbxBdXUKf4LgsZfs4wY6s6Azyz778lSLku2i9P9vC5PO-64hNTDqlA6_oEQSf2kdI_VPAgkEzkf8ft5iilLE4-vIV1agPp-5vieic6k1rn3vqp67Z7nNbdxLJGH4uq_0F1UT7HcaKzDkx2d4DS55ceufYQk8lr3Xa0_v9jvwsejdlIZTXRNHwMVwNEQ1sjDCIl2WZJ_PR_ONnfrvGHfqZCSq1MsrBVUyWYyuWPK-H2703BEQxs2_K0FCLeYrtf-48hNuLR-EsIrdslbsLKOIqusGzN32zekCoTNtOaYuJwNAh-JfbENk_FF5xr94g9jK_kML12mchMMtRugUxuNsIeJW8vbG6ypDm84uiKuBB3fMaWQFGf3AMvEhGm21XpGrF9RVLz3mxUFlyuXppYbpv-asMBnSRL5zK1rBnU8xp_tfj3TBvybwIXh0s5CZRtFTxELD-SkHvtZ9P54AJ27fjqKNWuASzNhrMSFVUjEzlFc9XNFEUHeQ7MD22bvKrqEpCTaKvg4zn2IvTASv44bPX3xjqmzisSp8FcLJ59rMpBzNbuaOQdSCEGqCABJvTtJ7EUoboh_cu8WamWAelQWZl6p4ifK5VZoXSsM2dbnTGXttVjfQNKXNwQUmMciLx1MLIuCd33oU9jeaa5U",
+            "q": "thai egg"
+          },
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=thai+egg&uds=ADvngMh7-X60explMuNvvHiKlJmR4kXJYW2M6RCxw8hti1E8pbrhNHqvURh2-s41YmBg6hAqbWJ2JaTb3dC1pfTdd753ydH0ME4r3zKogbxBdXUKf4LgsZfs4wY6s6Azyz778lSLku2i9P9vC5PO-64hNTDqlA6_oEQSf2kdI_VPAgkEzkf8ft5iilLE4-vIV1agPp-5vieic6k1rn3vqp67Z7nNbdxLJGH4uq_0F1UT7HcaKzDkx2d4DS55ceufYQk8lr3Xa0_v9jvwsejdlIZTXRNHwMVwNEQ1sjDCIl2WZJ_PR_ONnfrvGHfqZCSq1MsrBVUyWYyuWPK-H2703BEQxs2_K0FCLeYrtf-48hNuLR-EsIrdslbsLKOIqusGzN32zekCoTNtOaYuJwNAh-JfbENk_FF5xr94g9jK_kML12mchMMtRugUxuNsIeJW8vbG6ypDm84uiKuBB3fMaWQFGf3AMvEhGm21XpGrF9RVLz3mxUFlyuXppYbpv-asMBnSRL5zK1rBnU8xp_tfj3TBvybwIXh0s5CZRtFTxELD-SkHvtZ9P54AJ27fjqKNWuASzNhrMSFVUjEzlFc9XNFEUHeQ7MD22bvKrqEpCTaKvg4zn2IvTASv44bPX3xjqmzisSp8FcLJ59rMpBzNbuaOQdSCEGqCABJvTtJ7EUoboh_cu8WamWAelQWZl6p4ifK5VZoXSsM2dbnTGXttVjfQNKXNwQUmMciLx1MLIuCd33oU9jeaa5U&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQkbEKegQIHhAR",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=thai+egg&uds=ADvngMh7-X60explMuNvvHiKlJmR4kXJYW2M6RCxw8hti1E8pbrhNHqvURh2-s41YmBg6hAqbWJ2JaTb3dC1pfTdd753ydH0ME4r3zKogbxBdXUKf4LgsZfs4wY6s6Azyz778lSLku2i9P9vC5PO-64hNTDqlA6_oEQSf2kdI_VPAgkEzkf8ft5iilLE4-vIV1agPp-5vieic6k1rn3vqp67Z7nNbdxLJGH4uq_0F1UT7HcaKzDkx2d4DS55ceufYQk8lr3Xa0_v9jvwsejdlIZTXRNHwMVwNEQ1sjDCIl2WZJ_PR_ONnfrvGHfqZCSq1MsrBVUyWYyuWPK-H2703BEQxs2_K0FCLeYrtf-48hNuLR-EsIrdslbsLKOIqusGzN32zekCoTNtOaYuJwNAh-JfbENk_FF5xr94g9jK_kML12mchMMtRugUxuNsIeJW8vbG6ypDm84uiKuBB3fMaWQFGf3AMvEhGm21XpGrF9RVLz3mxUFlyuXppYbpv-asMBnSRL5zK1rBnU8xp_tfj3TBvybwIXh0s5CZRtFTxELD-SkHvtZ9P54AJ27fjqKNWuASzNhrMSFVUjEzlFc9XNFEUHeQ7MD22bvKrqEpCTaKvg4zn2IvTASv44bPX3xjqmzisSp8FcLJ59rMpBzNbuaOQdSCEGqCABJvTtJ7EUoboh_cu8WamWAelQWZl6p4ifK5VZoXSsM2dbnTGXttVjfQNKXNwQUmMciLx1MLIuCd33oU9jeaa5U"
+        }
+      ]
+    },
+    {
+      "name": "Meaning",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7daGtYstpXpxPF1kru9OHbjnonRA2CZE6fZVSrQij2LlYnKfT74SPUjZssIBMeuDsPcv8TNte_VtpMl8gPhefnDsxmwl0aiaz0KXplMGhCYKYnyRd4F9-3nABSicsMCL9OqcUkIg",
+        "q": "Egg meaning"
+      },
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Egg+meaning&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7daGtYstpXpxPF1kru9OHbjnonRA2CZE6fZVSrQij2LlYnKfT74SPUjZssIBMeuDsPcv8TNte_VtpMl8gPhefnDsxmwl0aiaz0KXplMGhCYKYnyRd4F9-3nABSicsMCL9OqcUkIg&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQxKsJegQIIRAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Egg+meaning&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7daGtYstpXpxPF1kru9OHbjnonRA2CZE6fZVSrQij2LlYnKfT74SPUjZssIBMeuDsPcv8TNte_VtpMl8gPhefnDsxmwl0aiaz0KXplMGhCYKYnyRd4F9-3nABSicsMCL9OqcUkIg"
+    },
+    {
+      "name": "Game",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAAh-P1KL938xtHbIzGFid0ggk8o43lw5aWUbCbsJZrnQbbpD9Bn75ggZRPiFRIBS8--YCbAQEj3DAsAB_tMTL53OTC9UWirkjy9a7Gx0yFKMADLy35KlqewYCZ-tAtuHa0661w",
+        "q": "Egg game"
+      },
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Egg+game&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAAh-P1KL938xtHbIzGFid0ggk8o43lw5aWUbCbsJZrnQbbpD9Bn75ggZRPiFRIBS8--YCbAQEj3DAsAB_tMTL53OTC9UWirkjy9a7Gx0yFKMADLy35KlqewYCZ-tAtuHa0661w&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQxKsJegQIIBAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Egg+game&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAAh-P1KL938xtHbIzGFid0ggk8o43lw5aWUbCbsJZrnQbbpD9Bn75ggZRPiFRIBS8--YCbAQEj3DAsAB_tMTL53OTC9UWirkjy9a7Gx0yFKMADLy35KlqewYCZ-tAtuHa0661w"
+    },
+    {
+      "name": "Food",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAAh-P1KL938xtHbIzGFid7PmdU579-HmkPSwQpmmmULkz4pcwL3HDwnfMJyimcH-magRFtAzTk8n1wb0qQPc3NiEONVjC4_XgsKVW0kjBW9hZ-IWrCaDFj3blen4V3kXoQd-lw",
+        "q": "Egg food"
+      },
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Egg+food&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAAh-P1KL938xtHbIzGFid7PmdU579-HmkPSwQpmmmULkz4pcwL3HDwnfMJyimcH-magRFtAzTk8n1wb0qQPc3NiEONVjC4_XgsKVW0kjBW9hZ-IWrCaDFj3blen4V3kXoQd-lw&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQxKsJegQIdxAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Egg+food&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAAh-P1KL938xtHbIzGFid7PmdU579-HmkPSwQpmmmULkz4pcwL3HDwnfMJyimcH-magRFtAzTk8n1wb0qQPc3NiEONVjC4_XgsKVW0kjBW9hZ-IWrCaDFj3blen4V3kXoQd-lw"
+    },
+    {
+      "name": "Open now",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dDN8jhNAzW9qMJvnEAK4JR4YXLWK7s2AjKN2I-ca8Q9VIZVm8ShyTZeRziLzMOIuyxwXNWZ0-veIPyxLQ7KjGGxutn824540kpeVGe-sdNqr2YIKYbZ0j59xVEE_UoBvQDWOekAcFyI-GCtt2IXoEujoZBek",
+        "q": "egg open now"
+      },
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=egg+open+now&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dDN8jhNAzW9qMJvnEAK4JR4YXLWK7s2AjKN2I-ca8Q9VIZVm8ShyTZeRziLzMOIuyxwXNWZ0-veIPyxLQ7KjGGxutn824540kpeVGe-sdNqr2YIKYbZ0j59xVEE_UoBvQDWOekAcFyI-GCtt2IXoEujoZBek&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQxKsJegQIeRAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=egg+open+now&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dDN8jhNAzW9qMJvnEAK4JR4YXLWK7s2AjKN2I-ca8Q9VIZVm8ShyTZeRziLzMOIuyxwXNWZ0-veIPyxLQ7KjGGxutn824540kpeVGe-sdNqr2YIKYbZ0j59xVEE_UoBvQDWOekAcFyI-GCtt2IXoEujoZBek"
+    },
+    {
+      "name": "Price",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dee_YpCLlMQbCBhk2v5kr-FWZ9y00Bo7UaPj9G2mBXAcBSJ5BfvQIFvPxeeAlZYVD5XuuReeJ-VXMWsrmTdvcoL_bcqRdbHaEdXybKPRatOFZLFz_TwM6Ea_l_wfYVg8DfSnRsw",
+        "q": "Egg price"
+      },
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Egg+price&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dee_YpCLlMQbCBhk2v5kr-FWZ9y00Bo7UaPj9G2mBXAcBSJ5BfvQIFvPxeeAlZYVD5XuuReeJ-VXMWsrmTdvcoL_bcqRdbHaEdXybKPRatOFZLFz_TwM6Ea_l_wfYVg8DfSnRsw&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQxKsJegQIcBAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Egg+price&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dee_YpCLlMQbCBhk2v5kr-FWZ9y00Bo7UaPj9G2mBXAcBSJ5BfvQIFvPxeeAlZYVD5XuuReeJ-VXMWsrmTdvcoL_bcqRdbHaEdXybKPRatOFZLFz_TwM6Ea_l_wfYVg8DfSnRsw"
+    },
+    {
+      "name": "Test",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAAh-P1KL938xtHbIzGFid9fSrTRLKRGaPj22wexi40bvofri6XGqrE_0Lf4u8bS2-wN6j75S7pWkzBv_dtUHDp-26sBRWNVeygyijnRkvrEETBrFR3Yi_cL5-wk56Q2xg3hl5g",
+        "q": "Egg test"
+      },
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Egg+test&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAAh-P1KL938xtHbIzGFid9fSrTRLKRGaPj22wexi40bvofri6XGqrE_0Lf4u8bS2-wN6j75S7pWkzBv_dtUHDp-26sBRWNVeygyijnRkvrEETBrFR3Yi_cL5-wk56Q2xg3hl5g&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQxKsJegQIbxAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Egg+test&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAAh-P1KL938xtHbIzGFid9fSrTRLKRGaPj22wexi40bvofri6XGqrE_0Lf4u8bS2-wN6j75S7pWkzBv_dtUHDp-26sBRWNVeygyijnRkvrEETBrFR3Yi_cL5-wk56Q2xg3hl5g"
+    }
+  ],
+  "top_stories": [
+    {
+      "title": "5 egg myths dispelled by an expert, plus tips for every egg lover",
+      "link": "https://www.foxnews.com/food-drink/5-egg-myths-dispelled-expert-tips-egg-lover",
+      "source": "Fox News",
+      "date": "11 hours ago",
+      "thumbnail": "https://serpapi.com/searches/670a30f906f4f295164230ff/images/976142f7368790c6a86432d2b263b5fb2155edb4b5d43f5d.jpeg"
+    },
+    {
+      "title": "Which came first, the chicken or the egg? Scientists FINALLY settle the debate",
+      "link": "https://www.dailymail.co.uk/sciencetech/article-13945157/chicken-egg-scientists-debate-settle.html",
+      "source": "Daily Mail",
+      "date": "19 hours ago",
+      "thumbnail": "https://serpapi.com/searches/670a30f906f4f295164230ff/images/976142f7368790c66b858e723b7919f1747551734bc5c5cb.jpeg"
+    },
+    {
+      "title": "Egg Recall Upgraded to Most Severe Status by FDA Due to Salmonella Risk and Hospitalizations",
+      "link": "https://www.realsimple.com/egg-recall-upgraded-to-most-severe-status-8726388",
+      "source": "Real Simple",
+      "date": "1 day ago",
+      "thumbnail": "https://serpapi.com/searches/670a30f906f4f295164230ff/images/976142f7368790c69d009bb240dfd82654d51008df508915.jpeg"
+    },
+    {
+      "title": "Woman Saves Cracked Egg and Hatches Healthy Baby Chick",
+      "link": "https://www.aol.com/woman-saves-cracked-egg-hatches-185623898.html",
+      "source": "AOL.com",
+      "date": "9 hours ago",
+      "thumbnail": "https://serpapi.com/searches/670a30f906f4f295164230ff/images/976142f7368790c692465a3d9cf415ee43d41a6a878f8214.jpeg"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=egg&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQt8YBKAF6BAgPEAQ",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=egg&tbm=nws",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Egg price",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Egg+price&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQ1QJ6BAhPEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Egg+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Egg food",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Egg+food&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQ1QJ6BAhQEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Egg+food"
+    },
+    {
+      "block_position": 1,
+      "query": "Egg protein",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Egg+protein&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQ1QJ6BAhTEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Egg+protein"
+    },
+    {
+      "block_position": 1,
+      "query": "Egg nutrition",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Egg+nutrition&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQ1QJ6BAhREAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Egg+nutrition"
+    },
+    {
+      "block_position": 1,
+      "query": "Egg calories",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Egg+calories&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQ1QJ6BAhKEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Egg+calories"
+    },
+    {
+      "block_position": 1,
+      "query": "Egg game",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Egg+game&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQ1QJ6BAhMEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Egg+game"
+    },
+    {
+      "block_position": 1,
+      "query": "Egg slang",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Egg+slang&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQ1QJ6BAhLEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Egg+slang"
+    },
+    {
+      "block_position": 1,
+      "query": "Egg car",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Egg+car&sa=X&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQ1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Egg+car"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=egg&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=-zAKZ8DPHf6PwbkPnK2LqA0&start=10&sa=N&sstk=AagrsuhvDjkMMkNmLxdfYXxs9fSD0cj3saYTifYddSnjpt5H0loKWzyDDFyQQQpBiL3dhxZefwiH1tMEyqqKw6X73vPpkjGCzqj6rA&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQ8NMDegQIBBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=egg&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=-zAKZ8DPHf6PwbkPnK2LqA0&start=10&sa=N&sstk=AagrsuhvDjkMMkNmLxdfYXxs9fSD0cj3saYTifYddSnjpt5H0loKWzyDDFyQQQpBiL3dhxZefwiH1tMEyqqKw6X73vPpkjGCzqj6rA&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQ8tMDegQIBBAE",
+      "3": "https://www.google.com/search?q=egg&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=-zAKZ8DPHf6PwbkPnK2LqA0&start=20&sa=N&sstk=AagrsuhvDjkMMkNmLxdfYXxs9fSD0cj3saYTifYddSnjpt5H0loKWzyDDFyQQQpBiL3dhxZefwiH1tMEyqqKw6X73vPpkjGCzqj6rA&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQ8tMDegQIBBAG",
+      "4": "https://www.google.com/search?q=egg&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=-zAKZ8DPHf6PwbkPnK2LqA0&start=30&sa=N&sstk=AagrsuhvDjkMMkNmLxdfYXxs9fSD0cj3saYTifYddSnjpt5H0loKWzyDDFyQQQpBiL3dhxZefwiH1tMEyqqKw6X73vPpkjGCzqj6rA&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQ8tMDegQIBBAI",
+      "5": "https://www.google.com/search?q=egg&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=-zAKZ8DPHf6PwbkPnK2LqA0&start=40&sa=N&sstk=AagrsuhvDjkMMkNmLxdfYXxs9fSD0cj3saYTifYddSnjpt5H0loKWzyDDFyQQQpBiL3dhxZefwiH1tMEyqqKw6X73vPpkjGCzqj6rA&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQ8tMDegQIBBAK",
+      "6": "https://www.google.com/search?q=egg&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=-zAKZ8DPHf6PwbkPnK2LqA0&start=50&sa=N&sstk=AagrsuhvDjkMMkNmLxdfYXxs9fSD0cj3saYTifYddSnjpt5H0loKWzyDDFyQQQpBiL3dhxZefwiH1tMEyqqKw6X73vPpkjGCzqj6rA&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQ8tMDegQIBBAM",
+      "7": "https://www.google.com/search?q=egg&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=-zAKZ8DPHf6PwbkPnK2LqA0&start=60&sa=N&sstk=AagrsuhvDjkMMkNmLxdfYXxs9fSD0cj3saYTifYddSnjpt5H0loKWzyDDFyQQQpBiL3dhxZefwiH1tMEyqqKw6X73vPpkjGCzqj6rA&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQ8tMDegQIBBAO",
+      "8": "https://www.google.com/search?q=egg&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=-zAKZ8DPHf6PwbkPnK2LqA0&start=70&sa=N&sstk=AagrsuhvDjkMMkNmLxdfYXxs9fSD0cj3saYTifYddSnjpt5H0loKWzyDDFyQQQpBiL3dhxZefwiH1tMEyqqKw6X73vPpkjGCzqj6rA&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQ8tMDegQIBBAQ",
+      "9": "https://www.google.com/search?q=egg&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=-zAKZ8DPHf6PwbkPnK2LqA0&start=80&sa=N&sstk=AagrsuhvDjkMMkNmLxdfYXxs9fSD0cj3saYTifYddSnjpt5H0loKWzyDDFyQQQpBiL3dhxZefwiH1tMEyqqKw6X73vPpkjGCzqj6rA&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQ8tMDegQIBBAS",
+      "10": "https://www.google.com/search?q=egg&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=-zAKZ8DPHf6PwbkPnK2LqA0&start=90&sa=N&sstk=AagrsuhvDjkMMkNmLxdfYXxs9fSD0cj3saYTifYddSnjpt5H0loKWzyDDFyQQQpBiL3dhxZefwiH1tMEyqqKw6X73vPpkjGCzqj6rA&ved=2ahUKEwiAuaWPtIiJAxX-RzABHZzWAtUQ8tMDegQIBBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=egg&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=egg&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=egg&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=egg&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=egg&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=egg&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=egg&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=egg&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=egg&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=egg&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=egg&start=90"
+    }
+  }
+}

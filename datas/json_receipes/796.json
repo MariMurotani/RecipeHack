@@ -1,0 +1,613 @@
+{
+  "search_metadata": {
+    "id": "670a2f9a7e1d1f546b9a9ba6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7a1c25125a468f49/670a2f9a7e1d1f546b9a9ba6.json",
+    "created_at": "2024-10-12 08:13:14 UTC",
+    "processed_at": "2024-10-12 08:13:14 UTC",
+    "google_url": "https://www.google.com/search?q=milk+human&oq=milk+human&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/7a1c25125a468f49/670a2f9a7e1d1f546b9a9ba6.html",
+    "total_time_taken": 1.41
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "milk human",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "milk human",
+    "total_results": 663000000,
+    "time_taken_displayed": 0.32,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "title": "Breast milk",
+    "entity_type": "food, kp3_verticals",
+    "kgmid": "/m/03cp0w",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/03cp0w&hl=en-US&q=Breast+milk",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F03cp0w&location=Austin%2CTexas%2CUnited+States&q=Breast+milk",
+    "description": "Breast milk or mother's milk is milk produced by the mammary glands in the breast of human females. Breast milk is the primary source of nutrition for newborn infants, comprising fats, proteins, carbohydrates, and a varying composition of minerals and vitamins.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Breast_milk"
+    },
+    "sources_include": "USDABreast milk171 Calories - 1 cup (246 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171279/nutrients"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "11 g",
+        "16%"
+      ],
+      "cholesterol": [
+        "34 mg",
+        "11%"
+      ],
+      "sodium": [
+        "42 mg",
+        "1%"
+      ],
+      "potassium": [
+        "125 mg",
+        "3%"
+      ],
+      "total_carbohydrate": [
+        "17 g",
+        "5%"
+      ],
+      "protein": [
+        "2.5 g",
+        "5%"
+      ]
+    }
+  },
+  "inline_images": [
+    {
+      "source": "https://en.wikipedia.org/wiki/Breast_milk",
+      "thumbnail": "https://serpapi.com/searches/670a2f9a7e1d1f546b9a9ba6/images/8a14efcab7254d981c0d78a5f94822f3727b6673ff4fbdf7efaeaf8a27f539aa.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Human_Breastmilk_-_Foremilk_and_Hindmilk.png/1200px-Human_Breastmilk_-_Foremilk_and_Hindmilk.png",
+      "title": "Breast milk - Wikipedia",
+      "source_name": "Wikipedia"
+    },
+    {
+      "source": "https://americanpregnancy.org/healthy-pregnancy/first-year-of-life/whats-in-breastmilk/",
+      "thumbnail": "https://serpapi.com/searches/670a2f9a7e1d1f546b9a9ba6/images/8a14efcab7254d98e0461467264d9248ba1f186f41a821bff33c473de409d3f7.jpeg",
+      "original": "https://americanpregnancy.org/wp-content/uploads/2012/04/whats-in-breast-milk-300x171.jpg",
+      "title": "What's in Breast Milk? | American Pregnancy Association",
+      "source_name": "American Pregnancy Association"
+    },
+    {
+      "source": "https://my.clevelandclinic.org/health/body/22201-lactation",
+      "thumbnail": "https://serpapi.com/searches/670a2f9a7e1d1f546b9a9ba6/images/8a14efcab7254d98ac41e5e453054ba2dcf5db57d08d31a244b8635c2294f504.jpeg",
+      "original": "https://my.clevelandclinic.org/-/scassets/images/org/health/articles/22201-lactation",
+      "title": "Lactation (Human Milk Production): How it Works",
+      "source_name": "Cleveland Clinic"
+    },
+    {
+      "source": "https://lllusa.org/the-curious-taste-of-human-milk/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4a78UiEItZBYkKubjj4PXZzjql5kDovwuO3tKsa-tC-jlXDMkPHrqSnA&s",
+      "original": "https://lllusa.org/wp-content/uploads/2022/11/53F2088A-21CC-4F82-8245-BB67DEBF0319-300x230.jpeg",
+      "title": "The Curious Taste of Human Milk - La Leche League USA",
+      "source_name": "La Leche League USA"
+    },
+    {
+      "source": "https://www.cepal.org/en/notes/human-milk-banks",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkiGv-KLOO1rKehG8ALnlaoN9MUgCh5Myi2HpExnO2x8OTrThOirtG-PQ&s",
+      "original": "https://www.cepal.org/sites/default/files/insights/images/4.jpg?timestamp=1513795196",
+      "title": "Human milk banks | CEPAL",
+      "source_name": "CEPAL"
+    },
+    {
+      "source": "https://health.howstuffworks.com/wellness/food-nutrition/facts/humans-built-drink-milk-adults.htm",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzh0iZe8DRlJaP-Dr4TirqZdcw-D_V2QDANc7D326ugWpR4-z4yXMGMHo&s",
+      "original": "https://cdn.hswstatic.com/gif/human-milk-crop.jpg",
+      "title": "Are humans built to drink milk as adults? | HowStuffWorks",
+      "source_name": "Health | HowStuffWorks"
+    },
+    {
+      "source": "https://www.unicef.org.uk/babyfriendly/breastfeeding-a-matter-of-human-rights-say-un-experts-urging-action-on-formula-milk/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzgjaU47-muwWqy7RqcCPVXw5j9Mofm4xVLS0a8rvimIVIEhpysy4Ylao&s",
+      "original": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2012/08/Neonatal-breastfeed-1500x1001.jpg",
+      "title": "Breastfeeding a matter of human rights, say UN experts ...",
+      "source_name": "Unicef UK"
+    },
+    {
+      "source": "https://ausnutria-nutrition-institute.com/knowledge-base/human-milk-and-infancy/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYgAum7oBFaCDSPCBcr919-9-enfRYNRnZHUNnDRhsfL2kYJSuhZhnHVY&s",
+      "original": "https://ausnutria-nutrition-institute.com/app/uploads/2022/10/human-milk_Knipsel-1024x485.jpg",
+      "title": "Human Milk and Infancy - Ausnutria Nutrition Institute",
+      "source_name": "Ausnutria Nutrition Institute"
+    },
+    {
+      "source": "https://parenting.firstcry.com/articles/comparing-the-goodness-of-human-milk-and-cows-milk-for-babies/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj2CqfrT_SH9EMrX4XCIa_O1BeKRcQxF6tTjCZT6Shi6daXGxCCOzpJvw&s",
+      "original": "https://cdn.cdnparenting.com/articles/2018/10/26164510/comparing-the-goodness-of-human-milk-and-cows-milk-for-babies.webp",
+      "title": "Comparing the Goodness of Human Milk and Cow's Milk For Babies",
+      "source_name": "FirstCry Parenting"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Can breasts lactate without being pregnant?",
+      "snippet": "Sometimes a woman's breasts make milk even though she is not pregnant or breastfeeding. This condition is called galactorrhea (say: guh-lack-tuh-ree-ah). The milk may come from one or both breasts. It may leak on its own or only when the breasts are touched.",
+      "title": "Galactorrhea: What You Should Know About It - AAFP",
+      "date": "Aug 1, 2004",
+      "link": "https://www.aafp.org/pubs/afp/issues/2004/0801/p553.html#:~:text=Sometimes%20a%20woman's%20breasts%20make,when%20the%20breasts%20are%20touched.",
+      "displayed_link": "https://www.aafp.org \u203a pubs \u203a afp \u203a issues",
+      "source_logo": "https://serpapi.com/searches/670a2f9a7e1d1f546b9a9ba6/images/3f5bb62fd63e8f2fecabd032dada62705a37dc85f4a7fc42cc39a27e71bec1c2.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T01rWk9SSFZUUlVGWWREWk1NMjUzYmkxSFpHdFRhVk5sWmpsVmQwcGlPVVpLZUV4dVVWbHlXa1J4TVd4NU16VTVPVGxVTkUxc1kxWk5VWGR6VERBM1ZXbzRSRmx0RWhkdGVUaExXbDk2ZEVkek1rbHdkRkZRYlRsVFozVkJVUm9pUVVaWWNrVmpjVTVaWXpoRmRXNUZOVXhHYTFoNE5tOVFSMUZIZGs4MWRrcDRkdyIsImZjdiI6IjMiLCJlaSI6Im15OEtaX3p0R3MySXB0UVBtOVNndUFRIiwicWMiOiJDZ3B0YVd4cklHaDFiV0Z1RUFBWUFYMENoa2NfIiwicXVlc3Rpb24iOiJDYW4gYnJlYXN0cyBsYWN0YXRlIHdpdGhvdXQgYmVpbmcgcHJlZ25hbnQ/IiwibGsiOiJHaXBqWVc0Z1luSmxZWE4wY3lCc1lXTjBZWFJsSUhkcGRHaHZkWFFnWW1WcGJtY2djSEpsWjI1aGJuUSIsImJzIjoiYzQyT1BRckNRQkNGc2QxS0VDR3N6ZmpYcU5YV1loQTdLenNMUVpna2steGlrZzNaQ1RtQ05fTUNIc2JXYUxRVFl2Mi05NzBuem1LNXd4eUNrdEN4Z3hSRFJpYW9EV3RiTVFSazhnU0trcEljY19hOXUxSXJ1UWpfYm9pOUdCODFNaGdIcnFEUVlBb1l2RGhkWlkwbE0tbkY5MjRqTlpGUWQzRGlJR1piYmpGTUNDSUxNV1dZa212bWJGU0Y5TkZkTjJvdXA5aU5pcldBN3p2V0JMRXBIYjhUc0hHNzdIdVBreHJLd1ktbzMzc0MiLCJpZCI6ImZjX215OEtaX3p0R3MySXB0UVBtOVNndUFRXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T01rWk9SSFZUUlVGWWREWk1NMjUzYmkxSFpHdFRhVk5sWmpsVmQwcGlPVVpLZUV4dVVWbHlXa1J4TVd4NU16VTVPVGxVTkUxc1kxWk5VWGR6VERBM1ZXbzRSRmx0RWhkdGVUaExXbDk2ZEVkek1rbHdkRkZRYlRsVFozVkJVUm9pUVVaWWNrVmpjVTVaWXpoRmRXNUZOVXhHYTFoNE5tOVFSMUZIZGs4MWRrcDRkdyIsImZjdiI6IjMiLCJlaSI6Im15OEtaX3p0R3MySXB0UVBtOVNndUFRIiwicWMiOiJDZ3B0YVd4cklHaDFiV0Z1RUFBWUFYMENoa2NfIiwicXVlc3Rpb24iOiJDYW4gYnJlYXN0cyBsYWN0YXRlIHdpdGhvdXQgYmVpbmcgcHJlZ25hbnQ%2FIiwibGsiOiJHaXBqWVc0Z1luSmxZWE4wY3lCc1lXTjBZWFJsSUhkcGRHaHZkWFFnWW1WcGJtY2djSEpsWjI1aGJuUSIsImJzIjoiYzQyT1BRckNRQkNGc2QxS0VDR3N6ZmpYcU5YV1loQTdLenNMUVpna2steGlrZzNaQ1RtQ05fTUNIc2JXYUxRVFl2Mi05NzBuem1LNXd4eUNrdEN4Z3hSRFJpYW9EV3RiTVFSazhnU0trcEljY19hOXUxSXJ1UWpfYm9pOUdCODFNaGdIcnFEUVlBb1l2RGhkWlkwbE0tbkY5MjRqTlpGUWQzRGlJR1piYmpGTUNDSUxNV1dZa212bWJGU0Y5TkZkTjJvdXA5aU5pcldBN3p2V0JMRXBIYjhUc0hHNzdIdVBreHJLd1ktbzMzc0MiLCJpZCI6ImZjX215OEtaX3p0R3MySXB0UVBtOVNndUFRXzEifQ%3D%3D"
+    },
+    {
+      "question": "What is special about human milk?",
+      "snippet": "Human breast milk contains carbohydrates, protein, fat, vitamins, minerals, digestive enzymes and hormones. In addition to these nutrients, it is rich in immune cells, including macrophages, stem cells, and numerous other bioactive molecules.",
+      "title": "Review of Infant Feeding: Key Features of Breast Milk and ... - NCBI",
+      "date": "May 11, 2016",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4882692/#:~:text=Human%20breast%20milk%20contains%20carbohydrates,and%20numerous%20other%20bioactive%20molecules.",
+      "displayed_link": "https://www.ncbi.nlm.nih.gov \u203a articles \u203a PMC4882692",
+      "source_logo": "https://serpapi.com/searches/670a2f9a7e1d1f546b9a9ba6/images/3f5bb62fd63e8f2fecabd032dada627001861f686aca58a2201e2030628fc590.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T01rWk9SSFZUUlVGWWREWk1NMjUzYmkxSFpHdFRhVk5sWmpsVmQwcGlPVVpLZUV4dVVWbHlXa1J4TVd4NU16VTVPVGxVTkUxc1kxWk5VWGR6VERBM1ZXbzRSRmx0RWhkdGVUaExXbDk2ZEVkek1rbHdkRkZRYlRsVFozVkJVUm9pUVVaWWNrVmpjVTVaWXpoRmRXNUZOVXhHYTFoNE5tOVFSMUZIZGs4MWRrcDRkdyIsImZjdiI6IjMiLCJlaSI6Im15OEtaX3p0R3MySXB0UVBtOVNndUFRIiwicWMiOiJDZ3B0YVd4cklHaDFiV0Z1RUFBWUFYMENoa2NfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHNwZWNpYWwgYWJvdXQgaHVtYW4gbWlsaz8iLCJsayI6IkdpQjNhR0YwSUdseklITndaV05wWVd3Z1lXSnZkWFFnYUhWdFlXNGdiV2xzYXciLCJicyI6ImM0Mk9QUXJDUUJDRnNkMUtFQ0dzemZqWHFOWFdZaEE3S3pzTFFaZ2trLXhpa2czWkNUbUNOX01DSHNiV2FMUVRZdjItOTcwbnptSzV3eHlDa3RDeGd4UkRSaWFvRFd0Yk1RUms4Z1NLa3BJY2NfYTl1MUlydVFqX2JvaTlHQjgxTWhnSHJxRFFZQW9ZdkRoZFpZMGxNLW5GOTI0ak5aRlFkM0RpSUdaYmJqRk1DQ0lMTVdXWWttdm1iRlNGOU5GZE4yb3VwOWlOaXJXQTd6dldCTEVwSGI4VHNIRzc3SHVQa3hyS3dZLW8zM3NDIiwiaWQiOiJmY19teThLWl96dEdzMklwdFFQbTlTZ3VBUV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T01rWk9SSFZUUlVGWWREWk1NMjUzYmkxSFpHdFRhVk5sWmpsVmQwcGlPVVpLZUV4dVVWbHlXa1J4TVd4NU16VTVPVGxVTkUxc1kxWk5VWGR6VERBM1ZXbzRSRmx0RWhkdGVUaExXbDk2ZEVkek1rbHdkRkZRYlRsVFozVkJVUm9pUVVaWWNrVmpjVTVaWXpoRmRXNUZOVXhHYTFoNE5tOVFSMUZIZGs4MWRrcDRkdyIsImZjdiI6IjMiLCJlaSI6Im15OEtaX3p0R3MySXB0UVBtOVNndUFRIiwicWMiOiJDZ3B0YVd4cklHaDFiV0Z1RUFBWUFYMENoa2NfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHNwZWNpYWwgYWJvdXQgaHVtYW4gbWlsaz8iLCJsayI6IkdpQjNhR0YwSUdseklITndaV05wWVd3Z1lXSnZkWFFnYUhWdFlXNGdiV2xzYXciLCJicyI6ImM0Mk9QUXJDUUJDRnNkMUtFQ0dzemZqWHFOWFdZaEE3S3pzTFFaZ2trLXhpa2czWkNUbUNOX01DSHNiV2FMUVRZdjItOTcwbnptSzV3eHlDa3RDeGd4UkRSaWFvRFd0Yk1RUms4Z1NLa3BJY2NfYTl1MUlydVFqX2JvaTlHQjgxTWhnSHJxRFFZQW9ZdkRoZFpZMGxNLW5GOTI0ak5aRlFkM0RpSUdaYmJqRk1DQ0lMTVdXWWttdm1iRlNGOU5GZE4yb3VwOWlOaXJXQTd6dldCTEVwSGI4VHNIRzc3SHVQa3hyS3dZLW8zM3NDIiwiaWQiOiJmY19teThLWl96dEdzMklwdFFQbTlTZ3VBUV8xIn0%3D"
+    },
+    {
+      "question": "At what age do females produce milk?",
+      "snippet": "So, When Does Breast Milk Come In? Though colostrum production begins as early as 16 weeks pregnant and should begin to be expressed right away after birth (with some moms even experiencing occasional leakage later in pregnancy), its look and composition differs significantly from your later breast milk.",
+      "title": "When Does Breast Milk Come In? Signs and What to Expect | Medela",
+      "link": "https://www.medela.com/en-us/breastfeeding-pumping/articles/pregnancy-preparation/when-does-breast-milk-come-in-what-to-look-for-and-how-you-ll-know#:~:text=So%2C%20When%20Does%20Breast%20Milk,from%20your%20later%20breast%20milk.",
+      "displayed_link": "https://www.medela.com \u203a en-us \u203a pregnancy-preparation",
+      "source_logo": "https://serpapi.com/searches/670a2f9a7e1d1f546b9a9ba6/images/3f5bb62fd63e8f2fecabd032dada62707497a37dd7aee883bf3ef1fd7724ffcf.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T01rWk9SSFZUUlVGWWREWk1NMjUzYmkxSFpHdFRhVk5sWmpsVmQwcGlPVVpLZUV4dVVWbHlXa1J4TVd4NU16VTVPVGxVTkUxc1kxWk5VWGR6VERBM1ZXbzRSRmx0RWhkdGVUaExXbDk2ZEVkek1rbHdkRkZRYlRsVFozVkJVUm9pUVVaWWNrVmpjVTVaWXpoRmRXNUZOVXhHYTFoNE5tOVFSMUZIZGs4MWRrcDRkdyIsImZjdiI6IjMiLCJlaSI6Im15OEtaX3p0R3MySXB0UVBtOVNndUFRIiwicWMiOiJDZ3B0YVd4cklHaDFiV0Z1RUFBWUFYMENoa2NfIiwicXVlc3Rpb24iOiJBdCB3aGF0IGFnZSBkbyBmZW1hbGVzIHByb2R1Y2UgbWlsaz8iLCJsayI6IkdpTmhkQ0IzYUdGMElHRm5aU0JrYnlCbVpXMWhiR1Z6SUhCeWIyUjFZMlVnYldsc2F3IiwiYnMiOiJjNDJPUFFyQ1FCQ0ZzZDFLRUNHc3pmalhxTlhXWWhBN0t6c0xRWmdray14aWtnM1pDVG1DTl9NQ0hzYldhTFFUWXYyLTk3MG56bUs1d3h5Q2t0Q3hneFJEUmlhb0RXdGJNUVJrOGdTS2twSWNjX2E5dTFJcnVRal9ib2k5R0I4MU1oZ0hycURRWUFvWXZEaGRaWTBsTS1uRjkyNGpOWkZRZDNEaUlHWmJiakZNQ0NJTE1XV1lrbXZtYkZTRjlORmROMm91cDlpTmlyV0E3enZXQkxFcEhiOFRzSEc3N0h1UGt4ckt3WS1vMzNzQyIsImlkIjoiZmNfbXk4S1pfenRHczJJcHRRUG05U2d1QVFfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T01rWk9SSFZUUlVGWWREWk1NMjUzYmkxSFpHdFRhVk5sWmpsVmQwcGlPVVpLZUV4dVVWbHlXa1J4TVd4NU16VTVPVGxVTkUxc1kxWk5VWGR6VERBM1ZXbzRSRmx0RWhkdGVUaExXbDk2ZEVkek1rbHdkRkZRYlRsVFozVkJVUm9pUVVaWWNrVmpjVTVaWXpoRmRXNUZOVXhHYTFoNE5tOVFSMUZIZGs4MWRrcDRkdyIsImZjdiI6IjMiLCJlaSI6Im15OEtaX3p0R3MySXB0UVBtOVNndUFRIiwicWMiOiJDZ3B0YVd4cklHaDFiV0Z1RUFBWUFYMENoa2NfIiwicXVlc3Rpb24iOiJBdCB3aGF0IGFnZSBkbyBmZW1hbGVzIHByb2R1Y2UgbWlsaz8iLCJsayI6IkdpTmhkQ0IzYUdGMElHRm5aU0JrYnlCbVpXMWhiR1Z6SUhCeWIyUjFZMlVnYldsc2F3IiwiYnMiOiJjNDJPUFFyQ1FCQ0ZzZDFLRUNHc3pmalhxTlhXWWhBN0t6c0xRWmdray14aWtnM1pDVG1DTl9NQ0hzYldhTFFUWXYyLTk3MG56bUs1d3h5Q2t0Q3hneFJEUmlhb0RXdGJNUVJrOGdTS2twSWNjX2E5dTFJcnVRal9ib2k5R0I4MU1oZ0hycURRWUFvWXZEaGRaWTBsTS1uRjkyNGpOWkZRZDNEaUlHWmJiakZNQ0NJTE1XV1lrbXZtYkZTRjlORmROMm91cDlpTmlyV0E3enZXQkxFcEhiOFRzSEc3N0h1UGt4ckt3WS1vMzNzQyIsImlkIjoiZmNfbXk4S1pfenRHczJJcHRRUG05U2d1QVFfMSJ9"
+    },
+    {
+      "question": "What is the first milk of human?",
+      "snippet": "Colostrum is the first form of breastmilk that is released by the mammary glands after giving birth. It's nutrient-dense and high in antibodies and antioxidants to build a newborn baby's immune system. It changes to breast milk within two to four days after your baby is born.",
+      "title": "Colostrum",
+      "date": "Feb 21, 2022",
+      "link": "https://my.clevelandclinic.org/health/body/22434-colostrum#:~:text=Colostrum%20is%20the%20first%20form,after%20your%20baby%20is%20born.",
+      "displayed_link": "https://my.clevelandclinic.org \u203a body \u203a 22434-colostrum",
+      "source_logo": "https://serpapi.com/searches/670a2f9a7e1d1f546b9a9ba6/images/3f5bb62fd63e8f2fecabd032dada627056f4adb7c9e2a9b4dfc2b915db70bbaa.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T01rWk9SSFZUUlVGWWREWk1NMjUzYmkxSFpHdFRhVk5sWmpsVmQwcGlPVVpLZUV4dVVWbHlXa1J4TVd4NU16VTVPVGxVTkUxc1kxWk5VWGR6VERBM1ZXbzRSRmx0RWhkdGVUaExXbDk2ZEVkek1rbHdkRkZRYlRsVFozVkJVUm9pUVVaWWNrVmpjVTVaWXpoRmRXNUZOVXhHYTFoNE5tOVFSMUZIZGs4MWRrcDRkdyIsImZjdiI6IjMiLCJlaSI6Im15OEtaX3p0R3MySXB0UVBtOVNndUFRIiwicWMiOiJDZ3B0YVd4cklHaDFiV0Z1RUFBWUFYMENoa2NfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBmaXJzdCBtaWxrIG9mIGh1bWFuPyIsImxrIjoiR2hObWFYSnpkQ0J0YVd4cklHOW1JR2gxYldGdSIsImJzIjoiYzQyT1BRckNRQkNGc2QxS0VDR3N6ZmpYcU5YV1loQTdLenNMUVpna2steGlrZzNaQ1RtQ05fTUNIc2JXYUxRVFl2Mi05NzBuem1LNXd4eUNrdEN4Z3hSRFJpYW9EV3RiTVFSazhnU0trcEljY19hOXUxSXJ1UWpfYm9pOUdCODFNaGdIcnFEUVlBb1l2RGhkWlkwbE0tbkY5MjRqTlpGUWQzRGlJR1piYmpGTUNDSUxNV1dZa212bWJGU0Y5TkZkTjJvdXA5aU5pcldBN3p2V0JMRXBIYjhUc0hHNzdIdVBreHJLd1ktbzMzc0MiLCJpZCI6ImZjX215OEtaX3p0R3MySXB0UVBtOVNndUFRXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T01rWk9SSFZUUlVGWWREWk1NMjUzYmkxSFpHdFRhVk5sWmpsVmQwcGlPVVpLZUV4dVVWbHlXa1J4TVd4NU16VTVPVGxVTkUxc1kxWk5VWGR6VERBM1ZXbzRSRmx0RWhkdGVUaExXbDk2ZEVkek1rbHdkRkZRYlRsVFozVkJVUm9pUVVaWWNrVmpjVTVaWXpoRmRXNUZOVXhHYTFoNE5tOVFSMUZIZGs4MWRrcDRkdyIsImZjdiI6IjMiLCJlaSI6Im15OEtaX3p0R3MySXB0UVBtOVNndUFRIiwicWMiOiJDZ3B0YVd4cklHaDFiV0Z1RUFBWUFYMENoa2NfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBmaXJzdCBtaWxrIG9mIGh1bWFuPyIsImxrIjoiR2hObWFYSnpkQ0J0YVd4cklHOW1JR2gxYldGdSIsImJzIjoiYzQyT1BRckNRQkNGc2QxS0VDR3N6ZmpYcU5YV1loQTdLenNMUVpna2steGlrZzNaQ1RtQ05fTUNIc2JXYUxRVFl2Mi05NzBuem1LNXd4eUNrdEN4Z3hSRFJpYW9EV3RiTVFSazhnU0trcEljY19hOXUxSXJ1UWpfYm9pOUdCODFNaGdIcnFEUVlBb1l2RGhkWlkwbE0tbkY5MjRqTlpGUWQzRGlJR1piYmpGTUNDSUxNV1dZa212bWJGU0Y5TkZkTjJvdXA5aU5pcldBN3p2V0JMRXBIYjhUc0hHNzdIdVBreHJLd1ktbzMzc0MiLCJpZCI6ImZjX215OEtaX3p0R3MySXB0UVBtOVNndUFRXzEifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Lactation (Human Milk Production): How it Works",
+      "link": "https://my.clevelandclinic.org/health/body/22201-lactation",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://my.clevelandclinic.org/health/body/22201-lactation&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQFnoECBQQAQ",
+      "displayed_link": "https://my.clevelandclinic.org \u203a body \u203a 22201-lactation",
+      "thumbnail": "https://serpapi.com/searches/670a2f9a7e1d1f546b9a9ba6/images/beb3b75b16014a885b6abab751d2bc848f5b9971b6acf382a9238abfeaff68f0.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2f9a7e1d1f546b9a9ba6/images/beb3b75b16014a885b6abab751d2bc84802ebdf32d44d8359cae6695ee2a8f1e.png",
+      "snippet": "Lactation is the process of creating and releasing human milk from the mammary glands. It occurs naturally after giving birth, but can also be induced.",
+      "snippet_highlighted_words": [
+        "human milk"
+      ],
+      "source": "Cleveland Clinic"
+    },
+    {
+      "position": 2,
+      "title": "Human Milk Banking Association of North America",
+      "link": "https://www.hmbana.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hmbana.org/&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQFnoECE8QAQ",
+      "displayed_link": "https://www.hmbana.org",
+      "thumbnail": "https://serpapi.com/searches/670a2f9a7e1d1f546b9a9ba6/images/beb3b75b16014a885b6abab751d2bc84b786d127a3c11cfb10d5db3ac12bf470.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2f9a7e1d1f546b9a9ba6/images/beb3b75b16014a885b6abab751d2bc84c7333cb69ae8a7ae33cdac3c06be7554.png",
+      "snippet": "The Human Milk Banking Association of North America (HMBANA) believes in a world where all infants have access to human milk through support of breastfeeding ...",
+      "snippet_highlighted_words": [
+        "Human Milk",
+        "human milk"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Donate Milk",
+            "link": "https://www.hmbana.org/how-to-help/donate-milk.html"
+          },
+          {
+            "title": "Find a Milk Bank",
+            "link": "https://www.hmbana.org/find-a-milk-bank/"
+          },
+          {
+            "title": "Conference Information",
+            "link": "https://www.hmbana.org/news/events.html"
+          },
+          {
+            "title": "About",
+            "link": "https://www.hmbana.org/about-us/"
+          }
+        ]
+      },
+      "source": "Human Milk Banking Association of North America (HMBANA)"
+    },
+    {
+      "position": 3,
+      "title": "Human Milk Composition: Nutrients and Bioactive Factors",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3586783/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3586783/&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQFnoECEcQAQ",
+      "displayed_link": "https://www.ncbi.nlm.nih.gov \u203a articles \u203a PMC3586783",
+      "favicon": "https://serpapi.com/searches/670a2f9a7e1d1f546b9a9ba6/images/beb3b75b16014a885b6abab751d2bc84277df8b6b7f756e79fee0110918e1b67.png",
+      "author": "by O Ballard",
+      "cited_by": "Cited by 3619",
+      "extracted_cited_by": 3619,
+      "date": "2013",
+      "snippet": "This article provides an overview of the composition of human milk, sources of its variation, and its clinical relevance.",
+      "snippet_highlighted_words": [
+        "human milk"
+      ],
+      "source": "National Institutes of Health (NIH) (.gov)"
+    },
+    {
+      "position": 4,
+      "title": "Breast milk",
+      "link": "https://en.wikipedia.org/wiki/Breast_milk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Breast_milk&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQFnoECEkQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Breast_milk",
+      "favicon": "https://serpapi.com/searches/670a2f9a7e1d1f546b9a9ba6/images/beb3b75b16014a885b6abab751d2bc8404fa0e7c45e58d56c9094d6b453557b8.png",
+      "snippet": "Breast milk is the primary source of nutrition for newborn infants, comprising fats, proteins, carbohydrates, and a varying composition of minerals and vitamins ...",
+      "snippet_highlighted_words": [
+        "milk"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 5,
+      "title": "Human Milk and Lactation",
+      "link": "https://emedicine.medscape.com/article/1835675-overview",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://emedicine.medscape.com/article/1835675-overview&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQFnoECEwQAQ",
+      "displayed_link": "https://emedicine.medscape.com \u203a 1835675-overview",
+      "favicon": "https://serpapi.com/searches/670a2f9a7e1d1f546b9a9ba6/images/beb3b75b16014a885b6abab751d2bc84e09834b826653fdd5d8d92e9668c5bf4.png",
+      "date": "Jun 29, 2021",
+      "snippet": "Breast milk is composed of many essential substances for optimal growth and development, including carbohydrates, fats, and proteins.",
+      "snippet_highlighted_words": [
+        "milk"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Background",
+            "link": "https://emedicine.medscape.com/article/1835675-overview#a5"
+          },
+          {
+            "title": "Physiology",
+            "link": "https://emedicine.medscape.com/article/1835675-overview#a7"
+          },
+          {
+            "title": "Human Milk and Preterm Infant",
+            "link": "https://emedicine.medscape.com/article/1835675-overview#a8"
+          }
+        ]
+      },
+      "source": "Medscape"
+    },
+    {
+      "position": 6,
+      "title": "Milk, human, mature, fluid (For Reference Only)",
+      "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171279/nutrients",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fdc.nal.usda.gov/fdc-app.html%23/food-details/171279/nutrients&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQFnoECEUQAQ",
+      "displayed_link": "https://fdc.nal.usda.gov \u203a fdc-app",
+      "favicon": "https://serpapi.com/searches/670a2f9a7e1d1f546b9a9ba6/images/beb3b75b16014a885b6abab751d2bc84779f857f9b1be43cd766e16f8bdfa221.png",
+      "snippet": "Milk, human, mature, fluid (For Reference Only) ; Total lipid (fat), 4.38, g ; Ash, 0.2, g ; Carbohydrate, by difference, 6.89, g ; Fiber, total dietary, 0, g.",
+      "snippet_highlighted_words": [
+        "Milk",
+        "human"
+      ],
+      "source": "USDA FoodData Central (.gov)"
+    },
+    {
+      "position": 7,
+      "title": "Policy Statement: Breastfeeding and the Use of Human Milk",
+      "link": "https://publications.aap.org/pediatrics/article/150/1/e2022057988/188347/Policy-Statement-Breastfeeding-and-the-Use-of",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://publications.aap.org/pediatrics/article/150/1/e2022057988/188347/Policy-Statement-Breastfeeding-and-the-Use-of&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQFnoECEYQAQ",
+      "displayed_link": "https://publications.aap.org \u203a pediatrics \u203a article \u203a Polic...",
+      "favicon": "https://serpapi.com/searches/670a2f9a7e1d1f546b9a9ba6/images/beb3b75b16014a885b6abab751d2bc846b6ed92ef9604c0d5208e1cfb849a632.png",
+      "date": "Jun 27, 2022",
+      "snippet": "The AAP recommends exclusive breastfeeding for about 6 months. Complementary solids should be introduced at about 6 months for most infants.",
+      "source": "AAP"
+    },
+    {
+      "position": 8,
+      "title": "Breast Milk Storage and Preparation",
+      "link": "https://www.cdc.gov/breastfeeding/breast-milk-preparation-and-storage/handling-breastmilk.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cdc.gov/breastfeeding/breast-milk-preparation-and-storage/handling-breastmilk.html&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQFnoECEsQAQ",
+      "displayed_link": "https://www.cdc.gov \u203a breastfeeding \u203a handling-breast...",
+      "favicon": "https://serpapi.com/searches/670a2f9a7e1d1f546b9a9ba6/images/beb3b75b16014a885b6abab751d2bc846da4736b78c28c9c3c05f44eec72ca4a.png",
+      "date": "Nov 27, 2023",
+      "snippet": "These guidelines provide information for storing human milk at different temperatures and for preparing human milk after storage.",
+      "snippet_highlighted_words": [
+        "human milk",
+        "human milk"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Clean, Sanitize",
+            "link": "https://www.cdc.gov/hygiene/faq/index.html"
+          },
+          {
+            "title": "About Breast Pump Hygiene",
+            "link": "https://www.cdc.gov/hygiene/about/about-breast-pump-hygiene.html"
+          },
+          {
+            "title": "Breastfeeding",
+            "link": "https://www.cdc.gov/breastfeeding/php/guidelines-recommendations/faqs.html"
+          }
+        ]
+      },
+      "source": "Centers for Disease Control and Prevention (.gov)"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=milk+human&udm=2&source=univ&fir=_nPfJdABF4Ln1M%252CuUD_PDzgf6oENM%252C_%253BWydxBFhm6rOZ9M%252CrDxqTYk6rCPiaM%252C_%253BNk3ahLCE1AeJSM%252CwxIkmmSqzWNPQM%252C_%253BEreAU75l2A71jM%252CRc6IS2dPLUSGjM%252C_%253BUcYD0xZQSpgP3M%252CzQWXhdlgfpH8cM%252C_%253BNbD2GrLWgrbyyM%252Cr7X4uI5z3UkFNM%252C_%253Bl4eyAsbImrd4-M%252C8cTfSQdPak9CjM%252C_%253BpNVYUSTpI2f6CM%252CKIYEMKQyVfzceM%252C_%253BwyeSy2MeKn4ZjM%252CD9gqHEZH2ne49M%252C_&usg=AI4_-kTgUS9Wj2YYfl--7oPPvGQGEphKmQ&sa=X&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQ7Al6BAgWEAY",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=milk+human",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Milk human vs human",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Milk+human+vs+human&sa=X&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQ1QJ6BAhaEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Milk+human+vs+human"
+    },
+    {
+      "block_position": 1,
+      "query": "Can a woman produce milk without being pregnant",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Can+a+woman+produce+milk+without+being+pregnant&sa=X&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQ1QJ6BAhVEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Can+a+woman+produce+milk+without+being+pregnant"
+    },
+    {
+      "block_position": 1,
+      "query": "Girl milk baby",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Girl+milk+baby&sa=X&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQ1QJ6BAhQEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Girl+milk+baby"
+    },
+    {
+      "block_position": 1,
+      "query": "Breast milk protein per 100mL",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Breast+milk+protein+per+100mL&sa=X&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQ1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Breast+milk+protein+per+100mL"
+    },
+    {
+      "block_position": 1,
+      "query": "How is breast milk made from blood",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=How+is+breast+milk+made+from+blood&sa=X&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQ1QJ6BAhKEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=How+is+breast+milk+made+from+blood"
+    },
+    {
+      "block_position": 1,
+      "query": "Milk human benefits",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Milk+human+benefits&sa=X&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQ1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Milk+human+benefits"
+    },
+    {
+      "block_position": 1,
+      "query": "What does your body need to produce breast milk",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=What+does+your+body+need+to+produce+breast+milk&sa=X&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=What+does+your+body+need+to+produce+breast+milk"
+    },
+    {
+      "block_position": 1,
+      "query": "5 types of breast milk",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=5+types+of+breast+milk&sa=X&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=5+types+of+breast+milk"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "drinking human milk is somehow weirder than drinking cow milk",
+      "link": "https://www.reddit.com/r/Showerthoughts/comments/19eujb6/drinking_human_milk_is_somehow_weirder_than/",
+      "date": "8mo ago",
+      "extensions": [
+        "r/Showerthoughts",
+        "280+ comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "Would you buy human milk over cows milk if it were in stores?",
+      "link": "https://www.reddit.com/r/TooAfraidToAsk/comments/wqdvy9/would_you_buy_human_milk_over_cows_milk_if_it/",
+      "date": "2y ago",
+      "extensions": [
+        "r/TooAfraidToAsk",
+        "290+ comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "What are some key differences between human milk and cow's ...",
+      "link": "https://www.quora.com/What-are-some-key-differences-between-human-milk-and-cows-milk-in-terms-of-nutrient-composition-and-function",
+      "date": "5mo ago",
+      "extensions": [
+        "1 answer"
+      ],
+      "source": "Quora"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Healthy or not",
+        "subtitle": "Is Breast Milk Healthy?",
+        "title": "Breast Milk Is Best | Johns Hopkins Medicine",
+        "link": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/breastfeeding-your-baby/breast-milk-is-the-best-milk#:~:text=Breastmilk%20has%20the%20nutrients%20that,types%20of%20fat%20in%20breastmilk.",
+        "displayed_link": "https://www.hopkinsmedicine.org \u203a health \u203a breast-milk-...",
+        "snippet": "Breastmilk has the nutrients that are best for your baby's brain growth and nervous system development. Studies of breastfed babies have found that they do better on intelligence tests when they grow older. A breastfed baby's eyes also work better. This is mostly because of certain types of fat in breastmilk.",
+        "snippet_highlighted_words": [
+          "Breastmilk has the nutrients that are best for your baby's brain growth and nervous system development"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2f9a7e1d1f546b9a9ba6/images/417957347c40a8059bdf1bebdedbc196b4cd7a5bad009bec0b00fcabbc02b88218016606624c4147.png",
+        "source": "hopkinsmedicine.org",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=is+breast+milk+healthy&sa=X&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQrooIegQIGhAF",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=is+breast+milk+healthy"
+      },
+      {
+        "text": "Benefits for babies",
+        "subtitle": "Why Is Breast Milk So Good For Babies?",
+        "title": "Why is Breastfeeding Important for your Baby?",
+        "link": "https://www.health.ny.gov/prevention/nutrition/wic/breastfeeding/importance.htm#:~:text=Breast%20milk%20helps%20keep%20your%20baby%20healthy.&text=It%20protects%20against%20allergies%2C%20sickness,constipation%2C%20diarrhea%20or%20upset%20stomach.",
+        "displayed_link": "https://www.health.ny.gov \u203a breastfeeding \u203a importance",
+        "snippet": "Breast milk helps keep your baby healthy. It protects against allergies, sickness, and obesity. It protects against diseases, like diabetes and cancer. It protects against infections, like ear infections. It is easily digested \u2013 no constipation, diarrhea or upset stomach.",
+        "snippet_highlighted_words": [
+          "helps keep your baby healthy"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2f9a7e1d1f546b9a9ba6/images/417957347c40a8059bdf1bebdedbc19602749ef11b2da6d37f5c0aedd6b905d73e6498d91364057c.jpeg",
+        "source": "ny.gov",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=why+is+breast+milk+so+good+for+babies&sa=X&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQrooIegQIGhAK",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=why+is+breast+milk+so+good+for+babies"
+      },
+      {
+        "text": "Taste",
+        "subtitle": "What Does Breast Milk Taste Like?",
+        "title": "What does breast milk taste like? | BabyCenter",
+        "link": "https://www.babycenter.com/baby/breastfeeding/what-does-breast-milk-taste-like_41001682#:~:text=The%20flavor%20of%20breast%20milk%20varies%2C%20but%20it's%20most%20often,makes%20it%20taste%20like%20sugar.",
+        "displayed_link": "https://www.babycenter.com \u203a baby \u203a breastfeeding \u203a w...",
+        "date": "Jan 16, 2024",
+        "snippet": "The flavor of breast milk varies, but it's most often described as very sweet. It contains water, fat, carbohydrates (lactose), proteins, vitamins and minerals, and amino acids. It's the lactose \u2013 which makes up about 7% of breast milk \u2013 that makes it taste like sugar.",
+        "snippet_highlighted_words": [
+          "very sweet"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2f9a7e1d1f546b9a9ba6/images/417957347c40a8059bdf1bebdedbc196d3e9cb3f4dec7486c4ee004d8b4d30a113715f1ca3c37d92.png",
+        "source": "babycenter.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=what+does+breast+milk+taste+like&sa=X&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQrooIegQIGhAP",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+does+breast+milk+taste+like"
+      },
+      {
+        "text": "Production",
+        "subtitle": "How Much Breast Milk Can A Woman Produce?",
+        "title": "What's A Normal Breast Milk Supply? - Nest Collaborative",
+        "link": "https://nestcollaborative.com/blog/whats-a-normal-breast-milk-supply/#:~:text=For%20example%2C%20a%20more%20typical,wrapped%20up%20in%20specific%20quantities.",
+        "displayed_link": "https://nestcollaborative.com \u203a blog \u203a whats-a-normal-br...",
+        "snippet": "For example, a more typical amount of milk for a mom to produce is 570-900 mL/19.27-30.43 oz a day. The numbers also don't show milk supply for newborns, only 1-6-month-olds. But we'd caution moms from getting too wrapped up in specific quantities.",
+        "snippet_highlighted_words": [
+          "570-900 mL/19.27-30.43 oz a day"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2f9a7e1d1f546b9a9ba6/images/417957347c40a8059bdf1bebdedbc196a0572a5f7d25c7edbd6e874fd72b1d708c4531189688c5ae.png",
+        "source": "nestcollaborative.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ6eVqdZLO_wsxswAEliq3gVEnUSO2QaGZHO-Fljf5pz4&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=how+much+breast+milk+can+a+woman+produce&sa=X&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQrooIegQIGhAX",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+much+breast+milk+can+a+woman+produce"
+      },
+      {
+        "text": "Duration",
+        "subtitle": "How Long Can A Woman Have Breast Milk",
+        "title": "Lactation (Human Milk Production): How it Works - Cleveland Clinic",
+        "link": "https://my.clevelandclinic.org/health/body/22201-lactation#:~:text=Some%20can%20produce%20milk%20for,Hormonal%20levels%20and%20conditions.",
+        "displayed_link": "https://my.clevelandclinic.org \u203a body \u203a 22201-lactation",
+        "snippet": "Some can produce milk for years, while others have trouble producing enough milk for their baby. Some common factors that can impact lactation or breastfeeding are: Hormonal levels and conditions.",
+        "snippet_highlighted_words": [
+          "Some can produce milk for years"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2f9a7e1d1f546b9a9ba6/images/417957347c40a8059bdf1bebdedbc1964419f71b8b48ad624a944aa0b324c39ba8100ffd06b047d2.png",
+        "source": "clevelandclinic.org",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=how+long+can+a+woman+have+breast+milk&sa=X&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQrooIegQIGhAd",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+long+can+a+woman+have+breast+milk"
+      },
+      {
+        "text": "Protein Amount",
+        "subtitle": "How Much Protein Is In Breast Milk?",
+        "title": "Review of Infant Feeding: Key Features of Breast Milk and ... - NCBI",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4882692/#:~:text=During%20early%20lactation%2C%20the%20protein,to%20weight%20gain%20during%20pregnancy.",
+        "displayed_link": "https://www.ncbi.nlm.nih.gov \u203a articles \u203a PMC4882692",
+        "date": "May 11, 2016",
+        "snippet": "During early lactation, the protein content in human milk ranges from 1.4\u20131.6 g/100 mL, to 0.8\u20131.0 g/100 mL after three to four months of lactation, to 0.7\u20130.8 g/100 mL after six months [11,12]. The fat content varies significantly with maternal diet and is also positively related to weight gain during pregnancy.",
+        "snippet_highlighted_words": [
+          "1.4\u20131.6 g/100 mL, to 0.8\u20131.0 g/100 mL after three to four months of lactation, to 0.7\u20130.8 g/100 mL after six months"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2f9a7e1d1f546b9a9ba6/images/417957347c40a8059bdf1bebdedbc196ffc38edf0bdf649749387c19f7e8e100dc4ceebce3626999.png",
+        "source": "nih.gov",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=how+much+protein+is+in+breast+milk&sa=X&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQrooIegQIGhAi",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+much+protein+is+in+breast+milk"
+      },
+      {
+        "text": "Type",
+        "subtitle": "What Type Of Milk Is Breast Milk?",
+        "title": "What's in Breast Milk? | American Pregnancy Association",
+        "link": "https://americanpregnancy.org/healthy-pregnancy/first-year-of-life/whats-in-breastmilk/#:~:text=Human%20milk%20contains%20two%20types,for%20the%20baby%20to%20digest.",
+        "displayed_link": "https://americanpregnancy.org \u203a first-year-of-life \u203a whats...",
+        "snippet": "Human milk contains two types of proteins: whey and casein. Approximately 60% is whey, while 40% is casein. This balance of the proteins allows for quick and easy digestion. If artificial milk, also called formula, has a greater percentage of casein, it will be more difficult for the baby to digest.",
+        "snippet_highlighted_words": [
+          "whey and casein"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2f9a7e1d1f546b9a9ba6/images/417957347c40a8059bdf1bebdedbc1965bbebf7d86fbd06538e793d4e89d9bcd9550f9c8acd2c1ce.png",
+        "source": "americanpregnancy.org",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=what+type+of+milk+is+breast+milk&sa=X&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQrooIegQIGhAn",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+type+of+milk+is+breast+milk"
+      },
+      {
+        "text": "Storage guides",
+        "subtitle": "Storing Breast Milk",
+        "title": "Breast milk storage: Do's and don'ts - Mayo Clinic",
+        "link": "https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/breast-milk-storage/art-20046350#:~:text=Freshly%20expressed%20breast%20milk%20can%20be%20stored%20in%20the%20back,for%20up%20to%2012%20months.",
+        "displayed_link": "https://www.mayoclinic.org \u203a in-depth \u203a art-20046350",
+        "snippet": "Freshly expressed breast milk can be stored in the back of the refrigerator for up to four days in clean conditions. However, it's optimal to use or freeze the milk within three days. Deep freezer. Freshly expressed breast milk can be stored in the back of a deep freezer for up to 12 months.",
+        "snippet_highlighted_words": [
+          "in the back of the refrigerator for up to four days in clean conditions"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2f9a7e1d1f546b9a9ba6/images/417957347c40a8059bdf1bebdedbc1967e879d381d13efa57a585ad82d2cd5dd70b44d817fd1eab0.png",
+        "source": "mayoclinic.org",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=storing+breast+milk&sa=X&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQrooIegQIGhAs",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=storing+breast+milk"
+      },
+      {
+        "text": "Guidelines",
+        "subtitle": "Breastmilk Guidelines",
+        "title": "Breast Milk Storage and Preparation | Breastfeeding - CDC",
+        "link": "https://www.cdc.gov/breastfeeding/breast-milk-preparation-and-storage/handling-breastmilk.html",
+        "displayed_link": "https://www.cdc.gov \u203a breastfeeding \u203a handling-breastmilk",
+        "date": "Nov 27, 2023",
+        "snippet": "Storing breast milk after expressing",
+        "snippet_highlighted_words": [
+          "Storing breast milk after expressing"
+        ],
+        "list": [
+          "At room temperature (77\u00b0F or colder) for up to 4 hours.",
+          "In the refrigerator for up to 4 days.",
+          "In the freezer for about 6 months is best; up to 12 months is acceptable. Recommended storage times are important to follow for best quality."
+        ],
+        "favicon": "https://serpapi.com/searches/670a2f9a7e1d1f546b9a9ba6/images/417957347c40a8059bdf1bebdedbc196e9cbcd50283db15b934d8ce989bcc6fdfb43ffd6c9a49ff3.png",
+        "source": "cdc.gov",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmk4omRZoMZov4S40Y5nlxrwf8TTAHW5eeWCQHFjVIArk9&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=breastmilk+guidelines&sa=X&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQrooIegQIGhA0",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=breastmilk+guidelines"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=milk+human&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=my8KZ_ztGs2IptQPm9SguAQ&start=10&sa=N&sstk=AagrsugFR0toAF_3XILM6TMSXdkIL6ju1ToduWSAPXEklxGHJyy-7IQrltd4pJcfteKiwcv9iEHdvFkR6f119X28dBocMe5rjqWdUw&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQ8NMDegQIBRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=milk+human&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=my8KZ_ztGs2IptQPm9SguAQ&start=10&sa=N&sstk=AagrsugFR0toAF_3XILM6TMSXdkIL6ju1ToduWSAPXEklxGHJyy-7IQrltd4pJcfteKiwcv9iEHdvFkR6f119X28dBocMe5rjqWdUw&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQ8tMDegQIBRAE",
+      "3": "https://www.google.com/search?q=milk+human&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=my8KZ_ztGs2IptQPm9SguAQ&start=20&sa=N&sstk=AagrsugFR0toAF_3XILM6TMSXdkIL6ju1ToduWSAPXEklxGHJyy-7IQrltd4pJcfteKiwcv9iEHdvFkR6f119X28dBocMe5rjqWdUw&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQ8tMDegQIBRAG",
+      "4": "https://www.google.com/search?q=milk+human&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=my8KZ_ztGs2IptQPm9SguAQ&start=30&sa=N&sstk=AagrsugFR0toAF_3XILM6TMSXdkIL6ju1ToduWSAPXEklxGHJyy-7IQrltd4pJcfteKiwcv9iEHdvFkR6f119X28dBocMe5rjqWdUw&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQ8tMDegQIBRAI",
+      "5": "https://www.google.com/search?q=milk+human&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=my8KZ_ztGs2IptQPm9SguAQ&start=40&sa=N&sstk=AagrsugFR0toAF_3XILM6TMSXdkIL6ju1ToduWSAPXEklxGHJyy-7IQrltd4pJcfteKiwcv9iEHdvFkR6f119X28dBocMe5rjqWdUw&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQ8tMDegQIBRAK",
+      "6": "https://www.google.com/search?q=milk+human&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=my8KZ_ztGs2IptQPm9SguAQ&start=50&sa=N&sstk=AagrsugFR0toAF_3XILM6TMSXdkIL6ju1ToduWSAPXEklxGHJyy-7IQrltd4pJcfteKiwcv9iEHdvFkR6f119X28dBocMe5rjqWdUw&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQ8tMDegQIBRAM",
+      "7": "https://www.google.com/search?q=milk+human&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=my8KZ_ztGs2IptQPm9SguAQ&start=60&sa=N&sstk=AagrsugFR0toAF_3XILM6TMSXdkIL6ju1ToduWSAPXEklxGHJyy-7IQrltd4pJcfteKiwcv9iEHdvFkR6f119X28dBocMe5rjqWdUw&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQ8tMDegQIBRAO",
+      "8": "https://www.google.com/search?q=milk+human&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=my8KZ_ztGs2IptQPm9SguAQ&start=70&sa=N&sstk=AagrsugFR0toAF_3XILM6TMSXdkIL6ju1ToduWSAPXEklxGHJyy-7IQrltd4pJcfteKiwcv9iEHdvFkR6f119X28dBocMe5rjqWdUw&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQ8tMDegQIBRAQ",
+      "9": "https://www.google.com/search?q=milk+human&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=my8KZ_ztGs2IptQPm9SguAQ&start=80&sa=N&sstk=AagrsugFR0toAF_3XILM6TMSXdkIL6ju1ToduWSAPXEklxGHJyy-7IQrltd4pJcfteKiwcv9iEHdvFkR6f119X28dBocMe5rjqWdUw&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQ8tMDegQIBRAS",
+      "10": "https://www.google.com/search?q=milk+human&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=my8KZ_ztGs2IptQPm9SguAQ&start=90&sa=N&sstk=AagrsugFR0toAF_3XILM6TMSXdkIL6ju1ToduWSAPXEklxGHJyy-7IQrltd4pJcfteKiwcv9iEHdvFkR6f119X28dBocMe5rjqWdUw&ved=2ahUKEwi8p7bnsoiJAxVNhIkEHRsqCEcQ8tMDegQIBRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=milk+human&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=milk+human&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=milk+human&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=milk+human&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=milk+human&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=milk+human&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=milk+human&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=milk+human&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=milk+human&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=milk+human&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=milk+human&start=90"
+    }
+  }
+}

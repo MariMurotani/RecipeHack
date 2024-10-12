@@ -1,0 +1,871 @@
+{
+  "search_metadata": {
+    "id": "670a2f461ec32f380a3e97e4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7fadd201340ff52c/670a2f461ec32f380a3e97e4.json",
+    "created_at": "2024-10-12 08:11:50 UTC",
+    "processed_at": "2024-10-12 08:11:50 UTC",
+    "google_url": "https://www.google.com/search?q=berry+wine&oq=berry+wine&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/7fadd201340ff52c/670a2f461ec32f380a3e97e4.html",
+    "total_time_taken": 1.69
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "berry wine",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "berry wine",
+    "total_results": 88800000,
+    "time_taken_displayed": 0.3,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+    {
+      "source": "https://breitenbachwine.com/store/wines/fruit-wines/three-berry-wine/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWtoKNKzbJbATkOqbu8zo4zHauUKfDNjFalCRSgHIBFJySjYvdAG7qhXM&s",
+      "original": "https://breitenbachwine.com/wp-content/uploads/2021/09/three-berry-wine.jpg",
+      "title": "Three Berry Wine",
+      "source_name": "Breitenbach Wine Cellars"
+    },
+    {
+      "source": "https://thebestwinestore.com/products/stella-rosa-blueberry-wine",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVGyBe30lhXfKRewH8FXnPtHXacCpfrDGKH8RV1GqGPJYyntZ6fX4kZlU&s",
+      "original": "https://thebestwinestore.com/cdn/shop/products/stella-rosa-blueberry_961x1227.jpg?v=1678081103",
+      "title": "Stella Rosa Blueberry Wine",
+      "source_name": "The Best Wine Store"
+    },
+    {
+      "source": "https://www.lynfredwinery.com/wine/blueberry-wine/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqk--FqtQCdFaIV3MvkEEZApsoG3v5PM-G4qPR_8lDwPd_PhFP3h3VYc4&s",
+      "original": "https://www.lynfredwinery.com/wp-content/uploads/2021/10/Lynfred-Wine-2021-016.png",
+      "title": "BLUEBERRY WINE",
+      "source_name": "Lynfred Winery"
+    },
+    {
+      "source": "https://www.sutterhome.com/wines/wild-berry/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ITGNImuo8r5FDsQ1NRcaZxaBVp_xG53FrpINDhsaP9s6f4lI6szF0kQ&s",
+      "original": "https://www.sutterhome.com/wp-content/uploads/2021/03/SHW_Wild_Berry-273x1024-min.png",
+      "title": "Wild Berry - Sutter Home Family Vineyards",
+      "source_name": "Sutter Home Winery"
+    },
+    {
+      "source": "https://lasjaraswines.com/products/2021-sweet-berry-wine",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK20rjFJjCf37smXNs7yvgw-BWuaTwUQzGxot1jQIGiMKUbdworbdgg5w&s",
+      "original": "http://lasjaraswines.com/cdn/shop/files/2021_SWEET_BERRY_WINE_1_web.jpg?v=1692043117",
+      "title": "2021 Sweet Berry Wine",
+      "source_name": "Las Jaras Wines"
+    },
+    {
+      "source": "https://store.dcwine.com/winery/product/cherry-berry-twist/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBXE5xoPMf5DSZFPXfuy0TynIL7k-iuxATHPCAWglcuaTvRWJVwJ7lpU&s",
+      "original": "https://store.dcwine.com/winery/wp-content/uploads/2022/01/Cherry-Berry-Twist3.png",
+      "title": "Cherry Berry Twist",
+      "source_name": "Door Peninsula Winery"
+    },
+    {
+      "source": "https://enjoywildwines.com/product/2021-aronia-berry/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3HD1Mu3mU7pAojE7S4bek3Yp6Wgo8NQkCafGu99zmaSZWlMSW14mx7qE&s",
+      "original": "https://enjoywildwines.com/wp-content/uploads/2013/05/Aronia_lo.jpg",
+      "title": "2021 Aronia Berry Wine",
+      "source_name": "Wild Wines"
+    },
+    {
+      "source": "https://www.wvfruitandberry.com/shopfruitwines",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2GCiq4WkBqBDSz3TmsF-Q8ubOVcE8ZXgDHU-GSsycFXs63E9nU4sXOHQ&s",
+      "original": "https://images.squarespace-cdn.com/content/v1/594adaba2994ca4a6a3bb073/1583025113796-CDLI7EUEGOGK4GYEJJVW/WVFruitandBerryWine.jpg",
+      "title": "All-Natural Fruit Wines \u2014 West Virginia Fruit and Berry\u00ae",
+      "source_name": "West Virginia Fruit and Berry\u00ae"
+    },
+    {
+      "source": "https://store.hazlitt1852.com/bramble-berry-750ml-p4.aspx",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdLBal46vdjNw6L3Kv9aywCSAOqqcvx2lRL93h-3NanXBOCo9iFpnxCE8&s",
+      "original": "https://cdn.nexternal.com/hazlitt/images/NVBrambleBerryNEWFront750ml_p4_mm_p4_z200.png",
+      "title": "Bramble Berry 750ml",
+      "source_name": "Hazlitt 1852 Vineyards"
+    }
+  ],
+  "inline_products": [
+    {
+      "position": 1,
+      "title": "Prima Mazzo Berry Wine - 750 ml",
+      "block_title": "In stores nearby",
+      "source": "H-E-B",
+      "price": 9.34,
+      "currency": "$",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTv8cUKd2JDK78j13xwWnUroFEgfYp9bQh6GqEZBs9Gp6tX0c9D-Pr2r2uf1pnYK6zvxoslpQmqmtLTqAuWgtTntdow2hjctDdMA2X8pmTEb8A4ZSkvJRz3fg"
+    },
+    {
+      "position": 2,
+      "title": "Tiny Umbrellas Sweet Strawberry Wine 750 ml",
+      "block_title": "In stores nearby",
+      "source": "Total Wine & More",
+      "price": 8.99,
+      "currency": "$",
+      "rating": 4.2,
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQkLAz-2G9PdV-uAEohscozqayKxED1o_nq8nM6Zb7yK4oe0SuU6O39mKnbbh2UIAF6p-krPVUtMhr63l2lrpxkSHXpfL7KIIdTxXm2yVc"
+    },
+    {
+      "position": 3,
+      "title": "Texas Southwind Blackberry Fruit Wine",
+      "block_title": "In stores nearby",
+      "source": "H-E-B",
+      "price": 22.87,
+      "currency": "$",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTsFwqo05f6K8wCNQrwqz3scrf6RPD4oNnfFW7q6lLHWcmlkkcEF7w2wh3K435vQwURFhxYmtnt-gjtI8IjNT8ZmoTSkFY0MWynhRi8yKxneDVL-Puxgu7iAg"
+    },
+    {
+      "position": 4,
+      "title": "Sky River Blackberry Honey Wine 750 ml",
+      "block_title": "In stores nearby",
+      "source": "Total Wine & More",
+      "price": 32.99,
+      "currency": "$",
+      "rating": 4.1,
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSZT_qowlCeCr9_KmaTFyWlzigzTzetzpljrXRTWyAYGAW4sxT6rIs5gMyIc_u2ZUB8I8tT2zPXGF7iCQUvkQA1yRGW2-W84kYcAqqbgaj9"
+    },
+    {
+      "position": 5,
+      "title": "Texas South Wind Red Raspberry Fruit Wine",
+      "block_title": "In stores nearby",
+      "source": "H-E-B",
+      "price": 21.83,
+      "currency": "$",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQvCSzLYul2BkXOVvVOCsuWs3VnkwqvDNnwONahl9V3R-8OPno4wgMV1RnVk8Tiq4EzXKsJLwwpoCu85w-sr3-HuBPkKH0QBO9XisNolSFg"
+    },
+    {
+      "position": 6,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 7,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 8,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 9,
+      "block_title": "In stores nearby"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/c00b70792fb6d45582d4e960b2d9d6339318ab8b4914eedf905eda1f22b58379.webp",
+      "source_logo": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/c00b70792fb6d45582d4e960b2d9d633e136e5e5ed523a3e8660d277838d27b4a88f5533bb3985a7.png",
+      "source": "Wine Market of New Hyde Park",
+      "title": "Stella Rosa Berry Semi- Sweet Wine",
+      "rating": 4.7,
+      "reviews": 637,
+      "price": "$11.98",
+      "extracted_price": 11.98,
+      "immersive_product_page_token": "eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIzMDk5OTEzMzE3MTE2MDgzMDUiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk1MTMxODMxOTA5Nzg2OTgwNTkiLCJpbWFnZURvY2lkIjoiMTU2NjY0ODMwMTE5NjM2MDM3ODMiLCJyZHMiOiJQQ18xODQxODEwMzA5NTgwNDcxMzM1MXxQUk9EX1BDXzE4NDE4MTAzMDk1ODA0NzEzMzUxIiwicXVlcnkiOiJiZXJyeSt3aW5lIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIzMDk5OTEzMzE3MTE2MDgzMDUiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk1MTMxODMxOTA5Nzg2OTgwNTkiLCJpbWFnZURvY2lkIjoiMTU2NjY0ODMwMTE5NjM2MDM3ODMiLCJyZHMiOiJQQ18xODQxODEwMzA5NTgwNDcxMzM1MXxQUk9EX1BDXzE4NDE4MTAzMDk1ODA0NzEzMzUxIiwicXVlcnkiOiJiZXJyeSt3aW5lIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/c00b70792fb6d45582d4e960b2d9d633024f647aae898ede37be229d5fee9345.webp",
+      "source_logo": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/c00b70792fb6d45582d4e960b2d9d6332426dcadee7116693cddd06979586f9feb59425c0586761a.png",
+      "source": "H-E-B",
+      "title": "Prima Mazzo Berry Wine - 750 ml",
+      "price": "$9.34",
+      "extracted_price": 9.34,
+      "location": "11 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODU3MzQ1OTUyNTI5NDU5MjY4NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTI4MjQ2Mzk2NzY1MjY4NjExNjgiLCJpbWFnZURvY2lkIjoiNzY5NTQwNTU2MTY1MTEwMTkzOCIsInJkcyI6IiIsInF1ZXJ5IjoiYmVycnkrd2luZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODU3MzQ1OTUyNTI5NDU5MjY4NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTI4MjQ2Mzk2NzY1MjY4NjExNjgiLCJpbWFnZURvY2lkIjoiNzY5NTQwNTU2MTY1MTEwMTkzOCIsInJkcyI6IiIsInF1ZXJ5IjoiYmVycnkrd2luZSJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/c00b70792fb6d45582d4e960b2d9d6334c025871d6247dd81bda4100e4666a57.webp",
+      "source_logo": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/c00b70792fb6d45582d4e960b2d9d633f685b26c0d38d741cb19d250d4c6aa4a322b1c214ff618dc.png",
+      "source": "Las Jaras Wines",
+      "title": "2021 Sweet Berry Wine",
+      "price": "$42.00",
+      "extracted_price": 42.0,
+      "immersive_product_page_token": "eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiMTU4MTMzMDkzNTY4MzkyMzUyNjQiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1ODEzMzA5MzU2ODM5MjM1MjY0IiwiaW1hZ2VEb2NpZCI6Ijc5MDcwMDc4MzIzMTAxODM2MTAiLCJyZHMiOiIiLCJxdWVyeSI6ImJlcnJ5K3dpbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiMTU4MTMzMDkzNTY4MzkyMzUyNjQiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1ODEzMzA5MzU2ODM5MjM1MjY0IiwiaW1hZ2VEb2NpZCI6Ijc5MDcwMDc4MzIzMTAxODM2MTAiLCJyZHMiOiIiLCJxdWVyeSI6ImJlcnJ5K3dpbmUifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/c00b70792fb6d45582d4e960b2d9d63312eef573db6eca2d86b602bea700e268.webp",
+      "source_logo": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/c00b70792fb6d45582d4e960b2d9d633a055c478e10c2157a60b368bbf523353ff7fe7da3a9ec9d4.png",
+      "source": "Walmart",
+      "title": "BAREFOOT FRUITSCATO Strawberry",
+      "rating": 5.0,
+      "reviews": 5,
+      "price": "$9.98",
+      "extracted_price": 9.98,
+      "immersive_product_page_token": "eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTg0NjQ4MTI1NjM3NjE5NDQxNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTI1OTgwMjc3NDk5MzA3MDIyNDAiLCJpbWFnZURvY2lkIjoiNzQ0Mjg5NDc5OTM3OTAzNTQ0MCIsInJkcyI6IkNJRF81ODQ2NDgxMjU2Mzc2MTk0NDE2fFBST0RfQ0lEXzU4NDY0ODEyNTYzNzYxOTQ0MTYiLCJxdWVyeSI6ImJlcnJ5K3dpbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTg0NjQ4MTI1NjM3NjE5NDQxNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTI1OTgwMjc3NDk5MzA3MDIyNDAiLCJpbWFnZURvY2lkIjoiNzQ0Mjg5NDc5OTM3OTAzNTQ0MCIsInJkcyI6IkNJRF81ODQ2NDgxMjU2Mzc2MTk0NDE2fFBST0RfQ0lEXzU4NDY0ODEyNTYzNzYxOTQ0MTYiLCJxdWVyeSI6ImJlcnJ5K3dpbmUifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/c00b70792fb6d45582d4e960b2d9d633c40039a87f999eab2127e9b77b834627.webp",
+      "source_logo": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/c00b70792fb6d45582d4e960b2d9d633d713c473cbddd17568df3a60c00179cb4f34bd5ad9362958.png",
+      "source": "Made In Oregon",
+      "title": "Honeywood Marionberry Fruit Wine",
+      "price": "$12.95",
+      "extracted_price": 12.95,
+      "immersive_product_page_token": "eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTYyMTUzMTQ2OTMwNTkyMzkzOTIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMDI3MDQyNDMxNDY1Njk1NzgwIiwiaW1hZ2VEb2NpZCI6IjQyNjM4OTcyMzgzNzQ4MjU0NzAiLCJyZHMiOiIiLCJxdWVyeSI6ImJlcnJ5K3dpbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTYyMTUzMTQ2OTMwNTkyMzkzOTIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMDI3MDQyNDMxNDY1Njk1NzgwIiwiaW1hZ2VEb2NpZCI6IjQyNjM4OTcyMzgzNzQ4MjU0NzAiLCJyZHMiOiIiLCJxdWVyeSI6ImJlcnJ5K3dpbmUifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/c00b70792fb6d45582d4e960b2d9d6331fe7ebb4d685cf57649535d8f747b5d4.webp",
+      "source_logo": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/c00b70792fb6d45582d4e960b2d9d63347d00950660c6376e4a982f2c581f8fea0c91edbb5697d6d.jpeg",
+      "source": "Breitenbach Wine Cellars",
+      "title": "Three Berry Wine",
+      "price": "$19.95",
+      "extracted_price": 19.95,
+      "immersive_product_page_token": "eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiMTE1NDkzMTIxNDI3ODQ2NzQ5NzciLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExNTQ5MzEyMTQyNzg0Njc0OTc3IiwiaW1hZ2VEb2NpZCI6IjQ0ODcyNzQzMTY2MTE2OTQ5MjUiLCJyZHMiOiIiLCJxdWVyeSI6ImJlcnJ5K3dpbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiMTE1NDkzMTIxNDI3ODQ2NzQ5NzciLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExNTQ5MzEyMTQyNzg0Njc0OTc3IiwiaW1hZ2VEb2NpZCI6IjQ0ODcyNzQzMTY2MTE2OTQ5MjUiLCJyZHMiOiIiLCJxdWVyeSI6ImJlcnJ5K3dpbmUifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/c00b70792fb6d45582d4e960b2d9d6337a167c2b06e7bf69eef37c25f1cc1bf5.webp",
+      "source_logo": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/c00b70792fb6d45582d4e960b2d9d63358558847428309888e5799d806466e6ca1897cd1cffe143f.png",
+      "source": "H-E-B",
+      "title": "Texas Southwind Blackberry Fruit Wine",
+      "price": "$22.87",
+      "extracted_price": 22.87,
+      "location": "10 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODM4MzY2NDg5ODg5MzUxNDQ4MyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTUwNTcwMTMyNzk2MzIzNjkyNiIsImltYWdlRG9jaWQiOiIzMTQyNjMwMjkyMzQzNTU5MTc5IiwicmRzIjoiIiwicXVlcnkiOiJiZXJyeSt3aW5lIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODM4MzY2NDg5ODg5MzUxNDQ4MyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTUwNTcwMTMyNzk2MzIzNjkyNiIsImltYWdlRG9jaWQiOiIzMTQyNjMwMjkyMzQzNTU5MTc5IiwicmRzIjoiIiwicXVlcnkiOiJiZXJyeSt3aW5lIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/c00b70792fb6d45582d4e960b2d9d633d3193d8266e8ed2fc3ff4add9fbbd950.webp",
+      "source_logo": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/c00b70792fb6d45582d4e960b2d9d6331d7bd157f32b9073343d996ed5d0de692f9b0d3ec191ddfc.png",
+      "source": "ShopSK",
+      "title": "Stella Rosa Berry 750ml",
+      "rating": 4.7,
+      "reviews": 637,
+      "price": "$9.99",
+      "extracted_price": 9.99,
+      "original_price": "Usually $13",
+      "extracted_original_price": 13,
+      "delivery": "Free by 10/16",
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzE1NjExMzkwMTI0MDQ0Mzg4NSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQ3MjMxNDI4NTIzNjgxMDgwNDMiLCJpbWFnZURvY2lkIjoiNDc1NTAwOTc4MDEyMTY5MzAyMSIsInJkcyI6IlBDXzE4NDE4MTAzMDk1ODA0NzEzMzUxfFBST0RfUENfMTg0MTgxMDMwOTU4MDQ3MTMzNTEiLCJxdWVyeSI6ImJlcnJ5K3dpbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzE1NjExMzkwMTI0MDQ0Mzg4NSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQ3MjMxNDI4NTIzNjgxMDgwNDMiLCJpbWFnZURvY2lkIjoiNDc1NTAwOTc4MDEyMTY5MzAyMSIsInJkcyI6IlBDXzE4NDE4MTAzMDk1ODA0NzEzMzUxfFBST0RfUENfMTg0MTgxMDMwOTU4MDQ3MTMzNTEiLCJxdWVyeSI6ImJlcnJ5K3dpbmUifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTv8cUKd2JDK78j13xwWnUroFEgfYp9bQh6GqEZBs9Gp6tX0c9D-Pr2r2uf1pnYK6zvxoslpQmqmtLTqAuWgtTntdow2hjctDdMA2X8pmTEb8A4ZSkvJRz3fg",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTgDJw2mofi7kQOWQDu65XUMCogtBFyaL3uW1_L0YswzEotE9DR3MUFprG9U6UTG7noAIxhyS1gZPaJReHMyGVoRNkSYQ",
+      "source": "H-E-B",
+      "title": "Prima Mazzo Berry Wine - 750 ml",
+      "price": "$9.34",
+      "extracted_price": 9.34,
+      "location": "11 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODU3MzQ1OTUyNTI5NDU5MjY4NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTI4MjQ2Mzk2NzY1MjY4NjExNjgiLCJpbWFnZURvY2lkIjoiNzY5NTQwNTU2MTY1MTEwMTkzOCIsInJkcyI6IiIsInF1ZXJ5IjoiYmVycnkrd2luZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODU3MzQ1OTUyNTI5NDU5MjY4NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTI4MjQ2Mzk2NzY1MjY4NjExNjgiLCJpbWFnZURvY2lkIjoiNzY5NTQwNTU2MTY1MTEwMTkzOCIsInJkcyI6IiIsInF1ZXJ5IjoiYmVycnkrd2luZSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQkLAz-2G9PdV-uAEohscozqayKxED1o_nq8nM6Zb7yK4oe0SuU6O39mKnbbh2UIAF6p-krPVUtMhr63l2lrpxkSHXpfL7KIIdTxXm2yVc",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ8MF7wlDgKi29tLngGU2QZtj-mfe1A1YRp3GhPHxIrXHZFVAJeW-gqb9ufdYANX4D1cAzgBzqDsNEdJVsNUxVcydfBAYCnN4hX",
+      "source": "Total Wine & More",
+      "title": "Tiny Umbrellas Sweet Strawberry Wine 750 ml",
+      "rating": 4.2,
+      "reviews": 82,
+      "price": "$8.99",
+      "extracted_price": 8.99,
+      "location": "11 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUxNTU1MDUwMTc2MTY3ODI5OTMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk3MTg4NDkzMjYyNzAyNTUxOTEiLCJpbWFnZURvY2lkIjoiMTYxMjM3MzI4NTQzNzE2MjU5MTUiLCJyZHMiOiJQQ181ODE5Mjc0OTQ0NzgxNDI3MzQ0fFBST0RfUENfNTgxOTI3NDk0NDc4MTQyNzM0NCIsInF1ZXJ5IjoiYmVycnkrd2luZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUxNTU1MDUwMTc2MTY3ODI5OTMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk3MTg4NDkzMjYyNzAyNTUxOTEiLCJpbWFnZURvY2lkIjoiMTYxMjM3MzI4NTQzNzE2MjU5MTUiLCJyZHMiOiJQQ181ODE5Mjc0OTQ0NzgxNDI3MzQ0fFBST0RfUENfNTgxOTI3NDk0NDc4MTQyNzM0NCIsInF1ZXJ5IjoiYmVycnkrd2luZSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTsFwqo05f6K8wCNQrwqz3scrf6RPD4oNnfFW7q6lLHWcmlkkcEF7w2wh3K435vQwURFhxYmtnt-gjtI8IjNT8ZmoTSkFY0MWynhRi8yKxneDVL-Puxgu7iAg",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTgDJw2mofi7kQOWQDu65XUMCogtBFyaL3uW1_L0YswzEotE9DR3MUFprG9U6UTG7noAIxhyS1gZPaJReHMyGVoRNkSYQ",
+      "source": "H-E-B",
+      "title": "Texas Southwind Blackberry Fruit Wine",
+      "price": "$22.87",
+      "extracted_price": 22.87,
+      "location": "10 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODM4MzY2NDg5ODg5MzUxNDQ4MyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTUwNTcwMTMyNzk2MzIzNjkyNiIsImltYWdlRG9jaWQiOiIzMTQyNjMwMjkyMzQzNTU5MTc5IiwicmRzIjoiIiwicXVlcnkiOiJiZXJyeSt3aW5lIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODM4MzY2NDg5ODg5MzUxNDQ4MyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTUwNTcwMTMyNzk2MzIzNjkyNiIsImltYWdlRG9jaWQiOiIzMTQyNjMwMjkyMzQzNTU5MTc5IiwicmRzIjoiIiwicXVlcnkiOiJiZXJyeSt3aW5lIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSZT_qowlCeCr9_KmaTFyWlzigzTzetzpljrXRTWyAYGAW4sxT6rIs5gMyIc_u2ZUB8I8tT2zPXGF7iCQUvkQA1yRGW2-W84kYcAqqbgaj9",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ8MF7wlDgKi29tLngGU2QZtj-mfe1A1YRp3GhPHxIrXHZFVAJeW-gqb9ufdYANX4D1cAzgBzqDsNEdJVsNUxVcydfBAYCnN4hX",
+      "source": "Total Wine & More",
+      "title": "Sky River Blackberry Honey Wine 750 ml",
+      "rating": 4.1,
+      "reviews": 38,
+      "price": "$32.99",
+      "extracted_price": 32.99,
+      "location": "11 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODE0MTU1MTA0MTYxMTA2MDU4NSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTM4Mzg2NTY1MzYyMDgzMDg2NzkiLCJpbWFnZURvY2lkIjoiMTE3NDQ3ODU2NTUwMTI2Mzg2NyIsInJkcyI6IlBDXzExODE0NjM2NTE0NzQ3NDMzNjQ5fFBST0RfUENfMTE4MTQ2MzY1MTQ3NDc0MzM2NDkiLCJxdWVyeSI6ImJlcnJ5K3dpbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODE0MTU1MTA0MTYxMTA2MDU4NSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTM4Mzg2NTY1MzYyMDgzMDg2NzkiLCJpbWFnZURvY2lkIjoiMTE3NDQ3ODU2NTUwMTI2Mzg2NyIsInJkcyI6IlBDXzExODE0NjM2NTE0NzQ3NDMzNjQ5fFBST0RfUENfMTE4MTQ2MzY1MTQ3NDc0MzM2NDkiLCJxdWVyeSI6ImJlcnJ5K3dpbmUifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQvCSzLYul2BkXOVvVOCsuWs3VnkwqvDNnwONahl9V3R-8OPno4wgMV1RnVk8Tiq4EzXKsJLwwpoCu85w-sr3-HuBPkKH0QBO9XisNolSFg",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTgDJw2mofi7kQOWQDu65XUMCogtBFyaL3uW1_L0YswzEotE9DR3MUFprG9U6UTG7noAIxhyS1gZPaJReHMyGVoRNkSYQ",
+      "source": "H-E-B",
+      "title": "Texas South Wind Red Raspberry Fruit Wine",
+      "price": "$21.83",
+      "extracted_price": 21.83,
+      "location": "10 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY3NzYzMjEyNjEzNzYwNDc0ODciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzMzA1NjA3MzYwODE1MTMyODYxIiwiaW1hZ2VEb2NpZCI6IjY4MjYzOTc5MzQxMDY0MTk3ODMiLCJyZHMiOiIiLCJxdWVyeSI6ImJlcnJ5K3dpbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY3NzYzMjEyNjEzNzYwNDc0ODciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzMzA1NjA3MzYwODE1MTMyODYxIiwiaW1hZ2VEb2NpZCI6IjY4MjYzOTc5MzQxMDY0MTk3ODMiLCJyZHMiOiIiLCJxdWVyeSI6ImJlcnJ5K3dpbmUifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTY5NTQ0NDQ2MzU2ODY5NTYxNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjI3ODA0NjMyMzM0MzU0NTQ1MSIsImltYWdlRG9jaWQiOiIxNzQzMzc1ODgxOTA2MjUzMjI1NCIsInJkcyI6IlBDXzMzOTcwMzE1MzUzNTExMDA5Njl8UFJPRF9QQ18zMzk3MDMxNTM1MzUxMTAwOTY5IiwicXVlcnkiOiJiZXJyeSt3aW5lIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTY5NTQ0NDQ2MzU2ODY5NTYxNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjI3ODA0NjMyMzM0MzU0NTQ1MSIsImltYWdlRG9jaWQiOiIxNzQzMzc1ODgxOTA2MjUzMjI1NCIsInJkcyI6IlBDXzMzOTcwMzE1MzUzNTExMDA5Njl8UFJPRF9QQ18zMzk3MDMxNTM1MzUxMTAwOTY5IiwicXVlcnkiOiJiZXJyeSt3aW5lIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIxNTEwODk3MTQ5Nzc3MzMxOTciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjkwMzA2NDQ3OTg2OTM1Mjg5NjUiLCJpbWFnZURvY2lkIjoiNzkwOTg4MjUxMDYyNjkyMzkyNyIsInJkcyI6IlBDXzEwOTgyMzcwNDM3NzQ3NzYxMjIxfFBST0RfUENfMTA5ODIzNzA0Mzc3NDc3NjEyMjEiLCJxdWVyeSI6ImJlcnJ5K3dpbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIxNTEwODk3MTQ5Nzc3MzMxOTciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjkwMzA2NDQ3OTg2OTM1Mjg5NjUiLCJpbWFnZURvY2lkIjoiNzkwOTg4MjUxMDYyNjkyMzkyNyIsInJkcyI6IlBDXzEwOTgyMzcwNDM3NzQ3NzYxMjIxfFBST0RfUENfMTA5ODIzNzA0Mzc3NDc3NjEyMjEiLCJxdWVyeSI6ImJlcnJ5K3dpbmUifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc1OTE5NzMxMTA2NDU2NTcwMTEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjMxMDc4NDMxNzI4Mzk0OTUwNTQiLCJpbWFnZURvY2lkIjoiMTc4MzU0MzExNjU2OTIwNjAwMTMiLCJyZHMiOiJQQ18yMTc3MTI0MTkxODE3OTk3Mjg0fFBST0RfUENfMjE3NzEyNDE5MTgxNzk5NzI4NCIsInF1ZXJ5IjoiYmVycnkrd2luZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc1OTE5NzMxMTA2NDU2NTcwMTEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjMxMDc4NDMxNzI4Mzk0OTUwNTQiLCJpbWFnZURvY2lkIjoiMTc4MzU0MzExNjU2OTIwNjAwMTMiLCJyZHMiOiJQQ18yMTc3MTI0MTkxODE3OTk3Mjg0fFBST0RfUENfMjE3NzEyNDE5MTgxNzk5NzI4NCIsInF1ZXJ5IjoiYmVycnkrd2luZSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI2OTA1MDc0NzY4NjQ5MjI4NTkiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExNjk0MDA4MDMyNDUwNDY2MTM2IiwiaW1hZ2VEb2NpZCI6IjE4Mzc2MzQxNzA3Mjk1MTgwMDkxIiwicmRzIjoiUENfMTc2NDc0NDU0OTc2OTI2MjY4MDF8UFJPRF9QQ18xNzY0NzQ0NTQ5NzY5MjYyNjgwMSIsInF1ZXJ5IjoiYmVycnkrd2luZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI2OTA1MDc0NzY4NjQ5MjI4NTkiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExNjk0MDA4MDMyNDUwNDY2MTM2IiwiaW1hZ2VEb2NpZCI6IjE4Mzc2MzQxNzA3Mjk1MTgwMDkxIiwicmRzIjoiUENfMTc2NDc0NDU0OTc2OTI2MjY4MDF8UFJPRF9QQ18xNzY0NzQ0NTQ5NzY5MjYyNjgwMSIsInF1ZXJ5IjoiYmVycnkrd2luZSJ9"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What wine is made from berries?",
+      "snippet": "Two commonly produced varieties are elderberry wine and dandelion wine. A wine made from elderberry flowers is called elder blow wine. The amount of fermentable sugars is often low and needs to be supplemented by a process called chaptalization in order to have sufficient alcohol levels in the finished wine.",
+      "title": "Fruit wine - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Fruit_wine#:~:text=Two%20commonly%20produced%20varieties%20are,levels%20in%20the%20finished%20wine.",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Fruit_wine",
+      "source_logo": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/4a49f6c646855af51014d9d4464e84da6a19e0f8c9fe1f5688eca97da3aeb539.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UE5rWnpPR1JLYzIxYVRuVnZTbWxRUzFVMFMxZHRXRTVtYVd4ck9FbzJVMFJNVTA5YVVtaGtiMlZyVlZCQlZ6Vm1WR1kzVGxSTVVXUmpXbmg0Tm1WaVNHcExMV0o2RWhkU2VUaExXalppUkVnMmNYUTFUbTlRWDA1cVdIVlJOQm9pUVVaWWNrVmpjVEl4TmtacmNGSnpZVUpzWlZvMVJISndja28wYkhoeFZFVmpkdyIsImZjdiI6IjMiLCJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicWMiOiJDZ3BpWlhKeWVTQjNhVzVsRUFCOWNNMHlQdyIsInF1ZXN0aW9uIjoiV2hhdCB3aW5lIGlzIG1hZGUgZnJvbSBiZXJyaWVzPyIsImxrIjoiR2g1M2FHRjBJSGRwYm1VZ2FYTWdiV0ZrWlNCbWNtOXRJR0psY25KcFpYTSIsImJzIjoiYy1OeTQ1SVB6MGdzVVNqUHpFdFZ5Q3hXeUUxTVNWVklLOHJQVlVoS0xTcktUQzIybC1qa05sS1FraXZIcTRyTGhFdk1KVC0xR015dmhLaExyY2dzTHJHWG1LdG1KQzRsbW9KTmtzdWRTdzFzZTJKUnFrSkpSaXBRUVY1cVdtWkpzVUotR3N4a3NISjdpYl94UmxKU0Vyamt1YXk1bE1FR0FkMEdNaWN2TVRjVnBBYkVCbHNIdHRsZVlsLXNrYUFVUDBJRXJGQ0FFUUEiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UE5rWnpPR1JLYzIxYVRuVnZTbWxRUzFVMFMxZHRXRTVtYVd4ck9FbzJVMFJNVTA5YVVtaGtiMlZyVlZCQlZ6Vm1WR1kzVGxSTVVXUmpXbmg0Tm1WaVNHcExMV0o2RWhkU2VUaExXalppUkVnMmNYUTFUbTlRWDA1cVdIVlJOQm9pUVVaWWNrVmpjVEl4TmtacmNGSnpZVUpzWlZvMVJISndja28wYkhoeFZFVmpkdyIsImZjdiI6IjMiLCJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicWMiOiJDZ3BpWlhKeWVTQjNhVzVsRUFCOWNNMHlQdyIsInF1ZXN0aW9uIjoiV2hhdCB3aW5lIGlzIG1hZGUgZnJvbSBiZXJyaWVzPyIsImxrIjoiR2g1M2FHRjBJSGRwYm1VZ2FYTWdiV0ZrWlNCbWNtOXRJR0psY25KcFpYTSIsImJzIjoiYy1OeTQ1SVB6MGdzVVNqUHpFdFZ5Q3hXeUUxTVNWVklLOHJQVlVoS0xTcktUQzIybC1qa05sS1FraXZIcTRyTGhFdk1KVC0xR015dmhLaExyY2dzTHJHWG1LdG1KQzRsbW9KTmtzdWRTdzFzZTJKUnFrSkpSaXBRUVY1cVdtWkpzVUotR3N4a3NISjdpYl94UmxKU0Vyamt1YXk1bE1FR0FkMEdNaWN2TVRjVnBBYkVCbHNIdHRsZVlsLXNrYUFVUDBJRXJGQ0FFUUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+    },
+    {
+      "question": "Does berry wine exist?",
+      "snippet": "Our Three Berry Blend is now in a 750ml bottle! This wine is made from pure berries, lightly sweetened, and balanced with a slightly tart natural berry finish.",
+      "title": "Three Berry Wine - Breitenbach Wine Cellars",
+      "link": "https://breitenbachwine.com/store/wines/fruit-wines/three-berry-wine/#:~:text=Our%20Three%20Berry%20Blend%20is,slightly%20tart%20natural%20berry%20finish.",
+      "displayed_link": "https://breitenbachwine.com \u203a Store",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvEiUiyzKkQsGiH3dYJBfKYxITRwfKS5vIUX5BvqZ_&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UE5rWnpPR1JLYzIxYVRuVnZTbWxRUzFVMFMxZHRXRTVtYVd4ck9FbzJVMFJNVTA5YVVtaGtiMlZyVlZCQlZ6Vm1WR1kzVGxSTVVXUmpXbmg0Tm1WaVNHcExMV0o2RWhkU2VUaExXalppUkVnMmNYUTFUbTlRWDA1cVdIVlJOQm9pUVVaWWNrVmpjVEl4TmtacmNGSnpZVUpzWlZvMVJISndja28wYkhoeFZFVmpkdyIsImZjdiI6IjMiLCJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicWMiOiJDZ3BpWlhKeWVTQjNhVzVsRUFCOWNNMHlQdyIsInF1ZXN0aW9uIjoiRG9lcyBiZXJyeSB3aW5lIGV4aXN0PyIsImxrIjoiR2hWa2IyVnpJR0psY25KNUlIZHBibVVnWlhocGMzUSIsImJzIjoiYy1OeTQ1SVB6MGdzVVNqUHpFdFZ5Q3hXeUUxTVNWVklLOHJQVlVoS0xTcktUQzIybC1qa05sS1FraXZIcTRyTGhFdk1KVC0xR015dmhLaExyY2dzTHJHWG1LdG1KQzRsbW9KTmtzdWRTdzFzZTJKUnFrSkpSaXBRUVY1cVdtWkpzVUotR3N4a3NISjdpYl94UmxKU0Vyamt1YXk1bE1FR0FkMEdNaWN2TVRjVnBBYkVCbHNIdHRsZVlsLXNrYUFVUDBJRXJGQ0FFUUEiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UE5rWnpPR1JLYzIxYVRuVnZTbWxRUzFVMFMxZHRXRTVtYVd4ck9FbzJVMFJNVTA5YVVtaGtiMlZyVlZCQlZ6Vm1WR1kzVGxSTVVXUmpXbmg0Tm1WaVNHcExMV0o2RWhkU2VUaExXalppUkVnMmNYUTFUbTlRWDA1cVdIVlJOQm9pUVVaWWNrVmpjVEl4TmtacmNGSnpZVUpzWlZvMVJISndja28wYkhoeFZFVmpkdyIsImZjdiI6IjMiLCJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicWMiOiJDZ3BpWlhKeWVTQjNhVzVsRUFCOWNNMHlQdyIsInF1ZXN0aW9uIjoiRG9lcyBiZXJyeSB3aW5lIGV4aXN0PyIsImxrIjoiR2hWa2IyVnpJR0psY25KNUlIZHBibVVnWlhocGMzUSIsImJzIjoiYy1OeTQ1SVB6MGdzVVNqUHpFdFZ5Q3hXeUUxTVNWVklLOHJQVlVoS0xTcktUQzIybC1qa05sS1FraXZIcTRyTGhFdk1KVC0xR015dmhLaExyY2dzTHJHWG1LdG1KQzRsbW9KTmtzdWRTdzFzZTJKUnFrSkpSaXBRUVY1cVdtWkpzVUotR3N4a3NISjdpYl94UmxKU0Vyamt1YXk1bE1FR0FkMEdNaWN2TVRjVnBBYkVCbHNIdHRsZVlsLXNrYUFVUDBJRXJGQ0FFUUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+    },
+    {
+      "question": "What are the benefits of berries wine?",
+      "title": "Let's check out the many other benefits of blueberry wine.",
+      "date": "Sep 9, 2022",
+      "link": "https://kingsriverlife.com/09/09/8-incredible-benefits-of-blueberry-wine/",
+      "list": [
+        "Anti-Aging Advantage. ... ",
+        "Strengthen The Immune System. ... ",
+        "Blueberry Wine Boosts The Neuron System. ... ",
+        "It Helps With Arthritis. ... ",
+        "Good During Pregnancy. ... ",
+        "Full Of Anti-Oxidants. ... ",
+        "Easy To Make. ... ",
+        "Rich In Color And Flavor."
+      ],
+      "displayed_link": "https://kingsriverlife.com \u203a 8-incredible-benefits-of-blue...",
+      "source_logo": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/4a49f6c646855af51014d9d4464e84dab22acee34660c3869f21c6f2b23538ad.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UE5rWnpPR1JLYzIxYVRuVnZTbWxRUzFVMFMxZHRXRTVtYVd4ck9FbzJVMFJNVTA5YVVtaGtiMlZyVlZCQlZ6Vm1WR1kzVGxSTVVXUmpXbmg0Tm1WaVNHcExMV0o2RWhkU2VUaExXalppUkVnMmNYUTFUbTlRWDA1cVdIVlJOQm9pUVVaWWNrVmpjVEl4TmtacmNGSnpZVUpzWlZvMVJISndja28wYkhoeFZFVmpkdyIsImZjdiI6IjMiLCJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicWMiOiJDZ3BpWlhKeWVTQjNhVzVsRUFCOWNNMHlQdyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGJlbmVmaXRzIG9mIGJlcnJpZXMgd2luZT8iLCJsayI6IkdoaGlaVzVsWm1sMGN5QnZaaUJpWlhKeWFXVnpJSGRwYm1VIiwiYnMiOiJjLU55NDVJUHowZ3NVU2pQekV0VnlDeFd5RTFNU1ZWSUs4clBWVWhLTFNyS1RDMjJsLWprTmxLUWtpdkhxNHJMaEV2TUpULTFHTXl2aEtoTHJjZ3NMckdYbUt0bUpDNGxtb0pOa3N1ZFN3MXNlMkpScWtKSlJpcFFRVjVxV21aSnNVSi1Hc3hrc0hKN2liX3hSbEpTRXJqa3VheTVsTUVHQWQwR01pY3ZNVGNWcEFiRUJsc0h0dGxlWWwtc2thQVVQMElFckZDQUVRQSIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UE5rWnpPR1JLYzIxYVRuVnZTbWxRUzFVMFMxZHRXRTVtYVd4ck9FbzJVMFJNVTA5YVVtaGtiMlZyVlZCQlZ6Vm1WR1kzVGxSTVVXUmpXbmg0Tm1WaVNHcExMV0o2RWhkU2VUaExXalppUkVnMmNYUTFUbTlRWDA1cVdIVlJOQm9pUVVaWWNrVmpjVEl4TmtacmNGSnpZVUpzWlZvMVJISndja28wYkhoeFZFVmpkdyIsImZjdiI6IjMiLCJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicWMiOiJDZ3BpWlhKeWVTQjNhVzVsRUFCOWNNMHlQdyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGJlbmVmaXRzIG9mIGJlcnJpZXMgd2luZT8iLCJsayI6IkdoaGlaVzVsWm1sMGN5QnZaaUJpWlhKeWFXVnpJSGRwYm1VIiwiYnMiOiJjLU55NDVJUHowZ3NVU2pQekV0VnlDeFd5RTFNU1ZWSUs4clBWVWhLTFNyS1RDMjJsLWprTmxLUWtpdkhxNHJMaEV2TUpULTFHTXl2aEtoTHJjZ3NMckdYbUt0bUpDNGxtb0pOa3N1ZFN3MXNlMkpScWtKSlJpcFFRVjVxV21aSnNVSi1Hc3hrc0hKN2liX3hSbEpTRXJqa3VheTVsTUVHQWQwR01pY3ZNVGNWcEFiRUJsc0h0dGxlWWwtc2thQVVQMElFckZDQUVRQSIsImlkIjoiZmNfMSJ9"
+    },
+    {
+      "question": "What is the name of the wine berry?",
+      "snippet": "Rubus phoenicolasius (Japanese wineberry, wine raspberry, wineberry or dewberry) is an Asian species of raspberry (Rubus subgenus Idaeobatus) in the rose family, native to China, Japan, and Korea.",
+      "title": "Rubus phoenicolasius",
+      "link": "https://en.wikipedia.org/wiki/Rubus_phoenicolasius#:~:text=Rubus%20phoenicolasius%20(Japanese%20wineberry%2C%20wine,China%2C%20Japan%2C%20and%20Korea.",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Rubus_phoenicolasius",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEZISemid_9k-FmTvEpukesET1KtOW2CjRNR5rVkRG&s",
+      "source_logo": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/4a49f6c646855af51014d9d4464e84da86aea84a55efaaf8994c59d8275c9b5d.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UE5rWnpPR1JLYzIxYVRuVnZTbWxRUzFVMFMxZHRXRTVtYVd4ck9FbzJVMFJNVTA5YVVtaGtiMlZyVlZCQlZ6Vm1WR1kzVGxSTVVXUmpXbmg0Tm1WaVNHcExMV0o2RWhkU2VUaExXalppUkVnMmNYUTFUbTlRWDA1cVdIVlJOQm9pUVVaWWNrVmpjVEl4TmtacmNGSnpZVUpzWlZvMVJISndja28wYkhoeFZFVmpkdyIsImZjdiI6IjMiLCJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicWMiOiJDZ3BpWlhKeWVTQjNhVzVsRUFCOWNNMHlQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbmFtZSBvZiB0aGUgd2luZSBiZXJyeT8iLCJsayI6IkdnOTNhVzVsSUdKbGNuSjVJRzVoYldVIiwiYnMiOiJjLU55NDVJUHowZ3NVU2pQekV0VnlDeFd5RTFNU1ZWSUs4clBWVWhLTFNyS1RDMjJsLWprTmxLUWtpdkhxNHJMaEV2TUpULTFHTXl2aEtoTHJjZ3NMckdYbUt0bUpDNGxtb0pOa3N1ZFN3MXNlMkpScWtKSlJpcFFRVjVxV21aSnNVSi1Hc3hrc0hKN2liX3hSbEpTRXJqa3VheTVsTUVHQWQwR01pY3ZNVGNWcEFiRUJsc0h0dGxlWWwtc2thQVVQMElFckZDQUVRQSIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UE5rWnpPR1JLYzIxYVRuVnZTbWxRUzFVMFMxZHRXRTVtYVd4ck9FbzJVMFJNVTA5YVVtaGtiMlZyVlZCQlZ6Vm1WR1kzVGxSTVVXUmpXbmg0Tm1WaVNHcExMV0o2RWhkU2VUaExXalppUkVnMmNYUTFUbTlRWDA1cVdIVlJOQm9pUVVaWWNrVmpjVEl4TmtacmNGSnpZVUpzWlZvMVJISndja28wYkhoeFZFVmpkdyIsImZjdiI6IjMiLCJlaSI6IlJ5OEtaNmJESDZxdDVOb1BfTmpYdVE0IiwicWMiOiJDZ3BpWlhKeWVTQjNhVzVsRUFCOWNNMHlQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbmFtZSBvZiB0aGUgd2luZSBiZXJyeT8iLCJsayI6IkdnOTNhVzVsSUdKbGNuSjVJRzVoYldVIiwiYnMiOiJjLU55NDVJUHowZ3NVU2pQekV0VnlDeFd5RTFNU1ZWSUs4clBWVWhLTFNyS1RDMjJsLWprTmxLUWtpdkhxNHJMaEV2TUpULTFHTXl2aEtoTHJjZ3NMckdYbUt0bUpDNGxtb0pOa3N1ZFN3MXNlMkpScWtKSlJpcFFRVjVxV21aSnNVSi1Hc3hrc0hKN2liX3hSbEpTRXJqa3VheTVsTUVHQWQwR01pY3ZNVGNWcEFiRUJsc0h0dGxlWWwtc2thQVVQMElFckZDQUVRQSIsImlkIjoiZmNfMSJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Three Berry Wine",
+      "link": "https://breitenbachwine.com/store/wines/fruit-wines/three-berry-wine/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://breitenbachwine.com/store/wines/fruit-wines/three-berry-wine/&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQFnoECBYQAQ",
+      "displayed_link": "https://breitenbachwine.com \u203a Store",
+      "favicon": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/ef44def8f908c3cf0197b657ee501716838694db6ea7e6ac0a086158584832b5.webp",
+      "snippet": "Three Berry Wine. $19.95. Our Three Berry Blend is now in a 750ml bottle! This wine is made from pure berries, lightly sweetened, and balanced with a slightly ...",
+      "snippet_highlighted_words": [
+        "Berry Wine"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 19.95,
+            "currency": "$"
+          },
+          "extensions": [
+            "$19.95",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Breitenbach Wine Cellars"
+    },
+    {
+      "position": 2,
+      "title": "Stella Rosa\u00ae Berry | Strawberry, Blackberry, Red ...",
+      "link": "https://stellarosawines.com/our-wines/stella-rosa-berry",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://stellarosawines.com/our-wines/stella-rosa-berry&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQFnoECFoQAQ",
+      "displayed_link": "https://stellarosawines.com \u203a our-wines \u203a stella-rosa-berry",
+      "favicon": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/ef44def8f908c3cf0197b657ee501716eff77983770d5bd9d4575b9e8ff575e1.webp",
+      "snippet": "Spunky and spirited sums up Stella Rosa Berry, a semi-sweet, semi-sparkling wine. It's like the best friend who is always going to keep you in a good mood.",
+      "snippet_highlighted_words": [
+        "Berry",
+        "wine"
+      ],
+      "source": "Stella Rosa\u00ae Wines"
+    },
+    {
+      "position": 3,
+      "title": "Jo Mamma's Very Berry Sweet Red",
+      "link": "https://www.noisywaterwinery.com/product/Jo-Mamma-s-Very-Berry?srsltid=AfmBOoonMWFSLkTQWhmItzXc4Ghzhymd8MGz2fdrX-2Q8Bi0UqjVKJtf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.noisywaterwinery.com/product/Jo-Mamma-s-Very-Berry%3Fsrsltid%3DAfmBOoonMWFSLkTQWhmItzXc4Ghzhymd8MGz2fdrX-2Q8Bi0UqjVKJtf&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQFnoECFsQAQ",
+      "displayed_link": "https://www.noisywaterwinery.com \u203a product \u203a Jo-Ma...",
+      "favicon": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/ef44def8f908c3cf0197b657ee5017166f02096194f36135ffee7fbdee5be4bd.webp",
+      "snippet": "This medium-bodied sweet red is full of wild berries like blackberry, raspberry, blueberry, and strawberry. Tastes like a beautiful summer day!",
+      "snippet_highlighted_words": [
+        "berries",
+        "blueberry"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 199,
+            "currency": "day delivery over $",
+            "free": 3
+          },
+          "extensions": [
+            "$24.00",
+            "\u200eFree 3",
+            "day delivery over $199",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Noisy Water Winery"
+    },
+    {
+      "position": 4,
+      "title": "2021 Sweet Berry Wine",
+      "link": "https://lasjaraswines.com/products/2021-sweet-berry-wine",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lasjaraswines.com/products/2021-sweet-berry-wine&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQFnoECD4QAQ",
+      "displayed_link": "https://lasjaraswines.com \u203a products \u203a 2021-sweet-berry...",
+      "favicon": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/ef44def8f908c3cf0197b657ee5017161f491bb680fc2de2f6342e4bdf1063d2.webp",
+      "snippet": "Within this vintage of Sweet Berry Wine, you'll be greeted by robust aromas of cocoa powder, black plum, marionberry, forest floor, and allspice. With each sip, ...",
+      "snippet_highlighted_words": [
+        "Berry Wine"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 42.0,
+            "currency": "$",
+            "day_delivery": 7
+          },
+          "extensions": [
+            "$42.00",
+            "\u200e7\u201312 day delivery",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Las Jaras Wines"
+    },
+    {
+      "position": 5,
+      "title": "Making Berry Good Wines",
+      "link": "https://winemakermag.com/article/making-berry-good-wines",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://winemakermag.com/article/making-berry-good-wines&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQFnoECDwQAQ",
+      "displayed_link": "https://winemakermag.com \u203a Articles",
+      "favicon": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/ef44def8f908c3cf0197b657ee5017162101a4d2356aecbb9b1eaf4a9e095582.webp",
+      "snippet": "Relative to grape wine, \u201cberry wine\u201d is a diverse category, encompassing anything from strawberries to blueberries to uncommon local berries few have heard ...",
+      "snippet_highlighted_words": [
+        "berry wine"
+      ],
+      "source": "WineMakerMag.com"
+    },
+    {
+      "position": 6,
+      "title": "Smashberry",
+      "link": "https://www.millerfamilywines.com/collection/smashberry/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.millerfamilywines.com/collection/smashberry/&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQFnoECD0QAQ",
+      "displayed_link": "https://www.millerfamilywines.com \u203a Collection",
+      "snippet": "2023 Smashberry Rose ... A symphony of fruity favors, featuring ripe strawberries and cherries, balanced by a crisp, clean finish. ... Save 5% when you buy a case!",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 15.0,
+            "currency": "$"
+          },
+          "extensions": [
+            "$15.00",
+            "\u200eFree delivery"
+          ]
+        }
+      },
+      "source": "Miller Family Wine Company"
+    },
+    {
+      "position": 7,
+      "title": "The Future Sweet Berry Wine",
+      "link": "https://www.blackwhiteroasters.com/products/r-the-future-sweet-berry-wine?srsltid=AfmBOoooalf6KBfydN9XHXZItL6ttNRe877SAgk_8-jofAjQLM9iQ32H",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.blackwhiteroasters.com/products/r-the-future-sweet-berry-wine%3Fsrsltid%3DAfmBOoooalf6KBfydN9XHXZItL6ttNRe877SAgk_8-jofAjQLM9iQ32H&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQFnoECDsQAQ",
+      "displayed_link": "https://www.blackwhiteroasters.com \u203a products \u203a r-the-fu...",
+      "snippet": "If sweet wine is a foreign concept to you, think instead of sangria, or peach schnapps. That sweetness is rich and decadent, reminding us of blueberry compote.",
+      "snippet_highlighted_words": [
+        "wine",
+        "blueberry"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 10.58,
+            "currency": "$",
+            "unknown": 14
+          },
+          "extensions": [
+            "$26.00 to $170.00",
+            "\u200e$10.58 5",
+            "day delivery",
+            "\u200e14",
+            "day returns",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Black & White Coffee Roasters"
+    },
+    {
+      "position": 8,
+      "title": "Wild Berry",
+      "link": "https://www.sutterhome.com/wines/wild-berry/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sutterhome.com/wines/wild-berry/&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQFnoECFgQAQ",
+      "displayed_link": "https://www.sutterhome.com \u203a wines \u203a wild-berry",
+      "favicon": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/ef44def8f908c3cf0197b657ee501716e6035acde623f34a7c2d064e597b6b11.webp",
+      "snippet": "Bursting with flavors of fresh-picked strawberries and ripe blueberries, our Wild Berry wine is deliciously sweet with natural berry juice, a refreshing finish, ...",
+      "snippet_highlighted_words": [
+        "Berry wine"
+      ],
+      "source": "Sutter Home Family Vineyards"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?q=berry+wine&sca_esv=8568a6baa21243e5&udm=18&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQ8poLegQIQRAF",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=berry+wine",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Berry wine recipe",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&q=Berry+wine+recipe&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQ1QJ6BAhkEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Berry+wine+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Berry wine color",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&q=Berry+wine+color&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQ1QJ6BAhiEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Berry+wine+color"
+    },
+    {
+      "block_position": 1,
+      "query": "Stella Berry wine",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&q=Stella+Berry+wine&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQ1QJ6BAhgEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Stella+Berry+wine"
+    },
+    {
+      "block_position": 1,
+      "query": "Berry wine alcohol percentage",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&q=Berry+wine+alcohol+percentage&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQ1QJ6BAhfEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Berry+wine+alcohol+percentage"
+    },
+    {
+      "block_position": 1,
+      "query": "Mixed berry wine",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&q=Mixed+berry+wine&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQ1QJ6BAhdEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Mixed+berry+wine"
+    },
+    {
+      "block_position": 1,
+      "query": "Sweet berry wine movie",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&q=Sweet+berry+wine+movie&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQ1QJ6BAhcEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sweet+berry+wine+movie"
+    },
+    {
+      "block_position": 1,
+      "query": "Red berry Wine",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&q=Red+berry+Wine&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQ1QJ6BAhZEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Red+berry+Wine"
+    },
+    {
+      "block_position": 1,
+      "query": "Stella Rosa Berry wine alcohol content",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&q=Stella+Rosa+Berry+wine+alcohol+content&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQ1QJ6BAhXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Stella+Rosa+Berry+wine+alcohol+content"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Recipe",
+      "link": "https://www.google.com/search?q=recipe+berry+wine&shoprs=GBIqCmJlcnJ5IHdpbmUyCggSEgZSZWNpcGVgAQ&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQip4GKAF6BAgSEFE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=recipe+berry+wine"
+    },
+    {
+      "query": "Brand",
+      "link": "https://www.google.com/search?q=brand+berry+wine&shoprs=GBIqCmJlcnJ5IHdpbmUyCQgSEgVCcmFuZGAB&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQip4GKAJ6BAgSEFI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brand+berry+wine"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?q=buy+berry+wine&shoprs=GBIqCmJlcnJ5IHdpbmUyBwgSEgNCdXlgAQ&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQip4GKAN6BAgSEFM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=buy+berry+wine"
+    },
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?q=berry+wine+nearby&shoprs=GAMqCmJlcnJ5IHdpbmUyDAgDEgZOZWFyYnkYAljb2B9gAQ&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQip4GKAR6BAgSEFQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=berry+wine+nearby"
+    },
+    {
+      "query": "Get it fast",
+      "link": "https://www.google.com/search?q=berry+wine&shoprs=Eg2aAQoKCBADOAFAAkgBGBQqCmJlcnJ5IHdpbmUyJAgUEgtHZXQgaXQgZmFzdCINmgEKCggQAzgBQAJIASoEEAEYAWAB&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQip4GKAV6BAgSEFU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=berry+wine"
+    },
+    {
+      "query": "Sweet",
+      "link": "https://www.google.com/search?q=sweet+berry+wine&shoprs=GAEqCmJlcnJ5IHdpbmUyFwgBEgVTd2VldDoMCJ6WiQIQopaJAjAAWNvYH2AB&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQip4GKAZ6BAgSEFY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+berry+wine"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?q=price+berry+wine&shoprs=GBIqCmJlcnJ5IHdpbmUyCQgSEgVQcmljZWAB&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQip4GKAd6BAgSEFc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=price+berry+wine"
+    },
+    {
+      "query": "Sparkling",
+      "link": "https://www.google.com/search?q=sparkling+berry+wine&shoprs=GAEqCmJlcnJ5IHdpbmUyGQgBEglTcGFya2xpbmc6Cgj85ToQ_eU6MANY29gfYAE&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQip4GKAh6BAgSEFg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sparkling+berry+wine"
+    },
+    {
+      "query": "Red",
+      "link": "https://www.google.com/search?q=red+berry+wine&shoprs=GAEqCmJlcnJ5IHdpbmUyEwgBEgNSZWQ6CgjM3zgQzd84MAJY29gfYAE&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQip4GKAl6BAgSEFk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=red+berry+wine"
+    },
+    {
+      "query": "Under $6",
+      "link": "https://www.google.com/search?q=berry+wine+under+$6&shoprs=Eg0SCxEAAAAAYONWQRgBGAUqCmJlcnJ5IHdpbmUyIQgFEghVbmRlciAkNhgCIg0SCxEAAAAAYONWQRgBKgIYAVjb2B9gAQ&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQip4GKAp6BAgSEFo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=berry+wine+under+%246"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?q=reviews+berry+wine&shoprs=GBIqCmJlcnJ5IHdpbmUyCwgSEgdSZXZpZXdzYAE&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQip4GKAt6BAgSEFs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=reviews+berry+wine"
+    },
+    {
+      "query": "Stella Rosa",
+      "link": "https://www.google.com/search?q=stella+rosa+berry+wine&shoprs=GAEqCmJlcnJ5IHdpbmUyGwgBEgtTdGVsbGEgUm9zYToKCIPzPBD6_D4wAVjb2B9gAQ&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQip4GKAx6BAgSEFw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=stella+rosa+berry+wine"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?q=berry+wine+sale&shoprs=EgRKAhgBGAYqCmJlcnJ5IHdpbmUyEwgGEgdPbiBzYWxlGAIiBEoCGAFY29gfYAE&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQip4GKA16BAgSEF0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=berry+wine+sale"
+    },
+    {
+      "query": "Non-alcoholic",
+      "link": "https://www.google.com/search?q=non-alcoholic+berry+wine&shoprs=GAEqCmJlcnJ5IHdpbmUyHwgBEg1Ob24tYWxjb2hvbGljOgwIgb2HARCCvYcBMANY29gfYAE&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQip4GKA56BAgSEF4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=non-alcoholic+berry+wine"
+    },
+    {
+      "query": "USA",
+      "link": "https://www.google.com/search?q=usa+berry+wine&shoprs=GAEqCmJlcnJ5IHdpbmUyFQgBEgNVU0E6DAirlokCELKWiQIwAFjb2B9gAQ&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQip4GKA96BAgSEF8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=usa+berry+wine"
+    },
+    {
+      "query": "Moscato",
+      "link": "https://www.google.com/search?q=moscato+berry+wine&shoprs=GAEqCmJlcnJ5IHdpbmUyFwgBEgdNb3NjYXRvOgoI2d84ENzfODAAWNvYH2AB&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQip4GKBB6BAgSEGA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=moscato+berry+wine"
+    },
+    {
+      "query": "Italy",
+      "link": "https://www.google.com/search?q=italy+berry+wine&shoprs=GAEqCmJlcnJ5IHdpbmUyFwgBEgVJdGFseToMCKuWiQIQr5aJAjAAWNvYH2AB&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQip4GKBF6BAgSEGE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=italy+berry+wine"
+    },
+    {
+      "query": "France",
+      "link": "https://www.google.com/search?q=france+berry+wine&shoprs=GAEqCmJlcnJ5IHdpbmUyGAgBEgZGcmFuY2U6DAirlokCEK2WiQIwAFjb2B9gAQ&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQip4GKBJ6BAgSEGI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=france+berry+wine"
+    },
+    {
+      "query": "Flavored",
+      "link": "https://www.google.com/search?q=flavored+berry+wine&shoprs=GAEqCmJlcnJ5IHdpbmUyGggBEghGbGF2b3JlZDoMCParkwEQ96uTATADWNvYH2AB&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQip4GKBN6BAgSEGM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=flavored+berry+wine"
+    },
+    {
+      "query": "Dry",
+      "link": "https://www.google.com/search?q=dry+berry+wine&shoprs=GAEqCmJlcnJ5IHdpbmUyFQgBEgNEcnk6DAielokCEJ-WiQIwAFjb2B9gAQ&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQip4GKBR6BAgSEGQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=dry+berry+wine"
+    },
+    {
+      "query": "White",
+      "link": "https://www.google.com/search?q=white+berry+wine&shoprs=GAEqCmJlcnJ5IHdpbmUyFQgBEgVXaGl0ZToKCMzfOBDO3zgwAljb2B9gAQ&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQip4GKBV6BAgSEGU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=white+berry+wine"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?q=berry+wine+for+sale&shoprs=GBIqCmJlcnJ5IHdpbmUyDAgSEghGb3IgU2FsZWAB&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQip4GKBZ6BAgSEGY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=berry+wine+for+sale"
+    },
+    {
+      "query": "Sangria",
+      "link": "https://www.google.com/search?q=sangria+berry+wine&shoprs=GAEqCmJlcnJ5IHdpbmUyGQgBEgdTYW5ncmlhOgwI8auTARD1q5MBMABY29gfYAE&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQip4GKBd6BAgSEGc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sangria+berry+wine"
+    },
+    {
+      "query": "Ros\u00e9",
+      "link": "https://www.google.com/search?q=ros%C3%A9+berry+wine&shoprs=GAEqCmJlcnJ5IHdpbmUyFQgBEgVSb3PDqToKCMzfOBDf8zgwAljb2B9gAQ&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQip4GKBh6BAgSEGg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ros%C3%A9+berry+wine"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Question About Berry Wines",
+      "link": "https://www.reddit.com/r/winemaking/comments/ngh5es/question_about_berry_wines/",
+      "date": "3y ago",
+      "extensions": [
+        "r/winemaking",
+        "10+ comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "Triple berry wine",
+      "link": "https://www.reddit.com/r/winemaking/comments/v8mls0/triple_berry_wine/",
+      "date": "2y ago",
+      "extensions": [
+        "r/winemaking",
+        "10+ comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "What to call mixed berry wine?",
+      "link": "https://www.winemakingtalk.com/threads/what-to-call-mixed-berry-wine.73968/",
+      "date": "3y ago",
+      "source": "Winemaking Talk"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Taste",
+        "subtitle": "Berry Wine Taste",
+        "title": "Red & Dark Fruit Flavors in Wine - Wine Folly",
+        "link": "https://winefolly.com/tips/red-dark-fruit-flavors-in-wine/",
+        "displayed_link": "https://winefolly.com \u203a tips \u203a red-dark-fruit-flavors-in-wi...",
+        "snippet": "Dark Fruit Flavors in Wine Varieties",
+        "snippet_highlighted_words": [
+          "Dark Fruit Flavors in Wine Varieties"
+        ],
+        "list": [
+          "Cabernet Sauvignon. Cabernet Sauvignon has a wide range of fruit flavors from raspberry (in cooler climates such as Washington State) to blackberry (from hot climates such as California). ... ",
+          "Malbec. ... ",
+          "Mouvedre. ... ",
+          "Petite Sirah. ... ",
+          "Nero d'Avola."
+        ],
+        "favicon": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/e2958e5602d63776ac11304125d879c0caf7abcfa4aed71345d12e135d50b55410e792dc2ff1b817.png",
+        "source": "winefolly.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXhgcFzwIYT102xa-UMmV9H9_n0jlWVpLXWjhKGP-d_nI&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&q=berry+wine+taste&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQrooIegQIOBAI",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=berry+wine+taste"
+      },
+      {
+        "text": "Types",
+        "subtitle": "Types Of Berry Wine",
+        "title": "5 types of fruit wines to try this festive season",
+        "link": "https://www.dryfruitbasket.in/blog/5-types-of-fruit-wines-to-try-this-festive-season-1.html",
+        "displayed_link": "https://www.dryfruitbasket.in \u203a blog \u203a 5-types-of-fruit-w...",
+        "snippet": "Try some of these unique fresh fruit wines to celebrate the festive season with glee and health:",
+        "snippet_highlighted_words": [
+          "Try some of these unique fresh fruit wines to celebrate the festive season with glee and health:"
+        ],
+        "list": [
+          "Apple Wine. Being one of the most versatile wines, apple wine is available in different forms. ... ",
+          "Blueberry Wine. This wine is low on sugar and high on acid. ... ",
+          "Cranberry Wine. ... ",
+          "Strawberry Wine. ... ",
+          "Blackberry Wine."
+        ],
+        "favicon": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/e2958e5602d63776ac11304125d879c09e8df65852c8276b8148af5917122d25a03eb17e23baeddd.jpeg",
+        "source": "dryfruitbasket.in",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&q=types+of+berry+wine&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQrooIegQIOBAN",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=types+of+berry+wine"
+      },
+      {
+        "text": "Pairings",
+        "subtitle": "Food Pairing For Berry Wine",
+        "title": "Fruit-Forward Flavor Combinations: Pairing Fruit and Wine - Food & Wine",
+        "link": "https://www.foodandwine.com/lifestyle/fruit-forward-flavor-combinations-pairing-fruit-and-wine#:~:text=A%20juicy%2C%20aromatic%20Tempranillo%20is,flavors%20of%20raspberries%20and%20blackberries.&text=Many%20Syrahs%20exhibit%20notes%20of%20blueberry%2C%20vanilla%2C%20and%20toasted%20oak.",
+        "displayed_link": "https://www.foodandwine.com \u203a lifestyle \u203a fruit-forward...",
+        "date": "May 9, 2019",
+        "snippet": "A juicy, aromatic Tempranillo is the perfect match for ripe berries. The fruit-forward wine, which comes from Spain's Rioja region, seamlessly matches the deep fruit flavors of raspberries and blackberries. Many Syrahs exhibit notes of blueberry, vanilla, and toasted oak.",
+        "snippet_highlighted_words": [
+          "A juicy, aromatic Tempranillo is the perfect match for ripe berries"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2f461ec32f380a3e97e4/images/e2958e5602d63776ac11304125d879c03db1059543e435528f504cc8683dd688dbf9b3a6bf38a0b1.png",
+        "source": "foodandwine.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&q=food+pairing+for+berry+wine&sa=X&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQrooIegQIOBAS",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=food+pairing+for+berry+wine"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=berry+wine&sca_esv=8568a6baa21243e5&ei=Ry8KZ6bDH6qt5NoP_NjXuQ4&start=10&sa=N&sstk=AagrsugkN8ILY2eOJtJV0S2byFL8riugL2JYVYmiT0qFbH4l_E5KzcyGvK8rfeVhm_iF8viM0GcOi5l6JmwU_8uJC8TK2GrbWQMkSw&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQ8NMDegQIBhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=berry+wine&sca_esv=8568a6baa21243e5&ei=Ry8KZ6bDH6qt5NoP_NjXuQ4&start=10&sa=N&sstk=AagrsugkN8ILY2eOJtJV0S2byFL8riugL2JYVYmiT0qFbH4l_E5KzcyGvK8rfeVhm_iF8viM0GcOi5l6JmwU_8uJC8TK2GrbWQMkSw&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQ8tMDegQIBhAE",
+      "3": "https://www.google.com/search?q=berry+wine&sca_esv=8568a6baa21243e5&ei=Ry8KZ6bDH6qt5NoP_NjXuQ4&start=20&sa=N&sstk=AagrsugkN8ILY2eOJtJV0S2byFL8riugL2JYVYmiT0qFbH4l_E5KzcyGvK8rfeVhm_iF8viM0GcOi5l6JmwU_8uJC8TK2GrbWQMkSw&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQ8tMDegQIBhAG",
+      "4": "https://www.google.com/search?q=berry+wine&sca_esv=8568a6baa21243e5&ei=Ry8KZ6bDH6qt5NoP_NjXuQ4&start=30&sa=N&sstk=AagrsugkN8ILY2eOJtJV0S2byFL8riugL2JYVYmiT0qFbH4l_E5KzcyGvK8rfeVhm_iF8viM0GcOi5l6JmwU_8uJC8TK2GrbWQMkSw&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQ8tMDegQIBhAI",
+      "5": "https://www.google.com/search?q=berry+wine&sca_esv=8568a6baa21243e5&ei=Ry8KZ6bDH6qt5NoP_NjXuQ4&start=40&sa=N&sstk=AagrsugkN8ILY2eOJtJV0S2byFL8riugL2JYVYmiT0qFbH4l_E5KzcyGvK8rfeVhm_iF8viM0GcOi5l6JmwU_8uJC8TK2GrbWQMkSw&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQ8tMDegQIBhAK",
+      "6": "https://www.google.com/search?q=berry+wine&sca_esv=8568a6baa21243e5&ei=Ry8KZ6bDH6qt5NoP_NjXuQ4&start=50&sa=N&sstk=AagrsugkN8ILY2eOJtJV0S2byFL8riugL2JYVYmiT0qFbH4l_E5KzcyGvK8rfeVhm_iF8viM0GcOi5l6JmwU_8uJC8TK2GrbWQMkSw&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQ8tMDegQIBhAM",
+      "7": "https://www.google.com/search?q=berry+wine&sca_esv=8568a6baa21243e5&ei=Ry8KZ6bDH6qt5NoP_NjXuQ4&start=60&sa=N&sstk=AagrsugkN8ILY2eOJtJV0S2byFL8riugL2JYVYmiT0qFbH4l_E5KzcyGvK8rfeVhm_iF8viM0GcOi5l6JmwU_8uJC8TK2GrbWQMkSw&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQ8tMDegQIBhAO",
+      "8": "https://www.google.com/search?q=berry+wine&sca_esv=8568a6baa21243e5&ei=Ry8KZ6bDH6qt5NoP_NjXuQ4&start=70&sa=N&sstk=AagrsugkN8ILY2eOJtJV0S2byFL8riugL2JYVYmiT0qFbH4l_E5KzcyGvK8rfeVhm_iF8viM0GcOi5l6JmwU_8uJC8TK2GrbWQMkSw&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQ8tMDegQIBhAQ",
+      "9": "https://www.google.com/search?q=berry+wine&sca_esv=8568a6baa21243e5&ei=Ry8KZ6bDH6qt5NoP_NjXuQ4&start=80&sa=N&sstk=AagrsugkN8ILY2eOJtJV0S2byFL8riugL2JYVYmiT0qFbH4l_E5KzcyGvK8rfeVhm_iF8viM0GcOi5l6JmwU_8uJC8TK2GrbWQMkSw&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQ8tMDegQIBhAS",
+      "10": "https://www.google.com/search?q=berry+wine&sca_esv=8568a6baa21243e5&ei=Ry8KZ6bDH6qt5NoP_NjXuQ4&start=90&sa=N&sstk=AagrsugkN8ILY2eOJtJV0S2byFL8riugL2JYVYmiT0qFbH4l_E5KzcyGvK8rfeVhm_iF8viM0GcOi5l6JmwU_8uJC8TK2GrbWQMkSw&ved=2ahUKEwjmgrS_soiJAxWqFlkFHXzsNecQ8tMDegQIBhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=berry+wine&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=berry+wine&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=berry+wine&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=berry+wine&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=berry+wine&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=berry+wine&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=berry+wine&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=berry+wine&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=berry+wine&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=berry+wine&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=berry+wine&start=90"
+    }
+  }
+}

@@ -1,0 +1,769 @@
+{
+  "search_metadata": {
+    "id": "670a2c652c566d3f5b5c3303",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4c62d49d5940556a/670a2c652c566d3f5b5c3303.json",
+    "created_at": "2024-10-12 07:59:33 UTC",
+    "processed_at": "2024-10-12 07:59:33 UTC",
+    "google_url": "https://www.google.com/search?q=dandelion&oq=dandelion&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/4c62d49d5940556a/670a2c652c566d3f5b5c3303.html",
+    "total_time_taken": 0.67
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "dandelion",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "dandelion",
+    "total_results": 99200000,
+    "time_taken_displayed": 0.31,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=dandelion&npsic=0&rflfq=1&rldoc=1&rllag=29988401,-96630373,115683&tbm=lcl&sa=X&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQtgN6BQiJARAC",
+    "image": "https://www.google.com/maps/vt/data=_z-evP_KrxRCj5qDbBBxi1lzAi1qZVfB6sSMJSo4VAALeSieJf_pjFQqqol-d9p86Y8V1ajaA0LlhMQhKadwaY9EZLnIA6Te42mDgYp2TIKSXwmb8yQSdDKDZNbvEFpxqr0DgNAyPnzXaUap31r3j2yop0s3krX5FoifiK0jB4_PWwfKGk__Lo_Q5JDZGYFBQuMJdTIZ8YjkNyNmiMITQgpz2jYufXU5XThHP1DM3ZU_7U5N-s_PADxCCk5ZqoIlzFaToKXcj1n5qjvlSXpSO1wLEZysMX192z8Yr7FC8vPZaF__qvdOwI9aXnRmKhlAtBfYfxKLtVTnwInr_xhQG4yDiSlfQZdV5bf-q24NgpIucNm7tQMYc0P-tOkqJ9XbIxRqHzklIvHSAkkdN5-TsA19lApu70eefZPu9RpL76--KS7hN_cL5wCdMr6AMnS2BxOV_yHJKVXA5OiWmrVjgKBslKe9pPYyeRSv58hhwL3jEpSxOOJE44NNOSB-Im4T958hpT316YawvgCt2J3WbQEVdleklrvBeN20FzBxlHcwVyLG_G5xpu3FMGQiuqK9pntLOWbqlcJXsAtEs92GuTtFBN9csKr4lH2k-pbn8MOhpr-zg47qSnVMTXCvyUnboU1b7_r5X9QM0wAnOk-ev2Hlbg0d_mlOCU9t78RE4LxWJ-IWkVgUl_lelZGIwt07dnsRWT_AnzjvpVMvIiLmBltH6H_ZjfiaHsguZ4s-L0_khdy54QSHuMa2LN0_nduLSmRPhN_mOsoUTewiLj22",
+    "gps_coordinates": {
+      "latitude": 29.988401,
+      "longitude": -96.630373
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 5.0,
+        "reviews_original": "(2)",
+        "reviews": 2,
+        "lsig": "AB86z5V5P-0XuvGoJY9fhJiZJNmJ",
+        "thumbnail": "/maps/vt/data=5I16-9xmEjrxfZHZiv0QOFMxa5Jwmags7T0mp7JPXENom5Hod_8ojEvVWrNoZY5bjDyiPEs2jrS4ss1xw2CN4-35M6VSHis0vqhIrAcF2ONS27yhdVzNTzEpbtjAQ0ZEiVWRf4Q_0Fpi2_TH9Q0ih-pueeeCB3q9bKUOH45wv5LBPw",
+        "title": "Dandelion Acupuncture",
+        "type": "Acupuncture clinic",
+        "phone": "(512) 817-4325",
+        "address": "2712 Bee Caves Rd",
+        "place_id": "12492057095478100002",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=12492057095478100002&q=dandelion",
+        "gps_coordinates": {
+          "latitude": 30.271608,
+          "longitude": -97.78624
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.5,
+        "reviews_original": "(1.1K)",
+        "reviews": 1100,
+        "description": "Bright, modern American eatery",
+        "lsig": "AB86z5X-OWDbQQ-e75Jas6WFDbXZ",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPodEtaTayNa5XMGPO2Bc3S29GSUWBfbD1rlh7S=w92-h92-n-k-no",
+        "title": "Dandelion Cafe Bellaire",
+        "type": "Cafe",
+        "phone": "(832) 988-9210",
+        "address": "Bellaire, TX",
+        "hours": "Closed \u22c5 Opens 7 AM",
+        "place_id": "4046919522598181400",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=4046919522598181400&q=dandelion",
+        "gps_coordinates": {
+          "latitude": 29.705162,
+          "longitude": -95.47454
+        }
+      },
+      {
+        "position": 3,
+        "lsig": "AB86z5WwHdz0ePV2NPjYfAhDg7Y2",
+        "thumbnail": "/maps/vt/data=tfoxpiZSSQJfnTBL6I83SKrzIEGVaMqpLW5NowDyfe1jleeO-qrRcww87XIul99MYS7MA3pAPO74EoNamoRFBryCIAb1mkccprfbaQp2Xn_Qqw3TYViCRKrVJgKgYOsZSV-_8RauArxkVIB4WlrhEu-N-9iNhW8jxkeQFnIN0Ez-S3Vquz6zxAav4O9n1phpvR_XBAPbdiEtXN2YYRm7qota4brMyj4dmTXEEhyznw",
+        "title": "Dandelion Translations",
+        "reviews_original": "No reviews",
+        "type": "Translation service",
+        "phone": "(615) 878-4470",
+        "place_id": "18415971335242315076",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=18415971335242315076&q=dandelion"
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&tbs=lf:1,lf_ui:10&tbm=lcl&q=dandelion&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQjGp6BQiKARAB"
+  },
+  "knowledge_graph": {
+    "title": "Dandelions",
+    "type": "Plant",
+    "entity_type": "biology",
+    "kgmid": "/m/0fr19",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0fr19&hl=en-US&q=Dandelions",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0fr19&location=Austin%2CTexas%2CUnited+States&q=Dandelions",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/ea8da1e5271bc3b3b56d279263062066bc30cd880f132e1aa20aca3c1e89612513829e8030684ac6.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/ea8da1e5271bc3b3b56d279263062066bc30cd880f132e1ac21abae9c479df7f6cdbc5d8f5a978e2.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/ea8da1e5271bc3b3b56d279263062066bc30cd880f132e1a64ac51db661a760f0d513a03953e9ee5.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/ea8da1e5271bc3b3b56d279263062066bc30cd880f132e1a1e749f0209b9caa7074659bf09f71e81.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/ea8da1e5271bc3b3b56d279263062066bc30cd880f132e1a7bd7dbf8544aab8788bad85d6d5fd3d8.webp"
+      }
+    ],
+    "subfamily": "Cichorioideae",
+    "genus": "Taraxacum; F. H. Wigg.",
+    "kingdom": "Plantae",
+    "order": "Asterales",
+    "order_links": [
+      {
+        "text": "Asterales",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Asterales&stick=H4sIAAAAAAAAAONgVmLXz9U3yCozX8TK6VhcklqUmJNaDADIKJneFwAAAA&sa=X&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQmxMoAHoECEgQAg"
+      }
+    ],
+    "web_results": [
+      {
+        "snippet": "Taraxacum is a large genus of flowering plants in the family Asteraceae, which consists of species commonly known as dandelions. The scientific and hobby study of the genus is known as taraxacology.",
+        "source": "Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Taraxacum"
+      },
+      {
+        "title": "Scientific name",
+        "snippet": "Taraxacum",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=taraxacum+scientific+name&stick=H4sIAAAAAAAAAOPgE-LQz9U3SCsytNSyz0620k_KzM_JT6_Uzy9KT8zLLM6NT85JLC7OTMtMTizJzM-zKk7OTM0rAfEV8hJzUxUS81IUclOBSvPSF7FKliQWJVYkJpfmKqCpAwDUhpiVaQAAAA&sa=X&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQ18AJegQIThAB"
+      },
+      {
+        "title": "Family",
+        "snippet": "Asteraceae",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=taraxacum+family&stick=H4sIAAAAAAAAAOPgE-LQz9U3SCsytNQSLi620i9PTUpLTC4ptkpLzM3MyVzEKlCSWJRYkZhcmqsAFqoEANyioa00AAAA&sa=X&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQ18AJegQITRAB"
+      }
+    ]
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "The Power of Dandelions",
+      "link": "https://www.youtube.com/watch?v=cSo2YDCJLs8",
+      "thumbnail": "https://i.ytimg.com/vi/cSo2YDCJLs8/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kV7E5M3Ka77S7c_wew5NiUiBTnhw",
+      "channel": "Danu's Irish Herb Garden",
+      "duration": "18:23",
+      "platform": "YouTube",
+      "date": "Apr 2, 2023"
+    },
+    {
+      "position": 2,
+      "title": "The Complete Guide to Foraging, Processing and Cooking ...",
+      "link": "https://www.youtube.com/watch?v=vIjUElGDEjs",
+      "thumbnail": "https://i.ytimg.com/vi/vIjUElGDEjs/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3nAGWexKGMj4C31jl6IX6TFrLiHpg",
+      "channel": "Homegrown Handgathered",
+      "duration": "17:23",
+      "platform": "YouTube",
+      "date": "Apr 24, 2023"
+    },
+    {
+      "position": 3,
+      "title": "Ruth B. - Dandelions (Lyrics)",
+      "link": "https://www.youtube.com/watch?v=WgTMeICssXY",
+      "thumbnail": "https://i.ytimg.com/vi/WgTMeICssXY/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3nOLH_fOhwN_L9qEflw8eyRki9WZA",
+      "channel": "7clouds",
+      "duration": "3:49",
+      "platform": "YouTube",
+      "date": "Sep 21, 2021"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Who should not eat dandelion?",
+      "snippet": "In some people, dandelion can cause increased stomach acid and heartburn. It may also irritate the skin. People with kidney problems, gallbladder problems, or gallstones should consult their doctors before eating dandelion.",
+      "title": "Dandelion Information | Mount Sinai - New York",
+      "link": "https://www.mountsinai.org/health-library/herb/dandelion#:~:text=In%20some%20people%2C%20dandelion%20can,their%20doctors%20before%20eating%20dandelion.",
+      "displayed_link": "https://www.mountsinai.org \u203a health-library \u203a herb \u203a da...",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWRFazJZM1l6TUVGaE0zaFVZVGhuYldwV2JWWk9iVkZaWjBNekxUa3dhRUU0YlhwVWFtSnVaVzVoWkRkbVpEQkVXalY1ZVV4RlkxOVNUMDh3UkU5VmVsWk1UbEpERWhkYVUzZExXaTFNUlU1aExVcDNZbXRRTmtwaGVtOUJUUm9pUVVaWWNrVmpjblZCTjJkU1NWQXlPV2h4VFZKWFdWcHBObGRKWlV4UmVVRjZadyIsImZjdiI6IjMiLCJlaSI6IlpTd0taLUxFTmEtSndia1A2SmF6b0FNIiwicWMiOiJDZ2xrWVc1a1pXeHBiMjRRQUgzdFFDMF8iLCJxdWVzdGlvbiI6IldobyBzaG91bGQgbm90IGVhdCBkYW5kZWxpb24/IiwibGsiOiJHaHgzYUc4Z2MyaHZkV3hrSUc1dmRDQmxZWFFnWkdGdVpHVnNhVzl1IiwiYnMiOiJjLU55NHBJTno4aFhLTTdJTDgxSlVjakxMMUZJVFN4UlNFbk1TMG5OeWN6UHM1ZjRMbUlrSnlWVGprY05sdy1Ya25OaW5vSW5xbkN4UWxwUmZxNUNicVZDWldKUmlyM0VjbDBqWlNuRlpLRENUSHdLdWNBdUFzbm5JeXNwcnN4TnlzX0pyRXExbDlnWUQzRVJialZjRGx3eTRSbVZDcG5GQ0dtRllxQVBDbEtUTXhOejdDVmV5eGpKU2ttWDQxWWl3QWdBIiwiaWQiOiJmY18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWRFazJZM1l6TUVGaE0zaFVZVGhuYldwV2JWWk9iVkZaWjBNekxUa3dhRUU0YlhwVWFtSnVaVzVoWkRkbVpEQkVXalY1ZVV4RlkxOVNUMDh3UkU5VmVsWk1UbEpERWhkYVUzZExXaTFNUlU1aExVcDNZbXRRTmtwaGVtOUJUUm9pUVVaWWNrVmpjblZCTjJkU1NWQXlPV2h4VFZKWFdWcHBObGRKWlV4UmVVRjZadyIsImZjdiI6IjMiLCJlaSI6IlpTd0taLUxFTmEtSndia1A2SmF6b0FNIiwicWMiOiJDZ2xrWVc1a1pXeHBiMjRRQUgzdFFDMF8iLCJxdWVzdGlvbiI6IldobyBzaG91bGQgbm90IGVhdCBkYW5kZWxpb24%2FIiwibGsiOiJHaHgzYUc4Z2MyaHZkV3hrSUc1dmRDQmxZWFFnWkdGdVpHVnNhVzl1IiwiYnMiOiJjLU55NHBJTno4aFhLTTdJTDgxSlVjakxMMUZJVFN4UlNFbk1TMG5OeWN6UHM1ZjRMbUlrSnlWVGprY05sdy1Ya25OaW5vSW5xbkN4UWxwUmZxNUNicVZDWldKUmlyM0VjbDBqWlNuRlpLRENUSHdLdWNBdUFzbm5JeXNwcnN4TnlzX0pyRXExbDlnWUQzRVJialZjRGx3eTRSbVZDcG5GQ0dtRllxQVBDbEtUTXhOejdDVmV5eGpKU2ttWDQxWWl3QWdBIiwiaWQiOiJmY18yIn0%3D"
+    },
+    {
+      "question": "Can I eat dandelions from my yard?",
+      "snippet": "Every part of the dandelion is edible: the flower, roots, stems, and leaves. Dandelion greens slightly resemble arugula, though longer, and have a similar spicy and bitter taste. You can harvest the blooms and leaves to make salads and saut\u00e9ed dishes and use the roots to make tea.",
+      "title": "Are Dandelions Edible Raw? How to Forage Wild Dandelions - 2024",
+      "date": "Mar 23, 2022",
+      "link": "https://www.masterclass.com/articles/are-dandelions-edible-raw#:~:text=Every%20part%20of%20the%20dandelion%20is%20edible%3A%20the%20flower%2C%20roots,the%20roots%20to%20make%20tea.",
+      "displayed_link": "https://www.masterclass.com \u203a articles \u203a are-dandelions-e...",
+      "source_logo": "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/8149a32a2cd807ffb79249c2dd67672b908d8984efda5fd32248a51e76133e62.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWRFazJZM1l6TUVGaE0zaFVZVGhuYldwV2JWWk9iVkZaWjBNekxUa3dhRUU0YlhwVWFtSnVaVzVoWkRkbVpEQkVXalY1ZVV4RlkxOVNUMDh3UkU5VmVsWk1UbEpERWhkYVUzZExXaTFNUlU1aExVcDNZbXRRTmtwaGVtOUJUUm9pUVVaWWNrVmpjblZCTjJkU1NWQXlPV2h4VFZKWFdWcHBObGRKWlV4UmVVRjZadyIsImZjdiI6IjMiLCJlaSI6IlpTd0taLUxFTmEtSndia1A2SmF6b0FNIiwicWMiOiJDZ2xrWVc1a1pXeHBiMjRRQUgzdFFDMF8iLCJxdWVzdGlvbiI6IkNhbiBJIGVhdCBkYW5kZWxpb25zIGZyb20gbXkgeWFyZD8iLCJsayI6IkdpRmpZVzRnYVNCbFlYUWdaR0Z1WkdWc2FXOXVjeUJtY205dElHMTVJSGxoY21RIiwiYnMiOiJjLU55NHBJTno4aFhLTTdJTDgxSlVjakxMMUZJVFN4UlNFbk1TMG5OeWN6UHM1ZjRMbUlrSnlWVGprY05sdy1Ya25OaW5vSW5xbkN4UWxwUmZxNUNicVZDWldKUmlyM0VjbDBqWlNuRlpLRENUSHdLdWNBdUFzbm5JeXNwcnN4TnlzX0pyRXExbDlnWUQzRVJialZjRGx3eTRSbVZDcG5GQ0dtRllxQVBDbEtUTXhOejdDVmV5eGpKU2ttWDQxWWl3QWdBIiwiaWQiOiJmY18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWRFazJZM1l6TUVGaE0zaFVZVGhuYldwV2JWWk9iVkZaWjBNekxUa3dhRUU0YlhwVWFtSnVaVzVoWkRkbVpEQkVXalY1ZVV4RlkxOVNUMDh3UkU5VmVsWk1UbEpERWhkYVUzZExXaTFNUlU1aExVcDNZbXRRTmtwaGVtOUJUUm9pUVVaWWNrVmpjblZCTjJkU1NWQXlPV2h4VFZKWFdWcHBObGRKWlV4UmVVRjZadyIsImZjdiI6IjMiLCJlaSI6IlpTd0taLUxFTmEtSndia1A2SmF6b0FNIiwicWMiOiJDZ2xrWVc1a1pXeHBiMjRRQUgzdFFDMF8iLCJxdWVzdGlvbiI6IkNhbiBJIGVhdCBkYW5kZWxpb25zIGZyb20gbXkgeWFyZD8iLCJsayI6IkdpRmpZVzRnYVNCbFlYUWdaR0Z1WkdWc2FXOXVjeUJtY205dElHMTVJSGxoY21RIiwiYnMiOiJjLU55NHBJTno4aFhLTTdJTDgxSlVjakxMMUZJVFN4UlNFbk1TMG5OeWN6UHM1ZjRMbUlrSnlWVGprY05sdy1Ya25OaW5vSW5xbkN4UWxwUmZxNUNicVZDWldKUmlyM0VjbDBqWlNuRlpLRENUSHdLdWNBdUFzbm5JeXNwcnN4TnlzX0pyRXExbDlnWUQzRVJialZjRGx3eTRSbVZDcG5GQ0dtRllxQVBDbEtUTXhOejdDVmV5eGpKU2ttWDQxWWl3QWdBIiwiaWQiOiJmY18yIn0%3D"
+    },
+    {
+      "question": "What do dandelions symbolize?",
+      "snippet": "The name derives from the French term dents-de-lion, meaning lion's teeth. The dandelion is a well-known weed. Yet, this humble plant is also a symbol of hope, healing, and resilience in many cultures around the world from Europe to Asia.",
+      "title": "THE DANDELION: A Symbol of Resilience",
+      "link": "https://longuevue.com/visit/exhibits/dandelion/#:~:text=The%20name%20derives%20from%20the,world%20from%20Europe%20to%20Asia.",
+      "displayed_link": "https://longuevue.com \u203a visit \u203a exhibits \u203a dandelion",
+      "source_logo": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWRFazJZM1l6TUVGaE0zaFVZVGhuYldwV2JWWk9iVkZaWjBNekxUa3dhRUU0YlhwVWFtSnVaVzVoWkRkbVpEQkVXalY1ZVV4RlkxOVNUMDh3UkU5VmVsWk1UbEpERWhkYVUzZExXaTFNUlU1aExVcDNZbXRRTmtwaGVtOUJUUm9pUVVaWWNrVmpjblZCTjJkU1NWQXlPV2h4VFZKWFdWcHBObGRKWlV4UmVVRjZadyIsImZjdiI6IjMiLCJlaSI6IlpTd0taLUxFTmEtSndia1A2SmF6b0FNIiwicWMiOiJDZ2xrWVc1a1pXeHBiMjRRQUgzdFFDMF8iLCJxdWVzdGlvbiI6IldoYXQgZG8gZGFuZGVsaW9ucyBzeW1ib2xpemU/IiwibGsiOiJHaHgzYUdGMElHUnZJR1JoYm1SbGJHbHZibk1nYzNsdFltOXNhWHBsIiwiYnMiOiJjLU55NHBJTno4aFhLTTdJTDgxSlVjakxMMUZJVFN4UlNFbk1TMG5OeWN6UHM1ZjRMbUlrSnlWVGprY05sdy1Ya25OaW5vSW5xbkN4UWxwUmZxNUNicVZDWldKUmlyM0VjbDBqWlNuRlpLRENUSHdLdWNBdUFzbm5JeXNwcnN4TnlzX0pyRXExbDlnWUQzRVJialZjRGx3eTRSbVZDcG5GQ0dtRllxQVBDbEtUTXhOejdDVmV5eGpKU2ttWDQxWWl3QWdBIiwiaWQiOiJmY18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWRFazJZM1l6TUVGaE0zaFVZVGhuYldwV2JWWk9iVkZaWjBNekxUa3dhRUU0YlhwVWFtSnVaVzVoWkRkbVpEQkVXalY1ZVV4RlkxOVNUMDh3UkU5VmVsWk1UbEpERWhkYVUzZExXaTFNUlU1aExVcDNZbXRRTmtwaGVtOUJUUm9pUVVaWWNrVmpjblZCTjJkU1NWQXlPV2h4VFZKWFdWcHBObGRKWlV4UmVVRjZadyIsImZjdiI6IjMiLCJlaSI6IlpTd0taLUxFTmEtSndia1A2SmF6b0FNIiwicWMiOiJDZ2xrWVc1a1pXeHBiMjRRQUgzdFFDMF8iLCJxdWVzdGlvbiI6IldoYXQgZG8gZGFuZGVsaW9ucyBzeW1ib2xpemU%2FIiwibGsiOiJHaHgzYUdGMElHUnZJR1JoYm1SbGJHbHZibk1nYzNsdFltOXNhWHBsIiwiYnMiOiJjLU55NHBJTno4aFhLTTdJTDgxSlVjakxMMUZJVFN4UlNFbk1TMG5OeWN6UHM1ZjRMbUlrSnlWVGprY05sdy1Ya25OaW5vSW5xbkN4UWxwUmZxNUNicVZDWldKUmlyM0VjbDBqWlNuRlpLRENUSHdLdWNBdUFzbm5JeXNwcnN4TnlzX0pyRXExbDlnWUQzRVJialZjRGx3eTRSbVZDcG5GQ0dtRllxQVBDbEtUTXhOejdDVmV5eGpKU2ttWDQxWWl3QWdBIiwiaWQiOiJmY18yIn0%3D"
+    },
+    {
+      "question": "Why is dandelion so special?",
+      "snippet": "Dandelion leaves also have many health benefits. They are packed with vitamins and nutrients that your body needs, like vitamins K, A, and C, magnesium, potassium, and B vitamins. There are many benefits of consuming dandelion leaves: Reduces high cholesterol.",
+      "title": "How Dandelions Benefit You and Your Yard - LawnStarter",
+      "date": "Apr 25, 2024",
+      "link": "https://www.lawnstarter.com/blog/lawn-care-2/benefits-of-dandelions-yard/#:~:text=Dandelion%20leaves%20also%20have%20many,Reduces%20high%20cholesterol",
+      "displayed_link": "https://www.lawnstarter.com \u203a blog \u203a lawn-care-2 \u203a benef...",
+      "source_logo": "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/8149a32a2cd807ffb79249c2dd67672bb4aa20372967c94370a4ff768b038f18.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWRFazJZM1l6TUVGaE0zaFVZVGhuYldwV2JWWk9iVkZaWjBNekxUa3dhRUU0YlhwVWFtSnVaVzVoWkRkbVpEQkVXalY1ZVV4RlkxOVNUMDh3UkU5VmVsWk1UbEpERWhkYVUzZExXaTFNUlU1aExVcDNZbXRRTmtwaGVtOUJUUm9pUVVaWWNrVmpjblZCTjJkU1NWQXlPV2h4VFZKWFdWcHBObGRKWlV4UmVVRjZadyIsImZjdiI6IjMiLCJlaSI6IlpTd0taLUxFTmEtSndia1A2SmF6b0FNIiwicWMiOiJDZ2xrWVc1a1pXeHBiMjRRQUgzdFFDMF8iLCJxdWVzdGlvbiI6IldoeSBpcyBkYW5kZWxpb24gc28gc3BlY2lhbD8iLCJsayI6IkdodDNhSGtnYVhNZ1pHRnVaR1ZzYVc5dUlITnZJSE53WldOcFlXdyIsImJzIjoiYy1OeTRwSU56OGhYS003SUw4MUpVY2pMTDFGSVRTeFJTRW5NUzBuTnljelBzNWY0TG1Ja0p5VlRqa2NObHctWGtuTmlub0lucW5DeFFscFJmcTVDYnFWQ1pXSlJpcjNFY2wwalpTbkZaS0RDVEh3S3VjQXVBc25uSXlzcHJzeE55c19KckVxMWw5Z1lEM0VSYmpWY0Rsd3k0Um1WQ3BuRkNHbUZZcUFQQ2xLVE14Tno3Q1ZleXhqSlNrbVg0MVlpd0FnQSIsImlkIjoiZmNfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWRFazJZM1l6TUVGaE0zaFVZVGhuYldwV2JWWk9iVkZaWjBNekxUa3dhRUU0YlhwVWFtSnVaVzVoWkRkbVpEQkVXalY1ZVV4RlkxOVNUMDh3UkU5VmVsWk1UbEpERWhkYVUzZExXaTFNUlU1aExVcDNZbXRRTmtwaGVtOUJUUm9pUVVaWWNrVmpjblZCTjJkU1NWQXlPV2h4VFZKWFdWcHBObGRKWlV4UmVVRjZadyIsImZjdiI6IjMiLCJlaSI6IlpTd0taLUxFTmEtSndia1A2SmF6b0FNIiwicWMiOiJDZ2xrWVc1a1pXeHBiMjRRQUgzdFFDMF8iLCJxdWVzdGlvbiI6IldoeSBpcyBkYW5kZWxpb24gc28gc3BlY2lhbD8iLCJsayI6IkdodDNhSGtnYVhNZ1pHRnVaR1ZzYVc5dUlITnZJSE53WldOcFlXdyIsImJzIjoiYy1OeTRwSU56OGhYS003SUw4MUpVY2pMTDFGSVRTeFJTRW5NUzBuTnljelBzNWY0TG1Ja0p5VlRqa2NObHctWGtuTmlub0lucW5DeFFscFJmcTVDYnFWQ1pXSlJpcjNFY2wwalpTbkZaS0RDVEh3S3VjQXVBc25uSXlzcHJzeE55c19KckVxMWw5Z1lEM0VSYmpWY0Rsd3k0Um1WQ3BuRkNHbUZZcUFQQ2xLVE14Tno3Q1ZleXhqSlNrbVg0MVlpd0FnQSIsImlkIjoiZmNfMiJ9"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Dandelion is a plant that is rich in fiber, vitamins, and minerals, and contains antioxidants. The root of the dandelion is often dried and made into tea, or eaten like a root vegetable. Dandelion may have medicinal properties, but it can also interact with some medications and cause side effects:",
+        "reference_indexes": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "title": "Nutritional content",
+            "snippet": "Dandelion is a good source of fiber, vitamins, and minerals. The root contains inulin, a soluble fiber that supports healthy gut bacteria.",
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "title": "Antioxidants",
+            "snippet": "Dandelion contains antioxidants, which may help neutralize free radicals that can contribute to chronic disease.",
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "title": "Interactions with medications",
+            "snippet": "Dandelion may interact with medications that are broken down by the liver. It may also lower blood sugar levels, so people taking diabetes medications should be careful.",
+            "reference_indexes": [
+              3
+            ]
+          },
+          {
+            "title": "Side effects",
+            "snippet": "Dandelion may cause allergic reactions, stomach discomfort, diarrhea, or heartburn. There isn't enough information to know if dandelion is safe to use during pregnancy or while breastfeeding.",
+            "reference_indexes": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Dandelion may also refer to dandelon.com, a search engine for the academic community. The search engine was invented in 2001 by Manfred Hauer and Karl Raedler, and is a collaboration between libraries in Germany, Austria, Liechtenstein, and Switzerland. Dandelon.com uses AI to translate tables of contents into 135 languages, and offers deep indexing for more specific search results.",
+        "reference_indexes": [
+          0
+        ]
+      }
+    ],
+    "references": [
+      {
+        "title": "dandelon.com - European pioneer in library catalog enrichment",
+        "link": "https://dandelon.com/#:~:text=dandelon.com%20is%20an%20independent,Automatic%20display%20of%20content",
+        "snippet": "dandelon.com is an independent academic library catalogue produced by a sharing community of libraries in Germany, Austria, Liecht...",
+        "source": "dandelon.com",
+        "index": 0
+      },
+      {
+        "title": "Dandelion: Health Benefits and Side Effects - Healthline",
+        "link": "https://www.healthline.com/nutrition/dandelion-benefits#:~:text=Dandelion%20root%20is%20rich%20in,too%20high%20in%20your%20body.",
+        "snippet": "Dandelion root is rich in the carbohydrate inulin, a type of soluble fiber found in plants that supports the growth and maintenanc...",
+        "source": "Healthline",
+        "index": 1
+      },
+      {
+        "title": "DANDELION - Uses, Side Effects, and More - WebMD",
+        "link": "https://www.webmd.com/vitamins/ai/ingredientmono-706/dandelion#:~:text=in%20larger%20amounts.-,Dandelion%20might%20cause%20allergic%20reactions%2C%20stomach%20discomfort%2C%20diarrhea%2C%20or,safe%20side%20and%20avoid%20use.",
+        "snippet": "Dandelion might cause allergic reactions, stomach discomfort, diarrhea, or heartburn in some people. Pregnancy and breast-feeding:",
+        "source": "WebMD",
+        "index": 2
+      },
+      {
+        "title": "Dandelion Information | Mount Sinai - New York",
+        "link": "https://www.mountsinai.org/health-library/herb/dandelion#:~:text=Medications%20for%20diabetes:%20Theoretically%2C%20dandelion,with%20a%20number%20of%20medications.",
+        "snippet": "Medications for diabetes: Theoretically, dandelion may lower blood sugar levels. If you take medications for diabetes, taking dand...",
+        "source": "Mount Sinai",
+        "index": 3
+      }
+    ]
+  },
+  "answer_box": {
+    "type": "organic_result",
+    "title": "Dandelion, Taraxacum officinale - Wisconsin Horticulture",
+    "link": "https://hort.extension.wisc.edu/articles/dandelion-taraxacum-officinale/#:~:text=Dandelion%20is%20a%20short%2Dlived,won't%20kill%20the%20plant.",
+    "displayed_link": "https://hort.extension.wisc.edu \u203a articles \u203a dandelion-tara...",
+    "snippet": "Dandelion is a short-lived perennial that will grow just about anywhere, regardless of soil conditions, but rich soil will improve its growth. They withstand frost and freezes and tolerate crowding. Heat and insufficient moisture will cause the leaves to get bitter, but it won't kill the plant.",
+    "snippet_highlighted_words": [
+      "a short-lived perennial that will grow just about anywhere, regardless of soil conditions, but rich soil will improve its growth"
+    ],
+    "favicon": "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/38a174baaf3972cb6b9d34b0354d9cc51096e5993361bc77.webp",
+    "source": "Wisconsin Horticulture \u2013 Division of Extension",
+    "images": [
+      "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/38a174baaf3972cba8e50f5efdba1188e2894230598198cc.jpeg",
+      "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/38a174baaf3972cba8e50f5efdba1188117286b14319afa6.jpeg"
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Taraxacum",
+      "link": "https://en.wikipedia.org/wiki/Taraxacum",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Taraxacum&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQFnoECBoQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Taraxacum",
+      "thumbnail": "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/90812e723a2594987e9bdc1b34ff91bc7bd7741746b260022d776cb3930cd484.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/90812e723a2594987e9bdc1b34ff91bc379a76ecfe5d0deae4fb2b021468e61a.webp",
+      "snippet": "Taraxacum is a large genus of flowering plants in the family Asteraceae, which consists of species commonly known as dandelions. The scientific and hobby ...",
+      "snippet_highlighted_words": [
+        "dandelions"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Taraxacum officinale",
+            "link": "https://en.wikipedia.org/wiki/Taraxacum_officinale"
+          },
+          {
+            "title": "False dandelion",
+            "link": "https://en.wikipedia.org/wiki/False_dandelion"
+          },
+          {
+            "title": "Dandelion (disambiguation)",
+            "link": "https://en.wikipedia.org/wiki/Dandelion_(disambiguation)"
+          },
+          {
+            "title": "Crepis",
+            "link": "https://en.wikipedia.org/wiki/Crepis"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "The Dandelion",
+      "link": "https://thedandelionpub.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thedandelionpub.com/&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQFnoECGEQAQ",
+      "displayed_link": "https://thedandelionpub.com",
+      "favicon": "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/90812e723a2594987e9bdc1b34ff91bcd5c6980b592349a97f4ce717f6b15505.webp",
+      "snippet": "A sophisticated homage to the British pub serving updated seasonal takes on UK cuisine. Just steps from Philadelphia's bustling Rittenhouse Square.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Afternoon Tea",
+            "link": "https://thedandelionpub.com/menus/afternoon-tea/"
+          },
+          {
+            "title": "Dinner",
+            "link": "https://thedandelionpub.com/menus/all-day/"
+          },
+          {
+            "title": "Menus",
+            "link": "https://thedandelionpub.com/#menus"
+          },
+          {
+            "title": "Group Dining",
+            "link": "https://thedandelionpub.com/#groups"
+          }
+        ]
+      },
+      "source": "The Dandelion"
+    },
+    {
+      "position": 3,
+      "title": "Dandelion Chocolate",
+      "link": "https://www.dandelionchocolate.com/?srsltid=AfmBOoopjfG-Hc7SJYy-6jYciCJ0W20Qhrw7lh0XDy7j-MAHkuvqbCUr",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dandelionchocolate.com/%3Fsrsltid%3DAfmBOoopjfG-Hc7SJYy-6jYciCJ0W20Qhrw7lh0XDy7j-MAHkuvqbCUr&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQFnoECGQQAQ",
+      "displayed_link": "https://www.dandelionchocolate.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Dc3FA5k4l3Ql9dCko32-FoiByHIkHNp8nwB3nii4K3PIM0Grsi-m&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/90812e723a2594987e9bdc1b34ff91bc37cfdb91b772403d91f67632f4cfc7d5.webp",
+      "snippet": "Dandelion Chocolate offers single-origin small-batch chocolate bars, gifts, hot chocolate mix, baking chocolate, and everything to make chocolate at home.",
+      "snippet_highlighted_words": [
+        "Dandelion"
+      ],
+      "source": "Dandelion Chocolate"
+    },
+    {
+      "position": 4,
+      "title": "How to Harvest and Eat the Common Dandelion",
+      "link": "https://wildmontana.org/2023/06/29/community/how-to-harvest-and-eat-the-common-dandelion/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wildmontana.org/2023/06/29/community/how-to-harvest-and-eat-the-common-dandelion/&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQFnoECF8QAQ",
+      "displayed_link": "https://wildmontana.org \u203a Category: Community",
+      "favicon": "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/90812e723a2594987e9bdc1b34ff91bcc5fa107aabb14550441de0d374e81201.webp",
+      "date": "Jun 29, 2023",
+      "snippet": "It is caffeine-free. Harvest in early spring (before too much new growth) for the least bitter or in late fall (as it's storing energy in its ...",
+      "source": "Wild Montana"
+    },
+    {
+      "position": 5,
+      "title": "Dandelion Information | Mount Sinai - New York",
+      "link": "https://www.mountsinai.org/health-library/herb/dandelion",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mountsinai.org/health-library/herb/dandelion&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQFnoECGAQAQ",
+      "displayed_link": "https://www.mountsinai.org \u203a health-library \u203a herb \u203a da...",
+      "favicon": "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/90812e723a2594987e9bdc1b34ff91bcf72b345e44cad68192306375612ffb6f.webp",
+      "snippet": "Dandelion leaves act as a diuretic, increasing the amount of urine your body makes. The leaves are used to stimulate the appetite and help digestion. Dandelion ...",
+      "snippet_highlighted_words": [
+        "Dandelion",
+        "Dandelion"
+      ],
+      "source": "Mount Sinai"
+    },
+    {
+      "position": 6,
+      "title": "Dandelion: Health Benefits and Side Effects",
+      "link": "https://www.healthline.com/nutrition/dandelion-benefits",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.healthline.com/nutrition/dandelion-benefits&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQFnoFCIABEAE",
+      "displayed_link": "https://www.healthline.com \u203a nutrition \u203a dandelion-bene...",
+      "favicon": "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/90812e723a2594987e9bdc1b34ff91bc2e204dc624904aa9fd7b4d50698d7d55.webp",
+      "snippet": "Dandelion leaves, roots, and flowers may offer health benefits. These can include promoting liver health and fighting inflammation.",
+      "snippet_highlighted_words": [
+        "Dandelion"
+      ],
+      "source": "Healthline"
+    },
+    {
+      "position": 7,
+      "title": "Shop \u2013 Dandelion Chocolate",
+      "link": "https://www.dandelionchocolate.com/pages/shop?srsltid=AfmBOoqMHbeZuz5q3zwtOApmUjz1tXT8ai9MbnN3Tdni_KaAFn5dqImt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dandelionchocolate.com/pages/shop%3Fsrsltid%3DAfmBOoqMHbeZuz5q3zwtOApmUjz1tXT8ai9MbnN3Tdni_KaAFn5dqImt&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQFnoFCIMBEAE",
+      "displayed_link": "https://www.dandelionchocolate.com \u203a pages \u203a shop",
+      "favicon": "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/90812e723a2594987e9bdc1b34ff91bcc97e9e36a7524f178ba92a1e527d03ea.webp",
+      "snippet": "Classic Chocolate \u00b7 dark with traditional chocolate notes ; Well Balanced \u00b7 complex and intriguing flavors ; Bold & Unexpected \u00b7 assertive, unusual, and bright ; High ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "2024 Advent Calendar",
+            "link": "https://www.dandelionchocolate.com/products/advent-calendar"
+          },
+          {
+            "title": "Highway 1 Collection",
+            "link": "https://www.dandelionchocolate.com/products/highway-1-collection"
+          },
+          {
+            "title": "City of Light Collection",
+            "link": "https://www.dandelionchocolate.com/products/city-of-light-collection"
+          },
+          {
+            "title": "Tumaco",
+            "link": "https://www.dandelionchocolate.com/products/tumaco-colombia-70-chocolate-bar"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 1,
+            "currency": "Free \u2013 day delivery over $"
+          },
+          "extensions": [
+            "$11 to $80",
+            "\u200eFree 1\u20133 day delivery over $25"
+          ]
+        }
+      },
+      "source": "Dandelion Chocolate"
+    },
+    {
+      "position": 8,
+      "title": "Dandelion: Usefulness and Safety | NCCIH",
+      "link": "https://www.nccih.nih.gov/health/dandelion",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nccih.nih.gov/health/dandelion&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQFnoECGUQAQ",
+      "displayed_link": "https://www.nccih.nih.gov \u203a Health Information",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTitUcVFPTsJR1MeWv3qzC2__pkV03ykHahfFBrDREd06BkqBlfmWlV&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/90812e723a2594987e9bdc1b34ff91bc4f0e5bb0e577817572f0d3f8e5fbd9f8.webp",
+      "snippet": "Today, dandelion is promoted as a \u201ctonic,\u201d as a diuretic, and for a variety of conditions, including infections and digestive symptoms. As a food, dandelion is ...",
+      "snippet_highlighted_words": [
+        "dandelion",
+        "dandelion"
+      ],
+      "source": "National Center for Complementary and Integrative Health (.gov)"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&tbs=lf:1,lf_ui:10&tbm=lcl&q=dandelion&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQjGp6BQiKARAB",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=dandelion&tbs=lf%3A1%2Clf_ui%3A10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Dandelion tea",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Dandelion+tea&sa=X&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQ1QJ6BAh9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Dandelion+tea"
+    },
+    {
+      "block_position": 1,
+      "query": "Dandelion flower",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Dandelion+flower&sa=X&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQ1QJ6BAh5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Dandelion+flower"
+    },
+    {
+      "block_position": 1,
+      "query": "Dandelion leaves",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Dandelion+leaves&sa=X&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQ1QJ6BAh7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Dandelion+leaves"
+    },
+    {
+      "block_position": 1,
+      "query": "Dandelion Tablets",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Dandelion+Tablets&sa=X&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQ1QJ6BAh8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Dandelion+Tablets"
+    },
+    {
+      "block_position": 1,
+      "query": "Dandelion benefits",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Dandelion+benefits&sa=X&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQ1QJ6BAh6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Dandelion+benefits"
+    },
+    {
+      "block_position": 1,
+      "query": "Dandelion root",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Dandelion+root&sa=X&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQ1QJ6BAh-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Dandelion+root"
+    },
+    {
+      "block_position": 1,
+      "query": "Dandelion seed",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Dandelion+seed&sa=X&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQ1QJ6BAh_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Dandelion+seed"
+    },
+    {
+      "block_position": 1,
+      "query": "Dandelion Scientific name",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Dandelion+Scientific+name&sa=X&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQ1QJ6BAh4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Dandelion+Scientific+name"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Medicinal uses",
+        "subtitle": "Common Dandelion Medicinal Uses",
+        "title": "Dandelion: Usefulness and Safety | NCCIH",
+        "link": "https://www.nccih.nih.gov/health/dandelion",
+        "favicon": "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c05358327f321fc3b2f6df790b0defb46135bc75b9954713679f69.png",
+        "images": [
+          "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c05358327f321fc3b2f6df6f4359d248f91b790fdee0b14c038569.jpeg",
+          "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c05358327f321fc3b2f6df6f4359d248f91b79a47fb88f981bf8c4.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=common+dandelion+medicinal+uses&sa=X&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQrooIegQIYhAF",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=common+dandelion+medicinal+uses"
+      },
+      {
+        "text": "Side effects",
+        "subtitle": "What Are The Side Effects Of Taraxacum",
+        "title": "Dandelion: Health Benefits, Uses, Side Effects, Dosage & Warnings",
+        "link": "https://www.medicinenet.com/dandelion_taraxacum_officinale-oral/article.htm",
+        "displayed_link": "https://www.medicinenet.com \u203a article",
+        "snippet": "Side effects of Taraxacum officinale include:",
+        "snippet_highlighted_words": [
+          "Side effects of Taraxacum officinale include:"
+        ],
+        "list": [
+          "abdominal discomfort,",
+          "diarrhea,",
+          "heartburn,",
+          "increased heart rate,",
+          "bruising and bleeding,",
+          "excessive urination, and.",
+          "increased potassium levels (hyperkalemia)."
+        ],
+        "favicon": "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c05358d1e1758c6f126e036456b8d0802c612c0542494442f68975.png",
+        "source": "medicinenet.com",
+        "images": [
+          "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c05358d1e1758c6f126e031f9a3f50bc0043c994918a6701064652.jpeg",
+          "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c05358d1e1758c6f126e031f9a3f50bc0043c94b3bcc5f0d3ac5b5.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=what+are+the+side+effects+of+taraxacum&sa=X&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQrooIegQIYhAK",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+are+the+side+effects+of+taraxacum"
+      },
+      {
+        "text": "Health benefits",
+        "subtitle": "What Are The Health Benefits Of Taraxacum",
+        "title": "A comprehensive review of the benefits of Taraxacum ...",
+        "link": "https://bnrc.springeropen.com/articles/10.1186/s42269-021-00567-1",
+        "favicon": "https://www.google.com/s2/favicons?sz=32&domain=springeropen.com",
+        "images": [
+          "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c053584db4d3b5e849183651cdf939cc3b6d1c6721ffb40ec14cee.jpeg",
+          "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c053584db4d3b5e849183651cdf939cc3b6d1cd0d6a5116ce0e8ab.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=what+are+the+health+benefits+of+taraxacum&sa=X&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQrooIegQIYhAP",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+are+the+health+benefits+of+taraxacum"
+      },
+      {
+        "text": "How to eat",
+        "subtitle": "How Do You Eat A Dandelion",
+        "title": "How to Harvest & Eat Dandelions - amy pennington",
+        "link": "https://www.amy-pennington.com/blog/how-to-harvest-eat-dandelions#:~:text=To%20harvest%20and%20eat%20dandelions,leaves%20and%20eating%20straight%20away.",
+        "displayed_link": "https://www.amy-pennington.com \u203a blog \u203a how-to-harves...",
+        "date": "Apr 13, 2024",
+        "snippet": "To harvest and eat dandelions, try to clip the small leaves from the plant before the plant flowers. Once the yellow flower has bloomed, taste the dandelion greens first to see if you find the flavor too off-putting. Harvest by picking off the small leaves and eating straight away.",
+        "snippet_highlighted_words": [
+          "Harvest by picking off the small leaves and eating straight away"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c053582e988f30445e88143aa8b0a898f84c41a49c5936cbd83881.png",
+        "source": "amy-pennington.com",
+        "images": [
+          "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c053582e988f30445e881493156117b1826fdae235c08c54e04179.jpeg",
+          "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c053582e988f30445e881493156117b1826fdab910641f2d27eb37.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=how+do+you+eat+a+dandelion&sa=X&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQrooIegQIYhAX",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+do+you+eat+a+dandelion"
+      },
+      {
+        "text": "Stages",
+        "subtitle": "Taraxacum Stages",
+        "title": "Learning About Dandelion Life Cycles - Kelly's Classroom Online",
+        "link": "https://www.kellysclassroomonline.com/2021/05/dandelion-life-cycles.html",
+        "displayed_link": "https://www.kellysclassroomonline.com \u203a 2021/05 \u203a dand...",
+        "snippet": "Dandelion Life Cycle",
+        "snippet_highlighted_words": [
+          "Dandelion Life Cycle"
+        ],
+        "list": [
+          "They start as seeds on the ground.",
+          "The seeds germinate and begin to grow.",
+          "Seedlings emerge from the seeds and grow into mature plants.",
+          "The mature plants will develop flowers on them that produce more seeds.",
+          "Those seeds are scattered by the wind, animals, and children."
+        ],
+        "favicon": "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c05358d3cb2aad2cb18e5950e164fcd29ebe62784452d02e4e7398.png",
+        "source": "kellysclassroomonline.com",
+        "images": [
+          "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c05358d3cb2aad2cb18e59e7b4a9a222dd6f2f6b7209a06831a738.jpeg",
+          "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c05358d3cb2aad2cb18e59e7b4a9a222dd6f2fd9a2f7a83a604184.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=taraxacum+stages&sa=X&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQrooIegQIYhAg",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=taraxacum+stages"
+      },
+      {
+        "text": "Bloom time",
+        "subtitle": "When Do Dandelions Bloom?",
+        "title": "Meet a Plant: Dandelion - Duke Gardens",
+        "link": "https://gardens.duke.edu/sites/default/files/Duke%20Gardens%20-%20Meet%20a%20Plant%20Dandelion.pdf",
+        "displayed_link": "https://gardens.duke.edu \u203a sites \u203a default \u203a files \u203a Duke G...",
+        "date": "Jul 13, 2020",
+        "snippet": "Dandelions can bloom for extended periods of time but are most visible in May and June. The florets develop from the center, blooming into a circular flower head. After flowering for a couple of days, the flower head closes and the seeds develop inside the closed head.",
+        "snippet_highlighted_words": [
+          "May and June"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c0535875721aa9d737f42b8c82a20a0b7eac0a105c470d1bf35ccf.png",
+        "source": "duke.edu",
+        "images": [
+          "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c0535875721aa9d737f42b0e574fd0bba8d4e39168987e70766730.jpeg",
+          "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c0535875721aa9d737f42b0e574fd0bba8d4e3f855faa1c8b13908.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=when+do+dandelions+bloom&sa=X&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQrooIegQIYhAl",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=when+do+dandelions+bloom"
+      },
+      {
+        "text": "Special things",
+        "subtitle": "Why Are Dandelions Special",
+        "title": "How Dandelions Benefit You and Your Yard - LawnStarter",
+        "link": "https://www.lawnstarter.com/blog/lawn-care-2/benefits-of-dandelions-yard/#:~:text=Dandelion%20leaves%20also%20have%20many,Reduces%20high%20cholesterol",
+        "displayed_link": "https://www.lawnstarter.com \u203a blog \u203a lawn-care-2 \u203a benef...",
+        "date": "Apr 25, 2024",
+        "snippet": "Dandelion leaves also have many health benefits. They are packed with vitamins and nutrients that your body needs, like vitamins K, A, and C, magnesium, potassium, and B vitamins. There are many benefits of consuming dandelion leaves: Reduces high cholesterol.",
+        "snippet_highlighted_words": [
+          "Reduces high cholesterol"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c053581b5aec45a794086f0a28b5f9a60f1b4a53bbe6e4cd3da59b.png",
+        "source": "lawnstarter.com",
+        "images": [
+          "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c053581b5aec45a794086f95c1129868a08e9e228416a312d52655.jpeg",
+          "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c053581b5aec45a794086f95c1129868a08e9e28627c0829af2408.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=why+are+dandelions+special&sa=X&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQrooIegQIYhAq",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=why+are+dandelions+special"
+      },
+      {
+        "text": "Taste",
+        "subtitle": "What Do Dandelions Taste Like",
+        "title": "Everything You Need To Know About Cooking With Dandelion Greens",
+        "link": "https://www.allrecipes.com/article/how-to-cook-dandelion-greens/#:~:text=There%20is%20not%20a%20difference,between%20red%20and%20green%20stems.&text=A%20bunch%20of%20dandelion%20greens,ve%20been%20cooked%20or%20wilted.",
+        "displayed_link": "https://www.allrecipes.com \u203a article \u203a how-to-cook-dande...",
+        "date": "Mar 8, 2022",
+        "snippet": "There is not a difference in texture or flavor between red and green stems. A bunch of dandelion greens is similar in size to a bunch of kale. The leaves are narrow with jagged points all along the edges. They have an earthen, pleasantly bitter flavor that is easily mellowed after they've been cooked or wilted.",
+        "snippet_highlighted_words": [
+          "earthen, pleasantly bitter flavor"
+        ],
+        "answer": "bitter",
+        "favicon": "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c05358da68ca6a68017887efb288921183c9c3d7ae593c5704ec20.png",
+        "source": "allrecipes.com",
+        "images": [
+          "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c05358da68ca6a68017887de140ba59517b1b59f93caa406564033.jpeg",
+          "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c05358da68ca6a68017887de140ba59517b1b535fbde6dfc184c5a.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=what+do+dandelions+taste+like&sa=X&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQrooIegQIYhAy",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+do+dandelions+taste+like"
+      },
+      {
+        "text": "Pronunciation",
+        "subtitle": "How To Pronounce Dandelion",
+        "images": [
+          "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c053586ed30a6e96339ddabd2281d433e2d1eee8c7253a08f7e66a.jpeg",
+          "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c053586ed30a6e96339ddabd2281d433e2d1ee508a996748ca2343.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=How+to+pronounce+Dandelion&si=ACC90nxcfzw6qM97V1RqBRZlJw5oGYtyHp1iazkanpYfuIpOar6QeNtAuZaprpAxAOgNokQPlcqavWcVjdjC-BJHxMs29qpK5VJHFlL5NGSc2Jyc6LdEJEnBNBpOMPMRKX_IhNa6c8X2y0mbnc5l_mHADIG01zoEjw%3D%3D&sa=X&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQrooIegQIYhA3",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=How+to+pronounce+Dandelion&si=ACC90nxcfzw6qM97V1RqBRZlJw5oGYtyHp1iazkanpYfuIpOar6QeNtAuZaprpAxAOgNokQPlcqavWcVjdjC-BJHxMs29qpK5VJHFlL5NGSc2Jyc6LdEJEnBNBpOMPMRKX_IhNa6c8X2y0mbnc5l_mHADIG01zoEjw%3D%3D"
+      },
+      {
+        "text": "Roots",
+        "subtitle": "Dandelion Roots",
+        "title": "DANDELIONS | Maine.gov",
+        "link": "https://www.maine.gov/dacf/php/gotpests/weeds/factsheets/dandelions-cal.pdf",
+        "displayed_link": "https://www.maine.gov \u203a php \u203a factsheets \u203a dandelions-cal",
+        "snippet": "Dandelion grows year round in California except in the coldest inter- mountain areas where it is dormant during the winter. It produces a strong taproot that is capable of penetrating the soil to a depth of 10 to 15 feet, but it is most commonly 6 to 18 inches deep.",
+        "snippet_highlighted_words": [
+          "strong taproot"
+        ],
+        "answer": "taproot",
+        "favicon": "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c0535865d1c34082dd98a82cce38ddffbeb023272b9039695fe770.png",
+        "source": "maine.gov",
+        "images": [
+          "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c0535865d1c34082dd98a89008544de7be2e187fdbb91b30baf1f8.jpeg",
+          "https://serpapi.com/searches/670a2c652c566d3f5b5c3303/images/864af5ba45355ea8afed756165c0535865d1c34082dd98a89008544de7be2e1868bea6108677123d.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=dandelion+roots&sa=X&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQrooIegQIYhA8",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=dandelion+roots"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=dandelion&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=ZSwKZ-LENa-JwbkP6JazoAM&start=10&sa=N&sstk=AagrsuiArrp5FJ81tksoZoaJK1-hZ8APLHAQFsMJjfszUJfx5hQCm1Irk7StqttUl7_HZYUaXkhDPUj2ZD_YNuaYCS38C4q-iUvo_A&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQ8NMDegQIBRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=dandelion&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=ZSwKZ-LENa-JwbkP6JazoAM&start=10&sa=N&sstk=AagrsuiArrp5FJ81tksoZoaJK1-hZ8APLHAQFsMJjfszUJfx5hQCm1Irk7StqttUl7_HZYUaXkhDPUj2ZD_YNuaYCS38C4q-iUvo_A&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQ8tMDegQIBRAE",
+      "3": "https://www.google.com/search?q=dandelion&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=ZSwKZ-LENa-JwbkP6JazoAM&start=20&sa=N&sstk=AagrsuiArrp5FJ81tksoZoaJK1-hZ8APLHAQFsMJjfszUJfx5hQCm1Irk7StqttUl7_HZYUaXkhDPUj2ZD_YNuaYCS38C4q-iUvo_A&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQ8tMDegQIBRAG",
+      "4": "https://www.google.com/search?q=dandelion&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=ZSwKZ-LENa-JwbkP6JazoAM&start=30&sa=N&sstk=AagrsuiArrp5FJ81tksoZoaJK1-hZ8APLHAQFsMJjfszUJfx5hQCm1Irk7StqttUl7_HZYUaXkhDPUj2ZD_YNuaYCS38C4q-iUvo_A&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQ8tMDegQIBRAI",
+      "5": "https://www.google.com/search?q=dandelion&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=ZSwKZ-LENa-JwbkP6JazoAM&start=40&sa=N&sstk=AagrsuiArrp5FJ81tksoZoaJK1-hZ8APLHAQFsMJjfszUJfx5hQCm1Irk7StqttUl7_HZYUaXkhDPUj2ZD_YNuaYCS38C4q-iUvo_A&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQ8tMDegQIBRAK",
+      "6": "https://www.google.com/search?q=dandelion&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=ZSwKZ-LENa-JwbkP6JazoAM&start=50&sa=N&sstk=AagrsuiArrp5FJ81tksoZoaJK1-hZ8APLHAQFsMJjfszUJfx5hQCm1Irk7StqttUl7_HZYUaXkhDPUj2ZD_YNuaYCS38C4q-iUvo_A&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQ8tMDegQIBRAM",
+      "7": "https://www.google.com/search?q=dandelion&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=ZSwKZ-LENa-JwbkP6JazoAM&start=60&sa=N&sstk=AagrsuiArrp5FJ81tksoZoaJK1-hZ8APLHAQFsMJjfszUJfx5hQCm1Irk7StqttUl7_HZYUaXkhDPUj2ZD_YNuaYCS38C4q-iUvo_A&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQ8tMDegQIBRAO",
+      "8": "https://www.google.com/search?q=dandelion&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=ZSwKZ-LENa-JwbkP6JazoAM&start=70&sa=N&sstk=AagrsuiArrp5FJ81tksoZoaJK1-hZ8APLHAQFsMJjfszUJfx5hQCm1Irk7StqttUl7_HZYUaXkhDPUj2ZD_YNuaYCS38C4q-iUvo_A&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQ8tMDegQIBRAQ",
+      "9": "https://www.google.com/search?q=dandelion&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=ZSwKZ-LENa-JwbkP6JazoAM&start=80&sa=N&sstk=AagrsuiArrp5FJ81tksoZoaJK1-hZ8APLHAQFsMJjfszUJfx5hQCm1Irk7StqttUl7_HZYUaXkhDPUj2ZD_YNuaYCS38C4q-iUvo_A&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQ8tMDegQIBRAS",
+      "10": "https://www.google.com/search?q=dandelion&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=ZSwKZ-LENa-JwbkP6JazoAM&start=90&sa=N&sstk=AagrsuiArrp5FJ81tksoZoaJK1-hZ8APLHAQFsMJjfszUJfx5hQCm1Irk7StqttUl7_HZYUaXkhDPUj2ZD_YNuaYCS38C4q-iUvo_A&ved=2ahUKEwiii9bfr4iJAxWvRDABHWjLDDQQ8tMDegQIBRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=dandelion&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=dandelion&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=dandelion&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=dandelion&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=dandelion&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=dandelion&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=dandelion&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=dandelion&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=dandelion&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=dandelion&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=dandelion&start=90"
+    }
+  }
+}

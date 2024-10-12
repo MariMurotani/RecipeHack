@@ -1,0 +1,585 @@
+{
+  "search_metadata": {
+    "id": "670a2fa51adaf451397a93c4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c5b4f539039d1746/670a2fa51adaf451397a93c4.json",
+    "created_at": "2024-10-12 08:13:25 UTC",
+    "processed_at": "2024-10-12 08:13:25 UTC",
+    "google_url": "https://www.google.com/search?q=remoulade&oq=remoulade&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/c5b4f539039d1746/670a2fa51adaf451397a93c4.html",
+    "total_time_taken": 1.07
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "remoulade",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "remoulade",
+    "total_results": 11200000,
+    "time_taken_displayed": 0.4,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "recipes_results": [
+    {
+      "title": "Remoulade Sauce",
+      "link": "https://bellyfull.net/spicy-remoulade/",
+      "source": "Belly Full",
+      "rating": 5.0,
+      "reviews": 25,
+      "total_time": "5 min",
+      "ingredients": [
+        "Pickle juice",
+        "sweet",
+        "hot sauce",
+        "spicy brown mustard",
+        "creole seasoning"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/3c8f5ec8ba6367a49581b525714c0ec1d74d543cdce7a3f2f4e8cec6c2bf14ee.jpeg"
+    },
+    {
+      "title": "Remoulade Sauce",
+      "link": "https://www.loveandlemons.com/remoulade-sauce/",
+      "source": "Love and Lemons",
+      "rating": 4.8,
+      "reviews": 14,
+      "total_time": "10 min",
+      "ingredients": [
+        "Hot sauce",
+        "mustard",
+        "lemon juice",
+        "vegan mayo",
+        "onion powder"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/3c8f5ec8ba6367a49581b525714c0ec16d0071627eb226cb1771f580accb4c58.jpeg"
+    },
+    {
+      "title": "New Orleans Remoulade Sauce",
+      "link": "https://www.seriouseats.com/sauced-louisiana-remoulade-recipe",
+      "source": "Serious Eats",
+      "rating": 4.7,
+      "reviews": 3,
+      "total_time": "1 hr 5 min",
+      "ingredients": [
+        "Style hot sauce",
+        "dijon mustard",
+        "whole grain mustard",
+        "capers",
+        "worcestershire sauce"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/3c8f5ec8ba6367a49581b525714c0ec195b6537f274b5305bcd92dbb5dd4e042.jpeg"
+    }
+  ],
+  "knowledge_graph": {
+    "title": "Remoulade",
+    "type": "Food",
+    "entity_type": "food, foods_and_dishes",
+    "kgmid": "/m/03ymgb",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/03ymgb&hl=en-US&q=Remoulade",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F03ymgb&location=Austin%2CTexas%2CUnited+States&q=Remoulade",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/169f789863ae5c132cdd640401c51eba837f7513531c1a4a0ddc497558203e5655680c42438910ba.jpeg",
+        "source": "https://en.wikipedia.org/wiki/Remoulade"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/169f789863ae5c132cdd640401c51eba837f7513531c1a4a39e6496a6b6a04f39e85b253fe3efa63.jpeg",
+        "source": "https://www.simplyrecipes.com/recipes/remoulade_sauce/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/169f789863ae5c132cdd640401c51eba837f7513531c1a4a89dc2250c1b04c78871c442dc392d884.jpeg",
+        "source": "https://pinkowlkitchen.com/new-orleans-remoulade-sauce-recipe/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/169f789863ae5c132cdd640401c51eba837f7513531c1a4abf46cf5b8a763672a7f0026c6e1f4847.jpeg",
+        "source": "https://www.pardonyourfrench.com/classic-french-celery-root-remoulade/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/169f789863ae5c132cdd640401c51eba837f7513531c1a4a34e054e8d56ba2f5ce0033582552931c.jpeg",
+        "source": "https://nordicexpatshop.com/ENG/blog/remoulade-in-denmark-a-culinary-delight/"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1818Ts4H2BfeHLymCxRB2JGOPvd5UWUAYA4LUv2l6gQ&s",
+        "source": "https://skandibaking.com/remoulade-sauce/"
+      }
+    ],
+    "description": "R\u00e9moulade is a cold sauce. Although similar to tartar sauce, it is often more yellowish, sometimes flavored with curry, and often contains chopped pickles or piccalilli. It can also contain horseradish, paprika, anchovies, capers and a host of other items.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Remoulade"
+    },
+    "origin": "France",
+    "origin_links": [
+      {
+        "text": "France",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=France&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LwGxgWw0IxZ41LDF7FGgq3DdZNnJSAL2clinC3n1sppHE0ZtTPIF9svOJsNJF5hH3nUiOJApuCjO3HrwU4BPtMaV4P6iW9M1ijf90ac5DSdh29eQUA5C62Eb5edSUjugJfFCle6yKEowU8LidgpbVtyBL3H_&sa=X&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQmxMoAHoECC0QAg"
+      }
+    ],
+    "cuisine": "French cuisine",
+    "cuisine_links": [
+      {
+        "text": "French cuisine",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=French+cuisine&stick=H4sIAAAAAAAAAONgVuLQz9U3MKoyLlrEyudWlJqXnKGQXJpZnJmXCgDILFwjHQAAAA&sa=X&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQmxMoAHoECCwQAg"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Sauce ravigote",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L8Fdm_HsAkVcy5JWPOLzfQnxeqihwfCeZXx9Jcn6NMFWUAkDlVd2NoJnWJsdaQHkZHNt6tkPko59GK3cyht9HLx26WMc-jM7iHaWLc1XwKjbVgzCpOHZyDQsw0_8vFU9ewoOkX0kJla4hL6pp-5yloh_t3sfn8lzxZGc7evDJ4pBtO2ReWuIGcPSi--JtdWQGYIrX1tdanhe4SYI7SYWvKQUoflyt0gjNRF--_-vMa7JsySffqa6Txic7801gkpMzbRk5EY%3D&q=Sauce+ravigote&sa=X&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQs9oBKAB6BAgpEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sauce+ravigote&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L8Fdm_HsAkVcy5JWPOLzfQnxeqihwfCeZXx9Jcn6NMFWUAkDlVd2NoJnWJsdaQHkZHNt6tkPko59GK3cyht9HLx26WMc-jM7iHaWLc1XwKjbVgzCpOHZyDQsw0_8vFU9ewoOkX0kJla4hL6pp-5yloh_t3sfn8lzxZGc7evDJ4pBtO2ReWuIGcPSi--JtdWQGYIrX1tdanhe4SYI7SYWvKQUoflyt0gjNRF--_-vMa7JsySffqa6Txic7801gkpMzbRk5EY%3D",
+        "image": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/169f789863ae5c132cdd640401c51eba57e3ba7171f68e260b32419c74cf20349bffee1a85b6bb5ac8645fefc96f0409.jpeg"
+      },
+      {
+        "name": "Tartar sauce",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmxD_CCRqO2garXj6Dw5yAm73Cb5OpTJ0M1uHvTyRUc95y7ryShFffyFV5QRc1jlk1F33BeaK-0K1H77rOkEv6EqgFno3_wTSwnvHu2zPyIH64omTnfACqrRgSD6ezbJVVwJIQdtEhNjSdRldu2l5IHK_SygBLPKQ0vThL15TmbHx5FNAEhWAsqU4bmn1twMatGDFa3m4iVdpce1eHY-2eFmIIvSdRDHQyvubC4MMLuce52XT71s8FwgoQRgvDVmkJ1FWQAo%3D&q=Tartar+Sauce&sa=X&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQs9oBKAB6BAgpEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Tartar+Sauce&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmxD_CCRqO2garXj6Dw5yAm73Cb5OpTJ0M1uHvTyRUc95y7ryShFffyFV5QRc1jlk1F33BeaK-0K1H77rOkEv6EqgFno3_wTSwnvHu2zPyIH64omTnfACqrRgSD6ezbJVVwJIQdtEhNjSdRldu2l5IHK_SygBLPKQ0vThL15TmbHx5FNAEhWAsqU4bmn1twMatGDFa3m4iVdpce1eHY-2eFmIIvSdRDHQyvubC4MMLuce52XT71s8FwgoQRgvDVmkJ1FWQAo%3D",
+        "image": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/169f789863ae5c132cdd640401c51eba57e3ba7171f68e260b32419c74cf20340e348f3afbcbe6bd422f22248a028dd8.jpeg"
+      },
+      {
+        "name": "Aioli",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmw6n3z6H7vPCJg03Fwb2JpyLNqX6xyZnVOV_y3VPvr4I8SkdD-vTRR0FKeISDXctyInBCq9zPwcBQhX6ogqWL58450c4P9uIP6Ir7-uYks7HMnOoMO-NEZuOn09X9F6T4fhpqjs85N5LzHMEL2SHSbb9pKwMsiO1TAtMiBh94imXct8AR2DNyEFxfMcuov8fh7n3TiHf3IVi5IpPoTYWKXxYMZjgY6-y5lbe8OS8f-LBK--HMg%3D%3D&q=Aioli&sa=X&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQs9oBKAB6BAgpEA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Aioli&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmw6n3z6H7vPCJg03Fwb2JpyLNqX6xyZnVOV_y3VPvr4I8SkdD-vTRR0FKeISDXctyInBCq9zPwcBQhX6ogqWL58450c4P9uIP6Ir7-uYks7HMnOoMO-NEZuOn09X9F6T4fhpqjs85N5LzHMEL2SHSbb9pKwMsiO1TAtMiBh94imXct8AR2DNyEFxfMcuov8fh7n3TiHf3IVi5IpPoTYWKXxYMZjgY6-y5lbe8OS8f-LBK--HMg%3D%3D",
+        "image": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/169f789863ae5c132cdd640401c51eba57e3ba7171f68e260b32419c74cf2034eab27dfb17b2c962898ad69b03bc6151.jpeg"
+      },
+      {
+        "name": "Mayonnaise",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm9TFsDHsxJLeP7P5F-2LMsy3x1pahilCrKCCD4YJXDKBR2sR_qEmjtfD2gO5iJTxiicP0kwJENK_A08FUsX9IbzA0l0bGV5_zjUu8mijq2XQe5rSTYCg3SF25oWT3x3Qgo5AhActvGhqDxmVDeKhoR4J82zMvQg82O6TlGCVAlTArXyzsKmzEcPS3x-oHiLcE6v4ZHp2zH_p30ES5WhhfX1KMqc7RbBN-FeO37Btjj2l2uZnFNbxxZNkspZmmAHcPYPe5sY%3D&q=Mayonnaise&sa=X&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQs9oBKAB6BAgpEBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Mayonnaise&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm9TFsDHsxJLeP7P5F-2LMsy3x1pahilCrKCCD4YJXDKBR2sR_qEmjtfD2gO5iJTxiicP0kwJENK_A08FUsX9IbzA0l0bGV5_zjUu8mijq2XQe5rSTYCg3SF25oWT3x3Qgo5AhActvGhqDxmVDeKhoR4J82zMvQg82O6TlGCVAlTArXyzsKmzEcPS3x-oHiLcE6v4ZHp2zH_p30ES5WhhfX1KMqc7RbBN-FeO37Btjj2l2uZnFNbxxZNkspZmmAHcPYPe5sY%3D",
+        "image": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/169f789863ae5c132cdd640401c51eba57e3ba7171f68e260b32419c74cf20340672790e5e8a7510e1b1d0fb9452b207.jpeg"
+      }
+    ]
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=remoulade&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=O9-jIClOx2h32M%252ClJ33Ryy-ReoLjM%252C%252Fm%252F03ymgb%253B5NBLzaxY5svkjM%252CIgujncfwZmQhAM%252C_%253Bqpwg_OVzBUtrWM%252CZL2-IfpyGNs5NM%252C_%253BBpSIs_Az1C6rOM%252C5aOty72vY6qXbM%252C_%253BLsvzLgprnJ9KEM%252C-UUhQGoPhHI3eM%252C_%253BYOE5GpCGQhSKaM%252CMiXJ7Cz667Q9hM%252C_&usg=AI4_-kRyixk6K6thuEZZL8WEtPTk3F3kyw&sa=X&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQ_B16BAgxEAE#vhid=O9-jIClOx2h32M&vssid=mosaic",
+      "source": "https://en.wikipedia.org/wiki/Remoulade",
+      "thumbnail": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/74673003fa58f1d8904711342e6217825b968d4db1744bc2e81b778ebad5b6ae.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Remoulade_frisch.jpg/800px-Remoulade_frisch.jpg",
+      "title": "upload.wikimedia.org/wikipedia/commons/thumb/0/05/...",
+      "source_name": "en.wikipedia.org"
+    },
+    {
+      "link": "https://www.google.com/search?q=remoulade&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=O9-jIClOx2h32M%252ClJ33Ryy-ReoLjM%252C_%253B5NBLzaxY5svkjM%252CIgujncfwZmQhAM%252C_%253Bqpwg_OVzBUtrWM%252CZL2-IfpyGNs5NM%252C_%253BBpSIs_Az1C6rOM%252C5aOty72vY6qXbM%252C_%253BLsvzLgprnJ9KEM%252C-UUhQGoPhHI3eM%252C_%253BYOE5GpCGQhSKaM%252CMiXJ7Cz667Q9hM%252C_&usg=AI4_-kS0bZXgbKvHwqZ_I7AJ16xCH_z6IQ&sa=X&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQ_h16BAg0EAE#vhid=5NBLzaxY5svkjM&vssid=mosaic",
+      "source": "https://www.simplyrecipes.com/recipes/remoulade_sauce/",
+      "thumbnail": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/74673003fa58f1d81db263520818261ef1c113175c120e316b2915026e2161a7.jpeg",
+      "original": "https://www.simplyrecipes.com/thmb/qazH4mfhY3LY_x15kaKXTBRixAc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2011__07__remoulade-sauce-horiz-a2-1600-a0648aeb777f44e7b1e7d1b19456d08c.jpg",
+      "title": "Remoulade Sauce",
+      "source_name": "Simply Recipes"
+    },
+    {
+      "link": "https://www.google.com/search?q=remoulade&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=O9-jIClOx2h32M%252ClJ33Ryy-ReoLjM%252C_%253B5NBLzaxY5svkjM%252CIgujncfwZmQhAM%252C_%253Bqpwg_OVzBUtrWM%252CZL2-IfpyGNs5NM%252C_%253BBpSIs_Az1C6rOM%252C5aOty72vY6qXbM%252C_%253BLsvzLgprnJ9KEM%252C-UUhQGoPhHI3eM%252C_%253BYOE5GpCGQhSKaM%252CMiXJ7Cz667Q9hM%252C_&usg=AI4_-kS0bZXgbKvHwqZ_I7AJ16xCH_z6IQ&sa=X&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQ_h16BAg1EAE#vhid=qpwg_OVzBUtrWM&vssid=mosaic",
+      "source": "https://pinkowlkitchen.com/new-orleans-remoulade-sauce-recipe/",
+      "thumbnail": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/74673003fa58f1d82b8ff5d0173faef9aef0f2cdf58e8b97a9950757a07e6e5e.jpeg",
+      "original": "https://pinkowlkitchen.com/wp-content/uploads/2022/05/New-Orleans-remoulade-sauce-featured-image.jpg",
+      "title": "New Orleans Remoulade Sauce Recipe",
+      "source_name": "Pink Owl Kitchen"
+    },
+    {
+      "link": "https://www.google.com/search?q=remoulade&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=O9-jIClOx2h32M%252ClJ33Ryy-ReoLjM%252C_%253B5NBLzaxY5svkjM%252CIgujncfwZmQhAM%252C_%253Bqpwg_OVzBUtrWM%252CZL2-IfpyGNs5NM%252C_%253BBpSIs_Az1C6rOM%252C5aOty72vY6qXbM%252C_%253BLsvzLgprnJ9KEM%252C-UUhQGoPhHI3eM%252C_%253BYOE5GpCGQhSKaM%252CMiXJ7Cz667Q9hM%252C_&usg=AI4_-kS0bZXgbKvHwqZ_I7AJ16xCH_z6IQ&sa=X&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQ_h16BAg2EAE#vhid=BpSIs_Az1C6rOM&vssid=mosaic",
+      "source": "https://www.pardonyourfrench.com/classic-french-celery-root-remoulade/",
+      "thumbnail": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/74673003fa58f1d833306c03762b7d997571308cd6dfd56ca1666dfb16801287.jpeg",
+      "original": "https://i0.wp.com/www.pardonyourfrench.com/wp-content/uploads/2020/07/Classic-French-Celery-Root-Remoulade-1.jpg?fit=1170%2C1753&ssl=1",
+      "title": "Classic French Celery Root Remoulade",
+      "source_name": "Pardon Your French"
+    },
+    {
+      "link": "https://www.google.com/search?q=remoulade&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=O9-jIClOx2h32M%252ClJ33Ryy-ReoLjM%252C_%253B5NBLzaxY5svkjM%252CIgujncfwZmQhAM%252C_%253Bqpwg_OVzBUtrWM%252CZL2-IfpyGNs5NM%252C_%253BBpSIs_Az1C6rOM%252C5aOty72vY6qXbM%252C_%253BLsvzLgprnJ9KEM%252C-UUhQGoPhHI3eM%252C_%253BYOE5GpCGQhSKaM%252CMiXJ7Cz667Q9hM%252C_&usg=AI4_-kS0bZXgbKvHwqZ_I7AJ16xCH_z6IQ&sa=X&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQ_h16BAg6EAE#vhid=LsvzLgprnJ9KEM&vssid=mosaic",
+      "source": "https://nordicexpatshop.com/ENG/blog/remoulade-in-denmark-a-culinary-delight/",
+      "thumbnail": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/74673003fa58f1d87c21a1215f855db93ac274356428abfce9cac0a4400f20c1.jpeg",
+      "original": "https://nordicexpatshop.com/media/blog/Remoulade-Graasten.jpg",
+      "title": "Remoulade in Denmark: A Culinary Delight",
+      "source_name": "NORDIC EXPAT SHOP"
+    },
+    {
+      "link": "https://www.google.com/search?q=remoulade&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=O9-jIClOx2h32M%252ClJ33Ryy-ReoLjM%252C_%253B5NBLzaxY5svkjM%252CIgujncfwZmQhAM%252C_%253Bqpwg_OVzBUtrWM%252CZL2-IfpyGNs5NM%252C_%253BBpSIs_Az1C6rOM%252C5aOty72vY6qXbM%252C_%253BLsvzLgprnJ9KEM%252C-UUhQGoPhHI3eM%252C_%253BYOE5GpCGQhSKaM%252CMiXJ7Cz667Q9hM%252C_&usg=AI4_-kS0bZXgbKvHwqZ_I7AJ16xCH_z6IQ&sa=X&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQ_h16BAgzEAE#vhid=YOE5GpCGQhSKaM&vssid=mosaic",
+      "source": "https://skandibaking.com/remoulade-sauce/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1818Ts4H2BfeHLymCxRB2JGOPvd5UWUAYA4LUv2l6gQ&s",
+      "original": "https://i0.wp.com/skandibaking.com/wp-content/uploads/2023/07/remoulade-4.jpg?fit=1358%2C2048&ssl=1",
+      "title": "Remoulade Sauce - Skandibaking",
+      "source_name": "Skandibaking"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is remoulade sauce made of?",
+      "snippet": "Remoulade is a traditional French sauce, originally made with ingredients such as mayonnaise, herbs, capers, pickles, and perhaps some anchovy oil or horseradish. French cuisine has a lot of influence on Louisiana cuisine, and the Cajuns and Creoles have a lot of influence on Louisiana cuisine.",
+      "title": "Remoulade Sauce - Simply Recipes",
+      "link": "https://www.simplyrecipes.com/recipes/remoulade_sauce/#:~:text=Remoulade%20is%20a%20traditional%20French,of%20influence%20on%20Louisiana%20cuisine.",
+      "displayed_link": "https://www.simplyrecipes.com \u203a ... \u203a Remoulades",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVKf7VMdcY5YvOeXTQeTAdQMC5PtYo4JZj42vAlbsxJw&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU5rWndSemhuYVZaRk4zVmtibEI2WjBaNFVXWm5aak5tZEZOblVETlBOWGRCVDBnNGFrOU9MVVo0V1Y4d2FFOVFXVmh6TkdsclFXRjFOV1I2T1U1V1RXbGFjRXhMRWhkd1V6aExXalp1V0VoMWJWOTRZemhRTTJWTGVIZFJXUm9pUVVaWWNrVmpjRXhsVGt3MmEzZDVlVlpaVkZSTVpqaEViRzFsWW5GTE1WWXpadyIsImZjdiI6IjMiLCJlaSI6InBTOEtaNm5YSHVtX3hjOFAzZUt4d1FZIiwicWMiOiJDZ2x5WlcxdmRXeGhaR1VRQUgzT0tnSV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgcmVtb3VsYWRlIHNhdWNlIG1hZGUgb2Y/IiwibGsiOiJjNU9TTDg5SUxGSElMRllvU3MzTkw4MUpURWxWS0U0c1RVNVZ5QVV4ODlNQSIsImJzIjoiYy1QeTRGSUl6MGdzVWNnc1ZpaEt6YzB2elVsTVNWVW9UaXhOVGxYSUJUSHowLXdsRmdzWktVckpsLU5YeHVYRHBZUnBVbG14UWtsaUVSQkJGQVBOa2pGU2xsTEVOQXROSVpjYmx6ek10SktNVktCY2NRbklGb1FPZTRuNWtVWUtVbkxsZUZWeC1YRVpJNXVUa3BtV2xscVVtZ2QwZDFKcVNYbHFhaDZTR3hMelVoUVNNX056TXUwbF9vWWFpVWdKb1RnUExDUEFDQUEiLCJpZCI6ImZjX3BTOEtaNm5YSHVtX3hjOFAzZUt4d1FZXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU5rWndSemhuYVZaRk4zVmtibEI2WjBaNFVXWm5aak5tZEZOblVETlBOWGRCVDBnNGFrOU9MVVo0V1Y4d2FFOVFXVmh6TkdsclFXRjFOV1I2T1U1V1RXbGFjRXhMRWhkd1V6aExXalp1V0VoMWJWOTRZemhRTTJWTGVIZFJXUm9pUVVaWWNrVmpjRXhsVGt3MmEzZDVlVlpaVkZSTVpqaEViRzFsWW5GTE1WWXpadyIsImZjdiI6IjMiLCJlaSI6InBTOEtaNm5YSHVtX3hjOFAzZUt4d1FZIiwicWMiOiJDZ2x5WlcxdmRXeGhaR1VRQUgzT0tnSV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgcmVtb3VsYWRlIHNhdWNlIG1hZGUgb2Y%2FIiwibGsiOiJjNU9TTDg5SUxGSElMRllvU3MzTkw4MUpURWxWS0U0c1RVNVZ5QVV4ODlNQSIsImJzIjoiYy1QeTRGSUl6MGdzVWNnc1ZpaEt6YzB2elVsTVNWVW9UaXhOVGxYSUJUSHowLXdsRmdzWktVckpsLU5YeHVYRHBZUnBVbG14UWtsaUVSQkJGQVBOa2pGU2xsTEVOQXROSVpjYmx6ek10SktNVktCY2NRbklGb1FPZTRuNWtVWUtVbkxsZUZWeC1YRVpJNXVUa3BtV2xscVVtZ2QwZDFKcVNYbHFhaDZTR3hMelVoUVNNX056TXUwbF9vWWFpVWdKb1RnUExDUEFDQUEiLCJpZCI6ImZjX3BTOEtaNm5YSHVtX3hjOFAzZUt4d1FZXzEifQ%3D%3D"
+    },
+    {
+      "question": "What is remoulade vs tartar sauce?",
+      "snippet": "Tartar sauce has often been described as a type of remoulade, with mustard stepping in for the traditional anchovy. However, tartar sauce usually features fewer components: mayonnaise, chopped capers, and sweeter pickles like cornichons. Remoulade recipes add a wider variety of herbs, along with vinegar or hot sauce.",
+      "title": "Learn About Remoulade: Origin, Types, and Easy Remoulade Recipe",
+      "date": "Aug 23, 2024",
+      "link": "https://www.masterclass.com/articles/learn-about-remoulade-easy-remoulade-recipe-and-tips#:~:text=Tartar%20sauce%20has%20often%20been,with%20vinegar%20or%20hot%20sauce.",
+      "displayed_link": "https://www.masterclass.com \u203a articles \u203a learn-about-remo...",
+      "source_logo": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/20c852c0cad61efc70fcb4e0df66f2b6249917bbf0ba500007d0d316f0a0a10d.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU5rWndSemhuYVZaRk4zVmtibEI2WjBaNFVXWm5aak5tZEZOblVETlBOWGRCVDBnNGFrOU9MVVo0V1Y4d2FFOVFXVmh6TkdsclFXRjFOV1I2T1U1V1RXbGFjRXhMRWhkd1V6aExXalp1V0VoMWJWOTRZemhRTTJWTGVIZFJXUm9pUVVaWWNrVmpjRXhsVGt3MmEzZDVlVlpaVkZSTVpqaEViRzFsWW5GTE1WWXpadyIsImZjdiI6IjMiLCJlaSI6InBTOEtaNm5YSHVtX3hjOFAzZUt4d1FZIiwicWMiOiJDZ2x5WlcxdmRXeGhaR1VRQUgzT0tnSV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgcmVtb3VsYWRlIHZzIHRhcnRhciBzYXVjZT8iLCJsayI6IkdpRjNhR0YwSUdseklISmxiVzkxYkdGa1pTQjJjeUIwWVhKMFlYSWdjMkYxWTJVIiwiYnMiOiJjLVB5NEZJSXowZ3NVY2dzVmloS3pjMHZ6VWxNU1ZVb1RpeE5UbFhJQlRIejAtd2xGZ3NaS1VySmwtTlh4dVhEcFlScFVsbXhRa2xpRVJCQkZBUE5rakZTbGxMRU5BdE5JWmNibHp6TXRKS01WS0JjY1FuSUZvUU9lNG41a1VZS1VuTGxlRlZ4LVhFWkk1dVRrcG1XbGxxVW1nZDBkMUpxU1hscWFoNlNHeEx6VWhRU01fTnpNdTBsX29ZYWlVZ0pvVGdQTENQQUNBQSIsImlkIjoiZmNfcFM4S1o2blhIdW1feGM4UDNlS3h3UVlfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU5rWndSemhuYVZaRk4zVmtibEI2WjBaNFVXWm5aak5tZEZOblVETlBOWGRCVDBnNGFrOU9MVVo0V1Y4d2FFOVFXVmh6TkdsclFXRjFOV1I2T1U1V1RXbGFjRXhMRWhkd1V6aExXalp1V0VoMWJWOTRZemhRTTJWTGVIZFJXUm9pUVVaWWNrVmpjRXhsVGt3MmEzZDVlVlpaVkZSTVpqaEViRzFsWW5GTE1WWXpadyIsImZjdiI6IjMiLCJlaSI6InBTOEtaNm5YSHVtX3hjOFAzZUt4d1FZIiwicWMiOiJDZ2x5WlcxdmRXeGhaR1VRQUgzT0tnSV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgcmVtb3VsYWRlIHZzIHRhcnRhciBzYXVjZT8iLCJsayI6IkdpRjNhR0YwSUdseklISmxiVzkxYkdGa1pTQjJjeUIwWVhKMFlYSWdjMkYxWTJVIiwiYnMiOiJjLVB5NEZJSXowZ3NVY2dzVmloS3pjMHZ6VWxNU1ZVb1RpeE5UbFhJQlRIejAtd2xGZ3NaS1VySmwtTlh4dVhEcFlScFVsbXhRa2xpRVJCQkZBUE5rakZTbGxMRU5BdE5JWmNibHp6TXRKS01WS0JjY1FuSUZvUU9lNG41a1VZS1VuTGxlRlZ4LVhFWkk1dVRrcG1XbGxxVW1nZDBkMUpxU1hscWFoNlNHeEx6VWhRU01fTnpNdTBsX29ZYWlVZ0pvVGdQTENQQUNBQSIsImlkIjoiZmNfcFM4S1o2blhIdW1feGM4UDNlS3h3UVlfMSJ9"
+    },
+    {
+      "question": "What is the taste of remoulade?",
+      "snippet": "Creamy and tangy, with a spicy kick, it's a delicious dipping sauce or condiment. Creamy and tangy, with a delicious spicy kick, this remoulade is my favorite sauce of the moment. I've been slathering it on veggie burgers, serving it with French fries, and setting it out with these addictive air fryer fried pickles.",
+      "title": "Remoulade Sauce Recipe - Love and Lemons",
+      "link": "https://www.loveandlemons.com/remoulade-sauce/#:~:text=Creamy%20and%20tangy%2C%20with%20a,delicious%20dipping%20sauce%20or%20condiment.&text=Creamy%20and%20tangy%2C%20with%20a%20delicious%20spicy%20kick%2C%20this%20remoulade,addictive%20air%20fryer%20fried%20pickles.",
+      "displayed_link": "https://www.loveandlemons.com \u203a Recipes",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY3EWVAiUOhIRHZ1oNDm9CKe5PWOiJENbyAU_K1591&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU5rWndSemhuYVZaRk4zVmtibEI2WjBaNFVXWm5aak5tZEZOblVETlBOWGRCVDBnNGFrOU9MVVo0V1Y4d2FFOVFXVmh6TkdsclFXRjFOV1I2T1U1V1RXbGFjRXhMRWhkd1V6aExXalp1V0VoMWJWOTRZemhRTTJWTGVIZFJXUm9pUVVaWWNrVmpjRXhsVGt3MmEzZDVlVlpaVkZSTVpqaEViRzFsWW5GTE1WWXpadyIsImZjdiI6IjMiLCJlaSI6InBTOEtaNm5YSHVtX3hjOFAzZUt4d1FZIiwicWMiOiJDZ2x5WlcxdmRXeGhaR1VRQUgzT0tnSV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHRhc3RlIG9mIHJlbW91bGFkZT8iLCJsayI6IkdoNTNhR0YwSUdseklIUm9aU0IwWVhOMFpTQnZaaUJ5WlcxdmRXeGhaR1UiLCJicyI6ImMtUHk0RklJejBnc1VjZ3NWaWhLemMwdnpVbE1TVlVvVGl4TlRsWElCVEh6MC13bEZnc1pLVXJKbC1OWHh1WERwWVJwVWxteFFrbGlFUkJCRkFQTmtqRlNsbExFTkF0TklaY2JsenpNdEpLTVZLQmNjUW5JRm9RT2U0bjVrVVlLVW5MbGVGVngtWEVaSTV1VGtwbVdsbHFVbWdkMGQxSnFTWGxxYWg2U0d4THpVaFFTTV9Oek11MGxfb1lhaVVnSm9UZ1BMQ1BBQ0FBIiwiaWQiOiJmY19wUzhLWjZuWEh1bV94YzhQM2VLeHdRWV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU5rWndSemhuYVZaRk4zVmtibEI2WjBaNFVXWm5aak5tZEZOblVETlBOWGRCVDBnNGFrOU9MVVo0V1Y4d2FFOVFXVmh6TkdsclFXRjFOV1I2T1U1V1RXbGFjRXhMRWhkd1V6aExXalp1V0VoMWJWOTRZemhRTTJWTGVIZFJXUm9pUVVaWWNrVmpjRXhsVGt3MmEzZDVlVlpaVkZSTVpqaEViRzFsWW5GTE1WWXpadyIsImZjdiI6IjMiLCJlaSI6InBTOEtaNm5YSHVtX3hjOFAzZUt4d1FZIiwicWMiOiJDZ2x5WlcxdmRXeGhaR1VRQUgzT0tnSV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHRhc3RlIG9mIHJlbW91bGFkZT8iLCJsayI6IkdoNTNhR0YwSUdseklIUm9aU0IwWVhOMFpTQnZaaUJ5WlcxdmRXeGhaR1UiLCJicyI6ImMtUHk0RklJejBnc1VjZ3NWaWhLemMwdnpVbE1TVlVvVGl4TlRsWElCVEh6MC13bEZnc1pLVXJKbC1OWHh1WERwWVJwVWxteFFrbGlFUkJCRkFQTmtqRlNsbExFTkF0TklaY2JsenpNdEpLTVZLQmNjUW5JRm9RT2U0bjVrVVlLVW5MbGVGVngtWEVaSTV1VGtwbVdsbHFVbWdkMGQxSnFTWGxxYWg2U0d4THpVaFFTTV9Oek11MGxfb1lhaVVnSm9UZ1BMQ1BBQ0FBIiwiaWQiOiJmY19wUzhLWjZuWEh1bV94YzhQM2VLeHdRWV8xIn0%3D"
+    },
+    {
+      "question": "What is the difference between remoulade and aioli?",
+      "snippet": "Above all, aioli is pungent, wicked thick, and luscious. Remoulade, meanwhile, tastes savory, fresh, briny, and slightly spicy. Recipes for remoulade tend to vary regionally, whereas aioli remains largely the same.",
+      "title": "What's The Difference Between Remoulade And Aioli? - Tasting Table",
+      "date": "May 2, 2024",
+      "link": "https://www.tastingtable.com/1572374/difference-remoulade-vs-aioli/#:~:text=Above%20all%2C%20aioli%20is%20pungent,aioli%20remains%20largely%20the%20same.",
+      "displayed_link": "https://www.tastingtable.com \u203a difference-remoulade-vs-a...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_nLCh5lwsqmqHee2dII294kbxTd5085UCLoNmLzPa-w&s",
+      "source_logo": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/20c852c0cad61efc70fcb4e0df66f2b6947673670817b5e6e7ee06420e2ffd0d.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU5rWndSemhuYVZaRk4zVmtibEI2WjBaNFVXWm5aak5tZEZOblVETlBOWGRCVDBnNGFrOU9MVVo0V1Y4d2FFOVFXVmh6TkdsclFXRjFOV1I2T1U1V1RXbGFjRXhMRWhkd1V6aExXalp1V0VoMWJWOTRZemhRTTJWTGVIZFJXUm9pUVVaWWNrVmpjRXhsVGt3MmEzZDVlVlpaVkZSTVpqaEViRzFsWW5GTE1WWXpadyIsImZjdiI6IjMiLCJlaSI6InBTOEtaNm5YSHVtX3hjOFAzZUt4d1FZIiwicWMiOiJDZ2x5WlcxdmRXeGhaR1VRQUgzT0tnSV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiByZW1vdWxhZGUgYW5kIGFpb2xpPyIsImxrIjoiR2hKeVpXMXZkV3hoWkdVZ2RuTWdZV2x2YkdrIiwiYnMiOiJjLVB5NEZJSXowZ3NVY2dzVmloS3pjMHZ6VWxNU1ZVb1RpeE5UbFhJQlRIejAtd2xGZ3NaS1VySmwtTlh4dVhEcFlScFVsbXhRa2xpRVJCQkZBUE5rakZTbGxMRU5BdE5JWmNibHp6TXRKS01WS0JjY1FuSUZvUU9lNG41a1VZS1VuTGxlRlZ4LVhFWkk1dVRrcG1XbGxxVW1nZDBkMUpxU1hscWFoNlNHeEx6VWhRU01fTnpNdTBsX29ZYWlVZ0pvVGdQTENQQUNBQSIsImlkIjoiZmNfcFM4S1o2blhIdW1feGM4UDNlS3h3UVlfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU5rWndSemhuYVZaRk4zVmtibEI2WjBaNFVXWm5aak5tZEZOblVETlBOWGRCVDBnNGFrOU9MVVo0V1Y4d2FFOVFXVmh6TkdsclFXRjFOV1I2T1U1V1RXbGFjRXhMRWhkd1V6aExXalp1V0VoMWJWOTRZemhRTTJWTGVIZFJXUm9pUVVaWWNrVmpjRXhsVGt3MmEzZDVlVlpaVkZSTVpqaEViRzFsWW5GTE1WWXpadyIsImZjdiI6IjMiLCJlaSI6InBTOEtaNm5YSHVtX3hjOFAzZUt4d1FZIiwicWMiOiJDZ2x5WlcxdmRXeGhaR1VRQUgzT0tnSV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiByZW1vdWxhZGUgYW5kIGFpb2xpPyIsImxrIjoiR2hKeVpXMXZkV3hoWkdVZ2RuTWdZV2x2YkdrIiwiYnMiOiJjLVB5NEZJSXowZ3NVY2dzVmloS3pjMHZ6VWxNU1ZVb1RpeE5UbFhJQlRIejAtd2xGZ3NaS1VySmwtTlh4dVhEcFlScFVsbXhRa2xpRVJCQkZBUE5rakZTbGxMRU5BdE5JWmNibHp6TXRKS01WS0JjY1FuSUZvUU9lNG41a1VZS1VuTGxlRlZ4LVhFWkk1dVRrcG1XbGxxVW1nZDBkMUpxU1hscWFoNlNHeEx6VWhRU01fTnpNdTBsX29ZYWlVZ0pvVGdQTENQQUNBQSIsImlkIjoiZmNfcFM4S1o2blhIdW1feGM4UDNlS3h3UVlfMSJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Remoulade Sauce Recipe {Louisiana-style!}",
+      "link": "https://bellyfull.net/spicy-remoulade/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bellyfull.net/spicy-remoulade/&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQFnoECBYQAQ",
+      "displayed_link": "https://bellyfull.net \u203a ... \u203a Sauce",
+      "thumbnail": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/96a8a7982f473bdee7707c9b624288cf8af9685664aea816caaf3ca3a41bb56f.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/96a8a7982f473bdee7707c9b624288cf427a93c6ab041817451b6ddd22b818da.webp",
+      "snippet": "Most remoulade sauce has mayonnaise, herbs, and pickles as the base. Louisiana-style remoulades also include mustard (and/or horseradish) and cajun seasonings.",
+      "snippet_highlighted_words": [
+        "remoulade"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "min": 5
+          },
+          "extensions": [
+            "5.0(25)",
+            "5 min"
+          ]
+        }
+      },
+      "source": "Belly Full"
+    },
+    {
+      "position": 2,
+      "title": "Remoulade Sauce Recipe",
+      "link": "https://www.loveandlemons.com/remoulade-sauce/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.loveandlemons.com/remoulade-sauce/&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQFnoECBUQAQ",
+      "displayed_link": "https://www.loveandlemons.com \u203a Recipes",
+      "thumbnail": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/96a8a7982f473bdee7707c9b624288cfd2161fdc45acd969176efdc2dadfa35e.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/96a8a7982f473bdee7707c9b624288cfea765a449d2852bc426685218ef61181.webp",
+      "snippet": "This Creole-style remoulade sauce recipe is made with mayo, mustard, hot sauce, and spices. It's creamy, tangy, flavorful, and easy to make.",
+      "snippet_highlighted_words": [
+        "remoulade"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.8,
+            "min": 10
+          },
+          "extensions": [
+            "4.8(14)",
+            "10 min"
+          ]
+        }
+      },
+      "source": "Love and Lemons"
+    },
+    {
+      "position": 3,
+      "title": "Remoulade Sauce",
+      "link": "https://grandbaby-cakes.com/remoulade-sauce/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://grandbaby-cakes.com/remoulade-sauce/&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQFnoECFYQAQ",
+      "displayed_link": "https://grandbaby-cakes.com \u203a Condiments & Sauces",
+      "thumbnail": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/96a8a7982f473bdee7707c9b624288cf0df8a6737b59e03dd9a9c999a574be29.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/96a8a7982f473bdee7707c9b624288cf1196b5a1dc9156e264db1f1e4d423dd0.webp",
+      "date": "Apr 27, 2024",
+      "snippet": "This Cajun Remoulade Sauce recipe is creamy, tangy, quick and easy to make and the perfect pairing with po' boys, fried okra, and fried catfish.",
+      "snippet_highlighted_words": [
+        "Remoulade"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "min": 15
+          },
+          "extensions": [
+            "5.0(4)",
+            "15 min"
+          ]
+        }
+      },
+      "source": "Grandbaby Cakes"
+    },
+    {
+      "position": 4,
+      "title": "New Orleans Remoulade Sauce Recipe",
+      "link": "https://www.seriouseats.com/sauced-louisiana-remoulade-recipe",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.seriouseats.com/sauced-louisiana-remoulade-recipe&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQFnoECFEQAQ",
+      "displayed_link": "https://www.seriouseats.com \u203a ... \u203a Condiments & Sauces",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBtIv4rz9LcuKl87Jx5Ya2kTb_6dQmjdYXJmLXJ8DEDwfleaR2j0VL&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/96a8a7982f473bdee7707c9b624288cf0a3bbd19793d08b3521787f59468ea8b.webp",
+      "snippet": "In a small bowl, mix together mayonnaise, Dijon mustard, lemon juice, parsley, hot sauce, whole-grain mustard, garlic, capers, Worcestershire sauce, paprika, ...",
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.7,
+            "hr_min": 1
+          },
+          "extensions": [
+            "4.7(3)",
+            "1 hr 5 min"
+          ]
+        }
+      },
+      "source": "Serious Eats"
+    },
+    {
+      "position": 5,
+      "title": "Chef John's Remoulade Sauce Recipe",
+      "link": "https://www.allrecipes.com/recipe/238262/chef-johns-remoulade-sauce/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.allrecipes.com/recipe/238262/chef-johns-remoulade-sauce/&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQFnoECFUQAQ",
+      "displayed_link": "https://www.allrecipes.com \u203a ... \u203a Sauces",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTby41Mvb0cVHFNq0ctQwDy-6-P6iZRv_PiXuufjqsAvc3z_NWUG4Dh&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/96a8a7982f473bdee7707c9b624288cf96ebec4dfa267ec7e1528c0cb2bf7d72.webp",
+      "date": "Sep 19, 2022",
+      "snippet": "To make this simple remoulade sauce, combine mayonnaise, Dijon mustard, fresh dill, pickles, minced garlic, capers, lemon juice, ...",
+      "snippet_highlighted_words": [
+        "remoulade"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.6,
+            "min": 15
+          },
+          "extensions": [
+            "4.6(33)",
+            "15 min"
+          ]
+        }
+      },
+      "source": "Allrecipes"
+    },
+    {
+      "position": 6,
+      "title": "5 Minute Remoulade Sauce - A Gourmet Food Blog",
+      "link": "https://www.agourmetfoodblog.com/5-minute-remoulade-sauce/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.agourmetfoodblog.com/5-minute-remoulade-sauce/&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQFnoECFIQAQ",
+      "displayed_link": "https://www.agourmetfoodblog.com \u203a 5-minute-remoul...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6QuXLCGTKWF7STZs2CdbTgFPAnjiY3qrdXNL_LXapEZPC7ekzs7tl&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/96a8a7982f473bdee7707c9b624288cf4f848fea1165c52be478b944f71b4fa3.webp",
+      "date": "Nov 29, 2023",
+      "snippet": "This classic mayonnaise-based Remoulade Sauce is made in 5 minutes or less. It's a cold sauce that works well with well, almost everything.",
+      "snippet_highlighted_words": [
+        "Remoulade"
+      ],
+      "rich_snippet": {
+        "bottom": {}
+      },
+      "source": "agourmetfoodblog.com"
+    },
+    {
+      "position": 7,
+      "title": "What is the recipe for homemade remoulade sauce?",
+      "link": "https://www.quora.com/What-is-the-recipe-for-homemade-remoulade-sauce",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/What-is-the-recipe-for-homemade-remoulade-sauce&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQFnoECFQQAQ",
+      "displayed_link": "https://www.quora.com \u203a What-is-the-recipe-for-homem...",
+      "favicon": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/96a8a7982f473bdee7707c9b624288cfe7f0ac3d63f9b06b5c0e2bd419c5f69a.webp",
+      "snippet": "My remoulade starts with mayonnaise. I flavor it with minced shallot, minced cornichon, chopped capers, Dijon and whole grain mustard, a little cayenne pepper ...",
+      "snippet_highlighted_words": [
+        "remoulade"
+      ],
+      "source": "Quora"
+    },
+    {
+      "position": 8,
+      "title": "Remoulade Sauce Recipe",
+      "link": "https://www.simplyrecipes.com/recipes/remoulade_sauce/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.simplyrecipes.com/recipes/remoulade_sauce/&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQFnoECFMQAQ",
+      "displayed_link": "https://www.simplyrecipes.com \u203a ... \u203a Remoulades",
+      "favicon": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/96a8a7982f473bdee7707c9b624288cf4e3deaafacb5f22c69c5dc3bc2ab1054.webp",
+      "snippet": "Remoulade is a traditional French sauce, originally made with ingredients such as mayonnaise, herbs, capers, pickles, and perhaps some anchovy oil or ...",
+      "snippet_highlighted_words": [
+        "Remoulade"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "What Is Remoulade Sauce Made...",
+            "link": "https://www.simplyrecipes.com/recipes/remoulade_sauce/#:~:text=What%20Is%20Remoulade%20Sauce%20Made%20With%3F"
+          },
+          {
+            "title": "Where Does Remoulade Sauce...",
+            "link": "https://www.simplyrecipes.com/recipes/remoulade_sauce/#:~:text=Where%20Does%20Remoulade%20Sauce%20Come%20From%3F"
+          },
+          {
+            "title": "Cajun Vs. Creole Seasoning",
+            "link": "https://www.simplyrecipes.com/recipes/remoulade_sauce/#:~:text=Cajun%20vs.%20Creole%20Seasoning,-Cajun%20and%20Creole%20seasonings%20can"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.8,
+            "min": 10
+          },
+          "extensions": [
+            "4.8(41)",
+            "10 min"
+          ]
+        }
+      },
+      "source": "Simply Recipes"
+    },
+    {
+      "position": 9,
+      "title": "Remoulade Sauce | This Louisiana style remoulade sauce ...",
+      "link": "https://www.facebook.com/chilipeppermadness/videos/remoulade-sauce/415240711530166/",
+      "displayed_link": "30+ reactions \u00b7 2 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9HDOihtto2xLJu66onblwgKVz3j7P7p_HyOKVfFiPpX5y&s",
+      "favicon": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/96a8a7982f473bdee7707c9b624288cfb396d8da23635729ef34c6ee0d62e0ac.png",
+      "snippet": "This Louisiana style remoulade sauce recipe is a creamy, spicy mayo-based sauce that's perfect for shrimp, fried oysters, crab cakes and ...",
+      "duration": "4:46",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQU01JUouR31WT3L8rcw63qZHageFAt-fnJPw",
+      "source": "Facebook \u00b7 Chili Pepper Madness - Recipes & More from a Gourmet Chilihead"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Remoulade recipe",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Remoulade+recipe&sa=X&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQ1QJ6BAh3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Remoulade+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Remoulade sauce recipe easy",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Remoulade+sauce+recipe+easy&sa=X&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQ1QJ6BAh1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Remoulade+sauce+recipe+easy"
+    },
+    {
+      "block_position": 1,
+      "query": "Remoulade sauce ingredients",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Remoulade+sauce+ingredients&sa=X&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQ1QJ6BAh0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Remoulade+sauce+ingredients"
+    },
+    {
+      "block_position": 1,
+      "query": "Best remoulade recipe",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Best+remoulade+recipe&sa=X&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQ1QJ6BAhzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Best+remoulade+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "What is remoulade sauce used for",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=What+is+remoulade+sauce+used+for&sa=X&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQ1QJ6BAh2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=What+is+remoulade+sauce+used+for"
+    },
+    {
+      "block_position": 1,
+      "query": "French remoulade sauce",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=French+remoulade+sauce&sa=X&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQ1QJ6BAhyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=French+remoulade+sauce"
+    },
+    {
+      "block_position": 1,
+      "query": "Danish remoulade recipe",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Danish+remoulade+recipe&sa=X&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQ1QJ6BAhxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Danish+remoulade+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Remoulade Sauce for sale",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Remoulade+Sauce+for+sale&sa=X&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQ1QJ6BAh4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Remoulade+Sauce+for+sale"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Ingredients",
+        "subtitle": "What Are The Ingredients In Remoulade Sauce",
+        "date": "Nov 3, 2023",
+        "favicon": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/a940ba8e69395d78b36f5291e03bc4ebefa4a8df4905ac49a607e16aeb00158e4895c4f352894e4c.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpZxQOvmOQeDgn8frlKEQiofPw2-O0XWt9lQp0UG6zBhyR4FZAP9Isb6nY5P8",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=what+are+the+ingredients+in+remoulade+sauce&sa=X&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQrooIegQICBAF",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+are+the+ingredients+in+remoulade+sauce"
+      },
+      {
+        "text": "How to make",
+        "subtitle": "How Do You Make Remoulade",
+        "favicon": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/a940ba8e69395d78b36f5291e03bc4eba1c7ba1f396ca0d1ed07f394278d776dda123ecf3f5050eb.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnB_Tufkj6wy5CBm9UbdryU3oDHVnlY92awG9KyRvJhiIpqfnV1V-E4qHl4io",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=how+do+you+make+remoulade&sa=X&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQrooIegQICBAK",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+do+you+make+remoulade"
+      },
+      {
+        "text": "Sauce procedures",
+        "subtitle": "How Is Remoulade Sauce Made",
+        "date": "Mar 19, 2024",
+        "favicon": "https://serpapi.com/searches/670a2fa51adaf451397a93c4/images/a940ba8e69395d78b36f5291e03bc4ebff83acfd31322a932dea3bf48518e4c38f41008baafe177b.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrEMipJrwA7xigabds0Sg3InhyIm481UQc6GXjGwx1Np04FuGbxt4Z5wvc71c",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=how+is+remoulade+sauce+made&sa=X&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQrooIegQICBAP",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+is+remoulade+sauce+made"
+      },
+      {
+        "text": "Pronunciation",
+        "subtitle": "How To Pronounce Remoulade",
+        "thumbnail": "https://ssl.gstatic.com/dictionary/static/pronunciation/20180801/desktop/sil.svg",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=How+to+pronounce+Remoulade&si=ACC90nzZn_gLAUeXmm_JvBBAvIEjusx2mxKbgd2UVo1fKsYlnmx_2XN5YQyktrwOg48VpG5XYNDbtAwrV0Hnd05x2j7Grmm8m6uMAEFDug9vtqAofSlJ087foAsfq_JRRURSWO6VhxS1jf6awyFSTRkubHcirAkYMg%3D%3D&sa=X&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQrooIegQICBAU",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=How+to+pronounce+Remoulade&si=ACC90nzZn_gLAUeXmm_JvBBAvIEjusx2mxKbgd2UVo1fKsYlnmx_2XN5YQyktrwOg48VpG5XYNDbtAwrV0Hnd05x2j7Grmm8m6uMAEFDug9vtqAofSlJ087foAsfq_JRRURSWO6VhxS1jf6awyFSTRkubHcirAkYMg%3D%3D"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=remoulade&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=pS8KZ6nXHum_xc8P3eKxwQY&start=10&sa=N&sstk=AagrsugwNe0ABgrN0wx6468Cin0ycG4FLIKQeZqMMpn23srcXLDl1jFlnKVMWiRvrYVy8ieC4RPv80W8JSxQ027XMmzgc1BbvkJbAA&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQ8NMDegQIBhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=remoulade&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=pS8KZ6nXHum_xc8P3eKxwQY&start=10&sa=N&sstk=AagrsugwNe0ABgrN0wx6468Cin0ycG4FLIKQeZqMMpn23srcXLDl1jFlnKVMWiRvrYVy8ieC4RPv80W8JSxQ027XMmzgc1BbvkJbAA&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQ8tMDegQIBhAE",
+      "3": "https://www.google.com/search?q=remoulade&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=pS8KZ6nXHum_xc8P3eKxwQY&start=20&sa=N&sstk=AagrsugwNe0ABgrN0wx6468Cin0ycG4FLIKQeZqMMpn23srcXLDl1jFlnKVMWiRvrYVy8ieC4RPv80W8JSxQ027XMmzgc1BbvkJbAA&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQ8tMDegQIBhAG",
+      "4": "https://www.google.com/search?q=remoulade&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=pS8KZ6nXHum_xc8P3eKxwQY&start=30&sa=N&sstk=AagrsugwNe0ABgrN0wx6468Cin0ycG4FLIKQeZqMMpn23srcXLDl1jFlnKVMWiRvrYVy8ieC4RPv80W8JSxQ027XMmzgc1BbvkJbAA&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQ8tMDegQIBhAI",
+      "5": "https://www.google.com/search?q=remoulade&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=pS8KZ6nXHum_xc8P3eKxwQY&start=40&sa=N&sstk=AagrsugwNe0ABgrN0wx6468Cin0ycG4FLIKQeZqMMpn23srcXLDl1jFlnKVMWiRvrYVy8ieC4RPv80W8JSxQ027XMmzgc1BbvkJbAA&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQ8tMDegQIBhAK",
+      "6": "https://www.google.com/search?q=remoulade&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=pS8KZ6nXHum_xc8P3eKxwQY&start=50&sa=N&sstk=AagrsugwNe0ABgrN0wx6468Cin0ycG4FLIKQeZqMMpn23srcXLDl1jFlnKVMWiRvrYVy8ieC4RPv80W8JSxQ027XMmzgc1BbvkJbAA&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQ8tMDegQIBhAM",
+      "7": "https://www.google.com/search?q=remoulade&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=pS8KZ6nXHum_xc8P3eKxwQY&start=60&sa=N&sstk=AagrsugwNe0ABgrN0wx6468Cin0ycG4FLIKQeZqMMpn23srcXLDl1jFlnKVMWiRvrYVy8ieC4RPv80W8JSxQ027XMmzgc1BbvkJbAA&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQ8tMDegQIBhAO",
+      "8": "https://www.google.com/search?q=remoulade&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=pS8KZ6nXHum_xc8P3eKxwQY&start=70&sa=N&sstk=AagrsugwNe0ABgrN0wx6468Cin0ycG4FLIKQeZqMMpn23srcXLDl1jFlnKVMWiRvrYVy8ieC4RPv80W8JSxQ027XMmzgc1BbvkJbAA&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQ8tMDegQIBhAQ",
+      "9": "https://www.google.com/search?q=remoulade&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=pS8KZ6nXHum_xc8P3eKxwQY&start=80&sa=N&sstk=AagrsugwNe0ABgrN0wx6468Cin0ycG4FLIKQeZqMMpn23srcXLDl1jFlnKVMWiRvrYVy8ieC4RPv80W8JSxQ027XMmzgc1BbvkJbAA&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQ8tMDegQIBhAS",
+      "10": "https://www.google.com/search?q=remoulade&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=pS8KZ6nXHum_xc8P3eKxwQY&start=90&sa=N&sstk=AagrsugwNe0ABgrN0wx6468Cin0ycG4FLIKQeZqMMpn23srcXLDl1jFlnKVMWiRvrYVy8ieC4RPv80W8JSxQ027XMmzgc1BbvkJbAA&ved=2ahUKEwjpvZzssoiJAxXpX_EDHV1xLGgQ8tMDegQIBhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=remoulade&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=remoulade&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=remoulade&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=remoulade&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=remoulade&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=remoulade&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=remoulade&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=remoulade&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=remoulade&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=remoulade&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=remoulade&start=90"
+    }
+  }
+}

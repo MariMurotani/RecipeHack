@@ -1,0 +1,584 @@
+{
+  "search_metadata": {
+    "id": "670a2b1fb6e4dbfd74aedcf5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/59443ca63f085c22/670a2b1fb6e4dbfd74aedcf5.json",
+    "created_at": "2024-10-12 07:54:07 UTC",
+    "processed_at": "2024-10-12 07:54:07 UTC",
+    "google_url": "https://www.google.com/search?q=olive&oq=olive&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/59443ca63f085c22/670a2b1fb6e4dbfd74aedcf5.html",
+    "total_time_taken": 0.81
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "olive",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "olive",
+    "total_results": 1610000000,
+    "time_taken_displayed": 0.28,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=olive&npsic=0&rflfq=1&rldoc=1&rllag=30258936,-97771673,5725&tbm=lcl&sa=X&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQtgN6BAg5EAI",
+    "image": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/f559143eaef920e7e572d05133386853.png",
+    "gps_coordinates": {
+      "latitude": 30.258936,
+      "longitude": -97.771673
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.3,
+        "reviews_original": "(167)",
+        "reviews": 167,
+        "description": "\"Fresh bread is served with homemade ricotta, olive oil and herbs.\"",
+        "lsig": "AB86z5WlWfftnQPcL3gMJEQPUN4r",
+        "thumbnail": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/3e945b6136d62d2ca37705a19b486d00f725a84f40f753ca8a379bc35f2e214c83e5565c8049500b.jpeg",
+        "title": "Olive & June",
+        "type": "Italian",
+        "address": "3411 Glenview Ave",
+        "hours": "Closed \u22c5 Opens 5 PM",
+        "place_id": "1084013568943671137",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=1084013568943671137&q=olive",
+        "gps_coordinates": {
+          "latitude": 30.30729,
+          "longitude": -97.75114
+        }
+      },
+      {
+        "position": 2,
+        "rating": 3.5,
+        "reviews_original": "(37)",
+        "reviews": 37,
+        "description": "\"ATX Olive is a very nice spot to get some tasty food.\"",
+        "lsig": "AB86z5WAdsMMlWTXs7T677_Vllbh",
+        "thumbnail": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/3e945b6136d62d2ca37705a19b486d00bc3cf6ea647a668b80d7dc1a9e8e4f2a0c11ee4ab31acbcf.jpeg",
+        "title": "ATX Olive Company",
+        "type": "Restaurant",
+        "address": "4415 S I-35 Frontage Rd",
+        "hours": "Closed \u22c5 Opens 6 AM",
+        "place_id": "9530211315895426576",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=9530211315895426576&q=olive",
+        "gps_coordinates": {
+          "latitude": 30.210579,
+          "longitude": -97.75351
+        }
+      },
+      {
+        "position": 3,
+        "rating": 4.2,
+        "reviews_original": "(3.4K)",
+        "reviews": 3400,
+        "description": "\"I've eaten at quite a few Olive Gardens, and this is by far the best.\"",
+        "lsig": "AB86z5UZdj51flqj0BdDB0hDpb33",
+        "thumbnail": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/3e945b6136d62d2ca37705a19b486d00576ff0ba8cd943efd306f5c6569eb3c6eeaa7d20ccdea30d.jpeg",
+        "title": "Olive Garden Italian Restaurant",
+        "type": "Italian",
+        "address": "3940 S Lamar Blvd",
+        "hours": "Closed \u22c5 Opens 11 AM",
+        "place_id": "17579424157421457946",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=17579424157421457946&q=olive",
+        "gps_coordinates": {
+          "latitude": 30.23713,
+          "longitude": -97.79226
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=olive&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQjGp6BAg6EAE"
+  },
+  "knowledge_graph": {
+    "title": "Olive",
+    "type": "Plant",
+    "entity_type": "biology",
+    "kgmid": "/m/05mln",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/05mln&hl=en-US&q=Olive",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F05mln&location=Austin%2CTexas%2CUnited+States&q=Olive",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/5e06e06c386496104b485f0c9ed173259d19fe59c0b7b913b56a83b6ecda506305aa318401b32a5f.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/5e06e06c386496104b485f0c9ed173259d19fe59c0b7b913c0602771ddcd1f2317ca89cdb78abdf5.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/5e06e06c386496104b485f0c9ed173259d19fe59c0b7b9131b60311d5f791d0d4abe8c5274ce24ec.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/5e06e06c386496104b485f0c9ed173259d19fe59c0b7b91381622ca654f48ec426224c0242e69b0c.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/5e06e06c386496104b485f0c9ed173259d19fe59c0b7b9139972be6b52722043587062bad509dfba.webp"
+      }
+    ],
+    "genus": "Olea",
+    "kingdom": "Plantae",
+    "order": "Lamiales",
+    "order_links": [
+      {
+        "text": "Lamiales",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Lamiales&stick=H4sIAAAAAAAAAONgVuLQz9U3MEkvT1vEyuGTmJuZmJNaDAAvJ132FwAAAA&sa=X&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQmxMoAHoECCoQAg"
+      }
+    ],
+    "species": "O. europaea",
+    "web_results": [
+      {
+        "snippet": "The olive, botanical name Olea europaea, meaning 'European olive', is a species of small tree or shrub in the family Oleaceae, found traditionally in the Mediterranean Basin, with wild subspecies found further afield in Africa and western Asia.",
+        "source": "Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Olive"
+      },
+      {
+        "title": "Size",
+        "snippet": "20-30' tall",
+        "source": "missouribotanicalgarden.org",
+        "link": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=283004"
+      },
+      {
+        "title": "Family",
+        "snippet": "Oleaceae",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=olive+family&stick=H4sIAAAAAAAAAOPgE-LQz9U3MM3NydMSLi620i9PTUpLTC4ptkpLzM3MyVzEypOfk1mWqgDmVgIAKmTAUzAAAAA&sa=X&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQ18AJegQIMhAB"
+      }
+    ]
+  },
+  "related_questions": [
+    {
+      "question": "Are olives fruits or vegetables?",
+      "snippet": "Olives are small fruits that grow on olive trees (Olea europaea). They belong to a group of fruit called drupes, or stone fruits, and are related to mangoes, cherries, peaches, almonds, and pistachios. Olives are very high in vitamin E and other powerful antioxidants.",
+      "title": "Olives 101: Nutrition Facts and Health Benefits - Healthline",
+      "link": "https://www.healthline.com/nutrition/foods/olives#:~:text=Olives%20are%20small%20fruits%20that,E%20and%20other%20powerful%20antioxidants.",
+      "displayed_link": "https://www.healthline.com \u203a nutrition \u203a foods \u203a olives",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6sVVixurZyezBsGv0Uw2bZP-k5VfTVDMJpaoD9LFV4g&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVpHTndSV3A1TkRkaFVYRkVRVGh6YkdaR00yZHFWMWh0T0dKUE4wTTJWa2g2Y0ZoUVNuaFRla2hrVG5kWmFYQnhVR2RTVG1oWldYaHJTRnBRU2pCeGRHVXhRa0UzRWhkSWVYTkxXamRNY1VkSk0wUndPRFJRY0RoWFFYTkJNQm9pUVVaWWNrVmpjVmw1WWxaamFXOTNOSE5PUzJkcFpHY3hXVTlaZFdoNlYzcEZRUSIsImZjdiI6IjMiLCJlaSI6Ikh5c0taN0xxR0kzRHA4NFBwOFdBc0EwIiwicWMiOiJDZ1Z2YkdsMlpSQUFmVVpGSno4IiwicXVlc3Rpb24iOiJBcmUgb2xpdmVzIGZydWl0cyBvciB2ZWdldGFibGVzPyIsImxrIjoiR2g5aGNtVWdiMnhwZG1WeklHWnlkV2wwY3lCdmNpQjJaV2RsZEdGaWJHVnoiLCJicyI6ImMtUHk0Rkp3TEVwVnlNX0pMRXN0VmtncktzMHNLVmJJTDFJb1MwMVBMVWxNeWtrdHRwZllWMmFrS0NXZmlGOFpseDJYWW5oR1lvbENackZDU1VhcVFtNXFZbDVtWHJwQ1VtcEdabDRLUktlOXhQRUVJekVwRVd4eVhHRmM2bUQ5SUh0QUJpU2w1cVdtZ2ExSlUwaE5MQUdwaDFodkw3SFJ4VWhEU3EyY0tOVkFkMG5EM0FVV1Vjak1BLXR3eWdRNjIxNWltNHFSakpSVU9UWVZTU0FWQW93QSIsImlkIjoiZmNfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVpHTndSV3A1TkRkaFVYRkVRVGh6YkdaR00yZHFWMWh0T0dKUE4wTTJWa2g2Y0ZoUVNuaFRla2hrVG5kWmFYQnhVR2RTVG1oWldYaHJTRnBRU2pCeGRHVXhRa0UzRWhkSWVYTkxXamRNY1VkSk0wUndPRFJRY0RoWFFYTkJNQm9pUVVaWWNrVmpjVmw1WWxaamFXOTNOSE5PUzJkcFpHY3hXVTlaZFdoNlYzcEZRUSIsImZjdiI6IjMiLCJlaSI6Ikh5c0taN0xxR0kzRHA4NFBwOFdBc0EwIiwicWMiOiJDZ1Z2YkdsMlpSQUFmVVpGSno4IiwicXVlc3Rpb24iOiJBcmUgb2xpdmVzIGZydWl0cyBvciB2ZWdldGFibGVzPyIsImxrIjoiR2g5aGNtVWdiMnhwZG1WeklHWnlkV2wwY3lCdmNpQjJaV2RsZEdGaWJHVnoiLCJicyI6ImMtUHk0Rkp3TEVwVnlNX0pMRXN0VmtncktzMHNLVmJJTDFJb1MwMVBMVWxNeWtrdHRwZllWMmFrS0NXZmlGOFpseDJYWW5oR1lvbENackZDU1VhcVFtNXFZbDVtWHJwQ1VtcEdabDRLUktlOXhQRUVJekVwRVd4eVhHRmM2bUQ5SUh0QUJpU2w1cVdtZ2ExSlUwaE5MQUdwaDFodkw3SFJ4VWhEU3EyY0tOVkFkMG5EM0FVV1Vjak1BLXR3eWdRNjIxNWltNHFSakpSVU9UWVZTU0FWQW93QSIsImlkIjoiZmNfNCJ9"
+    },
+    {
+      "question": "What is the meaning behind olive?",
+      "snippet": "Perhaps the most well-known symbolic connotation for the olive is peace. The olive tree, or more specifically an olive branch, is a symbol of peace and friendship dating back to ancient Greek mythology.",
+      "title": "peace",
+      "link": "https://www.californiaoliveranch.com/articles/what-do-olives-symbolize#:~:text=Perhaps%20the%20most%20well%2Dknown,back%20to%20ancient%20Greek%20mythology.",
+      "displayed_link": "https://www.californiaoliveranch.com \u203a articles \u203a what-d...",
+      "source_logo": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/aa45cce1b25fa732eb62e73f77fa44195a15e0a6b4119429fc177233a29b5484.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVpHTndSV3A1TkRkaFVYRkVRVGh6YkdaR00yZHFWMWh0T0dKUE4wTTJWa2g2Y0ZoUVNuaFRla2hrVG5kWmFYQnhVR2RTVG1oWldYaHJTRnBRU2pCeGRHVXhRa0UzRWhkSWVYTkxXamRNY1VkSk0wUndPRFJRY0RoWFFYTkJNQm9pUVVaWWNrVmpjVmw1WWxaamFXOTNOSE5PUzJkcFpHY3hXVTlaZFdoNlYzcEZRUSIsImZjdiI6IjMiLCJlaSI6Ikh5c0taN0xxR0kzRHA4NFBwOFdBc0EwIiwicWMiOiJDZ1Z2YkdsMlpSQUFmVVpGSno4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBtZWFuaW5nIGJlaGluZCBvbGl2ZT8iLCJsayI6IkdoUnRaV0Z1YVc1bklHSmxhR2x1WkNCdmJHbDJaUSIsImJzIjoiYy1QeTRGSndMRXBWeU1fSkxFc3RWa2dyS3Mwc0tWYklMMUlvUzAxUExVbE15a2t0dHBmWVYyYWtLQ1dmaUY4Wmx4MlhZbmhHWW9sQ1pyRkNTVWFxUW01cVlsNW1YcnBDVW1wR1psNEtSS2U5eFBFRUl6RXBFV3h5WEdGYzZtRDlJSHRBQmlTbDVxV21nYTFKVTBoTkxBR3BoMWh2TDdIUnhVaERTcTJjS05WQWQwbkQzQVVXVWNqTUEtdHd5Z1E2MjE1aW00cVJqSlJVT1RZVlNTQVZBb3dBIiwiaWQiOiJmY180In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVpHTndSV3A1TkRkaFVYRkVRVGh6YkdaR00yZHFWMWh0T0dKUE4wTTJWa2g2Y0ZoUVNuaFRla2hrVG5kWmFYQnhVR2RTVG1oWldYaHJTRnBRU2pCeGRHVXhRa0UzRWhkSWVYTkxXamRNY1VkSk0wUndPRFJRY0RoWFFYTkJNQm9pUVVaWWNrVmpjVmw1WWxaamFXOTNOSE5PUzJkcFpHY3hXVTlaZFdoNlYzcEZRUSIsImZjdiI6IjMiLCJlaSI6Ikh5c0taN0xxR0kzRHA4NFBwOFdBc0EwIiwicWMiOiJDZ1Z2YkdsMlpSQUFmVVpGSno4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBtZWFuaW5nIGJlaGluZCBvbGl2ZT8iLCJsayI6IkdoUnRaV0Z1YVc1bklHSmxhR2x1WkNCdmJHbDJaUSIsImJzIjoiYy1QeTRGSndMRXBWeU1fSkxFc3RWa2dyS3Mwc0tWYklMMUlvUzAxUExVbE15a2t0dHBmWVYyYWtLQ1dmaUY4Wmx4MlhZbmhHWW9sQ1pyRkNTVWFxUW01cVlsNW1YcnBDVW1wR1psNEtSS2U5eFBFRUl6RXBFV3h5WEdGYzZtRDlJSHRBQmlTbDVxV21nYTFKVTBoTkxBR3BoMWh2TDdIUnhVaERTcTJjS05WQWQwbkQzQVVXVWNqTUEtdHd5Z1E2MjE1aW00cVJqSlJVT1RZVlNTQVZBb3dBIiwiaWQiOiJmY180In0%3D"
+    },
+    {
+      "question": "What are the benefits of eating olives?",
+      "title": "Regularly eating olives:",
+      "date": "Jan 3, 2023",
+      "link": "https://health.clevelandclinic.org/are-olives-good-for-you",
+      "list": [
+        "May improve your heart health. ... ",
+        "Provides you with healthy fats. ... ",
+        "Boosts the fiber in your diet. ... ",
+        "Gives you a healthy dose of vitamin E. ... ",
+        "Makes you feel full after snacking. ... ",
+        "Could reduce your cancer risk. ... ",
+        "Helps manage your blood sugar levels."
+      ],
+      "displayed_link": "https://health.clevelandclinic.org \u203a are-olives-good-for-you",
+      "source_logo": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/aa45cce1b25fa732eb62e73f77fa44195ca1c717b0ac25220a13af2d768d3e9e.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVpHTndSV3A1TkRkaFVYRkVRVGh6YkdaR00yZHFWMWh0T0dKUE4wTTJWa2g2Y0ZoUVNuaFRla2hrVG5kWmFYQnhVR2RTVG1oWldYaHJTRnBRU2pCeGRHVXhRa0UzRWhkSWVYTkxXamRNY1VkSk0wUndPRFJRY0RoWFFYTkJNQm9pUVVaWWNrVmpjVmw1WWxaamFXOTNOSE5PUzJkcFpHY3hXVTlaZFdoNlYzcEZRUSIsImZjdiI6IjMiLCJlaSI6Ikh5c0taN0xxR0kzRHA4NFBwOFdBc0EwIiwicWMiOiJDZ1Z2YkdsMlpSQUFmVVpGSno4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgYmVuZWZpdHMgb2YgZWF0aW5nIG9saXZlcz8iLCJsayI6IkdpWjNhR0YwSUdGeVpTQjBhR1VnWW1WdVpXWnBkSE1nYjJZZ1pXRjBhVzVuSUc5c2FYWmxjdyIsImJzIjoiYy1QeTRGSndMRXBWeU1fSkxFc3RWa2dyS3Mwc0tWYklMMUlvUzAxUExVbE15a2t0dHBmWVYyYWtLQ1dmaUY4Wmx4MlhZbmhHWW9sQ1pyRkNTVWFxUW01cVlsNW1YcnBDVW1wR1psNEtSS2U5eFBFRUl6RXBFV3h5WEdGYzZtRDlJSHRBQmlTbDVxV21nYTFKVTBoTkxBR3BoMWh2TDdIUnhVaERTcTJjS05WQWQwbkQzQVVXVWNqTUEtdHd5Z1E2MjE1aW00cVJqSlJVT1RZVlNTQVZBb3dBIiwiaWQiOiJmY180In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVpHTndSV3A1TkRkaFVYRkVRVGh6YkdaR00yZHFWMWh0T0dKUE4wTTJWa2g2Y0ZoUVNuaFRla2hrVG5kWmFYQnhVR2RTVG1oWldYaHJTRnBRU2pCeGRHVXhRa0UzRWhkSWVYTkxXamRNY1VkSk0wUndPRFJRY0RoWFFYTkJNQm9pUVVaWWNrVmpjVmw1WWxaamFXOTNOSE5PUzJkcFpHY3hXVTlaZFdoNlYzcEZRUSIsImZjdiI6IjMiLCJlaSI6Ikh5c0taN0xxR0kzRHA4NFBwOFdBc0EwIiwicWMiOiJDZ1Z2YkdsMlpSQUFmVVpGSno4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgYmVuZWZpdHMgb2YgZWF0aW5nIG9saXZlcz8iLCJsayI6IkdpWjNhR0YwSUdGeVpTQjBhR1VnWW1WdVpXWnBkSE1nYjJZZ1pXRjBhVzVuSUc5c2FYWmxjdyIsImJzIjoiYy1QeTRGSndMRXBWeU1fSkxFc3RWa2dyS3Mwc0tWYklMMUlvUzAxUExVbE15a2t0dHBmWVYyYWtLQ1dmaUY4Wmx4MlhZbmhHWW9sQ1pyRkNTVWFxUW01cVlsNW1YcnBDVW1wR1psNEtSS2U5eFBFRUl6RXBFV3h5WEdGYzZtRDlJSHRBQmlTbDVxV21nYTFKVTBoTkxBR3BoMWh2TDdIUnhVaERTcTJjS05WQWQwbkQzQVVXVWNqTUEtdHd5Z1E2MjE1aW00cVJqSlJVT1RZVlNTQVZBb3dBIiwiaWQiOiJmY180In0%3D"
+    },
+    {
+      "question": "What is olive in the Bible?",
+      "snippet": "In Christianity the olive branch symbolizes peace and hope based on the story of Noah and the Flood. A dove sent out by Noah returned to him with an olive branch to let him know that the flood waters had abated, and that the Flood of God's judgment was over (Genesis 8:11).",
+      "title": "What does an olive tree represent in the Bible? - Quora",
+      "date": "Jun 14, 2019",
+      "link": "https://www.quora.com/What-does-an-olive-tree-represent-in-the-Bible#:~:text=In%20Christianity%20the%20olive%20branch,(Genesis%208%3A11).",
+      "displayed_link": "https://www.quora.com \u203a What-does-an-olive-tree-repres...",
+      "source_logo": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/aa45cce1b25fa732eb62e73f77fa44195105ce8a0cf9192e25a6f5353361d8ee.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVpHTndSV3A1TkRkaFVYRkVRVGh6YkdaR00yZHFWMWh0T0dKUE4wTTJWa2g2Y0ZoUVNuaFRla2hrVG5kWmFYQnhVR2RTVG1oWldYaHJTRnBRU2pCeGRHVXhRa0UzRWhkSWVYTkxXamRNY1VkSk0wUndPRFJRY0RoWFFYTkJNQm9pUVVaWWNrVmpjVmw1WWxaamFXOTNOSE5PUzJkcFpHY3hXVTlaZFdoNlYzcEZRUSIsImZjdiI6IjMiLCJlaSI6Ikh5c0taN0xxR0kzRHA4NFBwOFdBc0EwIiwicWMiOiJDZ1Z2YkdsMlpSQUFmVVpGSno4IiwicXVlc3Rpb24iOiJXaGF0IGlzIG9saXZlIGluIHRoZSBCaWJsZT8iLCJsayI6IkdocDNhR0YwSUdseklHOXNhWFpsSUdsdUlIUm9aU0JpYVdKc1pRIiwiYnMiOiJjLVB5NEZKd0xFcFZ5TV9KTEVzdFZrZ3JLczBzS1ZiSUwxSW9TMDFQTFVsTXlra3R0cGZZVjJha0tDV2ZpRjhabHgyWFluaEdZb2xDWnJGQ1NVYXFRbTVxWWw1bVhycENVbXBHWmw0S1JLZTl4UEVFSXpFcEVXeHlYR0ZjNm1EOUlIdEFCaVNsNXFXbWdhMUpVMGhOTEFHcGgxaHZMN0hSeFVoRFNxMmNLTlZBZDBuRDNBVVdVY2pNQS10d3lnUTYyMTVpbTRxUmpKUlVPVFlWU1NBVkFvd0EiLCJpZCI6ImZjXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVpHTndSV3A1TkRkaFVYRkVRVGh6YkdaR00yZHFWMWh0T0dKUE4wTTJWa2g2Y0ZoUVNuaFRla2hrVG5kWmFYQnhVR2RTVG1oWldYaHJTRnBRU2pCeGRHVXhRa0UzRWhkSWVYTkxXamRNY1VkSk0wUndPRFJRY0RoWFFYTkJNQm9pUVVaWWNrVmpjVmw1WWxaamFXOTNOSE5PUzJkcFpHY3hXVTlaZFdoNlYzcEZRUSIsImZjdiI6IjMiLCJlaSI6Ikh5c0taN0xxR0kzRHA4NFBwOFdBc0EwIiwicWMiOiJDZ1Z2YkdsMlpSQUFmVVpGSno4IiwicXVlc3Rpb24iOiJXaGF0IGlzIG9saXZlIGluIHRoZSBCaWJsZT8iLCJsayI6IkdocDNhR0YwSUdseklHOXNhWFpsSUdsdUlIUm9aU0JpYVdKc1pRIiwiYnMiOiJjLVB5NEZKd0xFcFZ5TV9KTEVzdFZrZ3JLczBzS1ZiSUwxSW9TMDFQTFVsTXlra3R0cGZZVjJha0tDV2ZpRjhabHgyWFluaEdZb2xDWnJGQ1NVYXFRbTVxWWw1bVhycENVbXBHWmw0S1JLZTl4UEVFSXpFcEVXeHlYR0ZjNm1EOUlIdEFCaVNsNXFXbWdhMUpVMGhOTEFHcGgxaHZMN0hSeFVoRFNxMmNLTlZBZDBuRDNBVVdVY2pNQS10d3lnUTYyMTVpbTRxUmpKUlVPVFlWU1NBVkFvd0EiLCJpZCI6ImZjXzQifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Olive",
+      "link": "https://en.wikipedia.org/wiki/Olive",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Olive&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQFnoECBgQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Olive",
+      "thumbnail": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/d489587b8ca8503475804cec3e626729fa7ee402a5ca9e9812da99015fa98441.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/d489587b8ca8503475804cec3e626729ee9576661538792d5c62825a06ee08e1.png",
+      "snippet": "The olive, botanical name Olea europaea, meaning 'European olive', is a species of small tree or shrub in the family Oleaceae, found traditionally in the ...",
+      "snippet_highlighted_words": [
+        "olive",
+        "olive"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Olive Garden Italian Restaurant | Family Style Dining",
+      "link": "https://www.olivegarden.com/home",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.olivegarden.com/home&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQFnoECBQQAQ",
+      "displayed_link": "https://www.olivegarden.com \u203a ...",
+      "thumbnail": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/d489587b8ca8503475804cec3e626729524f8e953831a2ebff86a5ca48fe8535.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/d489587b8ca8503475804cec3e626729356a3429dc23f552fb0d3cdd2204b9a6.png",
+      "snippet": "Welcome to Olive Garden Italian Restaurants. Stop by today and enjoy family style dining and fresh Italian food at our local restaurants.",
+      "snippet_highlighted_words": [
+        "Olive"
+      ],
+      "source": "Olive Garden"
+    },
+    {
+      "position": 3,
+      "title": "Olive | Description, Production, & Oil",
+      "link": "https://www.britannica.com/plant/olive-plant",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.britannica.com/plant/olive-plant&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQFnoECEkQAQ",
+      "displayed_link": "https://www.britannica.com \u203a ... \u203a Food",
+      "thumbnail": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/d489587b8ca8503475804cec3e626729132288561872b3c58b209a126c6377f7.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/d489587b8ca8503475804cec3e626729504c5db9b71287fc3c6ee1d3924db860.png",
+      "date": "Aug 23, 2024",
+      "snippet": "Olive, subtropical broad-leaved evergreen tree and its edible fruit. The olive fruit and its oil are key elements in the cuisine of the ...",
+      "snippet_highlighted_words": [
+        "Olive",
+        "olive"
+      ],
+      "source": "Britannica"
+    },
+    {
+      "position": 4,
+      "title": "The Olive Tree",
+      "link": "https://www.internationaloliveoil.org/olive-world/olive-tree/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.internationaloliveoil.org/olive-world/olive-tree/&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQFnoECEoQAQ",
+      "displayed_link": "https://www.internationaloliveoil.org \u203a Olive World",
+      "thumbnail": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/d489587b8ca8503475804cec3e626729e0b9f2c45be734fb6e7f5917e1022ee9.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/d489587b8ca8503475804cec3e626729f0619b8f040883a2496e0630d16d8537.png",
+      "snippet": "The wild olive tree originated in Asia Minor where it is extremely abundant and grows in thick forests. It appears to have spread from Syria to Greece via ...",
+      "snippet_highlighted_words": [
+        "olive"
+      ],
+      "source": "International Olive Council"
+    },
+    {
+      "position": 5,
+      "title": "Olive | Contemporary Lifestyle",
+      "link": "https://www.oliveclothing.com/?srsltid=AfmBOoqRUEOQwae1WuMl2zAVkoqEPI9FoxyBE5mqiuhMeY7fc_LKFUKR",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oliveclothing.com/%3Fsrsltid%3DAfmBOoqRUEOQwae1WuMl2zAVkoqEPI9FoxyBE5mqiuhMeY7fc_LKFUKR&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQFnoECEgQAQ",
+      "displayed_link": "https://www.oliveclothing.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4a2PSUFM16s4_XVyvrDXXw3s4VE8RZYmlz2ZFzIjbDEG-V2ju_FhR&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/d489587b8ca8503475804cec3e6267292cd5a3afa7e18c3b95208ede2685e9e0.png",
+      "snippet": "Official site of the contemporary lifestyle brand from the United Kingdom. Worldwide Delivery. See our Delivery page for details. Simple Returns.",
+      "source": "Olive Clothing"
+    },
+    {
+      "position": 6,
+      "title": "Olive Video Editor",
+      "link": "https://www.olivevideoeditor.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.olivevideoeditor.org/&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQFnoECEcQAQ",
+      "displayed_link": "https://www.olivevideoeditor.org",
+      "favicon": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/d489587b8ca8503475804cec3e62672960899c6d70f12cc32b81f85c9b0df5ea.png",
+      "snippet": "Olive. The world's most open and versatile video editor. WHY OLIVE? TRY OLIVE. Home \u00b7 Why Olive?",
+      "snippet_highlighted_words": [
+        "Olive",
+        "OLIVE",
+        "OLIVE",
+        "Olive"
+      ],
+      "source": "Olive Video Editor"
+    },
+    {
+      "position": 7,
+      "title": "Olive Definition & Meaning",
+      "link": "https://www.merriam-webster.com/dictionary/olive",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.merriam-webster.com/dictionary/olive&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQFnoECEYQAQ",
+      "displayed_link": "https://www.merriam-webster.com \u203a dictionary \u203a olive",
+      "favicon": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/d489587b8ca8503475804cec3e626729ac2c74124ff22855e1df8862ec85694e.png",
+      "date": "Oct 2, 2024",
+      "snippet": "1. a : a Mediterranean evergreen tree (Olea europaea of the family Oleaceae, the olive family) cultivated for its drupaceous fruit that is an important food ...",
+      "snippet_highlighted_words": [
+        "olive"
+      ],
+      "source": "Merriam-Webster"
+    },
+    {
+      "position": 8,
+      "title": "Olive + Lavender Farms: Quality Olive Oils & Balsamic ...",
+      "link": "https://www.oliveandlavenderfarms.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oliveandlavenderfarms.com/&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQFnoECEwQAQ",
+      "displayed_link": "https://www.oliveandlavenderfarms.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDyxgjNyly2WDC3-DvSbRiOnzsew7EiP-IS91V5Mxjj75KPvsdyvAE&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/d489587b8ca8503475804cec3e6267296b189fc2be0fc2b18a92f0b09788df61.png",
+      "snippet": "Estate grown, locally sourced olive oil and balsamic vinegar with amazing flavor. Visit our charming property in Los Olivos, CA.",
+      "snippet_highlighted_words": [
+        "olive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 100,
+            "currency": "Free delivery over $"
+          },
+          "extensions": [
+            "Free delivery over $100"
+          ]
+        }
+      },
+      "source": "Olive + Lavender Farms"
+    },
+    {
+      "position": 9,
+      "title": "Olives 101: Nutrition Facts and Health Benefits",
+      "link": "https://www.healthline.com/nutrition/foods/olives",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.healthline.com/nutrition/foods/olives&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQFnoECEsQAQ",
+      "displayed_link": "https://www.healthline.com \u203a nutrition \u203a foods \u203a olives",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6o8LPM2D5BB6Layuq16BxAnOuo6oPIFNGvcBCcixj1FBuLT6r4y7&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/d489587b8ca8503475804cec3e6267297281d4511c3bb8f6865861554734ef45.png",
+      "snippet": "Olives are very high in vitamin E and other powerful antioxidants. Studies show that they are good for the heart and may protect against osteoporosis and cancer ...",
+      "snippet_highlighted_words": [
+        "Olives"
+      ],
+      "source": "Healthline"
+    },
+    {
+      "position": 10,
+      "title": "Olives - an overview | ScienceDirect Topics",
+      "link": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/olives",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/olives&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQFnoECEUQAQ",
+      "displayed_link": "https://www.sciencedirect.com \u203a topics \u203a olives",
+      "favicon": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/d489587b8ca8503475804cec3e626729f61f324f0708758b61d577f1080ca28d.png",
+      "snippet": "Olive is the fruit of an evergreen olive tree (Olea europaea, Oleaceae) growing in the temperate climate of the Mediterranean basin.",
+      "snippet_highlighted_words": [
+        "Olive",
+        "olive"
+      ],
+      "source": "ScienceDirect.com"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=olive&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQjGp6BAg6EAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=olive&tbs=lf%3A1%2Clf_ui%3A9&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Olive color",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Olive+color&sa=X&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQ1QJ6BAhvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Olive+color"
+    },
+    {
+      "block_position": 1,
+      "query": "Olive in Hindi",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Olive+in+Hindi&sa=X&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQ1QJ6BAhuEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Olive+in+Hindi"
+    },
+    {
+      "block_position": 1,
+      "query": "Olive restaurant",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Olive+restaurant&sa=X&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQ1QJ6BAhrEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Olive+restaurant"
+    },
+    {
+      "block_position": 1,
+      "query": "Olive oil",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Olive+oil&sa=X&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQ1QJ6BAhtEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Olive+oil"
+    },
+    {
+      "block_position": 1,
+      "query": "Olive on pizza",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Olive+on+pizza&sa=X&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQ1QJ6BAhpEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Olive+on+pizza"
+    },
+    {
+      "block_position": 1,
+      "query": "Olive clothing",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Olive+clothing&sa=X&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQ1QJ6BAhqEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Olive+clothing"
+    },
+    {
+      "block_position": 1,
+      "query": "Black Olive",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Black+Olive&sa=X&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQ1QJ6BAhsEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Black+Olive"
+    },
+    {
+      "block_position": 1,
+      "query": "Olive Tree restaurant",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Olive+Tree+restaurant&sa=X&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQ1QJ6BAhwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Olive+Tree+restaurant"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Age",
+        "subtitle": "How Old Are Olives",
+        "title": "History of Olives - What Am I Even Eating?! - Jerry James Stone",
+        "link": "https://jerryjamesstone.com/how-to/history-of-olives-what-am-i-even-eating/#:~:text=Fossils%20from%20wild%20olive%20trees,years%20ago%2C%20around%20the%20Mediterranean.",
+        "displayed_link": "https://jerryjamesstone.com \u203a how-to \u203a history-of-olives-...",
+        "date": "Nov 26, 2023",
+        "snippet": "Fossils from wild olive trees have been found around Italy and the Mediterranean, dating back over 20 million years. And around 100,000 years ago, olives were being used by humans in Africa, along the Atlantic coast of Morocco. But we really started cultivating them some 7,000 years ago, around the Mediterranean.",
+        "snippet_highlighted_words": [
+          "over 20 million years"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/7860f29f93cfd5327242d0487bce590dadb31f34bdf8ea37c291f725b641ff7b1c099e5ed6c7c200.png",
+        "source": "jerryjamesstone.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=how+old+are+olives&sa=X&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQrooIegQIZRAF",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+old+are+olives"
+      },
+      {
+        "text": "Taste",
+        "subtitle": "What Does Green Olive Taste Like",
+        "thumbnail": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/7860f29f93cfd5327242d0487bce590df6a8d67e9e0f817fde5c937e1b569570560e2d492aa2efd1.png",
+        "web_links": [
+          {
+            "title": "What do green olives taste like compared to a black olive?",
+            "snippet": "Green olives are a bit brighter, and more acidic. They frequently come stuff with everything from garlic to jalapenos....",
+            "link": "https://www.quora.com/What-do-green-olives-taste-like-compared-to-a-black-olive",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjhBLSxOfTG4qOsAwZ2koyDC80pKrF6fU5mpDWGc1ECTxdUbR4HgzeR3R-",
+            "source": "Quora",
+            "source_thumbnail": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/7860f29f93cfd5327242d0487bce590df6a8d67e9e0f817f69f4be4e2585845dc9f9fb1a57b255bd475b87814e44ee8ca8166954ef2362ac.png"
+          },
+          {
+            "title": "What does a fresh olive taste like? : r/AskRedditFood",
+            "snippet": "You can get a sense of the flavor that's under the unbearable bitterness by sipping a tiny bit of flavorful extra...",
+            "link": "https://www.reddit.com/r/AskRedditFood/comments/1chal93/what_does_a_fresh_olive_taste_like/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoYttclI-Jm26YKtE1Qs7zpm2R5rvIc8-IPV0QVWmBnmOJwfBqXrL25xBVAuQ",
+            "source": "Reddit",
+            "source_thumbnail": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/7860f29f93cfd5327242d0487bce590df6a8d67e9e0f817f69f4be4e2585845d282773516819b58ba62df0bdde233aaf7f70c275ae5ff006.png"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=what+does+green+olive+taste+like&sa=X&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQrooIegQIZRAK",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+does+green+olive+taste+like"
+      },
+      {
+        "text": "Food type",
+        "subtitle": "What Type Of Food Is An Olive?",
+        "title": "Olives 101: Nutrition Facts and Health Benefits - Healthline",
+        "link": "https://www.healthline.com/nutrition/foods/olives#:~:text=Olives%20are%20small%20fruits%20that,E%20and%20other%20powerful%20antioxidants.",
+        "displayed_link": "https://www.healthline.com \u203a nutrition \u203a foods \u203a olives",
+        "snippet": "Olives are small fruits that grow on olive trees (Olea europaea). They belong to a group of fruit called drupes, or stone fruits, and are related to mangoes, cherries, peaches, almonds, and pistachios. Olives are very high in vitamin E and other powerful antioxidants.",
+        "snippet_highlighted_words": [
+          "small fruits that grow on olive trees"
+        ],
+        "answer": "fruits",
+        "favicon": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/7860f29f93cfd5327242d0487bce590dcc42cc6a04182ab23e7ec47f39ffa79b5f666f7d7b91523f.png",
+        "source": "healthline.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaYpdsvI0bj_WntT-8PT2Feyo7P1SPgBgmA3yBKM7SN6o&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=what+type+of+food+is+an+olive&sa=X&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQrooIegQIZRAS",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+type+of+food+is+an+olive"
+      },
+      {
+        "text": "Bible",
+        "subtitle": "Olives In The Bible",
+        "title": "Biblical Mystery of the Olive Tree - Olyvenbosch",
+        "link": "https://olyvenbosch.co.za/biblical-mystery-of-the-olive-tree/#:~:text=It%20is%20first%20mentioned%20in,as%20a%20desire%20for%20peace.",
+        "displayed_link": "https://olyvenbosch.co.za \u203a biblical-mystery-of-the-olive...",
+        "date": "Dec 10, 2018",
+        "snippet": "It is first mentioned in Scripture when the dove returned to Noah's ark carrying an olive branch in its beak (Gen. 8:11). Since that time, the olive branch has been a symbol of \u201cpeace\u201d to the world, and we often hear the expression, \u201cextending an olive branch\u201d to another person as a desire for peace.",
+        "snippet_highlighted_words": [
+          "It is first mentioned in Scripture when the dove returned to Noah's ark carrying an olive branch in its beak (Gen.",
+          "8:11)"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/7860f29f93cfd5327242d0487bce590d52eef698c48d32743c225b28e4ae55e5bcb8ba31f135519c.png",
+        "source": "olyvenbosch.co.za",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=olives+in+the+bible&sa=X&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQrooIegQIZRAX",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=olives+in+the+bible"
+      },
+      {
+        "text": "Planting",
+        "subtitle": "How To Plant Olive",
+        "title": "How to Grow Olive Trees | BBC Gardeners World Magazine",
+        "link": "https://www.gardenersworld.com/how-to/grow-plants/how-to-grow-olives/#:~:text=When%20planting%2C%20use%20a%20slightly,to%20protect%20it%20from%20frost.",
+        "displayed_link": "https://www.gardenersworld.com \u203a how-to \u203a grow-plants",
+        "date": "Mar 6, 2024",
+        "snippet": "When planting, use a slightly larger pot than the one your olive tree came in, and ideally plant in spring so it has the whole season to settle in before winter. You may need to move your potted olive tree to a sheltered spot for winter, or use horticultural fleece to wrap around the canopy to protect it from frost.",
+        "snippet_highlighted_words": [
+          "use a slightly larger pot than the one your olive tree came in, and ideally plant in spring so it has the whole season to settle in before winter"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/7860f29f93cfd5327242d0487bce590d63af9ca87bc08b7c27fd4ae5a7a14e89de07b803d9c7a89c.png",
+        "source": "gardenersworld.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT20DJZlkJbq71tcfhls0kq3uToW-qGaFfbUvnNxlQEgHA&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=how+to+plant+olive&sa=X&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQrooIegQIZRAg",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+to+plant+olive"
+      },
+      {
+        "text": "Growth rate",
+        "subtitle": "Growth Rate Of Olive",
+        "title": "How Tall Does an Olive Tree Grow? - Yarden",
+        "link": "https://www.yarden.com/blog/how-tall-does-an-olive-tree-grow/#:~:text=If%20you've%20been%20thinking,to%20four%20inches%20each%20year.",
+        "displayed_link": "https://www.yarden.com \u203a blog \u203a how-tall-does-an-olive...",
+        "date": "Jun 21, 2021",
+        "snippet": "If you've been thinking you'd like to buy olive trees to plant in your yard (or maybe even to grow in a container), you may be wondering how fast olive trees grow. The fact is, olive trees take a while to reach their full maturity, and only grow two to four inches each year.",
+        "snippet_highlighted_words": [
+          "two to four inches each year"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/7860f29f93cfd5327242d0487bce590d7af156cf555c09ba75bada6fa9edb6ff4f79814b5773cc60.png",
+        "source": "yarden.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=growth+rate+of+olive&sa=X&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQrooIegQIZRAl",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=growth+rate+of+olive"
+      },
+      {
+        "text": "Care",
+        "subtitle": "Olive Tree Care",
+        "title": "How to grow Olives | RHS Fruits",
+        "link": "https://www.rhs.org.uk/fruit/olives/grow-your-own#:~:text=Plant%20Care,-Planting&text=During%20the%20growing%20season%20keep,dead%2C%20diseased%20or%20dying%20branches.",
+        "displayed_link": "https://www.rhs.org.uk \u203a fruit \u203a olives \u203a grow-your-own",
+        "snippet": "Plant Care During the growing season keep the compost moist and feed with a balanced liquid fertiliser every month to ensure it produces a good crop of fruit. Prune olives in early spring to keep an attractive shape and to remove any dead, diseased or dying branches.",
+        "snippet_highlighted_words": [
+          "keep the compost moist and feed with a balanced liquid fertiliser every month"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/7860f29f93cfd5327242d0487bce590df4148a53c2963ac9e6160b866ef2f88a8d784adeec166f0b.png",
+        "source": "rhs.org.uk",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=olive+tree+care&sa=X&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQrooIegQIZRAq",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=olive+tree+care"
+      },
+      {
+        "text": "Grow",
+        "subtitle": "Grow Black Olives",
+        "title": "Olive Tree Planting Guide | How to Grow Olives - Perfect Plants",
+        "link": "https://myperfectplants.com/blogs/grow-guides/olive-our-knowledge-olive-tree-planting-guide#:~:text=How%20to%20Grow%20Olives%20Outdoors,and%20it%20must%20drain%20easily.",
+        "displayed_link": "https://myperfectplants.com \u203a blogs \u203a grow-guides \u203a oliv...",
+        "date": "Oct 9, 2021",
+        "snippet": "How to Grow Olives Outdoors. For olive tree care outdoors, plant your olive tree where it will get a minimum of 6-8 hours of sun per day, and preferably full sun all day with plenty of light. Choose a site with very well drained soil; olive trees don't tolerate heavy, clayey soils and it must drain easily.",
+        "snippet_highlighted_words": [
+          "plant your olive tree where it will get a minimum of 6-8 hours of sun per day, and preferably full sun all day with plenty of light"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2b1fb6e4dbfd74aedcf5/images/7860f29f93cfd5327242d0487bce590d1afc550f7fa200d41f001574fadf7e87a3a43dadd0a31d86.png",
+        "source": "myperfectplants.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=grow+black+olives&sa=X&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQrooIegQIZRAv",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=grow+black+olives"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=olive&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=HysKZ7LqGI3Dp84Pp8WAsA0&start=10&sa=N&sstk=AagrsuhRUIH9dFeNcuPHjBgEOyT_bDzn21Qc2ubviLr7m8DvMn5lSv20HBudF8PfZOwA-2SmIzmCTOkj5dIQeRMmzbgIXa63GzG9_Q&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQ8NMDegQIAxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=olive&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=HysKZ7LqGI3Dp84Pp8WAsA0&start=10&sa=N&sstk=AagrsuhRUIH9dFeNcuPHjBgEOyT_bDzn21Qc2ubviLr7m8DvMn5lSv20HBudF8PfZOwA-2SmIzmCTOkj5dIQeRMmzbgIXa63GzG9_Q&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQ8tMDegQIAxAE",
+      "3": "https://www.google.com/search?q=olive&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=HysKZ7LqGI3Dp84Pp8WAsA0&start=20&sa=N&sstk=AagrsuhRUIH9dFeNcuPHjBgEOyT_bDzn21Qc2ubviLr7m8DvMn5lSv20HBudF8PfZOwA-2SmIzmCTOkj5dIQeRMmzbgIXa63GzG9_Q&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQ8tMDegQIAxAG",
+      "4": "https://www.google.com/search?q=olive&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=HysKZ7LqGI3Dp84Pp8WAsA0&start=30&sa=N&sstk=AagrsuhRUIH9dFeNcuPHjBgEOyT_bDzn21Qc2ubviLr7m8DvMn5lSv20HBudF8PfZOwA-2SmIzmCTOkj5dIQeRMmzbgIXa63GzG9_Q&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQ8tMDegQIAxAI",
+      "5": "https://www.google.com/search?q=olive&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=HysKZ7LqGI3Dp84Pp8WAsA0&start=40&sa=N&sstk=AagrsuhRUIH9dFeNcuPHjBgEOyT_bDzn21Qc2ubviLr7m8DvMn5lSv20HBudF8PfZOwA-2SmIzmCTOkj5dIQeRMmzbgIXa63GzG9_Q&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQ8tMDegQIAxAK",
+      "6": "https://www.google.com/search?q=olive&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=HysKZ7LqGI3Dp84Pp8WAsA0&start=50&sa=N&sstk=AagrsuhRUIH9dFeNcuPHjBgEOyT_bDzn21Qc2ubviLr7m8DvMn5lSv20HBudF8PfZOwA-2SmIzmCTOkj5dIQeRMmzbgIXa63GzG9_Q&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQ8tMDegQIAxAM",
+      "7": "https://www.google.com/search?q=olive&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=HysKZ7LqGI3Dp84Pp8WAsA0&start=60&sa=N&sstk=AagrsuhRUIH9dFeNcuPHjBgEOyT_bDzn21Qc2ubviLr7m8DvMn5lSv20HBudF8PfZOwA-2SmIzmCTOkj5dIQeRMmzbgIXa63GzG9_Q&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQ8tMDegQIAxAO",
+      "8": "https://www.google.com/search?q=olive&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=HysKZ7LqGI3Dp84Pp8WAsA0&start=70&sa=N&sstk=AagrsuhRUIH9dFeNcuPHjBgEOyT_bDzn21Qc2ubviLr7m8DvMn5lSv20HBudF8PfZOwA-2SmIzmCTOkj5dIQeRMmzbgIXa63GzG9_Q&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQ8tMDegQIAxAQ",
+      "9": "https://www.google.com/search?q=olive&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=HysKZ7LqGI3Dp84Pp8WAsA0&start=80&sa=N&sstk=AagrsuhRUIH9dFeNcuPHjBgEOyT_bDzn21Qc2ubviLr7m8DvMn5lSv20HBudF8PfZOwA-2SmIzmCTOkj5dIQeRMmzbgIXa63GzG9_Q&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQ8tMDegQIAxAS",
+      "10": "https://www.google.com/search?q=olive&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=HysKZ7LqGI3Dp84Pp8WAsA0&start=90&sa=N&sstk=AagrsuhRUIH9dFeNcuPHjBgEOyT_bDzn21Qc2ubviLr7m8DvMn5lSv20HBudF8PfZOwA-2SmIzmCTOkj5dIQeRMmzbgIXa63GzG9_Q&ved=2ahUKEwjy9f_DroiJAxWN4ckDHaciANYQ8tMDegQIAxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=olive&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=olive&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=olive&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=olive&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=olive&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=olive&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=olive&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=olive&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=olive&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=olive&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=olive&start=90"
+    }
+  }
+}

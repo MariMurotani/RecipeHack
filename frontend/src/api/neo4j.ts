@@ -150,12 +150,13 @@ export const extractLocalCoefficient = async (entries: Entry[]): Promise<Coeffic
   // 検索クエリ
   const f_graph_query = `
   MATCH (e1:Entry)-[r:RELATED_TO]-(e2:Entry)
-  WHERE e1.id IN $entryIds
+  WHERE e1.id IN [${entry_ids}] AND e2.id IN [${entry_ids}]
   RETURN e1, r, e2
   `;
 
   try {
-    const result = await session.run(f_graph_query, { entryIds: entry_ids });
+    console.log(f_graph_query);
+    const result = await session.run(f_graph_query);
 
     // クエリ結果を処理
     const result_entries = result.records.map((record) => {

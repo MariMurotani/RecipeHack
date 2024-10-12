@@ -4,6 +4,7 @@ export const ColorMap: { [key: string]: string } = {
   'leaf': '#388E3C',       // 濃い緑
   'leafy': '#388E3C',       // 濃い緑
   'melon': '#66BB6A',      // メロンのような明るい緑
+  'fresh': '#66BB6A',      // メロンのような明るい緑
   'herb': '#81C784',       // ハーブの柔らかい緑
   'peppermint': '#4CAF50', // ペパーミントの緑
   'mint': '#4CAF50',       // ミントの緑
@@ -13,6 +14,9 @@ export const ColorMap: { [key: string]: string } = {
   'cumin': '#4CAF50',      // クミンの緑
   'herbal': '#4CAF50',     // ハーバルの緑
   'new mown hay': '#66BB6A', // 刈ったばかりの干し草の緑
+  'jasmine': '#66BB6A', // 刈ったばかりの干し草の緑
+  'grass': '#66BB6A', // 刈ったばかりの干し草の緑
+  'jasmin': '#66BB6A', // 刈ったばかりの干し草の緑
   'caraway': '#388E3C',    // キャラウェイの緑
   'celery': '#4CAF50',     // セロリの緑
   'cabbage': '#4CAF50',    // キャベツの緑
@@ -42,6 +46,9 @@ export const ColorMap: { [key: string]: string } = {
   'wood': '#8D6E63',       // 木の茶色
   'nuts': '#795548',       // ナッツの茶色
   'nutty': '#795548',      // ナッツの茶色
+  'roasted nut': '#795548',      // ナッツの茶色
+  'roasted nuts': '#795548',      // ナッツの茶色
+  'hazelnut': '#795548',      // ナッツの茶色
   'woody': '#6D4C41',      // ウッディな濃い茶色
   'caramel': '#A1887F',    // カラメルの茶色
   'balsam': '#8E6B55',     // バルサム系の茶色
@@ -49,6 +56,7 @@ export const ColorMap: { [key: string]: string } = {
   'chocolate': '#5D4037',  // チョコレートの濃い茶色
   'almond': '#D2B48C',     // アーモンドの茶色
   'whiskey': '#A0522D',    // ウイスキーの茶色
+  'roast beef': '#A0522D',    // ウイスキーの茶色
   'cocoa': '#795548',      // ココアの茶色
   'oily': '#6D4C41',       // 油っぽい茶色
   'cinnamon': '#D2691E',   // シナモンのオレンジっぽい茶色
@@ -72,6 +80,7 @@ export const ColorMap: { [key: string]: string } = {
   'floral': '#FF4081',     // フローラルなピンク
   'flower': '#F50057',     // 花の濃いピンク
   'berry': '#E91E63',      // ベリーの赤
+  'logenberry': '#E91E63',      // ベリーの赤
   'apricot': '#FF8A65',    // アプリコットの赤
   'meaty': '#C62828',      // 肉の赤
   'wine_like': '#B71C1C',  // ワインの赤

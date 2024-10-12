@@ -20,7 +20,7 @@ interface NetworkGraphProps {
 
 const NetworkGraph: React.FC<NetworkGraphProps> = ({ data }) => {
   const svgRef = useRef<SVGSVGElement | null>(null);
-  const margin = { top: 100, right: 0, bottom: 0, left: 0 };
+  const margin = { top: 20, right: 0, bottom: 0, left: 0 };
   const width = 460 - margin.left - margin.right;
   const height = 460 - margin.top - margin.bottom;
   const innerRadius = 90;
@@ -45,10 +45,9 @@ const NetworkGraph: React.FC<NetworkGraphProps> = ({ data }) => {
 
     // d3.lineRadial() を使用する
     var line = d3.lineRadial()
-      .curve(d3.curveBundle.beta(0.85))
+      .curve(d3.curveBundle.beta(0.6))
       .radius(function (d: any) { return d.y; })
       .angle(function (d: any) { return d.x / 180 * Math.PI; });
-
 
     const bubbleSizeScale = d3.scaleLinear()
       .domain([0, 100])
@@ -68,7 +67,9 @@ const NetworkGraph: React.FC<NetworkGraphProps> = ({ data }) => {
       .attr('class', 'link')
       .attr('d', line as any)
       .attr('fill', 'none')
-      .attr('stroke', 'black');
+      .attr('stroke', 'lightblue')
+      .attr('stroke-width', 1) 
+      .attr('stroke-opacity', 0.2);
 
     svg.append('g')
       .selectAll('.label')

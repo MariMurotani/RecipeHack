@@ -25,33 +25,44 @@ const Constitution: React.FC = () => {
   // 食材ペアの分析
   const processCoefficients = async () => {
     try {
-      // 選択された特定要素のMoleculeでエッジを作成する
-      await createSharedFlavorEdges([...selectedMainItems, ...selectedAdditionalEntries])
-      const graphCoefResult:Coefficient[] = await extractLocalCoefficient([...selectedMainItems, ...selectedAdditionalEntries]);
-    
-      let graphNetData:DataNode[] = [];
+      await createSharedFlavorEdges([...selectedMainItems, ...selectedAdditionalEntries]);
+      const graphCoefResult: Coefficient[] = await extractLocalCoefficient([...selectedMainItems, ...selectedAdditionalEntries]);
+  
+      let graphNetData: DataNode[] = [];
+  
       graphCoefResult.forEach(({ e1, e2, count }) => {
-        const existingEntry = graphNetData.find(item => item.name === e1.name);
+        let existingEntry = graphNetData.find(item => item.name === e1.name);
         if (existingEntry) {
-          // 存在する場合、e2.nameをimportsに追加
           existingEntry.size += Number(count);
           existingEntry.imports.push(e2.name);
         } else {
-          // 存在しない場合、新たにエントリを作成
           graphNetData.push({
             name: e1.name,
             size: Number(count),
-            imports: [e2.name]
+            imports: [e2.name],
+          });
+        }
+  
+        let existingEntry2 = graphNetData.find(item => item.name === e2.name);
+        if (existingEntry2) {
+          existingEntry2.size += Number(count);
+          existingEntry2.imports.push(e1.name);
+        } else {
+          graphNetData.push({
+            name: e2.name,
+            size: Number(count),
+            imports: [e1.name],
           });
         }
       });
-    
+  
       console.log([...graphNetData]);
-      setCoefficientData([...graphNetData]);    
+      setCoefficientData([...graphNetData]);
     } catch (error) {
       console.error("Error processing coefficients:", error);
     }
   };
+  
 
   // 香りのペアの分析
   const processFlavorParing = async () => {
@@ -77,51 +88,6 @@ const Constitution: React.FC = () => {
     console.log(coefficientData);
     processFlavorParing();
   }, [selectedMainItems, selectedAdditionalEntries]); 
-
-  // ダミーデータ
-  const dummy_data = [
-      {
-          "name": "company.salesManager.salesPersonA",
-          "size": 12,
-          "imports": [
-              "company.salesManager.salesPersonB",
-              "company.HRManager.recruiterB",
-              "company.engineerManager.engineerB"
-          ]
-      },
-      {
-          "name": "company.salesManager.salesPersonB",
-          "size": 2,
-          "imports": []
-      },
-      {
-          "name": "company.HRManager.recruiterA",
-          "size": 120,
-          "imports": [
-              "company.HRManager.recruiterB",
-              "company.salesManager.salesPersonA"
-          ]
-      },
-      {
-          "name": "company.HRManager.recruiterB",
-          "size": 19,
-          "imports": []
-      },
-      {
-          "name": "company.engineerManager.engineerA",
-          "size": 121,
-          "imports": []
-      },
-      {
-          "name": "company.engineerManager.engineerB",
-          "size": 127,
-          "imports": [
-              "company.engineerManager.engineerA"
-          ]
-      }
-    ];
-    console.log(dummy_data);
-
 
     const neo_dummy_data = [
       {
@@ -172,7 +138,7 @@ const Constitution: React.FC = () => {
         </Box>
         {/* TabPanelの横幅を100%、コンテンツをセンタリング */}
         <TabPanel value="1" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-          <NetworkGraph data={neo_dummy_data} ></NetworkGraph>
+          {coefficientData.length > 0 && (<NetworkGraph data={coefficientData} />)}
         </TabPanel>
         <TabPanel value="2" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
           <DoubleCircularBarPlot data={doubleBarData} />

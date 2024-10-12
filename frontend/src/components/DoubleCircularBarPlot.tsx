@@ -15,7 +15,7 @@ export interface DoubleCircularBarPlotProps {
 const DoubleCircularBarPlot: React.FC<DoubleCircularBarPlotProps> = ({ data }) => {
   const svgRef = useRef<SVGSVGElement | null>(null);
 
-  const margin = { top: 100, right: 0, bottom: 0, left: 0 };
+  const margin = { top: 20, right: 0, bottom: 0, left: 0 };
   const width = 460 - margin.left - margin.right;
   const height = 460 - margin.top - margin.bottom;
   const innerRadius = 90;

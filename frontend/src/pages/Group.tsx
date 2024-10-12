@@ -31,7 +31,6 @@ const Group: React.FC = () => {
 
   // リストが選択されたとき
   const handleItemClick = (key: string, event: React.MouseEvent<HTMLAnchorElement, MouseEvent>) => {
-    console.log(`handle button clicked: ${key}`);
     // 選択されたボタンのキーを状態に追加
     setSelectedGroups([...selectedGroups, key]);
   };

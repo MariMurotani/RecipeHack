@@ -21,7 +21,7 @@ const DoubleCircularBarPlot: React.FC<DoubleCircularBarPlotProps> = ({ data }) =
   const innerRadius = 90;
   const outerRadius = Math.min(width, height) / 2;
 
-  useEffect(() => {
+  const drawChart = () => {
     // SVGを初期化
     const svg = d3
       .select(svgRef.current)
@@ -119,6 +119,11 @@ const DoubleCircularBarPlot: React.FC<DoubleCircularBarPlotProps> = ({ data }) =
           .padAngle(0.01)
           .padRadius(innerRadius)
       );
+  };
+
+  // drawChart を呼び出す
+  useEffect(() => {
+    drawChart();
   }, [data]); // data の変更を監視
 
   return <svg ref={svgRef}></svg>;

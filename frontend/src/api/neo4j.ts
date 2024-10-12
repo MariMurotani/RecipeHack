@@ -1,5 +1,5 @@
 import neo4j, { QueryResult, RecordShape } from 'neo4j-driver';
-import { Category, Entry } from './types';
+import { Category, Entry, Coefficient } from './types';
 
 // Neo4j に接続するためのドライバを作成
 // 接続情報を確認
@@ -91,7 +91,7 @@ const getCategories = (category: string): string => {
 }
 
 // グループからカテゴリを検索する
-const getCategoriesFromGroup =  async (groups: string[]): Promise<Category[]> => {
+const getCategoriesFromGroup = async (groups: string[]): Promise<Category[]> => {
   const session = driver.session();
   const group_ids = groups.map((group) => `'${group}'`).join(', ');
   const query = `
@@ -112,7 +112,7 @@ const getCategoriesFromGroup =  async (groups: string[]): Promise<Category[]> =>
 }
 
 // Coefficient 分析用のエッジを指定された要素で作成する
-export async function createSharedFlavorEdges(entries: Entry[]) {
+export const createSharedFlavorEdges = async (entries: Entry[]) => {
   const session = driver.session();
   const entry_ids = entries.map((entry) => entry.id);
 
@@ -143,60 +143,37 @@ export async function createSharedFlavorEdges(entries: Entry[]) {
 }
 
 // Coefficient 分析用のエッジを指定された要素で作成する
-export async function extractLocalCoefficient(entries: Entry[]) {
-    const vgraph_name = '${generateRandomString(5)}Graph';
-    const entry_ids = entries.map((entry) => entry.id);
-    
-    // VirtualNodeの作成
-    const v_graph_query = `
-      CALL gds.graph.project(
-        '${vgraph_name}',  // グラフ名
-        {
-          Entry: {
-            label: 'Entry',
-            properties: ['id']  // Entryのidプロパティを含める
-          }
-        },
-        {
-          RELATED_TO: {
-            type: 'RELATED_TO',
-            orientation: 'UNDIRECTED',
-            properties: 'count'
-          }
-        }
-      )`;
+export const extractLocalCoefficient = async (entries: Entry[]): Promise<Coefficient[]> => {
+  const session = driver.session();
+  const entry_ids = entries.map((entry) => entry.id);
 
-    // 検索
-    const f_graph_query = `
-      CALL gds.localClusteringCoefficient.stream(${vgraph_name}) 
-      YIELD nodeId, localClusteringCoefficient 
-      WHERE localClusteringCoefficient > 0.0
-      AND gds.util.asNode(nodeId).id in [${entry_ids.join(', ')}]
-      RETURN gds.util.asNode(nodeId).name AS entryName, localClusteringCoefficient ORDER BY localClusteringCoefficient DESC;
-    `
-    // 仮想グラフ削除
-    const d_graph_query = `
-      CALL gds.graph.drop(${vgraph_name}) YIELD graphName RETURN graphName;
-     `
-    const session = driver.session();
+  // 検索クエリ
+  const f_graph_query = `
+  MATCH (e1:Entry)-[r:RELATED_TO]-(e2:Entry)
+  WHERE e1.id IN $entryIds
+  RETURN e1, r, e2
+  `;
 
-    try {
-      await session.run(d_graph_query);
-      await session.run(v_graph_query);
-      const result = await session.run(f_graph_query);
-      return result.records.map((record) => {
-        const properties = record.get('e').properties;
-        return {
-          name: properties.name,
-          coefficient: record.get('localClusteringCoefficient'),
-          count: properties.count
-        }
-      });
-    } catch (error) {
-      console.error('Error executing query:', error);
-    } finally {
-      await session.close();
-    }
+  try {
+    const result = await session.run(f_graph_query, { entryIds: entry_ids });
+
+    // クエリ結果を処理
+    const result_entries = result.records.map((record) => {
+      return {
+        e1: record.get('e1').properties,
+        e2: record.get('e2').properties,
+        count: record.get('r').properties.count
+      };
+    });
+
+    console.log(result_entries);
+    return result_entries;
+  } catch (error) {
+    console.error('Error executing query:', error);
+    return [];
+  } finally {
+    await session.close();
+  }
 };
 
 

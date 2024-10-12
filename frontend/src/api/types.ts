@@ -16,3 +16,10 @@ export interface Category {
   id: string;
   name: string;
 }
+
+// 共起分析を受け取るための型
+export interface Coefficient {
+  e1: Entry;
+  e2: Entry;
+  count: number;
+}

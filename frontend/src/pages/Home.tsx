@@ -20,7 +20,6 @@ const Home: React.FC = () => {
 
   // ボタンがクリックされたときに呼ばれるハンドラ関数
   const handleButtonClick = (key: string) => {
-    console.log(`${key} button clicked`);
     // 選択されたボタンのキーを状態に追加
     setSelectedMainGroup(key);
     navigate('/main-group'); 

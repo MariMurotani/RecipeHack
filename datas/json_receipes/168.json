@@ -1,0 +1,292 @@
+{
+  "search_metadata": {
+    "id": "670a178e8b84c4e3c9381056",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/acbd6fd90e216d1b/670a178e8b84c4e3c9381056.json",
+    "created_at": "2024-10-12 06:30:38 UTC",
+    "processed_at": "2024-10-12 06:30:38 UTC",
+    "google_url": "https://www.google.com/search?q=beli&oq=beli&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/acbd6fd90e216d1b/670a178e8b84c4e3c9381056.html",
+    "total_time_taken": 2.38
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "beli",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "beli",
+    "total_results": 628000000,
+    "time_taken_displayed": 0.3,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What is Beli?",
+      "snippet": "It's a restaurant rating service built around friend networks. Beli makes it easy to save notes about restaurants and share recommendations among your circle.",
+      "title": "Analytics and User-Reviews: Beli does it (almost) right - LinkedIn",
+      "date": "Jan 12, 2024",
+      "link": "https://www.linkedin.com/pulse/analytics-user-reviews-beli-does-almost-right-gary-angel-l2vvc#:~:text=It's%20a%20restaurant%20rating%20service,share%20recommendations%20among%20your%20circle.",
+      "displayed_link": "https://www.linkedin.com \u203a pulse \u203a analytics-user-review...",
+      "source_logo": "https://serpapi.com/searches/670a178e8b84c4e3c9381056/images/63681736e59d5307c5d2908b1a6090dafd947b319e462692aa3b65c776f8772a.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T05WRlVkRUptWDA5WlVFOUpWVk5VUVd0SldUVkNWRFU1VVUxbFVGaHJhWGhCZUdaUk5qRk9VbXRuTkRaelRHTXpaMUk0Y21WelUyNW1jVVkyVDFCeVJXbzNNR3RzRWhkclFtTkxXalp4Y2toSkxXbzFUbTlRYjJGdFRHOVJOQm9pUVVaWWNrVmpjUzFYVWpJM1JtOW5aSEpqVW1kcVREazVZVEI0TFc5dlpFaExVUSIsImZjdiI6IjMiLCJlaSI6ImtCY0taNnFySEktajVOb1BvYW1Mb1E0IiwicWMiOiJDZ1JpWld4cEVBQjk5Z0FmUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgQmVsaT8iLCJsayI6IkdneDNhR0YwSUdseklHSmxiR2siLCJicyI6ImMtTlM0dUlOejBnc1VjZ3NWbkJLemNtMGxfZ3FiTVFueFZNT0ZVc0NpbkhaY0VsNVFxUVZpa3N5YzNJVU12UEtNa3RTRmZMemNpcnRKVzc0RzBsTFNVTFZZaW9BNlliWlVKS1JxbENRbjVsWG9wQ2ZCbFp1TDdGZEE2UzdISmNDTG5zdUpXVGRybm5wT1puRkdRcmwtVVVwQ21uNVJWQkhmN0UxRXBNU0FUc2dNMDhoRlVtUkFDTUEiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T05WRlVkRUptWDA5WlVFOUpWVk5VUVd0SldUVkNWRFU1VVUxbFVGaHJhWGhCZUdaUk5qRk9VbXRuTkRaelRHTXpaMUk0Y21WelUyNW1jVVkyVDFCeVJXbzNNR3RzRWhkclFtTkxXalp4Y2toSkxXbzFUbTlRYjJGdFRHOVJOQm9pUVVaWWNrVmpjUzFYVWpJM1JtOW5aSEpqVW1kcVREazVZVEI0TFc5dlpFaExVUSIsImZjdiI6IjMiLCJlaSI6ImtCY0taNnFySEktajVOb1BvYW1Mb1E0IiwicWMiOiJDZ1JpWld4cEVBQjk5Z0FmUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgQmVsaT8iLCJsayI6IkdneDNhR0YwSUdseklHSmxiR2siLCJicyI6ImMtTlM0dUlOejBnc1VjZ3NWbkJLemNtMGxfZ3FiTVFueFZNT0ZVc0NpbkhaY0VsNVFxUVZpa3N5YzNJVU12UEtNa3RTRmZMemNpcnRKVzc0RzBsTFNVTFZZaW9BNlliWlVKS1JxbENRbjVsWG9wQ2ZCbFp1TDdGZEE2UzdISmNDTG5zdUpXVGRybm5wT1puRkdRcmwtVVVwQ21uNVJWQkhmN0UxRXBNU0FUc2dNMDhoRlVtUkFDTUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+    },
+    {
+      "question": "Is Beli still invite only?",
+      "snippet": "If a user and someone they follow both bookmark the same restaurant to try, the app will suggest they get together for a meal. While anyone can download the app, the experience is technically invite-only\u2014a decision intended to foster the social element of the app.",
+      "title": "Get restaurant recs from the people you trust most with Beli",
+      "date": "Jun 6, 2023",
+      "link": "https://lbpost.com/hi-lo/get-restaurant-recs-from-the-people-you-trust-most-with-beli/#:~:text=If%20a%20user%20and%20someone,social%20element%20of%20the%20app.",
+      "displayed_link": "https://lbpost.com \u203a hi-lo \u203a get-restaurant-recs-from-the-...",
+      "source_logo": "https://serpapi.com/searches/670a178e8b84c4e3c9381056/images/63681736e59d5307c5d2908b1a6090da0c41f4822a3181fe0e9362a34646cfd9.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T05WRlVkRUptWDA5WlVFOUpWVk5VUVd0SldUVkNWRFU1VVUxbFVGaHJhWGhCZUdaUk5qRk9VbXRuTkRaelRHTXpaMUk0Y21WelUyNW1jVVkyVDFCeVJXbzNNR3RzRWhkclFtTkxXalp4Y2toSkxXbzFUbTlRYjJGdFRHOVJOQm9pUVVaWWNrVmpjUzFYVWpJM1JtOW5aSEpqVW1kcVREazVZVEI0TFc5dlpFaExVUSIsImZjdiI6IjMiLCJlaSI6ImtCY0taNnFySEktajVOb1BvYW1Mb1E0IiwicWMiOiJDZ1JpWld4cEVBQjk5Z0FmUHciLCJxdWVzdGlvbiI6IklzIEJlbGkgc3RpbGwgaW52aXRlIG9ubHk/IiwibGsiOiJHaGxwY3lCaVpXeHBJSE4wYVd4c0lHbHVkbWwwWlNCdmJteDUiLCJicyI6ImMtTlM0dUlOejBnc1VjZ3NWbkJLemNtMGxfZ3FiTVFueFZNT0ZVc0NpbkhaY0VsNVFxUVZpa3N5YzNJVU12UEtNa3RTRmZMemNpcnRKVzc0RzBsTFNVTFZZaW9BNlliWlVKS1JxbENRbjVsWG9wQ2ZCbFp1TDdGZEE2UzdISmNDTG5zdUpXVGRybm5wT1puRkdRcmwtVVVwQ21uNVJWQkhmN0UxRXBNU0FUc2dNMDhoRlVtUkFDTUEiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T05WRlVkRUptWDA5WlVFOUpWVk5VUVd0SldUVkNWRFU1VVUxbFVGaHJhWGhCZUdaUk5qRk9VbXRuTkRaelRHTXpaMUk0Y21WelUyNW1jVVkyVDFCeVJXbzNNR3RzRWhkclFtTkxXalp4Y2toSkxXbzFUbTlRYjJGdFRHOVJOQm9pUVVaWWNrVmpjUzFYVWpJM1JtOW5aSEpqVW1kcVREazVZVEI0TFc5dlpFaExVUSIsImZjdiI6IjMiLCJlaSI6ImtCY0taNnFySEktajVOb1BvYW1Mb1E0IiwicWMiOiJDZ1JpWld4cEVBQjk5Z0FmUHciLCJxdWVzdGlvbiI6IklzIEJlbGkgc3RpbGwgaW52aXRlIG9ubHk%2FIiwibGsiOiJHaGxwY3lCaVpXeHBJSE4wYVd4c0lHbHVkbWwwWlNCdmJteDUiLCJicyI6ImMtTlM0dUlOejBnc1VjZ3NWbkJLemNtMGxfZ3FiTVFueFZNT0ZVc0NpbkhaY0VsNVFxUVZpa3N5YzNJVU12UEtNa3RTRmZMemNpcnRKVzc0RzBsTFNVTFZZaW9BNlliWlVKS1JxbENRbjVsWG9wQ2ZCbFp1TDdGZEE2UzdISmNDTG5zdUpXVGRybm5wT1puRkdRcmwtVVVwQ21uNVJWQkhmN0UxRXBNU0FUc2dNMDhoRlVtUkFDTUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+    },
+    {
+      "question": "What is the point of beli?",
+      "snippet": "Beli is a restaurant ranking and recommendation app for rating and discovering the best dining spots. Users can create a network of food critics by following their friends to see where they are eating. The app also allows users to create their own list of dining spots that they have already been to or want to try.",
+      "title": "Design Critique: Beli App - IXD@Pratt",
+      "date": "Sep 17, 2024",
+      "link": "https://ixd.prattsi.org/2024/09/design-critique-beli-app/#:~:text=Beli%20is%20a%20restaurant%20ranking,to%20or%20want%20to%20try.",
+      "displayed_link": "https://ixd.prattsi.org \u203a 2024/09 \u203a design-critique-beli-app",
+      "source_logo": "https://serpapi.com/searches/670a178e8b84c4e3c9381056/images/63681736e59d5307c5d2908b1a6090daaa444c72120c6afec30595e9490a5984.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T05WRlVkRUptWDA5WlVFOUpWVk5VUVd0SldUVkNWRFU1VVUxbFVGaHJhWGhCZUdaUk5qRk9VbXRuTkRaelRHTXpaMUk0Y21WelUyNW1jVVkyVDFCeVJXbzNNR3RzRWhkclFtTkxXalp4Y2toSkxXbzFUbTlRYjJGdFRHOVJOQm9pUVVaWWNrVmpjUzFYVWpJM1JtOW5aSEpqVW1kcVREazVZVEI0TFc5dlpFaExVUSIsImZjdiI6IjMiLCJlaSI6ImtCY0taNnFySEktajVOb1BvYW1Mb1E0IiwicWMiOiJDZ1JpWld4cEVBQjk5Z0FmUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHBvaW50IG9mIGJlbGk/IiwibGsiOiJHaGwzYUdGMElHbHpJSFJvWlNCd2IybHVkQ0J2WmlCaVpXeHAiLCJicyI6ImMtTlM0dUlOejBnc1VjZ3NWbkJLemNtMGxfZ3FiTVFueFZNT0ZVc0NpbkhaY0VsNVFxUVZpa3N5YzNJVU12UEtNa3RTRmZMemNpcnRKVzc0RzBsTFNVTFZZaW9BNlliWlVKS1JxbENRbjVsWG9wQ2ZCbFp1TDdGZEE2UzdISmNDTG5zdUpXVGRybm5wT1puRkdRcmwtVVVwQ21uNVJWQkhmN0UxRXBNU0FUc2dNMDhoRlVtUkFDTUEiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T05WRlVkRUptWDA5WlVFOUpWVk5VUVd0SldUVkNWRFU1VVUxbFVGaHJhWGhCZUdaUk5qRk9VbXRuTkRaelRHTXpaMUk0Y21WelUyNW1jVVkyVDFCeVJXbzNNR3RzRWhkclFtTkxXalp4Y2toSkxXbzFUbTlRYjJGdFRHOVJOQm9pUVVaWWNrVmpjUzFYVWpJM1JtOW5aSEpqVW1kcVREazVZVEI0TFc5dlpFaExVUSIsImZjdiI6IjMiLCJlaSI6ImtCY0taNnFySEktajVOb1BvYW1Mb1E0IiwicWMiOiJDZ1JpWld4cEVBQjk5Z0FmUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHBvaW50IG9mIGJlbGk%2FIiwibGsiOiJHaGwzYUdGMElHbHpJSFJvWlNCd2IybHVkQ0J2WmlCaVpXeHAiLCJicyI6ImMtTlM0dUlOejBnc1VjZ3NWbkJLemNtMGxfZ3FiTVFueFZNT0ZVc0NpbkhaY0VsNVFxUVZpa3N5YzNJVU12UEtNa3RTRmZMemNpcnRKVzc0RzBsTFNVTFZZaW9BNlliWlVKS1JxbENRbjVsWG9wQ2ZCbFp1TDdGZEE2UzdISmNDTG5zdUpXVGRybm5wT1puRkdRcmwtVVVwQ21uNVJWQkhmN0UxRXBNU0FUc2dNMDhoRlVtUkFDTUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+    },
+    {
+      "question": "What is the English word for Beli?",
+      "snippet": "beli (Jawi spelling \u0628\u0644\u064a) to buy (to obtain for money)",
+      "title": "beli - Wiktionary, the free dictionary",
+      "link": "https://en.wiktionary.org/wiki/beli#:~:text=beli%20(Jawi%20spelling%20%D8%A8%D9%84%D9%8A),buy%20(to%20obtain%20for%20money)",
+      "displayed_link": "https://en.wiktionary.org \u203a wiki \u203a beli",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T05WRlVkRUptWDA5WlVFOUpWVk5VUVd0SldUVkNWRFU1VVUxbFVGaHJhWGhCZUdaUk5qRk9VbXRuTkRaelRHTXpaMUk0Y21WelUyNW1jVVkyVDFCeVJXbzNNR3RzRWhkclFtTkxXalp4Y2toSkxXbzFUbTlRYjJGdFRHOVJOQm9pUVVaWWNrVmpjUzFYVWpJM1JtOW5aSEpqVW1kcVREazVZVEI0TFc5dlpFaExVUSIsImZjdiI6IjMiLCJlaSI6ImtCY0taNnFySEktajVOb1BvYW1Mb1E0IiwicWMiOiJDZ1JpWld4cEVBQjk5Z0FmUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIEVuZ2xpc2ggd29yZCBmb3IgQmVsaT8iLCJsayI6IkdoUmlaV3hwSUdsdUlHVnVaMnhwYzJnZ2QyOXlaQSIsImJzIjoiYy1OUzR1SU56MGdzVWNnc1ZuQkt6Y20wbF9ncWJNUW54Vk1PRlVzQ2luSFpjRWw1UXFRVmlrc3ljM0lVTXZQS01rdFNGZkx6Y2lydEpXNzRHMGxMU1VMVllpb0E2WWJaVUpLUnFsQ1FuNWxYb3BDZkJsWnVMN0ZkQTZTN0hKY0NMbnN1SldUZHJubnBPWm5GR1FybC1VVXBDbW41UlZCSGY3RTFFcE1TQVRzZ00wOGhGVW1SQUNNQSIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T05WRlVkRUptWDA5WlVFOUpWVk5VUVd0SldUVkNWRFU1VVUxbFVGaHJhWGhCZUdaUk5qRk9VbXRuTkRaelRHTXpaMUk0Y21WelUyNW1jVVkyVDFCeVJXbzNNR3RzRWhkclFtTkxXalp4Y2toSkxXbzFUbTlRYjJGdFRHOVJOQm9pUVVaWWNrVmpjUzFYVWpJM1JtOW5aSEpqVW1kcVREazVZVEI0TFc5dlpFaExVUSIsImZjdiI6IjMiLCJlaSI6ImtCY0taNnFySEktajVOb1BvYW1Mb1E0IiwicWMiOiJDZ1JpWld4cEVBQjk5Z0FmUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIEVuZ2xpc2ggd29yZCBmb3IgQmVsaT8iLCJsayI6IkdoUmlaV3hwSUdsdUlHVnVaMnhwYzJnZ2QyOXlaQSIsImJzIjoiYy1OUzR1SU56MGdzVWNnc1ZuQkt6Y20wbF9ncWJNUW54Vk1PRlVzQ2luSFpjRWw1UXFRVmlrc3ljM0lVTXZQS01rdFNGZkx6Y2lydEpXNzRHMGxMU1VMVllpb0E2WWJaVUpLUnFsQ1FuNWxYb3BDZkJsWnVMN0ZkQTZTN0hKY0NMbnN1SldUZHJubnBPWm5GR1FybC1VVXBDbW41UlZCSGY3RTFFcE1TQVRzZ00wOGhGVW1SQUNNQSIsImlkIjoiZmNfMSJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Beli App | Restaurant List Keeping",
+      "link": "https://beliapp.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://beliapp.com/&ved=2ahUKEwiqs8Dwm4iJAxWPEVkFHaHUIuQQFnoECB0QAQ",
+      "displayed_link": "https://beliapp.com",
+      "favicon": "https://serpapi.com/searches/670a178e8b84c4e3c9381056/images/2aa86226c143d115506028bf8bdae91007b1332248eb022015e4b22b36e56d3e.png",
+      "snippet": "Build organized restaurant lists and maps of everywhere you've been and want to try, see where your friends are eating, and receive personalized ...",
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "Jobs",
+            "link": "https://beliapp.com/jobs",
+            "snippet": "We're on a mission to change the way people explore restaurants ..."
+          },
+          {
+            "title": "Meet the Team",
+            "link": "https://beliapp.com/meet-the-team",
+            "snippet": "Build organized restaurant lists and maps of everywhere you've ..."
+          },
+          {
+            "title": "Our Story",
+            "link": "https://beliapp.com/ourstory",
+            "snippet": "WE ARE TWO INDIVIDUALS WHO LOVE FOOD! Eliot & I met in ..."
+          },
+          {
+            "title": "Merch",
+            "link": "https://beliapp.com/store",
+            "snippet": "Beli Merch: Beli signature cap with \u201cBeli\u201d on the front and \u201cFind ..."
+          },
+          {
+            "title": "Contact Us",
+            "link": "https://beliapp.com/contact",
+            "snippet": "Beli is the place for food lovers to find, track, and share their ..."
+          }
+        ]
+      },
+      "source": "Beli App"
+    },
+    {
+      "position": 2,
+      "title": "Beli - Restaurant Lists (@beli_eats)",
+      "link": "https://www.instagram.com/beli_eats/?hl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/beli_eats/%3Fhl%3Den&ved=2ahUKEwiqs8Dwm4iJAxWPEVkFHaHUIuQQFnoECBsQAQ",
+      "displayed_link": "552.9K+ followers",
+      "thumbnail": "https://serpapi.com/searches/670a178e8b84c4e3c9381056/images/2aa86226c143d115506028bf8bdae910a7f84670c75fafd221dfd4a2630e44c0.jpeg",
+      "favicon": "https://serpapi.com/searches/670a178e8b84c4e3c9381056/images/2aa86226c143d115506028bf8bdae910af9821c65dd478efb937e93632cd10b7.png",
+      "snippet": "Our number 5 restaurant of the year so far, after trying over 100 new restaurants in 2024. With a mix of hits from Casa Enrique and some incredible new Mexican ...",
+      "source": "Instagram \u00b7 beli_eats"
+    },
+    {
+      "position": 3,
+      "title": "Beli on the App Store",
+      "link": "https://apps.apple.com/us/app/beli/id1478375386",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/beli/id1478375386&ved=2ahUKEwiqs8Dwm4iJAxWPEVkFHaHUIuQQFnoECEIQAQ",
+      "displayed_link": "https://apps.apple.com \u203a app \u203a beli",
+      "thumbnail": "https://serpapi.com/searches/670a178e8b84c4e3c9381056/images/2aa86226c143d115506028bf8bdae910660c1f7ea068f93d1bf404641e0b5e3c.png",
+      "favicon": "https://serpapi.com/searches/670a178e8b84c4e3c9381056/images/2aa86226c143d115506028bf8bdae91097810275a0132daccb69e5f1f2b90b22.png",
+      "snippet": "Beli helps you track, share, and discover the world's best restaurants. Keep organized ranked lists and maps of everywhere you've been and want to try.",
+      "snippet_highlighted_words": [
+        "Beli"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 4.9
+          },
+          "extensions": [
+            "4.9(7,095)",
+            "Free",
+            "\u200eiOS"
+          ]
+        }
+      },
+      "source": "Apple"
+    },
+    {
+      "position": 4,
+      "title": "The Beli - The Original Beach Deli - Gulf Shores, AL",
+      "link": "https://thebeligs.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thebeligs.com/&ved=2ahUKEwiqs8Dwm4iJAxWPEVkFHaHUIuQQFnoECDwQAQ",
+      "displayed_link": "https://thebeligs.com",
+      "thumbnail": "https://serpapi.com/searches/670a178e8b84c4e3c9381056/images/2aa86226c143d115506028bf8bdae910cc5bf3a1aa2d96036b19e8baacd46387.jpeg",
+      "favicon": "https://serpapi.com/searches/670a178e8b84c4e3c9381056/images/2aa86226c143d115506028bf8bdae91003a9312f0a0a17c181c78db37302ca3d.png",
+      "snippet": "The Beli is a newly designed restaurant concept focused on providing fast and friendly service to the Gulf Shores area. Try our amazing sandwiches today!",
+      "snippet_highlighted_words": [
+        "Beli"
+      ],
+      "source": "The Beli - Gulf Shores"
+    },
+    {
+      "position": 5,
+      "title": "Beli - Apps on Google Play",
+      "link": "https://play.google.com/store/apps/details?id=com.beliapp.myapp&hl=en_US",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dcom.beliapp.myapp%26hl%3Den_US&ved=2ahUKEwiqs8Dwm4iJAxWPEVkFHaHUIuQQFnoECEAQAQ",
+      "displayed_link": "https://play.google.com \u203a store \u203a apps \u203a details \u203a id=com...",
+      "thumbnail": "https://serpapi.com/searches/670a178e8b84c4e3c9381056/images/2aa86226c143d115506028bf8bdae910b1e9ab9fa69983ed0613a816e3baf642.png",
+      "favicon": "https://serpapi.com/searches/670a178e8b84c4e3c9381056/images/2aa86226c143d115506028bf8bdae910941fffd813f95f641c5b94fc4c87d96d.png",
+      "snippet": "Beli helps you track, share, and discover the world's best restaurants \u2022 Keep organized ranked lists and maps of everywhere you've been and want to try",
+      "snippet_highlighted_words": [
+        "Beli"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 4.6
+          },
+          "extensions": [
+            "4.6(703)",
+            "Free",
+            "\u200eAndroid"
+          ]
+        }
+      },
+      "source": "Google Play"
+    },
+    {
+      "position": 6,
+      "title": "Why NYU students are obsessed with the Beli app",
+      "link": "https://nyunews.com/culture/dining/2023/10/16/beli-app/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nyunews.com/culture/dining/2023/10/16/beli-app/&ved=2ahUKEwiqs8Dwm4iJAxWPEVkFHaHUIuQQFnoECDgQAQ",
+      "displayed_link": "https://nyunews.com \u203a culture \u203a dining \u203a 2023/10/16",
+      "favicon": "https://serpapi.com/searches/670a178e8b84c4e3c9381056/images/2aa86226c143d115506028bf8bdae910e0b5f43810ccd83290bef817250a7bf0.png",
+      "date": "Oct 16, 2023",
+      "snippet": "The restaurant-ranking app invites its users to log and rate spots they've dined at, and generates recommendations based on individual users' ...",
+      "source": "Washington Square News"
+    },
+    {
+      "position": 7,
+      "title": "Beli app search feature : r/FoodNYC",
+      "link": "https://www.reddit.com/r/FoodNYC/comments/1fblo80/beli_app_search_feature/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/FoodNYC/comments/1fblo80/beli_app_search_feature/&ved=2ahUKEwiqs8Dwm4iJAxWPEVkFHaHUIuQQFnoECDsQAQ",
+      "displayed_link": "10+ comments \u00b7 1 month ago",
+      "favicon": "https://serpapi.com/searches/670a178e8b84c4e3c9381056/images/2aa86226c143d115506028bf8bdae910c58f4cbf5b85c1e5457f4e3c881c893f.png",
+      "snippet": "the app is a great way to keep track of those restaurants you see on titkok and say you wanna try but never get to. Plus it solves all those ...",
+      "source": "Reddit \u00b7 r/FoodNYC"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Beli app Reddit",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&q=Beli+app+Reddit&sa=X&ved=2ahUKEwiqs8Dwm4iJAxWPEVkFHaHUIuQQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Beli+app+Reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Beli food",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&q=Beli+food&sa=X&ved=2ahUKEwiqs8Dwm4iJAxWPEVkFHaHUIuQQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Beli+food"
+    },
+    {
+      "block_position": 1,
+      "query": "Beli restaurant",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&q=Beli+restaurant&sa=X&ved=2ahUKEwiqs8Dwm4iJAxWPEVkFHaHUIuQQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Beli+restaurant"
+    },
+    {
+      "block_position": 1,
+      "query": "Beli Reddit",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&q=Beli+Reddit&sa=X&ved=2ahUKEwiqs8Dwm4iJAxWPEVkFHaHUIuQQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Beli+Reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Beli app review",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&q=Beli+app+review&sa=X&ved=2ahUKEwiqs8Dwm4iJAxWPEVkFHaHUIuQQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Beli+app+review"
+    },
+    {
+      "block_position": 1,
+      "query": "Beli login",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&q=Beli+login&sa=X&ved=2ahUKEwiqs8Dwm4iJAxWPEVkFHaHUIuQQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Beli+login"
+    },
+    {
+      "block_position": 1,
+      "query": "Beli careers",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&q=Beli+careers&sa=X&ved=2ahUKEwiqs8Dwm4iJAxWPEVkFHaHUIuQQ1QJ6BAgwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Beli+careers"
+    },
+    {
+      "block_position": 1,
+      "query": "Beli food app",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&q=Beli+food+app&sa=X&ved=2ahUKEwiqs8Dwm4iJAxWPEVkFHaHUIuQQ1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Beli+food+app"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=beli&sca_esv=1dddcc5dd45c9b12&ei=kBcKZ6qrHI-j5NoPoamLoQ4&start=10&sa=N&sstk=AagrsugNeYxNVavcS9jAl4hs4RlkmRwMBXBGAGix8SUXwkpe6EcvpdlUxc75uZcwjh4bF1_5a7qvjjfclc2Fa_b1c3NcIb6t_TU0qQ&ved=2ahUKEwiqs8Dwm4iJAxWPEVkFHaHUIuQQ8NMDegQIBxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=beli&sca_esv=1dddcc5dd45c9b12&ei=kBcKZ6qrHI-j5NoPoamLoQ4&start=10&sa=N&sstk=AagrsugNeYxNVavcS9jAl4hs4RlkmRwMBXBGAGix8SUXwkpe6EcvpdlUxc75uZcwjh4bF1_5a7qvjjfclc2Fa_b1c3NcIb6t_TU0qQ&ved=2ahUKEwiqs8Dwm4iJAxWPEVkFHaHUIuQQ8tMDegQIBxAE",
+      "3": "https://www.google.com/search?q=beli&sca_esv=1dddcc5dd45c9b12&ei=kBcKZ6qrHI-j5NoPoamLoQ4&start=20&sa=N&sstk=AagrsugNeYxNVavcS9jAl4hs4RlkmRwMBXBGAGix8SUXwkpe6EcvpdlUxc75uZcwjh4bF1_5a7qvjjfclc2Fa_b1c3NcIb6t_TU0qQ&ved=2ahUKEwiqs8Dwm4iJAxWPEVkFHaHUIuQQ8tMDegQIBxAG",
+      "4": "https://www.google.com/search?q=beli&sca_esv=1dddcc5dd45c9b12&ei=kBcKZ6qrHI-j5NoPoamLoQ4&start=30&sa=N&sstk=AagrsugNeYxNVavcS9jAl4hs4RlkmRwMBXBGAGix8SUXwkpe6EcvpdlUxc75uZcwjh4bF1_5a7qvjjfclc2Fa_b1c3NcIb6t_TU0qQ&ved=2ahUKEwiqs8Dwm4iJAxWPEVkFHaHUIuQQ8tMDegQIBxAI",
+      "5": "https://www.google.com/search?q=beli&sca_esv=1dddcc5dd45c9b12&ei=kBcKZ6qrHI-j5NoPoamLoQ4&start=40&sa=N&sstk=AagrsugNeYxNVavcS9jAl4hs4RlkmRwMBXBGAGix8SUXwkpe6EcvpdlUxc75uZcwjh4bF1_5a7qvjjfclc2Fa_b1c3NcIb6t_TU0qQ&ved=2ahUKEwiqs8Dwm4iJAxWPEVkFHaHUIuQQ8tMDegQIBxAK",
+      "6": "https://www.google.com/search?q=beli&sca_esv=1dddcc5dd45c9b12&ei=kBcKZ6qrHI-j5NoPoamLoQ4&start=50&sa=N&sstk=AagrsugNeYxNVavcS9jAl4hs4RlkmRwMBXBGAGix8SUXwkpe6EcvpdlUxc75uZcwjh4bF1_5a7qvjjfclc2Fa_b1c3NcIb6t_TU0qQ&ved=2ahUKEwiqs8Dwm4iJAxWPEVkFHaHUIuQQ8tMDegQIBxAM",
+      "7": "https://www.google.com/search?q=beli&sca_esv=1dddcc5dd45c9b12&ei=kBcKZ6qrHI-j5NoPoamLoQ4&start=60&sa=N&sstk=AagrsugNeYxNVavcS9jAl4hs4RlkmRwMBXBGAGix8SUXwkpe6EcvpdlUxc75uZcwjh4bF1_5a7qvjjfclc2Fa_b1c3NcIb6t_TU0qQ&ved=2ahUKEwiqs8Dwm4iJAxWPEVkFHaHUIuQQ8tMDegQIBxAO",
+      "8": "https://www.google.com/search?q=beli&sca_esv=1dddcc5dd45c9b12&ei=kBcKZ6qrHI-j5NoPoamLoQ4&start=70&sa=N&sstk=AagrsugNeYxNVavcS9jAl4hs4RlkmRwMBXBGAGix8SUXwkpe6EcvpdlUxc75uZcwjh4bF1_5a7qvjjfclc2Fa_b1c3NcIb6t_TU0qQ&ved=2ahUKEwiqs8Dwm4iJAxWPEVkFHaHUIuQQ8tMDegQIBxAQ",
+      "9": "https://www.google.com/search?q=beli&sca_esv=1dddcc5dd45c9b12&ei=kBcKZ6qrHI-j5NoPoamLoQ4&start=80&sa=N&sstk=AagrsugNeYxNVavcS9jAl4hs4RlkmRwMBXBGAGix8SUXwkpe6EcvpdlUxc75uZcwjh4bF1_5a7qvjjfclc2Fa_b1c3NcIb6t_TU0qQ&ved=2ahUKEwiqs8Dwm4iJAxWPEVkFHaHUIuQQ8tMDegQIBxAS",
+      "10": "https://www.google.com/search?q=beli&sca_esv=1dddcc5dd45c9b12&ei=kBcKZ6qrHI-j5NoPoamLoQ4&start=90&sa=N&sstk=AagrsugNeYxNVavcS9jAl4hs4RlkmRwMBXBGAGix8SUXwkpe6EcvpdlUxc75uZcwjh4bF1_5a7qvjjfclc2Fa_b1c3NcIb6t_TU0qQ&ved=2ahUKEwiqs8Dwm4iJAxWPEVkFHaHUIuQQ8tMDegQIBxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beli&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beli&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beli&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beli&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beli&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beli&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beli&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beli&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beli&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beli&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beli&start=90"
+    }
+  }
+}

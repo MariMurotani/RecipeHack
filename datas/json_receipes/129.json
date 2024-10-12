@@ -1,0 +1,872 @@
+{
+  "search_metadata": {
+    "id": "670a172b15c7400ef828ae59",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/49dc5e921bcb0686/670a172b15c7400ef828ae59.json",
+    "created_at": "2024-10-12 06:28:59 UTC",
+    "processed_at": "2024-10-12 06:28:59 UTC",
+    "google_url": "https://www.google.com/search?q=sweet+grass&oq=sweet+grass&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/49dc5e921bcb0686/670a172b15c7400ef828ae59.html",
+    "total_time_taken": 2.34
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "sweet grass",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "sweet grass",
+    "total_results": 256000000,
+    "time_taken_displayed": 0.31,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=sweet+grass&npsic=0&rflfq=1&rldoc=1&rllag=30247004,-97867658,16010&tbm=lcl&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQtgN6BQiPARAC",
+    "image": "https://www.google.com/maps/vt/data=1umRBiBDq0duiOWIpt3hirmF2mpBwX60BAEoHGjmE9zKXNp6pTYyI_ij52xWQ6ePXDGRSe-qmAM9Zorl_ljWD8Qo3tUvcObR9OSVNumNe4NAWQ6uNuibFytbWW3SlhJQM8P8FyKpW9NHTyB--SNrY95YSQeIy4d4tNizhMwdV5WuOoT0WImIEoFa-xlxK3cYpIEJmy1bWJP-7wlrgId6YdfVUreJFNP_qDet1s7tpGywd3hIl9oJXNOEsq0uYC9JIAgZsdI5Qco9zoM2N1MTSkClQBRCpuRDm3OhXcbvSjNtKLHPtffxAW2cdKlOWL1w2uDMkaoEwhimBrhYkrEXwTPD0dG8wIlyDIgttHTfK6DnxMksZYsXCMjeEWo5Q_WSKkMK_LVKCWLKuZgoYUljBAChbYOWadiBUhLxMMNzqb1gmYDOV1_u4i5vLj2OO4ngv_zJtmAoHBXFvf5ptV7Zv7Tgn0KQL4tdrkDjF8gr8h23GBJep1f8B-vxmrBorxg",
+    "gps_coordinates": {
+      "latitude": 30.247004,
+      "longitude": -97.867658
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 5.0,
+        "reviews_original": "(14)",
+        "reviews": 14,
+        "description": "\"We got a lot of compliments from our neighbors about our front yard.\"",
+        "lsig": "AB86z5UhnGxcQnCz-fcYIN4GbPZu",
+        "thumbnail": "https://ssl.gstatic.com/local/servicebusiness/default_user.png",
+        "links": {
+          "website": "https://www.sweetgrass512.com/",
+          "directions": "https://www.google.com/maps/dir//Sweetgrass+512+Landscaping+%26+Tree+Services,+8501+Bluff+Springs+Rd,+Austin,+TX+78744/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8644b3614cd0c0df:0xd17382b6d15e61ac?sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQ48ADegQIcxAA&hl=en&gl=us"
+        },
+        "title": "Sweetgrass 512 Landscaping & Tree Services",
+        "type": "Tree service",
+        "phone": "(512) 214-0686",
+        "address": "8501 Bluff Springs Rd",
+        "hours": "Open 24 hours",
+        "place_id": "15092550497956946348",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=15092550497956946348&q=sweet+grass",
+        "gps_coordinates": {
+          "latitude": 30.166594,
+          "longitude": -97.768486
+        }
+      },
+      {
+        "position": 2,
+        "lsig": "AB86z5VMcfVA2dzz3L16xK_eVe6y",
+        "links": {
+          "directions": "https://www.google.com/maps/dir//Sweet+Grass+House-Centre+for+Neuro+Skills,+508+Sweet+Grass+Ln,+Lakeway,+TX+78738/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x865b39c95f41144d:0x26248d4bce28bbed?sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQ48ADegQIchAA&hl=en&gl=us"
+        },
+        "title": "Sweet Grass House-Centre for Neuro Skills",
+        "reviews_original": "No reviews",
+        "type": "Medical Center",
+        "address": "Lakeway, TX",
+        "place_id": "2748477029323684845",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=2748477029323684845&q=sweet+grass",
+        "gps_coordinates": {
+          "latitude": 30.327417,
+          "longitude": -98.00592
+        }
+      },
+      {
+        "position": 3,
+        "description": "Takeout",
+        "lsig": "AB86z5Xb46uGVjlPG8W2SvgRzxHV",
+        "service_options": {
+          "takeout": true
+        },
+        "links": {
+          "directions": "https://www.google.com/maps/dir//Sweet+Heat+Meat,+1308+E+4th+St,+Austin,+TX+78702/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8644b5b1b56388df:0x2f2f668a95c24de6?sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQ48ADegQIdBAA&hl=en&gl=us"
+        },
+        "title": "Sweet Heat Meat",
+        "reviews_original": "No reviews",
+        "type": "Takeout Restaurant",
+        "address": "1308 E 4th St",
+        "hours": "Closed \u22c5 Opens 11 AM",
+        "place_id": "3400048989092072934",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=3400048989092072934&q=sweet+grass",
+        "gps_coordinates": {
+          "latitude": 30.262012,
+          "longitude": -97.72945
+        }
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "title": "Sweet grass",
+    "type": "Plant",
+    "entity_type": "biology",
+    "kgmid": "/m/0ckljz",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0ckljz&hl=en-US&q=Sweet+grass",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0ckljz&location=Austin%2CTexas%2CUnited+States&q=Sweet+grass",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/93eafd3297d50a80b3fcf9f3eda903b7b803e4e5332eb8b05a67af3d8031c9e3155451bbf8e546e3.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/93eafd3297d50a80b3fcf9f3eda903b7b803e4e5332eb8b001ed908baa373575afa61e74468de3eb.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/93eafd3297d50a80b3fcf9f3eda903b7b803e4e5332eb8b03b75453079c4f52dbd6dd3498f5259b0.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/93eafd3297d50a80b3fcf9f3eda903b7b803e4e5332eb8b00226995a083b4c926774b49fd4131abd.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/93eafd3297d50a80b3fcf9f3eda903b7b803e4e5332eb8b04063efeeabad4f555f23eeea67eaf771.webp"
+      }
+    ],
+    "genus": "Hierochloe",
+    "kingdom": "Plantae",
+    "order": "Poales",
+    "order_links": [
+      {
+        "text": "Poales",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Poales&stick=H4sIAAAAAAAAAONgVuLQz9U3MC02MV3EyhaQn5iTWgwAWzA7mxUAAAA&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQmxMoAHoECEAQAg"
+      }
+    ],
+    "web_results": [
+      {
+        "snippet": "Hierochloe odorata or Anthoxanthum nitens is an aromatic herb native to northern Eurasia and North America. It is considered sacred by many Indigenous peoples in Canada and the United States. It is used as a smudge in herbal medicine and in the production of distilled beverages.",
+        "source": "Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Hierochloe_odorata"
+      },
+      {
+        "title": "Scientific name",
+        "snippet": "Hierochloe odorata",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=hierochloe+odorata+scientific+name&stick=H4sIAAAAAAAAAOPgE-LUz9U3SM7OyarSss9OttJPyszPyU-v1M8vSk_MyyzOjU_OSSwuzkzLTE4syczPsypOzkzNKwHxFfISc1MVEvNSFHJTgUrz0hexKmVkphblJ2fk5Kcq5KfkFyWWJCqgaQAACuGAAHMAAAA&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQ18AJegQIRhAB"
+      },
+      {
+        "title": "Family",
+        "snippet": "Poaceae",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=hierochloe+odorata+family&stick=H4sIAAAAAAAAAOPgE-LUz9U3SM7OyarSEi4uttIvT01KS0wuKbZKS8zNzMlcxCqZkZlalJ-ckZOfqpCfkl-UWJKoAJarBACSzgwCPgAAAA&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQ18AJegQIRBAB"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Sweetgrass",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQTogoMgJIZ1jXFAh0uO7Od70dvyBCxt0boYI7nW8RGKog9aBN7_3jEHsDqoeQ77Y5h8vrI4Wc83BqLcVm0Hc5F1QCt3YG6hbpe6ex0LkglNDdm1FdJqYh_i2cEL23rqsQMNFCBCGNcwZZf117OLteAsnZcZJvhnoWbgAnFbc1eIlZfFaWjpYqpTuhQLWMTbwhl6PJf0e-flbjuiO1r46trUDj7OyNY7t5XLutUI5GmvvVyjw0bS6zG4R2YYy2BG5Pu8RJy0%3D&q=Hierochloe&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQs9oBKAB6BAg_EAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hierochloe&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQTogoMgJIZ1jXFAh0uO7Od70dvyBCxt0boYI7nW8RGKog9aBN7_3jEHsDqoeQ77Y5h8vrI4Wc83BqLcVm0Hc5F1QCt3YG6hbpe6ex0LkglNDdm1FdJqYh_i2cEL23rqsQMNFCBCGNcwZZf117OLteAsnZcZJvhnoWbgAnFbc1eIlZfFaWjpYqpTuhQLWMTbwhl6PJf0e-flbjuiO1r46trUDj7OyNY7t5XLutUI5GmvvVyjw0bS6zG4R2YYy2BG5Pu8RJy0%3D",
+        "image": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/93eafd3297d50a80b3fcf9f3eda903b750d8c16518fc8726e9821d3a8c24366ac56e956dfc68ffc0e6196c258ec46a74.jpeg"
+      },
+      {
+        "name": "Sweet vernal grass",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L4lM2q4cNUH_X_ndUF113CosL8J6z69iJfnbrFqArr79RxIHlQcf6_rhOP-ZDpGvzezBnGGAO2aYLQl-yPj38ROxUjA8sNTh16zilzsf4mL5-l0fmH3ipdNx2LLlhTIkgpCjG4xc5wEyl1jAc8_SGKB52n0RF-xrOILl7QnPWnywpFlKPhSBIYz5upHoTu9TWYGUiE_aHsTmGFSYqw-Gz7NgomuMwFJXF7q25jBxnNemS8VeLHu_6GXmStLeFFLnfNKElPo%3D&q=Sweet+vernal+grass&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQs9oBKAB6BAg_EAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sweet+vernal+grass&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L4lM2q4cNUH_X_ndUF113CosL8J6z69iJfnbrFqArr79RxIHlQcf6_rhOP-ZDpGvzezBnGGAO2aYLQl-yPj38ROxUjA8sNTh16zilzsf4mL5-l0fmH3ipdNx2LLlhTIkgpCjG4xc5wEyl1jAc8_SGKB52n0RF-xrOILl7QnPWnywpFlKPhSBIYz5upHoTu9TWYGUiE_aHsTmGFSYqw-Gz7NgomuMwFJXF7q25jBxnNemS8VeLHu_6GXmStLeFFLnfNKElPo%3D",
+        "image": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/93eafd3297d50a80b3fcf9f3eda903b750d8c16518fc8726e9821d3a8c24366a46dfd5ec2b110b6004b7d1a6cf4632b9.jpeg"
+      },
+      {
+        "name": "Anthoxanthum",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L9zm7erhAIzqAy4Iz7a9C98L257sezqnBMoWy7CVdx8ROoWKAS5M5uSPABT6WonFRuV8hMhapQ0vI-LskiUrMjaJgwXk2Z2vLGGJoawG05sJepYFv8sDDZL8gS-A5tKh2-9TcKHjXHchqKU6frdoy5F326D1L2bYB6NIFKcYzH3BqV0UdWIRfev9e3ONBiEK5ATxlYP1GDV4a_8QR6z8blblR_OCVMe0Gw-oiI-uidWDrwN-NgyM_0wzWI7zjlEjbL9yYY4%3D&q=Anthoxanthum&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQs9oBKAB6BAg_EA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Anthoxanthum&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L9zm7erhAIzqAy4Iz7a9C98L257sezqnBMoWy7CVdx8ROoWKAS5M5uSPABT6WonFRuV8hMhapQ0vI-LskiUrMjaJgwXk2Z2vLGGJoawG05sJepYFv8sDDZL8gS-A5tKh2-9TcKHjXHchqKU6frdoy5F326D1L2bYB6NIFKcYzH3BqV0UdWIRfev9e3ONBiEK5ATxlYP1GDV4a_8QR6z8blblR_OCVMe0Gw-oiI-uidWDrwN-NgyM_0wzWI7zjlEjbL9yYY4%3D",
+        "image": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/93eafd3297d50a80b3fcf9f3eda903b750d8c16518fc8726e9821d3a8c24366a653bc53dc68236d58045e59f4f3b2b6c.jpeg"
+      },
+      {
+        "name": "Grasses",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm3PNEhiwkeLfAzC5h7Z4K-nQvSDPftCqCsYSa3QYukXPx4aHSod8VIyka2ZfEVXPd0n2caO-cMB9vO8AVg5zzvGGVy4KSwQ8ikHffo5EeqeEG-lXexTi53JHoxgYqqzaOmF7zeGOAtt-1BpgbThigBjBi5juwIgGiHd8OXBZn0Suf8eL5YsP9mMEQ80SxUKX-qJC8I8HxF__Cuh2_t_W1-tfroKCet1mZV3kS3lDb0PeLGGNgTHi5MGrS-fY80SmAsYHNU8%3D&q=Poaceae&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQs9oBKAB6BAg_EBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Poaceae&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm3PNEhiwkeLfAzC5h7Z4K-nQvSDPftCqCsYSa3QYukXPx4aHSod8VIyka2ZfEVXPd0n2caO-cMB9vO8AVg5zzvGGVy4KSwQ8ikHffo5EeqeEG-lXexTi53JHoxgYqqzaOmF7zeGOAtt-1BpgbThigBjBi5juwIgGiHd8OXBZn0Suf8eL5YsP9mMEQ80SxUKX-qJC8I8HxF__Cuh2_t_W1-tfroKCet1mZV3kS3lDb0PeLGGNgTHi5MGrS-fY80SmAsYHNU8%3D",
+        "image": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/93eafd3297d50a80b3fcf9f3eda903b750d8c16518fc8726e9821d3a8c24366a4f97de4d94e9201ab6c721df85d3253e.jpeg"
+      }
+    ]
+  },
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/be30c8f95d875848327f6c30841c7c8a4b3e550d1df9977ced8f226b4871d7a1.webp",
+      "source_logo": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/be30c8f95d875848327f6c30841c7c8a65a525ab1a43871b62af282300f21cdc63599acdd5b98d86.png",
+      "source": "Prairie Edge",
+      "title": "Sweetgrass Braids package of 10",
+      "price": "$63.00",
+      "extracted_price": 63.0,
+      "immersive_product_page_token": "eyJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicHJvZHVjdGlkIjoiNDUzOTI3MjAyOTUwNzk4NTQ2MyIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDUzOTI3MjAyOTUwNzk4NTQ2MyIsImltYWdlRG9jaWQiOiI1ODMxMDczMDI0MTMxOTA1ODc4IiwicmRzIjoiIiwicXVlcnkiOiJzd2VldCtncmFzcyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicHJvZHVjdGlkIjoiNDUzOTI3MjAyOTUwNzk4NTQ2MyIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDUzOTI3MjAyOTUwNzk4NTQ2MyIsImltYWdlRG9jaWQiOiI1ODMxMDczMDI0MTMxOTA1ODc4IiwicmRzIjoiIiwicXVlcnkiOiJzd2VldCtncmFzcyJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/be30c8f95d875848327f6c30841c7c8a636727735ffc5e98e8f4a178781cd5a2.webp",
+      "source_logo": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/be30c8f95d875848327f6c30841c7c8a56b8f8cd7ca826ddc295621b53c76f5964111ec573f478e9.png",
+      "source": "Meadowlark Apothecary",
+      "title": "Sweetgrass Braid",
+      "rating": 4.9,
+      "reviews": 489,
+      "price": "$20.00",
+      "extracted_price": 20.0,
+      "delivery": "Free $100+",
+      "immersive_product_page_token": "eyJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzg3NDQ5MDUzMzEyOTc1MDExMiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDg0OTYxOTgxMzE5NzgxNjc2MSIsImltYWdlRG9jaWQiOiIxMDU5NzMxNTMzMzMzMDI1NzkzNyIsInJkcyI6IlBDXzExODU1MTAwMjE5MTUxNjM5MzQ3fFBST0RfUENfMTE4NTUxMDAyMTkxNTE2MzkzNDciLCJxdWVyeSI6InN3ZWV0K2dyYXNzIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzg3NDQ5MDUzMzEyOTc1MDExMiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDg0OTYxOTgxMzE5NzgxNjc2MSIsImltYWdlRG9jaWQiOiIxMDU5NzMxNTMzMzMzMDI1NzkzNyIsInJkcyI6IlBDXzExODU1MTAwMjE5MTUxNjM5MzQ3fFBST0RfUENfMTE4NTUxMDAyMTkxNTE2MzkzNDciLCJxdWVyeSI6InN3ZWV0K2dyYXNzIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/be30c8f95d875848327f6c30841c7c8a6c8558d1be704b7c997e00a66cd2668d.webp",
+      "source_logo": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/be30c8f95d875848327f6c30841c7c8a3beaaaa2dd6db81eb884134e0751d1263d739b1ca6bad994.jpeg",
+      "source": "Hayefield",
+      "title": "Hierochloe odorata (Sweetgrass) [20 Seeds]",
+      "price": "$4.75",
+      "extracted_price": 4.75,
+      "immersive_product_page_token": "eyJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicHJvZHVjdGlkIjoiMTU0NjA4MzEyOTQ4NDY2MDgzMDciLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1NDYwODMxMjk0ODQ2NjA4MzA3IiwiaW1hZ2VEb2NpZCI6IjEwMjM0NjE0NTU3MjkyMTg2MDI3IiwicmRzIjoiIiwicXVlcnkiOiJzd2VldCtncmFzcyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicHJvZHVjdGlkIjoiMTU0NjA4MzEyOTQ4NDY2MDgzMDciLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1NDYwODMxMjk0ODQ2NjA4MzA3IiwiaW1hZ2VEb2NpZCI6IjEwMjM0NjE0NTU3MjkyMTg2MDI3IiwicmRzIjoiIiwicXVlcnkiOiJzd2VldCtncmFzcyJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/be30c8f95d875848327f6c30841c7c8a4e07bf06d79cff12a7ad1030165527b2.webp",
+      "source_logo": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/be30c8f95d875848327f6c30841c7c8a152a354e7e4886d0a1a289497f8a084dea72fe90aca0d6b2.png",
+      "source": "Mountain Rose Herbs",
+      "title": "Mountain Rose Herbs Sweetgrass Braid",
+      "rating": 4.5,
+      "reviews": 2,
+      "price": "$12.25",
+      "extracted_price": 12.25,
+      "immersive_product_page_token": "eyJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIyNzYyMzEyNTI2OTMxMDE1NDEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijc2OTY0NTc0MDQ4MTAxOTk1NDkiLCJpbWFnZURvY2lkIjoiMTAyMzA5OTAzMjIyNzUyNTI3MjMiLCJyZHMiOiJDSURfMTIyNzYyMzEyNTI2OTMxMDE1NDF8UFJPRF9DSURfMTIyNzYyMzEyNTI2OTMxMDE1NDEiLCJxdWVyeSI6InN3ZWV0K2dyYXNzIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIyNzYyMzEyNTI2OTMxMDE1NDEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijc2OTY0NTc0MDQ4MTAxOTk1NDkiLCJpbWFnZURvY2lkIjoiMTAyMzA5OTAzMjIyNzUyNTI3MjMiLCJyZHMiOiJDSURfMTIyNzYyMzEyNTI2OTMxMDE1NDF8UFJPRF9DSURfMTIyNzYyMzEyNTI2OTMxMDE1NDEiLCJxdWVyeSI6InN3ZWV0K2dyYXNzIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/be30c8f95d875848327f6c30841c7c8aaa88d8252386f429c70e1655a44cf73f.webp",
+      "source_logo": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/be30c8f95d875848327f6c30841c7c8a0f62ee7a255979936494135ef3d46c89761000a1ea511225.png",
+      "source": "Amazon.com - Seller",
+      "title": "Ornamental Grass Seed - Hierochloe Odorta Sweet Grass Seed",
+      "price": "$9.95",
+      "extracted_price": 9.95,
+      "immersive_product_page_token": "eyJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicHJvZHVjdGlkIjoiMTIxMzA3MjU5NzU1NjY0MjY1MTMiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMTMwNzI1OTc1NTY2NDI2NTEzIiwiaW1hZ2VEb2NpZCI6Ijk2MDA2MjQ3ODg0Nzg2OTc3NTciLCJyZHMiOiIiLCJxdWVyeSI6InN3ZWV0K2dyYXNzIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicHJvZHVjdGlkIjoiMTIxMzA3MjU5NzU1NjY0MjY1MTMiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMTMwNzI1OTc1NTY2NDI2NTEzIiwiaW1hZ2VEb2NpZCI6Ijk2MDA2MjQ3ODg0Nzg2OTc3NTciLCJyZHMiOiIiLCJxdWVyeSI6InN3ZWV0K2dyYXNzIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/be30c8f95d875848327f6c30841c7c8a53e703654e51cc3011c244c34f162a59.webp",
+      "source_logo": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/be30c8f95d875848327f6c30841c7c8a5d8da0b72bd130065207e68626298a20ffecb0b9fd04d33b.png",
+      "source": "Four Visions Market",
+      "title": "Sweetgrass Roll On",
+      "price": "$33.00",
+      "extracted_price": 33.0,
+      "immersive_product_page_token": "eyJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODg3NDMxNzQ5MDMxNjIwMTQzMCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjYzMjMzMzMzMTkzNzI2MDAxNSIsImltYWdlRG9jaWQiOiIxNjA5NjkzMzM4MzYyMDI3NTQxNyIsInJkcyI6IiIsInF1ZXJ5Ijoic3dlZXQrZ3Jhc3MifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODg3NDMxNzQ5MDMxNjIwMTQzMCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjYzMjMzMzMzMTkzNzI2MDAxNSIsImltYWdlRG9jaWQiOiIxNjA5NjkzMzM4MzYyMDI3NTQxNyIsInJkcyI6IiIsInF1ZXJ5Ijoic3dlZXQrZ3Jhc3MifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/be30c8f95d875848327f6c30841c7c8a29f3bd193016bd5389f85d575ed88432.webp",
+      "source_logo": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/be30c8f95d875848327f6c30841c7c8a69ddd1c28f68c2a3875529fddbe7ca016a2abf7c92c0ed90.png",
+      "source": "Meadowlark Apothecary",
+      "title": "Sweetgrass Bundle",
+      "price": "$14.95",
+      "extracted_price": 14.95,
+      "delivery": "Free $100+",
+      "immersive_product_page_token": "eyJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicHJvZHVjdGlkIjoiMTg0MjUzODg0OTU3MTU2Mjc5MSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTg0MjUzODg0OTU3MTU2Mjc5MSIsImltYWdlRG9jaWQiOiI2MDcwMTI3MzI2NDg5NjIzMjg4IiwicmRzIjoiIiwicXVlcnkiOiJzd2VldCtncmFzcyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicHJvZHVjdGlkIjoiMTg0MjUzODg0OTU3MTU2Mjc5MSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTg0MjUzODg0OTU3MTU2Mjc5MSIsImltYWdlRG9jaWQiOiI2MDcwMTI3MzI2NDg5NjIzMjg4IiwicmRzIjoiIiwicXVlcnkiOiJzd2VldCtncmFzcyJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/be30c8f95d875848327f6c30841c7c8a9d002e9b9235c94b0497c8a8810216e7.webp",
+      "source_logo": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/be30c8f95d875848327f6c30841c7c8a066c5402ff135c7d2ca6f78bda1ebcf5b37597e5693170b5.jpeg",
+      "source": "soulsticksco.com",
+      "title": "4\"- 5\" Sweetgrass Braids Pack",
+      "price": "$12.99",
+      "extracted_price": 12.99,
+      "delivery": "Free by 10/17",
+      "immersive_product_page_token": "eyJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicHJvZHVjdGlkIjoiODU2MDc1OTY3NzczNTc0MTg3OSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODU2MDc1OTY3NzczNTc0MTg3OSIsImltYWdlRG9jaWQiOiI0MTQ3Mjc3NTM5MTI1NzkxMTQiLCJyZHMiOiIiLCJxdWVyeSI6InN3ZWV0K2dyYXNzIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicHJvZHVjdGlkIjoiODU2MDc1OTY3NzczNTc0MTg3OSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODU2MDc1OTY3NzczNTc0MTg3OSIsImltYWdlRG9jaWQiOiI0MTQ3Mjc3NTM5MTI1NzkxMTQiLCJyZHMiOiIiLCJxdWVyeSI6InN3ZWV0K2dyYXNzIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/be30c8f95d875848327f6c30841c7c8a3935ac0b36b3dcc17192ed5e6325f709.webp",
+      "source_logo": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/be30c8f95d875848327f6c30841c7c8af0fd79dd25c0e2c6098af82e6e2b33f8af6621055e92f386.png",
+      "source": "High Country Gardens",
+      "title": "Sweetgrass, Hierochloe odorata - Plant",
+      "price": "$11.19",
+      "extracted_price": 11.19,
+      "original_price": "$14",
+      "extracted_original_price": 14,
+      "extensions": [
+        "20% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicHJvZHVjdGlkIjoiNTQ1NjA0NTg4MTQ3NzM2ODYwMiIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTQ1NjA0NTg4MTQ3NzM2ODYwMiIsImltYWdlRG9jaWQiOiIxNDg0ODk5NDU4NjgzODg2MzY5MyIsInJkcyI6IiIsInF1ZXJ5Ijoic3dlZXQrZ3Jhc3MifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicHJvZHVjdGlkIjoiNTQ1NjA0NTg4MTQ3NzM2ODYwMiIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTQ1NjA0NTg4MTQ3NzM2ODYwMiIsImltYWdlRG9jaWQiOiIxNDg0ODk5NDU4NjgzODg2MzY5MyIsInJkcyI6IiIsInF1ZXJ5Ijoic3dlZXQrZ3Jhc3MifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/be30c8f95d875848327f6c30841c7c8aaa982c98dd6827c7d8bc5572038d951e.webp",
+      "source_logo": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/be30c8f95d875848327f6c30841c7c8ad17c3137ca78f2d2e2a2db534a4b1e974d661d98a0f0c84e.png",
+      "source": "Amazon",
+      "title": "Sweetgrass Braids - 3 Pack - Missouri River",
+      "price": "$25.00",
+      "extracted_price": 25.0,
+      "immersive_product_page_token": "eyJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicHJvZHVjdGlkIjoiOTI3MTc3OTMwNTA5MDg0MzIyNSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTI3MTc3OTMwNTA5MDg0MzIyNSIsImltYWdlRG9jaWQiOiI4MTE3ODYwNjk5ODIyMTAyNjcxIiwicmRzIjoiIiwicXVlcnkiOiJzd2VldCtncmFzcyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicHJvZHVjdGlkIjoiOTI3MTc3OTMwNTA5MDg0MzIyNSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTI3MTc3OTMwNTA5MDg0MzIyNSIsImltYWdlRG9jaWQiOiI4MTE3ODYwNjk5ODIyMTAyNjcxIiwicmRzIjoiIiwicXVlcnkiOiJzd2VldCtncmFzcyJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/be30c8f95d875848327f6c30841c7c8ab1eb43b9caae09f1d2efcfb3d85ea413.webp",
+      "source_logo": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/be30c8f95d875848327f6c30841c7c8af56e9602b74e07ffcefc11acc9ce58c7f27876c1fc160197.png",
+      "source": "Prairie Edge",
+      "title": "Sweet Grass Oil 1/2 Ounce",
+      "price": "$8.50",
+      "extracted_price": 8.5,
+      "immersive_product_page_token": "eyJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicHJvZHVjdGlkIjoiMTcyODk1MTkxMDQ1MTY3OTM3NzMiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3Mjg5NTE5MTA0NTE2NzkzNzczIiwiaW1hZ2VEb2NpZCI6Ijc1MTg4MTQ0NzUzMDk2NzgwODAiLCJyZHMiOiIiLCJxdWVyeSI6InN3ZWV0K2dyYXNzIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicHJvZHVjdGlkIjoiMTcyODk1MTkxMDQ1MTY3OTM3NzMiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3Mjg5NTE5MTA0NTE2NzkzNzczIiwiaW1hZ2VEb2NpZCI6Ijc1MTg4MTQ0NzUzMDk2NzgwODAiLCJyZHMiOiIiLCJxdWVyeSI6InN3ZWV0K2dyYXNzIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/be30c8f95d875848327f6c30841c7c8ab4d14a4dacb7ae76ae701782dfd61faa.webp",
+      "source_logo": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/be30c8f95d875848327f6c30841c7c8a4225e5785a135766e89c508c8b99fb83b11cefe1490f81e3.png",
+      "source": "Natural Communities Native Plants",
+      "title": "Hierochloe odorata (Sweet Grass) Natural Communities LLC 38 Plug Flat",
+      "price": "$129.20",
+      "extracted_price": 129.2,
+      "immersive_product_page_token": "eyJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicHJvZHVjdGlkIjoiNTMzNTUxMjM3MDk5NzMwMjUyNiIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTMzNTUxMjM3MDk5NzMwMjUyNiIsImltYWdlRG9jaWQiOiI4MDQ4MTI3Nzk5MzM5NTU3Mzk3IiwicmRzIjoiIiwicXVlcnkiOiJzd2VldCtncmFzcyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicHJvZHVjdGlkIjoiNTMzNTUxMjM3MDk5NzMwMjUyNiIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTMzNTUxMjM3MDk5NzMwMjUyNiIsImltYWdlRG9jaWQiOiI4MDQ4MTI3Nzk5MzM5NTU3Mzk3IiwicmRzIjoiIiwicXVlcnkiOiJzd2VldCtncmFzcyJ9"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Can I grow sweetgrass in my yard?",
+      "snippet": "Plant sweetgrass in a location with full to partial sun and consistently moist soil that is slightly acidic to neutral. Select a location with conditions that mimic the natural habitat of the grass in wet meadows, low prairies, and the edges of sloughs and marshes.",
+      "title": "How to Plant and Grow Sweetgrass - Better Homes & Gardens",
+      "date": "Mar 6, 2024",
+      "link": "https://www.bhg.com/gardening/plant-dictionary/herb/sweetgrass/#:~:text=Plant%20sweetgrass%20in%20a%20location,edges%20of%20sloughs%20and%20marshes.",
+      "displayed_link": "https://www.bhg.com \u203a gardening \u203a plant-dictionary \u203a herb",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2z9Nwh_05b46-ivBzGA7Xr8Ybq6qVQiXt445NFOT1&s",
+      "source_logo": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/7bae5c768061958f96cd83764ecf8fb8ca4640f63a7afd6114a21baa07213186.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWVXaDFWVFJSVDFjME5VeHJWVWsyVjNOaGNqTkRSVU5SVnkxRGRuQXlWVzU0UlRWQk56Wm5ibE51VVRVeFowNXFURVZTYkZSMVJUbFBSMm8yYUhGVVZWODRRVFUyRWhkTVFtTkxXall5Ums1aUxUQndkRkZRTlV4WFNubEJkeG9pUVVaWWNrVmpiM05EZERSWU1qTnJVV1Z0VlVsNGJUZFBWRWhYY2xsWU4xTjVkdyIsImZjdiI6IjMiLCJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicWMiOiJDZ3R6ZDJWbGRDQm5jbUZ6Y3hBQWZXdDRLVDgiLCJxdWVzdGlvbiI6IkNhbiBJIGdyb3cgc3dlZXRncmFzcyBpbiBteSB5YXJkPyIsImxrIjoiR2lCallXNGdhU0JuY205M0lITjNaV1YwWjNKaGMzTWdhVzRnYlhrZ2VXRnlaQSIsImJzIjoiYy1QeTRsSjBUc3hUOEZSSUw4b3ZWeWd1VDAwdFNTOUtMQzVXeU14VHlLMVVxRXdzU3JHWDJGMW9wQ1Nsa0F4VWw0bEhIVmNRbDJwNFJtcFJxa0pLZm1veHNocXdIcURDa294VWhkQmdlNG01X0VacVVpcmxCTldXRm5NNWNNbUVaeVNXS0dTaUtzclBUMUZJeXkteWw3Z2lZU1FySlYyT1d3bVhINWN5ekFTX3hKTE1zbFFGeDl6VW9reVFieERLN1NYbWVCdXBTQ25CRE1xRHFFekVWQ25BQ0FBIiwiaWQiOiJmY18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWVXaDFWVFJSVDFjME5VeHJWVWsyVjNOaGNqTkRSVU5SVnkxRGRuQXlWVzU0UlRWQk56Wm5ibE51VVRVeFowNXFURVZTYkZSMVJUbFBSMm8yYUhGVVZWODRRVFUyRWhkTVFtTkxXall5Ums1aUxUQndkRkZRTlV4WFNubEJkeG9pUVVaWWNrVmpiM05EZERSWU1qTnJVV1Z0VlVsNGJUZFBWRWhYY2xsWU4xTjVkdyIsImZjdiI6IjMiLCJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicWMiOiJDZ3R6ZDJWbGRDQm5jbUZ6Y3hBQWZXdDRLVDgiLCJxdWVzdGlvbiI6IkNhbiBJIGdyb3cgc3dlZXRncmFzcyBpbiBteSB5YXJkPyIsImxrIjoiR2lCallXNGdhU0JuY205M0lITjNaV1YwWjNKaGMzTWdhVzRnYlhrZ2VXRnlaQSIsImJzIjoiYy1QeTRsSjBUc3hUOEZSSUw4b3ZWeWd1VDAwdFNTOUtMQzVXeU14VHlLMVVxRXdzU3JHWDJGMW9wQ1Nsa0F4VWw0bEhIVmNRbDJwNFJtcFJxa0pLZm1veHNocXdIcURDa294VWhkQmdlNG01X0VacVVpcmxCTldXRm5NNWNNbUVaeVNXS0dTaUtzclBUMUZJeXkteWw3Z2lZU1FySlYyT1d3bVhINWN5ekFTX3hKTE1zbFFGeDl6VW9reVFieERLN1NYbWVCdXBTQ25CRE1xRHFFekVWQ25BQ0FBIiwiaWQiOiJmY18yIn0%3D"
+    },
+    {
+      "question": "Where does sweetgrass grow in the US?",
+      "snippet": "The two sweetgrasses grow in wet meadows, low prairies, and the edges of sloughs and marshes in Minnesota, North Dakota, Montana, South Dakota, northwest Iowa, and western and central Montana. It grows from Labrador to Alaska, south to New Jersey, Indiana, Iowa, New Mexico, and Arizona. It is also native to Eurasia.",
+      "title": "SWEETGRASS - Hierochloe odorata (L.) Beauv.",
+      "link": "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_hiod.pdf",
+      "displayed_link": "https://plants.usda.gov \u203a pdf \u203a pg_hiod",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWVXaDFWVFJSVDFjME5VeHJWVWsyVjNOaGNqTkRSVU5SVnkxRGRuQXlWVzU0UlRWQk56Wm5ibE51VVRVeFowNXFURVZTYkZSMVJUbFBSMm8yYUhGVVZWODRRVFUyRWhkTVFtTkxXall5Ums1aUxUQndkRkZRTlV4WFNubEJkeG9pUVVaWWNrVmpiM05EZERSWU1qTnJVV1Z0VlVsNGJUZFBWRWhYY2xsWU4xTjVkdyIsImZjdiI6IjMiLCJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicWMiOiJDZ3R6ZDJWbGRDQm5jbUZ6Y3hBQWZXdDRLVDgiLCJxdWVzdGlvbiI6IldoZXJlIGRvZXMgc3dlZXRncmFzcyBncm93IGluIHRoZSBVUz8iLCJsayI6IkdpUjNhR1Z5WlNCa2IyVnpJSE4zWldWMFozSmhjM01nWjNKdmR5QnBiaUIwYUdVZ2RYTSIsImJzIjoiYy1QeTRsSjBUc3hUOEZSSUw4b3ZWeWd1VDAwdFNTOUtMQzVXeU14VHlLMVVxRXdzU3JHWDJGMW9wQ1Nsa0F4VWw0bEhIVmNRbDJwNFJtcFJxa0pLZm1veHNocXdIcURDa294VWhkQmdlNG01X0VacVVpcmxCTldXRm5NNWNNbUVaeVNXS0dTaUtzclBUMUZJeXkteWw3Z2lZU1FySlYyT1d3bVhINWN5ekFTX3hKTE1zbFFGeDl6VW9reVFieERLN1NYbWVCdXBTQ25CRE1xRHFFekVWQ25BQ0FBIiwiaWQiOiJmY18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWVXaDFWVFJSVDFjME5VeHJWVWsyVjNOaGNqTkRSVU5SVnkxRGRuQXlWVzU0UlRWQk56Wm5ibE51VVRVeFowNXFURVZTYkZSMVJUbFBSMm8yYUhGVVZWODRRVFUyRWhkTVFtTkxXall5Ums1aUxUQndkRkZRTlV4WFNubEJkeG9pUVVaWWNrVmpiM05EZERSWU1qTnJVV1Z0VlVsNGJUZFBWRWhYY2xsWU4xTjVkdyIsImZjdiI6IjMiLCJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicWMiOiJDZ3R6ZDJWbGRDQm5jbUZ6Y3hBQWZXdDRLVDgiLCJxdWVzdGlvbiI6IldoZXJlIGRvZXMgc3dlZXRncmFzcyBncm93IGluIHRoZSBVUz8iLCJsayI6IkdpUjNhR1Z5WlNCa2IyVnpJSE4zWldWMFozSmhjM01nWjNKdmR5QnBiaUIwYUdVZ2RYTSIsImJzIjoiYy1QeTRsSjBUc3hUOEZSSUw4b3ZWeWd1VDAwdFNTOUtMQzVXeU14VHlLMVVxRXdzU3JHWDJGMW9wQ1Nsa0F4VWw0bEhIVmNRbDJwNFJtcFJxa0pLZm1veHNocXdIcURDa294VWhkQmdlNG01X0VacVVpcmxCTldXRm5NNWNNbUVaeVNXS0dTaUtzclBUMUZJeXkteWw3Z2lZU1FySlYyT1d3bVhINWN5ekFTX3hKTE1zbFFGeDl6VW9reVFieERLN1NYbWVCdXBTQ25CRE1xRHFFekVWQ25BQ0FBIiwiaWQiOiJmY18yIn0%3D"
+    },
+    {
+      "question": "What is sweetgrass good for?",
+      "snippet": "Sweetgrass is still considered a sacred plant by many native tribes of North America and is traditionally used as incense in many sacred ceremonies, purifications processes, healing rituals, peace ceremonies, and initiations.",
+      "title": "Sweetgrass Uses and Benefits - Ceremoni",
+      "date": "Jun 13, 2021",
+      "link": "https://ceremoni.ca/blogs/resources/sweet-grass#:~:text=Sweetgrass%20is%20still%20considered%20a,%2C%20peace%20ceremonies%2C%20and%20initiations.",
+      "displayed_link": "https://ceremoni.ca \u203a blogs \u203a resources \u203a sweet-grass",
+      "source_logo": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/7bae5c768061958f96cd83764ecf8fb8528f9008c1b2b7df2c02a6303a4be329.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWVXaDFWVFJSVDFjME5VeHJWVWsyVjNOaGNqTkRSVU5SVnkxRGRuQXlWVzU0UlRWQk56Wm5ibE51VVRVeFowNXFURVZTYkZSMVJUbFBSMm8yYUhGVVZWODRRVFUyRWhkTVFtTkxXall5Ums1aUxUQndkRkZRTlV4WFNubEJkeG9pUVVaWWNrVmpiM05EZERSWU1qTnJVV1Z0VlVsNGJUZFBWRWhYY2xsWU4xTjVkdyIsImZjdiI6IjMiLCJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicWMiOiJDZ3R6ZDJWbGRDQm5jbUZ6Y3hBQWZXdDRLVDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgc3dlZXRncmFzcyBnb29kIGZvcj8iLCJsayI6IkdodDNhR0YwSUdseklITjNaV1YwWjNKaGMzTWdaMjl2WkNCbWIzSSIsImJzIjoiYy1QeTRsSjBUc3hUOEZSSUw4b3ZWeWd1VDAwdFNTOUtMQzVXeU14VHlLMVVxRXdzU3JHWDJGMW9wQ1Nsa0F4VWw0bEhIVmNRbDJwNFJtcFJxa0pLZm1veHNocXdIcURDa294VWhkQmdlNG01X0VacVVpcmxCTldXRm5NNWNNbUVaeVNXS0dTaUtzclBUMUZJeXkteWw3Z2lZU1FySlYyT1d3bVhINWN5ekFTX3hKTE1zbFFGeDl6VW9reVFieERLN1NYbWVCdXBTQ25CRE1xRHFFekVWQ25BQ0FBIiwiaWQiOiJmY18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWVXaDFWVFJSVDFjME5VeHJWVWsyVjNOaGNqTkRSVU5SVnkxRGRuQXlWVzU0UlRWQk56Wm5ibE51VVRVeFowNXFURVZTYkZSMVJUbFBSMm8yYUhGVVZWODRRVFUyRWhkTVFtTkxXall5Ums1aUxUQndkRkZRTlV4WFNubEJkeG9pUVVaWWNrVmpiM05EZERSWU1qTnJVV1Z0VlVsNGJUZFBWRWhYY2xsWU4xTjVkdyIsImZjdiI6IjMiLCJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicWMiOiJDZ3R6ZDJWbGRDQm5jbUZ6Y3hBQWZXdDRLVDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgc3dlZXRncmFzcyBnb29kIGZvcj8iLCJsayI6IkdodDNhR0YwSUdseklITjNaV1YwWjNKaGMzTWdaMjl2WkNCbWIzSSIsImJzIjoiYy1QeTRsSjBUc3hUOEZSSUw4b3ZWeWd1VDAwdFNTOUtMQzVXeU14VHlLMVVxRXdzU3JHWDJGMW9wQ1Nsa0F4VWw0bEhIVmNRbDJwNFJtcFJxa0pLZm1veHNocXdIcURDa294VWhkQmdlNG01X0VacVVpcmxCTldXRm5NNWNNbUVaeVNXS0dTaUtzclBUMUZJeXkteWw3Z2lZU1FySlYyT1d3bVhINWN5ekFTX3hKTE1zbFFGeDl6VW9reVFieERLN1NYbWVCdXBTQ25CRE1xRHFFekVWQ25BQ0FBIiwiaWQiOiJmY18yIn0%3D"
+    },
+    {
+      "question": "What is Native American sweetgrass?",
+      "snippet": "We are named after the sweetgrass plant (sometimes called buffalo grass or vanilla grass), an herb native to Eurasia and North America. Sweetgrass has been used for centuries by Indigenous cultures in both Canada and the United States for ceremonial purposes and is considered a sacred herb.",
+      "title": "What is sweetgrass and how is it used?",
+      "date": "Mar 23, 2022",
+      "link": "https://sweetgrasstradingco.com/2022/03/23/what-is-sweetgrass-and-how-is-it-used/#:~:text=We%20are%20named%20after%20the,is%20considered%20a%20sacred%20herb.",
+      "displayed_link": "https://sweetgrasstradingco.com \u203a 2022/03/23 \u203a what-is-s...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ6xABTHeFp_j1wd5SZvhTqdeK_DMs_UWRQCw1TX_PeQ&s",
+      "source_logo": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/7bae5c768061958f96cd83764ecf8fb8110267fa12ec6053a99472d45ef55aa5.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWVXaDFWVFJSVDFjME5VeHJWVWsyVjNOaGNqTkRSVU5SVnkxRGRuQXlWVzU0UlRWQk56Wm5ibE51VVRVeFowNXFURVZTYkZSMVJUbFBSMm8yYUhGVVZWODRRVFUyRWhkTVFtTkxXall5Ums1aUxUQndkRkZRTlV4WFNubEJkeG9pUVVaWWNrVmpiM05EZERSWU1qTnJVV1Z0VlVsNGJUZFBWRWhYY2xsWU4xTjVkdyIsImZjdiI6IjMiLCJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicWMiOiJDZ3R6ZDJWbGRDQm5jbUZ6Y3hBQWZXdDRLVDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgTmF0aXZlIEFtZXJpY2FuIHN3ZWV0Z3Jhc3M/IiwibGsiOiJHaUozYUdGMElHbHpJRzVoZEdsMlpTQmhiV1Z5YVdOaGJpQnpkMlZsZEdkeVlYTnoiLCJicyI6ImMtUHk0bEowVHN4VDhGUklMOG92VnlndVQwMHRTUzlLTEM1V3lNeFR5SzFVcUV3c1NyR1gyRjFvcENTbGtBeFVsNGxISFZjUWwycDRSbXBScWtKS2Ztb3hzaHF3SHFEQ2tveFVoZEJnZTRtNV9FWnFVaXJsQk5XV0ZuTTVjTW1FWnlTV0tHU2lLc3JQVDFGSXl5LXlsN2dpWVNRckpWMk9Xd21YSDVjeXpBU194SkxNc2xRRng5elVva3lRYnhESzdTWG1lQnVwU0NuQkRNcURxRXpFVkNuQUNBQSIsImlkIjoiZmNfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWVXaDFWVFJSVDFjME5VeHJWVWsyVjNOaGNqTkRSVU5SVnkxRGRuQXlWVzU0UlRWQk56Wm5ibE51VVRVeFowNXFURVZTYkZSMVJUbFBSMm8yYUhGVVZWODRRVFUyRWhkTVFtTkxXall5Ums1aUxUQndkRkZRTlV4WFNubEJkeG9pUVVaWWNrVmpiM05EZERSWU1qTnJVV1Z0VlVsNGJUZFBWRWhYY2xsWU4xTjVkdyIsImZjdiI6IjMiLCJlaSI6IkxCY0taNjJGTmItMHB0UVA1TFdKeUF3IiwicWMiOiJDZ3R6ZDJWbGRDQm5jbUZ6Y3hBQWZXdDRLVDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgTmF0aXZlIEFtZXJpY2FuIHN3ZWV0Z3Jhc3M%2FIiwibGsiOiJHaUozYUdGMElHbHpJRzVoZEdsMlpTQmhiV1Z5YVdOaGJpQnpkMlZsZEdkeVlYTnoiLCJicyI6ImMtUHk0bEowVHN4VDhGUklMOG92VnlndVQwMHRTUzlLTEM1V3lNeFR5SzFVcUV3c1NyR1gyRjFvcENTbGtBeFVsNGxISFZjUWwycDRSbXBScWtKS2Ztb3hzaHF3SHFEQ2tveFVoZEJnZTRtNV9FWnFVaXJsQk5XV0ZuTTVjTW1FWnlTV0tHU2lLc3JQVDFGSXl5LXlsN2dpWVNRckpWMk9Xd21YSDVjeXpBU194SkxNc2xRRng5elVva3lRYnhESzdTWG1lQnVwU0NuQkRNcURxRXpFVkNuQUNBQSIsImlkIjoiZmNfMiJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Hierochloe odorata",
+      "link": "https://en.wikipedia.org/wiki/Hierochloe_odorata",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Hierochloe_odorata&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQFnoECHcQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Hierochloe_odorata",
+      "thumbnail": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/5be97cc901ba2a6cfed463386980bddf256e8947ee5c939ca23f3eed7117217e.jpeg",
+      "favicon": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/5be97cc901ba2a6cfed463386980bddfaa65b9decc12067caa35a40605a3bf16.png",
+      "snippet": "an aromatic herb native to northern Eurasia and North America. It is considered sacred by many Indigenous peoples in Canada and the United States.",
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "SWEETGRASS - Hierochloe odorata (L.) Beauv.",
+      "link": "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_hiod.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_hiod.pdf&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQFnoECFIQAQ",
+      "displayed_link": "https://plants.usda.gov \u203a pdf \u203a pg_hiod",
+      "favicon": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/5be97cc901ba2a6cfed463386980bddf582e006c2bca4a40d10ac4be1b3e803f.png",
+      "snippet": "Ethnobotanic: Sweetgrass was and still is used ceremonially through burning the dried and braided grass stems for an incense or smudge. The fragrant smoke is ...",
+      "snippet_highlighted_words": [
+        "Sweetgrass"
+      ],
+      "source": "USDA Plants Database (.gov)"
+    },
+    {
+      "position": 3,
+      "title": "Hierochloe odorata (Sweetgrass) | Native Plants of North ...",
+      "link": "https://www.wildflower.org/plants/result.php?id_plant=HIOD",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wildflower.org/plants/result.php%3Fid_plant%3DHIOD&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQFnoECFQQAQ",
+      "displayed_link": "https://www.wildflower.org \u203a plants \u203a result",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSasgWrtwxICSECiHLUKAHzA_7xLNrMBLhL6hK6GJFQRpNtXWMNx5RF&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/5be97cc901ba2a6cfed463386980bddf29eb04e4c7743d34600a07eb363233f0.png",
+      "date": "Jan 25, 2023",
+      "snippet": "Vanilla Grass or Sweet Grass is an erect, slender, sweet-smelling grass, usually 12-20 in. tall., with small seedheads bearing broad, bronze- ...",
+      "snippet_highlighted_words": [
+        "Sweet Grass"
+      ],
+      "source": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "position": 4,
+      "title": "Hierochloe odorata \u2013 Sweetgrass; Vanillagrass; Holy Grass",
+      "link": "https://tripplebrookfarm.com/product/hierochloe-odorata-sweetgrass-vanillagrass-holy-grass/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tripplebrookfarm.com/product/hierochloe-odorata-sweetgrass-vanillagrass-holy-grass/&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQFnoECHYQAQ",
+      "displayed_link": "https://tripplebrookfarm.com \u203a Natives",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjRuaB-OU9jG-tnhSbnvC_jdqwBnoFxwKBZq0sDEDb7YXItn63y8oh&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/5be97cc901ba2a6cfed463386980bddf56e72b818e9a1183124a9b6400aaf061.jpeg",
+      "snippet": "Sweetgrass has many uses, including incense, and as a flavoring for teas, candies, and other foods. Naturally occurring in cool wetlands and grasslands ...",
+      "snippet_highlighted_words": [
+        "Sweetgrass"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 9.0,
+            "currency": "$"
+          },
+          "extensions": [
+            "$9.00",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Tripple Brook Farm"
+    },
+    {
+      "position": 5,
+      "title": "Sweetgrass Plants For Sale | Hierochloe Odorata",
+      "link": "https://thegrowers-exchange.com/products/her-swg01?srsltid=AfmBOop6B_s_plsWuoNL-7KJiUQtVqW6vZunwuP_NGFIQ1yxUaU78djM",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thegrowers-exchange.com/products/her-swg01%3Fsrsltid%3DAfmBOop6B_s_plsWuoNL-7KJiUQtVqW6vZunwuP_NGFIQ1yxUaU78djM&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQFnoECFcQAQ",
+      "displayed_link": "https://thegrowers-exchange.com \u203a products \u203a her-swg01",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlU9EZywxVRfxNCoA3R8B1i6XEkRHUt0lm0QXKibcPZJTzpPnSxezv&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/5be97cc901ba2a6cfed463386980bddf8c4b329297eb30a3ca4d12a3e71a013c.png",
+      "snippet": "Sweetgrass is extremely easy to grow and likes well-drained soil, and full to part sun. A medicinal herb that should be included in your herb gardening, ...",
+      "snippet_highlighted_words": [
+        "Sweetgrass"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 12.25,
+            "currency": "$",
+            "day_delivery": 2
+          },
+          "extensions": [
+            "$12.25",
+            "\u200e2\u20135 day delivery",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "The Growers Exchange"
+    },
+    {
+      "position": 6,
+      "title": "Hierochloe odorata Sweet Grass",
+      "link": "https://www.prairiemoon.com/hierochloe-odorata-sweet-grass",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.prairiemoon.com/hierochloe-odorata-sweet-grass&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQFnoECFUQAQ",
+      "displayed_link": "https://www.prairiemoon.com \u203a Seeds",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS95hdPhtjktgrmfeU70DTgPrmVlKcsdBg5c7_6kzg&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/5be97cc901ba2a6cfed463386980bddf2b22417c5fae64d5b443a2558d8cad4c.png",
+      "snippet": "Sweet Grass is an aromatic, cool-season perennial growing 10-24 inches in height - and spreading about 2 feet per year by underground rhizomes.",
+      "snippet_highlighted_words": [
+        "Sweet Grass"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 100,
+            "currency": "Free delivery over $"
+          },
+          "extensions": [
+            "$3.00",
+            "\u200eFree delivery over $100",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Prairie Moon Nursery"
+    },
+    {
+      "position": 7,
+      "title": "Sweet Grass: A Fragrant Piece of North American History",
+      "link": "https://naturalcommunities.net/blogs/news/sweet-grass-a-fragrant-piece-of-north-american-history?srsltid=AfmBOooSdyplw7HAWH7c6OcdQxG8cv8FvvrqNcDsrXofhTIYlwgzFTR3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://naturalcommunities.net/blogs/news/sweet-grass-a-fragrant-piece-of-north-american-history%3Fsrsltid%3DAfmBOooSdyplw7HAWH7c6OcdQxG8cv8FvvrqNcDsrXofhTIYlwgzFTR3&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQFnoECFYQAQ",
+      "displayed_link": "https://naturalcommunities.net \u203a blogs \u203a news \u203a sweet-gra...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXAWHDDHYiXuWni2VcchLGg1UjCHEGVl1FGun22-jpGTQcBYFCEbbM&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/5be97cc901ba2a6cfed463386980bddf68bc1dda613560823ea3e488e2addc3f.png",
+      "date": "Mar 16, 2024",
+      "snippet": "It's considered a sacred herb, used in purification ceremonies, prayer offerings, and to attract positive energies. Traditionally, sweet grass ...",
+      "snippet_highlighted_words": [
+        "sweet grass"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Free delivery",
+            "\u200e10",
+            "day returns"
+          ],
+          "detected_extensions": {
+            "unknown": 10
+          }
+        }
+      },
+      "source": "Natural Communities LLC"
+    },
+    {
+      "position": 8,
+      "title": "Sweet Grass Dairy - Thomasville",
+      "link": "https://sweetgrassdairy.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sweetgrassdairy.com/&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQFnoECGgQAQ",
+      "displayed_link": "https://sweetgrassdairy.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0dcaTU3dEblcuYK0Jm3dHUCkU_ge6_wh2eP-rmlv1Q1tDrVhtUPcX&s",
+      "favicon": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/5be97cc901ba2a6cfed463386980bddfdfd4059d98898eec56e6d9fdb17857d3.png",
+      "snippet": "126 Roseway Drive Thomasville, GA 31792 tel+fax (229)227-0752. HOURS MON - FRI: 8am to 5pm.",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0dcaTU3dEblcuYK0Jm3dHUCkU_ge6_wh2eP-rmlv1Q1tDrVhtUPcX&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz3NVTgYtYAeXTSQy7VTYoL21dQLlmu45Obu2q2TYkeqy1dNPDBs_n&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQia387sHuxSxIpll3gibkz8lt6eY0e-rI93zlYCiPPMJP4FCNoqOZ&s"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Shop",
+            "link": "https://sweetgrassdairy.com/pages/buy"
+          },
+          {
+            "title": "Our Cheese",
+            "link": "https://sweetgrassdairy.com/pages/cheese"
+          },
+          {
+            "title": "Cheese Shop",
+            "link": "https://sweetgrassdairy.com/pages/cheese-shop"
+          },
+          {
+            "title": "Our Recipes",
+            "link": "https://sweetgrassdairy.com/blogs/recipes"
+          }
+        ]
+      },
+      "source": "Sweet Grass Dairy"
+    },
+    {
+      "position": 9,
+      "title": "Sweetgrass - a historically important native grass for coastal ...",
+      "link": "https://www.nrcs.usda.gov/plant-materials/news/sweetgrass",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nrcs.usda.gov/plant-materials/news/sweetgrass&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQFnoECHUQAQ",
+      "displayed_link": "https://www.nrcs.usda.gov \u203a plant-materials \u203a news \u203a swe...",
+      "favicon": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/5be97cc901ba2a6cfed463386980bddfe646417245acab10f028f86a7bce0772.png",
+      "date": "Aug 24, 2022",
+      "snippet": "Sweetgrass is a clump-forming perennial grass that is native to the southern Atlantic and Gulf coasts. The leaves of this grass are used by ...",
+      "snippet_highlighted_words": [
+        "Sweetgrass"
+      ],
+      "source": "Natural Resources Conservation Service (.gov)"
+    },
+    {
+      "position": 10,
+      "title": "Sweet Grass County Montana",
+      "link": "https://sgcountymt.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sgcountymt.gov/&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQFnoECFMQAQ",
+      "displayed_link": "https://sgcountymt.gov",
+      "favicon": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/5be97cc901ba2a6cfed463386980bddfe83b0d644b32dc071257321b5df5a89c.png",
+      "snippet": "Dedicated to maintaining 562 miles of roads & bridges in Sweet Grass County. Inquire with us for the latest conditions. Learn More. TAXES & VEHICLES.",
+      "snippet_highlighted_words": [
+        "Sweet Grass"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Clerk & Recorder",
+            "link": "https://sgcountymt.gov/government-departments/county-govt/clerk-recorder/"
+          },
+          {
+            "title": "Sheriff\u2019s Office",
+            "link": "https://sgcountymt.gov/government-departments/county-govt/sheriff/"
+          },
+          {
+            "title": "Department Directory",
+            "link": "https://sgcountymt.gov/contact-us/"
+          },
+          {
+            "title": "Extension Office",
+            "link": "https://sgcountymt.gov/government-departments/other-departments/extension-office/"
+          }
+        ]
+      },
+      "source": "Sweet Grass County (.gov)"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Sweet Grass restaurant",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Sweet+Grass+restaurant&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQ1QJ6BQiMARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sweet+Grass+restaurant"
+    },
+    {
+      "block_position": 1,
+      "query": "Sweet Grass near me",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Sweet+Grass+near+me&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQ1QJ6BQiJARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sweet+Grass+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Sweet grass seeds",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Sweet+grass+seeds&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQ1QJ6BQiKARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sweet+grass+seeds"
+    },
+    {
+      "block_position": 1,
+      "query": "Sweet grass smell",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Sweet+grass+smell&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQ1QJ6BQiIARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sweet+grass+smell"
+    },
+    {
+      "block_position": 1,
+      "query": "Sweet grass Native American",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Sweet+grass+Native+American&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQ1QJ6BQiLARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sweet+grass+Native+American"
+    },
+    {
+      "block_position": 1,
+      "query": "Sweet Grass for sale",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Sweet+Grass+for+sale&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQ1QJ6BQiHARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sweet+Grass+for+sale"
+    },
+    {
+      "block_position": 1,
+      "query": "Sweet grass benefits",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Sweet+grass+benefits&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQ1QJ6BQiGARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sweet+grass+benefits"
+    },
+    {
+      "block_position": 1,
+      "query": "Sweet Grass dispensary",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Sweet+Grass+dispensary&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQ1QJ6BQiNARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sweet+Grass+dispensary"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?hl=en&q=sweet+grass+nearby&gl=us&shoprs=GAMqC3N3ZWV0IGdyYXNzMgwIAxIGTmVhcmJ5GAJY4s8gYAE&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQip4GKAF6BAgwEGI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+grass+nearby"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?hl=en&q=sweet+grass+for+sale&gl=us&shoprs=GBIqC3N3ZWV0IGdyYXNzMgwIEhIIRm9yIFNhbGVgAQ&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQip4GKAJ6BAgwEGM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+grass+for+sale"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?hl=en&q=buy+sweet+grass&gl=us&shoprs=GBIqC3N3ZWV0IGdyYXNzMgcIEhIDQnV5YAE&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQip4GKAN6BAgwEGQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=buy+sweet+grass"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?hl=en&q=reviews+sweet+grass&gl=us&shoprs=GBIqC3N3ZWV0IGdyYXNzMgsIEhIHUmV2aWV3c2AB&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQip4GKAR6BAgwEGU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=reviews+sweet+grass"
+    },
+    {
+      "query": "Flower",
+      "link": "https://www.google.com/search?hl=en&q=flower+sweet+grass&gl=us&shoprs=GAEqC3N3ZWV0IGdyYXNzMhYIARIGRmxvd2VyOgoIq4JyELmCcjACWOLPIGAB&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQip4GKAV6BAgwEGY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=flower+sweet+grass"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?hl=en&q=sweet+grass+sale&gl=us&shoprs=EgRKAhgBGAYqC3N3ZWV0IGdyYXNzMhMIBhIHT24gc2FsZRgCIgRKAhgBWOLPIGAB&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQip4GKAZ6BAgwEGc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+grass+sale"
+    },
+    {
+      "query": "Get it fast",
+      "link": "https://www.google.com/search?hl=en&q=sweet+grass&gl=us&shoprs=Eg2aAQoKCBADOAFAAkgBGBQqC3N3ZWV0IGdyYXNzMiQIFBILR2V0IGl0IGZhc3QiDZoBCgoIEAM4AUACSAEqBBABGAFgAQ&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQip4GKAd6BAgwEGg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+grass"
+    },
+    {
+      "query": "Outdoor",
+      "link": "https://www.google.com/search?hl=en&q=outdoor+sweet+grass&gl=us&shoprs=GAEqC3N3ZWV0IGdyYXNzMhcIARIHT3V0ZG9vcjoKCKaCchCqgnIwAljizyBgAQ&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQip4GKAh6BAgwEGk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=outdoor+sweet+grass"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?hl=en&q=price+sweet+grass&gl=us&shoprs=GBIqC3N3ZWV0IGdyYXNzMgkIEhIFUHJpY2VgAQ&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQip4GKAl6BAgwEGo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=price+sweet+grass"
+    },
+    {
+      "query": "Online",
+      "link": "https://www.google.com/search?hl=en&q=online+sweet+grass&gl=us&shoprs=GBIqC3N3ZWV0IGdyYXNzMgoIEhIGT25saW5lYAE&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQip4GKAp6BAgwEGs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=online+sweet+grass"
+    },
+    {
+      "query": "Recipe",
+      "link": "https://www.google.com/search?hl=en&q=recipe+sweet+grass&gl=us&shoprs=GBIqC3N3ZWV0IGdyYXNzMgoIEhIGUmVjaXBlYAE&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQip4GKAt6BAgwEGw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=recipe+sweet+grass"
+    },
+    {
+      "query": "Images",
+      "link": "https://www.google.com/search?hl=en&q=images+sweet+grass&gl=us&shoprs=GBIqC3N3ZWV0IGdyYXNzMgoIEhIGSW1hZ2VzYAE&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQip4GKAx6BAgwEG0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=images+sweet+grass"
+    },
+    {
+      "query": "Meaning",
+      "link": "https://www.google.com/search?hl=en&q=meaning+sweet+grass&gl=us&shoprs=GBIqC3N3ZWV0IGdyYXNzMgsIEhIHTWVhbmluZ2AB&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQip4GKA16BAgwEG4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=meaning+sweet+grass"
+    },
+    {
+      "query": "Bush",
+      "link": "https://www.google.com/search?hl=en&q=bush+sweet+grass&gl=us&shoprs=GAEqC3N3ZWV0IGdyYXNzMhQIARIEQnVzaDoKCKuCchC2gnIwAljizyBgAQ&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQip4GKA56BAgwEG8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bush+sweet+grass"
+    },
+    {
+      "query": "Brand",
+      "link": "https://www.google.com/search?hl=en&q=brand+sweet+grass&gl=us&shoprs=GBIqC3N3ZWV0IGdyYXNzMgkIEhIFQnJhbmRgAQ&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQip4GKA96BAgwEHA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brand+sweet+grass"
+    },
+    {
+      "query": "Dog",
+      "link": "https://www.google.com/search?hl=en&q=dog+sweet+grass&gl=us&shoprs=GBIqC3N3ZWV0IGdyYXNzMgcIEhIDRG9nYAE&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQip4GKBB6BAgwEHE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=dog+sweet+grass"
+    },
+    {
+      "query": "Usa",
+      "link": "https://www.google.com/search?hl=en&q=usa+sweet+grass&gl=us&shoprs=GBIqC3N3ZWV0IGdyYXNzMgcIEhIDVXNhYAE&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQip4GKBF6BAgwEHI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=usa+sweet+grass"
+    },
+    {
+      "query": "For Smudging",
+      "link": "https://www.google.com/search?hl=en&q=sweet+grass+for+smudging&gl=us&shoprs=GAEqC3N3ZWV0IGdyYXNzMiAIARIMRm9yIFNtdWRnaW5nGAI6DAi7zZAEENznkAQwA1jizyBgAQ&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQip4GKBJ6BAgwEHM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+grass+for+smudging"
+    },
+    {
+      "query": "Store",
+      "link": "https://www.google.com/search?hl=en&q=store+sweet+grass&gl=us&shoprs=GBIqC3N3ZWV0IGdyYXNzMgkIEhIFU3RvcmVgAQ&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQip4GKBN6BAgwEHQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=store+sweet+grass"
+    },
+    {
+      "query": "Indoor",
+      "link": "https://www.google.com/search?hl=en&q=indoor+sweet+grass&gl=us&shoprs=GAEqC3N3ZWV0IGdyYXNzMhYIARIGSW5kb29yOgoIpoJyEKiCcjACWOLPIGAB&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQip4GKBR6BAgwEHU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=indoor+sweet+grass"
+    },
+    {
+      "query": "Artificial Flora",
+      "link": "https://www.google.com/search?hl=en&q=artificial+flora+sweet+grass&gl=us&shoprs=GAEqC3N3ZWV0IGdyYXNzMiAIARIQQXJ0aWZpY2lhbCBGbG9yYToKCIXNXxCHzV8wAljizyBgAQ&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQip4GKBV6BAgwEHY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=artificial+flora+sweet+grass"
+    },
+    {
+      "query": "Under $10",
+      "link": "https://www.google.com/search?hl=en&q=sweet+grass+under+$10&gl=us&shoprs=Eg0SCxEAAAAA0BJjQRgBGAUqC3N3ZWV0IGdyYXNzMiIIBRIJVW5kZXIgJDEwGAIiDRILEQAAAADQEmNBGAEqAhgBWOLPIGAB&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQip4GKBZ6BAgwEHc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+grass+under+%2410"
+    },
+    {
+      "query": "Girl",
+      "link": "https://www.google.com/search?hl=en&q=girl+sweet+grass&gl=us&shoprs=GBIqC3N3ZWV0IGdyYXNzMggIEhIER2lybGAB&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQip4GKBd6BAgwEHg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=girl+sweet+grass"
+    },
+    {
+      "query": "Free",
+      "link": "https://www.google.com/search?hl=en&q=free+sweet+grass&gl=us&shoprs=GBIqC3N3ZWV0IGdyYXNzMggIEhIERnJlZWAB&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQip4GKBh6BAgwEHk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=free+sweet+grass"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Smell like",
+        "subtitle": "What Does Sweetgrass Smell Like",
+        "title": "Sweetgrass and the Scent of Rain - Alyssa Harad",
+        "link": "https://alyssaharad.com/2013/04/sweet-grass-and-the-scent-of-rain/#:~:text=Idaho%20is%20far%20enough%20north,between%20vanilla%20and%20warm%20hay.",
+        "displayed_link": "https://alyssaharad.com \u203a 2013/04 \u203a sweet-grass-and-the-s...",
+        "date": "Apr 11, 2013",
+        "snippet": "Idaho is far enough north for it\u2013in the United States it grows as far South as North Carolina, though it is rare there. Everywhere it grows it is prized. The thing that makes sweetgrass sweet is coumarin, a naturally occurring aromachemical that in its pure form has a scent somewhere between vanilla and warm hay.",
+        "snippet_highlighted_words": [
+          "somewhere between vanilla and warm hay"
+        ],
+        "favicon": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/344de9500b65ddd09553c9868e16a610ccf8f11f38305da63c0314ba50ae47cad1390787b8d2d83a.png",
+        "source": "alyssaharad.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROmUE5GmfRyiPMTj-IJMbXS8q9HqcyNb3iajRluRmsagQ&s",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=what+does+sweetgrass+smell+like&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQrooIegQIWRAI",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+does+sweetgrass+smell+like"
+      },
+      {
+        "text": "Benefits",
+        "subtitle": "Sweet Grass Benefits",
+        "title": "Native America Today | Smudging With Sweetgrass Will Make You ...",
+        "link": "https://nativeamericatoday.com/smudging-with-sweetgrass-will-make-you-happy/#:~:text=Burned%20to%20promote%20happiness%2C%20open,a%20space%2C%20person%20or%20object.",
+        "displayed_link": "https://nativeamericatoday.com \u203a smudging-with-sweetgra...",
+        "snippet": "Burned to promote happiness, open heartedness and harmony, sweetgrass is a sacred plant like sage that has long been used in smudging ceremonies. Yet unlike sage, which is a shrub, sweetgrass is actually a type of grass. Traditionally, sage has been used to ward off evil spirits and cleanse a space, person or object.",
+        "snippet_highlighted_words": [
+          "promote happiness, open heartedness and harmony"
+        ],
+        "favicon": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/344de9500b65ddd09553c9868e16a610afb2233ddb5bcc5e6ba0ecf88fae9300de1cd536af95582b.png",
+        "source": "nativeamericatoday.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Ca7oGSyV8wMO1S38fYH6fkIikZEAKINW2VKfidq9o_8&s",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=sweet+grass+benefits&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQrooIegQIWRAQ",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+grass+benefits"
+      },
+      {
+        "text": "Uses",
+        "subtitle": "Different Uses For Hierochloe Odorata",
+        "title": "Plant Fact Sheet",
+        "link": "https://plants.usda.gov/DocumentLibrary/factsheet/pdf/fs_hiod.pdf",
+        "displayed_link": "https://plants.usda.gov \u203a factsheet \u203a pdf \u203a fs_hiod",
+        "snippet": "Cultural: The cultural uses of sweetgrass include ceremonial incense, perfume, hair wash, bedding, basketry, dermatological aid, cold remedy, cough medicine, eyewash, febrifuge, respiratory aid, analgesic, insecticide, veterinary aid, decoration and adornment.",
+        "favicon": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/344de9500b65ddd09553c9868e16a610b7152a018eb5b42cc5a5ad38a3a0cd54dde571554429ba8e.png",
+        "source": "usda.gov",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=different+uses+for+hierochloe+odorata&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQrooIegQIWRAV",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=different+uses+for+hierochloe+odorata"
+      },
+      {
+        "text": "Planting",
+        "subtitle": "How To Plant Hierochloe Odorata",
+        "title": "How to Plant and Grow Sweetgrass - Better Homes & Gardens",
+        "link": "https://www.bhg.com/gardening/plant-dictionary/herb/sweetgrass/#:~:text=Plant%20sweetgrass%20in%20a%20location,edges%20of%20sloughs%20and%20marshes.",
+        "displayed_link": "https://www.bhg.com \u203a gardening \u203a plant-dictionary \u203a herb",
+        "date": "Mar 6, 2024",
+        "snippet": "Plant sweetgrass in a location with full to partial sun and consistently moist soil that is slightly acidic to neutral. Select a location with conditions that mimic the natural habitat of the grass in wet meadows, low prairies, and the edges of sloughs and marshes.",
+        "snippet_highlighted_words": [
+          "Plant sweetgrass in a location with full to partial sun and consistently moist soil that is slightly acidic to neutral"
+        ],
+        "favicon": "https://serpapi.com/searches/670a172b15c7400ef828ae59/images/344de9500b65ddd09553c9868e16a610a2370ffb60d857b6e11ed14cd25c631dd6f8ce7f23c7ac99.png",
+        "source": "bhg.com",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=how+to+plant+hierochloe+odorata&sa=X&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQrooIegQIWRAa",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+to+plant+hierochloe+odorata"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=sweet+grass&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=LBcKZ62FNb-0ptQP5LWJyAw&start=10&sa=N&sstk=AagrsujqZmsXrrGwZ6DH8KDURKgn5eEkLUfjbytEVIr8qrvBJ_l5RuUgH9iUTswXTE3kX1YXn8PgM7UNG-S9ttVKR9JvMZbrly6nTA&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQ8NMDegQIBxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=sweet+grass&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=LBcKZ62FNb-0ptQP5LWJyAw&start=10&sa=N&sstk=AagrsujqZmsXrrGwZ6DH8KDURKgn5eEkLUfjbytEVIr8qrvBJ_l5RuUgH9iUTswXTE3kX1YXn8PgM7UNG-S9ttVKR9JvMZbrly6nTA&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQ8tMDegQIBxAE",
+      "3": "https://www.google.com/search?q=sweet+grass&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=LBcKZ62FNb-0ptQP5LWJyAw&start=20&sa=N&sstk=AagrsujqZmsXrrGwZ6DH8KDURKgn5eEkLUfjbytEVIr8qrvBJ_l5RuUgH9iUTswXTE3kX1YXn8PgM7UNG-S9ttVKR9JvMZbrly6nTA&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQ8tMDegQIBxAG",
+      "4": "https://www.google.com/search?q=sweet+grass&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=LBcKZ62FNb-0ptQP5LWJyAw&start=30&sa=N&sstk=AagrsujqZmsXrrGwZ6DH8KDURKgn5eEkLUfjbytEVIr8qrvBJ_l5RuUgH9iUTswXTE3kX1YXn8PgM7UNG-S9ttVKR9JvMZbrly6nTA&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQ8tMDegQIBxAI",
+      "5": "https://www.google.com/search?q=sweet+grass&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=LBcKZ62FNb-0ptQP5LWJyAw&start=40&sa=N&sstk=AagrsujqZmsXrrGwZ6DH8KDURKgn5eEkLUfjbytEVIr8qrvBJ_l5RuUgH9iUTswXTE3kX1YXn8PgM7UNG-S9ttVKR9JvMZbrly6nTA&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQ8tMDegQIBxAK",
+      "6": "https://www.google.com/search?q=sweet+grass&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=LBcKZ62FNb-0ptQP5LWJyAw&start=50&sa=N&sstk=AagrsujqZmsXrrGwZ6DH8KDURKgn5eEkLUfjbytEVIr8qrvBJ_l5RuUgH9iUTswXTE3kX1YXn8PgM7UNG-S9ttVKR9JvMZbrly6nTA&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQ8tMDegQIBxAM",
+      "7": "https://www.google.com/search?q=sweet+grass&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=LBcKZ62FNb-0ptQP5LWJyAw&start=60&sa=N&sstk=AagrsujqZmsXrrGwZ6DH8KDURKgn5eEkLUfjbytEVIr8qrvBJ_l5RuUgH9iUTswXTE3kX1YXn8PgM7UNG-S9ttVKR9JvMZbrly6nTA&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQ8tMDegQIBxAO",
+      "8": "https://www.google.com/search?q=sweet+grass&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=LBcKZ62FNb-0ptQP5LWJyAw&start=70&sa=N&sstk=AagrsujqZmsXrrGwZ6DH8KDURKgn5eEkLUfjbytEVIr8qrvBJ_l5RuUgH9iUTswXTE3kX1YXn8PgM7UNG-S9ttVKR9JvMZbrly6nTA&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQ8tMDegQIBxAQ",
+      "9": "https://www.google.com/search?q=sweet+grass&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=LBcKZ62FNb-0ptQP5LWJyAw&start=80&sa=N&sstk=AagrsujqZmsXrrGwZ6DH8KDURKgn5eEkLUfjbytEVIr8qrvBJ_l5RuUgH9iUTswXTE3kX1YXn8PgM7UNG-S9ttVKR9JvMZbrly6nTA&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQ8tMDegQIBxAS",
+      "10": "https://www.google.com/search?q=sweet+grass&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=LBcKZ62FNb-0ptQP5LWJyAw&start=90&sa=N&sstk=AagrsujqZmsXrrGwZ6DH8KDURKgn5eEkLUfjbytEVIr8qrvBJ_l5RuUgH9iUTswXTE3kX1YXn8PgM7UNG-S9ttVKR9JvMZbrly6nTA&ved=2ahUKEwity4HBm4iJAxU_mokEHeRaAskQ8tMDegQIBxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+grass&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+grass&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+grass&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+grass&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+grass&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+grass&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+grass&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+grass&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+grass&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+grass&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+grass&start=90"
+    }
+  }
+}

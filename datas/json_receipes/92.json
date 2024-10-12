@@ -1,0 +1,785 @@
+{
+  "search_metadata": {
+    "id": "670a16dc4677bf23d3556a71",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5a50d4f387a511a1/670a16dc4677bf23d3556a71.json",
+    "created_at": "2024-10-12 06:27:40 UTC",
+    "processed_at": "2024-10-12 06:27:40 UTC",
+    "google_url": "https://www.google.com/search?q=sheep+milk&oq=sheep+milk&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/5a50d4f387a511a1/670a16dc4677bf23d3556a71.html",
+    "total_time_taken": 1.94
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "sheep milk",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "sheep milk",
+    "total_results": 86500000,
+    "time_taken_displayed": 0.41,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/7021aae44f5c73a11773606b9f48edf120148ece1f7485e103494783817336a8.webp",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQTdqQKB8gPYw6dV5VnhAbpHOWXQn0dDSia8yJ5k9ws3Zy8tEJW5mCZwqm4An6mUv9qHTAmLqgSyvBj3zIavyQHvQMAy0oFn5hl4KpOsZy6RwSl",
+      "source": "Frankie's Free Range Meats",
+      "title": "A2 Raw Sheep Sheeps Sheep's Milk Kefir Dairy 100% Grass Fed Finished Sheep Milk (Pint)",
+      "price": "$4.00",
+      "extracted_price": 4.0,
+      "delivery": "Free by 10/23",
+      "immersive_product_page_token": "eyJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicHJvZHVjdGlkIjoiMzI0NDY3MTkzNDQ4MDM1MzcxMSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzI0NDY3MTkzNDQ4MDM1MzcxMSIsImltYWdlRG9jaWQiOiIxMjE5NTc5OTE5Njc5NDk0NzY5NCIsInJkcyI6IiIsInF1ZXJ5Ijoic2hlZXArbWlsayJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicHJvZHVjdGlkIjoiMzI0NDY3MTkzNDQ4MDM1MzcxMSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzI0NDY3MTkzNDQ4MDM1MzcxMSIsImltYWdlRG9jaWQiOiIxMjE5NTc5OTE5Njc5NDk0NzY5NCIsInJkcyI6IiIsInF1ZXJ5Ijoic2hlZXArbWlsayJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/7021aae44f5c73a11773606b9f48edf16ca8fb2be28253a03fe734264ca6f3d2.webp",
+      "source_logo": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/7021aae44f5c73a11773606b9f48edf1164c9774fce6bd0f12941f058f2aca15146245a6e45d83b5.png",
+      "source": "Swiss Villa",
+      "title": "Half Gallon Raw Sheep Milk",
+      "price": "$25.62",
+      "extracted_price": 25.62,
+      "delivery": "Free by 10/21",
+      "immersive_product_page_token": "eyJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicHJvZHVjdGlkIjoiMTcyMTk4MjEzMjUxNTY4MDM5MDgiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MjE5ODIxMzI1MTU2ODAzOTA4IiwiaW1hZ2VEb2NpZCI6IjEwNTQ0MjAxNTMzOTUyOTkxOTY3IiwicmRzIjoiIiwicXVlcnkiOiJzaGVlcCttaWxrIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicHJvZHVjdGlkIjoiMTcyMTk4MjEzMjUxNTY4MDM5MDgiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MjE5ODIxMzI1MTU2ODAzOTA4IiwiaW1hZ2VEb2NpZCI6IjEwNTQ0MjAxNTMzOTUyOTkxOTY3IiwicmRzIjoiIiwicXVlcnkiOiJzaGVlcCttaWxrIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/7021aae44f5c73a11773606b9f48edf14d64929b3cf2f4e0fd16ca26a127f0e6.webp",
+      "source_logo": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/7021aae44f5c73a11773606b9f48edf18b223567cd7eb42e0a085bef9bb5cd8c29162aed9ec2ceef.png",
+      "source": "mestameadows.com",
+      "title": "Wholesome Sheep's Milk",
+      "price": "$6.00",
+      "extracted_price": 6.0,
+      "immersive_product_page_token": "eyJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicHJvZHVjdGlkIjoiODkwNjY1MTUxMTkwNDA3OTYzNSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODkwNjY1MTUxMTkwNDA3OTYzNSIsImltYWdlRG9jaWQiOiI1NzQ2MTYzNDAzNTc5MjgwNTEwIiwicmRzIjoiIiwicXVlcnkiOiJzaGVlcCttaWxrIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicHJvZHVjdGlkIjoiODkwNjY1MTUxMTkwNDA3OTYzNSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODkwNjY1MTUxMTkwNDA3OTYzNSIsImltYWdlRG9jaWQiOiI1NzQ2MTYzNDAzNTc5MjgwNTEwIiwicmRzIjoiIiwicXVlcnkiOiJzaGVlcCttaWxrIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/7021aae44f5c73a11773606b9f48edf18aa231d2e95ba228d38eda8a8b3c0266.webp",
+      "source_logo": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/7021aae44f5c73a11773606b9f48edf13fe61dd9472a7fae4e2d75fa04d5eb2a8d54b5fa79aa4cdd.png",
+      "source": "Ewegurt Dog & Cat Treats",
+      "title": "RAW SHEEP MILK for Dogs and Cats includes Omega 3 & 6 essential fatty acids",
+      "price": "$19.50",
+      "extracted_price": 19.5,
+      "immersive_product_page_token": "eyJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicHJvZHVjdGlkIjoiMTExMjc2OTA3MzM4MjAyMTkxMTMiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExMTI3NjkwNzMzODIwMjE5MTEzIiwiaW1hZ2VEb2NpZCI6IjE5NTQ4MzQ2Mzc3MzI2OTg4OTMiLCJyZHMiOiIiLCJxdWVyeSI6InNoZWVwK21pbGsifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicHJvZHVjdGlkIjoiMTExMjc2OTA3MzM4MjAyMTkxMTMiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExMTI3NjkwNzMzODIwMjE5MTEzIiwiaW1hZ2VEb2NpZCI6IjE5NTQ4MzQ2Mzc3MzI2OTg4OTMiLCJyZHMiOiIiLCJxdWVyeSI6InNoZWVwK21pbGsifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/7021aae44f5c73a11773606b9f48edf1ddcc815bde363577c9facff63833737a.webp",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT4DlFBkcV79MInYbDDO5nw3VbQXeMSiU9ca5OMgTLUlm7laOmv3WEowrTjhUksFGlUBBxzwTso7M6Gk524wVIdwIaI",
+      "source": "wagsup.com",
+      "title": "Sheep Milk Kefir 975ml",
+      "price": "$14.83",
+      "extracted_price": 14.83,
+      "immersive_product_page_token": "eyJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicHJvZHVjdGlkIjoiMTgzMTcyMTAxOTk4NjQyMTE2OTEiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE4MzE3MjEwMTk5ODY0MjExNjkxIiwiaW1hZ2VEb2NpZCI6IjEwMDMzNTE2ODcyOTM3MTc2NDc0IiwicmRzIjoiIiwicXVlcnkiOiJzaGVlcCttaWxrIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicHJvZHVjdGlkIjoiMTgzMTcyMTAxOTk4NjQyMTE2OTEiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE4MzE3MjEwMTk5ODY0MjExNjkxIiwiaW1hZ2VEb2NpZCI6IjEwMDMzNTE2ODcyOTM3MTc2NDc0IiwicmRzIjoiIiwicXVlcnkiOiJzaGVlcCttaWxrIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/7021aae44f5c73a11773606b9f48edf1ebc1926dd9c92b3c5439f7df5bb8c3bd.webp",
+      "source_logo": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/7021aae44f5c73a11773606b9f48edf1f15114f2676d4b76542785483c92f7da2c0c9ae4cd43ba4a.jpeg",
+      "source": "The Rocking Tree Farm",
+      "title": "Sheep milk",
+      "price": "$2.00",
+      "extracted_price": 2.0,
+      "immersive_product_page_token": "eyJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicHJvZHVjdGlkIjoiMTU1Mzk2MTMxOTQ5Njk1NTk0NDEiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1NTM5NjEzMTk0OTY5NTU5NDQxIiwiaW1hZ2VEb2NpZCI6IjY0NTQwNjE3NTAzNDQ1NzUxNzAiLCJyZHMiOiIiLCJxdWVyeSI6InNoZWVwK21pbGsifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicHJvZHVjdGlkIjoiMTU1Mzk2MTMxOTQ5Njk1NTk0NDEiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1NTM5NjEzMTk0OTY5NTU5NDQxIiwiaW1hZ2VEb2NpZCI6IjY0NTQwNjE3NTAzNDQ1NzUxNzAiLCJyZHMiOiIiLCJxdWVyeSI6InNoZWVwK21pbGsifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/7021aae44f5c73a11773606b9f48edf18e289d323125514e4ec4e7a07fd78c24.webp",
+      "source_logo": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/7021aae44f5c73a11773606b9f48edf174ad053a677c685d1e737461c8b8e6a374b17433d5ba9e45.png",
+      "source": "Swiss Villa",
+      "title": "Pint Raw Sheep Milk",
+      "price": "$8.16",
+      "extracted_price": 8.16,
+      "delivery": "Free by 10/21",
+      "immersive_product_page_token": "eyJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicHJvZHVjdGlkIjoiMTc3MDU3ODgxNDkyMDgxNjQ2OSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc3MDU3ODgxNDkyMDgxNjQ2OSIsImltYWdlRG9jaWQiOiIxMDI1MDc5MjQwNjk4MTYwNTY4MCIsInJkcyI6IiIsInF1ZXJ5Ijoic2hlZXArbWlsayJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicHJvZHVjdGlkIjoiMTc3MDU3ODgxNDkyMDgxNjQ2OSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc3MDU3ODgxNDkyMDgxNjQ2OSIsImltYWdlRG9jaWQiOiIxMDI1MDc5MjQwNjk4MTYwNTY4MCIsInJkcyI6IiIsInF1ZXJ5Ijoic2hlZXArbWlsayJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/7021aae44f5c73a11773606b9f48edf177b5d93d19b4a8631811c828d37f055b.webp",
+      "source_logo": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/7021aae44f5c73a11773606b9f48edf1c03d6ac06aadb2a59baa45d4d2ba683ece45dd2dd7f57282.png",
+      "source": "SF Raw Feeders",
+      "title": "Desi Raw Sheep Milk, 1/2-Gallon",
+      "price": "$30.49",
+      "extracted_price": 30.49,
+      "immersive_product_page_token": "eyJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicHJvZHVjdGlkIjoiMTUwMjU5OTIwODM0MzY5NjU0IiwiY2F0YWxvZ2lkIjoiIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNTAyNTk5MjA4MzQzNjk2NTQiLCJpbWFnZURvY2lkIjoiODI5NjcxNTc5OTc5MDkzMTQxNyIsInJkcyI6IiIsInF1ZXJ5Ijoic2hlZXArbWlsayJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicHJvZHVjdGlkIjoiMTUwMjU5OTIwODM0MzY5NjU0IiwiY2F0YWxvZ2lkIjoiIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNTAyNTk5MjA4MzQzNjk2NTQiLCJpbWFnZURvY2lkIjoiODI5NjcxNTc5OTc5MDkzMTQxNyIsInJkcyI6IiIsInF1ZXJ5Ijoic2hlZXArbWlsayJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/7021aae44f5c73a11773606b9f48edf1553e26770939e99eaccd827ad6de77bb.webp",
+      "source_logo": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/7021aae44f5c73a11773606b9f48edf192a9f2b51fbef026b07ba2f72d8b2d18e541f7a7ede47c52.png",
+      "source": "Etsy",
+      "title": "freeze dried Icelandic sheep's milk - 2 ounces pasteurized",
+      "price": "$5.00",
+      "extracted_price": 5.0,
+      "immersive_product_page_token": "eyJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicHJvZHVjdGlkIjoiMTQ1MTgwNTQ5MzMzMTY0NDU3NTkiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0NTE4MDU0OTMzMzE2NDQ1NzU5IiwiaW1hZ2VEb2NpZCI6IjE3MTU3NzYwMzA2NjEwNTIxNDUiLCJyZHMiOiIiLCJxdWVyeSI6InNoZWVwK21pbGsifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicHJvZHVjdGlkIjoiMTQ1MTgwNTQ5MzMzMTY0NDU3NTkiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0NTE4MDU0OTMzMzE2NDQ1NzU5IiwiaW1hZ2VEb2NpZCI6IjE3MTU3NzYwMzA2NjEwNTIxNDUiLCJyZHMiOiIiLCJxdWVyeSI6InNoZWVwK21pbGsifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/7021aae44f5c73a11773606b9f48edf18f1345e6691de94f9f7f960d7f73f86c.webp",
+      "source_logo": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/7021aae44f5c73a11773606b9f48edf1023c0d638576b891ef26e69b6129c0ca9bebd21ba328fa0a.png",
+      "source": "willystreet.coop",
+      "title": "Hidden Springs Creamery Blue Bohemian Sheep Milk",
+      "price": "$28.99",
+      "extracted_price": 28.99,
+      "immersive_product_page_token": "eyJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicHJvZHVjdGlkIjoiMTA0OTQ0NzMzODgwNTA2MTA1NjMiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwNDk0NDczMzg4MDUwNjEwNTYzIiwiaW1hZ2VEb2NpZCI6IjkwMTM5NTkwMzA2NzE3NzU3NzgiLCJyZHMiOiIiLCJxdWVyeSI6InNoZWVwK21pbGsifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicHJvZHVjdGlkIjoiMTA0OTQ0NzMzODgwNTA2MTA1NjMiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwNDk0NDczMzg4MDUwNjEwNTYzIiwiaW1hZ2VEb2NpZCI6IjkwMTM5NTkwMzA2NzE3NzU3NzgiLCJyZHMiOiIiLCJxdWVyeSI6InNoZWVwK21pbGsifQ%3D%3D"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is sheep milk good to drink?",
+      "snippet": "Sheep milk is good for your immune system as it has a lot of essential minerals and vitamins, including calcium, potassium, iodine, magnesium, phosphorus, zinc, thiamine and riboflavin. In fact, sheep's milk has more vitamins per serving than other kinds of animal milk. It has more vitamins A and E than cow's milk.",
+      "title": "Health Benefits of Drinking Sheep Milk - Jones Family Farm",
+      "link": "https://jonesfamilyfarm.co.nz/health-benefits-from-drinking-sheep-milk/",
+      "displayed_link": "https://jonesfamilyfarm.co.nz \u203a health-benefits-from-drin...",
+      "source_logo": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/35abe637ad330aca34c0d3bf06e233be1a04812737ea1a710664e2959ad05f1d.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1pVaGhjbVl0ZGpCSFdsQlhTRzFQTjFVM2EzZ3dTemMzV1RaeU5qTnVNV1JuVm5GbmFFTlRUVGRQWldKb2RFeHZNMFI1TFc1M1ZGUjZSbVJyZUdoRFEyRjJaRGhORWhjelVsbExXaTB0Y1U5eFpURndkRkZRYUZsVE5tbFJaeG9pUVVaWWNrVmpjSGx6TFc5R1l6RjBWblZvY0ZSTmNHdEJia0ZVUlRSdE1YQk1adyIsImZjdiI6IjMiLCJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicWMiOiJDZ3B6YUdWbGNDQnRhV3hyRUFCOUxsRUtQdyIsInF1ZXN0aW9uIjoiSXMgc2hlZXAgbWlsayBnb29kIHRvIGRyaW5rPyIsImxrIjoiR2h0cGN5QnphR1ZsY0NCdGFXeHJJR2R2YjJRZ2RHOGdaSEpwYm1zIiwiYnMiOiJjLU55NEpMeExGWW96a2hOTFZESXpjekpWa2pQejA5UktNbFhTQ25Lek11MmwzaVZiaVFySloySld3bVhQWmRNZUVhbFFrcC1ubnFKUW5tcVFtbHhLcEppZTRtbDZrWXlVbExsRUNWWVZIQlpjRWs0RnNGRXdHYW41UmRCTmQ4TU41S1VFa19FTGczUzZaeVlCekl5TmJFRW9rSzlHS3B6RTFobk1uWnBBVVlBIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1pVaGhjbVl0ZGpCSFdsQlhTRzFQTjFVM2EzZ3dTemMzV1RaeU5qTnVNV1JuVm5GbmFFTlRUVGRQWldKb2RFeHZNMFI1TFc1M1ZGUjZSbVJyZUdoRFEyRjJaRGhORWhjelVsbExXaTB0Y1U5eFpURndkRkZRYUZsVE5tbFJaeG9pUVVaWWNrVmpjSGx6TFc5R1l6RjBWblZvY0ZSTmNHdEJia0ZVUlRSdE1YQk1adyIsImZjdiI6IjMiLCJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicWMiOiJDZ3B6YUdWbGNDQnRhV3hyRUFCOUxsRUtQdyIsInF1ZXN0aW9uIjoiSXMgc2hlZXAgbWlsayBnb29kIHRvIGRyaW5rPyIsImxrIjoiR2h0cGN5QnphR1ZsY0NCdGFXeHJJR2R2YjJRZ2RHOGdaSEpwYm1zIiwiYnMiOiJjLU55NEpMeExGWW96a2hOTFZESXpjekpWa2pQejA5UktNbFhTQ25Lek11MmwzaVZiaVFySloySld3bVhQWmRNZUVhbFFrcC1ubnFKUW5tcVFtbHhLcEppZTRtbDZrWXlVbExsRUNWWVZIQlpjRWs0RnNGRXdHYW41UmRCTmQ4TU41S1VFa19FTGczUzZaeVlCekl5TmJFRW9rSzlHS3B6RTFobk1uWnBBVVlBIiwiaWQiOiJmY18xIn0%3D"
+    },
+    {
+      "question": "Why don't we use sheep milk?",
+      "snippet": "As for sheep's milk, almost no one in the United States or anywhere else drinks it straight. It has twice the fat of cow's milk and human milk, making it too rich to be very appealing as a beverage.",
+      "title": "Why don't we drink other animals' milk? The dairy of camels, buffalo ...",
+      "date": "Jul 24, 2012",
+      "link": "https://slate.com/human-interest/2012/07/why-dont-we-drink-other-animals-milk-the-dairy-of-camels-buffalo-pigs-sheep-and-goats.html",
+      "displayed_link": "https://slate.com \u203a human-interest \u203a 2012/07 \u203a why-dont-...",
+      "source_logo": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/35abe637ad330aca34c0d3bf06e233be900671120c07440ad5d1b831c2d51681.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1pVaGhjbVl0ZGpCSFdsQlhTRzFQTjFVM2EzZ3dTemMzV1RaeU5qTnVNV1JuVm5GbmFFTlRUVGRQWldKb2RFeHZNMFI1TFc1M1ZGUjZSbVJyZUdoRFEyRjJaRGhORWhjelVsbExXaTB0Y1U5eFpURndkRkZRYUZsVE5tbFJaeG9pUVVaWWNrVmpjSGx6TFc5R1l6RjBWblZvY0ZSTmNHdEJia0ZVUlRSdE1YQk1adyIsImZjdiI6IjMiLCJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicWMiOiJDZ3B6YUdWbGNDQnRhV3hyRUFCOUxsRUtQdyIsInF1ZXN0aW9uIjoiV2h5IGRvbid0IHdlIHVzZSBzaGVlcCBtaWxrPyIsImxrIjoiR2hwM2FIa2daRzl1ZENCM1pTQjFjMlVnYzJobFpYQWdiV2xzYXciLCJicyI6ImMtTnk0Skx4TEZZb3praE5MVkRJemN6SlZralB6MDlSS01sWFNDbkt6TXUybDNpVmJpUXJKWjJKV3dtWFBaZE1lRWFsUWtwLW5ucUpRbm1xUW1seEtwSmllNG1sNmtZeVVsTGxFQ1ZZVkhCWmNFazRGc0ZFd0dhbjVSZEJOZDhNTjVLVUVrX0VMZzNTNlp5WUJ6SXlOYkVFb2tLOUdLcHpFMWhuTW5acEFVWUEiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1pVaGhjbVl0ZGpCSFdsQlhTRzFQTjFVM2EzZ3dTemMzV1RaeU5qTnVNV1JuVm5GbmFFTlRUVGRQWldKb2RFeHZNMFI1TFc1M1ZGUjZSbVJyZUdoRFEyRjJaRGhORWhjelVsbExXaTB0Y1U5eFpURndkRkZRYUZsVE5tbFJaeG9pUVVaWWNrVmpjSGx6TFc5R1l6RjBWblZvY0ZSTmNHdEJia0ZVUlRSdE1YQk1adyIsImZjdiI6IjMiLCJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicWMiOiJDZ3B6YUdWbGNDQnRhV3hyRUFCOUxsRUtQdyIsInF1ZXN0aW9uIjoiV2h5IGRvbid0IHdlIHVzZSBzaGVlcCBtaWxrPyIsImxrIjoiR2hwM2FIa2daRzl1ZENCM1pTQjFjMlVnYzJobFpYQWdiV2xzYXciLCJicyI6ImMtTnk0Skx4TEZZb3praE5MVkRJemN6SlZralB6MDlSS01sWFNDbkt6TXUybDNpVmJpUXJKWjJKV3dtWFBaZE1lRWFsUWtwLW5ucUpRbm1xUW1seEtwSmllNG1sNmtZeVVsTGxFQ1ZZVkhCWmNFazRGc0ZFd0dhbjVSZEJOZDhNTjVLVUVrX0VMZzNTNlp5WUJ6SXlOYkVFb2tLOUdLcHpFMWhuTW5acEFVWUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+    },
+    {
+      "question": "Are sheep good for milk?",
+      "snippet": "There is a growing interest in milking sheep and sheep milk products. In Europe, sheep dairying is a fairly common enterprise, and sheep breeds have been developed specifically for milk production. It is not unusual for these breeds to average four to seven pounds of milk daily.",
+      "title": "Milking Sheep Production - Penn State Extension",
+      "date": "Jan 25, 2023",
+      "link": "https://extension.psu.edu/milking-sheep-production",
+      "displayed_link": "https://extension.psu.edu \u203a milking-sheep-production",
+      "source_logo": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1pVaGhjbVl0ZGpCSFdsQlhTRzFQTjFVM2EzZ3dTemMzV1RaeU5qTnVNV1JuVm5GbmFFTlRUVGRQWldKb2RFeHZNMFI1TFc1M1ZGUjZSbVJyZUdoRFEyRjJaRGhORWhjelVsbExXaTB0Y1U5eFpURndkRkZRYUZsVE5tbFJaeG9pUVVaWWNrVmpjSGx6TFc5R1l6RjBWblZvY0ZSTmNHdEJia0ZVUlRSdE1YQk1adyIsImZjdiI6IjMiLCJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicWMiOiJDZ3B6YUdWbGNDQnRhV3hyRUFCOUxsRUtQdyIsInF1ZXN0aW9uIjoiQXJlIHNoZWVwIGdvb2QgZm9yIG1pbGs/IiwibGsiOiJHaGRoY21VZ2MyaGxaWEFnWjI5dlpDQm1iM0lnYldsc2F3IiwiYnMiOiJjLU55NEpMeExGWW96a2hOTFZESXpjekpWa2pQejA5UktNbFhTQ25Lek11MmwzaVZiaVFySloySld3bVhQWmRNZUVhbFFrcC1ubnFKUW5tcVFtbHhLcEppZTRtbDZrWXlVbExsRUNWWVZIQlpjRWs0RnNGRXdHYW41UmRCTmQ4TU41S1VFa19FTGczUzZaeVlCekl5TmJFRW9rSzlHS3B6RTFobk1uWnBBVVlBIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1pVaGhjbVl0ZGpCSFdsQlhTRzFQTjFVM2EzZ3dTemMzV1RaeU5qTnVNV1JuVm5GbmFFTlRUVGRQWldKb2RFeHZNMFI1TFc1M1ZGUjZSbVJyZUdoRFEyRjJaRGhORWhjelVsbExXaTB0Y1U5eFpURndkRkZRYUZsVE5tbFJaeG9pUVVaWWNrVmpjSGx6TFc5R1l6RjBWblZvY0ZSTmNHdEJia0ZVUlRSdE1YQk1adyIsImZjdiI6IjMiLCJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicWMiOiJDZ3B6YUdWbGNDQnRhV3hyRUFCOUxsRUtQdyIsInF1ZXN0aW9uIjoiQXJlIHNoZWVwIGdvb2QgZm9yIG1pbGs%2FIiwibGsiOiJHaGRoY21VZ2MyaGxaWEFnWjI5dlpDQm1iM0lnYldsc2F3IiwiYnMiOiJjLU55NEpMeExGWW96a2hOTFZESXpjekpWa2pQejA5UktNbFhTQ25Lek11MmwzaVZiaVFySloySld3bVhQWmRNZUVhbFFrcC1ubnFKUW5tcVFtbHhLcEppZTRtbDZrWXlVbExsRUNWWVZIQlpjRWs0RnNGRXdHYW41UmRCTmQ4TU41S1VFa19FTGczUzZaeVlCekl5TmJFRW9rSzlHS3B6RTFobk1uWnBBVVlBIiwiaWQiOiJmY18xIn0%3D"
+    },
+    {
+      "question": "Can we eat sheep's milk?",
+      "snippet": "Sheep milk protein is complete because it has all 10 essential amino acids the body needs. Sheep milk has more of the good fats! Sheep milk is higher in natural vitamins and minerals. Sheep milk is easier to digest.",
+      "title": "FAQ - Bellwether Farms",
+      "link": "https://bellwetherfarms.com/faq/",
+      "displayed_link": "https://bellwetherfarms.com \u203a faq",
+      "source_logo": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/35abe637ad330aca34c0d3bf06e233be09f6de50b5722ae634e31090fa6b735f.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1pVaGhjbVl0ZGpCSFdsQlhTRzFQTjFVM2EzZ3dTemMzV1RaeU5qTnVNV1JuVm5GbmFFTlRUVGRQWldKb2RFeHZNMFI1TFc1M1ZGUjZSbVJyZUdoRFEyRjJaRGhORWhjelVsbExXaTB0Y1U5eFpURndkRkZRYUZsVE5tbFJaeG9pUVVaWWNrVmpjSGx6TFc5R1l6RjBWblZvY0ZSTmNHdEJia0ZVUlRSdE1YQk1adyIsImZjdiI6IjMiLCJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicWMiOiJDZ3B6YUdWbGNDQnRhV3hyRUFCOUxsRUtQdyIsInF1ZXN0aW9uIjoiQ2FuIHdlIGVhdCBzaGVlcCdzIG1pbGs/IiwibGsiOiJHaGRqWVc0Z2QyVWdaV0YwSUhOb1pXVndKM01nYldsc2F3IiwiYnMiOiJjLU55NEpMeExGWW96a2hOTFZESXpjekpWa2pQejA5UktNbFhTQ25Lek11MmwzaVZiaVFySloySld3bVhQWmRNZUVhbFFrcC1ubnFKUW5tcVFtbHhLcEppZTRtbDZrWXlVbExsRUNWWVZIQlpjRWs0RnNGRXdHYW41UmRCTmQ4TU41S1VFa19FTGczUzZaeVlCekl5TmJFRW9rSzlHS3B6RTFobk1uWnBBVVlBIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1pVaGhjbVl0ZGpCSFdsQlhTRzFQTjFVM2EzZ3dTemMzV1RaeU5qTnVNV1JuVm5GbmFFTlRUVGRQWldKb2RFeHZNMFI1TFc1M1ZGUjZSbVJyZUdoRFEyRjJaRGhORWhjelVsbExXaTB0Y1U5eFpURndkRkZRYUZsVE5tbFJaeG9pUVVaWWNrVmpjSGx6TFc5R1l6RjBWblZvY0ZSTmNHdEJia0ZVUlRSdE1YQk1adyIsImZjdiI6IjMiLCJlaSI6IjNSWUtaLS1xT3FlMXB0UVBoWVM2aVFnIiwicWMiOiJDZ3B6YUdWbGNDQnRhV3hyRUFCOUxsRUtQdyIsInF1ZXN0aW9uIjoiQ2FuIHdlIGVhdCBzaGVlcCdzIG1pbGs%2FIiwibGsiOiJHaGRqWVc0Z2QyVWdaV0YwSUhOb1pXVndKM01nYldsc2F3IiwiYnMiOiJjLU55NEpMeExGWW96a2hOTFZESXpjekpWa2pQejA5UktNbFhTQ25Lek11MmwzaVZiaVFySloySld3bVhQWmRNZUVhbFFrcC1ubnFKUW5tcVFtbHhLcEppZTRtbDZrWXlVbExsRUNWWVZIQlpjRWs0RnNGRXdHYW41UmRCTmQ4TU41S1VFa19FTGczUzZaeVlCekl5TmJFRW9rSzlHS3B6RTFobk1uWnBBVVlBIiwiaWQiOiJmY18xIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Sheep's milk",
+      "link": "https://en.wikipedia.org/wiki/Sheep%27s_milk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Sheep%2527s_milk&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQFnoECC4QAQ&usg=AOvVaw0MV_QEwiYnhxJ5Z6rtflhh",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Sheep's_milk",
+      "thumbnail": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/855840806f776ca5a2c957172621b90a72fb91c4127ae35280b5044ba274d78e.jpeg",
+      "favicon": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/855840806f776ca5a2c957172621b90a295a9271b6f8f77f462c25461ae27d1b.png",
+      "snippet": "Sheep's milk (or ewes' milk) is the milk of domestic sheep. It is commonly used to make cultured dairy products, such as cheese.",
+      "snippet_highlighted_words": [
+        "Sheep's milk",
+        "ewes",
+        "milk"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Where can I buy sheeps milk in the US? : r/cheesemaking",
+      "link": "https://www.reddit.com/r/cheesemaking/comments/17wwzel/where_can_i_buy_sheeps_milk_in_the_us/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/cheesemaking/comments/17wwzel/where_can_i_buy_sheeps_milk_in_the_us/&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQFnoECDYQAQ&usg=AOvVaw0YYveuuQXAXJCx1X84Q_J_",
+      "displayed_link": "9 comments \u00b7 11 months ago",
+      "favicon": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/855840806f776ca5a2c957172621b90aa3d7d5eb64000f88d3a56012fa8ea4fb.png",
+      "snippet": "Looking to make manchego. Located in Miami, FL.",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Does any of you consume sheep milk ? We use our ... - Reddit",
+            "link": "https://www.reddit.com/r/sheep/comments/1dr0hoy/does_any_of_you_consume_sheep_milk_we_use_our/",
+            "date": "Jun 29, 2024"
+          },
+          {
+            "title": "No-Slaughter Dairy Sheep? : r/homestead - Reddit",
+            "link": "https://www.reddit.com/r/homestead/comments/18v18m8/noslaughter_dairy_sheep/",
+            "date": "Dec 31, 2023"
+          },
+          {
+            "title": "Unhomogenized sheep's milk : r/cheesemaking - Reddit",
+            "link": "https://www.reddit.com/r/cheesemaking/comments/16s30ys/unhomogenized_sheeps_milk/",
+            "date": "Sep 25, 2023"
+          },
+          {
+            "title": "My body says cow milk is a no. BUT goat & sheep milk is a yes.",
+            "link": "https://www.reddit.com/r/Cheese/comments/y96yug/my_body_says_cow_milk_is_a_no_but_goat_sheep_milk/",
+            "date": "Oct 20, 2022"
+          }
+        ]
+      },
+      "source": "Reddit \u00b7 r/cheesemaking"
+    },
+    {
+      "position": 3,
+      "title": "Sheep Milk/Products",
+      "link": "https://harmonyacres.com/store/sheep-milk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://harmonyacres.com/store/sheep-milk&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQFnoECFkQAQ&usg=AOvVaw1wLrpl59POwZTrGvTrc_ZP",
+      "displayed_link": "https://harmonyacres.com \u203a store \u203a sheep-milk",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkInUw_Q4oeJILT99SFqYPo_Ry6itvTvhrPdo2-LZPNCp6yjexMxHs&s",
+      "favicon": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/855840806f776ca5a2c957172621b90a93f39438c7a933459715a17775cfd243.png",
+      "snippet": "Sheep Milk Cheese - Luscious Lamb 8 oz. ... Harmony Acres is a food ministry on a mission to inspire farmers to become genuine stewards of the Lord's earthly ...",
+      "snippet_highlighted_words": [
+        "Sheep Milk"
+      ],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkInUw_Q4oeJILT99SFqYPo_Ry6itvTvhrPdo2-LZPNCp6yjexMxHs&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-_MdvSxTYvCf0QYe-dtrkbkP0HTI_HZ_Z4YKxrtMYc7EQT0gafQ5IUr_dMgwfl5tRQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX1W4NMH5O5xq2wr39-lCRBZ_Yjxh3ANGrwUwdzMzzZXzcqDVFjqbpE_wKAH-gx-QfVTY&s"
+      ],
+      "source": "HARMONY ACRES"
+    },
+    {
+      "position": 4,
+      "title": "Dairy Sheep: A Remarkable Triple Purpose Animal",
+      "link": "https://snowdropfarm.com/2024/02/09/dairy-sheep-a-remarkable-triple-purpose-animal/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://snowdropfarm.com/2024/02/09/dairy-sheep-a-remarkable-triple-purpose-animal/&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQFnoECDkQAQ&usg=AOvVaw0oTrmbq2lb5VJMmr6RACdQ",
+      "displayed_link": "https://snowdropfarm.com \u203a 2024 \u203a February \u203a 9",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeI60X_qgHAc3POUqozh2ZetM99reBFQbm-Fq8T77ldRyq_oVSJel5&s",
+      "favicon": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/855840806f776ca5a2c957172621b90a4f8814ed5d7b557e45f106695b43a032.jpeg",
+      "date": "Feb 9, 2024",
+      "snippet": "It contains up to 2x the protein in goat or cow milk and 36% more calcium than cows milk. Sheep milk is a better source of all 10 essential ...",
+      "snippet_highlighted_words": [
+        "Sheep milk"
+      ],
+      "source": "Snowdrop Farm"
+    },
+    {
+      "position": 5,
+      "title": "Milk, sheep, fluid - FoodData Central - USDA",
+      "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170882/nutrients",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fdc.nal.usda.gov/fdc-app.html%23/food-details/170882/nutrients&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQFnoECF0QAQ&usg=AOvVaw0LaXKtiFGd2F8ViulLPfBN",
+      "displayed_link": "https://fdc.nal.usda.gov \u203a fdc-app",
+      "favicon": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/855840806f776ca5a2c957172621b90ad3c19df4f9aa7fbaf4ac5fd33c0c17fa.png",
+      "snippet": "Milk, sheep, fluid ; Energy, 108, kcal ; Energy, 451, kJ ; Protein, 5.98, g ; Total lipid (fat), 7, g.",
+      "snippet_highlighted_words": [
+        "Milk",
+        "sheep"
+      ],
+      "source": "USDA FoodData Central (.gov)"
+    },
+    {
+      "position": 6,
+      "title": "Raspberry Ridge Creamery",
+      "link": "https://www.raspberryridgecreamery.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.raspberryridgecreamery.com/&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQFnoECC8QAQ&usg=AOvVaw3XyQjBnm24ibk0BxYSt-eg",
+      "displayed_link": "https://www.raspberryridgecreamery.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMoFPjDuFrqAhXLM8ciCH3DDcv4GCEjmcNE5iuPMzRet_hfM1-vtT7&s=10",
+      "favicon": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/855840806f776ca5a2c957172621b90a2e90ec2f5685cfc0892c6e141ac038e8.png",
+      "snippet": "Our dairy products are made from 100% sheep's milk. The sheep eat pasture in the summer months, and in the winter they eat hay and a mixture of alfalfa, oats ...",
+      "snippet_highlighted_words": [
+        "sheep's milk"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 6,
+            "currency": "$ to $"
+          },
+          "extensions": [
+            "$6 to $12"
+          ]
+        }
+      },
+      "source": "Raspberry Ridge Creamery"
+    },
+    {
+      "position": 7,
+      "title": "The Clun Forest \u2013 The Jersey of the Dairy Sheep",
+      "link": "https://www.clunforestsheep.org/nacfa-blue-book/the-clun-forest-the-jersey-of-the-dairy-sheep/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.clunforestsheep.org/nacfa-blue-book/the-clun-forest-the-jersey-of-the-dairy-sheep/&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQFnoECDAQAQ&usg=AOvVaw2lYJPP7fXf7R9eeimFxv1b",
+      "displayed_link": "https://www.clunforestsheep.org \u203a nacfa-blue-book \u203a the-...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ19TNNCgwxAix3ZeFM8OIKBZ0sdsW1Uqcghumqpmn5qdZ4MR-aPlAQtw&s",
+      "favicon": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/855840806f776ca5a2c957172621b90a2d3f3e9b1b47205269ac944bdca1b0b5.png",
+      "snippet": "With two people milking, we can milk 130 sheep in about 75 minutes. The Clun personality seems to be better suited for this latter system than the yoke system.",
+      "snippet_highlighted_words": [
+        "milk",
+        "sheep"
+      ],
+      "source": "North American Clun Forest Association"
+    },
+    {
+      "position": 8,
+      "title": "Wholesome Sheep's Milk",
+      "link": "https://www.mestameadows.com/product-page/raw-sheeps-milk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mestameadows.com/product-page/raw-sheeps-milk&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQFnoECDUQAQ&usg=AOvVaw0r9LnnO35yRQhx13GyxR7i",
+      "displayed_link": "https://www.mestameadows.com \u203a raw-sheeps-milk",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8XTEwkGyqmEKo7WFB3symcTofS13aFs7lbpibPoJKWhksX7k5wJdI&s",
+      "favicon": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/855840806f776ca5a2c957172621b90a67fce12e0640bed8d09e9be99d08bbe6.png",
+      "snippet": "Our milk is unpasturized, milked in a Grade A designed diary barn, using a double filtered milking system for ultimate purity and quality. We do ...",
+      "snippet_highlighted_words": [
+        "milk"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 6.0,
+            "currency": "$",
+            "free_day_delivery": 2
+          },
+          "extensions": [
+            "$6.00",
+            "\u200eFree 2\u201310 day delivery",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Mesta Meadows"
+    },
+    {
+      "position": 9,
+      "title": "Why We Milk Sheep - Whoopsy Daisy Farm",
+      "link": "https://www.whoopsydaisyfarm.com/blog/why-we-milk-sheep",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.whoopsydaisyfarm.com/blog/why-we-milk-sheep&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQFnoECCwQAQ&usg=AOvVaw3C56cvaS4o7SV-eMBJ5ytc",
+      "displayed_link": "https://www.whoopsydaisyfarm.com \u203a blog \u203a why-we-...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcWLliPOFKHPPprovZDBYDC5mwtehGAkPDd_QftnZpA7fv2MgQUrkKIw&s",
+      "favicon": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/855840806f776ca5a2c957172621b90a221b5b7e358825e5d21e5d5f806ac7cc.png",
+      "date": "Jan 20, 2024",
+      "snippet": "Allegedly this breed's butterfat content could run from 8-12%, which is the highest amount of butterfat found amongst goats. The bucks were also ...",
+      "source": "whoopsydaisyfarm.com"
+    },
+    {
+      "position": 10,
+      "title": "Dairy sheep",
+      "link": "https://www.sheep101.info/dairy.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sheep101.info/dairy.html&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQFnoECC0QAQ&usg=AOvVaw2jnl4UuedX8BRlB6eKB0kV",
+      "displayed_link": "https://www.sheep101.info \u203a dairy",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_hh5zjazMc-lWW43uOC0Vt63xP9azTq3PGodCyFisX8MzQBqpKtPXfA&s",
+      "favicon": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/855840806f776ca5a2c957172621b90a1f3b27351b680a66ee8526537532b8d2.png",
+      "snippet": "Sheep milk yields 18 to 25 percent cheese, whereas goat and cow milk only yield 9 to 10 percent. While sheep usually produce less milk than goats and much less ...",
+      "snippet_highlighted_words": [
+        "Sheep milk"
+      ],
+      "source": "Sheep 101"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Sheep milk near me",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Sheep+milk+near+me&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQ1QJ6BAhYEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sheep+milk+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Where to buy sheep milk",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Where+to+buy+sheep+milk&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQ1QJ6BAhWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Where+to+buy+sheep+milk"
+    },
+    {
+      "block_position": 1,
+      "query": "Sheep milk benefits",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Sheep+milk+benefits&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQ1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sheep+milk+benefits"
+    },
+    {
+      "block_position": 1,
+      "query": "Sheep Milk price",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Sheep+Milk+price&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQ1QJ6BAhTEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sheep+Milk+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Sheep milk brands",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Sheep+milk+brands&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQ1QJ6BAhXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sheep+milk+brands"
+    },
+    {
+      "block_position": 1,
+      "query": "Sheep milk vs goat milk",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Sheep+milk+vs+goat+milk&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQ1QJ6BAhVEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sheep+milk+vs+goat+milk"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?gl=us&q=buy+sheep+milk&hl=en&shoprs=CAEYEioKc2hlZXAgbWlsazIHCBISA0J1eWAB&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQip4GKAF6BAgrEGY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=buy+sheep+milk"
+    },
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?gl=us&q=sheep+milk+nearby&hl=en&shoprs=CAEYAyoKc2hlZXAgbWlsazIMCAMSBk5lYXJieRgCWL3rH2AB&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQip4GKAJ6BAgrEGc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sheep+milk+nearby"
+    },
+    {
+      "query": "Get it fast",
+      "link": "https://www.google.com/search?gl=us&q=sheep+milk&hl=en&shoprs=CAESDZoBCgoIEAM4AUACSAEYFCoKc2hlZXAgbWlsazIkCBQSC0dldCBpdCBmYXN0Ig2aAQoKCBADOAFAAkgBKgQQARgBYAE&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQip4GKAN6BAgrEGg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sheep+milk"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?gl=us&q=sheep+milk+for+sale&hl=en&shoprs=CAEYEioKc2hlZXAgbWlsazIMCBISCEZvciBTYWxlYAE&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQip4GKAR6BAgrEGk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sheep+milk+for+sale"
+    },
+    {
+      "query": "Recipe",
+      "link": "https://www.google.com/search?gl=us&q=recipe+sheep+milk&hl=en&shoprs=CAEYEioKc2hlZXAgbWlsazIKCBISBlJlY2lwZWAB&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQip4GKAV6BAgrEGo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=recipe+sheep+milk"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?gl=us&q=price+sheep+milk&hl=en&shoprs=CAEYEioKc2hlZXAgbWlsazIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQip4GKAZ6BAgrEGs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=price+sheep+milk"
+    },
+    {
+      "query": "Brand",
+      "link": "https://www.google.com/search?gl=us&q=brand+sheep+milk&hl=en&shoprs=CAEYEioKc2hlZXAgbWlsazIJCBISBUJyYW5kYAE&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQip4GKAd6BAgrEGw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brand+sheep+milk"
+    },
+    {
+      "query": "Goat",
+      "link": "https://www.google.com/search?gl=us&q=goat+sheep+milk&hl=en&shoprs=CAEYASoKc2hlZXAgbWlsazIUCAESBEdvYXQ6CgjVhTsQ1oU7MANYvesfYAE&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQip4GKAh6BAgrEG0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=goat+sheep+milk"
+    },
+    {
+      "query": "Organic",
+      "link": "https://www.google.com/search?gl=us&q=organic+sheep+milk&hl=en&shoprs=CAEYASoKc2hlZXAgbWlsazIZCAESB09yZ2FuaWM6DAi--YcBEL_5hwEwA1i96x9gAQ&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQip4GKAl6BAgrEG4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=organic+sheep+milk"
+    },
+    {
+      "query": "Dry",
+      "link": "https://www.google.com/search?gl=us&q=dry+sheep+milk&hl=en&shoprs=CAEYASoKc2hlZXAgbWlsazITCAESA0RyeToKCN2cOhDfnDowAli96x9gAQ&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQip4GKAp6BAgrEG8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=dry+sheep+milk"
+    },
+    {
+      "query": "Walmart",
+      "link": "https://www.google.com/search?gl=us&q=walmart+sheep+milk&hl=en&shoprs=CAEYAioKc2hlZXAgbWlsazILCAISB1dhbG1hcnRYvesfYAE&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQip4GKAt6BAgrEHA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=walmart+sheep+milk",
+      "thumbnail": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/7958f25f898049bf9e32b772701ebe1edaa724a8bf88d39b285a4b964ac84d35.png"
+    },
+    {
+      "query": "Baby Formula",
+      "link": "https://www.google.com/search?gl=us&q=baby+formula+sheep+milk&hl=en&shoprs=CAEYCSoKc2hlZXAgbWlsazIQCAkSDEJhYnkgRm9ybXVsYWAB&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQip4GKAx6BAgrEHI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=baby+formula+sheep+milk"
+    },
+    {
+      "query": "Bar Soap",
+      "link": "https://www.google.com/search?gl=us&q=bar+soap+sheep+milk&hl=en&shoprs=CAEYCSoKc2hlZXAgbWlsazIMCAkSCEJhciBTb2FwYAE&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQip4GKA16BAgrEHM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bar+soap+sheep+milk"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?gl=us&q=reviews+sheep+milk&hl=en&shoprs=CAEYEioKc2hlZXAgbWlsazILCBISB1Jldmlld3NgAQ&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQip4GKA56BAgrEHQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=reviews+sheep+milk"
+    },
+    {
+      "query": "Whole Milk",
+      "link": "https://www.google.com/search?gl=us&q=whole+milk+sheep&hl=en&shoprs=CAEYCSoKc2hlZXAgbWlsazIOCAkSCldob2xlIE1pbGtgAQ&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQip4GKA96BAgrEHU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=whole+milk+sheep"
+    },
+    {
+      "query": "Whole",
+      "link": "https://www.google.com/search?gl=us&q=whole+sheep+milk&hl=en&shoprs=CAEYASoKc2hlZXAgbWlsazIXCAESBVdob2xlOgwIqruHARCuu4cBMABYvesfYAE&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQip4GKBB6BAgrEHY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=whole+sheep+milk"
+    },
+    {
+      "query": "Livestock Milk Replacers",
+      "link": "https://www.google.com/search?gl=us&q=livestock+milk+replacers+sheep&hl=en&shoprs=CAEYCSoKc2hlZXAgbWlsazIcCAkSGExpdmVzdG9jayBNaWxrIFJlcGxhY2Vyc2AB&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQip4GKBF6BAgrEHc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=livestock+milk+replacers+sheep"
+    },
+    {
+      "query": "Dog Food",
+      "link": "https://www.google.com/search?gl=us&q=dog+food+sheep+milk&hl=en&shoprs=CAEYCSoKc2hlZXAgbWlsazIMCAkSCERvZyBGb29kYAE&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQip4GKBJ6BAgrEHg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=dog+food+sheep+milk"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?gl=us&q=sheep+milk+sale&hl=en&shoprs=CAESBEoCGAEYBioKc2hlZXAgbWlsazITCAYSB09uIHNhbGUYAiIESgIYAVi96x9gAQ&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQip4GKBN6BAgrEHk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sheep+milk+sale"
+    },
+    {
+      "query": "Amazon",
+      "link": "https://www.google.com/search?gl=us&q=amazon+sheep+milk&hl=en&shoprs=CAEYAioKc2hlZXAgbWlsazIKCAISBkFtYXpvbli96x9gAQ&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQip4GKBR6BAgrEHo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=amazon+sheep+milk",
+      "thumbnail": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/7958f25f898049bf9e32b772701ebe1e9ca53959fc34b8c6d69837c25b7d6ea5.png"
+    },
+    {
+      "query": "Gallon",
+      "link": "https://www.google.com/search?gl=us&q=gallon+sheep+milk&hl=en&shoprs=CAEYASoKc2hlZXAgbWlsazIWCAESBkdhbGxvbjoKCLSEOxC4hDswAFi96x9gAQ&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQip4GKBV6BAgrEHw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=gallon+sheep+milk"
+    },
+    {
+      "query": "Cheese",
+      "link": "https://www.google.com/search?gl=us&q=cheese+sheep+milk&hl=en&shoprs=CAEYCSoKc2hlZXAgbWlsazIKCAkSBkNoZWVzZWAB&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQip4GKBZ6BAgrEH0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=cheese+sheep+milk"
+    },
+    {
+      "query": "Moisturizers",
+      "link": "https://www.google.com/search?gl=us&q=moisturizers+sheep+milk&hl=en&shoprs=CAEYCSoKc2hlZXAgbWlsazIQCAkSDE1vaXN0dXJpemVyc2AB&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQip4GKBd6BAgrEH4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=moisturizers+sheep+milk"
+    },
+    {
+      "query": "Usa",
+      "link": "https://www.google.com/search?gl=us&q=usa+sheep+milk&hl=en&shoprs=CAEYEioKc2hlZXAgbWlsazIHCBISA1VzYWAB&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQip4GKBh6BAgrEH8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=usa+sheep+milk"
+    },
+    {
+      "query": "Online",
+      "link": "https://www.google.com/search?gl=us&q=online+sheep+milk&hl=en&shoprs=CAEYEioKc2hlZXAgbWlsazIKCBISBk9ubGluZWAB&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQip4GKBl6BQgrEIAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=online+sheep+milk"
+    },
+    {
+      "query": "Tractor Supply Company",
+      "link": "https://www.google.com/search?gl=us&q=tractor+supply+company+sheep+milk&hl=en&shoprs=CAEYAioKc2hlZXAgbWlsazIaCAISFlRyYWN0b3IgU3VwcGx5IENvbXBhbnlYvesfYAE&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQip4GKBp6BQgrEIEB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=tractor+supply+company+sheep+milk",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/faviconV2?url=http://www.tractorsupply.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Why not drink",
+        "subtitle": "Why Do We Not Drink Sheep's Milk",
+        "title": "Zoonotic risks of pathogens from sheep and their milk borne ...",
+        "link": "https://www.sciencedirect.com/science/article/abs/pii/S0921448820300778#:~:text=Consumption%20of%20raw%20milk%20and%20raw%20milk%20products%20has%20a,aureus%2C%20tick%20borne%20encephalitis%20virus%2C",
+        "displayed_link": "https://www.sciencedirect.com \u203a science \u203a article \u203a abs \u203a pii",
+        "snippet": "Consumption of raw milk and raw milk products has a zoonotic risk, and with regard to sheep, the main pathogens associated with such dairy products are: Brucella melitensis, Campylobacter spp., Listeria spp., Salmonella spp., Shiga-toxin producing Escherichia coli, Staphylococcus aureus, tick borne encephalitis virus, ...",
+        "snippet_highlighted_words": [
+          "has a zoonotic risk"
+        ],
+        "favicon": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/7cb5cd0cc8917fc16b1f4f9845acf8b5563a13cdc3d994dd30dbf11072772cd3e8363dbd56f875ed.png",
+        "source": "sciencedirect.com",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=why+do+we+not+drink+sheep%27s+milk&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQrooIegQIMRAF",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=why+do+we+not+drink+sheep%27s+milk"
+      },
+      {
+        "text": "Taste",
+        "subtitle": "What Does Sheep Milk Taste Like",
+        "title": "What Does Sheep Milk Taste Like? - Jones Family Farm",
+        "link": "https://jonesfamilyfarm.co.nz/what-does-sheep-milk-taste-like/#:~:text=Sheep%20milk%20has%20a%20very,t%20leave%20a%20fatty%20residue.",
+        "displayed_link": "https://jonesfamilyfarm.co.nz \u203a what-does-sheep-milk-tast...",
+        "snippet": "Sheep milk has a very subtle almost sweet flavour that's very similar to cow milk. It's not \u201csheepy\u201d at all! Because sheep milk has a higher fat content, it has a silky, creamy texture in your mouth, but doesn't leave a fatty residue.",
+        "snippet_highlighted_words": [
+          "very subtle almost sweet flavour that's very similar to cow milk"
+        ],
+        "favicon": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/7cb5cd0cc8917fc16b1f4f9845acf8b53a0c3a466436cd195c398b5af53d9a00ef654a218e29c03b.png",
+        "source": "jonesfamilyfarm.co.nz",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=what+does+sheep+milk+taste+like&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQrooIegQIMRAK",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+does+sheep+milk+taste+like"
+      },
+      {
+        "text": "Function",
+        "subtitle": "Sheep's Milk Function",
+        "title": "Benefits of Sheep Milk - Jones Family Farm",
+        "link": "https://jonesfamilyfarm.co.nz/benefits-of-sheep-milk/#:~:text=Functional%20Foods,-Functional%20food%20plays&text=Sheep%27s%20milk%20and%20its%20products,%2C%20and%20anti%2Dinflammatory%20properties.",
+        "displayed_link": "https://jonesfamilyfarm.co.nz \u203a benefits-of-sheep-milk",
+        "snippet": "Functional Foods Sheep's milk and its products are a valuable source of calcium, phosphorus, iron, magnesium, and other bioactive substances that benefit the body. Many biopeptides found in milk have antibacterial, antiviral, and anti-inflammatory properties.",
+        "snippet_highlighted_words": [
+          "a valuable source of calcium, phosphorus, iron, magnesium, and other bioactive substances that benefit the body"
+        ],
+        "favicon": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/7cb5cd0cc8917fc16b1f4f9845acf8b58a70dc50fdb73434514c132bbda0d4def680766471155f6b.png",
+        "source": "jonesfamilyfarm.co.nz",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa4XifZ8ODOKYs65HpEEn2ikSGs4D8tatWNVo-AEup7HL8&s",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=sheep%27s+milk+function&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQrooIegQIMRAS",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sheep%27s+milk+function"
+      },
+      {
+        "text": "Protein Amount",
+        "subtitle": "Sheep Milk Protein",
+        "title": "Sheep Milk - an overview | ScienceDirect Topics",
+        "link": "https://www.sciencedirect.com/topics/food-science/sheep-milk#:~:text=Proteins%20in%20Sheep%20Milk,%2C%20cow%2C%20and%20goat%20milk.",
+        "displayed_link": "https://www.sciencedirect.com \u203a topics \u203a food-science \u203a s...",
+        "snippet": "Proteins in Sheep Milk The sheep milk is a rich source of biologically active proteins. The amount of protein content in sheep milk is significantly higher (4.52\u20135.50%) than buffalo, cow, and goat milk.",
+        "snippet_highlighted_words": [
+          "4.52\u20135.50%)"
+        ],
+        "favicon": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/7cb5cd0cc8917fc16b1f4f9845acf8b5cc6120ac3e34d81eda60f405bc717bd3db0abd7f9b4cb47f.png",
+        "source": "sciencedirect.com",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=sheep+milk+protein&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQrooIegQIMRAX",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sheep+milk+protein"
+      },
+      {
+        "text": "Food Nutrition",
+        "subtitle": "Sheep Milk Nutrition",
+        "table": [
+          [
+            "% Daily Value*",
+            "% Daily Value*"
+          ],
+          [
+            "Total Fat 17 g",
+            "26%"
+          ],
+          [
+            "Saturated fat 11 g",
+            "55%"
+          ],
+          [
+            "Cholesterol 66 mg",
+            "22%"
+          ],
+          [
+            "Sodium 108 mg",
+            "4%"
+          ],
+          [
+            "Potassium 336 mg",
+            "9%"
+          ],
+          [
+            "Total Carbohydrate 13 g",
+            "4%"
+          ],
+          [
+            "Dietary fiber 0 g",
+            "0%"
+          ],
+          [
+            "Protein 15 g",
+            "30%"
+          ],
+          [
+            "Vitamin C",
+            "17%",
+            "Calcium",
+            "47%"
+          ],
+          [
+            "Iron",
+            "1%",
+            "Vitamin B6",
+            "5%"
+          ],
+          [
+            "Cobalamin",
+            "28%",
+            "Magnesium",
+            "11%"
+          ],
+          [
+            "*Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs."
+          ]
+        ],
+        "formatted": [
+          {
+            "daily_value": "26%"
+          },
+          {
+            "daily_value": "55%"
+          },
+          {
+            "daily_value": "22%"
+          },
+          {
+            "daily_value": "4%"
+          },
+          {
+            "daily_value": "9%"
+          },
+          {
+            "daily_value": "4%"
+          },
+          {
+            "daily_value": "0%"
+          },
+          {
+            "daily_value": "30%"
+          },
+          {
+            "daily_value": "17%"
+          },
+          {
+            "daily_value": "1%"
+          },
+          {
+            "daily_value": "28%"
+          },
+          {
+            "daily_value": "*Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs."
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=sheep+milk+nutrition&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQrooIegQIMRAd",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sheep+milk+nutrition"
+      },
+      {
+        "text": "Total Fat Amount",
+        "subtitle": "Sheep Milk Fat Content",
+        "title": "Fat Content of Sheep Milk and 3 of Its Surprising Benefits -",
+        "link": "https://jonesfamilyfarm.co.nz/fat-content-of-sheep-milk/#:~:text=While%20sheep%20milk%20has%20a,fat%20they%20contain%20are%20different.",
+        "displayed_link": "https://jonesfamilyfarm.co.nz \u203a fat-content-of-sheep-milk",
+        "snippet": "While sheep milk has a higher total fat content (approximately 7%) than cow or goat milk (both around 4%), the types of fat they contain are different.",
+        "snippet_highlighted_words": [
+          "approximately 7%)"
+        ],
+        "favicon": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/7cb5cd0cc8917fc16b1f4f9845acf8b5af2314554eaf5c44c14f0be5b2f273d1fd69564658dbc067.png",
+        "source": "jonesfamilyfarm.co.nz",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEuax22xsfngVha4hu3GEG3O0tXV7ZtkD6qdIus3dGcq4&s",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=sheep+milk+fat+content&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQrooIegQIMRAl",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sheep+milk+fat+content"
+      },
+      {
+        "text": "Price",
+        "subtitle": "Price Of Sheep's Milk",
+        "title": "Sheep's milk - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Sheep%27s_milk#:~:text=Meat%20and%20wool%20breeds%20of,kg)%20of%20milk%20per%20year.",
+        "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Sheep's_milk",
+        "snippet": "Meat and wool breeds of sheep lactate for 90\u2013150 days, while dairy breeds can lactate for 120\u2013240 days. Dairy sheep can produce higher yields of milk per ewe per year. Dairy sheep can produce 400\u20131,100 lb (180\u2013500 kg) of milk per year while other sheep produce 100\u2013200 lb (45\u201391 kg) of milk per year.",
+        "snippet_highlighted_words": [
+          "Dairy sheep can produce 400\u20131,100 lb (180\u2013500 kg) of milk per year while other sheep produce 100\u2013200 lb (45\u201391 kg) of milk per year"
+        ],
+        "favicon": "https://serpapi.com/searches/670a16dc4677bf23d3556a71/images/7cb5cd0cc8917fc16b1f4f9845acf8b53c60522665ae5244c36a0190c4fa997740793c8bc14ed9a1.png",
+        "source": "wikipedia.org",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs1AC7i1IubFDs2zJl04OjSLc1bbV_3W_D1lZb9qcrQB4&s",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=price+of+sheep%27s+milk&sa=X&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQrooIegQIMRAt",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=price+of+sheep%27s+milk"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=sheep+milk&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=3RYKZ--qOqe1ptQPhYS6iQg&start=10&sa=N&sstk=Aagrsui3cwtEpXsOtSjDgNGU1ecrKGVcknqJ93IJAjPpJlsgptdyiTAm6FFgqmAsTxa_xrrsNsOOCNRorwmllGchF7f87ppXpQAZPw&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQ8NMDegQIBxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=sheep+milk&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=3RYKZ--qOqe1ptQPhYS6iQg&start=10&sa=N&sstk=Aagrsui3cwtEpXsOtSjDgNGU1ecrKGVcknqJ93IJAjPpJlsgptdyiTAm6FFgqmAsTxa_xrrsNsOOCNRorwmllGchF7f87ppXpQAZPw&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQ8tMDegQIBxAE",
+      "3": "https://www.google.com/search?q=sheep+milk&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=3RYKZ--qOqe1ptQPhYS6iQg&start=20&sa=N&sstk=Aagrsui3cwtEpXsOtSjDgNGU1ecrKGVcknqJ93IJAjPpJlsgptdyiTAm6FFgqmAsTxa_xrrsNsOOCNRorwmllGchF7f87ppXpQAZPw&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQ8tMDegQIBxAG",
+      "4": "https://www.google.com/search?q=sheep+milk&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=3RYKZ--qOqe1ptQPhYS6iQg&start=30&sa=N&sstk=Aagrsui3cwtEpXsOtSjDgNGU1ecrKGVcknqJ93IJAjPpJlsgptdyiTAm6FFgqmAsTxa_xrrsNsOOCNRorwmllGchF7f87ppXpQAZPw&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQ8tMDegQIBxAI",
+      "5": "https://www.google.com/search?q=sheep+milk&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=3RYKZ--qOqe1ptQPhYS6iQg&start=40&sa=N&sstk=Aagrsui3cwtEpXsOtSjDgNGU1ecrKGVcknqJ93IJAjPpJlsgptdyiTAm6FFgqmAsTxa_xrrsNsOOCNRorwmllGchF7f87ppXpQAZPw&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQ8tMDegQIBxAK",
+      "6": "https://www.google.com/search?q=sheep+milk&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=3RYKZ--qOqe1ptQPhYS6iQg&start=50&sa=N&sstk=Aagrsui3cwtEpXsOtSjDgNGU1ecrKGVcknqJ93IJAjPpJlsgptdyiTAm6FFgqmAsTxa_xrrsNsOOCNRorwmllGchF7f87ppXpQAZPw&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQ8tMDegQIBxAM",
+      "7": "https://www.google.com/search?q=sheep+milk&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=3RYKZ--qOqe1ptQPhYS6iQg&start=60&sa=N&sstk=Aagrsui3cwtEpXsOtSjDgNGU1ecrKGVcknqJ93IJAjPpJlsgptdyiTAm6FFgqmAsTxa_xrrsNsOOCNRorwmllGchF7f87ppXpQAZPw&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQ8tMDegQIBxAO",
+      "8": "https://www.google.com/search?q=sheep+milk&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=3RYKZ--qOqe1ptQPhYS6iQg&start=70&sa=N&sstk=Aagrsui3cwtEpXsOtSjDgNGU1ecrKGVcknqJ93IJAjPpJlsgptdyiTAm6FFgqmAsTxa_xrrsNsOOCNRorwmllGchF7f87ppXpQAZPw&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQ8tMDegQIBxAQ",
+      "9": "https://www.google.com/search?q=sheep+milk&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=3RYKZ--qOqe1ptQPhYS6iQg&start=80&sa=N&sstk=Aagrsui3cwtEpXsOtSjDgNGU1ecrKGVcknqJ93IJAjPpJlsgptdyiTAm6FFgqmAsTxa_xrrsNsOOCNRorwmllGchF7f87ppXpQAZPw&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQ8tMDegQIBxAS",
+      "10": "https://www.google.com/search?q=sheep+milk&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=3RYKZ--qOqe1ptQPhYS6iQg&start=90&sa=N&sstk=Aagrsui3cwtEpXsOtSjDgNGU1ecrKGVcknqJ93IJAjPpJlsgptdyiTAm6FFgqmAsTxa_xrrsNsOOCNRorwmllGchF7f87ppXpQAZPw&ved=2ahUKEwivjbGbm4iJAxWnmokEHQWCLoEQ8tMDegQIBxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sheep+milk&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sheep+milk&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sheep+milk&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sheep+milk&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sheep+milk&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sheep+milk&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sheep+milk&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sheep+milk&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sheep+milk&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sheep+milk&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sheep+milk&start=90"
+    }
+  }
+}

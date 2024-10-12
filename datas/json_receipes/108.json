@@ -1,0 +1,931 @@
+{
+  "search_metadata": {
+    "id": "670a1700f4104445a9002fd7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/45c886870e77b912/670a1700f4104445a9002fd7.json",
+    "created_at": "2024-10-12 06:28:16 UTC",
+    "processed_at": "2024-10-12 06:28:16 UTC",
+    "google_url": "https://www.google.com/search?q=grapefruit+peel+oil&oq=grapefruit+peel+oil&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/45c886870e77b912/670a1700f4104445a9002fd7.html",
+    "total_time_taken": 2.24
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "grapefruit peel oil",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "grapefruit peel oil",
+    "total_results": 5320000,
+    "time_taken_displayed": 0.27,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/91e7d97523bef7762bb97282fd5f0ed35a5f07a9adc3e3a238a040d98c32bbe4.webp",
+      "source_logo": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/91e7d97523bef7762bb97282fd5f0ed3ec9f3390ff7f28395bfd73906d94016a33e3fc6e15f60ae1.png",
+      "source": "Amazon.com - Seller",
+      "title": "Majestic Pure Grapefruit Essential Oil",
+      "rating": 4.6,
+      "reviews": 13,
+      "price": "$18.04",
+      "extracted_price": 18.04,
+      "original_price": "$21",
+      "extracted_original_price": 21,
+      "extensions": [
+        "14% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjc5MTA0OTEyNTk1MDk0MzkxMSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTM2NzUzMjU0MjQwMjE4OTUwOTQiLCJpbWFnZURvY2lkIjoiNzAyNzAzNjM5MDkxNDc1NjQyNyIsInJkcyI6IlBDXzEyMTI0OTUyNzQ5ODAwODQ4MTg1fFBST0RfUENfMTIxMjQ5NTI3NDk4MDA4NDgxODUiLCJxdWVyeSI6ImdyYXBlZnJ1aXQrcGVlbCtvaWwifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjc5MTA0OTEyNTk1MDk0MzkxMSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTM2NzUzMjU0MjQwMjE4OTUwOTQiLCJpbWFnZURvY2lkIjoiNzAyNzAzNjM5MDkxNDc1NjQyNyIsInJkcyI6IlBDXzEyMTI0OTUyNzQ5ODAwODQ4MTg1fFBST0RfUENfMTIxMjQ5NTI3NDk4MDA4NDgxODUiLCJxdWVyeSI6ImdyYXBlZnJ1aXQrcGVlbCtvaWwifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/91e7d97523bef7762bb97282fd5f0ed3a6c22cc3f164548ff67a198327852ac0.webp",
+      "source_logo": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/91e7d97523bef7762bb97282fd5f0ed3132eea63ea78bdaf2322a2821fc398a4a31d3419a7efd11c.png",
+      "source": "Enfleurage",
+      "title": "Grapefruit Peel Essential Oil Organic California 10 ml",
+      "price": "$9.00",
+      "extracted_price": 9.0,
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiNTY2MDM5ODY3OTY3NDgyOTQ3IiwiY2F0YWxvZ2lkIjoiIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI1NjYwMzk4Njc5Njc0ODI5NDciLCJpbWFnZURvY2lkIjoiNjI3OTIxMDAzMzk3MjkwMzQzNSIsInJkcyI6IiIsInF1ZXJ5IjoiZ3JhcGVmcnVpdCtwZWVsK29pbCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiNTY2MDM5ODY3OTY3NDgyOTQ3IiwiY2F0YWxvZ2lkIjoiIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI1NjYwMzk4Njc5Njc0ODI5NDciLCJpbWFnZURvY2lkIjoiNjI3OTIxMDAzMzk3MjkwMzQzNSIsInJkcyI6IiIsInF1ZXJ5IjoiZ3JhcGVmcnVpdCtwZWVsK29pbCJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/91e7d97523bef7762bb97282fd5f0ed3116c4a94a63eb4e9e7b9491420e31684.webp",
+      "source_logo": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/91e7d97523bef7762bb97282fd5f0ed3264001b6034ae4841cef5b8c2dd3832ae97eecf66a5e2824.png",
+      "source": "Walmart - Plant Guru Inc.",
+      "title": "Plant Guru Grapefruit Essential Oil 10 ml.",
+      "rating": 4.8,
+      "reviews": 5,
+      "price": "$6.90",
+      "extracted_price": 6.9,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzY5Nzg5ODczMDk5NDQ5Mjg0OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDU1MDY3MjA0ODIyNjA3NTQ5NiIsImltYWdlRG9jaWQiOiI4MTg4OTI0ODY0NjQzODc5NDg2IiwicmRzIjoiUENfMzc5NzI3MTgwODgyOTU3MzUxN3xQUk9EX1BDXzM3OTcyNzE4MDg4Mjk1NzM1MTciLCJxdWVyeSI6ImdyYXBlZnJ1aXQrcGVlbCtvaWwifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzY5Nzg5ODczMDk5NDQ5Mjg0OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDU1MDY3MjA0ODIyNjA3NTQ5NiIsImltYWdlRG9jaWQiOiI4MTg4OTI0ODY0NjQzODc5NDg2IiwicmRzIjoiUENfMzc5NzI3MTgwODgyOTU3MzUxN3xQUk9EX1BDXzM3OTcyNzE4MDg4Mjk1NzM1MTciLCJxdWVyeSI6ImdyYXBlZnJ1aXQrcGVlbCtvaWwifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/91e7d97523bef7762bb97282fd5f0ed3da6e2d140fd2cb1eb391324e1286e5bd.webp",
+      "source_logo": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/91e7d97523bef7762bb97282fd5f0ed3c04861f19e946acf7a93c269ee06d69369a6ca26f3545ed2.png",
+      "source": "Etsy - SmithHolstonSoapery",
+      "title": "Grapefruit Peel Multi Use Oil for Hair, Nails and Body",
+      "rating": 5.0,
+      "reviews": 1,
+      "price": "$7.49",
+      "extracted_price": 7.49,
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiMTQ2NjUyNzkwMTk3NDU5Mzc4NzIiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0NjY1Mjc5MDE5NzQ1OTM3ODcyIiwiaW1hZ2VEb2NpZCI6IjE1ODQ1MTkxNzM0MjQ5MzU1NTg0IiwicmRzIjoiTE9fMTQ2NjUyNzkwMTk3NDU5Mzc4NzJ8UFJPRF9MT18xNDY2NTI3OTAxOTc0NTkzNzg3MiIsInF1ZXJ5IjoiZ3JhcGVmcnVpdCtwZWVsK29pbCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiMTQ2NjUyNzkwMTk3NDU5Mzc4NzIiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0NjY1Mjc5MDE5NzQ1OTM3ODcyIiwiaW1hZ2VEb2NpZCI6IjE1ODQ1MTkxNzM0MjQ5MzU1NTg0IiwicmRzIjoiTE9fMTQ2NjUyNzkwMTk3NDU5Mzc4NzJ8UFJPRF9MT18xNDY2NTI3OTAxOTc0NTkzNzg3MiIsInF1ZXJ5IjoiZ3JhcGVmcnVpdCtwZWVsK29pbCJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/91e7d97523bef7762bb97282fd5f0ed33ea4f6aba851571d711193268a5d5ed1.webp",
+      "source_logo": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/91e7d97523bef7762bb97282fd5f0ed3b0f9f5cde6f6a4668e90b7af5484a06a86ccf90f068ce59e.png",
+      "source": "natureinbottle.com",
+      "title": "Grapefruit Essential Oil",
+      "price": "$28.48",
+      "extracted_price": 28.48,
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiNzMyNjYxMTYwOTAxNDg0MzQ5MCIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzMyNjYxMTYwOTAxNDg0MzQ5MCIsImltYWdlRG9jaWQiOiIxNTEzNTUzMTA0Mzk4MjcwOTk0MiIsInJkcyI6IiIsInF1ZXJ5IjoiZ3JhcGVmcnVpdCtwZWVsK29pbCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiNzMyNjYxMTYwOTAxNDg0MzQ5MCIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzMyNjYxMTYwOTAxNDg0MzQ5MCIsImltYWdlRG9jaWQiOiIxNTEzNTUzMTA0Mzk4MjcwOTk0MiIsInJkcyI6IiIsInF1ZXJ5IjoiZ3JhcGVmcnVpdCtwZWVsK29pbCJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/91e7d97523bef7762bb97282fd5f0ed393fe0cc7bd6b697a9c4da5fe28fcbcf9.webp",
+      "source_logo": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/91e7d97523bef7762bb97282fd5f0ed3e4ea8f31ed2649b21f8c433d99c66b4398ca8711c6334da7.png",
+      "source": "Amazon.com - Seller",
+      "title": "100% Pure Grapefruit Essential Oil",
+      "rating": 4.6,
+      "reviews": 42,
+      "price": "$6.64",
+      "extracted_price": 6.64,
+      "original_price": "$7",
+      "extracted_original_price": 7,
+      "extensions": [
+        "5% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTAzNjgzNTM5MzkzOTA1Mzg3MzkiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ5NTQwNjI1NjE0NzczODY4NzQiLCJpbWFnZURvY2lkIjoiNzI5MjExNTU5MjI0MjU4ODAxMyIsInJkcyI6IlBDXzEyMzY2NDgwNzA5Nzc1NDE4ODh8UFJPRF9QQ18xMjM2NjQ4MDcwOTc3NTQxODg4IiwicXVlcnkiOiJncmFwZWZydWl0K3BlZWwrb2lsIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTAzNjgzNTM5MzkzOTA1Mzg3MzkiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ5NTQwNjI1NjE0NzczODY4NzQiLCJpbWFnZURvY2lkIjoiNzI5MjExNTU5MjI0MjU4ODAxMyIsInJkcyI6IlBDXzEyMzY2NDgwNzA5Nzc1NDE4ODh8UFJPRF9QQ18xMjM2NjQ4MDcwOTc3NTQxODg4IiwicXVlcnkiOiJncmFwZWZydWl0K3BlZWwrb2lsIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/91e7d97523bef7762bb97282fd5f0ed32497a8097f8611e60b52bfd6f3116276.webp",
+      "source_logo": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/91e7d97523bef7762bb97282fd5f0ed34d4f53870ba7cf0d6b0e338d315192db2bdd3ff1d4d6bd9e.png",
+      "source": "Wholesale Botanics",
+      "title": "Grapefruit Oil for Skin",
+      "rating": 4.3,
+      "reviews": 3,
+      "price": "$10.99",
+      "extracted_price": 10.99,
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTI2Mjg4ODk0ODA0MzM5MjQzNCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTYxMzA5MjAzOTM2OTc0MTE3OTEiLCJpbWFnZURvY2lkIjoiMTMxNjc5MzY5NTk2NDYwMzExNSIsInJkcyI6IlBDXzg0MDc5NTAyODMyMDU0MzI4NXxQUk9EX1BDXzg0MDc5NTAyODMyMDU0MzI4NSIsInF1ZXJ5IjoiZ3JhcGVmcnVpdCtwZWVsK29pbCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTI2Mjg4ODk0ODA0MzM5MjQzNCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTYxMzA5MjAzOTM2OTc0MTE3OTEiLCJpbWFnZURvY2lkIjoiMTMxNjc5MzY5NTk2NDYwMzExNSIsInJkcyI6IlBDXzg0MDc5NTAyODMyMDU0MzI4NXxQUk9EX1BDXzg0MDc5NTAyODMyMDU0MzI4NSIsInF1ZXJ5IjoiZ3JhcGVmcnVpdCtwZWVsK29pbCJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/91e7d97523bef7762bb97282fd5f0ed32eef3bdb86d5cefdb8e6958e56bf8469.webp",
+      "source_logo": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/91e7d97523bef7762bb97282fd5f0ed38b7acc53cb87838d9dfa1894ccdae2469477a818bf69cf4a.png",
+      "source": "Target",
+      "title": "Now Essential Oil Grapefruit",
+      "rating": 4.8,
+      "reviews": 1900,
+      "price": "$10.42",
+      "extracted_price": 10.42,
+      "delivery": "Free $35+",
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA0Mzg1NjkxNTc3OTg2MjIyODUiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExNDU5MzQ1NDk1MTA2OTUzMDI3IiwiaW1hZ2VEb2NpZCI6IjQyNTY1MjU2Nzc2Mzg3ODEwNiIsInJkcyI6IlBDXzY1NzYzODExMjYxMTMyNzA2NTR8UFJPRF9QQ182NTc2MzgxMTI2MTEzMjcwNjU0IiwicXVlcnkiOiJncmFwZWZydWl0K3BlZWwrb2lsIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA0Mzg1NjkxNTc3OTg2MjIyODUiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExNDU5MzQ1NDk1MTA2OTUzMDI3IiwiaW1hZ2VEb2NpZCI6IjQyNTY1MjU2Nzc2Mzg3ODEwNiIsInJkcyI6IlBDXzY1NzYzODExMjYxMTMyNzA2NTR8UFJPRF9QQ182NTc2MzgxMTI2MTEzMjcwNjU0IiwicXVlcnkiOiJncmFwZWZydWl0K3BlZWwrb2lsIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/91e7d97523bef7762bb97282fd5f0ed305010f9b2e73e2592748eb9c298b19b5.webp",
+      "source_logo": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/91e7d97523bef7762bb97282fd5f0ed3c888d713a1ad4f6847a691616e5e894abd6557aceeb0e6e6.png",
+      "source": "Etsy",
+      "title": "Organic Grapefruit (Citrus grandis peel) Therapeutic Grade Essential Oil - Phthalate Free Oil",
+      "price": "$7.25",
+      "extracted_price": 7.25,
+      "original_price": "Was $10",
+      "extracted_original_price": 10,
+      "extensions": [
+        "27% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiNzI4MzM4MDAzNTIyOTQ0OTI3NyIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzI4MzM4MDAzNTIyOTQ0OTI3NyIsImltYWdlRG9jaWQiOiI4Nzg4NTczMDE0Mzg0NTY2OTc1IiwicmRzIjoiIiwicXVlcnkiOiJncmFwZWZydWl0K3BlZWwrb2lsIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiNzI4MzM4MDAzNTIyOTQ0OTI3NyIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzI4MzM4MDAzNTIyOTQ0OTI3NyIsImltYWdlRG9jaWQiOiI4Nzg4NTczMDE0Mzg0NTY2OTc1IiwicmRzIjoiIiwicXVlcnkiOiJncmFwZWZydWl0K3BlZWwrb2lsIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/91e7d97523bef7762bb97282fd5f0ed3914898cbb23fa6fee933fc2c5fbd9f7d.webp",
+      "source_logo": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/91e7d97523bef7762bb97282fd5f0ed36c27cedab0aaf99409b4bc601b6ecf42708ff39566a32a9f.jpeg",
+      "source": "Pharmarcie.com",
+      "title": "Pranarom Grapefruit Peel Essential Oil 30 ml",
+      "rating": 4.7,
+      "reviews": 12,
+      "price": "$21.49",
+      "extracted_price": 21.49,
+      "delivery": "Free $40+",
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDgzMDkwOTU4MDEyMDkzOTIxNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjczNjI3ODQ5MDA1MDUwMTAyNyIsImltYWdlRG9jaWQiOiIxMzMyOTA4MzIwOTYxNTMxODAxMSIsInJkcyI6IkNJRF80ODMwOTA5NTgwMTIwOTM5MjE2fFBST0RfQ0lEXzQ4MzA5MDk1ODAxMjA5MzkyMTYiLCJxdWVyeSI6ImdyYXBlZnJ1aXQrcGVlbCtvaWwifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDgzMDkwOTU4MDEyMDkzOTIxNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjczNjI3ODQ5MDA1MDUwMTAyNyIsImltYWdlRG9jaWQiOiIxMzMyOTA4MzIwOTYxNTMxODAxMSIsInJkcyI6IkNJRF80ODMwOTA5NTgwMTIwOTM5MjE2fFBST0RfQ0lEXzQ4MzA5MDk1ODAxMjA5MzkyMTYiLCJxdWVyeSI6ImdyYXBlZnJ1aXQrcGVlbCtvaWwifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQHiiDvJ-Ycz4P_Vh8IsyBUs7H9NnGE6HVg49unvGaE9Od4__ZCfeGa1fo7h0tuv1AgvPxuJGIx0RduXAq7grAuJ75rDm1jxv3hmPBcX0g2GhY2O7clK6uc",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+      "source": "Amazon.com - Seller",
+      "title": "Cliganic Organic Pink Grapefruit Oil",
+      "price": "$9.49",
+      "extracted_price": 9.49,
+      "original_price": "$12",
+      "extracted_original_price": 12,
+      "extensions": [
+        "20% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDczMDYyMzMyODIxNjM5MDc4NyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTMwNjQ2MzM2NTcxMzk4MDM5OTciLCJpbWFnZURvY2lkIjoiMTM1NDY5NTQ0NjkwMDM4MjY1NSIsInJkcyI6IiIsInF1ZXJ5IjoiZ3JhcGVmcnVpdCtwZWVsK29pbCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDczMDYyMzMyODIxNjM5MDc4NyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTMwNjQ2MzM2NTcxMzk4MDM5OTciLCJpbWFnZURvY2lkIjoiMTM1NDY5NTQ0NjkwMDM4MjY1NSIsInJkcyI6IiIsInF1ZXJ5IjoiZ3JhcGVmcnVpdCtwZWVsK29pbCJ9"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTwzEEE0byhLSn25rlwn3N5yomcdVO2q2iLMUhqhuoN3qs0pUPHEw8mjIu-qezgvt-VIKtuJFetu_P8I1VLh4mo3RCbWJ8tD37geKgUph1wUykFoLI8nrNIOQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQNh-HkXV1k3-Rw_ekVSiiYxLDwiXPsOD2aLR5sLewXnpg5Ki8Li4QF27e2-OZoAZ8J-7zVeU6Vnu1twRX_MXnvuAT4N4d1ng",
+      "source": "Healthwell",
+      "title": "PURE Grapefruit Oil ECO",
+      "rating": 5.0,
+      "reviews": 10,
+      "price": "$9.75",
+      "extracted_price": 9.75,
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiNDg1MTQyMTY3Nzk4MTc0NjU3MCIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDg1MTQyMTY3Nzk4MTc0NjU3MCIsImltYWdlRG9jaWQiOiI1MjM0ODEwNTA0MTY5Njg0NzYzIiwicmRzIjoiUENfMTM4NDM1NDc4MzYzMjk3NzQxNjV8UFJPRF9QQ18xMzg0MzU0NzgzNjMyOTc3NDE2NSIsInF1ZXJ5IjoiZ3JhcGVmcnVpdCtwZWVsK29pbCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiNDg1MTQyMTY3Nzk4MTc0NjU3MCIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDg1MTQyMTY3Nzk4MTc0NjU3MCIsImltYWdlRG9jaWQiOiI1MjM0ODEwNTA0MTY5Njg0NzYzIiwicmRzIjoiUENfMTM4NDM1NDc4MzYzMjk3NzQxNjV8UFJPRF9QQ18xMzg0MzU0NzgzNjMyOTc3NDE2NSIsInF1ZXJ5IjoiZ3JhcGVmcnVpdCtwZWVsK29pbCJ9"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTVX7_Oey_Gi5ej9WOp3P-MMKqfDyv1yUvWdtiARpXJ4HNVvonBJjur43U_KMx1oHfGGPUlf8XStVBayOwfOIx5shc5u0xPImAyeCQ3hoYYVhH1bXl81taM",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQhQVtbSgmmAP63uN2iR06aXpNTxb2B9V9XOfkjbw5oBFFKYfJENSXAPatrHoFuPhH3w6yTkYszzgVnzTeU5MJlz6IHHA",
+      "source": "Pranar\u00f4m USA",
+      "title": "Pranar\u00f4m Grapefruit ORGANIC Essential Oil",
+      "rating": 5.0,
+      "reviews": 2,
+      "price": "$8.49",
+      "extracted_price": 8.49,
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ5OTA0OTMxMTI5MzM4OTI0ODAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExNDUzOTg1MjQ5MzgzMjcwODciLCJpbWFnZURvY2lkIjoiNTY0NDQ1ODUzNjkzNzgzNzY0NCIsInJkcyI6IlBDXzc2MzM5NTk0NjY4MDc3NTEzMTR8UFJPRF9QQ183NjMzOTU5NDY2ODA3NzUxMzE0IiwicXVlcnkiOiJncmFwZWZydWl0K3BlZWwrb2lsIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ5OTA0OTMxMTI5MzM4OTI0ODAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExNDUzOTg1MjQ5MzgzMjcwODciLCJpbWFnZURvY2lkIjoiNTY0NDQ1ODUzNjkzNzgzNzY0NCIsInJkcyI6IlBDXzc2MzM5NTk0NjY4MDc3NTEzMTR8UFJPRF9QQ183NjMzOTU5NDY2ODA3NzUxMzE0IiwicXVlcnkiOiJncmFwZWZydWl0K3BlZWwrb2lsIn0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTmhZCx4SVCAzxj2BAdo42YcIq98hWzZ8daSoXzKyWT93gFvj5QAOI8qrFBgf7O79RHhvPfuGWs3ChX9kXjMuNoUZpFS0P5biSGZ2eUb5foLmHQXA8CEDRDoTQ",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTIIu9zhonNrTJFVhuSqyUPvHWAj6EukQDQc50zWLpdNz-oR2m6DfZG-HPp4RJN6i8pwfGmOC25wbdsqNFtsMT2UJVORlmcyYisVajSAHDLOjY",
+      "source": "Neal's Yard Remedies US",
+      "title": "Neal's Yard Remedies Grapefruit Organic Essential Oil",
+      "rating": 4.8,
+      "reviews": 20,
+      "price": "$16.00",
+      "extracted_price": 16.0,
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODQyMDk5MDY5NzU3NDA3MTI5IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNTIzNzkyNzg5Mjg3MzYwMDI4OSIsImltYWdlRG9jaWQiOiI0MzUzMTQ3NTIxNDY2MjE3MjUyIiwicmRzIjoiUENfOTExNzM1OTEwNjMzNjU0NzA2OXxQUk9EX1BDXzkxMTczNTkxMDYzMzY1NDcwNjkiLCJxdWVyeSI6ImdyYXBlZnJ1aXQrcGVlbCtvaWwifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODQyMDk5MDY5NzU3NDA3MTI5IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNTIzNzkyNzg5Mjg3MzYwMDI4OSIsImltYWdlRG9jaWQiOiI0MzUzMTQ3NTIxNDY2MjE3MjUyIiwicmRzIjoiUENfOTExNzM1OTEwNjMzNjU0NzA2OXxQUk9EX1BDXzkxMTczNTkxMDYzMzY1NDcwNjkiLCJxdWVyeSI6ImdyYXBlZnJ1aXQrcGVlbCtvaWwifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTWKoAGuLCBmlezoPXN2_IACgTX8qbN-IyErAQHOG9wVugFJWdStJLF64U4hyI-Eq1B4FdCd0Z0-GbwROvapsAClNtKsyMoSS9tAsLOAiJGdgfIgjPIl-Uz",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart - HCHN Co.,Ltd",
+      "title": "Qianvly Grapefruit Oil",
+      "price": "$4.54",
+      "extracted_price": 4.54,
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM0MjM5MTI2MDg0Nzg2NjgwMTciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExNTg2NTI0MjA5MTEyNDg0NDM5IiwiaW1hZ2VEb2NpZCI6IjE3NDM5MjE5MTI5MDc5OTMwNzM5IiwicmRzIjoiIiwicXVlcnkiOiJncmFwZWZydWl0K3BlZWwrb2lsIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM0MjM5MTI2MDg0Nzg2NjgwMTciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExNTg2NTI0MjA5MTEyNDg0NDM5IiwiaW1hZ2VEb2NpZCI6IjE3NDM5MjE5MTI5MDc5OTMwNzM5IiwicmRzIjoiIiwicXVlcnkiOiJncmFwZWZydWl0K3BlZWwrb2lsIn0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQfQqvpBWbi8gbGkGtsvi6XYLGMWdYI4hp_mQC-AxMoKmZlwTPCW4_HPCHsYcoAdSXrxZ3PXDG2bSE8EUWAIKxuUPs36jfLNN8YFjN9vd8",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQpgfL0avcSnIIA7Wnlomi5kymZiO0A2kINnMkGZ3G1FlJRmOOARrbdPOOdSZARVbApsdeCP7QiIe5WxnPSOaIbtM4r",
+      "source": "Amazon",
+      "title": "Pink Grapefruit Essential Oil 5 ml 100% Pure Undiluted Therapeutic Grade Cold Pressed from Fresh Grapefruit Peel, Great for Aromatherapy Diffuser,",
+      "rating": 4.8,
+      "reviews": 5,
+      "price": "$6.55",
+      "extracted_price": 6.55,
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiNDQxOTIxOTUwMTQxMzEyNzc2NiIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDQxOTIxOTUwMTQxMzEyNzc2NiIsImltYWdlRG9jaWQiOiIxMTIyOTU4NjE0NzMyMjAxNDE4IiwicmRzIjoiUENfMzc5NzI3MTgwODgyOTU3MzUxN3xQUk9EX1BDXzM3OTcyNzE4MDg4Mjk1NzM1MTciLCJxdWVyeSI6ImdyYXBlZnJ1aXQrcGVlbCtvaWwifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiNDQxOTIxOTUwMTQxMzEyNzc2NiIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDQxOTIxOTUwMTQxMzEyNzc2NiIsImltYWdlRG9jaWQiOiIxMTIyOTU4NjE0NzMyMjAxNDE4IiwicmRzIjoiUENfMzc5NzI3MTgwODgyOTU3MzUxN3xQUk9EX1BDXzM3OTcyNzE4MDg4Mjk1NzM1MTciLCJxdWVyeSI6ImdyYXBlZnJ1aXQrcGVlbCtvaWwifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTqjH8AT1KSjn6HdhDYitn8jsxmEFNx0FnzQwgdzLVYrVVc2OP1IiuyUyMliuj33urkjxWBga6R-8J42SvkLjausE0SsgA9KxWtoFUO4t_eR8i4k27V4iM9lA",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQpgfL0avcSnIIA7Wnlomi5kymZiO0A2kINnMkGZ3G1FlJRmOOARrbdPOOdSZARVbApsdeCP7QiIe5WxnPSOaIbtM4r",
+      "source": "Amazon",
+      "title": "Grapefruit Seed Oil",
+      "rating": 4.9,
+      "reviews": 11,
+      "price": "$6.99",
+      "extracted_price": 6.99,
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzk5MTYzNDk0NTc5OTQ1Mjc1NCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODEwMzc3NjExNTA5OTI1Njc2NSIsImltYWdlRG9jaWQiOiI2OTA1NTA1MDQ4NDQ5NjQ0NDcwIiwicmRzIjoiUENfMTMxMzc1MzcyNTUzOTAxOTM0NTR8UFJPRF9QQ18xMzEzNzUzNzI1NTM5MDE5MzQ1NCIsInF1ZXJ5IjoiZ3JhcGVmcnVpdCtwZWVsK29pbCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzk5MTYzNDk0NTc5OTQ1Mjc1NCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODEwMzc3NjExNTA5OTI1Njc2NSIsImltYWdlRG9jaWQiOiI2OTA1NTA1MDQ4NDQ5NjQ0NDcwIiwicmRzIjoiUENfMTMxMzc1MzcyNTUzOTAxOTM0NTR8UFJPRF9QQ18xMzEzNzUzNzI1NTM5MDE5MzQ1NCIsInF1ZXJ5IjoiZ3JhcGVmcnVpdCtwZWVsK29pbCJ9"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQg1w2NyxD09wR-mGFy-AIpId-y_7HjF7Av6BBu95TAoJh9Lmo-caS8RiH_aOhOBKJ6oF77dQz7k-DEpQIbQv4KRyXMiL_aYlPVggvQK99c0LpWkK5zHfI7",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+      "source": "Amazon.com - Seller",
+      "title": "Plant Therapy Grapefruit Pink Essential Oil",
+      "rating": 4.9,
+      "reviews": 3400,
+      "price": "$8.99",
+      "extracted_price": 8.99,
+      "original_price": "$10",
+      "extracted_original_price": 10,
+      "extensions": [
+        "10% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzcwNDI0OTY4MjkwMDg5Njc1OSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQ5ODk1NDkzMDUwMjI4NTQ4OTkiLCJpbWFnZURvY2lkIjoiMTc2MzQ4NDY1OTQ5MjQzMzkwNzEiLCJyZHMiOiJQUk9EX1ZBUl85MTQzODQzODU5NjYwODI3MjZ8VkFSXzkxNDM4NDM4NTk2NjA4MjcyNiIsInF1ZXJ5IjoiZ3JhcGVmcnVpdCtwZWVsK29pbCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzcwNDI0OTY4MjkwMDg5Njc1OSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQ5ODk1NDkzMDUwMjI4NTQ4OTkiLCJpbWFnZURvY2lkIjoiMTc2MzQ4NDY1OTQ5MjQzMzkwNzEiLCJyZHMiOiJQUk9EX1ZBUl85MTQzODQzODU5NjYwODI3MjZ8VkFSXzkxNDM4NDM4NTk2NjA4MjcyNiIsInF1ZXJ5IjoiZ3JhcGVmcnVpdCtwZWVsK29pbCJ9"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQYiRHKynAs8xvM95e8E4KVufDMCa6iYHgJWeu7RqZeLL9KMvV7QUCi9l2NC_bxoZr5lqCCnqTR6rKFrh5Vtbv8GSByzZOJA1qwEWELr5xOzdIsQk2270wmOw",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQpgfL0avcSnIIA7Wnlomi5kymZiO0A2kINnMkGZ3G1FlJRmOOARrbdPOOdSZARVbApsdeCP7QiIe5WxnPSOaIbtM4r",
+      "source": "Amazon",
+      "title": "Grapefruit, Pink (USA Pressed Peel) Citrus paradisi (1/2oz)",
+      "price": "$7.20",
+      "extracted_price": 7.2,
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiMTUzNzc0MTAwNjk5MjY1OTkyNTciLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1Mzc3NDEwMDY5OTI2NTk5MjU3IiwiaW1hZ2VEb2NpZCI6IjExOTQwMzE2MzY5NDExODY1NzQwIiwicmRzIjoiIiwicXVlcnkiOiJncmFwZWZydWl0K3BlZWwrb2lsIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiMTUzNzc0MTAwNjk5MjY1OTkyNTciLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1Mzc3NDEwMDY5OTI2NTk5MjU3IiwiaW1hZ2VEb2NpZCI6IjExOTQwMzE2MzY5NDExODY1NzQwIiwicmRzIjoiIiwicXVlcnkiOiJncmFwZWZydWl0K3BlZWwrb2lsIn0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrXp8c9grVStJXqrC_WyYZOgwfMudxCYKJa8Se4zR7lcgeQ1Q1chBmp1g3MCcGiALc8W8t_Hl3PjrPUhbop30UmkZk94yrzKK9cvYYoBCFURklYD-TaFGUcQ",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTYfqmzSnx0Do3BKM6ByCxx7OguQGl0YUWNJAJwU09LrjxlAjjkJp7Ajx_wxeNJXrbzHNWWsoXg-2fEh8_5O9SzfP1WVX4",
+      "source": "Etsy - violetglassforever",
+      "title": "Grapefruit Pink Essential Oil USA Organic Cold Pressed Peel Citrus paradisi Macfayden Aromatherapy Natural Perfumery Top Note",
+      "rating": 5.0,
+      "reviews": 3,
+      "price": "$12.00",
+      "extracted_price": 12.0,
+      "original_price": "$15",
+      "extracted_original_price": 15,
+      "extensions": [
+        "20% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiNTUzMzYwMzAyOTYyMjU5NjY1OCIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTUzMzYwMzAyOTYyMjU5NjY1OCIsImltYWdlRG9jaWQiOiI3MjkyNDM0MDg2NTkwNjcyMzgwIiwicmRzIjoiTE9fNTUzMzYwMzAyOTYyMjU5NjY1OHxQUk9EX0xPXzU1MzM2MDMwMjk2MjI1OTY2NTgiLCJxdWVyeSI6ImdyYXBlZnJ1aXQrcGVlbCtvaWwifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiNTUzMzYwMzAyOTYyMjU5NjY1OCIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTUzMzYwMzAyOTYyMjU5NjY1OCIsImltYWdlRG9jaWQiOiI3MjkyNDM0MDg2NTkwNjcyMzgwIiwicmRzIjoiTE9fNTUzMzYwMzAyOTYyMjU5NjY1OHxQUk9EX0xPXzU1MzM2MDMwMjk2MjI1OTY2NTgiLCJxdWVyeSI6ImdyYXBlZnJ1aXQrcGVlbCtvaWwifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSV4gY_A5Tps87Uu3l4GPOjMHNQkh0sV-7wxw_kPQrpcQ9zEBl5Xku6uzQWbzsSJxktJ71Yvb2Sov5poNnIBdO4jZeohQ2EpMrAjgF6iM7bXYctNlK_lOB-8Q",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSxTYVuLz9M-OlqgMnNKi13It9H-BerOu8xiWaF9cOyb4O4D6oHeLWwhOH0IlG9oWCNaa4TE0smfBItNB1alVQwB4VUQTNvayNhBg",
+      "source": "Herb'N Eden",
+      "title": "Grapefruit Body Oil",
+      "rating": 4.8,
+      "reviews": 20,
+      "price": "$25.00",
+      "extracted_price": 25.0,
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE5ODIwMDI1Nzc4MjA3MDQ5NTAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MDM4NDYyNDMyOTg0Mzc0NDM3IiwiaW1hZ2VEb2NpZCI6IjExNTIyNjcwMDc5ODM5NTQ3MjAzIiwicmRzIjoiUENfNjU4MTI5NzEzMTA0MDQ1MzQ3OXxQUk9EX1BDXzY1ODEyOTcxMzEwNDA0NTM0NzkiLCJxdWVyeSI6ImdyYXBlZnJ1aXQrcGVlbCtvaWwifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE5ODIwMDI1Nzc4MjA3MDQ5NTAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MDM4NDYyNDMyOTg0Mzc0NDM3IiwiaW1hZ2VEb2NpZCI6IjExNTIyNjcwMDc5ODM5NTQ3MjAzIiwicmRzIjoiUENfNjU4MTI5NzEzMTA0MDQ1MzQ3OXxQUk9EX1BDXzY1ODEyOTcxMzEwNDA0NTM0NzkiLCJxdWVyeSI6ImdyYXBlZnJ1aXQrcGVlbCtvaWwifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrEbT2B3l9haKjqd_Qm8f1angMdMCTpsCTpbnMbwzlcNBsSWWxMHxksvLZIlA0DgciqQ_J2uBP-vMapccqbpvJoSL13teUqqEz1tQfuM-_xIPHTFzzgRqpLQ",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+      "source": "Amazon.com - Seller",
+      "title": "HIQILI 100 ml Grapefruit Essential Oil, for Diffuser, Skin Care, 100% Pure and Natural - 3.38 Fl Oz",
+      "price": "$8.99",
+      "extracted_price": 8.99,
+      "original_price": "$10",
+      "extracted_original_price": 10,
+      "extensions": [
+        "10% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiMTIxMzYzOTQ2Mzc5OTQ1ODQ1MTEiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMTM2Mzk0NjM3OTk0NTg0NTExIiwiaW1hZ2VEb2NpZCI6Ijk1NzU5ODc0ODkzNjcwMjI4MzIiLCJyZHMiOiIiLCJxdWVyeSI6ImdyYXBlZnJ1aXQrcGVlbCtvaWwifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiMTIxMzYzOTQ2Mzc5OTQ1ODQ1MTEiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMTM2Mzk0NjM3OTk0NTg0NTExIiwiaW1hZ2VEb2NpZCI6Ijk1NzU5ODc0ODkzNjcwMjI4MzIiLCJyZHMiOiIiLCJxdWVyeSI6ImdyYXBlZnJ1aXQrcGVlbCtvaWwifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS8HdH1Xkr9ChOjb0K1SifZ45J8UgD9U6Y0-uXbOUPHe6H-RihJ8PCr_sccbkPIL1GOWjKktHqX7CFa9-OTeV4VOvi9eEEAMQaFTJBw_N4XPD8XygcTRK2K",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR2SUwZ3DfJ_ilS58QzH2ugZGPb5hKSaKtRJ_61fmCXPC4oA8h9wzZfZzMgSA9og02a-akJu9TqXfJWhTaEWiTVbsx-EvC-2Co",
+      "source": "Alibaba.com",
+      "title": "100% Pure Natural Grapefruit Peel Oil Grapefruit Essential Oil",
+      "price": "$33.50",
+      "extracted_price": 33.5,
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiMTUyNjU2OTY3NjUwMzY2NjQ4OTUiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1MjY1Njk2NzY1MDM2NjY0ODk1IiwiaW1hZ2VEb2NpZCI6IjQ5NDI5OTY4MjIwNzYyNjgxMjAiLCJyZHMiOiIiLCJxdWVyeSI6ImdyYXBlZnJ1aXQrcGVlbCtvaWwifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiMTUyNjU2OTY3NjUwMzY2NjQ4OTUiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1MjY1Njk2NzY1MDM2NjY0ODk1IiwiaW1hZ2VEb2NpZCI6IjQ5NDI5OTY4MjIwNzYyNjgxMjAiLCJyZHMiOiIiLCJxdWVyeSI6ImdyYXBlZnJ1aXQrcGVlbCtvaWwifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQSqSk86F1HMQ08CgKM94yr3OoLx85I1Osz8J_sDMISH-ABw0HfUnuwb02O92UeStuc3A27NQ_qT8XMbv4U3srOmRujqEhdNvMsoDFJDjRRvd91nCfBRynoZg",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+      "source": "Amazon.com - Seller",
+      "title": "Kukka Grapefruit Essential Oil",
+      "price": "$8.99",
+      "extracted_price": 8.99,
+      "original_price": "$10",
+      "extracted_original_price": 10,
+      "extensions": [
+        "10% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTAzMjgyOTkwNzg5ODUyMjE2NTEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjUzODIyNzcwMTQ5MDM1MjkyNzciLCJpbWFnZURvY2lkIjoiNzMwNDA5MTY4MTA1MDQ5ODk1MyIsInJkcyI6IiIsInF1ZXJ5IjoiZ3JhcGVmcnVpdCtwZWVsK29pbCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTAzMjgyOTkwNzg5ODUyMjE2NTEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjUzODIyNzcwMTQ5MDM1MjkyNzciLCJpbWFnZURvY2lkIjoiNzMwNDA5MTY4MTA1MDQ5ODk1MyIsInJkcyI6IiIsInF1ZXJ5IjoiZ3JhcGVmcnVpdCtwZWVsK29pbCJ9"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTOMGay5DQwvudqGBRbjuhl2BjCKLfc83lXjfjcGbODpGgf_MKiDFt_vGKTrGMDa3T0u6a_skVTh_w37daWUvuBCWkFJGXHptyMUBt_wray_1If8LqCf8JG",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+      "source": "Amazon.com - Seller",
+      "title": "HIQILI 30 ml Grapefruit Essential Oil, for Diffuser, Skin Care,100% Pure and Natural - 1 Fl Oz",
+      "price": "$7.19",
+      "extracted_price": 7.19,
+      "original_price": "$9",
+      "extracted_original_price": 9,
+      "extensions": [
+        "20% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiMTY3NDY0NDc2NTgzMTk5NDY3MjQiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2NzQ2NDQ3NjU4MzE5OTQ2NzI0IiwiaW1hZ2VEb2NpZCI6IjQyNDYwMjEwNjA3Njk5NTcwMDQiLCJyZHMiOiIiLCJxdWVyeSI6ImdyYXBlZnJ1aXQrcGVlbCtvaWwifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiMTY3NDY0NDc2NTgzMTk5NDY3MjQiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2NzQ2NDQ3NjU4MzE5OTQ2NzI0IiwiaW1hZ2VEb2NpZCI6IjQyNDYwMjEwNjA3Njk5NTcwMDQiLCJyZHMiOiIiLCJxdWVyeSI6ImdyYXBlZnJ1aXQrcGVlbCtvaWwifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcBr6bwoJEqlrVvdoIoVCwRDNxKg1u0YFLA3tA70diWS8o_FsclZfGIV1fxgb1y8vVB8oIQ7xmshdtUuFmIyaXwlCWt8g0VA",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQpgfL0avcSnIIA7Wnlomi5kymZiO0A2kINnMkGZ3G1FlJRmOOARrbdPOOdSZARVbApsdeCP7QiIe5WxnPSOaIbtM4r",
+      "source": "Amazon",
+      "title": "Rocky Mountain Oils Organic Grapefruit Essential Oil",
+      "rating": 4.9,
+      "reviews": 44,
+      "price": "$19.95",
+      "extracted_price": 19.95,
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU5OTU2OTIyMzgzMjQzNTY1NDIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjkyOTgyMTU0MjY5OTg2OTMwNCIsImltYWdlRG9jaWQiOiI4NTMxOTExNjI3MDYwOTM5NzE0IiwicmRzIjoiUENfMzM4MzM0MTAwNzc1NjM1MjU4N3xQUk9EX1BDXzMzODMzNDEwMDc3NTYzNTI1ODciLCJxdWVyeSI6ImdyYXBlZnJ1aXQrcGVlbCtvaWwifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU5OTU2OTIyMzgzMjQzNTY1NDIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjkyOTgyMTU0MjY5OTg2OTMwNCIsImltYWdlRG9jaWQiOiI4NTMxOTExNjI3MDYwOTM5NzE0IiwicmRzIjoiUENfMzM4MzM0MTAwNzc1NjM1MjU4N3xQUk9EX1BDXzMzODMzNDEwMDc3NTYzNTI1ODciLCJxdWVyeSI6ImdyYXBlZnJ1aXQrcGVlbCtvaWwifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR02ahMSupUUctp7ydBXRSVYVHPqAdagCxikj__OuxU-duJUt0Wg9R0Xl_keg3iGs7RFuL_-rHfeFKFdhD0fqOKBy0mMX0GmA",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQpgfL0avcSnIIA7Wnlomi5kymZiO0A2kINnMkGZ3G1FlJRmOOARrbdPOOdSZARVbApsdeCP7QiIe5WxnPSOaIbtM4r",
+      "source": "Amazon",
+      "title": "Grapefruit Pink (Citrus \u00d7 paradisi) Oil | Pure & Natural Essential Oil for Skincare, Hair Care, Aroma and Diffusers- 30ml/1.01fl oz",
+      "price": "$11.80",
+      "extracted_price": 11.8,
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiMzEyMjQzNjk2NDE0MjUzOTMxNSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzEyMjQzNjk2NDE0MjUzOTMxNSIsImltYWdlRG9jaWQiOiI2OTY2Mjg2OTkyMTY5NjEwNjc2IiwicmRzIjoiIiwicXVlcnkiOiJncmFwZWZydWl0K3BlZWwrb2lsIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiMzEyMjQzNjk2NDE0MjUzOTMxNSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzEyMjQzNjk2NDE0MjUzOTMxNSIsImltYWdlRG9jaWQiOiI2OTY2Mjg2OTkyMTY5NjEwNjc2IiwicmRzIjoiIiwicXVlcnkiOiJncmFwZWZydWl0K3BlZWwrb2lsIn0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTz0UMPJsRBF5Sdrpl8dJ9pt_RGMBUtDqEjYVMQS_LaPAbjJAf-XztEWE5I0RxtsbDFqXq4bV-oWoyW-Bi5BphmbXGr7ZKTrO6scGmgyzY",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTXtrZ3AhI7aOA2egw3UAZ4i9rvHtl9_PK0dEoLLtOD0d_w78zAqcbaItvHeEQ3C3N8uc3jByfff_tbmosHDmPQNHOhA_g2rNYcC2bfbydPK9A",
+      "source": "National Nutrition",
+      "title": "Divine Essence Grapefruit Essential Oil",
+      "rating": 4.8,
+      "reviews": 5,
+      "price": "$6.82",
+      "extracted_price": 6.82,
+      "delivery": "Free $108+",
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU3MjI1MjgxOTY3NzQyMTY4OTgiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjUxMTk1NzExMTQ1MDY3MTkzODQiLCJpbWFnZURvY2lkIjoiMTY3MDYyOTQwNjEwNjI2OTQ0NTkiLCJyZHMiOiJQQ18xMDM5MTUwNDU0NTc0NTAwNzk0M3xQUk9EX1BDXzEwMzkxNTA0NTQ1NzQ1MDA3OTQzIiwicXVlcnkiOiJncmFwZWZydWl0K3BlZWwrb2lsIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU3MjI1MjgxOTY3NzQyMTY4OTgiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjUxMTk1NzExMTQ1MDY3MTkzODQiLCJpbWFnZURvY2lkIjoiMTY3MDYyOTQwNjEwNjI2OTQ0NTkiLCJyZHMiOiJQQ18xMDM5MTUwNDU0NTc0NTAwNzk0M3xQUk9EX1BDXzEwMzkxNTA0NTQ1NzQ1MDA3OTQzIiwicXVlcnkiOiJncmFwZWZydWl0K3BlZWwrb2lsIn0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSea6Kf16j71JLCyLmdlk371ZVRcDz_RFbSN9nlafzBmdJGDQGVdKviFhKWl0-t-Jk9lxKAo77oLqW9SsYkR5YiAwlW-4YFyjArHfBEX1yXc94AvO1UT_LLAw",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTjxSozRaeiGMs1ZJg8vURJGXkhhjPIf9jRTyWgjFTWAOA3hIqSPBA2iNkzfxJ74dSa57pCRUkqyro9_kpBeY3mjMkMRIi2A9HZsKsKtr4",
+      "source": "Mountain Rose Herbs",
+      "title": "Mountain Rose Herbs Grapefruit Essential Oil",
+      "rating": 5.0,
+      "reviews": 7,
+      "price": "$19.50",
+      "extracted_price": 19.5,
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIwMzQxMjkxNjQ5NDE0OTQ2MzAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMzkxNTkxODYzMDY1NTMwMjk3IiwiaW1hZ2VEb2NpZCI6IjE0NzAxODM0ODQ4MTgwMjc0OTI3IiwicmRzIjoiUENfNDUzNTIzMzgwNTI0NzA3Nzc0MnxQUk9EX1BDXzQ1MzUyMzM4MDUyNDcwNzc3NDIiLCJxdWVyeSI6ImdyYXBlZnJ1aXQrcGVlbCtvaWwifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIwMzQxMjkxNjQ5NDE0OTQ2MzAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMzkxNTkxODYzMDY1NTMwMjk3IiwiaW1hZ2VEb2NpZCI6IjE0NzAxODM0ODQ4MTgwMjc0OTI3IiwicmRzIjoiUENfNDUzNTIzMzgwNTI0NzA3Nzc0MnxQUk9EX1BDXzQ1MzUyMzM4MDUyNDcwNzc3NDIiLCJxdWVyeSI6ImdyYXBlZnJ1aXQrcGVlbCtvaWwifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTGIo60fsuPZJ6SVUEoZGxh-P4Y875rRhukQqa9WDijhT0BpteNUoj-PBQKJ80hEjOs6GzaFJOAX-VpS6QHr1aY-cqRmW4ob4LxD3oUkxTyb6sqShA4SMi8OA",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQpgfL0avcSnIIA7Wnlomi5kymZiO0A2kINnMkGZ3G1FlJRmOOARrbdPOOdSZARVbApsdeCP7QiIe5WxnPSOaIbtM4r",
+      "source": "Amazon",
+      "title": "Grapefruit Essential Oil, 30ml",
+      "price": "$8.95",
+      "extracted_price": 8.95,
+      "immersive_product_page_token": "eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiMTA0MTc5ODcxNDQyMjI4MDE1OTIiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwNDE3OTg3MTQ0MjIyODAxNTkyIiwiaW1hZ2VEb2NpZCI6IjE2ODkzNTkzNTIzMTgxNDA1Njc0IiwicmRzIjoiIiwicXVlcnkiOiJncmFwZWZydWl0K3BlZWwrb2lsIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicHJvZHVjdGlkIjoiMTA0MTc5ODcxNDQyMjI4MDE1OTIiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwNDE3OTg3MTQ0MjIyODAxNTkyIiwiaW1hZ2VEb2NpZCI6IjE2ODkzNTkzNTIzMTgxNDA1Njc0IiwicmRzIjoiIiwicXVlcnkiOiJncmFwZWZydWl0K3BlZWwrb2lsIn0%3D"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is grapefruit peel oil good for?",
+      "snippet": "Grapefruit essential oil's antioxidant and bacteria-fighting properties heal existing acne and protect against future breakouts. Rich in vitamin C antioxidants, grapefruit oil calms inflammation, promotes collagen production, and increases cellular turnover to unclog pores.",
+      "title": "Grapefruit Oil For Skin: Benefits, How To Use It, and More",
+      "date": "Apr 5, 2022",
+      "link": "https://www.zensaskincare.com/blogs/news/grapefruit-essential-oil-benefits-for-skin#:~:text=Grapefruit%20essential%20oil's%20antioxidant%20and,cellular%20turnover%20to%20unclog%20pores.",
+      "displayed_link": "https://www.zensaskincare.com \u203a blogs \u203a news \u203a grapefr...",
+      "source_logo": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/aef19c1b3e9db58ec4f9070edf1b25541615c7728fefa88dc3e8b566f98fcea8.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU0wWkVTMk00WkRaWlMzVndiMjlRYUhoZk1XeG5RVlp3WW1zeU5GODBiM1IwUTJWSFZFcDVTVU4xYjJoQ1MyTmFlRzl5Y1ZOMmFXWTNWelpSYlU1SlNuSjBRVk52RWhkQmFHTkxXbDlZVUVOeVQyOXdkRkZRZW5GRE5uRkJheG9pUVVaWWNrVmpiems0WjFSUk1sODRNa0Y2ZWt0Q05uWXdNbFJUZG5SRFlXeGFadyIsImZjdiI6IjMiLCJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicWMiOiJDaE5uY21Gd1pXWnlkV2wwSUhCbFpXd2diMmxzRUFCOXpuSWVQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBncmFwZWZydWl0IHBlZWwgb2lsIGdvb2QgZm9yPyIsImxrIjoiR2lSM2FHRjBJR2x6SUdkeVlYQmxabkoxYVhRZ2NHVmxiQ0J2YVd3Z1oyOXZaQ0JtYjNJIiwiYnMiOiJjLU1LNGxJTnowZ3NVY2dzVmtndlNpeElUU3NxelN4UktFaE56VkhJejh4UlNNX1BUMUZJeXkteWw5aHFhNlFtcFZKT2hGb3VEeTRGal94eWhaSjhoZHpFN0ZSc2F1MGxIcW9ZS1VySlotQlh4aFhDcFFaMlhVcC1LcWFkS2ZrZzJ4U0tzelB6N0NVMmV4aXBTNm1XRTZPWXk0dEwwUVZORGNqOUpabnBHU1dwZVZBRHI4Z2JLVWxobUlXdVRvQVJBQSIsImlkIjoiZmNfQWhjS1pfWFBDck9vcHRRUHpxQzZxQWtfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU0wWkVTMk00WkRaWlMzVndiMjlRYUhoZk1XeG5RVlp3WW1zeU5GODBiM1IwUTJWSFZFcDVTVU4xYjJoQ1MyTmFlRzl5Y1ZOMmFXWTNWelpSYlU1SlNuSjBRVk52RWhkQmFHTkxXbDlZVUVOeVQyOXdkRkZRZW5GRE5uRkJheG9pUVVaWWNrVmpiems0WjFSUk1sODRNa0Y2ZWt0Q05uWXdNbFJUZG5SRFlXeGFadyIsImZjdiI6IjMiLCJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicWMiOiJDaE5uY21Gd1pXWnlkV2wwSUhCbFpXd2diMmxzRUFCOXpuSWVQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBncmFwZWZydWl0IHBlZWwgb2lsIGdvb2QgZm9yPyIsImxrIjoiR2lSM2FHRjBJR2x6SUdkeVlYQmxabkoxYVhRZ2NHVmxiQ0J2YVd3Z1oyOXZaQ0JtYjNJIiwiYnMiOiJjLU1LNGxJTnowZ3NVY2dzVmtndlNpeElUU3NxelN4UktFaE56VkhJejh4UlNNX1BUMUZJeXkteWw5aHFhNlFtcFZKT2hGb3VEeTRGal94eWhaSjhoZHpFN0ZSc2F1MGxIcW9ZS1VySlotQlh4aFhDcFFaMlhVcC1LcWFkS2ZrZzJ4U0tzelB6N0NVMmV4aXBTNm1XRTZPWXk0dEwwUVZORGNqOUpabnBHU1dwZVZBRHI4Z2JLVWxobUlXdVRvQVJBQSIsImlkIjoiZmNfQWhjS1pfWFBDck9vcHRRUHpxQzZxQWtfMSJ9"
+    },
+    {
+      "question": "How to make grapefruit peel oil?",
+      "snippet": "Preparation. Combine the grapefruit peel with the oil and let stand, covered, at room temperature for 3 days; strain. The oil can be covered and stored at room temperature for up to 6 months.",
+      "title": "Grapefruit Oil Recipe - NYT Cooking",
+      "link": "https://cooking.nytimes.com/recipes/3950-grapefruit-oil#:~:text=Preparation,-Step%201&text=Combine%20the%20grapefruit%20peel%20with,for%20up%20to%206%20months.",
+      "displayed_link": "https://cooking.nytimes.com \u203a recipes \u203a 3950-grapefruit-...",
+      "source_logo": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/aef19c1b3e9db58ec4f9070edf1b255447d550345084b3c5c2a2ba340fed0627.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU0wWkVTMk00WkRaWlMzVndiMjlRYUhoZk1XeG5RVlp3WW1zeU5GODBiM1IwUTJWSFZFcDVTVU4xYjJoQ1MyTmFlRzl5Y1ZOMmFXWTNWelpSYlU1SlNuSjBRVk52RWhkQmFHTkxXbDlZVUVOeVQyOXdkRkZRZW5GRE5uRkJheG9pUVVaWWNrVmpiems0WjFSUk1sODRNa0Y2ZWt0Q05uWXdNbFJUZG5SRFlXeGFadyIsImZjdiI6IjMiLCJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicWMiOiJDaE5uY21Gd1pXWnlkV2wwSUhCbFpXd2diMmxzRUFCOXpuSWVQdyIsInF1ZXN0aW9uIjoiSG93IHRvIG1ha2UgZ3JhcGVmcnVpdCBwZWVsIG9pbD8iLCJsayI6IkdoOW9iM2NnZEc4Z2JXRnJaU0JuY21Gd1pXWnlkV2wwSUhCbFpXd2diMmxzIiwiYnMiOiJjLU1LNGxJTnowZ3NVY2dzVmtndlNpeElUU3NxelN4UktFaE56VkhJejh4UlNNX1BUMUZJeXkteWw5aHFhNlFtcFZKT2hGb3VEeTRGal94eWhaSjhoZHpFN0ZSc2F1MGxIcW9ZS1VySlotQlh4aFhDcFFaMlhVcC1LcWFkS2ZrZzJ4U0tzelB6N0NVMmV4aXBTNm1XRTZPWXk0dEwwUVZORGNqOUpabnBHU1dwZVZBRHI4Z2JLVWxobUlXdVRvQVJBQSIsImlkIjoiZmNfQWhjS1pfWFBDck9vcHRRUHpxQzZxQWtfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU0wWkVTMk00WkRaWlMzVndiMjlRYUhoZk1XeG5RVlp3WW1zeU5GODBiM1IwUTJWSFZFcDVTVU4xYjJoQ1MyTmFlRzl5Y1ZOMmFXWTNWelpSYlU1SlNuSjBRVk52RWhkQmFHTkxXbDlZVUVOeVQyOXdkRkZRZW5GRE5uRkJheG9pUVVaWWNrVmpiems0WjFSUk1sODRNa0Y2ZWt0Q05uWXdNbFJUZG5SRFlXeGFadyIsImZjdiI6IjMiLCJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicWMiOiJDaE5uY21Gd1pXWnlkV2wwSUhCbFpXd2diMmxzRUFCOXpuSWVQdyIsInF1ZXN0aW9uIjoiSG93IHRvIG1ha2UgZ3JhcGVmcnVpdCBwZWVsIG9pbD8iLCJsayI6IkdoOW9iM2NnZEc4Z2JXRnJaU0JuY21Gd1pXWnlkV2wwSUhCbFpXd2diMmxzIiwiYnMiOiJjLU1LNGxJTnowZ3NVY2dzVmtndlNpeElUU3NxelN4UktFaE56VkhJejh4UlNNX1BUMUZJeXkteWw5aHFhNlFtcFZKT2hGb3VEeTRGal94eWhaSjhoZHpFN0ZSc2F1MGxIcW9ZS1VySlotQlh4aFhDcFFaMlhVcC1LcWFkS2ZrZzJ4U0tzelB6N0NVMmV4aXBTNm1XRTZPWXk0dEwwUVZORGNqOUpabnBHU1dwZVZBRHI4Z2JLVWxobUlXdVRvQVJBQSIsImlkIjoiZmNfQWhjS1pfWFBDck9vcHRRUHpxQzZxQWtfMSJ9"
+    },
+    {
+      "question": "What does grapefruit peel do for skin?",
+      "snippet": "Pink grapefruit peel oil contains lycopene, a natural exfoliant that can help skin absorb moisturizers better. The exfoliating and brightening properties of pink grapefruit peel helps improve dull skin, revealing much more vibrant appearance.",
+      "title": "7 skin-loving benefits of pink grapefruit peel oil - Pure Haven",
+      "date": "Mar 1, 2022",
+      "link": "https://purehaven.com/7-skin-loving-benefits-of-pink-grapefruit-peel-oil/#:~:text=Pink%20grapefruit%20peel%20oil%20contains,revealing%20much%20more%20vibrant%20appearance.",
+      "displayed_link": "https://purehaven.com \u203a 7-skin-loving-benefits-of-pink-...",
+      "source_logo": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/aef19c1b3e9db58ec4f9070edf1b2554a44d932e11e456449b1be521b19d3d8c.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU0wWkVTMk00WkRaWlMzVndiMjlRYUhoZk1XeG5RVlp3WW1zeU5GODBiM1IwUTJWSFZFcDVTVU4xYjJoQ1MyTmFlRzl5Y1ZOMmFXWTNWelpSYlU1SlNuSjBRVk52RWhkQmFHTkxXbDlZVUVOeVQyOXdkRkZRZW5GRE5uRkJheG9pUVVaWWNrVmpiems0WjFSUk1sODRNa0Y2ZWt0Q05uWXdNbFJUZG5SRFlXeGFadyIsImZjdiI6IjMiLCJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicWMiOiJDaE5uY21Gd1pXWnlkV2wwSUhCbFpXd2diMmxzRUFCOXpuSWVQdyIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIGdyYXBlZnJ1aXQgcGVlbCBkbyBmb3Igc2tpbj8iLCJsayI6IkdpVjNhR0YwSUdSdlpYTWdaM0poY0dWbWNuVnBkQ0J3WldWc0lHUnZJR1p2Y2lCemEybHUiLCJicyI6ImMtTUs0bElOejBnc1VjZ3NWa2d2U2l4SVRTc3F6U3hSS0VoTnpWSEl6OHhSU01fUFQxRkl5eS15bDlocWE2UW1wVkpPaEZvdUR5NEZqX3h5aFpKOGhkekU3RlJzYXUwbEhxb1lLVXJKWi1CWHhoWENwUVoyWFVwLUtxYWRLZmtnMnhTS3N6UHo3Q1UyZXhpcFM2bVdFNk9ZeTR0TDBRVk5EY2o5SlpucEdTV3BlVkFEcjhnYktVbGhtSVd1VG9BUkFBIiwiaWQiOiJmY19BaGNLWl9YUENyT29wdFFQenFDNnFBa18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU0wWkVTMk00WkRaWlMzVndiMjlRYUhoZk1XeG5RVlp3WW1zeU5GODBiM1IwUTJWSFZFcDVTVU4xYjJoQ1MyTmFlRzl5Y1ZOMmFXWTNWelpSYlU1SlNuSjBRVk52RWhkQmFHTkxXbDlZVUVOeVQyOXdkRkZRZW5GRE5uRkJheG9pUVVaWWNrVmpiems0WjFSUk1sODRNa0Y2ZWt0Q05uWXdNbFJUZG5SRFlXeGFadyIsImZjdiI6IjMiLCJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicWMiOiJDaE5uY21Gd1pXWnlkV2wwSUhCbFpXd2diMmxzRUFCOXpuSWVQdyIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIGdyYXBlZnJ1aXQgcGVlbCBkbyBmb3Igc2tpbj8iLCJsayI6IkdpVjNhR0YwSUdSdlpYTWdaM0poY0dWbWNuVnBkQ0J3WldWc0lHUnZJR1p2Y2lCemEybHUiLCJicyI6ImMtTUs0bElOejBnc1VjZ3NWa2d2U2l4SVRTc3F6U3hSS0VoTnpWSEl6OHhSU01fUFQxRkl5eS15bDlocWE2UW1wVkpPaEZvdUR5NEZqX3h5aFpKOGhkekU3RlJzYXUwbEhxb1lLVXJKWi1CWHhoWENwUVoyWFVwLUtxYWRLZmtnMnhTS3N6UHo3Q1UyZXhpcFM2bVdFNk9ZeTR0TDBRVk5EY2o5SlpucEdTV3BlVkFEcjhnYktVbGhtSVd1VG9BUkFBIiwiaWQiOiJmY19BaGNLWl9YUENyT29wdFFQenFDNnFBa18xIn0%3D"
+    },
+    {
+      "question": "Does grapefruit oil tighten skin?",
+      "snippet": "Grapefruit oil for cellulite also contains enzymes that promote better circulation, which may help reduce the appearance of cellulite. It can also tighten and tone the skin, giving it a smoother appearance.",
+      "title": "Which Essential Oils Help Reduce Cellulite? - Legology",
+      "date": "Dec 1, 2023",
+      "link": "https://legology.co/blogs/wellness/which-essential-oils-help-reduce-cellulite#:~:text=Grapefruit%20oil%20for%20cellulite%20also,giving%20it%20a%20smoother%20appearance.",
+      "displayed_link": "https://legology.co \u203a blogs \u203a wellness \u203a which-essential-o...",
+      "source_logo": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/aef19c1b3e9db58ec4f9070edf1b2554c8ead0362011c5468f1b7ddaebb5f3da.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU0wWkVTMk00WkRaWlMzVndiMjlRYUhoZk1XeG5RVlp3WW1zeU5GODBiM1IwUTJWSFZFcDVTVU4xYjJoQ1MyTmFlRzl5Y1ZOMmFXWTNWelpSYlU1SlNuSjBRVk52RWhkQmFHTkxXbDlZVUVOeVQyOXdkRkZRZW5GRE5uRkJheG9pUVVaWWNrVmpiems0WjFSUk1sODRNa0Y2ZWt0Q05uWXdNbFJUZG5SRFlXeGFadyIsImZjdiI6IjMiLCJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicWMiOiJDaE5uY21Gd1pXWnlkV2wwSUhCbFpXd2diMmxzRUFCOXpuSWVQdyIsInF1ZXN0aW9uIjoiRG9lcyBncmFwZWZydWl0IG9pbCB0aWdodGVuIHNraW4/IiwibGsiOiJHaUJrYjJWeklHZHlZWEJsWm5KMWFYUWdiMmxzSUhScFoyaDBaVzRnYzJ0cGJnIiwiYnMiOiJjLU1LNGxJTnowZ3NVY2dzVmtndlNpeElUU3NxelN4UktFaE56VkhJejh4UlNNX1BUMUZJeXkteWw5aHFhNlFtcFZKT2hGb3VEeTRGal94eWhaSjhoZHpFN0ZSc2F1MGxIcW9ZS1VySlotQlh4aFhDcFFaMlhVcC1LcWFkS2ZrZzJ4U0tzelB6N0NVMmV4aXBTNm1XRTZPWXk0dEwwUVZORGNqOUpabnBHU1dwZVZBRHI4Z2JLVWxobUlXdVRvQVJBQSIsImlkIjoiZmNfQWhjS1pfWFBDck9vcHRRUHpxQzZxQWtfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU0wWkVTMk00WkRaWlMzVndiMjlRYUhoZk1XeG5RVlp3WW1zeU5GODBiM1IwUTJWSFZFcDVTVU4xYjJoQ1MyTmFlRzl5Y1ZOMmFXWTNWelpSYlU1SlNuSjBRVk52RWhkQmFHTkxXbDlZVUVOeVQyOXdkRkZRZW5GRE5uRkJheG9pUVVaWWNrVmpiems0WjFSUk1sODRNa0Y2ZWt0Q05uWXdNbFJUZG5SRFlXeGFadyIsImZjdiI6IjMiLCJlaSI6IkFoY0taX1hQQ3JPb3B0UVB6cUM2cUFrIiwicWMiOiJDaE5uY21Gd1pXWnlkV2wwSUhCbFpXd2diMmxzRUFCOXpuSWVQdyIsInF1ZXN0aW9uIjoiRG9lcyBncmFwZWZydWl0IG9pbCB0aWdodGVuIHNraW4%2FIiwibGsiOiJHaUJrYjJWeklHZHlZWEJsWm5KMWFYUWdiMmxzSUhScFoyaDBaVzRnYzJ0cGJnIiwiYnMiOiJjLU1LNGxJTnowZ3NVY2dzVmtndlNpeElUU3NxelN4UktFaE56VkhJejh4UlNNX1BUMUZJeXkteWw5aHFhNlFtcFZKT2hGb3VEeTRGal94eWhaSjhoZHpFN0ZSc2F1MGxIcW9ZS1VySlotQlh4aFhDcFFaMlhVcC1LcWFkS2ZrZzJ4U0tzelB6N0NVMmV4aXBTNm1XRTZPWXk0dEwwUVZORGNqOUpabnBHU1dwZVZBRHI4Z2JLVWxobUlXdVRvQVJBQSIsImlkIjoiZmNfQWhjS1pfWFBDck9vcHRRUHpxQzZxQWtfMSJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Grapefruit - Organic EO",
+      "link": "https://www.edenbotanicals.com/grapefruit-organic.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.edenbotanicals.com/grapefruit-organic.html&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQFnoECCAQAQ",
+      "displayed_link": "https://www.edenbotanicals.com \u203a grapefruit-organic",
+      "thumbnail": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/e0c8de5a4cc5edef426ac15ee208ec191399e25e919e69025e53c4bc659ef81e.jpeg",
+      "favicon": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/e0c8de5a4cc5edef426ac15ee208ec19483e7e510000a9b30c68f4025c978342.png",
+      "snippet": "USE: Aromatherapy/Natural Perfumery. Fresh, light, sweet yet sour, peel-like, mildly pithy aroma; has good body and complexity in the drydown.",
+      "snippet_highlighted_words": [
+        "peel"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 49,
+            "currency": "Free delivery over $",
+            "unknown": 14
+          },
+          "extensions": [
+            "$13.00",
+            "\u200eFree delivery over $49",
+            "\u200e14",
+            "day returns",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Eden Botanicals"
+    },
+    {
+      "position": 2,
+      "title": "Grapefruit Essential Oil Pink Organic - Citrus paradisi",
+      "link": "https://www.natureinbottle.com/product/grapefruit_essential_oil",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.natureinbottle.com/product/grapefruit_essential_oil&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQFnoECFEQAQ",
+      "displayed_link": "https://www.natureinbottle.com \u203a product \u203a grapefruit_...",
+      "thumbnail": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/e0c8de5a4cc5edef426ac15ee208ec19a184f591eafb559e791bab3524138f0e.jpeg",
+      "favicon": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/e0c8de5a4cc5edef426ac15ee208ec19eb8b94e4540402abe6e84f9d28205371.png",
+      "snippet": "This essential oil promotes positive energy and is a welcome comfort when dealing with tension and situational depression. A mild euphoric, Grapefruit Essential ...",
+      "snippet_highlighted_words": [
+        "oil",
+        "Grapefruit"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 90,
+            "price": 28.48,
+            "currency": "$"
+          },
+          "extensions": [
+            "5.0(256)",
+            "$28.48",
+            "\u200e90",
+            "day returns",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Nature In Bottle"
+    },
+    {
+      "position": 3,
+      "title": "Grapefruit Peel Oil",
+      "link": "https://www.amazon.com/grapefruit-peel-oil/s?k=grapefruit+peel+oil",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/grapefruit-peel-oil/s%3Fk%3Dgrapefruit%2Bpeel%2Boil&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQFnoECE4QAQ",
+      "displayed_link": "https://www.amazon.com \u203a grapefruit-peel-oil \u203a k=grap...",
+      "favicon": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/e0c8de5a4cc5edef426ac15ee208ec197a1baf80e5f1842680f1a4f040f88ccc.png",
+      "snippet": "Grapefruit Seed Oil 4 oz Cold Pressed 100% Pure Natural Carrier - Skin, Body And Face. Great For Moisturizing Creams, Lotions, Scalp Treatments, and Lip Balms.",
+      "snippet_highlighted_words": [
+        "Grapefruit",
+        "Oil",
+        "Skin"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "store_rating_k": 4.5,
+            "price": 7,
+            "currency": "$ to $",
+            "unknown": 30
+          },
+          "extensions": [
+            "4.5store rating (4K)",
+            "\u200e$7 to $20",
+            "\u200e30",
+            "day returns"
+          ]
+        }
+      },
+      "source": "Amazon.com"
+    },
+    {
+      "position": 4,
+      "title": "Citrus Paradisi Peel Oil (Explained + Products)",
+      "link": "https://incidecoder.com/ingredients/citrus-paradisi-peel-oil",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://incidecoder.com/ingredients/citrus-paradisi-peel-oil&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQFnoECDcQAQ",
+      "displayed_link": "https://incidecoder.com \u203a ingredients \u203a citrus-paradisi-p...",
+      "favicon": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/e0c8de5a4cc5edef426ac15ee208ec19541f68d37ac19bec6d36ca91a182447d.png",
+      "snippet": "The main component of citrus peel oils is limonene (around 90% for grapefruit peel), a super common fragrant ingredient that makes everything smell nice.",
+      "snippet_highlighted_words": [
+        "citrus peel oils"
+      ],
+      "source": "INCIDecoder"
+    },
+    {
+      "position": 5,
+      "title": "Chemical Composition, Antimicrobial, Antioxidant, and ...",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6982870/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6982870/&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQFnoECFAQAQ",
+      "displayed_link": "https://www.ncbi.nlm.nih.gov \u203a articles \u203a PMC6982870",
+      "favicon": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/e0c8de5a4cc5edef426ac15ee208ec19747c8b63681465756a71dd56d2a7d251.png",
+      "author": "by W Deng",
+      "cited_by": "Cited by 134",
+      "extracted_cited_by": 134,
+      "date": "2020",
+      "snippet": "Since cold-pressed grapefruit oil (Citrus paradisi Macf.) has been evaluated as \u201cgenerally recognized as safe\u201d (GRAS) by the Expert Panel of the ...",
+      "snippet_highlighted_words": [
+        "grapefruit oil",
+        "Citrus"
+      ],
+      "source": "National Institutes of Health (NIH) (.gov)"
+    },
+    {
+      "position": 6,
+      "title": "Grapefruit Peel Essential Oil, Organic, California",
+      "link": "https://enfleurage.com/grapefruit-peel/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://enfleurage.com/grapefruit-peel/&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQFnoECFoQAQ",
+      "displayed_link": "https://enfleurage.com \u203a Shop All",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7nokVRPAm4XvEe3_eu-NhT2nStrryViQhujIAHrJK2MPEz5cSc2_T&s",
+      "favicon": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/e0c8de5a4cc5edef426ac15ee208ec195960354a2d0aa192a0555ee77e618199.png",
+      "snippet": "Grapefruit oil is a mobile, yellowish to greenish-yellow or pale orange yellow oil, possessing a fresh-citrusy, rather sweet odor and a similar taste.",
+      "snippet_highlighted_words": [
+        "Grapefruit oil",
+        "oil"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 74.99,
+            "currency": "day delivery over $",
+            "free": 5,
+            "unknown": 30
+          },
+          "extensions": [
+            "$9.00 to $23.00",
+            "\u200eFree 5",
+            "day delivery over $74.99",
+            "\u200e30",
+            "day returns",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Enfleurage | Essential Oils"
+    },
+    {
+      "position": 7,
+      "title": "Citrus Grandis Peel Oil (Explained + Products)",
+      "link": "https://incidecoder.com/ingredients/citrus-grandis-peel-oil",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://incidecoder.com/ingredients/citrus-grandis-peel-oil&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQFnoECDoQAQ",
+      "displayed_link": "https://incidecoder.com \u203a ingredients \u203a citrus-grandis-p...",
+      "favicon": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/e0c8de5a4cc5edef426ac15ee208ec19db3d328f5af2d0b45acdf11fbc9087ef.png",
+      "snippet": "The main component of citrus peel oils is limonene (86-95% for grapefruit peel), a super common fragrant ingredient that makes everything smell nice.",
+      "snippet_highlighted_words": [
+        "citrus peel oils"
+      ],
+      "source": "INCIDecoder"
+    },
+    {
+      "position": 8,
+      "title": "Organic Pink Grapefruit Essential Oil | FNWL",
+      "link": "https://www.fromnaturewithlove.com/SOAP/product.asp?product_id=OEOGRAPEFRPKCPUS655&srsltid=AfmBOopIK-PWFKWKbUDoiFjmeiMQnV_pafEzGz0NI_1ci5J7NjM4jkvo",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fromnaturewithlove.com/SOAP/product.asp%3Fproduct_id%3DOEOGRAPEFRPKCPUS655%26srsltid%3DAfmBOopIK-PWFKWKbUDoiFjmeiMQnV_pafEzGz0NI_1ci5J7NjM4jkvo&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQFnoECEQQAQ",
+      "displayed_link": "https://www.fromnaturewithlove.com \u203a SOAP \u203a product",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTM0smd3QKUaR6zPYrzmf8-vwIAtmuBQvmtgd1W65SofyUoQxBawz2&s",
+      "favicon": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/e0c8de5a4cc5edef426ac15ee208ec198cf86398f75b06c97aef5a05bb657a28.png",
+      "snippet": "Organic Pink Grapefruit Essential Oil, Citrus paradisi, is aromatically sweeter and more vibrant than White Grapefruit Essential Oil.",
+      "snippet_highlighted_words": [
+        "Grapefruit",
+        "Oil",
+        "Citrus",
+        "Grapefruit",
+        "Oil"
+      ],
+      "source": "From Nature With Love"
+    },
+    {
+      "position": 9,
+      "title": "Citrus Paradisi (Pink Grapefruit) Peel Oil",
+      "link": "https://www.sophic.com/pages/citrus-paradisi-pink-grapefruit-peel-oil-sophic-ingredient?srsltid=AfmBOooXpKY3VPodNo1PdcAez_GEH_L7qB50Dw7hCm4kgJW5McRkQ0jR",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sophic.com/pages/citrus-paradisi-pink-grapefruit-peel-oil-sophic-ingredient%3Fsrsltid%3DAfmBOooXpKY3VPodNo1PdcAez_GEH_L7qB50Dw7hCm4kgJW5McRkQ0jR&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQFnoECD8QAQ",
+      "displayed_link": "https://www.sophic.com \u203a pages \u203a citrus-paradisi-pink-...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlRQBf-AFsZ8DXxtBBkhL51UYHdYJ0aH7UWf8CZJj4ZCC2KM5P9_ZFVw&s",
+      "favicon": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/e0c8de5a4cc5edef426ac15ee208ec1969bc2794168780bd69749bfbe33579fc.jpeg",
+      "snippet": "What are the benefits? \u00b7 Improves blood circulation \u00b7 Strengthens roots \u00b7 Antimicrobial \u00b7 Antioxidant \u00b7 Leaves hair shiny \u00b7 Promotes hair growth \u00b7 Fights ...",
+      "source": "Sophic Hair Care"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?q=grapefruit+peel+oil&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&udm=18&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQ8poLegQIQhAF",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=grapefruit+peel+oil",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Grapefruit peel oil benefits",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Grapefruit+peel+oil+benefits&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Grapefruit+peel+oil+benefits"
+    },
+    {
+      "block_position": 1,
+      "query": "Grapefruit peel oil for hair",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Grapefruit+peel+oil+for+hair&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Grapefruit+peel+oil+for+hair"
+    },
+    {
+      "block_position": 1,
+      "query": "Where to buy grapefruit peel oil",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Where+to+buy+grapefruit+peel+oil&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Where+to+buy+grapefruit+peel+oil"
+    },
+    {
+      "block_position": 1,
+      "query": "Citrus paradisi seed oil for hair",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Citrus+paradisi+seed+oil+for+hair&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Citrus+paradisi+seed+oil+for+hair"
+    },
+    {
+      "block_position": 1,
+      "query": "Grapefruit essential oil benefits",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Grapefruit+essential+oil+benefits&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Grapefruit+essential+oil+benefits"
+    },
+    {
+      "block_position": 1,
+      "query": "Lemon peel Oil",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Lemon+peel+Oil&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lemon+peel+Oil"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?q=grapefruit+peel+oil+nearby&hl=en&gl=us&shoprs=CAEYAyoTZ3JhcGVmcnVpdCBwZWVsIG9pbDIMCAMSBk5lYXJieRgCWPa7IGAB&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQip4GKAF6BAgxEEE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=grapefruit+peel+oil+nearby"
+    },
+    {
+      "query": "Recipe",
+      "link": "https://www.google.com/search?q=recipe+grapefruit+peel+oil&hl=en&gl=us&shoprs=CAEYEioTZ3JhcGVmcnVpdCBwZWVsIG9pbDIKCBISBlJlY2lwZWAB&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQip4GKAJ6BAgxEEI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=recipe+grapefruit+peel+oil"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?q=reviews+grapefruit+peel+oil&hl=en&gl=us&shoprs=CAEYEioTZ3JhcGVmcnVpdCBwZWVsIG9pbDILCBISB1Jldmlld3NgAQ&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQip4GKAN6BAgxEEM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=reviews+grapefruit+peel+oil"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?q=buy+grapefruit+peel+oil&hl=en&gl=us&shoprs=CAEYEioTZ3JhcGVmcnVpdCBwZWVsIG9pbDIHCBISA0J1eWAB&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQip4GKAR6BAgxEEQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=buy+grapefruit+peel+oil"
+    },
+    {
+      "query": "Brand",
+      "link": "https://www.google.com/search?q=brand+grapefruit+peel+oil&hl=en&gl=us&shoprs=CAEYEioTZ3JhcGVmcnVpdCBwZWVsIG9pbDIJCBISBUJyYW5kYAE&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQip4GKAV6BAgxEEU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brand+grapefruit+peel+oil"
+    },
+    {
+      "query": "Amazon",
+      "link": "https://www.google.com/search?q=amazon+grapefruit+peel+oil&hl=en&gl=us&shoprs=CAEYAioTZ3JhcGVmcnVpdCBwZWVsIG9pbDIKCAISBkFtYXpvblj2uyBgAQ&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQip4GKAZ6BAgxEEY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=amazon+grapefruit+peel+oil",
+      "thumbnail": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/9adb87762f514e62e502db3a777b49794c04f37a94c1d281202542fac01769ac.png"
+    },
+    {
+      "query": "Target",
+      "link": "https://www.google.com/search?q=target+grapefruit+peel+oil&hl=en&gl=us&shoprs=CAEYAioTZ3JhcGVmcnVpdCBwZWVsIG9pbDIKCAISBlRhcmdldFj2uyBgAQ&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQip4GKAd6BAgxEEg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=target+grapefruit+peel+oil",
+      "thumbnail": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/9adb87762f514e62e502db3a777b497996af6c99dff0c0b9f3c744987a1b5b92.png"
+    },
+    {
+      "query": "Walmart",
+      "link": "https://www.google.com/search?q=walmart+grapefruit+peel+oil&hl=en&gl=us&shoprs=CAEYAioTZ3JhcGVmcnVpdCBwZWVsIG9pbDILCAISB1dhbG1hcnRY9rsgYAE&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQip4GKAh6BAgxEEo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=walmart+grapefruit+peel+oil",
+      "thumbnail": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/9adb87762f514e62e502db3a777b49799e37dbac871957461664ba01e8a63d05.png"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?q=grapefruit+peel+oil+sale&hl=en&gl=us&shoprs=CAESBEoCGAEYBioTZ3JhcGVmcnVpdCBwZWVsIG9pbDITCAYSB09uIHNhbGUYAiIESgIYAVj2uyBgAQ&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQip4GKAl6BAgxEEw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=grapefruit+peel+oil+sale"
+    },
+    {
+      "query": "Facial Peels",
+      "link": "https://www.google.com/search?q=facial+peels+grapefruit+peel+oil&hl=en&gl=us&shoprs=CAEYCSoTZ3JhcGVmcnVpdCBwZWVsIG9pbDIQCAkSDEZhY2lhbCBQZWVsc2AB&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQip4GKAp6BAgxEE0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=facial+peels+grapefruit+peel+oil"
+    },
+    {
+      "query": "Body Lotion",
+      "link": "https://www.google.com/search?q=body+lotion+grapefruit+peel+oil&hl=en&gl=us&shoprs=CAEYCSoTZ3JhcGVmcnVpdCBwZWVsIG9pbDIPCAkSC0JvZHkgTG90aW9uYAE&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQip4GKAt6BAgxEE4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=body+lotion+grapefruit+peel+oil"
+    },
+    {
+      "query": "Used",
+      "link": "https://www.google.com/search?q=used+grapefruit+peel+oil&hl=en&gl=us&shoprs=CAEYCioTZ3JhcGVmcnVpdCBwZWVsIG9pbDIICAoSBFVzZWRY9rsgYAE&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQip4GKAx6BAgxEE8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=used+grapefruit+peel+oil",
+      "thumbnail": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/9adb87762f514e62e502db3a777b4979b91c6735526aee81b6c6f3f5d8b78feb.svg+xml"
+    },
+    {
+      "query": "Body Oil",
+      "link": "https://www.google.com/search?q=body+oil+grapefruit+peel&hl=en&gl=us&shoprs=CAEYCSoTZ3JhcGVmcnVpdCBwZWVsIG9pbDIMCAkSCEJvZHkgT2lsYAE&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQip4GKA16BAgxEFA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=body+oil+grapefruit+peel"
+    },
+    {
+      "query": "H-E-B",
+      "link": "https://www.google.com/search?q=h-e-b+grapefruit+peel+oil&hl=en&gl=us&shoprs=CAEYAioTZ3JhcGVmcnVpdCBwZWVsIG9pbDIJCAISBUgtRS1CWPa7IGAB&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQip4GKA56BAgxEFE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=h-e-b+grapefruit+peel+oil",
+      "thumbnail": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/9adb87762f514e62e502db3a777b4979072fffe63eb0363bf9b6850f644daf79.png"
+    },
+    {
+      "query": "Face Wash",
+      "link": "https://www.google.com/search?q=face+wash+grapefruit+peel+oil&hl=en&gl=us&shoprs=CAEYCSoTZ3JhcGVmcnVpdCBwZWVsIG9pbDINCAkSCUZhY2UgV2FzaGAB&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQip4GKA96BAgxEFM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=face+wash+grapefruit+peel+oil"
+    },
+    {
+      "query": "Cooking Oils",
+      "link": "https://www.google.com/search?q=cooking+oils+grapefruit+peel+oil&hl=en&gl=us&shoprs=CAEYCSoTZ3JhcGVmcnVpdCBwZWVsIG9pbDIQCAkSDENvb2tpbmcgT2lsc2AB&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQip4GKBB6BAgxEFQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=cooking+oils+grapefruit+peel+oil"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?q=grapefruit+peel+oil+for+sale&hl=en&gl=us&shoprs=CAEYEioTZ3JhcGVmcnVpdCBwZWVsIG9pbDIMCBISCEZvciBTYWxlYAE&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQip4GKBF6BAgxEFU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=grapefruit+peel+oil+for+sale"
+    },
+    {
+      "query": "Under 0.51 fl oz",
+      "link": "https://www.google.com/search?q=under+0.51+fl+oz+grapefruit+peel+oil&hl=en&gl=us&shoprs=CAESEioQCLHe1wMSCREAAAAAAAAuQBgBKhNncmFwZWZydWl0IHBlZWwgb2lsMjcIARIQVW5kZXIgMC41MSBmbCBveiISKhAIsd7XAxIJEQAAAAAAAC5AKgIYAToJCLHe1wMQADAGWPa7IGAB&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQip4GKBJ6BAgxEFY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=under+0.51+fl+oz+grapefruit+peel+oil"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?q=price+grapefruit+peel+oil&hl=en&gl=us&shoprs=CAEYEioTZ3JhcGVmcnVpdCBwZWVsIG9pbDIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQip4GKBN6BAgxEFc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=price+grapefruit+peel+oil"
+    },
+    {
+      "query": "Face",
+      "link": "https://www.google.com/search?q=face+grapefruit+peel+oil&hl=en&gl=us&shoprs=CAEYEioTZ3JhcGVmcnVpdCBwZWVsIG9pbDIICBISBEZhY2VgAQ&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQip4GKBR6BAgxEFg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=face+grapefruit+peel+oil"
+    },
+    {
+      "query": "0.51 \u2013 1.01 fl oz",
+      "link": "https://www.google.com/search?q=0.51+fl+oz+to+1.01+fl+oz+grapefruit+peel+oil&hl=en&gl=us&shoprs=CAESGyoZCLHe1wMSEgkAAAAAAAAuQBEAAAAAAAA-QBgBKhNncmFwZWZydWl0IHBlZWwgb2lsMl0IARITMC41MSDigJMgMS4wMSBmbCBveiIbKhkIsd7XAxISCQAAAAAAAC5AEQAAAAAAAD5AKhwKGDAuNTEgZmwgb3ogdG8gMS4wMSBmbCBvehgBOgkIsd7XAxAAMAZY9rsgYAE&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQip4GKBV6BAgxEFk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=0.51+fl+oz+to+1.01+fl+oz+grapefruit+peel+oil"
+    },
+    {
+      "query": "Walgreens.com",
+      "link": "https://www.google.com/search?q=walgreens.com+grapefruit+peel+oil&hl=en&gl=us&shoprs=CAEYAioTZ3JhcGVmcnVpdCBwZWVsIG9pbDIRCAISDVdhbGdyZWVucy5jb21Y9rsgYAE&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQip4GKBZ6BAgxEFo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=walgreens.com+grapefruit+peel+oil",
+      "thumbnail": "https://serpapi.com/searches/670a1700f4104445a9002fd7/images/9adb87762f514e62e502db3a777b49796e97aa8c95101c800b0687488235747d.png"
+    },
+    {
+      "query": "Over 4 fl oz",
+      "link": "https://www.google.com/search?q=over+4+fl+oz+grapefruit+peel+oil&hl=en&gl=us&shoprs=CAESEioQCLHe1wMSCQkAAADg0pJdQBgBKhNncmFwZWZydWl0IHBlZWwgb2lsMjMIARIMT3ZlciA0IGZsIG96IhIqEAix3tcDEgkJAAAA4NKSXUAqAhgBOgkIsd7XAxAAMAZY9rsgYAE&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQip4GKBd6BAgxEFw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=over+4+fl+oz+grapefruit+peel+oil"
+    },
+    {
+      "query": "Online",
+      "link": "https://www.google.com/search?q=online+grapefruit+peel+oil&hl=en&gl=us&shoprs=CAEYEioTZ3JhcGVmcnVpdCBwZWVsIG9pbDIKCBISBk9ubGluZWAB&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQip4GKBh6BAgxEF0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=online+grapefruit+peel+oil"
+    },
+    {
+      "query": "1.01 \u2013 2 fl oz",
+      "link": "https://www.google.com/search?q=1.01+fl+oz+to+2+fl+oz+grapefruit+peel+oil&hl=en&gl=us&shoprs=CAESGyoZCLHe1wMSEgkAAAAAAAA-QBEAAADg0pJNQBgBKhNncmFwZWZydWl0IHBlZWwgb2lsMlcIARIQMS4wMSDigJMgMiBmbCBveiIbKhkIsd7XAxISCQAAAAAAAD5AEQAAAODSkk1AKhkKFTEuMDEgZmwgb3ogdG8gMiBmbCBvehgBOgkIsd7XAxAAMAZY9rsgYAE&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQip4GKBl6BAgxEF4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=1.01+fl+oz+to+2+fl+oz+grapefruit+peel+oil"
+    },
+    {
+      "query": "Young Living Essential Oils",
+      "link": "https://www.google.com/search?q=young+living+essential+oils+grapefruit+peel+oil&hl=en&gl=us&shoprs=CAEYAioTZ3JhcGVmcnVpdCBwZWVsIG9pbDIfCAISG1lvdW5nIExpdmluZyBFc3NlbnRpYWwgT2lsc1j2uyBgAQ&sa=X&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQip4GKBp6BAgxEF8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=young+living+essential+oils+grapefruit+peel+oil",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://youngliving.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Is safe to put grapefruit oil on my skin?",
+      "link": "https://www.reddit.com/r/Skincare_Addiction/comments/18t0qhp/is_safe_to_put_grapefruit_oil_on_my_skin/",
+      "date": "9mo ago",
+      "extensions": [
+        "r/Skincare_Addiction",
+        "2 comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "Citrus peel extracts and grapefruit- phototoxicity? (like in Shara Shara)",
+      "link": "https://www.reddit.com/r/AsianBeauty/comments/3y5hdj/citrus_peel_extracts_and_grapefruit_phototoxicity/",
+      "date": "8y ago",
+      "extensions": [
+        "r/AsianBeauty",
+        "7 comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "How to use grapefruit oil, and what are the uses, benefits, and risks ...",
+      "link": "https://www.quora.com/How-do-you-use-grapefruit-oil-and-what-are-the-uses-benefits-and-risks-of-using-grapefruit-oil",
+      "date": "5y ago",
+      "extensions": [
+        "2 answers"
+      ],
+      "source": "Quora"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=grapefruit+peel+oil&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=AhcKZ_XPCrOoptQPzqC6qAk&start=10&sa=N&sstk=Aagrsuiq5n3gdJ4HNRFon61WtHQV5SsKVs5-pg0njRg-F2n3itFlLIFUsXtoWP_TXUsew3NL8MBhP0P6mD-RD5ODQX4fsjy0qkdXWg&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQ8NMDegQIBBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=grapefruit+peel+oil&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=AhcKZ_XPCrOoptQPzqC6qAk&start=10&sa=N&sstk=Aagrsuiq5n3gdJ4HNRFon61WtHQV5SsKVs5-pg0njRg-F2n3itFlLIFUsXtoWP_TXUsew3NL8MBhP0P6mD-RD5ODQX4fsjy0qkdXWg&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQ8tMDegQIBBAE",
+      "3": "https://www.google.com/search?q=grapefruit+peel+oil&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=AhcKZ_XPCrOoptQPzqC6qAk&start=20&sa=N&sstk=Aagrsuiq5n3gdJ4HNRFon61WtHQV5SsKVs5-pg0njRg-F2n3itFlLIFUsXtoWP_TXUsew3NL8MBhP0P6mD-RD5ODQX4fsjy0qkdXWg&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQ8tMDegQIBBAG",
+      "4": "https://www.google.com/search?q=grapefruit+peel+oil&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=AhcKZ_XPCrOoptQPzqC6qAk&start=30&sa=N&sstk=Aagrsuiq5n3gdJ4HNRFon61WtHQV5SsKVs5-pg0njRg-F2n3itFlLIFUsXtoWP_TXUsew3NL8MBhP0P6mD-RD5ODQX4fsjy0qkdXWg&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQ8tMDegQIBBAI",
+      "5": "https://www.google.com/search?q=grapefruit+peel+oil&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=AhcKZ_XPCrOoptQPzqC6qAk&start=40&sa=N&sstk=Aagrsuiq5n3gdJ4HNRFon61WtHQV5SsKVs5-pg0njRg-F2n3itFlLIFUsXtoWP_TXUsew3NL8MBhP0P6mD-RD5ODQX4fsjy0qkdXWg&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQ8tMDegQIBBAK",
+      "6": "https://www.google.com/search?q=grapefruit+peel+oil&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=AhcKZ_XPCrOoptQPzqC6qAk&start=50&sa=N&sstk=Aagrsuiq5n3gdJ4HNRFon61WtHQV5SsKVs5-pg0njRg-F2n3itFlLIFUsXtoWP_TXUsew3NL8MBhP0P6mD-RD5ODQX4fsjy0qkdXWg&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQ8tMDegQIBBAM",
+      "7": "https://www.google.com/search?q=grapefruit+peel+oil&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=AhcKZ_XPCrOoptQPzqC6qAk&start=60&sa=N&sstk=Aagrsuiq5n3gdJ4HNRFon61WtHQV5SsKVs5-pg0njRg-F2n3itFlLIFUsXtoWP_TXUsew3NL8MBhP0P6mD-RD5ODQX4fsjy0qkdXWg&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQ8tMDegQIBBAO",
+      "8": "https://www.google.com/search?q=grapefruit+peel+oil&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=AhcKZ_XPCrOoptQPzqC6qAk&start=70&sa=N&sstk=Aagrsuiq5n3gdJ4HNRFon61WtHQV5SsKVs5-pg0njRg-F2n3itFlLIFUsXtoWP_TXUsew3NL8MBhP0P6mD-RD5ODQX4fsjy0qkdXWg&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQ8tMDegQIBBAQ",
+      "9": "https://www.google.com/search?q=grapefruit+peel+oil&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=AhcKZ_XPCrOoptQPzqC6qAk&start=80&sa=N&sstk=Aagrsuiq5n3gdJ4HNRFon61WtHQV5SsKVs5-pg0njRg-F2n3itFlLIFUsXtoWP_TXUsew3NL8MBhP0P6mD-RD5ODQX4fsjy0qkdXWg&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQ8tMDegQIBBAS",
+      "10": "https://www.google.com/search?q=grapefruit+peel+oil&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=AhcKZ_XPCrOoptQPzqC6qAk&start=90&sa=N&sstk=Aagrsuiq5n3gdJ4HNRFon61WtHQV5SsKVs5-pg0njRg-F2n3itFlLIFUsXtoWP_TXUsew3NL8MBhP0P6mD-RD5ODQX4fsjy0qkdXWg&ved=2ahUKEwj12NOsm4iJAxUzlIkEHU6QDpUQ8tMDegQIBBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=grapefruit+peel+oil&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=grapefruit+peel+oil&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=grapefruit+peel+oil&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=grapefruit+peel+oil&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=grapefruit+peel+oil&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=grapefruit+peel+oil&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=grapefruit+peel+oil&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=grapefruit+peel+oil&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=grapefruit+peel+oil&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=grapefruit+peel+oil&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=grapefruit+peel+oil&start=90"
+    }
+  }
+}

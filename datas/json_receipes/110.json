@@ -1,0 +1,505 @@
+{
+  "search_metadata": {
+    "id": "670a170518787d6f29abc5a1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4be738ab1342875c/670a170518787d6f29abc5a1.json",
+    "created_at": "2024-10-12 06:28:22 UTC",
+    "processed_at": "2024-10-12 06:28:22 UTC",
+    "google_url": "https://www.google.com/search?q=hops+oil&oq=hops+oil&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/4be738ab1342875c/670a170518787d6f29abc5a1.html",
+    "total_time_taken": 1.11
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "hops oil",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "hops oil",
+    "total_results": 12200000,
+    "time_taken_displayed": 0.29,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What is hops oil used for?",
+      "snippet": "Hops Essential Oil Benefits and Uses Jeanne Rose, 375 Essential Oils and Hydrosols (Berkeley, CA: Frog, Ltd, 1999), 90.] Hops Oil is also used in fragrancing, perfumery and anti-bacterial/deodorant applications.",
+      "title": "Hops Essential Oil: Benefits, Uses & Insights - AromaWeb",
+      "link": "https://www.aromaweb.com/essential-oils/hops-essential-oil.php#:~:text=Hops%20Essential%20Oil%20Benefits%20and%20Uses&text=Jeanne%20Rose%2C%20375%20Essential%20Oils,anti%2Dbacterial%2Fdeodorant%20applications.",
+      "displayed_link": "https://www.aromaweb.com \u203a essential-oils \u203a hops-essenti...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9iLWvugD7XwtfaxawF4ovNo5tpt582t349kjEFuZTMw&s",
+      "source_logo": "https://serpapi.com/searches/670a170518787d6f29abc5a1/images/f436b6e531ee174067c2d111f87e5c040ea3ff2d671fef7c4ffbf27aa53555af.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210UWVXMU1aMnBoWlhOd1VEWkVhVTlqYVZkR05UbEJjVmxsTkU4d01FOWpjWGhwYjJsV1VUVXhORFpLZWtscU9URlZUV0ZyWTJGS2JXaFlNalJETlZkTk5rWjBWbTFtRWhaQ2FHTkxXalZETlVnMVR6QjNUalJRY0hWbVJGTlJHaUpCUmxoeVJXTnZhamhXY0hsR2MxVmxXa2RLWTNaeWRuUTRNMWRaUWpWb1kyVlIiLCJmY3YiOiIzIiwiZWkiOiJCaGNLWjVDNUg1TzB3TjRQcHVmRFNRIiwicWMiOiJDZ2hvYjNCeklHOXBiQkFBZmNzd0VUOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBob3BzIG9pbCB1c2VkIGZvcj8iLCJsayI6IkdobDNhR0YwSUdseklHaHZjSE1nYjJsc0lIVnpaV1FnWm05eSIsImJzIjoiYy1PeTRaSUt6MGdzVWNnc1ZzaklMeWhXeU1fTVVTZ3RUazFSU01zdnNwZjR5R0lrTFNWWmprc0JseTJYTEZoM1NuNHFXQm9zbTVLdlVKS3ZVSnlkbVdjdmNkRGFTRkpLSENhVG1wYVdtbHdDTkNNUExNM2xoRTE3U1dKeFNhcENUbVoycXIzRVdsRWpPU21aY2p4cXVEUzRCRHdSRXNXSmFVQnRheXlOQktYNE0xR0ZCUmdCIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210UWVXMU1aMnBoWlhOd1VEWkVhVTlqYVZkR05UbEJjVmxsTkU4d01FOWpjWGhwYjJsV1VUVXhORFpLZWtscU9URlZUV0ZyWTJGS2JXaFlNalJETlZkTk5rWjBWbTFtRWhaQ2FHTkxXalZETlVnMVR6QjNUalJRY0hWbVJGTlJHaUpCUmxoeVJXTnZhamhXY0hsR2MxVmxXa2RLWTNaeWRuUTRNMWRaUWpWb1kyVlIiLCJmY3YiOiIzIiwiZWkiOiJCaGNLWjVDNUg1TzB3TjRQcHVmRFNRIiwicWMiOiJDZ2hvYjNCeklHOXBiQkFBZmNzd0VUOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBob3BzIG9pbCB1c2VkIGZvcj8iLCJsayI6IkdobDNhR0YwSUdseklHaHZjSE1nYjJsc0lIVnpaV1FnWm05eSIsImJzIjoiYy1PeTRaSUt6MGdzVWNnc1ZzaklMeWhXeU1fTVVTZ3RUazFSU01zdnNwZjR5R0lrTFNWWmprc0JseTJYTEZoM1NuNHFXQm9zbTVLdlVKS3ZVSnlkbVdjdmNkRGFTRkpLSENhVG1wYVdtbHdDTkNNUExNM2xoRTE3U1dKeFNhcENUbVoycXIzRVdsRWpPU21aY2p4cXVEUzRCRHdSRXNXSmFVQnRheXlOQktYNE0xR0ZCUmdCIiwiaWQiOiJmY18xIn0%3D"
+    },
+    {
+      "question": "What does hop oil do to skin?",
+      "snippet": "Hops are a great ingredient for people trying to minimize the appearance of pores or fine wrinkles because they contain tannins that can aid to tighten and tone the skin. Overall, hops' antibacterial, anti-inflammatory, antioxidant, hydrating, and astringent characteristics make it a useful cosmetic ingredient.",
+      "title": "The benefits of hops in cosmetics - GOOD BEER SPA",
+      "date": "Feb 24, 2023",
+      "link": "https://goodbeerspa.com/the-benefits-of-hops-in-cosmetics/#:~:text=Hops%20are%20a%20great%20ingredient%20for%20people%20trying%20to%20minimize,it%20a%20useful%20cosmetic%20ingredient.",
+      "displayed_link": "https://goodbeerspa.com \u203a the-benefits-of-hops-in-cosmet...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRUC8zIdOMvNxXsYNTMQuBKvGkeKHNnMsSVkA0XTLaMA&s",
+      "source_logo": "https://serpapi.com/searches/670a170518787d6f29abc5a1/images/f436b6e531ee174067c2d111f87e5c04f6a75b434f245fd4a074ca78e131268b.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210UWVXMU1aMnBoWlhOd1VEWkVhVTlqYVZkR05UbEJjVmxsTkU4d01FOWpjWGhwYjJsV1VUVXhORFpLZWtscU9URlZUV0ZyWTJGS2JXaFlNalJETlZkTk5rWjBWbTFtRWhaQ2FHTkxXalZETlVnMVR6QjNUalJRY0hWbVJGTlJHaUpCUmxoeVJXTnZhamhXY0hsR2MxVmxXa2RLWTNaeWRuUTRNMWRaUWpWb1kyVlIiLCJmY3YiOiIzIiwiZWkiOiJCaGNLWjVDNUg1TzB3TjRQcHVmRFNRIiwicWMiOiJDZ2hvYjNCeklHOXBiQkFBZmNzd0VUOCIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIGhvcCBvaWwgZG8gdG8gc2tpbj8iLCJsayI6IkdoZG9iM0FnYjJsc0lHVm1abVZqZEhNZ2IyNGdjMnRwYmciLCJicyI6ImMtT3k0WklLejBnc1VjZ3NWc2pJTHloV3lNX01VU2d0VGsxUlNNc3ZzcGY0eUdJa0xTVlpqa3NCbHkyWExGaDNTbjRxV0Jvc201S3ZVSkt2VUp5ZG1XY3ZjZERhU0ZKS0hDYVRtcGFXbWx3Q05DTVBMTTNsaEUxN1NXSnhTYXBDVG1aMnFyM0VXbEVqT1NtWmNqeHF1RFM0QkR3UkVzV0phVUJ0YXl5TkJLWDRNMUdGQlJnQiIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210UWVXMU1aMnBoWlhOd1VEWkVhVTlqYVZkR05UbEJjVmxsTkU4d01FOWpjWGhwYjJsV1VUVXhORFpLZWtscU9URlZUV0ZyWTJGS2JXaFlNalJETlZkTk5rWjBWbTFtRWhaQ2FHTkxXalZETlVnMVR6QjNUalJRY0hWbVJGTlJHaUpCUmxoeVJXTnZhamhXY0hsR2MxVmxXa2RLWTNaeWRuUTRNMWRaUWpWb1kyVlIiLCJmY3YiOiIzIiwiZWkiOiJCaGNLWjVDNUg1TzB3TjRQcHVmRFNRIiwicWMiOiJDZ2hvYjNCeklHOXBiQkFBZmNzd0VUOCIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIGhvcCBvaWwgZG8gdG8gc2tpbj8iLCJsayI6IkdoZG9iM0FnYjJsc0lHVm1abVZqZEhNZ2IyNGdjMnRwYmciLCJicyI6ImMtT3k0WklLejBnc1VjZ3NWc2pJTHloV3lNX01VU2d0VGsxUlNNc3ZzcGY0eUdJa0xTVlpqa3NCbHkyWExGaDNTbjRxV0Jvc201S3ZVSkt2VUp5ZG1XY3ZjZERhU0ZKS0hDYVRtcGFXbWx3Q05DTVBMTTNsaEUxN1NXSnhTYXBDVG1aMnFyM0VXbEVqT1NtWmNqeHF1RFM0QkR3UkVzV0phVUJ0YXl5TkJLWDRNMUdGQlJnQiIsImlkIjoiZmNfMSJ9"
+    },
+    {
+      "question": "What does hop oil taste like?",
+      "snippet": "Myrcene is often described as the \u201cfresh hop oil\u201d and has flavors and aroma varying from herbaceous to resinous, green, balsamic, and slightly metallic. It is a major component in many hop varieties from the Pacific Northwest, and is therefore a critical oil in IPAs.",
+      "title": "Aromatic Hop Oils in Beer Brewing \u2013 Part 1",
+      "date": "Feb 23, 2018",
+      "link": "https://beersmith.com/blog/2018/02/23/aromatic-hop-oils-in-beer-brewing-part-1/#:~:text=Myrcene%20is%20often%20described%20as,a%20critical%20oil%20in%20IPAs.",
+      "displayed_link": "https://beersmith.com \u203a blog \u203a 2018/02/23 \u203a aromatic-ho...",
+      "source_logo": "https://serpapi.com/searches/670a170518787d6f29abc5a1/images/f436b6e531ee174067c2d111f87e5c044598cf0db3fbbf47e0b3a3687484f368.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210UWVXMU1aMnBoWlhOd1VEWkVhVTlqYVZkR05UbEJjVmxsTkU4d01FOWpjWGhwYjJsV1VUVXhORFpLZWtscU9URlZUV0ZyWTJGS2JXaFlNalJETlZkTk5rWjBWbTFtRWhaQ2FHTkxXalZETlVnMVR6QjNUalJRY0hWbVJGTlJHaUpCUmxoeVJXTnZhamhXY0hsR2MxVmxXa2RLWTNaeWRuUTRNMWRaUWpWb1kyVlIiLCJmY3YiOiIzIiwiZWkiOiJCaGNLWjVDNUg1TzB3TjRQcHVmRFNRIiwicWMiOiJDZ2hvYjNCeklHOXBiQkFBZmNzd0VUOCIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIGhvcCBvaWwgdGFzdGUgbGlrZT8iLCJsayI6IkdoeDNhR0YwSUdSdlpYTWdhRzl3SUc5cGJDQjBZWE4wWlNCc2FXdGwiLCJicyI6ImMtT3k0WklLejBnc1VjZ3NWc2pJTHloV3lNX01VU2d0VGsxUlNNc3ZzcGY0eUdJa0xTVlpqa3NCbHkyWExGaDNTbjRxV0Jvc201S3ZVSkt2VUp5ZG1XY3ZjZERhU0ZKS0hDYVRtcGFXbWx3Q05DTVBMTTNsaEUxN1NXSnhTYXBDVG1aMnFyM0VXbEVqT1NtWmNqeHF1RFM0QkR3UkVzV0phVUJ0YXl5TkJLWDRNMUdGQlJnQiIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210UWVXMU1aMnBoWlhOd1VEWkVhVTlqYVZkR05UbEJjVmxsTkU4d01FOWpjWGhwYjJsV1VUVXhORFpLZWtscU9URlZUV0ZyWTJGS2JXaFlNalJETlZkTk5rWjBWbTFtRWhaQ2FHTkxXalZETlVnMVR6QjNUalJRY0hWbVJGTlJHaUpCUmxoeVJXTnZhamhXY0hsR2MxVmxXa2RLWTNaeWRuUTRNMWRaUWpWb1kyVlIiLCJmY3YiOiIzIiwiZWkiOiJCaGNLWjVDNUg1TzB3TjRQcHVmRFNRIiwicWMiOiJDZ2hvYjNCeklHOXBiQkFBZmNzd0VUOCIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIGhvcCBvaWwgdGFzdGUgbGlrZT8iLCJsayI6IkdoeDNhR0YwSUdSdlpYTWdhRzl3SUc5cGJDQjBZWE4wWlNCc2FXdGwiLCJicyI6ImMtT3k0WklLejBnc1VjZ3NWc2pJTHloV3lNX01VU2d0VGsxUlNNc3ZzcGY0eUdJa0xTVlpqa3NCbHkyWExGaDNTbjRxV0Jvc201S3ZVSkt2VUp5ZG1XY3ZjZERhU0ZKS0hDYVRtcGFXbWx3Q05DTVBMTTNsaEUxN1NXSnhTYXBDVG1aMnFyM0VXbEVqT1NtWmNqeHF1RFM0QkR3UkVzV0phVUJ0YXl5TkJLWDRNMUdGQlJnQiIsImlkIjoiZmNfMSJ9"
+    },
+    {
+      "question": "Is hop oil safe?",
+      "snippet": "Hops extracts have been used safely in doses of up to 300 mg daily for up to 3 months. Hops bitter acids have been used safely in doses of 35 mg daily for 3 months. Hops might cause dizziness and sleepiness in some people.",
+      "title": "HOPS: Overview, Uses, Side Effects, Precautions, Interactions ... - WebMD",
+      "link": "https://www.webmd.com/vitamins/ai/ingredientmono-856/hops#:~:text=Hops%20extracts%20have%20been%20used,and%20sleepiness%20in%20some%20people.",
+      "displayed_link": "https://www.webmd.com \u203a vitamins \u203a ingredientmono-856",
+      "source_logo": "https://serpapi.com/searches/670a170518787d6f29abc5a1/images/f436b6e531ee174067c2d111f87e5c04d6027d1c469633d6907b40ae52bb1aee.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210UWVXMU1aMnBoWlhOd1VEWkVhVTlqYVZkR05UbEJjVmxsTkU4d01FOWpjWGhwYjJsV1VUVXhORFpLZWtscU9URlZUV0ZyWTJGS2JXaFlNalJETlZkTk5rWjBWbTFtRWhaQ2FHTkxXalZETlVnMVR6QjNUalJRY0hWbVJGTlJHaUpCUmxoeVJXTnZhamhXY0hsR2MxVmxXa2RLWTNaeWRuUTRNMWRaUWpWb1kyVlIiLCJmY3YiOiIzIiwiZWkiOiJCaGNLWjVDNUg1TzB3TjRQcHVmRFNRIiwicWMiOiJDZ2hvYjNCeklHOXBiQkFBZmNzd0VUOCIsInF1ZXN0aW9uIjoiSXMgaG9wIG9pbCBzYWZlPyIsImxrIjoiR2c5cGN5Qm9iM0FnYjJsc0lITmhabVUiLCJicyI6ImMtT3k0WklLejBnc1VjZ3NWc2pJTHloV3lNX01VU2d0VGsxUlNNc3ZzcGY0eUdJa0xTVlpqa3NCbHkyWExGaDNTbjRxV0Jvc201S3ZVSkt2VUp5ZG1XY3ZjZERhU0ZKS0hDYVRtcGFXbWx3Q05DTVBMTTNsaEUxN1NXSnhTYXBDVG1aMnFyM0VXbEVqT1NtWmNqeHF1RFM0QkR3UkVzV0phVUJ0YXl5TkJLWDRNMUdGQlJnQiIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210UWVXMU1aMnBoWlhOd1VEWkVhVTlqYVZkR05UbEJjVmxsTkU4d01FOWpjWGhwYjJsV1VUVXhORFpLZWtscU9URlZUV0ZyWTJGS2JXaFlNalJETlZkTk5rWjBWbTFtRWhaQ2FHTkxXalZETlVnMVR6QjNUalJRY0hWbVJGTlJHaUpCUmxoeVJXTnZhamhXY0hsR2MxVmxXa2RLWTNaeWRuUTRNMWRaUWpWb1kyVlIiLCJmY3YiOiIzIiwiZWkiOiJCaGNLWjVDNUg1TzB3TjRQcHVmRFNRIiwicWMiOiJDZ2hvYjNCeklHOXBiQkFBZmNzd0VUOCIsInF1ZXN0aW9uIjoiSXMgaG9wIG9pbCBzYWZlPyIsImxrIjoiR2c5cGN5Qm9iM0FnYjJsc0lITmhabVUiLCJicyI6ImMtT3k0WklLejBnc1VjZ3NWc2pJTHloV3lNX01VU2d0VGsxUlNNc3ZzcGY0eUdJa0xTVlpqa3NCbHkyWExGaDNTbjRxV0Jvc201S3ZVSkt2VUp5ZG1XY3ZjZERhU0ZKS0hDYVRtcGFXbWx3Q05DTVBMTTNsaEUxN1NXSnhTYXBDVG1aMnFyM0VXbEVqT1NtWmNqeHF1RFM0QkR3UkVzV0phVUJ0YXl5TkJLWDRNMUdGQlJnQiIsImlkIjoiZmNfMSJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Hop Oils",
+      "link": "https://www.hopsteiner.com/hop-oils/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hopsteiner.com/hop-oils/&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQFnoECAgQAQ",
+      "displayed_link": "https://www.hopsteiner.com \u203a hop-oils",
+      "favicon": "https://serpapi.com/searches/670a170518787d6f29abc5a1/images/93b398ee3c2a19883c1aa0ee5ac32d6dbbdaef833565f8b4add8c3c6029132fa.png",
+      "snippet": "Hop oils available today are natural products produced using whole cone hops or CO2 hop extract. Both are slightly yellow in color and contain the complete ...",
+      "snippet_highlighted_words": [
+        "Hop oils"
+      ],
+      "source": "Hopsteiner"
+    },
+    {
+      "position": 2,
+      "title": "Hops Essential Oil Organic - Humulus Lupulus",
+      "link": "https://www.natureinbottle.com/product/hops_essential_oil",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.natureinbottle.com/product/hops_essential_oil&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQFnoECBwQAQ",
+      "displayed_link": "https://www.natureinbottle.com \u203a product \u203a hops_essenti...",
+      "favicon": "https://serpapi.com/searches/670a170518787d6f29abc5a1/images/93b398ee3c2a19883c1aa0ee5ac32d6dff44e095490f7a64c489d7ed3cf31a02.png",
+      "snippet": "Being a rich source of flavonoids and antioxidants, Hops Essential Oil also acts as an effective anti-aging agent that tightens skin, fights free radical damage ...",
+      "snippet_highlighted_words": [
+        "Hops",
+        "Oil"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 90,
+            "price": 32.64,
+            "currency": "$"
+          },
+          "extensions": [
+            "5.0(131)",
+            "$32.64",
+            "\u200e90",
+            "day returns",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Nature In Bottle"
+    },
+    {
+      "position": 3,
+      "title": "Microbrew Hops Oils",
+      "link": "https://shop.perfumersapprentice.com/c-261-microbrew-hops-oils.aspx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://shop.perfumersapprentice.com/c-261-microbrew-hops-oils.aspx&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQFnoECDkQAQ",
+      "displayed_link": "https://shop.perfumersapprentice.com \u203a c-261-microbre...",
+      "favicon": "https://serpapi.com/searches/670a170518787d6f29abc5a1/images/93b398ee3c2a19883c1aa0ee5ac32d6d9ff2af77c64d7681a801a68436154a2b.png",
+      "snippet": "This product is a pure essential oil obtained through a proprietary \"pure steam distillation\" process using the fresh (not dried) hop flowers, and is a Hopzoil\u2122 ...",
+      "snippet_highlighted_words": [
+        "oil",
+        "hop"
+      ],
+      "source": "The Perfumers Apprentice"
+    },
+    {
+      "position": 4,
+      "title": "Hops Essential Oil",
+      "link": "https://www.amazon.com/hops-essential-oil/s?k=hops+essential+oil",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/hops-essential-oil/s%3Fk%3Dhops%2Bessential%2Boil&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQFnoECEMQAQ",
+      "displayed_link": "https://www.amazon.com \u203a hops-essential-oil \u203a k=hops+...",
+      "favicon": "https://serpapi.com/searches/670a170518787d6f29abc5a1/images/93b398ee3c2a19883c1aa0ee5ac32d6dcc357a35627eec1f77b333686c91d3e7.png",
+      "snippet": "Hops Alcohol-Free Liquid Extract, Organic Hops (Humulus Lupulus) Dried Flower Glycerite Hawaii Pharm Natural Herbal Supplement 2 oz",
+      "snippet_highlighted_words": [
+        "Hops",
+        "Hops"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "store_rating_k": 4.5,
+            "price": 4,
+            "currency": "$ to $",
+            "unknown": 30
+          },
+          "extensions": [
+            "4.5store rating (4K)",
+            "\u200e$4 to $31",
+            "\u200e30",
+            "day returns"
+          ]
+        }
+      },
+      "source": "Amazon.com"
+    },
+    {
+      "position": 5,
+      "title": "What is Hop Oil? |",
+      "link": "https://www.barthhaas.com/ressources/blog/blog-article/what-is-hop-oil",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.barthhaas.com/ressources/blog/blog-article/what-is-hop-oil&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQFnoECDoQAQ",
+      "displayed_link": "https://www.barthhaas.com \u203a blog \u203a blog-article \u203a what-is...",
+      "date": "Jun 6, 2021",
+      "snippet": "Hop oil is a small but important component of hops which, as an aroma-giving component, plays a major role in the taste and character of ...",
+      "snippet_highlighted_words": [
+        "Hop oil"
+      ],
+      "source": "BarthHaas"
+    },
+    {
+      "position": 6,
+      "title": "Hops Essential Oil Pekko",
+      "link": "https://www.aromatics.com/products/hops-essential-oil-pekko?srsltid=AfmBOopmqLxTZ4DOdoKtyGtQErMKougsLhIk1TRYymnFN1Cg3-Of-Jyj",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aromatics.com/products/hops-essential-oil-pekko%3Fsrsltid%3DAfmBOopmqLxTZ4DOdoKtyGtQErMKougsLhIk1TRYymnFN1Cg3-Of-Jyj&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQFnoECEAQAQ",
+      "displayed_link": "https://www.aromatics.com \u203a products \u203a hops-essential-oil...",
+      "favicon": "https://serpapi.com/searches/670a170518787d6f29abc5a1/images/93b398ee3c2a19883c1aa0ee5ac32d6d8f8913ad76fcfba6ab5cc520f966cb7a.png",
+      "snippet": "This oil not only serves as a tranquil oasis for the mind, dissipating daily stresses, but also offers therapeutic relief for tight and painful muscles.",
+      "snippet_highlighted_words": [
+        "oil"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 13.45,
+            "currency": "$",
+            "unknown": 45
+          },
+          "extensions": [
+            "$68.00 to $175.00",
+            "\u200e$13.45 3",
+            "day delivery",
+            "\u200e45",
+            "day returns",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Aromatics International"
+    },
+    {
+      "position": 7,
+      "title": "2022 Hop Oil (50g Bottle)",
+      "link": "https://northwesthopfarms.com/products/hop-oil",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://northwesthopfarms.com/products/hop-oil&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQFnoECD8QAQ",
+      "displayed_link": "https://northwesthopfarms.com \u203a products \u203a hop-oil",
+      "favicon": "https://serpapi.com/searches/670a170518787d6f29abc5a1/images/93b398ee3c2a19883c1aa0ee5ac32d6defb2cf7dff26ddb1f0f5bfe98b2ef968.png",
+      "snippet": "Hop Oil (steam distilled) is produced from steam distillation of leaf hops and contains the complete range of essential oils found in them.",
+      "snippet_highlighted_words": [
+        "Hop Oil"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 198.0,
+            "currency": "$"
+          },
+          "extensions": [
+            "$198.00"
+          ]
+        }
+      },
+      "source": "Northwest Hop Farms"
+    },
+    {
+      "position": 8,
+      "title": "Hops Flower Essential Oil",
+      "link": "https://mountainroseherbs.com/hops-flower-essential-oil",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mountainroseherbs.com/hops-flower-essential-oil&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQFnoECDwQAQ",
+      "displayed_link": "https://mountainroseherbs.com \u203a ... \u203a All Essential Oils",
+      "favicon": "https://serpapi.com/searches/670a170518787d6f29abc5a1/images/93b398ee3c2a19883c1aa0ee5ac32d6debf8a63371dff303474f9901b85ae0ef.png",
+      "snippet": "Hops flower essential oil is a base note steam distilled from the strobiles of Humulus lupulus. Its spicy sweet and herbal aroma is used in calming blends ...",
+      "snippet_highlighted_words": [
+        "Hops",
+        "oil"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 14.44,
+            "currency": "$ \u2013 day delivery",
+            "unknown": 30
+          },
+          "extensions": [
+            "$32.50 to $129.00",
+            "\u200e$14.44 2\u20137 day delivery",
+            "\u200e30",
+            "day returns",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Mountain Rose Herbs"
+    }
+  ],
+  "filters": [
+    {
+      "name": "Benefits",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGaB9_5EDkItiE40mUGMGwj0MNJJVBaiBMO7wcSgssVKoOxNqNHlpvrBplKYmArbWTVeNgyOP7xcahMYfdG3at1tC-y8WCQJrjQovqChyngNeaYozvgl2sRmH35C76mcl_PK-ehQ",
+        "q": "Hops oil benefits"
+      },
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Hops+oil+benefits&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGaB9_5EDkItiE40mUGMGwj0MNJJVBaiBMO7wcSgssVKoOxNqNHlpvrBplKYmArbWTVeNgyOP7xcahMYfdG3at1tC-y8WCQJrjQovqChyngNeaYozvgl2sRmH35C76mcl_PK-ehQ&sa=X&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQxKsJegQIExAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hops+oil+benefits&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGaB9_5EDkItiE40mUGMGwj0MNJJVBaiBMO7wcSgssVKoOxNqNHlpvrBplKYmArbWTVeNgyOP7xcahMYfdG3at1tC-y8WCQJrjQovqChyngNeaYozvgl2sRmH35C76mcl_PK-ehQ"
+    },
+    {
+      "name": "Where to buy",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kAHVzblTKphnS_N4DoKgSik1gbk6Y6zWNxXjZQU2gWh552LLDlzvB4_ruxYDBXfRdJos9j0FyKrie1aSZYeiU4gnzRbiyBMk-zqWhADC-XE7Rnl7ZwRABaEvWdv5Hi2eCt5IgC4",
+        "q": "Where to buy hops oil"
+      },
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Where+to+buy+hops+oil&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kAHVzblTKphnS_N4DoKgSik1gbk6Y6zWNxXjZQU2gWh552LLDlzvB4_ruxYDBXfRdJos9j0FyKrie1aSZYeiU4gnzRbiyBMk-zqWhADC-XE7Rnl7ZwRABaEvWdv5Hi2eCt5IgC4&sa=X&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQxKsJegQIEhAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Where+to+buy+hops+oil&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kAHVzblTKphnS_N4DoKgSik1gbk6Y6zWNxXjZQU2gWh552LLDlzvB4_ruxYDBXfRdJos9j0FyKrie1aSZYeiU4gnzRbiyBMk-zqWhADC-XE7Rnl7ZwRABaEvWdv5Hi2eCt5IgC4"
+    },
+    {
+      "name": "Recipe",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dbk2-nP0CNKeqjqD_kw1xhahL4uWwTjOdnN8rGeaOodsLpuBV5JvQCjzjMrwyVISwDhA_ofcnj6XjkUOynMWmep9mSoYUjAGWWjx5Q-g-HQcYS5O8fy3O3cFobNo3gw68q6p0rwSVH6fg1-FhEYb2AaD67Dw",
+        "q": "Hops oil recipe"
+      },
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Hops+oil+recipe&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dbk2-nP0CNKeqjqD_kw1xhahL4uWwTjOdnN8rGeaOodsLpuBV5JvQCjzjMrwyVISwDhA_ofcnj6XjkUOynMWmep9mSoYUjAGWWjx5Q-g-HQcYS5O8fy3O3cFobNo3gw68q6p0rwSVH6fg1-FhEYb2AaD67Dw&sa=X&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQxKsJegQIERAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hops+oil+recipe&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dbk2-nP0CNKeqjqD_kw1xhahL4uWwTjOdnN8rGeaOodsLpuBV5JvQCjzjMrwyVISwDhA_ofcnj6XjkUOynMWmep9mSoYUjAGWWjx5Q-g-HQcYS5O8fy3O3cFobNo3gw68q6p0rwSVH6fg1-FhEYb2AaD67Dw"
+    },
+    {
+      "name": "For hair",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGaB9_5EDkItiE40mUGMGwj24DotOW3RnV6zkEFE4Rz4P4YnXBMUd1kGHwcTD3Q6L9bwBh_H-O2fUK57errcvPJc-WbQ1lCdgBMM03CZ5xjUtvc1KM4KoYhWArbC__32JOxal7pg",
+        "q": "Hops oil for hair"
+      },
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Hops+oil+for+hair&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGaB9_5EDkItiE40mUGMGwj24DotOW3RnV6zkEFE4Rz4P4YnXBMUd1kGHwcTD3Q6L9bwBh_H-O2fUK57errcvPJc-WbQ1lCdgBMM03CZ5xjUtvc1KM4KoYhWArbC__32JOxal7pg&sa=X&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQxKsJegQIDxAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hops+oil+for+hair&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGaB9_5EDkItiE40mUGMGwj24DotOW3RnV6zkEFE4Rz4P4YnXBMUd1kGHwcTD3Q6L9bwBh_H-O2fUK57errcvPJc-WbQ1lCdgBMM03CZ5xjUtvc1KM4KoYhWArbC__32JOxal7pg"
+    },
+    {
+      "name": "For skin",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGaB9_5EDkItiE40mUGMGwj1gq3dNo2m2J5FQDJHN4i_MNnEtEBLEnSoG8ycJPZo6Ei8Ipx6hv_d0Ddf9yOAr5Lc6bcPkjEc2qxt--zgCMxsEBatO8Q9Os4_FNvfBzAyUrXWwnxo",
+        "q": "Hops oil for skin"
+      },
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Hops+oil+for+skin&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGaB9_5EDkItiE40mUGMGwj1gq3dNo2m2J5FQDJHN4i_MNnEtEBLEnSoG8ycJPZo6Ei8Ipx6hv_d0Ddf9yOAr5Lc6bcPkjEc2qxt--zgCMxsEBatO8Q9Os4_FNvfBzAyUrXWwnxo&sa=X&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQxKsJegQIDhAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hops+oil+for+skin&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGaB9_5EDkItiE40mUGMGwj1gq3dNo2m2J5FQDJHN4i_MNnEtEBLEnSoG8ycJPZo6Ei8Ipx6hv_d0Ddf9yOAr5Lc6bcPkjEc2qxt--zgCMxsEBatO8Q9Os4_FNvfBzAyUrXWwnxo"
+    },
+    {
+      "name": "In beer",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dlJf00IsuUSLNPv4gPR8rz1AxuKeJ6VpfIma9VW_n1TPBLxKGq0xVCv7R3xpg21tlF-EwhGrlk4-GlTueLhiXsxHLyk-OCKIm4h-39Jtxw8KLLVePCYCCLYUwY_hq6zuQVQk7GnOORqppvxptDelyEXWAJ_g",
+        "q": "Hop oil in beer"
+      },
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Hop+oil+in+beer&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dlJf00IsuUSLNPv4gPR8rz1AxuKeJ6VpfIma9VW_n1TPBLxKGq0xVCv7R3xpg21tlF-EwhGrlk4-GlTueLhiXsxHLyk-OCKIm4h-39Jtxw8KLLVePCYCCLYUwY_hq6zuQVQk7GnOORqppvxptDelyEXWAJ_g&sa=X&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQxKsJegQIZxAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hop+oil+in+beer&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dlJf00IsuUSLNPv4gPR8rz1AxuKeJ6VpfIma9VW_n1TPBLxKGq0xVCv7R3xpg21tlF-EwhGrlk4-GlTueLhiXsxHLyk-OCKIm4h-39Jtxw8KLLVePCYCCLYUwY_hq6zuQVQk7GnOORqppvxptDelyEXWAJ_g"
+    },
+    {
+      "name": "Open now",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOthzqyR66s6qJwaxIUZ9pq50l5zZFb-F1TqN_PjKAz2UyD0AMAuoE9KxHB2KKszgc6lQg5hd7Paaa2y8rmj6cycLP3r5n6X88EU1avaGZmG5kweEIKjLpBH6NgSmNkL7pFiK6NbY",
+        "q": "hops oil open now"
+      },
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=hops+oil+open+now&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOthzqyR66s6qJwaxIUZ9pq50l5zZFb-F1TqN_PjKAz2UyD0AMAuoE9KxHB2KKszgc6lQg5hd7Paaa2y8rmj6cycLP3r5n6X88EU1avaGZmG5kweEIKjLpBH6NgSmNkL7pFiK6NbY&sa=X&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQxKsJegQIZRAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hops+oil+open+now&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dnnkVFoy2MOQDV5TwvgCOthzqyR66s6qJwaxIUZ9pq50l5zZFb-F1TqN_PjKAz2UyD0AMAuoE9KxHB2KKszgc6lQg5hd7Paaa2y8rmj6cycLP3r5n6X88EU1avaGZmG5kweEIKjLpBH6NgSmNkL7pFiK6NbY"
+    },
+    {
+      "name": "Fragrance",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dWHIbAtkkWpuscy0-atCrRdtt8kYDIKJJJV8JYzvq-ByNcu_qME8aYm08OQOn1FE9XM3rrTk-CZQew6MsobzYcaZotp7Jx3KvAiLLshRwpZKwHf4PLjncWnrdmPu-TXVjQE5_3WlYuWohWJHHWQfJ2kV8VKg",
+        "q": "Hops Fragrance Oil"
+      },
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Hops+Fragrance+Oil&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dWHIbAtkkWpuscy0-atCrRdtt8kYDIKJJJV8JYzvq-ByNcu_qME8aYm08OQOn1FE9XM3rrTk-CZQew6MsobzYcaZotp7Jx3KvAiLLshRwpZKwHf4PLjncWnrdmPu-TXVjQE5_3WlYuWohWJHHWQfJ2kV8VKg&sa=X&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQxKsJegQIYhAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hops+Fragrance+Oil&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dWHIbAtkkWpuscy0-atCrRdtt8kYDIKJJJV8JYzvq-ByNcu_qME8aYm08OQOn1FE9XM3rrTk-CZQew6MsobzYcaZotp7Jx3KvAiLLshRwpZKwHf4PLjncWnrdmPu-TXVjQE5_3WlYuWohWJHHWQfJ2kV8VKg"
+    },
+    {
+      "name": "Extract",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77HVqvokWE0hzsvUw5e9Q80jIuXIVtEAIFoBfweEB9a3XGR-P3Tq4noz2S164G91m2tMnrY14iLOm5wCLOBHGHAuMHqTWUHqSq4XGeq5cUtNwLkn_03s0WozMq9GO_b0RaOYNZCc",
+        "q": "Hops oil extract"
+      },
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Hops+oil+extract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77HVqvokWE0hzsvUw5e9Q80jIuXIVtEAIFoBfweEB9a3XGR-P3Tq4noz2S164G91m2tMnrY14iLOm5wCLOBHGHAuMHqTWUHqSq4XGeq5cUtNwLkn_03s0WozMq9GO_b0RaOYNZCc&sa=X&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQxKsJegQIYxAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hops+oil+extract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77HVqvokWE0hzsvUw5e9Q80jIuXIVtEAIFoBfweEB9a3XGR-P3Tq4noz2S164G91m2tMnrY14iLOm5wCLOBHGHAuMHqTWUHqSq4XGeq5cUtNwLkn_03s0WozMq9GO_b0RaOYNZCc"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?q=hops+oil&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&udm=18&sa=X&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQ8poLegQIQRAF",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hops+oil",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Hops oil for hair",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Hops+oil+for+hair&sa=X&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQ1QJ6BAhdEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hops+oil+for+hair"
+    },
+    {
+      "block_position": 1,
+      "query": "Hops oil recipe",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Hops+oil+recipe&sa=X&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQ1QJ6BAhfEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hops+oil+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Hops oil for skin",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Hops+oil+for+skin&sa=X&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQ1QJ6BAheEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hops+oil+for+skin"
+    },
+    {
+      "block_position": 1,
+      "query": "Hops oil uses",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Hops+oil+uses&sa=X&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQ1QJ6BAhcEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hops+oil+uses"
+    },
+    {
+      "block_position": 1,
+      "query": "Hop oil in beer",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Hop+oil+in+beer&sa=X&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQ1QJ6BAhZEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hop+oil+in+beer"
+    },
+    {
+      "block_position": 1,
+      "query": "Where to buy hops oil",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Where+to+buy+hops+oil&sa=X&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQ1QJ6BAhbEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Where+to+buy+hops+oil"
+    },
+    {
+      "block_position": 1,
+      "query": "Hops oil extract",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Hops+oil+extract&sa=X&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQ1QJ6BAhaEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hops+oil+extract"
+    },
+    {
+      "block_position": 1,
+      "query": "Hop oil composition",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Hop+oil+composition&sa=X&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQ1QJ6BAhYEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hop+oil+composition"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Can we talk about hop oils?",
+      "link": "https://www.reddit.com/r/Homebrewing/comments/16artor/can_we_talk_about_hop_oils/",
+      "date": "1y ago",
+      "extensions": [
+        "r/Homebrewing",
+        "10+ comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "Do you know more beers with what's called \"hop oil\"?",
+      "link": "https://www.reddit.com/r/beer/comments/n8gfjm/do_you_know_more_beers_with_whats_called_hop_oil/",
+      "date": "3y ago",
+      "extensions": [
+        "r/beer",
+        "50+ comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "Distill the hops",
+      "link": "https://homedistiller.org/forum/viewtopic.php?t=87379",
+      "date": "2y ago",
+      "source": "Home Distiller"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Alcohol content",
+        "subtitle": "Is Hop Oil Alcoholic",
+        "title": "Frequently Asked Questions | HOP WTR",
+        "link": "https://hopwtr.com/pages/frequently-asked-questions",
+        "displayed_link": "https://hopwtr.com \u203a pages \u203a frequently-asked-questions",
+        "snippet": "HOP WTR contains no alcohol and has not been known to cause hangovers. Hangovers are caused by the potent mix of dehydration and your body metabolizing the toxins found in alcohol. HOP WTR contains none of these metabolites, and is also majority water.",
+        "snippet_highlighted_words": [
+          "HOP WTR contains no alcohol"
+        ],
+        "favicon": "https://serpapi.com/searches/670a170518787d6f29abc5a1/images/d9dddc5cc004979cb51f18078ccdc309d8b583f63c7564333ad06f6307395a6ab9eb57ba0a6ad33e.png",
+        "source": "hopwtr.com",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=is+hop+oil+alcoholic&sa=X&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQrooIegQIGxAF",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=is+hop+oil+alcoholic"
+      },
+      {
+        "text": "Side effects",
+        "subtitle": "Hop Oil Side Effects",
+        "title": "Hops - LiverTox - NCBI Bookshelf",
+        "link": "https://www.ncbi.nlm.nih.gov/books/NBK548872/#:~:text=Hops%20is%20found%20in%20multiple,drowsiness%2C%20dizziness%20and%20hypersensitivity%20reactions.",
+        "displayed_link": "https://www.ncbi.nlm.nih.gov \u203a books \u203a NBK548872",
+        "date": "Mar 30, 2018",
+        "snippet": "Hops is found in multiple over-the-counter herbal mixtures in combination with other agents such as chamomile, passion flower and valerian, used as sleeping aids or mild sedatives. Side effects are few, but may include drowsiness, dizziness and hypersensitivity reactions.",
+        "snippet_highlighted_words": [
+          "drowsiness, dizziness and hypersensitivity reactions"
+        ],
+        "favicon": "https://serpapi.com/searches/670a170518787d6f29abc5a1/images/d9dddc5cc004979cb51f18078ccdc309254490abd10b950fe70a2ed3b67cd4c70ae562e91df84f2b.png",
+        "source": "nih.gov",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=hop+oil+side+effects&sa=X&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQrooIegQIGxAK",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hop+oil+side+effects"
+      },
+      {
+        "text": "Taste",
+        "subtitle": "Hop Oil Taste",
+        "title": "Aromatic Hop Oils in Beer Brewing \u2013 Part 1",
+        "link": "https://beersmith.com/blog/2018/02/23/aromatic-hop-oils-in-beer-brewing-part-1/#:~:text=Myrcene%20is%20often%20described%20as,a%20critical%20oil%20in%20IPAs.",
+        "displayed_link": "https://beersmith.com \u203a blog \u203a 2018/02/23 \u203a aromatic-ho...",
+        "date": "Feb 23, 2018",
+        "snippet": "Myrcene is often described as the \u201cfresh hop oil\u201d and has flavors and aroma varying from herbaceous to resinous, green, balsamic, and slightly metallic. It is a major component in many hop varieties from the Pacific Northwest, and is therefore a critical oil in IPAs.",
+        "snippet_highlighted_words": [
+          "herbaceous to resinous, green, balsamic, and slightly metallic"
+        ],
+        "favicon": "https://serpapi.com/searches/670a170518787d6f29abc5a1/images/d9dddc5cc004979cb51f18078ccdc3094fd4d00504a940899d4652e583e01b4fc5c7ddcf7255c116.png",
+        "source": "beersmith.com",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=hop+oil+taste&sa=X&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQrooIegQIGxAP",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hop+oil+taste"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=hops+oil&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=BhcKZ5C5H5O0wN4PpufDSQ&start=10&sa=N&sstk=Aagrsujtq_i2qOPf-2NEogmq1jzj386R8BpYCc6MRO2vFiYOubSKJL9vrrlO2Qp9U0Q1ebxWwkjGVXsoeuMOaee3drOz6Lu9g2DQZQ&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQ8NMDegQIYBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=hops+oil&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=BhcKZ5C5H5O0wN4PpufDSQ&start=10&sa=N&sstk=Aagrsujtq_i2qOPf-2NEogmq1jzj386R8BpYCc6MRO2vFiYOubSKJL9vrrlO2Qp9U0Q1ebxWwkjGVXsoeuMOaee3drOz6Lu9g2DQZQ&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQ8tMDegQIYBAE",
+      "3": "https://www.google.com/search?q=hops+oil&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=BhcKZ5C5H5O0wN4PpufDSQ&start=20&sa=N&sstk=Aagrsujtq_i2qOPf-2NEogmq1jzj386R8BpYCc6MRO2vFiYOubSKJL9vrrlO2Qp9U0Q1ebxWwkjGVXsoeuMOaee3drOz6Lu9g2DQZQ&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQ8tMDegQIYBAG",
+      "4": "https://www.google.com/search?q=hops+oil&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=BhcKZ5C5H5O0wN4PpufDSQ&start=30&sa=N&sstk=Aagrsujtq_i2qOPf-2NEogmq1jzj386R8BpYCc6MRO2vFiYOubSKJL9vrrlO2Qp9U0Q1ebxWwkjGVXsoeuMOaee3drOz6Lu9g2DQZQ&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQ8tMDegQIYBAI",
+      "5": "https://www.google.com/search?q=hops+oil&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=BhcKZ5C5H5O0wN4PpufDSQ&start=40&sa=N&sstk=Aagrsujtq_i2qOPf-2NEogmq1jzj386R8BpYCc6MRO2vFiYOubSKJL9vrrlO2Qp9U0Q1ebxWwkjGVXsoeuMOaee3drOz6Lu9g2DQZQ&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQ8tMDegQIYBAK",
+      "6": "https://www.google.com/search?q=hops+oil&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=BhcKZ5C5H5O0wN4PpufDSQ&start=50&sa=N&sstk=Aagrsujtq_i2qOPf-2NEogmq1jzj386R8BpYCc6MRO2vFiYOubSKJL9vrrlO2Qp9U0Q1ebxWwkjGVXsoeuMOaee3drOz6Lu9g2DQZQ&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQ8tMDegQIYBAM",
+      "7": "https://www.google.com/search?q=hops+oil&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=BhcKZ5C5H5O0wN4PpufDSQ&start=60&sa=N&sstk=Aagrsujtq_i2qOPf-2NEogmq1jzj386R8BpYCc6MRO2vFiYOubSKJL9vrrlO2Qp9U0Q1ebxWwkjGVXsoeuMOaee3drOz6Lu9g2DQZQ&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQ8tMDegQIYBAO",
+      "8": "https://www.google.com/search?q=hops+oil&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=BhcKZ5C5H5O0wN4PpufDSQ&start=70&sa=N&sstk=Aagrsujtq_i2qOPf-2NEogmq1jzj386R8BpYCc6MRO2vFiYOubSKJL9vrrlO2Qp9U0Q1ebxWwkjGVXsoeuMOaee3drOz6Lu9g2DQZQ&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQ8tMDegQIYBAQ",
+      "9": "https://www.google.com/search?q=hops+oil&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=BhcKZ5C5H5O0wN4PpufDSQ&start=80&sa=N&sstk=Aagrsujtq_i2qOPf-2NEogmq1jzj386R8BpYCc6MRO2vFiYOubSKJL9vrrlO2Qp9U0Q1ebxWwkjGVXsoeuMOaee3drOz6Lu9g2DQZQ&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQ8tMDegQIYBAS",
+      "10": "https://www.google.com/search?q=hops+oil&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=BhcKZ5C5H5O0wN4PpufDSQ&start=90&sa=N&sstk=Aagrsujtq_i2qOPf-2NEogmq1jzj386R8BpYCc6MRO2vFiYOubSKJL9vrrlO2Qp9U0Q1ebxWwkjGVXsoeuMOaee3drOz6Lu9g2DQZQ&ved=2ahUKEwiQ1Nyum4iJAxUTGtAFHabzMAkQ8tMDegQIYBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hops+oil&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hops+oil&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hops+oil&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hops+oil&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hops+oil&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hops+oil&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hops+oil&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hops+oil&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hops+oil&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hops+oil&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hops+oil&start=90"
+    }
+  }
+}

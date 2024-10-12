@@ -1,0 +1,1428 @@
+{
+  "search_metadata": {
+    "id": "670a16e06aa364610bc03e66",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/88f9a8dbb409d4b4/670a16e06aa364610bc03e66.json",
+    "created_at": "2024-10-12 06:27:44 UTC",
+    "processed_at": "2024-10-12 06:27:44 UTC",
+    "google_url": "https://www.google.com/search?q=yogurt&oq=yogurt&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/88f9a8dbb409d4b4/670a16e06aa364610bc03e66.html",
+    "total_time_taken": 1.65
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "yogurt",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "yogurt",
+    "total_results": 664000000,
+    "time_taken_displayed": 0.34,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=yogurt&npsic=0&rflfq=1&rldoc=1&rllag=30298194,-97731025,2104&tbm=lcl&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQtgN6BAgrEAI",
+    "image": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/a3c8c798d1f1562aa0dc4a718c739a70.png",
+    "gps_coordinates": {
+      "latitude": 30.298194,
+      "longitude": -97.731025
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.1,
+        "reviews_original": "(320)",
+        "reviews": 320,
+        "description": "\"Awesome yogurt shop with a variety of treats at a reasonable price.\"",
+        "lsig": "AB86z5WuzKG8q9Z8VREObh0a6jEQ",
+        "thumbnail": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/647dfd284f54909a9d6f165029cc0e44631d740634b32e2f4ac9ab71dab9e41c3d814addb241b89a.jpeg",
+        "title": "TCBY",
+        "type": "Fro-Yo",
+        "address": "303 W Martin Luther King Jr Blvd",
+        "hours": "Closed \u22c5 Opens 12 PM",
+        "place_id": "8120257492160893592",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=8120257492160893592&q=yogurt",
+        "gps_coordinates": {
+          "latitude": 30.28126,
+          "longitude": -97.740776
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.2,
+        "reviews_original": "(133)",
+        "reviews": 133,
+        "description": "\"Great place for multiple flavors frozen yogurt.friendly staff.\"",
+        "lsig": "AB86z5WjyH6o7VcBCTwmSejqBzRd",
+        "thumbnail": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/647dfd284f54909a9d6f165029cc0e448bec640d69e1a3bdb280800cf346e5e5d04766f34f380691.png",
+        "title": "Menchie's Frozen Yogurt",
+        "type": "Fro-Yo",
+        "address": "1000 E 41st St #255",
+        "hours": "Closed \u22c5 Opens 12 PM",
+        "place_id": "902405070239793882",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=902405070239793882&q=yogurt",
+        "gps_coordinates": {
+          "latitude": 30.29965,
+          "longitude": -97.721275
+        }
+      },
+      {
+        "position": 3,
+        "rating": 4.4,
+        "reviews_original": "(147)",
+        "reviews": 147,
+        "price": "$",
+        "description": "\"Staff is always friendly and the flavors and toppings are always delish.\"",
+        "lsig": "AB86z5Xa64cJF12f7QnZmDdRtklp",
+        "thumbnail": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/647dfd284f54909a9d6f165029cc0e4442ccb32becb31d52862ba9f65c24d576baace5dde60c7137.jpeg",
+        "title": "Yogurt Planet",
+        "type": "Fro-Yo",
+        "address": "4601 N Lamar Blvd #502",
+        "hours": "Closed \u22c5 Opens 11:30 AM",
+        "place_id": "225017534338534106",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=225017534338534106&q=yogurt",
+        "gps_coordinates": {
+          "latitude": 30.315144,
+          "longitude": -97.735596
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=yogurt&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQjGp6BAgsEAE"
+  },
+  "knowledge_graph": {
+    "title": "Yogurt",
+    "type": "Dairy product",
+    "entity_type": "food, kp3_verticals",
+    "kgmid": "/m/014l8n",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/014l8n&hl=en-US&q=Yogurt",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F014l8n&location=Austin%2CTexas%2CUnited+States&q=Yogurt",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/996687f4bb0e79bee04faa4cea49ca33bc0bbb4d3fab44b6d3112dd45ba5f235845f391c6d90857a.jpeg",
+        "source": "https://en.wikipedia.org/wiki/Yogurt"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/996687f4bb0e79bee04faa4cea49ca33bc0bbb4d3fab44b6300674e714cc0c512c9e4369bb836a5a.jpeg",
+        "source": "https://www.wholefoodsmarket.com/product/chobani-0-greek-yogurt-with-strawberry-on-the-bottom-53-oz-b002gvjzi4"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/996687f4bb0e79bee04faa4cea49ca33bc0bbb4d3fab44b6e98a2ec95d0a3c904d003952aa0a9cfe.jpeg",
+        "source": "https://littlespoonfarm.com/raw-milk-yogurt-recipe/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/996687f4bb0e79bee04faa4cea49ca33bc0bbb4d3fab44b6d25581bb07cf81320c926e34e166bafb.jpeg",
+        "source": "https://www.yoplait.com/products/original-tub-strawberry"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_OxX-r9iyET-TirLVGF0kiEbB8CROCmsruFFV1h-VNQ&s",
+        "source": "https://www.luvele.com/blogs/recipe-blog/step-by-step-homemade-yogurt-recipe-scd-gaps"
+      }
+    ],
+    "description": "Yogurt is a food produced by bacterial fermentation of milk. Fermentation of sugars in the milk by these bacteria produces lactic acid, which acts on milk protein to give yogurt its texture and characteristic tart flavor. Cow's milk is most commonly used to make yogurt.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Yogurt"
+    },
+    "sources_include": "USDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAYogurt, Greek, nonfat100 Calories - 1 container (170 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173520/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173779/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/167722/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170894/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/168848/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/168815/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/169898/nutrients"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Milk",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmycZpXgaLkxcPDimwilcDyWbP0s8dMtLSY24aR-sIk_1fCKLNurEBAAs4rIkZlpe3VX-2C-ogBCDVNfVMFwM3z-cvVSx0eVU4pk07aDK_3Vm6IF87uYgqHOXEEHcNOPcdVCtQZsmFk7lqLeR6FDUbrUa8IvKHgoTHe9uKlPM-xAtxX_gX5JeXhwdWKlmA3KnFTv3P5Zo8YtODF1au3qijK6t00tp2EQN64w0-Ts0xRI1BeuhdA%3D%3D&q=Milk&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQs9oBKAB6BAgoEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Milk&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmycZpXgaLkxcPDimwilcDyWbP0s8dMtLSY24aR-sIk_1fCKLNurEBAAs4rIkZlpe3VX-2C-ogBCDVNfVMFwM3z-cvVSx0eVU4pk07aDK_3Vm6IF87uYgqHOXEEHcNOPcdVCtQZsmFk7lqLeR6FDUbrUa8IvKHgoTHe9uKlPM-xAtxX_gX5JeXhwdWKlmA3KnFTv3P5Zo8YtODF1au3qijK6t00tp2EQN64w0-Ts0xRI1BeuhdA%3D%3D",
+        "image": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/996687f4bb0e79bee04faa4cea49ca33981145383f55d1b9c5ab7ff72d9c0c05a5bba1125ba3376578a33b4fa7f51786.jpeg"
+      },
+      {
+        "name": "Cheese",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm5kuk7Et9auTaWVIdFKfu7urjcWVK7nlwuPdDsf9CQCRiPsYqk6fuxpEmIy2LsnzZON2zt-0bcpnhizBkK5UpBflHBcZ5B78u0ewVp7QjgTtPp2Iyhw4uvLgYyijr24XunKAusfOiZgj5iUeskRzWcfUADHku5_znncfiLQrzDd26ucA4_fTs2NIUJNpVelsgWC5kJ1RgZmyxITgTuZt9au4zPf7jCMmuo-QK3KD1kTZ5t6wPlIi3psKl8h9Hyu2igNRD7c%3D&q=Cheese&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQs9oBKAB6BAgoEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Cheese&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm5kuk7Et9auTaWVIdFKfu7urjcWVK7nlwuPdDsf9CQCRiPsYqk6fuxpEmIy2LsnzZON2zt-0bcpnhizBkK5UpBflHBcZ5B78u0ewVp7QjgTtPp2Iyhw4uvLgYyijr24XunKAusfOiZgj5iUeskRzWcfUADHku5_znncfiLQrzDd26ucA4_fTs2NIUJNpVelsgWC5kJ1RgZmyxITgTuZt9au4zPf7jCMmuo-QK3KD1kTZ5t6wPlIi3psKl8h9Hyu2igNRD7c%3D",
+        "image": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/996687f4bb0e79bee04faa4cea49ca33981145383f55d1b9c5ab7ff72d9c0c057dbd0938f95a26d78aed783bb9aed16a.jpeg"
+      },
+      {
+        "name": "Egg",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L9opS3Db0slhYHEsUrdWvpx4VzTAh4kb8wuoMiHmqWx9akh4ElY1kqyJKbavh7jC_j7yoa1HZ5Ud1Qv5fibhPbYbq4fUn1xpinKSD8BP7kGVFqULlpPCVPCptuokPH9dTkBeXTaWRL_SmIyVTKgXRKWkc-c3o4Ncqw6kQb7cZHr6ffF2ZPoAAPO-qvoKA3Fk7aYX4mRyIpVC6sNnp1nn_Ddq__xa4p3YKsEIA_oFIuRvkpMlTQ%3D%3D&q=Egg&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQs9oBKAB6BAgoEA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Egg&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L9opS3Db0slhYHEsUrdWvpx4VzTAh4kb8wuoMiHmqWx9akh4ElY1kqyJKbavh7jC_j7yoa1HZ5Ud1Qv5fibhPbYbq4fUn1xpinKSD8BP7kGVFqULlpPCVPCptuokPH9dTkBeXTaWRL_SmIyVTKgXRKWkc-c3o4Ncqw6kQb7cZHr6ffF2ZPoAAPO-qvoKA3Fk7aYX4mRyIpVC6sNnp1nn_Ddq__xa4p3YKsEIA_oFIuRvkpMlTQ%3D%3D",
+        "image": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/996687f4bb0e79bee04faa4cea49ca33981145383f55d1b9c5ab7ff72d9c0c058b2fe4856801873ba0304095908d2638.jpeg"
+      },
+      {
+        "name": "Banana",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm4SC_uqgJ8-lxfC9IA6ZjMYYslk64Ely0OG3SYr9KL_EOjREcjI9Vwg-8JIrcSYW-RThU1ycqmz4Ax-zv1Ohu39xRqZUd90zxoJhPBfWFx9KyoM-qmj-L6WZJLu-SEX4ywdpWjujXTCXW7Rcg7izNjgP31Tkz4tuByliRAiBojulUmjEzv8pRbT5ymDtrCOwvFN2lGddHQpXPBExnx0xMqtWgrYW17CcX12PfmPBZDWSvKL_1SGJ2DBI2RD7I41Vc0aBVUU%3D&q=Banana&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQs9oBKAB6BAgoEBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Banana&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm4SC_uqgJ8-lxfC9IA6ZjMYYslk64Ely0OG3SYr9KL_EOjREcjI9Vwg-8JIrcSYW-RThU1ycqmz4Ax-zv1Ohu39xRqZUd90zxoJhPBfWFx9KyoM-qmj-L6WZJLu-SEX4ywdpWjujXTCXW7Rcg7izNjgP31Tkz4tuByliRAiBojulUmjEzv8pRbT5ymDtrCOwvFN2lGddHQpXPBExnx0xMqtWgrYW17CcX12PfmPBZDWSvKL_1SGJ2DBI2RD7I41Vc0aBVUU%3D",
+        "image": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/996687f4bb0e79bee04faa4cea49ca33981145383f55d1b9c5ab7ff72d9c0c0572d8ae36e4f1d39fbe6d3920776e2072.jpeg"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "0.7 g",
+        "1%"
+      ],
+      "cholesterol": [
+        "9 mg",
+        "3%"
+      ],
+      "sodium": [
+        "61 mg",
+        "2%"
+      ],
+      "potassium": [
+        "240 mg",
+        "6%"
+      ],
+      "total_carbohydrate": [
+        "6 g",
+        "2%"
+      ],
+      "protein": [
+        "17 g",
+        "34%"
+      ]
+    }
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=yogurt&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=57MPRc5kiD-vrM%252C2QoZIvu5fXRH5M%252C%252Fm%252F014l8n%253BeYR1I7CtctnP0M%252C_prKFmb2jobd_M%252C_%253Bm5WUuEHeAuZNFM%252C0NKZcNl9M4WiWM%252C_%253BbuI0al24HZcbpM%252CqW3bFTZK49im6M%252C_%253BwUUMU0JdzKtC4M%252CBQCQdK_BcSBKlM%252C_&usg=AI4_-kTBGanSnDAVBBr1-ifK-h1e6Wjysw&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQ_B16BAgyEAE#vhid=57MPRc5kiD-vrM&vssid=mosaic",
+      "source": "https://en.wikipedia.org/wiki/Yogurt",
+      "thumbnail": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/807429f95ba6d63c3abf46425ad4f2e80e896da670b957932986a6db34e34bbd.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Joghurt.jpg/1200px-Joghurt.jpg",
+      "title": "upload.wikimedia.org/wikipedia/commons/thumb/b/b8/...",
+      "source_name": "en.wikipedia.org"
+    },
+    {
+      "link": "https://www.google.com/search?q=yogurt&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=57MPRc5kiD-vrM%252C2QoZIvu5fXRH5M%252C_%253BeYR1I7CtctnP0M%252C_prKFmb2jobd_M%252C_%253Bm5WUuEHeAuZNFM%252C0NKZcNl9M4WiWM%252C_%253BbuI0al24HZcbpM%252CqW3bFTZK49im6M%252C_%253BwUUMU0JdzKtC4M%252CBQCQdK_BcSBKlM%252C_&usg=AI4_-kRjlM8YixNeVnxcc5JGFsvDWwJZ7Q&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQ_h16BAg2EAE#vhid=eYR1I7CtctnP0M&vssid=mosaic",
+      "source": "https://www.wholefoodsmarket.com/product/chobani-0-greek-yogurt-with-strawberry-on-the-bottom-53-oz-b002gvjzi4",
+      "thumbnail": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/807429f95ba6d63c2bada8452cc4dcf89c76f1c86bb1b6c8ea41b0c106f2fa79.jpeg",
+      "original": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/64cba9fcdd15743f48ce2797_2023-08-03_14-40-12_front.main.jpg",
+      "title": "0% Greek Yogurt with Strawberry on the Bottom, 5.3 oz at ...",
+      "source_name": "Whole Foods Market"
+    },
+    {
+      "link": "https://www.google.com/search?q=yogurt&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=57MPRc5kiD-vrM%252C2QoZIvu5fXRH5M%252C_%253BeYR1I7CtctnP0M%252C_prKFmb2jobd_M%252C_%253Bm5WUuEHeAuZNFM%252C0NKZcNl9M4WiWM%252C_%253BbuI0al24HZcbpM%252CqW3bFTZK49im6M%252C_%253BwUUMU0JdzKtC4M%252CBQCQdK_BcSBKlM%252C_&usg=AI4_-kRjlM8YixNeVnxcc5JGFsvDWwJZ7Q&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQ_h16BAgzEAE#vhid=m5WUuEHeAuZNFM&vssid=mosaic",
+      "source": "https://littlespoonfarm.com/raw-milk-yogurt-recipe/",
+      "thumbnail": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/807429f95ba6d63cab64f3c65f699f4e8d0f7b50120e5c7aa0934a2528338785.jpeg",
+      "original": "https://littlespoonfarm.com/wp-content/uploads/2023/01/homemade-raw-yogurt-recipe.jpg",
+      "title": "Raw Milk Yogurt",
+      "source_name": "Little Spoon Farm"
+    },
+    {
+      "link": "https://www.google.com/search?q=yogurt&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=57MPRc5kiD-vrM%252C2QoZIvu5fXRH5M%252C_%253BeYR1I7CtctnP0M%252C_prKFmb2jobd_M%252C_%253Bm5WUuEHeAuZNFM%252C0NKZcNl9M4WiWM%252C_%253BbuI0al24HZcbpM%252CqW3bFTZK49im6M%252C_%253BwUUMU0JdzKtC4M%252CBQCQdK_BcSBKlM%252C_&usg=AI4_-kRjlM8YixNeVnxcc5JGFsvDWwJZ7Q&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQ_h16BAg0EAE#vhid=buI0al24HZcbpM&vssid=mosaic",
+      "source": "https://www.yoplait.com/products/original-tub-strawberry",
+      "thumbnail": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/807429f95ba6d63c7aaa0716c2d324de04487040b11e6aaa979ec8e76f7c1755.jpeg",
+      "original": "https://www.yoplait.com/_next/image?url=https%3A%2F%2Fprodcontent.yoplait.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fyoplait-original-strawberry-tub-460x460-1.png&w=1024&q=75",
+      "title": "Original | Large Size | Strawberry Yogurt | Yoplait",
+      "source_name": "Yoplait"
+    },
+    {
+      "link": "https://www.google.com/search?q=yogurt&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=57MPRc5kiD-vrM%252C2QoZIvu5fXRH5M%252C_%253BeYR1I7CtctnP0M%252C_prKFmb2jobd_M%252C_%253Bm5WUuEHeAuZNFM%252C0NKZcNl9M4WiWM%252C_%253BbuI0al24HZcbpM%252CqW3bFTZK49im6M%252C_%253BwUUMU0JdzKtC4M%252CBQCQdK_BcSBKlM%252C_&usg=AI4_-kRjlM8YixNeVnxcc5JGFsvDWwJZ7Q&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQ_h16BAg1EAE#vhid=wUUMU0JdzKtC4M&vssid=mosaic",
+      "source": "https://www.luvele.com/blogs/recipe-blog/step-by-step-homemade-yogurt-recipe-scd-gaps",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_OxX-r9iyET-TirLVGF0kiEbB8CROCmsruFFV1h-VNQ&s",
+      "original": "https://images.getrecipekit.com/20240131164917-homemade_yogurt_13_1024x1024.webp?class=16x9",
+      "title": "Step by step homemade yogurt recipe (GAPS & SCD)",
+      "source_name": "www.luvele.com"
+    }
+  ],
+  "inline_products": [
+    {
+      "position": 1,
+      "title": "Yoplait Original Strawberry Yogurt",
+      "block_title": "In stores nearby",
+      "source": "H-E-B",
+      "price": 0.75,
+      "currency": "$",
+      "rating": 4.1,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRQvO0mSHuy4qwNK3Wai6UvYufkvMN-QIVsKketgGaP46v2mWB3Rx9OhsGjGZLxxJ4tkGuYdLS6FVhqFC4QMsrm1bkE8YfRRZQv-3E_f_DETH_YcfsRt32bkw"
+    },
+    {
+      "position": 2,
+      "title": "Chobani Non-Fat Plain Greek Yogurt - 32 Oz",
+      "block_title": "In stores nearby",
+      "tag": "5% OFF",
+      "source": "Randalls",
+      "price": 7.99,
+      "currency": "$",
+      "original_price": 8,
+      "rating": 4.6,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTGbOZD-lDSggEkICwLvGNWBUGHqTuGVePCbWw5rqu1vjnk1HFOTtnQy9XDDt6lmxaYk5DKa7Lw7L0nkOcDH3CcuTW4VqOjW60tDT183I928GIup_GfQpmTjQ"
+    },
+    {
+      "position": 3,
+      "title": "GoGo Squeez Yogurtz Blueberry",
+      "block_title": "In stores nearby",
+      "source": "Walmart",
+      "price": 7.78,
+      "currency": "$",
+      "rating": 4.6,
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRXNeUDYIUv2F-Hpweql1xHPxg2ulry2AKJZazW0mEeh6MlAmFLO8TvWctGR3ljdYj_CWoALgc5OwI9aL1s5hzo0jjbUarNs4mzb2i-sqMd7R758pFNXCTKXQ"
+    },
+    {
+      "position": 4,
+      "title": "Oikos Triple Zero Vanilla Greek Yogurt",
+      "block_title": "In stores nearby",
+      "source": "H-E-B",
+      "price": 6.01,
+      "currency": "$",
+      "rating": 4.4,
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRGgzaSZm2G872oi9wF5ChZFPUztmMzsz7R7zdm4XPOJyGtkMVJuM2JuE0XrZ2boOH7fKFpbC8cyiW94Vc0tFQh5d1LhN0oO-iaBgcMuC5WgIW7bh1Eo0pSxw"
+    },
+    {
+      "position": 5,
+      "title": "Lucerne Vanilla Flavored Low Fat Yogurt",
+      "block_title": "In stores nearby",
+      "source": "Randalls",
+      "price": 2.99,
+      "currency": "$",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ5uU_a4bkf1EGsZLAsx-kUs8MK7_NsXN-oO8NHivWy3kvObiP8D32kYQxMXpbRNZQM5hqFnx4-W1LntBKRA2Xxdp1YmsPkPHPledYqw9op-tZxWbsowy5qUg"
+    },
+    {
+      "position": 6,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 7,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 8,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 9,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 10,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 11,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 12,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 13,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 14,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 15,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 16,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 17,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 18,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 19,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 20,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 21,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 22,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 23,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 24,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 25,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 26,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 27,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 28,
+      "block_title": "In stores nearby"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/51faf2c44eac44b4ecddaaed02827db64d27c64cf6dae99eba03116343e68a53.webp",
+      "source": "Walmart",
+      "title": "Oikos Triple Zero Vanilla Greek Yogurt",
+      "rating": 4.4,
+      "reviews": 1200,
+      "price": "$5.78",
+      "extracted_price": 5.78,
+      "location": "Also nearby",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU4OTAyMTQyMjIyMzU2NTkzMTIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzMTg2NDAyNDg5MzM1NTQ5MjE0IiwiaW1hZ2VEb2NpZCI6IjEyMDUxNDI3Mjk1NTk0NTQ4NjUwIiwicmRzIjoiUENfMjMzMDAyODY2MjYwNjM2ODgzNnxQUk9EX1BDXzIzMzAwMjg2NjI2MDYzNjg4MzYiLCJxdWVyeSI6InlvZ3VydCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU4OTAyMTQyMjIyMzU2NTkzMTIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzMTg2NDAyNDg5MzM1NTQ5MjE0IiwiaW1hZ2VEb2NpZCI6IjEyMDUxNDI3Mjk1NTk0NTQ4NjUwIiwicmRzIjoiUENfMjMzMDAyODY2MjYwNjM2ODgzNnxQUk9EX1BDXzIzMzAwMjg2NjI2MDYzNjg4MzYiLCJxdWVyeSI6InlvZ3VydCJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/51faf2c44eac44b4ecddaaed02827db689261635cc92d4edd69479c33edfd47c.webp",
+      "source": "H-E-B",
+      "title": "Yoplait Original Strawberry Yogurt",
+      "rating": 4.1,
+      "reviews": 278,
+      "price": "$0.75",
+      "extracted_price": 0.75,
+      "location": "11 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE1NDU1MTMzMjIwNjg0MDk2OTYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ5NDYyODg3ODg0MTg1OTU4MDQiLCJpbWFnZURvY2lkIjoiNzgyOTM5NDQ1MTcyODUxMjM1MCIsInJkcyI6IlBDXzk4MDM0MzExNzMyMDkxNjAzNjl8UFJPRF9QQ185ODAzNDMxMTczMjA5MTYwMzY5IiwicXVlcnkiOiJ5b2d1cnQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE1NDU1MTMzMjIwNjg0MDk2OTYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ5NDYyODg3ODg0MTg1OTU4MDQiLCJpbWFnZURvY2lkIjoiNzgyOTM5NDQ1MTcyODUxMjM1MCIsInJkcyI6IlBDXzk4MDM0MzExNzMyMDkxNjAzNjl8UFJPRF9QQ185ODAzNDMxMTczMjA5MTYwMzY5IiwicXVlcnkiOiJ5b2d1cnQifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/51faf2c44eac44b4ecddaaed02827db6e63ff5bbd06dfb1c82c692391ef7a1e3.webp",
+      "source": "ShopRite",
+      "title": "Chobani Greek Yogurt Mixed Berry Blended 5.3oz (Pack of 12)",
+      "rating": 4.6,
+      "reviews": 605,
+      "price": "$1.20",
+      "extracted_price": 1.2,
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTIwMDMyNTA2NTY0NTYzNDI3NCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQzMjA0MzY5NTQ1OTcyMzk2NTMiLCJpbWFnZURvY2lkIjoiMTUxNjU4OTE3Mzg5MDUxMzI1NDYiLCJyZHMiOiJQQ18xMDkyMTQ0MzU2NjIwMDc1MzczNnxQUk9EX1BDXzEwOTIxNDQzNTY2MjAwNzUzNzM2IiwicXVlcnkiOiJ5b2d1cnQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTIwMDMyNTA2NTY0NTYzNDI3NCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQzMjA0MzY5NTQ1OTcyMzk2NTMiLCJpbWFnZURvY2lkIjoiMTUxNjU4OTE3Mzg5MDUxMzI1NDYiLCJyZHMiOiJQQ18xMDkyMTQ0MzU2NjIwMDc1MzczNnxQUk9EX1BDXzEwOTIxNDQzNTY2MjAwNzUzNzM2IiwicXVlcnkiOiJ5b2d1cnQifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/51faf2c44eac44b4ecddaaed02827db6399a1d82a8b97adae35f90a86fcfea0e.webp",
+      "source": "BJ's Wholesale Club",
+      "title": "Chobani Non- Fat Plain Greek Yogurt",
+      "rating": 4.8,
+      "reviews": 605,
+      "price": "$6.29",
+      "extracted_price": 6.29,
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU4OTAzODQ2MzExNTY0Nzk4MDYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijc1NjQzMDE1NTE5Nzg0MDc1ODQiLCJpbWFnZURvY2lkIjoiMjg3MjYwNTgxMjYxNDQ3MjIyNCIsInJkcyI6IlBDXzE0NzgxNzEwOTA1NDIyNzc2NjY3fFBST0RfUENfMTQ3ODE3MTA5MDU0MjI3NzY2NjciLCJxdWVyeSI6InlvZ3VydCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU4OTAzODQ2MzExNTY0Nzk4MDYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijc1NjQzMDE1NTE5Nzg0MDc1ODQiLCJpbWFnZURvY2lkIjoiMjg3MjYwNTgxMjYxNDQ3MjIyNCIsInJkcyI6IlBDXzE0NzgxNzEwOTA1NDIyNzc2NjY3fFBST0RfUENfMTQ3ODE3MTA5MDU0MjI3NzY2NjciLCJxdWVyeSI6InlvZ3VydCJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/51faf2c44eac44b4ecddaaed02827db692ba980cf990ce81c33620c72b0c38e2.webp",
+      "source": "Cooklist",
+      "title": "Great Value Yogurt Lowfat",
+      "rating": 3.7,
+      "reviews": 379,
+      "price": "$1.92",
+      "extracted_price": 1.92,
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDgyOTQzNDkyODQ4ODY5NDIxNSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQ1OTIwOTc3Mzk3ODg3OTg5MCIsImltYWdlRG9jaWQiOiI0NzE4MTU3MDMzMTMxNTk4NTciLCJyZHMiOiJQQ18xNDQzNTAwNzI5MjQ2MzcyMDY2NHxQUk9EX1BDXzE0NDM1MDA3MjkyNDYzNzIwNjY0IiwicXVlcnkiOiJ5b2d1cnQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDgyOTQzNDkyODQ4ODY5NDIxNSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQ1OTIwOTc3Mzk3ODg3OTg5MCIsImltYWdlRG9jaWQiOiI0NzE4MTU3MDMzMTMxNTk4NTciLCJyZHMiOiJQQ18xNDQzNTAwNzI5MjQ2MzcyMDY2NHxQUk9EX1BDXzE0NDM1MDA3MjkyNDYzNzIwNjY0IiwicXVlcnkiOiJ5b2d1cnQifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/51faf2c44eac44b4ecddaaed02827db6b8c1076b5ffb31087040a19f9139264a.webp",
+      "source": "Walmart",
+      "title": "Oikos Triple Zero Strawberry Greek Yogurt",
+      "rating": 4.4,
+      "reviews": 562,
+      "price": "$4.38",
+      "extracted_price": 4.38,
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ2ODEzNzc3MzA1NDg4NDk0ODYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjIzNTgyOTY2Mjg0NDkzNTUxOTgiLCJpbWFnZURvY2lkIjoiODMwMDcyODY5NjIwNjE3NjU0IiwicmRzIjoiUENfMTMwMTc2MTIxNzczMjA4MjI2NXxQUk9EX1BDXzEzMDE3NjEyMTc3MzIwODIyNjUiLCJxdWVyeSI6InlvZ3VydCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ2ODEzNzc3MzA1NDg4NDk0ODYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjIzNTgyOTY2Mjg0NDkzNTUxOTgiLCJpbWFnZURvY2lkIjoiODMwMDcyODY5NjIwNjE3NjU0IiwicmRzIjoiUENfMTMwMTc2MTIxNzczMjA4MjI2NXxQUk9EX1BDXzEzMDE3NjEyMTc3MzIwODIyNjUiLCJxdWVyeSI6InlvZ3VydCJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/51faf2c44eac44b4ecddaaed02827db61787b7836a5e81410b0d678aaca495db.webp",
+      "source": "H-E-B",
+      "title": "Siggi's Yogurt Plain",
+      "rating": 4.8,
+      "reviews": 286,
+      "price": "$6.22",
+      "extracted_price": 6.22,
+      "location": "10 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA5MzAyMjM4MTIxMDU0NzM4ODkiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyNTMxOTE1NjkyNTkxOTI3MTE4IiwiaW1hZ2VEb2NpZCI6IjgyODcyMzYxMzkzNDY2MDIwMTEiLCJyZHMiOiJQQ185MjM3ODIwMzk4NTYwMTI4NzIxfFBST0RfUENfOTIzNzgyMDM5ODU2MDEyODcyMSIsInF1ZXJ5IjoieW9ndXJ0In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA5MzAyMjM4MTIxMDU0NzM4ODkiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyNTMxOTE1NjkyNTkxOTI3MTE4IiwiaW1hZ2VEb2NpZCI6IjgyODcyMzYxMzkzNDY2MDIwMTEiLCJyZHMiOiJQQ185MjM3ODIwMzk4NTYwMTI4NzIxfFBST0RfUENfOTIzNzgyMDM5ODU2MDEyODcyMSIsInF1ZXJ5IjoieW9ndXJ0In0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/51faf2c44eac44b4ecddaaed02827db692a2e2556b9f6515496ecedcb8cf744e.webp",
+      "source": "ShopRite",
+      "title": "Chobani Non Fat Blueberry Greek Yogurt",
+      "rating": 4.6,
+      "reviews": 2800,
+      "price": "$1.20",
+      "extracted_price": 1.2,
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA5ODIyMzg1NjM3OTg3NzA4IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI2MzQ2ODg3Mjg4NTU3NDEwNDY1IiwiaW1hZ2VEb2NpZCI6IjE2MTU1MjQ5Mzg2OTYyODkxODQ4IiwicmRzIjoiUENfMzQxNTUyODI3NzU5OTk4MTM3OHxQUk9EX1BDXzM0MTU1MjgyNzc1OTk5ODEzNzgiLCJxdWVyeSI6InlvZ3VydCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA5ODIyMzg1NjM3OTg3NzA4IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI2MzQ2ODg3Mjg4NTU3NDEwNDY1IiwiaW1hZ2VEb2NpZCI6IjE2MTU1MjQ5Mzg2OTYyODkxODQ4IiwicmRzIjoiUENfMzQxNTUyODI3NzU5OTk4MTM3OHxQUk9EX1BDXzM0MTU1MjgyNzc1OTk5ODEzNzgiLCJxdWVyeSI6InlvZ3VydCJ9"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSCRVf0eijB06XnHJyHpjcrbldlW3Uf9NFgT1LLD50QXT0Hd5E3StEHNODL342odn4h4fpxhoXKfCcrxmwANaXZkMQDFPV3SxYL0hDhhqrnCqAkIDEPTxRGHg",
+      "source": "BJ's Wholesale Club",
+      "title": "Chobani Vanilla Greek Yogurt",
+      "rating": 4.6,
+      "reviews": 5500,
+      "price": "$6.29",
+      "extracted_price": 6.29,
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIxMjY5MzY5OTYyMTE5MDc4MjUiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQzNTc4MzIyMDMwNDM5OTE1MTkiLCJpbWFnZURvY2lkIjoiNTE0MzI0OTExNjQ4ODI0NzQ5MCIsInJkcyI6IlBDXzExMjAzMDU5NTQzNDM2ODkxNjgyfFBST0RfUENfMTEyMDMwNTk1NDM0MzY4OTE2ODIiLCJxdWVyeSI6InlvZ3VydCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIxMjY5MzY5OTYyMTE5MDc4MjUiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQzNTc4MzIyMDMwNDM5OTE1MTkiLCJpbWFnZURvY2lkIjoiNTE0MzI0OTExNjQ4ODI0NzQ5MCIsInJkcyI6IlBDXzExMjAzMDU5NTQzNDM2ODkxNjgyfFBST0RfUENfMTEyMDMwNTk1NDM0MzY4OTE2ODIiLCJxdWVyeSI6InlvZ3VydCJ9"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQhEfoHaqMSwZhwpwpYyo6XRRgMPomVynPjdMZWA3j75N7oKv-_zfojgT4Ylkf4el58dh74us79oahWOxC9eeb7P2C_TyxfNyMP4NsqoeD7bnfW2HPz3ylsvQ",
+      "source": "Amazon",
+      "title": "Activia Variety Pack Yogurt",
+      "rating": 4.6,
+      "reviews": 143,
+      "price": "$77.58",
+      "extracted_price": 77.58,
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTc2MTQ5OTgzOTI0MjI2MDg4OSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTA4MzY2MTU3ODc0MzAwNjI0OTciLCJpbWFnZURvY2lkIjoiMTgzMzQ3NjM5MTg4MDk3Njc5MzEiLCJyZHMiOiJQQ18xNzMxMzI4NDQxNzgxOTAxNTQ5NHxQUk9EX1BDXzE3MzEzMjg0NDE3ODE5MDE1NDk0IiwicXVlcnkiOiJ5b2d1cnQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTc2MTQ5OTgzOTI0MjI2MDg4OSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTA4MzY2MTU3ODc0MzAwNjI0OTciLCJpbWFnZURvY2lkIjoiMTgzMzQ3NjM5MTg4MDk3Njc5MzEiLCJyZHMiOiJQQ18xNzMxMzI4NDQxNzgxOTAxNTQ5NHxQUk9EX1BDXzE3MzEzMjg0NDE3ODE5MDE1NDk0IiwicXVlcnkiOiJ5b2d1cnQifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSf1mSimXZHJemb6prFA99M0bYSFfGmGmvnQmLwj_ce6gT-PUzMo5gpGD3TFlahOKLkl5TKQ_drVwgpX6ieS446l1HBuRCN2ZowpsYyKZySEW8sYNLUSz38CQ",
+      "source": "Walmart",
+      "title": "Stonyfield Organic Whole Milk Plain Yogurt",
+      "rating": 4.7,
+      "reviews": 555,
+      "price": "$4.46",
+      "extracted_price": 4.46,
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDgyOTkxMzcxNTY1MDMzNDkyOCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc4MzM4MTQ5MzY4MDA3NjU5NjQiLCJpbWFnZURvY2lkIjoiMTU0ODgwMjQ4Mzc0NTc2MTU3NjYiLCJyZHMiOiJQQ18xNzc4Njg2MTI5MDU4MDY1NjM3N3xQUk9EX1BDXzE3Nzg2ODYxMjkwNTgwNjU2Mzc3IiwicXVlcnkiOiJ5b2d1cnQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDgyOTkxMzcxNTY1MDMzNDkyOCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc4MzM4MTQ5MzY4MDA3NjU5NjQiLCJpbWFnZURvY2lkIjoiMTU0ODgwMjQ4Mzc0NTc2MTU3NjYiLCJyZHMiOiJQQ18xNzc4Njg2MTI5MDU4MDY1NjM3N3xQUk9EX1BDXzE3Nzg2ODYxMjkwNTgwNjU2Mzc3IiwicXVlcnkiOiJ5b2d1cnQifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR5GzSGcNl16admxrVt5FSCR3Kml73LW4OC_j4WxL-6ZvCrz3gQQSKfCT-Kuo5AlUFDSfxp-kwWwzLyK7yssmIASEtbiFe3PR6VJqfx4aoLInNgFhh_DHUC",
+      "source": "H-E-B",
+      "title": "The Greek Gods Honey Vanilla Greek Yogurt",
+      "rating": 4.7,
+      "reviews": 3000,
+      "price": "$5.39",
+      "extracted_price": 5.39,
+      "location": "10 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODY0NDA1NjA4OTU3NTMxOTU4NyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjg0NjE4MzgyODMwMTEzNzczIiwiaW1hZ2VEb2NpZCI6Ijk1NjM0OTQ3NDUyMzI5MDcwNjMiLCJyZHMiOiJQQ18xMTEwMTY0NzE5Nzc1Mzc4MTA4fFBST0RfUENfMTExMDE2NDcxOTc3NTM3ODEwOCIsInF1ZXJ5IjoieW9ndXJ0In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODY0NDA1NjA4OTU3NTMxOTU4NyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjg0NjE4MzgyODMwMTEzNzczIiwiaW1hZ2VEb2NpZCI6Ijk1NjM0OTQ3NDUyMzI5MDcwNjMiLCJyZHMiOiJQQ18xMTEwMTY0NzE5Nzc1Mzc4MTA4fFBST0RfUENfMTExMDE2NDcxOTc3NTM3ODEwOCIsInF1ZXJ5IjoieW9ndXJ0In0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQtDfnfFQlKY_OcIf6KyqQjmyMXMg4QRBbIpk7GZMYkGlPG5Xu1hl6KmPL-CotXj2JvDJy4SxWAsj12kcHB_BfNXsA-0A4s6LL3hEbjivXEoKd_MmaldnNoDw",
+      "source": "Randalls",
+      "title": "Chobani Non-Fat Plain Greek Yogurt - 32 Oz",
+      "rating": 4.6,
+      "reviews": 6200,
+      "price": "$7.99",
+      "extracted_price": 7.99,
+      "original_price": "$8",
+      "extracted_original_price": 8,
+      "location": "9.3 mi \u00b7 In stock",
+      "extensions": [
+        "5% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiMTY5NzMwNDQxMTcxNjg3MDAwNzEiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2OTczMDQ0MTE3MTY4NzAwMDcxIiwiaW1hZ2VEb2NpZCI6IjM3MjUwNjAyMjc3MDI4OTc2NiIsInJkcyI6IlBDXzgyNDc1NDc5MzMzNjI5MjY3OHxQUk9EX1BDXzgyNDc1NDc5MzMzNjI5MjY3OCIsInF1ZXJ5IjoieW9ndXJ0In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiMTY5NzMwNDQxMTcxNjg3MDAwNzEiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2OTczMDQ0MTE3MTY4NzAwMDcxIiwiaW1hZ2VEb2NpZCI6IjM3MjUwNjAyMjc3MDI4OTc2NiIsInJkcyI6IlBDXzgyNDc1NDc5MzMzNjI5MjY3OHxQUk9EX1BDXzgyNDc1NDc5MzMzNjI5MjY3OCIsInF1ZXJ5IjoieW9ndXJ0In0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSTkEzKuSH2rNBYsvWk1qKcY3Sfl3Rk97ZomlKuJYsA0Um8cGc4zyL5_CCr3QI29iQqt8x2cpynTK0BaFeJYhl83jgHzC6B_T-pH52m8QSo0mGoXXF44kop",
+      "source": "ShopRite",
+      "title": "Chobani Flip Low Fat Greek Yogurt S'more S'mores",
+      "rating": 4.7,
+      "reviews": 3500,
+      "price": "$1.20",
+      "extracted_price": 1.2,
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjEyNjIzMjUyMjU3NjYxNjY5NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTE5MTU1NTgwNDA4MTY0NzE2ODgiLCJpbWFnZURvY2lkIjoiMTQ4Nzc5MzIxNDQzMTI4MTU5OSIsInJkcyI6IlBDXzY5MTkyNDEwNTc4MDE0OTMxOTd8UFJPRF9QQ182OTE5MjQxMDU3ODAxNDkzMTk3IiwicXVlcnkiOiJ5b2d1cnQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjEyNjIzMjUyMjU3NjYxNjY5NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTE5MTU1NTgwNDA4MTY0NzE2ODgiLCJpbWFnZURvY2lkIjoiMTQ4Nzc5MzIxNDQzMTI4MTU5OSIsInJkcyI6IlBDXzY5MTkyNDEwNTc4MDE0OTMxOTd8UFJPRF9QQ182OTE5MjQxMDU3ODAxNDkzMTk3IiwicXVlcnkiOiJ5b2d1cnQifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSCRVf0eijB06XnHJyHpjcrbldlW3Uf9NFgT1LLD50QXT0Hd5E3StEHNODL342odn4h4fpxhoXKfCcrxmwANaXZkMQDFPV3SxYL0hDhhqrnCqAkIDEPTxRGHg",
+      "source": "BJ's Wholesale Club",
+      "title": "Chobani 0% Vanilla Blended Greek Yogurt, 40 oz.",
+      "rating": 4.6,
+      "reviews": 5300,
+      "price": "$6.29",
+      "extracted_price": 6.29,
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiMTI1ODYyODYyNDczMjg1MDcxOCIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTI1ODYyODYyNDczMjg1MDcxOCIsImltYWdlRG9jaWQiOiI1MTQzMjQ5MTE2NDg4MjQ3NDkwIiwicmRzIjoiUENfMTM0OTUxMzQ3NDM0NjczNjEwNDJ8UFJPRF9QQ18xMzQ5NTEzNDc0MzQ2NzM2MTA0MiIsInF1ZXJ5IjoieW9ndXJ0In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiMTI1ODYyODYyNDczMjg1MDcxOCIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTI1ODYyODYyNDczMjg1MDcxOCIsImltYWdlRG9jaWQiOiI1MTQzMjQ5MTE2NDg4MjQ3NDkwIiwicmRzIjoiUENfMTM0OTUxMzQ3NDM0NjczNjEwNDJ8UFJPRF9QQ18xMzQ5NTEzNDc0MzQ2NzM2MTA0MiIsInF1ZXJ5IjoieW9ndXJ0In0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRqds3oqLo07Yal6soQG55fuMECdj0EHN4xvA4SanQckaLhRHrFgculkbF60EfO4SIOAAFah7Ttox-kFw5x9uCQS3OYZUNwdxuqeCJX5XBO09-k6YKzu3NdmA",
+      "source": "Walmart",
+      "title": "Great Value Plain Nonfat Yogurt",
+      "rating": 2.9,
+      "reviews": 126,
+      "price": "$2.56",
+      "extracted_price": 2.56,
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUyMjE3MDQwNjM0MzM2MzA0MDYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQxODY4NjcxMjM5OTU5MTk2NDkiLCJpbWFnZURvY2lkIjoiMzgwMjgyNzUxMjQ4MDc1MDMxIiwicmRzIjoiUENfMTgwOTYyNjE1NzkwMzUxMDMwOTV8UFJPRF9QQ18xODA5NjI2MTU3OTAzNTEwMzA5NSIsInF1ZXJ5IjoieW9ndXJ0In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUyMjE3MDQwNjM0MzM2MzA0MDYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQxODY4NjcxMjM5OTU5MTk2NDkiLCJpbWFnZURvY2lkIjoiMzgwMjgyNzUxMjQ4MDc1MDMxIiwicmRzIjoiUENfMTgwOTYyNjE1NzkwMzUxMDMwOTV8UFJPRF9QQ18xODA5NjI2MTU3OTAzNTEwMzA5NSIsInF1ZXJ5IjoieW9ndXJ0In0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRQvO0mSHuy4qwNK3Wai6UvYufkvMN-QIVsKketgGaP46v2mWB3Rx9OhsGjGZLxxJ4tkGuYdLS6FVhqFC4QMsrm1bkE8YfRRZQv-3E_f_DETH_YcfsRt32bkw",
+      "source": "H-E-B",
+      "title": "Yoplait Original Strawberry Yogurt",
+      "rating": 4.1,
+      "reviews": 278,
+      "price": "$0.75",
+      "extracted_price": 0.75,
+      "location": "11 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE1NDU1MTMzMjIwNjg0MDk2OTYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ5NDYyODg3ODg0MTg1OTU4MDQiLCJpbWFnZURvY2lkIjoiNzgyOTM5NDQ1MTcyODUxMjM1MCIsInJkcyI6IlBDXzk4MDM0MzExNzMyMDkxNjAzNjl8UFJPRF9QQ185ODAzNDMxMTczMjA5MTYwMzY5IiwicXVlcnkiOiJ5b2d1cnQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE1NDU1MTMzMjIwNjg0MDk2OTYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ5NDYyODg3ODg0MTg1OTU4MDQiLCJpbWFnZURvY2lkIjoiNzgyOTM5NDQ1MTcyODUxMjM1MCIsInJkcyI6IlBDXzk4MDM0MzExNzMyMDkxNjAzNjl8UFJPRF9QQ185ODAzNDMxMTczMjA5MTYwMzY5IiwicXVlcnkiOiJ5b2d1cnQifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTGbOZD-lDSggEkICwLvGNWBUGHqTuGVePCbWw5rqu1vjnk1HFOTtnQy9XDDt6lmxaYk5DKa7Lw7L0nkOcDH3CcuTW4VqOjW60tDT183I928GIup_GfQpmTjQ",
+      "source": "Randalls",
+      "title": "Chobani Non-Fat Plain Greek Yogurt - 32 Oz",
+      "rating": 4.6,
+      "reviews": 6200,
+      "price": "$7.99",
+      "extracted_price": 7.99,
+      "original_price": "$8",
+      "extracted_original_price": 8,
+      "location": "9.3 mi \u00b7 In stock",
+      "extensions": [
+        "5% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiMTY5NzMwNDQxMTcxNjg3MDAwNzEiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2OTczMDQ0MTE3MTY4NzAwMDcxIiwiaW1hZ2VEb2NpZCI6IjM3MjUwNjAyMjc3MDI4OTc2NiIsInJkcyI6IlBDXzgyNDc1NDc5MzMzNjI5MjY3OHxQUk9EX1BDXzgyNDc1NDc5MzMzNjI5MjY3OCIsInF1ZXJ5IjoieW9ndXJ0In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiMTY5NzMwNDQxMTcxNjg3MDAwNzEiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2OTczMDQ0MTE3MTY4NzAwMDcxIiwiaW1hZ2VEb2NpZCI6IjM3MjUwNjAyMjc3MDI4OTc2NiIsInJkcyI6IlBDXzgyNDc1NDc5MzMzNjI5MjY3OHxQUk9EX1BDXzgyNDc1NDc5MzMzNjI5MjY3OCIsInF1ZXJ5IjoieW9ndXJ0In0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRXNeUDYIUv2F-Hpweql1xHPxg2ulry2AKJZazW0mEeh6MlAmFLO8TvWctGR3ljdYj_CWoALgc5OwI9aL1s5hzo0jjbUarNs4mzb2i-sqMd7R758pFNXCTKXQ",
+      "source": "Walmart",
+      "title": "GoGo Squeez Yogurtz Blueberry",
+      "rating": 4.6,
+      "reviews": 677,
+      "price": "$7.78",
+      "extracted_price": 7.78,
+      "location": "12 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTczNTUyNDI1Njc2ODM5MjA5NyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjE2NzE3NTUzMjc2NTUzOTQ2OSIsImltYWdlRG9jaWQiOiIxMTYwNzQ3MzkwNjAxNTQ1NTY1MyIsInJkcyI6IlBDXzc2NDQ2MTM4NjMxNDU5MTcxOTh8UFJPRF9QQ183NjQ0NjEzODYzMTQ1OTE3MTk4IiwicXVlcnkiOiJ5b2d1cnQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTczNTUyNDI1Njc2ODM5MjA5NyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjE2NzE3NTUzMjc2NTUzOTQ2OSIsImltYWdlRG9jaWQiOiIxMTYwNzQ3MzkwNjAxNTQ1NTY1MyIsInJkcyI6IlBDXzc2NDQ2MTM4NjMxNDU5MTcxOTh8UFJPRF9QQ183NjQ0NjEzODYzMTQ1OTE3MTk4IiwicXVlcnkiOiJ5b2d1cnQifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRGgzaSZm2G872oi9wF5ChZFPUztmMzsz7R7zdm4XPOJyGtkMVJuM2JuE0XrZ2boOH7fKFpbC8cyiW94Vc0tFQh5d1LhN0oO-iaBgcMuC5WgIW7bh1Eo0pSxw",
+      "source": "H-E-B",
+      "title": "Oikos Triple Zero Vanilla Greek Yogurt",
+      "rating": 4.4,
+      "reviews": 1200,
+      "price": "$6.01",
+      "extracted_price": 6.01,
+      "location": "10 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU4OTAyMTQyMjIyMzU2NTkzMTIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijc0NzIwMjIzOTcxNjAzMDQxMDIiLCJpbWFnZURvY2lkIjoiOTE3MDcxNjU0NzIwNDk4ODE3OSIsInJkcyI6IlBDXzIzMzAwMjg2NjI2MDYzNjg4MzZ8UFJPRF9QQ18yMzMwMDI4NjYyNjA2MzY4ODM2IiwicXVlcnkiOiJ5b2d1cnQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU4OTAyMTQyMjIyMzU2NTkzMTIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijc0NzIwMjIzOTcxNjAzMDQxMDIiLCJpbWFnZURvY2lkIjoiOTE3MDcxNjU0NzIwNDk4ODE3OSIsInJkcyI6IlBDXzIzMzAwMjg2NjI2MDYzNjg4MzZ8UFJPRF9QQ18yMzMwMDI4NjYyNjA2MzY4ODM2IiwicXVlcnkiOiJ5b2d1cnQifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ5uU_a4bkf1EGsZLAsx-kUs8MK7_NsXN-oO8NHivWy3kvObiP8D32kYQxMXpbRNZQM5hqFnx4-W1LntBKRA2Xxdp1YmsPkPHPledYqw9op-tZxWbsowy5qUg",
+      "source": "Randalls",
+      "title": "Lucerne Vanilla Flavored Low Fat Yogurt",
+      "price": "$2.99",
+      "extracted_price": 2.99,
+      "location": "11 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE0ODE0NTI2NTU0NDA1NzAyMjAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMzc2NDUwNzc4NDE5ODQ5MTcxIiwiaW1hZ2VEb2NpZCI6IjE0NTE5MTU3MDM1NjI0NDgxMTYzIiwicmRzIjoiIiwicXVlcnkiOiJ5b2d1cnQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE0ODE0NTI2NTU0NDA1NzAyMjAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMzc2NDUwNzc4NDE5ODQ5MTcxIiwiaW1hZ2VEb2NpZCI6IjE0NTE5MTU3MDM1NjI0NDgxMTYzIiwicmRzIjoiIiwicXVlcnkiOiJ5b2d1cnQifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA5MzAyMjM4MTIxMDU0NzM4ODkiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyNTMxOTE1NjkyNTkxOTI3MTE4IiwiaW1hZ2VEb2NpZCI6IjgyODcyMzYxMzkzNDY2MDIwMTEiLCJyZHMiOiJQQ185MjM3ODIwMzk4NTYwMTI4NzIxfFBST0RfUENfOTIzNzgyMDM5ODU2MDEyODcyMSIsInF1ZXJ5IjoieW9ndXJ0In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA5MzAyMjM4MTIxMDU0NzM4ODkiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyNTMxOTE1NjkyNTkxOTI3MTE4IiwiaW1hZ2VEb2NpZCI6IjgyODcyMzYxMzkzNDY2MDIwMTEiLCJyZHMiOiJQQ185MjM3ODIwMzk4NTYwMTI4NzIxfFBST0RfUENfOTIzNzgyMDM5ODU2MDEyODcyMSIsInF1ZXJ5IjoieW9ndXJ0In0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODY0NDA1NjA4OTU3NTMxOTU4NyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjg0NjE4MzgyODMwMTEzNzczIiwiaW1hZ2VEb2NpZCI6Ijk1NjM0OTQ3NDUyMzI5MDcwNjMiLCJyZHMiOiJQQ18xMTEwMTY0NzE5Nzc1Mzc4MTA4fFBST0RfUENfMTExMDE2NDcxOTc3NTM3ODEwOCIsInF1ZXJ5IjoieW9ndXJ0In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODY0NDA1NjA4OTU3NTMxOTU4NyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjg0NjE4MzgyODMwMTEzNzczIiwiaW1hZ2VEb2NpZCI6Ijk1NjM0OTQ3NDUyMzI5MDcwNjMiLCJyZHMiOiJQQ18xMTEwMTY0NzE5Nzc1Mzc4MTA4fFBST0RfUENfMTExMDE2NDcxOTc3NTM3ODEwOCIsInF1ZXJ5IjoieW9ndXJ0In0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTc4OTg2NzYzMDkwNDA2Nzc5NCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjE5OTU3MDEwMzE3Mzk5OTA4MiIsImltYWdlRG9jaWQiOiIxNjIyMTg5NTk2NjY5NTEyMDM0NiIsInJkcyI6IiIsInF1ZXJ5IjoieW9ndXJ0In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTc4OTg2NzYzMDkwNDA2Nzc5NCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjE5OTU3MDEwMzE3Mzk5OTA4MiIsImltYWdlRG9jaWQiOiIxNjIyMTg5NTk2NjY5NTEyMDM0NiIsInJkcyI6IiIsInF1ZXJ5IjoieW9ndXJ0In0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUwNDkxMDUxOTI1Nzg5NTk3MDYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMjk2NTA2MzE3MTA4NTE0NzM1IiwiaW1hZ2VEb2NpZCI6IjE3NDE0MzEzNDY3MTk0NTYxNTg3IiwicmRzIjoiIiwicXVlcnkiOiJ5b2d1cnQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUwNDkxMDUxOTI1Nzg5NTk3MDYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMjk2NTA2MzE3MTA4NTE0NzM1IiwiaW1hZ2VEb2NpZCI6IjE3NDE0MzEzNDY3MTk0NTYxNTg3IiwicmRzIjoiIiwicXVlcnkiOiJ5b2d1cnQifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTc1NDQ1NTU3NDkwMDI3MzE3MCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjIzNDQxOTYzMTQwMjQ5OTg1NCIsImltYWdlRG9jaWQiOiIzMzY1NDQxMzE0MDg3OTU0ODMyIiwicmRzIjoiUENfMTAxMDY5NzQzMzc4NjQ4NTM3NTV8UFJPRF9QQ18xMDEwNjk3NDMzNzg2NDg1Mzc1NSIsInF1ZXJ5IjoieW9ndXJ0In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTc1NDQ1NTU3NDkwMDI3MzE3MCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjIzNDQxOTYzMTQwMjQ5OTg1NCIsImltYWdlRG9jaWQiOiIzMzY1NDQxMzE0MDg3OTU0ODMyIiwicmRzIjoiUENfMTAxMDY5NzQzMzc4NjQ4NTM3NTV8UFJPRF9QQ18xMDEwNjk3NDMzNzg2NDg1Mzc1NSIsInF1ZXJ5IjoieW9ndXJ0In0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ5MjQ0MzY3MTI4Nzg4NTIxNjEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijc2MDAyMTQ4MjIzMDA1OTY5NTgiLCJpbWFnZURvY2lkIjoiMzA3NzIzODgwMDUwOTQwMTE3MCIsInJkcyI6IiIsInF1ZXJ5IjoieW9ndXJ0In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ5MjQ0MzY3MTI4Nzg4NTIxNjEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijc2MDAyMTQ4MjIzMDA1OTY5NTgiLCJpbWFnZURvY2lkIjoiMzA3NzIzODgwMDUwOTQwMTE3MCIsInJkcyI6IiIsInF1ZXJ5IjoieW9ndXJ0In0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDk3MjkzMzIwNTM5MjA2NDIwNCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTA1MTgxMDAwNzUzMTg4NDkzMCIsImltYWdlRG9jaWQiOiIxMTI2MDk2ODE4NjE2NjgzMDM5MyIsInJkcyI6IlBDXzE0MzM2ODQ0NjY4Njc3MzMzODY1fFBST0RfUENfMTQzMzY4NDQ2Njg2NzczMzM4NjUiLCJxdWVyeSI6InlvZ3VydCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDk3MjkzMzIwNTM5MjA2NDIwNCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTA1MTgxMDAwNzUzMTg4NDkzMCIsImltYWdlRG9jaWQiOiIxMTI2MDk2ODE4NjE2NjgzMDM5MyIsInJkcyI6IlBDXzE0MzM2ODQ0NjY4Njc3MzMzODY1fFBST0RfUENfMTQzMzY4NDQ2Njg2NzczMzM4NjUiLCJxdWVyeSI6InlvZ3VydCJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTcyOTUxMTkwNDI0Njk5MTMwODYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMDQ2NTc1MzE4NzE4NDg4NzE0IiwiaW1hZ2VEb2NpZCI6IjM0NjkxNTk5MTc0NjY2OTIzODYiLCJyZHMiOiJQUk9EX1ZBUl83NDYzNDgzOTg2ODExODIzNzczfFZBUl83NDYzNDgzOTg2ODExODIzNzczIiwicXVlcnkiOiJ5b2d1cnQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTcyOTUxMTkwNDI0Njk5MTMwODYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMDQ2NTc1MzE4NzE4NDg4NzE0IiwiaW1hZ2VEb2NpZCI6IjM0NjkxNTk5MTc0NjY2OTIzODYiLCJyZHMiOiJQUk9EX1ZBUl83NDYzNDgzOTg2ODExODIzNzczfFZBUl83NDYzNDgzOTg2ODExODIzNzczIiwicXVlcnkiOiJ5b2d1cnQifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiMzI0MTMyNzQ1MzgxODQ1MDE0IiwiY2F0YWxvZ2lkIjoiIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjQxMzI3NDUzODE4NDUwMTQiLCJpbWFnZURvY2lkIjoiMTIzMjkwMjg0MTIzMjcyNTI4NzUiLCJyZHMiOiJQQ183NzY2MTIwOTM3MDgyNzIzNjYxfFBST0RfUENfNzc2NjEyMDkzNzA4MjcyMzY2MSIsInF1ZXJ5IjoieW9ndXJ0In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiMzI0MTMyNzQ1MzgxODQ1MDE0IiwiY2F0YWxvZ2lkIjoiIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjQxMzI3NDUzODE4NDUwMTQiLCJpbWFnZURvY2lkIjoiMTIzMjkwMjg0MTIzMjcyNTI4NzUiLCJyZHMiOiJQQ183NzY2MTIwOTM3MDgyNzIzNjYxfFBST0RfUENfNzc2NjEyMDkzNzA4MjcyMzY2MSIsInF1ZXJ5IjoieW9ndXJ0In0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjE1NjkyODU0ODI1NzM1NTY2IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDI0MDE3MzA1NjAwMDEwMzYiLCJpbWFnZURvY2lkIjoiMTQwODQwODA5Mjk3NTI2Njg5MjUiLCJyZHMiOiJQQ181OTA2MzQ3MTExMzE0NTM2Mjg3fFBST0RfUENfNTkwNjM0NzExMTMxNDUzNjI4NyIsInF1ZXJ5IjoieW9ndXJ0In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjE1NjkyODU0ODI1NzM1NTY2IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDI0MDE3MzA1NjAwMDEwMzYiLCJpbWFnZURvY2lkIjoiMTQwODQwODA5Mjk3NTI2Njg5MjUiLCJyZHMiOiJQQ181OTA2MzQ3MTExMzE0NTM2Mjg3fFBST0RfUENfNTkwNjM0NzExMTMxNDUzNjI4NyIsInF1ZXJ5IjoieW9ndXJ0In0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUyOTk4MTU0MjU1Mzk4Mzg3NjQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk0MjkyMjU5ODU3MjU2MzY2OTQiLCJpbWFnZURvY2lkIjoiMTY3NjA5NjI3OTIyNDU4NTY0MzAiLCJyZHMiOiJQQ18xNzg4MDMyNDQwMjMxNjUxNzYyN3xQUk9EX1BDXzE3ODgwMzI0NDAyMzE2NTE3NjI3IiwicXVlcnkiOiJ5b2d1cnQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUyOTk4MTU0MjU1Mzk4Mzg3NjQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk0MjkyMjU5ODU3MjU2MzY2OTQiLCJpbWFnZURvY2lkIjoiMTY3NjA5NjI3OTIyNDU4NTY0MzAiLCJyZHMiOiJQQ18xNzg4MDMyNDQwMjMxNjUxNzYyN3xQUk9EX1BDXzE3ODgwMzI0NDAyMzE2NTE3NjI3IiwicXVlcnkiOiJ5b2d1cnQifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU5MjcwMTMzMDM5OTEzODIwNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTM4MTY3OTU0MzkwMTc4MzA5MCIsImltYWdlRG9jaWQiOiI5OTg4OTI3NDMxNjk3NjA4MzgwIiwicmRzIjoiIiwicXVlcnkiOiJ5b2d1cnQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU5MjcwMTMzMDM5OTEzODIwNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTM4MTY3OTU0MzkwMTc4MzA5MCIsImltYWdlRG9jaWQiOiI5OTg4OTI3NDMxNjk3NjA4MzgwIiwicmRzIjoiIiwicXVlcnkiOiJ5b2d1cnQifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA3MzU2MDkzMzk0NDUyODU4OTMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk1OTY2MzQyNTkyMDI2NTk1NjgiLCJpbWFnZURvY2lkIjoiMTEzOTk2MDUyMzU1OTM5NzU5MjAiLCJyZHMiOiIiLCJxdWVyeSI6InlvZ3VydCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA3MzU2MDkzMzk0NDUyODU4OTMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk1OTY2MzQyNTkyMDI2NTk1NjgiLCJpbWFnZURvY2lkIjoiMTEzOTk2MDUyMzU1OTM5NzU5MjAiLCJyZHMiOiIiLCJxdWVyeSI6InlvZ3VydCJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODA0OTY4Nzc1OTI5NTMyNTU3MCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzM2Mzg4Nzk4NjI5MTMwMzQyMyIsImltYWdlRG9jaWQiOiIxMzU3OTI5MDQ5OTAzNDA0MTk3NSIsInJkcyI6IlBDXzg5Mjg2MDU3NTk3Njc5MzAxMDN8UFJPRF9QQ184OTI4NjA1NzU5NzY3OTMwMTAzIiwicXVlcnkiOiJ5b2d1cnQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODA0OTY4Nzc1OTI5NTMyNTU3MCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzM2Mzg4Nzk4NjI5MTMwMzQyMyIsImltYWdlRG9jaWQiOiIxMzU3OTI5MDQ5OTAzNDA0MTk3NSIsInJkcyI6IlBDXzg5Mjg2MDU3NTk3Njc5MzAxMDN8UFJPRF9QQ184OTI4NjA1NzU5NzY3OTMwMTAzIiwicXVlcnkiOiJ5b2d1cnQifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODMyNDgyMDIxNTU1NTA3NDgwMSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTU0ODQyNDIyNzQ5MDIyMzA2MjkiLCJpbWFnZURvY2lkIjoiMTc5OTM1NDMwODg2Mzk5NTM5MTAiLCJyZHMiOiJQQ18zOTU4MTIwODM5NjMwMTgzNjg3fFBST0RfUENfMzk1ODEyMDgzOTYzMDE4MzY4NyIsInF1ZXJ5IjoieW9ndXJ0In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODMyNDgyMDIxNTU1NTA3NDgwMSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTU0ODQyNDIyNzQ5MDIyMzA2MjkiLCJpbWFnZURvY2lkIjoiMTc5OTM1NDMwODg2Mzk5NTM5MTAiLCJyZHMiOiJQQ18zOTU4MTIwODM5NjMwMTgzNjg3fFBST0RfUENfMzk1ODEyMDgzOTYzMDE4MzY4NyIsInF1ZXJ5IjoieW9ndXJ0In0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTAzNzU5MDU0ODI1NDE1NjM4ODciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1MzMwNjc5ODIwMTY2NzIxNzkxIiwiaW1hZ2VEb2NpZCI6IjE2NDQzMTU2NjUwNDE4MTk1OTY4IiwicmRzIjoiUENfMTExODg1NjkwOTczNjMwMzQzN3xQUk9EX1BDXzExMTg4NTY5MDk3MzYzMDM0MzciLCJxdWVyeSI6InlvZ3VydCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTAzNzU5MDU0ODI1NDE1NjM4ODciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1MzMwNjc5ODIwMTY2NzIxNzkxIiwiaW1hZ2VEb2NpZCI6IjE2NDQzMTU2NjUwNDE4MTk1OTY4IiwicmRzIjoiUENfMTExODg1NjkwOTczNjMwMzQzN3xQUk9EX1BDXzExMTg4NTY5MDk3MzYzMDM0MzciLCJxdWVyeSI6InlvZ3VydCJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA4NTcwMzMwNDI3NTQ0OTYyMjkiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1MDYzOTE1MjUzMzY1NzQ4MDQiLCJpbWFnZURvY2lkIjoiNDI2NjQ5NjgwOTgyNDc3NjY1OSIsInJkcyI6IlBDXzY3OTYxODY1OTMxODY1MjQxMzN8UFJPRF9QQ182Nzk2MTg2NTkzMTg2NTI0MTMzIiwicXVlcnkiOiJ5b2d1cnQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA4NTcwMzMwNDI3NTQ0OTYyMjkiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1MDYzOTE1MjUzMzY1NzQ4MDQiLCJpbWFnZURvY2lkIjoiNDI2NjQ5NjgwOTgyNDc3NjY1OSIsInJkcyI6IlBDXzY3OTYxODY1OTMxODY1MjQxMzN8UFJPRF9QQ182Nzk2MTg2NTkzMTg2NTI0MTMzIiwicXVlcnkiOiJ5b2d1cnQifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjYzOTAzODQwODI0MjE0NTEyIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDcwNzA3NjQxMDgyMzEwODY3IiwiaW1hZ2VEb2NpZCI6IjE0NDAzNTM0Nzc1MjY5MTUwMTMiLCJyZHMiOiJQQ18xNzc0Mjk5OTc4ODQ3MDkzMjI5MnxQUk9EX1BDXzE3NzQyOTk5Nzg4NDcwOTMyMjkyIiwicXVlcnkiOiJ5b2d1cnQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjYzOTAzODQwODI0MjE0NTEyIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDcwNzA3NjQxMDgyMzEwODY3IiwiaW1hZ2VEb2NpZCI6IjE0NDAzNTM0Nzc1MjY5MTUwMTMiLCJyZHMiOiJQQ18xNzc0Mjk5OTc4ODQ3MDkzMjI5MnxQUk9EX1BDXzE3NzQyOTk5Nzg4NDcwOTMyMjkyIiwicXVlcnkiOiJ5b2d1cnQifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU3NTQ3OTY0ODQxNTMwNDIxNzUiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjIzNTU2MTg3NzcyMjIyOTEwNSIsImltYWdlRG9jaWQiOiI0NjUzODYyMDI2Mzc4NjI0MzAwIiwicmRzIjoiUENfNjc0NTUzODg3MzEyNTQ2OTE2OXxQUk9EX1BDXzY3NDU1Mzg4NzMxMjU0NjkxNjkiLCJxdWVyeSI6InlvZ3VydCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU3NTQ3OTY0ODQxNTMwNDIxNzUiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjIzNTU2MTg3NzcyMjIyOTEwNSIsImltYWdlRG9jaWQiOiI0NjUzODYyMDI2Mzc4NjI0MzAwIiwicmRzIjoiUENfNjc0NTUzODg3MzEyNTQ2OTE2OXxQUk9EX1BDXzY3NDU1Mzg4NzMxMjU0NjkxNjkiLCJxdWVyeSI6InlvZ3VydCJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzUzMjYwNzE0NTMzNjYxNzM1MSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc5MTkyOTc3NTAzMDQwNjY3NzEiLCJpbWFnZURvY2lkIjoiMTMwMjEyOTc4ODgwNzAyNzYyMjMiLCJyZHMiOiJQQ18xNTkwMjg4Nzk0NTc2ODM2NDM3MHxQUk9EX1BDXzE1OTAyODg3OTQ1NzY4MzY0MzcwIiwicXVlcnkiOiJ5b2d1cnQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzUzMjYwNzE0NTMzNjYxNzM1MSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc5MTkyOTc3NTAzMDQwNjY3NzEiLCJpbWFnZURvY2lkIjoiMTMwMjEyOTc4ODgwNzAyNzYyMjMiLCJyZHMiOiJQQ18xNTkwMjg4Nzk0NTc2ODM2NDM3MHxQUk9EX1BDXzE1OTAyODg3OTQ1NzY4MzY0MzcwIiwicXVlcnkiOiJ5b2d1cnQifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTk1MDI5NzkyNzEwNjk1NTMwMSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc1NjEwMTk1Mjk0NjcyMjMyNDYiLCJpbWFnZURvY2lkIjoiMzY3ODI5NDA0NjEwNDI5MDUxOSIsInJkcyI6IlBDXzEzMTUyMjE3MzM3NTM3MzU5MDY0fFBST0RfUENfMTMxNTIyMTczMzc1MzczNTkwNjQiLCJxdWVyeSI6InlvZ3VydCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTk1MDI5NzkyNzEwNjk1NTMwMSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc1NjEwMTk1Mjk0NjcyMjMyNDYiLCJpbWFnZURvY2lkIjoiMzY3ODI5NDA0NjEwNDI5MDUxOSIsInJkcyI6IlBDXzEzMTUyMjE3MzM3NTM3MzU5MDY0fFBST0RfUENfMTMxNTIyMTczMzc1MzczNTkwNjQiLCJxdWVyeSI6InlvZ3VydCJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc3MTU2NjY2MDY0ODQ2ODYzNjUiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM5MzU3MTIzMzEwMDgxMjgyNDciLCJpbWFnZURvY2lkIjoiMTY3Njg3MTk1NDE5NDIxNjcwOTUiLCJyZHMiOiJQQ18xNTY1NjQ2Njk5NTM5MTI5MTI3OXxQUk9EX1BDXzE1NjU2NDY2OTk1MzkxMjkxMjc5IiwicXVlcnkiOiJ5b2d1cnQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc3MTU2NjY2MDY0ODQ2ODYzNjUiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM5MzU3MTIzMzEwMDgxMjgyNDciLCJpbWFnZURvY2lkIjoiMTY3Njg3MTk1NDE5NDIxNjcwOTUiLCJyZHMiOiJQQ18xNTY1NjQ2Njk5NTM5MTI5MTI3OXxQUk9EX1BDXzE1NjU2NDY2OTk1MzkxMjkxMjc5IiwicXVlcnkiOiJ5b2d1cnQifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTA3MzY5NDI2MDIyMzc5MzY3MyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQ2OTY4ODY0ODg2NTI2NzA4NzUiLCJpbWFnZURvY2lkIjoiODc5NjY0NzYwNjI3MzE5ODU1IiwicmRzIjoiQ0lEXzUwNzM2OTQyNjAyMjM3OTM2NzN8UFJPRF9DSURfNTA3MzY5NDI2MDIyMzc5MzY3MyIsInF1ZXJ5IjoieW9ndXJ0In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTA3MzY5NDI2MDIyMzc5MzY3MyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQ2OTY4ODY0ODg2NTI2NzA4NzUiLCJpbWFnZURvY2lkIjoiODc5NjY0NzYwNjI3MzE5ODU1IiwicmRzIjoiQ0lEXzUwNzM2OTQyNjAyMjM3OTM2NzN8UFJPRF9DSURfNTA3MzY5NDI2MDIyMzc5MzY3MyIsInF1ZXJ5IjoieW9ndXJ0In0%3D"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How healthy is yogurt for you?",
+      "snippet": "Yogurts can be high in protein, calcium, vitamins, and live culture, or probiotics, which can enhance the gut microbiota. These can offer protection for bones and teeth and help prevent digestive problems. Low-fat yogurt can be a useful source of protein on a weight-loss diet.",
+      "title": "Yogurt: Types, health benefits, and risks - MedicalNewsToday",
+      "link": "https://www.medicalnewstoday.com/articles/295714#:~:text=Yogurts%20can%20be%20high%20in,on%20a%20weight%2Dloss%20diet.",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVpsaFdjRXRyYUMxTWVYbHFNMVJxUW1wMGNXUmZWRkJLZWpKbWFqQkVYelppU1VzMVRrdHRaRE5YZFU1ZlMyVktSRXB0YkhWNlR6azFSRzFWWTFGUlUyY3dSSHBVRWhjMFVsbExXalp1UmtVNGNURjNUalJRWnpacWJIbFJTUm9pUVVaWWNrVmpjVVpqWkZsbGFGSnNTR1p1VkdKb2MzcE5Uemh3V0Zodk4yNTBkdyIsImZjdiI6IjMiLCJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicWMiOiJDZ1o1YjJkMWNuUVFBSDFiLWl3XyIsInF1ZXN0aW9uIjoiSG93IGhlYWx0aHkgaXMgeW9ndXJ0IGZvciB5b3U/IiwibGsiOiJHaDFvYjNjZ2FHVmhiSFJvZVNCcGN5QjViMmQxY25RZ1ptOXlJSGx2ZFEiLCJicyI6ImMtTnk0Wkx6eUM5WHlFaE56Q25KcUZUSUxGYW96RTh2TFNwUlNNc3ZBakpMN1NXV0p4ckpTOGxtNEZQRTVjR2w0Rm1za0ZtaVVGeVFtcE9UbWdLVEIwdW5ad0NaOWhMVFhJMFVwZVF6OFN2anN1R1NjazdNVV9CVVNFMHNnVW1ubHFVV1ZhWWtWdHBMekpVemtwYVNUQVlxeU1TbWdNdVZTeTQ4QXlnT3RLVWtJeFhxNE16VVlwaEtlNGxEQmtZS1VuTGxPQldCSENIQUNBQSIsImlkIjoiZmNfNFJZS1o2bkZFOHExd040UGc2amx5UUlfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVpsaFdjRXRyYUMxTWVYbHFNMVJxUW1wMGNXUmZWRkJLZWpKbWFqQkVYelppU1VzMVRrdHRaRE5YZFU1ZlMyVktSRXB0YkhWNlR6azFSRzFWWTFGUlUyY3dSSHBVRWhjMFVsbExXalp1UmtVNGNURjNUalJRWnpacWJIbFJTUm9pUVVaWWNrVmpjVVpqWkZsbGFGSnNTR1p1VkdKb2MzcE5Uemh3V0Zodk4yNTBkdyIsImZjdiI6IjMiLCJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicWMiOiJDZ1o1YjJkMWNuUVFBSDFiLWl3XyIsInF1ZXN0aW9uIjoiSG93IGhlYWx0aHkgaXMgeW9ndXJ0IGZvciB5b3U%2FIiwibGsiOiJHaDFvYjNjZ2FHVmhiSFJvZVNCcGN5QjViMmQxY25RZ1ptOXlJSGx2ZFEiLCJicyI6ImMtTnk0Wkx6eUM5WHlFaE56Q25KcUZUSUxGYW96RTh2TFNwUlNNc3ZBakpMN1NXV0p4ckpTOGxtNEZQRTVjR2w0Rm1za0ZtaVVGeVFtcE9UbWdLVEIwdW5ad0NaOWhMVFhJMFVwZVF6OFN2anN1R1NjazdNVV9CVVNFMHNnVW1ubHFVV1ZhWWtWdHBMekpVemtwYVNUQVlxeU1TbWdNdVZTeTQ4QXlnT3RLVWtJeFhxNE16VVlwaEtlNGxEQmtZS1VuTGxPQldCSENIQUNBQSIsImlkIjoiZmNfNFJZS1o2bkZFOHExd040UGc2amx5UUlfMyJ9"
+    },
+    {
+      "question": "Is it spelled yogurt or yoghurt?",
+      "snippet": "In English, spelling variations include yogurt, yoghurt, and to a lesser extent yoghourt or yogourt. In the United Kingdom, Australia, New Zealand and South Africa the word is usually spelled yoghurt, while in the United States the spelling is yogurt.",
+      "title": "Yogurt - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Yogurt#:~:text=In%20English%2C%20spelling%20variations%20include,States%20the%20spelling%20is%20yogurt.",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVpsaFdjRXRyYUMxTWVYbHFNMVJxUW1wMGNXUmZWRkJLZWpKbWFqQkVYelppU1VzMVRrdHRaRE5YZFU1ZlMyVktSRXB0YkhWNlR6azFSRzFWWTFGUlUyY3dSSHBVRWhjMFVsbExXalp1UmtVNGNURjNUalJRWnpacWJIbFJTUm9pUVVaWWNrVmpjVVpqWkZsbGFGSnNTR1p1VkdKb2MzcE5Uemh3V0Zodk4yNTBkdyIsImZjdiI6IjMiLCJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicWMiOiJDZ1o1YjJkMWNuUVFBSDFiLWl3XyIsInF1ZXN0aW9uIjoiSXMgaXQgc3BlbGxlZCB5b2d1cnQgb3IgeW9naHVydD8iLCJsayI6ImM1T1N6eXhXeUN4UktDNUl6Y2xKVFZHb3pFOHZMU3BSeUM4Q3NUS0FUQUEiLCJicyI6ImMtTnk0Wkx6eUM5WHlFaE56Q25KcUZUSUxGYW96RTh2TFNwUlNNc3ZBakpMN1NXV0p4ckpTOGxtNEZQRTVjR2w0Rm1za0ZtaVVGeVFtcE9UbWdLVEIwdW5ad0NaOWhMVFhJMFVwZVF6OFN2anN1R1NjazdNVV9CVVNFMHNnVW1ubHFVV1ZhWWtWdHBMekpVemtwYVNUQVlxeU1TbWdNdVZTeTQ4QXlnT3RLVWtJeFhxNE16VVlwaEtlNGxEQmtZS1VuTGxPQldCSENIQUNBQSIsImlkIjoiZmNfNFJZS1o2bkZFOHExd040UGc2amx5UUlfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVpsaFdjRXRyYUMxTWVYbHFNMVJxUW1wMGNXUmZWRkJLZWpKbWFqQkVYelppU1VzMVRrdHRaRE5YZFU1ZlMyVktSRXB0YkhWNlR6azFSRzFWWTFGUlUyY3dSSHBVRWhjMFVsbExXalp1UmtVNGNURjNUalJRWnpacWJIbFJTUm9pUVVaWWNrVmpjVVpqWkZsbGFGSnNTR1p1VkdKb2MzcE5Uemh3V0Zodk4yNTBkdyIsImZjdiI6IjMiLCJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicWMiOiJDZ1o1YjJkMWNuUVFBSDFiLWl3XyIsInF1ZXN0aW9uIjoiSXMgaXQgc3BlbGxlZCB5b2d1cnQgb3IgeW9naHVydD8iLCJsayI6ImM1T1N6eXhXeUN4UktDNUl6Y2xKVFZHb3pFOHZMU3BSeUM4Q3NUS0FUQUEiLCJicyI6ImMtTnk0Wkx6eUM5WHlFaE56Q25KcUZUSUxGYW96RTh2TFNwUlNNc3ZBakpMN1NXV0p4ckpTOGxtNEZQRTVjR2w0Rm1za0ZtaVVGeVFtcE9UbWdLVEIwdW5ad0NaOWhMVFhJMFVwZVF6OFN2anN1R1NjazdNVV9CVVNFMHNnVW1ubHFVV1ZhWWtWdHBMekpVemtwYVNUQVlxeU1TbWdNdVZTeTQ4QXlnT3RLVWtJeFhxNE16VVlwaEtlNGxEQmtZS1VuTGxPQldCSENIQUNBQSIsImlkIjoiZmNfNFJZS1o2bkZFOHExd040UGc2amx5UUlfMyJ9"
+    },
+    {
+      "question": "Can I eat yogurt everyday?",
+      "snippet": "Consuming one to two cups of low-fat Greek yogurt daily can be a healthy addition to your diet without making it difficult to maintain your weight.",
+      "title": "Health Benefits of Greek Yogurt - WebMD",
+      "date": "Jul 25, 2023",
+      "link": "https://www.webmd.com/diet/health-benefits-greek-yogurt#:~:text=Consuming%20one%20to%20two%20cups,difficult%20to%20maintain%20your%20weight.",
+      "source_logo": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/369bc8578285038cd0896f835c50525d8f44408a6d7902babcf11ad86f095894.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVpsaFdjRXRyYUMxTWVYbHFNMVJxUW1wMGNXUmZWRkJLZWpKbWFqQkVYelppU1VzMVRrdHRaRE5YZFU1ZlMyVktSRXB0YkhWNlR6azFSRzFWWTFGUlUyY3dSSHBVRWhjMFVsbExXalp1UmtVNGNURjNUalJRWnpacWJIbFJTUm9pUVVaWWNrVmpjVVpqWkZsbGFGSnNTR1p1VkdKb2MzcE5Uemh3V0Zodk4yNTBkdyIsImZjdiI6IjMiLCJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicWMiOiJDZ1o1YjJkMWNuUVFBSDFiLWl3XyIsInF1ZXN0aW9uIjoiQ2FuIEkgZWF0IHlvZ3VydCBldmVyeWRheT8iLCJsayI6IkdobGpZVzRnYVNCbFlYUWdlVzluZFhKMElHVjJaWEo1WkdGNSIsImJzIjoiYy1OeTRaTHp5QzlYeUVoTnpDbkpxRlRJTEZhb3pFOHZMU3BSU01zdkFqSkw3U1dXSnhySlM4bG00RlBFNWNHbDRGbXNrRm1pVUZ5UW1wT1RtZ0tUQjB1blp3Q1o5aExUWEkwVXBlUXo4U3Zqc3VHU2NrN01VX0JVU0Uwc2dVbW5scVVXVmFZa1Z0cEx6SlV6a3BhU1RBWXF5TVNtZ011VlN5NDhBeWdPdEtVa0l4WHE0TXpVWXBoS2U0bERCa1lLVW5MbE9CV0JIQ0hBQ0FBIiwiaWQiOiJmY180UllLWjZuRkU4cTF3TjRQZzZqbHlRSV8zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVpsaFdjRXRyYUMxTWVYbHFNMVJxUW1wMGNXUmZWRkJLZWpKbWFqQkVYelppU1VzMVRrdHRaRE5YZFU1ZlMyVktSRXB0YkhWNlR6azFSRzFWWTFGUlUyY3dSSHBVRWhjMFVsbExXalp1UmtVNGNURjNUalJRWnpacWJIbFJTUm9pUVVaWWNrVmpjVVpqWkZsbGFGSnNTR1p1VkdKb2MzcE5Uemh3V0Zodk4yNTBkdyIsImZjdiI6IjMiLCJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicWMiOiJDZ1o1YjJkMWNuUVFBSDFiLWl3XyIsInF1ZXN0aW9uIjoiQ2FuIEkgZWF0IHlvZ3VydCBldmVyeWRheT8iLCJsayI6IkdobGpZVzRnYVNCbFlYUWdlVzluZFhKMElHVjJaWEo1WkdGNSIsImJzIjoiYy1OeTRaTHp5QzlYeUVoTnpDbkpxRlRJTEZhb3pFOHZMU3BSU01zdkFqSkw3U1dXSnhySlM4bG00RlBFNWNHbDRGbXNrRm1pVUZ5UW1wT1RtZ0tUQjB1blp3Q1o5aExUWEkwVXBlUXo4U3Zqc3VHU2NrN01VX0JVU0Uwc2dVbW5scVVXVmFZa1Z0cEx6SlV6a3BhU1RBWXF5TVNtZ011VlN5NDhBeWdPdEtVa0l4WHE0TXpVWXBoS2U0bERCa1lLVW5MbE9CV0JIQ0hBQ0FBIiwiaWQiOiJmY180UllLWjZuRkU4cTF3TjRQZzZqbHlRSV8zIn0%3D"
+    },
+    {
+      "question": "What is the healthiest yogurt?",
+      "snippet": "Greek yoghurt is generally considered to be highly nutritious, helped in part by its association with the heart-healthy Mediterranean diet. Traditionally it was made by straining out the liquid whey, which concentrated its protein (and therefore its overall nutrient) content.",
+      "title": "Greek yoghurt",
+      "link": "https://www.choice.com.au/food-and-drink/dairy/yoghurt-and-ice-cream/articles/how-to-choose-a-healthy-yoghurt#:~:text=Greek%20yoghurt%20is%20generally%20considered,therefore%20its%20overall%20nutrient)%20content.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVYnKY6-hVmbEStevb7IG5DdOqcZvGnvz4eEPcDRHJ&s",
+      "source_logo": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/369bc8578285038cd0896f835c50525d68c7930686dc49e3f2ff7092cb973847.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVpsaFdjRXRyYUMxTWVYbHFNMVJxUW1wMGNXUmZWRkJLZWpKbWFqQkVYelppU1VzMVRrdHRaRE5YZFU1ZlMyVktSRXB0YkhWNlR6azFSRzFWWTFGUlUyY3dSSHBVRWhjMFVsbExXalp1UmtVNGNURjNUalJRWnpacWJIbFJTUm9pUVVaWWNrVmpjVVpqWkZsbGFGSnNTR1p1VkdKb2MzcE5Uemh3V0Zodk4yNTBkdyIsImZjdiI6IjMiLCJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicWMiOiJDZ1o1YjJkMWNuUVFBSDFiLWl3XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgaGVhbHRoaWVzdCB5b2d1cnQ/IiwibGsiOiJHaDUzYUdGMElHbHpJSFJvWlNCb1pXRnNkR2hwWlhOMElIbHZaMmgxY25RIiwiYnMiOiJjLU55NFpMenlDOVh5RWhOekNuSnFGVElMRmFvekU4dkxTcFJTTXN2QWpKTDdTV1dKeHJKUzhsbTRGUEU1Y0dsNEZtc2tGbWlVRnlRbXBPVG1nS1RCMHVuWndDWjloTFRYSTBVcGVRejhTdmpzdUdTY2s3TVVfQlVTRTBzZ1VtbmxxVVdWYVlrVnRwTHpKVXprcGFTVEFZcXlNU21nTXVWU3k0OEF5Z090S1VrSXhYcTRNelVZcGhLZTRsREJrWUtVbkxsT0JXQkhDSEFDQUEiLCJpZCI6ImZjXzRSWUtaNm5GRThxMXdONFBnNmpseVFJXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVpsaFdjRXRyYUMxTWVYbHFNMVJxUW1wMGNXUmZWRkJLZWpKbWFqQkVYelppU1VzMVRrdHRaRE5YZFU1ZlMyVktSRXB0YkhWNlR6azFSRzFWWTFGUlUyY3dSSHBVRWhjMFVsbExXalp1UmtVNGNURjNUalJRWnpacWJIbFJTUm9pUVVaWWNrVmpjVVpqWkZsbGFGSnNTR1p1VkdKb2MzcE5Uemh3V0Zodk4yNTBkdyIsImZjdiI6IjMiLCJlaSI6IjRSWUtaNm5GRThxMXdONFBnNmpseVFJIiwicWMiOiJDZ1o1YjJkMWNuUVFBSDFiLWl3XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgaGVhbHRoaWVzdCB5b2d1cnQ%2FIiwibGsiOiJHaDUzYUdGMElHbHpJSFJvWlNCb1pXRnNkR2hwWlhOMElIbHZaMmgxY25RIiwiYnMiOiJjLU55NFpMenlDOVh5RWhOekNuSnFGVElMRmFvekU4dkxTcFJTTXN2QWpKTDdTV1dKeHJKUzhsbTRGUEU1Y0dsNEZtc2tGbWlVRnlRbXBPVG1nS1RCMHVuWndDWjloTFRYSTBVcGVRejhTdmpzdUdTY2s3TVVfQlVTRTBzZ1VtbmxxVVdWYVlrVnRwTHpKVXprcGFTVEFZcXlNU21nTXVWU3k0OEF5Z090S1VrSXhYcTRNelVZcGhLZTRsREJrWUtVbkxsT0JXQkhDSEFDQUEiLCJpZCI6ImZjXzRSWUtaNm5GRThxMXdONFBnNmpseVFJXzMifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Yogurt",
+      "link": "https://en.wikipedia.org/wiki/Yogurt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Yogurt&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQFnoECGgQAQ",
+      "displayed_link": "https://en.wikipedia.org",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQolnFPOE18w3eznoavzzTWjzZpC7Bwo0xBosCbrGSe7nhh-lG0sILZ&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/2bc05dfbd42dd5e5eca8c65fbeb3bb3f45afd392728620c21d720511498a565b.webp",
+      "snippet": "Yogurt is a food produced by bacterial fermentation of milk. Fermentation of sugars in the milk by these bacteria produces lactic acid, which acts on milk ...",
+      "snippet_highlighted_words": [
+        "Yogurt"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Strained yogurt",
+            "link": "https://en.wikipedia.org/wiki/Strained_yogurt"
+          },
+          {
+            "title": "Yogurt (disambiguation)",
+            "link": "https://en.wikipedia.org/wiki/Yogurt_(disambiguation)"
+          },
+          {
+            "title": "Frozen yogurt",
+            "link": "https://en.wikipedia.org/wiki/Frozen_yogurt"
+          },
+          {
+            "title": "Lactobacillus delbrueckii",
+            "link": "https://en.wikipedia.org/wiki/Lactobacillus_delbrueckii_subsp._bulgaricus"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Yogurt in Dairy & Eggs",
+      "link": "https://www.walmart.com/browse/food/yogurt/976759_9176907_1001470",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.walmart.com/browse/food/yogurt/976759_9176907_1001470&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQFnoECGcQAQ",
+      "displayed_link": "https://www.walmart.com \u203a Food \u203a Dairy & Eggs \u203a Yogurt",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNNo5sL5-7ZW-OeE0fuw4FUOL3IeUbX853gVUBGf_9x6YI7OI4-J6L&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/2bc05dfbd42dd5e5eca8c65fbeb3bb3fbd4df6732783456d91f0df1578e60712.webp",
+      "snippet": "Shop for Yogurt in Dairy & Eggs. Buy products such as Great Value Original Vanilla Lowfat Yogurt, 32 oz at Walmart and save.",
+      "snippet_highlighted_words": [
+        "Yogurt",
+        "Yogurt"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "store_rating_k": 4.5,
+            "price": 1,
+            "currency": "$ to $",
+            "free": 90
+          },
+          "extensions": [
+            "4.5store rating (1.4K)",
+            "\u200e$1 to $6",
+            "\u200eFree 90",
+            "day returns"
+          ]
+        }
+      },
+      "source": "Walmart"
+    },
+    {
+      "position": 3,
+      "title": "Health Benefits of Yogurt: Nutrition, Protein, and Probiotics",
+      "link": "https://www.healthline.com/nutrition/benefits-of-yogurt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.healthline.com/nutrition/benefits-of-yogurt&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQFnoECGQQAQ",
+      "displayed_link": "https://www.healthline.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz5m4_W99d9CxWg2UgT3u5PCAlbZ2NsHQ4549Z9WVTVSECVuePE95p&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/2bc05dfbd42dd5e5eca8c65fbeb3bb3fa24abd837b33a7fbdbe36ac9a4f50b66.webp",
+      "date": "Apr 5, 2022",
+      "snippet": "Yogurt provides almost every nutrient that your body needs. It's especially high in calcium, B vitamins, and trace minerals.",
+      "snippet_highlighted_words": [
+        "Yogurt"
+      ],
+      "source": "Healthline"
+    },
+    {
+      "position": 4,
+      "title": "How To Make Yogurt at Home (Easy Step-by-Step Recipe)",
+      "link": "https://www.thekitchn.com/how-to-make-yogurt-at-home-cooking-lessons-from-the-kitchn-125070",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thekitchn.com/how-to-make-yogurt-at-home-cooking-lessons-from-the-kitchn-125070&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQFnoECE4QAQ",
+      "displayed_link": "https://www.thekitchn.com \u203a Recipes \u203a Homemade Staples",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7pHDjjlyOg23LKHn1mRVmB01yDhDlU2pRlHV7U3RUXgXWzrxL0f-_&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/2bc05dfbd42dd5e5eca8c65fbeb3bb3f4f5c2d94ce0cf97e49bf25f9fe63df60.webp",
+      "snippet": "Thin the yogurt with milk. Scoop out about a cup of warm milk into a bowl. Add the yogurt and whisk until smooth and the yogurt is dissolved in the milk.",
+      "snippet_highlighted_words": [
+        "yogurt",
+        "yogurt",
+        "yogurt"
+      ],
+      "rich_snippet": {
+        "bottom": {}
+      },
+      "source": "The Kitchn"
+    },
+    {
+      "position": 5,
+      "title": "Chobani\u00ae | Yogurt",
+      "link": "https://www.chobani.com/products/yogurt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chobani.com/products/yogurt&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQFnoECEsQAQ",
+      "displayed_link": "https://www.chobani.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStQqjBD87EuCERMAngPrm5Zdagc2u_AupMRqwNQegj-75e7kBlb8-c&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/2bc05dfbd42dd5e5eca8c65fbeb3bb3f6fd6d031cca53518ff90ef3096ca1af5.webp",
+      "snippet": "Chobani\u00ae Less Sugar* Greek Yogurt is a subtly sweet, breakfast or anytime snack that's packed with protein, made with nothing artificial, and has 40% less sugar ...",
+      "snippet_highlighted_words": [
+        "Yogurt"
+      ],
+      "source": "Chobani\u00ae"
+    },
+    {
+      "position": 6,
+      "title": "Yogurt: Types, health benefits, and risks",
+      "link": "https://www.medicalnewstoday.com/articles/295714",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.medicalnewstoday.com/articles/295714&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQFnoECGYQAQ",
+      "displayed_link": "https://www.medicalnewstoday.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYvzaF9B6PRPCZqhjIRv4cBabZDeQiu6t8TPQkdWIcwyt05iSoR3k&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/2bc05dfbd42dd5e5eca8c65fbeb3bb3f89e29a8b97f8ba38eab4a91165f21a7b.webp",
+      "snippet": "Yogurt is packed with nutrients that can include calcium and magnesium, good bacteria, and protein. But not all yogurts are as healthy as each other.",
+      "snippet_highlighted_words": [
+        "Yogurt",
+        "yogurts"
+      ],
+      "source": "MedicalNewsToday"
+    },
+    {
+      "position": 7,
+      "title": "Yogurt",
+      "link": "https://www.target.com/c/yogurt-dairy-grocery/-/N-5xszf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.target.com/c/yogurt-dairy-grocery/-/N-5xszf&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQFnoECGUQAQ",
+      "displayed_link": "https://www.target.com \u203a Grocery \u203a Dairy",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCdeedllhmezyCc9VJTfpU5KuF6VIg77W1es8ikxKIntKtzyoBcJxV&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/2bc05dfbd42dd5e5eca8c65fbeb3bb3fd11102d5141d7707298233dce75860b3.webp",
+      "snippet": "From classic greek yogurt to non milk versions, pick from a wide collection to get something perfect. Milk based recipes, creamy fruity options, sugar free or ...",
+      "snippet_highlighted_words": [
+        "yogurt"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "store_rating": 4.6,
+            "price": 35,
+            "currency": "Free delivery over $",
+            "free": 90
+          },
+          "extensions": [
+            "4.6store rating (766)",
+            "\u200e$2 to $8",
+            "\u200eFree delivery over $35",
+            "\u200eFree 90",
+            "day returns"
+          ]
+        }
+      },
+      "source": "Target"
+    },
+    {
+      "position": 8,
+      "title": "Yogurt - The Nutrition Source - Harvard University",
+      "link": "https://nutritionsource.hsph.harvard.edu/food-features/yogurt/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nutritionsource.hsph.harvard.edu/food-features/yogurt/&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQFnoECEwQAQ",
+      "displayed_link": "https://nutritionsource.hsph.harvard.edu",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEE8JFL7ZLS_xemfv4VyRtq58oTc-fwBjWnr1aFObjJg-7u0cvqCZG&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/2bc05dfbd42dd5e5eca8c65fbeb3bb3f1dfddd784d68b4a7b11c92a9ad21fa53.webp",
+      "snippet": "Yogurt offers several important nutrients including protein and calcium. However, much of the research on yogurt's health benefits centers on its live bacterial ...",
+      "snippet_highlighted_words": [
+        "Yogurt",
+        "yogurt's"
+      ],
+      "source": "Harvard University"
+    },
+    {
+      "position": 9,
+      "title": "How to Make Homemade Yogurt (Easy, Step-by-Step)",
+      "link": "https://downshiftology.com/recipes/how-to-make-homemade-yogurt/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://downshiftology.com/recipes/how-to-make-homemade-yogurt/&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQFnoECFIQAQ",
+      "displayed_link": "https://downshiftology.com \u203a Recipes \u203a Courses \u203a Breakfast",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0D_urhkoIlYlzLEgVLaKSLVKLu1DyCOISUhCK1O7LUXgcs1HAn356&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/2bc05dfbd42dd5e5eca8c65fbeb3bb3f03fb00f5335c12793c060b30a2b7c022.webp",
+      "date": "Aug 6, 2023",
+      "snippet": "There are two main ways to make homemade yogurt \u2013 on the stovetop (and then incubated in the oven or in a cooler) or with a yogurt maker.",
+      "snippet_highlighted_words": [
+        "yogurt",
+        "yogurt"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.7,
+            "min": 30
+          },
+          "extensions": [
+            "4.7(38)",
+            "30 min"
+          ]
+        }
+      },
+      "source": "Downshiftology"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=yogurt&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQjGp6BAgsEAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=yogurt&tbs=lf%3A1%2Clf_ui%3A9&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Yogurt in Hindi",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Yogurt+in+Hindi&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQ1QJ6BQieARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Yogurt+in+Hindi"
+    },
+    {
+      "block_position": 1,
+      "query": "Yogurt or yoghurt",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Yogurt+or+yoghurt&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQ1QJ6BQigARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Yogurt+or+yoghurt"
+    },
+    {
+      "block_position": 1,
+      "query": "Yogurt vs curd",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Yogurt+vs+curd&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQ1QJ6BQifARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Yogurt+vs+curd"
+    },
+    {
+      "block_position": 1,
+      "query": "Yogurt benefits",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Yogurt+benefits&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQ1QJ6BQiiARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Yogurt+benefits"
+    },
+    {
+      "block_position": 1,
+      "query": "Yogurt price",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Yogurt+price&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQ1QJ6BQidARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Yogurt+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Yogurt brands",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Yogurt+brands&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQ1QJ6BQihARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Yogurt+brands"
+    },
+    {
+      "block_position": 1,
+      "query": "Benefits of yogurt sexually",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Benefits+of+yogurt+sexually&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQ1QJ6BQijARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Benefits+of+yogurt+sexually"
+    },
+    {
+      "block_position": 1,
+      "query": "Greek yogurt",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Greek+yogurt&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQ1QJ6BQikARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Greek+yogurt"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Greek",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=greek+yogurt&shoprs=GAEqBnlvZ3VydDIVCAESBUdyZWVrOgoIio86EIuPOjACWMvfH2AB&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQip4GKAF6BAgdEFA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=greek+yogurt"
+    },
+    {
+      "query": "Brand",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=brand+yogurt&shoprs=GBIqBnlvZ3VydDIJCBISBUJyYW5kYAE&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQip4GKAJ6BAgdEFE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brand+yogurt"
+    },
+    {
+      "query": "Strawberry",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=strawberry+yogurt&shoprs=GAEqBnlvZ3VydDIaCAESClN0cmF3YmVycnk6CgjNjzoQ0I86MABYy98fYAE&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQip4GKAN6BAgdEFI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=strawberry+yogurt"
+    },
+    {
+      "query": "Vanilla",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=vanilla+yogurt&shoprs=GAEqBnlvZ3VydDIXCAESB1ZhbmlsbGE6CgjNjzoQzo86MABYy98fYAE&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQip4GKAR6BAgdEFM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=vanilla+yogurt"
+    },
+    {
+      "query": "Plain",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=plain+yogurt&shoprs=GAEqBnlvZ3VydDIXCAESBVBsYWluOgwIqLOPARCqs48BMABYy98fYAE&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQip4GKAV6BAgdEFQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=plain+yogurt"
+    },
+    {
+      "query": "Probiotic",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=probiotic+yogurt&shoprs=GAEqBnlvZ3VydDIZCAESCVByb2Jpb3RpYzoKCMePOhDIjzowA1jL3x9gAQ&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQip4GKAZ6BAgdEFU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=probiotic+yogurt"
+    },
+    {
+      "query": "Chobani",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=chobani+yogurt&shoprs=GAEqBnlvZ3VydDIXCAESB0Nob2Jhbmk6CgiD8zwQqvVIMAFYy98fYAE&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQip4GKAd6BAgdEFY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=chobani+yogurt"
+    },
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=yogurt+nearby&shoprs=GAMqBnlvZ3VydDIMCAMSBk5lYXJieRgCWMvfH2AB&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQip4GKAh6BAgdEFc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=yogurt+nearby"
+    },
+    {
+      "query": "Get it fast",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=yogurt&shoprs=Eg2aAQoKCBADOAFAAkgBGBQqBnlvZ3VydDIkCBQSC0dldCBpdCBmYXN0Ig2aAQoKCBADOAFAAkgBKgQQARgBYAE&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQip4GKAl6BAgdEFg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=yogurt"
+    },
+    {
+      "query": "Flavored",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=flavored+yogurt&shoprs=GAEqBnlvZ3VydDIaCAESCEZsYXZvcmVkOgwIqLOPARCps48BMABYy98fYAE&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQip4GKAp6BAgdEFk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=flavored+yogurt"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=buy+yogurt&shoprs=GBIqBnlvZ3VydDIHCBISA0J1eWAB&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQip4GKAt6BAgdEFo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=buy+yogurt"
+    },
+    {
+      "query": "Yoplait",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=yoplait+yogurt&shoprs=GAEqBnlvZ3VydDIXCAESB1lvcGxhaXQ6CgiD8zwQj8BQMAFYy98fYAE&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQip4GKAx6BAgdEFs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=yoplait+yogurt"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=yogurt+sale&shoprs=EgRKAhgBGAYqBnlvZ3VydDITCAYSB09uIHNhbGUYAiIESgIYAVjL3x9gAQ&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQip4GKA16BAgdEFw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=yogurt+sale"
+    },
+    {
+      "query": "Organic",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=organic+yogurt&shoprs=GAEqBnlvZ3VydDIZCAESB09yZ2FuaWM6DAi--YcBEL_5hwEwA1jL3x9gAQ&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQip4GKA56BAgdEF0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=organic+yogurt"
+    },
+    {
+      "query": "Whole",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=whole+yogurt&shoprs=GAEqBnlvZ3VydDIXCAESBVdob2xlOgwIqruHARCuu4cBMABYy98fYAE&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQip4GKA96BAgdEF4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=whole+yogurt"
+    },
+    {
+      "query": "Dannon",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=dannon+yogurt&shoprs=GAEqBnlvZ3VydDIWCAESBkRhbm5vbjoKCIPzPBCCsUAwAVjL3x9gAQ&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQip4GKBB6BAgdEF8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=dannon+yogurt"
+    },
+    {
+      "query": "Skim",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=skim+yogurt&shoprs=GAEqBnlvZ3VydDIWCAESBFNraW06DAiqu4cBEK27hwEwAFjL3x9gAQ&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQip4GKBF6BAgdEGA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=skim+yogurt"
+    },
+    {
+      "query": "Banana",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=banana+yogurt&shoprs=GAEqBnlvZ3VydDIWCAESBkJhbmFuYToKCM2POhDXjzowAFjL3x9gAQ&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQip4GKBJ6BAgdEGE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=banana+yogurt"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=price+yogurt&shoprs=GBIqBnlvZ3VydDIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQip4GKBN6BAgdEGI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=price+yogurt"
+    },
+    {
+      "query": "Peach",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=peach+yogurt&shoprs=GAEqBnlvZ3VydDIVCAESBVBlYWNoOgoIzY86ENGPOjAAWMvfH2AB&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQip4GKBR6BAgdEGM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=peach+yogurt"
+    },
+    {
+      "query": "Recipe",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=recipe+yogurt&shoprs=GBIqBnlvZ3VydDIKCBISBlJlY2lwZWAB&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQip4GKBV6BAgdEGQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=recipe+yogurt"
+    },
+    {
+      "query": "Kosher",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=kosher+yogurt&shoprs=GAEqBnlvZ3VydDIYCAESBktvc2hlcjoMCPHfhwEQ8t-HATADWMvfH2AB&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQip4GKBZ6BAgdEGU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=kosher+yogurt"
+    },
+    {
+      "query": "Oikos",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=oikos+yogurt&shoprs=GAEqBnlvZ3VydDIVCAESBU9pa29zOgoIg_M8EJWmUzABWMvfH2AB&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQip4GKBd6BAgdEGY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oikos+yogurt"
+    },
+    {
+      "query": "Cultured Dairy Drinks",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=cultured+dairy+drinks+yogurt&shoprs=GAkqBnlvZ3VydDIZCAkSFUN1bHR1cmVkIERhaXJ5IERyaW5rc2AB&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQip4GKBh6BAgdEGc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=cultured+dairy+drinks+yogurt"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "This cup of yogurt is just 60 calories, has 12 grams of protein, no sugar ...",
+      "link": "https://www.reddit.com/r/1500isplenty/comments/1g094bg/this_cup_of_yogurt_is_just_60_calories_has_12/",
+      "date": "2d ago",
+      "extensions": [
+        "r/1500isplenty",
+        "30+ comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "ELI5 Grocery store greek yogurt vs homemade?",
+      "link": "https://www.reddit.com/r/explainlikeimfive/comments/1g1lebf/eli5_grocery_store_greek_yogurt_vs_homemade/",
+      "date": "8h ago",
+      "extensions": [
+        "r/explainlikeimfive",
+        "2 comments"
+      ],
+      "source": "Reddit"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Benefits",
+        "subtitle": "What Is Yogurt Good For?",
+        "title": "Beneficial Effects of Yoghurts and Probiotic Fermented Milks ... - NCBI",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9455928/#:~:text=Yoghurt%20is%20a%20rich%20source,proteins%20and%20essential%20fatty%20acids.",
+        "displayed_link": "https://www.ncbi.nlm.nih.gov",
+        "date": "Sep 3, 2022",
+        "snippet": "Yoghurt is a rich source of calcium, providing significant amounts in a bio-available form. It is also a good source of phosphorus, potassium, vitamin A, vitamin B2, and vitamin B12. It also provides high biological value proteins and essential fatty acids.",
+        "snippet_highlighted_words": [
+          "a rich source of calcium"
+        ],
+        "favicon": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/fcdff0c0f0293750645b2dd5ebb930f4168292220b8fe294f2cff104f72709bd153ea90a8e633f2a.png",
+        "source": "nih.gov",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=what+is+yogurt+good+for&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQrooIegQISRAF",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+is+yogurt+good+for"
+      },
+      {
+        "text": "When to eat",
+        "subtitle": "When Should You Eat Yogurt?",
+        "title": "When is the best time to eat yogurt? - Vinmec",
+        "link": "https://www.vinmec.com/eng/article/when-is-the-best-time-to-eat-yogurt-en#:~:text=Yogurt%20can%20help%20remedy%20this,maintain%20digestive%20efficiency%20and%20health.",
+        "displayed_link": "https://www.vinmec.com",
+        "snippet": "Yogurt can help remedy this. With the four recommended times mentioned above, the best options to consume yogurt are in the morning or on an empty stomach. This is because the good bacteria or probiotics in yogurt must reach the large intestine alive to maintain digestive efficiency and health.",
+        "snippet_highlighted_words": [
+          "in the morning or on an empty stomach"
+        ],
+        "favicon": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/fcdff0c0f0293750645b2dd5ebb930f4e44b2f2e86358b5ef6e55f5afa5e6619fd69691ca7cf7690.png",
+        "source": "vinmec.com",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=when+should+you+eat+yogurt&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQrooIegQISRAK",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=when+should+you+eat+yogurt"
+      },
+      {
+        "text": "Daily benefits",
+        "subtitle": "Why You Should Eat Yogurt Everyday",
+        "title": "Health Benefits of Yogurt: Nutrition, Protein, and Probiotics - Healthline",
+        "link": "https://www.healthline.com/nutrition/benefits-of-yogurt#:~:text=It's%20rich%20in%20important%20nutrients,needs%20(%201%20%2C%202%20).",
+        "displayed_link": "https://www.healthline.com",
+        "date": "Apr 5, 2022",
+        "snippet": "It's rich in important nutrients Yogurt contains some of nearly every nutrient that your body needs. It's known for containing a lot of calcium, a mineral necessary for healthy teeth and bones. Just one cup provides 49% of your daily calcium needs ( 1 , 2 ).",
+        "snippet_highlighted_words": [
+          "It's rich in important nutrients"
+        ],
+        "favicon": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/fcdff0c0f0293750645b2dd5ebb930f4e0303017a72c1325999327860eb2740cfff98b582861f697.png",
+        "source": "healthline.com",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=why+you+should+eat+yogurt+everyday&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQrooIegQISRAP",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=why+you+should+eat+yogurt+everyday"
+      },
+      {
+        "text": "Materials",
+        "subtitle": "What Is Yogurt Made Of?",
+        "title": "Yogurt - The Nutrition Source - Harvard University",
+        "link": "https://nutritionsource.hsph.harvard.edu/food-features/yogurt/#:~:text=Yogurt%20is%20made%20when%20heated,and%20bifidobacteria%20may%20be%20added.",
+        "displayed_link": "https://nutritionsource.hsph.harvard.edu",
+        "snippet": "Yogurt is made when heated milk is combined with bacteria, specifically Lactobacillus bulgaricus and Streptococcus thermophilus, and left to sit for several hours at a warm temperature (110-115\u00b0F). Additional types of lactobacilli and bifidobacteria may be added.",
+        "snippet_highlighted_words": [
+          "heated milk is combined with bacteria, specifically Lactobacillus bulgaricus and Streptococcus thermophilus"
+        ],
+        "favicon": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/fcdff0c0f0293750645b2dd5ebb930f4a6efe749f64623c23d5d32f77dc74b4d2f04f39380055ffc.png",
+        "source": "harvard.edu",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=what+is+yogurt+made+of&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQrooIegQISRAU",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+is+yogurt+made+of"
+      },
+      {
+        "text": "Protein Amount",
+        "subtitle": "Protein Yogurt",
+        "title": "Yogurt 101: Nutrition Facts and Health Benefits - Healthline",
+        "link": "https://www.healthline.com/nutrition/foods/yogurt",
+        "displayed_link": "https://www.healthline.com",
+        "answer": "3.5 g",
+        "favicon": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/fcdff0c0f0293750645b2dd5ebb930f499a1755c0ee54909ae4d61398c38f2f69b03dd6de018df87.png",
+        "source": "healthline.com",
+        "table": [
+          [
+            "Nutrient",
+            "Amount"
+          ],
+          [
+            "Water",
+            "88%"
+          ],
+          [
+            "Protein",
+            "3.5 g"
+          ],
+          [
+            "Carbs",
+            "4.7 g"
+          ],
+          [
+            "Sugar",
+            "4.7 g"
+          ]
+        ],
+        "formatted": [
+          {
+            "nutrient": "Water",
+            "amount": "88%"
+          },
+          {
+            "nutrient": "Protein",
+            "amount": "3.5 g"
+          },
+          {
+            "nutrient": "Carbs",
+            "amount": "4.7 g"
+          },
+          {
+            "nutrient": "Sugar",
+            "amount": "4.7 g"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=protein+yogurt&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQrooIegQISRAa",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=protein+yogurt"
+      },
+      {
+        "text": "With probiotics",
+        "subtitle": "Yogurt With Probiotics",
+        "title": "Discover the Best Yogurt for Probiotics and Gut Health - Cultures For Health",
+        "link": "https://culturesforhealth.com/blogs/learn/best-probiotic-yogurts-live-cultures",
+        "displayed_link": "https://culturesforhealth.com",
+        "date": "Jul 26, 2023",
+        "snippet": "Here are our picks for best yogurt for probiotics.",
+        "snippet_highlighted_words": [
+          "Here are our picks for best yogurt for probiotics."
+        ],
+        "list": [
+          "Dannon's Activia: A Daily Dose of Probiotic Goodness.",
+          "Chobani Greek Yogurt: Protein and Probiotics in a Tub.",
+          "Siggi's Icelandic Style Skyr: A Nordic Delight.",
+          "Yakult: A Probiotic Beverage Experience.",
+          "Stonyfield's Regular and Greek Yogurts: The Non-GMO Choice."
+        ],
+        "favicon": "https://serpapi.com/searches/670a16e06aa364610bc03e66/images/fcdff0c0f0293750645b2dd5ebb930f456b021e39c2d0b4f38f9113356c82e62ed7b5b5628de3f06.png",
+        "source": "culturesforhealth.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwFyzFbw2f-FZ7G63BtsHLSejEPpqTlAb8Hg-_UfzGx54&s",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=yogurt+with+probiotics&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQrooIegQISRAi",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=yogurt+with+probiotics"
+      },
+      {
+        "text": "Calories",
+        "subtitle": "Yogurt Calories",
+        "table": [
+          [
+            "Amount Per 100 grams1 container (170 g)1 container (170 g)"
+          ],
+          [
+            "Calories 100"
+          ]
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=yogurt+calories&sa=X&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQrooIegQISRAn",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=yogurt+calories"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=yogurt&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=4RYKZ6nFE8q1wN4Pg6jlyQI&start=10&sa=N&sstk=AagrsugEOl1RYiwtnKQvrsRYarMaGjFvrivf9Ph0K4wPGf79DbnxQQfoDDfOW6zFXX-a88urtPL4tmCHKP1M5XQ-HalmTLsr9G9ZTg&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQ8NMDegQICRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=yogurt&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=4RYKZ6nFE8q1wN4Pg6jlyQI&start=10&sa=N&sstk=AagrsugEOl1RYiwtnKQvrsRYarMaGjFvrivf9Ph0K4wPGf79DbnxQQfoDDfOW6zFXX-a88urtPL4tmCHKP1M5XQ-HalmTLsr9G9ZTg&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQ8tMDegQICRAE",
+      "3": "https://www.google.com/search?q=yogurt&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=4RYKZ6nFE8q1wN4Pg6jlyQI&start=20&sa=N&sstk=AagrsugEOl1RYiwtnKQvrsRYarMaGjFvrivf9Ph0K4wPGf79DbnxQQfoDDfOW6zFXX-a88urtPL4tmCHKP1M5XQ-HalmTLsr9G9ZTg&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQ8tMDegQICRAG",
+      "4": "https://www.google.com/search?q=yogurt&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=4RYKZ6nFE8q1wN4Pg6jlyQI&start=30&sa=N&sstk=AagrsugEOl1RYiwtnKQvrsRYarMaGjFvrivf9Ph0K4wPGf79DbnxQQfoDDfOW6zFXX-a88urtPL4tmCHKP1M5XQ-HalmTLsr9G9ZTg&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQ8tMDegQICRAI",
+      "5": "https://www.google.com/search?q=yogurt&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=4RYKZ6nFE8q1wN4Pg6jlyQI&start=40&sa=N&sstk=AagrsugEOl1RYiwtnKQvrsRYarMaGjFvrivf9Ph0K4wPGf79DbnxQQfoDDfOW6zFXX-a88urtPL4tmCHKP1M5XQ-HalmTLsr9G9ZTg&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQ8tMDegQICRAK",
+      "6": "https://www.google.com/search?q=yogurt&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=4RYKZ6nFE8q1wN4Pg6jlyQI&start=50&sa=N&sstk=AagrsugEOl1RYiwtnKQvrsRYarMaGjFvrivf9Ph0K4wPGf79DbnxQQfoDDfOW6zFXX-a88urtPL4tmCHKP1M5XQ-HalmTLsr9G9ZTg&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQ8tMDegQICRAM",
+      "7": "https://www.google.com/search?q=yogurt&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=4RYKZ6nFE8q1wN4Pg6jlyQI&start=60&sa=N&sstk=AagrsugEOl1RYiwtnKQvrsRYarMaGjFvrivf9Ph0K4wPGf79DbnxQQfoDDfOW6zFXX-a88urtPL4tmCHKP1M5XQ-HalmTLsr9G9ZTg&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQ8tMDegQICRAO",
+      "8": "https://www.google.com/search?q=yogurt&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=4RYKZ6nFE8q1wN4Pg6jlyQI&start=70&sa=N&sstk=AagrsugEOl1RYiwtnKQvrsRYarMaGjFvrivf9Ph0K4wPGf79DbnxQQfoDDfOW6zFXX-a88urtPL4tmCHKP1M5XQ-HalmTLsr9G9ZTg&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQ8tMDegQICRAQ",
+      "9": "https://www.google.com/search?q=yogurt&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=4RYKZ6nFE8q1wN4Pg6jlyQI&start=80&sa=N&sstk=AagrsugEOl1RYiwtnKQvrsRYarMaGjFvrivf9Ph0K4wPGf79DbnxQQfoDDfOW6zFXX-a88urtPL4tmCHKP1M5XQ-HalmTLsr9G9ZTg&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQ8tMDegQICRAS",
+      "10": "https://www.google.com/search?q=yogurt&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=4RYKZ6nFE8q1wN4Pg6jlyQI&start=90&sa=N&sstk=AagrsugEOl1RYiwtnKQvrsRYarMaGjFvrivf9Ph0K4wPGf79DbnxQQfoDDfOW6zFXX-a88urtPL4tmCHKP1M5XQ-HalmTLsr9G9ZTg&ved=2ahUKEwjpuf6cm4iJAxXKGtAFHQNUOSkQ8tMDegQICRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=yogurt&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=yogurt&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=yogurt&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=yogurt&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=yogurt&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=yogurt&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=yogurt&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=yogurt&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=yogurt&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=yogurt&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=yogurt&start=90"
+    }
+  }
+}

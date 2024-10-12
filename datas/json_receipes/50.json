@@ -1,0 +1,846 @@
+{
+  "search_metadata": {
+    "id": "670a167d7d533e3420164520",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/adfef5db54c2e744/670a167d7d533e3420164520.json",
+    "created_at": "2024-10-12 06:26:05 UTC",
+    "processed_at": "2024-10-12 06:26:05 UTC",
+    "google_url": "https://www.google.com/search?q=roibos+tea&oq=roibos+tea&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/adfef5db54c2e744/670a167d7d533e3420164520.html",
+    "total_time_taken": 1.05
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "roibos tea",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "roibos tea",
+    "total_results": 12800000,
+    "time_taken_displayed": 0.39,
+    "organic_results_state": "Some results for exact spelling but showing fixed spelling",
+    "spelling_fix": "rooibos tea",
+    "showing_results_for": "rooibos tea"
+  },
+  "knowledge_graph": {
+    "title": "Rooibos",
+    "type": "Food",
+    "entity_type": "food, kp3_verticals",
+    "kgmid": "/g/11bwf0ncj9",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11bwf0ncj9&hl=en-US&q=Rooibos",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F11bwf0ncj9&location=Austin%2CTexas%2CUnited+States&q=Rooibos",
+    "cite_name": "Rooibos: Health Benefits, Nutrition Facts, and How to Prepare It",
+    "cite_link": "https://www.webmd.com/diet/health-benefits-rooibos#:~:text=Rooibos%20tea%2C%20also%20known%20as,South%20Africa%20since%20the%201700s.",
+    "image": "https://serpapi.com/searches/670a167d7d533e3420164520/images/97e14d49b742447a49e3ce46c11824c10619c1a2e8d724ea.jpeg",
+    "description": "Rooibos tea, also known as \u201cred bush tea\u201d or \u201cAfrican red tea,\u201d is made from the fermented leaves of the aspalathus linearis shrub, a plant native to South Africa. While rooibos tea wasn't produced for commercial export until the 1930s, Dutch settlers have been brewing it in South Africa since the 1700s.",
+    "people_also_search_for": [
+      {
+        "name": "Tea",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm8i7vh8VaisJHcQKboWYn8aRWq-xqUGn3zLUvptk8Z22NWJw2tQ1kK2Hi8Cn9vkul6NTl4v5M2nUswEbE_iWi5VRQ2p7cYoAzVacPHh4NkqQINuo6vaeKq0kRR4DgcjUGBlkIcAMG0W4b7wDNjXFUI28NEX96gBdpkgn13fw8fe6O0FqgkL-gtS9eWsy2bRNNqwCtxr0usrmBB5aDqE2cyusZTpQNOmpCcuUWRYP06if-Df6P55HzCgt1zfdOrT-zm_lHlQ%3D&q=Tea&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQs9oBKAB6BAg6EAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Tea&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm8i7vh8VaisJHcQKboWYn8aRWq-xqUGn3zLUvptk8Z22NWJw2tQ1kK2Hi8Cn9vkul6NTl4v5M2nUswEbE_iWi5VRQ2p7cYoAzVacPHh4NkqQINuo6vaeKq0kRR4DgcjUGBlkIcAMG0W4b7wDNjXFUI28NEX96gBdpkgn13fw8fe6O0FqgkL-gtS9eWsy2bRNNqwCtxr0usrmBB5aDqE2cyusZTpQNOmpCcuUWRYP06if-Df6P55HzCgt1zfdOrT-zm_lHlQ%3D",
+        "image": "https://serpapi.com/searches/670a167d7d533e3420164520/images/97e14d49b742447a49e3ce46c11824c1974e5bbefac384c622218c8ed7420c4f70a9caa3b1cd9f05bfc577dfa9225623.jpeg"
+      },
+      {
+        "name": "Green tea",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LxKgzc9zBfSh9S5S6g5qrxWT0pofuCrGjGgO3r41-fXFOmkD3sVh0ulk7uriv0SYAAr-599-h6lUY6WQK2nmhdMA0nXYITmz33kPqlficlYdyKiWAMSNhRYGkvxkCYUFrDGO66AhsYFgh-nSOEAAjHIVvdwJOeV65K33vVvT4zgDi5sQUgJ3AbkLJEJtgr6tcjWzLSZY-hpoWI_LrmeBiGIK8i8JV3_3RqfGR9R5Ejwd_EyBdPXqbE5D542HKWFCfPN_5lI%3D&q=Green+tea&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQs9oBKAB6BAg6EAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Green+tea&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LxKgzc9zBfSh9S5S6g5qrxWT0pofuCrGjGgO3r41-fXFOmkD3sVh0ulk7uriv0SYAAr-599-h6lUY6WQK2nmhdMA0nXYITmz33kPqlficlYdyKiWAMSNhRYGkvxkCYUFrDGO66AhsYFgh-nSOEAAjHIVvdwJOeV65K33vVvT4zgDi5sQUgJ3AbkLJEJtgr6tcjWzLSZY-hpoWI_LrmeBiGIK8i8JV3_3RqfGR9R5Ejwd_EyBdPXqbE5D542HKWFCfPN_5lI%3D",
+        "image": "https://serpapi.com/searches/670a167d7d533e3420164520/images/97e14d49b742447a49e3ce46c11824c1974e5bbefac384c622218c8ed7420c4f3d7a2c01575988fd173672044a8ded3e.jpeg"
+      },
+      {
+        "name": "Black tea",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L4DfRzpbwZ5shD5EUQBdwIb9_lB4PXKw3JT-VkObkqm2bHk_O77sLbfmvhg4gWhq49rnfjbMH5taua0DAYorKzGykZ7CSQ6Vl2ZpejpdLRQ0-oFTokN3omCTKQfFc3N8SQg1ruZ8eZ10M1Lnq29enlq3-JPO7Exlal2pb4UgjJpyr6fhZk6NB0-sxWjkUfcgIL_l2RqCTnDiSb_0JT7a5DaMvsUZVSRoH0_RYMWGcsIP6rjLPfUQjmoNmlJpGxU6H3qK3EY%3D&q=Black+tea&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQs9oBKAB6BAg6EA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Black+tea&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L4DfRzpbwZ5shD5EUQBdwIb9_lB4PXKw3JT-VkObkqm2bHk_O77sLbfmvhg4gWhq49rnfjbMH5taua0DAYorKzGykZ7CSQ6Vl2ZpejpdLRQ0-oFTokN3omCTKQfFc3N8SQg1ruZ8eZ10M1Lnq29enlq3-JPO7Exlal2pb4UgjJpyr6fhZk6NB0-sxWjkUfcgIL_l2RqCTnDiSb_0JT7a5DaMvsUZVSRoH0_RYMWGcsIP6rjLPfUQjmoNmlJpGxU6H3qK3EY%3D",
+        "image": "https://serpapi.com/searches/670a167d7d533e3420164520/images/97e14d49b742447a49e3ce46c11824c1974e5bbefac384c622218c8ed7420c4ffcb6c58855303e8b1c425666e99f0791.jpeg"
+      },
+      {
+        "name": "Mate",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L-MP-CS5URhgunNs2MdEfqn0cXd7pK7GM4JH2cRaVXiQ64G7THER3u2mNuM0n74lB7zB08HFqfn8fsFGpsu4zGAvMwp0Ot2bFS0D9N2JMDB-PYYOLiugmk5d6nZAQMzlbTopCyMRJijXAck_yEQr5Ex9KcMTG040hgF8as4evBrQ5HKbDuXWGWkFpyHb9hJB5za5OAb6r-augZgsNpvWf3UAaWKsJwnJjcx9Ccu_R1075lEq12NdTU2T0ox1GY8K-APwX--A5cCqikheWAAOzhIdwXdQ&q=Mate+(drink)&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQs9oBKAB6BAg6EBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Mate+%28drink%29&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L-MP-CS5URhgunNs2MdEfqn0cXd7pK7GM4JH2cRaVXiQ64G7THER3u2mNuM0n74lB7zB08HFqfn8fsFGpsu4zGAvMwp0Ot2bFS0D9N2JMDB-PYYOLiugmk5d6nZAQMzlbTopCyMRJijXAck_yEQr5Ex9KcMTG040hgF8as4evBrQ5HKbDuXWGWkFpyHb9hJB5za5OAb6r-augZgsNpvWf3UAaWKsJwnJjcx9Ccu_R1075lEq12NdTU2T0ox1GY8K-APwX--A5cCqikheWAAOzhIdwXdQ",
+        "image": "https://serpapi.com/searches/670a167d7d533e3420164520/images/97e14d49b742447a49e3ce46c11824c1974e5bbefac384c622218c8ed7420c4fd036ca5fbf05bdb1597f44b4507e39b1.jpeg"
+      }
+    ]
+  },
+  "inline_images": [
+    {
+      "source": "https://www.medicalnewstoday.com/articles/323637",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ3dH-8I0TJHWZii7pG0tXTyepO4luYWULv7Voj2jUxI5fdIxfN8SHcUE&s",
+      "original": "https://cdn-prod.medicalnewstoday.com/content/images/articles/323/323637/rooibos-tea.jpg",
+      "title": "Rooibos tea: Benefits, nutrition, and how to drink it",
+      "source_name": "MedicalNewsToday"
+    },
+    {
+      "source": "https://www.amazon.com/Freshpak-Rooibos-Tagless-Teabags-Friendly/dp/B08PV2LYFG",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjFnXg5DMHjmOt0KO6nDIWnWpVyUrt1ZmV0okK1_jMd79yYd9nw9ixxjE&s",
+      "original": "https://m.media-amazon.com/images/I/71Z0zZSNiSL._AC_UF894,1000_QL80_.jpg",
+      "title": "Freshpak\u00ae Rooibos Tea | 80 Tagless Teabags | Natural Premium Rooibos |  Naturally Caffeine Free | Keto Friendly | Rooibos From South Africa | Non  GMO",
+      "source_name": "Amazon.com"
+    },
+    {
+      "source": "https://weaverscoffee.com/blogs/blog/rooibos-tea-a-comprehensive-guide",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI7aWtTyEvfmPpszTHC9OS_92zWNhCsRWxW2edqdg0QzlM_oTAnWOjP4w&s",
+      "original": "https://weaverscoffee.com/cdn/shop/articles/Healthy_rooibus_tea_traditional_south_africa_antioxidant_beverage_with_spices_on_vintage_wooden_table_in_rustic_style_1000x.jpg?v=1710793880",
+      "title": "Rooibos Tea: A Comprehensive Guide",
+      "source_name": "Weaver's Coffee & Tea"
+    },
+    {
+      "source": "https://www.teatulia.com/tea-varieties/what-is-rooibos.htm",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDuGcJGUod-WUiINzd--WBZdHUIZGK-1wCP9IW39lRuLj4SUx_HhxN97M&s",
+      "original": "https://cdn11.bigcommerce.com/s-59819/product_images/uploaded_images/snip20170712-10.png",
+      "title": "What Is Rooibos Tea?",
+      "source_name": "Teatulia Organic Teas"
+    },
+    {
+      "source": "https://en.wikipedia.org/wiki/Rooibos",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbHFgYpQx3cdBm-kBjspjLy9TWycrtmNwCLa5VlWNpDNIHvgIy40IIjHE&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Rooibos_geschnitten.jpg/1200px-Rooibos_geschnitten.jpg",
+      "title": "Rooibos - Wikipedia",
+      "source_name": "Wikipedia"
+    },
+    {
+      "source": "https://www.yogi-life.com/en-US/product/chai-rooibos-076950415331",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh4PKiU6NiBCvOeQaoN8zoPqyKZEjjCcvna_rbfWq_yysDr2jI5BGsw1E&s",
+      "original": "https://www.yogi-life.com/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FATgZmFEROuEUXhBSeyGQ&w=3840&q=75",
+      "title": "Chai Rooibos",
+      "source_name": "Yogi Tea"
+    },
+    {
+      "source": "https://www.foodandwine.com/tea/rooibos-sweet-crowd-pleasing-tea-youve-been-looking",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhidDUBDfD30Am36oJaYkAb8TSZ5kH3kc84YbyopkJTTGOFwkDgGN5ehk&s",
+      "original": "https://www.foodandwine.com/thmb/Wklrf2p5AN0v6FCCXxyKxGlBB1M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/This-Sweet-Crowd-Pleasing-Tea-Might-Replace-Your-Morning-Coffee-FT-BLOG0923-430543b861364d82ad23770faf6c0e3d.jpg",
+      "title": "Why You Should Taste Caffeine-Free Rooibos Tea",
+      "source_name": "Food & Wine"
+    },
+    {
+      "source": "https://www.bbcgoodfood.com/howto/guide/health-benefits-of-rooibos-tea",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTIjik-QhbjiUsjynwjyQJYGdkVi7td2-DUFa4BR9psZyNTH-Jh0eBWu0&s",
+      "original": "https://images.immediate.co.uk/production/volatile/sites/30/2020/10/Rooibos-tea-a9de3af.jpg?quality=90&fit=700,350",
+      "title": "Top 5 health benefits of rooibos tea | Good Food",
+      "source_name": "BBC Good Food"
+    },
+    {
+      "source": "https://twinings.co.uk/blogs/news/redbush-rooibos-african-red-tea-explained",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOksXXNSmNrtkQKzr6q18FGCfLqjqVbZSB9ZFR9H_ld7h2AI3mhhtAZak&s",
+      "original": "http://twinings.co.uk/cdn/shop/articles/Article-header-Redbush-Rooibos-African-Red-Tea-Explained_35c7fd0b-e9a2-4542-bd61-9e6bd11e4d2b.jpg?v=1648722235",
+      "title": "Redbush, Rooibos - African Red Tea Explained \u2013 Twinings",
+      "source_name": "Twinings"
+    }
+  ],
+  "inline_products": [
+    {
+      "position": 1,
+      "title": "Yogi Tea Chai Rooibos",
+      "block_title": "In stores nearby",
+      "source": "H-E-B",
+      "price": 4.64,
+      "currency": "$",
+      "rating": 4.7,
+      "thumbnail": "https://serpapi.com/searches/670a167d7d533e3420164520/images/42a52ecbdf0d4e9a95db216ac6063f9233367a33029b740ad364564bb40b43a2.jpeg"
+    },
+    {
+      "position": 2,
+      "title": "Twinings Pure Rooibos Red Tea",
+      "block_title": "In stores nearby",
+      "tag": "20% OFF",
+      "source": "World Market",
+      "price": 3.99,
+      "currency": "$",
+      "original_price": 5,
+      "rating": 4.6,
+      "thumbnail": "https://serpapi.com/searches/670a167d7d533e3420164520/images/42a52ecbdf0d4e9a95db216ac6063f9224fe1648ffcab5bd098f0197bf5c207d.jpeg"
+    },
+    {
+      "position": 3,
+      "title": "Numi Organic Rooibos Chai Tea",
+      "block_title": "In stores nearby",
+      "tag": "15% OFF",
+      "source": "Walmart",
+      "price": 5.89,
+      "currency": "$",
+      "original_price": 7,
+      "rating": 4.7,
+      "thumbnail": "https://serpapi.com/searches/670a167d7d533e3420164520/images/42a52ecbdf0d4e9a95db216ac6063f92820182ceb7e47e7c177ddb96e479bc61.jpeg"
+    },
+    {
+      "position": 4,
+      "title": "Crate & Barrel Firebelly Sweet Hibiscus Rooibos Tea",
+      "block_title": "In stores nearby",
+      "source": "Crate & Barrel",
+      "price": 12.95,
+      "currency": "$",
+      "thumbnail": "https://serpapi.com/searches/670a167d7d533e3420164520/images/42a52ecbdf0d4e9a95db216ac6063f92e63f195499d6beade4a08cb92b90e587.jpeg"
+    },
+    {
+      "position": 5,
+      "title": "H-E-B Red Rooibos Herbal Tea Bags",
+      "block_title": "In stores nearby",
+      "source": "H-E-B",
+      "price": 1.86,
+      "currency": "$",
+      "thumbnail": "https://serpapi.com/searches/670a167d7d533e3420164520/images/42a52ecbdf0d4e9a95db216ac6063f92bdeb64c0b54b266e671dcf96bc5f60ab.jpeg"
+    },
+    {
+      "position": 6,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 7,
+      "block_title": "In stores nearby"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a167d7d533e3420164520/images/5f29221d27c75435028f4896b5496f432fa81c8c991970da4a80ab0e8771a855.jpeg",
+      "source_logo": "https://serpapi.com/searches/670a167d7d533e3420164520/images/5f29221d27c75435028f4896b5496f438cfa99a5fc73c194bada3851c92c44e9267158f22e96821f.png",
+      "source": "H-E-B",
+      "title": "Yogi Tea Chai Rooibos",
+      "rating": 4.7,
+      "reviews": 3000,
+      "price": "$4.64",
+      "extracted_price": 4.64,
+      "location": "12 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTg3OTk5MzkxNTc0Nzc0NzE4MiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjIzMTQ5MTUyNjM2MDAyNDk2IiwiaW1hZ2VEb2NpZCI6IjExMDA0NTQ2NTc5NzM5OTU1ODU5IiwicmRzIjoiUENfMjIxNjQ1NTQyOTcxOTU1ODA3NnxQUk9EX1BDXzIyMTY0NTU0Mjk3MTk1NTgwNzYiLCJxdWVyeSI6InJvaWJvcyt0ZWEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTg3OTk5MzkxNTc0Nzc0NzE4MiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjIzMTQ5MTUyNjM2MDAyNDk2IiwiaW1hZ2VEb2NpZCI6IjExMDA0NTQ2NTc5NzM5OTU1ODU5IiwicmRzIjoiUENfMjIxNjQ1NTQyOTcxOTU1ODA3NnxQUk9EX1BDXzIyMTY0NTU0Mjk3MTk1NTgwNzYiLCJxdWVyeSI6InJvaWJvcyt0ZWEifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a167d7d533e3420164520/images/5f29221d27c75435028f4896b5496f43f1bfb43a859c3149c20fc3646e05a6da.jpeg",
+      "source_logo": "https://serpapi.com/searches/670a167d7d533e3420164520/images/5f29221d27c75435028f4896b5496f43abea4a65589860ba917a188fc22faa92a12142d35f934aa5.png",
+      "source": "Amazon.com",
+      "title": "Tick Tock Organic Rooibos Tea Bags",
+      "rating": 4.4,
+      "reviews": 165,
+      "price": "$7.49",
+      "extracted_price": 7.49,
+      "immersive_product_page_token": "eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTcyMzYwNTAxMTg3NjU3MjU4NjMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzNTE2NDE2OTA2OTk2MzE2OTYyIiwiaW1hZ2VEb2NpZCI6IjE3MTQ0Mjk0MDIxMjIwMzc2Njk4IiwicmRzIjoiUENfMTA0MzM5NDQwNDE0NTkyMjMxOTB8UFJPRF9QQ18xMDQzMzk0NDA0MTQ1OTIyMzE5MCIsInF1ZXJ5Ijoicm9pYm9zK3RlYSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTcyMzYwNTAxMTg3NjU3MjU4NjMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzNTE2NDE2OTA2OTk2MzE2OTYyIiwiaW1hZ2VEb2NpZCI6IjE3MTQ0Mjk0MDIxMjIwMzc2Njk4IiwicmRzIjoiUENfMTA0MzM5NDQwNDE0NTkyMjMxOTB8UFJPRF9QQ18xMDQzMzk0NDA0MTQ1OTIyMzE5MCIsInF1ZXJ5Ijoicm9pYm9zK3RlYSJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a167d7d533e3420164520/images/5f29221d27c75435028f4896b5496f43e451f86d82b49ab480b62c6a15776862.jpeg",
+      "source_logo": "https://serpapi.com/searches/670a167d7d533e3420164520/images/5f29221d27c75435028f4896b5496f434aab7b589b7a7022c33cc3e2b37b0d1a3c8c9c7a740fa3a4.png",
+      "source": "Monterey Bay Herb Co",
+      "title": "Rooibos Tea per Pound",
+      "rating": 5.0,
+      "reviews": 5,
+      "price": "$5.48",
+      "extracted_price": 5.48,
+      "immersive_product_page_token": "eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDg4MjA4NDYxODU2MDY0MzM0MyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzY3ODUxNjEyNDYwNjUzMTgwMSIsImltYWdlRG9jaWQiOiIxNzk1MjQxMTEwMzIxMTA0NTQxNyIsInJkcyI6IlBDXzI3NTE4MjI0NDAyNTMwMjQ4NDh8UFJPRF9QQ18yNzUxODIyNDQwMjUzMDI0ODQ4IiwicXVlcnkiOiJyb2lib3MrdGVhIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDg4MjA4NDYxODU2MDY0MzM0MyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzY3ODUxNjEyNDYwNjUzMTgwMSIsImltYWdlRG9jaWQiOiIxNzk1MjQxMTEwMzIxMTA0NTQxNyIsInJkcyI6IlBDXzI3NTE4MjI0NDAyNTMwMjQ4NDh8UFJPRF9QQ18yNzUxODIyNDQwMjUzMDI0ODQ4IiwicXVlcnkiOiJyb2lib3MrdGVhIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a167d7d533e3420164520/images/5f29221d27c75435028f4896b5496f43039dfe2a3ef3093cc958b16e292188fe.jpeg",
+      "source_logo": "https://serpapi.com/searches/670a167d7d533e3420164520/images/5f29221d27c75435028f4896b5496f43195e0c74ae491124e560fb94d282baa6219704668e419ea4.png",
+      "source": "Pique Tea",
+      "title": "Pique Organic Rooibos Tea",
+      "rating": 4.9,
+      "reviews": 398,
+      "price": "$16.00",
+      "extracted_price": 16.0,
+      "delivery": "Free by 10/21",
+      "immersive_product_page_token": "eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODcwMjM4MjIzMjgwMjIwNzQ1MCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQxOTczNTU1Nzc5NzAxMDMzNCIsImltYWdlRG9jaWQiOiIxMDM0NzE4NDMyODg5MzI3MDc2MiIsInJkcyI6IlBDXzEwNjU4MzU4NTM4NDYwOTI2NjU4fFBST0RfUENfMTA2NTgzNTg1Mzg0NjA5MjY2NTgiLCJxdWVyeSI6InJvaWJvcyt0ZWEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODcwMjM4MjIzMjgwMjIwNzQ1MCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQxOTczNTU1Nzc5NzAxMDMzNCIsImltYWdlRG9jaWQiOiIxMDM0NzE4NDMyODg5MzI3MDc2MiIsInJkcyI6IlBDXzEwNjU4MzU4NTM4NDYwOTI2NjU4fFBST0RfUENfMTA2NTgzNTg1Mzg0NjA5MjY2NTgiLCJxdWVyeSI6InJvaWJvcyt0ZWEifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a167d7d533e3420164520/images/5f29221d27c75435028f4896b5496f4369dcbb5d4e96fb97e8df23aac21e78fa.jpeg",
+      "source_logo": "https://serpapi.com/searches/670a167d7d533e3420164520/images/5f29221d27c75435028f4896b5496f438d654b4b934edbb8364e3826270b5c4e46d73e5caf6d7acd.png",
+      "source": "Elements of Nutrition",
+      "title": "Choice Organics Rooibos Herbal Tea Bags",
+      "rating": 4.7,
+      "reviews": 319,
+      "price": "$5.94",
+      "extracted_price": 5.94,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzQ2MTk2MzUyNzE4NTQ4NjQ1NyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQ4Mjc1NjAyMDgyNjkyMDYyMCIsImltYWdlRG9jaWQiOiIyMjY3NTM0ODQzNzU2NTM4ODgxIiwicmRzIjoiUENfMTg2ODY5ODI1MTE3MjY2MjQ4NnxQUk9EX1BDXzE4Njg2OTgyNTExNzI2NjI0ODYiLCJxdWVyeSI6InJvaWJvcyt0ZWEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzQ2MTk2MzUyNzE4NTQ4NjQ1NyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQ4Mjc1NjAyMDgyNjkyMDYyMCIsImltYWdlRG9jaWQiOiIyMjY3NTM0ODQzNzU2NTM4ODgxIiwicmRzIjoiUENfMTg2ODY5ODI1MTE3MjY2MjQ4NnxQUk9EX1BDXzE4Njg2OTgyNTExNzI2NjI0ODYiLCJxdWVyeSI6InJvaWJvcyt0ZWEifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a167d7d533e3420164520/images/5f29221d27c75435028f4896b5496f432400787db5c4518f04faa4e51f4a8645.jpeg",
+      "source_logo": "https://serpapi.com/searches/670a167d7d533e3420164520/images/5f29221d27c75435028f4896b5496f4320a8f1e5411750a3399d5168ab1d85ef35d5af180f83cf6a.png",
+      "source": "Walmart - Sports Fanatics",
+      "title": "Freshpak Rooibos Tagless Tea",
+      "rating": 4.9,
+      "reviews": 125,
+      "price": "$14.10",
+      "extracted_price": 14.1,
+      "immersive_product_page_token": "eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ2MTU3ODY5MTQ2NTc3NzEzMjciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk1MDAzNzIzMDIyNjU2NTQxNzIiLCJpbWFnZURvY2lkIjoiMTIzMzgyMjU1NTQ4MTEwNzQzOTQiLCJyZHMiOiJQQ182NzQ2ODI3MjY1OTMxNTgzNTA3fFBST0RfUENfNjc0NjgyNzI2NTkzMTU4MzUwNyIsInF1ZXJ5Ijoicm9pYm9zK3RlYSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ2MTU3ODY5MTQ2NTc3NzEzMjciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk1MDAzNzIzMDIyNjU2NTQxNzIiLCJpbWFnZURvY2lkIjoiMTIzMzgyMjU1NTQ4MTEwNzQzOTQiLCJyZHMiOiJQQ182NzQ2ODI3MjY1OTMxNTgzNTA3fFBST0RfUENfNjc0NjgyNzI2NTkzMTU4MzUwNyIsInF1ZXJ5Ijoicm9pYm9zK3RlYSJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a167d7d533e3420164520/images/5f29221d27c75435028f4896b5496f4322807c1f613b90723780c1d4e207dd53.jpeg",
+      "source_logo": "https://serpapi.com/searches/670a167d7d533e3420164520/images/5f29221d27c75435028f4896b5496f43b104cb373baf24577d62c63d9f8d1436be440ac89c47979f.png",
+      "source": "Amazon.com - Seller",
+      "title": "Tick Tock Original Organic Rooibos Tea Bags 40 per Pack",
+      "rating": 4.4,
+      "reviews": 165,
+      "price": "$14.99",
+      "extracted_price": 14.99,
+      "immersive_product_page_token": "eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiMTMyNDkzMTM1MzMwNjM5NDMyMjUiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzMjQ5MzEzNTMzMDYzOTQzMjI1IiwiaW1hZ2VEb2NpZCI6IjYyNDM4NjczNDY0NzE0NDc3OTMiLCJyZHMiOiJQQ18xMDQzMzk0NDA0MTQ1OTIyMzE5MHxQUk9EX1BDXzEwNDMzOTQ0MDQxNDU5MjIzMTkwIiwicXVlcnkiOiJyb2lib3MrdGVhIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiMTMyNDkzMTM1MzMwNjM5NDMyMjUiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzMjQ5MzEzNTMzMDYzOTQzMjI1IiwiaW1hZ2VEb2NpZCI6IjYyNDM4NjczNDY0NzE0NDc3OTMiLCJyZHMiOiJQQ18xMDQzMzk0NDA0MTQ1OTIyMzE5MHxQUk9EX1BDXzEwNDMzOTQ0MDQxNDU5MjIzMTkwIiwicXVlcnkiOiJyb2lib3MrdGVhIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a167d7d533e3420164520/images/5f29221d27c75435028f4896b5496f43b8696414608933770486d509f54c4da0.jpeg",
+      "source_logo": "https://serpapi.com/searches/670a167d7d533e3420164520/images/5f29221d27c75435028f4896b5496f4397170c0c1baa9a807ca4237d0f095533ae05ee721a455d72.png",
+      "source": "Harney & Sons Fine Teas",
+      "title": "Harney & Sons Organic Rooibos Chai",
+      "rating": 4.5,
+      "reviews": 10,
+      "price": "$9.60",
+      "extracted_price": 9.6,
+      "original_price": "$12",
+      "extracted_original_price": 12,
+      "extensions": [
+        "20% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzY4NzM4NTcyMTQ1NTk1ODUyMiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTMzNjc4NTM1OTQ0NDUwNTg4IiwiaW1hZ2VEb2NpZCI6IjkwMzE4NDkxNDU2MDgwNzkxMjQiLCJyZHMiOiJQQ18xMjQ0Njc5OTkxMDc0MjA1MzE3N3xQUk9EX1BDXzEyNDQ2Nzk5OTEwNzQyMDUzMTc3IiwicXVlcnkiOiJyb2lib3MrdGVhIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzY4NzM4NTcyMTQ1NTk1ODUyMiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTMzNjc4NTM1OTQ0NDUwNTg4IiwiaW1hZ2VEb2NpZCI6IjkwMzE4NDkxNDU2MDgwNzkxMjQiLCJyZHMiOiJQQ18xMjQ0Njc5OTkxMDc0MjA1MzE3N3xQUk9EX1BDXzEyNDQ2Nzk5OTEwNzQyMDUzMTc3IiwicXVlcnkiOiJyb2lib3MrdGVhIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://serpapi.com/searches/670a167d7d533e3420164520/images/5f29221d27c75435028f4896b5496f438e09e4c7d6eabe3767c74e0f924945f4.jpeg",
+      "source_logo": "https://serpapi.com/searches/670a167d7d533e3420164520/images/5f29221d27c75435028f4896b5496f430352c864539100be35ff50d9acbba7c6aa0f345f184a9d5c.png",
+      "source": "H-E-B",
+      "title": "Yogi Tea Chai Rooibos",
+      "rating": 4.7,
+      "reviews": 3000,
+      "price": "$4.64",
+      "extracted_price": 4.64,
+      "location": "12 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTg3OTk5MzkxNTc0Nzc0NzE4MiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjIzMTQ5MTUyNjM2MDAyNDk2IiwiaW1hZ2VEb2NpZCI6IjExMDA0NTQ2NTc5NzM5OTU1ODU5IiwicmRzIjoiUENfMjIxNjQ1NTQyOTcxOTU1ODA3NnxQUk9EX1BDXzIyMTY0NTU0Mjk3MTk1NTgwNzYiLCJxdWVyeSI6InJvaWJvcyt0ZWEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTg3OTk5MzkxNTc0Nzc0NzE4MiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjIzMTQ5MTUyNjM2MDAyNDk2IiwiaW1hZ2VEb2NpZCI6IjExMDA0NTQ2NTc5NzM5OTU1ODU5IiwicmRzIjoiUENfMjIxNjQ1NTQyOTcxOTU1ODA3NnxQUk9EX1BDXzIyMTY0NTU0Mjk3MTk1NTgwNzYiLCJxdWVyeSI6InJvaWJvcyt0ZWEifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://serpapi.com/searches/670a167d7d533e3420164520/images/5f29221d27c75435028f4896b5496f434c55d55045f2f4c614719c771244d4e4.jpeg",
+      "source_logo": "https://serpapi.com/searches/670a167d7d533e3420164520/images/5f29221d27c75435028f4896b5496f43f521f62ed3bd82a22339297565c4dba949d84af1d37692d9.png",
+      "source": "World Market",
+      "title": "Twinings Pure Rooibos Red Tea",
+      "rating": 4.6,
+      "reviews": 286,
+      "price": "$3.99",
+      "extracted_price": 3.99,
+      "original_price": "$5",
+      "extracted_original_price": 5,
+      "location": "12 mi \u00b7 In stock",
+      "extensions": [
+        "20% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjE0MTE4MjkyODE3Mjk0ODA5IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDM0NzU1NDIxMDcwNjQzNzMwNCIsImltYWdlRG9jaWQiOiI3Mzg1Nzk3OTYzODQ5MTU5NjciLCJyZHMiOiJQQ185NjQwNzkzNzM3MjA2MzE1NDF8UFJPRF9QQ185NjQwNzkzNzM3MjA2MzE1NDEiLCJxdWVyeSI6InJvaWJvcyt0ZWEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjE0MTE4MjkyODE3Mjk0ODA5IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDM0NzU1NDIxMDcwNjQzNzMwNCIsImltYWdlRG9jaWQiOiI3Mzg1Nzk3OTYzODQ5MTU5NjciLCJyZHMiOiJQQ185NjQwNzkzNzM3MjA2MzE1NDF8UFJPRF9QQ185NjQwNzkzNzM3MjA2MzE1NDEiLCJxdWVyeSI6InJvaWJvcyt0ZWEifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://serpapi.com/searches/670a167d7d533e3420164520/images/5f29221d27c75435028f4896b5496f430d21359aa2a43c163eba2f20984395cb.jpeg",
+      "source_logo": "https://serpapi.com/searches/670a167d7d533e3420164520/images/5f29221d27c75435028f4896b5496f43d97dec1fb5d8ec5966d9304d3468e1b389215a41745ff07e.png",
+      "source": "Walmart",
+      "title": "Numi Organic Rooibos Chai Tea",
+      "rating": 4.7,
+      "reviews": 764,
+      "price": "$5.89",
+      "extracted_price": 5.89,
+      "original_price": "$7",
+      "extracted_original_price": 7,
+      "location": "12 mi \u00b7 In stock",
+      "extensions": [
+        "15% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY2MzM0MTY2MTc0ODc5MzUzNzMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0ODg1MzkyNDYwNzA4ODA0ODA1IiwiaW1hZ2VEb2NpZCI6IjE3MzAzNTA4MTAwNjQ2Mzc4MzEyIiwicmRzIjoiUENfMTMyNTU1MzA1ODI5MTcxMTYwOTF8UFJPRF9QQ18xMzI1NTUzMDU4MjkxNzExNjA5MSIsInF1ZXJ5Ijoicm9pYm9zK3RlYSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY2MzM0MTY2MTc0ODc5MzUzNzMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0ODg1MzkyNDYwNzA4ODA0ODA1IiwiaW1hZ2VEb2NpZCI6IjE3MzAzNTA4MTAwNjQ2Mzc4MzEyIiwicmRzIjoiUENfMTMyNTU1MzA1ODI5MTcxMTYwOTF8UFJPRF9QQ18xMzI1NTUzMDU4MjkxNzExNjA5MSIsInF1ZXJ5Ijoicm9pYm9zK3RlYSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://serpapi.com/searches/670a167d7d533e3420164520/images/5f29221d27c75435028f4896b5496f436f6b60407b8c11f6ff86562c0f4abb4b.jpeg",
+      "source_logo": "https://serpapi.com/searches/670a167d7d533e3420164520/images/5f29221d27c75435028f4896b5496f43ff8ca4eaf49832a39ce3e29b77a19d2629d754197031d726.png",
+      "source": "Crate & Barrel",
+      "title": "Crate & Barrel Firebelly Sweet Hibiscus Rooibos Tea",
+      "price": "$12.95",
+      "extracted_price": 12.95,
+      "location": "12 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjcwOTE1Mjg1MzY2MjcyNjMxMyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTcwOTkwMTI1NDgyNjQ3NTgyNDEiLCJpbWFnZURvY2lkIjoiMTEwNzg3OTAxMjUxNzkzMTQ3NDAiLCJyZHMiOiIiLCJxdWVyeSI6InJvaWJvcyt0ZWEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjcwOTE1Mjg1MzY2MjcyNjMxMyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTcwOTkwMTI1NDgyNjQ3NTgyNDEiLCJpbWFnZURvY2lkIjoiMTEwNzg3OTAxMjUxNzkzMTQ3NDAiLCJyZHMiOiIiLCJxdWVyeSI6InJvaWJvcyt0ZWEifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://serpapi.com/searches/670a167d7d533e3420164520/images/5f29221d27c75435028f4896b5496f43ff11f404df6e5ce687d44662d60a9ba9.jpeg",
+      "source_logo": "https://serpapi.com/searches/670a167d7d533e3420164520/images/5f29221d27c75435028f4896b5496f439f27886edcf52ad6f71081dda1afcaa899b982f9dec0a2ff.png",
+      "source": "H-E-B",
+      "title": "H-E-B Red Rooibos Herbal Tea Bags",
+      "price": "$1.86",
+      "extracted_price": 1.86,
+      "location": "10 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc5Mjc1NDEyODc2NTE2MjA3NDYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMzY2MjUwNTQ1MjYxMzg4MzA0IiwiaW1hZ2VEb2NpZCI6IjQzMDgwMzAzNDg0ODc3NzUxNDkiLCJyZHMiOiIiLCJxdWVyeSI6InJvaWJvcyt0ZWEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc5Mjc1NDEyODc2NTE2MjA3NDYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMzY2MjUwNTQ1MjYxMzg4MzA0IiwiaW1hZ2VEb2NpZCI6IjQzMDgwMzAzNDg0ODc3NzUxNDkiLCJyZHMiOiIiLCJxdWVyeSI6InJvaWJvcyt0ZWEifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE3MjEwNjg5Nzc1NTU2MDU0MjQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0NTc2MzI3NzM2MzU2ODM0MzY0IiwiaW1hZ2VEb2NpZCI6IjEyNDIwMzkxNDM1Mjk5NDI3NDIyIiwicmRzIjoiUENfNjc0NjgyNzI2NTkzMTU4MzUwN3xQUk9EX1BDXzY3NDY4MjcyNjU5MzE1ODM1MDciLCJxdWVyeSI6InJvaWJvcyt0ZWEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE3MjEwNjg5Nzc1NTU2MDU0MjQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0NTc2MzI3NzM2MzU2ODM0MzY0IiwiaW1hZ2VEb2NpZCI6IjEyNDIwMzkxNDM1Mjk5NDI3NDIyIiwicmRzIjoiUENfNjc0NjgyNzI2NTkzMTU4MzUwN3xQUk9EX1BDXzY3NDY4MjcyNjU5MzE1ODM1MDciLCJxdWVyeSI6InJvaWJvcyt0ZWEifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMxMjMzODUxNjE2ODA5ODk2ODQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2ODIxOTU5Nzk3OTgyMDMwMzM4IiwiaW1hZ2VEb2NpZCI6IjcyMjI5MjI4ODg1NDAxOTU4MTIiLCJyZHMiOiIiLCJxdWVyeSI6InJvaWJvcyt0ZWEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMxMjMzODUxNjE2ODA5ODk2ODQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2ODIxOTU5Nzk3OTgyMDMwMzM4IiwiaW1hZ2VEb2NpZCI6IjcyMjI5MjI4ODg1NDAxOTU4MTIiLCJyZHMiOiIiLCJxdWVyeSI6InJvaWJvcyt0ZWEifQ%3D%3D"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the rooibos tea good for?",
+      "snippet": "The antioxidants in rooibos can boost heart health. Drinking rooibos tea daily has been linked to lower blood pressure, improved cholesterol levels, and reduced risk of developing cardiovascular disease. These can protect against heart conditions, including heart attacks and strokes.",
+      "title": "Rooibos: Health Benefits, Nutrition Facts, and How to Prepare It",
+      "date": "Nov 23, 2022",
+      "link": "https://www.webmd.com/diet/health-benefits-rooibos#:~:text=The%20antioxidants%20in%20rooibos%20can,including%20heart%20attacks%20and%20strokes.",
+      "displayed_link": "https://www.webmd.com \u203a ... \u203a Reference",
+      "source_logo": "https://serpapi.com/searches/670a167d7d533e3420164520/images/2f9dfcd98f27ca41d11d677d82eafa82d5ec36a18eb95e09e4c089714eebe027.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZVWmpMVWhLU1hWa1RXZG5jSE5LT0hWTU5UWnBlVXRHUlhKaVoyRjJXV2N4VUhkVE1WSXdVSGh4UzNwZldHSklka1psWTA5WVJ6aEVNMk5OY0ZsQlZVbGFWbnBGRWhkbVVsbExXaTB5VTBsaGRVYzVkVGhRZW5GcVZEUkJOQm9pUVVaWWNrVmpja05OU21kdE1rWnlTVkJtY1RkU1pXZFNRbTFWUkc5eWNsTjVkdyIsImZjdiI6IjMiLCJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicWMiOiJDZ3R5YjI5cFltOXpJSFJsWVJBQWZlMUFMVDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHJvb2lib3MgdGVhIGdvb2QgZm9yPyIsImxrIjoiR2lCM2FHRjBJR2x6SUhSb1pTQnliMjlwWW05eklIUmxZU0JuYjI5a0lHWnZjZyIsImJzIjoiYy1QeTRsSU16MGdzVWNnc1ZpakpTRlVveXNfUFRNb0hzbE1URmRMejgxTVUwdktMN0NVZUp4Z3BTU21VRTFESEZjQ2xnbXhXU21aeFlrcFpZbDVKWW5xcVFuNGFUSS05eE9jQUkxVXA1WExDU3JtQXJuUEpUeTFHc1M0M01UdFZvVEtfVktFNEp6VzFvTkplNG9VVHlIVXBCTlJ4ZVhBcGVLS3F5TWhNejFESXpGTklUa3hMUzgzTVM3V1hlTU5rcENnbG40bGZtUUFqQUEiLCJpZCI6ImZjX2ZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0XzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZVWmpMVWhLU1hWa1RXZG5jSE5LT0hWTU5UWnBlVXRHUlhKaVoyRjJXV2N4VUhkVE1WSXdVSGh4UzNwZldHSklka1psWTA5WVJ6aEVNMk5OY0ZsQlZVbGFWbnBGRWhkbVVsbExXaTB5VTBsaGRVYzVkVGhRZW5GcVZEUkJOQm9pUVVaWWNrVmpja05OU21kdE1rWnlTVkJtY1RkU1pXZFNRbTFWUkc5eWNsTjVkdyIsImZjdiI6IjMiLCJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicWMiOiJDZ3R5YjI5cFltOXpJSFJsWVJBQWZlMUFMVDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHJvb2lib3MgdGVhIGdvb2QgZm9yPyIsImxrIjoiR2lCM2FHRjBJR2x6SUhSb1pTQnliMjlwWW05eklIUmxZU0JuYjI5a0lHWnZjZyIsImJzIjoiYy1QeTRsSU16MGdzVWNnc1ZpakpTRlVveXNfUFRNb0hzbE1URmRMejgxTVUwdktMN0NVZUp4Z3BTU21VRTFESEZjQ2xnbXhXU21aeFlrcFpZbDVKWW5xcVFuNGFUSS05eE9jQUkxVXA1WExDU3JtQXJuUEpUeTFHc1M0M01UdFZvVEtfVktFNEp6VzFvTkplNG9VVHlIVXBCTlJ4ZVhBcGVLS3F5TWhNejFESXpGTklUa3hMUzgzTVM3V1hlTU5rcENnbG40bGZtUUFqQUEiLCJpZCI6ImZjX2ZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0XzEifQ%3D%3D"
+    },
+    {
+      "question": "What is the disadvantage of rooibos?",
+      "snippet": "Rat studies suggest that prolonged exposure to rooibos may affect the reproductive system, impair fertility, or affect liver and kidney function (25). In humans, a few cases of liver toxicity with long-term use or ingesting large amounts have been reported.",
+      "title": "Rooibos Tea | Memorial Sloan Kettering Cancer Center",
+      "date": "Feb 2, 2023",
+      "link": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/rooibos-tea#:~:text=Rat%20studies%20suggest%20that%20prolonged,large%20amounts%20have%20been%20reported.",
+      "displayed_link": "https://www.mskcc.org \u203a integrative-medicine \u203a herbs \u203a r...",
+      "source_logo": "https://serpapi.com/searches/670a167d7d533e3420164520/images/2f9dfcd98f27ca41d11d677d82eafa8209b5e7e6621b53d45e01d48b4e5d673c.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZVWmpMVWhLU1hWa1RXZG5jSE5LT0hWTU5UWnBlVXRHUlhKaVoyRjJXV2N4VUhkVE1WSXdVSGh4UzNwZldHSklka1psWTA5WVJ6aEVNMk5OY0ZsQlZVbGFWbnBGRWhkbVVsbExXaTB5VTBsaGRVYzVkVGhRZW5GcVZEUkJOQm9pUVVaWWNrVmpja05OU21kdE1rWnlTVkJtY1RkU1pXZFNRbTFWUkc5eWNsTjVkdyIsImZjdiI6IjMiLCJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicWMiOiJDZ3R5YjI5cFltOXpJSFJsWVJBQWZlMUFMVDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGRpc2FkdmFudGFnZSBvZiByb29pYm9zPyIsImxrIjoiR2lOM2FHRjBJR2x6SUhSb1pTQmthWE5oWkhaaGJuUmhaMlVnYjJZZ2NtOXZhV0p2Y3ciLCJicyI6ImMtUHk0bElNejBnc1VjZ3NWaWpKU0ZVb3lzX1BUTW9Ic2xNVEZkTHo4MU1VMHZLTDdDVWVKeGdwU1NtVUUxREhGY0NsZ214V1NtWnhZa3BaWWw1SllucXFRbjRhVEktOXhPY0FJMVVwNVhMQ1NybUFyblBKVHkxR3NTNDNNVHRWb1RLX1ZLRTRKelcxb05KZTRvVVR5SFVwQk5SeGVYQXBlS0txeU1oTXoxREl6Rk5JVGt4TFM4M01TN1dYZU1Oa3BDZ2xuNGxmbVFBakFBIiwiaWQiOiJmY19mUllLWi0yU0lhdUc5dThQenFqVDRBNF8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZVWmpMVWhLU1hWa1RXZG5jSE5LT0hWTU5UWnBlVXRHUlhKaVoyRjJXV2N4VUhkVE1WSXdVSGh4UzNwZldHSklka1psWTA5WVJ6aEVNMk5OY0ZsQlZVbGFWbnBGRWhkbVVsbExXaTB5VTBsaGRVYzVkVGhRZW5GcVZEUkJOQm9pUVVaWWNrVmpja05OU21kdE1rWnlTVkJtY1RkU1pXZFNRbTFWUkc5eWNsTjVkdyIsImZjdiI6IjMiLCJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicWMiOiJDZ3R5YjI5cFltOXpJSFJsWVJBQWZlMUFMVDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGRpc2FkdmFudGFnZSBvZiByb29pYm9zPyIsImxrIjoiR2lOM2FHRjBJR2x6SUhSb1pTQmthWE5oWkhaaGJuUmhaMlVnYjJZZ2NtOXZhV0p2Y3ciLCJicyI6ImMtUHk0bElNejBnc1VjZ3NWaWpKU0ZVb3lzX1BUTW9Ic2xNVEZkTHo4MU1VMHZLTDdDVWVKeGdwU1NtVUUxREhGY0NsZ214V1NtWnhZa3BaWWw1SllucXFRbjRhVEktOXhPY0FJMVVwNVhMQ1NybUFyblBKVHkxR3NTNDNNVHRWb1RLX1ZLRTRKelcxb05KZTRvVVR5SFVwQk5SeGVYQXBlS0txeU1oTXoxREl6Rk5JVGt4TFM4M01TN1dYZU1Oa3BDZ2xuNGxmbVFBakFBIiwiaWQiOiJmY19mUllLWi0yU0lhdUc5dThQenFqVDRBNF8xIn0%3D"
+    },
+    {
+      "question": "Does rooibos tea make you sleepy?",
+      "snippet": "Rooibos is naturally caffeine-free and low in tannins, making it an ideal bedtime tea. Its soothing properties relax the body, aiding in digestion and making sleep come a little easier. This full-bodied brew is a particularly great choice for black tea drinkers.",
+      "title": "Top 5 Teas For Sleep - Discover Perfect Bedtime Tea",
+      "date": "Apr 21, 2022",
+      "link": "https://www.theteamakers.co.uk/blogs/news/top-5-teas-for-sleep#:~:text=Rooibos%20is%20naturally%20caffeine%2Dfree,choice%20for%20black%20tea%20drinkers.",
+      "displayed_link": "https://www.theteamakers.co.uk \u203a blogs \u203a news \u203a top-5-te...",
+      "source_logo": "https://serpapi.com/searches/670a167d7d533e3420164520/images/2f9dfcd98f27ca41d11d677d82eafa8201b5965910ed52a37c15cb8b825eb9e2.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZVWmpMVWhLU1hWa1RXZG5jSE5LT0hWTU5UWnBlVXRHUlhKaVoyRjJXV2N4VUhkVE1WSXdVSGh4UzNwZldHSklka1psWTA5WVJ6aEVNMk5OY0ZsQlZVbGFWbnBGRWhkbVVsbExXaTB5VTBsaGRVYzVkVGhRZW5GcVZEUkJOQm9pUVVaWWNrVmpja05OU21kdE1rWnlTVkJtY1RkU1pXZFNRbTFWUkc5eWNsTjVkdyIsImZjdiI6IjMiLCJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicWMiOiJDZ3R5YjI5cFltOXpJSFJsWVJBQWZlMUFMVDgiLCJxdWVzdGlvbiI6IkRvZXMgcm9vaWJvcyB0ZWEgbWFrZSB5b3Ugc2xlZXB5PyIsImxrIjoiR2lCa2IyVnpJSEp2YjJsaWIzTWdkR1ZoSUcxaGEyVWdlVzkxSUhOc1pXVndlUSIsImJzIjoiYy1QeTRsSU16MGdzVWNnc1ZpakpTRlVveXNfUFRNb0hzbE1URmRMejgxTVUwdktMN0NVZUp4Z3BTU21VRTFESEZjQ2xnbXhXU21aeFlrcFpZbDVKWW5xcVFuNGFUSS05eE9jQUkxVXA1WExDU3JtQXJuUEpUeTFHc1M0M01UdFZvVEtfVktFNEp6VzFvTkplNG9VVHlIVXBCTlJ4ZVhBcGVLS3F5TWhNejFESXpGTklUa3hMUzgzTVM3V1hlTU5rcENnbG40bGZtUUFqQUEiLCJpZCI6ImZjX2ZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0XzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZVWmpMVWhLU1hWa1RXZG5jSE5LT0hWTU5UWnBlVXRHUlhKaVoyRjJXV2N4VUhkVE1WSXdVSGh4UzNwZldHSklka1psWTA5WVJ6aEVNMk5OY0ZsQlZVbGFWbnBGRWhkbVVsbExXaTB5VTBsaGRVYzVkVGhRZW5GcVZEUkJOQm9pUVVaWWNrVmpja05OU21kdE1rWnlTVkJtY1RkU1pXZFNRbTFWUkc5eWNsTjVkdyIsImZjdiI6IjMiLCJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicWMiOiJDZ3R5YjI5cFltOXpJSFJsWVJBQWZlMUFMVDgiLCJxdWVzdGlvbiI6IkRvZXMgcm9vaWJvcyB0ZWEgbWFrZSB5b3Ugc2xlZXB5PyIsImxrIjoiR2lCa2IyVnpJSEp2YjJsaWIzTWdkR1ZoSUcxaGEyVWdlVzkxSUhOc1pXVndlUSIsImJzIjoiYy1QeTRsSU16MGdzVWNnc1ZpakpTRlVveXNfUFRNb0hzbE1URmRMejgxTVUwdktMN0NVZUp4Z3BTU21VRTFESEZjQ2xnbXhXU21aeFlrcFpZbDVKWW5xcVFuNGFUSS05eE9jQUkxVXA1WExDU3JtQXJuUEpUeTFHc1M0M01UdFZvVEtfVktFNEp6VzFvTkplNG9VVHlIVXBCTlJ4ZVhBcGVLS3F5TWhNejFESXpGTklUa3hMUzgzTVM3V1hlTU5rcENnbG40bGZtUUFqQUEiLCJpZCI6ImZjX2ZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0XzEifQ%3D%3D"
+    },
+    {
+      "question": "Is rooibos tea high in caffeine?",
+      "snippet": "Because rooibos tea is naturally caffeine-free, it's an excellent alternative to black or green tea ( 8 ). Rooibos also has lower tannin levels than regular black or green tea ( 8 ). Tannins, natural compounds present in green and black tea, interfere with the absorption of certain nutrients, such as iron.",
+      "title": "5 Health Benefits of Rooibos Tea (Plus Side Effects) - Healthline",
+      "link": "https://www.healthline.com/nutrition/rooibos-tea-benefits#:~:text=Because%20rooibos%20tea%20is%20naturally,certain%20nutrients%2C%20such%20as%20iron.",
+      "displayed_link": "https://www.healthline.com \u203a nutrition \u203a rooibos-tea-ben...",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZVWmpMVWhLU1hWa1RXZG5jSE5LT0hWTU5UWnBlVXRHUlhKaVoyRjJXV2N4VUhkVE1WSXdVSGh4UzNwZldHSklka1psWTA5WVJ6aEVNMk5OY0ZsQlZVbGFWbnBGRWhkbVVsbExXaTB5VTBsaGRVYzVkVGhRZW5GcVZEUkJOQm9pUVVaWWNrVmpja05OU21kdE1rWnlTVkJtY1RkU1pXZFNRbTFWUkc5eWNsTjVkdyIsImZjdiI6IjMiLCJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicWMiOiJDZ3R5YjI5cFltOXpJSFJsWVJBQWZlMUFMVDgiLCJxdWVzdGlvbiI6IklzIHJvb2lib3MgdGVhIGhpZ2ggaW4gY2FmZmVpbmU/IiwibGsiOiJHaDlwY3lCeWIyOXBZbTl6SUhSbFlTQm9hV2RvSUdsdUlHTmhabVpsYVc1bCIsImJzIjoiYy1QeTRsSU16MGdzVWNnc1ZpakpTRlVveXNfUFRNb0hzbE1URmRMejgxTVUwdktMN0NVZUp4Z3BTU21VRTFESEZjQ2xnbXhXU21aeFlrcFpZbDVKWW5xcVFuNGFUSS05eE9jQUkxVXA1WExDU3JtQXJuUEpUeTFHc1M0M01UdFZvVEtfVktFNEp6VzFvTkplNG9VVHlIVXBCTlJ4ZVhBcGVLS3F5TWhNejFESXpGTklUa3hMUzgzTVM3V1hlTU5rcENnbG40bGZtUUFqQUEiLCJpZCI6ImZjX2ZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0XzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZVWmpMVWhLU1hWa1RXZG5jSE5LT0hWTU5UWnBlVXRHUlhKaVoyRjJXV2N4VUhkVE1WSXdVSGh4UzNwZldHSklka1psWTA5WVJ6aEVNMk5OY0ZsQlZVbGFWbnBGRWhkbVVsbExXaTB5VTBsaGRVYzVkVGhRZW5GcVZEUkJOQm9pUVVaWWNrVmpja05OU21kdE1rWnlTVkJtY1RkU1pXZFNRbTFWUkc5eWNsTjVkdyIsImZjdiI6IjMiLCJlaSI6ImZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0IiwicWMiOiJDZ3R5YjI5cFltOXpJSFJsWVJBQWZlMUFMVDgiLCJxdWVzdGlvbiI6IklzIHJvb2lib3MgdGVhIGhpZ2ggaW4gY2FmZmVpbmU%2FIiwibGsiOiJHaDlwY3lCeWIyOXBZbTl6SUhSbFlTQm9hV2RvSUdsdUlHTmhabVpsYVc1bCIsImJzIjoiYy1QeTRsSU16MGdzVWNnc1ZpakpTRlVveXNfUFRNb0hzbE1URmRMejgxTVUwdktMN0NVZUp4Z3BTU21VRTFESEZjQ2xnbXhXU21aeFlrcFpZbDVKWW5xcVFuNGFUSS05eE9jQUkxVXA1WExDU3JtQXJuUEpUeTFHc1M0M01UdFZvVEtfVktFNEp6VzFvTkplNG9VVHlIVXBCTlJ4ZVhBcGVLS3F5TWhNejFESXpGTklUa3hMUzgzTVM3V1hlTU5rcENnbG40bGZtUUFqQUEiLCJpZCI6ImZjX2ZSWUtaLTJTSWF1Rzl1OFB6cWpUNEE0XzEifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "5 Health Benefits of Rooibos Tea (Plus Side Effects)",
+      "link": "https://www.healthline.com/nutrition/rooibos-tea-benefits",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.healthline.com/nutrition/rooibos-tea-benefits&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQFnoECBEQAQ&usg=AOvVaw0ejVzssQ79xlbfG4rijFBg",
+      "displayed_link": "https://www.healthline.com \u203a nutrition \u203a rooibos-tea-ben...",
+      "favicon": "https://serpapi.com/searches/670a167d7d533e3420164520/images/6dd0980dedf7f864807e2ed7e800c5dc081ad2c3df9eae20033098336a5d48c6.png",
+      "snippet": "Rooibos tea may benefit heart health by positively affecting blood pressure. It may also lower LDL (bad) cholesterol and raise HDL (good) cholesterol in those ...",
+      "snippet_highlighted_words": [
+        "Rooibos tea"
+      ],
+      "source": "Healthline"
+    },
+    {
+      "position": 2,
+      "title": "Rooibos tea: Benefits, nutrition, and how to drink it",
+      "link": "https://www.medicalnewstoday.com/articles/323637",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.medicalnewstoday.com/articles/323637&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQFnoECAwQAQ&usg=AOvVaw3Q5nhQT8pNcHP8zIB18R5h",
+      "displayed_link": "https://www.medicalnewstoday.com \u203a articles",
+      "favicon": "https://serpapi.com/searches/670a167d7d533e3420164520/images/6dd0980dedf7f864807e2ed7e800c5dcd3b0f9d62cd38ae076b52ebaee43cea4.png",
+      "snippet": "Rooibos tea is a delicious alternative to green or black tea. It is naturally caffeine-free and has many other potential health benefits.",
+      "snippet_highlighted_words": [
+        "Rooibos tea"
+      ],
+      "source": "MedicalNewsToday"
+    },
+    {
+      "position": 3,
+      "title": "Rooibos Tea, USDA Certified Organic Tea, MY RED TEA. ...",
+      "link": "https://www.amazon.com/Rooibos-Tea-Certified-Friendly-Caffeine/dp/B01FLKVRC8",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/Rooibos-Tea-Certified-Friendly-Caffeine/dp/B01FLKVRC8&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQFnoECEsQAQ&usg=AOvVaw1kYFKy4M0XwcUIqAZLOw32",
+      "displayed_link": "https://www.amazon.com \u203a Rooibos-Tea-Certified-Frien...",
+      "favicon": "https://serpapi.com/searches/670a167d7d533e3420164520/images/6dd0980dedf7f864807e2ed7e800c5dce0fd43a071bca1b79428c091e459261a.png",
+      "snippet": "Rooibos Tea, USDA Certified Organic Tea, MY RED TEA. Tagless South African, 100% Pure, Single Origin, Natural, Farmer Friendly, GMO and Caffeine Free (80).",
+      "snippet_highlighted_words": [
+        "Rooibos Tea"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 30,
+            "price": 16.95,
+            "currency": "$"
+          },
+          "extensions": [
+            "4.6(5,284)",
+            "$16.95",
+            "\u200e30",
+            "day returns",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Amazon.com"
+    },
+    {
+      "position": 4,
+      "title": "Organic Vanilla Rooibos Tea",
+      "link": "https://shop.equalexchange.coop/products/organic-vanilla-rooibos-tea?srsltid=AfmBOoq6uMO3Lbn1wq7sadDCy39cczlSBAqAq7oYYHS8lisAwYgMEP6W",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://shop.equalexchange.coop/products/organic-vanilla-rooibos-tea%3Fsrsltid%3DAfmBOoq6uMO3Lbn1wq7sadDCy39cczlSBAqAq7oYYHS8lisAwYgMEP6W&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQFnoECEwQAQ&usg=AOvVaw1ScU0PbEAD4of2Q1o8fS0S",
+      "displayed_link": "https://shop.equalexchange.coop \u203a products \u203a organic-va...",
+      "favicon": "https://serpapi.com/searches/670a167d7d533e3420164520/images/6dd0980dedf7f864807e2ed7e800c5dca15d2e4db3637a86b85342f504f674dd.png",
+      "snippet": "Sweet, inviting vanilla accents this red bush tea from South Africa. It's almost like dessert in a cup. Caffeine-Free. 6 Pack contains six boxes (20 tea bags ...",
+      "snippet_highlighted_words": [
+        "tea",
+        "tea"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 4.9,
+            "price": 21.6,
+            "currency": "$",
+            "free_day_delivery": 3
+          },
+          "extensions": [
+            "4.9(48)",
+            "$21.60",
+            "\u200eFree 3\u20137 day delivery",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Equal Exchange"
+    },
+    {
+      "position": 5,
+      "title": "Health Benefits of Rooibos",
+      "link": "https://www.webmd.com/diet/health-benefits-rooibos",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.webmd.com/diet/health-benefits-rooibos&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQFnoECEcQAQ&usg=AOvVaw0NEHi5c6DyOQhzmscTWEw6",
+      "displayed_link": "https://www.webmd.com \u203a ... \u203a Reference",
+      "favicon": "https://serpapi.com/searches/670a167d7d533e3420164520/images/6dd0980dedf7f864807e2ed7e800c5dc65cef7a7d729bd20df74d88a6f5a0143.png",
+      "date": "Nov 23, 2022",
+      "snippet": "Enjoyed as a caffeine-free alternative to green or black tea, rooibos is reddish-brown in color and has a sweet, earthy flavor. It's most ...",
+      "snippet_highlighted_words": [
+        "tea",
+        "rooibos"
+      ],
+      "source": "WebMD"
+    },
+    {
+      "position": 6,
+      "title": "Rooibos",
+      "link": "https://en.wikipedia.org/wiki/Rooibos",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Rooibos&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQFnoECEkQAQ&usg=AOvVaw3iCwXstFdpMKWHPUe1PSAl",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Rooibos",
+      "favicon": "https://serpapi.com/searches/670a167d7d533e3420164520/images/6dd0980dedf7f864807e2ed7e800c5dc053278f3fd4c19221fffee599163620e.png",
+      "snippet": "The leaves are used to make a herbal tea that is called rooibos (especially in Southern Africa), bush tea, red tea, or redbush tea (predominantly in Great ...",
+      "snippet_highlighted_words": [
+        "redbush tea"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 7,
+      "title": "Rooibos Tea | Luxury Gourmet Tea",
+      "link": "https://teaforte.com/collections/gourmet-tea-rooibos-tea",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://teaforte.com/collections/gourmet-tea-rooibos-tea&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQFnoECEYQAQ&usg=AOvVaw32h8SI6r17GKLOvFIdQ52j",
+      "displayed_link": "https://teaforte.com \u203a ... \u203a ALL TEA \u203a ROOIBOS TEA",
+      "favicon": "https://serpapi.com/searches/670a167d7d533e3420164520/images/6dd0980dedf7f864807e2ed7e800c5dc2e191266770e0e663b19859e4d720fa2.png",
+      "snippet": "Part of Collection ... Caffeine-free red tea layered with sweet berries and rose. ... Juicy apricot and almond pair for a refreshing infusion. ... Apples, ...",
+      "snippet_highlighted_words": [
+        "tea"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 4,
+            "currency": "Free \u2013 day delivery over $",
+            "unknown": 30
+          },
+          "extensions": [
+            "Free 4\u20137 day delivery over $99",
+            "\u200e30",
+            "day returns"
+          ]
+        }
+      },
+      "source": "Tea Forte"
+    },
+    {
+      "position": 8,
+      "title": "South African Rooibos Superior Organic",
+      "link": "https://www.uptontea.com/rooibos-tea/rooibos-organic-loose-leaf-herbal-tea/p/V00005/?srsltid=AfmBOorWk_h03BLdQWjgd1yp9hZnh4cZ6tBswE5qoDSHIS5aGFJYlK3c",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uptontea.com/rooibos-tea/rooibos-organic-loose-leaf-herbal-tea/p/V00005/%3Fsrsltid%3DAfmBOorWk_h03BLdQWjgd1yp9hZnh4cZ6tBswE5qoDSHIS5aGFJYlK3c&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQFnoECE4QAQ&usg=AOvVaw2PsGEaCx709NaRk-pz9MGh",
+      "displayed_link": "https://www.uptontea.com \u203a Rooibos Tea",
+      "snippet": "This organic Rooibos has an inviting aroma, with hints of vanilla and citrus. The smooth flavor has notes of spice and caramel.",
+      "snippet_highlighted_words": [
+        "Rooibos"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 30,
+            "price": 4,
+            "currency": "Free \u2013 day delivery over $"
+          },
+          "extensions": [
+            "4.8(37)",
+            "$2.00 to $9.75",
+            "\u200eFree 4\u20138 day delivery over $75",
+            "\u200e30",
+            "day returns",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Upton Tea Imports"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?q=rooibos+tea&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&udm=18&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQ8poLegQIUhAF",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=rooibos+tea",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Rooibos tea benefits sexually",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Rooibos+tea+benefits+sexually&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQ1QJ6BAh0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Rooibos+tea+benefits+sexually"
+    },
+    {
+      "block_position": 1,
+      "query": "Rooibos tea side effects",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Rooibos+tea+side+effects&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQ1QJ6BAhxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Rooibos+tea+side+effects"
+    },
+    {
+      "block_position": 1,
+      "query": "Rooibos tea side effects estrogen",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Rooibos+tea+side+effects+estrogen&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQ1QJ6BAhvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Rooibos+tea+side+effects+estrogen"
+    },
+    {
+      "block_position": 1,
+      "query": "How much rooibos tea should i drink a day",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=How+much+rooibos+tea+should+i+drink+a+day&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQ1QJ6BAhtEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=How+much+rooibos+tea+should+i+drink+a+day"
+    },
+    {
+      "block_position": 1,
+      "query": "Rooibos tea caffeine",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Rooibos+tea+caffeine&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQ1QJ6BAhnEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Rooibos+tea+caffeine"
+    },
+    {
+      "block_position": 1,
+      "query": "Rooibos tea benefits for skin",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Rooibos+tea+benefits+for+skin&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQ1QJ6BAhqEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Rooibos+tea+benefits+for+skin"
+    },
+    {
+      "block_position": 1,
+      "query": "Rooibos tea side effects testosterone",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Rooibos+tea+side+effects+testosterone&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQ1QJ6BAhoEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Rooibos+tea+side+effects+testosterone"
+    },
+    {
+      "block_position": 1,
+      "query": "Pros and cons of rooibos tea",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Pros+and+cons+of+rooibos+tea&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQ1QJ6BAhmEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pros+and+cons+of+rooibos+tea"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Bag",
+      "link": "https://www.google.com/search?hl=en&q=bag+rooibos+tea&gl=us&shoprs=GAEqC3Jvb2lib3MgdGVhMhMIARIDQmFnOgoIiP04ELmvOzAAWJvRH2AB&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQip4GKAF6BAg5EF8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bag+rooibos+tea"
+    },
+    {
+      "query": "Loose Leaf",
+      "link": "https://www.google.com/search?hl=en&q=loose+leaf+rooibos+tea&gl=us&shoprs=GAEqC3Jvb2lib3MgdGVhMhoIARIKTG9vc2UgTGVhZjoKCIj9OBCasDswAFib0R9gAQ&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQip4GKAJ6BAg5EGA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=loose+leaf+rooibos+tea"
+    },
+    {
+      "query": "Organic",
+      "link": "https://www.google.com/search?hl=en&q=organic+rooibos+tea&gl=us&shoprs=GAEqC3Jvb2lib3MgdGVhMhkIARIHT3JnYW5pYzoMCL75hwEQv_mHATADWJvRH2AB&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQip4GKAN6BAg5EGE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=organic+rooibos+tea"
+    },
+    {
+      "query": "Green Tea",
+      "link": "https://www.google.com/search?hl=en&q=green+tea+rooibos&gl=us&shoprs=GAEqC3Jvb2lib3MgdGVhMhsIARIJR3JlZW4gVGVhOgwI-8b8ARDZ_YkCMABYm9EfYAE&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQip4GKAR6BAg5EGI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=green+tea+rooibos"
+    },
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?hl=en&q=rooibos+tea+nearby&gl=us&shoprs=GAMqC3Jvb2lib3MgdGVhMgwIAxIGTmVhcmJ5GAJYm9EfYAE&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQip4GKAV6BAg5EGM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=rooibos+tea+nearby"
+    },
+    {
+      "query": "Get it fast",
+      "link": "https://www.google.com/search?hl=en&q=rooibos+tea&gl=us&shoprs=Eg2aAQoKCBADOAFAAkgBGBQqC3Jvb2lib3MgdGVhMiQIFBILR2V0IGl0IGZhc3QiDZoBCgoIEAM4AUACSAEqBBABGAFgAQ&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQip4GKAZ6BAg5EGQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=rooibos+tea"
+    },
+    {
+      "query": "Brand",
+      "link": "https://www.google.com/search?hl=en&q=brand+rooibos+tea&gl=us&shoprs=GBIqC3Jvb2lib3MgdGVhMgkIEhIFQnJhbmRgAQ&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQip4GKAd6BAg5EGU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brand+rooibos+tea"
+    },
+    {
+      "query": "Caffeine-free",
+      "link": "https://www.google.com/search?hl=en&q=caffeine-free+rooibos+tea&gl=us&shoprs=GAEqC3Jvb2lib3MgdGVhMh8IARINQ2FmZmVpbmUtZnJlZToMCKDxigEQofGKATADWJvRH2AB&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQip4GKAh6BAg5EGY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=caffeine-free+rooibos+tea"
+    },
+    {
+      "query": "Red",
+      "link": "https://www.google.com/search?hl=en&q=red+rooibos+tea&gl=us&shoprs=GAEqC3Jvb2lib3MgdGVhMhUIARIDUmVkOgwI-8b8ARCEx_wBMABYm9EfYAE&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQip4GKAl6BAg5EGc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=red+rooibos+tea"
+    },
+    {
+      "query": "Recipe",
+      "link": "https://www.google.com/search?hl=en&q=recipe+rooibos+tea&gl=us&shoprs=GBIqC3Jvb2lib3MgdGVhMgoIEhIGUmVjaXBlYAE&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQip4GKAp6BAg5EGg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=recipe+rooibos+tea"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?hl=en&q=buy+rooibos+tea&gl=us&shoprs=GBIqC3Jvb2lib3MgdGVhMgcIEhIDQnV5YAE&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQip4GKAt6BAg5EGk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=buy+rooibos+tea"
+    },
+    {
+      "query": "Vanilla",
+      "link": "https://www.google.com/search?hl=en&q=vanilla+rooibos+tea&gl=us&shoprs=GAEqC3Jvb2lib3MgdGVhMhcIARIHVmFuaWxsYToKCI-CORCkgjkwAFib0R9gAQ&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQip4GKAx6BAg5EGo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=vanilla+rooibos+tea"
+    },
+    {
+      "query": "Orange",
+      "link": "https://www.google.com/search?hl=en&q=orange+rooibos+tea&gl=us&shoprs=GAEqC3Jvb2lib3MgdGVhMhYIARIGT3JhbmdlOgoIj4I5EKWCOTAAWJvRH2AB&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQip4GKA16BAg5EGs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=orange+rooibos+tea"
+    },
+    {
+      "query": "Slimming",
+      "link": "https://www.google.com/search?hl=en&q=slimming+rooibos+tea&gl=us&shoprs=GAEqC3Jvb2lib3MgdGVhMhgIARIIU2xpbW1pbmc6Cgi8kGcQvpBnMABYm9EfYAE&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQip4GKA56BAg5EGw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=slimming+rooibos+tea"
+    },
+    {
+      "query": "Ready Serve",
+      "link": "https://www.google.com/search?hl=en&q=ready+serve+rooibos+tea&gl=us&shoprs=GAEqC3Jvb2lib3MgdGVhMhsIARILUmVhZHkgU2VydmU6CgiI_TgQif04MABYm9EfYAE&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQip4GKA96BAg5EG0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ready+serve+rooibos+tea"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?hl=en&q=reviews+rooibos+tea&gl=us&shoprs=GBIqC3Jvb2lib3MgdGVhMgsIEhIHUmV2aWV3c2AB&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQip4GKBB6BAg5EG4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=reviews+rooibos+tea"
+    },
+    {
+      "query": "Iced Tea",
+      "link": "https://www.google.com/search?hl=en&q=iced+tea+rooibos&gl=us&shoprs=GAEqC3Jvb2lib3MgdGVhMhoIARIISWNlZCBUZWE6DAih24gBEKLbiAEwA1ib0R9gAQ&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQip4GKBF6BAg5EG8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=iced+tea+rooibos"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?hl=en&q=rooibos+tea+sale&gl=us&shoprs=EgRKAhgBGAYqC3Jvb2lib3MgdGVhMhMIBhIHT24gc2FsZRgCIgRKAhgBWJvRH2AB&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQip4GKBJ6BAg5EHA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=rooibos+tea+sale"
+    },
+    {
+      "query": "Ginger",
+      "link": "https://www.google.com/search?hl=en&q=ginger+rooibos+tea&gl=us&shoprs=GAEqC3Jvb2lib3MgdGVhMhYIARIGR2luZ2VyOgoIj4I5EJOCOTAAWJvRH2AB&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQip4GKBN6BAg5EHE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ginger+rooibos+tea"
+    },
+    {
+      "query": "Chai",
+      "link": "https://www.google.com/search?hl=en&q=chai+rooibos+tea&gl=us&shoprs=GAEqC3Jvb2lib3MgdGVhMhQIARIEQ2hhaToKCI-CORCegjkwAFib0R9gAQ&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQip4GKBR6BAg5EHI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=chai+rooibos+tea"
+    },
+    {
+      "query": "Chamomile",
+      "link": "https://www.google.com/search?hl=en&q=chamomile+rooibos+tea&gl=us&shoprs=GAEqC3Jvb2lib3MgdGVhMhkIARIJQ2hhbW9taWxlOgoIj4I5EJCCOTAAWJvRH2AB&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQip4GKBV6BAg5EHM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=chamomile+rooibos+tea"
+    },
+    {
+      "query": "Unsweetened",
+      "link": "https://www.google.com/search?hl=en&q=unsweetened+rooibos+tea&gl=us&shoprs=GAEqC3Jvb2lib3MgdGVhMhsIARILVW5zd2VldGVuZWQ6CgjZuDsQ2rg7MABYm9EfYAE&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQip4GKBZ6BAg5EHQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=unsweetened+rooibos+tea"
+    },
+    {
+      "query": "Bags",
+      "link": "https://www.google.com/search?hl=en&q=bags+rooibos+tea&gl=us&shoprs=GBIqC3Jvb2lib3MgdGVhMggIEhIEQmFnc2AB&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQip4GKBd6BAg5EHU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bags+rooibos+tea"
+    },
+    {
+      "query": "Low Calorie",
+      "link": "https://www.google.com/search?hl=en&q=low+calorie+rooibos+tea&gl=us&shoprs=GAEqC3Jvb2lib3MgdGVhMhsIARILTG93IENhbG9yaWU6CgiGgjkQh4I5MANYm9EfYAE&sa=X&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQip4GKBh6BAg5EHY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=low+calorie+rooibos+tea"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Your opinion on rooibos tea",
+      "link": "https://www.reddit.com/r/tea/comments/1e0p4bf/your_opinion_on_rooibos_tea/",
+      "date": "3mo ago",
+      "extensions": [
+        "r/tea",
+        "80+ comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "Give me your best rooibos recommendation",
+      "link": "https://www.reddit.com/r/tea/comments/15u3ab5/give_me_your_best_rooibos_recommendation/",
+      "date": "1y ago",
+      "extensions": [
+        "r/tea",
+        "10+ comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "What's so special about rooibos tea? I'm drinking this can drink called BOS ...",
+      "link": "https://www.quora.com/Whats-so-special-about-rooibos-tea-Im-drinking-this-can-drink-called-BOS-and-it-states-that-rooi-bos-tea-is-very-special",
+      "date": "3y ago",
+      "extensions": [
+        "3 answers"
+      ],
+      "source": "Quora"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=rooibos+tea&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=fRYKZ-2SIauG9u8PzqjT4A4&start=10&sa=N&sstk=AagrsuhwQf7un7VPOWPstPiEBKccaQNJc1jlbYRz1JpNK8msJhinAPCxxERZD0I-zbjCtBlwrmDkkfbD8QUqD5rLwmycihOxhJXD9g&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQ8NMDegQIChAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=rooibos+tea&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=fRYKZ-2SIauG9u8PzqjT4A4&start=10&sa=N&sstk=AagrsuhwQf7un7VPOWPstPiEBKccaQNJc1jlbYRz1JpNK8msJhinAPCxxERZD0I-zbjCtBlwrmDkkfbD8QUqD5rLwmycihOxhJXD9g&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQ8tMDegQIChAE",
+      "3": "https://www.google.com/search?q=rooibos+tea&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=fRYKZ-2SIauG9u8PzqjT4A4&start=20&sa=N&sstk=AagrsuhwQf7un7VPOWPstPiEBKccaQNJc1jlbYRz1JpNK8msJhinAPCxxERZD0I-zbjCtBlwrmDkkfbD8QUqD5rLwmycihOxhJXD9g&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQ8tMDegQIChAG",
+      "4": "https://www.google.com/search?q=rooibos+tea&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=fRYKZ-2SIauG9u8PzqjT4A4&start=30&sa=N&sstk=AagrsuhwQf7un7VPOWPstPiEBKccaQNJc1jlbYRz1JpNK8msJhinAPCxxERZD0I-zbjCtBlwrmDkkfbD8QUqD5rLwmycihOxhJXD9g&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQ8tMDegQIChAI",
+      "5": "https://www.google.com/search?q=rooibos+tea&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=fRYKZ-2SIauG9u8PzqjT4A4&start=40&sa=N&sstk=AagrsuhwQf7un7VPOWPstPiEBKccaQNJc1jlbYRz1JpNK8msJhinAPCxxERZD0I-zbjCtBlwrmDkkfbD8QUqD5rLwmycihOxhJXD9g&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQ8tMDegQIChAK",
+      "6": "https://www.google.com/search?q=rooibos+tea&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=fRYKZ-2SIauG9u8PzqjT4A4&start=50&sa=N&sstk=AagrsuhwQf7un7VPOWPstPiEBKccaQNJc1jlbYRz1JpNK8msJhinAPCxxERZD0I-zbjCtBlwrmDkkfbD8QUqD5rLwmycihOxhJXD9g&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQ8tMDegQIChAM",
+      "7": "https://www.google.com/search?q=rooibos+tea&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=fRYKZ-2SIauG9u8PzqjT4A4&start=60&sa=N&sstk=AagrsuhwQf7un7VPOWPstPiEBKccaQNJc1jlbYRz1JpNK8msJhinAPCxxERZD0I-zbjCtBlwrmDkkfbD8QUqD5rLwmycihOxhJXD9g&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQ8tMDegQIChAO",
+      "8": "https://www.google.com/search?q=rooibos+tea&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=fRYKZ-2SIauG9u8PzqjT4A4&start=70&sa=N&sstk=AagrsuhwQf7un7VPOWPstPiEBKccaQNJc1jlbYRz1JpNK8msJhinAPCxxERZD0I-zbjCtBlwrmDkkfbD8QUqD5rLwmycihOxhJXD9g&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQ8tMDegQIChAQ",
+      "9": "https://www.google.com/search?q=rooibos+tea&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=fRYKZ-2SIauG9u8PzqjT4A4&start=80&sa=N&sstk=AagrsuhwQf7un7VPOWPstPiEBKccaQNJc1jlbYRz1JpNK8msJhinAPCxxERZD0I-zbjCtBlwrmDkkfbD8QUqD5rLwmycihOxhJXD9g&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQ8tMDegQIChAS",
+      "10": "https://www.google.com/search?q=rooibos+tea&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=fRYKZ-2SIauG9u8PzqjT4A4&start=90&sa=N&sstk=AagrsuhwQf7un7VPOWPstPiEBKccaQNJc1jlbYRz1JpNK8msJhinAPCxxERZD0I-zbjCtBlwrmDkkfbD8QUqD5rLwmycihOxhJXD9g&ved=2ahUKEwitxbTtmoiJAxUrg_0HHU7UFOwQ8tMDegQIChAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=rooibos+tea&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=rooibos+tea&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=rooibos+tea&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=rooibos+tea&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=rooibos+tea&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=rooibos+tea&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=rooibos+tea&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=rooibos+tea&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=rooibos+tea&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=rooibos+tea&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=rooibos+tea&start=90"
+    }
+  }
+}

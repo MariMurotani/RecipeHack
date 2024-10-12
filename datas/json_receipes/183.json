@@ -1,0 +1,619 @@
+{
+  "search_metadata": {
+    "id": "670a17ae910986e49fd54706",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5b1b46998a3aa495/670a17ae910986e49fd54706.json",
+    "created_at": "2024-10-12 06:31:10 UTC",
+    "processed_at": "2024-10-12 06:31:10 UTC",
+    "google_url": "https://www.google.com/search?q=guava&oq=guava&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/5b1b46998a3aa495/670a17ae910986e49fd54706.html",
+    "total_time_taken": 0.57
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "guava",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "guava",
+    "total_results": 76100000,
+    "time_taken_displayed": 0.3,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "title": "Guava",
+    "type": "Fruit",
+    "entity_type": "food, kp3_verticals",
+    "kgmid": "/m/016zpp",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/016zpp&hl=en-US&q=Guava",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F016zpp&location=Austin%2CTexas%2CUnited+States&q=Guava",
+    "description": "Guava is a common tropical fruit cultivated in many tropical and subtropical regions. The common guava Psidium guajava is a small tree in the myrtle family, native to Mexico, Central America, the Caribbean and northern South America.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Guava"
+    },
+    "sources_include": "USDAGuava38 Calories - 1 fruit, without refuse (55 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173044/nutrients"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Papaya",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm87yIYbt2T3puU1i7YE6zrPpqXdAwLssYncWmmJTXl66_RyctREJ0_9mL1FBauGKnKL5ylKACO3rj6jGexG7k_owUzA-zh1rBemRaJHjlqdviHeVC3t3ThQ-XF8cjMbUq6PxuV2obrmubCyLIaeMgTxzW6DVP4mjKzG0bb3PMHVk2hApzAp_aIU5uNXaR91sjEl_QiNJatcMkJgEuG6xb5ihAcQDj03JN1vJ3lhb-ygx8wtGa5dI5HPEGNXm8tGqXdfhOI8%3D&q=Papaya&sa=X&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8Qs9oBKAB6BAg4EAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Papaya&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm87yIYbt2T3puU1i7YE6zrPpqXdAwLssYncWmmJTXl66_RyctREJ0_9mL1FBauGKnKL5ylKACO3rj6jGexG7k_owUzA-zh1rBemRaJHjlqdviHeVC3t3ThQ-XF8cjMbUq6PxuV2obrmubCyLIaeMgTxzW6DVP4mjKzG0bb3PMHVk2hApzAp_aIU5uNXaR91sjEl_QiNJatcMkJgEuG6xb5ihAcQDj03JN1vJ3lhb-ygx8wtGa5dI5HPEGNXm8tGqXdfhOI8%3D",
+        "image": "https://serpapi.com/searches/670a17ae910986e49fd54706/images/88985f68181789bfce2d80e386591ef24a0da5146785c7be2abd73e51d37f483e9535313ad80cc13623adbec12502f73.jpeg"
+      },
+      {
+        "name": "Mango",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm0s3s1aknNj7aLeUbiWTGsnpIj1cV9BDAqeqmu6hGYAzZGNv-eSqws97aBjI3kW1VvgafPuV9Vwd_SkCxJP2aGiARfaWx6JyEGlJw_x03QsCxJotP4RUkuseUZ6GWwoRjaHKYoXeNpsYbKH268TiEGJ8ys3KFiKCrTTl7pEgnW0YmUrnP586LbAZuTYknD6956H1cnuNdlQ_4jrETyhZ404KekzZ08IVTldpxMNYU_g9ZOCnJw%3D%3D&q=Mango&sa=X&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8Qs9oBKAB6BAg4EAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Mango&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm0s3s1aknNj7aLeUbiWTGsnpIj1cV9BDAqeqmu6hGYAzZGNv-eSqws97aBjI3kW1VvgafPuV9Vwd_SkCxJP2aGiARfaWx6JyEGlJw_x03QsCxJotP4RUkuseUZ6GWwoRjaHKYoXeNpsYbKH268TiEGJ8ys3KFiKCrTTl7pEgnW0YmUrnP586LbAZuTYknD6956H1cnuNdlQ_4jrETyhZ404KekzZ08IVTldpxMNYU_g9ZOCnJw%3D%3D",
+        "image": "https://serpapi.com/searches/670a17ae910986e49fd54706/images/88985f68181789bfce2d80e386591ef24a0da5146785c7be2abd73e51d37f483c13a46fc861b1a3b6149e9bd558b2014.jpeg"
+      },
+      {
+        "name": "Soursop",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQd4CmdxW8sxY0zbfc41DKCAD2kzgtGtEs7qLcpdi-L5-dSsOqXInNjM7zJRWN1nHiYot-xAgwFJtr3fKlQsGq2t-_yrz2CORWbGRMGOz67ihgw455y-g9C_NGrvpi0v2Mi6N9yHSy1jEIGrQ4zmqiY6-ycwH4nb_Kg0-odUdYh3JvIVV3VajXQhYZBJzKh6cslHGtejXnhPCJrhWbgVGhNwjo6N9C7PsTLfrE2Q9OecD9tigFjYvExrzp1TsP5pJupRPV5M%3D&q=Soursop&sa=X&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8Qs9oBKAB6BAg4EA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Soursop&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQd4CmdxW8sxY0zbfc41DKCAD2kzgtGtEs7qLcpdi-L5-dSsOqXInNjM7zJRWN1nHiYot-xAgwFJtr3fKlQsGq2t-_yrz2CORWbGRMGOz67ihgw455y-g9C_NGrvpi0v2Mi6N9yHSy1jEIGrQ4zmqiY6-ycwH4nb_Kg0-odUdYh3JvIVV3VajXQhYZBJzKh6cslHGtejXnhPCJrhWbgVGhNwjo6N9C7PsTLfrE2Q9OecD9tigFjYvExrzp1TsP5pJupRPV5M%3D",
+        "image": "https://serpapi.com/searches/670a17ae910986e49fd54706/images/88985f68181789bfce2d80e386591ef24a0da5146785c7be2abd73e51d37f483a0a8b39b8ca62688ec74abfa45c5d6a6.jpeg"
+      },
+      {
+        "name": "Lychee",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm04pvocveF9EUNCTG7NgERSyTwY3PIn4w8kW26UUdKBwM-PAHEYZDdzU03WXyrtAiRJDMEaNjzQUVk0m5uQ_ZKm_WMjwKtxkWjC6g-oE69E8GjVmYY1j5KZK1C2KKWjDt-1lynw3heiCSG0GyzCqfWPgSH6-uWW52yCbIe5oeFz9YIzWA3Wtjsj9VV5RDXX_RczeWDOHPDyUCgSXZFrf3qZD0loYowR9R3FRt7dWlqlwGxsCNOjhpVlWmslAQ5QvOD6FO4c%3D&q=Lychee&sa=X&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8Qs9oBKAB6BAg4EBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lychee&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm04pvocveF9EUNCTG7NgERSyTwY3PIn4w8kW26UUdKBwM-PAHEYZDdzU03WXyrtAiRJDMEaNjzQUVk0m5uQ_ZKm_WMjwKtxkWjC6g-oE69E8GjVmYY1j5KZK1C2KKWjDt-1lynw3heiCSG0GyzCqfWPgSH6-uWW52yCbIe5oeFz9YIzWA3Wtjsj9VV5RDXX_RczeWDOHPDyUCgSXZFrf3qZD0loYowR9R3FRt7dWlqlwGxsCNOjhpVlWmslAQ5QvOD6FO4c%3D",
+        "image": "https://serpapi.com/searches/670a17ae910986e49fd54706/images/88985f68181789bfce2d80e386591ef24a0da5146785c7be2abd73e51d37f483e218b3490b379633369f0f337fa9a35c.jpeg"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "0.5 g",
+        "0%"
+      ],
+      "cholesterol": [
+        "0 mg",
+        "0%"
+      ],
+      "sodium": [
+        "1 mg",
+        "0%"
+      ],
+      "potassium": [
+        "229 mg",
+        "6%"
+      ],
+      "total_carbohydrate": [
+        "8 g",
+        "2%"
+      ],
+      "protein": [
+        "1.4 g",
+        "2%"
+      ]
+    }
+  },
+  "related_questions": [
+    {
+      "question": "What does guava taste like?",
+      "snippet": "Guava tastes like a cross between pineapple and strawberry, with flesh similar to a pear. It's also similar to passion fruit in flavor. Overall, the guava is sweet without being saccharine and has an overall tropical essence.",
+      "title": "What Is Guava? - The Spruce Eats",
+      "date": "Jun 29, 2022",
+      "link": "https://www.thespruceeats.com/what-is-guava-5117015#:~:text=Guava%20tastes%20like%20a%20cross,has%20an%20overall%20tropical%20essence.",
+      "displayed_link": "https://www.thespruceeats.com \u203a what-is-guava-5117015",
+      "source_logo": "https://serpapi.com/searches/670a17ae910986e49fd54706/images/b097ebd2173baadc9bb56550795c0d84c68ce6c53e3ecc523be48086e23de34f.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFQyeFdRM0V6ZG1sV00xQkNaRTE1YUdWNlpVdDZiR3hsTUVOb1Zqa3RNVll6VEhwa1JpMUplRkJVTjNORldtSnRaMjgzWlVaMVNYRlpaMWxJYVVkbGNGRnFaRU5JRWhkeWFHTkxXbDltTjB0aFpVaDNZbXRRYldRMlJTMUJXUm9pUVVaWWNrVmpjbmhaV1hNdGFWcGZaMDV5VTNsblpGbEJhbEZYVGpkdVdEUmpkdyIsImZjdiI6IjMiLCJlaSI6InJoY0taX2Y3S2FlSHdia1BtZDZFLUFZIiwicWMiOiJDZ1ZuZFdGMllSQUFmVmdTS1Q4IiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgZ3VhdmEgdGFzdGUgbGlrZT8iLCJsayI6IkdocDNhR0YwSUdSdlpYTWdaM1ZoZG1FZ2RHRnpkR1VnYkdsclpRIiwiYnMiOiJjLU95NDVJT3owZ3NVVWpKVHkxV1NDOU5MRXRVS0Vrc0xrbFZ5TW5NVHJXWE9DOWhKQ01sVlk1VEJaY1RseXhZZnlaTUxxMm9OTE5FSVQwX1AwVWhMYl9JWG1KZW5KR2NsRXc1SGpWY0pseGl6b2w1Q3BYNXBRcXBRR1VRTlVXSjVmWVM3UVpHNGxLaXlkZ2t1ZHk0NUQyTEZZRG0tSHNybE9RalNhYVdwUlpWcGlSVzJrc2NsekJTa0pMTEJLdkt6OGF1U29BUkFBIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFQyeFdRM0V6ZG1sV00xQkNaRTE1YUdWNlpVdDZiR3hsTUVOb1Zqa3RNVll6VEhwa1JpMUplRkJVTjNORldtSnRaMjgzWlVaMVNYRlpaMWxJYVVkbGNGRnFaRU5JRWhkeWFHTkxXbDltTjB0aFpVaDNZbXRRYldRMlJTMUJXUm9pUVVaWWNrVmpjbmhaV1hNdGFWcGZaMDV5VTNsblpGbEJhbEZYVGpkdVdEUmpkdyIsImZjdiI6IjMiLCJlaSI6InJoY0taX2Y3S2FlSHdia1BtZDZFLUFZIiwicWMiOiJDZ1ZuZFdGMllSQUFmVmdTS1Q4IiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgZ3VhdmEgdGFzdGUgbGlrZT8iLCJsayI6IkdocDNhR0YwSUdSdlpYTWdaM1ZoZG1FZ2RHRnpkR1VnYkdsclpRIiwiYnMiOiJjLU95NDVJT3owZ3NVVWpKVHkxV1NDOU5MRXRVS0Vrc0xrbFZ5TW5NVHJXWE9DOWhKQ01sVlk1VEJaY1RseXhZZnlaTUxxMm9OTE5FSVQwX1AwVWhMYl9JWG1KZW5KR2NsRXc1SGpWY0pseGl6b2w1Q3BYNXBRcXBRR1VRTlVXSjVmWVM3UVpHNGxLaXlkZ2t1ZHk0NUQyTEZZRG0tSHNybE9RalNhYVdwUlpWcGlSVzJrc2NsekJTa0pMTEJLdkt6OGF1U29BUkFBIiwiaWQiOiJmY18xIn0%3D"
+    },
+    {
+      "question": "What is guava fruit good for?",
+      "title": "Here are 8 evidence-based health benefits of guava fruits and leaves.",
+      "date": "Nov 7, 2023",
+      "link": "https://www.healthline.com/nutrition/8-benefits-of-guavas",
+      "list": [
+        "May Help Lower Blood Sugar Levels. ... ",
+        "May Boost Heart Health. ... ",
+        "May Help Relieve Painful Symptoms of Menstruation. ... ",
+        "May Benefit Your Digestive System. ... ",
+        "May Aid Weight Loss. ... ",
+        "May Have an Anticancer Effect. ... ",
+        "May Help Boost Your Immunity."
+      ],
+      "displayed_link": "https://www.healthline.com \u203a nutrition \u203a 8-benefits-of-g...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2DCXb17V-HlYpjczmSG5cagKRzZEF7oIMFfT95XPACQ&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFQyeFdRM0V6ZG1sV00xQkNaRTE1YUdWNlpVdDZiR3hsTUVOb1Zqa3RNVll6VEhwa1JpMUplRkJVTjNORldtSnRaMjgzWlVaMVNYRlpaMWxJYVVkbGNGRnFaRU5JRWhkeWFHTkxXbDltTjB0aFpVaDNZbXRRYldRMlJTMUJXUm9pUVVaWWNrVmpjbmhaV1hNdGFWcGZaMDV5VTNsblpGbEJhbEZYVGpkdVdEUmpkdyIsImZjdiI6IjMiLCJlaSI6InJoY0taX2Y3S2FlSHdia1BtZDZFLUFZIiwicWMiOiJDZ1ZuZFdGMllSQUFmVmdTS1Q4IiwicXVlc3Rpb24iOiJXaGF0IGlzIGd1YXZhIGZydWl0IGdvb2QgZm9yPyIsImxrIjoiR2h4M2FHRjBJR2x6SUdkMVlYWmhJR1p5ZFdsMElHZHZiMlFnWm05eSIsImJzIjoiYy1PeTQ1SU96MGdzVVVqSlR5MVdTQzlOTEV0VUtFa3NMa2xWeU1uTVRyV1hPQzloSkNNbFZZNVRCWmNUbHl4WWZ5Wk1McTJvTkxORUlUMF9QMFVoTGJfSVhtSmVuSkdjbEV3NUhqVmNKbHhpem9sNUNwWDVwUXFwUUdVUU5VV0o1ZllTN1FaRzRsS2l5ZGdrdWR5NDVEMkxGWURtLUhzcmxPUWpTYWFXcFJaVnBpUlcya3NjbHpCU2tKTExCS3ZLejhhdVNvQVJBQSIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFQyeFdRM0V6ZG1sV00xQkNaRTE1YUdWNlpVdDZiR3hsTUVOb1Zqa3RNVll6VEhwa1JpMUplRkJVTjNORldtSnRaMjgzWlVaMVNYRlpaMWxJYVVkbGNGRnFaRU5JRWhkeWFHTkxXbDltTjB0aFpVaDNZbXRRYldRMlJTMUJXUm9pUVVaWWNrVmpjbmhaV1hNdGFWcGZaMDV5VTNsblpGbEJhbEZYVGpkdVdEUmpkdyIsImZjdiI6IjMiLCJlaSI6InJoY0taX2Y3S2FlSHdia1BtZDZFLUFZIiwicWMiOiJDZ1ZuZFdGMllSQUFmVmdTS1Q4IiwicXVlc3Rpb24iOiJXaGF0IGlzIGd1YXZhIGZydWl0IGdvb2QgZm9yPyIsImxrIjoiR2h4M2FHRjBJR2x6SUdkMVlYWmhJR1p5ZFdsMElHZHZiMlFnWm05eSIsImJzIjoiYy1PeTQ1SU96MGdzVVVqSlR5MVdTQzlOTEV0VUtFa3NMa2xWeU1uTVRyV1hPQzloSkNNbFZZNVRCWmNUbHl4WWZ5Wk1McTJvTkxORUlUMF9QMFVoTGJfSVhtSmVuSkdjbEV3NUhqVmNKbHhpem9sNUNwWDVwUXFwUUdVUU5VV0o1ZllTN1FaRzRsS2l5ZGdrdWR5NDVEMkxGWURtLUhzcmxPUWpTYWFXcFJaVnBpUlcya3NjbHpCU2tKTExCS3ZLejhhdVNvQVJBQSIsImlkIjoiZmNfMSJ9"
+    },
+    {
+      "question": "Can you eat guava raw?",
+      "snippet": "Other than the stem, the entire fruit is edible. As long as you wash it thoroughly, you can sink your teeth into its sweet flavors with no prep and in no time at all. Bite into it like you would a pear. Or, simply cut it into slices and snack on guava that way.",
+      "title": "How to Eat Guava, According to Chefs - Better Homes & Gardens",
+      "date": "Jun 16, 2024",
+      "link": "https://www.bhg.com/how-to-eat-guava-7105868#:~:text=Other%20than%20the%20stem%2C%20the,snack%20on%20guava%20that%20way.",
+      "displayed_link": "https://www.bhg.com \u203a how-to-eat-guava-7105868",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQanOUv0iDFkutLqNEl1UkvuNyjCMM8xuW0qbanTR2asA&s",
+      "source_logo": "https://serpapi.com/searches/670a17ae910986e49fd54706/images/b097ebd2173baadc9bb56550795c0d84ff6e401268894e1adc71d9d48ea52c75.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFQyeFdRM0V6ZG1sV00xQkNaRTE1YUdWNlpVdDZiR3hsTUVOb1Zqa3RNVll6VEhwa1JpMUplRkJVTjNORldtSnRaMjgzWlVaMVNYRlpaMWxJYVVkbGNGRnFaRU5JRWhkeWFHTkxXbDltTjB0aFpVaDNZbXRRYldRMlJTMUJXUm9pUVVaWWNrVmpjbmhaV1hNdGFWcGZaMDV5VTNsblpGbEJhbEZYVGpkdVdEUmpkdyIsImZjdiI6IjMiLCJlaSI6InJoY0taX2Y3S2FlSHdia1BtZDZFLUFZIiwicWMiOiJDZ1ZuZFdGMllSQUFmVmdTS1Q4IiwicXVlc3Rpb24iOiJDYW4geW91IGVhdCBndWF2YSByYXc/IiwibGsiOiJHaFZqWVc0Z2VXOTFJR1ZoZENCbmRXRjJZU0J5WVhjIiwiYnMiOiJjLU95NDVJT3owZ3NVVWpKVHkxV1NDOU5MRXRVS0Vrc0xrbFZ5TW5NVHJXWE9DOWhKQ01sVlk1VEJaY1RseXhZZnlaTUxxMm9OTE5FSVQwX1AwVWhMYl9JWG1KZW5KR2NsRXc1SGpWY0pseGl6b2w1Q3BYNXBRcXBRR1VRTlVXSjVmWVM3UVpHNGxLaXlkZ2t1ZHk0NUQyTEZZRG0tSHNybE9RalNhYVdwUlpWcGlSVzJrc2NsekJTa0pMTEJLdkt6OGF1U29BUkFBIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFQyeFdRM0V6ZG1sV00xQkNaRTE1YUdWNlpVdDZiR3hsTUVOb1Zqa3RNVll6VEhwa1JpMUplRkJVTjNORldtSnRaMjgzWlVaMVNYRlpaMWxJYVVkbGNGRnFaRU5JRWhkeWFHTkxXbDltTjB0aFpVaDNZbXRRYldRMlJTMUJXUm9pUVVaWWNrVmpjbmhaV1hNdGFWcGZaMDV5VTNsblpGbEJhbEZYVGpkdVdEUmpkdyIsImZjdiI6IjMiLCJlaSI6InJoY0taX2Y3S2FlSHdia1BtZDZFLUFZIiwicWMiOiJDZ1ZuZFdGMllSQUFmVmdTS1Q4IiwicXVlc3Rpb24iOiJDYW4geW91IGVhdCBndWF2YSByYXc%2FIiwibGsiOiJHaFZqWVc0Z2VXOTFJR1ZoZENCbmRXRjJZU0J5WVhjIiwiYnMiOiJjLU95NDVJT3owZ3NVVWpKVHkxV1NDOU5MRXRVS0Vrc0xrbFZ5TW5NVHJXWE9DOWhKQ01sVlk1VEJaY1RseXhZZnlaTUxxMm9OTE5FSVQwX1AwVWhMYl9JWG1KZW5KR2NsRXc1SGpWY0pseGl6b2w1Q3BYNXBRcXBRR1VRTlVXSjVmWVM3UVpHNGxLaXlkZ2t1ZHk0NUQyTEZZRG0tSHNybE9RalNhYVdwUlpWcGlSVzJrc2NsekJTa0pMTEJLdkt6OGF1U29BUkFBIiwiaWQiOiJmY18xIn0%3D"
+    },
+    {
+      "question": "Is it OK to eat guava everyday?",
+      "snippet": "Studies have shown guava to be a nutritious fruit that can be safely eaten by most healthy adults. However, there are certain groups of people who should be careful about adding guavas or their products to their diet. These include: Pregnant and breastfeeding women.",
+      "title": "What Are the Health Benefits and Disadvantages of Eating Guava?",
+      "link": "https://www.medicinenet.com/health_benefits_and_disadvantages_of_eating_guava/article.htm#:~:text=Studies%20have%20shown%20guava%20to,Pregnant%20and%20breastfeeding%20women.",
+      "displayed_link": "https://www.medicinenet.com \u203a article",
+      "source_logo": "https://serpapi.com/searches/670a17ae910986e49fd54706/images/b097ebd2173baadc9bb56550795c0d84b651995f06db456f552a3bc9fcacb1ce.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFQyeFdRM0V6ZG1sV00xQkNaRTE1YUdWNlpVdDZiR3hsTUVOb1Zqa3RNVll6VEhwa1JpMUplRkJVTjNORldtSnRaMjgzWlVaMVNYRlpaMWxJYVVkbGNGRnFaRU5JRWhkeWFHTkxXbDltTjB0aFpVaDNZbXRRYldRMlJTMUJXUm9pUVVaWWNrVmpjbmhaV1hNdGFWcGZaMDV5VTNsblpGbEJhbEZYVGpkdVdEUmpkdyIsImZjdiI6IjMiLCJlaSI6InJoY0taX2Y3S2FlSHdia1BtZDZFLUFZIiwicWMiOiJDZ1ZuZFdGMllSQUFmVmdTS1Q4IiwicXVlc3Rpb24iOiJJcyBpdCBPSyB0byBlYXQgZ3VhdmEgZXZlcnlkYXk/IiwibGsiOiJHaDVwY3lCcGRDQnZheUIwYnlCbFlYUWdaM1ZoZG1FZ1pYWmxjbmxrWVhrIiwiYnMiOiJjLU95NDVJT3owZ3NVVWpKVHkxV1NDOU5MRXRVS0Vrc0xrbFZ5TW5NVHJXWE9DOWhKQ01sVlk1VEJaY1RseXhZZnlaTUxxMm9OTE5FSVQwX1AwVWhMYl9JWG1KZW5KR2NsRXc1SGpWY0pseGl6b2w1Q3BYNXBRcXBRR1VRTlVXSjVmWVM3UVpHNGxLaXlkZ2t1ZHk0NUQyTEZZRG0tSHNybE9RalNhYVdwUlpWcGlSVzJrc2NsekJTa0pMTEJLdkt6OGF1U29BUkFBIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFQyeFdRM0V6ZG1sV00xQkNaRTE1YUdWNlpVdDZiR3hsTUVOb1Zqa3RNVll6VEhwa1JpMUplRkJVTjNORldtSnRaMjgzWlVaMVNYRlpaMWxJYVVkbGNGRnFaRU5JRWhkeWFHTkxXbDltTjB0aFpVaDNZbXRRYldRMlJTMUJXUm9pUVVaWWNrVmpjbmhaV1hNdGFWcGZaMDV5VTNsblpGbEJhbEZYVGpkdVdEUmpkdyIsImZjdiI6IjMiLCJlaSI6InJoY0taX2Y3S2FlSHdia1BtZDZFLUFZIiwicWMiOiJDZ1ZuZFdGMllSQUFmVmdTS1Q4IiwicXVlc3Rpb24iOiJJcyBpdCBPSyB0byBlYXQgZ3VhdmEgZXZlcnlkYXk%2FIiwibGsiOiJHaDVwY3lCcGRDQnZheUIwYnlCbFlYUWdaM1ZoZG1FZ1pYWmxjbmxrWVhrIiwiYnMiOiJjLU95NDVJT3owZ3NVVWpKVHkxV1NDOU5MRXRVS0Vrc0xrbFZ5TW5NVHJXWE9DOWhKQ01sVlk1VEJaY1RseXhZZnlaTUxxMm9OTE5FSVQwX1AwVWhMYl9JWG1KZW5KR2NsRXc1SGpWY0pseGl6b2w1Q3BYNXBRcXBRR1VRTlVXSjVmWVM3UVpHNGxLaXlkZ2t1ZHk0NUQyTEZZRG0tSHNybE9RalNhYVdwUlpWcGlSVzJrc2NsekJTa0pMTEJLdkt6OGF1U29BUkFBIiwiaWQiOiJmY18xIn0%3D"
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "Guava - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Guava#:~:text=Guava%20(%2F%CB%88%C9%A1w%C9%91%CB%90,Caribbean%20and%20northern%20South%20America.",
+    "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Guava",
+    "snippet": "Guava (/\u02c8\u0261w\u0251\u02d0v\u0259/ GWAH-v\u0259) is a common tropical fruit cultivated in many tropical and subtropical regions. The common guava Psidium guajava (lemon guava, apple guava) is a small tree in the myrtle family (Myrtaceae), native to Mexico, Central America, the Caribbean and northern South America.",
+    "snippet_highlighted_words": [
+      "a common tropical fruit cultivated in many tropical and subtropical regions"
+    ],
+    "favicon": "https://serpapi.com/searches/670a17ae910986e49fd54706/images/b9db27c233afd7c6bd1580745d042d92db40a18a3cb069c0.png",
+    "source": "Wikipedia",
+    "images": [
+      "https://serpapi.com/searches/670a17ae910986e49fd54706/images/b9db27c233afd7c6c141d76ff52f100afcd6bd87d09b993f.jpeg",
+      "https://serpapi.com/searches/670a17ae910986e49fd54706/images/b9db27c233afd7c6c141d76ff52f100a1e3458ea5660cb17.jpeg",
+      "https://serpapi.com/searches/670a17ae910986e49fd54706/images/b9db27c233afd7c6c141d76ff52f100a6f10a3552d2fa7e7.jpeg"
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "What Is a Guava \u2014 and How Do You Eat It?",
+      "link": "https://www.allrecipes.com/article/what-is-a-guava-and-how-do-you-eat-it/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.allrecipes.com/article/what-is-a-guava-and-how-do-you-eat-it/&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8QFnoECEwQAQ",
+      "displayed_link": "https://www.allrecipes.com \u203a ... \u203a Fruits and Vegetables",
+      "thumbnail": "https://serpapi.com/searches/670a17ae910986e49fd54706/images/aae1fb359f631e4b4b51b797fd61715a9225aed4ea8735e0efcfac3417d9ddce.jpeg",
+      "favicon": "https://serpapi.com/searches/670a17ae910986e49fd54706/images/aae1fb359f631e4b4b51b797fd61715aeebdbb9ffe9cbaecdb938d6c42847a53.png",
+      "date": "Jan 19, 2023",
+      "snippet": "Guava is a tropical fruit native to Mexico, Central America, the Caribbean, and South America. Its skin is typically yellow or light green, while its flesh is ...",
+      "snippet_highlighted_words": [
+        "Guava"
+      ],
+      "source": "Allrecipes"
+    },
+    {
+      "position": 2,
+      "title": "A Little Fruit With a Big Story - The Uses of Guava in Hawai'i",
+      "link": "https://www.temptationtours.com/a-little-fruit-with-a-big-story-the-uses-of-guava-in-hawaii/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.temptationtours.com/a-little-fruit-with-a-big-story-the-uses-of-guava-in-hawaii/&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8QFnoECEoQAQ",
+      "displayed_link": "https://www.temptationtours.com \u203a Read Our Blog",
+      "thumbnail": "https://serpapi.com/searches/670a17ae910986e49fd54706/images/aae1fb359f631e4b4b51b797fd61715ae0e87e7162a7556c9eb579dde6edb0ed.jpeg",
+      "favicon": "https://serpapi.com/searches/670a17ae910986e49fd54706/images/aae1fb359f631e4b4b51b797fd61715a66e30719c2337791dfe5fc51f5acfca9.png",
+      "date": "Aug 9, 2023",
+      "snippet": "Common guava is called Kuawa in Hawaiian, and strawberry guava is called Waiawi. They were brought to Hawai'i in the early 1800s for food, wood, and medicine.",
+      "snippet_highlighted_words": [
+        "guava",
+        "guava"
+      ],
+      "source": "Temptation Tours"
+    },
+    {
+      "position": 3,
+      "title": "google/guava: Google core libraries for Java",
+      "link": "https://github.com/google/guava",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/google/guava&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8QFnoECEYQAQ",
+      "displayed_link": "https://github.com \u203a google \u203a guava",
+      "favicon": "https://serpapi.com/searches/670a17ae910986e49fd54706/images/aae1fb359f631e4b4b51b797fd61715a337dd98442ae3679e4cac1a64853718d.png",
+      "snippet": "Guava is a set of core Java libraries from Google that includes new collection types (such as multimap and multiset), immutable collections, a graph library ...",
+      "snippet_highlighted_words": [
+        "Guava"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Wiki",
+            "link": "https://github.com/google/guava/wiki"
+          },
+          {
+            "title": "Using Guava in your build",
+            "link": "https://github.com/google/guava/wiki/UseGuavaInYourBuild"
+          },
+          {
+            "title": "Releases 47",
+            "link": "https://github.com/google/guava/releases"
+          },
+          {
+            "title": "Android",
+            "link": "https://github.com/google/guava/wiki/Android"
+          }
+        ]
+      },
+      "source": "GitHub"
+    },
+    {
+      "position": 4,
+      "title": "8 Health Benefits of Guava Fruit and Leaves",
+      "link": "https://www.healthline.com/nutrition/8-benefits-of-guavas",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.healthline.com/nutrition/8-benefits-of-guavas&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8QFnoECEsQAQ",
+      "displayed_link": "https://www.healthline.com \u203a nutrition \u203a 8-benefits-of-g...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt23w8M2lVwygZCzzaYMWdgqYG3wtKUp4j4GW8z5vUvUAlZmnBLixD&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a17ae910986e49fd54706/images/aae1fb359f631e4b4b51b797fd61715a5d555483cbad6294433c09f0ca8552a5.png",
+      "date": "Nov 7, 2023",
+      "snippet": "Guava fruit and leaves contain nutrients, including vitamin C and potassium, that may help support your heart, digestion, and other body systems ...",
+      "snippet_highlighted_words": [
+        "Guava"
+      ],
+      "source": "Healthline"
+    },
+    {
+      "position": 5,
+      "title": "Guava Re\u00e0l - Real Ingredients",
+      "link": "https://abmcocktails.com/real-old/product/guava-real/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://abmcocktails.com/real-old/product/guava-real/&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8QFnoECEcQAQ",
+      "displayed_link": "https://abmcocktails.com \u203a Home \u203a Products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9peAzM1Dlpy6f7-9AwGBnii7so5BSzjyXNEBfaZUj7EVH3I8V8HFr&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a17ae910986e49fd54706/images/aae1fb359f631e4b4b51b797fd61715a08621f77cdbf2183e0707bb682e05d41.png",
+      "snippet": "Loaded with tropical, bright flavors, this exotic South African fruit elevates any cocktail with its sweet flavor complemented by its vibrant aroma! Add this ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 14.99,
+            "currency": "$"
+          },
+          "extensions": [
+            "$14.99"
+          ]
+        }
+      },
+      "source": "American Beverage Marketers"
+    },
+    {
+      "position": 6,
+      "title": "Guavas, common, raw - FoodData Central - USDA",
+      "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173044/nutrients",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fdc.nal.usda.gov/fdc-app.html%23/food-details/173044/nutrients&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8QFnoECEUQAQ",
+      "displayed_link": "https://fdc.nal.usda.gov \u203a fdc-app",
+      "favicon": "https://serpapi.com/searches/670a17ae910986e49fd54706/images/aae1fb359f631e4b4b51b797fd61715a1f12374beb56fe7358eec2a5f6aab005.png",
+      "snippet": "Guavas, common, raw ; Vitamin D (D2 + D3), 0, \u00b5g ; Vitamin K (phylloquinone), 2.6, \u00b5g ; Fatty acids, total saturated, 0.272, g ; SFA 4:0, 0, g.",
+      "snippet_highlighted_words": [
+        "Guavas"
+      ],
+      "source": "USDA FoodData Central (.gov)"
+    },
+    {
+      "position": 7,
+      "title": "Guava | Description, Cultivation, & Related Species",
+      "link": "https://www.britannica.com/plant/common-guava",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.britannica.com/plant/common-guava&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8QFnoECEgQAQ",
+      "displayed_link": "https://www.britannica.com \u203a ... \u203a Flowering Plants",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS7pv2GambLUh4AnsTVW612xqDLOXpx7Yb0elhRhI3SpAPzML40KjP&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a17ae910986e49fd54706/images/aae1fb359f631e4b4b51b797fd61715a1a65cbe0f728e4dbeb2ad07f78c6b927.png",
+      "date": "Sep 20, 2024",
+      "snippet": "Guava, small tropical tree or shrub of the family Myrtaceae, cultivated for its edible fruits. Guava trees are native to tropical America ...",
+      "snippet_highlighted_words": [
+        "Guava",
+        "Guava"
+      ],
+      "source": "Britannica"
+    },
+    {
+      "position": 8,
+      "title": "Roam Stroller & Organizer Bundle",
+      "link": "https://www.guavafamily.com/products/roam-stroller",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.guavafamily.com/products/roam-stroller&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8QFnoECE0QAQ",
+      "displayed_link": "https://www.guavafamily.com \u203a products \u203a roam-stroller",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCxK1KJ_BmyB-3een-kXVOLghi_C7yqc279QapsXlBh5Cxphe5Iq6R&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a17ae910986e49fd54706/images/aae1fb359f631e4b4b51b797fd61715a044e93dc59bf90e0b1d345269926c863.png",
+      "snippet": "The Roam folds 50% smaller than traditional joggers, making it easy to take or store anywhere \u2014 from a trunk, to a closet, to a New York-sized apartment.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 549.95,
+            "free": 60
+          },
+          "extensions": [
+            "4.8",
+            "$549.95$650",
+            "\u200eFree delivery",
+            "\u200eFree 60",
+            "day returns",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Guava Family"
+    },
+    {
+      "position": 9,
+      "title": "The Uses and Health Benefits of Guava Fruit",
+      "link": "https://www.fruitsmart.com/blog/the-uses-and-health-benefits-of-guava-fruit/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fruitsmart.com/blog/the-uses-and-health-benefits-of-guava-fruit/&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8QFnoECEkQAQ",
+      "displayed_link": "https://www.fruitsmart.com \u203a Blog",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzy4Iwt1gytQNjhHmzBCwprg4xJ_UZweZOulRWAKX21zgN6rSzlTEM&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a17ae910986e49fd54706/images/aae1fb359f631e4b4b51b797fd61715aa089a54d46aa23dbd8ea0bea7327e388.png",
+      "date": "Nov 27, 2023",
+      "snippet": "A typical serving of guava has significant amounts of minerals like potassium and calcium and vitamins like vitamin A and vitamin B9 (folic acid).",
+      "snippet_highlighted_words": [
+        "guava"
+      ],
+      "source": "FruitSmart"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Guava pronunciation",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Guava+pronunciation&sa=X&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8Q1QJ6BAhxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Guava+pronunciation"
+    },
+    {
+      "block_position": 1,
+      "query": "Guava fruit",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Guava+fruit&sa=X&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8Q1QJ6BAhwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Guava+fruit"
+    },
+    {
+      "block_position": 1,
+      "query": "Guava benefits",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Guava+benefits&sa=X&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8Q1QJ6BAhvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Guava+benefits"
+    },
+    {
+      "block_position": 1,
+      "query": "Guava plant",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Guava+plant&sa=X&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8Q1QJ6BAhyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Guava+plant"
+    },
+    {
+      "block_position": 1,
+      "query": "Guava leaves",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Guava+leaves&sa=X&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8Q1QJ6BAhuEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Guava+leaves"
+    },
+    {
+      "block_position": 1,
+      "query": "Benefits of guava leaves sexually",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Benefits+of+guava+leaves+sexually&sa=X&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8Q1QJ6BAh0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Benefits+of+guava+leaves+sexually"
+    },
+    {
+      "block_position": 1,
+      "query": "Guava scientific name",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Guava+scientific+name&sa=X&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8Q1QJ6BAhzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Guava+scientific+name"
+    },
+    {
+      "block_position": 1,
+      "query": "Guava family name",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Guava+family+name&sa=X&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8Q1QJ6BAh1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Guava+family+name"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Flavor",
+        "subtitle": "What Do Guavas Taste Like",
+        "title": "Flavor of the Week: Guava, the versatile tropical fruit",
+        "link": "https://www.nrn.com/consumer-trends/flavor-week-guava-versatile-tropical-fruit#:~:text=When%20ripe%2C%20guava%20is%20an,floral%20and%20slightly%20sweet%20aroma.",
+        "displayed_link": "https://www.nrn.com \u203a consumer-trends \u203a flavor-week-g...",
+        "date": "Aug 23, 2021",
+        "snippet": "When ripe, guava is an aromatic fruit with a flavor sort of like a tangy cross between a pear and a strawberry, but it is also eaten when unripe \u2014 sometimes dipped in a combination of sugar, salt and chile \u2014 when it is mildly tart with a subtle floral and slightly sweet aroma.",
+        "snippet_highlighted_words": [
+          "a tangy cross between a pear and a strawberry"
+        ],
+        "favicon": "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841bae95fe0618139145d2de8a8023ee622238019bc50e537125c.png",
+        "source": "nrn.com",
+        "images": [
+          "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841bae95fe0618139145dae6f33cfbaaa8891c53ea4e4cddc37dc.jpeg",
+          "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841bae95fe0618139145dae6f33cfbaaa88912cf2a4f476fadbfe.jpeg",
+          "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841bae95fe0618139145dae6f33cfbaaa88913d4fb4797af5775f.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=what+do+guavas+taste+like&sa=X&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8QrooIegQIFRAI",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+do+guavas+taste+like"
+      },
+      {
+        "text": "How to eat",
+        "subtitle": "How To Eat A Guava",
+        "title": "How to Eat Guava | Epicurious",
+        "link": "https://www.epicurious.com/ingredients/how-to-eat-guava-in-smoothies-salads-desserts-article#:~:text=If%20you'd%20like%20to,flesh%20if%20you'd%20like.",
+        "displayed_link": "https://www.epicurious.com \u203a ingredients \u203a how-to-eat-g...",
+        "date": "Aug 29, 2017",
+        "snippet": "If you'd like to cut the guava, place it on a cutting board and halve it. Then slice it into wedges as you would an apple. If you prefer not to eat the rind, halve the guava and use a spoon to scoop the flesh from the rind, as you would an avocado. Then, you can slice the flesh if you'd like.",
+        "snippet_highlighted_words": [
+          "place it on a cutting board and halve it.",
+          "Then slice it into wedges as you would an apple"
+        ],
+        "favicon": "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841bac03f675d50bca5e84d6e846ef3e8a931b45e6a6e942aef36.png",
+        "source": "epicurious.com",
+        "images": [
+          "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841bac03f675d50bca5e8e77b13168205c57ee9213cb12e1d7049.jpeg",
+          "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841bac03f675d50bca5e8e77b13168205c57eb7460b4c2ba93da8.jpeg",
+          "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841bac03f675d50bca5e8e77b13168205c57e0e563af2439928a1.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=how+to+eat+a+guava&sa=X&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8QrooIegQIFRAQ",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+to+eat+a+guava"
+      },
+      {
+        "text": "Benefits",
+        "subtitle": "Guava Benefits",
+        "title": "8 Health Benefits of Guava Fruit and Leaves - Healthline",
+        "link": "https://www.healthline.com/nutrition/8-benefits-of-guavas",
+        "displayed_link": "https://www.healthline.com \u203a nutrition \u203a 8-benefits-of-gu...",
+        "date": "Nov 7, 2023",
+        "snippet": "8 Health Benefits of Guava Fruit and Leaves",
+        "snippet_highlighted_words": [
+          "8 Health Benefits of Guava Fruit and Leaves"
+        ],
+        "list": [
+          "May Help Lower Blood Sugar Levels. ... ",
+          "May Boost Heart Health. ... ",
+          "May Help Relieve Painful Symptoms of Menstruation. ... ",
+          "May Benefit Your Digestive System. ... ",
+          "May Aid Weight Loss. ... ",
+          "May Have an Anticancer Effect. ... ",
+          "May Help Boost Your Immunity. ... ",
+          "Eating Guavas May Be Good for Your Skin."
+        ],
+        "favicon": "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841ba87903f7cf01a0e83c726245d06b5cb6d00c4cc7a4f205bad.png",
+        "source": "healthline.com",
+        "images": [
+          "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841ba87903f7cf01a0e83c9db00421684627af4d0e8152058ab7c.jpeg",
+          "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841ba87903f7cf01a0e83c9db00421684627aefdfe226e0654af8.jpeg",
+          "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841ba87903f7cf01a0e83c9db00421684627a52a7d3ce4d377b8e.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=guava+benefits&sa=X&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8QrooIegQIFRAY",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=guava+benefits"
+      },
+      {
+        "text": "Daily intake",
+        "subtitle": "How Many Guavas Should I Eat A Day",
+        "title": "Health Benefits of Guava - WebMD",
+        "link": "https://www.webmd.com/diet/health-benefits-guava#:~:text=One%20guava%20makes%20up%20one,weight%20gain%20and%20tooth%20decay.",
+        "displayed_link": "https://www.webmd.com \u203a diet \u203a health-benefits-guava",
+        "date": "Jul 3, 2023",
+        "snippet": "One guava makes up one of the 4-5 recommended servings of fruit per day. Like many fruits, guava has a significant amount of sugar in it, and it's important to moderate your sugar intake. Too much sugar in your diet can lead to problems, including weight gain and tooth decay.",
+        "snippet_highlighted_words": [
+          "4-5 recommended servings of fruit per day"
+        ],
+        "favicon": "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841ba0af0c35678117bf40aa89ec19a83896cf49e30fff05b62d9.png",
+        "source": "webmd.com",
+        "images": [
+          "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841ba0af0c35678117bf4a7176b5ab0c13254294a79e952c7b112.jpeg",
+          "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841ba0af0c35678117bf4a7176b5ab0c1325482c7fc56cde12f0d.jpeg",
+          "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841ba0af0c35678117bf4a7176b5ab0c132541de8e192b265cabf.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=how+many+guavas+should+i+eat+a+day&sa=X&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8QrooIegQIFRAd",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+many+guavas+should+i+eat+a+day"
+      },
+      {
+        "text": "Protein Amount",
+        "subtitle": "Protein In Guava",
+        "title": "Guavas, common, raw - FoodData Central - USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173044/nutrients",
+        "displayed_link": "https://fdc.nal.usda.gov \u203a fdc-app",
+        "answer": "2.55 g",
+        "favicon": "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841ba252c9902000953e03e2c3210795addf7a32ba038cf68e269.png",
+        "source": "usda.gov",
+        "images": [
+          "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841ba252c9902000953e0c9def629505739e37ed10c31ec313d02.jpeg",
+          "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841ba252c9902000953e0c9def629505739e3197aa64d36d23fbc.jpeg",
+          "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841ba252c9902000953e0c9def629505739e3c0e44015e5f51c21.jpeg"
+        ],
+        "table": [
+          [
+            "Name",
+            "Amount",
+            "Unit"
+          ],
+          [
+            "Protein",
+            "2.55",
+            "g"
+          ],
+          [
+            "Total lipid (fat)",
+            "0.95",
+            "g"
+          ],
+          [
+            "Ash",
+            "1.39",
+            "g"
+          ],
+          [
+            "Carbohydrate, by difference",
+            "14.3",
+            "g"
+          ]
+        ],
+        "formatted": [
+          {
+            "name": "Protein",
+            "amount": "2.55",
+            "unit": "g"
+          },
+          {
+            "name": "Total lipid (fat)",
+            "amount": "0.95",
+            "unit": "g"
+          },
+          {
+            "name": "Ash",
+            "amount": "1.39",
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrate, by difference",
+            "amount": "14.3",
+            "unit": "g"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=protein+in+guava&sa=X&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8QrooIegQIFRAj",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=protein+in+guava"
+      },
+      {
+        "text": "Pronunciation",
+        "subtitle": "How To Pronounce Guava",
+        "images": [
+          "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841bae9cad92da3b9ca1a1944a038fe58959b30d2f97b65e9dc52.jpeg",
+          "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841bae9cad92da3b9ca1a1944a038fe58959bbb6a84a58c2413c8.jpeg",
+          "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841bae9cad92da3b9ca1a1944a038fe58959b30bce8c70cde518f.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=How+to+pronounce+Guava&si=ACC90nxW8ILQY0p6m_CPdbM1W2PxlvNePdB3OL8jVEdjiJ3CYXguE-kuzHFv0cUKUKyV4s_uYgi0NpfFHNUzREyUBBAHj6pxKW0lKl8fBz-hAwdYwtoJKTmdSprJzEXBjxQKS0VGwtnnQoGdSbtsShFRSzkJ33svrA%3D%3D&sa=X&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8QrooIegQIFRAo",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=How+to+pronounce+Guava&si=ACC90nxW8ILQY0p6m_CPdbM1W2PxlvNePdB3OL8jVEdjiJ3CYXguE-kuzHFv0cUKUKyV4s_uYgi0NpfFHNUzREyUBBAHj6pxKW0lKl8fBz-hAwdYwtoJKTmdSprJzEXBjxQKS0VGwtnnQoGdSbtsShFRSzkJ33svrA%3D%3D"
+      },
+      {
+        "text": "Types",
+        "subtitle": "Types Of Guava",
+        "title": "Five Guava Varieties to Taste Test and Review Oct 2020 - YouTube",
+        "link": "https://m.youtube.com/watch?v=4uc8NmLsAqI",
+        "displayed_link": "https://m.youtube.com \u203a watch",
+        "snippet": "We have right yep can you name them sophia what type of guavas. We're growing we're actually we're harvesting. Because we grow ten kinds but this is the oh these are the only ones that produced. Okay",
+        "favicon": "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841baff6ac762c4453ed4fdec47d7c17963b4e924e7e7ceb797b7.png",
+        "source": "youtube.com",
+        "images": [
+          "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841baff6ac762c4453ed4f4d04a905b5dc26301046bca3837f3fa.jpeg",
+          "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841baff6ac762c4453ed4f4d04a905b5dc2637f0edb7afa7572c3.jpeg",
+          "https://serpapi.com/searches/670a17ae910986e49fd54706/images/8528081abf77a2d0c7405c80755841baff6ac762c4453ed4f4d04a905b5dc2638a5e65cab4c8bf8a.jpeg"
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=types+of+guava&sa=X&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8QrooIegQIFRAt",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=types+of+guava"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=guava&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=rhcKZ_f7KaeHwbkPmd6E-AY&start=10&sa=N&sstk=Aagrsuh8vgG23188XDjf9rXWEieekyoBo-DK4MgQG7KX0qjhjI9C6p1N191RzSMQ1_dMXVWT04ya53m5WuIol1-bo75q8gViBG2rRg&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8Q8NMDegQIBhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=guava&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=rhcKZ_f7KaeHwbkPmd6E-AY&start=10&sa=N&sstk=Aagrsuh8vgG23188XDjf9rXWEieekyoBo-DK4MgQG7KX0qjhjI9C6p1N191RzSMQ1_dMXVWT04ya53m5WuIol1-bo75q8gViBG2rRg&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8Q8tMDegQIBhAE",
+      "3": "https://www.google.com/search?q=guava&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=rhcKZ_f7KaeHwbkPmd6E-AY&start=20&sa=N&sstk=Aagrsuh8vgG23188XDjf9rXWEieekyoBo-DK4MgQG7KX0qjhjI9C6p1N191RzSMQ1_dMXVWT04ya53m5WuIol1-bo75q8gViBG2rRg&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8Q8tMDegQIBhAG",
+      "4": "https://www.google.com/search?q=guava&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=rhcKZ_f7KaeHwbkPmd6E-AY&start=30&sa=N&sstk=Aagrsuh8vgG23188XDjf9rXWEieekyoBo-DK4MgQG7KX0qjhjI9C6p1N191RzSMQ1_dMXVWT04ya53m5WuIol1-bo75q8gViBG2rRg&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8Q8tMDegQIBhAI",
+      "5": "https://www.google.com/search?q=guava&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=rhcKZ_f7KaeHwbkPmd6E-AY&start=40&sa=N&sstk=Aagrsuh8vgG23188XDjf9rXWEieekyoBo-DK4MgQG7KX0qjhjI9C6p1N191RzSMQ1_dMXVWT04ya53m5WuIol1-bo75q8gViBG2rRg&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8Q8tMDegQIBhAK",
+      "6": "https://www.google.com/search?q=guava&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=rhcKZ_f7KaeHwbkPmd6E-AY&start=50&sa=N&sstk=Aagrsuh8vgG23188XDjf9rXWEieekyoBo-DK4MgQG7KX0qjhjI9C6p1N191RzSMQ1_dMXVWT04ya53m5WuIol1-bo75q8gViBG2rRg&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8Q8tMDegQIBhAM",
+      "7": "https://www.google.com/search?q=guava&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=rhcKZ_f7KaeHwbkPmd6E-AY&start=60&sa=N&sstk=Aagrsuh8vgG23188XDjf9rXWEieekyoBo-DK4MgQG7KX0qjhjI9C6p1N191RzSMQ1_dMXVWT04ya53m5WuIol1-bo75q8gViBG2rRg&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8Q8tMDegQIBhAO",
+      "8": "https://www.google.com/search?q=guava&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=rhcKZ_f7KaeHwbkPmd6E-AY&start=70&sa=N&sstk=Aagrsuh8vgG23188XDjf9rXWEieekyoBo-DK4MgQG7KX0qjhjI9C6p1N191RzSMQ1_dMXVWT04ya53m5WuIol1-bo75q8gViBG2rRg&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8Q8tMDegQIBhAQ",
+      "9": "https://www.google.com/search?q=guava&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=rhcKZ_f7KaeHwbkPmd6E-AY&start=80&sa=N&sstk=Aagrsuh8vgG23188XDjf9rXWEieekyoBo-DK4MgQG7KX0qjhjI9C6p1N191RzSMQ1_dMXVWT04ya53m5WuIol1-bo75q8gViBG2rRg&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8Q8tMDegQIBhAS",
+      "10": "https://www.google.com/search?q=guava&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=rhcKZ_f7KaeHwbkPmd6E-AY&start=90&sa=N&sstk=Aagrsuh8vgG23188XDjf9rXWEieekyoBo-DK4MgQG7KX0qjhjI9C6p1N191RzSMQ1_dMXVWT04ya53m5WuIol1-bo75q8gViBG2rRg&ved=2ahUKEwj3ivX-m4iJAxWnQzABHRkvAW8Q8tMDegQIBhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=guava&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=guava&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=guava&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=guava&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=guava&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=guava&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=guava&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=guava&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=guava&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=guava&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=guava&start=90"
+    }
+  }
+}

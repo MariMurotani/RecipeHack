@@ -1,0 +1,1378 @@
+{
+  "search_metadata": {
+    "id": "670a165a8d14731453509fdf",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4e9af92846162fd1/670a165a8d14731453509fdf.json",
+    "created_at": "2024-10-12 06:25:30 UTC",
+    "processed_at": "2024-10-12 06:25:30 UTC",
+    "google_url": "https://www.google.com/search?q=champagne&oq=champagne&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/4e9af92846162fd1/670a165a8d14731453509fdf.html",
+    "total_time_taken": 3.62
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "champagne",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "champagne",
+    "total_results": 577000000,
+    "time_taken_displayed": 0.3,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=champagne&npsic=0&rflfq=1&rldoc=1&rllag=30335469,-97702327,3529&tbm=lcl&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQtgN6BAhnEAI",
+    "image": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/c68a7f4253c9a446bedc01e0398878d8.png",
+    "gps_coordinates": {
+      "latitude": 30.335469,
+      "longitude": -97.702327
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.7,
+        "reviews_original": "(1.1K)",
+        "reviews": 1100,
+        "description": "In stock: champagne \u00b7 Updated today",
+        "lsig": "AB86z5WjhJY7zfUwT1Lxrs7apND8",
+        "thumbnail": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/88f72d97a3a0e9459ac95e9ec23264f4a7f24a52295cec50bfd19233d749cbc529a79662bb3a97a6.jpeg",
+        "title": "Total Wine & More",
+        "type": "Liquor store",
+        "phone": "(512) 391-1964",
+        "address": "1201 Barbara Jordan Blvd #900",
+        "hours": "Closed \u22c5 Opens 10 AM",
+        "place_id": "8538088385686311335",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=8538088385686311335&q=champagne",
+        "gps_coordinates": {
+          "latitude": 30.304274,
+          "longitude": -97.70914
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.4,
+        "reviews_original": "(102)",
+        "reviews": 102,
+        "description": "In stock: champagne \u00b7 Updated today",
+        "lsig": "AB86z5VmmdkTEKlYqHgZXJXOA2_w",
+        "thumbnail": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/88f72d97a3a0e9459ac95e9ec23264f4d9d1675df46464db7484c204018dbc2644cd6c2adb5464b1.jpeg",
+        "title": "ANDY'S LIQUORS",
+        "type": "Liquor store",
+        "phone": "(512) 832-0949",
+        "address": "9616 N Lamar Blvd #165",
+        "hours": "Closed \u22c5 Opens 10 AM",
+        "place_id": "4644052455070821281",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=4644052455070821281&q=champagne",
+        "gps_coordinates": {
+          "latitude": 30.366665,
+          "longitude": -97.69552
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&tbs=lf:1,lf_ui:10&tbm=lcl&q=champagne&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQjGp6BAhqEAE"
+  },
+  "inline_products": [
+    {
+      "position": 1,
+      "title": "Sweet Rose Sparkling Wine Champagne | Champagne & Sparkling Wine by Alma | 750ml | Brazil",
+      "block_title": "In stores nearby",
+      "source": "Total Wine & More",
+      "price": 9.99,
+      "currency": "$",
+      "rating": 4.4,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQUK6vMGB4qNK8xbRiNkMlgHAIuFGEK1S23VmOpXSD0WwfPTJtzaxppit3cvJdZdyjxa9RQEEKer58N55g0CtadMTD-_JQTSRYBQ6B9sDU"
+    },
+    {
+      "position": 2,
+      "title": "Cook's California Champagne Spumante Sparkling Wine Bottles",
+      "block_title": "In stores nearby",
+      "tag": "6% OFF",
+      "source": "Randalls",
+      "price": 13.99,
+      "currency": "$",
+      "original_price": 15,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRdKKeU674SiPbgpHi5l3Bnt6wjFEWpc2TRG9hO_8KYuewI-Og_D6Vd13Dh7uIQlwyH3sUhB5Bky3j-fQZ4FyoMlmoGadXTmnBqc2bHHJ21"
+    },
+    {
+      "position": 3,
+      "title": "Boizel Brut Reserve Champagne",
+      "block_title": "In stores nearby",
+      "tag": "LOW PRICE",
+      "source": "Sam's Club",
+      "price": 23.98,
+      "currency": "$",
+      "original_price": 47,
+      "rating": 4.5,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQlzw3H58N4e28r0XG5orkSQImvEuMcupsrriEDln2bWsGaR97JT4YaOVIeWVchh5jt6j9V4XsAKNMWPptDDdPj_pc15BIZOHmd0C89bcc28HWPBpX2LjjP"
+    },
+    {
+      "position": 4,
+      "title": "El Bajio Brut Sparkling Wine Champagne",
+      "block_title": "In stores nearby",
+      "source": "Total Wine & More",
+      "price": 27.49,
+      "currency": "$",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS5o5GtSreeRWh65r7jl5ADRUJq0vNOjH98NDNlUxeF5UQhZ6SS0pnSX7cFaQIK9gv2enuTE7N2at8_JN35SB2B0uict8tGkcKk7SAM5hmW"
+    },
+    {
+      "position": 5,
+      "title": "Borrasca Premium Cuvee Champagne Wine 750 ml",
+      "block_title": "In stores nearby",
+      "source": "Total Wine & More",
+      "price": 19.99,
+      "currency": "$",
+      "rating": 4.3,
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRlGnVH1PhIk1cFoAftAsMnV69MAEnT2-fSc9oG0Bkk9tSQ9jkgVb3bJZlJjQEDN8QSiBqa-jGpTBEs9Sz5Jk9eLCdlMOWRuisjB7rINv0"
+    },
+    {
+      "position": 6,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 7,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 8,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 9,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 10,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 11,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 12,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 13,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 14,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 15,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 16,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 17,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 18,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 19,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 20,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 21,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 22,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 23,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 24,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 25,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 26,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 27,
+      "block_title": "In stores nearby"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/d3dd2d9ea66b9ca14a64a763a6add3f13d78691b1625872ff61a00a0bf14ba25.webp",
+      "source_logo": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/d3dd2d9ea66b9ca14a64a763a6add3f1e0c45a52428162ea0d50ebbbffff3bc21dad4e78fda984f6.png",
+      "source": "Walmart",
+      "title": "Champagne Korbel Brut",
+      "rating": 4.5,
+      "reviews": 437,
+      "price": "$13.37",
+      "extracted_price": 13.37,
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjE3NTQxNjk1NDg2MzIzMzE4NyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc4OTgyODIyNTgxMDk4NzcwNjAiLCJpbWFnZURvY2lkIjoiMzA2NDE0MjQzNzAyNDUwMDA3NiIsInJkcyI6IlBDXzExNDQ0NzU5ODQ5OTIwNDgxNzg5fFBST0RfUENfMTE0NDQ3NTk4NDk5MjA0ODE3ODkiLCJxdWVyeSI6ImNoYW1wYWduZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjE3NTQxNjk1NDg2MzIzMzE4NyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc4OTgyODIyNTgxMDk4NzcwNjAiLCJpbWFnZURvY2lkIjoiMzA2NDE0MjQzNzAyNDUwMDA3NiIsInJkcyI6IlBDXzExNDQ0NzU5ODQ5OTIwNDgxNzg5fFBST0RfUENfMTE0NDQ3NTk4NDk5MjA0ODE3ODkiLCJxdWVyeSI6ImNoYW1wYWduZSJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/d3dd2d9ea66b9ca14a64a763a6add3f1123f25b81fcca78236a214dd1980519e.webp",
+      "source_logo": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/d3dd2d9ea66b9ca14a64a763a6add3f17e4b693f713545f65294084310afdcd6618b7d00f4e395de.png",
+      "source": "Millesima USA",
+      "title": "Champagne Veuve Clicquot Brut Yellow Label",
+      "rating": 4.7,
+      "reviews": 5400,
+      "price": "$37.99",
+      "extracted_price": 37.99,
+      "original_price": "Usually $57",
+      "extracted_original_price": 57,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzE4MjgzNzQyNDc1ODE2ODA3OSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTU2MjIyMTUyNjE3Njg3NDgzMzMiLCJpbWFnZURvY2lkIjoiMTM4OTQyMDU0MTE3OTExNTgyNTUiLCJyZHMiOiJQQ18xNTc3Mjg0MzY5ODc4OTc4MzA0NHxQUk9EX1BDXzE1NzcyODQzNjk4Nzg5NzgzMDQ0IiwicXVlcnkiOiJjaGFtcGFnbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzE4MjgzNzQyNDc1ODE2ODA3OSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTU2MjIyMTUyNjE3Njg3NDgzMzMiLCJpbWFnZURvY2lkIjoiMTM4OTQyMDU0MTE3OTExNTgyNTUiLCJyZHMiOiJQQ18xNTc3Mjg0MzY5ODc4OTc4MzA0NHxQUk9EX1BDXzE1NzcyODQzNjk4Nzg5NzgzMDQ0IiwicXVlcnkiOiJjaGFtcGFnbmUifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/d3dd2d9ea66b9ca14a64a763a6add3f16125e706a7c26ac2682e1b823074fc49.webp",
+      "source_logo": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/d3dd2d9ea66b9ca14a64a763a6add3f17492e35a0bc7170e45f85dcad6f87a9e5c92e9f15ff2d36b.png",
+      "source": "Dom P\u00e9rignon",
+      "title": "Dom Perignon Brut Champagne",
+      "rating": 4.7,
+      "reviews": 140,
+      "price": "$229.00",
+      "extracted_price": 229.0,
+      "original_price": "Usually $260",
+      "extracted_original_price": 260,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA3MjUxODM0NDMyODkyMjQyNCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzA5ODI2NzUzMzQ5MjM3NTMzNiIsImltYWdlRG9jaWQiOiIxMzI2NDUyNzE3NDMwNjgwOTI5NiIsInJkcyI6IlBDXzY3ODI0MjIzNjkzMzUyOTY4OTR8UFJPRF9QQ182NzgyNDIyMzY5MzM1Mjk2ODk0IiwicXVlcnkiOiJjaGFtcGFnbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA3MjUxODM0NDMyODkyMjQyNCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzA5ODI2NzUzMzQ5MjM3NTMzNiIsImltYWdlRG9jaWQiOiIxMzI2NDUyNzE3NDMwNjgwOTI5NiIsInJkcyI6IlBDXzY3ODI0MjIzNjkzMzUyOTY4OTR8UFJPRF9QQ182NzgyNDIyMzY5MzM1Mjk2ODk0IiwicXVlcnkiOiJjaGFtcGFnbmUifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/d3dd2d9ea66b9ca14a64a763a6add3f116d1f5a3cc5f0b9df7f4e5e11cbe14d7.webp",
+      "source_logo": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/d3dd2d9ea66b9ca14a64a763a6add3f1174b0a99f9ba95d1a07351bf651a670658a0bc391f9f67ec.png",
+      "source": "Fine Wine & Good Spirits",
+      "title": "Veuve Clicquot Yellow Label Champagne Brut",
+      "rating": 5.0,
+      "reviews": 1,
+      "price": "$35.99",
+      "extracted_price": 35.99,
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiOTEzMjE0NjYxNTM3ODI1NTEyMyIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTEzMjE0NjYxNTM3ODI1NTEyMyIsImltYWdlRG9jaWQiOiI5Mjc3NDg1ODI0MDc5MDY3OTA4IiwicmRzIjoiUENfMTExNjIzOTAwOTYxOTc5ODcxODR8UFJPRF9QQ18xMTE2MjM5MDA5NjE5Nzk4NzE4NCIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiOTEzMjE0NjYxNTM3ODI1NTEyMyIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTEzMjE0NjYxNTM3ODI1NTEyMyIsImltYWdlRG9jaWQiOiI5Mjc3NDg1ODI0MDc5MDY3OTA4IiwicmRzIjoiUENfMTExNjIzOTAwOTYxOTc5ODcxODR8UFJPRF9QQ18xMTE2MjM5MDA5NjE5Nzk4NzE4NCIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/d3dd2d9ea66b9ca14a64a763a6add3f13b1af3ac6aeec8f942b663d9f85f4d30.webp",
+      "source_logo": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/d3dd2d9ea66b9ca14a64a763a6add3f1f3682c537f5668717a8aa92392fa9ad6f76caff1244726d1.png",
+      "source": "Chambers Street Wines",
+      "title": "Perrier Jouet Belle Epoque Brut Champagne",
+      "rating": 4.7,
+      "reviews": 20,
+      "price": "$139.99",
+      "extracted_price": 139.99,
+      "original_price": "Usually $180",
+      "extracted_original_price": 180,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIwMjI4NzY3NDgxMzI2NjQ3IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDc2NDA3MzI0Njk4NTc4MDEwMSIsImltYWdlRG9jaWQiOiI3NTY4MzI2MTMxMTE5NjcyMTU1IiwicmRzIjoiUENfNjAzOTUwOTQxNzIxOTAzOTEzMHxQUk9EX1BDXzYwMzk1MDk0MTcyMTkwMzkxMzAiLCJxdWVyeSI6ImNoYW1wYWduZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIwMjI4NzY3NDgxMzI2NjQ3IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDc2NDA3MzI0Njk4NTc4MDEwMSIsImltYWdlRG9jaWQiOiI3NTY4MzI2MTMxMTE5NjcyMTU1IiwicmRzIjoiUENfNjAzOTUwOTQxNzIxOTAzOTEzMHxQUk9EX1BDXzYwMzk1MDk0MTcyMTkwMzkxMzAiLCJxdWVyeSI6ImNoYW1wYWduZSJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/d3dd2d9ea66b9ca14a64a763a6add3f183416c8114efa3596ed22570194a1a3e.webp",
+      "source_logo": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/d3dd2d9ea66b9ca14a64a763a6add3f1abfae883333267e36bb1a0c471e5e9f7fd3f0f53bd49d367.png",
+      "source": "Walmart",
+      "title": "Andre Signature Collection Brut California Champagne 750 ml",
+      "rating": 4.3,
+      "reviews": 332,
+      "price": "$6.12",
+      "extracted_price": 6.12,
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUwNjgzNDc3NDQ1NDA2MDUwMzgiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijg1ODMxMTQ3NTg5NTE2NjQ2MzAiLCJpbWFnZURvY2lkIjoiMTgwMDk0NDUzODQyNzg2OTgzOTQiLCJyZHMiOiJQQ185NjAzNzgwMTcwMDg3NTIxNTAyfFBST0RfUENfOTYwMzc4MDE3MDA4NzUyMTUwMiIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUwNjgzNDc3NDQ1NDA2MDUwMzgiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijg1ODMxMTQ3NTg5NTE2NjQ2MzAiLCJpbWFnZURvY2lkIjoiMTgwMDk0NDUzODQyNzg2OTgzOTQiLCJyZHMiOiJQQ185NjAzNzgwMTcwMDg3NTIxNTAyfFBST0RfUENfOTYwMzc4MDE3MDA4NzUyMTUwMiIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/d3dd2d9ea66b9ca14a64a763a6add3f19812de9be95d1dcb40f133201a4a2b56.webp",
+      "source_logo": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/d3dd2d9ea66b9ca14a64a763a6add3f178e0060254cba01edb2aaf69297fff030db76e147ca29f0b.png",
+      "source": "Millesima USA",
+      "title": "Moet & Chandon : Brut Imperial Rose",
+      "rating": 5.0,
+      "reviews": 4,
+      "price": "$19.99",
+      "extracted_price": 19.99,
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiMTM5NzQzOTgwMDYzMTU5MjE0ODgiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzOTc0Mzk4MDA2MzE1OTIxNDg4IiwiaW1hZ2VEb2NpZCI6IjEwNDg0MTc4MjQzNjAxMjYxNjA0IiwicmRzIjoiUENfNTk4OTg3NjYyNzk4ODU1NTE0MnxQUk9EX1BDXzU5ODk4NzY2Mjc5ODg1NTUxNDIiLCJxdWVyeSI6ImNoYW1wYWduZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiMTM5NzQzOTgwMDYzMTU5MjE0ODgiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzOTc0Mzk4MDA2MzE1OTIxNDg4IiwiaW1hZ2VEb2NpZCI6IjEwNDg0MTc4MjQzNjAxMjYxNjA0IiwicmRzIjoiUENfNTk4OTg3NjYyNzk4ODU1NTE0MnxQUk9EX1BDXzU5ODk4NzY2Mjc5ODg1NTUxNDIiLCJxdWVyeSI6ImNoYW1wYWduZSJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/d3dd2d9ea66b9ca14a64a763a6add3f1e3158c02b05715207d7f7cd518178101.webp",
+      "source_logo": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/d3dd2d9ea66b9ca14a64a763a6add3f1e68f5affa12385a63e9c9ed398a5ba619d30097afee42957.png",
+      "source": "Hamilton Discount Wine & Liquor",
+      "title": "Moet Chandon Imperial Rose",
+      "rating": 4.7,
+      "reviews": 1000,
+      "price": "$59.99",
+      "extracted_price": 59.99,
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc0OTczMjA5OTk3NDk2MDExMTYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2NDE5OTk3OTkwMzc4MDUzMDg0IiwiaW1hZ2VEb2NpZCI6IjE1MzYwOTYzMzc2NzQzNDUzMTg3IiwicmRzIjoiUENfMTM1ODQ0NTMxNzU0MzI1NzYwMDR8UFJPRF9QQ18xMzU4NDQ1MzE3NTQzMjU3NjAwNCIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc0OTczMjA5OTk3NDk2MDExMTYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2NDE5OTk3OTkwMzc4MDUzMDg0IiwiaW1hZ2VEb2NpZCI6IjE1MzYwOTYzMzc2NzQzNDUzMTg3IiwicmRzIjoiUENfMTM1ODQ0NTMxNzU0MzI1NzYwMDR8UFJPRF9QQ18xMzU4NDQ1MzE3NTQzMjU3NjAwNCIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/d3dd2d9ea66b9ca14a64a763a6add3f14ee822396e9cf02843f6037c7b7e2050.webp",
+      "source_logo": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/d3dd2d9ea66b9ca14a64a763a6add3f1bfdaac5371975c473876df18a7611ef5a44a8abdc759a513.png",
+      "source": "Fine Wine & Good Spirits",
+      "title": "Dom Perignon Vintage Champagne",
+      "rating": 4.1,
+      "reviews": 25,
+      "price": "$274.99",
+      "extracted_price": 274.99,
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjkzNDc4MjI5ODQ2ODc0OTMwIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDI1ODYxNTM3ODg2MTQ0MTI0MCIsImltYWdlRG9jaWQiOiI4MjczOTk2MTcxNTgxODA5MTQ1IiwicmRzIjoiUENfNzA2NTA3NTkzNjI1NjA5NTE1NHxQUk9EX1BDXzcwNjUwNzU5MzYyNTYwOTUxNTQiLCJxdWVyeSI6ImNoYW1wYWduZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjkzNDc4MjI5ODQ2ODc0OTMwIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDI1ODYxNTM3ODg2MTQ0MTI0MCIsImltYWdlRG9jaWQiOiI4MjczOTk2MTcxNTgxODA5MTQ1IiwicmRzIjoiUENfNzA2NTA3NTkzNjI1NjA5NTE1NHxQUk9EX1BDXzcwNjUwNzU5MzYyNTYwOTUxNTQiLCJxdWVyeSI6ImNoYW1wYWduZSJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/d3dd2d9ea66b9ca14a64a763a6add3f19cae313cd523158c92545cdab364e0f4.webp",
+      "source_logo": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/d3dd2d9ea66b9ca14a64a763a6add3f1063fd623116531fcbc0ddaf6cbdbcf81a87e4e48d931087b.png",
+      "source": "Main Street Wine & Liquor",
+      "title": "Veuve Clicquot Brut Champagne 375ml",
+      "rating": 4.8,
+      "reviews": 3600,
+      "price": "$29.99",
+      "extracted_price": 29.99,
+      "original_price": "Usually $36",
+      "extracted_original_price": 36,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA3MTQ4MTU5NTA4MDAxMDUzMDQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjkwNjIyMzczNTgxNjUyNjU3MzAiLCJpbWFnZURvY2lkIjoiMjkxOTExOTMyNDU1OTEwNDUwOSIsInJkcyI6IlBDXzY4NDY2NTAyNjQxOTc0OTI5MzF8UFJPRF9QQ182ODQ2NjUwMjY0MTk3NDkyOTMxIiwicXVlcnkiOiJjaGFtcGFnbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA3MTQ4MTU5NTA4MDAxMDUzMDQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjkwNjIyMzczNTgxNjUyNjU3MzAiLCJpbWFnZURvY2lkIjoiMjkxOTExOTMyNDU1OTEwNDUwOSIsInJkcyI6IlBDXzY4NDY2NTAyNjQxOTc0OTI5MzF8UFJPRF9QQ182ODQ2NjUwMjY0MTk3NDkyOTMxIiwicXVlcnkiOiJjaGFtcGFnbmUifQ%3D%3D"
+    },
+    {
+      "category": "Deals on Champagne",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRW_-ICdIDN2tqvL4mVL7dDj8NO-CiRp2b0ZB6la268AbsgZkkOCESMB3HnO_5HgCrcP-AQltycGSEDVQY0uuetPNaLPan-xSsd1NCHeKYRHXoQVJfMtHeI6Q",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTRXCVa9sqw1VczFrhxleHG0JmGxyV_Qzueq7zGKdHJhy-TrrgndjGMRHCAxZwAXqezGs4KwpwTghkBcIXvPM1oHpb4wyAw4oKv-D0T_l8",
+      "source": "Millesima USA",
+      "title": "Champagne Veuve Clicquot Brut Yellow Label",
+      "rating": 4.7,
+      "reviews": 5400,
+      "price": "$37.99",
+      "extracted_price": 37.99,
+      "original_price": "Usually $57",
+      "extracted_original_price": 57,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzE4MjgzNzQyNDc1ODE2ODA3OSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTU2MjIyMTUyNjE3Njg3NDgzMzMiLCJpbWFnZURvY2lkIjoiMTM4OTQyMDU0MTE3OTExNTgyNTUiLCJyZHMiOiJQQ18xNTc3Mjg0MzY5ODc4OTc4MzA0NHxQUk9EX1BDXzE1NzcyODQzNjk4Nzg5NzgzMDQ0IiwicXVlcnkiOiJjaGFtcGFnbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzE4MjgzNzQyNDc1ODE2ODA3OSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTU2MjIyMTUyNjE3Njg3NDgzMzMiLCJpbWFnZURvY2lkIjoiMTM4OTQyMDU0MTE3OTExNTgyNTUiLCJyZHMiOiJQQ18xNTc3Mjg0MzY5ODc4OTc4MzA0NHxQUk9EX1BDXzE1NzcyODQzNjk4Nzg5NzgzMDQ0IiwicXVlcnkiOiJjaGFtcGFnbmUifQ%3D%3D"
+    },
+    {
+      "category": "Deals on Champagne",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTZh_3Cz1jEGGHkSTIbqwPUjf30TrY2TlgDZxco7hgdD-HvldaVyDCfONwMzQet8d3YCr5GL-4D_J0wuCsFitGJYTKAREL5IUMWPrxa0NQS",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT9fJJWRF4VaA36xwPudQYBP3oZbEJjRNfGT_QuOlMZd4QlxtQFFYdmGZ2vWljeHdSHJZxdDAzWwwcRwa2wrRV37NJ9BHc",
+      "source": "Woodland Hills Wine Company",
+      "title": "Pol Roger Brut Champagne Cuv\u00e9e Sir Winston Churchill 2015 (Wine - France)",
+      "rating": 5.0,
+      "reviews": 18,
+      "price": "$219.95",
+      "extracted_price": 219.95,
+      "original_price": "$500",
+      "extracted_original_price": 500,
+      "extensions": [
+        "56% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiNzQ2NTI5MzMwNjc3NDk5Mzg3MCIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzQ2NTI5MzMwNjc3NDk5Mzg3MCIsImltYWdlRG9jaWQiOiIxNTU1MjA4MTcwODg5NTk0Mzg2MSIsInJkcyI6IlBDXzE4MDQwMjExNTc5MDE5MzY0ODkzfFBST0RfUENfMTgwNDAyMTE1NzkwMTkzNjQ4OTMiLCJxdWVyeSI6ImNoYW1wYWduZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiNzQ2NTI5MzMwNjc3NDk5Mzg3MCIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzQ2NTI5MzMwNjc3NDk5Mzg3MCIsImltYWdlRG9jaWQiOiIxNTU1MjA4MTcwODg5NTk0Mzg2MSIsInJkcyI6IlBDXzE4MDQwMjExNTc5MDE5MzY0ODkzfFBST0RfUENfMTgwNDAyMTE1NzkwMTkzNjQ4OTMiLCJxdWVyeSI6ImNoYW1wYWduZSJ9"
+    },
+    {
+      "category": "Deals on Champagne",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQkscgzcrzZOQ54hOqtGJHKxIoX5iyMHNoR8yMCFLMa9huGhuM3VCu6yxQnnGy6WYAdHb7BdKcTGO46BNKNYS0aQoaamSblJkJGbEabjaK0lrXJMb7gCKp9",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTLVH99o9uTFcdA1N_VzhzHQCNKqvBx1FF03axxxAGY8tdXKt99aXy90wmYkUNgwHJiSgli5JwBnAt2QnSyqru-i4hi8ndHSBJWXko",
+      "source": "Dom P\u00e9rignon",
+      "title": "Dom Perignon Brut Champagne",
+      "rating": 4.7,
+      "reviews": 140,
+      "price": "$229.00",
+      "extracted_price": 229.0,
+      "original_price": "Usually $260",
+      "extracted_original_price": 260,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA3MjUxODM0NDMyODkyMjQyNCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzA5ODI2NzUzMzQ5MjM3NTMzNiIsImltYWdlRG9jaWQiOiIxMzI2NDUyNzE3NDMwNjgwOTI5NiIsInJkcyI6IlBDXzY3ODI0MjIzNjkzMzUyOTY4OTR8UFJPRF9QQ182NzgyNDIyMzY5MzM1Mjk2ODk0IiwicXVlcnkiOiJjaGFtcGFnbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA3MjUxODM0NDMyODkyMjQyNCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzA5ODI2NzUzMzQ5MjM3NTMzNiIsImltYWdlRG9jaWQiOiIxMzI2NDUyNzE3NDMwNjgwOTI5NiIsInJkcyI6IlBDXzY3ODI0MjIzNjkzMzUyOTY4OTR8UFJPRF9QQ182NzgyNDIyMzY5MzM1Mjk2ODk0IiwicXVlcnkiOiJjaGFtcGFnbmUifQ%3D%3D"
+    },
+    {
+      "category": "Deals on Champagne",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJHPM5Xcxr8xzn1_Bdmg_TMmJFostpfqxu7DtFRRfbd_e0gc-wheiVYmE57F1xQ0D3Rh1NZwWuJ2I5hPwMcKIlndnSaiLhZbhzhWI6Jqvxq5O6V45FMHWuCA",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRFF5NMFKqAYb1KBaxDh8foQrszh9kNZMGrHLFsSthtziaH0mF12Ta0Y_PUOz05ItuDMvaxshn0kDGNAFwKZfAtO15mmZ1xuw3ZGLUo",
+      "source": "Chambers Street Wines",
+      "title": "Perrier Jouet Belle Epoque Brut Champagne",
+      "rating": 4.7,
+      "reviews": 20,
+      "price": "$139.99",
+      "extracted_price": 139.99,
+      "original_price": "Usually $180",
+      "extracted_original_price": 180,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIwMjI4NzY3NDgxMzI2NjQ3IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDc2NDA3MzI0Njk4NTc4MDEwMSIsImltYWdlRG9jaWQiOiI3NTY4MzI2MTMxMTE5NjcyMTU1IiwicmRzIjoiUENfNjAzOTUwOTQxNzIxOTAzOTEzMHxQUk9EX1BDXzYwMzk1MDk0MTcyMTkwMzkxMzAiLCJxdWVyeSI6ImNoYW1wYWduZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIwMjI4NzY3NDgxMzI2NjQ3IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDc2NDA3MzI0Njk4NTc4MDEwMSIsImltYWdlRG9jaWQiOiI3NTY4MzI2MTMxMTE5NjcyMTU1IiwicmRzIjoiUENfNjAzOTUwOTQxNzIxOTAzOTEzMHxQUk9EX1BDXzYwMzk1MDk0MTcyMTkwMzkxMzAiLCJxdWVyeSI6ImNoYW1wYWduZSJ9"
+    },
+    {
+      "category": "Deals on Champagne",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjdtfl22tk-SOO0RcfmYx86caGYlQ-jycCWDubvdYyAaVa3QASeejTnBPpws_9BKO_R-Yz79sOxIQ1u7fjA792szkrHglrtwdeGtj8ghD81aJWRNLyiAxf",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS2j1cICaIEmJ2T58_422IrLvIy7daOtMQmyiZ8eU3O2HtvghxajZh_PNI0BcoVcuoK5SoiRTAZiIhBu-MRxr_9TnnRSvLnutmHURzN",
+      "source": "Oakville Grocery",
+      "title": "Champagne Mandois Blanc de Blancs Champagne 750ml",
+      "price": "$48.00",
+      "extracted_price": 48.0,
+      "original_price": "$60",
+      "extracted_original_price": 60,
+      "extensions": [
+        "20% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzE1MDYyNTk2MTg1MjQyMjg1NyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTE3Njg5MTI2NjU1Njg2NDAyIiwiaW1hZ2VEb2NpZCI6IjE1MzUwMjk2ODA2MTc0ODYxMzIwIiwicmRzIjoiIiwicXVlcnkiOiJjaGFtcGFnbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzE1MDYyNTk2MTg1MjQyMjg1NyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTE3Njg5MTI2NjU1Njg2NDAyIiwiaW1hZ2VEb2NpZCI6IjE1MzUwMjk2ODA2MTc0ODYxMzIwIiwicmRzIjoiIiwicXVlcnkiOiJjaGFtcGFnbmUifQ%3D%3D"
+    },
+    {
+      "category": "Deals on Champagne",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTYfTlX0EduecRpGGIjO70uxdkq07Vo0ErPu1IvMhN9HLI9QS2iW-lm9EjORsrYFbsR-A4tEoyE0SPjVvuRKF0WxI-ER3jT0m4amAh3i8ErUwHBq-bk_T6K",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSXOPyTYpwd9c5RZqWK1Y_Tf-g6L2o4oY3KfK4Z86zzrAYebuB11h3xpoqt0SywjWY9fr6Yj5rsDglLtfkCM-fzUBAw5DO3szh8e5WRzDY1yv-XJg",
+      "source": "Woods Wholesale Wine",
+      "title": "Laurent-Perrier La Cuvee Brut Champagne",
+      "rating": 4.7,
+      "reviews": 436,
+      "price": "$29.98",
+      "extracted_price": 29.98,
+      "original_price": "$40",
+      "extracted_original_price": 40,
+      "extensions": [
+        "25% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTgxNzAzODIzMzUyMTI3MzIxNDQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjI5Mzg5Nzg5MTgzNzI0NzIwMzgiLCJpbWFnZURvY2lkIjoiNzkxMjM0MDE0NjEwNTMxODI2MCIsInJkcyI6IlBDXzUxNjU5NjY4MDE1NjI1OTQxMTF8UFJPRF9QQ181MTY1OTY2ODAxNTYyNTk0MTExIiwicXVlcnkiOiJjaGFtcGFnbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTgxNzAzODIzMzUyMTI3MzIxNDQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjI5Mzg5Nzg5MTgzNzI0NzIwMzgiLCJpbWFnZURvY2lkIjoiNzkxMjM0MDE0NjEwNTMxODI2MCIsInJkcyI6IlBDXzUxNjU5NjY4MDE1NjI1OTQxMTF8UFJPRF9QQ181MTY1OTY2ODAxNTYyNTk0MTExIiwicXVlcnkiOiJjaGFtcGFnbmUifQ%3D%3D"
+    },
+    {
+      "category": "Deals on Champagne",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQCzuWScq_e-ln6E73klyxeEEBE3BjjtZ9DR-vA9hp75nsNMwF7__XlVSgZHv5csM_O2JtK_fVlsBUxoZOQKUSTm7dxJSvYOvekvlvrcURT5AWcDwunbA",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ5qUfBMFAB8FaQjIzfDxy2P_Nf3m4MeSgqRMndCPQpLd2HPExP5_6G3v1g9_U261D_ZQZ8bh__D9N9aF6kfSy1CtaSirg",
+      "source": "Wine.com",
+      "title": "Louis Roederer Cristal Brut Champagne 750ml",
+      "rating": 4.7,
+      "reviews": 57,
+      "price": "$429.97",
+      "extracted_price": 429.97,
+      "original_price": "$450",
+      "extracted_original_price": 450,
+      "extensions": [
+        "$20 OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzM3MzI4NzE2OTc2NjM0NjAzIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI5NDc3MTM0NDM1MzQ2ODQ3ODYzIiwiaW1hZ2VEb2NpZCI6IjQ0NjkwOTg2ODE4MzE0NDI5MjYiLCJyZHMiOiJQQ18xNjYxMTI3MzEzNDk4OTYxMzg1MnxQUk9EX1BDXzE2NjExMjczMTM0OTg5NjEzODUyIiwicXVlcnkiOiJjaGFtcGFnbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzM3MzI4NzE2OTc2NjM0NjAzIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI5NDc3MTM0NDM1MzQ2ODQ3ODYzIiwiaW1hZ2VEb2NpZCI6IjQ0NjkwOTg2ODE4MzE0NDI5MjYiLCJyZHMiOiJQQ18xNjYxMTI3MzEzNDk4OTYxMzg1MnxQUk9EX1BDXzE2NjExMjczMTM0OTg5NjEzODUyIiwicXVlcnkiOiJjaGFtcGFnbmUifQ%3D%3D"
+    },
+    {
+      "category": "Deals on Champagne",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ3RCToLEz-mxTBnXKEvDflBW_DdhNkhE_qaGj5Fzz_1Pf_R1Drx5C3JelKyUvcQc0LMr6d9L6IgDHo_wRNxTufDLIWKa-MNDND-xGpng",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQws6ZqAmHvQ9R0waVq31M6E0-_1SXrm3dbHzSgtdnqu7FhgplOyWyz-DFGdye5eQKr238SM392iiwjDhCwtqLfeUEHSoYO",
+      "source": "Wells Discount Liquors",
+      "title": "Charles Orban La Carte Noire Brut Champagne NV 750ml",
+      "rating": 5.0,
+      "reviews": 9,
+      "price": "$36.99",
+      "extracted_price": 36.99,
+      "original_price": "$50",
+      "extracted_original_price": 50,
+      "extensions": [
+        "26% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQzNzYwMzczMjE2NDU3NjI4OTEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0MTM0Njk2MTcwMzczNTYxNTg1IiwiaW1hZ2VEb2NpZCI6IjE0MTEyMzU3MDg4NzQ1MjYyMzgxIiwicmRzIjoiUENfMTEwMTg2MDgwMTMyMzQ1NzY3MXxQUk9EX1BDXzExMDE4NjA4MDEzMjM0NTc2NzEiLCJxdWVyeSI6ImNoYW1wYWduZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQzNzYwMzczMjE2NDU3NjI4OTEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0MTM0Njk2MTcwMzczNTYxNTg1IiwiaW1hZ2VEb2NpZCI6IjE0MTEyMzU3MDg4NzQ1MjYyMzgxIiwicmRzIjoiUENfMTEwMTg2MDgwMTMyMzQ1NzY3MXxQUk9EX1BDXzExMDE4NjA4MDEzMjM0NTc2NzEiLCJxdWVyeSI6ImNoYW1wYWduZSJ9"
+    },
+    {
+      "category": "Deals on Champagne",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcToCZaf62vSOWTZe77tmyLX7AAj3mEDhIslL6Cv2e4eVzyC8cdFxdobr_Daf3KfB5GtynQlvAqEsUG6V6-8TR9aj_Xl33FjUGN6XX_AEl5xoAKiqvACh-il",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTLVH99o9uTFcdA1N_VzhzHQCNKqvBx1FF03axxxAGY8tdXKt99aXy90wmYkUNgwHJiSgli5JwBnAt2QnSyqru-i4hi8ndHSBJWXko",
+      "source": "ReserveBar",
+      "title": "Dom Perignon Vintage Champagne 750 ml",
+      "price": "$226.99",
+      "extracted_price": 226.99,
+      "original_price": "Usually $243",
+      "extracted_original_price": 243,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjIzODAwMjgwODk0ODk1MzgyIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI1Nzk2NzYzMTg1NDA3MDI4NzYiLCJpbWFnZURvY2lkIjoiMTg0Mjc2ODA1MTY4Njc4MjE2NDMiLCJyZHMiOiIiLCJxdWVyeSI6ImNoYW1wYWduZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjIzODAwMjgwODk0ODk1MzgyIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI1Nzk2NzYzMTg1NDA3MDI4NzYiLCJpbWFnZURvY2lkIjoiMTg0Mjc2ODA1MTY4Njc4MjE2NDMiLCJyZHMiOiIiLCJxdWVyeSI6ImNoYW1wYWduZSJ9"
+    },
+    {
+      "category": "Deals on Champagne",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQm5NUa9SAPLJl0LAW0mQzTXDripjvyGEGQ_KdEj9gxg5slfBBTOQjCIKrCWqb4s8GndTmMdB3vMepSImcDyj6ghAGU6DeCOM4uEDYVMA",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQZohkJZjcfuEhcF2nFfHVizAE_Mz7zpxN9pdg7k7BojFhqfT9EJLz4MTaFdC1g6ByenHhznxd6Ev9B6CnD8cnF8wnIBPB2FG8obCgJ6w",
+      "source": "WineMadeEasy.com",
+      "title": "Taittinger Blanc de Blancs Comtes de Champagne",
+      "rating": 4.6,
+      "reviews": 18,
+      "price": "$239.20",
+      "extracted_price": 239.2,
+      "original_price": "$299",
+      "extracted_original_price": 299,
+      "extensions": [
+        "20% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTk4Nzg3NzkxMDAxMTMyNzk0NSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTgxNzg5MjIxMzI3NjMwNTM0MzciLCJpbWFnZURvY2lkIjoiMTQ4OTAwNTc4NjY2MzE4OTYxMTUiLCJyZHMiOiJQQ184Mjk1NDM0MDUzMDYwODkyMDE3fFBST0RfUENfODI5NTQzNDA1MzA2MDg5MjAxNyIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTk4Nzg3NzkxMDAxMTMyNzk0NSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTgxNzg5MjIxMzI3NjMwNTM0MzciLCJpbWFnZURvY2lkIjoiMTQ4OTAwNTc4NjY2MzE4OTYxMTUiLCJyZHMiOiJQQ184Mjk1NDM0MDUzMDYwODkyMDE3fFBST0RfUENfODI5NTQzNDA1MzA2MDg5MjAxNyIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSfa3EeP1ijsY-MnwBvPO6sDIYotg3X1yXsKUUGNDMeIlWQLIhhJEa46fYdV4y8cj-yJ5tjw-w1pH-xNQuKElOSM1L3dqgoqO6RcTfv2HjX2t9_p4MT0FNJsg",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQJabgWQBlkSDxJ_H3BSR1_MjhAn_AL94NzNCLnV5gdJc5X0-iNHBqnMzcTqf15NRM_VrJyfvyFeN28QtS6YmzMQkMl0A",
+      "source": "Walmart",
+      "title": "Champagne Cook's Brut",
+      "rating": 4.3,
+      "reviews": 1600,
+      "price": "$10.98",
+      "extracted_price": 10.98,
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE1MTczNTIxOTczMDI3NDU1MjYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMTUzNDc0MDgxNTM0NDQ0NzU0IiwiaW1hZ2VEb2NpZCI6IjMyMzM2NTc3ODg4NTkyNTUxMyIsInJkcyI6IlBDXzE1MzI2OTY1NzM0NTE1NjA4NzcwfFBST0RfUENfMTUzMjY5NjU3MzQ1MTU2MDg3NzAiLCJxdWVyeSI6ImNoYW1wYWduZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE1MTczNTIxOTczMDI3NDU1MjYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMTUzNDc0MDgxNTM0NDQ0NzU0IiwiaW1hZ2VEb2NpZCI6IjMyMzM2NTc3ODg4NTkyNTUxMyIsInJkcyI6IlBDXzE1MzI2OTY1NzM0NTE1NjA4NzcwfFBST0RfUENfMTUzMjY5NjU3MzQ1MTU2MDg3NzAiLCJxdWVyeSI6ImNoYW1wYWduZSJ9"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR2DzNUsSTv7DeDSUXQKAk5yfVa6nrOGFzaLFBKmmcecuJnS0HqeSdI1DG08rinO3c11w6M3Qz5HNQ7mcSM3ZPIeiR-4t2rG6n9JO9HdLTfKX9wyMfC8XFQ",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTRXCVa9sqw1VczFrhxleHG0JmGxyV_Qzueq7zGKdHJhy-TrrgndjGMRHCAxZwAXqezGs4KwpwTghkBcIXvPM1oHpb4wyAw4oKv-D0T_l8",
+      "source": "Millesima USA",
+      "title": "Moet & Chandon : Brut Imperial",
+      "rating": 4.7,
+      "reviews": 3400,
+      "price": "$16.99",
+      "extracted_price": 16.99,
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiMTQxMDU1MTI1OTQyNzY3NjM1ODkiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0MTA1NTEyNTk0Mjc2NzYzNTg5IiwiaW1hZ2VEb2NpZCI6IjE2NzcwMzU3OTY3MDI4NTg5MjQ1IiwicmRzIjoiUENfODk5MjQyOTY3NzA2NTg3MTExfFBST0RfUENfODk5MjQyOTY3NzA2NTg3MTExIiwicXVlcnkiOiJjaGFtcGFnbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiMTQxMDU1MTI1OTQyNzY3NjM1ODkiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0MTA1NTEyNTk0Mjc2NzYzNTg5IiwiaW1hZ2VEb2NpZCI6IjE2NzcwMzU3OTY3MDI4NTg5MjQ1IiwicmRzIjoiUENfODk5MjQyOTY3NzA2NTg3MTExfFBST0RfUENfODk5MjQyOTY3NzA2NTg3MTExIiwicXVlcnkiOiJjaGFtcGFnbmUifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQcDzlvFECKclPMxzjnjyxRpirTW5q-KYsfMAnqYqlL73k3UUtwxTbnnVAvcc6-sHaPD0xx5cKS1fTdtzrchf4zSEPz7kH9asJway-YjICVrnhzH9V3L4Gd",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQy10TnTpiYjxh-qXu76g5R0WdoHUrNeFMLenSV4P0IFNH6mROpuXe21iQamZspy--H-_pJMWhwRt2Eb0aJX-gQVvmccNW80q624lg",
+      "source": "Klassik Premium",
+      "title": "Armand De Brignac Brut Gold",
+      "rating": 4.8,
+      "reviews": 111,
+      "price": "$258.41",
+      "extracted_price": 258.41,
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzI2NzY0MjYyMzIzMTY5NDU2OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTI0NDI1Nzg3Mzk1NjM3MTk5NDYiLCJpbWFnZURvY2lkIjoiMjU1Mjc4OTQ2NTM5MDYwOTU5OCIsInJkcyI6IlBDXzUwMjI2NjY4OTExNTU4NDk5OTh8UFJPRF9QQ181MDIyNjY2ODkxMTU1ODQ5OTk4IiwicXVlcnkiOiJjaGFtcGFnbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzI2NzY0MjYyMzIzMTY5NDU2OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTI0NDI1Nzg3Mzk1NjM3MTk5NDYiLCJpbWFnZURvY2lkIjoiMjU1Mjc4OTQ2NTM5MDYwOTU5OCIsInJkcyI6IlBDXzUwMjI2NjY4OTExNTU4NDk5OTh8UFJPRF9QQ181MDIyNjY2ODkxMTU1ODQ5OTk4IiwicXVlcnkiOiJjaGFtcGFnbmUifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQdSB3YYNtSOL1r8HCl7foym8rcCM5ohnQwNm3R9NV2f_Hgw7YBg5mO-PyQeTn4u-bZ7zsEJHYxmFp0IguF-v7RA-KxhwcVWE-HRCx3EzM",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRuNj3-SsR-gXRT6MIrS8oUkfXBvNzdn97qL7KznI8mfm9fj7tJeZ0w5tAgwDGfirmBr43vkmr4gUM7RP25dPFNtJYp6-kDE-_j",
+      "source": "prospectwine.com",
+      "title": "Moet & Chandon Imperial Brut Champagne",
+      "rating": 4.7,
+      "reviews": 3400,
+      "price": "$47.99",
+      "extracted_price": 47.99,
+      "original_price": "Usually $60",
+      "extracted_original_price": 60,
+      "delivery": "Free by 10/17",
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzc0NDgyMDE1OTM0OTQxOTY3MCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTY1OTcyMTg4NTEwNDExNDA5OSIsImltYWdlRG9jaWQiOiIxNjAzODY5Mjc5NDgyMDE4MDYzNyIsInJkcyI6IlBDXzg5OTI0Mjk2NzcwNjU4NzExMXxQUk9EX1BDXzg5OTI0Mjk2NzcwNjU4NzExMSIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzc0NDgyMDE1OTM0OTQxOTY3MCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTY1OTcyMTg4NTEwNDExNDA5OSIsImltYWdlRG9jaWQiOiIxNjAzODY5Mjc5NDgyMDE4MDYzNyIsInJkcyI6IlBDXzg5OTI0Mjk2NzcwNjU4NzExMXxQUk9EX1BDXzg5OTI0Mjk2NzcwNjU4NzExMSIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQxqXif5reDxYFGfvnJThdAdKmHJ0_Po3UisuSsyXPxrRhH4sEgVhOA_bKYUU_0AzfIQnkhcCp7D2RKnHT6OHbLwEdcodb3Mnfm9rhGrpetzBq8yowFACcF",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTouxkMtLilYmeoWP_psaH6GoJ2Q_7sdVkVBskzOmITtLL3HXBTonmNnp8blK_bmIRAdln9EgQbEmeNtumptgSfQTRfzRo",
+      "source": "Prike AS",
+      "title": "VEUVE CLICQUOT Brut Yellow Label 0.375L champagne",
+      "rating": 4.7,
+      "reviews": 5400,
+      "price": "$35.03",
+      "extracted_price": 35.03,
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiMzIzMDIwMTc5MTE3NzQ3ODA1NSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzIzMDIwMTc5MTE3NzQ3ODA1NSIsImltYWdlRG9jaWQiOiI1MTA5MzAxMDQ0MDY0MTc3NTQ2IiwicmRzIjoiUENfMTU3NzI4NDM2OTg3ODk3ODMwNDR8UFJPRF9QQ18xNTc3Mjg0MzY5ODc4OTc4MzA0NCIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiMzIzMDIwMTc5MTE3NzQ3ODA1NSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzIzMDIwMTc5MTE3NzQ3ODA1NSIsImltYWdlRG9jaWQiOiI1MTA5MzAxMDQ0MDY0MTc3NTQ2IiwicmRzIjoiUENfMTU3NzI4NDM2OTg3ODk3ODMwNDR8UFJPRF9QQ18xNTc3Mjg0MzY5ODc4OTc4MzA0NCIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcStQSUlHhHvONgyo_og7kJRLWxXFdg6Yj0R5cs6GAsowuuA6XHYJgtrBVb7FU5YvN3KamQpMd_tpN6Qzxyu-qQqfXUErluj7RlSZfKpX2r37uM-2mCwErDz",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQJabgWQBlkSDxJ_H3BSR1_MjhAn_AL94NzNCLnV5gdJc5X0-iNHBqnMzcTqf15NRM_VrJyfvyFeN28QtS6YmzMQkMl0A",
+      "source": "Walmart",
+      "title": "Korbel Extra Dry Champagne",
+      "rating": 4.5,
+      "reviews": 149,
+      "price": "$13.12",
+      "extracted_price": 13.12,
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE5MjYzODY3NzAwNTg3MDkyNzIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExODAxMTU1MTg1MDcxNzc3ODg3IiwiaW1hZ2VEb2NpZCI6IjE3MDA4NzIwNTQ2Njc0OTMyMjI1IiwicmRzIjoiUENfMTE5MzI4OTYzOTk4MjExOTE2MnxQUk9EX1BDXzExOTMyODk2Mzk5ODIxMTkxNjIiLCJxdWVyeSI6ImNoYW1wYWduZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE5MjYzODY3NzAwNTg3MDkyNzIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExODAxMTU1MTg1MDcxNzc3ODg3IiwiaW1hZ2VEb2NpZCI6IjE3MDA4NzIwNTQ2Njc0OTMyMjI1IiwicmRzIjoiUENfMTE5MzI4OTYzOTk4MjExOTE2MnxQUk9EX1BDXzExOTMyODk2Mzk5ODIxMTkxNjIiLCJxdWVyeSI6ImNoYW1wYWduZSJ9"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQEMJ3WsYDylJyX3RZnmO1PvkR-pOhqypEwG4WVZZp2FWRNmFc8s7a2usZSe2LyJQMcR_CRd1WuGGf4rw6WjEpAeOZCdHVafnHnfRExeg",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSXbJJ4crAyQiGUdCXZ6mj6BGLJJ8Jo-pZ7pqQjgaxY0kaVYa-hwFIYIRt66AJrLaNZiiIs6FZZeWc2TjG3y9RXyKKMpEvF4mzBa3I",
+      "source": "Best Buy Liquors",
+      "title": "Armand De Brignac Ace of Spades Brut Gold",
+      "rating": 4.0,
+      "reviews": 48,
+      "price": "$249.89",
+      "extracted_price": 249.89,
+      "original_price": "$300",
+      "extracted_original_price": 300,
+      "extensions": [
+        "16% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ4MDAzNTgyODc4Nzc1MDMwNDQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MTk5ODc1MDAxNTI2Nzc0NDciLCJpbWFnZURvY2lkIjoiMTIwMDk0NDE3MzUzNzY0Mjg0MzIiLCJyZHMiOiJQQ180NTczNjU0NTg3MjI1NTQxMjkxfFBST0RfUENfNDU3MzY1NDU4NzIyNTU0MTI5MSIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ4MDAzNTgyODc4Nzc1MDMwNDQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MTk5ODc1MDAxNTI2Nzc0NDciLCJpbWFnZURvY2lkIjoiMTIwMDk0NDE3MzUzNzY0Mjg0MzIiLCJyZHMiOiJQQ180NTczNjU0NTg3MjI1NTQxMjkxfFBST0RfUENfNDU3MzY1NDU4NzIyNTU0MTI5MSIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRvLvF_IhqhfU5SyPnuri8JLQlz5nxgSBxbXqUfVeqRp_K5xVfeZpQiOZ4YnYfgkhFH3hOMTemVH4PMB-0GOGm2aZ5emNZwFJDMw5tCiRc",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSD2Cb5nNPRHBOWq5zVAn46AGDWHZnfxnUb_JaIndXGelgURfFpCt2qLb1v3y4c7uPqRl4W-ycV8FoCGLdj_-GPIAiBtWR6Xx0n8L13pzhDhQ",
+      "source": "Westchester Wine Warehouse",
+      "title": "Moet & Chandon Champagne Mini 187 ml",
+      "rating": 4.6,
+      "reviews": 66,
+      "price": "$15.99",
+      "extracted_price": 15.99,
+      "original_price": "$20",
+      "extracted_original_price": 20,
+      "delivery": "Free $199+",
+      "extensions": [
+        "20% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODI3NTY2ODY5MDQ4NzM4ODg4MSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTczNjQ2OTM0NDIyNDc0MjIyMjgiLCJpbWFnZURvY2lkIjoiMTIyNTI3OTEyOTk3ODY4NzM1MjgiLCJyZHMiOiJQQ183ODA3Njg4MTMyMDMxNDgzODc4fFBST0RfUENfNzgwNzY4ODEzMjAzMTQ4Mzg3OCIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODI3NTY2ODY5MDQ4NzM4ODg4MSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTczNjQ2OTM0NDIyNDc0MjIyMjgiLCJpbWFnZURvY2lkIjoiMTIyNTI3OTEyOTk3ODY4NzM1MjgiLCJyZHMiOiJQQ183ODA3Njg4MTMyMDMxNDgzODc4fFBST0RfUENfNzgwNzY4ODEzMjAzMTQ4Mzg3OCIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRY16X7gaCPLFIYDkY3s38SBnsf7owezlU_MMBiHHXS2qH6OKzMZNzQnIPpXeNlb0o84xEBGZ-Wt6Q19dWl9GFKTKX6ku8w1oJoevYDHBrJmHjYom1pew",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ5qUfBMFAB8FaQjIzfDxy2P_Nf3m4MeSgqRMndCPQpLd2HPExP5_6G3v1g9_U261D_ZQZ8bh__D9N9aF6kfSy1CtaSirg",
+      "source": "Wine.com",
+      "title": "Billecart Salmon Brut Rose Champagne",
+      "rating": 4.8,
+      "reviews": 232,
+      "price": "$46.99",
+      "extracted_price": 46.99,
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTAzNDU5MzI0MzY4Nzc1ODI4MiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTI2MTE4MTYzMzU2NTMzMTY2MTEiLCJpbWFnZURvY2lkIjoiMTQ4Mjg2NjY3ODI3NjQ5MTg4MzEiLCJyZHMiOiJQQ185MDUzNjM5NjAxNTMyNzQ0MTgzfFBST0RfUENfOTA1MzYzOTYwMTUzMjc0NDE4MyIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTAzNDU5MzI0MzY4Nzc1ODI4MiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTI2MTE4MTYzMzU2NTMzMTY2MTEiLCJpbWFnZURvY2lkIjoiMTQ4Mjg2NjY3ODI3NjQ5MTg4MzEiLCJyZHMiOiJQQ185MDUzNjM5NjAxNTMyNzQ0MTgzfFBST0RfUENfOTA1MzYzOTYwMTUzMjc0NDE4MyIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQgm1P6-eHCoQzvxOrdUqsP6IyG-0acZh4aTM8qM_dYckm9xNnnhaC9j2Sf8DPqw19GQ_L069ySnbSVw3RbpZ71PTKJBxzlf0Egfou-JWaV1mNpFSPTVCNmmg",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTRXCVa9sqw1VczFrhxleHG0JmGxyV_Qzueq7zGKdHJhy-TrrgndjGMRHCAxZwAXqezGs4KwpwTghkBcIXvPM1oHpb4wyAw4oKv-D0T_l8",
+      "source": "Millesima USA",
+      "title": "Armand de Brignac : Ace of Spades Brut Gold",
+      "rating": 4.8,
+      "reviews": 111,
+      "price": "$6,995.00",
+      "extracted_price": 6995.0,
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiMTExODEzNzE1MzQyMzkxMDk2NzIiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExMTgxMzcxNTM0MjM5MTA5NjcyIiwiaW1hZ2VEb2NpZCI6Ijg2MTMzMDAzNjEzNDM3MDU5OSIsInJkcyI6IlBDXzUwMjI2NjY4OTExNTU4NDk5OTh8UFJPRF9QQ181MDIyNjY2ODkxMTU1ODQ5OTk4IiwicXVlcnkiOiJjaGFtcGFnbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiMTExODEzNzE1MzQyMzkxMDk2NzIiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExMTgxMzcxNTM0MjM5MTA5NjcyIiwiaW1hZ2VEb2NpZCI6Ijg2MTMzMDAzNjEzNDM3MDU5OSIsInJkcyI6IlBDXzUwMjI2NjY4OTExNTU4NDk5OTh8UFJPRF9QQ181MDIyNjY2ODkxMTU1ODQ5OTk4IiwicXVlcnkiOiJjaGFtcGFnbmUifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQUK6vMGB4qNK8xbRiNkMlgHAIuFGEK1S23VmOpXSD0WwfPTJtzaxppit3cvJdZdyjxa9RQEEKer58N55g0CtadMTD-_JQTSRYBQ6B9sDU",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ8MF7wlDgKi29tLngGU2QZtj-mfe1A1YRp3GhPHxIrXHZFVAJeW-gqb9ufdYANX4D1cAzgBzqDsNEdJVsNUxVcydfBAYCnN4hX",
+      "source": "Total Wine & More",
+      "title": "Sweet Rose Sparkling Wine Champagne | Champagne & Sparkling Wine by Alma | 750ml | Brazil",
+      "rating": 4.4,
+      "reviews": 528,
+      "price": "$9.99",
+      "extracted_price": 9.99,
+      "location": "11 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiMTAxNzUyODM1MjY4ODYzMTg4NjUiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMTc1MjgzNTI2ODg2MzE4ODY1IiwiaW1hZ2VEb2NpZCI6IjEyNTk2NDg1NzQ2MDA0NjA2NTI0IiwicmRzIjoiUENfMTI4NzEwNzAwNDU4MTY3MjkwNHxQUk9EX1BDXzEyODcxMDcwMDQ1ODE2NzI5MDQiLCJxdWVyeSI6ImNoYW1wYWduZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiMTAxNzUyODM1MjY4ODYzMTg4NjUiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMTc1MjgzNTI2ODg2MzE4ODY1IiwiaW1hZ2VEb2NpZCI6IjEyNTk2NDg1NzQ2MDA0NjA2NTI0IiwicmRzIjoiUENfMTI4NzEwNzAwNDU4MTY3MjkwNHxQUk9EX1BDXzEyODcxMDcwMDQ1ODE2NzI5MDQiLCJxdWVyeSI6ImNoYW1wYWduZSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRdKKeU674SiPbgpHi5l3Bnt6wjFEWpc2TRG9hO_8KYuewI-Og_D6Vd13Dh7uIQlwyH3sUhB5Bky3j-fQZ4FyoMlmoGadXTmnBqc2bHHJ21",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTNUmppK-lnis9Xc6-QCWT3x4BEvuDTG1ZAlAUnb8JBMDAshETTiOzHhWyu2oKq1x0mUGc1VjECakwvPIAAdUlal-n2wCqxGOotZg",
+      "source": "Randalls",
+      "title": "Cook's California Champagne Spumante Sparkling Wine Bottles",
+      "price": "$13.99",
+      "extracted_price": 13.99,
+      "original_price": "$15",
+      "extracted_original_price": 15,
+      "location": "9.3 mi \u00b7 In stock",
+      "extensions": [
+        "6% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjkzMTIxNzE3MTY3OTY5NTAyOCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTg0Mzc4OTk1NjM4MjUwNjc4ODkiLCJpbWFnZURvY2lkIjoiMTE4MDE3NjgwNTUyMTIxMTA1NDIiLCJyZHMiOiIiLCJxdWVyeSI6ImNoYW1wYWduZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjkzMTIxNzE3MTY3OTY5NTAyOCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTg0Mzc4OTk1NjM4MjUwNjc4ODkiLCJpbWFnZURvY2lkIjoiMTE4MDE3NjgwNTUyMTIxMTA1NDIiLCJyZHMiOiIiLCJxdWVyeSI6ImNoYW1wYWduZSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQlzw3H58N4e28r0XG5orkSQImvEuMcupsrriEDln2bWsGaR97JT4YaOVIeWVchh5jt6j9V4XsAKNMWPptDDdPj_pc15BIZOHmd0C89bcc28HWPBpX2LjjP",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRGj77Bp2MtyuBjRh6ORUjyPRrKInP7XrHQbcgGLvMacgiVIf4ApZG2EbFv27Di12xoo3RrxcOgWtVxjU6qqDaMIb7zQERnmacn",
+      "source": "Sam's Club",
+      "title": "Boizel Brut Reserve Champagne",
+      "rating": 4.5,
+      "reviews": 13,
+      "price": "$23.98",
+      "extracted_price": 23.98,
+      "original_price": "Usually $47",
+      "extracted_original_price": 47,
+      "location": "12 mi \u00b7 In stock",
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTM1Nzk3MTg0NjM0MzEwNjkwIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI0MDEyNDczOTc5NzkyMDk5MTM2IiwiaW1hZ2VEb2NpZCI6IjQzMzI1OTQzMjgwNzE5NDQyNzYiLCJyZHMiOiJQQ180OTMwNTM4Mzc4NjkzMzM2NDM5fFBST0RfUENfNDkzMDUzODM3ODY5MzMzNjQzOSIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTM1Nzk3MTg0NjM0MzEwNjkwIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI0MDEyNDczOTc5NzkyMDk5MTM2IiwiaW1hZ2VEb2NpZCI6IjQzMzI1OTQzMjgwNzE5NDQyNzYiLCJyZHMiOiJQQ180OTMwNTM4Mzc4NjkzMzM2NDM5fFBST0RfUENfNDkzMDUzODM3ODY5MzMzNjQzOSIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS5o5GtSreeRWh65r7jl5ADRUJq0vNOjH98NDNlUxeF5UQhZ6SS0pnSX7cFaQIK9gv2enuTE7N2at8_JN35SB2B0uict8tGkcKk7SAM5hmW",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ8MF7wlDgKi29tLngGU2QZtj-mfe1A1YRp3GhPHxIrXHZFVAJeW-gqb9ufdYANX4D1cAzgBzqDsNEdJVsNUxVcydfBAYCnN4hX",
+      "source": "Total Wine & More",
+      "title": "El Bajio Brut Sparkling Wine Champagne",
+      "price": "$27.49",
+      "extracted_price": 27.49,
+      "location": "11 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM4OTk5ODY5OTYyOTI2NDUxNDEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1MzAwNjIwMDY2MTEyNjUzODYzIiwiaW1hZ2VEb2NpZCI6IjEwNTUyNzY5ODU3ODU2OTg3MDUyIiwicmRzIjoiIiwicXVlcnkiOiJjaGFtcGFnbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM4OTk5ODY5OTYyOTI2NDUxNDEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1MzAwNjIwMDY2MTEyNjUzODYzIiwiaW1hZ2VEb2NpZCI6IjEwNTUyNzY5ODU3ODU2OTg3MDUyIiwicmRzIjoiIiwicXVlcnkiOiJjaGFtcGFnbmUifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRlGnVH1PhIk1cFoAftAsMnV69MAEnT2-fSc9oG0Bkk9tSQ9jkgVb3bJZlJjQEDN8QSiBqa-jGpTBEs9Sz5Jk9eLCdlMOWRuisjB7rINv0",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ8MF7wlDgKi29tLngGU2QZtj-mfe1A1YRp3GhPHxIrXHZFVAJeW-gqb9ufdYANX4D1cAzgBzqDsNEdJVsNUxVcydfBAYCnN4hX",
+      "source": "Total Wine & More",
+      "title": "Borrasca Premium Cuvee Champagne Wine 750 ml",
+      "rating": 4.3,
+      "reviews": 192,
+      "price": "$19.99",
+      "extracted_price": 19.99,
+      "location": "11 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTI2MjQ2Mzk1NDQ5MjM4MjgxNCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTMyNTEwMzUwOTYwMDA0OTI4MjAiLCJpbWFnZURvY2lkIjoiMTMxNjg2ODcxODYwNjMxMTI4NDkiLCJyZHMiOiJQQ181MTMyODk3MjQ5MzUyNzc5MDgzfFBST0RfUENfNTEzMjg5NzI0OTM1Mjc3OTA4MyIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTI2MjQ2Mzk1NDQ5MjM4MjgxNCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTMyNTEwMzUwOTYwMDA0OTI4MjAiLCJpbWFnZURvY2lkIjoiMTMxNjg2ODcxODYwNjMxMTI4NDkiLCJyZHMiOiJQQ181MTMyODk3MjQ5MzUyNzc5MDgzfFBST0RfUENfNTEzMjg5NzI0OTM1Mjc3OTA4MyIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUwOTc2NjU0MjQ5ODA0Mjg5MjIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzNTQwNjg5Mjg4MDkxMTk5MTE3IiwiaW1hZ2VEb2NpZCI6IjYwOTk3NjMzNDYzNTM3NDYyODIiLCJyZHMiOiJQQ18xMjk4MTMzNDU0MTU2OTgyMzE5OXxQUk9EX1BDXzEyOTgxMzM0NTQxNTY5ODIzMTk5IiwicXVlcnkiOiJjaGFtcGFnbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUwOTc2NjU0MjQ5ODA0Mjg5MjIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzNTQwNjg5Mjg4MDkxMTk5MTE3IiwiaW1hZ2VEb2NpZCI6IjYwOTk3NjMzNDYzNTM3NDYyODIiLCJyZHMiOiJQQ18xMjk4MTMzNDU0MTU2OTgyMzE5OXxQUk9EX1BDXzEyOTgxMzM0NTQxNTY5ODIzMTk5IiwicXVlcnkiOiJjaGFtcGFnbmUifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI1NTQxMjAzODg4NjEyNDU0ODYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExMzQ0Mjg1ODkxNTc4OTU2NjYzIiwiaW1hZ2VEb2NpZCI6IjE0MTM0ODk4NzE5NDc5OTY5NDQyIiwicmRzIjoiUENfMzY2OTAzNDEyNjUzMzQwNDk4OXxQUk9EX1BDXzM2NjkwMzQxMjY1MzM0MDQ5ODkiLCJxdWVyeSI6ImNoYW1wYWduZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI1NTQxMjAzODg4NjEyNDU0ODYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExMzQ0Mjg1ODkxNTc4OTU2NjYzIiwiaW1hZ2VEb2NpZCI6IjE0MTM0ODk4NzE5NDc5OTY5NDQyIiwicmRzIjoiUENfMzY2OTAzNDEyNjUzMzQwNDk4OXxQUk9EX1BDXzM2NjkwMzQxMjY1MzM0MDQ5ODkiLCJxdWVyeSI6ImNoYW1wYWduZSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMxNDg5MjE1MzA0MTUwNDcwMzIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU4NDEwOTg1MjQ0MzE1ODYyNDUiLCJpbWFnZURvY2lkIjoiNTQ3MzM2Nzg4MjEzMjEwMjY1MiIsInJkcyI6IlBDXzY2ODcxNDAzODgzNTUwNjczMDR8UFJPRF9QQ182Njg3MTQwMzg4MzU1MDY3MzA0IiwicXVlcnkiOiJjaGFtcGFnbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMxNDg5MjE1MzA0MTUwNDcwMzIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU4NDEwOTg1MjQ0MzE1ODYyNDUiLCJpbWFnZURvY2lkIjoiNTQ3MzM2Nzg4MjEzMjEwMjY1MiIsInJkcyI6IlBDXzY2ODcxNDAzODgzNTUwNjczMDR8UFJPRF9QQ182Njg3MTQwMzg4MzU1MDY3MzA0IiwicXVlcnkiOiJjaGFtcGFnbmUifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIzNzEzMTM4MTA5NTIzODI3OTciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjgyMDQ3NDQ0MTg0ODI1Mzg1NjEiLCJpbWFnZURvY2lkIjoiMTAxOTM4NTc3NzI1NzE0NTA1NzciLCJyZHMiOiJQQ18xMzQ1NDE4NzMyMjAzMjM3MDE4MXxQUk9EX1BDXzEzNDU0MTg3MzIyMDMyMzcwMTgxIiwicXVlcnkiOiJjaGFtcGFnbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIzNzEzMTM4MTA5NTIzODI3OTciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjgyMDQ3NDQ0MTg0ODI1Mzg1NjEiLCJpbWFnZURvY2lkIjoiMTAxOTM4NTc3NzI1NzE0NTA1NzciLCJyZHMiOiJQQ18xMzQ1NDE4NzMyMjAzMjM3MDE4MXxQUk9EX1BDXzEzNDU0MTg3MzIyMDMyMzcwMTgxIiwicXVlcnkiOiJjaGFtcGFnbmUifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTQxOTI2NzAyMjg4NDIyMDgyNyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDYzOTUzMTg0MDY0Njk4OTYwIiwiaW1hZ2VEb2NpZCI6IjEwNjUyNjAyODc1ODY5MDE0OTgwIiwicmRzIjoiUENfNzkwMzg5NzcwOTczMDMxMDQzN3xQUk9EX1BDXzc5MDM4OTc3MDk3MzAzMTA0MzciLCJxdWVyeSI6ImNoYW1wYWduZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTQxOTI2NzAyMjg4NDIyMDgyNyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDYzOTUzMTg0MDY0Njk4OTYwIiwiaW1hZ2VEb2NpZCI6IjEwNjUyNjAyODc1ODY5MDE0OTgwIiwicmRzIjoiUENfNzkwMzg5NzcwOTczMDMxMDQzN3xQUk9EX1BDXzc5MDM4OTc3MDk3MzAzMTA0MzciLCJxdWVyeSI6ImNoYW1wYWduZSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ0MTQ0Mjk0NDA4NzYzMTQzMzkiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjcxOTA0NDU3MzUwNzU5NTA5NjIiLCJpbWFnZURvY2lkIjoiMTgwNDQwNDgxNTgxNzkxMzU5MTUiLCJyZHMiOiJQQ18xOTMyNDA5MTA1ODgxMDQ5NDE1fFBST0RfUENfMTkzMjQwOTEwNTg4MTA0OTQxNSIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ0MTQ0Mjk0NDA4NzYzMTQzMzkiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjcxOTA0NDU3MzUwNzU5NTA5NjIiLCJpbWFnZURvY2lkIjoiMTgwNDQwNDgxNTgxNzkxMzU5MTUiLCJyZHMiOiJQQ18xOTMyNDA5MTA1ODgxMDQ5NDE1fFBST0RfUENfMTkzMjQwOTEwNTg4MTA0OTQxNSIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTcwODc2MzI4MDU2ODI0NzcxMSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjMxMzcyOTc3NDAyMzA5MDcxNSIsImltYWdlRG9jaWQiOiI1NDI0NzkzMjQ1NTMxNjA1NTc5IiwicmRzIjoiUENfNjk1NjU4Mzg2ODkwOTk1NDc4NnxQUk9EX1BDXzY5NTY1ODM4Njg5MDk5NTQ3ODYiLCJxdWVyeSI6ImNoYW1wYWduZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTcwODc2MzI4MDU2ODI0NzcxMSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjMxMzcyOTc3NDAyMzA5MDcxNSIsImltYWdlRG9jaWQiOiI1NDI0NzkzMjQ1NTMxNjA1NTc5IiwicmRzIjoiUENfNjk1NjU4Mzg2ODkwOTk1NDc4NnxQUk9EX1BDXzY5NTY1ODM4Njg5MDk5NTQ3ODYiLCJxdWVyeSI6ImNoYW1wYWduZSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA4MTg2NzA3NDAzNTQ0NDIwNCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjg1MjI1MjI5MDM4NDY2NzEwMSIsImltYWdlRG9jaWQiOiI3MDU0MTU2NjA1MTMxMjkzMTIzIiwicmRzIjoiUENfOTgxNTU4MzA3OTk4NzY1OTY3MnxQUk9EX1BDXzk4MTU1ODMwNzk5ODc2NTk2NzIiLCJxdWVyeSI6ImNoYW1wYWduZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA4MTg2NzA3NDAzNTQ0NDIwNCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjg1MjI1MjI5MDM4NDY2NzEwMSIsImltYWdlRG9jaWQiOiI3MDU0MTU2NjA1MTMxMjkzMTIzIiwicmRzIjoiUENfOTgxNTU4MzA3OTk4NzY1OTY3MnxQUk9EX1BDXzk4MTU1ODMwNzk5ODc2NTk2NzIiLCJxdWVyeSI6ImNoYW1wYWduZSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUyNjgzNTUzOTc3ODM2MzY2OTEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk2OTgwMjIyNjAxMzU1MDM4NTgiLCJpbWFnZURvY2lkIjoiMjE3NTI2MDI4Mzg0MDc0NzY4MCIsInJkcyI6IlBDXzEzMTM5NDU4NjAxMjkwNTE5MTQ2fFBST0RfUENfMTMxMzk0NTg2MDEyOTA1MTkxNDYiLCJxdWVyeSI6ImNoYW1wYWduZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUyNjgzNTUzOTc3ODM2MzY2OTEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk2OTgwMjIyNjAxMzU1MDM4NTgiLCJpbWFnZURvY2lkIjoiMjE3NTI2MDI4Mzg0MDc0NzY4MCIsInJkcyI6IlBDXzEzMTM5NDU4NjAxMjkwNTE5MTQ2fFBST0RfUENfMTMxMzk0NTg2MDEyOTA1MTkxNDYiLCJxdWVyeSI6ImNoYW1wYWduZSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODM2NjAzMDIzMjk2MDE5MzI0MSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODU5MzY0NTY2MDM2NjAxMDM4NyIsImltYWdlRG9jaWQiOiIxNjMwNjU4MTI4MTIwOTk1ODM5MiIsInJkcyI6IlBDXzcwMzIyODgxNjc5MDc5MDU3NzF8UFJPRF9QQ183MDMyMjg4MTY3OTA3OTA1NzcxIiwicXVlcnkiOiJjaGFtcGFnbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODM2NjAzMDIzMjk2MDE5MzI0MSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODU5MzY0NTY2MDM2NjAxMDM4NyIsImltYWdlRG9jaWQiOiIxNjMwNjU4MTI4MTIwOTk1ODM5MiIsInJkcyI6IlBDXzcwMzIyODgxNjc5MDc5MDU3NzF8UFJPRF9QQ183MDMyMjg4MTY3OTA3OTA1NzcxIiwicXVlcnkiOiJjaGFtcGFnbmUifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDAwMjU1MjUxNTI5NTEwNjExOCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQxMjY3ODA2OTU4NTQyMTExNDQiLCJpbWFnZURvY2lkIjoiMTQ3NjgzMTY4NDg2OTQ2MDMzNjkiLCJyZHMiOiJQQ182MzQ3NjM5OTcxMjUxOTA5NDgwfFBST0RfUENfNjM0NzYzOTk3MTI1MTkwOTQ4MCIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDAwMjU1MjUxNTI5NTEwNjExOCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQxMjY3ODA2OTU4NTQyMTExNDQiLCJpbWFnZURvY2lkIjoiMTQ3NjgzMTY4NDg2OTQ2MDMzNjkiLCJyZHMiOiJQQ182MzQ3NjM5OTcxMjUxOTA5NDgwfFBST0RfUENfNjM0NzYzOTk3MTI1MTkwOTQ4MCIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTYzOTI3NjMyOTM1ODQyNjE1MjUiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjYxNzU0Njc2MzU5NzEwMjE4NTkiLCJpbWFnZURvY2lkIjoiMTA3MTA1NTA4NzA5NjUwMjEyOTUiLCJyZHMiOiJQQ18xMjI2MzgxMTY5ODM1OTM4OTE1MHxQUk9EX1BDXzEyMjYzODExNjk4MzU5Mzg5MTUwIiwicXVlcnkiOiJjaGFtcGFnbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTYzOTI3NjMyOTM1ODQyNjE1MjUiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjYxNzU0Njc2MzU5NzEwMjE4NTkiLCJpbWFnZURvY2lkIjoiMTA3MTA1NTA4NzA5NjUwMjEyOTUiLCJyZHMiOiJQQ18xMjI2MzgxMTY5ODM1OTM4OTE1MHxQUk9EX1BDXzEyMjYzODExNjk4MzU5Mzg5MTUwIiwicXVlcnkiOiJjaGFtcGFnbmUifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDAwMjU1MjUxNTI5NTEwNjExOCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTA4ODg3MjM2NDExNzQyODE5MDgiLCJpbWFnZURvY2lkIjoiMTQ3NjgzMTY4NDg2OTQ2MDMzNjkiLCJyZHMiOiJQQ182MzQ3NjM5OTcxMjUxOTA5NDgwfFBST0RfUENfNjM0NzYzOTk3MTI1MTkwOTQ4MCIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDAwMjU1MjUxNTI5NTEwNjExOCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTA4ODg3MjM2NDExNzQyODE5MDgiLCJpbWFnZURvY2lkIjoiMTQ3NjgzMTY4NDg2OTQ2MDMzNjkiLCJyZHMiOiJQQ182MzQ3NjM5OTcxMjUxOTA5NDgwfFBST0RfUENfNjM0NzYzOTk3MTI1MTkwOTQ4MCIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE5NjY2MjE4NDMxNjEyMzI1NzIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM1Njc2NjY5NjU0MTgxODc5NTgiLCJpbWFnZURvY2lkIjoiNTMxNTM4NzUwMjA3MzYzMTkyNyIsInJkcyI6IlBDXzY0OTc0MjcxMzcxOTcyNTg3NTJ8UFJPRF9QQ182NDk3NDI3MTM3MTk3MjU4NzUyIiwicXVlcnkiOiJjaGFtcGFnbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE5NjY2MjE4NDMxNjEyMzI1NzIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM1Njc2NjY5NjU0MTgxODc5NTgiLCJpbWFnZURvY2lkIjoiNTMxNTM4NzUwMjA3MzYzMTkyNyIsInJkcyI6IlBDXzY0OTc0MjcxMzcxOTcyNTg3NTJ8UFJPRF9QQ182NDk3NDI3MTM3MTk3MjU4NzUyIiwicXVlcnkiOiJjaGFtcGFnbmUifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE4MTc3MDYyNzEzNDcwODIzMDIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MjQ1OTk0Mjc0MjIzMjE3NDMwIiwiaW1hZ2VEb2NpZCI6Ijc4MTM1OTkyODI5NTg0MDkwNzgiLCJyZHMiOiJQQ18xMTIxNDkwMjEyMDY0Njc4MzY2N3xQUk9EX1BDXzExMjE0OTAyMTIwNjQ2NzgzNjY3IiwicXVlcnkiOiJjaGFtcGFnbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE4MTc3MDYyNzEzNDcwODIzMDIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MjQ1OTk0Mjc0MjIzMjE3NDMwIiwiaW1hZ2VEb2NpZCI6Ijc4MTM1OTkyODI5NTg0MDkwNzgiLCJyZHMiOiJQQ18xMTIxNDkwMjEyMDY0Njc4MzY2N3xQUk9EX1BDXzExMjE0OTAyMTIwNjQ2NzgzNjY3IiwicXVlcnkiOiJjaGFtcGFnbmUifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU1ODc4MjEzMzQwNTcxNjM4NzkiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM3MDU1NTM3NjQ4NTU2NDcwNTciLCJpbWFnZURvY2lkIjoiMTcwNjMxOTQ5NzEwNDc5NDEwNSIsInJkcyI6IlBDXzEyOTg3MjY3NTc4NDAwNDg4NzIzfFBST0RfUENfMTI5ODcyNjc1Nzg0MDA0ODg3MjMiLCJxdWVyeSI6ImNoYW1wYWduZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU1ODc4MjEzMzQwNTcxNjM4NzkiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM3MDU1NTM3NjQ4NTU2NDcwNTciLCJpbWFnZURvY2lkIjoiMTcwNjMxOTQ5NzEwNDc5NDEwNSIsInJkcyI6IlBDXzEyOTg3MjY3NTc4NDAwNDg4NzIzfFBST0RfUENfMTI5ODcyNjc1Nzg0MDA0ODg3MjMiLCJxdWVyeSI6ImNoYW1wYWduZSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTEzNDk2NjExNTA4NzI4Mjg0NjIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMDAyMDc0NTQ0MjEwNDUxNTgiLCJpbWFnZURvY2lkIjoiNTc4OTI0NzU4NzcwMTcxNjAyMCIsInJkcyI6IiIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTEzNDk2NjExNTA4NzI4Mjg0NjIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMDAyMDc0NTQ0MjEwNDUxNTgiLCJpbWFnZURvY2lkIjoiNTc4OTI0NzU4NzcwMTcxNjAyMCIsInJkcyI6IiIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTcwODc2MzI4MDU2ODI0NzcxMSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTM2MzI3NDUyMTU2NDE3OTE0MzEiLCJpbWFnZURvY2lkIjoiNTQyNDc5MzI0NTUzMTYwNTU3OSIsInJkcyI6IlBDXzY5NTY1ODM4Njg5MDk5NTQ3ODZ8UFJPRF9QQ182OTU2NTgzODY4OTA5OTU0Nzg2IiwicXVlcnkiOiJjaGFtcGFnbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTcwODc2MzI4MDU2ODI0NzcxMSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTM2MzI3NDUyMTU2NDE3OTE0MzEiLCJpbWFnZURvY2lkIjoiNTQyNDc5MzI0NTUzMTYwNTU3OSIsInJkcyI6IlBDXzY5NTY1ODM4Njg5MDk5NTQ3ODZ8UFJPRF9QQ182OTU2NTgzODY4OTA5OTU0Nzg2IiwicXVlcnkiOiJjaGFtcGFnbmUifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTcwODc2MzI4MDU2ODI0NzcxMSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTUzMDUzNDg1MDU3MDc0Mzc5OTciLCJpbWFnZURvY2lkIjoiNTQyNDc5MzI0NTUzMTYwNTU3OSIsInJkcyI6IlBDXzY5NTY1ODM4Njg5MDk5NTQ3ODZ8UFJPRF9QQ182OTU2NTgzODY4OTA5OTU0Nzg2IiwicXVlcnkiOiJjaGFtcGFnbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTcwODc2MzI4MDU2ODI0NzcxMSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTUzMDUzNDg1MDU3MDc0Mzc5OTciLCJpbWFnZURvY2lkIjoiNTQyNDc5MzI0NTUzMTYwNTU3OSIsInJkcyI6IlBDXzY5NTY1ODM4Njg5MDk5NTQ3ODZ8UFJPRF9QQ182OTU2NTgzODY4OTA5OTU0Nzg2IiwicXVlcnkiOiJjaGFtcGFnbmUifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjk3OTE4MjY3NDEzMDUwNDQwMyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTM0OTEyNDMyNzQzMTI3MTgwOTQiLCJpbWFnZURvY2lkIjoiNTU1ODU2OTQ3MTg1ODc4Mjk3NSIsInJkcyI6IlBDXzI0MjQzNzM1MjM2NTE4MDM2Njh8UFJPRF9QQ18yNDI0MzczNTIzNjUxODAzNjY4IiwicXVlcnkiOiJjaGFtcGFnbmUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjk3OTE4MjY3NDEzMDUwNDQwMyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTM0OTEyNDMyNzQzMTI3MTgwOTQiLCJpbWFnZURvY2lkIjoiNTU1ODU2OTQ3MTg1ODc4Mjk3NSIsInJkcyI6IlBDXzI0MjQzNzM1MjM2NTE4MDM2Njh8UFJPRF9QQ18yNDI0MzczNTIzNjUxODAzNjY4IiwicXVlcnkiOiJjaGFtcGFnbmUifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDAwMjU1MjUxNTI5NTEwNjExOCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQ2NzIxNTE5ODM3NjQyMzQ5NzEiLCJpbWFnZURvY2lkIjoiMTQ3NjgzMTY4NDg2OTQ2MDMzNjkiLCJyZHMiOiJQQ182MzQ3NjM5OTcxMjUxOTA5NDgwfFBST0RfUENfNjM0NzYzOTk3MTI1MTkwOTQ4MCIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDAwMjU1MjUxNTI5NTEwNjExOCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQ2NzIxNTE5ODM3NjQyMzQ5NzEiLCJpbWFnZURvY2lkIjoiMTQ3NjgzMTY4NDg2OTQ2MDMzNjkiLCJyZHMiOiJQQ182MzQ3NjM5OTcxMjUxOTA5NDgwfFBST0RfUENfNjM0NzYzOTk3MTI1MTkwOTQ4MCIsInF1ZXJ5IjoiY2hhbXBhZ25lIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQwODM5MDQ0MTk2NTcwMDI0MzgiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMTk5NDU4MDk1MDQ3Nzc5MzIiLCJpbWFnZURvY2lkIjoiMTIxMjM4NzY0ODA2NTQ4ODY3MyIsInJkcyI6IlBDXzEzMDU2MjAwMzc2ODIxMDIzNTY1fFBST0RfUENfMTMwNTYyMDAzNzY4MjEwMjM1NjUiLCJxdWVyeSI6ImNoYW1wYWduZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQwODM5MDQ0MTk2NTcwMDI0MzgiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMTk5NDU4MDk1MDQ3Nzc5MzIiLCJpbWFnZURvY2lkIjoiMTIxMjM4NzY0ODA2NTQ4ODY3MyIsInJkcyI6IlBDXzEzMDU2MjAwMzc2ODIxMDIzNTY1fFBST0RfUENfMTMwNTYyMDAzNzY4MjEwMjM1NjUiLCJxdWVyeSI6ImNoYW1wYWduZSJ9"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What's the most popular champagne?",
+      "snippet": "Moet & Chandon Not only is Moet the most popular champagne in the world, but it is also among the top-selling champagne brands, with millions of bottles sold each year, adding a touch of magic to countless celebrations around the world.",
+      "title": "Moet & Chandon",
+      "link": "https://www.dcwineandspirits.com/blogs/popular-champagne-brands-for-all-your-celebrations/#:~:text=Moet%20%26%20Chandon&text=Not%20only%20is%20Moet%20the,countless%20celebrations%20around%20the%20world.",
+      "displayed_link": "https://www.dcwineandspirits.com \u203a blogs \u203a popular-cha...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1H8TM-cE5_QzVJYW8egLSLjwGMPmIcLvtitgiiWsKiw&s",
+      "source_logo": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/426259e4fa2bc4f20cbc7b3d863d77950dfb3a2dfd583e8edcca604643d369dc.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWVtRk1hVkpSVEZnNGJrRnNjekpmWDFGWlNGZDJMVVUxWjNCUWNqbHpaRVV5TmxaMk9VSkdSVnBEU0d4c01tVmZYMG95VGs1UGFrWnBZVGs0TFhOR2FrbHphbGRQRWhkWVFsbExXamxUYjBVME0yWjNUalJRZFRsRWFubEJaeG9pUVVaWWNrVmpjbTU0V20xSmRVdG1aSEpIVFZkRFdYUmxhMFJ6TUdWdVRqZ3lkdyIsImZjdiI6IjMiLCJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicWMiOiJDZ2xqYUdGdGNHRm5ibVVRQUgwOV9Dd18iLCJxdWVzdGlvbiI6IldoYXQncyB0aGUgbW9zdCBwb3B1bGFyIGNoYW1wYWduZT8iLCJsayI6IkdpRjNhR0YwSjNNZ2RHaGxJRzF2YzNRZ2NHOXdkV3hoY2lCamFHRnRjR0ZuYm1VIiwiYnMiOiJjLVB5NFZJS3owZ3NVUzlXS01sSVZjak5MeTVSS01ndktNMUpMRkpJemtqTUxVaE16MHUxbF9qTFlhUXNwVmhPU0NFWDFEU0Zrc3FDVklYOE5JWEVuT1Q4alB3Y2hjeGlaTk11OGNGTXc2dVFLNEpMQzJ4YVNuNXFzVUtpUW5wLWZvcENVbjVKU1E1WUMxeWRRakxRTWZZU0MyU00xS1ZVUWFZU1ZNemx4YVhvV2F6Z0RCZE16RXRSS004RU1sSXkwOUpTaTFMemtvSE8zTTF0cENTRjRpSnM2Z1FZQVEiLCJpZCI6ImZjXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWVtRk1hVkpSVEZnNGJrRnNjekpmWDFGWlNGZDJMVVUxWjNCUWNqbHpaRVV5TmxaMk9VSkdSVnBEU0d4c01tVmZYMG95VGs1UGFrWnBZVGs0TFhOR2FrbHphbGRQRWhkWVFsbExXamxUYjBVME0yWjNUalJRZFRsRWFubEJaeG9pUVVaWWNrVmpjbTU0V20xSmRVdG1aSEpIVFZkRFdYUmxhMFJ6TUdWdVRqZ3lkdyIsImZjdiI6IjMiLCJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicWMiOiJDZ2xqYUdGdGNHRm5ibVVRQUgwOV9Dd18iLCJxdWVzdGlvbiI6IldoYXQncyB0aGUgbW9zdCBwb3B1bGFyIGNoYW1wYWduZT8iLCJsayI6IkdpRjNhR0YwSjNNZ2RHaGxJRzF2YzNRZ2NHOXdkV3hoY2lCamFHRnRjR0ZuYm1VIiwiYnMiOiJjLVB5NFZJS3owZ3NVUzlXS01sSVZjak5MeTVSS01ndktNMUpMRkpJemtqTUxVaE16MHUxbF9qTFlhUXNwVmhPU0NFWDFEU0Zrc3FDVklYOE5JWEVuT1Q4alB3Y2hjeGlaTk11OGNGTXc2dVFLNEpMQzJ4YVNuNXFzVUtpUW5wLWZvcENVbjVKU1E1WUMxeWRRakxRTWZZU0MyU00xS1ZVUWFZU1ZNemx4YVhvV2F6Z0RCZE16RXRSS004RU1sSXkwOUpTaTFMemtvSE8zTTF0cENTRjRpSnM2Z1FZQVEiLCJpZCI6ImZjXzIifQ%3D%3D"
+    },
+    {
+      "question": "What type of alcohol is champagne?",
+      "snippet": "champagne, classic sparkling wine named for the site of its origin and exclusive production, the traditional region of Champagne in northeastern France. The term champagne is also applied generically, with restrictions, outside France, to many white or ros\u00e9 wines that are characterized by effervescence.",
+      "title": "sparkling wine",
+      "link": "https://www.britannica.com/topic/champagne-alcoholic-beverage#:~:text=champagne%2C%20classic%20sparkling%20wine%20named,that%20are%20characterized%20by%20effervescence.",
+      "displayed_link": "https://www.britannica.com \u203a topic \u203a champagne-alcohol...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS24d1pW2KkgysTgfstXwiQS5fJC1CEry4nLh0KkHK&s",
+      "source_logo": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/426259e4fa2bc4f20cbc7b3d863d7795bd3a79d241eda44c71b85ed609a594fb.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWVtRk1hVkpSVEZnNGJrRnNjekpmWDFGWlNGZDJMVVUxWjNCUWNqbHpaRVV5TmxaMk9VSkdSVnBEU0d4c01tVmZYMG95VGs1UGFrWnBZVGs0TFhOR2FrbHphbGRQRWhkWVFsbExXamxUYjBVME0yWjNUalJRZFRsRWFubEJaeG9pUVVaWWNrVmpjbTU0V20xSmRVdG1aSEpIVFZkRFdYUmxhMFJ6TUdWdVRqZ3lkdyIsImZjdiI6IjMiLCJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicWMiOiJDZ2xqYUdGdGNHRm5ibVVRQUgwOV9Dd18iLCJxdWVzdGlvbiI6IldoYXQgdHlwZSBvZiBhbGNvaG9sIGlzIGNoYW1wYWduZT8iLCJsayI6IkdpRjNhR0YwSUhSNWNHVWdiMllnWVd4amIyaHZiQ0JwY3lCamFHRnRjR0ZuYm1VIiwiYnMiOiJjLVB5NFZJS3owZ3NVUzlXS01sSVZjak5MeTVSS01ndktNMUpMRkpJemtqTUxVaE16MHUxbF9qTFlhUXNwVmhPU0NFWDFEU0Zrc3FDVklYOE5JWEVuT1Q4alB3Y2hjeGlaTk11OGNGTXc2dVFLNEpMQzJ4YVNuNXFzVUtpUW5wLWZvcENVbjVKU1E1WUMxeWRRakxRTWZZU0MyU00xS1ZVUWFZU1ZNemx4YVhvV2F6Z0RCZE16RXRSS004RU1sSXkwOUpTaTFMemtvSE8zTTF0cENTRjRpSnM2Z1FZQVEiLCJpZCI6ImZjXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWVtRk1hVkpSVEZnNGJrRnNjekpmWDFGWlNGZDJMVVUxWjNCUWNqbHpaRVV5TmxaMk9VSkdSVnBEU0d4c01tVmZYMG95VGs1UGFrWnBZVGs0TFhOR2FrbHphbGRQRWhkWVFsbExXamxUYjBVME0yWjNUalJRZFRsRWFubEJaeG9pUVVaWWNrVmpjbTU0V20xSmRVdG1aSEpIVFZkRFdYUmxhMFJ6TUdWdVRqZ3lkdyIsImZjdiI6IjMiLCJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicWMiOiJDZ2xqYUdGdGNHRm5ibVVRQUgwOV9Dd18iLCJxdWVzdGlvbiI6IldoYXQgdHlwZSBvZiBhbGNvaG9sIGlzIGNoYW1wYWduZT8iLCJsayI6IkdpRjNhR0YwSUhSNWNHVWdiMllnWVd4amIyaHZiQ0JwY3lCamFHRnRjR0ZuYm1VIiwiYnMiOiJjLVB5NFZJS3owZ3NVUzlXS01sSVZjak5MeTVSS01ndktNMUpMRkpJemtqTUxVaE16MHUxbF9qTFlhUXNwVmhPU0NFWDFEU0Zrc3FDVklYOE5JWEVuT1Q4alB3Y2hjeGlaTk11OGNGTXc2dVFLNEpMQzJ4YVNuNXFzVUtpUW5wLWZvcENVbjVKU1E1WUMxeWRRakxRTWZZU0MyU00xS1ZVUWFZU1ZNemx4YVhvV2F6Z0RCZE16RXRSS004RU1sSXkwOUpTaTFMemtvSE8zTTF0cENTRjRpSnM2Z1FZQVEiLCJpZCI6ImZjXzIifQ%3D%3D"
+    },
+    {
+      "question": "What does a good bottle of champagne cost?",
+      "snippet": "\u201cCheap Champagne,\u201d if it's also going to classify as \u201cBest\u201d in my world-view is anything under $50 or $60 per bottle, but not so low as about $25, unless it's discounted\u2014and if it is, lucky you!",
+      "title": "The 10 Best Cheap Champagnes to Drink - Liquor.com",
+      "link": "https://www.liquor.com/best-cheap-champagnes-5104724#:~:text=%E2%80%9CCheap%20Champagne%2C%E2%80%9D%20if%20it's,if%20it%20is%2C%20lucky%20you!",
+      "displayed_link": "https://www.liquor.com \u203a best-cheap-champagnes-51047...",
+      "source_logo": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/426259e4fa2bc4f20cbc7b3d863d7795db8039db311ccc656892b3eb53bf02f2.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWVtRk1hVkpSVEZnNGJrRnNjekpmWDFGWlNGZDJMVVUxWjNCUWNqbHpaRVV5TmxaMk9VSkdSVnBEU0d4c01tVmZYMG95VGs1UGFrWnBZVGs0TFhOR2FrbHphbGRQRWhkWVFsbExXamxUYjBVME0yWjNUalJRZFRsRWFubEJaeG9pUVVaWWNrVmpjbTU0V20xSmRVdG1aSEpIVFZkRFdYUmxhMFJ6TUdWdVRqZ3lkdyIsImZjdiI6IjMiLCJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicWMiOiJDZ2xqYUdGdGNHRm5ibVVRQUgwOV9Dd18iLCJxdWVzdGlvbiI6IldoYXQgZG9lcyBhIGdvb2QgYm90dGxlIG9mIGNoYW1wYWduZSBjb3N0PyIsImxrIjoiR2lWM2FHRjBjeUJoSUdkdmIyUWdZbTkwZEd4bElHOW1JR05vWVcxd1lXZHVaU0JqYjNOMCIsImJzIjoiYy1QeTRWSUt6MGdzVVM5V0tNbElWY2pOTHk1UktNZ3ZLTTFKTEZKSXprak1MVWhNejB1MWxfakxZYVFzcFZoT1NDRVgxRFNGa3NxQ1ZJWDhOSVhFbk9UOGpQd2NoY3hpWk5NdThjRk13NnVRSzRKTEMyeGFTbjVxc1VLaVFucC1mb3BDVW41SlNRNVlDMXlkUWpMUU1mWVNDMlNNMUtWVVFhWVNWTXpseGFYb1dhemdEQmRNekV0UktNOEVNbEl5MDlKU2kxTHprb0hPM00xdHBDU0Y0aUpzNmdRWUFRIiwiaWQiOiJmY18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWVtRk1hVkpSVEZnNGJrRnNjekpmWDFGWlNGZDJMVVUxWjNCUWNqbHpaRVV5TmxaMk9VSkdSVnBEU0d4c01tVmZYMG95VGs1UGFrWnBZVGs0TFhOR2FrbHphbGRQRWhkWVFsbExXamxUYjBVME0yWjNUalJRZFRsRWFubEJaeG9pUVVaWWNrVmpjbTU0V20xSmRVdG1aSEpIVFZkRFdYUmxhMFJ6TUdWdVRqZ3lkdyIsImZjdiI6IjMiLCJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicWMiOiJDZ2xqYUdGdGNHRm5ibVVRQUgwOV9Dd18iLCJxdWVzdGlvbiI6IldoYXQgZG9lcyBhIGdvb2QgYm90dGxlIG9mIGNoYW1wYWduZSBjb3N0PyIsImxrIjoiR2lWM2FHRjBjeUJoSUdkdmIyUWdZbTkwZEd4bElHOW1JR05vWVcxd1lXZHVaU0JqYjNOMCIsImJzIjoiYy1QeTRWSUt6MGdzVVM5V0tNbElWY2pOTHk1UktNZ3ZLTTFKTEZKSXprak1MVWhNejB1MWxfakxZYVFzcFZoT1NDRVgxRFNGa3NxQ1ZJWDhOSVhFbk9UOGpQd2NoY3hpWk5NdThjRk13NnVRSzRKTEMyeGFTbjVxc1VLaVFucC1mb3BDVW41SlNRNVlDMXlkUWpMUU1mWVNDMlNNMUtWVVFhWVNWTXpseGFYb1dhemdEQmRNekV0UktNOEVNbEl5MDlKU2kxTHprb0hPM00xdHBDU0Y0aUpzNmdRWUFRIiwiaWQiOiJmY18yIn0%3D"
+    },
+    {
+      "question": "Is Champagne and wine difference?",
+      "snippet": "Want to know the difference between wine and Champagne before buying a bottle? Simply put, \u201cwine\u201d refers to any alcoholic beverage made from grapes or other fruits anywhere in the world. Meanwhile, \u201cChampagne\u201d is a sparkling wine made using the finest red and white grape varieties in the Champagne region of France.",
+      "title": "7 Important Differences Between Wine and Champagne - Vinovest",
+      "link": "https://www.vinovest.co/blog/difference-between-wine-and-champagne#:~:text=Want%20to%20know%20the%20difference,the%20Champagne%20region%20of%20France.",
+      "displayed_link": "https://www.vinovest.co \u203a blog \u203a difference-between-win...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw3LCbN6C7x4SwKEo4tVjsiRVWmzyOkgWuaI2ql2UcFA&s",
+      "source_logo": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/426259e4fa2bc4f20cbc7b3d863d77953e702fd97f357e2c4ec6c601dc25af32.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWVtRk1hVkpSVEZnNGJrRnNjekpmWDFGWlNGZDJMVVUxWjNCUWNqbHpaRVV5TmxaMk9VSkdSVnBEU0d4c01tVmZYMG95VGs1UGFrWnBZVGs0TFhOR2FrbHphbGRQRWhkWVFsbExXamxUYjBVME0yWjNUalJRZFRsRWFubEJaeG9pUVVaWWNrVmpjbTU0V20xSmRVdG1aSEpIVFZkRFdYUmxhMFJ6TUdWdVRqZ3lkdyIsImZjdiI6IjMiLCJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicWMiOiJDZ2xqYUdGdGNHRm5ibVVRQUgwOV9Dd18iLCJxdWVzdGlvbiI6IklzIENoYW1wYWduZSBhbmQgd2luZSBkaWZmZXJlbmNlPyIsImxrIjoiR2lCcGN5QmphR0Z0Y0dGbmJtVWdZVzVrSUhkcGJtVWdaR2xtWm1WeVpXNWpaUSIsImJzIjoiYy1QeTRWSUt6MGdzVVM5V0tNbElWY2pOTHk1UktNZ3ZLTTFKTEZKSXprak1MVWhNejB1MWxfakxZYVFzcFZoT1NDRVgxRFNGa3NxQ1ZJWDhOSVhFbk9UOGpQd2NoY3hpWk5NdThjRk13NnVRSzRKTEMyeGFTbjVxc1VLaVFucC1mb3BDVW41SlNRNVlDMXlkUWpMUU1mWVNDMlNNMUtWVVFhWVNWTXpseGFYb1dhemdEQmRNekV0UktNOEVNbEl5MDlKU2kxTHprb0hPM00xdHBDU0Y0aUpzNmdRWUFRIiwiaWQiOiJmY18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWVtRk1hVkpSVEZnNGJrRnNjekpmWDFGWlNGZDJMVVUxWjNCUWNqbHpaRVV5TmxaMk9VSkdSVnBEU0d4c01tVmZYMG95VGs1UGFrWnBZVGs0TFhOR2FrbHphbGRQRWhkWVFsbExXamxUYjBVME0yWjNUalJRZFRsRWFubEJaeG9pUVVaWWNrVmpjbTU0V20xSmRVdG1aSEpIVFZkRFdYUmxhMFJ6TUdWdVRqZ3lkdyIsImZjdiI6IjMiLCJlaSI6IlhCWUtaOVNvRTQzZndONFB1OURqeUFnIiwicWMiOiJDZ2xqYUdGdGNHRm5ibVVRQUgwOV9Dd18iLCJxdWVzdGlvbiI6IklzIENoYW1wYWduZSBhbmQgd2luZSBkaWZmZXJlbmNlPyIsImxrIjoiR2lCcGN5QmphR0Z0Y0dGbmJtVWdZVzVrSUhkcGJtVWdaR2xtWm1WeVpXNWpaUSIsImJzIjoiYy1QeTRWSUt6MGdzVVM5V0tNbElWY2pOTHk1UktNZ3ZLTTFKTEZKSXprak1MVWhNejB1MWxfakxZYVFzcFZoT1NDRVgxRFNGa3NxQ1ZJWDhOSVhFbk9UOGpQd2NoY3hpWk5NdThjRk13NnVRSzRKTEMyeGFTbjVxc1VLaVFucC1mb3BDVW41SlNRNVlDMXlkUWpMUU1mWVNDMlNNMUtWVVFhWVNWTXpseGFYb1dhemdEQmRNekV0UktNOEVNbEl5MDlKU2kxTHprb0hPM00xdHBDU0Y0aUpzNmdRWUFRIiwiaWQiOiJmY18yIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Champagne",
+      "link": "https://en.wikipedia.org/wiki/Champagne",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Champagne&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQFnoECGIQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Champagne",
+      "thumbnail": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/dd75731d8b2ebf0bbba362f59e058a6ba11887719a6ee8f997afca9324a9e693.jpeg",
+      "favicon": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/dd75731d8b2ebf0bbba362f59e058a6b963ab3a5b76a4f0d7bdda6018422e0ef.png",
+      "snippet": "Champagne is a sparkling wine originated and produced in the Champagne wine region of France under the rules of the appellation, which demand specific ...",
+      "snippet_highlighted_words": [
+        "Champagne",
+        "Champagne"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Which Champagne is Best? | Total Wine & More",
+      "link": "https://www.totalwine.com/wine/champagne-sparkling-wine/champagne/c/000162",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.totalwine.com/wine/champagne-sparkling-wine/champagne/c/000162&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQFnoECGYQAQ",
+      "displayed_link": "https://www.totalwine.com \u203a ... \u203a Champagne",
+      "thumbnail": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/dd75731d8b2ebf0bbba362f59e058a6b20e1086e65ec8ffdd92f8956a1a6b54e.jpeg",
+      "favicon": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/dd75731d8b2ebf0bbba362f59e058a6b62f5cdd3ec8b208f21a61308a7761de4.png",
+      "snippet": "Shop the best Champagne brands at the best prices at Total Wine & More. We have the right Champagne at the right price for you.",
+      "snippet_highlighted_words": [
+        "Champagne",
+        "Champagne"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "store_rating": 4.7,
+            "price": 29,
+            "currency": "$ to $"
+          },
+          "extensions": [
+            "4.7store rating (490)",
+            "\u200e$29 to $280"
+          ]
+        }
+      },
+      "source": "Total Wine"
+    },
+    {
+      "position": 3,
+      "title": "Buy Champagne Wine Online",
+      "link": "https://www.millesima-usa.com/champagne.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.millesima-usa.com/champagne.html&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQFnoECDoQAQ",
+      "displayed_link": "https://www.millesima-usa.com \u203a ... \u203a French Wines",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1nX72vFae_6ilCzX7ZZidce6LdmQAl-jnG10oYMnkvwVWbJYkql_o&s",
+      "favicon": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/dd75731d8b2ebf0bbba362f59e058a6bbdab72b5bb9ed10a460237f9ea90d323.png",
+      "snippet": "Discover Millesima's champagne range, from Krug to Dom Perignon to Ruinart champagne. \u2713 Secure payments and fast delivery.",
+      "snippet_highlighted_words": [
+        "champagne",
+        "champagne"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 30
+          },
+          "extensions": [
+            "4.8",
+            "30",
+            "day returns"
+          ]
+        }
+      },
+      "source": "Millesima USA"
+    },
+    {
+      "position": 4,
+      "title": "Champagne",
+      "link": "https://www.finewineandgoodspirits.com/champagne/035",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.finewineandgoodspirits.com/champagne/035&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQFnoECD4QAQ",
+      "displayed_link": "https://www.finewineandgoodspirits.com \u203a champagne",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSPZQaWzzcLmk9bhMBKN8xVvU33s7a9aelLf3FNoDTkioikPt47IF&s",
+      "favicon": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/dd75731d8b2ebf0bbba362f59e058a6b51a311f8f208bc04dcebd04f7ab371aa.png",
+      "snippet": "By law, to be called champagne, the wine must be produced in the Champagne region of France, making these bottles truly special among ...",
+      "snippet_highlighted_words": [
+        "champagne",
+        "Champagne"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 99,
+            "currency": "Free delivery over $",
+            "free": 14
+          },
+          "extensions": [
+            "$14 to $275",
+            "\u200eFree delivery over $99",
+            "\u200eFree 14",
+            "day returns"
+          ]
+        }
+      },
+      "source": "Fine Wine & Good Spirits"
+    },
+    {
+      "position": 5,
+      "title": "Champagne - Buy Sparkling Wine",
+      "link": "https://theliquorstore.com/collections/champagne?srsltid=AfmBOopsguSN-mn9ELtqSVO_DxBkfB4xBPeRhsPoxv_nkstSiMEgRKU-",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://theliquorstore.com/collections/champagne%3Fsrsltid%3DAfmBOopsguSN-mn9ELtqSVO_DxBkfB4xBPeRhsPoxv_nkstSiMEgRKU-&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQFnoECGgQAQ",
+      "displayed_link": "https://theliquorstore.com \u203a collections \u203a champagne",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkQw23imXEenPBK0ZsONAR0G6Gz7Wzqd1Nd5UUAyEukmyNSiiDLX6i&s",
+      "favicon": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/dd75731d8b2ebf0bbba362f59e058a6b1d80913b08922ffe410492648b9afdd5.jpeg",
+      "snippet": "Be prepared for celebrations with a bit of bubbly. The Liquor Store can assist you in finding the best champagne and sparkling wine available in our store.",
+      "snippet_highlighted_words": [
+        "champagne"
+      ],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkQw23imXEenPBK0ZsONAR0G6Gz7Wzqd1Nd5UUAyEukmyNSiiDLX6i&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2UmVSeoTCZg8HyCKr66zfMNz68lEza0nm78xaR-N_PV68hIQyM1F3&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkkYZOeyvxPRK4WetEkzRamtrEIekcT3NtmTN5D7cGDj0EVWlokvm8QPtokylIn9d9XAE&s"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 5,
+            "currency": "$ to $",
+            "unknown": 30
+          },
+          "extensions": [
+            "$5 to $66",
+            "\u200eFree delivery",
+            "\u200e30",
+            "day returns"
+          ]
+        }
+      },
+      "source": "TheLiquorStore.com"
+    },
+    {
+      "position": 6,
+      "title": "Champagne Definition & Meaning",
+      "link": "https://www.merriam-webster.com/dictionary/champagne",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.merriam-webster.com/dictionary/champagne&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQFnoECFkQAQ",
+      "displayed_link": "https://www.merriam-webster.com \u203a dictionary \u203a cham...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS89PAnpXz-z4nZiMMLg1_03SYpFdo6C0PfYYj5YKy8CCE9pSTVV19VWw&s",
+      "favicon": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/dd75731d8b2ebf0bbba362f59e058a6ba1d4338e06a835fc53108a4939914513.png",
+      "snippet": "The meaning of CHAMPAGNE is a white sparkling wine made in the old province of Champagne, France; also : a similar wine made elsewhere.",
+      "snippet_highlighted_words": [
+        "CHAMPAGNE",
+        "Champagne"
+      ],
+      "source": "Merriam-Webster"
+    },
+    {
+      "position": 7,
+      "title": "Veuve Clicquot, a champagne house beyond the luxury ...",
+      "link": "https://www.veuveclicquot.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.veuveclicquot.com/&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQFnoECHYQAQ",
+      "displayed_link": "https://www.veuveclicquot.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH_JHkKYSYGWi5-dQmzBfq3vmfji_MO7xgWid5UxLydIDK5bKPQlfU&s",
+      "favicon": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/dd75731d8b2ebf0bbba362f59e058a6b75e04f3ff444be33740f088896cbad67.png",
+      "snippet": "Discover the champagne house of Veuve Clicquot, a luxury brand from Reims founded in 1772, rich of 250 years of wine heritage.",
+      "snippet_highlighted_words": [
+        "champagne"
+      ],
+      "source": "Veuve Clicquot"
+    },
+    {
+      "position": 8,
+      "title": "Buy Champagne & Sparkling Wine Online",
+      "link": "https://www.wiredforwine.com/collections/champagne-sparkling-wine?srsltid=AfmBOoqUoo7WsnhJYjXE2rFkFJfn1FIt9yOphq9sQqzMF7E5i4Qs6PEL",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wiredforwine.com/collections/champagne-sparkling-wine%3Fsrsltid%3DAfmBOoqUoo7WsnhJYjXE2rFkFJfn1FIt9yOphq9sQqzMF7E5i4Qs6PEL&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQFnoECEQQAQ",
+      "displayed_link": "https://www.wiredforwine.com \u203a collections \u203a champag...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHXth1N3aHWK2Yjss6vC0d00WDU71M3EznFnBkykYcRslRIAySMNaQqrhgcjR3gJllfg&s",
+      "favicon": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/dd75731d8b2ebf0bbba362f59e058a6b19764e90dce22be8fb33bac32dc325d6.png",
+      "snippet": "Champagne & Sparkling Wine \u00b7 Compare. Veuve Clicquot Champagne Rose 750ml \u00b7 Compare. 94 Points \u00b7 Compare. Moet & Chandon Ice Imperial Champagne \u00b7 Compare.",
+      "snippet_highlighted_words": [
+        "Champagne",
+        "Champagne",
+        "Champagne"
+      ],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHXth1N3aHWK2Yjss6vC0d00WDU71M3EznFnBkykYcRslRIAySMNaQqrhgcjR3gJllfg&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQELd5yE991odNkb1FqqSZtSFs0iLRCTPeecMgUkmf4_3S2kE1RzQK&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT18cJg4uDqVNx0R9dRA992Gh99r5t3wExRre6EmZ9dCwokl5U5aWgw&s"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 23.47,
+            "currency": "$ \u2013 day delivery",
+            "unknown": 30
+          },
+          "extensions": [
+            "$23.47 2\u20138 day delivery",
+            "\u200e30",
+            "day returns"
+          ]
+        }
+      },
+      "source": "Wired For Wine"
+    },
+    {
+      "position": 9,
+      "title": "Buy Champagne - From Iconic Houses to Grower-Producers",
+      "link": "https://www.wineaccess.com/store/regions/champagne/?srsltid=AfmBOoouLmtY77-aq9H1SiDp7HEU2RoOKtHHDUZXN17FfqiO7nokeRRt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wineaccess.com/store/regions/champagne/%3Fsrsltid%3DAfmBOoouLmtY77-aq9H1SiDp7HEU2RoOKtHHDUZXN17FfqiO7nokeRRt&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQFnoECEMQAQ",
+      "displayed_link": "https://www.wineaccess.com \u203a store \u203a regions \u203a champa...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgjKMO7cbrDY4PpPQLLNHbqI2BNXCahXOUaRqFNet9yW3qL6-ZEHVf&s",
+      "favicon": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/dd75731d8b2ebf0bbba362f59e058a6b3116b65fc16641eba0b67c2db791438b.png",
+      "snippet": "Highly-coveted Champagne curated by a Master Sommelier and team of global experts. Shop exclusives, luxury Champagne, and grower-producers.",
+      "snippet_highlighted_words": [
+        "Champagne",
+        "Champagne"
+      ],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgjKMO7cbrDY4PpPQLLNHbqI2BNXCahXOUaRqFNet9yW3qL6-ZEHVf&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKYtCGYzZZ7VPT9a6TMN9UXG38e6Kz51gcf_SKgz9zO63lFbH0ato3&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScGbBpirHExI6wzqxn55yt4qXDf6t3_b9ZjawCKvu98pULnQ2JyzkuTmfJXODWY7NMmRA&s"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "store_rating": 4.8,
+            "price": 42,
+            "currency": "$ to $",
+            "day_delivery": 2
+          },
+          "extensions": [
+            "4.8store rating (15)",
+            "\u200e$42 to $260",
+            "\u200e2\u20136 day delivery",
+            "\u200eFree lifetime returns"
+          ]
+        }
+      },
+      "source": "Wine Access"
+    },
+    {
+      "position": 10,
+      "title": "Home | Champagne.fr",
+      "link": "https://www.champagne.fr/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.champagne.fr/en&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQFnoECD0QAQ",
+      "displayed_link": "https://www.champagne.fr \u203a ...",
+      "favicon": "https://serpapi.com/searches/670a165a8d14731453509fdf/images/dd75731d8b2ebf0bbba362f59e058a6b5878066628f5542b10c8334357bd1b82.png",
+      "snippet": "Dive into the Champagne world on our official site champagne.fr in English and explore the tradition and elegance of our carefully crafted Champagnes.",
+      "snippet_highlighted_words": [
+        "Champagne",
+        "champagne",
+        "Champagnes"
+      ],
+      "source": "champagne.fr"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&tbs=lf:1,lf_ui:10&tbm=lcl&q=champagne&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQjGp6BAhqEAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=champagne&tbs=lf%3A1%2Clf_ui%3A10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Champagne color",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Champagne+color&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQ1QJ6BQiSARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Champagne+color"
+    },
+    {
+      "block_position": 1,
+      "query": "Champagne price",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Champagne+price&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQ1QJ6BQiQARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Champagne+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Champagne France",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Champagne+France&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQ1QJ6BQiNARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Champagne+France"
+    },
+    {
+      "block_position": 1,
+      "query": "Champagne wine",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Champagne+wine&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQ1QJ6BQiJARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Champagne+wine"
+    },
+    {
+      "block_position": 1,
+      "query": "Champagne nearby",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Champagne+nearby&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQ1QJ6BQiIARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Champagne+nearby"
+    },
+    {
+      "block_position": 1,
+      "query": "Champagne cheap",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Champagne+cheap&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQ1QJ6BQiGARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Champagne+cheap"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Under $35",
+      "link": "https://www.google.com/search?gl=us&q=champagne+under+$35&hl=en&shoprs=CAESDRILEQAAAAB2sIBBGAEYBSoJY2hhbXBhZ25lMiIIBRIJVW5kZXIgJDM1GAIiDRILEQAAAAB2sIBBGAEqAhgBWPqLIWAB&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQip4GKAF6BAg3EE8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=champagne+under+%2435"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?gl=us&q=price+champagne&hl=en&shoprs=CAEYEioJY2hhbXBhZ25lMgkIEhIFUHJpY2VgAQ&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQip4GKAJ6BAg3EFA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=price+champagne"
+    },
+    {
+      "query": "Brand",
+      "link": "https://www.google.com/search?gl=us&q=brand+champagne&hl=en&shoprs=CAEYEioJY2hhbXBhZ25lMgkIEhIFQnJhbmRgAQ&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQip4GKAN6BAg3EFE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brand+champagne"
+    },
+    {
+      "query": "France",
+      "link": "https://www.google.com/search?gl=us&q=france+champagne&hl=en&shoprs=CAEYASoJY2hhbXBhZ25lMhgIARIGRnJhbmNlOgwIq5aJAhCtlokCMABY-oshYAE&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQip4GKAR6BAg3EFI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=france+champagne"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?gl=us&q=champagne+sale&hl=en&shoprs=CAESBEoCGAEYBioJY2hhbXBhZ25lMhMIBhIHT24gc2FsZRgCIgRKAhgBWPqLIWAB&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQip4GKAV6BAg3EFM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=champagne+sale"
+    },
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?gl=us&q=champagne+nearby&hl=en&shoprs=CAEYAyoJY2hhbXBhZ25lMgwIAxIGTmVhcmJ5GAJY-oshYAE&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQip4GKAZ6BAg3EFQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=champagne+nearby"
+    },
+    {
+      "query": "Get it fast",
+      "link": "https://www.google.com/search?gl=us&q=champagne&hl=en&shoprs=CAESDZoBCgoIEAM4AUACSAEYFCoJY2hhbXBhZ25lMiQIFBILR2V0IGl0IGZhc3QiDZoBCgoIEAM4AUACSAEqBBABGAFgAQ&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQip4GKAd6BAg3EFU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=champagne"
+    },
+    {
+      "query": "Ros\u00e9",
+      "link": "https://www.google.com/search?gl=us&q=ros%C3%A9+champagne&hl=en&shoprs=CAEYASoJY2hhbXBhZ25lMhUIARIFUm9zw6k6CgjM3zgQ3_M4MAJY-oshYAE&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQip4GKAh6BAg3EFY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ros%C3%A9+champagne"
+    },
+    {
+      "query": "Wine",
+      "link": "https://www.google.com/search?gl=us&q=wine+champagne&hl=en&shoprs=CAEYCSoJY2hhbXBhZ25lMggICRIEV2luZWAB&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQip4GKAl6BAg3EFc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wine+champagne"
+    },
+    {
+      "query": "White",
+      "link": "https://www.google.com/search?gl=us&q=white+champagne&hl=en&shoprs=CAEYASoJY2hhbXBhZ25lMhUIARIFV2hpdGU6CgjM3zgQzt84MAJY-oshYAE&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQip4GKAp6BAg3EFg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=white+champagne"
+    },
+    {
+      "query": "750 ml",
+      "link": "https://www.google.com/search?gl=us&q=750+ml+champagne&hl=en&shoprs=CAESGioYCIbXWRISCQAAAAAAcIdAEQAAAAAAcIdAGAEqCWNoYW1wYWduZTI0CAESBjc1MCBtbCIaKhgIhtdZEhIJAAAAAABwh0ARAAAAAABwh0AqAhgBOggIhtdZEAAwBlj6iyFgAQ&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQip4GKAt6BAg3EFk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=750+ml+champagne"
+    },
+    {
+      "query": "Glass",
+      "link": "https://www.google.com/search?gl=us&q=glass+champagne&hl=en&shoprs=CAEYEioJY2hhbXBhZ25lMgkIEhIFR2xhc3NgAQ&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQip4GKAx6BAg3EFo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=glass+champagne"
+    },
+    {
+      "query": "Definition",
+      "link": "https://www.google.com/search?gl=us&q=definition+champagne&hl=en&shoprs=CAEYEioJY2hhbXBhZ25lMg4IEhIKRGVmaW5pdGlvbmAB&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQip4GKA16BAg3EFs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=definition+champagne"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?gl=us&q=buy+champagne&hl=en&shoprs=CAEYEioJY2hhbXBhZ25lMgcIEhIDQnV5YAE&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQip4GKA56BAg3EFw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=buy+champagne"
+    },
+    {
+      "query": "Veuve Clicquot",
+      "link": "https://www.google.com/search?gl=us&q=veuve+clicquot+champagne&hl=en&shoprs=CAEYASoJY2hhbXBhZ25lMh4IARIOVmV1dmUgQ2xpY3F1b3Q6CgiD8zwQ_vg-MAFY-oshYAE&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQip4GKA96BAg3EF0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=veuve+clicquot+champagne"
+    },
+    {
+      "query": "Meaning",
+      "link": "https://www.google.com/search?gl=us&q=meaning+champagne&hl=en&shoprs=CAEYEioJY2hhbXBhZ25lMgsIEhIHTWVhbmluZ2AB&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQip4GKBB6BAg3EF4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=meaning+champagne"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?gl=us&q=champagne+for+sale&hl=en&shoprs=CAEYEioJY2hhbXBhZ25lMgwIEhIIRm9yIFNhbGVgAQ&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQip4GKBF6BAg3EF8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=champagne+for+sale"
+    },
+    {
+      "query": "Store",
+      "link": "https://www.google.com/search?gl=us&q=store+champagne&hl=en&shoprs=CAEYEioJY2hhbXBhZ25lMgkIEhIFU3RvcmVgAQ&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQip4GKBJ6BAg3EGA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=store+champagne"
+    },
+    {
+      "query": "375 ml",
+      "link": "https://www.google.com/search?gl=us&q=375+ml+champagne&hl=en&shoprs=CAESGioYCIbXWRISCQAAAAAAcHdAEQAAAAAAcHdAGAEqCWNoYW1wYWduZTI0CAESBjM3NSBtbCIaKhgIhtdZEhIJAAAAAABwd0ARAAAAAABwd0AqAhgBOggIhtdZEAAwBlj6iyFgAQ&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQip4GKBN6BAg3EGE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=375+ml+champagne"
+    },
+    {
+      "query": "1.5 liter",
+      "link": "https://www.google.com/search?gl=us&q=1.5+liter+champagne&hl=en&shoprs=CAESGioYCIbXWRISCQAAAAAAcJdAEQAAAAAAcJdAGAEqCWNoYW1wYWduZTI3CAESCTEuNSBsaXRlciIaKhgIhtdZEhIJAAAAAABwl0ARAAAAAABwl0AqAhgBOggIhtdZEAAwBlj6iyFgAQ&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQip4GKBR6BAg3EGI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=1.5+liter+champagne"
+    },
+    {
+      "query": "Blend",
+      "link": "https://www.google.com/search?gl=us&q=blend+champagne&hl=en&shoprs=CAEYASoJY2hhbXBhZ25lMhcIARIFQmxlbmQ6DAiwrJMBELGskwEwA1j6iyFgAQ&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQip4GKBV6BAg3EGM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=blend+champagne"
+    },
+    {
+      "query": "Non-vintage",
+      "link": "https://www.google.com/search?gl=us&q=non-vintage+champagne&hl=en&shoprs=CAEYASoJY2hhbXBhZ25lMh0IARILTm9uLXZpbnRhZ2U6DAja_68CENv_rwIwA1j6iyFgAQ&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQip4GKBZ6BAg3EGQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=non-vintage+champagne"
+    },
+    {
+      "query": "Recipe",
+      "link": "https://www.google.com/search?gl=us&q=recipe+champagne&hl=en&shoprs=CAEYEioJY2hhbXBhZ25lMgoIEhIGUmVjaXBlYAE&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQip4GKBd6BAg3EGU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=recipe+champagne"
+    },
+    {
+      "query": "USA",
+      "link": "https://www.google.com/search?gl=us&q=usa+champagne&hl=en&shoprs=CAEYASoJY2hhbXBhZ25lMhUIARIDVVNBOgwIq5aJAhCylokCMABY-oshYAE&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQip4GKBh6BAg3EGY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=usa+champagne"
+    },
+    {
+      "query": "187 ml",
+      "link": "https://www.google.com/search?gl=us&q=187+ml+champagne&hl=en&shoprs=CAESGioYCIbXWRISCQAAAAAAYGdAEQAAAAAAYGdAGAEqCWNoYW1wYWduZTI0CAESBjE4NyBtbCIaKhgIhtdZEhIJAAAAAABgZ0ARAAAAAABgZ0AqAhgBOggIhtdZEAAwBlj6iyFgAQ&sa=X&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQip4GKBl6BAg3EGc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=187+ml+champagne"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=champagne&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=XBYKZ9SoE43fwN4Pu9DjyAg&start=10&sa=N&sstk=Aagrsuh4PwavGrRke0VHxtm5cx-6zBS9Q_6g8ZhjFYgGjO8kScZ7J57jTCvihGMrIYKpy5pwswtz39HIgTbIkGoP-CK3hgUPouoSYA&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQ8NMDegQICRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=champagne&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=XBYKZ9SoE43fwN4Pu9DjyAg&start=10&sa=N&sstk=Aagrsuh4PwavGrRke0VHxtm5cx-6zBS9Q_6g8ZhjFYgGjO8kScZ7J57jTCvihGMrIYKpy5pwswtz39HIgTbIkGoP-CK3hgUPouoSYA&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQ8tMDegQICRAE",
+      "3": "https://www.google.com/search?q=champagne&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=XBYKZ9SoE43fwN4Pu9DjyAg&start=20&sa=N&sstk=Aagrsuh4PwavGrRke0VHxtm5cx-6zBS9Q_6g8ZhjFYgGjO8kScZ7J57jTCvihGMrIYKpy5pwswtz39HIgTbIkGoP-CK3hgUPouoSYA&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQ8tMDegQICRAG",
+      "4": "https://www.google.com/search?q=champagne&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=XBYKZ9SoE43fwN4Pu9DjyAg&start=30&sa=N&sstk=Aagrsuh4PwavGrRke0VHxtm5cx-6zBS9Q_6g8ZhjFYgGjO8kScZ7J57jTCvihGMrIYKpy5pwswtz39HIgTbIkGoP-CK3hgUPouoSYA&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQ8tMDegQICRAI",
+      "5": "https://www.google.com/search?q=champagne&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=XBYKZ9SoE43fwN4Pu9DjyAg&start=40&sa=N&sstk=Aagrsuh4PwavGrRke0VHxtm5cx-6zBS9Q_6g8ZhjFYgGjO8kScZ7J57jTCvihGMrIYKpy5pwswtz39HIgTbIkGoP-CK3hgUPouoSYA&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQ8tMDegQICRAK",
+      "6": "https://www.google.com/search?q=champagne&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=XBYKZ9SoE43fwN4Pu9DjyAg&start=50&sa=N&sstk=Aagrsuh4PwavGrRke0VHxtm5cx-6zBS9Q_6g8ZhjFYgGjO8kScZ7J57jTCvihGMrIYKpy5pwswtz39HIgTbIkGoP-CK3hgUPouoSYA&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQ8tMDegQICRAM",
+      "7": "https://www.google.com/search?q=champagne&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=XBYKZ9SoE43fwN4Pu9DjyAg&start=60&sa=N&sstk=Aagrsuh4PwavGrRke0VHxtm5cx-6zBS9Q_6g8ZhjFYgGjO8kScZ7J57jTCvihGMrIYKpy5pwswtz39HIgTbIkGoP-CK3hgUPouoSYA&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQ8tMDegQICRAO",
+      "8": "https://www.google.com/search?q=champagne&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=XBYKZ9SoE43fwN4Pu9DjyAg&start=70&sa=N&sstk=Aagrsuh4PwavGrRke0VHxtm5cx-6zBS9Q_6g8ZhjFYgGjO8kScZ7J57jTCvihGMrIYKpy5pwswtz39HIgTbIkGoP-CK3hgUPouoSYA&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQ8tMDegQICRAQ",
+      "9": "https://www.google.com/search?q=champagne&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=XBYKZ9SoE43fwN4Pu9DjyAg&start=80&sa=N&sstk=Aagrsuh4PwavGrRke0VHxtm5cx-6zBS9Q_6g8ZhjFYgGjO8kScZ7J57jTCvihGMrIYKpy5pwswtz39HIgTbIkGoP-CK3hgUPouoSYA&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQ8tMDegQICRAS",
+      "10": "https://www.google.com/search?q=champagne&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=XBYKZ9SoE43fwN4Pu9DjyAg&start=90&sa=N&sstk=Aagrsuh4PwavGrRke0VHxtm5cx-6zBS9Q_6g8ZhjFYgGjO8kScZ7J57jTCvihGMrIYKpy5pwswtz39HIgTbIkGoP-CK3hgUPouoSYA&ved=2ahUKEwjUxsjdmoiJAxWNL9AFHTvoGIkQ8tMDegQICRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=champagne&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=champagne&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=champagne&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=champagne&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=champagne&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=champagne&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=champagne&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=champagne&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=champagne&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=champagne&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=champagne&start=90"
+    }
+  }
+}

@@ -1,0 +1,1049 @@
+{
+  "search_metadata": {
+    "id": "670a161948e6689808ad51ce",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/edfe73de8ae9f6c1/670a161948e6689808ad51ce.json",
+    "created_at": "2024-10-12 06:24:25 UTC",
+    "processed_at": "2024-10-12 06:24:25 UTC",
+    "google_url": "https://www.google.com/search?q=beer&oq=beer&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/edfe73de8ae9f6c1/670a161948e6689808ad51ce.html",
+    "total_time_taken": 1.64
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "beer",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "beer",
+    "total_results": 2070000000,
+    "time_taken_displayed": 0.35,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "recipes_results": [
+    {
+      "title": "CAZADORES Caz con Cerveza",
+      "link": "https://www.cazadores.com/us/en/rum-cocktails/deer-and-a-beer/",
+      "source": "Cazadores Tequila",
+      "ingredients": [
+        "Shot",
+        "lager beer"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfIruVa3E5MzAkpjhsfP8Ipyeh7P03PQvb_S35dMZqVQ&s"
+    },
+    {
+      "title": "Pink Summer Beer",
+      "link": "https://www.allrecipes.com/recipe/20402/summer-beer-ii/",
+      "source": "Allrecipes",
+      "rating": 4.8,
+      "reviews": 173,
+      "total_time": "10 min",
+      "ingredients": [
+        "Pink lemonade concentrate",
+        "vodka"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFU0ZM_RefHOYlXJFDU-desFOp60YSXMZmfmA4sc2G_Ts5D17DKcrOs3fhwQ&s"
+    },
+    {
+      "title": "Your First SMaSH Ale",
+      "link": "https://www.homebrewersassociation.org/homebrew-recipe/your-first-smash-ale/",
+      "source": "American Homebrewers Association",
+      "ingredients": [
+        "5 gallon",
+        "yeast",
+        "malt",
+        "hop"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTdIqHr_rqrC2-Wd4OOIsgFuSizX3Nfs7rg6niqfEpoPm6gHNz7QGw5wTBgA&s"
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=beer&npsic=0&rflfq=1&rldoc=1&rllag=30265699,-97742939,154&tbm=lcl&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQtgN6BAguEAI",
+    "image": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/a6c1ddda5e35515ffae73e4fd92adbf2.png",
+    "gps_coordinates": {
+      "latitude": 30.265699,
+      "longitude": -97.742939
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.5,
+        "reviews_original": "(71)",
+        "reviews": 71,
+        "description": "\"Great selection, location and friendly service!\"",
+        "lsig": "AB86z5XCQH25djvHwzP9cef6lUK6",
+        "thumbnail": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/82f95dfafc5fbc3dd2b534b13fd2f5db87403002c3da32ce3d5c6c1005927cc6cc04d1cd9ac0d2b4.png",
+        "title": "All American Liquors",
+        "type": "Liquor store",
+        "address": "411 Brazos St #100",
+        "hours": "Closed \u22c5 Opens 11 AM",
+        "place_id": "4671527598793696848",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=4671527598793696848&q=beer",
+        "gps_coordinates": {
+          "latitude": 30.266531,
+          "longitude": -97.74165
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.7,
+        "reviews_original": "(942)",
+        "reviews": 942,
+        "description": "\"Excellent beer selection, knowledgeable and friendly staff.\"",
+        "lsig": "AB86z5VaQ3AHCe6mpxMwNxLj2lsD",
+        "thumbnail": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/82f95dfafc5fbc3dd2b534b13fd2f5dbc2e3a43afbfca484af61730d1f39f406262a015dff2c8b36.jpeg",
+        "title": "Mort Subite Belgian Beer Bar",
+        "type": "Bar",
+        "address": "308 Congress Ave.",
+        "hours": "Closed \u22c5 Opens 12 PM",
+        "place_id": "2478914992839954762",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=2478914992839954762&q=beer",
+        "gps_coordinates": {
+          "latitude": 30.265692,
+          "longitude": -97.74391
+        }
+      },
+      {
+        "position": 3,
+        "rating": 4.0,
+        "reviews_original": "(106)",
+        "reviews": 106,
+        "description": "\"This is the spot.\"",
+        "lsig": "AB86z5Un_PwngBQJqRixNkVSdxe7",
+        "thumbnail": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/82f95dfafc5fbc3dd2b534b13fd2f5dbe93d2e827676b62d0d738504634c9ba05429e8ab29f2b289.jpeg",
+        "title": "Urban Wine + Liquor",
+        "type": "Liquor store",
+        "address": "200 Congress Ave.",
+        "hours": "Closed \u22c5 Opens 10 AM",
+        "place_id": "9161620040595252549",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=9161620040595252549&q=beer",
+        "gps_coordinates": {
+          "latitude": 30.264868,
+          "longitude": -97.74423
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&tbs=lf:1,lf_ui:9&tbm=lcl&q=beer&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQjGp6BAgwEAE"
+  },
+  "knowledge_graph": {
+    "title": "Beer",
+    "type": "Alcoholic beverage",
+    "entity_type": "food, kp3_verticals",
+    "kgmid": "/m/01599",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/01599&hl=en-US&q=Beer",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F01599&location=Austin%2CTexas%2CUnited+States&q=Beer",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/794f239e2d8a1658ae0fbabc7a47cf5b79c87ddee296ae5d4caf4245313d22351aeca06180e9352c.jpeg",
+        "source": "https://en.wikipedia.org/wiki/Beer"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/794f239e2d8a1658ae0fbabc7a47cf5b79c87ddee296ae5dd9eb75498b619be3e900e4d4804d3554.jpeg",
+        "source": "https://www.clawhammersupply.com/blogs/brewing/how-to-make-beer"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/794f239e2d8a1658ae0fbabc7a47cf5b79c87ddee296ae5d07f413a655d2f9482b4e3ce7d830d736.jpeg",
+        "source": "https://shiner.com/beer/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/794f239e2d8a1658ae0fbabc7a47cf5b79c87ddee296ae5dca48f6147e8e03a2c6ed762173a5ddea.jpeg",
+        "source": "https://shiner.com/beer/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/794f239e2d8a1658ae0fbabc7a47cf5b79c87ddee296ae5ddd69db6138b22dab5ef7d2646034cc2f.jpeg",
+        "source": "https://minuman.com/blogs/all/everything-you-need-to-know-about-beer"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/794f239e2d8a1658ae0fbabc7a47cf5b79c87ddee296ae5d4644676198a1d273ca72da29a4aa0870.jpeg",
+        "source": "https://familybusinessbeerco.com/"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRetnTvkV750LeJlSaSZX5ST1YqdhJ0QV2TlVJL_HRFGg&s",
+        "source": "https://www.freepik.com/vectors/beer"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCMoMov4-_ByU1mMCkjyEoKbNJm_GsSmioszRt3_UChg&s",
+        "source": "https://glacier-design.com/beer-tasting-101/"
+      }
+    ],
+    "description": "Beer is an alcoholic beverage produced by the brewing and fermentation of starches from cereal grains\u2014most commonly malted barley, although wheat, maize, rice, and oats are also used. The fermentation of the starch sugars in the wort produces ethanol and carbonation in the beer.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Beer"
+    },
+    "ounces_in_a_can": "12 oz oktoberdesign.com",
+    "ounces_in_a_can_links": [
+      {
+        "text": "oktoberdesign.com",
+        "link": "https://oktoberdesign.com/blogs/news/beer-can-size"
+      }
+    ],
+    "sources_include": "USDAUSDAUSDABeer154 Calories - 1 can (356 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/168746/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/168747/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/169575/nutrients"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Wine",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm4qDu00BsPTyPbtV9NRYpx0Of0yjTNcwtHcxZmyqZnga4O0x06KrEu3Fg_DDJytpExamVyyGao-b0I2ZbgjDVo4A7nZ_6QBkyh5sT1wlZ8M6AbUDA2NGKoBkVpEh4pvNW_R-aKm3Qb87dMAR6ymrpk-NK01JZcvARp3_Zr-AbtnIXqXTA5CcFNw2iUpFvGlbXwryeFiPLtOABOvmY1M0mjETWIw5Pdv0jSF9y1FUuPd-onnOig%3D%3D&q=Wine&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQs9oBKAB6BAgtEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Wine&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm4qDu00BsPTyPbtV9NRYpx0Of0yjTNcwtHcxZmyqZnga4O0x06KrEu3Fg_DDJytpExamVyyGao-b0I2ZbgjDVo4A7nZ_6QBkyh5sT1wlZ8M6AbUDA2NGKoBkVpEh4pvNW_R-aKm3Qb87dMAR6ymrpk-NK01JZcvARp3_Zr-AbtnIXqXTA5CcFNw2iUpFvGlbXwryeFiPLtOABOvmY1M0mjETWIw5Pdv0jSF9y1FUuPd-onnOig%3D%3D",
+        "image": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/794f239e2d8a1658ae0fbabc7a47cf5bdbe3fd081100af282ae723b4630bef5ac7b71fb76c1eaeb6c19db3e8d7c98922.jpeg"
+      },
+      {
+        "name": "Whisky",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm7HF9rBoYQyjZTHitCrjQKOUN1n6NglW9u0GxTV_92awRYn4C7XZI9vsyKKLdELw94kwDi9JimWzIbojyy_CU0JJNZ4TVaMQLEwGrzfe0j11739BdnLaxSm7HXQfDRkpPEPxNdvGmxWj7XTthbJWE0cKtZXO-8Yh0uRWqyKWnTnuVi2EaiaDrNTjLwiOt64CgNjsEEtDatO5s0_2yMF1GzOxSZfkOoDrbf7wnPWkLdnDruEH-Q%3D%3D&q=Whisky&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQs9oBKAB6BAgtEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Whisky&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm7HF9rBoYQyjZTHitCrjQKOUN1n6NglW9u0GxTV_92awRYn4C7XZI9vsyKKLdELw94kwDi9JimWzIbojyy_CU0JJNZ4TVaMQLEwGrzfe0j11739BdnLaxSm7HXQfDRkpPEPxNdvGmxWj7XTthbJWE0cKtZXO-8Yh0uRWqyKWnTnuVi2EaiaDrNTjLwiOt64CgNjsEEtDatO5s0_2yMF1GzOxSZfkOoDrbf7wnPWkLdnDruEH-Q%3D%3D",
+        "image": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/794f239e2d8a1658ae0fbabc7a47cf5bdbe3fd081100af282ae723b4630bef5a21d08ddcd38b8798883742d8aff42fa4.jpeg"
+      },
+      {
+        "name": "Soft drink",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgKRSVD1d7BB6bigaeT933a0RfUe2NNGaBUf1an4_7v_lEFVYf59bazNTagjgb0D4FavHTAiEFNldpWOrTbb8cBghdtFgkI8FQmEMD6gwAAYqA7pFRxjsGJ0LWFLoBNHzxhnuVwRg8Bg7MfXaVlnHDGTkp3k3GzLiQb4QbHZDt3sPu9cSq27k6gdaCbEz9EFvZZ3Tx1p-Xdy1554wF1ThTBouDeJpk_lJw8f-nEVPBh8TklT-Vu6r7oN0s-i791ImGrJKDVs%3D&q=Soft+Drink&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQs9oBKAB6BAgtEA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Soft+Drink&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgKRSVD1d7BB6bigaeT933a0RfUe2NNGaBUf1an4_7v_lEFVYf59bazNTagjgb0D4FavHTAiEFNldpWOrTbb8cBghdtFgkI8FQmEMD6gwAAYqA7pFRxjsGJ0LWFLoBNHzxhnuVwRg8Bg7MfXaVlnHDGTkp3k3GzLiQb4QbHZDt3sPu9cSq27k6gdaCbEz9EFvZZ3Tx1p-Xdy1554wF1ThTBouDeJpk_lJw8f-nEVPBh8TklT-Vu6r7oN0s-i791ImGrJKDVs%3D",
+        "image": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/794f239e2d8a1658ae0fbabc7a47cf5bdbe3fd081100af282ae723b4630bef5a422213cb06253fd41addb8e6722d9ed8.jpeg"
+      },
+      {
+        "name": "Vodka",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm7C-NcS5mQnrym_sGW9q84vJJmuAa5nybPnZ57I3_XBA3QIpHqzJLOqv5D58EEcy5t5iPABjVnK0SdSTe5sjGTsbIkPEhejbnFAX48OQYTwGA8z-QduiAGg8DTqLa3n370Mwh4egyiOmJ1maYuf7j9PWxDzA64M9w8lKye7ZtPzxNmCQuL5_E3toiTKSfrJW9SLODNYDhbhadYJEJcF6T4KcwRl5Md0QL5RL7C9Z9Q-VlrPdtQ%3D%3D&q=Vodka&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQs9oBKAB6BAgtEBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Vodka&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm7C-NcS5mQnrym_sGW9q84vJJmuAa5nybPnZ57I3_XBA3QIpHqzJLOqv5D58EEcy5t5iPABjVnK0SdSTe5sjGTsbIkPEhejbnFAX48OQYTwGA8z-QduiAGg8DTqLa3n370Mwh4egyiOmJ1maYuf7j9PWxDzA64M9w8lKye7ZtPzxNmCQuL5_E3toiTKSfrJW9SLODNYDhbhadYJEJcF6T4KcwRl5Md0QL5RL7C9Z9Q-VlrPdtQ%3D%3D",
+        "image": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/794f239e2d8a1658ae0fbabc7a47cf5bdbe3fd081100af282ae723b4630bef5a834e76385d5e6204bb467fdafe8eaa9a.jpeg"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "0 g",
+        "0%"
+      ],
+      "cholesterol": [
+        "0 mg",
+        "0%"
+      ],
+      "sodium": [
+        "14 mg",
+        "0%"
+      ],
+      "potassium": [
+        "96 mg",
+        "2%"
+      ],
+      "total_carbohydrate": [
+        "13 g",
+        "4%"
+      ],
+      "protein": [
+        "1.6 g",
+        "3%"
+      ]
+    }
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=beer&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=ADWSCQy8mDgHuM%252CwjP5VAQHjiywTM%252C%252Fm%252F01599%253B9U_Uy6aI67xtsM%252C8lYQf5Zh396qlM%252C_%253Bb25R806EPvpP4M%252CfWaWmhHeS0iwaM%252C_%253BscjSwB4VCdZ1yM%252CfWaWmhHeS0iwaM%252C_%253BMEh36wVTYNsjKM%252CZ4Rh5YuJSzfH3M%252C_%253B7PO9lwHBkWnAzM%252CmmupIKJqoxEzMM%252C_%253BbY_Jkwp4yixlSM%252CQAWT5ueOK7Qe2M%252C_%253BOzdslAK1MbtlrM%252Ch6bjbQJ3d6AQHM%252C_&usg=AI4_-kTptmlIV-45IVPXeazeFMRqJKtmCw&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQ_B16BAgxEAE#vhid=ADWSCQy8mDgHuM&vssid=mosaic",
+      "source": "https://en.wikipedia.org/wiki/Beer",
+      "thumbnail": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/477089e16f868482cab2d70dca2081d1871fb79d14a78bc1ca495da322cff678.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/GravityTap.jpg/220px-GravityTap.jpg",
+      "title": "upload.wikimedia.org/wikipedia/commons/thumb/7/78/...",
+      "source_name": "en.wikipedia.org"
+    },
+    {
+      "link": "https://www.google.com/search?q=beer&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=ADWSCQy8mDgHuM%252CwjP5VAQHjiywTM%252C_%253B9U_Uy6aI67xtsM%252C8lYQf5Zh396qlM%252C_%253Bb25R806EPvpP4M%252CfWaWmhHeS0iwaM%252C_%253BscjSwB4VCdZ1yM%252CfWaWmhHeS0iwaM%252C_%253BMEh36wVTYNsjKM%252CZ4Rh5YuJSzfH3M%252C_%253B7PO9lwHBkWnAzM%252CmmupIKJqoxEzMM%252C_%253BbY_Jkwp4yixlSM%252CQAWT5ueOK7Qe2M%252C_%253BOzdslAK1MbtlrM%252Ch6bjbQJ3d6AQHM%252C_&usg=AI4_-kTtEjMlqqOyBuTWwaSS5g3Q0OrN-w&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQ_h16BAg0EAE#vhid=9U_Uy6aI67xtsM&vssid=mosaic",
+      "source": "https://www.clawhammersupply.com/blogs/brewing/how-to-make-beer",
+      "thumbnail": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/477089e16f868482fde08e8c5cdd977c9fdd001dc6025a622a92530a38111030.jpeg",
+      "original": "https://www.clawhammersupply.com/cdn/shop/articles/how_to_make_beer.jpg?v=1682910375&width=1532",
+      "title": "How to Make Beer at Home: The Ultimate Brewing Guide ...",
+      "source_name": "Clawhammer Supply"
+    },
+    {
+      "link": "https://www.google.com/search?q=beer&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=ADWSCQy8mDgHuM%252CwjP5VAQHjiywTM%252C_%253B9U_Uy6aI67xtsM%252C8lYQf5Zh396qlM%252C_%253Bb25R806EPvpP4M%252CfWaWmhHeS0iwaM%252C_%253BscjSwB4VCdZ1yM%252CfWaWmhHeS0iwaM%252C_%253BMEh36wVTYNsjKM%252CZ4Rh5YuJSzfH3M%252C_%253B7PO9lwHBkWnAzM%252CmmupIKJqoxEzMM%252C_%253BbY_Jkwp4yixlSM%252CQAWT5ueOK7Qe2M%252C_%253BOzdslAK1MbtlrM%252Ch6bjbQJ3d6AQHM%252C_&usg=AI4_-kTtEjMlqqOyBuTWwaSS5g3Q0OrN-w&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQ_h16BAg1EAE#vhid=b25R806EPvpP4M&vssid=mosaic",
+      "source": "https://shiner.com/beer/",
+      "thumbnail": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/477089e16f868482587f3a55b01c04da1857992db75a326a29faad024db94306.jpeg",
+      "original": "https://shiner.com/wp-content/uploads/orale-bottle-render-updated.png",
+      "title": "Age Verification - Shiner",
+      "source_name": "Age Verification - Shiner"
+    },
+    {
+      "link": "https://www.google.com/search?q=beer&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=ADWSCQy8mDgHuM%252CwjP5VAQHjiywTM%252C_%253B9U_Uy6aI67xtsM%252C8lYQf5Zh396qlM%252C_%253Bb25R806EPvpP4M%252CfWaWmhHeS0iwaM%252C_%253BscjSwB4VCdZ1yM%252CfWaWmhHeS0iwaM%252C_%253BMEh36wVTYNsjKM%252CZ4Rh5YuJSzfH3M%252C_%253B7PO9lwHBkWnAzM%252CmmupIKJqoxEzMM%252C_%253BbY_Jkwp4yixlSM%252CQAWT5ueOK7Qe2M%252C_%253BOzdslAK1MbtlrM%252Ch6bjbQJ3d6AQHM%252C_&usg=AI4_-kTtEjMlqqOyBuTWwaSS5g3Q0OrN-w&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQ_h16BAg2EAE#vhid=scjSwB4VCdZ1yM&vssid=mosaic",
+      "source": "https://shiner.com/beer/",
+      "thumbnail": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/477089e16f868482cd22309f0ebd2328a4ef796ea025b1c9ff63f11e564b2bc6.jpeg",
+      "original": "https://shiner.com/wp-content/uploads/bock-bottle-render-updated.png",
+      "title": "Age Verification - Shiner",
+      "source_name": "Age Verification - Shiner"
+    },
+    {
+      "link": "https://www.google.com/search?q=beer&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=ADWSCQy8mDgHuM%252CwjP5VAQHjiywTM%252C_%253B9U_Uy6aI67xtsM%252C8lYQf5Zh396qlM%252C_%253Bb25R806EPvpP4M%252CfWaWmhHeS0iwaM%252C_%253BscjSwB4VCdZ1yM%252CfWaWmhHeS0iwaM%252C_%253BMEh36wVTYNsjKM%252CZ4Rh5YuJSzfH3M%252C_%253B7PO9lwHBkWnAzM%252CmmupIKJqoxEzMM%252C_%253BbY_Jkwp4yixlSM%252CQAWT5ueOK7Qe2M%252C_%253BOzdslAK1MbtlrM%252Ch6bjbQJ3d6AQHM%252C_&usg=AI4_-kTtEjMlqqOyBuTWwaSS5g3Q0OrN-w&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQ_h16BAg3EAE#vhid=MEh36wVTYNsjKM&vssid=mosaic",
+      "source": "https://minuman.com/blogs/all/everything-you-need-to-know-about-beer",
+      "thumbnail": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/477089e16f868482fc226c3c54ad9821459ec3740e468a975970f32a6042112b.jpeg",
+      "original": "http://minuman.com/cdn/shop/articles/Everything-You-Need-to-Know-About-Beer-2.jpg?v=1716772693",
+      "title": "Everything You Need to Know About Beer",
+      "source_name": "minuman.com"
+    },
+    {
+      "link": "https://www.google.com/search?q=beer&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=ADWSCQy8mDgHuM%252CwjP5VAQHjiywTM%252C_%253B9U_Uy6aI67xtsM%252C8lYQf5Zh396qlM%252C_%253Bb25R806EPvpP4M%252CfWaWmhHeS0iwaM%252C_%253BscjSwB4VCdZ1yM%252CfWaWmhHeS0iwaM%252C_%253BMEh36wVTYNsjKM%252CZ4Rh5YuJSzfH3M%252C_%253B7PO9lwHBkWnAzM%252CmmupIKJqoxEzMM%252C_%253BbY_Jkwp4yixlSM%252CQAWT5ueOK7Qe2M%252C_%253BOzdslAK1MbtlrM%252Ch6bjbQJ3d6AQHM%252C_&usg=AI4_-kTtEjMlqqOyBuTWwaSS5g3Q0OrN-w&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQ_h16BAg5EAE#vhid=7PO9lwHBkWnAzM&vssid=mosaic",
+      "source": "https://familybusinessbeerco.com/",
+      "thumbnail": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/477089e16f868482175d2fe0beb9968f7703772e8a5470e987a5c862ca98c5bb.jpeg",
+      "original": "https://static.spacecrafted.com/cecaafd8e57040f98348de0f052ffecf/i/ab0c4d31667a4fe4a521704ea65528a9/1/4SoifmQp45JMgBnHp7ed2/FBDSC09979-Edit.jpg",
+      "title": "Family Business Beer Company",
+      "source_name": "familybusinessbeerco.com"
+    },
+    {
+      "link": "https://www.google.com/search?q=beer&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=ADWSCQy8mDgHuM%252CwjP5VAQHjiywTM%252C_%253B9U_Uy6aI67xtsM%252C8lYQf5Zh396qlM%252C_%253Bb25R806EPvpP4M%252CfWaWmhHeS0iwaM%252C_%253BscjSwB4VCdZ1yM%252CfWaWmhHeS0iwaM%252C_%253BMEh36wVTYNsjKM%252CZ4Rh5YuJSzfH3M%252C_%253B7PO9lwHBkWnAzM%252CmmupIKJqoxEzMM%252C_%253BbY_Jkwp4yixlSM%252CQAWT5ueOK7Qe2M%252C_%253BOzdslAK1MbtlrM%252Ch6bjbQJ3d6AQHM%252C_&usg=AI4_-kTtEjMlqqOyBuTWwaSS5g3Q0OrN-w&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQ_h16BAg6EAE#vhid=bY_Jkwp4yixlSM&vssid=mosaic",
+      "source": "https://www.freepik.com/vectors/beer",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRetnTvkV750LeJlSaSZX5ST1YqdhJ0QV2TlVJL_HRFGg&s",
+      "original": "https://img.freepik.com/premium-vector/beer-mug-walking-hand-drawn-mascot-cartoon-character-sticker-icon-concept-isolated-illustration_730620-496269.jpg?semt=ais_hybrid",
+      "title": "Beer Vectors & Illustrations for Free Download | Freepik",
+      "source_name": "Freepik"
+    },
+    {
+      "link": "https://www.google.com/search?q=beer&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=ADWSCQy8mDgHuM%252CwjP5VAQHjiywTM%252C_%253B9U_Uy6aI67xtsM%252C8lYQf5Zh396qlM%252C_%253Bb25R806EPvpP4M%252CfWaWmhHeS0iwaM%252C_%253BscjSwB4VCdZ1yM%252CfWaWmhHeS0iwaM%252C_%253BMEh36wVTYNsjKM%252CZ4Rh5YuJSzfH3M%252C_%253B7PO9lwHBkWnAzM%252CmmupIKJqoxEzMM%252C_%253BbY_Jkwp4yixlSM%252CQAWT5ueOK7Qe2M%252C_%253BOzdslAK1MbtlrM%252Ch6bjbQJ3d6AQHM%252C_&usg=AI4_-kTtEjMlqqOyBuTWwaSS5g3Q0OrN-w&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQ_h16BAgzEAE#vhid=OzdslAK1MbtlrM&vssid=mosaic",
+      "source": "https://glacier-design.com/beer-tasting-101/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCMoMov4-_ByU1mMCkjyEoKbNJm_GsSmioszRt3_UChg&s",
+      "original": "https://glacier-design.com/wp-content/uploads/2022/10/Beer-Tasting-101-scaled.jpg",
+      "title": "Beer Tasting 101: Craft beer appreciation - Glacier Design ...",
+      "source_name": "Glacier Design Systems"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/9c7189d88573ce75be6f1012223ff114663d6345b5df918a09d110ca91e61949.webp",
+      "source_logo": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/9c7189d88573ce75be6f1012223ff114608504c636b6f9cf16c5df38c72e94ae4eeb8d9c7c25b7f8.png",
+      "source": "Walmart",
+      "title": "Corona Extra",
+      "rating": 4.5,
+      "reviews": 24000,
+      "price": "$16.46",
+      "extracted_price": 16.46,
+      "immersive_product_page_token": "eyJlaSI6IkdoWUtaLVhTQi1DaDVOb1AxWW1MdUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDM3NDg1MjQ3MDUyMDg5MzE2NCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODQzMzQ0ODUxMTY4NjQ2NzQ2MiIsImltYWdlRG9jaWQiOiI5NjI2NjY3MTU5MjkxMzg3OTgwIiwicmRzIjoiUENfNTEwMDUyOTk3NTk2NTMwMTAyNXxQUk9EX1BDXzUxMDA1Mjk5NzU5NjUzMDEwMjUiLCJxdWVyeSI6ImJlZXIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkdoWUtaLVhTQi1DaDVOb1AxWW1MdUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDM3NDg1MjQ3MDUyMDg5MzE2NCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODQzMzQ0ODUxMTY4NjQ2NzQ2MiIsImltYWdlRG9jaWQiOiI5NjI2NjY3MTU5MjkxMzg3OTgwIiwicmRzIjoiUENfNTEwMDUyOTk3NTk2NTMwMTAyNXxQUk9EX1BDXzUxMDA1Mjk5NzU5NjUzMDEwMjUiLCJxdWVyeSI6ImJlZXIifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/9c7189d88573ce75be6f1012223ff11453fd925f70f2e2e72e1225a4105f0c9f.webp",
+      "source_logo": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/9c7189d88573ce75be6f1012223ff11462d0564b1de8a41b38ce2050d19b653d0b699f80d1659eb1.png",
+      "source": "Bottlecapps",
+      "title": "12 Pack 12 fl oz bottles Beer",
+      "rating": 4.5,
+      "reviews": 7000,
+      "price": "$15.99",
+      "extracted_price": 15.99,
+      "immersive_product_page_token": "eyJlaSI6IkdoWUtaLVhTQi1DaDVOb1AxWW1MdUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQzMzM5Nzc3NDcwMjU0OTUzNDgiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjI0NTIxMDE3NDQ3MzYzMjkyNjciLCJpbWFnZURvY2lkIjoiMTM4MDI3MDIyMTQ4NDk0OTkzMjgiLCJyZHMiOiJQQ18xMzgxMzI2MjU5MjYxNjE5MzY0NXxQUk9EX1BDXzEzODEzMjYyNTkyNjE2MTkzNjQ1IiwicXVlcnkiOiJiZWVyIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkdoWUtaLVhTQi1DaDVOb1AxWW1MdUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQzMzM5Nzc3NDcwMjU0OTUzNDgiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjI0NTIxMDE3NDQ3MzYzMjkyNjciLCJpbWFnZURvY2lkIjoiMTM4MDI3MDIyMTQ4NDk0OTkzMjgiLCJyZHMiOiJQQ18xMzgxMzI2MjU5MjYxNjE5MzY0NXxQUk9EX1BDXzEzODEzMjYyNTkyNjE2MTkzNjQ1IiwicXVlcnkiOiJiZWVyIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/9c7189d88573ce75be6f1012223ff114874726fea7c442cd33e10c2d2370e9ec.webp",
+      "source_logo": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/9c7189d88573ce75be6f1012223ff11459421b420134314589d54d780ab849acb6cd2fb0c462588b.png",
+      "source": "bottlecapps.com",
+      "title": "Busch Light Beer",
+      "rating": 3.8,
+      "reviews": 1400,
+      "price": "$4.99",
+      "extracted_price": 4.99,
+      "immersive_product_page_token": "eyJlaSI6IkdoWUtaLVhTQi1DaDVOb1AxWW1MdUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODEyODI1NjQxNDA1MDI1MTQ4NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTA3MzY3MDg4MTY3ODMwOTA3MiIsImltYWdlRG9jaWQiOiIxNjE4ODcxNjMyMDg0OTg0NTM4MiIsInJkcyI6IlBDXzE1Mzg2NTU1NDQ0MjY4OTU0MzE1fFBST0RfUENfMTUzODY1NTU0NDQyNjg5NTQzMTUiLCJxdWVyeSI6ImJlZXIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkdoWUtaLVhTQi1DaDVOb1AxWW1MdUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODEyODI1NjQxNDA1MDI1MTQ4NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTA3MzY3MDg4MTY3ODMwOTA3MiIsImltYWdlRG9jaWQiOiIxNjE4ODcxNjMyMDg0OTg0NTM4MiIsInJkcyI6IlBDXzE1Mzg2NTU1NDQ0MjY4OTU0MzE1fFBST0RfUENfMTUzODY1NTU0NDQyNjg5NTQzMTUiLCJxdWVyeSI6ImJlZXIifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/9c7189d88573ce75be6f1012223ff11413279ef898b096e0f2177d7a9e84826d.webp",
+      "source_logo": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/9c7189d88573ce75be6f1012223ff114d3da16f4da272d943150f24bd76c55892c889ec1643e0cb8.png",
+      "source": "Total Wine & More",
+      "title": "Light Lager Beer by Bud Light | 12oz | Missouri",
+      "rating": 4.3,
+      "reviews": 6500,
+      "price": "$7.99",
+      "extracted_price": 7.99,
+      "original_price": "Nearby, 11 mi",
+      "extracted_original_price": 11000000,
+      "immersive_product_page_token": "eyJlaSI6IkdoWUtaLVhTQi1DaDVOb1AxWW1MdUFnIiwicHJvZHVjdGlkIjoiNzUzNTk2MTE3MDkyODUwMjMxMyIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzUzNTk2MTE3MDkyODUwMjMxMyIsImltYWdlRG9jaWQiOiIxNjcxMjc4NjQyODczNjg5MzI1OCIsInJkcyI6IlBDXzE0MDMwNjY2OTQwNDE1ODkyNTczfFBST0RfUENfMTQwMzA2NjY5NDA0MTU4OTI1NzMiLCJxdWVyeSI6ImJlZXIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkdoWUtaLVhTQi1DaDVOb1AxWW1MdUFnIiwicHJvZHVjdGlkIjoiNzUzNTk2MTE3MDkyODUwMjMxMyIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzUzNTk2MTE3MDkyODUwMjMxMyIsImltYWdlRG9jaWQiOiIxNjcxMjc4NjQyODczNjg5MzI1OCIsInJkcyI6IlBDXzE0MDMwNjY2OTQwNDE1ODkyNTczfFBST0RfUENfMTQwMzA2NjY5NDA0MTU4OTI1NzMiLCJxdWVyeSI6ImJlZXIifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/9c7189d88573ce75be6f1012223ff114f48479b2893ddd27863062ddcda92b73.webp",
+      "source_logo": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/9c7189d88573ce75be6f1012223ff11448555d488a4143263db28b897db7d751a859914065866bf4.png",
+      "source": "Palmetto Liquors",
+      "title": "BUD LIGHT",
+      "rating": 4.3,
+      "reviews": 6500,
+      "price": "$1.25",
+      "extracted_price": 1.25,
+      "delivery": "Free by 10/17",
+      "immersive_product_page_token": "eyJlaSI6IkdoWUtaLVhTQi1DaDVOb1AxWW1MdUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTUyOTE4MzA2OTMzODQyNTYzNyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTEyODg4NTg1ODcwNjQwMDA3NzUiLCJpbWFnZURvY2lkIjoiNTIzNjM0NTE1NTkwMTEyOTY4NyIsInJkcyI6IlBDXzE0MDMwNjY2OTQwNDE1ODkyNTczfFBST0RfUENfMTQwMzA2NjY5NDA0MTU4OTI1NzMiLCJxdWVyeSI6ImJlZXIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkdoWUtaLVhTQi1DaDVOb1AxWW1MdUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTUyOTE4MzA2OTMzODQyNTYzNyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTEyODg4NTg1ODcwNjQwMDA3NzUiLCJpbWFnZURvY2lkIjoiNTIzNjM0NTE1NTkwMTEyOTY4NyIsInJkcyI6IlBDXzE0MDMwNjY2OTQwNDE1ODkyNTczfFBST0RfUENfMTQwMzA2NjY5NDA0MTU4OTI1NzMiLCJxdWVyeSI6ImJlZXIifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/9c7189d88573ce75be6f1012223ff11488129d3abcdca15e39b48c4a4c581db2.webp",
+      "source_logo": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/9c7189d88573ce75be6f1012223ff1143b3400fc61afff44ba64b63d62aba48da6ac33960ad983fc.png",
+      "source": "Instacart",
+      "title": "Texas Beer Company Variety Pack Beer 12 oz Cans 12 PK",
+      "rating": 3.0,
+      "reviews": 1,
+      "price": "$22.35",
+      "extracted_price": 22.35,
+      "immersive_product_page_token": "eyJlaSI6IkdoWUtaLVhTQi1DaDVOb1AxWW1MdUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTY0MjU1Mzc2NTMwOTQ2NjciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwOTgyMzQ4MDE4OTUzMDM1NzM1IiwiaW1hZ2VEb2NpZCI6IjExNjk2NjY5NzEyNTUzOTA5Njk3IiwicmRzIjoiUENfNjEzMDk3OTQ4ODQ0Nzk2ODY1OXxQUk9EX1BDXzYxMzA5Nzk0ODg0NDc5Njg2NTkiLCJxdWVyeSI6ImJlZXIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkdoWUtaLVhTQi1DaDVOb1AxWW1MdUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTY0MjU1Mzc2NTMwOTQ2NjciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwOTgyMzQ4MDE4OTUzMDM1NzM1IiwiaW1hZ2VEb2NpZCI6IjExNjk2NjY5NzEyNTUzOTA5Njk3IiwicmRzIjoiUENfNjEzMDk3OTQ4ODQ0Nzk2ODY1OXxQUk9EX1BDXzYxMzA5Nzk0ODg0NDc5Njg2NTkiLCJxdWVyeSI6ImJlZXIifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/9c7189d88573ce75be6f1012223ff114c8b2efdccc402c5cbdb898082ba03570.webp",
+      "source_logo": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/9c7189d88573ce75be6f1012223ff114ddbd09fe6fcbcde2e58095bda93ed9b702f5813933e60c2a.png",
+      "source": "Randolph Liquors",
+      "title": "Heineken 12oz",
+      "rating": 4.2,
+      "reviews": 9200,
+      "price": "$3.99",
+      "extracted_price": 3.99,
+      "immersive_product_page_token": "eyJlaSI6IkdoWUtaLVhTQi1DaDVOb1AxWW1MdUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTExOTU5MzUwMzQ0MDc0ODY0NDYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0NDM1MTA0MDY1NDg1NzY0MjYxIiwiaW1hZ2VEb2NpZCI6IjEwMzE3NDgyODY1ODQxMTk3MTYiLCJyZHMiOiJQQ18xMTc2MzgxOTkxNTQ0MzUyMjcyOXxQUk9EX1BDXzExNzYzODE5OTE1NDQzNTIyNzI5IiwicXVlcnkiOiJiZWVyIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkdoWUtaLVhTQi1DaDVOb1AxWW1MdUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTExOTU5MzUwMzQ0MDc0ODY0NDYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0NDM1MTA0MDY1NDg1NzY0MjYxIiwiaW1hZ2VEb2NpZCI6IjEwMzE3NDgyODY1ODQxMTk3MTYiLCJyZHMiOiJQQ18xMTc2MzgxOTkxNTQ0MzUyMjcyOXxQUk9EX1BDXzExNzYzODE5OTE1NDQzNTIyNzI5IiwicXVlcnkiOiJiZWVyIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/9c7189d88573ce75be6f1012223ff1141d184afda0cc210a5509895344fc026d.webp",
+      "source_logo": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/9c7189d88573ce75be6f1012223ff114ff346884ac88dd6ef9b6087754aa9c95ff93d9398be38d78.png",
+      "source": "Frederick Wine House",
+      "title": "Budweiser Beer",
+      "rating": 4.2,
+      "reviews": 8900,
+      "price": "$10.99",
+      "extracted_price": 10.99,
+      "delivery": "Free by 10/17",
+      "immersive_product_page_token": "eyJlaSI6IkdoWUtaLVhTQi1DaDVOb1AxWW1MdUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE3Njk1OTkzMDU5NTU4ODE3MTYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzNDEwODQ5NDEwNDEzODkwMjE4IiwiaW1hZ2VEb2NpZCI6IjM2NTAzNjU4NjA3OTMwNTA5NjEiLCJyZHMiOiJQQ18xMzIxMjY5Mjk2MTM3NDkwODI4MXxQUk9EX1BDXzEzMjEyNjkyOTYxMzc0OTA4MjgxIiwicXVlcnkiOiJiZWVyIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkdoWUtaLVhTQi1DaDVOb1AxWW1MdUFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE3Njk1OTkzMDU5NTU4ODE3MTYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzNDEwODQ5NDEwNDEzODkwMjE4IiwiaW1hZ2VEb2NpZCI6IjM2NTAzNjU4NjA3OTMwNTA5NjEiLCJyZHMiOiJQQ18xMzIxMjY5Mjk2MTM3NDkwODI4MXxQUk9EX1BDXzEzMjEyNjkyOTYxMzc0OTA4MjgxIiwicXVlcnkiOiJiZWVyIn0%3D"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is 1 beer a day healthy?",
+      "snippet": "Several reviews have suggested that consuming one to two beers a day may help lower your risk of heart disease. In fact, beer may be as effective at improving general heart health as wine at comparable alcohol levels.",
+      "title": "Beer: Is It Good for You? - WebMD",
+      "date": "Nov 17, 2022",
+      "link": "https://www.webmd.com/diet/beer-good-for-you#:~:text=Several%20reviews%20have%20suggested%20that,wine%20at%20comparable%20alcohol%20levels.",
+      "displayed_link": "https://www.webmd.com \u203a diet \u203a beer-good-for-you",
+      "source_logo": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/132ec4f33eea6094e9417173b19fc1a1285f8bcc1c0027cc5e25ea081e798337.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2NYVmFhUzB3T0RoS05XTjFTQzFuZFV0Q1ZrazFRa0UxU0UxMVFtNWlTVUkzZWxkZlUwMWxRVTlTWWpGWVJGRTNOa3BtVWxKclgydEJkazVIVUd0U1Rsa3RWR1pGRWhkSGFGbExXaTFZVTBJdFEyZzFUbTlRTVZsdFRIVkJaeG9pUVVaWWNrVmpjWE5CUkdSamVFbEhjRkJuVmtoNVIyaENZMDVPV1ZCd1FVUndVUSIsImZjdiI6IjMiLCJlaSI6IkdoWUtaLVhTQi1DaDVOb1AxWW1MdUFnIiwicWMiOiJDZ1JpWldWeUVBQjk1NW9sUHciLCJxdWVzdGlvbiI6IklzIDEgYmVlciBhIGRheSBoZWFsdGh5PyIsImxrIjoiR2hkcGN5QXhJR0psWlhJZ1lTQmtZWGtnYUdWaGJIUm9lUSIsImJzIjoiYy1PeTRKTHdMRll3VkVoS1RTMVNTRlJJU2F4VXlFaE56Q25KcUxTWE9KdG5KQ2tsbm9sZG1pdUVTeTA4STdGRW9TQzFLRGsxcnlReFBWVWhQMDBoTVNjNVB5TV9Sd0dvS3pNUHJNMWU0cEtKa2JxVWFqa3hpcm1BN2duUHFBU0pnSzFNVHN6SlNVMkJtdk15RWVTZWN1elNYQjVjQ21EM2dDV0FDa295VWhWeTg0dExZTFprSnR0THZOTTBVcFNTTDhldlRJQVJBQSIsImlkIjoiZmNfR2hZS1otWFNCLUNoNU5vUDFZbUx1QWdfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2NYVmFhUzB3T0RoS05XTjFTQzFuZFV0Q1ZrazFRa0UxU0UxMVFtNWlTVUkzZWxkZlUwMWxRVTlTWWpGWVJGRTNOa3BtVWxKclgydEJkazVIVUd0U1Rsa3RWR1pGRWhkSGFGbExXaTFZVTBJdFEyZzFUbTlRTVZsdFRIVkJaeG9pUVVaWWNrVmpjWE5CUkdSamVFbEhjRkJuVmtoNVIyaENZMDVPV1ZCd1FVUndVUSIsImZjdiI6IjMiLCJlaSI6IkdoWUtaLVhTQi1DaDVOb1AxWW1MdUFnIiwicWMiOiJDZ1JpWldWeUVBQjk1NW9sUHciLCJxdWVzdGlvbiI6IklzIDEgYmVlciBhIGRheSBoZWFsdGh5PyIsImxrIjoiR2hkcGN5QXhJR0psWlhJZ1lTQmtZWGtnYUdWaGJIUm9lUSIsImJzIjoiYy1PeTRKTHdMRll3VkVoS1RTMVNTRlJJU2F4VXlFaE56Q25KcUxTWE9KdG5KQ2tsbm9sZG1pdUVTeTA4STdGRW9TQzFLRGsxcnlReFBWVWhQMDBoTVNjNVB5TV9Sd0dvS3pNUHJNMWU0cEtKa2JxVWFqa3hpcm1BN2duUHFBU0pnSzFNVHN6SlNVMkJtdk15RWVTZWN1elNYQjVjQ21EM2dDV0FDa295VWhWeTg0dExZTFprSnR0THZOTTBVcFNTTDhldlRJQVJBQSIsImlkIjoiZmNfR2hZS1otWFNCLUNoNU5vUDFZbUx1QWdfNCJ9"
+    },
+    {
+      "question": "What percentage of alcohol is in beer?",
+      "snippet": "Beer Alcohol Content In comparison, a pint of beer at a brewery is generally 15 ounces, which is larger than the standard serving size. Beer contains between 4-7% ABV, with the average being 5%. Therefore, if you're drinking a 12-ounce beer at 5% ABV, that equals 0.6 ounces of alcohol per serving.",
+      "title": "Alcohol by Volume (ABV): Beer, Wine, & Liquor",
+      "date": "Jul 5, 2022",
+      "link": "https://alcohol.org/statistics-information/abv/#:~:text=Beer%20Alcohol%20Content&text=In%20comparison%2C%20a%20pint%20of,than%20the%20standard%20serving%20size.&text=Beer%20contains%20between%204%2D7,with%20the%20average%20being%205%25.&text=Therefore%2C%20if%20you're%20drinking,ounces%20of%20alcohol%20per%20serving.",
+      "displayed_link": "https://alcohol.org \u203a statistics-information \u203a abv",
+      "source_logo": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/132ec4f33eea6094e9417173b19fc1a17f0a995897d71054f12be6e3a0ba82ef.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2NYVmFhUzB3T0RoS05XTjFTQzFuZFV0Q1ZrazFRa0UxU0UxMVFtNWlTVUkzZWxkZlUwMWxRVTlTWWpGWVJGRTNOa3BtVWxKclgydEJkazVIVUd0U1Rsa3RWR1pGRWhkSGFGbExXaTFZVTBJdFEyZzFUbTlRTVZsdFRIVkJaeG9pUVVaWWNrVmpjWE5CUkdSamVFbEhjRkJuVmtoNVIyaENZMDVPV1ZCd1FVUndVUSIsImZjdiI6IjMiLCJlaSI6IkdoWUtaLVhTQi1DaDVOb1AxWW1MdUFnIiwicWMiOiJDZ1JpWldWeUVBQjk1NW9sUHciLCJxdWVzdGlvbiI6IldoYXQgcGVyY2VudGFnZSBvZiBhbGNvaG9sIGlzIGluIGJlZXI/IiwibGsiOiJHaVYzYUdGMElIQmxjbU5sYm5SaFoyVWdiMllnWVd4amIyaHZiQ0JwY3lCcGJpQmlaV1Z5IiwiYnMiOiJjLU95NEpMd0xGWXdWRWhLVFMxU1NGUklTYXhVeUVoTnpDbkpxTFNYT0p0bkpDa2xub2xkbWl1RVN5MDhJN0ZFb1NDMUtEazFyeVF4UFZVaFAwMGhNU2M1UHlNX1J3R29Lek1Qck0xZTRwS0prYnFVYWpreGlybUE3Z25QcUFTSmdLMU1Uc3pKU1UyQm12TXlFZVNlY3V6U1hCNWNDbUQzZ0NXQUNrb3lVaFZ5ODR0TFlMWmtKdHRMdk5NMFVwU1NMOGV2VElBUkFBIiwiaWQiOiJmY19HaFlLWi1YU0ItQ2g1Tm9QMVltTHVBZ180In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2NYVmFhUzB3T0RoS05XTjFTQzFuZFV0Q1ZrazFRa0UxU0UxMVFtNWlTVUkzZWxkZlUwMWxRVTlTWWpGWVJGRTNOa3BtVWxKclgydEJkazVIVUd0U1Rsa3RWR1pGRWhkSGFGbExXaTFZVTBJdFEyZzFUbTlRTVZsdFRIVkJaeG9pUVVaWWNrVmpjWE5CUkdSamVFbEhjRkJuVmtoNVIyaENZMDVPV1ZCd1FVUndVUSIsImZjdiI6IjMiLCJlaSI6IkdoWUtaLVhTQi1DaDVOb1AxWW1MdUFnIiwicWMiOiJDZ1JpWldWeUVBQjk1NW9sUHciLCJxdWVzdGlvbiI6IldoYXQgcGVyY2VudGFnZSBvZiBhbGNvaG9sIGlzIGluIGJlZXI%2FIiwibGsiOiJHaVYzYUdGMElIQmxjbU5sYm5SaFoyVWdiMllnWVd4amIyaHZiQ0JwY3lCcGJpQmlaV1Z5IiwiYnMiOiJjLU95NEpMd0xGWXdWRWhLVFMxU1NGUklTYXhVeUVoTnpDbkpxTFNYT0p0bkpDa2xub2xkbWl1RVN5MDhJN0ZFb1NDMUtEazFyeVF4UFZVaFAwMGhNU2M1UHlNX1J3R29Lek1Qck0xZTRwS0prYnFVYWpreGlybUE3Z25QcUFTSmdLMU1Uc3pKU1UyQm12TXlFZVNlY3V6U1hCNWNDbUQzZ0NXQUNrb3lVaFZ5ODR0TFlMWmtKdHRMdk5NMFVwU1NMOGV2VElBUkFBIiwiaWQiOiJmY19HaFlLWi1YU0ItQ2g1Tm9QMVltTHVBZ180In0%3D"
+    },
+    {
+      "question": "Why is beer called beer?",
+      "snippet": "In English, the term for beer is derived from the Latin word bibere, meaning \"to drink.\" Examples of words in other languages with the same origin for \"beer\" include beoir in Gaeilge and bier in German.",
+      "title": "Origin of Beer | Overview, History & Facts - Study.com",
+      "date": "Jul 25, 2023",
+      "link": "https://study.com/academy/lesson/origin-beer-overview-history-facts.html#:~:text=In%20English%2C%20the%20term%20for,Gaeilge%20and%20bier%20in%20German.",
+      "displayed_link": "https://study.com \u203a academy \u203a lesson \u203a origin-beer-over...",
+      "source_logo": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/132ec4f33eea6094e9417173b19fc1a1d506356c2db0b76610bf9c8cbfe1048a.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2NYVmFhUzB3T0RoS05XTjFTQzFuZFV0Q1ZrazFRa0UxU0UxMVFtNWlTVUkzZWxkZlUwMWxRVTlTWWpGWVJGRTNOa3BtVWxKclgydEJkazVIVUd0U1Rsa3RWR1pGRWhkSGFGbExXaTFZVTBJdFEyZzFUbTlRTVZsdFRIVkJaeG9pUVVaWWNrVmpjWE5CUkdSamVFbEhjRkJuVmtoNVIyaENZMDVPV1ZCd1FVUndVUSIsImZjdiI6IjMiLCJlaSI6IkdoWUtaLVhTQi1DaDVOb1AxWW1MdUFnIiwicWMiOiJDZ1JpWldWeUVBQjk1NW9sUHciLCJxdWVzdGlvbiI6IldoeSBpcyBiZWVyIGNhbGxlZCBiZWVyPyIsImxrIjoiYzVNU0w4LW9WTWdzVmtoS1RTMVNTRTdNeVVsTkFiTUIiLCJicyI6ImMtT3k0Skx3TEZZd1ZFaEtUUzFTU0ZSSVNheFV5RWhOekNuSnFMU1hPSnRuSkNrbG5vbGRtaXVFU3kwOEk3RkVvU0MxS0RrMXJ5UXhQVlVoUDAwaE1TYzVQeU1fUndHb0t6TVByTTFlNHBLSmticVVhamt4aXJtQTdnblBxQVNKZ0sxTVRzekpTVTJCbXZNeUVlU2VjdXpTWEI1Y0NtRDNnQ1dBQ2tveVVoVnk4NHRMWUxaa0p0dEx2Tk0wVXBTU0w4ZXZUSUFSQUEiLCJpZCI6ImZjX0doWUtaLVhTQi1DaDVOb1AxWW1MdUFnXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2NYVmFhUzB3T0RoS05XTjFTQzFuZFV0Q1ZrazFRa0UxU0UxMVFtNWlTVUkzZWxkZlUwMWxRVTlTWWpGWVJGRTNOa3BtVWxKclgydEJkazVIVUd0U1Rsa3RWR1pGRWhkSGFGbExXaTFZVTBJdFEyZzFUbTlRTVZsdFRIVkJaeG9pUVVaWWNrVmpjWE5CUkdSamVFbEhjRkJuVmtoNVIyaENZMDVPV1ZCd1FVUndVUSIsImZjdiI6IjMiLCJlaSI6IkdoWUtaLVhTQi1DaDVOb1AxWW1MdUFnIiwicWMiOiJDZ1JpWldWeUVBQjk1NW9sUHciLCJxdWVzdGlvbiI6IldoeSBpcyBiZWVyIGNhbGxlZCBiZWVyPyIsImxrIjoiYzVNU0w4LW9WTWdzVmtoS1RTMVNTRTdNeVVsTkFiTUIiLCJicyI6ImMtT3k0Skx3TEZZd1ZFaEtUUzFTU0ZSSVNheFV5RWhOekNuSnFMU1hPSnRuSkNrbG5vbGRtaXVFU3kwOEk3RkVvU0MxS0RrMXJ5UXhQVlVoUDAwaE1TYzVQeU1fUndHb0t6TVByTTFlNHBLSmticVVhamt4aXJtQTdnblBxQVNKZ0sxTVRzekpTVTJCbXZNeUVlU2VjdXpTWEI1Y0NtRDNnQ1dBQ2tveVVoVnk4NHRMWUxaa0p0dEx2Tk0wVXBTU0w4ZXZUSUFSQUEiLCJpZCI6ImZjX0doWUtaLVhTQi1DaDVOb1AxWW1MdUFnXzQifQ%3D%3D"
+    },
+    {
+      "question": "What beer is the most alcoholic?",
+      "snippet": "Crafted by Brewmeister, a renowned Scottish brewery, Snake Venom is a true testament to the innovative spirit of the craft beer industry. With an astonishing ABV of 67.5%, this beer is unlike anything you've ever tasted.",
+      "title": "Snake Venom",
+      "link": "https://thegrowlerguys.com/most-alcoholic-beer/#:~:text=Crafted%20by%20Brewmeister%2C%20a%20renowned,anything%20you've%20ever%20tasted.",
+      "displayed_link": "https://thegrowlerguys.com \u203a most-alcoholic-beer",
+      "source_logo": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/132ec4f33eea6094e9417173b19fc1a11642847f35ce520857fc1c7a332a246f.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2NYVmFhUzB3T0RoS05XTjFTQzFuZFV0Q1ZrazFRa0UxU0UxMVFtNWlTVUkzZWxkZlUwMWxRVTlTWWpGWVJGRTNOa3BtVWxKclgydEJkazVIVUd0U1Rsa3RWR1pGRWhkSGFGbExXaTFZVTBJdFEyZzFUbTlRTVZsdFRIVkJaeG9pUVVaWWNrVmpjWE5CUkdSamVFbEhjRkJuVmtoNVIyaENZMDVPV1ZCd1FVUndVUSIsImZjdiI6IjMiLCJlaSI6IkdoWUtaLVhTQi1DaDVOb1AxWW1MdUFnIiwicWMiOiJDZ1JpWldWeUVBQjk1NW9sUHciLCJxdWVzdGlvbiI6IldoYXQgYmVlciBpcyB0aGUgbW9zdCBhbGNvaG9saWM/IiwibGsiOiJHaDkzYUdGMElHSmxaWElnYVhNZ2RHaGxJRzF2YzNRZ1lXeGpiMmh2YkdsaiIsImJzIjoiYy1PeTRKTHdMRll3VkVoS1RTMVNTRlJJU2F4VXlFaE56Q25KcUxTWE9KdG5KQ2tsbm9sZG1pdUVTeTA4STdGRW9TQzFLRGsxcnlReFBWVWhQMDBoTVNjNVB5TV9Sd0dvS3pNUHJNMWU0cEtKa2JxVWFqa3hpcm1BN2duUHFBU0pnSzFNVHN6SlNVMkJtdk15RWVTZWN1elNYQjVjQ21EM2dDV0FDa295VWhWeTg0dExZTFprSnR0THZOTTBVcFNTTDhldlRJQVJBQSIsImlkIjoiZmNfR2hZS1otWFNCLUNoNU5vUDFZbUx1QWdfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2NYVmFhUzB3T0RoS05XTjFTQzFuZFV0Q1ZrazFRa0UxU0UxMVFtNWlTVUkzZWxkZlUwMWxRVTlTWWpGWVJGRTNOa3BtVWxKclgydEJkazVIVUd0U1Rsa3RWR1pGRWhkSGFGbExXaTFZVTBJdFEyZzFUbTlRTVZsdFRIVkJaeG9pUVVaWWNrVmpjWE5CUkdSamVFbEhjRkJuVmtoNVIyaENZMDVPV1ZCd1FVUndVUSIsImZjdiI6IjMiLCJlaSI6IkdoWUtaLVhTQi1DaDVOb1AxWW1MdUFnIiwicWMiOiJDZ1JpWldWeUVBQjk1NW9sUHciLCJxdWVzdGlvbiI6IldoYXQgYmVlciBpcyB0aGUgbW9zdCBhbGNvaG9saWM%2FIiwibGsiOiJHaDkzYUdGMElHSmxaWElnYVhNZ2RHaGxJRzF2YzNRZ1lXeGpiMmh2YkdsaiIsImJzIjoiYy1PeTRKTHdMRll3VkVoS1RTMVNTRlJJU2F4VXlFaE56Q25KcUxTWE9KdG5KQ2tsbm9sZG1pdUVTeTA4STdGRW9TQzFLRGsxcnlReFBWVWhQMDBoTVNjNVB5TV9Sd0dvS3pNUHJNMWU0cEtKa2JxVWFqa3hpcm1BN2duUHFBU0pnSzFNVHN6SlNVMkJtdk15RWVTZWN1elNYQjVjQ21EM2dDV0FDa295VWhWeTg0dExZTFprSnR0THZOTTBVcFNTTDhldlRJQVJBQSIsImlkIjoiZmNfR2hZS1otWFNCLUNoNU5vUDFZbUx1QWdfNCJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Beer",
+      "link": "https://en.wikipedia.org/wiki/Beer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Beer&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQFnoECHIQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Beer",
+      "thumbnail": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/1d56136bfc21ebc6f8914ab0d6e4f2b08e376180ae8f7d0b25b4522d517f9907.jpeg",
+      "favicon": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/1d56136bfc21ebc6f8914ab0d6e4f2b07c7cd5d4fa4f9b59ef194e15ebfd2518.png",
+      "snippet": "Beer is an alcoholic beverage produced by the brewing and fermentation of starches from cereal grains\u2014most commonly malted barley, although wheat, ...",
+      "snippet_highlighted_words": [
+        "Beer"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "History",
+            "link": "https://en.wikipedia.org/wiki/History_of_beer"
+          },
+          {
+            "title": "Beer style",
+            "link": "https://en.wikipedia.org/wiki/Beer_style"
+          },
+          {
+            "title": "Beer chemistry",
+            "link": "https://en.wikipedia.org/wiki/Beer_chemistry"
+          },
+          {
+            "title": "Draught beer",
+            "link": "https://en.wikipedia.org/wiki/Draught_beer"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Beer and Seltzers Near Me | Total Wine & More",
+      "link": "https://www.totalwine.com/discover/beer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.totalwine.com/discover/beer&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQFnoECFgQAQ",
+      "displayed_link": "https://www.totalwine.com \u203a Discover",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBqJoNZCQDN9t5A9gNeSA6D3GB9Ha6zeGBgohbARASNv2PrgrMLoLZ&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/1d56136bfc21ebc6f8914ab0d6e4f2b0166d5159129e509597193555c64fe4c7.png",
+      "snippet": "Explore your favorite beers and seltzers at Total Wine & More. Explore more than 2500 beers including the best selection of craft beers, IPAs, hard seltzers ...",
+      "snippet_highlighted_words": [
+        "beers",
+        "beers",
+        "beers"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "store_rating": 4.7,
+            "price": 4,
+            "currency": "$ to $"
+          },
+          "extensions": [
+            "4.7store rating (490)",
+            "\u200e$4 to $26"
+          ]
+        }
+      },
+      "source": "Total Wine"
+    },
+    {
+      "position": 3,
+      "title": "Beer of the Month Club | Microbrewed Craft Beer Clubs Since ...",
+      "link": "https://www.beermonthclub.com/?srsltid=AfmBOoqjjndupYCa2DT8UK4qe-aQBkSTC9BxaEbrTKFsmIgkO59Y0c-x",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.beermonthclub.com/%3Fsrsltid%3DAfmBOoqjjndupYCa2DT8UK4qe-aQBkSTC9BxaEbrTKFsmIgkO59Y0c-x&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQFnoECFMQAQ",
+      "displayed_link": "https://www.beermonthclub.com",
+      "favicon": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/1d56136bfc21ebc6f8914ab0d6e4f2b019779b03102ab913bcc3649e0f4a03d8.png",
+      "snippet": "Award-Winning Craft Beers \u00b7 Starting at just $37.95 per month, plus S&H \u00b7 Hand-crafted beers shipped each month since 1994 \u00b7 Beer club selections curated from ...",
+      "snippet_highlighted_words": [
+        "Beers",
+        "beers",
+        "Beer"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 16,
+            "currency": "$ \u2013 day delivery",
+            "unknown": 90
+          },
+          "extensions": [
+            "$16 8\u201310 day delivery",
+            "\u200e90",
+            "day returns"
+          ]
+        }
+      },
+      "source": "The Microbrewed Beer of the Month Club"
+    },
+    {
+      "position": 4,
+      "title": "r/beer",
+      "link": "https://www.reddit.com/r/beer/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/beer/&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQFnoFCIABEAE",
+      "displayed_link": "462.5K+ followers",
+      "favicon": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/1d56136bfc21ebc6f8914ab0d6e4f2b0b3c1e0139405b786d94b80027a40da3b.png",
+      "snippet": "r/beer: A subreddit to discuss your favorite beers and breweries, and share beer related articles. Quality content encouraged. /r/beer discord\u2026",
+      "snippet_highlighted_words": [
+        "beer",
+        "beers",
+        "beer",
+        "beer"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "The Highest-Rated Beer in Every State (2024) [MAP] - Reddit",
+            "link": "https://www.reddit.com/r/beer/comments/1g1i5dl/the_highestrated_beer_in_every_state_2024_map/",
+            "date": "Oct 11, 2024"
+          },
+          {
+            "title": "The Truth About Low-Carb Beer: It's Not as Healthy as You ...",
+            "link": "https://www.reddit.com/r/beer/comments/1g10kds/the_truth_about_lowcarb_beer_its_not_as_healthy/",
+            "date": "Oct 11, 2024"
+          },
+          {
+            "title": "What is an American \"Oktoberfest\" style beer? - Reddit",
+            "link": "https://www.reddit.com/r/beer/comments/1fz81ok/what_is_an_american_oktoberfest_style_beer/",
+            "date": "Oct 8, 2024"
+          },
+          {
+            "title": "Favorite beers that are dead? - Reddit",
+            "link": "https://www.reddit.com/r/beer/comments/1g1qm56/favorite_beers_that_are_dead/",
+            "date": "35 minutes ago"
+          }
+        ]
+      },
+      "source": "Reddit \u00b7 r/beer"
+    },
+    {
+      "position": 5,
+      "title": "Beer - Walmart.com",
+      "link": "https://www.walmart.com/cp/beer/5110387",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.walmart.com/cp/beer/5110387&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQFnoECFYQAQ",
+      "displayed_link": "https://www.walmart.com \u203a beer",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdvvdCIOlROnoHK-3-PUwpSlm3Ss6VK_voJSAv3pFIC4GwZJaBOaei&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/1d56136bfc21ebc6f8914ab0d6e4f2b008d002e80f6da132e6f62d1fe44c26fa.png",
+      "snippet": "Shop for Beer at Walmart.com. Buy Beer, Best selling seltzers, Game time brews, Ambers, bocks and dark lagers, and Imports. Save money. Live better.",
+      "snippet_highlighted_words": [
+        "Beer",
+        "Beer"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 16,
+            "currency": "$ to $"
+          },
+          "extensions": [
+            "$16 to $30"
+          ]
+        }
+      },
+      "source": "Walmart"
+    },
+    {
+      "position": 6,
+      "title": "Beer Making Kits | Refills | Homebrewing Recipes",
+      "link": "https://www.mrbeer.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mrbeer.com/&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQFnoECFQQAQ",
+      "displayed_link": "https://www.mrbeer.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP6d1jel_nWPBs8Xg96aq7iODQr7j1TXqGSIERHvoz_o4z2s-MzlJf&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/1d56136bfc21ebc6f8914ab0d6e4f2b0e414d1f71698a8145d1986f0af531573.png",
+      "snippet": "The best way to get started homebrewing. From beginner beer making kits and refills to advanced homebrewing recipes. We have all the brewing supplies you'll ...",
+      "snippet_highlighted_words": [
+        "beer"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "store_rating": 4.5,
+            "price": 75,
+            "currency": "Free delivery over $"
+          },
+          "extensions": [
+            "4.5store rating (655)",
+            "\u200e$22 to $70",
+            "\u200eFree delivery over $75"
+          ]
+        }
+      },
+      "source": "Mr. Beer"
+    },
+    {
+      "position": 7,
+      "title": "Beer | Definition, History, Types, Brewing Process, & Facts",
+      "link": "https://www.britannica.com/topic/beer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.britannica.com/topic/beer&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQFnoECFkQAQ",
+      "displayed_link": "https://www.britannica.com \u203a ... \u203a Food",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5OMX9KXXp0OsNgktQdPkkQoiur7voJH8-MoXMHI5RJe8qw2sKLPPm&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/1d56136bfc21ebc6f8914ab0d6e4f2b05bb969c36caa2addd739a981a80f5fdf.png",
+      "date": "5 days ago",
+      "snippet": "Beer is an alcoholic beverage produced by extracting raw materials with water, boiling (usually with hops), and fermenting.",
+      "snippet_highlighted_words": [
+        "Beer"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Types of beer",
+            "link": "https://www.britannica.com/topic/beer/Types-of-beer"
+          },
+          {
+            "title": "Yeast",
+            "link": "https://www.britannica.com/topic/beer/Yeast"
+          },
+          {
+            "title": "Germination",
+            "link": "https://www.britannica.com/topic/beer/Germination"
+          },
+          {
+            "title": "Mixing the mash",
+            "link": "https://www.britannica.com/topic/beer/Mixing-the-mash"
+          }
+        ]
+      },
+      "source": "Britannica"
+    },
+    {
+      "position": 8,
+      "title": "BeerAdvocate",
+      "link": "https://www.beeradvocate.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.beeradvocate.com/&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQFnoECHgQAQ",
+      "displayed_link": "https://www.beeradvocate.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrmhZB0XKt9PtsyCxrC3AO4StC82wewDj5R3ZJ8q0jsVrdROMeSeoN&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/1d56136bfc21ebc6f8914ab0d6e4f2b01249cfe6601e9944d049eb8daf49c1bc.png",
+      "snippet": "Founded in 1996, BeerAdvocate is the go-to beer resource for millions of consumers each month, the benchmark for beer reviews, and the voice of the beer geek.",
+      "snippet_highlighted_words": [
+        "beer",
+        "beer",
+        "beer"
+      ],
+      "source": "BeerAdvocate"
+    },
+    {
+      "position": 9,
+      "title": "Beer Institute: Home",
+      "link": "https://www.beerinstitute.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.beerinstitute.org/&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQFnoECFcQAQ",
+      "displayed_link": "https://www.beerinstitute.org",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC53XeN_yzS-0tM1AHyYUja1ze1w2tbF6f-1CZGFILrL0J62F8OBL-&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/1d56136bfc21ebc6f8914ab0d6e4f2b09d775b1fc8739c5706baf76bcef1a933.png",
+      "snippet": "Representing the $409 billion beer industry to support 7,752 brewers and nearly 2.4 million American jobs. \u00b7 Welcome to the Beer Institute \u00b7 Get the Latest ...",
+      "snippet_highlighted_words": [
+        "beer",
+        "Beer"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Staff",
+            "link": "https://www.beerinstitute.org/about-us/staff/"
+          },
+          {
+            "title": "Beer Culture",
+            "link": "https://www.beerinstitute.org/beer-culture/"
+          },
+          {
+            "title": "Faces of Beer",
+            "link": "https://www.beerinstitute.org/beer-culture/faces/"
+          },
+          {
+            "title": "Beer Tips",
+            "link": "https://www.beerinstitute.org/beer-culture/tips/"
+          }
+        ]
+      },
+      "source": "Beer Institute"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&tbs=lf:1,lf_ui:9&tbm=lcl&q=beer&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQjGp6BAgwEAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beer&tbs=lf%3A1%2Clf_ui%3A9&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Beer brands",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Beer+brands&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQ1QJ6BQiPARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Beer+brands"
+    },
+    {
+      "block_position": 1,
+      "query": "Beer near me",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Beer+near+me&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQ1QJ6BQiMARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Beer+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Beer nearby",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Beer+nearby&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQ1QJ6BQiKARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Beer+nearby"
+    },
+    {
+      "block_position": 1,
+      "query": "Beer price",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Beer+price&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQ1QJ6BAh9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Beer+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Beer alcohol",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Beer+alcohol&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQ1QJ6BQiGARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Beer+alcohol"
+    },
+    {
+      "block_position": 1,
+      "query": "Beer news",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Beer+news&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQ1QJ6BAh8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Beer+news"
+    },
+    {
+      "block_position": 1,
+      "query": "Types of beer",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Types+of+beer&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQ1QJ6BQiCARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Types+of+beer"
+    },
+    {
+      "block_position": 1,
+      "query": "Beer Can",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Beer+Can&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQ1QJ6BAh_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Beer+Can"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Brand",
+      "link": "https://www.google.com/search?hl=en&q=brand+beer&gl=us&shoprs=GBIqBGJlZXIyCQgSEgVCcmFuZGAB&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQip4GKAF6BAgWEGc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brand+beer"
+    },
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?hl=en&q=beer+nearby&gl=us&shoprs=GAMqBGJlZXIyDAgDEgZOZWFyYnkYAljg0R9gAQ&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQip4GKAJ6BAgWEGg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beer+nearby"
+    },
+    {
+      "query": "Get it fast",
+      "link": "https://www.google.com/search?hl=en&q=beer&gl=us&shoprs=Eg2aAQoKCBADOAFAAkgBGBQqBGJlZXIyJAgUEgtHZXQgaXQgZmFzdCINmgEKCggQAzgBQAJIASoEEAEYAWAB&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQip4GKAN6BAgWEGk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beer"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?hl=en&q=beer+sale&gl=us&shoprs=EgRKAhgBGAYqBGJlZXIyEwgGEgdPbiBzYWxlGAIiBEoCGAFY4NEfYAE&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQip4GKAR6BAgWEGo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beer+sale"
+    },
+    {
+      "query": "Store",
+      "link": "https://www.google.com/search?hl=en&q=store+beer&gl=us&shoprs=GBIqBGJlZXIyCQgSEgVTdG9yZWAB&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQip4GKAV6BAgWEGs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=store+beer"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?hl=en&q=buy+beer&gl=us&shoprs=GBIqBGJlZXIyBwgSEgNCdXlgAQ&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQip4GKAZ6BAgWEGw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=buy+beer"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?hl=en&q=price+beer&gl=us&shoprs=GBIqBGJlZXIyCQgSEgVQcmljZWAB&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQip4GKAd6BAgWEG0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=price+beer"
+    },
+    {
+      "query": "Under $5",
+      "link": "https://www.google.com/search?hl=en&q=beer+under+$5&gl=us&shoprs=Eg0SCxEAAAAA0BJTQRgBGAUqBGJlZXIyIQgFEghVbmRlciAkNRgCIg0SCxEAAAAA0BJTQRgBKgIYAVjg0R9gAQ&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQip4GKAh6BAgWEG4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beer+under+%245"
+    },
+    {
+      "query": "Non-alcoholic",
+      "link": "https://www.google.com/search?hl=en&q=non-alcoholic+beer&gl=us&shoprs=GAEqBGJlZXIyHwgBEg1Ob24tYWxjb2hvbGljOgwIgb2HARCCvYcBMANY4NEfYAE&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQip4GKAl6BAgWEG8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=non-alcoholic+beer"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?hl=en&q=beer+for+sale&gl=us&shoprs=GBIqBGJlZXIyDAgSEghGb3IgU2FsZWAB&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQip4GKAp6BAgWEHA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beer+for+sale"
+    },
+    {
+      "query": "Ale",
+      "link": "https://www.google.com/search?hl=en&q=ale+beer&gl=us&shoprs=GAEqBGJlZXIyEwgBEgNBbGU6Cgjx3zgQ8t84MAJY4NEfYAE&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQip4GKAt6BAgWEHE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ale+beer"
+    },
+    {
+      "query": "IPA",
+      "link": "https://www.google.com/search?hl=en&q=ipa+beer&gl=us&shoprs=GAEqBGJlZXIyEwgBEgNJUEE6CgjH_DgQzfw4MABY4NEfYAE&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQip4GKAx6BAgWEHI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ipa+beer"
+    },
+    {
+      "query": "Corona",
+      "link": "https://www.google.com/search?hl=en&q=corona+beer&gl=us&shoprs=GAEqBGJlZXIyFggBEgZDb3JvbmE6CgiD8zwQ5qBDMAFY4NEfYAE&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQip4GKA16BAgWEHM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=corona+beer"
+    },
+    {
+      "query": "6 Pack",
+      "link": "https://www.google.com/search?hl=en&q=6+pack+beer&gl=us&shoprs=GAEqBGJlZXIyFggBEgY2IFBhY2s6CgiZ8zgQnPM4MABY4NEfYAE&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQip4GKA56BAgWEHQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=6+pack+beer"
+    },
+    {
+      "query": "Online",
+      "link": "https://www.google.com/search?hl=en&q=online+beer&gl=us&shoprs=GBIqBGJlZXIyCggSEgZPbmxpbmVgAQ&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQip4GKA96BAgWEHU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=online+beer"
+    },
+    {
+      "query": "12 Pack",
+      "link": "https://www.google.com/search?hl=en&q=12+pack+beer&gl=us&shoprs=GAEqBGJlZXIyFwgBEgcxMiBQYWNrOgoImfM4EJ7zODAAWODRH2AB&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQip4GKBB6BAgWEHY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=12+pack+beer"
+    },
+    {
+      "query": "Lager",
+      "link": "https://www.google.com/search?hl=en&q=lager+beer&gl=us&shoprs=GAEqBGJlZXIyFQgBEgVMYWdlcjoKCPHfOBDz3zgwAljg0R9gAQ&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQip4GKBF6BAgWEHc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lager+beer"
+    },
+    {
+      "query": "Usa",
+      "link": "https://www.google.com/search?hl=en&q=usa+beer&gl=us&shoprs=GBIqBGJlZXIyBwgSEgNVc2FgAQ&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQip4GKBJ6BAgWEHg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=usa+beer"
+    },
+    {
+      "query": "Pilsner",
+      "link": "https://www.google.com/search?hl=en&q=pilsner+beer&gl=us&shoprs=GAEqBGJlZXIyFwgBEgdQaWxzbmVyOgoIx_w4EM78ODAAWODRH2AB&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQip4GKBN6BAgWEHk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pilsner+beer"
+    },
+    {
+      "query": "United States",
+      "link": "https://www.google.com/search?hl=en&q=united+states+beer&gl=us&shoprs=GAEqBGJlZXIyHwgBEg1Vbml0ZWQgU3RhdGVzOgwImeexAhCa57ECMABY4NEfYAE&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQip4GKBR6BAgWEHo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=united+states+beer"
+    },
+    {
+      "query": "Modelo",
+      "link": "https://www.google.com/search?hl=en&q=modelo+beer&gl=us&shoprs=GAEqBGJlZXIyFggBEgZNb2RlbG86CgiD8zwQ06RDMAFY4NEfYAE&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQip4GKBV6BAgWEHs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=modelo+beer"
+    },
+    {
+      "query": "American Lager",
+      "link": "https://www.google.com/search?hl=en&q=american+lager+beer&gl=us&shoprs=GAEqBGJlZXIyHggBEg5BbWVyaWNhbiBMYWdlcjoKCMf8OBDI_DgwAFjg0R9gAQ&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQip4GKBZ6BAgWEHw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=american+lager+beer"
+    },
+    {
+      "query": "Over 143 kcal per serving",
+      "link": "https://www.google.com/search?hl=en&q=over+143+kcal+per+serving+beer&gl=us&shoprs=EhIqEAiX57ECEgkJAAAAAFBCIkEYASoEYmVlcjJACAESGU92ZXIgMTQzIGtjYWwgcGVyIHNlcnZpbmciEioQCJfnsQISCQkAAAAAUEIiQSoCGAE6CQiX57ECEAAwBljg0R9gAQ&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQip4GKBd6BAgWEH0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=over+143+kcal+per+serving+beer"
+    },
+    {
+      "query": "Wheat",
+      "link": "https://www.google.com/search?hl=en&q=wheat+beer&gl=us&shoprs=GAEqBGJlZXIyFQgBEgVXaGVhdDoKCMf8OBDR_DgwAFjg0R9gAQ&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQip4GKBh6BAgWEH4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wheat+beer"
+    },
+    {
+      "query": "Budweiser",
+      "link": "https://www.google.com/search?hl=en&q=budweiser+beer&gl=us&shoprs=GAEqBGJlZXIyGQgBEglCdWR3ZWlzZXI6CgiD8zwQs8BPMAFY4NEfYAE&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQip4GKBl6BAgWEH8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=budweiser+beer"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Most popular",
+        "subtitle": "What Is The Most Popular Beer",
+        "title": "Most popular US beers: Modelo over Bud Light on National Beer Day 2024",
+        "link": "https://www.usatoday.com/story/money/2024/04/06/national-beer-day-2024-history-facts-sales/73225409007/#:~:text=Modelo%20still%20reigns%20after%20dethroning,according%20to%20Bump%20Williams%20Consulting.",
+        "displayed_link": "https://www.usatoday.com \u203a story \u203a money \u203a 2024/04/06",
+        "date": "Apr 7, 2024",
+        "snippet": "Modelo still reigns after dethroning Bud Light Modelo Especial remains the best-selling beer in the U.S. and its sales are up 12% so far in 2024, compared to a year ago, according to Bump Williams Consulting.",
+        "snippet_highlighted_words": [
+          "Modelo Especial"
+        ],
+        "favicon": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/40c392ecf707a41dfa51ccc0d032e412ce3b39edb78c1a13614c640bcab0d32031db9a8e4aa1cc39.png",
+        "source": "usatoday.com",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=what+is+the+most+popular+beer&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQrooIegQIVRAF",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+is+the+most+popular+beer"
+      },
+      {
+        "text": "Alcohol type",
+        "subtitle": "What Kind Of Alcohol Is In Beer?",
+        "title": "Chemical Composition of Alcoholic Beverages, Additives and ... - NCBI",
+        "link": "https://www.ncbi.nlm.nih.gov/books/NBK531662/#:~:text=Ethanol%20(CAS%20Reg.,obtained%20from%20cracked%20petroleum%20hydrocarbons.",
+        "displayed_link": "https://www.ncbi.nlm.nih.gov \u203a books \u203a NBK531662",
+        "snippet": "Ethanol (CAS Reg. No. 64\u201317\u20135) is present in alcoholic beverages as a consequence of the fermentation of carbohydrates with yeast. It can also be manufactured from ethylene obtained from cracked petroleum hydrocarbons.",
+        "snippet_highlighted_words": [
+          "Ethanol"
+        ],
+        "answer": "Ethanol",
+        "favicon": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/40c392ecf707a41dfa51ccc0d032e412bf72c47e844432cba3c4415bcd69f265a40ce17499cd2d6c.png",
+        "source": "nih.gov",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=what+kind+of+alcohol+is+in+beer&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQrooIegQIVRAK",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+kind+of+alcohol+is+in+beer"
+      },
+      {
+        "text": "Main types",
+        "subtitle": "Main Types Of Beer",
+        "title": "Q : What are the main types of beer? - EHL Insights",
+        "link": "https://hospitalityinsights.ehl.edu/beer-types#:~:text=Beer%20can%20be%20categorized%20by,of%20yeast%20and%20fermentation%20process.",
+        "displayed_link": "https://hospitalityinsights.ehl.edu \u203a beer-types",
+        "snippet": "Beer can be categorized by these two main types: lagers and ales. The two points of differentiation between these major beer classifications is the type of yeast and fermentation process.",
+        "snippet_highlighted_words": [
+          "lagers and ales"
+        ],
+        "favicon": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/40c392ecf707a41dfa51ccc0d032e412142a87c87cd74ad8753179d2a8b41b6498a0d1b69885ba5d.png",
+        "source": "ehl.edu",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYYvwbzcj7Cr-P7LYbv8oijXOQZyJVYHWgN0WNGiGk0ew&s",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=main+types+of+beer&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQrooIegQIVRAS",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=main+types+of+beer"
+      },
+      {
+        "text": "Type of drink",
+        "subtitle": "What Kind Of Drink Is Beer",
+        "title": "BEER: Overview, Uses, Side Effects, Precautions, Interactions ... - WebMD",
+        "link": "https://www.webmd.com/vitamins/ai/ingredientmono-1007/beer#:~:text=Beer%20is%20a%20drink%20made,some%20can%20be%20much%20higher.",
+        "displayed_link": "https://www.webmd.com \u203a ingredientmono-1007 \u203a beer",
+        "snippet": "Beer is a drink made by fermenting sugars from starches. Barley, hops, water, and yeast are its major components. It can be alcoholic or non-alcoholic. Typical American alcoholic beers average 4% to 5% alcohol (ethanol) by volume, but some can be much higher.",
+        "snippet_highlighted_words": [
+          "a drink made by fermenting sugars from starches"
+        ],
+        "favicon": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/40c392ecf707a41dfa51ccc0d032e412206f2a38719fcd4fedc2106009eb9d9cd2c7c8f7e74fed3f.png",
+        "source": "webmd.com",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=what+kind+of+drink+is+beer&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQrooIegQIVRAX",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+kind+of+drink+is+beer"
+      },
+      {
+        "text": "Ingredients",
+        "subtitle": "Ingredients In Beer",
+        "title": "What are the main ingredients in beer? | SEVEN BRO7HERS",
+        "link": "https://www.sevenbro7hers.com/blogs/faq/what-are-the-main-ingredients-in-beer",
+        "displayed_link": "https://www.sevenbro7hers.com \u203a blogs \u203a faq \u203a what-are...",
+        "snippet": "Beer is made from four ingredients: grains, hops, yeast and water.",
+        "snippet_highlighted_words": [
+          "Beer is made from four ingredients: grains, hops, yeast and water."
+        ],
+        "list": [
+          "Grains. The grains used in beer are usually malted barley (barley grains that have been soaked in water). ... ",
+          "Hops. Hops are the flowers of the hop plant, Humulus lupulus. ... ",
+          "Yeast. Yeast is the third really important ingredient. ... ",
+          "Water."
+        ],
+        "favicon": "https://serpapi.com/searches/670a161948e6689808ad51ce/images/40c392ecf707a41dfa51ccc0d032e412b074c7014143dcb8be1a7f5675672b9bad6190a6aca53d0b.png",
+        "source": "sevenbro7hers.com",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=ingredients+in+beer&sa=X&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQrooIegQIVRAc",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ingredients+in+beer"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=beer&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=GhYKZ-XSB-Ch5NoP1YmLuAg&start=10&sa=N&sstk=AagrsujQPM_qHfLr9U29BQBZeusxmHBewo5YMMGTdrZhzEGTLp6Fa6PSLiZHALn18zuslRY5bGbla2mbZFtaErHFw4K4FS1vTQ4riA&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQ8NMDegQIBRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=beer&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=GhYKZ-XSB-Ch5NoP1YmLuAg&start=10&sa=N&sstk=AagrsujQPM_qHfLr9U29BQBZeusxmHBewo5YMMGTdrZhzEGTLp6Fa6PSLiZHALn18zuslRY5bGbla2mbZFtaErHFw4K4FS1vTQ4riA&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQ8tMDegQIBRAE",
+      "3": "https://www.google.com/search?q=beer&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=GhYKZ-XSB-Ch5NoP1YmLuAg&start=20&sa=N&sstk=AagrsujQPM_qHfLr9U29BQBZeusxmHBewo5YMMGTdrZhzEGTLp6Fa6PSLiZHALn18zuslRY5bGbla2mbZFtaErHFw4K4FS1vTQ4riA&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQ8tMDegQIBRAG",
+      "4": "https://www.google.com/search?q=beer&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=GhYKZ-XSB-Ch5NoP1YmLuAg&start=30&sa=N&sstk=AagrsujQPM_qHfLr9U29BQBZeusxmHBewo5YMMGTdrZhzEGTLp6Fa6PSLiZHALn18zuslRY5bGbla2mbZFtaErHFw4K4FS1vTQ4riA&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQ8tMDegQIBRAI",
+      "5": "https://www.google.com/search?q=beer&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=GhYKZ-XSB-Ch5NoP1YmLuAg&start=40&sa=N&sstk=AagrsujQPM_qHfLr9U29BQBZeusxmHBewo5YMMGTdrZhzEGTLp6Fa6PSLiZHALn18zuslRY5bGbla2mbZFtaErHFw4K4FS1vTQ4riA&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQ8tMDegQIBRAK",
+      "6": "https://www.google.com/search?q=beer&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=GhYKZ-XSB-Ch5NoP1YmLuAg&start=50&sa=N&sstk=AagrsujQPM_qHfLr9U29BQBZeusxmHBewo5YMMGTdrZhzEGTLp6Fa6PSLiZHALn18zuslRY5bGbla2mbZFtaErHFw4K4FS1vTQ4riA&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQ8tMDegQIBRAM",
+      "7": "https://www.google.com/search?q=beer&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=GhYKZ-XSB-Ch5NoP1YmLuAg&start=60&sa=N&sstk=AagrsujQPM_qHfLr9U29BQBZeusxmHBewo5YMMGTdrZhzEGTLp6Fa6PSLiZHALn18zuslRY5bGbla2mbZFtaErHFw4K4FS1vTQ4riA&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQ8tMDegQIBRAO",
+      "8": "https://www.google.com/search?q=beer&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=GhYKZ-XSB-Ch5NoP1YmLuAg&start=70&sa=N&sstk=AagrsujQPM_qHfLr9U29BQBZeusxmHBewo5YMMGTdrZhzEGTLp6Fa6PSLiZHALn18zuslRY5bGbla2mbZFtaErHFw4K4FS1vTQ4riA&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQ8tMDegQIBRAQ",
+      "9": "https://www.google.com/search?q=beer&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=GhYKZ-XSB-Ch5NoP1YmLuAg&start=80&sa=N&sstk=AagrsujQPM_qHfLr9U29BQBZeusxmHBewo5YMMGTdrZhzEGTLp6Fa6PSLiZHALn18zuslRY5bGbla2mbZFtaErHFw4K4FS1vTQ4riA&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQ8tMDegQIBRAS",
+      "10": "https://www.google.com/search?q=beer&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=GhYKZ-XSB-Ch5NoP1YmLuAg&start=90&sa=N&sstk=AagrsujQPM_qHfLr9U29BQBZeusxmHBewo5YMMGTdrZhzEGTLp6Fa6PSLiZHALn18zuslRY5bGbla2mbZFtaErHFw4K4FS1vTQ4riA&ved=2ahUKEwjlx4C-moiJAxXgEFkFHdXEAocQ8tMDegQIBRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beer&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beer&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beer&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beer&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beer&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beer&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beer&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beer&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beer&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beer&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beer&start=90"
+    }
+  }
+}

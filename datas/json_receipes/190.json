@@ -1,0 +1,709 @@
+{
+  "search_metadata": {
+    "id": "670a17ba49ea551070343095",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/90c9e3439842fcf4/670a17ba49ea551070343095.json",
+    "created_at": "2024-10-12 06:31:22 UTC",
+    "processed_at": "2024-10-12 06:31:22 UTC",
+    "google_url": "https://www.google.com/search?q=mango&oq=mango&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/90c9e3439842fcf4/670a17ba49ea551070343095.html",
+    "total_time_taken": 0.52
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "mango",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "mango",
+    "total_results": 1020000000,
+    "time_taken_displayed": 0.26,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Flash sale - 30% off | Mango USA | Online fashion",
+      "link": "https://shop.mango.com/us/en/h/women",
+      "displayed_link": "https://shop.mango.com \u203a official \u203a website",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChcSEwjUoLWEnIiJAxXkNtQBHUUzBeQYABAEGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMI1KC1hJyIiQMV5DbUAR1FMwXkEAAYASAAEgLZSfD_BwE&sig=AOD64_3z-GtMGQmHd3iWC_dCL4lNtIFNMg&q&nis=4&adurl",
+      "description": "30% off for min. purchases of $220 + free shipping. Code EXTRA30UD. Only until 10/14! With Mango likes you, earn Likes with your purchaes and redeem them for future discounts. Pay in 4 installments. Office Wear. Total Looks. Free returns. Plus Size. Party and Events.",
+      "source": "MANGO"
+    }
+  ],
+  "shopping_results": [
+    {
+      "position": 1,
+      "block_position": "right",
+      "title": "MANGO - Crochet flower brooch pink - One size - Women",
+      "price": "$25.99",
+      "extracted_price": 25.99,
+      "old_price": "$40",
+      "extracted_old_price": 40,
+      "link": "https://shop.mango.com/us/en/p/women/more-accessories/other-accessories/crochet-flower-brooch_77050629?c=85&talla=99",
+      "source": "shop.mango.com",
+      "thumbnail": "https://serpapi.com/searches/670a17ba49ea551070343095/images/4a1f7f33536ea650ffead1531c52a68582d82decd77b02b27179b05cbb1b41c6.webp",
+      "extensions": [
+        "Sale"
+      ]
+    },
+    {
+      "position": 2,
+      "block_position": "right",
+      "title": "MANGO - Sweater with ruffled ends off white - M - Women",
+      "price": "$29.99",
+      "extracted_price": 29.99,
+      "old_price": "$60",
+      "extracted_old_price": 60,
+      "link": "https://shop.mango.com/us/en/p/women/sweaters-and-cardigans/sweaters/sweater-with-ruffled-ends_67007143?c=02&talla=21",
+      "source": "shop.mango.com",
+      "thumbnail": "https://serpapi.com/searches/670a17ba49ea551070343095/images/4a1f7f33536ea650ffead1531c52a6858f4c770b85394511fcbad5ffb9250e26.webp",
+      "extensions": [
+        "Sale"
+      ]
+    },
+    {
+      "position": 3,
+      "block_position": "right",
+      "title": "MANGO - Buckle heel shoes blue - 6 - Women",
+      "price": "$59.99",
+      "extracted_price": 59.99,
+      "old_price": "$80",
+      "extracted_old_price": 80,
+      "link": "https://shop.mango.com/us/en/p/women/shoes/heeled-shoes/buckle-heel-shoes_77010291?c=52&talla=36",
+      "source": "shop.mango.com",
+      "thumbnail": "https://serpapi.com/searches/670a17ba49ea551070343095/images/4a1f7f33536ea650ffead1531c52a685c6f0d47e39906080814ccc1713e9e3f3.webp",
+      "extensions": [
+        "Sale",
+        "Free shipping",
+        "30-day returns (most)"
+      ]
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=mango&npsic=0&rflfq=1&rldoc=1&rllag=30213986,-97750038,3567&tbm=lcl&sa=X&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQtgN6BAhFEAI",
+    "image": "https://serpapi.com/searches/670a17ba49ea551070343095/images/d6fc6b5e760c8a3417c95bbc2162a661.png",
+    "gps_coordinates": {
+      "latitude": 30.213986,
+      "longitude": -97.750038
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "label": "A",
+        "description": "In-store pickup\u00b7Delivery",
+        "lsig": "AB86z5UpuiitH4oIL4dVK6UnLE0A",
+        "service_options": {
+          "in_store_pickup": true,
+          "delivery": true
+        },
+        "links": {
+          "directions": "https://www.google.com/maps/dir//Los+Mangos+Ice+Cream,+4410+E+Riverside+Dr+APT+190,+Austin,+TX+78741/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8644b440665d3095:0xce3aa3d805ae8296?sa=X&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQ48ADegQIKxAA&hl=en&gl=us",
+          "order": "https://food.google.com/chooseprovider?restaurantId=/g/11d_78r5fw&g2lbs=AOHF13nQSVAn8bj_uvCc4SnW0O52q6OXxdWCESSCER3sDqQ4Fda0_LBfFLEnLZmCD3I09C8VeqmAAf_9c9kokAkRcqzBmeD3tg%3D%3D&hl=en-US&gl=us&ssta=1&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=chain-result&gei=uhcKZ-zlCa7fp84Pi7vTqQw&ei=uhcKZ-zlCa7fp84Pi7vTqQw&fo_s=OA,SOE&opi=89978449&foub=mcpp"
+        },
+        "title": "Los Mangos Ice Cream",
+        "phone": "(512) 432-5756",
+        "address": "4410 E Riverside Dr APT 190",
+        "hours": "Closed \u22c5 Opens 11 AM",
+        "place_id": "14860370068665959062",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=14860370068665959062&q=mango",
+        "gps_coordinates": {
+          "latitude": 30.233908,
+          "longitude": -97.72093
+        }
+      },
+      {
+        "position": 2,
+        "label": "B",
+        "description": "Dine-in\u00b7Takeout",
+        "lsig": "AB86z5XWyS289RhAw-OqrRMXyvcw",
+        "service_options": {
+          "dine_in": true,
+          "takeout": true
+        },
+        "links": {
+          "directions": "https://www.google.com/maps/dir//Los+Mangos+Ice+Cream,+6610+S+Congress+Ave,+Austin,+TX+78745/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8644b326fd038dc9:0xe41b389c7f594a2?sa=X&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQ48ADegQIKRAA&hl=en&gl=us"
+        },
+        "title": "Los Mangos Ice Cream",
+        "phone": "(512) 401-3195",
+        "address": "6610 S Congress Ave",
+        "hours": "Closed \u22c5 Opens 11 AM",
+        "place_id": "1027299594363835554",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=1027299594363835554&q=mango",
+        "gps_coordinates": {
+          "latitude": 30.194029,
+          "longitude": -97.77906
+        }
+      },
+      {
+        "position": 3,
+        "label": "C",
+        "lsig": "AB86z5UcHUJRQBMdr_GI4z7fnls2",
+        "links": {
+          "website": "https://www.mesquitemango.com/"
+        },
+        "title": "Mesquite Mango",
+        "phone": "(737) 345-2460",
+        "hours": "Closed \u22c5 Opens 12 PM",
+        "place_id": "4892521685534414528",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=4892521685534414528&q=mango"
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&tbs=lf:1,lf_ui:4&tbm=lcl&q=mango&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQjGp6BAhHEAE"
+  },
+  "knowledge_graph": {
+    "title": "Mango",
+    "type": "Outlet store company",
+    "entity_type": "companies, chains, shopping_merchant",
+    "kgmid": "/m/02r7cz2",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/02r7cz2&hl=en-US&q=Mango",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F02r7cz2&location=Austin%2CTexas%2CUnited+States&q=Mango",
+    "image": "https://serpapi.com/searches/670a17ba49ea551070343095/images/1f76c8ad44ec076199abcc9a36381e4879c220650d4e26cf.png",
+    "founders": "Isak Andic, Nahman Andic",
+    "founders_links": [
+      {
+        "text": "Isak Andic",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Isak+Andic&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQeh34nez2TKV2Kd26Z9DdHPCn5kAhrdyLCkkEyQuot9aL_817auRlkmZ4VaKOtf2CxQDBecM9O8D0Mkg6h3sicp9Q3ar9EJK8vjjFaBuUjFefJ0Ztmewc6Eun4s6SSvsnNLaLuzoQHzg7HGTN8jOt-iHSeROlcOD3RXYTt7kAGDgOHmuhsTDzmmoAIBdGVT7IUHV3yolgc88X19iw4db4FSCQ7BZZeMGfbN9t3hjtxkMIHqS0w%3D%3D&sa=X&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQmxMoAHoECDQQAg"
+      },
+      {
+        "text": "Nahman Andic",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Nahman+Andic&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgBVPGP_FYTnnihRW2owXnzjXLbDUcGqpBuX9zErGoNjOXR_DUuZHpgHl8h0ND0TS5QJK6oSRkeH6UUEtANnyoGiRcS0-dIFmUqfdhqFZadikDfKrvCsej0e8MRYlIlpZriXUQyPLTtl5nSYY4WwWLiREFEEfROg4gmR6xVbzQwrEgT7qVmqefR5yFyvfgRO7Mh7fWHyLyxAWyLRWc_Fh9f4bBSWaIs6mK4Zbr0qyk2wqnEEwgg%3D%3D&sa=X&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQmxMoAXoECDQQAw"
+      }
+    ],
+    "founded": "1984, Palau-solit\u00e0 i Plegamans, Spain",
+    "founded_links": [
+      {
+        "text": "Palau-solit\u00e0 i Plegamans, Spain",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Palau-solit%C3%A0+i+Plegamans&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQb4NBW21OaSVCBJhM9m2MRFw5jdxiURXzj0wcfbC8gzIjLUOYi_LdRdPVptS9JlOG7GhtyrwLV5vm_QwXXVO9vb77tCCDn6R0CPSn8Oll-5WmIRmh--91WfihQsYC9WhCNFCKUhfCk0pNMrxWvEWiCeGnJVBa8enkVMkDQZXaG1ne3M2nw%3D%3D&sa=X&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQmxMoAHoECDYQAg"
+      }
+    ],
+    "headquarters": "Palau-solit\u00e0 i Plegamans, Spain",
+    "headquarters_links": [
+      {
+        "text": "Palau-solit\u00e0 i Plegamans",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Palau-solit%C3%A0+i+Plegamans&stick=H4sIAAAAAAAAAONgVuLSz9U3MM7IKMspXMQqGZCYk1iqW5yfk1lyeIFCpkJATmp6Ym5iXjEAfHzgACoAAAA&sa=X&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQmxMoAHoECDUQAg"
+      },
+      {
+        "text": "Spain",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Spain&stick=H4sIAAAAAAAAAONgVuLQz9U3MMvNzlrEyhpckJiZBwCwl5kdFAAAAA&sa=X&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQmxMoAXoECDUQAw"
+      }
+    ],
+    "number_of_employees": "15,000 (2015)",
+    "web_results": [
+      {
+        "snippet": "Punto Fa, S.L., trading as Mango, is a Spanish fast-fashion company, founded in Barcelona by brothers Isak Andic and Nahman Andic. It designs, manufactures and markets women's and men's clothing and accessories.",
+        "source": "Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Mango_(retailer)"
+      }
+    ],
+    "profiles": [
+      {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/mango",
+        "image": "https://serpapi.com/searches/670a17ba49ea551070343095/images/1f76c8ad44ec076199abcc9a36381e48caef3e2ff993fb0af91e58a5251ff618302da950c5124ecc.png"
+      },
+      {
+        "name": "X (Twitter)",
+        "link": "https://twitter.com/Mango",
+        "image": "https://serpapi.com/searches/670a17ba49ea551070343095/images/1f76c8ad44ec076199abcc9a36381e48caef3e2ff993fb0a146026dc56196594d1f9e1f2dde654f5.png"
+      },
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/company/mango",
+        "image": "https://serpapi.com/searches/670a17ba49ea551070343095/images/1f76c8ad44ec076199abcc9a36381e48caef3e2ff993fb0ac1e95f83a0844c65166d1b6ab150ecc0.png"
+      },
+      {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/mango.com",
+        "image": "https://serpapi.com/searches/670a17ba49ea551070343095/images/1f76c8ad44ec076199abcc9a36381e48caef3e2ff993fb0a21f96aa5b050a04f89ca1b26f518a598.png"
+      },
+      {
+        "name": "YouTube",
+        "link": "https://www.youtube.com/user/mangoFashion",
+        "image": "https://serpapi.com/searches/670a17ba49ea551070343095/images/1f76c8ad44ec076199abcc9a36381e48caef3e2ff993fb0a350dbaa6c914cabd29b697a135dc205e.png"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "H&M",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L-7kuH3x2V0E7ql1tzM4nK-rfjt0QNF2JMc1NOwsX6BJc3EOVbHb7Mz7OXSOT3TH2kq_LhjqEkIAAqdCrfxWzeistQp3Vd4bb6RZVCY7l3WPkY27LhlVfiQ42CexsmHSl42ooxfE-_ChoinuIrPWC-ma33mnFAfTUN8ZrdT836666OP80hwcRuYvKbNHLgv5jcvdfHBZXR5XsYK3Ae-1r8jPZB5-L2IQ7PHvlIArsVmI_vIAa8yjc66DNoHyTD0udgXPC1M%3D&q=H%26M&sa=X&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQs9oBKAB6BAgzEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=H%26M&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L-7kuH3x2V0E7ql1tzM4nK-rfjt0QNF2JMc1NOwsX6BJc3EOVbHb7Mz7OXSOT3TH2kq_LhjqEkIAAqdCrfxWzeistQp3Vd4bb6RZVCY7l3WPkY27LhlVfiQ42CexsmHSl42ooxfE-_ChoinuIrPWC-ma33mnFAfTUN8ZrdT836666OP80hwcRuYvKbNHLgv5jcvdfHBZXR5XsYK3Ae-1r8jPZB5-L2IQ7PHvlIArsVmI_vIAa8yjc66DNoHyTD0udgXPC1M%3D",
+        "image": "https://serpapi.com/searches/670a17ba49ea551070343095/images/1f76c8ad44ec076199abcc9a36381e482a37869e7b10cc7ce4e90a696ddf581323b77f28d42ddb3b8e2c4cbe94883e1e.png"
+      },
+      {
+        "name": "Zara",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LwdnHCKHP65sv26d4UgR1y2Gf2KvXE4z0UUckbNjpsJSJleInYTYycpvKNDrnEVK_ye9rkBmPR9aKbEGhdLBMznfdjLjkkntONRKCSGmKF7UKmV2qlF4h7yAWH6mulV9UMPr9nb8IASx5NRrQBZIYdTFizIdj8J7ac5ZGv6taRIsw4XB_rnwdrCCLF4UQpTVjRQlybtU01FMVAZ3YcMhZolM1eqQNhmcMWLvbcLQ_FqPRby2S07b9_gN5p_XPAOCsDucqNw%3D&q=Zara+(retailer)&sa=X&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQs9oBKAB6BAgzEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Zara+%28retailer%29&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LwdnHCKHP65sv26d4UgR1y2Gf2KvXE4z0UUckbNjpsJSJleInYTYycpvKNDrnEVK_ye9rkBmPR9aKbEGhdLBMznfdjLjkkntONRKCSGmKF7UKmV2qlF4h7yAWH6mulV9UMPr9nb8IASx5NRrQBZIYdTFizIdj8J7ac5ZGv6taRIsw4XB_rnwdrCCLF4UQpTVjRQlybtU01FMVAZ3YcMhZolM1eqQNhmcMWLvbcLQ_FqPRby2S07b9_gN5p_XPAOCsDucqNw%3D",
+        "image": "https://serpapi.com/searches/670a17ba49ea551070343095/images/1f76c8ad44ec076199abcc9a36381e482a37869e7b10cc7ce4e90a696ddf5813d4a3baf73cafc313996541d7f6bc7780.jpeg"
+      },
+      {
+        "name": "Stradivarius",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQakc7ASHIcn5RjXAqgiZ0m-YkqDvOcNyhuIjb1g0LECdstCvqIEUem8r98g-m6IuCTUJqg_CAdqqpYQMem9nm2JqKygqcTOHapBng_ws0gJwm_YdcLIjseb6999_coPPKfrsSvTbVkl5oy1n8y6BICD81w74dka74nkw9zEOqBckeT2v0bDnUosh5rsiWsXhIZZbA4JPwQM-lggif27iAmq1iCdyPmA-5khqD9hfoz8DqmmlPIZ48CXCmb2r2en59UqpqiI%3D&q=Stradivarius&sa=X&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQs9oBKAB6BAgzEA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Stradivarius&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQakc7ASHIcn5RjXAqgiZ0m-YkqDvOcNyhuIjb1g0LECdstCvqIEUem8r98g-m6IuCTUJqg_CAdqqpYQMem9nm2JqKygqcTOHapBng_ws0gJwm_YdcLIjseb6999_coPPKfrsSvTbVkl5oy1n8y6BICD81w74dka74nkw9zEOqBckeT2v0bDnUosh5rsiWsXhIZZbA4JPwQM-lggif27iAmq1iCdyPmA-5khqD9hfoz8DqmmlPIZ48CXCmb2r2en59UqpqiI%3D",
+        "image": "https://serpapi.com/searches/670a17ba49ea551070343095/images/1f76c8ad44ec076199abcc9a36381e482a37869e7b10cc7ce4e90a696ddf58137665b8e2032e71d01427a0b24793711b.png"
+      },
+      {
+        "name": "ASOS",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQap-aK51oawWlYip35UFa98Bii15H9qfPKW0sCWfKA5cxlcqxsymlCv1aCDGEI_tDAoHhYB10W5dgcyEajp6Zz1T6fxyV2Tp7NMko2NBO4yuJt71MOGd2Oqib2Xs5GRVIgIud3msb2cANRxA_BZuOJdrvhjjjsarZU8aUFV5QNFIk0625pL5Do6RbFlVJIlaCF451mDaASJzz1GXOBqqXuC7RIwo-7DE5jlCGaSSXoR_u9JvyWJ9m5UbdzwRmkOn8pVkQ88%3D&q=ASOS&sa=X&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQs9oBKAB6BAgzEBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ASOS&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQap-aK51oawWlYip35UFa98Bii15H9qfPKW0sCWfKA5cxlcqxsymlCv1aCDGEI_tDAoHhYB10W5dgcyEajp6Zz1T6fxyV2Tp7NMko2NBO4yuJt71MOGd2Oqib2Xs5GRVIgIud3msb2cANRxA_BZuOJdrvhjjjsarZU8aUFV5QNFIk0625pL5Do6RbFlVJIlaCF451mDaASJzz1GXOBqqXuC7RIwo-7DE5jlCGaSSXoR_u9JvyWJ9m5UbdzwRmkOn8pVkQ88%3D",
+        "image": "https://serpapi.com/searches/670a17ba49ea551070343095/images/1f76c8ad44ec076199abcc9a36381e482a37869e7b10cc7ce4e90a696ddf58130192daf09c111ef8325b1c8d5e091e28.png"
+      }
+    ]
+  },
+  "inline_images": [
+    {
+      "source": "https://www.mango.org/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFU4KObeD7Dl-fyeRoDLu-ve1-UWSwFwtQf-c0K6FrjhIkBMKEplP7SJc&s",
+      "original": "https://www.mango.org/wp-content/themes/mango-child/css/img/bg-home-right-1.png",
+      "title": "Mangos - All You Need To Know About Mango - Mango.org",
+      "source_name": "www.mango.org"
+    },
+    {
+      "source": "https://en.wikipedia.org/wiki/Mango",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE_kvVT6byATV9zMh9YGv4zhmk0eON6216rHQlD7m8IqqQUQCU4G8F-1Q&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/74/Mangos_-_single_and_halved.jpg",
+      "title": "Mango - Wikipedia",
+      "source_name": "Wikipedia"
+    },
+    {
+      "source": "https://exoticfruitbox.com/en/tropical-fruits/mangoes/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLDhFqv26KZxk5afMmGIjSLvsqoYKMDWbuXFLwJ2iCYM6U58jxQPhgwew&s",
+      "original": "https://exoticfruitbox.com/wp-content/uploads/2015/10/mango.jpg",
+      "title": "Mango - everything you need to know about it!",
+      "source_name": "Exotic Fruit Box"
+    },
+    {
+      "source": "https://www.saveur.com/food/its-mango-time/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3A6t4uocXk1TS7v4e7ZUCG9awWdJNlbeWPtH9RVBSNA4tQe-Ynduxu4Y&s",
+      "original": "https://www.saveur.com/uploads/2021/07/09/Mangoes-Its-Mango-Time-Vaughn-Stafford-Gray-Belle-Morizio.jpg?auto=webp",
+      "title": "It's Mango Time. | Saveur",
+      "source_name": "Saveur"
+    },
+    {
+      "source": "https://www.amazon.com/produce-aisle-B001392XUC-Organic-Medium/dp/B001392XUC",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZaJQ86f578pPN-GUnqMsPIyu4sFsm2vaPjLNL9fNvAfC6YjppmtyFb_g&s",
+      "original": "https://m.media-amazon.com/images/I/716U+PlEPoS._AC_UF1000,1000_QL80_.jpg",
+      "title": "Organic Red Mango, 1 Each",
+      "source_name": "Amazon.com"
+    },
+    {
+      "source": "https://www.heb.com/product-detail/fresh-large-mango/321109",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7YANoKwBrkf31VRFeQ5RhU7Sp7a6i4sgyXsnzEHv4K806aVAysMmD-2o&s",
+      "original": "https://images.heb.com/is/image/HEBGrocery/prd-medium/000321109.jpg",
+      "title": "Fresh Large Mango",
+      "source_name": "H-E-B"
+    },
+    {
+      "source": "https://www.mango.org/mango-variety/honey/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFY27uSfjavkBuLlqhogm8lRznbG8VIQQzlBN-6WiPbNx-BBeUt_tu41c&s",
+      "original": "https://www.mango.org/wp-content/uploads/2024/06/plu-honey-mango_v2.png",
+      "title": "Honey (Ataulfo) - Mango.org",
+      "source_name": "Mango.org"
+    },
+    {
+      "source": "https://www.healthline.com/nutrition/mango",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMK2Ca5pi2bqUKyYAdNiVywea4L1v_kPyUC-rHWmPnGaJbgfPddADQf6E&s",
+      "original": "https://post.healthline.com/wp-content/uploads/2021/11/mango-mangos-1296x728-header.jpg",
+      "title": "Mango: Nutrition, Health Benefits, and How to Eat It",
+      "source_name": "Healthline"
+    },
+    {
+      "source": "https://www.cleanjuice.com/amazing-mango-benefits-you-cant-resist/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5kHDs4ludaAyaeVUvUrvvJSblswBDGEJtNDNBRgknyKGCAYKz53W4JEg&s",
+      "original": "https://www.cleanjuice.com/wp-content/uploads/2023/06/clean_juice_mango_benefits_hero-3-scaled-1.jpeg",
+      "title": "Discover 10 Amazing Mango Benefits You Can't Resist",
+      "source_name": "Clean Juice"
+    }
+  ],
+  "short_videos": [
+    {
+      "position": 1,
+      "title": "MANGO Malaysia | Inspired by the modern woman and her dynamic ... on Instagram. Play on Instagram. 0:29. 1 week ago",
+      "source": "1w",
+      "profile_name": "Instagram",
+      "extensions": [
+        "Instagram"
+      ],
+      "views": "Instagram1w",
+      "extracted_views": 1,
+      "duration": "0:29",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRshz-JWEiahfhvbBlbuKt8IVE_hmu7hCxTGQ",
+      "thumbnail": "https://serpapi.com/searches/670a17ba49ea551070343095/images/02f1e1adf2521946ed2a3e50a29794fa0c08e9d15772adf15674be2a17a3549f.jpeg",
+      "link": "https://www.instagram.com/mangostores_malaysia/reel/DAifGtRNDwV/"
+    },
+    {
+      "position": 2,
+      "title": "MANGO Malaysia | Denim goes viral with @mango_man\u2019s collection ... on Instagram. Play on Instagram. 0:13. 3 weeks ago",
+      "source": "3w",
+      "profile_name": "Instagram",
+      "extensions": [
+        "Instagram"
+      ],
+      "views": "Instagram3w",
+      "extracted_views": 3,
+      "duration": "0:13",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTNu0GNzuziB0-xEIUeCJN_3ZnY_inMZZvT_A",
+      "thumbnail": "https://serpapi.com/searches/670a17ba49ea551070343095/images/02f1e1adf2521946f328fab5c15e04924ab24e386b5aee3354207624eb04d747.jpeg",
+      "link": "https://www.instagram.com/mangostores_malaysia/reel/C_-cAHLvHAr/"
+    },
+    {
+      "position": 3,
+      "title": "MANGO Malaysia | Beep! Beep! The sound of the horn signals the ... on Instagram. Play on Instagram. 0:34. 1 month ago",
+      "source": "4w",
+      "profile_name": "Instagram",
+      "extensions": [
+        "Instagram"
+      ],
+      "views": "Instagram4w",
+      "extracted_views": 4,
+      "duration": "0:34",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQaR8R288Ke4Oa83i01oscMr2YUytI0jLYpiQ",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_nhfhitpeqqsm-Yr5XPAfU85KVgsr-B1XVtomdMG0GVdBsQ&s",
+      "link": "https://www.instagram.com/mangostores_malaysia/reel/C_0MREQtL-T/"
+    },
+    {
+      "position": 4,
+      "title": "MANGO Malaysia | Two outfits, two ways of wearing ... on Instagram. Play on Instagram. 0:15. 3 weeks ago",
+      "source": "3w",
+      "profile_name": "Instagram",
+      "extensions": [
+        "Instagram"
+      ],
+      "views": "Instagram3w",
+      "extracted_views": 3,
+      "duration": "0:15",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSkKrDMwh9ZAVL9UFo1OlpZq5YZfIGskV5BIw",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlr1DSWT4u76vJe3Abxw9pcuyoilTH0DbSvCn9U53RjPf5Mg&s",
+      "link": "https://www.instagram.com/mangostores_malaysia/reel/DADlmR_sjMZ/"
+    },
+    {
+      "position": 5,
+      "title": "MANGO Malaysia | Unmatched style from every perspective. The ... on Instagram. Play on Instagram. 0:10. 1 week ago",
+      "source": "1w",
+      "profile_name": "Instagram",
+      "extensions": [
+        "Instagram"
+      ],
+      "views": "Instagram1w",
+      "extracted_views": 1,
+      "duration": "0:10",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMEsyRhodSRXODThlhXvjm_1FpLGO9CpfP_Zedv2LQd2a61w&s",
+      "link": "https://www.instagram.com/mangostores_malaysia/reel/DAuqa71P__R/"
+    },
+    {
+      "position": 6,
+      "title": "MANGO Malaysia | With reminiscences of the Wild West, this ... on Instagram. Play on Instagram. 0:48. 1 month ago",
+      "source": "1mo",
+      "profile_name": "Instagram",
+      "extensions": [
+        "Instagram"
+      ],
+      "views": "Instagram1mo",
+      "extracted_views": 1,
+      "duration": "0:48",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRiMGf2NGkVZpdvjCJg0YiNpNjoV8ca6IP-6Q",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ3mWJeU523mJiFFlsNBKrrCew38H1YA846r81ODhqtQJJBg&s",
+      "link": "https://www.instagram.com/mangostores_malaysia/reel/C_acPrcuwN6/"
+    },
+    {
+      "position": 7,
+      "title": "MANGO Malaysia | Ready for a shopping spree? Our End Season ... on Instagram. Play on Instagram. 0:10. Jun 28, 2024",
+      "source": "3mo",
+      "profile_name": "Instagram",
+      "extensions": [
+        "Instagram"
+      ],
+      "views": "Instagram3mo",
+      "extracted_views": 3,
+      "duration": "0:10",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTmuNx8tGnRhpHyKQ3BPlZsn1wmQOpne_BKNQ",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSId7g1rSS3evE2Y-ijSjhgMVHpBaMZ-lbZVNls23eiJXxmbg&s",
+      "link": "https://www.instagram.com/mangostores_malaysia/reel/C8wjR7-O2zp/"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What are the benefits of mangoes?",
+      "title": "Mangoes have quite a few potential health benefits, such as protecting against diseases and skin health.",
+      "date": "Aug 7, 2024",
+      "link": "https://www.health.com/nutrition/health-benefits-mango",
+      "list": [
+        "May Protect Against Some Diseases.",
+        "May Support Heart Health.",
+        "Boost the Immune System.",
+        "Improve Skin Health.",
+        "May Ease Constipation.",
+        "Support Eye Health.",
+        "Worsened IBS Symptoms.",
+        "Potential Allergic Reactions."
+      ],
+      "displayed_link": "https://www.health.com \u203a nutrition \u203a health-benefits-man...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1YPlvWxl-tTiC4CLp2A8nZWGPXPSCnDsr4PNcmwdxbw&s",
+      "source_logo": "https://serpapi.com/searches/670a17ba49ea551070343095/images/6a87c312ee9c8ffc1026b285e09abc737d40e8ef1ddab02c5fa27dd407cf2873.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWEwUXdTR0pUT1doWGFuQjFNRkp0T0U5NVQwUnJXRlZSTUZCd1kxb3djbE00YkhwemVYZE9lWGMxZVdST1lUWlhiREZWUXpJdFZtdzNRakZHT0hScU9HbHRVbEJORWhkMWFHTkxXaTE2YkVOaE4yWndPRFJRYVRkMlZIRlJkeG9pUVVaWWNrVmpiMlpKZG1rNWFIUnNUa0ZIV1RjNWR6QnZSMVo1ZERaMVV6WlBVUSIsImZjdiI6IjMiLCJlaSI6InVoY0taLXpsQ2E3ZnA4NFBpN3ZUcVF3IiwicWMiOiJDZ1Z0WVc1bmJ4QUFmZWxGTXo4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgYmVuZWZpdHMgb2YgbWFuZ29lcz8iLCJsayI6IkdoRmlaVzVsWm1sMGN5QnZaaUJ0WVc1bmJ3IiwiYnMiOiJjLU95NWxJTXowZ3NVVWdzU2xVb3lVaFZTRXJOUzAzTExDbFd5RTlUeUUzTVM4OVBMYmFYdUI5b0pDd2xpQ0hGNWNBbDUxa01ZWU0xWjZRbTVwUmtaS1lXbHlpa0ZaVm1sdGhMWERNd2twYVN6SVFwUWxjQU5BRmlmWFptWGdySVhMQ29BbEI5WnA1Q0lrU1R2Y1NUQkNNSktiR1N5b0pVSkNWNVVEY1ljWW1HWi1RckZHZmtsLWFrS0tRQ3pZTHFPaUppSkNZbFVvNUZUb0FSQUEiLCJpZCI6ImZjXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWEwUXdTR0pUT1doWGFuQjFNRkp0T0U5NVQwUnJXRlZSTUZCd1kxb3djbE00YkhwemVYZE9lWGMxZVdST1lUWlhiREZWUXpJdFZtdzNRakZHT0hScU9HbHRVbEJORWhkMWFHTkxXaTE2YkVOaE4yWndPRFJRYVRkMlZIRlJkeG9pUVVaWWNrVmpiMlpKZG1rNWFIUnNUa0ZIV1RjNWR6QnZSMVo1ZERaMVV6WlBVUSIsImZjdiI6IjMiLCJlaSI6InVoY0taLXpsQ2E3ZnA4NFBpN3ZUcVF3IiwicWMiOiJDZ1Z0WVc1bmJ4QUFmZWxGTXo4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgYmVuZWZpdHMgb2YgbWFuZ29lcz8iLCJsayI6IkdoRmlaVzVsWm1sMGN5QnZaaUJ0WVc1bmJ3IiwiYnMiOiJjLU95NWxJTXowZ3NVVWdzU2xVb3lVaFZTRXJOUzAzTExDbFd5RTlUeUUzTVM4OVBMYmFYdUI5b0pDd2xpQ0hGNWNBbDUxa01ZWU0xWjZRbTVwUmtaS1lXbHlpa0ZaVm1sdGhMWERNd2twYVN6SVFwUWxjQU5BRmlmWFptWGdySVhMQ29BbEI5WnA1Q0lrU1R2Y1NUQkNNSktiR1N5b0pVSkNWNVVEY1ljWW1HWi1RckZHZmtsLWFrS0tRQ3pZTHFPaUppSkNZbFVvNUZUb0FSQUEiLCJpZCI6ImZjXzQifQ%3D%3D"
+    },
+    {
+      "question": "Is mango the healthiest fruit?",
+      "snippet": "Mango is rich in vitamins, minerals, and antioxidants, and it has been associated with many health benefits, including potential anticancer effects, as well as improved immunity and digestive and eye health. Best of all, it's tasty and easy to add to your diet as part of smoothies and many other dishes.",
+      "title": "Mango: Nutrition, Health Benefits, and How to Eat It - Healthline",
+      "date": "Feb 1, 2023",
+      "link": "https://www.healthline.com/nutrition/mango#:~:text=Mango%20is%20rich%20in%20vitamins,smoothies%20and%20many%20other%20dishes.",
+      "displayed_link": "https://www.healthline.com \u203a nutrition \u203a mango",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrbGpCFJkFDYhiNkGelVF0_6N-hUOiT7SKbkBDOCAHw&s",
+      "source_logo": "https://serpapi.com/searches/670a17ba49ea551070343095/images/6a87c312ee9c8ffc1026b285e09abc73b94d4e6c3e2ea07a7ef696699c4ba32c.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWEwUXdTR0pUT1doWGFuQjFNRkp0T0U5NVQwUnJXRlZSTUZCd1kxb3djbE00YkhwemVYZE9lWGMxZVdST1lUWlhiREZWUXpJdFZtdzNRakZHT0hScU9HbHRVbEJORWhkMWFHTkxXaTE2YkVOaE4yWndPRFJRYVRkMlZIRlJkeG9pUVVaWWNrVmpiMlpKZG1rNWFIUnNUa0ZIV1RjNWR6QnZSMVo1ZERaMVV6WlBVUSIsImZjdiI6IjMiLCJlaSI6InVoY0taLXpsQ2E3ZnA4NFBpN3ZUcVF3IiwicWMiOiJDZ1Z0WVc1bmJ4QUFmZWxGTXo4IiwicXVlc3Rpb24iOiJJcyBtYW5nbyB0aGUgaGVhbHRoaWVzdCBmcnVpdD8iLCJsayI6IkdobHBjeUJ0WVc1bmJ5Qm9aV0ZzZEdocFpYTjBJR1p5ZFdsMCIsImJzIjoiYy1PeTVsSU16MGdzVVVnc1NsVW95VWhWU0VyTlMwM0xMQ2xXeUU5VHlFM01TODlQTGJhWHVCOW9KQ3dsaUNIRjVjQWw1MWtNWVlNMVo2UW01cFJrWktZV2x5aWtGWlZtbHRoTFhETXdrcGFTeklRcFFsY0FOQUZpZlhabVhncklYTENvQWxCOVpwNUNJa1NUdmNTVEJDTUpLYkdTeW9KVUpDVjVVRGNZY1ltR1otUXJGR2ZrbC1ha0tLUUN6WUxxT2lKaUpDWWxVbzVGVG9BUkFBIiwiaWQiOiJmY180In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWEwUXdTR0pUT1doWGFuQjFNRkp0T0U5NVQwUnJXRlZSTUZCd1kxb3djbE00YkhwemVYZE9lWGMxZVdST1lUWlhiREZWUXpJdFZtdzNRakZHT0hScU9HbHRVbEJORWhkMWFHTkxXaTE2YkVOaE4yWndPRFJRYVRkMlZIRlJkeG9pUVVaWWNrVmpiMlpKZG1rNWFIUnNUa0ZIV1RjNWR6QnZSMVo1ZERaMVV6WlBVUSIsImZjdiI6IjMiLCJlaSI6InVoY0taLXpsQ2E3ZnA4NFBpN3ZUcVF3IiwicWMiOiJDZ1Z0WVc1bmJ4QUFmZWxGTXo4IiwicXVlc3Rpb24iOiJJcyBtYW5nbyB0aGUgaGVhbHRoaWVzdCBmcnVpdD8iLCJsayI6IkdobHBjeUJ0WVc1bmJ5Qm9aV0ZzZEdocFpYTjBJR1p5ZFdsMCIsImJzIjoiYy1PeTVsSU16MGdzVVVnc1NsVW95VWhWU0VyTlMwM0xMQ2xXeUU5VHlFM01TODlQTGJhWHVCOW9KQ3dsaUNIRjVjQWw1MWtNWVlNMVo2UW01cFJrWktZV2x5aWtGWlZtbHRoTFhETXdrcGFTeklRcFFsY0FOQUZpZlhabVhncklYTENvQWxCOVpwNUNJa1NUdmNTVEJDTUpLYkdTeW9KVUpDVjVVRGNZY1ltR1otUXJGR2ZrbC1ha0tLUUN6WUxxT2lKaUpDWWxVbzVGVG9BUkFBIiwiaWQiOiJmY180In0%3D"
+    },
+    {
+      "question": "What kind of fruit is in a mango?",
+      "snippet": "Mango and coconut are 'drupe' type of fruits. In mango fleshy mesocarp is edible.",
+      "title": "drupe",
+      "link": "https://byjus.com/question-answer/which-type-of-fruit-is-mango/#:~:text=Mango%20and%20coconut%20are%20'drupe,mango%20fleshy%20mesocarp%20is%20edible.",
+      "displayed_link": "https://byjus.com \u203a question-answer \u203a which-type-of-frui...",
+      "source_logo": "https://serpapi.com/searches/670a17ba49ea551070343095/images/6a87c312ee9c8ffc1026b285e09abc7328666e01bbb4ba79e83850cbd25d03cc.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWEwUXdTR0pUT1doWGFuQjFNRkp0T0U5NVQwUnJXRlZSTUZCd1kxb3djbE00YkhwemVYZE9lWGMxZVdST1lUWlhiREZWUXpJdFZtdzNRakZHT0hScU9HbHRVbEJORWhkMWFHTkxXaTE2YkVOaE4yWndPRFJRYVRkMlZIRlJkeG9pUVVaWWNrVmpiMlpKZG1rNWFIUnNUa0ZIV1RjNWR6QnZSMVo1ZERaMVV6WlBVUSIsImZjdiI6IjMiLCJlaSI6InVoY0taLXpsQ2E3ZnA4NFBpN3ZUcVF3IiwicWMiOiJDZ1Z0WVc1bmJ4QUFmZWxGTXo4IiwicXVlc3Rpb24iOiJXaGF0IGtpbmQgb2YgZnJ1aXQgaXMgaW4gYSBtYW5nbz8iLCJsayI6IkdoWjBlWEJsSUc5bUlHWnlkV2wwSUdsdUlHMWhibWR2IiwiYnMiOiJjLU95NWxJTXowZ3NVVWdzU2xVb3lVaFZTRXJOUzAzTExDbFd5RTlUeUUzTVM4OVBMYmFYdUI5b0pDd2xpQ0hGNWNBbDUxa01ZWU0xWjZRbTVwUmtaS1lXbHlpa0ZaVm1sdGhMWERNd2twYVN6SVFwUWxjQU5BRmlmWFptWGdySVhMQ29BbEI5WnA1Q0lrU1R2Y1NUQkNNSktiR1N5b0pVSkNWNVVEY1ljWW1HWi1RckZHZmtsLWFrS0tRQ3pZTHFPaUppSkNZbFVvNUZUb0FSQUEiLCJpZCI6ImZjXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWEwUXdTR0pUT1doWGFuQjFNRkp0T0U5NVQwUnJXRlZSTUZCd1kxb3djbE00YkhwemVYZE9lWGMxZVdST1lUWlhiREZWUXpJdFZtdzNRakZHT0hScU9HbHRVbEJORWhkMWFHTkxXaTE2YkVOaE4yWndPRFJRYVRkMlZIRlJkeG9pUVVaWWNrVmpiMlpKZG1rNWFIUnNUa0ZIV1RjNWR6QnZSMVo1ZERaMVV6WlBVUSIsImZjdiI6IjMiLCJlaSI6InVoY0taLXpsQ2E3ZnA4NFBpN3ZUcVF3IiwicWMiOiJDZ1Z0WVc1bmJ4QUFmZWxGTXo4IiwicXVlc3Rpb24iOiJXaGF0IGtpbmQgb2YgZnJ1aXQgaXMgaW4gYSBtYW5nbz8iLCJsayI6IkdoWjBlWEJsSUc5bUlHWnlkV2wwSUdsdUlHMWhibWR2IiwiYnMiOiJjLU95NWxJTXowZ3NVVWdzU2xVb3lVaFZTRXJOUzAzTExDbFd5RTlUeUUzTVM4OVBMYmFYdUI5b0pDd2xpQ0hGNWNBbDUxa01ZWU0xWjZRbTVwUmtaS1lXbHlpa0ZaVm1sdGhMWERNd2twYVN6SVFwUWxjQU5BRmlmWFptWGdySVhMQ29BbEI5WnA1Q0lrU1R2Y1NUQkNNSktiR1N5b0pVSkNWNVVEY1ljWW1HWi1RckZHZmtsLWFrS0tRQ3pZTHFPaUppSkNZbFVvNUZUb0FSQUEiLCJpZCI6ImZjXzQifQ%3D%3D"
+    },
+    {
+      "question": "Who should eat mango?",
+      "snippet": "\u201cPotassium helps fight high blood pressure, which is a major risk factor for heart disease and stroke. Eating mangoes and other potassium-rich foods each day can boost your cardiovascular health.\u201d People who have chronic kidney disease (CKD) or who take certain medications may need to limit their potassium intake.",
+      "title": "Mango-licious: The Top 6 Health Benefits of Mango",
+      "date": "Jul 3, 2023",
+      "link": "https://health.clevelandclinic.org/mango-benefits#:~:text=%E2%80%9CPotassium%20helps%20fight%20high%20blood,to%20limit%20their%20potassium%20intake.",
+      "displayed_link": "https://health.clevelandclinic.org \u203a mango-benefits",
+      "source_logo": "https://serpapi.com/searches/670a17ba49ea551070343095/images/6a87c312ee9c8ffc1026b285e09abc736d0ccc4f57d30d57e80685ea778164cf.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWEwUXdTR0pUT1doWGFuQjFNRkp0T0U5NVQwUnJXRlZSTUZCd1kxb3djbE00YkhwemVYZE9lWGMxZVdST1lUWlhiREZWUXpJdFZtdzNRakZHT0hScU9HbHRVbEJORWhkMWFHTkxXaTE2YkVOaE4yWndPRFJRYVRkMlZIRlJkeG9pUVVaWWNrVmpiMlpKZG1rNWFIUnNUa0ZIV1RjNWR6QnZSMVo1ZERaMVV6WlBVUSIsImZjdiI6IjMiLCJlaSI6InVoY0taLXpsQ2E3ZnA4NFBpN3ZUcVF3IiwicWMiOiJDZ1Z0WVc1bmJ4QUFmZWxGTXo4IiwicXVlc3Rpb24iOiJXaG8gc2hvdWxkIGVhdCBtYW5nbz8iLCJsayI6IkdoUjNhRzhnYzJodmRXeGtJR1ZoZENCdFlXNW5idyIsImJzIjoiYy1PeTVsSU16MGdzVVVnc1NsVW95VWhWU0VyTlMwM0xMQ2xXeUU5VHlFM01TODlQTGJhWHVCOW9KQ3dsaUNIRjVjQWw1MWtNWVlNMVo2UW01cFJrWktZV2x5aWtGWlZtbHRoTFhETXdrcGFTeklRcFFsY0FOQUZpZlhabVhncklYTENvQWxCOVpwNUNJa1NUdmNTVEJDTUpLYkdTeW9KVUpDVjVVRGNZY1ltR1otUXJGR2ZrbC1ha0tLUUN6WUxxT2lKaUpDWWxVbzVGVG9BUkFBIiwiaWQiOiJmY180In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWEwUXdTR0pUT1doWGFuQjFNRkp0T0U5NVQwUnJXRlZSTUZCd1kxb3djbE00YkhwemVYZE9lWGMxZVdST1lUWlhiREZWUXpJdFZtdzNRakZHT0hScU9HbHRVbEJORWhkMWFHTkxXaTE2YkVOaE4yWndPRFJRYVRkMlZIRlJkeG9pUVVaWWNrVmpiMlpKZG1rNWFIUnNUa0ZIV1RjNWR6QnZSMVo1ZERaMVV6WlBVUSIsImZjdiI6IjMiLCJlaSI6InVoY0taLXpsQ2E3ZnA4NFBpN3ZUcVF3IiwicWMiOiJDZ1Z0WVc1bmJ4QUFmZWxGTXo4IiwicXVlc3Rpb24iOiJXaG8gc2hvdWxkIGVhdCBtYW5nbz8iLCJsayI6IkdoUjNhRzhnYzJodmRXeGtJR1ZoZENCdFlXNW5idyIsImJzIjoiYy1PeTVsSU16MGdzVVVnc1NsVW95VWhWU0VyTlMwM0xMQ2xXeUU5VHlFM01TODlQTGJhWHVCOW9KQ3dsaUNIRjVjQWw1MWtNWVlNMVo2UW01cFJrWktZV2x5aWtGWlZtbHRoTFhETXdrcGFTeklRcFFsY0FOQUZpZlhabVhncklYTENvQWxCOVpwNUNJa1NUdmNTVEJDTUpLYkdTeW9KVUpDVjVVRGNZY1ltR1otUXJGR2ZrbC1ha0tLUUN6WUxxT2lKaUpDWWxVbzVGVG9BUkFBIiwiaWQiOiJmY180In0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Mango USA | Online fashion",
+      "link": "https://shop.mango.com/us/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://shop.mango.com/us/en&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQFnoECAwQAQ",
+      "displayed_link": "https://shop.mango.com \u203a ...",
+      "favicon": "https://serpapi.com/searches/670a17ba49ea551070343095/images/d362db8b0298c85305f5ba7eaffc7d3c2ba2f6cbe513bb610baf03ff7c8b4ae4.png",
+      "snippet": "Discover the latest fashion, footwear and accessories at Mango. Shop the best looks for this season and get dressed to the nines - get in NOW!",
+      "snippet_highlighted_words": [
+        "Mango"
+      ],
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "Clothing",
+            "link": "https://shop.mango.com/us/en/c/women/clothing_e38a534b",
+            "snippet": "CLOTHING \u00b7 Fur-effect coat with appliqu\u00e9s - General plane \u00b7 Fur ..."
+          },
+          {
+            "title": "Women's fashion 2024",
+            "link": "https://shop.mango.com/us/en/h/women",
+            "snippet": "Latest trends in fashion for women. Discover our designs: dresses ..."
+          },
+          {
+            "title": "Men",
+            "link": "https://shop.mango.com/us/en/h/men",
+            "snippet": "Shirts - Trousers See all - Jackets and vests - Polo shirts - Jeans"
+          },
+          {
+            "title": "Dresses and jumpsuits See all",
+            "link": "https://shop.mango.com/us/en/c/women/dresses-and-jumpsuits_e6bb8705",
+            "snippet": "Dresses - Long dresses - Midi dresses - Short - Party - ..."
+          },
+          {
+            "title": "Kids",
+            "link": "https://shop.mango.com/us/en/h/kids",
+            "snippet": "Coats and jackets - Boys' sweatshirts - Girl's jeans - ..."
+          }
+        ]
+      },
+      "source": "Mango"
+    },
+    {
+      "position": 2,
+      "title": "Mango Languages: Homepage",
+      "link": "https://mangolanguages.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mangolanguages.com/&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQFnoECCAQAQ",
+      "displayed_link": "https://mangolanguages.com",
+      "thumbnail": "https://serpapi.com/searches/670a17ba49ea551070343095/images/d362db8b0298c85305f5ba7eaffc7d3cb0cb29ea74e5cc289ee3fda94db9bc32.png",
+      "favicon": "https://serpapi.com/searches/670a17ba49ea551070343095/images/d362db8b0298c85305f5ba7eaffc7d3cc10747ddff8a83ecd374a06da4bccd6f.png",
+      "snippet": "Language-learning methodology that's proven effective. Intuitive Language Construction\u2122 builds the 6 critical skills necessary for true language learning.",
+      "source": "Mango Languages"
+    },
+    {
+      "position": 3,
+      "title": "Mango",
+      "link": "https://en.wikipedia.org/wiki/Mango",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Mango&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQFnoECCQQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Mango",
+      "thumbnail": "https://serpapi.com/searches/670a17ba49ea551070343095/images/d362db8b0298c85305f5ba7eaffc7d3cc0b233e65705e85fd455b3260d4c126f.jpeg",
+      "favicon": "https://serpapi.com/searches/670a17ba49ea551070343095/images/d362db8b0298c85305f5ba7eaffc7d3cccfc8fb229629ba197823fa3c50a581d.png",
+      "snippet": "A mango is an edible stone fruit produced by the tropical tree Mangifera indica. It originated from the region between northwestern Myanmar, Bangladesh, ...",
+      "snippet_highlighted_words": [
+        "mango"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "List of mango cultivars",
+            "link": "https://en.wikipedia.org/wiki/List_of_mango_cultivars"
+          },
+          {
+            "title": "Mango (disambiguation)",
+            "link": "https://en.wikipedia.org/wiki/Mango_(disambiguation)"
+          },
+          {
+            "title": "Alphonso mango",
+            "link": "https://en.wikipedia.org/wiki/Alphonso_mango"
+          },
+          {
+            "title": "Mango cult",
+            "link": "https://en.wikipedia.org/wiki/Mango_cult"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 4,
+      "title": "Mangos - All You Need To Know About Mango - Mango.org",
+      "link": "https://www.mango.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mango.org/&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQFnoECGMQAQ",
+      "displayed_link": "https://www.mango.org",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRthhEoW5XU4TZKrdCgsDqSuSZbx6WFx0L3UvzOynK8cHOyKGFaK8DE&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a17ba49ea551070343095/images/d362db8b0298c85305f5ba7eaffc7d3cf14ca977bb7a42828b70e43431b0f85a.png",
+      "snippet": "Find fresh mangos nearby and discover mango tips, tricks and recipes to bring the world's most joy-infused superfruit into your life.",
+      "snippet_highlighted_words": [
+        "mangos",
+        "mango"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Mango Facts",
+            "link": "https://www.mango.org/mango-facts/"
+          },
+          {
+            "title": "Learn About Mango Fruit",
+            "link": "https://www.mango.org/about-mangos/"
+          },
+          {
+            "title": "About the National Mango Board",
+            "link": "https://www.mango.org/about-the-nmb/"
+          },
+          {
+            "title": "Recipes",
+            "link": "https://www.mango.org/recipes/"
+          }
+        ]
+      },
+      "source": "Mango.org"
+    },
+    {
+      "position": 5,
+      "title": "Mango Materials: Home",
+      "link": "https://www.mangomaterials.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mangomaterials.com/&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQFnoECGEQAQ",
+      "displayed_link": "https://www.mangomaterials.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkkHiElpaz82n0dzxC3_oZfmadF1p-_IPIGlvR22invZpaJilIiWUQ&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a17ba49ea551070343095/images/d362db8b0298c85305f5ba7eaffc7d3c8ed3fb5b33d36d2107e946eff87d8e80.png",
+      "snippet": "Mango Materials is comprised of first-class engineers, scientists, entrepreneurs, and innovators. Visit our Company page to learn more.",
+      "snippet_highlighted_words": [
+        "Mango"
+      ],
+      "source": "Mango Materials"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&tbs=lf:1,lf_ui:4&tbm=lcl&q=mango&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQjGp6BAhHEAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=mango&tbs=lf%3A1%2Clf_ui%3A4&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Mango fruit",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Mango+fruit&sa=X&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQ1QJ6BAhiEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Mango+fruit"
+    },
+    {
+      "block_position": 1,
+      "query": "Mango Outlet",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Mango+Outlet&sa=X&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQ1QJ6BAhgEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Mango+Outlet"
+    },
+    {
+      "block_position": 1,
+      "query": "Mango Languages",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Mango+Languages&sa=X&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQ1QJ6BAhfEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Mango+Languages"
+    },
+    {
+      "block_position": 1,
+      "query": "Mango Voice",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Mango+Voice&sa=X&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQ1QJ6BAheEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Mango+Voice"
+    },
+    {
+      "block_position": 1,
+      "query": "Mango clothing",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Mango+clothing&sa=X&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQ1QJ6BAhdEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Mango+clothing"
+    },
+    {
+      "block_position": 1,
+      "query": "Mango pronunciation",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Mango+pronunciation&sa=X&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQ1QJ6BAhcEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Mango+pronunciation"
+    },
+    {
+      "block_position": 1,
+      "query": "Mango usa",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Mango+usa&sa=X&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQ1QJ6BAhbEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Mango+usa"
+    },
+    {
+      "block_position": 1,
+      "query": "Mango benefits",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Mango+benefits&sa=X&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQ1QJ6BAhaEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Mango+benefits"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=mango&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=uhcKZ-zlCa7fp84Pi7vTqQw&start=10&sa=N&sstk=AagrsugB_hU0SZcxgraBY9RXnlhBPMsGjX7mtvFM1zIITT4Dwr_mllKdb3xOHCK7qMoFRVCvYj0vQUWDsdvrCfLMZCZSV5Dlm7n9QA&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQ8NMDegQIWRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=mango&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=uhcKZ-zlCa7fp84Pi7vTqQw&start=10&sa=N&sstk=AagrsugB_hU0SZcxgraBY9RXnlhBPMsGjX7mtvFM1zIITT4Dwr_mllKdb3xOHCK7qMoFRVCvYj0vQUWDsdvrCfLMZCZSV5Dlm7n9QA&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQ8tMDegQIWRAE",
+      "3": "https://www.google.com/search?q=mango&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=uhcKZ-zlCa7fp84Pi7vTqQw&start=20&sa=N&sstk=AagrsugB_hU0SZcxgraBY9RXnlhBPMsGjX7mtvFM1zIITT4Dwr_mllKdb3xOHCK7qMoFRVCvYj0vQUWDsdvrCfLMZCZSV5Dlm7n9QA&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQ8tMDegQIWRAG",
+      "4": "https://www.google.com/search?q=mango&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=uhcKZ-zlCa7fp84Pi7vTqQw&start=30&sa=N&sstk=AagrsugB_hU0SZcxgraBY9RXnlhBPMsGjX7mtvFM1zIITT4Dwr_mllKdb3xOHCK7qMoFRVCvYj0vQUWDsdvrCfLMZCZSV5Dlm7n9QA&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQ8tMDegQIWRAI",
+      "5": "https://www.google.com/search?q=mango&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=uhcKZ-zlCa7fp84Pi7vTqQw&start=40&sa=N&sstk=AagrsugB_hU0SZcxgraBY9RXnlhBPMsGjX7mtvFM1zIITT4Dwr_mllKdb3xOHCK7qMoFRVCvYj0vQUWDsdvrCfLMZCZSV5Dlm7n9QA&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQ8tMDegQIWRAK",
+      "6": "https://www.google.com/search?q=mango&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=uhcKZ-zlCa7fp84Pi7vTqQw&start=50&sa=N&sstk=AagrsugB_hU0SZcxgraBY9RXnlhBPMsGjX7mtvFM1zIITT4Dwr_mllKdb3xOHCK7qMoFRVCvYj0vQUWDsdvrCfLMZCZSV5Dlm7n9QA&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQ8tMDegQIWRAM",
+      "7": "https://www.google.com/search?q=mango&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=uhcKZ-zlCa7fp84Pi7vTqQw&start=60&sa=N&sstk=AagrsugB_hU0SZcxgraBY9RXnlhBPMsGjX7mtvFM1zIITT4Dwr_mllKdb3xOHCK7qMoFRVCvYj0vQUWDsdvrCfLMZCZSV5Dlm7n9QA&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQ8tMDegQIWRAO",
+      "8": "https://www.google.com/search?q=mango&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=uhcKZ-zlCa7fp84Pi7vTqQw&start=70&sa=N&sstk=AagrsugB_hU0SZcxgraBY9RXnlhBPMsGjX7mtvFM1zIITT4Dwr_mllKdb3xOHCK7qMoFRVCvYj0vQUWDsdvrCfLMZCZSV5Dlm7n9QA&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQ8tMDegQIWRAQ",
+      "9": "https://www.google.com/search?q=mango&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=uhcKZ-zlCa7fp84Pi7vTqQw&start=80&sa=N&sstk=AagrsugB_hU0SZcxgraBY9RXnlhBPMsGjX7mtvFM1zIITT4Dwr_mllKdb3xOHCK7qMoFRVCvYj0vQUWDsdvrCfLMZCZSV5Dlm7n9QA&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQ8tMDegQIWRAS",
+      "10": "https://www.google.com/search?q=mango&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=uhcKZ-zlCa7fp84Pi7vTqQw&start=90&sa=N&sstk=AagrsugB_hU0SZcxgraBY9RXnlhBPMsGjX7mtvFM1zIITT4Dwr_mllKdb3xOHCK7qMoFRVCvYj0vQUWDsdvrCfLMZCZSV5Dlm7n9QA&ved=2ahUKEwjsqrGEnIiJAxWu78kDHYvdNMUQ8tMDegQIWRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=mango&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=mango&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=mango&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=mango&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=mango&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=mango&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=mango&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=mango&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=mango&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=mango&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=mango&start=90"
+    }
+  }
+}

@@ -1,0 +1,935 @@
+{
+  "search_metadata": {
+    "id": "670a161e3585393564f13518",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ba29a6e410aa3bce/670a161e3585393564f13518.json",
+    "created_at": "2024-10-12 06:24:30 UTC",
+    "processed_at": "2024-10-12 06:24:30 UTC",
+    "google_url": "https://www.google.com/search?q=brandy&oq=brandy&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/ba29a6e410aa3bce/670a161e3585393564f13518.html",
+    "total_time_taken": 2.22
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "brandy",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "brandy",
+    "total_results": 283000000,
+    "time_taken_displayed": 0.36,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_products": [
+    {
+      "position": 1,
+      "title": "Hennessy Richard Brandy & Cognac 750ml",
+      "block_title": "In stores nearby",
+      "source": "Total Wine & More",
+      "price": 4999.99,
+      "currency": "$",
+      "rating": 4.6,
+      "thumbnail": "https://serpapi.com/searches/670a161e3585393564f13518/images/3652777cd20c8bbabf627f742dfcd512af19309897df73f6f3b956734986a214.webp"
+    },
+    {
+      "position": 2,
+      "title": "Paul Masson Apple Grande Amber Brandy",
+      "block_title": "In stores nearby",
+      "source": "Local Inventory Integration",
+      "price": 3.99,
+      "currency": "$",
+      "rating": 4.5,
+      "thumbnail": "https://serpapi.com/searches/670a161e3585393564f13518/images/3652777cd20c8bbabf627f742dfcd5123a8ff17e4e54b13a6de387867f9430b4.webp"
+    },
+    {
+      "position": 3,
+      "title": "VSOP Brandy & Cognac by Braastad",
+      "block_title": "In stores nearby",
+      "source": "Total Wine & More",
+      "price": 44.99,
+      "currency": "$",
+      "rating": 4.6,
+      "thumbnail": "https://serpapi.com/searches/670a161e3585393564f13518/images/3652777cd20c8bbabf627f742dfcd512ce9e48444343c66f8087619ed660cdd0.webp"
+    },
+    {
+      "position": 4,
+      "title": "Brandy XO | Brandy & Cognac by Symbole National | 700ml | France",
+      "block_title": "In stores nearby",
+      "source": "Total Wine & More",
+      "rating": 4.2,
+      "thumbnail": "https://serpapi.com/searches/670a161e3585393564f13518/images/3652777cd20c8bbabf627f742dfcd5122ff41ca51ebc00134ee7d741a39e3c98.webp"
+    },
+    {
+      "position": 5,
+      "title": "Brandy Grande Amber VSOP | Brandy & Cognac by Paul Masson | 750ml | California",
+      "block_title": "In stores nearby",
+      "source": "Total Wine & More",
+      "rating": 3.7,
+      "thumbnail": "https://serpapi.com/searches/670a161e3585393564f13518/images/3652777cd20c8bbabf627f742dfcd512de61a373236ee19e2299631123dc8812.webp"
+    },
+    {
+      "position": 6,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 7,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 8,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 9,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 10,
+      "block_title": "In stores nearby"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://serpapi.com/searches/670a161e3585393564f13518/images/25faca4ab10d4902032cac304ce505b190948c76abac2dfc7ee99ebe4adfd4ef.webp",
+      "source_logo": "https://serpapi.com/searches/670a161e3585393564f13518/images/25faca4ab10d4902032cac304ce505b128b277b3379330b3727b916678a18648d51c06cc901d7df3.png",
+      "source": "Total Wine & More",
+      "title": "Hennessy Richard Brandy & Cognac 750ml",
+      "rating": 4.6,
+      "reviews": 15,
+      "price": "$4,999.99",
+      "extracted_price": 4999.99,
+      "location": "12 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjU1NDc1MTg1NzM4Mzg2OTQwIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzU4MDM1MzU5OTc4NTA5OTAyMiIsImltYWdlRG9jaWQiOiI4MjExMTAyOTQwMDk5MTk0NTA4IiwicmRzIjoiUENfODE3MTMzNTIyNjY5MTM3NjA3OHxQUk9EX1BDXzgxNzEzMzUyMjY2OTEzNzYwNzgiLCJxdWVyeSI6ImJyYW5keSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjU1NDc1MTg1NzM4Mzg2OTQwIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzU4MDM1MzU5OTc4NTA5OTAyMiIsImltYWdlRG9jaWQiOiI4MjExMTAyOTQwMDk5MTk0NTA4IiwicmRzIjoiUENfODE3MTMzNTIyNjY5MTM3NjA3OHxQUk9EX1BDXzgxNzEzMzUyMjY2OTEzNzYwNzgiLCJxdWVyeSI6ImJyYW5keSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://serpapi.com/searches/670a161e3585393564f13518/images/25faca4ab10d4902032cac304ce505b18e182d0fbfd80d72d0c9106ca4100d7e.webp",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS9RbVQD7Kc5_mPOjwV72PZpaAt2bQFZS5OcZP-rmHVM89029LBCwyXeWPX0pXDXRR2",
+      "source": "Local Inventory Integration",
+      "title": "Paul Masson Apple Grande Amber Brandy",
+      "rating": 4.5,
+      "reviews": 13,
+      "price": "$3.99",
+      "extracted_price": 3.99,
+      "location": "12 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjE4OTAxOTYyMzEyMjkyNjQwMCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODkyMDIyMjM0Nzk3MjU0MTM3NCIsImltYWdlRG9jaWQiOiI3Mzc1OTY4OTg1MjY1NDQzNzczIiwicmRzIjoiUENfODk3NjQwMDkzMTE0MjA4MDc4M3xQUk9EX1BDXzg5NzY0MDA5MzExNDIwODA3ODMiLCJxdWVyeSI6ImJyYW5keSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjE4OTAxOTYyMzEyMjkyNjQwMCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODkyMDIyMjM0Nzk3MjU0MTM3NCIsImltYWdlRG9jaWQiOiI3Mzc1OTY4OTg1MjY1NDQzNzczIiwicmRzIjoiUENfODk3NjQwMDkzMTE0MjA4MDc4M3xQUk9EX1BDXzg5NzY0MDA5MzExNDIwODA3ODMiLCJxdWVyeSI6ImJyYW5keSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://serpapi.com/searches/670a161e3585393564f13518/images/25faca4ab10d4902032cac304ce505b1c02e528e4ec9ca7d3439ada0eb1521d7.webp",
+      "source_logo": "https://serpapi.com/searches/670a161e3585393564f13518/images/25faca4ab10d4902032cac304ce505b1e1af1ba027199ad33b6373e5153da0fbe74255ba6eb263ca.png",
+      "source": "Total Wine & More",
+      "title": "VSOP Brandy & Cognac by Braastad",
+      "rating": 4.6,
+      "reviews": 55,
+      "price": "$44.99",
+      "extracted_price": 44.99,
+      "location": "11 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTkzOTc1NDMzNDc1MzM4NTk4MCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTU0NDg2OTk3NDU3NTEwMjkwODMiLCJpbWFnZURvY2lkIjoiMTA0MjI3MzA4NDM4ODQ0MDIxMjEiLCJyZHMiOiJQQ18xMzAzMDkxMTE5MjM0OTg5NzI1NXxQUk9EX1BDXzEzMDMwOTExMTkyMzQ5ODk3MjU1IiwicXVlcnkiOiJicmFuZHkifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTkzOTc1NDMzNDc1MzM4NTk4MCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTU0NDg2OTk3NDU3NTEwMjkwODMiLCJpbWFnZURvY2lkIjoiMTA0MjI3MzA4NDM4ODQ0MDIxMjEiLCJyZHMiOiJQQ18xMzAzMDkxMTE5MjM0OTg5NzI1NXxQUk9EX1BDXzEzMDMwOTExMTkyMzQ5ODk3MjU1IiwicXVlcnkiOiJicmFuZHkifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://serpapi.com/searches/670a161e3585393564f13518/images/25faca4ab10d4902032cac304ce505b1e37c4d0c25b83d05e68aa91812809250.webp",
+      "source_logo": "https://serpapi.com/searches/670a161e3585393564f13518/images/25faca4ab10d4902032cac304ce505b1ddb8490796e7371f14d2345063cc14af44b7a94784e29054.png",
+      "source": "Total Wine & More",
+      "title": "Brandy XO | Brandy & Cognac by Symbole National | 700ml | France",
+      "rating": 4.2,
+      "reviews": 112,
+      "location": "11 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiMTEzNzU5NDQwNDEyMzI2OTMwNTkiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExMzc1OTQ0MDQxMjMyNjkzMDU5IiwiaW1hZ2VEb2NpZCI6IjE0NzMzNDQ3NjgyODkxMjMwOTU2IiwicmRzIjoiUENfMzY1NTE2NTc4ODMxMzE2OTgyM3xQUk9EX1BDXzM2NTUxNjU3ODgzMTMxNjk4MjMiLCJxdWVyeSI6ImJyYW5keSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiMTEzNzU5NDQwNDEyMzI2OTMwNTkiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExMzc1OTQ0MDQxMjMyNjkzMDU5IiwiaW1hZ2VEb2NpZCI6IjE0NzMzNDQ3NjgyODkxMjMwOTU2IiwicmRzIjoiUENfMzY1NTE2NTc4ODMxMzE2OTgyM3xQUk9EX1BDXzM2NTUxNjU3ODgzMTMxNjk4MjMiLCJxdWVyeSI6ImJyYW5keSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://serpapi.com/searches/670a161e3585393564f13518/images/25faca4ab10d4902032cac304ce505b108d1f4d2912c279f0a1bc9cf6faf2dea.webp",
+      "source_logo": "https://serpapi.com/searches/670a161e3585393564f13518/images/25faca4ab10d4902032cac304ce505b1fd7bb7294b678aafdf6a25379d02cf3deba9e33bc78be6ef.png",
+      "source": "Total Wine & More",
+      "title": "Brandy Grande Amber VSOP | Brandy & Cognac by Paul Masson | 750ml | California",
+      "rating": 3.7,
+      "reviews": 47,
+      "location": "11 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiMTQyNzc4Njc5Mjk3Mzg5MzIxMTIiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0Mjc3ODY3OTI5NzM4OTMyMTEyIiwiaW1hZ2VEb2NpZCI6IjEzMzM2ODg0NjY3MjA0MzgwMjcyIiwicmRzIjoiUENfMTQ0MzMwMTM3OTQyODQxMjU4NnxQUk9EX1BDXzE0NDMzMDEzNzk0Mjg0MTI1ODYiLCJxdWVyeSI6ImJyYW5keSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiMTQyNzc4Njc5Mjk3Mzg5MzIxMTIiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0Mjc3ODY3OTI5NzM4OTMyMTEyIiwiaW1hZ2VEb2NpZCI6IjEzMzM2ODg0NjY3MjA0MzgwMjcyIiwicmRzIjoiUENfMTQ0MzMwMTM3OTQyODQxMjU4NnxQUk9EX1BDXzE0NDMzMDEzNzk0Mjg0MTI1ODYiLCJxdWVyeSI6ImJyYW5keSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODY0MzkxMjUyOTk5NDY2OTMxNSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTE4OTYwMzUyMDQzODgwMDIzNTQiLCJpbWFnZURvY2lkIjoiOTAxNjg2NjAzNDM2NDAxMjA3MyIsInJkcyI6IlBDXzQ5NzMwMTgyMDc0NjgxMjYyOTh8UFJPRF9QQ180OTczMDE4MjA3NDY4MTI2Mjk4IiwicXVlcnkiOiJicmFuZHkifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODY0MzkxMjUyOTk5NDY2OTMxNSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTE4OTYwMzUyMDQzODgwMDIzNTQiLCJpbWFnZURvY2lkIjoiOTAxNjg2NjAzNDM2NDAxMjA3MyIsInJkcyI6IlBDXzQ5NzMwMTgyMDc0NjgxMjYyOTh8UFJPRF9QQ180OTczMDE4MjA3NDY4MTI2Mjk4IiwicXVlcnkiOiJicmFuZHkifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODI2NTcwOTM2MDUxODAxOTkyMyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTI1MTQ0MzUzMDE0NzU4MjUxMzIiLCJpbWFnZURvY2lkIjoiMTY3Nzg3NDE4ODAyNTIxMjcxNzUiLCJyZHMiOiJQQ18xMjkyODE0MDQ3NjMxOTY2ODM4OHxQUk9EX1BDXzEyOTI4MTQwNDc2MzE5NjY4Mzg4IiwicXVlcnkiOiJicmFuZHkifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODI2NTcwOTM2MDUxODAxOTkyMyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTI1MTQ0MzUzMDE0NzU4MjUxMzIiLCJpbWFnZURvY2lkIjoiMTY3Nzg3NDE4ODAyNTIxMjcxNzUiLCJyZHMiOiJQQ18xMjkyODE0MDQ3NjMxOTY2ODM4OHxQUk9EX1BDXzEyOTI4MTQwNDc2MzE5NjY4Mzg4IiwicXVlcnkiOiJicmFuZHkifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTcyODQ5NDI5MTEwOTM4ODU1MDgiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijc5ODkxOTMxMDA1MjQxMDIzODEiLCJpbWFnZURvY2lkIjoiNDg1OTcwMTI5NDc5NzUwMTMxNyIsInJkcyI6IiIsInF1ZXJ5IjoiYnJhbmR5In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTcyODQ5NDI5MTEwOTM4ODU1MDgiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijc5ODkxOTMxMDA1MjQxMDIzODEiLCJpbWFnZURvY2lkIjoiNDg1OTcwMTI5NDc5NzUwMTMxNyIsInJkcyI6IiIsInF1ZXJ5IjoiYnJhbmR5In0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODMyMTE3MTYxNjg4NTY2NzYxNCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTk0ODA3OTc0OTEzODk1MTg1NCIsImltYWdlRG9jaWQiOiIxMTEyNzUzNjgxMDI0NTI1MDg4IiwicmRzIjoiIiwicXVlcnkiOiJicmFuZHkifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODMyMTE3MTYxNjg4NTY2NzYxNCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTk0ODA3OTc0OTEzODk1MTg1NCIsImltYWdlRG9jaWQiOiIxMTEyNzUzNjgxMDI0NTI1MDg4IiwicmRzIjoiIiwicXVlcnkiOiJicmFuZHkifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTYyNDU0NzU4MDY4NDUxMjY0NzAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMDk0MTM5NTM1MTUxNzkyODE4IiwiaW1hZ2VEb2NpZCI6IjE1NjU5NTc2MjA0ODI0ODAyMTU3IiwicmRzIjoiIiwicXVlcnkiOiJicmFuZHkifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTYyNDU0NzU4MDY4NDUxMjY0NzAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMDk0MTM5NTM1MTUxNzkyODE4IiwiaW1hZ2VEb2NpZCI6IjE1NjU5NTc2MjA0ODI0ODAyMTU3IiwicmRzIjoiIiwicXVlcnkiOiJicmFuZHkifQ%3D%3D"
+    },
+    {
+      "category": "Fast pickup or delivery",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRvXIol8kmpnhQUA8VGLnPVfIJN8nYN_T84sX2XnHctBmWbOaupecozizGPHHINlIIJXhvibUOHDlfD7uTHbunpHhDFoxJ9AfQ8Bh_PWbI",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSlepXUCp8Qhp0lfQ8HZziE8V3KXpDZzdtOccjotyhTNm8eayCyz9JwvAdpKrMLOraKzJ6nxNnENgr5Uuev45d51s7ehb_7RDsuqw",
+      "source": "Moore Liquor",
+      "title": "Adam Armenian Brandy 375ml",
+      "rating": 3.3,
+      "reviews": 3,
+      "price": "$31.98",
+      "extracted_price": 31.98,
+      "original_price": "Usually $36",
+      "extracted_original_price": 36,
+      "delivery": "$3.99 by 10/15",
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDg3NDkzOTkxNzg5NTczMDQwMCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTcxMTE1NTEwMDc2MjI5OTg4ODYiLCJpbWFnZURvY2lkIjoiNzY2OTAzNzcyNDA4NjUxNzg5IiwicmRzIjoiUENfMTExNjUwMDAxODE2MDY0NjE1MDR8UFJPRF9QQ18xMTE2NTAwMDE4MTYwNjQ2MTUwNCIsInF1ZXJ5IjoiYnJhbmR5In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDg3NDkzOTkxNzg5NTczMDQwMCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTcxMTE1NTEwMDc2MjI5OTg4ODYiLCJpbWFnZURvY2lkIjoiNzY2OTAzNzcyNDA4NjUxNzg5IiwicmRzIjoiUENfMTExNjUwMDAxODE2MDY0NjE1MDR8UFJPRF9QQ18xMTE2NTAwMDE4MTYwNjQ2MTUwNCIsInF1ZXJ5IjoiYnJhbmR5In0%3D"
+    },
+    {
+      "category": "Fast pickup or delivery",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSbcpPlkiuiQKZEFqHjZaCFNZoI34Z0lx8NIln_IZbvEr4ENuYcIx-XmFmjGkwkzQ7Lk4wR3eIuXxRCTls4bb9Y3dc2tP1xR_2PGmH5TRo",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR44KQAkhSeoGv26WwADt5MurKL0JjURXIZr6vQ7rgjHQoiDrjHg0R9dQXB3EQeA3eaybKJGAmv4p22S6DFcc28QFI04-LhnFCxPQ",
+      "source": "arcadialiquor.com",
+      "title": "Paul Masson Brandy Grande Amber",
+      "rating": 4.5,
+      "reviews": 136,
+      "price": "$1.85",
+      "extracted_price": 1.85,
+      "delivery": "$1 by 10/15",
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTU1Nzk4ODE2ODM3NjgyMzIxOSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTYzNzE4NDYxMzg1MjQ4MDU3NzIiLCJpbWFnZURvY2lkIjoiMTI4NDM4ODQzNTE3NjUyNjUxMDMiLCJyZHMiOiJQQ182OTUyMjc3NzM0NzE5Mzc1MTB8UFJPRF9QQ182OTUyMjc3NzM0NzE5Mzc1MTAiLCJxdWVyeSI6ImJyYW5keSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTU1Nzk4ODE2ODM3NjgyMzIxOSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTYzNzE4NDYxMzg1MjQ4MDU3NzIiLCJpbWFnZURvY2lkIjoiMTI4NDM4ODQzNTE3NjUyNjUxMDMiLCJyZHMiOiJQQ182OTUyMjc3NzM0NzE5Mzc1MTB8UFJPRF9QQ182OTUyMjc3NzM0NzE5Mzc1MTAiLCJxdWVyeSI6ImJyYW5keSJ9"
+    },
+    {
+      "category": "Fast pickup or delivery",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSQXYI2b3gGTwaIB7ilKkmkudLURVg_01yGGjrGaK0jWPPvAM1LxXvYdI_j_TY4E4-hBaHW_v8bdTEBMff2RGlxSWDsivEtRpM2sbkAqCw",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ8MF7wlDgKi29tLngGU2QZtj-mfe1A1YRp3GhPHxIrXHZFVAJeW-gqb9ufdYANX4D1cAzgBzqDsNEdJVsNUxVcydfBAYCnN4hX",
+      "source": "Total Wine & More",
+      "title": "Hennessy Richard Brandy & Cognac 750ml",
+      "rating": 4.6,
+      "reviews": 15,
+      "price": "$4,999.99",
+      "extracted_price": 4999.99,
+      "location": "12 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjU1NDc1MTg1NzM4Mzg2OTQwIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzU4MDM1MzU5OTc4NTA5OTAyMiIsImltYWdlRG9jaWQiOiI4MjExMTAyOTQwMDk5MTk0NTA4IiwicmRzIjoiUENfODE3MTMzNTIyNjY5MTM3NjA3OHxQUk9EX1BDXzgxNzEzMzUyMjY2OTEzNzYwNzgiLCJxdWVyeSI6ImJyYW5keSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjU1NDc1MTg1NzM4Mzg2OTQwIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzU4MDM1MzU5OTc4NTA5OTAyMiIsImltYWdlRG9jaWQiOiI4MjExMTAyOTQwMDk5MTk0NTA4IiwicmRzIjoiUENfODE3MTMzNTIyNjY5MTM3NjA3OHxQUk9EX1BDXzgxNzEzMzUyMjY2OTEzNzYwNzgiLCJxdWVyeSI6ImJyYW5keSJ9"
+    },
+    {
+      "category": "Fast pickup or delivery",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR_bht6Y1Bymt5r2Lyo-ivj-1h0iFViNb9cFzCb4nRJjdpCV27nCkegY9L0WIyF6QoVVdIuPbvR5tLrDTxz1dSv0k9MmO5RdT3rNuww9w",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRrdjJhyFrpWYoHPdSu6Xc48f8R4kjOK2Zqs4bt8HR1POFYoGlF4n0LR_H-k8sM5DMEZ8IgNuHJg7qR-4loDkUC_VXrQNC2z2vwHQsGytU4",
+      "source": "buddy's wines & liquors",
+      "title": "Remy Martin Cognac VSOP",
+      "rating": 4.5,
+      "reviews": 1100,
+      "price": "$33.99",
+      "extracted_price": 33.99,
+      "delivery": "$5 by 10/14",
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjQ4MTkxMDc2NDk0NTkwMTU3MSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTM3NjkxNjQ5NTA3MjM0MzE2NDkiLCJpbWFnZURvY2lkIjoiMTM3MjUyNDA1MzcwODkyNzk4NDEiLCJyZHMiOiJQQ180NDI0MTU3MzQ4NDI1MzAzMzM4fFBST0RfUENfNDQyNDE1NzM0ODQyNTMwMzMzOCIsInF1ZXJ5IjoiYnJhbmR5In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjQ4MTkxMDc2NDk0NTkwMTU3MSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTM3NjkxNjQ5NTA3MjM0MzE2NDkiLCJpbWFnZURvY2lkIjoiMTM3MjUyNDA1MzcwODkyNzk4NDEiLCJyZHMiOiJQQ180NDI0MTU3MzQ4NDI1MzAzMzM4fFBST0RfUENfNDQyNDE1NzM0ODQyNTMwMzMzOCIsInF1ZXJ5IjoiYnJhbmR5In0%3D"
+    },
+    {
+      "category": "Fast pickup or delivery",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSY9c1Fvyo1SzDogJCgEVuopnNVCXvbOLmGtb6rmVQua6y1H3U_HiFumpfsT8LCGFiOWFIsDbr9SbvoXrfRgj0w5YLmgIgKiTix4X5pNg",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR87os33AcexMh-1qs0CKtRxmINL0LCnGLU4jfDd8NKp3ZYU_U1gYPAWk40fg3E7afWRSjrqSf8RaJsx_qyVNtLFpQ2pGarLn2WjpKQ",
+      "source": "Grapes & Grains",
+      "title": "Hiram Walker Blackberry Brandy",
+      "rating": 4.7,
+      "reviews": 57,
+      "price": "$12.99",
+      "extracted_price": 12.99,
+      "original_price": "Usually $16",
+      "extracted_original_price": 16,
+      "delivery": "Free 3-day",
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMyNjc0MTQ3NjE5ODA3NzIxNSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTI4OTQ5NDM2NzQ0MDM4NzMzOTMiLCJpbWFnZURvY2lkIjoiMjc1NTE0MDAxMDMzNDk3MjQ3NCIsInJkcyI6IlBDXzQxMTQwOTE1Mzg0NDk4Mjc5NTR8UFJPRF9QQ180MTE0MDkxNTM4NDQ5ODI3OTU0IiwicXVlcnkiOiJicmFuZHkifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMyNjc0MTQ3NjE5ODA3NzIxNSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTI4OTQ5NDM2NzQ0MDM4NzMzOTMiLCJpbWFnZURvY2lkIjoiMjc1NTE0MDAxMDMzNDk3MjQ3NCIsInJkcyI6IlBDXzQxMTQwOTE1Mzg0NDk4Mjc5NTR8UFJPRF9QQ180MTE0MDkxNTM4NDQ5ODI3OTU0IiwicXVlcnkiOiJicmFuZHkifQ%3D%3D"
+    },
+    {
+      "category": "Fast pickup or delivery",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRK1V-Z4lF4JN9WbZcAvkm5sycgYSWRUeMns2uXlemGecYfTm1NQ1ZSw6H--k32zUq0O9fR7EY1VUXg5EURxMiR7UQUWE1UR2ndRTZMlEcyBpNNlvWIkVBR",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTSLgGvgotY2KfX5gM9yZgcOn2cUyOGkQlmRuoVUe2dbbRMtClm7pwNYAnMBWo7MQalDtQZJNV2qVifmxIa0DWFk4e5IQwZSX9v",
+      "source": "Uber Eats",
+      "title": "Raynal Brandy VSOP",
+      "rating": 4.4,
+      "reviews": 27,
+      "price": "$11.39",
+      "extracted_price": 11.39,
+      "delivery": "$3.49 by 10/11",
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc2OTI2NDUwNzcyODM2MzAwNTQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM0ODczNjI1MTg5MTMxMTQzMjEiLCJpbWFnZURvY2lkIjoiMTE3NTk1NTk3NjMxNDYyNDQxOTAiLCJyZHMiOiJQQ18zNjc0MDMxNDM1NzkxMzAyMjg5fFBST0RfUENfMzY3NDAzMTQzNTc5MTMwMjI4OSIsInF1ZXJ5IjoiYnJhbmR5In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc2OTI2NDUwNzcyODM2MzAwNTQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM0ODczNjI1MTg5MTMxMTQzMjEiLCJpbWFnZURvY2lkIjoiMTE3NTk1NTk3NjMxNDYyNDQxOTAiLCJyZHMiOiJQQ18zNjc0MDMxNDM1NzkxMzAyMjg5fFBST0RfUENfMzY3NDAzMTQzNTc5MTMwMjI4OSIsInF1ZXJ5IjoiYnJhbmR5In0%3D"
+    },
+    {
+      "category": "Fast pickup or delivery",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQmCj7uyoJWAkJqlGtrKySJl0ndOcLYPylL5XK6nxviwvF6mWFwe82srnRVmCwzbyg0L3tVO9ou5oLze7IeUxb5c7PunT7_",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSBGuihlt5YMCeR21EspuJ0HyBN5uuE7M9J5z0v0woh81ZfPj--riZjN8uqiBXNoCXhwMAgFZkp6HIzkX8IfISPe33qSqxsF1go",
+      "source": "Bevies Fine Wine & Spirits",
+      "title": "Paul Masson Grande Amber Brandy VS 200ml",
+      "price": "$4.48",
+      "extracted_price": 4.48,
+      "delivery": "Free 3-day",
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc2NTg1MTI0MzY2MDE4NDM1MDMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0NDE5OTUyNjU4NjQ5MTkzOTc0IiwiaW1hZ2VEb2NpZCI6IjE1NjUxMjgwMTg4NzY3OTI1NjAxIiwicmRzIjoiIiwicXVlcnkiOiJicmFuZHkifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc2NTg1MTI0MzY2MDE4NDM1MDMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0NDE5OTUyNjU4NjQ5MTkzOTc0IiwiaW1hZ2VEb2NpZCI6IjE1NjUxMjgwMTg4NzY3OTI1NjAxIiwicmRzIjoiIiwicXVlcnkiOiJicmFuZHkifQ%3D%3D"
+    },
+    {
+      "category": "Fast pickup or delivery",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRZigR1do8ezSnwe--B79KAfYxXXAPQu8MkEISAmJr04o8NJwGmWLosRDsRyH2WNeg_ighkjCCABA2FFqkRpw7GqJmW9VzM4DQQY6q4PBaN",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJpVeCiO5EQkdWD5N731Dy7MRj-tjBxDNicLi-ECW2DqoyEywLwZ_o1rWl4zc57cbHnIS8pvbvqHrUndt4Phhyq0gU--bnKRA",
+      "source": "Don's and Ben's Liquor",
+      "title": "Paul Masson Brandy Grande Amber Vsop",
+      "rating": 3.7,
+      "reviews": 47,
+      "price": "$26.99",
+      "extracted_price": 26.99,
+      "delivery": "Free 3-day",
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzY4MTA5OTk3MjE5NTM2NTk0OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTMyMjE1NzQyODA3Mzg3NzU2MSIsImltYWdlRG9jaWQiOiIxMzgyMDEzODgxNjg0NzI4MTgyMCIsInJkcyI6IlBDXzE0NDMzMDEzNzk0Mjg0MTI1ODZ8UFJPRF9QQ18xNDQzMzAxMzc5NDI4NDEyNTg2IiwicXVlcnkiOiJicmFuZHkifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzY4MTA5OTk3MjE5NTM2NTk0OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTMyMjE1NzQyODA3Mzg3NzU2MSIsImltYWdlRG9jaWQiOiIxMzgyMDEzODgxNjg0NzI4MTgyMCIsInJkcyI6IlBDXzE0NDMzMDEzNzk0Mjg0MTI1ODZ8UFJPRF9QQ18xNDQzMzAxMzc5NDI4NDEyNTg2IiwicXVlcnkiOiJicmFuZHkifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS9kPaxn6YmtZng_9XkC-RUa836NOYgr0OCQGeN1EyBrTKts1LJ6w-bWsm3E21J5-oQ-Fs_0KR8FIz_4oyb0jA9Lj-2CZgpqUHCq8wptWY",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRhnT4ZmPY4syiiMUDM-qLQDL6jamkq5ZrHKj2gbTGDf_MoJi1j775JrJvTGjqRN7Gj_9qActh0-Dbw-H_F5NeK_U7nwLcywydy0z_OIQ",
+      "source": "Big Daddy's Wine & Liquors",
+      "title": "Gran Duque D'alba Brandy Solera Gran Reserva",
+      "rating": 4.6,
+      "reviews": 33,
+      "price": "$34.99",
+      "extracted_price": 34.99,
+      "original_price": "Usually $40",
+      "extracted_original_price": 40,
+      "delivery": "Free by 10/17",
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzUyMjM5MTUyMzY3NjE1MzU3NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTAzNTQzNTU2MzkzODUwMTY1NzQiLCJpbWFnZURvY2lkIjoiMTcyODczOTk5MDQ0NjgyMzkxNTAiLCJyZHMiOiJQQ18xODQxNjAyMjM0MDU1NzIyMzA4N3xQUk9EX1BDXzE4NDE2MDIyMzQwNTU3MjIzMDg3IiwicXVlcnkiOiJicmFuZHkifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzUyMjM5MTUyMzY3NjE1MzU3NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTAzNTQzNTU2MzkzODUwMTY1NzQiLCJpbWFnZURvY2lkIjoiMTcyODczOTk5MDQ0NjgyMzkxNTAiLCJyZHMiOiJQQ18xODQxNjAyMjM0MDU1NzIyMzA4N3xQUk9EX1BDXzE4NDE2MDIyMzQwNTU3MjIzMDg3IiwicXVlcnkiOiJicmFuZHkifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSriYhQQb05O9dQULf8LUw1xwPX-PpkMp8NZVAAl5h4ZTD937lvo7rflCFPLmQ3oBM4lTTXirjeIm1eVq3i1gG5Y_0uyjmPHVoKlCECeCA",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQvMrbD-TnyIeE4Br1na1fGmCpigKbO2vPR3jmkf8aFJzxks_ZDKj5iqUfR7uUU3bI8fIsim4dVQKdplHLxYGGMu4DHxP_4Y-R58lbG0Oei",
+      "source": "Cristy's Liquor Store",
+      "title": "Courvoisier VS Cognac",
+      "rating": 4.5,
+      "reviews": 1100,
+      "price": "$14.99",
+      "extracted_price": 14.99,
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU0NDMyOTY2MTE2MzI1MjQyNCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzc1MjgyMDg3MDU2NTEyMzE2NyIsImltYWdlRG9jaWQiOiIxNTg1NjkyMjQxNjgzMTc5NDU3IiwicmRzIjoiUENfMjIxOTgxNTg0MjcwMTI1MTk2NnxQUk9EX1BDXzIyMTk4MTU4NDI3MDEyNTE5NjYiLCJxdWVyeSI6ImJyYW5keSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU0NDMyOTY2MTE2MzI1MjQyNCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzc1MjgyMDg3MDU2NTEyMzE2NyIsImltYWdlRG9jaWQiOiIxNTg1NjkyMjQxNjgzMTc5NDU3IiwicmRzIjoiUENfMjIxOTgxNTg0MjcwMTI1MTk2NnxQUk9EX1BDXzIyMTk4MTU4NDI3MDEyNTE5NjYiLCJxdWVyeSI6ImJyYW5keSJ9"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSMwRBMlGA_CrfQDJIuMyP60d97JYC1_3rcxCMvbz76HKh7fEr-KjV_Nal8nFOdU2v_4ws5nmZwVyMrlK7iPDfHoXyEB79U0yeFlM4RBlqB",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEehW74KHfqcy7qgZvTloIjVMQnpMNxOXGX83ldAebVOFEImOwZu0P-5UsJ4lR-YeGTk0tLlcuXbyfzXKO-XW1EDIVf78",
+      "source": "Bondston",
+      "title": "Torres Brandy Jaime I",
+      "rating": 4.7,
+      "reviews": 23,
+      "price": "$108.29",
+      "extracted_price": 108.29,
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjQ0NjMyOTA5MTM2NjExMzA5NyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDU1NzM4MDIwODY3NjY2NzQ3NCIsImltYWdlRG9jaWQiOiIxMjMxOTA1MDU2MTczNjY5MjA4NSIsInJkcyI6IlBDXzQyMDc1NjkzMDQ1MzgyNzg5MTh8UFJPRF9QQ180MjA3NTY5MzA0NTM4Mjc4OTE4IiwicXVlcnkiOiJicmFuZHkifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjQ0NjMyOTA5MTM2NjExMzA5NyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDU1NzM4MDIwODY3NjY2NzQ3NCIsImltYWdlRG9jaWQiOiIxMjMxOTA1MDU2MTczNjY5MjA4NSIsInJkcyI6IlBDXzQyMDc1NjkzMDQ1MzgyNzg5MTh8UFJPRF9QQ180MjA3NTY5MzA0NTM4Mjc4OTE4IiwicXVlcnkiOiJicmFuZHkifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQGy-cK9CSP7Ii6Z59Fz_D2K4hIVGYwn7XnfDOXkLX2qmllNMfXyw0wJlt6wgStLbasSB_PzyjtuJtcKNfKnePw3CEyCQxVX_xXk5JoJbrLoqf1hD_yfnGWYQ",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTLU9KmzL9hKOii7TRv1_mDDUMafHK6CkROApT_qaQcJ6ORHiwtUGxm5bT6cRRAWcg1yeTuFHUxhG25wUlFiB0rW1Pdl0Se9toBJn9iFbUU00hw52pNOZs",
+      "source": "Fine Wine & Good Spirits",
+      "title": "Hennessy Cognac VS",
+      "rating": 4.5,
+      "reviews": 6200,
+      "price": "$22.99",
+      "extracted_price": 22.99,
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiMjgwMDIxMjEzMTMyMTU3NDE2MSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjgwMDIxMjEzMTMyMTU3NDE2MSIsImltYWdlRG9jaWQiOiIyMzQyOTk2NDE0ODk4NjQ5NjExIiwicmRzIjoiUENfMTY1MjQ2NjA0OTc5NjM3Mjk0NHxQUk9EX1BDXzE2NTI0NjYwNDk3OTYzNzI5NDQiLCJxdWVyeSI6ImJyYW5keSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiMjgwMDIxMjEzMTMyMTU3NDE2MSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjgwMDIxMjEzMTMyMTU3NDE2MSIsImltYWdlRG9jaWQiOiIyMzQyOTk2NDE0ODk4NjQ5NjExIiwicmRzIjoiUENfMTY1MjQ2NjA0OTc5NjM3Mjk0NHxQUk9EX1BDXzE2NTI0NjYwNDk3OTYzNzI5NDQiLCJxdWVyeSI6ImJyYW5keSJ9"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTJm4MZzFnQ8d5JpXQSspoFWiH3fL6j0WE-SdYh44D1-0BzCUinR_17hqPu2WdSpaNUcDKEV7JaKOMM0pJ9KHz-UbkAqrM0X1dOVIMZkjI",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRt6e0ZeQ2Z66bsQ04uTJfkwS1byB6NlTeSsiio2z812AL-vJAjGZNvk6whxBMIdFiQN5xRYhiYptfiR6VboggAiFBwtwBAgDr4ZIg5F0ravVc",
+      "source": "Cheers Liquor Mart",
+      "title": "Paul Masson Brandy Grande Amber",
+      "rating": 4.5,
+      "reviews": 136,
+      "price": "$7.99",
+      "extracted_price": 7.99,
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTU1Nzk4ODE2ODM3NjgyMzIxOSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzA4MzAxNzc2ODQ2Mjc1NTA0MSIsImltYWdlRG9jaWQiOiI3NzU4NTk0MTQxNjY1ODYzNTUwIiwicmRzIjoiUENfNjk1MjI3NzczNDcxOTM3NTEwfFBST0RfUENfNjk1MjI3NzczNDcxOTM3NTEwIiwicXVlcnkiOiJicmFuZHkifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTU1Nzk4ODE2ODM3NjgyMzIxOSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzA4MzAxNzc2ODQ2Mjc1NTA0MSIsImltYWdlRG9jaWQiOiI3NzU4NTk0MTQxNjY1ODYzNTUwIiwicmRzIjoiUENfNjk1MjI3NzczNDcxOTM3NTEwfFBST0RfUENfNjk1MjI3NzczNDcxOTM3NTEwIiwicXVlcnkiOiJicmFuZHkifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSGbipXFfbjQa9XcJqgV76NWjWo4Ykue3SimpjJwRFIC4ZsWmJkPf10SRTwjTvfF0fQtYD1pWWY-TYmExAM28yINPe8MPGOfR9PyExKbQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEehW74KHfqcy7qgZvTloIjVMQnpMNxOXGX83ldAebVOFEImOwZu0P-5UsJ4lR-YeGTk0tLlcuXbyfzXKO-XW1EDIVf78",
+      "source": "Bondston",
+      "title": "Georgian Brandy Black Edition 0,5l",
+      "price": "$12.59",
+      "extracted_price": 12.59,
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiNTg1MzAxNDcwODIzNzE4NzIxNCIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTg1MzAxNDcwODIzNzE4NzIxNCIsImltYWdlRG9jaWQiOiIxNjUxMzk3NDI2MzA4MTgzOTAwMyIsInJkcyI6IiIsInF1ZXJ5IjoiYnJhbmR5In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiNTg1MzAxNDcwODIzNzE4NzIxNCIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTg1MzAxNDcwODIzNzE4NzIxNCIsImltYWdlRG9jaWQiOiIxNjUxMzk3NDI2MzA4MTgzOTAwMyIsInJkcyI6IiIsInF1ZXJ5IjoiYnJhbmR5In0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSCbl7_G2MNJkpVCi-azeBpyXfmCxRYin055IvXecl7Owev6MBWmbV_jr3VAtqGzWWCD0v2cdCU-z0wMcWP0zxHWQQ87Dn13B4V1AeDwoc9NlFD9D61bu7_",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQFvseE-TI47W5nnsO7E___3Y1pj6v0r-XBN3lpYV-W2ScuStJKYTedhOZN_SzqJ6kuxRaEtZDuT6QiG-lHFpPyhcyGkNAZZQ",
+      "source": "LoveScotch",
+      "title": "Ararat Nairi XO 20 Year Brandy",
+      "rating": 4.6,
+      "reviews": 37,
+      "price": "$124.99",
+      "extracted_price": 124.99,
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI0MTM4NDc0NTM5OTUxMTI2NDQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMjc0NjM2NjU2OTA0OTM0NjgzIiwiaW1hZ2VEb2NpZCI6IjQ5MTc4NTk3Mjc3NjE2OTU4OTAiLCJyZHMiOiJQQ185ODI1NTk4Mjk5ODg1MTEzMjgwfFBST0RfUENfOTgyNTU5ODI5OTg4NTExMzI4MCIsInF1ZXJ5IjoiYnJhbmR5In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI0MTM4NDc0NTM5OTUxMTI2NDQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMjc0NjM2NjU2OTA0OTM0NjgzIiwiaW1hZ2VEb2NpZCI6IjQ5MTc4NTk3Mjc3NjE2OTU4OTAiLCJyZHMiOiJQQ185ODI1NTk4Mjk5ODg1MTEzMjgwfFBST0RfUENfOTgyNTU5ODI5OTg4NTExMzI4MCIsInF1ZXJ5IjoiYnJhbmR5In0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQfuVnnTeEtxfMz6fI7ZDfQ1yHs4mw8i82eQ_5NAEAyaVhr5SnMrFiK9jHFZj76zCQ7u0-4QdgpMdPVz6MSd_aFlrqm7DN9URs6Mold9YE",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEehW74KHfqcy7qgZvTloIjVMQnpMNxOXGX83ldAebVOFEImOwZu0P-5UsJ4lR-YeGTk0tLlcuXbyfzXKO-XW1EDIVf78",
+      "source": "Bondston",
+      "title": "Ararat 10 Year Old Brandy",
+      "rating": 4.7,
+      "reviews": 27,
+      "price": "$29.34",
+      "extracted_price": 29.34,
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIzMTAzNjE4NzExMTAwODI4MiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjI4MzIxNzU0OTg2NjA1MzE4OCIsImltYWdlRG9jaWQiOiIxNDMwMTUyNDA1NzE0MTAwNTg4NiIsInJkcyI6IlBDXzM0MzEzMDkyNjA5NDQwNTUzMjZ8UFJPRF9QQ18zNDMxMzA5MjYwOTQ0MDU1MzI2IiwicXVlcnkiOiJicmFuZHkifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIzMTAzNjE4NzExMTAwODI4MiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjI4MzIxNzU0OTg2NjA1MzE4OCIsImltYWdlRG9jaWQiOiIxNDMwMTUyNDA1NzE0MTAwNTg4NiIsInJkcyI6IlBDXzM0MzEzMDkyNjA5NDQwNTUzMjZ8UFJPRF9QQ18zNDMxMzA5MjYwOTQ0MDU1MzI2IiwicXVlcnkiOiJicmFuZHkifQ%3D%3D"
+    },
+    {
+      "category": "Deals on Brandy & Cognac",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQGIlG-g5aKJJli1UY539LyRoT2WPm6wRbQ14TM5FkdpUihw5XrWovQhXWdyXOi7kUXlo6AMx_IPZrNj59A6S9Z9lJhIl6PBwqtyXorGgkT7oBvsK3rXy-R",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSD2Cb5nNPRHBOWq5zVAn46AGDWHZnfxnUb_JaIndXGelgURfFpCt2qLb1v3y4c7uPqRl4W-ycV8FoCGLdj_-GPIAiBtWR6Xx0n8L13pzhDhQ",
+      "source": "Westchester Wine Warehouse",
+      "title": "Malesia Raki Rrushi Grape Brandy",
+      "price": "$21.99",
+      "extracted_price": 21.99,
+      "original_price": "$28",
+      "extracted_original_price": 28,
+      "delivery": "Free $199+",
+      "extensions": [
+        "21% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjIwMTgyNjAyODUzNDAxNTMwOSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODk2NzI3MjMxNTg5MDU3NTc3OSIsImltYWdlRG9jaWQiOiIyMTAyNjAwNDM3MDM3NzUwOTYiLCJyZHMiOiIiLCJxdWVyeSI6ImJyYW5keSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjIwMTgyNjAyODUzNDAxNTMwOSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODk2NzI3MjMxNTg5MDU3NTc3OSIsImltYWdlRG9jaWQiOiIyMTAyNjAwNDM3MDM3NzUwOTYiLCJyZHMiOiIiLCJxdWVyeSI6ImJyYW5keSJ9"
+    },
+    {
+      "category": "Deals on Brandy & Cognac",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRs9MGtG5Q9ilBfwgQdlt_PYQEvBJCRtWSa_-UzqeYtmFp28sezK7j0peT84lcvRh2UQN7gGxeKdU7_cW93GRM3dhK8lTZW6A",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQqjWv-HdpNsh5YQScwV-pTQu_TFO-S4n0g5LP0KaSyxAO4rdBRRYdpv2lx9-suW69z6ZSFoI8JkxnndZjG6IOl-RHDAR6sVGaa",
+      "source": "Rapid Liquors",
+      "title": "Metaxa 5 Star Brandy",
+      "rating": 4.7,
+      "reviews": 143,
+      "price": "$20.99",
+      "extracted_price": 20.99,
+      "original_price": "Usually $31",
+      "extracted_original_price": 31,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTcyODM2OTAwNTU4NzY1MDM3MiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODQ1NTMwNDU3MzEzNzUzMDI4MyIsImltYWdlRG9jaWQiOiI0NDQ2NzI0NDM3NjAwMjk1OTQ5IiwicmRzIjoiUENfOTEyNTM2OTkzMzkxMjM1MjU4NHxQUk9EX1BDXzkxMjUzNjk5MzM5MTIzNTI1ODQiLCJxdWVyeSI6ImJyYW5keSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTcyODM2OTAwNTU4NzY1MDM3MiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODQ1NTMwNDU3MzEzNzUzMDI4MyIsImltYWdlRG9jaWQiOiI0NDQ2NzI0NDM3NjAwMjk1OTQ5IiwicmRzIjoiUENfOTEyNTM2OTkzMzkxMjM1MjU4NHxQUk9EX1BDXzkxMjUzNjk5MzM5MTIzNTI1ODQiLCJxdWVyeSI6ImJyYW5keSJ9"
+    },
+    {
+      "category": "Deals on Brandy & Cognac",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQP6ITxKVrG8iZQ0P-dkgAuMW2EbW8w9LdkvMlCPx_L4IiWPHc-xE2P5o6rCFyMgryeDf4-36gl-vYRQXsMqFpWJWr9n97LclcMGWLryes",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTUrgpVF65cj1SOYHOFhfsggWVGXmBqK3SgxJp3ZrzaRX11kbz4LBmW4GKxzRyxINc5n40NSKYmV1-4Mg2sLjv7Z_FnKvIipvY",
+      "source": "Jersey City Super Buy Rite",
+      "title": "Leroux Ginger Flavored Brandy",
+      "rating": 5.0,
+      "reviews": 2,
+      "price": "$9.99",
+      "extracted_price": 9.99,
+      "original_price": "$12",
+      "extracted_original_price": 12,
+      "extensions": [
+        "16% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU4NzUxNDE3MzQ4Mjg1OTU0NTEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjYwMjM4NTE5NzkyNzkzNDYxNjQiLCJpbWFnZURvY2lkIjoiMTE4ODM5NDQyMDkzOTAxNjU1ODYiLCJyZHMiOiJQQ18xODEyNDg5ODk1MjMxNTY0OTIyfFBST0RfUENfMTgxMjQ4OTg5NTIzMTU2NDkyMiIsInF1ZXJ5IjoiYnJhbmR5In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU4NzUxNDE3MzQ4Mjg1OTU0NTEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjYwMjM4NTE5NzkyNzkzNDYxNjQiLCJpbWFnZURvY2lkIjoiMTE4ODM5NDQyMDkzOTAxNjU1ODYiLCJyZHMiOiJQQ18xODEyNDg5ODk1MjMxNTY0OTIyfFBST0RfUENfMTgxMjQ4OTg5NTIzMTU2NDkyMiIsInF1ZXJ5IjoiYnJhbmR5In0%3D"
+    },
+    {
+      "category": "Deals on Brandy & Cognac",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS2tO9YLf8Tp29a63bSEaj11C8VrZorgo0wy0tLbxgOPHmSo12IIg8QdKU_EcZUwM3sHSobOgxehepBPXpQ8HTCdK4bAC7CDO6v5qqMYVg",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS4TosWcCucUnuNBDKONrr_h_5pRQAsQdG7y20kco5oPx2MDiDbGVojf2iKCG9SlymWQa9dBD-RuUilTW7KtJye7HgInsYfvriT",
+      "source": "Pequa Spirits",
+      "title": "Korbel Brandy",
+      "rating": 4.3,
+      "reviews": 67,
+      "price": "$8.99",
+      "extracted_price": 8.99,
+      "original_price": "Usually $12",
+      "extracted_original_price": 12,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTk0MzE4MDkxMDg4MjEyODE4NSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzgzNzQ0OTMwMjcyMzk5MDQ0MSIsImltYWdlRG9jaWQiOiIxMTcyODE4ODk2NjE0NDc1MzQ2MCIsInJkcyI6IlBDXzE1NzA3MzI4MTc3NTE1Nzc1MDE1fFBST0RfUENfMTU3MDczMjgxNzc1MTU3NzUwMTUiLCJxdWVyeSI6ImJyYW5keSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTk0MzE4MDkxMDg4MjEyODE4NSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzgzNzQ0OTMwMjcyMzk5MDQ0MSIsImltYWdlRG9jaWQiOiIxMTcyODE4ODk2NjE0NDc1MzQ2MCIsInJkcyI6IlBDXzE1NzA3MzI4MTc3NTE1Nzc1MDE1fFBST0RfUENfMTU3MDczMjgxNzc1MTU3NzUwMTUiLCJxdWVyeSI6ImJyYW5keSJ9"
+    },
+    {
+      "category": "Deals on Brandy & Cognac",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQBJneG9_tnSD0gPtP9-EM4TDJt5YBPLQ7p0BwSSU-ywTMYnkz7YkOwmXWN20dX7AFO-GLdDMLMrrAsMYaW4IalIxW29oVEh40nAg9sHQ",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQqjWv-HdpNsh5YQScwV-pTQu_TFO-S4n0g5LP0KaSyxAO4rdBRRYdpv2lx9-suW69z6ZSFoI8JkxnndZjG6IOl-RHDAR6sVGaa",
+      "source": "Rapid Liquors",
+      "title": "Christian Brothers Christian Bros Brandy",
+      "rating": 4.4,
+      "reviews": 59,
+      "price": "$9.99",
+      "extracted_price": 9.99,
+      "original_price": "Usually $14",
+      "extracted_original_price": 14,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ1MzI1MTg1MzIxNzY4NDE0NTAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM2ODAyMDY1NzcwMzkzOTYwMjkiLCJpbWFnZURvY2lkIjoiMTUwMzAwOTMyODU1NjgzNDkwNjYiLCJyZHMiOiJQQ181NDk1MTAyMjIzMTQyMDY2Mjk3fFBST0RfUENfNTQ5NTEwMjIyMzE0MjA2NjI5NyIsInF1ZXJ5IjoiYnJhbmR5In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ1MzI1MTg1MzIxNzY4NDE0NTAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM2ODAyMDY1NzcwMzkzOTYwMjkiLCJpbWFnZURvY2lkIjoiMTUwMzAwOTMyODU1NjgzNDkwNjYiLCJyZHMiOiJQQ181NDk1MTAyMjIzMTQyMDY2Mjk3fFBST0RfUENfNTQ5NTEwMjIyMzE0MjA2NjI5NyIsInF1ZXJ5IjoiYnJhbmR5In0%3D"
+    },
+    {
+      "category": "Deals on Brandy & Cognac",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSSVlkHCfIfL7jxNfchbFABrDF5BXPz6C3PxcfwmvRQodGKKhgT-iMLE1HXEiVpFL3Xz2diF5JIVvQFUNVpNYbMTTgycDptkYC3qcCAEQqzKKAHVn2rGkWB",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcStAqNj0rfmFloMV_u6lgS45WIKnPtyaWmHHJHnBUrWNrQk-fR3rSyUegWvdl5Xtz0AhECLDrK69ImU92i_zpFaJQez",
+      "source": "ShopSK",
+      "title": "Paul Masson Brandy Grande Amber Vsop",
+      "rating": 3.7,
+      "reviews": 47,
+      "price": "$10.99",
+      "extracted_price": 10.99,
+      "original_price": "Usually $13",
+      "extracted_original_price": 13,
+      "delivery": "Free by 10/16",
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM4NjYxNzM3Mjc0MzY5OTMyODMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ1Mzg3NjY3MzQ5NTYyNjU1NzkiLCJpbWFnZURvY2lkIjoiNDQwODE3MTY3MjYxNjg4NTU1MCIsInJkcyI6IlBDXzE0NDMzMDEzNzk0Mjg0MTI1ODZ8UFJPRF9QQ18xNDQzMzAxMzc5NDI4NDEyNTg2IiwicXVlcnkiOiJicmFuZHkifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM4NjYxNzM3Mjc0MzY5OTMyODMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ1Mzg3NjY3MzQ5NTYyNjU1NzkiLCJpbWFnZURvY2lkIjoiNDQwODE3MTY3MjYxNjg4NTU1MCIsInJkcyI6IlBDXzE0NDMzMDEzNzk0Mjg0MTI1ODZ8UFJPRF9QQ18xNDQzMzAxMzc5NDI4NDEyNTg2IiwicXVlcnkiOiJicmFuZHkifQ%3D%3D"
+    },
+    {
+      "category": "Deals on Brandy & Cognac",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTst6MqTg00WadfoArv3og__STmzZaJqutiecBQbMX5--lM0D3x_nIEk_vFhl8WUjyHx2AQ0xQ2BAWq3GCtLkrBAsq_O46NQUFz7Slbgn3n",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQpgfL0avcSnIIA7Wnlomi5kymZiO0A2kINnMkGZ3G1FlJRmOOARrbdPOOdSZARVbApsdeCP7QiIe5WxnPSOaIbtM4r",
+      "source": "Amazon",
+      "title": "Vecchia Romagna Brandy 100 CL",
+      "rating": 5.0,
+      "reviews": 5,
+      "price": "$32.82",
+      "extracted_price": 32.82,
+      "original_price": "Usually $41",
+      "extracted_original_price": 41,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE5MDQ1NzI3NDkzNjMzMDc0MzUiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjUxNzQ3Mzk0Njg2MzcyNjk4MyIsImltYWdlRG9jaWQiOiIyMDk2NzMzNDg5NDY3OTg4ODYiLCJyZHMiOiJQQ184NDE2NDAzODA1OTA5NzUxMDQ4fFBST0RfUENfODQxNjQwMzgwNTkwOTc1MTA0OCIsInF1ZXJ5IjoiYnJhbmR5In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE5MDQ1NzI3NDkzNjMzMDc0MzUiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjUxNzQ3Mzk0Njg2MzcyNjk4MyIsImltYWdlRG9jaWQiOiIyMDk2NzMzNDg5NDY3OTg4ODYiLCJyZHMiOiJQQ184NDE2NDAzODA1OTA5NzUxMDQ4fFBST0RfUENfODQxNjQwMzgwNTkwOTc1MTA0OCIsInF1ZXJ5IjoiYnJhbmR5In0%3D"
+    },
+    {
+      "category": "Deals on Brandy & Cognac",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSRKyogjNwsHNERi54lVIFG2Ru8fRmjEenyYwNVZkr-3xpHoPS726gpTFY6exVTUrDwWQI-rDYIiScwVeeUEqfOc4HOlMMBHbXBdAn_NQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQMb6iFTgzSplpzuvp-rSjRPXx0Rqob9Ory5wItOD7KKtnOL1sQ2kcyXxD18R_nSvYyomb1UMznGHaCuQsVv1LyLUtqq2VKV45cYQvmV9tdvREr",
+      "source": "Heritage Wine and Liquor",
+      "title": "E & J Spiced Brandy",
+      "rating": 5.0,
+      "reviews": 2,
+      "price": "$9.99",
+      "extracted_price": 9.99,
+      "original_price": "$12",
+      "extracted_original_price": 12,
+      "extensions": [
+        "16% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODY1OTc3MDM3NDEzMzM0ODQxNyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTAwNTk0Nzc3MTU0MTA4ODcxMjkiLCJpbWFnZURvY2lkIjoiMTQxNjM1ODc4NDU5MTg1MTA1MzkiLCJyZHMiOiJQQ18xOTY4MTcwOTA3Mjk1OTQyNzE2fFBST0RfUENfMTk2ODE3MDkwNzI5NTk0MjcxNiIsInF1ZXJ5IjoiYnJhbmR5In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODY1OTc3MDM3NDEzMzM0ODQxNyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTAwNTk0Nzc3MTU0MTA4ODcxMjkiLCJpbWFnZURvY2lkIjoiMTQxNjM1ODc4NDU5MTg1MTA1MzkiLCJyZHMiOiJQQ18xOTY4MTcwOTA3Mjk1OTQyNzE2fFBST0RfUENfMTk2ODE3MDkwNzI5NTk0MjcxNiIsInF1ZXJ5IjoiYnJhbmR5In0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRy-a23azLF0TJOAKcqZC4BVA5UiwVYfAaVL4IR7PiKsIxFgZ0-fAyAHbJi_3ZOJhubVBy6yI1WZT8ZAE3UCGGo-zCL33Ge_JJaBY2Ta8cP",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRSK6DXHA7yF7wDdKOscOs5492OD8xdAKnt6-4l1kouv5JRKxxBuW4Lj1rClLjcniFGfTQRRDexiLfC0jgptk6uP12T-WZVwDR4cg",
+      "source": "The Liquor Bros",
+      "title": "Adam Armenian Brandy 375ml",
+      "rating": 3.3,
+      "reviews": 3,
+      "price": "$35.99",
+      "extracted_price": 35.99,
+      "original_price": "$50",
+      "extracted_original_price": 50,
+      "extensions": [
+        "28% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDg3NDkzOTkxNzg5NTczMDQwMCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQ2NjEwNDI4NjQ3MTU3MDk3MiIsImltYWdlRG9jaWQiOiIxMTAxMTY0MTU5OTM1NDYwMzIyNSIsInJkcyI6IlBDXzExMTY1MDAwMTgxNjA2NDYxNTA0fFBST0RfUENfMTExNjUwMDAxODE2MDY0NjE1MDQiLCJxdWVyeSI6ImJyYW5keSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDg3NDkzOTkxNzg5NTczMDQwMCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQ2NjEwNDI4NjQ3MTU3MDk3MiIsImltYWdlRG9jaWQiOiIxMTAxMTY0MTU5OTM1NDYwMzIyNSIsInJkcyI6IlBDXzExMTY1MDAwMTgxNjA2NDYxNTA0fFBST0RfUENfMTExNjUwMDAxODE2MDY0NjE1MDQiLCJxdWVyeSI6ImJyYW5keSJ9"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQWH3jWv72fhAScUazAiTHzzz1lX8l99kRESjypu7pNPjKXDKsT_HCj1A5OiJmuGdUOprV52qXotnBM1-5rsFP6tUFrO1Vu-4PXEOWNwYX8bDH0P45EnO11",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQJabgWQBlkSDxJ_H3BSR1_MjhAn_AL94NzNCLnV5gdJc5X0-iNHBqnMzcTqf15NRM_VrJyfvyFeN28QtS6YmzMQkMl0A",
+      "source": "Walmart",
+      "title": "Christian Brothers Brandy",
+      "rating": 4.3,
+      "reviews": 167,
+      "price": "$17.98",
+      "extracted_price": 17.98,
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE3NzY1MDYyNDEwOTk3Njk4MTAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2MDE5MjUyNDIyOTI4NDEzODc1IiwiaW1hZ2VEb2NpZCI6IjI2NzAzMjE1NDg1Mjk1Nzc2OTciLCJyZHMiOiJQQ180MjY0MDk3ODMyMDUxMzE2fFBST0RfUENfNDI2NDA5NzgzMjA1MTMxNiIsInF1ZXJ5IjoiYnJhbmR5In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE3NzY1MDYyNDEwOTk3Njk4MTAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2MDE5MjUyNDIyOTI4NDEzODc1IiwiaW1hZ2VEb2NpZCI6IjI2NzAzMjE1NDg1Mjk1Nzc2OTciLCJyZHMiOiJQQ180MjY0MDk3ODMyMDUxMzE2fFBST0RfUENfNDI2NDA5NzgzMjA1MTMxNiIsInF1ZXJ5IjoiYnJhbmR5In0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqzVzOcYU3hrkeqtd20hD_NYnqRL4FXROvHqs5nr4FLJWGfUtKnGVpA7hsS-uFLZi67nRRz3iERt1Hxfy4LTLsmotxx5hmUc2gzMWBdI3ZjrE8nvBB9-4D",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRpu4aBrE_YRj3G71r4frUqwGTI2x321pH13cep1uEo2MI6Si_p0QfOUCMiv8n3IwAjcGCRPsSfLnmLjqhfgZqOJZvQQB4-xFvzAFfU",
+      "source": "The Spirit Shoppe",
+      "title": "Cognac VS Hennessy",
+      "rating": 4.5,
+      "reviews": 6200,
+      "price": "$9.49",
+      "extracted_price": 9.49,
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTAxNjcwNjk5NTI4NTkzNzY3MiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTUyODQzNjUwMDYzMzk3NjUxNCIsImltYWdlRG9jaWQiOiI0MDQzMzQyMjg3NDY0MTM3NjUiLCJyZHMiOiJQQ18xNjUyNDY2MDQ5Nzk2MzcyOTQ0fFBST0RfUENfMTY1MjQ2NjA0OTc5NjM3Mjk0NCIsInF1ZXJ5IjoiYnJhbmR5In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTAxNjcwNjk5NTI4NTkzNzY3MiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTUyODQzNjUwMDYzMzk3NjUxNCIsImltYWdlRG9jaWQiOiI0MDQzMzQyMjg3NDY0MTM3NjUiLCJyZHMiOiJQQ18xNjUyNDY2MDQ5Nzk2MzcyOTQ0fFBST0RfUENfMTY1MjQ2NjA0OTc5NjM3Mjk0NCIsInF1ZXJ5IjoiYnJhbmR5In0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR8Id9QYaoVeb1Krqro7bxBMz1m7oEBFpC_8z7esTb5GO5-B4E5qmtKI3MWS4TQZERx9zfXdjkvkSQsE28-N_beINxrz6NH1Edf8xfP6kP3_4ystpReazNCgw",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSL7kzd7lTx7PGr_zqeRXHu_xu3E2bot2P2QjhUJIgPWCOfpi0jlLqSYuyxASQcdtol9n269EujviP272mzXdllHm2tqx8w1YCtrjv0xhc",
+      "source": "Mission Wine & Spirits",
+      "title": "Remy Martin Cognac Louis XIII",
+      "rating": 4.7,
+      "reviews": 128,
+      "price": "$3,799.99",
+      "extracted_price": 3799.99,
+      "delivery": "Free by 10/21",
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTEzNjczOTExMzY0MTc0MzcyNTMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ0Njg0MzU5Mjc1NjMzMTY2MSIsImltYWdlRG9jaWQiOiIzMDc1NDkyOTg0NDUzODIxMTAzIiwicmRzIjoiUENfNjgyNjQ1NzgxNTMwMTgzMDY5OHxQUk9EX1BDXzY4MjY0NTc4MTUzMDE4MzA2OTgiLCJxdWVyeSI6ImJyYW5keSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTEzNjczOTExMzY0MTc0MzcyNTMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ0Njg0MzU5Mjc1NjMzMTY2MSIsImltYWdlRG9jaWQiOiIzMDc1NDkyOTg0NDUzODIxMTAzIiwicmRzIjoiUENfNjgyNjQ1NzgxNTMwMTgzMDY5OHxQUk9EX1BDXzY4MjY0NTc4MTUzMDE4MzA2OTgiLCJxdWVyeSI6ImJyYW5keSJ9"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSMeeF6ngFKkS1i-XlCz3MtS6dKq1zpWYd6_Ko1PLBKlMtYTIOzH1LfeGhu46yAVZmyMC8mlx6vDsehblWR4CcvDAkRLddYhiqUDBgrL0PIr7x-NNs_4qo",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQJabgWQBlkSDxJ_H3BSR1_MjhAn_AL94NzNCLnV5gdJc5X0-iNHBqnMzcTqf15NRM_VrJyfvyFeN28QtS6YmzMQkMl0A",
+      "source": "Walmart",
+      "title": "E&J VS Brandy 750ml",
+      "rating": 4.4,
+      "reviews": 209,
+      "price": "$9.98",
+      "extracted_price": 9.98,
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTM2NTQ3MTc3MTY4MjQ1NDA4NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODMyMDE0MjI0NzI3MDE3ODM0NyIsImltYWdlRG9jaWQiOiIxOTcwNTA1Mjc2Mzk4ODk5MzgiLCJyZHMiOiJQQ18xNjI4ODA5NDYyNjI5MzU2MDkxNnxQUk9EX1BDXzE2Mjg4MDk0NjI2MjkzNTYwOTE2IiwicXVlcnkiOiJicmFuZHkifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTM2NTQ3MTc3MTY4MjQ1NDA4NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODMyMDE0MjI0NzI3MDE3ODM0NyIsImltYWdlRG9jaWQiOiIxOTcwNTA1Mjc2Mzk4ODk5MzgiLCJyZHMiOiJQQ18xNjI4ODA5NDYyNjI5MzU2MDkxNnxQUk9EX1BDXzE2Mjg4MDk0NjI2MjkzNTYwOTE2IiwicXVlcnkiOiJicmFuZHkifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQlZATno_YHeP4YDcRq2tUBHmjxH-urAUPzfvLNlZvW32pxcoba681FTB6giGWsaca-5_jjf1scvyRuzHb72g1hBqSqqaAgozfiYnkyQwg",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR-5fWgbD_1b8FcYLC83Xt7FzBck72MZ-rwqdu9sBIkaroE0GeYfSciKZI9zzggn8sZEUrBnUId86icGBeeG1tVwAHal1BuchYoQg",
+      "source": "Gary's Wine & Marketplace",
+      "title": "Leroux Blackberry Brandy",
+      "rating": 4.2,
+      "reviews": 45,
+      "price": "$8.99",
+      "extracted_price": 8.99,
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjA3MDcxMjQ1NzY0ODk0ODIwOCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjkxOTA1NTUxOTE3MTA1MjExMCIsImltYWdlRG9jaWQiOiI4MDA0MTE0MzY5OTcyODI1ODc4IiwicmRzIjoiUENfMTA2MzAzNTE1NzI0MjI4MTM5NTF8UFJPRF9QQ18xMDYzMDM1MTU3MjQyMjgxMzk1MSIsInF1ZXJ5IjoiYnJhbmR5In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjA3MDcxMjQ1NzY0ODk0ODIwOCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjkxOTA1NTUxOTE3MTA1MjExMCIsImltYWdlRG9jaWQiOiI4MDA0MTE0MzY5OTcyODI1ODc4IiwicmRzIjoiUENfMTA2MzAzNTE1NzI0MjI4MTM5NTF8UFJPRF9QQ18xMDYzMDM1MTU3MjQyMjgxMzk1MSIsInF1ZXJ5IjoiYnJhbmR5In0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRH6n0qXAEIC_imzc6ElUM6enw6XxqtwIiIeH6nexYbwE-0OIU5yvDuKEEDe7B9T8IpWSr3zJffnMRfJB4N3AzkBC-Qu-MuGkVCeTiJsllxgVBJoD-bboI0",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSL7kzd7lTx7PGr_zqeRXHu_xu3E2bot2P2QjhUJIgPWCOfpi0jlLqSYuyxASQcdtol9n269EujviP272mzXdllHm2tqx8w1YCtrjv0xhc",
+      "source": "Mission Wine & Spirits",
+      "title": "Paul Masson Brandy Grande Amber 1.75L",
+      "rating": 5.0,
+      "reviews": 3,
+      "price": "$7.99",
+      "extracted_price": 7.99,
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTgyMzg5OTM3NTY2NDEwNDE4MyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODAzNDIyOTkzMTM0MzEyNDAwMiIsImltYWdlRG9jaWQiOiI2NjA1Njk3NjU4MDI5MTY1Nzk4IiwicmRzIjoiUENfMTAxMjgyODI2Mzc0NDUyOTg4MTZ8UFJPRF9QQ18xMDEyODI4MjYzNzQ0NTI5ODgxNiIsInF1ZXJ5IjoiYnJhbmR5In0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTgyMzg5OTM3NTY2NDEwNDE4MyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODAzNDIyOTkzMTM0MzEyNDAwMiIsImltYWdlRG9jaWQiOiI2NjA1Njk3NjU4MDI5MTY1Nzk4IiwicmRzIjoiUENfMTAxMjgyODI2Mzc0NDUyOTg4MTZ8UFJPRF9QQ18xMDEyODI4MjYzNzQ0NTI5ODgxNiIsInF1ZXJ5IjoiYnJhbmR5In0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQWyyGl0OQ0tfCLHdKRP5EA-J5qhG51JbPV3SSEgFz4Rb99z8rQIISKC4MQd8nvKx6QfVfRj5yg37TokxE8zbLigqBdR7wL0uSVRS9HxbhFdXyBro0bs7FF",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTLU9KmzL9hKOii7TRv1_mDDUMafHK6CkROApT_qaQcJ6ORHiwtUGxm5bT6cRRAWcg1yeTuFHUxhG25wUlFiB0rW1Pdl0Se9toBJn9iFbUU00hw52pNOZs",
+      "source": "Fine Wine & Good Spirits",
+      "title": "Remy Martin Cognac VSOP",
+      "rating": 4.5,
+      "reviews": 1100,
+      "price": "$29.99",
+      "extracted_price": 29.99,
+      "immersive_product_page_token": "eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjQ4MTkxMDc2NDk0NTkwMTU3MSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjYzOTI3MTU1NzY4NDk2MjE5OSIsImltYWdlRG9jaWQiOiIxMDU1MjA3MjY1MzkzNzYwNjc1OCIsInJkcyI6IlBDXzQ0MjQxNTczNDg0MjUzMDMzMzh8UFJPRF9QQ180NDI0MTU3MzQ4NDI1MzAzMzM4IiwicXVlcnkiOiJicmFuZHkifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjQ4MTkxMDc2NDk0NTkwMTU3MSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjYzOTI3MTU1NzY4NDk2MjE5OSIsImltYWdlRG9jaWQiOiIxMDU1MjA3MjY1MzkzNzYwNjc1OCIsInJkcyI6IlBDXzQ0MjQxNTczNDg0MjUzMDMzMzh8UFJPRF9QQ180NDI0MTU3MzQ4NDI1MzAzMzM4IiwicXVlcnkiOiJicmFuZHkifQ%3D%3D"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is brandy A Bourbon or whiskey?",
+      "snippet": "Simply put, brandy is an alcoholic spirit distilled from fermented fruit, and whiskey is a spirit distilled from fermented grains. Stemming from that basic contrast are many distinctions that arise from the choice of ingredients and production that lead each category of spirit to have a unique identity.",
+      "title": "What's the Difference Between Brandy and Whiskey? - Food & Wine",
+      "date": "Jun 19, 2024",
+      "link": "https://www.foodandwine.com/brandy-whiskey-difference-8665785#:~:text=Simply%20put%2C%20brandy%20is%20an,to%20have%20a%20unique%20identity.",
+      "displayed_link": "https://www.foodandwine.com \u203a brandy-whiskey-differe...",
+      "source_logo": "https://serpapi.com/searches/670a161e3585393564f13518/images/b08b5cb65f1935d8c7eeb44f5ff64f437d334b430e63fb58b0961acbc1936663.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZXTkZaa2wwTVhaaVVWVlRjbmxJTkZCMVZVczNRbkJrZEVaSmNrcG1hM0pNTkZRdFdESlFPRzVPTjA4M1pYcHlhVXhITTJSelkweGZSRmxQTWxKNWIyVnlSR2h0RWhkSWVGbExXalY1UzB4TGNWVTFUMDFRTUdSNlZUWlJPQm9pUVVaWWNrVmpjblkzV0ZaaGR6WTRhVXBWVFVKcVlsZEdWR0pYTVMxa09HVmZVUSIsImZjdiI6IjMiLCJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicWMiOiJDZ1ppY21GdVpIa1FBSDAtNGZnLSIsInF1ZXN0aW9uIjoiSXMgYnJhbmR5IEEgQm91cmJvbiBvciB3aGlza2V5PyIsImxrIjoiR2g1cGN5QmljbUZ1WkhrZ1lTQjNhR2x6YTJWNUlHOXlJR0p2ZFhKaWIyNCIsImJzIjoiYy1OeTQ1TDNMRlpJS2tyTVM2bFVjRlJ3eWk4dFNzclBVOGd2VWlqUHlDek9UcTIwbDVobmFxUWdKWmNKVjVVSWt3S3BTb0pvNExMZ2tnalBTQ3lCcVFHcVRzX1BUMUZJeXkteWw5aWliQ1FwSlY2T1hackxnMHNCckJNb2xwaVhYNUtSV3FTUWw1aWJDcEtES3JlWC1NVm9wQ2dsWDQ1ZkdaY0Rsd3pZcEpUOFZMaGpTeEtMUzFJVmNqS3pVLTBsZGpzWXlVcEpsLU5XSXNBSUFBIiwiaWQiOiJmY19IeFlLWjV5S0xLcVU1T01QMGR6VTZROF8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZXTkZaa2wwTVhaaVVWVlRjbmxJTkZCMVZVczNRbkJrZEVaSmNrcG1hM0pNTkZRdFdESlFPRzVPTjA4M1pYcHlhVXhITTJSelkweGZSRmxQTWxKNWIyVnlSR2h0RWhkSWVGbExXalY1UzB4TGNWVTFUMDFRTUdSNlZUWlJPQm9pUVVaWWNrVmpjblkzV0ZaaGR6WTRhVXBWVFVKcVlsZEdWR0pYTVMxa09HVmZVUSIsImZjdiI6IjMiLCJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicWMiOiJDZ1ppY21GdVpIa1FBSDAtNGZnLSIsInF1ZXN0aW9uIjoiSXMgYnJhbmR5IEEgQm91cmJvbiBvciB3aGlza2V5PyIsImxrIjoiR2g1cGN5QmljbUZ1WkhrZ1lTQjNhR2x6YTJWNUlHOXlJR0p2ZFhKaWIyNCIsImJzIjoiYy1OeTQ1TDNMRlpJS2tyTVM2bFVjRlJ3eWk4dFNzclBVOGd2VWlqUHlDek9UcTIwbDVobmFxUWdKWmNKVjVVSWt3S3BTb0pvNExMZ2tnalBTQ3lCcVFHcVRzX1BUMUZJeXkteWw5aWliQ1FwSlY2T1hackxnMHNCckJNb2xwaVhYNUtSV3FTUWw1aWJDcEtES3JlWC1NVm9wQ2dsWDQ1ZkdaY0Rsd3pZcEpUOFZMaGpTeEtMUzFJVmNqS3pVLTBsZGpzWXlVcEpsLU5XSXNBSUFBIiwiaWQiOiJmY19IeFlLWjV5S0xLcVU1T01QMGR6VTZROF8xIn0%3D"
+    },
+    {
+      "question": "What brandy is good for?",
+      "snippet": "Brandy Is Great for the Immune System They include the common coughs and colds, and even the flu. Because of brandy's natural warming properties, it helps induce healthy sleep. In addition to that, the antibacterial nature of the drink makes it great for strengthening the immune system.",
+      "title": "Health Benefits of Brandy: Separating Fact from Fiction - BinWise",
+      "link": "https://home.binwise.com/blog/health-benefits-of-brandy#:~:text=Brandy%20Is%20Great%20for%20the%20Immune%20System&text=They%20include%20the%20common%20coughs,for%20strengthening%20the%20immune%20system.",
+      "displayed_link": "https://home.binwise.com \u203a blog \u203a health-benefits-of-bra...",
+      "source_logo": "https://serpapi.com/searches/670a161e3585393564f13518/images/b08b5cb65f1935d8c7eeb44f5ff64f430aae998a243f41ae31d9fed5c992eef1.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZXTkZaa2wwTVhaaVVWVlRjbmxJTkZCMVZVczNRbkJrZEVaSmNrcG1hM0pNTkZRdFdESlFPRzVPTjA4M1pYcHlhVXhITTJSelkweGZSRmxQTWxKNWIyVnlSR2h0RWhkSWVGbExXalY1UzB4TGNWVTFUMDFRTUdSNlZUWlJPQm9pUVVaWWNrVmpjblkzV0ZaaGR6WTRhVXBWVFVKcVlsZEdWR0pYTVMxa09HVmZVUSIsImZjdiI6IjMiLCJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicWMiOiJDZ1ppY21GdVpIa1FBSDAtNGZnLSIsInF1ZXN0aW9uIjoiV2hhdCBicmFuZHkgaXMgZ29vZCBmb3I/IiwibGsiOiJHaGQzYUdGMElHSnlZVzVrZVNCcGN5Qm5iMjlrSUdadmNnIiwiYnMiOiJjLU55NDVMM0xGWklLa3JNUzZsVWNGUnd5aTh0U3NyUFU4Z3ZVaWpQeUN6T1RxMjBsNWhuYXFRZ0paY0pWNVVJa3dLcFNvSm80TExna2dqUFNDeUJxUUdxVHNfUFQxRkl5eS15bDlpaWJDUXBKVjZPWFpyTGcwc0JyQk1vbHBpWFg1S1JXcVNRbDVpYkNwS0RLcmVYLU1Wb3BDZ2xYNDVmR1pjRGx3ellwSlQ4VkxoalN4S0xTMUlWY2pLelUtMGxkanNZeVVwSmwtTldJc0FJQUEiLCJpZCI6ImZjX0h4WUtaNXlLTEtxVTVPTVAwZHpVNlE4XzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZXTkZaa2wwTVhaaVVWVlRjbmxJTkZCMVZVczNRbkJrZEVaSmNrcG1hM0pNTkZRdFdESlFPRzVPTjA4M1pYcHlhVXhITTJSelkweGZSRmxQTWxKNWIyVnlSR2h0RWhkSWVGbExXalY1UzB4TGNWVTFUMDFRTUdSNlZUWlJPQm9pUVVaWWNrVmpjblkzV0ZaaGR6WTRhVXBWVFVKcVlsZEdWR0pYTVMxa09HVmZVUSIsImZjdiI6IjMiLCJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicWMiOiJDZ1ppY21GdVpIa1FBSDAtNGZnLSIsInF1ZXN0aW9uIjoiV2hhdCBicmFuZHkgaXMgZ29vZCBmb3I%2FIiwibGsiOiJHaGQzYUdGMElHSnlZVzVrZVNCcGN5Qm5iMjlrSUdadmNnIiwiYnMiOiJjLU55NDVMM0xGWklLa3JNUzZsVWNGUnd5aTh0U3NyUFU4Z3ZVaWpQeUN6T1RxMjBsNWhuYXFRZ0paY0pWNVVJa3dLcFNvSm80TExna2dqUFNDeUJxUUdxVHNfUFQxRkl5eS15bDlpaWJDUXBKVjZPWFpyTGcwc0JyQk1vbHBpWFg1S1JXcVNRbDVpYkNwS0RLcmVYLU1Wb3BDZ2xYNDVmR1pjRGx3ellwSlQ4VkxoalN4S0xTMUlWY2pLelUtMGxkanNZeVVwSmwtTldJc0FJQUEiLCJpZCI6ImZjX0h4WUtaNXlLTEtxVTVPTVAwZHpVNlE4XzEifQ%3D%3D"
+    },
+    {
+      "question": "What is another name for brandy?",
+      "snippet": "The European Union and some other countries legally enforce \"Cognac\" as the exclusive name for brandy produced and distilled in the Cognac area of France and the name \"Armagnac\" for brandy from the Gascony area of France.",
+      "title": "Brandy - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Brandy#:~:text=The%20European%20Union%20and%20some,the%20Gascony%20area%20of%20France.",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Brandy",
+      "source_logo": "https://serpapi.com/searches/670a161e3585393564f13518/images/b08b5cb65f1935d8c7eeb44f5ff64f436a8990296e6744ca0c0daa4271c02b01.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZXTkZaa2wwTVhaaVVWVlRjbmxJTkZCMVZVczNRbkJrZEVaSmNrcG1hM0pNTkZRdFdESlFPRzVPTjA4M1pYcHlhVXhITTJSelkweGZSRmxQTWxKNWIyVnlSR2h0RWhkSWVGbExXalY1UzB4TGNWVTFUMDFRTUdSNlZUWlJPQm9pUVVaWWNrVmpjblkzV0ZaaGR6WTRhVXBWVFVKcVlsZEdWR0pYTVMxa09HVmZVUSIsImZjdiI6IjMiLCJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicWMiOiJDZ1ppY21GdVpIa1FBSDAtNGZnLSIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhbm90aGVyIG5hbWUgZm9yIGJyYW5keT8iLCJsayI6IkdoOTNhR0YwSUdseklHRnViM1JvWlhJZ2JtRnRaU0JtYjNJZ1luSmhibVI1IiwiYnMiOiJjLU55NDVMM0xGWklLa3JNUzZsVWNGUnd5aTh0U3NyUFU4Z3ZVaWpQeUN6T1RxMjBsNWhuYXFRZ0paY0pWNVVJa3dLcFNvSm80TExna2dqUFNDeUJxUUdxVHNfUFQxRkl5eS15bDlpaWJDUXBKVjZPWFpyTGcwc0JyQk1vbHBpWFg1S1JXcVNRbDVpYkNwS0RLcmVYLU1Wb3BDZ2xYNDVmR1pjRGx3ellwSlQ4VkxoalN4S0xTMUlWY2pLelUtMGxkanNZeVVwSmwtTldJc0FJQUEiLCJpZCI6ImZjX0h4WUtaNXlLTEtxVTVPTVAwZHpVNlE4XzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZXTkZaa2wwTVhaaVVWVlRjbmxJTkZCMVZVczNRbkJrZEVaSmNrcG1hM0pNTkZRdFdESlFPRzVPTjA4M1pYcHlhVXhITTJSelkweGZSRmxQTWxKNWIyVnlSR2h0RWhkSWVGbExXalY1UzB4TGNWVTFUMDFRTUdSNlZUWlJPQm9pUVVaWWNrVmpjblkzV0ZaaGR6WTRhVXBWVFVKcVlsZEdWR0pYTVMxa09HVmZVUSIsImZjdiI6IjMiLCJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicWMiOiJDZ1ppY21GdVpIa1FBSDAtNGZnLSIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhbm90aGVyIG5hbWUgZm9yIGJyYW5keT8iLCJsayI6IkdoOTNhR0YwSUdseklHRnViM1JvWlhJZ2JtRnRaU0JtYjNJZ1luSmhibVI1IiwiYnMiOiJjLU55NDVMM0xGWklLa3JNUzZsVWNGUnd5aTh0U3NyUFU4Z3ZVaWpQeUN6T1RxMjBsNWhuYXFRZ0paY0pWNVVJa3dLcFNvSm80TExna2dqUFNDeUJxUUdxVHNfUFQxRkl5eS15bDlpaWJDUXBKVjZPWFpyTGcwc0JyQk1vbHBpWFg1S1JXcVNRbDVpYkNwS0RLcmVYLU1Wb3BDZ2xYNDVmR1pjRGx3ellwSlQ4VkxoalN4S0xTMUlWY2pLelUtMGxkanNZeVVwSmwtTldJc0FJQUEiLCJpZCI6ImZjX0h4WUtaNXlLTEtxVTVPTVAwZHpVNlE4XzEifQ%3D%3D"
+    },
+    {
+      "question": "What does brandy taste like?",
+      "snippet": "Brandy has a fruity and subtly sweet taste. It can also have flavor notes of oak since it is typically aged in wooden casks. The taste of brandy becomes more mellow and complex as it ages\u2014brandy that is less than two years old is considered unaged, while brandies that are more than two years old are considered mature.",
+      "title": "A Complete Guide to Brandy: 8 Types of Brandy - 2024 - MasterClass",
+      "date": "Jun 7, 2021",
+      "link": "https://www.masterclass.com/articles/brandy-alcohol-guide#:~:text=Brandy%20has%20a%20fruity%20and,years%20old%20are%20considered%20mature.",
+      "displayed_link": "https://www.masterclass.com \u203a articles \u203a brandy-alcohol-...",
+      "source_logo": "https://serpapi.com/searches/670a161e3585393564f13518/images/b08b5cb65f1935d8c7eeb44f5ff64f437f50866668ba3e4383694eb2250eb899.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZXTkZaa2wwTVhaaVVWVlRjbmxJTkZCMVZVczNRbkJrZEVaSmNrcG1hM0pNTkZRdFdESlFPRzVPTjA4M1pYcHlhVXhITTJSelkweGZSRmxQTWxKNWIyVnlSR2h0RWhkSWVGbExXalY1UzB4TGNWVTFUMDFRTUdSNlZUWlJPQm9pUVVaWWNrVmpjblkzV0ZaaGR6WTRhVXBWVFVKcVlsZEdWR0pYTVMxa09HVmZVUSIsImZjdiI6IjMiLCJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicWMiOiJDZ1ppY21GdVpIa1FBSDAtNGZnLSIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIGJyYW5keSB0YXN0ZSBsaWtlPyIsImxrIjoiR2h0M2FHRjBJR1J2WlhNZ1luSmhibVI1SUhSaGMzUmxJR3hwYTJVIiwiYnMiOiJjLU55NDVMM0xGWklLa3JNUzZsVWNGUnd5aTh0U3NyUFU4Z3ZVaWpQeUN6T1RxMjBsNWhuYXFRZ0paY0pWNVVJa3dLcFNvSm80TExna2dqUFNDeUJxUUdxVHNfUFQxRkl5eS15bDlpaWJDUXBKVjZPWFpyTGcwc0JyQk1vbHBpWFg1S1JXcVNRbDVpYkNwS0RLcmVYLU1Wb3BDZ2xYNDVmR1pjRGx3ellwSlQ4VkxoalN4S0xTMUlWY2pLelUtMGxkanNZeVVwSmwtTldJc0FJQUEiLCJpZCI6ImZjX0h4WUtaNXlLTEtxVTVPTVAwZHpVNlE4XzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZXTkZaa2wwTVhaaVVWVlRjbmxJTkZCMVZVczNRbkJrZEVaSmNrcG1hM0pNTkZRdFdESlFPRzVPTjA4M1pYcHlhVXhITTJSelkweGZSRmxQTWxKNWIyVnlSR2h0RWhkSWVGbExXalY1UzB4TGNWVTFUMDFRTUdSNlZUWlJPQm9pUVVaWWNrVmpjblkzV0ZaaGR6WTRhVXBWVFVKcVlsZEdWR0pYTVMxa09HVmZVUSIsImZjdiI6IjMiLCJlaSI6Ikh4WUtaNXlLTEtxVTVPTVAwZHpVNlE4IiwicWMiOiJDZ1ppY21GdVpIa1FBSDAtNGZnLSIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIGJyYW5keSB0YXN0ZSBsaWtlPyIsImxrIjoiR2h0M2FHRjBJR1J2WlhNZ1luSmhibVI1SUhSaGMzUmxJR3hwYTJVIiwiYnMiOiJjLU55NDVMM0xGWklLa3JNUzZsVWNGUnd5aTh0U3NyUFU4Z3ZVaWpQeUN6T1RxMjBsNWhuYXFRZ0paY0pWNVVJa3dLcFNvSm80TExna2dqUFNDeUJxUUdxVHNfUFQxRkl5eS15bDlpaWJDUXBKVjZPWFpyTGcwc0JyQk1vbHBpWFg1S1JXcVNRbDVpYkNwS0RLcmVYLU1Wb3BDZ2xYNDVmR1pjRGx3ellwSlQ4VkxoalN4S0xTMUlWY2pLelUtMGxkanNZeVVwSmwtTldJc0FJQUEiLCJpZCI6ImZjX0h4WUtaNXlLTEtxVTVPTVAwZHpVNlE4XzEifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Brandy Melville USA",
+      "link": "https://us.brandymelville.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://us.brandymelville.com/&ved=2ahUKEwjcldbAmoiJAxUqCnkGHVEuNf0QFnoECAkQAQ",
+      "displayed_link": "https://us.brandymelville.com",
+      "favicon": "https://serpapi.com/searches/670a161e3585393564f13518/images/668b842cafc019d4e8b5e5f397d1aa0a4e9a39cd72b30329e52b32924791afa4.webp",
+      "snippet": "Official Store of Brandy Melville in the United States. Shop online to purchase tops, bottoms, accessories and more.",
+      "snippet_highlighted_words": [
+        "Brandy"
+      ],
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "Tops",
+            "link": "https://us.brandymelville.com/collections/tops",
+            "snippet": "Brandy Melville USA Store - Tops."
+          },
+          {
+            "title": "Clothing",
+            "link": "https://us.brandymelville.com/collections/clothing",
+            "snippet": "Sweaters - Bottoms - Dresses - Shorts - Pants - Jeans - ..."
+          },
+          {
+            "title": "Sweatpants & Sweatshirts",
+            "link": "https://us.brandymelville.com/collections/sweatpants-sweatshirts",
+            "snippet": "Brandy Melville USA Store - Sweatpants & Sweatshirts."
+          },
+          {
+            "title": "Clothing - Bottoms",
+            "link": "https://us.brandymelville.com/collections/clothing-bottoms",
+            "snippet": "Brandy Melville USA Store - Bottoms."
+          },
+          {
+            "title": "Sweaters",
+            "link": "https://us.brandymelville.com/collections/clothing-sweaters",
+            "snippet": "Brandy Melville USA Store -Sweaters."
+          }
+        ]
+      },
+      "source": "Brandy Melville USA"
+    },
+    {
+      "position": 2,
+      "title": "Brandy Norwood",
+      "link": "https://en.wikipedia.org/wiki/Brandy_Norwood",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Brandy_Norwood&ved=2ahUKEwjcldbAmoiJAxUqCnkGHVEuNf0QFnoECB0QAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Brandy_Norwood",
+      "favicon": "https://serpapi.com/searches/670a161e3585393564f13518/images/668b842cafc019d4e8b5e5f397d1aa0a95b453f07375a94b5bf9c98e08a47a3b.webp",
+      "snippet": "Brandy Rayana Norwood (born February 11, 1979), better known by her mononym Brandy, is an American singer, songwriter, dancer, model and actress.",
+      "snippet_highlighted_words": [
+        "Brandy",
+        "Brandy"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 3,
+      "title": "4 e v e r b r a n d y \u2660\ufe0f (@brandy)",
+      "link": "https://www.instagram.com/brandy/?hl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/brandy/%3Fhl%3Den&ved=2ahUKEwjcldbAmoiJAxUqCnkGHVEuNf0QFnoECDkQAQ",
+      "displayed_link": "6.1M+ followers",
+      "thumbnail": "https://serpapi.com/searches/670a161e3585393564f13518/images/668b842cafc019d4e8b5e5f397d1aa0a74139f0d3a297e653fdeef067ef55f18.jpeg",
+      "favicon": "https://serpapi.com/searches/670a161e3585393564f13518/images/668b842cafc019d4e8b5e5f397d1aa0a90551bea211e77a068aea11778cf6b8c.webp",
+      "snippet": "Artist. Mother to an Angel @syraismith #GodInMeAsMe #iAmasGodcreatedme @rayj 's sis #SHINE\u2728 I love my human album now \ud83c\udf39 linktr.ee/brandy",
+      "snippet_highlighted_words": [
+        "brandy"
+      ],
+      "images": [
+        "https://serpapi.com/searches/670a161e3585393564f13518/images/668b842cafc019d4e8b5e5f397d1aa0a5523f96a32f3776fc8f5e72d12dd8e8f.jpeg",
+        "https://serpapi.com/searches/670a161e3585393564f13518/images/668b842cafc019d4e8b5e5f397d1aa0a5523f96a32f3776f4e24f46a32b0f727.jpeg",
+        "https://serpapi.com/searches/670a161e3585393564f13518/images/668b842cafc019d4e8b5e5f397d1aa0a5523f96a32f3776f93edffd8ef6e954f.jpeg"
+      ],
+      "source": "Instagram \u00b7 brandy"
+    },
+    {
+      "position": 4,
+      "title": "Brandy Melville | Select a Country",
+      "link": "https://brandymelville.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brandymelville.com/&ved=2ahUKEwjcldbAmoiJAxUqCnkGHVEuNf0QFnoECC0QAQ",
+      "displayed_link": "https://brandymelville.com",
+      "favicon": "https://serpapi.com/searches/670a161e3585393564f13518/images/668b842cafc019d4e8b5e5f397d1aa0a90f390ba91a329a75b8fdb481f703008.webp",
+      "snippet": "Brandy Melville Country Selector Page. SELECT A COUNTRY. -- Please choose an option --, Australia \u00b7 Europe \u00b7 Japan \u00b7 United Kingdom \u00b7 United States.",
+      "snippet_highlighted_words": [
+        "Brandy"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Brandy",
+            "link": "https://us.brandymelville.com/"
+          },
+          {
+            "title": "Brandy Melville",
+            "link": "https://eu.brandymelville.com/"
+          },
+          {
+            "title": "Brandy Melville UK",
+            "link": "https://uk.brandymelville.com/"
+          },
+          {
+            "title": "Brandy Melville Australia",
+            "link": "https://au.brandymelville.com/"
+          }
+        ]
+      },
+      "source": "brandymelville.com"
+    },
+    {
+      "position": 5,
+      "title": "Brandy Clark Official Website",
+      "link": "https://www.brandyclarkmusic.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.brandyclarkmusic.com/&ved=2ahUKEwjcldbAmoiJAxUqCnkGHVEuNf0QFnoECC8QAQ",
+      "displayed_link": "https://www.brandyclarkmusic.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0lfoeKb-1c6FwnTHXmBDJPPC-CTtNKLbvykMvG6SEKo7xY_uFVrwl&s",
+      "favicon": "https://serpapi.com/searches/670a161e3585393564f13518/images/668b842cafc019d4e8b5e5f397d1aa0ab0e90c58a6ce9ed784a37388b763c86d.webp",
+      "snippet": "The Official Website For GRAMMY and CMA Award-Winner Brandy Clark.",
+      "snippet_highlighted_words": [
+        "Brandy"
+      ],
+      "source": "Brandy Clark"
+    },
+    {
+      "position": 6,
+      "title": "Visual Thinking for Life | Brandy Agerbeck, Loosetooth.com",
+      "link": "https://www.loosetooth.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.loosetooth.com/&ved=2ahUKEwjcldbAmoiJAxUqCnkGHVEuNf0QFnoECC4QAQ",
+      "displayed_link": "https://www.loosetooth.com",
+      "favicon": "https://serpapi.com/searches/670a161e3585393564f13518/images/668b842cafc019d4e8b5e5f397d1aa0a3b496e0e94e80bd4251e6ef3c6605aa9.webp",
+      "snippet": "Brandy will make you a stronger, happier, and more confident visual thinker, sketchnoter, visualizer, and professional visual practitioner through her books ...",
+      "snippet_highlighted_words": [
+        "Brandy"
+      ],
+      "source": "Brandy Agerbeck"
+    },
+    {
+      "position": 7,
+      "title": "Brandy",
+      "link": "https://www.youtube.com/channel/UCYyLyRGNmzYNaX_PVPbotRA",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/channel/UCYyLyRGNmzYNaX_PVPbotRA&ved=2ahUKEwjcldbAmoiJAxUqCnkGHVEuNf0QFnoECFYQAQ",
+      "displayed_link": "1.4M+ followers",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcUmUtBZ0C601vwsLWDjOFgb0PoVCkPPvxA-KsDx91AYp47EBbkiApyA&s",
+      "favicon": "https://serpapi.com/searches/670a161e3585393564f13518/images/668b842cafc019d4e8b5e5f397d1aa0a812ec3cbebe2b038c74765f56e744757.webp",
+      "snippet": "Welcome to Brandy's official YouTube channel, home of 90s R&B classics \u201cI Wanna Be Down,\u201d \u201cBaby,\u201d \u201cHave You Ever,\u201d \u201cBrokenhearted\u201d and her Grammy Award ...",
+      "snippet_highlighted_words": [
+        "Brandy's"
+      ],
+      "source": "YouTube \u00b7 Brandy"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Brandy liquor",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Brandy+liquor&sa=X&ved=2ahUKEwjcldbAmoiJAxUqCnkGHVEuNf0Q1QJ6BAhQEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Brandy+liquor"
+    },
+    {
+      "block_position": 1,
+      "query": "Brandy Melville",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Brandy+Melville&sa=X&ved=2ahUKEwjcldbAmoiJAxUqCnkGHVEuNf0Q1QJ6BAhPEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Brandy+Melville"
+    },
+    {
+      "block_position": 1,
+      "query": "Brandy drink",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Brandy+drink&sa=X&ved=2ahUKEwjcldbAmoiJAxUqCnkGHVEuNf0Q1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Brandy+drink"
+    },
+    {
+      "block_position": 1,
+      "query": "Brandy Melville near me",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Brandy+Melville+near+me&sa=X&ved=2ahUKEwjcldbAmoiJAxUqCnkGHVEuNf0Q1QJ6BAhMEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Brandy+Melville+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Brandy price",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Brandy+price&sa=X&ved=2ahUKEwjcldbAmoiJAxUqCnkGHVEuNf0Q1QJ6BAhLEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Brandy+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Brandy song",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Brandy+song&sa=X&ved=2ahUKEwjcldbAmoiJAxUqCnkGHVEuNf0Q1QJ6BAhKEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Brandy+song"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=brandy&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=HxYKZ5yKLKqU5OMP0dzU6Q8&start=10&sa=N&sstk=AagrsugIVcYDQgaFfXVtASbGlY_wC-YMHJ4NyVhEvoVAFr9s4puRpc1IzuJ0Er2DukuoLL6XEGuBrhx-PIFUEK0rmWADDs5xBVycFw&ved=2ahUKEwjcldbAmoiJAxUqCnkGHVEuNf0Q8NMDegQIeBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=brandy&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=HxYKZ5yKLKqU5OMP0dzU6Q8&start=10&sa=N&sstk=AagrsugIVcYDQgaFfXVtASbGlY_wC-YMHJ4NyVhEvoVAFr9s4puRpc1IzuJ0Er2DukuoLL6XEGuBrhx-PIFUEK0rmWADDs5xBVycFw&ved=2ahUKEwjcldbAmoiJAxUqCnkGHVEuNf0Q8tMDegQIeBAE",
+      "3": "https://www.google.com/search?q=brandy&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=HxYKZ5yKLKqU5OMP0dzU6Q8&start=20&sa=N&sstk=AagrsugIVcYDQgaFfXVtASbGlY_wC-YMHJ4NyVhEvoVAFr9s4puRpc1IzuJ0Er2DukuoLL6XEGuBrhx-PIFUEK0rmWADDs5xBVycFw&ved=2ahUKEwjcldbAmoiJAxUqCnkGHVEuNf0Q8tMDegQIeBAG",
+      "4": "https://www.google.com/search?q=brandy&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=HxYKZ5yKLKqU5OMP0dzU6Q8&start=30&sa=N&sstk=AagrsugIVcYDQgaFfXVtASbGlY_wC-YMHJ4NyVhEvoVAFr9s4puRpc1IzuJ0Er2DukuoLL6XEGuBrhx-PIFUEK0rmWADDs5xBVycFw&ved=2ahUKEwjcldbAmoiJAxUqCnkGHVEuNf0Q8tMDegQIeBAI",
+      "5": "https://www.google.com/search?q=brandy&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=HxYKZ5yKLKqU5OMP0dzU6Q8&start=40&sa=N&sstk=AagrsugIVcYDQgaFfXVtASbGlY_wC-YMHJ4NyVhEvoVAFr9s4puRpc1IzuJ0Er2DukuoLL6XEGuBrhx-PIFUEK0rmWADDs5xBVycFw&ved=2ahUKEwjcldbAmoiJAxUqCnkGHVEuNf0Q8tMDegQIeBAK",
+      "6": "https://www.google.com/search?q=brandy&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=HxYKZ5yKLKqU5OMP0dzU6Q8&start=50&sa=N&sstk=AagrsugIVcYDQgaFfXVtASbGlY_wC-YMHJ4NyVhEvoVAFr9s4puRpc1IzuJ0Er2DukuoLL6XEGuBrhx-PIFUEK0rmWADDs5xBVycFw&ved=2ahUKEwjcldbAmoiJAxUqCnkGHVEuNf0Q8tMDegQIeBAM",
+      "7": "https://www.google.com/search?q=brandy&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=HxYKZ5yKLKqU5OMP0dzU6Q8&start=60&sa=N&sstk=AagrsugIVcYDQgaFfXVtASbGlY_wC-YMHJ4NyVhEvoVAFr9s4puRpc1IzuJ0Er2DukuoLL6XEGuBrhx-PIFUEK0rmWADDs5xBVycFw&ved=2ahUKEwjcldbAmoiJAxUqCnkGHVEuNf0Q8tMDegQIeBAO",
+      "8": "https://www.google.com/search?q=brandy&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=HxYKZ5yKLKqU5OMP0dzU6Q8&start=70&sa=N&sstk=AagrsugIVcYDQgaFfXVtASbGlY_wC-YMHJ4NyVhEvoVAFr9s4puRpc1IzuJ0Er2DukuoLL6XEGuBrhx-PIFUEK0rmWADDs5xBVycFw&ved=2ahUKEwjcldbAmoiJAxUqCnkGHVEuNf0Q8tMDegQIeBAQ",
+      "9": "https://www.google.com/search?q=brandy&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=HxYKZ5yKLKqU5OMP0dzU6Q8&start=80&sa=N&sstk=AagrsugIVcYDQgaFfXVtASbGlY_wC-YMHJ4NyVhEvoVAFr9s4puRpc1IzuJ0Er2DukuoLL6XEGuBrhx-PIFUEK0rmWADDs5xBVycFw&ved=2ahUKEwjcldbAmoiJAxUqCnkGHVEuNf0Q8tMDegQIeBAS",
+      "10": "https://www.google.com/search?q=brandy&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=HxYKZ5yKLKqU5OMP0dzU6Q8&start=90&sa=N&sstk=AagrsugIVcYDQgaFfXVtASbGlY_wC-YMHJ4NyVhEvoVAFr9s4puRpc1IzuJ0Er2DukuoLL6XEGuBrhx-PIFUEK0rmWADDs5xBVycFw&ved=2ahUKEwjcldbAmoiJAxUqCnkGHVEuNf0Q8tMDegQIeBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brandy&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brandy&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brandy&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brandy&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brandy&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brandy&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brandy&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brandy&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brandy&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brandy&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brandy&start=90"
+    }
+  }
+}

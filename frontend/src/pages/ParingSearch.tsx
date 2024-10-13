@@ -24,6 +24,7 @@ const ParingSearch: React.FC = () => {
         setMatchedCategory(categories);
         setResult(entryResult);
       } catch (error) {
+        
         console.error('Error fetching data:', error);
       }
     };

@@ -154,3 +154,9 @@ frontend
 2. `npx webpack serve`
 3. `Access` http://localhost:8081/
 4. `Access` http://localhost:8081/#about
+
+##  Using Docker
+```
+docker build -t recipe_hack .
+docker run -p 7474:7474 -p 7687:7687 -p 8888:8888 recipe_hack
+```

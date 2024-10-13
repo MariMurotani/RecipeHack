@@ -38,8 +38,13 @@ const MainGroup: React.FC = () => {
   };
 
   // リストが選択されたとき
-  const handleItemClick = (entry: Entry, event: React.MouseEvent<HTMLAnchorElement, MouseEvent>) => {
-    setSelectedMainItems([...selectedMainItems, entry]);
+  const handleItemClick = (entry: Entry, event:React.ChangeEvent<HTMLInputElement>) => {
+    const entry_exist = selectedMainItems.includes(entry);
+    if(event.target.checked && !entry_exist){
+      setSelectedMainItems([...selectedMainItems, entry]);
+    } else if(!event.target.checked && entry_exist){
+      setSelectedMainItems(selectedMainItems.filter(item => item !== entry));
+    }
   };
 
   // 次へボタンがクリックされたとき
@@ -73,11 +78,12 @@ const MainGroup: React.FC = () => {
       {/* 取得した結果をリストとして表示 */}
       <ul>
         {result.map((entry) => (
-          <li key={`li_${entry.id}`}>
-            <a key={`a_${entry.id}`} onClick={(event) => handleItemClick(entry, event)}>
-              <Checkbox key={`ch_${entry.id}`} size="small" />
-              {entry.name} - {entry.scientific_name}
-            </a>
+          <li key={`li_${entry.id}`}
+          style={{
+            listStyleType: 'none',
+          }}>
+            <Checkbox key={`ch_${entry.id}`} size="small"  onChange={(event) => handleItemClick(entry, event)} />
+            {entry.name} - {entry.scientific_name}
           </li>
         ))}
       </ul>

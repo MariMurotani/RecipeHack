@@ -30,9 +30,13 @@ const Group: React.FC = () => {
   };
 
   // リストが選択されたとき
-  const handleItemClick = (key: string, event: React.MouseEvent<HTMLAnchorElement, MouseEvent>) => {
-    // 選択されたボタンのキーを状態に追加
-    setSelectedGroups([...selectedGroups, key]);
+  const handleItemClick = (key: string, event:React.ChangeEvent<HTMLInputElement>) => {
+    const entry_exist = selectedGroups.includes(key);
+    if(event.target.checked && !entry_exist){
+      setSelectedGroups([...selectedGroups, key]);
+    } else if(!event.target.checked && entry_exist){
+      setSelectedGroups(selectedGroups.filter(item => item !== key));
+    }
   };
   
 
@@ -45,12 +49,13 @@ const Group: React.FC = () => {
       {/* 取得した結果をリストとして表示 */}
       <ul>
         {button_caption.map((button) => (
-          <a key={`a_${button.key}`} onClick={(event) => handleItemClick(button.key, event)}>
-            <li key={`li_${button.key}`}>
-              <Checkbox key={`ch_${button.key}`} size="small" />
-              {button.caption}
-            </li>
-          </a>
+          <li key={`li_${button.key}`}
+          style={{
+            listStyleType: 'none',
+          }}>
+            <Checkbox key={`ch_${button.key}`} size="small" onChange={(event) => handleItemClick(button.key, event)} />
+            {button.caption}
+          </li>
         ))}
       </ul>
 

@@ -42,8 +42,13 @@ const ParingSearch: React.FC = () => {
   };
 
   // リストが選択されたとき
-  const handleItemClick = (entry: Entry, event: React.MouseEvent<HTMLAnchorElement, MouseEvent>) => {
-    setSelectedAdditionalEntries([...selectedAdditionalEntries, entry]);
+  const handleItemClick = (entry: Entry, event: React.ChangeEvent<HTMLInputElement>) => {
+    const entry_exist = selectedAdditionalEntries.includes(entry);
+    if(event.target.checked && !entry_exist){
+      setSelectedAdditionalEntries([...selectedMainItems, entry]);
+    } else if(!event.target.checked && entry_exist){
+      setSelectedAdditionalEntries(selectedAdditionalEntries.filter(item => item !== entry));
+    }
   };
 
   // selectedMainGroup が空の場合はリダイレクト
@@ -84,12 +89,13 @@ const ParingSearch: React.FC = () => {
     </Box>
       <ul>
         {matchedResult.map((entry) => (
-          <a key={`ap_${entry.id}`} onClick={(event) => handleItemClick(entry, event)}>
-            <li key={`li${entry.id}`}>
-              <Checkbox key={`ch_${entry.id}`} size="small" />
-              {entry.name} - {entry.scientific_name} ({entry.distance})
-            </li>
-          </a>
+          <li key={`li${entry.id}`}
+          style={{
+            listStyleType: 'none',
+          }}>
+            <Checkbox key={`ch_${entry.id}`} size="small" onChange={(event) => handleItemClick(entry, event)} />
+            {entry.name} - {entry.scientific_name} ({entry.distance})
+          </li>
         ))}
       </ul>
     </Container>

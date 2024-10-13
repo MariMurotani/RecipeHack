@@ -11,10 +11,10 @@ const ParingSearch: React.FC = () => {
   const { selectedMainGroup, selectedMainItems, selectedGroups, selectedAdditionalEntries, setSelectedAdditionalEntries } = useAppContext();  
   const navigate = useNavigate();
   
-  // `result` の状態を作成
   const [matchedCategory, setMatchedCategory] = useState<Category[]>([]);  // Entry型の配列を保存する状態
   const [matchedResult, setResult] = useState<Entry[]>([]);  // Entry型の配列を保存する状態
   const [selectedCategory, setSelectedCategory] = useState<string>(""); // 詳細フィルタ用のカテゴリ
+  const [isChecked, setIsChecked] = useState<{ [key: string]: boolean }>({}); // チェックボックスのステート管理専用
 
   // `searchText` や `cate` が変更された時にデータを取得する
   useEffect(() => {
@@ -31,6 +31,15 @@ const ParingSearch: React.FC = () => {
     fetchData();
   }, [selectedCategory]); 
   
+  // チェックボックス初期値
+  useEffect(() => {
+    const initialCheckedState = selectedAdditionalEntries.reduce((acc: { [key: string]: boolean }, entry: Entry) => {
+      acc[entry.id] = true;
+      return acc;
+    }, {});
+    setIsChecked(initialCheckedState);
+  }, [selectedAdditionalEntries]);
+
   // カテゴリ用のチップがクリックされたとき
   const handleChipClick = (category_id: string) => {
     setSelectedCategory(category_id);
@@ -45,7 +54,7 @@ const ParingSearch: React.FC = () => {
   const handleItemClick = (entry: Entry, event: React.ChangeEvent<HTMLInputElement>) => {
     const entry_exist = selectedAdditionalEntries.includes(entry);
     if(event.target.checked && !entry_exist){
-      setSelectedAdditionalEntries([...selectedMainItems, entry]);
+      setSelectedAdditionalEntries([...selectedAdditionalEntries, entry]);
     } else if(!event.target.checked && entry_exist){
       setSelectedAdditionalEntries(selectedAdditionalEntries.filter(item => item !== entry));
     }
@@ -93,7 +102,11 @@ const ParingSearch: React.FC = () => {
           style={{
             listStyleType: 'none',
           }}>
-            <Checkbox key={`ch_${entry.id}`} size="small" onChange={(event) => handleItemClick(entry, event)} />
+            <Checkbox 
+            key={`ch_${entry.id}`} 
+            size="small" 
+            checked={isChecked[entry.id] || false}  
+            onChange={(event) => handleItemClick(entry, event)} />
             {entry.name} - {entry.scientific_name} ({entry.distance})
           </li>
         ))}

@@ -11,9 +11,9 @@ const MainGroup: React.FC = () => {
   const { selectedMainGroup, selectedMainItems, setSelectedMainItems } = useAppContext();  
   const navigate = useNavigate();
   
-  // `result` の状態を作成
   const [result, setResult] = useState<Entry[]>([]);  // Entry型の配列を保存する状態
   const [searchText, setSearchText] = useState<string>('');  // 検索テキストの状態
+  const [isChecked, setIsChecked] = useState<{ [key: string]: boolean }>({}); // チェックボックスのステート管理専用
 
   // 初期値として `meat` を使用し、`result`を取得
   const cate = selectedMainGroup === "" ? "meat" : selectedMainGroup;
@@ -32,6 +32,15 @@ const MainGroup: React.FC = () => {
     fetchData();
   }, [searchText, cate]);  // `searchText` または `cate` が変更されたときに再取得
 
+  // チェックボックス初期値
+  useEffect(() => {
+    const initialCheckedState = selectedMainItems.reduce((acc: { [key: string]: boolean }, entry: Entry) => {
+      acc[entry.id] = true;
+      return acc;
+    }, {});
+    setIsChecked(initialCheckedState);
+  }, [selectedMainItems]);
+  
   // テキストボックスの入力が変更されたときに呼ばれる
   const handleChange = (event: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
     setSearchText(event.target.value);  // 検索テキストの状態を更新
@@ -45,6 +54,12 @@ const MainGroup: React.FC = () => {
     } else if(!event.target.checked && entry_exist){
       setSelectedMainItems(selectedMainItems.filter(item => item !== entry));
     }
+  };
+
+  // アイテム選択済みかどうか
+  const isItemSelected = (entry: Entry) : string => {
+    const entry_exist = selectedMainItems.includes(entry);
+    return (entry_exist ? 'defaultChecked' : '');
   };
 
   // 次へボタンがクリックされたとき
@@ -82,7 +97,11 @@ const MainGroup: React.FC = () => {
           style={{
             listStyleType: 'none',
           }}>
-            <Checkbox key={`ch_${entry.id}`} size="small"  onChange={(event) => handleItemClick(entry, event)} />
+            <Checkbox 
+            key={`ch_${entry.id}`} 
+            size="small"  
+            checked={isChecked[entry.id] || false}  
+            onChange={(event) => handleItemClick(entry, event)} />
             {entry.name} - {entry.scientific_name}
           </li>
         ))}

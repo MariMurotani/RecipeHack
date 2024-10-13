@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { Container, Typography, Button, Grid, Box, Checkbox } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
 import { useAppContext } from '../AppContext';
@@ -21,8 +21,19 @@ const button_caption = [
 const Group: React.FC = () => {
   // 共通のデータストアとして、クリックされたボタンのキーを保存するための状態を管理
   const { selectedGroups, setSelectedGroups } = useAppContext();  
+  const [isChecked, setIsChecked] = useState<{ [key: string]: boolean }>({}); // チェックボックスのステート管理専用
+
   const navigate = useNavigate();
 
+  // チェックボックス初期値
+  useEffect(() => {
+    const initialCheckedState = selectedGroups.reduce((acc: { [key: string]: boolean }, group: string) => {
+      acc[group] = true;
+      return acc;
+    }, {});
+    setIsChecked(initialCheckedState);
+  }, [selectedGroups]);
+  
 
   // ボタンがクリックされたときに呼ばれるハンドラ関数
   const handleButtonClick = () => {
@@ -39,7 +50,6 @@ const Group: React.FC = () => {
     }
   };
   
-
   return (
     <Container>
       <Typography variant="h4" gutterBottom>
@@ -53,7 +63,11 @@ const Group: React.FC = () => {
           style={{
             listStyleType: 'none',
           }}>
-            <Checkbox key={`ch_${button.key}`} size="small" onChange={(event) => handleItemClick(button.key, event)} />
+            <Checkbox 
+            key={`ch_${button.key}`} 
+            size="small" 
+            checked={isChecked[button.key] || false}
+            onChange={(event) => handleItemClick(button.key, event)} />
             {button.caption}
           </li>
         ))}

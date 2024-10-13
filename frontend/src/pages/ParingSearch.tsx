@@ -20,7 +20,7 @@ const ParingSearch: React.FC = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const { categories, entryResult } = await getMatchedParingEntries(selectedMainItems, selectedGroups, selectedCategory);
+        const { categories, entryResult } = await getMatchedParingEntries([...selectedMainItems, ...selectedAdditionalEntries], selectedGroups, selectedCategory);
         setMatchedCategory(categories);
         setResult(entryResult);
       } catch (error) {

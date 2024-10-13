@@ -85,6 +85,7 @@ const getCategories = (category: string): string => {
     'fish': ['fish', 'seafood'],
     'vegetable': ['vegetable', 'fungus', 'maize', 'vegetable fruit', 'gourd', 'seed', 'plant', 'root', 'legume', 'vegetable root', 'vegetable stem', 'vegetable tuber', 'cabbage'],
     'fruit': ['fruit', 'berry', 'fruit-berry', 'fruit citrus'],
+    'oil': ['dairy'],
   }
   const cate_string = cate_maps[category].join("', '");
   return `'${cate_string}'`;

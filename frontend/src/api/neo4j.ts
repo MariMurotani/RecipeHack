@@ -213,7 +213,7 @@ export const normalizeDistances = (entries: Entry[]): Entry[] => {
     if (entry.distance != undefined && maxDistance !== 0) {
       return {
         ...entry,
-        distance: 1 - parseFloat((entry.distance / maxDistance).toFixed(2)) // 最大値で割る
+        distance: parseFloat((1 - (entry.distance / maxDistance)).toFixed(2)) // 最大値で割る
       };
     } else {
       return entry;

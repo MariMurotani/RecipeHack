@@ -52,12 +52,16 @@ export const ColorMap: { [key: string]: string } = {
   'woody': '#6D4C41',      // ウッディな濃い茶色
   'caramel': '#A1887F',    // カラメルの茶色
   'balsam': '#8E6B55',     // バルサム系の茶色
+  'balsamic': '#8E6B55',     // バルサム系の茶色
   'bready': '#D7CCC8',     // パンのような柔らかい茶色
   'chocolate': '#5D4037',  // チョコレートの濃い茶色
+  'coffee': '#3E2723',     // コーヒーの濃い茶色
   'almond': '#D2B48C',     // アーモンドの茶色
   'whiskey': '#A0522D',    // ウイスキーの茶色
   'roast beef': '#A0522D',    // ウイスキーの茶色
   'cocoa': '#795548',      // ココアの茶色
+  'bitter': '#795548',      // ココアの茶色
+  'oil': '#6D4C41',       // 油っぽい茶色
   'oily': '#6D4C41',       // 油っぽい茶色
   'cinnamon': '#D2691E',   // シナモンのオレンジっぽい茶色
   'spicy': '#FF7043',      // スパイシーなオレンジ
@@ -67,6 +71,7 @@ export const ColorMap: { [key: string]: string } = {
   'rum': '#A0522D',        // ラムの茶色
   'burnt': '#A52A2A',      // 焦げた茶色
   'toasted': '#A52A2A',    // トーストした茶色
+  'smoke': '#A52A2A',    // トーストした茶色
 
   // 赤系のカテゴリ
   'rose': '#E57373',       // バラの赤
@@ -87,6 +92,7 @@ export const ColorMap: { [key: string]: string } = {
   'vinegar': '#B71C1C',  // ワインの赤
   'hyacinth': '#E91E63',   // ヒヤシンスの赤
   'coumarin': '#FADADD', // 桜の色
+  'aromatic': '#E91E63',      // ベリーの赤
 
   // 青系のカテゴリ
   'fishy': '#4A90E2',      // 魚の青
@@ -108,10 +114,13 @@ export const ColorMap: { [key: string]: string } = {
   'tonka': '#1976D2',      // トンカの青
   'acrid': '#2196F3',      // 刺激臭の青
   'metallic': '#1E90FF',   // メタリックな青
+  'medical': '#64B5F6',    // 医療の青
   'camphor': '#1E88E5',    // カンファーの青
   'alkane': '#42A5F5',     // アルカンの青
   'pungent': '#2196F3',   // 辛い青
   'sulfur': '#2196F3',   // 硫黄の青
+  'sulfury': '#0D47A1',     // 強い青
+  'pyridine': '#0D47A1',     // 強い青
 
   // その他
   'onion': '#F3ECD8',      // 玉ねぎの白

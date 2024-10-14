@@ -61,7 +61,7 @@ export const getMatchedParingEntries = async (main_entries: Entry[], groups:stri
       AND other.flavor_vector IS NOT NULL
       WITH e, other, vector.similarity.euclidean(e.flavor_vector, other.flavor_vector) AS distance
       RETURN DISTINCT other as e, sum(distance) as distance
-      ORDER BY distance DESC
+      ORDER BY distance
     `
     // クエリを実行
     const result = await session.run(query);
@@ -213,7 +213,7 @@ export const normalizeDistances = (entries: Entry[]): Entry[] => {
     if (entry.distance != undefined && maxDistance !== 0) {
       return {
         ...entry,
-        distance: parseFloat((entry.distance / maxDistance).toFixed(2)) // 最大値で割る
+        distance: 1 - parseFloat((entry.distance / maxDistance).toFixed(2)) // 最大値で割る
       };
     } else {
       return entry;

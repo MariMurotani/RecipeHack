@@ -12,7 +12,7 @@ const FloatingListBox: React.FC<FloatingListBoxProps> = ({ items }) => {
     <Box
       sx={{
         position: 'fixed',
-        top: '160px',
+        top: '120px',
         right: '20px',
         zIndex: 1000,
         borderColor: 'grey.500',

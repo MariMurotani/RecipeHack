@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';  // React をインポート
 import { useAppContext } from '../AppContext'; 
 import { Container, Typography, TextField, Button, Checkbox, Box, Chip } from '@mui/material';
+import PageContainer from '../components/PageContainer';
 import FixedButtonOverlay from '../components/FixedButtonOverlay';
 import FloatingListBox from '../components/FloatingListBox';
 import { useNavigate } from 'react-router-dom';
@@ -74,49 +75,51 @@ const ParingSearch: React.FC = () => {
 
   return (
     <Container>
-      <Typography variant="h4">
+      <PageContainer>
+        <Typography variant="h4">
         Select paring items from the list below.
+        </Typography>
         <FixedButtonOverlay onClick={backButtonOnClick} binding_position="left" />
         <FixedButtonOverlay onClick={nextButtonOnClick} />
         <FloatingListBox items={selectedAdditionalEntries} />
-      </Typography>
-      <Box
-      sx={{
-        display: 'flex',
-        gap: 1, // ラベル間のスペース
-        flexWrap: 'wrap', // ラベルが画面サイズに応じて折り返される
-      }}
-    >
-      {matchedCategory.map((item) => (
-        <Chip
-          key={`ch_${item.id}`}
-          label={item.name}
-          variant="outlined"
-          onClick={() => handleChipClick(item.id)} 
-        />
-      ))}
-        {selectedCategory !== '' && (<Chip
-          key={`ch_all`}
-          label='All'
-          variant="outlined"
-          onClick={() => handleChipClick('')}
-        />)}
-    </Box>
-      <ul>
-        {matchedResult.map((entry) => (
-          <li key={`li${entry.id}`}
-          style={{
-            listStyleType: 'none',
-          }}>
-            <Checkbox 
-            key={`ch_${entry.id}`} 
-            size="small" 
-            checked={isChecked[entry.id] || false}  
-            onChange={(event) => handleItemClick(entry, event)} />
-            {entry.name} - {entry.scientific_name} ({entry.distance})
-          </li>
-        ))}
-      </ul>
+        <Box
+        sx={{
+          display: 'flex',
+          gap: 1, // ラベル間のスペース
+          flexWrap: 'wrap', // ラベルが画面サイズに応じて折り返される
+        }}
+      >
+          {matchedCategory.map((item) => (
+            <Chip
+              key={`ch_${item.id}`}
+              label={item.name}
+              variant="outlined"
+              onClick={() => handleChipClick(item.id)} 
+            />
+          ))}
+            {selectedCategory !== '' && (<Chip
+              key={`ch_all`}
+              label='All'
+              variant="outlined"
+              onClick={() => handleChipClick('')}
+            />)}
+        </Box>
+        <ul>
+          {matchedResult.map((entry) => (
+            <li key={`li${entry.id}`}
+            style={{
+              listStyleType: 'none',
+            }}>
+              <Checkbox 
+              key={`ch_${entry.id}`} 
+              size="small" 
+              checked={isChecked[entry.id] || false}  
+              onChange={(event) => handleItemClick(entry, event)} />
+              {entry.name} - {entry.scientific_name} ({entry.distance})
+            </li>
+          ))}
+        </ul>
+        </PageContainer>
     </Container>
   );
 };

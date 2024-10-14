@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';  // React をインポート
 import { useAppContext } from '../AppContext'; 
 import { Container, Typography, TextField, Button, Checkbox } from '@mui/material';
+import PageContainer from '../components/PageContainer';
 import FixedButtonOverlay from '../components/FixedButtonOverlay';
 import FloatingListBox from '../components/FloatingListBox';
 import { useNavigate } from 'react-router-dom';
@@ -76,36 +77,40 @@ const MainGroup: React.FC = () => {
 
   return (
     <Container>
-      <Typography gutterBottom component="div">
-        <FixedButtonOverlay onClick={buttonOnClick} />
-        <FloatingListBox items={selectedMainItems} />
-      </Typography>
+      <PageContainer>
+        <Typography gutterBottom component="div">
+          <FixedButtonOverlay onClick={buttonOnClick} />
+          <FloatingListBox items={selectedMainItems} />
+        </Typography>
 
-      {/* テキストボックスを配置 */}
-      <TextField
-        label="Find main ingredient"
-        onChange={handleChange}
-        fullWidth
-        variant="outlined"
-        style={{ width: '300px' }}
-        value={searchText}
-      />
-      {/* 取得した結果をリストとして表示 */}
-      <ul>
-        {result.map((entry) => (
-          <li key={`li_${entry.id}`}
-          style={{
-            listStyleType: 'none',
-          }}>
-            <Checkbox 
-            key={`ch_${entry.id}`} 
-            size="small"  
-            checked={isChecked[entry.id] || false}  
-            onChange={(event) => handleItemClick(entry, event)} />
-            {entry.name} - {entry.scientific_name}
-          </li>
-        ))}
-      </ul>
+        {/* テキストボックスを配置 */}
+        <TextField
+          label="Find main ingredient"
+          onChange={handleChange}
+          fullWidth
+          variant="outlined"
+          sx={{ width: '300px', top: '17px' }}
+          value={searchText}
+        />
+        {/* 取得した結果をリストとして表示 */}
+        <ul
+          style={{ position: 'relative', top: '30px', left: '-40px' }}
+          >
+          {result.map((entry) => (
+            <li key={`li_${entry.id}`}
+            style={{
+              listStyleType: 'none',
+            }}>
+              <Checkbox 
+              key={`ch_${entry.id}`} 
+              size="small"  
+              checked={isChecked[entry.id] || false}  
+              onChange={(event) => handleItemClick(entry, event)} />
+              {entry.name} - {entry.scientific_name}
+            </li>
+          ))}
+        </ul>
+      </PageContainer>
     </Container>
   );
 };

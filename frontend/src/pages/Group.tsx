@@ -2,8 +2,8 @@ import React, { useEffect, useState } from 'react';
 import { Container, Typography, Button, Grid, Box, Checkbox } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
 import { useAppContext } from '../AppContext';
-import { Entry } from 'src/api/types';
 import FixedButtonOverlay from '../components/FixedButtonOverlay';
+import PageContainer from '../components/PageContainer';
 
 // 配列にボタンのキャプションと色を保存
 const button_caption = [
@@ -52,27 +52,28 @@ const Group: React.FC = () => {
   
   return (
     <Container>
-      <Typography variant="h4" gutterBottom>
-        <div> Choose taste of your dish </div>
-      <FixedButtonOverlay onClick={handleButtonClick} />
-      </Typography>
-      {/* 取得した結果をリストとして表示 */}
-      <ul>
-        {button_caption.map((button) => (
-          <li key={`li_${button.key}`}
-          style={{
-            listStyleType: 'none',
-          }}>
-            <Checkbox 
-            key={`ch_${button.key}`} 
-            size="small" 
-            checked={isChecked[button.key] || false}
-            onChange={(event) => handleItemClick(button.key, event)} />
-            {button.caption}
-          </li>
-        ))}
-      </ul>
-
+      <PageContainer>
+        <Typography variant="h4" gutterBottom>
+          <div> Choose taste of your dish </div>
+        <FixedButtonOverlay onClick={handleButtonClick} />
+        </Typography>
+        {/* 取得した結果をリストとして表示 */}
+        <ul>
+          {button_caption.map((button) => (
+            <li key={`li_${button.key}`}
+            style={{
+              listStyleType: 'none',
+            }}>
+              <Checkbox 
+              key={`ch_${button.key}`} 
+              size="small" 
+              checked={isChecked[button.key] || false}
+              onChange={(event) => handleItemClick(button.key, event)} />
+              {button.caption}
+            </li>
+          ))}
+        </ul>
+      </PageContainer>
     </Container>
   );
 };

@@ -2,6 +2,7 @@ import React from 'react';
 import { Container, Typography, Button, Grid, Box } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
 import { useAppContext } from '../AppContext';
+import PageContainer from '../components/PageContainer';
 
 // 配列にボタンのキャプションと色を保存
 const button_caption = [
@@ -27,33 +28,35 @@ const Home: React.FC = () => {
 
   return (
     <Container>
-      <Typography variant="h4">
-        Select your main item
-      </Typography>
-      <Grid
-        container
-        spacing={2}
-        justifyContent="center"
-      >
-      {button_caption.map(({caption, color , key}) => (
-        <Grid item xs={6} key={key}>
-          <Button
-            variant="contained"
-            fullWidth
-            sx={{
-              color: '#fff',
-              backgroundColor: color,
-              aspectRatio: '1 / 1', // 正方形にする
-              minHeight: '20px',  // ボタンの最小高さ
-              maxHeight: '200px',  // ボタンの最大高さ
-            }}
-            onClick={() => handleButtonClick(key)} 
-          >
-            {caption}
-          </Button>
-        </Grid>
-      ))}
-    </Grid>
+      <PageContainer>
+        <Typography variant="h4">
+          Select your main item
+        </Typography>
+        <Grid
+          container
+          spacing={2}
+          justifyContent="center"
+        >
+        {button_caption.map(({caption, color , key}) => (
+          <Grid item xs={6} key={key}>
+            <Button
+              variant="contained"
+              fullWidth
+              sx={{
+                color: '#fff',
+                backgroundColor: color,
+                aspectRatio: '1 / 1', // 正方形にする
+                minHeight: '20px',  // ボタンの最小高さ
+                maxHeight: '200px',  // ボタンの最大高さ
+              }}
+              onClick={() => handleButtonClick(key)} 
+            >
+              {caption}
+            </Button>
+          </Grid>
+        ))}
+      </Grid>
+      </PageContainer>
     </Container>
   );
 };

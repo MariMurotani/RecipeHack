@@ -22,6 +22,8 @@ export const ColorMap: { [key: string]: string } = {
   'cabbage': '#4CAF50',    // キャベツの緑
 
   // 黄色系のカテゴリ
+  'onion': '#F3ECD8',      // 玉ねぎの白
+  'garlic': '#F3ECD8',      // 玉ねぎの白
   'cheese': '#FFEB3B',     // チーズの黄色
   'sweet': '#FBC02D',      // 蜜のような黄色
   'pine': '#FBC02D',      // 蜜のような黄色
@@ -40,6 +42,7 @@ export const ColorMap: { [key: string]: string } = {
   'vanilla': '#FFEB3B',    // バニラの黄色
   'coconut': '#FFE082',    // ココナッツの黄色
   'fatty': '#FFD54F',      // 脂肪の黄色
+  'powdery': '#FFD54F',      // 脂肪の黄色
   'peach': '#FFD54F',      // ピーチの黄色
 
   // 茶色系のカテゴリ
@@ -58,6 +61,7 @@ export const ColorMap: { [key: string]: string } = {
   'coffee': '#3E2723',     // コーヒーの濃い茶色
   'almond': '#D2B48C',     // アーモンドの茶色
   'whiskey': '#A0522D',    // ウイスキーの茶色
+  'tobacco': '#A0522D',    // ウイスキーの茶色
   'roast beef': '#A0522D',    // ウイスキーの茶色
   'cocoa': '#795548',      // ココアの茶色
   'bitter': '#795548',      // ココアの茶色
@@ -68,10 +72,12 @@ export const ColorMap: { [key: string]: string } = {
   'spice': '#FF7043',      // スパイスのオレンジ
   'sulfurous': '#D2691E',  // 硫黄系のスパイス色
   'pepper': '#D2691E',     // 胡椒の茶色
+  'tea': '#D2691E',     // 胡椒の茶色
   'rum': '#A0522D',        // ラムの茶色
   'burnt': '#A52A2A',      // 焦げた茶色
   'toasted': '#A52A2A',    // トーストした茶色
   'smoke': '#A52A2A',    // トーストした茶色
+  'leather': '#8D6E63',    // レザーの茶色
 
   // 赤系のカテゴリ
   'rose': '#E57373',       // バラの赤
@@ -100,8 +106,10 @@ export const ColorMap: { [key: string]: string } = {
   'sharp': '#2196F3',      // シャープな青
   'ether': '#42A5F5',      // エーテルの青
   'ethereal': '#1E88E5',   // エーテリアルの青
+  'alcoholic': '#1E88E5',   // エーテリアルの青
   'aldehydic': '#64B5F6',  // アルデヒド系の青
   'urine': '#1976D2',      // 尿の青
+  'very slight': '#90c3f5', // かすかな青
   'faint': '#1E88E5',      // かすかな青
   'strong': '#0D47A1',     // 強い青
   'medicinal': '#42A5F5',  // 薬の青
@@ -121,9 +129,5 @@ export const ColorMap: { [key: string]: string } = {
   'sulfur': '#2196F3',   // 硫黄の青
   'sulfury': '#0D47A1',     // 強い青
   'pyridine': '#0D47A1',     // 強い青
-
-  // その他
-  'onion': '#F3ECD8',      // 玉ねぎの白
-  'garlic': '#F3ECD8',      // 玉ねぎの白
-  'leather': '#8D6E63',    // レザーの茶色
+  'odorless':' #4A90E2',     // 酢酸の青
 };

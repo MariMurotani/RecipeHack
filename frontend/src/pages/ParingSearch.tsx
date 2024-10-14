@@ -24,7 +24,6 @@ const ParingSearch: React.FC = () => {
         setMatchedCategory(categories);
         setResult(entryResult);
       } catch (error) {
-        
         console.error('Error fetching data:', error);
       }
     };
@@ -47,8 +46,13 @@ const ParingSearch: React.FC = () => {
   }
   
   // 次へボタンがクリックされたとき
-  const buttonOnClick = () => {
+  const nextButtonOnClick = () => {
     navigate('/constitution');
+  };
+  
+  // 前へボタンがクリックされたとき
+  const backButtonOnClick = () => {
+    navigate('/group');
   };
 
   // リストが選択されたとき
@@ -72,7 +76,8 @@ const ParingSearch: React.FC = () => {
     <Container>
       <Typography variant="h4">
         Select paring items from the list below.
-        <FixedButtonOverlay onClick={buttonOnClick} />
+        <FixedButtonOverlay onClick={backButtonOnClick} binding_position="left" />
+        <FixedButtonOverlay onClick={nextButtonOnClick} />
         <FloatingListBox items={selectedAdditionalEntries} />
       </Typography>
       <Box

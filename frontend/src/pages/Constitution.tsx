@@ -88,52 +88,14 @@ const Constitution: React.FC = () => {
     console.log(coefficientData);
     processFlavorParing();
   }, [selectedMainItems, selectedAdditionalEntries]); 
-
-    const neo_dummy_data = [
-      {
-        "name": "egg",
-        "size": 12,
-        "imports": [
-            "chive",
-            "soy yogurt"
-        ]
-    },
-    {
-        "name": "chive",
-        "size": 2,
-        "imports": []
-    },
-    {
-        "name": "soy yogurt",
-        "size": 120,
-        "imports": []
-    },
-    {
-        "name": "recruiterB",
-        "size": 19,
-        "imports": []
-    },
-    {
-        "name": "engineerA",
-        "size": 121,
-        "imports": []
-    },
-    {
-        "name": "engineerB",
-        "size": 127,
-        "imports": [
-            "engineerA"
-        ]
-    }
-    ];
     
   return (
     <Container>
         <TabContext value={tabNumber}>
         <Box sx={{ borderBottom: 1, borderColor: 'divider' }}>
           <TabList onChange={handleTabChange} aria-label="lab API tabs example" sx={{ justifyContent: 'center' }}>
-          <Tab label="Collation" value="1" />
-          <Tab label="Pairing" value="2" />
+          <Tab label="Food Network" value="1" />
+          <Tab label="Pairing Idea" value="2" />
           </TabList>
         </Box>
         {/* TabPanelの横幅を100%、コンテンツをセンタリング */}

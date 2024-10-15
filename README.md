@@ -157,6 +157,6 @@ frontend
 
 ##  Using Docker
 ```
-docker build -t recipe_hack .
-docker run -p 7474:7474 -p 7687:7687 -p 8888:8888 neo4j-python-jupyter-poetry
+docker build -t recipe-hack .
+docker run -p 7474:7474 -p 7687:7687 -p 8888:8888 recipe-hack
 ```

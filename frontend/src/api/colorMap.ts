@@ -89,6 +89,7 @@ export const ColorMap: { [key: string]: string } = {
   'fruity': '#FF5252', // グレープフルーツの赤
   'fruit': '#FF5252', // グレープフルーツの赤
   'floral': '#FF4081',     // フローラルなピンク
+  'strawberry': '#FF4081', // イチゴの赤
   'flower': '#F50057',     // 花の濃いピンク
   'berry': '#E91E63',      // ベリーの赤
   'logenberry': '#E91E63',      // ベリーの赤

@@ -44,7 +44,12 @@ const ParingSearch: React.FC = () => {
   // カテゴリ用のチップがクリックされたとき
   const handleChipClick = (category_id: string) => {
     setSelectedCategory(category_id);
-  }
+  };
+
+  // フローティングリストのバツボタン
+  const handleSelectedListDelete = (entry: Entry) => {
+    setSelectedAdditionalEntries(selectedAdditionalEntries.filter(item => item !== entry));
+  };
   
   // 次へボタンがクリックされたとき
   const nextButtonOnClick = () => {
@@ -81,7 +86,7 @@ const ParingSearch: React.FC = () => {
         </Typography>
         <FixedButtonOverlay onClick={backButtonOnClick} binding_position="left" />
         <FixedButtonOverlay onClick={nextButtonOnClick} />
-        <FloatingListBox items={selectedAdditionalEntries} />
+        <FloatingListBox items={selectedAdditionalEntries} handleDelete={handleSelectedListDelete} />
         <Box
         sx={{
           display: 'flex',

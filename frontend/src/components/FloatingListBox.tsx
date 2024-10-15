@@ -2,15 +2,17 @@ import React, { useState } from 'react';
 import { Box, List, ListItem, Paper, Typography, IconButton, Slide } from '@mui/material';
 import ChevronRightIcon from '@mui/icons-material/ChevronRight'; // 閉じている時
 import ChevronLeftIcon from '@mui/icons-material/ChevronLeft';   // 開いている時
+import CloseIcon from '@mui/icons-material/Close'; // バツボタン
 import { Entry } from 'src/api/types';
 
 // 型定義: 親コンポーネントからアイテムを受け取る
 interface FloatingListBoxProps {
   items: Entry[];
+  handleDelete: (entry: Entry) => void;
 }
 
-const FloatingListBox: React.FC<FloatingListBoxProps> = ({ items }) => {
-  const [open, setOpen] = useState(true); // 開閉状態を管理
+const FloatingListBox: React.FC<FloatingListBoxProps> = ({ items, handleDelete }) => {
+  const [open, setOpen] = useState(true);
 
   const toggleList = () => {
     setOpen(!open);
@@ -48,7 +50,14 @@ const FloatingListBox: React.FC<FloatingListBoxProps> = ({ items }) => {
             <List>
               {items.map((entry, index) => (
                 <ListItem key={index} sx={{ fontSize: '16px' }}>
-                  {entry.name}
+                  <Box sx={{ flexGrow: 1 }}>{entry.name}</Box>
+                  <IconButton
+                    edge="end"
+                    aria-label="delete"
+                    onClick={() => handleDelete(entry)}  // バツボタンが押された時の処理
+                  >
+                   <CloseIcon />
+                </IconButton>  {/* 右側にバツボタンを配置 */}
                 </ListItem>
               ))}
             </List>

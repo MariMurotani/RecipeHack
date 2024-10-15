@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';  // React をインポート
 import { useAppContext } from '../AppContext'; 
-import { Container, Typography, TextField, Button, Checkbox } from '@mui/material';
+import { Container, Typography, TextField, Button, Checkbox, IconButton } from '@mui/material';
 import PageContainer from '../components/PageContainer';
 import FixedButtonOverlay from '../components/FixedButtonOverlay';
 import FloatingListBox from '../components/FloatingListBox';
@@ -63,6 +63,11 @@ const MainGroup: React.FC = () => {
     return (entry_exist ? 'defaultChecked' : '');
   };
 
+  // フローティングリストのバツボタン
+  const handleSelectedListDelete = (entry: Entry) => {
+    setSelectedMainItems(selectedMainItems.filter(item => item !== entry));
+  };
+  
   // 次へボタンがクリックされたとき
   const buttonOnClick = () => {
     navigate('/group');
@@ -80,7 +85,7 @@ const MainGroup: React.FC = () => {
       <PageContainer>
         <Typography gutterBottom component="div">
           <FixedButtonOverlay onClick={buttonOnClick} />
-          <FloatingListBox items={selectedMainItems} />
+          <FloatingListBox items={selectedMainItems} handleDelete={handleSelectedListDelete} />
         </Typography>
 
         {/* テキストボックスを配置 */}

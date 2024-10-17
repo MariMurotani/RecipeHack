@@ -92,6 +92,7 @@ const ParingSearch: React.FC = () => {
           display: 'flex',
           gap: 1, // ラベル間のスペース
           flexWrap: 'wrap', // ラベルが画面サイズに応じて折り返される
+          maxWidth: '600px', // ボックスの最大幅
         }}
       >
           {matchedCategory.map((item) => (

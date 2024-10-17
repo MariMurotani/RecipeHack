@@ -7,6 +7,7 @@ export const ColorMap: { [key: string]: string } = {
   'fresh': '#66BB6A',      // メロンのような明るい緑
   'herb': '#81C784',       // ハーブの柔らかい緑
   'peppermint': '#4CAF50', // ペパーミントの緑
+  'minty': '#4CAF50', // ペパーミントの緑
   'mint': '#4CAF50',       // ミントの緑
   'herbaceous': '#2E7D32', // ハーブ系の深い緑
   'vegetable': '#388E3C',  // 野菜の濃い緑

@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-import { Container, Typography, Button, Box, Tab, Tabs } from '@mui/material';
+import { Container, Typography, Button, Box, Tab, Tabs, CircularProgress, Divider } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
 import { useAppContext } from '../AppContext';
 import DoubleCircularBarPlot, { FlavorPairDataType } from '../components/DoubleCircularBarPlot';
@@ -7,6 +7,7 @@ import NetworkGraph, { DataNode } from '../components/NetworkGraph';
 import { calculateScores, sortAndSliceTopN, maxScale } from '../api/calcFunction';
 import { TabContext, TabList, TabPanel } from '@mui/lab';
 import { createSharedFlavorEdges, extractLocalCoefficient } from '../api/neo4j';
+import { askChatGPT } from '../api/open_ai';
 import { Coefficient } from 'src/api/types';
 
 const Constitution: React.FC = () => {
@@ -14,12 +15,33 @@ const Constitution: React.FC = () => {
   const { selectedMainGroup, selectedMainItems, selectedGroups, selectedAdditionalEntries } = useAppContext();  
   // タブの状態を管理するためのuseState
   const [tabNumber, setTabNumber] = useState<string>('1');
+  // GPTの結果用
+  const [gptSuggest, setGptSuggest] = useState<string>('');
+  // ローディング用
+  const [loading, setLoading] = useState<boolean>(false);
   // ネットワークグラフ用のデータを保持
   const [coefficientData, setCoefficientData] = useState<DataNode[]>([]);
   // 円バーグラフ用のデータを保持
   const [doubleBarData, setDoubleBarData] = useState<FlavorPairDataType[]>([]);
   const handleTabChange = (event: React.SyntheticEvent, newValue: string) => {
     setTabNumber(newValue);
+  };
+
+  // GTPへお伺い
+  const processGPT = async () => {
+    // 質問を投げる例
+    const messages = [
+      { role: 'system', content: 'You are a one of the great chef in the world.' },
+      { role: 'user', content: 'What do you cook with beef and cheese? tell me ingredient and steps' }
+    ];
+
+    askChatGPT(messages).then(answer => {
+      setGptSuggest(answer);
+      setLoading(true);
+    }).catch(error => {
+      console.error('エラー:', error);
+    });
+
   };
 
   // 食材ペアの分析
@@ -83,16 +105,15 @@ const Constitution: React.FC = () => {
   };
 
   useEffect(() => {
-    // 共起分析
+    processGPT();
     processCoefficients();
-    console.log(coefficientData);
     processFlavorParing();
   }, [selectedMainItems, selectedAdditionalEntries]); 
     
   return (
     <Container>
         <TabContext value={tabNumber}>
-        <Box sx={{ borderBottom: 1, borderColor: 'divider' }}>
+        <Box sx={{ borderBottom: 0, borderColor: 'divider' }}>
           <TabList onChange={handleTabChange} aria-label="lab API tabs example" sx={{ justifyContent: 'center' }}>
           <Tab label="Food Network" value="1" />
           <Tab label="Pairing Idea" value="2" />
@@ -105,13 +126,23 @@ const Constitution: React.FC = () => {
         <TabPanel value="2" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
           <DoubleCircularBarPlot data={doubleBarData} />
         </TabPanel>
-        <TabPanel value="3" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-          Item Three
-        </TabPanel>
       </TabContext>
+      <Divider />
+      <Box
+         display="flex" flexDirection="column" alignItems="top" justifyContent="center" minHeight="100vh"
+        >
+        {(!loading) ? (
+                // ローディング中はCircularProgressを表示
+                <CircularProgress />
+            ) : (
+                // ローディング完了後はテキストを表示
+                <Typography variant="body1" mt={2}>
+                    {gptSuggest}
+                </Typography>
+            )}
+        </Box>
     </Container>
   );
 };
 
 export default Constitution;
-

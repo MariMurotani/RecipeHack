@@ -16,11 +16,11 @@ const Home: React.FC = () => {
   // 共通のデータストアとして、クリックされたボタンのキーを保存するための状態を管理
   const { setSelectedMainGroup, setSelectedMainItems, setSelectedGroups, setSelectedAdditionalEntries } = useAppContext();  
 
-  // 初期化
-  setSelectedMainGroup("");
-  setSelectedMainItems([]);
-  setSelectedGroups([]);
-  setSelectedAdditionalEntries([]);
+  // FIXME: 初期化
+  //setSelectedMainGroup("");
+  //setSelectedMainItems([]);
+  //setSelectedGroups([]);
+  //setSelectedAdditionalEntries([]);
 
   // 画面遷移
   const navigate = useNavigate();

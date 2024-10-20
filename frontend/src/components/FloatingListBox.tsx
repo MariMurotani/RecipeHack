@@ -28,7 +28,9 @@ const FloatingListBox: React.FC<FloatingListBoxProps> = ({ items, handleDelete }
       }}
     >
       {/* 開閉用のボタン */}
-      <IconButton onClick={toggleList} sx={{ position: 'absolute', left: '-40px', top: '10px' }}>
+      <IconButton 
+        color="primary"
+        onClick={toggleList} sx={{ position: 'absolute', left: '-40px', top: '10px' }}>
         {open ? <ChevronLeftIcon /> : <ChevronRightIcon />} {/* 開閉状態に応じてアイコンを切り替え */}
       </IconButton>
 

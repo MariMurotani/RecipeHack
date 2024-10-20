@@ -29,12 +29,15 @@ const Constitution: React.FC = () => {
 
   // GTPへお伺い
   const processGPT = async () => {
-    // 質問を投げる例
+    if (selectedMainItems.length === 0 || selectedAdditionalEntries.length === 0) {
+      return;
+    }
+    const nameList = [...selectedMainItems, ...selectedAdditionalEntries].map(entry => entry.name).join(', ');
     const messages = [
       { role: 'system', content: 'You are a one of the great chef in the world.' },
-      { role: 'user', content: 'What do you cook with beef and cheese? tell me ingredient and steps' }
+      { role: 'user', content: `What do you cook with ${nameList}? tell me title of dish, ingredient and steps.` }
     ];
-
+    console.log(messages);
     askChatGPT(messages).then(answer => {
       setGptSuggest(answer);
       setLoading(true);
@@ -129,14 +132,14 @@ const Constitution: React.FC = () => {
       </TabContext>
       <Divider />
       <Box
-         display="flex" flexDirection="column" alignItems="top" justifyContent="center" minHeight="100vh"
+         display="flex" flexDirection="column" alignItems="top" justifyContent="center"
         >
         {(!loading) ? (
                 // ローディング中はCircularProgressを表示
-                <CircularProgress />
+                <Box display="flex" alignItems="center" justifyContent="center" margin="20px"><CircularProgress /></Box>
             ) : (
                 // ローディング完了後はテキストを表示
-                <Typography variant="body1" mt={2}>
+                <Typography variant="body1" mt={2} sx={{ whiteSpace: 'pre-line' }}>
                     {gptSuggest}
                 </Typography>
             )}

@@ -7,6 +7,7 @@ import FloatingListBox from '../components/FloatingListBox';
 import { useNavigate } from 'react-router-dom';
 import { getMatchedParingEntries } from '../api/neo4j';
 import { Category, Entry } from '../api/types';
+import LightbulbTypography from '../components/LightbulbTypography';
 
 const ParingSearch: React.FC = () => {
   const { selectedMainGroup, selectedMainItems, selectedGroups, selectedAdditionalEntries, setSelectedAdditionalEntries } = useAppContext();  
@@ -81,12 +82,10 @@ const ParingSearch: React.FC = () => {
   return (
     <Container>
       <PageContainer>
-        <Typography variant="h4">
-        Select paring items from the list below.
-        </Typography>
+        <LightbulbTypography text="Select paring items from the list below." />
         <FixedButtonOverlay onClick={backButtonOnClick} binding_position="left" />
         <FixedButtonOverlay onClick={nextButtonOnClick} />
-        <FloatingListBox items={selectedAdditionalEntries} handleDelete={handleSelectedListDelete} />
+        <FloatingListBox items={[...selectedMainItems,...selectedAdditionalEntries]} handleDelete={handleSelectedListDelete} />
         <Box
         sx={{
           display: 'flex',

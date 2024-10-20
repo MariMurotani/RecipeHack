@@ -26,7 +26,7 @@ export const getEntryDataWithCategoryGroup = async (category: string, value:stri
       YIELD node as e, score
       WHERE e.category in [${cate_string}]
       RETURN e, score 
-      ORDER BY score DESC
+      ORDER BY score DESC, e.name
     `);
     
     return formatEntries(result);

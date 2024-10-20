@@ -4,6 +4,7 @@ import { useNavigate } from 'react-router-dom';
 import { useAppContext } from '../AppContext';
 import FixedButtonOverlay from '../components/FixedButtonOverlay';
 import PageContainer from '../components/PageContainer';
+import LightbulbTypography from '../components/LightbulbTypography';
 
 // 配列にボタンのキャプションと色を保存
 const button_caption = [
@@ -53,10 +54,8 @@ const Group: React.FC = () => {
   return (
     <Container>
       <PageContainer>
-        <Typography variant="h4" gutterBottom>
-          <div> Choose taste of your dish </div>
+        <LightbulbTypography text="Choose the style of the dish" />
         <FixedButtonOverlay onClick={handleButtonClick} />
-        </Typography>
         {/* 取得した結果をリストとして表示 */}
         <ul>
           {button_caption.map((button) => (

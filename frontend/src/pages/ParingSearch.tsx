@@ -120,7 +120,7 @@ const ParingSearch: React.FC = () => {
               size="small" 
               checked={isChecked[entry.id] || false}  
               onChange={(event) => handleItemClick(entry, event)} />
-              {entry.name} - {entry.scientific_name} ({entry.distance})
+              {entry.name} - {entry.scientific_name} ({entry.distance}, {entry.count})
             </li>
           ))}
         </ul>

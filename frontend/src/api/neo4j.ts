@@ -59,10 +59,12 @@ export const getMatchedParingEntries = async (main_entries: Entry[], groups:stri
       AND other.category IN [${cate_string}]
       AND e.flavor_vector IS NOT NULL
       AND other.flavor_vector IS NOT NULL
-      WITH e, other, vector.similarity.euclidean(e.flavor_vector, other.flavor_vector) AS distance
-      RETURN DISTINCT other as e, sum(distance) as distance
-      ORDER BY distance
+      WITH e, other, vector.similarity.euclidean(e.flavor_vector, other.flavor_vector) AS distance, count(other.flavor_vector) as count
+      RETURN DISTINCT other as e, sum(distance) as distance, sum(count) as count
+      ORDER BY distance, count desc
     `
+
+    console.log(query);
     // クエリを実行
     const result = await session.run(query);
     const entryResult:Entry[] = formatEntries(result);
@@ -182,8 +184,12 @@ const formatEntries = (result: QueryResult<RecordShape>): Entry[] => {
   let entries: Entry[] = result.records.map((record) => {
     const properties = record.get('e').properties;
     let distance = 0;
+    let count = 0;
     if(record.keys.includes('distance')){
       distance = record.get('distance');
+    }
+    if(record.keys.includes('count')){
+      count = parseInt(record.get('count'));
     }
     return {
       id: properties.id,
@@ -194,7 +200,8 @@ const formatEntries = (result: QueryResult<RecordShape>): Entry[] => {
       synonyms: properties.string,
       flavor_count: JSON.parse(properties.flavor_count ?? '{}'),
       paring_scores: JSON.parse(properties.paring_scores ?? '{}'),
-      distance: distance
+      distance: distance,
+      count: count
     };
   });
 

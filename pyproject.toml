@@ -27,6 +27,7 @@ langchainhub = "^0.1.21"
 openai = "^1.52.0"
 langchain-openai = "^0.2.3"
 mysqlclient = "^2.2.5"
+mysql-connector-python = "^9.1.0"
 
 
 [build-system]

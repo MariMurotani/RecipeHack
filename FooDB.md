@@ -230,6 +230,6 @@ select id, orig_food_common_name, orig_source_id,  standard_content, orig_unit f
  LEFT JOIN compounds_flavors on compounds.id = compounds_flavors.compound_id
  LEFT JOIN flavors on compounds_flavors.flavor_id = flavors.id
   where contents.citation_type ='DATABASE' and contents.source_type = 'Compound' and contents.standard_content > 0.0 and contents.food_id=105 
-  and orig_food_common_name ='Apple'
+  and orig_food_common_name ='Apple' and flavors.name is not null
    order by contents.standard_content desc limit 100;
    

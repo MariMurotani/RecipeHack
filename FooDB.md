@@ -223,7 +223,7 @@ select id, orig_food_common_name, orig_source_id,  standard_content, orig_unit f
 
  SELECT foods.id,orig_food_common_name,
  contents.orig_source_name, contents.standard_content, contents.orig_unit, compounds.id as compound_id,
- flavors.* 
+ flavors.id, flavors.name
  FROM 
  foods INNER JOIN contents ON foods.id = contents.food_id
  INNER JOIN compounds ON contents.source_id = compounds.id 
@@ -231,5 +231,5 @@ select id, orig_food_common_name, orig_source_id,  standard_content, orig_unit f
  LEFT JOIN flavors on compounds_flavors.flavor_id = flavors.id
   where contents.citation_type ='DATABASE' and contents.source_type = 'Compound' and contents.standard_content > 0.0 and contents.food_id=105 
   and orig_food_common_name ='Apple' and flavors.name is not null
-   order by contents.standard_content desc limit 100;
+   order by contents.standard_content desc limit 30;
    

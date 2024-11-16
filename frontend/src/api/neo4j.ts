@@ -20,11 +20,23 @@ export const getEntryDataWithCategoryGroup = async (category: string, value:stri
   const cate_string = getCategories(category);
 
   try {
+    const sub_category_result = await session.run(`
+      MATCH (f:FoodGroup)-[c:CONTAINS]->(fg:FoodSubGroup) 
+      WHERE f.id in [${cate_string}]
+      GROUP BY fg.id
+      RETURN fg.id;
+    `);
+    const sub_category_ids = sub_category_result.records.map((record) => {
+      return record.get('fg.id');
+      }
+    );
+    const sub_category_string = sub_category_ids.join("','");
+    
     // クエリを実行
     const result = await session.run(`
       CALL db.index.fulltext.queryNodes('my_text_index', '${value}*') 
       YIELD node as e, score
-      WHERE e.category in [${cate_string}]
+      WHERE e.category in [${sub_category_string}]
       RETURN e, score 
       ORDER BY score DESC, e.name
     `);
@@ -83,10 +95,10 @@ export const getMatchedParingEntries = async (main_entries: Entry[], groups:stri
 // カテゴリないの一覧を文字列で返す
 const getCategories = (category: string): string => {
   const cate_maps: { [key: string]: string[] }  = {
-    'meat': ['meat', 'Animal Product'],
-    'fish': ['fish', 'seafood'],
-    'vegetable': ['vegetable', 'fungus', 'maize', 'vegetable fruit', 'gourd', 'seed', 'nut','plant', 'root', 'legume', 'vegetable root', 'vegetable stem', 'vegetable tuber', 'cabbage'],
-    'fruit': ['fruit', 'berry', 'fruit-berry', 'fruit citrus']
+    'meat': ['animal_foods', 'eggs'],
+    'fish': ['aquatic_foods'],
+    'vegetable': ['vegetables', 'nuts', 'pulses', 'nuts', 'nuts'],
+    'fruit': ['nuts']
   }
   const cate_string = cate_maps[category].join("', '");
   return `'${cate_string}'`;

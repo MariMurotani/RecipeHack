@@ -13,8 +13,8 @@ chinook_salmon,Chinook salmon,,チヌークサーモン,Fish,魚
 chum_salmon,Chum salmon,,シュムサーモン,Fish,魚
 cisco,Cisco,,シスコ,Fish,魚
 clawed_lobster,Clawed lobster,,ハサミロブスター,Crustaceans,甲殻類
-common_carp,Common carp,,コイ,Fish,魚
-common_ling,Common ling,,コモンリング,Fish,魚
+common_carp,Common carp,carp,コイ,Fish,魚
+common_ling,Common ling,ling,コモンリング,Fish,魚
 cottage_cheese,Cottage cheese,,カッテージチーズ,Dairy Products,乳製品
 cusk,Cusk,,カスク,Fish,魚
 dungeness_crab,Dungeness crab,,ダンジネスクラブ,Crustaceans,甲殻類
@@ -94,8 +94,8 @@ broccoli,Broccoli,,ブロッコリー,Vegetables,野菜
 cauliflower,Cauliflower,,カリフラワー,Vegetables,野菜
 celery_leaves,Celery leaves,,セロリの葉,Vegetables,野菜
 chestnut,Chestnut,,栗（チェスナット）,Nuts,ナッツ
-common_buckwheat,Common buckwheat,,ソバ,Grains,穀物
-common_mushroom,Common mushroom,,マッシュルーム,Mushrooms,キノコ
+common_buckwheat,Common buckwheat,buckwheat,ソバ,Grains,穀物
+common_mushroom,Common mushroom,mushroom,マッシュルーム,Mushrooms,キノコ
 enokitake,Enokitake,,エノキタケ,Mushrooms,キノコ
 european_chestnut,European chestnut,,ヨーロッパグリ,Nuts,ナッツ
 fig,Fig,,イチジク,Fruits,果物
@@ -163,7 +163,7 @@ potato_puffs,Potato puffs,,ポテトパフ,Snacks,スナック
 saffron,Saffron,,サフラン,Spices,香辛料
 sweet_bay,Sweet bay,,スイートベイ,Vegetables/Herbs,ハーブ
 zwieback,Zwieback,,ツヴィーバック,Bread Products,パン類
-common_thyme,Common thyme,,コモンタイム,Vegetables/Herbs,ハーブ
+common_thyme,Common thyme,thyme,コモンタイム,Vegetables/Herbs,ハーブ
 cumin,Cumin,,クミン,Spices,香辛料
 pot_marjoram,Pot marjoram,,ポットマジョラム,Vegetables/Herbs,ハーブ
 winter_savory,Winter savory,,ウィンターセイボリー,Vegetables/Herbs,ハーブ
@@ -308,7 +308,7 @@ sweet_custard,Sweet custard,,甘いカスタード,Desserts,デザート
 tamale,Tamale,,タマーレ,Cooking,料理
 ymer,Ymer,,ユメール,Fermented Dairy Products,発酵乳製品
 black_eyed_pea,Black-eyed pea,,ブラックアイピース,Beans,豆類
-common_verbena,Common verbena,,コモンバーベナ,Vegetables/Herbs,ハーブ
+common_verbena,Common verbena,verbena,コモンバーベナ,Vegetables/Herbs,ハーブ
 mexican_oregano,Mexican oregano,,メキシカンオレガノ,Vegetables/Herbs,ハーブ
 steller_sea_lion,Steller sea lion,,ステラーカワウソ,Meets,肉類
 swiss_chard,Swiss chard,,スイスチャード,Vegetables,野菜
@@ -322,7 +322,7 @@ apricot,Apricot,,アプリコット（杏）,Fruits,果物
 avocado,Avocado,,アボカド,Fruits,果物
 butternut,Butternut,,バターナット,Nuts,ナッツ
 colorado_pinyon,Colorado pinyon,,コロラドピニョン,Nuts,ナッツ
-common_hazelnut,Common hazelnut,,ヘーゼルナッツ,Nuts,ナッツ
+common_hazelnut,Common hazelnut,hazelnut,ヘーゼルナッツ,Nuts,ナッツ
 cucumber,Cucumber,,キュウリ,Vegetables,野菜
 grapeseed_oil,Grapeseed oil,,グレープシードオイル,Fats,油脂
 linseed_oil,Linseed oil,,亜麻仁油（リンシードオイル）,Fats,油脂
@@ -338,8 +338,8 @@ chervil,Chervil,,チャービル,Vegetables/Herbs,ハーブ
 clupeinae__herring_sardine_sprat_,"Clupeinae (Herring, Sardine, Sprat)",Sardine,ニシン科（ニシン、イワシ、スプラット）,Fish,魚
 cold_cut,Cold cut,,コールドカット,Meet Products,肉製品
 columbidae__dove_pigeon_,"Columbidae (Dove, Pigeon)",Pigeon,ハト科（ハト、ドバト）,Meets,肉類
-common_oregano,Common oregano,,オレガノ,Vegetables/Herbs,ハーブ
-common_sage,Common sage,,セージ,Vegetables/Herbs,ハーブ
+common_oregano,Common oregano,oregano,オレガノ,Vegetables/Herbs,ハーブ
+common_sage,Common sage,sage,セージ,Vegetables/Herbs,ハーブ
 dulce_de_leche,Dulce de leche,,ドゥルセ・デ・レチェ,Spread,スプレッド
 egg_substitute,Egg substitute,,卵代替品,Processed Foods,加工食品
 french_toast,French toast,,フレンチトースト,Desserts,デザート
@@ -425,8 +425,8 @@ allium,Allium,,アリウム,Vegetables/Herbs,ハーブ
 bamboo_shoots,Bamboo shoots,,タケノコ,Vegetables,野菜
 butternut_squash,Butternut squash,,バターナッツスカッシュ,Vegetables,野菜
 celery_stalks,Celery stalks,,セロリの茎,Root vegetables,根菜
-common_bean,Common bean,,インゲンマメ,Beans,豆類
-common_persimmon,Common persimmon,,柿,Fruits,果物
+common_bean,Common bean,bean,インゲンマメ,Beans,豆類
+common_persimmon,Common persimmon,persimmon,柿,Fruits,果物
 daikon_radish,Daikon radish,,ダイコン,Root vegetables,根菜
 french_plantain,French plantain,,フレンチプランテン,Fruits,果物
 green_bean,Green bean,,サヤインゲン,Vegetables,野菜
@@ -449,7 +449,7 @@ yellow_wax_bean,Yellow wax bean,,黄サヤインゲン,Vegetables,野菜
 yellow_zucchini,Yellow zucchini,,黄色ズッキーニ,Vegetables,野菜
 breadnut_tree_seed,Breadnut tree seed,,ブレッドナッツツリーシード,Seeds,種子
 cattle__beef_veal_,"Cattle (Beef, Veal)",,牛（ビーフ、ヴィール）,Meets,肉類
-common_pea,Common pea,,エンドウマメ,Beans,豆類
+common_pea,Common pea,pea,エンドウマメ,Beans,豆類
 cuttlefish,Cuttlefish,,コウイカ,Seafood,魚介類
 deer,Deer,,シカ,Meets,肉類
 gelatin_dessert,Gelatin dessert,,ゼラチンデザート,Desserts,デザート
@@ -532,8 +532,8 @@ vermouth,Vermouth,,ベルモット,Alcoholic Beverages,アルコール飲料
 black_cabbage,Black cabbage,,ブラックキャベツ,Vegetables,野菜
 cantaloupe_melon,Cantaloupe melon,,カンタロープメロン,Fruits,果物
 chinese_cabbage,Chinese cabbage,,チンゲンサイ,Vegetables,野菜
-common_beet,Common beet,,ビート,Vegetables,野菜
-common_cabbage,Common cabbage,,キャベツ,Vegetables,野菜
+common_beet,Common beet,beet,ビート,Vegetables,野菜
+common_cabbage,Common cabbage,cabbage,キャベツ,Vegetables,野菜
 corn_grits,Corn grits,,コーングリッツ,Grain Products,穀物製品
 dock,Dock,,スイバ,Vegetables/Herbs,ハーブ
 feijoa,Feijoa,,フェイジョア,Fruits,果物
@@ -594,7 +594,7 @@ tapioca_pearl,Tapioca pearl,,タピオカパール,Desserts,デザート
 borage,Borage,,ボリジ,Vegetables/Herbs,ハーブ
 chili,Chili,,チリ,Spices,香辛料
 chinese_broccoli,Chinese broccoli,,チンゲンサイ,Vegetables,野菜
-common_grape,Common grape,,ブドウ,Fruits,果物
+common_grape,Common grape,grape,ブドウ,Fruits,果物
 cowpea,Cowpea,,ササゲ,Beans,豆類
 crayfish,Crayfish,,ザリガニ,Seafood,魚介類
 globe_artichoke,Globe artichoke,,グローブアーティチョーク,Vegetables,野菜
@@ -739,12 +739,12 @@ coalfish_pollock,Coalfish pollock,,コールフィッシュ・ポロック,Fish,
 cocoa_and_cocoa_products,Cocoa and cocoa products,,ココアとココア製品,#N/A,食品/飲料
 cocoa_liquor,Cocoa liquor,,ココアリキュール,Beverages,飲料
 coconut_milk,Coconut milk,,ココナッツミルク,Dairy Alternatives,乳製品代替品
-common_chokecherry,Common chokecherry,,コモン・チョークチェリー,Fruits,果物
-common_dab,Common dab,,コモンダブ,Fish,魚
-common_octopus,Common octopus,,コモン・タコ,Seafood,魚介類
-common_salsify,Common salsify,,コモン・サルシフィ,Vegetables,野菜
-common_walnut,Common walnut,,コモン・ウォールナット,Nuts,ナッツ
-common_wheat,Common wheat,,コモン・ウィート,Grains,穀物
+common_chokecherry,Common chokecherry,chokecherry,コモン・チョークチェリー,Fruits,果物
+common_dab,Common dab,dab,コモンダブ,Fish,魚
+common_octopus,Common octopus,octopus,コモン・タコ,Seafood,魚介類
+common_salsify,Common salsify,salsify,コモン・サルシフィ,Vegetables,野菜
+common_walnut,Common walnut,walnut,コモン・ウォールナット,Nuts,ナッツ
+common_wheat,Common wheat,wheat,コモン・ウィート,Grains,穀物
 corn_oil,Corn oil,,コーンオイル,Fats,油脂
 crosne,Crosne,,クロスネ,Vegetables,野菜
 crustaceans,Crustaceans,,甲殻類,#N/A,動物

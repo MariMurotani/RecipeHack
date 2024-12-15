@@ -2,6 +2,7 @@
 
 1. Find Food Group
 
+```
 mysql> select food_group from foods where food_group is not null group by food_group;
 
 +-----------------------------+
@@ -32,9 +33,10 @@ mysql> select food_group from foods where food_group is not null group by food_g
 | Fats and oils               |
 +-----------------------------+
 23 rows in set (0.00 sec)
-
+```
 
 2. Find Food SubGroup
+```
 mysql> select food_subgroup from foods where food_subgroup is not null and food_subgroup != "" group by food_subgroup;
 +-----------------------------+
 | food_subgroup               |
@@ -160,8 +162,10 @@ mysql> select food_subgroup from foods where food_subgroup is not null and food_
 | Bivalvia                    |
 +-----------------------------+
 119 rows in set (0.00 sec)
+```
 
 3. Find preparation type
+```
 mysql> select preparation_type from contents where preparation_type is not NULL and preparation_type != 'No' group by preparation_type;
 +---------------------------------------------------+
 | preparation_type                                  |
@@ -195,8 +199,10 @@ mysql> select preparation_type from contents where preparation_type is not NULL 
 | raw, frozen, dried                                |
 +---------------------------------------------------+
 27 rows in set (1.39 sec)
+```
 
 4. Find content subtypes of related apple
+```
 mysql> select orig_food_common_name from contents where food_id = 105 group by orig_food_common_name;
 
 +-------------------------------------------------------------------------------------------------------+
@@ -212,24 +218,45 @@ mysql> select orig_food_common_name from contents where food_id = 105 group by o
 | Apples, raw, with skin                                                                                |
 | Apples, raw, without skin                                                                             |
 ........
-
+```
 
 5. Fetch Molecules amount contained 
+```
 select id, orig_food_common_name, orig_source_id,  standard_content, orig_unit from contents where citation_type ='DATABASE' and source_type = 'Compound' and standard_content > 0.0 and food_id=105 and orig_food_common_name ='Apple' order by standard_content desc limit 20;
-
+```
 * or you just use orig_food_common_name ='Apple' for filter
 
 5. Find molecules in specific foods
-
+```
  SELECT foods.id,orig_food_common_name,
  contents.orig_source_name, contents.standard_content, contents.orig_unit, compounds.id as compound_id,
- flavors.* 
+ flavors.id, flavors.name
  FROM 
  foods INNER JOIN contents ON foods.id = contents.food_id
  INNER JOIN compounds ON contents.source_id = compounds.id 
  LEFT JOIN compounds_flavors on compounds.id = compounds_flavors.compound_id
  LEFT JOIN flavors on compounds_flavors.flavor_id = flavors.id
   where contents.citation_type ='DATABASE' and contents.source_type = 'Compound' and contents.standard_content > 0.0 and contents.food_id=105 
-  and orig_food_common_name ='Apple'
-   order by contents.standard_content desc limit 100;
-   
+  and orig_food_common_name ='Apple' and flavors.name is not null
+   order by contents.standard_content desc limit 30;
+```
+
+## NEO4jクエリ
+### FoodSubの中から目的のFoodを取り出す
+
+```
+CALL db.index.fulltext.queryNodes("food_sub_index_text_search", "tomato") 
+YIELD node, score
+ORDER BY score DESC, size(node.name)
+LIMIT 10
+RETURN node.id, node.name, score
+```
+
+### 香りの特徴を確認する
+```
+MATCH (f:FoodSubType)-[r:SCENTED]->(a:Aroma)
+WHERE f.id IN ['tomato', 'basil', 'cheese_mozzarella_low_moisture_part_skim', 'olive_oil']
+WITH a.id AS aroma_id, COUNT(f) AS food_count, SUM(r.ratio) AS total_ratio
+RETURN aroma_id, food_count, total_ratio
+ORDER BY total_ratio DESC;
+```

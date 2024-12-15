@@ -1,0 +1,541 @@
+{
+  "search_metadata": {
+    "id": "670a176452a04e692017f18b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/24b198d1ce1d73ee/670a176452a04e692017f18b.json",
+    "created_at": "2024-10-12 06:29:56 UTC",
+    "processed_at": "2024-10-12 06:29:56 UTC",
+    "google_url": "https://www.google.com/search?q=fish&oq=fish&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/24b198d1ce1d73ee/670a176452a04e692017f18b.html",
+    "total_time_taken": 6.99
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "fish",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "fish",
+    "total_results": 3820000000,
+    "time_taken_displayed": 0.27,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=fish&npsic=0&rflfq=1&rldoc=1&rllag=30292760,-97724236,3506&tbm=lcl&sa=X&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4QtgN6BAhHEAI",
+    "image": "https://serpapi.com/searches/670a176452a04e692017f18b/images/a03d31fcfdcbe9c521c2f1e74fef652b.png",
+    "gps_coordinates": {
+      "latitude": 30.29276,
+      "longitude": -97.724236
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.4,
+        "reviews_original": "(602)",
+        "reviews": 602,
+        "description": "\"The fish was crisp outside, tinder inside, delicious!\"",
+        "lsig": "AB86z5U04L01X4eqslQNxBM2iYao",
+        "thumbnail": "https://serpapi.com/searches/670a176452a04e692017f18b/images/efc7b626d2bfdf463723c8ca0f8eb8e954b9e11ff63800fccecf9137350a38e3e6dd6779f9b672c9.jpeg",
+        "title": "Turf N' Surf Po Boy",
+        "type": "Seafood",
+        "address": "407 Lavaca St",
+        "hours": "Closed \u22c5 Opens 11 AM",
+        "place_id": "8869167598910260447",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=8869167598910260447&q=fish",
+        "gps_coordinates": {
+          "latitude": 30.267262,
+          "longitude": -97.74562
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.3,
+        "reviews_original": "(1K)",
+        "reviews": 1000,
+        "price": "$$",
+        "description": "\"The fish was very fresh, crispy and easily cut with a fork.\"",
+        "lsig": "AB86z5VPn6SGuhAdfYxBRT8XRdlF",
+        "thumbnail": "https://serpapi.com/searches/670a176452a04e692017f18b/images/efc7b626d2bfdf463723c8ca0f8eb8e90e126a1c9dc8f54896b6340ec0d704df86790cd89ba60476.jpeg",
+        "title": "Quality Seafood Market",
+        "type": "Restaurant",
+        "address": "5621 Airport Blvd",
+        "hours": "Closed \u22c5 Opens 10:30 AM",
+        "place_id": "8228920580944158071",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=8228920580944158071&q=fish",
+        "gps_coordinates": {
+          "latitude": 30.318314,
+          "longitude": -97.712265
+        }
+      },
+      {
+        "position": 3,
+        "rating": 4.0,
+        "reviews_original": "(1K)",
+        "reviews": 1000,
+        "description": "\"Had the fish and corn nuggets with hot sauce and it rocked my world.\"",
+        "lsig": "AB86z5UNnu8kM8M5K9QCfbso5xF9",
+        "thumbnail": "https://serpapi.com/searches/670a176452a04e692017f18b/images/efc7b626d2bfdf463723c8ca0f8eb8e978913fd37a0e09e445fafdacf9d28bd2634515b66bb1072f.jpeg",
+        "title": "Terry's Seafood And Chicken",
+        "type": "Seafood",
+        "address": "1805 Airport Blvd",
+        "hours": "Closed \u22c5 Opens 10:30 AM",
+        "place_id": "16627628225601102986",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=16627628225601102986&q=fish",
+        "gps_coordinates": {
+          "latitude": 30.281538,
+          "longitude": -97.7029
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=fish&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4QjGp6BAhIEAE"
+  },
+  "knowledge_graph": {
+    "title": "Fish",
+    "type": "Animal",
+    "entity_type": "biology, education, education_learning, animal",
+    "kgmid": "/m/0ch_cf",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0ch_cf&hl=en-US&q=Fish",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0ch_cf&location=Austin%2CTexas%2CUnited+States&q=Fish",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a176452a04e692017f18b/images/ba1053248ecd9057502b872d87563f746427305f72565581fef97036e162a5e9217ada001dc60423.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a176452a04e692017f18b/images/ba1053248ecd9057502b872d87563f746427305f72565581ea424db5e3423ce410b8626915c9cad0.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a176452a04e692017f18b/images/ba1053248ecd9057502b872d87563f746427305f7256558128442fc1f0b90d7664ee8479269372b2.webp"
+      }
+    ],
+    "collective_noun": "school, shoal",
+    "clade": "Olfactores",
+    "clade_links": [
+      {
+        "text": "Olfactores",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Olfactores&stick=H4sIAAAAAAAAAONgVuLWT9c3NDLISbHINVvEyuWfk5aYXJJflFoMADsiNdccAAAA&sa=X&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4QmxMoAHoECDsQAg"
+      }
+    ],
+    "domain": "Eukaryota",
+    "kingdom": "Animalia",
+    "web_results": [
+      {
+        "snippet": "A fish is an aquatic, anamniotic, gill-bearing vertebrate animal with swimming fins and a hard skull, but lacking limbs with digits.",
+        "source": "Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Fish"
+      },
+      {
+        "title": "Term for young",
+        "snippet": "alevin, fingerling, fry",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=fish+term+for+young&stick=H4sIAAAAAAAAAOPgE-LUz9U3SM6IT07TUsxOttJPyszPyU-v1E_My8xNzLEqSS3KjU_LL4qvzC_NS1_EKpyWWZyhABJVAIoqgEUBiGzs-UYAAAA&sa=X&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4Q18AJegQIPhAB"
+      },
+      {
+        "title": "Lifespan",
+        "snippet": "Siamese fighting fish: 2 \u2013 5 years, Common carp: 20 years, Wels catfish: 60 years, Mahi-mahi: 3 \u2013 4 years, Northern pike: 10 \u2013 15 years, Chum salmon: 3 \u2013 5 years",
+        "duration": "+5"
+      }
+    ],
+    "representative_species": [
+      {
+        "name": "Siamese fighting fish",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Siamese+fighting+fish&stick=H4sIAAAAAAAAAONgFuLUz9U3SM6IT05TAjPNC4vLKrTss5Ot9JMy83Py0yv1M_PS8otyE3PiIQKZyUBmelF-aUFmXrpVUWpBUWpxal5JYklmWapCcUFqcmZq8SJW0eDMxFyghEJaZnpGCVAlkFGcsYOVEQB465yXdAAAAA&sa=X&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4QxA16BAg6EAM",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Siamese+fighting+fish&stick=H4sIAAAAAAAAAONgFuLUz9U3SM6IT05TAjPNC4vLKrTss5Ot9JMy83Py0yv1M_PS8otyE3PiIQKZyUBmelF-aUFmXrpVUWpBUWpxal5JYklmWapCcUFqcmZq8SJW0eDMxFyghEJaZnpGCVAlkFGcsYOVEQB465yXdAAAAA",
+        "image": "https://serpapi.com/searches/670a176452a04e692017f18b/images/ba1053248ecd9057502b872d87563f74e41f9283700d2983adc41d487278204e25762a1f0e38541d157a5e4d3518cb20.jpeg"
+      },
+      {
+        "name": "Queen angelfish",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Queen+angelfish&stick=H4sIAAAAAAAAAONgFuLUz9U3SM6IT05T4gIxjcoNssuLtOyzk630kzLzc_LTK_Uz89Lyi3ITc-IhApnJQGZ6UX5pQWZeulVRakFRanFqXkliSWZZqkJxQWpyZmrxIlb-wNLU1DyFxLz01Jy0zOKMHayMAKQ4e2tvAAAA&sa=X&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4QxA16BAg6EAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Queen+angelfish&stick=H4sIAAAAAAAAAONgFuLUz9U3SM6IT05T4gIxjcoNssuLtOyzk630kzLzc_LTK_Uz89Lyi3ITc-IhApnJQGZ6UX5pQWZeulVRakFRanFqXkliSWZZqkJxQWpyZmrxIlb-wNLU1DyFxLz01Jy0zOKMHayMAKQ4e2tvAAAA",
+        "image": "https://serpapi.com/searches/670a176452a04e692017f18b/images/ba1053248ecd9057502b872d87563f74e41f9283700d2983adc41d487278204ebf9dad71573b9155bf8eb60d0839c281.jpeg"
+      },
+      {
+        "name": "Jawless fish",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Agnatha&stick=H4sIAAAAAAAAAONgFuLUz9U3SM6IT05TAjMNLcuTDLTss5Ot9JMy83Py0yv1M_PS8otyE3PiIQKZyUBmelF-aUFmXrpVUWpBUWpxal5JYklmWapCcUFqcmZq8SJWdsf0vMSSjMQdrIwA7QI5P2YAAAA&sa=X&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4QxA16BAg6EAc",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Agnatha&stick=H4sIAAAAAAAAAONgFuLUz9U3SM6IT05TAjMNLcuTDLTss5Ot9JMy83Py0yv1M_PS8otyE3PiIQKZyUBmelF-aUFmXrpVUWpBUWpxal5JYklmWapCcUFqcmZq8SJWdsf0vMSSjMQdrIwA7QI5P2YAAAA",
+        "image": "https://serpapi.com/searches/670a176452a04e692017f18b/images/ba1053248ecd9057502b872d87563f74e41f9283700d2983adc41d487278204ebed3a5ed27ac66646f0148f716c7d2e2.jpeg"
+      },
+      {
+        "name": "Airbreathing catfishes",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Airbreathing+catfish&stick=H4sIAAAAAAAAAONgFuLUz9U3SM6IT05TAjONCszjTbXss5Ot9JMy83Py0yv1M_PS8otyE3PiIQKZyUBmelF-aUFmXrpVUWpBUWpxal5JYklmWapCcUFqcmZq8SJWEcfMoqSi1MSSDKAqheTEkrTM4owdrIwAwUMp4HMAAAA&sa=X&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4QxA16BAg6EAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Airbreathing+catfish&stick=H4sIAAAAAAAAAONgFuLUz9U3SM6IT05TAjONCszjTbXss5Ot9JMy83Py0yv1M_PS8otyE3PiIQKZyUBmelF-aUFmXrpVUWpBUWpxal5JYklmWapCcUFqcmZq8SJWEcfMoqSi1MSSDKAqheTEkrTM4owdrIwAwUMp4HMAAAA",
+        "image": "https://serpapi.com/searches/670a176452a04e692017f18b/images/ba1053248ecd9057502b872d87563f74e41f9283700d2983adc41d487278204eb59801852274fba306d41289716d8ff8.jpeg"
+      }
+    ]
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Topwater ONLY Day of Pond Fishing! (HUGE Fish)",
+      "link": "https://www.youtube.com/watch?v=iQ4BRw7sLJA",
+      "thumbnail": "https://serpapi.com/searches/670a176452a04e692017f18b/images/f6af1a0ea059da95ef5f21abb5ede7fe0641d2c36a8529c231569c7cc85f6a1b.jpeg",
+      "channel": "KickinTheirBASSTV",
+      "duration": "34:57",
+      "platform": "YouTube",
+      "date": "1 day ago"
+    },
+    {
+      "position": 2,
+      "title": "This Was the BRIDGE Fish I Wanted!",
+      "link": "https://www.youtube.com/watch?v=NWOef9fBiMk",
+      "thumbnail": "https://serpapi.com/searches/670a176452a04e692017f18b/images/f6af1a0ea059da959124e1140f615e0d315d6aa687d58fbe7fd8dc3922f5377a.jpeg",
+      "channel": "Bama Saltwater",
+      "duration": "23:30",
+      "platform": "YouTube",
+      "date": "6 hours ago"
+    },
+    {
+      "position": 3,
+      "title": "This is How I Fish With Artificial Shrimp! Bite Was on \ud83d\udd25 Post ...",
+      "link": "https://www.youtube.com/watch?v=eoKKCBpCsmg",
+      "thumbnail": "https://serpapi.com/searches/670a176452a04e692017f18b/images/f6af1a0ea059da95d1fccb4eb8d1d715ee8b0ba8abee4789c0d44fb6075a78f5.jpeg",
+      "channel": "Thonny",
+      "duration": "24:09",
+      "platform": "YouTube",
+      "date": "8 hours ago"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is a good fish to eat?",
+      "snippet": "These include salmon, mackerel, anchovies, sardines and herring, which all contain omega-3 fatty acids \u2013 these are essential for a healthy heart and brain, as well as mood regulation.",
+      "title": "10 healthy fish to eat - BBC Good Food",
+      "date": "Sep 11, 2024",
+      "link": "https://www.bbcgoodfood.com/health/nutrition/healthy-fish-to-eat#:~:text=These%20include%20salmon%2C%20mackerel%2C%20anchovies,as%20well%20as%20mood%20regulation.",
+      "displayed_link": "https://www.bbcgoodfood.com \u203a health \u203a nutrition \u203a hea...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-3fB7QRUj969uSyG7PL32ISOlBj8_l4Y_Y7I8PYbSXw&s",
+      "source_logo": "https://serpapi.com/searches/670a176452a04e692017f18b/images/2049684d3262ec2ef1158dde805f9de68fec88d39c2ced2eea9e324e3df4f557.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWVUWTFTbWRSWTJWVlRsazBXRXhzVjNCWFgwd3phVFJuV1VJdE4xRXRTSGxMWkRjMFNUa3RaVm8zVjFsd2NHTkRaRWM0UlhkcE5tTmlORFI0ZDBwaFdWbHdRbGM1RWhkaGVHTkxXalp5UzBaMVIxZDNZbXRRYnkxWVREaEJieG9pUVVaWWNrVmpjSGd0Y1VaeFIwNUtYMDVMZVdSclkweHhTbEZMYzBJMlNWODVkdyIsImZjdiI6IjMiLCJlaSI6ImF4Y0taNnJLRnVHV3dia1BvLVhMOEFvIiwicWMiOiJDZ1JtYVhOb0VBQjlQZndzUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgYSBnb29kIGZpc2ggdG8gZWF0PyIsImxrIjoiR2hwM2FHRjBJR2x6SUdFZ1oyOXZaQ0JtYVhOb0lIUnZJR1ZoZEEiLCJicyI6ImMtT3k0NUlPejBnc1VjZ3NWa2hVU01fUFQxRkl5eXpPVUNqSlYwaE5MTEdYLUpsaUpDTWxWWTVUQlpjVmx5eFlmMkpScWtKSlJxcUNxVUpKWlVGcXNVSi1HbGladmNRcEhTTXhLUkZUaGR6RXpEeFVPYTR3TGwyWTNTQ3RLWmxwYWFsRnFYbkpxUXBKcVNYbHFhbDVFSnNTODFLZ1pxM01NMUtTSXFpT3k1MUxIY1ZOeVJtSlJZbkpKYWxGbWNVbG1jbGcteE9oSms3bU1KS1VFc2VpQUNRdHdBZ0EiLCJpZCI6ImZjXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWVUWTFTbWRSWTJWVlRsazBXRXhzVjNCWFgwd3phVFJuV1VJdE4xRXRTSGxMWkRjMFNUa3RaVm8zVjFsd2NHTkRaRWM0UlhkcE5tTmlORFI0ZDBwaFdWbHdRbGM1RWhkaGVHTkxXalp5UzBaMVIxZDNZbXRRYnkxWVREaEJieG9pUVVaWWNrVmpjSGd0Y1VaeFIwNUtYMDVMZVdSclkweHhTbEZMYzBJMlNWODVkdyIsImZjdiI6IjMiLCJlaSI6ImF4Y0taNnJLRnVHV3dia1BvLVhMOEFvIiwicWMiOiJDZ1JtYVhOb0VBQjlQZndzUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgYSBnb29kIGZpc2ggdG8gZWF0PyIsImxrIjoiR2hwM2FHRjBJR2x6SUdFZ1oyOXZaQ0JtYVhOb0lIUnZJR1ZoZEEiLCJicyI6ImMtT3k0NUlPejBnc1VjZ3NWa2hVU01fUFQxRkl5eXpPVUNqSlYwaE5MTEdYLUpsaUpDTWxWWTVUQlpjVmx5eFlmMkpScWtKSlJxcUNxVUpKWlVGcXNVSi1HbGladmNRcEhTTXhLUkZUaGR6RXpEeFVPYTR3TGwyWTNTQ3RLWmxwYWFsRnFYbkpxUXBKcVNYbHFhbDVFSnNTODFLZ1pxM01NMUtTSXFpT3k1MUxIY1ZOeVJtSlJZbkpKYWxGbWNVbG1jbGcteE9oSms3bU1KS1VFc2VpQUNRdHdBZ0EiLCJpZCI6ImZjXzIifQ%3D%3D"
+    },
+    {
+      "question": "What are the 5 types of fish?",
+      "snippet": "There are about 28,000 existing species of fish, and they are placed in five classes: hagfish, lampreys, cartilaginous fish, ray-finned bony fish, and lobe-finned bony fish.",
+      "title": "12.10: Fish Classification - Biology LibreTexts",
+      "date": "Mar 5, 2021",
+      "link": "https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Introductory_Biology_(CK-12)/12%3A_Vertebrates/12.10%3A_Fish_Classification#:~:text=There%20are%20about%2028%2C000%20existing,and%20lobe%2Dfinned%20bony%20fish.",
+      "displayed_link": "https://bio.libretexts.org \u203a Bookshelves \u203a 12:_Vertebrates",
+      "source_logo": "https://serpapi.com/searches/670a176452a04e692017f18b/images/2049684d3262ec2ef1158dde805f9de652278c684db90a21fdc6afaa24d16983.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWVUWTFTbWRSWTJWVlRsazBXRXhzVjNCWFgwd3phVFJuV1VJdE4xRXRTSGxMWkRjMFNUa3RaVm8zVjFsd2NHTkRaRWM0UlhkcE5tTmlORFI0ZDBwaFdWbHdRbGM1RWhkaGVHTkxXalp5UzBaMVIxZDNZbXRRYnkxWVREaEJieG9pUVVaWWNrVmpjSGd0Y1VaeFIwNUtYMDVMZVdSclkweHhTbEZMYzBJMlNWODVkdyIsImZjdiI6IjMiLCJlaSI6ImF4Y0taNnJLRnVHV3dia1BvLVhMOEFvIiwicWMiOiJDZ1JtYVhOb0VBQjlQZndzUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSA1IHR5cGVzIG9mIGZpc2g/IiwibGsiOiJHaFExSUcxaGFXNGdkSGx3WlhNZ2IyWWdabWx6YUEiLCJicyI6ImMtT3k0NUlPejBnc1VjZ3NWa2hVU01fUFQxRkl5eXpPVUNqSlYwaE5MTEdYLUpsaUpDTWxWWTVUQlpjVmx5eFlmMkpScWtKSlJxcUNxVUpKWlVGcXNVSi1HbGladmNRcEhTTXhLUkZUaGR6RXpEeFVPYTR3TGwyWTNTQ3RLWmxwYWFsRnFYbkpxUXBKcVNYbHFhbDVFSnNTODFLZ1pxM01NMUtTSXFpT3k1MUxIY1ZOeVJtSlJZbkpKYWxGbWNVbG1jbGcteE9oSms3bU1KS1VFc2VpQUNRdHdBZ0EiLCJpZCI6ImZjXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWVUWTFTbWRSWTJWVlRsazBXRXhzVjNCWFgwd3phVFJuV1VJdE4xRXRTSGxMWkRjMFNUa3RaVm8zVjFsd2NHTkRaRWM0UlhkcE5tTmlORFI0ZDBwaFdWbHdRbGM1RWhkaGVHTkxXalp5UzBaMVIxZDNZbXRRYnkxWVREaEJieG9pUVVaWWNrVmpjSGd0Y1VaeFIwNUtYMDVMZVdSclkweHhTbEZMYzBJMlNWODVkdyIsImZjdiI6IjMiLCJlaSI6ImF4Y0taNnJLRnVHV3dia1BvLVhMOEFvIiwicWMiOiJDZ1JtYVhOb0VBQjlQZndzUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSA1IHR5cGVzIG9mIGZpc2g%2FIiwibGsiOiJHaFExSUcxaGFXNGdkSGx3WlhNZ2IyWWdabWx6YUEiLCJicyI6ImMtT3k0NUlPejBnc1VjZ3NWa2hVU01fUFQxRkl5eXpPVUNqSlYwaE5MTEdYLUpsaUpDTWxWWTVUQlpjVmx5eFlmMkpScWtKSlJxcUNxVUpKWlVGcXNVSi1HbGladmNRcEhTTXhLUkZUaGR6RXpEeFVPYTR3TGwyWTNTQ3RLWmxwYWFsRnFYbkpxUXBKcVNYbHFhbDVFSnNTODFLZ1pxM01NMUtTSXFpT3k1MUxIY1ZOeVJtSlJZbkpKYWxGbWNVbG1jbGcteE9oSms3bU1KS1VFc2VpQUNRdHdBZ0EiLCJpZCI6ImZjXzIifQ%3D%3D"
+    },
+    {
+      "question": "What is the difference between fish and fish?",
+      "snippet": "Fish and fishes are both acceptable plural forms of fish. Fish is the more commonly used plural and can be used regardless of how many species are present. Fishes tends to be used as a plural when there are more than one species, especially in scientific settings.",
+      "title": "Fish or Fishes: Learn Which is the Correct Plural Form - LanguageTool",
+      "link": "https://languagetool.org/insights/post/is-fish-plural/#:~:text=at%20those%20fishes!-,Fish%20and%20fishes%20are%20both%20acceptable%20plural%20forms%20of%20fish,species%2C%20especially%20in%20scientific%20settings.",
+      "displayed_link": "https://languagetool.org \u203a insights \u203a post \u203a is-fish-plural",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWKqjgJcE9QklNwe0LmAjRCdFS2ISJfMa0jbmww4vkiQ&s",
+      "source_logo": "https://serpapi.com/searches/670a176452a04e692017f18b/images/2049684d3262ec2ef1158dde805f9de6572e052b8113929b4c30504cbb6ce6ae.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWVUWTFTbWRSWTJWVlRsazBXRXhzVjNCWFgwd3phVFJuV1VJdE4xRXRTSGxMWkRjMFNUa3RaVm8zVjFsd2NHTkRaRWM0UlhkcE5tTmlORFI0ZDBwaFdWbHdRbGM1RWhkaGVHTkxXalp5UzBaMVIxZDNZbXRRYnkxWVREaEJieG9pUVVaWWNrVmpjSGd0Y1VaeFIwNUtYMDVMZVdSclkweHhTbEZMYzBJMlNWODVkdyIsImZjdiI6IjMiLCJlaSI6ImF4Y0taNnJLRnVHV3dia1BvLVhMOEFvIiwicWMiOiJDZ1JtYVhOb0VBQjlQZndzUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiBmaXNoIGFuZCBmaXNoPyIsImxrIjoiYzVOU1NNbE1TMHN0U3MxTFRsVklTaTBwVDAzTlUwakxMTTVRU014TEFUTUEiLCJicyI6ImMtT3k0NUlPejBnc1VjZ3NWa2hVU01fUFQxRkl5eXpPVUNqSlYwaE5MTEdYLUpsaUpDTWxWWTVUQlpjVmx5eFlmMkpScWtKSlJxcUNxVUpKWlVGcXNVSi1HbGladmNRcEhTTXhLUkZUaGR6RXpEeFVPYTR3TGwyWTNTQ3RLWmxwYWFsRnFYbkpxUXBKcVNYbHFhbDVFSnNTODFLZ1pxM01NMUtTSXFpT3k1MUxIY1ZOeVJtSlJZbkpKYWxGbWNVbG1jbGcteE9oSms3bU1KS1VFc2VpQUNRdHdBZ0EiLCJpZCI6ImZjXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWVUWTFTbWRSWTJWVlRsazBXRXhzVjNCWFgwd3phVFJuV1VJdE4xRXRTSGxMWkRjMFNUa3RaVm8zVjFsd2NHTkRaRWM0UlhkcE5tTmlORFI0ZDBwaFdWbHdRbGM1RWhkaGVHTkxXalp5UzBaMVIxZDNZbXRRYnkxWVREaEJieG9pUVVaWWNrVmpjSGd0Y1VaeFIwNUtYMDVMZVdSclkweHhTbEZMYzBJMlNWODVkdyIsImZjdiI6IjMiLCJlaSI6ImF4Y0taNnJLRnVHV3dia1BvLVhMOEFvIiwicWMiOiJDZ1JtYVhOb0VBQjlQZndzUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiBmaXNoIGFuZCBmaXNoPyIsImxrIjoiYzVOU1NNbE1TMHN0U3MxTFRsVklTaTBwVDAzTlUwakxMTTVRU014TEFUTUEiLCJicyI6ImMtT3k0NUlPejBnc1VjZ3NWa2hVU01fUFQxRkl5eXpPVUNqSlYwaE5MTEdYLUpsaUpDTWxWWTVUQlpjVmx5eFlmMkpScWtKSlJxcUNxVUpKWlVGcXNVSi1HbGladmNRcEhTTXhLUkZUaGR6RXpEeFVPYTR3TGwyWTNTQ3RLWmxwYWFsRnFYbkpxUXBKcVNYbHFhbDVFSnNTODFLZ1pxM01NMUtTSXFpT3k1MUxIY1ZOeVJtSlJZbkpKYWxGbWNVbG1jbGcteE9oSms3bU1KS1VFc2VpQUNRdHdBZ0EiLCJpZCI6ImZjXzIifQ%3D%3D"
+    },
+    {
+      "question": "What are the characteristics of a fish?",
+      "snippet": "A typical fish is cold-blooded, has a streamlined body for rapid swimming, extracts oxygen from water using gills, has two sets of paired fins, one or two dorsal fins, an anal fin and a tail fin, jaws, skin covered with scales, and lays eggs.",
+      "title": "Fish - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Fish#:~:text=A%20typical%20fish%20is%20cold,with%20scales%2C%20and%20lays%20eggs.",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Fish",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWVUWTFTbWRSWTJWVlRsazBXRXhzVjNCWFgwd3phVFJuV1VJdE4xRXRTSGxMWkRjMFNUa3RaVm8zVjFsd2NHTkRaRWM0UlhkcE5tTmlORFI0ZDBwaFdWbHdRbGM1RWhkaGVHTkxXalp5UzBaMVIxZDNZbXRRYnkxWVREaEJieG9pUVVaWWNrVmpjSGd0Y1VaeFIwNUtYMDVMZVdSclkweHhTbEZMYzBJMlNWODVkdyIsImZjdiI6IjMiLCJlaSI6ImF4Y0taNnJLRnVHV3dia1BvLVhMOEFvIiwicWMiOiJDZ1JtYVhOb0VBQjlQZndzUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBjaGFyYWN0ZXJpc3RpY3Mgb2YgYSBmaXNoPyIsImxrIjoiR2hkamFHRnlZV04wWlhKcGMzUnBZM01nYjJZZ1ptbHphQSIsImJzIjoiYy1PeTQ1SU96MGdzVWNnc1ZraFVTTV9QVDFGSXl5ek9VQ2pKVjBoTkxMR1gtSmxpSkNNbFZZNVRCWmNWbHl4WWYySlJxa0pKUnFxQ3FVSkpaVUZxc1VKLUdsaVp2Y1FwSFNNeEtSRlRoZHpFekR4VU9hNHdMbDJZM1NDdEtabHBhYWxGcVhuSnFRcEpxU1hscWFsNUVKc1M4MUtnWnEzTU0xS1NJcWlPeTUxTEhjVk55Um1KUlluSkphbEZtY1VsbWNsZy14T2hKazdtTUpLVUVzZWlBQ1F0d0FnQSIsImlkIjoiZmNfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWVUWTFTbWRSWTJWVlRsazBXRXhzVjNCWFgwd3phVFJuV1VJdE4xRXRTSGxMWkRjMFNUa3RaVm8zVjFsd2NHTkRaRWM0UlhkcE5tTmlORFI0ZDBwaFdWbHdRbGM1RWhkaGVHTkxXalp5UzBaMVIxZDNZbXRRYnkxWVREaEJieG9pUVVaWWNrVmpjSGd0Y1VaeFIwNUtYMDVMZVdSclkweHhTbEZMYzBJMlNWODVkdyIsImZjdiI6IjMiLCJlaSI6ImF4Y0taNnJLRnVHV3dia1BvLVhMOEFvIiwicWMiOiJDZ1JtYVhOb0VBQjlQZndzUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBjaGFyYWN0ZXJpc3RpY3Mgb2YgYSBmaXNoPyIsImxrIjoiR2hkamFHRnlZV04wWlhKcGMzUnBZM01nYjJZZ1ptbHphQSIsImJzIjoiYy1PeTQ1SU96MGdzVWNnc1ZraFVTTV9QVDFGSXl5ek9VQ2pKVjBoTkxMR1gtSmxpSkNNbFZZNVRCWmNWbHl4WWYySlJxa0pKUnFxQ3FVSkpaVUZxc1VKLUdsaVp2Y1FwSFNNeEtSRlRoZHpFekR4VU9hNHdMbDJZM1NDdEtabHBhYWxGcVhuSnFRcEpxU1hscWFsNUVKc1M4MUtnWnEzTU0xS1NJcWlPeTUxTEhjVk55Um1KUlluSkphbEZtY1VsbWNsZy14T2hKazdtTUpLVUVzZWlBQ1F0d0FnQSIsImlkIjoiZmNfMiJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Fish",
+      "link": "https://en.wikipedia.org/wiki/Fish",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Fish&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4QFnoECBcQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Fish",
+      "thumbnail": "https://serpapi.com/searches/670a176452a04e692017f18b/images/79df4bff85a7898721924847d03f432f0f3e9f898f182ed58c348aa66671f85f.jpeg",
+      "favicon": "https://serpapi.com/searches/670a176452a04e692017f18b/images/79df4bff85a7898721924847d03f432fd029288f9ad57db34cd54aff082fa440.png",
+      "snippet": "A fish ( pl. : fish or fishes) is an aquatic, anamniotic, gill-bearing vertebrate animal with swimming fins and a hard skull, but lacking limbs with digits.",
+      "snippet_highlighted_words": [
+        "fish",
+        "fish",
+        "fishes"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "As Food",
+            "link": "https://en.wikipedia.org/wiki/Fish_as_food"
+          },
+          {
+            "title": "Amphibious fish",
+            "link": "https://en.wikipedia.org/wiki/Amphibious_fish"
+          },
+          {
+            "title": "Fish gill",
+            "link": "https://en.wikipedia.org/wiki/Fish_gill"
+          },
+          {
+            "title": "Fish (disambiguation)",
+            "link": "https://en.wikipedia.org/wiki/Fish_(disambiguation)"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Fish",
+      "link": "https://kids.nationalgeographic.com/animals/fish",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kids.nationalgeographic.com/animals/fish&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4QFnoECFgQAQ",
+      "displayed_link": "https://kids.nationalgeographic.com \u203a animals \u203a fish",
+      "thumbnail": "https://serpapi.com/searches/670a176452a04e692017f18b/images/79df4bff85a7898721924847d03f432f56f47d0453f121df48075a02defc1f4f.jpeg",
+      "favicon": "https://serpapi.com/searches/670a176452a04e692017f18b/images/79df4bff85a7898721924847d03f432fedb02267d523576c73546cbb6779a719.jpeg",
+      "snippet": "Fish are vertebrates (vertebrates have backbones) that live in water. They breathe using special organs called gills.",
+      "snippet_highlighted_words": [
+        "Fish"
+      ],
+      "source": "National Geographic Kids"
+    },
+    {
+      "position": 3,
+      "title": "Sustainable Seafood and Fish Market in Sausalito, CA",
+      "link": "https://www.331fish.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.331fish.com/&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4QFnoECGoQAQ",
+      "displayed_link": "https://www.331fish.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXNA2CSNDiYwhgZdjmbGPIJ1LNOp6lOAdjOcFnxpXOthCGd7Gy4OIY&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a176452a04e692017f18b/images/79df4bff85a7898721924847d03f432fca24ebc4310a8cf588ac14dfe2c4cb0a.png",
+      "snippet": "Enjoy fresh, sustainable seafood on our waterfront patio and visit our Fish Market to bring home our latest catch. Our coffee and sandwich shop, BAIT, ...",
+      "snippet_highlighted_words": [
+        "Fish"
+      ],
+      "source": "331fish.com"
+    },
+    {
+      "position": 4,
+      "title": "Fish Pictures & Facts",
+      "link": "https://www.nationalgeographic.com/animals/fish",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nationalgeographic.com/animals/fish&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4QFnoECFkQAQ",
+      "displayed_link": "https://www.nationalgeographic.com \u203a animals \u203a fish",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1xO5VKqybtMY9iLNuBli9DqoASvFSwnPmCySVaB3KN0ydksIcFTgr&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a176452a04e692017f18b/images/79df4bff85a7898721924847d03f432fa0e6c4000b48555a5cdc4fef84ff4e49.png",
+      "snippet": "All fish share two traits: they live in water and they have a backbone\u2014they are vertebrates. Apart from these similarities, however, many of the species in ...",
+      "snippet_highlighted_words": [
+        "fish"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Great white sharks",
+            "link": "https://www.nationalgeographic.com/animals/fish/facts/great-white-shark"
+          },
+          {
+            "title": "Northern snakehead",
+            "link": "https://www.nationalgeographic.com/animals/fish/facts/northern-snakehead"
+          },
+          {
+            "title": "Flatfishes",
+            "link": "https://www.nationalgeographic.com/animals/fish/facts/flatfish-flounder-sole-haddock"
+          }
+        ]
+      },
+      "source": "National Geographic"
+    },
+    {
+      "position": 5,
+      "title": "Fish | Definition, Species, Classification, & Facts",
+      "link": "https://www.britannica.com/animal/fish",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.britannica.com/animal/fish&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4QFnoFCIABEAE",
+      "displayed_link": "https://www.britannica.com \u203a ... \u203a Fish",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaUWJQe6fxEBU6PSMk81ckhKwRY-2O3EM4n7NQl6tfyKfyTel2FKR7eHQ&s",
+      "favicon": "https://serpapi.com/searches/670a176452a04e692017f18b/images/79df4bff85a7898721924847d03f432fcfd1d9f752a172760ed28fcc22dc3cd4.png",
+      "date": "Sep 29, 2024",
+      "snippet": "Fish, any of approximately 34000 species of vertebrate animals (phylum Chordata) found in the fresh and salt waters of the world.",
+      "snippet_highlighted_words": [
+        "Fish"
+      ],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaUWJQe6fxEBU6PSMk81ckhKwRY-2O3EM4n7NQl6tfyKfyTel2FKR7eHQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0IzKPSQDMekWVyJRBRLOhOxUXS1fZp5hcFqEX-3kaDeLy_v8K-PQmRA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ZVPdQBFVgmvfkzQYnOZbKiZitu8igadUe2hnWX6YP2CWv8fP_lkJCn6e&s"
+      ],
+      "source": "Britannica"
+    },
+    {
+      "position": 6,
+      "title": "Pet Fish - Live Shrimp, Barb, Goldfish, Minnows, Betta & ...",
+      "link": "https://www.petsmart.com/fish/live-fish",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.petsmart.com/fish/live-fish&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4QFnoECFcQAQ",
+      "displayed_link": "https://www.petsmart.com \u203a fish \u203a live-fish",
+      "favicon": "https://serpapi.com/searches/670a176452a04e692017f18b/images/79df4bff85a7898721924847d03f432f98a279557bfb2ffaa9e2d2adb3020240.png",
+      "snippet": "If you're looking for a new goldfish, betta, or the like, you've come to the right place! PetSmart offers a wide range of fish available for purchase ...",
+      "snippet_highlighted_words": [
+        "fish"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Goldfish, Betta & More",
+            "link": "https://www.petsmart.com/fish/live-fish/goldfish-betta-and-more"
+          },
+          {
+            "title": "Comet Goldfish",
+            "link": "https://www.petsmart.com/fish/live-fish/goldfish-betta-and-more/comet-goldfish-15410.html"
+          },
+          {
+            "title": "Live Fish",
+            "link": "https://www.petsmart.com/fish/live-fish/catfish%2Bgoldfish%2Bpleco%2Bs.-american-cichlids"
+          },
+          {
+            "title": "Fish Goldfish | PetSmart",
+            "link": "https://www.petsmart.com/fish/live-fish/goldfish"
+          }
+        ]
+      },
+      "source": "PetSmart"
+    },
+    {
+      "position": 7,
+      "title": "U.S. Fish and Wildlife Service",
+      "link": "https://www.fws.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fws.gov/&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4QFnoECFUQAQ",
+      "displayed_link": "https://www.fws.gov",
+      "favicon": "https://serpapi.com/searches/670a176452a04e692017f18b/images/79df4bff85a7898721924847d03f432fed4167cf80633cbebacf6b2f457b22de.png",
+      "snippet": "Working with others to conserve, protect and enhance fish, wildlife, plants and their habitats for the continuing benefit of the American people.",
+      "snippet_highlighted_words": [
+        "fish"
+      ],
+      "source": "U.S. Fish and Wildlife Service (.gov)"
+    },
+    {
+      "position": 8,
+      "title": "FISH! Philosophy: Improve Company Culture Today!",
+      "link": "https://fishphilosophy.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fishphilosophy.com/&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4QFnoECFYQAQ",
+      "displayed_link": "https://fishphilosophy.com",
+      "favicon": "https://serpapi.com/searches/670a176452a04e692017f18b/images/79df4bff85a7898721924847d03f432f90a6f9f2570b4c336f0e0bc653c6eff5.png",
+      "snippet": "Discover how to build a culture where your team can excel. In Business, Education, Healthcare, or Government. Over 100,000 FISH! Philosophy fans can't be wrong.",
+      "snippet_highlighted_words": [
+        "FISH"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "What is Fish?",
+            "link": "https://fishphilosophy.com/what-is-fish/"
+          },
+          {
+            "title": "FISH! for Leaders",
+            "link": "https://fishphilosophy.com/leadership/"
+          },
+          {
+            "title": "Fish! the Book",
+            "link": "https://fishphilosophy.com/fish-the-book/"
+          },
+          {
+            "title": "FISH! Philosophy Video",
+            "link": "https://fishphilosophy.com/fish-philosophy-video/"
+          }
+        ]
+      },
+      "source": "FISH! Philosophy"
+    },
+    {
+      "position": 9,
+      "title": "Advice about Eating Fish",
+      "link": "https://www.fda.gov/food/consumers/advice-about-eating-fish",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fda.gov/food/consumers/advice-about-eating-fish&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4QFnoECFoQAQ",
+      "displayed_link": "https://www.fda.gov \u203a food \u203a consumers \u203a advice-about-...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN4jE5cZE9iT0wsUyVmaWOUxbPUvKgWO-fc1WW6JOqwIVpvoHCiian&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a176452a04e692017f18b/images/79df4bff85a7898721924847d03f432ff5ecab6fc4802ac0cf763669579decfe.png",
+      "date": "Mar 5, 2024",
+      "snippet": "This chart can help you choose which fish to eat, and how often to eat them, based on their mercury levels.",
+      "snippet_highlighted_words": [
+        "fish"
+      ],
+      "source": "Food and Drug Administration (.gov)"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=fish&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4QjGp6BAhIEAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=fish&tbs=lf%3A1%2Clf_ui%3A9&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Fish drawing",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Fish+drawing&sa=X&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4Q1QJ6BAh4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Fish+drawing"
+    },
+    {
+      "block_position": 1,
+      "query": "Pet fish",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Pet+fish&sa=X&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4Q1QJ6BAh1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pet+fish"
+    },
+    {
+      "block_position": 1,
+      "query": "Fish 3D",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Fish+3D&sa=X&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4Q1QJ6BAh6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Fish+3D"
+    },
+    {
+      "block_position": 1,
+      "query": "Fish names",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Fish+names&sa=X&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4Q1QJ6BAh8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Fish+names"
+    },
+    {
+      "block_position": 1,
+      "query": "Fish clipart",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Fish+clipart&sa=X&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4Q1QJ6BAh-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Fish+clipart"
+    },
+    {
+      "block_position": 1,
+      "query": "Fish Food",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Fish+Food&sa=X&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4Q1QJ6BAh2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Fish+Food"
+    },
+    {
+      "block_position": 1,
+      "query": "Fish photo",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Fish+photo&sa=X&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4Q1QJ6BAh5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Fish+photo"
+    },
+    {
+      "block_position": 1,
+      "query": "Fish to eat",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Fish+to+eat&sa=X&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4Q1QJ6BAh3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Fish+to+eat"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=fish&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=axcKZ6rKFuGWwbkPo-XL8Ao&start=10&sa=N&sstk=AagrsugJwG8qukApKXl4Unu26n7gxbTkfUmB47HiSnJ8ea08BS41mqHZvUTYirfvfs60wAzwwm_FEuaEY3-1497chxDLgR9HsCVaWg&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4Q8NMDegQICBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=fish&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=axcKZ6rKFuGWwbkPo-XL8Ao&start=10&sa=N&sstk=AagrsugJwG8qukApKXl4Unu26n7gxbTkfUmB47HiSnJ8ea08BS41mqHZvUTYirfvfs60wAzwwm_FEuaEY3-1497chxDLgR9HsCVaWg&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4Q8tMDegQICBAE",
+      "3": "https://www.google.com/search?q=fish&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=axcKZ6rKFuGWwbkPo-XL8Ao&start=20&sa=N&sstk=AagrsugJwG8qukApKXl4Unu26n7gxbTkfUmB47HiSnJ8ea08BS41mqHZvUTYirfvfs60wAzwwm_FEuaEY3-1497chxDLgR9HsCVaWg&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4Q8tMDegQICBAG",
+      "4": "https://www.google.com/search?q=fish&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=axcKZ6rKFuGWwbkPo-XL8Ao&start=30&sa=N&sstk=AagrsugJwG8qukApKXl4Unu26n7gxbTkfUmB47HiSnJ8ea08BS41mqHZvUTYirfvfs60wAzwwm_FEuaEY3-1497chxDLgR9HsCVaWg&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4Q8tMDegQICBAI",
+      "5": "https://www.google.com/search?q=fish&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=axcKZ6rKFuGWwbkPo-XL8Ao&start=40&sa=N&sstk=AagrsugJwG8qukApKXl4Unu26n7gxbTkfUmB47HiSnJ8ea08BS41mqHZvUTYirfvfs60wAzwwm_FEuaEY3-1497chxDLgR9HsCVaWg&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4Q8tMDegQICBAK",
+      "6": "https://www.google.com/search?q=fish&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=axcKZ6rKFuGWwbkPo-XL8Ao&start=50&sa=N&sstk=AagrsugJwG8qukApKXl4Unu26n7gxbTkfUmB47HiSnJ8ea08BS41mqHZvUTYirfvfs60wAzwwm_FEuaEY3-1497chxDLgR9HsCVaWg&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4Q8tMDegQICBAM",
+      "7": "https://www.google.com/search?q=fish&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=axcKZ6rKFuGWwbkPo-XL8Ao&start=60&sa=N&sstk=AagrsugJwG8qukApKXl4Unu26n7gxbTkfUmB47HiSnJ8ea08BS41mqHZvUTYirfvfs60wAzwwm_FEuaEY3-1497chxDLgR9HsCVaWg&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4Q8tMDegQICBAO",
+      "8": "https://www.google.com/search?q=fish&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=axcKZ6rKFuGWwbkPo-XL8Ao&start=70&sa=N&sstk=AagrsugJwG8qukApKXl4Unu26n7gxbTkfUmB47HiSnJ8ea08BS41mqHZvUTYirfvfs60wAzwwm_FEuaEY3-1497chxDLgR9HsCVaWg&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4Q8tMDegQICBAQ",
+      "9": "https://www.google.com/search?q=fish&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=axcKZ6rKFuGWwbkPo-XL8Ao&start=80&sa=N&sstk=AagrsugJwG8qukApKXl4Unu26n7gxbTkfUmB47HiSnJ8ea08BS41mqHZvUTYirfvfs60wAzwwm_FEuaEY3-1497chxDLgR9HsCVaWg&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4Q8tMDegQICBAS",
+      "10": "https://www.google.com/search?q=fish&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=axcKZ6rKFuGWwbkPo-XL8Ao&start=90&sa=N&sstk=AagrsugJwG8qukApKXl4Unu26n7gxbTkfUmB47HiSnJ8ea08BS41mqHZvUTYirfvfs60wAzwwm_FEuaEY3-1497chxDLgR9HsCVaWg&ved=2ahUKEwjqq-jem4iJAxVhSzABHaPyEq4Q8tMDegQICBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=fish&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=fish&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=fish&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=fish&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=fish&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=fish&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=fish&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=fish&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=fish&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=fish&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=fish&start=90"
+    }
+  }
+}

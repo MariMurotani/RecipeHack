@@ -1,0 +1,676 @@
+{
+  "search_metadata": {
+    "id": "670a2c2f0c6668d7bbf30bb6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7d95cb5723b1722c/670a2c2f0c6668d7bbf30bb6.json",
+    "created_at": "2024-10-12 07:58:39 UTC",
+    "processed_at": "2024-10-12 07:58:39 UTC",
+    "google_url": "https://www.google.com/search?q=tartary+buckwheat&oq=tartary+buckwheat&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/7d95cb5723b1722c/670a2c2f0c6668d7bbf30bb6.html",
+    "total_time_taken": 1.06
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "tartary buckwheat",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "tartary buckwheat",
+    "total_results": 994000,
+    "time_taken_displayed": 0.32,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "bottom",
+      "title": "Tartary Buckwheat at Amazon",
+      "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjNgI7Gr4iJAxX8moMHHT3lA98YABADGgJlZg&co=1&ase=2&gclid=EAIaIQobChMIzYCOxq-IiQMV_JqDBx095QPfEAMYASAAEgJyaPD_BwE&sig=AOD64_1YBUS561s1RqGeZtChXelfaDVRDg&adurl=&q=",
+      "displayed_link": "https://www.amazon.com \u203a shop \u203a all",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjNgI7Gr4iJAxX8moMHHT3lA98YABADGgJlZg&co=1&ase=2&gclid=EAIaIQobChMIzYCOxq-IiQMV_JqDBx095QPfEAMYASAAEgJyaPD_BwE&sig=AOD64_1YBUS561s1RqGeZtChXelfaDVRDg&q&nis=4&adurl",
+      "rating": 4.5,
+      "extensions": [
+        "Rating for amazon.com: 4.5 - 3,994 reviews"
+      ],
+      "reviews": 3994,
+      "source": "Amazon.com",
+      "sitelinks": [
+        {
+          "title": "Snacks",
+          "link": "https://www.amazon.com/b/?ie=UTF8&node=16322721&ext=7051-38114&ref=%7B_hydref%7D&tag=%7B_hydtag%7D&hvpos=%7Badposition%7D&hvnetw=%7Bnetwork%7D&hvrand=%7Brandom%7D&hvpone=%7Bparam1%7D&hvptwo=%7Bparam2%7D&hvqmt=%7Bmatchtype%7D&hvdev=%7Bdevice%7D&hvdvcmdl=%7Bdevicemodel%7D&hvlocint=%7Bloc_interest_ms%7D&hvlocphy=%7Bloc_physical_ms%7D&hvtargid=%7Btargetid%7D"
+        },
+        {
+          "title": "Coffee",
+          "link": "https://www.amazon.com/b/?ie=UTF8&node=16318031&ext=7051-38113&ref=%7B_hydref%7D&tag=%7B_hydtag%7D&hvpos=%7Badposition%7D&hvnetw=%7Bnetwork%7D&hvrand=%7Brandom%7D&hvpone=%7Bparam1%7D&hvptwo=%7Bparam2%7D&hvqmt=%7Bmatchtype%7D&hvdev=%7Bdevice%7D&hvdvcmdl=%7Bdevicemodel%7D&hvlocint=%7Bloc_interest_ms%7D&hvlocphy=%7Bloc_physical_ms%7D&hvtargid=%7Btargetid%7D"
+        },
+        {
+          "title": "Cooking & Basics",
+          "link": "https://www.amazon.com/b/?ie=UTF8&node=16310221&ext=7051-38115&ref=%7B_hydref%7D&tag=%7B_hydtag%7D&hvpos=%7Badposition%7D&hvnetw=%7Bnetwork%7D&hvrand=%7Brandom%7D&hvpone=%7Bparam1%7D&hvptwo=%7Bparam2%7D&hvqmt=%7Bmatchtype%7D&hvdev=%7Bdevice%7D&hvdvcmdl=%7Bdevicemodel%7D&hvlocint=%7Bloc_interest_ms%7D&hvlocphy=%7Bloc_physical_ms%7D&hvtargid=%7Btargetid%7D"
+        },
+        {
+          "title": "International Food Market",
+          "link": "https://www.amazon.com/b/?ie=UTF8&node=17428419011&ext=7051-38112&ref=%7B_hydref%7D&tag=%7B_hydtag%7D&hvpos=%7Badposition%7D&hvnetw=%7Bnetwork%7D&hvrand=%7Brandom%7D&hvpone=%7Bparam1%7D&hvptwo=%7Bparam2%7D&hvqmt=%7Bmatchtype%7D&hvdev=%7Bdevice%7D&hvdvcmdl=%7Bdevicemodel%7D&hvlocint=%7Bloc_interest_ms%7D&hvlocphy=%7Bloc_physical_ms%7D&hvtargid=%7Btargetid%7D"
+        },
+        {
+          "title": "Amazon Fresh",
+          "link": "https://www.amazon.com/b/?ie=UTF8&node=10329849011&ext=7051-38108&ref=%7B_hydref%7D&tag=%7B_hydtag%7D&hvpos=%7Badposition%7D&hvnetw=%7Bnetwork%7D&hvrand=%7Brandom%7D&hvpone=%7Bparam1%7D&hvptwo=%7Bparam2%7D&hvqmt=%7Bmatchtype%7D&hvdev=%7Bdevice%7D&hvdvcmdl=%7Bdevicemodel%7D&hvlocint=%7Bloc_interest_ms%7D&hvlocphy=%7Bloc_physical_ms%7D&hvtargid=%7Btargetid%7D"
+        },
+        {
+          "title": "Beverages",
+          "link": "https://www.amazon.com/b/?ie=UTF8&node=16310231&ext=7051-38111&ref=%7B_hydref%7D&tag=%7B_hydtag%7D&hvpos=%7Badposition%7D&hvnetw=%7Bnetwork%7D&hvrand=%7Brandom%7D&hvpone=%7Bparam1%7D&hvptwo=%7Bparam2%7D&hvqmt=%7Bmatchtype%7D&hvdev=%7Bdevice%7D&hvdvcmdl=%7Bdevicemodel%7D&hvlocint=%7Bloc_interest_ms%7D&hvlocphy=%7Bloc_physical_ms%7D&hvtargid=%7Btargetid%7D"
+        }
+      ]
+    }
+  ],
+  "shopping_results": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Big Bold Health Himalayan Tartary Buckwheat (HTB) Super Nutrition Flour, Gluten-Free Flour Alternative for Baking, All-Purpose Flour, Certified",
+      "price": "$32.00",
+      "extracted_price": 32.0,
+      "link": "https://www.amazon.com/Himalayan-Buckwheat-Nutrition-Certified-Gluten-Free/dp/B0B4RQBQ4K?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A140IYDZFLKVQB",
+      "source": "Amazon.com",
+      "thumbnail": "https://serpapi.com/searches/670a2c2f0c6668d7bbf30bb6/images/af83471ee2b2240882487993c41503c3df92927ca757daef9f173fd883047354.webp",
+      "extensions": [
+        "25% off",
+        "$24 at checkout",
+        "Buckwheat",
+        "Tartary"
+      ]
+    },
+    {
+      "position": 2,
+      "block_position": "top",
+      "title": "BIG BOLD HEALTH Himalayan Tartary Buckwheat Sprout Powder",
+      "price": "$45.00",
+      "extracted_price": 45.0,
+      "link": "https://www.amazon.com/BIG-BOLD-HEALTH-Himalayan-Buckwheat/dp/B0CXK9BY42?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A140IYDZFLKVQB",
+      "source": "Amazon.com",
+      "thumbnail": "https://serpapi.com/searches/670a2c2f0c6668d7bbf30bb6/images/af83471ee2b2240882487993c41503c300c4dd25bef4e674ac4ce960d3bf4130.webp",
+      "extensions": [
+        "25% off",
+        "$33.75 at checkout",
+        "Buckwheat",
+        "Tartary",
+        "8.1 ounces",
+        "Powder"
+      ]
+    },
+    {
+      "position": 3,
+      "block_position": "top",
+      "title": "Himalayan Buckwheat Tartary 540g/19oz Buckwheat Tartary,Roasted Buckwheat,Pure Nature Buckwheat Tea\u9ed1\u82e6\u835e \u82e6\u835e\u8336",
+      "price": "$25.98",
+      "extracted_price": 25.98,
+      "link": "https://www.amazon.com/Tartary-Buckwheat-Health-tea%EF%BC%8CNo-coffeine/dp/B091KHXQH1?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AOQ4M54R3WDY9",
+      "source": "Amazon.com",
+      "thumbnail": "https://serpapi.com/searches/670a2c2f0c6668d7bbf30bb6/images/af83471ee2b2240882487993c41503c32e4336c2088b78084c320c7475d4dc5d.webp",
+      "extensions": [
+        "10% off",
+        "$23.38 at checkout",
+        "Buckwheat",
+        "Tartary"
+      ]
+    }
+  ],
+  "knowledge_graph": {
+    "title": "Fagopyrum tataricum",
+    "entity_type": "biology",
+    "kgmid": "/m/06zsvs",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/06zsvs&hl=en-US&q=Fagopyrum+tataricum",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F06zsvs&location=Austin%2CTexas%2CUnited+States&q=Fagopyrum+tataricum",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2c2f0c6668d7bbf30bb6/images/12962564d6a7dd80257014160ef25909c99f2b1c3724340f82cd0612ba265c10c151fcce7572993f.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2c2f0c6668d7bbf30bb6/images/12962564d6a7dd80257014160ef25909c99f2b1c3724340f5659ff7b8bee1aae68f735e4e80ac6a9.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2c2f0c6668d7bbf30bb6/images/12962564d6a7dd80257014160ef25909c99f2b1c3724340f9d837452082756f4e695ae1756d68cbe.webp"
+      }
+    ],
+    "description": "Fagopyrum tataricum, also known as Tartary buckwheat, green buckwheat, ku qiao, Tatar buckwheat, or bitter buckwheat, is a domesticated food plant in the genus Fagopyrum in the family Polygonaceae.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Fagopyrum_tataricum"
+    },
+    "scientific_name": "Fagopyrum tataricum",
+    "family": "Polygonaceae",
+    "genus": "Fagopyrum",
+    "kingdom": "Plantae",
+    "web_results": [
+      {
+        "thumbnail": "https://serpapi.com/searches/670a2c2f0c6668d7bbf30bb6/images/12962564d6a7dd80257014160ef25909389d5d583c31175e82d355aa34bf7face6781e747f79a91c.jpeg",
+        "title": "How to Make Himalayan Tartary Buckwheat Bread",
+        "snippet": "HimalayanTartaryBuckwheatBread #GlutenFreeBread #SuperfoodBaking #KefirBread #HealthyBaking #GutHealth #BuckwheatBreadRecipe ...",
+        "source": "YouTube \u2022 The Accent Actor",
+        "source_image": "https://serpapi.com/searches/670a2c2f0c6668d7bbf30bb6/images/12962564d6a7dd80257014160ef25909389d5d583c31175e08bbdc821b8ae4c837e3db296b4078c86cc4c2f7f1f4bc99.png",
+        "link": "https://www.youtube.com/watch?v=2Bzo7yXaMMY",
+        "duration": "5:13"
+      },
+      {
+        "title": "Scientific name",
+        "snippet": "Fagopyrum tataricum",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=fagopyrum+tataricum+scientific+name&stick=H4sIAAAAAAAAAOPgE-LUz9U3MKsqLivWMs5OttJPyszPyU-v1M8vSk_MyyzOjU_OSSwuzkzLTE4syczPsypOzkzNKwHxFfISc1MXsSqnJabnF1QWleYqlCSWJBZlJgNZaKoAfjRueGgAAAA&sa=X&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQ18AJegQIJBAB"
+      },
+      {
+        "title": "Genus",
+        "snippet": "Buckwheats",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Fagopyrum&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L0GQbQCiCeTgt4GKBwHawDjPLdB18TJ9TOYgai6c5zVrLGQ3wpMXsp0ydIAHuOKH23_SKprK-FhUsCU-tf755WivYSK6MUipKzqLiq-9rnPwzyxdK5xky7oRcMUbFEMZqt9QWJlcSa45Wi6loG7fefzCMq9x&sa=X&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQ18AJegQIJhAB"
+      },
+      {
+        "title": "Get healthy with Himalayan Tartary Buckwheat",
+        "snippet": "Himalayan Tartary Buckwheat is a rich source of protein, containing all nine essential amino acids. It is also high in fiber, which can help ...",
+        "link": "https://colsa.unh.edu/blog/2023/11/get-healthy-himalayan-tartary-buckwheat-discover-many-health-benefits-superfood"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Buckwheats",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L0GQbQCiCeTgt4GKBwHawDh9NiKiZ3vvAVKLF0yNmXULN6L9yXrv2CGP9O44Bi2N2kCUivoUBa83kKcFL07hfvwddstxtE9iuKx9J6A1uw9pQSkEg-PZ0HEXcO0AzY2nMHohXEnfsisaHfQQIkT32cdNC5t7EljgaNl9UjKn2pV1kwDOIT-_RjsPQlYY3x52xIAuHuYLXp1cV0lCmhKIV6gxpp-tKHtGSIiX88BeM0uJ8IxrYk7EnAnA6wNjyj1XuopawNY%3D&q=Fagopyrum&sa=X&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQs9oBKAB6BAgiEAI",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Fagopyrum&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L0GQbQCiCeTgt4GKBwHawDh9NiKiZ3vvAVKLF0yNmXULN6L9yXrv2CGP9O44Bi2N2kCUivoUBa83kKcFL07hfvwddstxtE9iuKx9J6A1uw9pQSkEg-PZ0HEXcO0AzY2nMHohXEnfsisaHfQQIkT32cdNC5t7EljgaNl9UjKn2pV1kwDOIT-_RjsPQlYY3x52xIAuHuYLXp1cV0lCmhKIV6gxpp-tKHtGSIiX88BeM0uJ8IxrYk7EnAnA6wNjyj1XuopawNY%3D",
+        "image": "https://serpapi.com/searches/670a2c2f0c6668d7bbf30bb6/images/12962564d6a7dd80257014160ef259091388563bf6befa2602b0c68a272725c6738286d8b40dcc497e77d6fe474d27c1.jpeg"
+      },
+      {
+        "name": "Buckwheat",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm2cBevx2_nHwaLtewGBrMPRxF5D-iolk8JYu8JPX9ODdcFTEk4fc2TVembhnH6CEeD6DC3XX6tZr2kSdTZ5jlbvyNtmiuL9KUYqqYO_1xn1nTCWOiSwpt9UKkpwef3WuSbwiFUCRMYjXj-SU0wN2ZyQnBfuVHBFYEGA7o8dKbwA7g7frYE2zcgHFARGtPJ7Ip3Qg2Mc0ZbHAWCkYEgbsM9JQry0jhnwDfV18nafBqXq0H7F2682Apr0xqtFSlMuIyJkzKMI%3D&q=Buckwheat&sa=X&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQs9oBKAF6BAgiEAM",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Buckwheat&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm2cBevx2_nHwaLtewGBrMPRxF5D-iolk8JYu8JPX9ODdcFTEk4fc2TVembhnH6CEeD6DC3XX6tZr2kSdTZ5jlbvyNtmiuL9KUYqqYO_1xn1nTCWOiSwpt9UKkpwef3WuSbwiFUCRMYjXj-SU0wN2ZyQnBfuVHBFYEGA7o8dKbwA7g7frYE2zcgHFARGtPJ7Ip3Qg2Mc0ZbHAWCkYEgbsM9JQry0jhnwDfV18nafBqXq0H7F2682Apr0xqtFSlMuIyJkzKMI%3D",
+        "image": "https://serpapi.com/searches/670a2c2f0c6668d7bbf30bb6/images/12962564d6a7dd80257014160ef259091388563bf6befa2602b0c68a272725c6c1378aed038b89b40acdff2ddabdf957.jpeg"
+      },
+      {
+        "name": "Fagopyrum dibotrys",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ5V9_d-saaiseQKTfu4rR9m_J0TP_g8a_IY28ehzl94bvhV-0O4hEZ-l3D8jFJPVxzjxqLmJOaWL7oYBTXDiDWvEZ8Y6yh70u7Wxltogtxd0kYeyu_dBlEHElLldN3ulD3LSu92Cqqxt1T2Ztyfe-bQvM5ggmYW2_O7cFClfgbiFXocVvd_vJul4Ohs5MEf0qhI0z4cEauM70_YkxQj860k_hFwJfNd7uRy9D24ueMbRTebPAZrEP9W--2sB0u9xha1KtDHnO_9_Z28xuJdbecCe2zc4&q=Fagopyrum+dibotrys&sa=X&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQs9oBKAJ6BAgiEAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Fagopyrum+dibotrys&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ5V9_d-saaiseQKTfu4rR9m_J0TP_g8a_IY28ehzl94bvhV-0O4hEZ-l3D8jFJPVxzjxqLmJOaWL7oYBTXDiDWvEZ8Y6yh70u7Wxltogtxd0kYeyu_dBlEHElLldN3ulD3LSu92Cqqxt1T2Ztyfe-bQvM5ggmYW2_O7cFClfgbiFXocVvd_vJul4Ohs5MEf0qhI0z4cEauM70_YkxQj860k_hFwJfNd7uRy9D24ueMbRTebPAZrEP9W--2sB0u9xha1KtDHnO_9_Z28xuJdbecCe2zc4",
+        "image": "https://serpapi.com/searches/670a2c2f0c6668d7bbf30bb6/images/12962564d6a7dd80257014160ef259091388563bf6befa2602b0c68a272725c6bbd17f37eea1b563484847f7efcb1e0a.jpeg"
+      },
+      {
+        "name": "Fagopyrum cymosum",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nyByJNAHfkzzi7l4JA4fcQKXOYDCI7plJH6uVksGWg6XnMjC5aBDkYeXEaVgXsZ_JqOGzFqwHC_aS9YG8RA5d2o48X_37t8AhR9C7JzdbXFibjl2J-YYUE4OTEWSenDJ0-wtFe43PD1ET2C2g4f_JW6XwtvQbI9Hn2YH9sfDOB7uafWdVBvjlVxmTnDg2ADJuq18E9iDrGNkoaj6Q0i3NwuZUzhneW2ZdkIqDppFsK1WfiWDVF70lShwn-An3CpB0uChr5ipNhAKPkpUxvsz0drU7OOhL0Ju7iAUiG_ZUtGPgYNmc0H2kkSOXM0p1CyidmsUgvH&q=Fagopyrum+cymosum&sa=X&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQs9oBKAN6BAgiEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Fagopyrum+cymosum&si=ACC90nyByJNAHfkzzi7l4JA4fcQKXOYDCI7plJH6uVksGWg6XnMjC5aBDkYeXEaVgXsZ_JqOGzFqwHC_aS9YG8RA5d2o48X_37t8AhR9C7JzdbXFibjl2J-YYUE4OTEWSenDJ0-wtFe43PD1ET2C2g4f_JW6XwtvQbI9Hn2YH9sfDOB7uafWdVBvjlVxmTnDg2ADJuq18E9iDrGNkoaj6Q0i3NwuZUzhneW2ZdkIqDppFsK1WfiWDVF70lShwn-An3CpB0uChr5ipNhAKPkpUxvsz0drU7OOhL0Ju7iAUiG_ZUtGPgYNmc0H2kkSOXM0p1CyidmsUgvH",
+        "image": "https://serpapi.com/searches/670a2c2f0c6668d7bbf30bb6/images/12962564d6a7dd80257014160ef259091388563bf6befa2602b0c68a272725c6c71d4b2ea6a0531cae8400213cdc1e0d.jpeg"
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Fagopyrum+tataricum&stick=H4sIAAAAAAAAAONgFuLUz9U3MKsqLitWQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFXZLTM8vqCwqzVUoSSxJLMpMLs3dwcp4i02Softpj7GNJFuF4LTmxieeRxQ_zn23pUS-lB0AgYZYunkAAAA&sa=X&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQ4qYDegQIIhAG",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3MKsqLitWQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFXZLTM8vqCwqzVUoSSxJLMpMLs3dwcp4i02Softpj7GNJFuF4LTmxieeRxQ_zn23pUS-lB0AgYZYunkAAAA"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "How to Make Himalayan Tartary Buckwheat Bread",
+      "link": "https://www.youtube.com/watch?v=2Bzo7yXaMMY",
+      "thumbnail": "https://i.ytimg.com/vi/2Bzo7yXaMMY/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3lVSz-VgnvWnmbKCi4BiGWJ61Oq7g",
+      "channel": "The Accent Actor",
+      "duration": "5:13",
+      "platform": "YouTube",
+      "date": "1 month ago",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=2Bzo7yXaMMY&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjP3WVX4GM3_GdRDHjlM-L1LwkWgbG20B4v22vL2T_kw&s"
+        },
+        {
+          "time": "00:13",
+          "title": "Benefits of Himalayan Tartary Buckwheat Bread",
+          "link": "https://www.youtube.com/watch?v=2Bzo7yXaMMY&t=13",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTANKgRHOLG_LQ2v3YHVvsNJ7zxk7-5MNZybkG_J_zU9g&s"
+        },
+        {
+          "time": "01:15",
+          "title": "Where do I get my HTBW flour?",
+          "link": "https://www.youtube.com/watch?v=2Bzo7yXaMMY&t=75",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTplKSETXQyWv42-yUQmKjFavAPotydZQ2iUhK2ePe9Uw&s"
+        },
+        {
+          "time": "01:42",
+          "title": "Recipe/Materials Needed",
+          "link": "https://www.youtube.com/watch?v=2Bzo7yXaMMY&t=102",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgbbui3b8mWWuqxNCd5a7uu0DahdKxiXH_eyNkbQJBRQ&s"
+        },
+        {
+          "time": "02:13",
+          "title": "Benefits of the ingredient, Raw Kefir",
+          "link": "https://www.youtube.com/watch?v=2Bzo7yXaMMY&t=133",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1CrUFidIfexyUyBHN1ZAtULSm2nphAbuiwqc3tzSD8A&s"
+        },
+        {
+          "time": "02:55",
+          "title": "Cooking Prep",
+          "link": "https://www.youtube.com/watch?v=2Bzo7yXaMMY&t=175",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4YbSeJ828jRwZ9JyuwA64mnmX5GZhZhXiHU0vY78s4Q&s"
+        },
+        {
+          "time": "03:22",
+          "title": "Full Demonstration & Instructions",
+          "link": "https://www.youtube.com/watch?v=2Bzo7yXaMMY&t=202",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCNVh3SGd5B_mX9_RH-wPWredI9_qGdDn_0MRvK9gDNw&s"
+        },
+        {
+          "time": "04:23",
+          "title": "Summary/Outro",
+          "link": "https://www.youtube.com/watch?v=2Bzo7yXaMMY&t=263",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzlEimTzgLbYTXx856Nfu5Zap0SiZos8rAiFE5lcX2pQ&s"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Himalayan Tartary Buckwheat + Big Bold Health",
+      "link": "https://www.youtube.com/watch?v=NjwVvsiU87o",
+      "thumbnail": "https://i.ytimg.com/vi/NjwVvsiU87o/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3m7KZ5KtJuVH_CLvLpY9zcfBL3exQ",
+      "channel": "Big Bold Health",
+      "duration": "5:51",
+      "platform": "YouTube",
+      "date": "Nov 15, 2021",
+      "key_moments": [
+        {
+          "time": "01:14",
+          "title": "Why buckwheat?",
+          "link": "https://www.youtube.com/watch?v=NjwVvsiU87o&t=74",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnSQCtWOuedORThdepHydb5RYPn3T8usmnCl2033AhqQ&s"
+        },
+        {
+          "time": "02:16",
+          "title": "Difference Between Himalayan Tartary Buckwheat and Common Buckwheat",
+          "link": "https://www.youtube.com/watch?v=NjwVvsiU87o&t=136",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReC-c8U0B4iC5EvGGdPij_sFVAkAja8mvBYQvEeaXQfQ&s"
+        },
+        {
+          "time": "03:59",
+          "title": "Difference between regular buckwheat and tartary buckwheat",
+          "link": "https://www.youtube.com/watch?v=NjwVvsiU87o&t=239",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuKFQitdT3mw_3H_YSJDDEhgIxMTBZKTFspIMBCZckSA&s"
+        },
+        {
+          "time": "04:36",
+          "title": "How we use tartary buckwheat",
+          "link": "https://www.youtube.com/watch?v=NjwVvsiU87o&t=276",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqxf42sJzqNYr6Wda0o8s4nTpXZRVYZ2IRSvSicxzIPg&s"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "I've been eating this Himalayan Tartary Buckwheat (not your ...",
+      "link": "https://m.facebook.com/denisebuchmancouragecafe/videos/ive-been-eating-this-himalayan-tartary-buckwheat-not-your-normal-buckwheat-flour/986612972782615/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_oaxhEqZOsXLvt9okTHD24pfVZMe41YIQKkDxFhQ1jdvb&s",
+      "channel": "Denise Buchman Courage Cafe",
+      "duration": "0:56",
+      "platform": "Facebook",
+      "date": "Jun 21, 2024"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is Tartary buckwheat good for?",
+      "snippet": "It contains powerful antioxidants that can help protect against disease and has been shown to have anti-inflammatory and immune-boosting properties. Himalayan Tartary Buckwheat may help improve brain function, lower cholesterol levels, and regulate blood sugar levels.",
+      "title": "Get healthy with Himalayan Tartary Buckwheat",
+      "date": "Nov 6, 2023",
+      "link": "https://colsa.unh.edu/blog/2023/11/get-healthy-himalayan-tartary-buckwheat-discover-many-health-benefits-superfood#:~:text=It%20contains%20powerful%20antioxidants%20that,and%20regulate%20blood%20sugar%20levels.",
+      "displayed_link": "https://colsa.unh.edu \u203a blog \u203a 2023/11 \u203a get-healthy-him...",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU9UbEtTSEJLWVhSTmJISjZTMnR3ZFVkWGRuYzNSMk15ZEdabGFtZDViVU4yVkZNemQyb3dla3gwZFRabE9VbzFSbkJ5TUVkVU1IaE1PWEZhVTNGYVgyUjVUV0ZYRWhkTlEzZExXalUzYzBOeVdGODNYMVZRWjJOUGNYZEJSUm9pUVVaWWNrVmpja2xOV1hKcVNHSk1iRGwwWmtSeFZVMVpOM1pDYzJwVmJuWTRkdyIsImZjdiI6IjMiLCJlaSI6Ik1Dd0taNTdzQ3JYXzdfVVBnY09xd0FFIiwicWMiOiJDaEYwWVhKMFlYSjVJR0oxWTJ0M2FHVmhkQkFBZmJFZEZUOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBUYXJ0YXJ5IGJ1Y2t3aGVhdCBnb29kIGZvcj8iLCJsayI6ImM1TlNLczlJTEZISUxGWW9TU3dDb2txRnBOTGs3UEtNVktCZ2VuNS1pa0phZmhFQSIsImJzIjoiYzVXUXZRckNNQlNGNlpySnNXUzZxS2lnTHRsY2pLT1RrOWc1Ylc1TTBUYVFSa0luTjVfQ0ZfSWhmQld4RlAtd2RuQzluTy03aDBOV3BCZHA0U0F0WUMyc0U3YUUtSkRzdk1icXVEVkdnaktXaDljcDY5T3VmeVJkYTVLY0FzS2ZRcWNSWktvVVdzd1RoQmlkUjh3X0tKSEw1bGNlbm85c1FlZi1IMHVqRWNuSXJPNGhMTmFLSXBVSVdHa1NWNEJSc0V3enNSZWx5SnNzRHk4Qm05THhONkxiRWJJaHcwaFhGVUVhX0RWbFlqSUVaVTNHdzl1RWplakF2OVBOT1ZfcFRuQUgiLCJpZCI6ImZjX01Dd0taNTdzQ3JYXzdfVVBnY09xd0FFXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU9UbEtTSEJLWVhSTmJISjZTMnR3ZFVkWGRuYzNSMk15ZEdabGFtZDViVU4yVkZNemQyb3dla3gwZFRabE9VbzFSbkJ5TUVkVU1IaE1PWEZhVTNGYVgyUjVUV0ZYRWhkTlEzZExXalUzYzBOeVdGODNYMVZRWjJOUGNYZEJSUm9pUVVaWWNrVmpja2xOV1hKcVNHSk1iRGwwWmtSeFZVMVpOM1pDYzJwVmJuWTRkdyIsImZjdiI6IjMiLCJlaSI6Ik1Dd0taNTdzQ3JYXzdfVVBnY09xd0FFIiwicWMiOiJDaEYwWVhKMFlYSjVJR0oxWTJ0M2FHVmhkQkFBZmJFZEZUOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBUYXJ0YXJ5IGJ1Y2t3aGVhdCBnb29kIGZvcj8iLCJsayI6ImM1TlNLczlJTEZISUxGWW9TU3dDb2txRnBOTGs3UEtNVktCZ2VuNS1pa0phZmhFQSIsImJzIjoiYzVXUXZRckNNQlNGNlpySnNXUzZxS2lnTHRsY2pLT1RrOWc1Ylc1TTBUYVFSa0luTjVfQ0ZfSWhmQld4RlAtd2RuQzluTy03aDBOV3BCZHA0U0F0WUMyc0U3YUUtSkRzdk1icXVEVkdnaktXaDljcDY5T3VmeVJkYTVLY0FzS2ZRcWNSWktvVVdzd1RoQmlkUjh3X0tKSEw1bGNlbm85c1FlZi1IMHVqRWNuSXJPNGhMTmFLSXBVSVdHa1NWNEJSc0V3enNSZWx5SnNzRHk4Qm05THhONkxiRWJJaHcwaFhGVUVhX0RWbFlqSUVaVTNHdzl1RWplakF2OVBOT1ZfcFRuQUgiLCJpZCI6ImZjX01Dd0taNTdzQ3JYXzdfVVBnY09xd0FFXzEifQ%3D%3D"
+    },
+    {
+      "question": "What is the difference between buckwheat and Tartary buckwheat?",
+      "snippet": "Common buckwheat grain is generally bigger and huskier than tartary buckwheat grain. Common buckwheat has a softer hull than tartary buckwheat. Common buckwheat grain tastes harsh, and tartary buckwheat tastes slightly bitter.",
+      "title": "Tartary Buckwheat - an overview | ScienceDirect Topics",
+      "link": "https://www.sciencedirect.com/topics/food-science/tartary-buckwheat#:~:text=Common%20buckwheat%20grain%20is%20generally,tartary%20buckwheat%20tastes%20slightly%20bitter.",
+      "displayed_link": "https://www.sciencedirect.com \u203a topics \u203a food-science \u203a ta...",
+      "source_logo": "https://serpapi.com/searches/670a2c2f0c6668d7bbf30bb6/images/0daa484c5f18baf929be84504e6b34f528409a8290fc8c19da263024a3770d9e.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU9UbEtTSEJLWVhSTmJISjZTMnR3ZFVkWGRuYzNSMk15ZEdabGFtZDViVU4yVkZNemQyb3dla3gwZFRabE9VbzFSbkJ5TUVkVU1IaE1PWEZhVTNGYVgyUjVUV0ZYRWhkTlEzZExXalUzYzBOeVdGODNYMVZRWjJOUGNYZEJSUm9pUVVaWWNrVmpja2xOV1hKcVNHSk1iRGwwWmtSeFZVMVpOM1pDYzJwVmJuWTRkdyIsImZjdiI6IjMiLCJlaSI6Ik1Dd0taNTdzQ3JYXzdfVVBnY09xd0FFIiwicWMiOiJDaEYwWVhKMFlYSjVJR0oxWTJ0M2FHVmhkQkFBZmJFZEZUOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIGJ1Y2t3aGVhdCBhbmQgVGFydGFyeSBidWNrd2hlYXQ/IiwibGsiOiJjNU95Szg5SUxGSElMRllveVVoVlNNbE1TMHN0U3MxTFRsVklTaTBwVDAzTlUwZ3FUYzR1ejBnRnFrbk1TMUVvU1N3Q29rcUVLQUEiLCJicyI6ImM1V1F2UXJDTUJTRjZackpzV1M2cUtpZ0x0bGNqS09UazlnNWJXNU0wVGFRUmtJbk41X0NGX0loZkJXeEZQLXdkbkM5bk8tN2gwTldwQmRwNFNBdFlDMnNFN2FFLUpEc3ZNYnF1RFZHZ2pLV2g5Y3A2OU91ZnlSZGE1S2NBc0tmUXFjUlpLb1VXc3dUaEJpZFI4d19LSkhMNWxjZW5vOXNRZWYtSDB1akVjbklyTzRoTE5hS0lwVUlXR2tTVjRCUnNFd3pzUmVseUpzc0R5OEJtOUx4TjZMYkViSWh3MGhYRlVFYV9EVmxZaklFWlUzR3c5dUVqZWpBdjlQTk9WX3BUbkFIIiwiaWQiOiJmY19NQ3dLWjU3c0NyWF83X1VQZ2NPcXdBRV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU9UbEtTSEJLWVhSTmJISjZTMnR3ZFVkWGRuYzNSMk15ZEdabGFtZDViVU4yVkZNemQyb3dla3gwZFRabE9VbzFSbkJ5TUVkVU1IaE1PWEZhVTNGYVgyUjVUV0ZYRWhkTlEzZExXalUzYzBOeVdGODNYMVZRWjJOUGNYZEJSUm9pUVVaWWNrVmpja2xOV1hKcVNHSk1iRGwwWmtSeFZVMVpOM1pDYzJwVmJuWTRkdyIsImZjdiI6IjMiLCJlaSI6Ik1Dd0taNTdzQ3JYXzdfVVBnY09xd0FFIiwicWMiOiJDaEYwWVhKMFlYSjVJR0oxWTJ0M2FHVmhkQkFBZmJFZEZUOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIGJ1Y2t3aGVhdCBhbmQgVGFydGFyeSBidWNrd2hlYXQ%2FIiwibGsiOiJjNU95Szg5SUxGSElMRllveVVoVlNNbE1TMHN0U3MxTFRsVklTaTBwVDAzTlUwZ3FUYzR1ejBnRnFrbk1TMUVvU1N3Q29rcUVLQUEiLCJicyI6ImM1V1F2UXJDTUJTRjZackpzV1M2cUtpZ0x0bGNqS09UazlnNWJXNU0wVGFRUmtJbk41X0NGX0loZkJXeEZQLXdkbkM5bk8tN2gwTldwQmRwNFNBdFlDMnNFN2FFLUpEc3ZNYnF1RFZHZ2pLV2g5Y3A2OU91ZnlSZGE1S2NBc0tmUXFjUlpLb1VXc3dUaEJpZFI4d19LSkhMNWxjZW5vOXNRZWYtSDB1akVjbklyTzRoTE5hS0lwVUlXR2tTVjRCUnNFd3pzUmVseUpzc0R5OEJtOUx4TjZMYkViSWh3MGhYRlVFYV9EVmxZaklFWlUzR3c5dUVqZWpBdjlQTk9WX3BUbkFIIiwiaWQiOiJmY19NQ3dLWjU3c0NyWF83X1VQZ2NPcXdBRV8xIn0%3D"
+    },
+    {
+      "question": "What are the side effects of Himalayan tartary buckwheat?",
+      "snippet": "Other people can also become allergic to buckwheat. Re-exposure to buckwheat can lead to serious allergic reactions including skin rash; runny nose; asthma; and a potentially fatal drop in blood pressure, itching, swelling, and difficulty in breathing (anaphylactic shock).",
+      "title": "Buckwheat: Health Benefits, Side Effects, Uses, Dose & Precautions",
+      "link": "https://www.rxlist.com/supplements/buckwheat.htm#:~:text=Other%20people%20can%20also%20become,in%20breathing%20(anaphylactic%20shock).",
+      "displayed_link": "https://www.rxlist.com \u203a supplements \u203a buckwheat",
+      "source_logo": "https://serpapi.com/searches/670a2c2f0c6668d7bbf30bb6/images/0daa484c5f18baf929be84504e6b34f5d2dc2d6c370b922b77d5f6c79e0222ff.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU9UbEtTSEJLWVhSTmJISjZTMnR3ZFVkWGRuYzNSMk15ZEdabGFtZDViVU4yVkZNemQyb3dla3gwZFRabE9VbzFSbkJ5TUVkVU1IaE1PWEZhVTNGYVgyUjVUV0ZYRWhkTlEzZExXalUzYzBOeVdGODNYMVZRWjJOUGNYZEJSUm9pUVVaWWNrVmpja2xOV1hKcVNHSk1iRGwwWmtSeFZVMVpOM1pDYzJwVmJuWTRkdyIsImZjdiI6IjMiLCJlaSI6Ik1Dd0taNTdzQ3JYXzdfVVBnY09xd0FFIiwicWMiOiJDaEYwWVhKMFlYSjVJR0oxWTJ0M2FHVmhkQkFBZmJFZEZUOCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHNpZGUgZWZmZWN0cyBvZiBIaW1hbGF5YW4gdGFydGFyeSBidWNrd2hlYXQ/IiwibGsiOiJHaXR6YVdSbElHVm1abVZqZEhNZ2IyWWdhR2x0WVd4aGVXRnVJSFJoY25SaGNua2dZblZqYTNkb1pXRjAiLCJicyI6ImM1V1F2UXJDTUJTRjZackpzV1M2cUtpZ0x0bGNqS09UazlnNWJXNU0wVGFRUmtJbk41X0NGX0loZkJXeEZQLXdkbkM5bk8tN2gwTldwQmRwNFNBdFlDMnNFN2FFLUpEc3ZNYnF1RFZHZ2pLV2g5Y3A2OU91ZnlSZGE1S2NBc0tmUXFjUlpLb1VXc3dUaEJpZFI4d19LSkhMNWxjZW5vOXNRZWYtSDB1akVjbklyTzRoTE5hS0lwVUlXR2tTVjRCUnNFd3pzUmVseUpzc0R5OEJtOUx4TjZMYkViSWh3MGhYRlVFYV9EVmxZaklFWlUzR3c5dUVqZWpBdjlQTk9WX3BUbkFIIiwiaWQiOiJmY19NQ3dLWjU3c0NyWF83X1VQZ2NPcXdBRV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU9UbEtTSEJLWVhSTmJISjZTMnR3ZFVkWGRuYzNSMk15ZEdabGFtZDViVU4yVkZNemQyb3dla3gwZFRabE9VbzFSbkJ5TUVkVU1IaE1PWEZhVTNGYVgyUjVUV0ZYRWhkTlEzZExXalUzYzBOeVdGODNYMVZRWjJOUGNYZEJSUm9pUVVaWWNrVmpja2xOV1hKcVNHSk1iRGwwWmtSeFZVMVpOM1pDYzJwVmJuWTRkdyIsImZjdiI6IjMiLCJlaSI6Ik1Dd0taNTdzQ3JYXzdfVVBnY09xd0FFIiwicWMiOiJDaEYwWVhKMFlYSjVJR0oxWTJ0M2FHVmhkQkFBZmJFZEZUOCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHNpZGUgZWZmZWN0cyBvZiBIaW1hbGF5YW4gdGFydGFyeSBidWNrd2hlYXQ%2FIiwibGsiOiJHaXR6YVdSbElHVm1abVZqZEhNZ2IyWWdhR2x0WVd4aGVXRnVJSFJoY25SaGNua2dZblZqYTNkb1pXRjAiLCJicyI6ImM1V1F2UXJDTUJTRjZackpzV1M2cUtpZ0x0bGNqS09UazlnNWJXNU0wVGFRUmtJbk41X0NGX0loZkJXeEZQLXdkbkM5bk8tN2gwTldwQmRwNFNBdFlDMnNFN2FFLUpEc3ZNYnF1RFZHZ2pLV2g5Y3A2OU91ZnlSZGE1S2NBc0tmUXFjUlpLb1VXc3dUaEJpZFI4d19LSkhMNWxjZW5vOXNRZWYtSDB1akVjbklyTzRoTE5hS0lwVUlXR2tTVjRCUnNFd3pzUmVseUpzc0R5OEJtOUx4TjZMYkViSWh3MGhYRlVFYV9EVmxZaklFWlUzR3c5dUVqZWpBdjlQTk9WX3BUbkFIIiwiaWQiOiJmY19NQ3dLWjU3c0NyWF83X1VQZ2NPcXdBRV8xIn0%3D"
+    },
+    {
+      "question": "Where does Tartary buckwheat come from?",
+      "snippet": "Tartary buckwheat (Fagopyrum tataricum) is native to and was first cultivated in Central Asia. It's well adapted to cooler climates, thriving at higher altitudes, and has traditionally been grown in high-altitude areas of Nepal, Bhutan, southern China, and India.",
+      "title": "Tartary Buckwheat: A Climate-Ready Crop for the Future | UNH Today",
+      "date": "Oct 19, 2023",
+      "link": "https://www.unh.edu/unhtoday/tartary-buckwheat-climate-resilient-crop#:~:text=Tartary%20buckwheat%20(Fagopyrum%20tataricum)%20is,%2C%20southern%20China%2C%20and%20India.",
+      "displayed_link": "https://www.unh.edu \u203a unhtoday \u203a tartary-buckwheat-clim...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4kQQfXAKcOiXeiWrgYxH9FtxWECLEyLnJJ1BEZ3FOPI2YCW9wgcKlgXEXbw&s",
+      "source_logo": "https://serpapi.com/searches/670a2c2f0c6668d7bbf30bb6/images/0daa484c5f18baf929be84504e6b34f56ad937b35f3e62003ebcbfb827dcbc53.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU9UbEtTSEJLWVhSTmJISjZTMnR3ZFVkWGRuYzNSMk15ZEdabGFtZDViVU4yVkZNemQyb3dla3gwZFRabE9VbzFSbkJ5TUVkVU1IaE1PWEZhVTNGYVgyUjVUV0ZYRWhkTlEzZExXalUzYzBOeVdGODNYMVZRWjJOUGNYZEJSUm9pUVVaWWNrVmpja2xOV1hKcVNHSk1iRGwwWmtSeFZVMVpOM1pDYzJwVmJuWTRkdyIsImZjdiI6IjMiLCJlaSI6Ik1Dd0taNTdzQ3JYXzdfVVBnY09xd0FFIiwicWMiOiJDaEYwWVhKMFlYSjVJR0oxWTJ0M2FHVmhkQkFBZmJFZEZUOCIsInF1ZXN0aW9uIjoiV2hlcmUgZG9lcyBUYXJ0YXJ5IGJ1Y2t3aGVhdCBjb21lIGZyb20/IiwibGsiOiJjNU5TSzg5SUxVcFZTTWxQTFZZb1NTd0Nva3FGcE5Ma2JLQndZb2xDY241dXFrSmFVWDR1QUEiLCJicyI6ImM1V1F2UXJDTUJTRjZackpzV1M2cUtpZ0x0bGNqS09UazlnNWJXNU0wVGFRUmtJbk41X0NGX0loZkJXeEZQLXdkbkM5bk8tN2gwTldwQmRwNFNBdFlDMnNFN2FFLUpEc3ZNYnF1RFZHZ2pLV2g5Y3A2OU91ZnlSZGE1S2NBc0tmUXFjUlpLb1VXc3dUaEJpZFI4d19LSkhMNWxjZW5vOXNRZWYtSDB1akVjbklyTzRoTE5hS0lwVUlXR2tTVjRCUnNFd3pzUmVseUpzc0R5OEJtOUx4TjZMYkViSWh3MGhYRlVFYV9EVmxZaklFWlUzR3c5dUVqZWpBdjlQTk9WX3BUbkFIIiwiaWQiOiJmY19NQ3dLWjU3c0NyWF83X1VQZ2NPcXdBRV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU9UbEtTSEJLWVhSTmJISjZTMnR3ZFVkWGRuYzNSMk15ZEdabGFtZDViVU4yVkZNemQyb3dla3gwZFRabE9VbzFSbkJ5TUVkVU1IaE1PWEZhVTNGYVgyUjVUV0ZYRWhkTlEzZExXalUzYzBOeVdGODNYMVZRWjJOUGNYZEJSUm9pUVVaWWNrVmpja2xOV1hKcVNHSk1iRGwwWmtSeFZVMVpOM1pDYzJwVmJuWTRkdyIsImZjdiI6IjMiLCJlaSI6Ik1Dd0taNTdzQ3JYXzdfVVBnY09xd0FFIiwicWMiOiJDaEYwWVhKMFlYSjVJR0oxWTJ0M2FHVmhkQkFBZmJFZEZUOCIsInF1ZXN0aW9uIjoiV2hlcmUgZG9lcyBUYXJ0YXJ5IGJ1Y2t3aGVhdCBjb21lIGZyb20%2FIiwibGsiOiJjNU5TSzg5SUxVcFZTTWxQTFZZb1NTd0Nva3FGcE5Ma2JLQndZb2xDY241dXFrSmFVWDR1QUEiLCJicyI6ImM1V1F2UXJDTUJTRjZackpzV1M2cUtpZ0x0bGNqS09UazlnNWJXNU0wVGFRUmtJbk41X0NGX0loZkJXeEZQLXdkbkM5bk8tN2gwTldwQmRwNFNBdFlDMnNFN2FFLUpEc3ZNYnF1RFZHZ2pLV2g5Y3A2OU91ZnlSZGE1S2NBc0tmUXFjUlpLb1VXc3dUaEJpZFI4d19LSkhMNWxjZW5vOXNRZWYtSDB1akVjbklyTzRoTE5hS0lwVUlXR2tTVjRCUnNFd3pzUmVseUpzc0R5OEJtOUx4TjZMYkViSWh3MGhYRlVFYV9EVmxZaklFWlUzR3c5dUVqZWpBdjlQTk9WX3BUbkFIIiwiaWQiOiJmY19NQ3dLWjU3c0NyWF83X1VQZ2NPcXdBRV8xIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Himalayan Tartary Buckwheat Flour",
+      "link": "https://bigboldhealth.com/products/himalayan-tartary-buckwheat-flour?srsltid=AfmBOooMgKHTE5bpuHGu190WDzQyNm7nw7TqbbhGWDx8d6Wy7ySZrpwa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bigboldhealth.com/products/himalayan-tartary-buckwheat-flour%3Fsrsltid%3DAfmBOooMgKHTE5bpuHGu190WDzQyNm7nw7TqbbhGWDx8d6Wy7ySZrpwa&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQFnoECDkQAQ",
+      "displayed_link": "https://bigboldhealth.com \u203a products \u203a himalayan-tartary...",
+      "thumbnail": "https://serpapi.com/searches/670a2c2f0c6668d7bbf30bb6/images/d46587b0835a1323c311c34eb2a296fcbc364d4ceaadd914561faa4950ea94a9.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2c2f0c6668d7bbf30bb6/images/d46587b0835a1323c311c34eb2a296fc60a481e24f00707cc9a2190bd525fb8d.png",
+      "snippet": "Our 100% certified organic, grain-free flour contains high levels of phytonutrients that work to undo cellular stress and rejuvenate essential systems.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 4.8,
+            "price": 32.0,
+            "currency": "$",
+            "free_day_delivery": 5
+          },
+          "extensions": [
+            "4.8(517)",
+            "$32.00",
+            "\u200eFree 5\u20138 day delivery",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Big Bold Health"
+    },
+    {
+      "position": 2,
+      "title": "Tartary Buckwheat in Human Nutrition - PMC",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8066602/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8066602/&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQFnoECDYQAQ",
+      "displayed_link": "https://www.ncbi.nlm.nih.gov \u203a articles \u203a PMC8066602",
+      "favicon": "https://serpapi.com/searches/670a2c2f0c6668d7bbf30bb6/images/d46587b0835a1323c311c34eb2a296fc9d181d4f0aa9f78e5909fa7d8b62efca.png",
+      "author": "by Z Luthar",
+      "cited_by": "Cited by 74",
+      "extracted_cited_by": 74,
+      "date": "2021",
+      "snippet": "Tartary buckwheat is a crop that is traditionally used as a food in mountain areas in Asia and Europe. Based on its origin, Tartary buckwheat is ...",
+      "snippet_highlighted_words": [
+        "Tartary buckwheat",
+        "Tartary buckwheat"
+      ],
+      "source": "National Institutes of Health (NIH) (.gov)"
+    },
+    {
+      "position": 3,
+      "title": "Fagopyrum tataricum",
+      "link": "https://en.wikipedia.org/wiki/Fagopyrum_tataricum",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Fagopyrum_tataricum&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQFnoECFoQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Fagopyrum_tataricum",
+      "favicon": "https://serpapi.com/searches/670a2c2f0c6668d7bbf30bb6/images/d46587b0835a1323c311c34eb2a296fc92270d5d439236988fffe087c0252a39.png",
+      "snippet": "Tartary buckwheat is more bitter and contains more rutin than common buckwheat. It also contains other bioactive components such as flavonoids, phenolic acids.",
+      "snippet_highlighted_words": [
+        "Tartary buckwheat",
+        "more bitter"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 4,
+      "title": "Amazon.com : TEARELAE - Himalayan Tartary Buckwheat ...",
+      "link": "https://www.amazon.com/TEARELAE-Chinese-Himalayan-Buckwheat-Caffeine/dp/B097D3RP8L",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/TEARELAE-Chinese-Himalayan-Buckwheat-Caffeine/dp/B097D3RP8L&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQFnoECFgQAQ",
+      "displayed_link": "https://www.amazon.com \u203a TEARELAE-Chinese-Himala...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVBvT-E8bhzotDTQ1XeWt-Ezyk0NAO6sWI3ge7r5kt-QTEEHRHmOyE&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2c2f0c6668d7bbf30bb6/images/d46587b0835a1323c311c34eb2a296fc2e8688c5d54b1cf91fb57409a2f6160c.png",
+      "snippet": "Himalayan Tartary Buckwheat Teabags 6.35oz/180g (6g x 30 Bags) - Pure Natural Buckwheat Tea - Caffeine Free - Roasted Nuts Aroma - Non-GMO",
+      "snippet_highlighted_words": [
+        "Tartary Buckwheat"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 30,
+            "price": 6.99,
+            "currency": "$ delivery"
+          },
+          "extensions": [
+            "4.4(3,405)",
+            "$11.39",
+            "\u200e$6.99 delivery",
+            "\u200e30",
+            "day returns",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Amazon.com"
+    },
+    {
+      "position": 5,
+      "title": "Tartary Buckwheat",
+      "link": "https://greatlakesstapleseeds.com/products/buckwheat?srsltid=AfmBOoq7ZPrT3p-50fr4D-BkMMegJj_Ku7fRAXPW4YLdd0Hled_qnXvi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://greatlakesstapleseeds.com/products/buckwheat%3Fsrsltid%3DAfmBOoq7ZPrT3p-50fr4D-BkMMegJj_Ku7fRAXPW4YLdd0Hled_qnXvi&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQFnoECFYQAQ",
+      "displayed_link": "https://greatlakesstapleseeds.com \u203a products \u203a buckwheat",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgzLii9UzSB_9vdoil2n7wc6-eDu2JMawjbuV6qTAy9Y39834LPYIc&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2c2f0c6668d7bbf30bb6/images/d46587b0835a1323c311c34eb2a296fcfba84ed07210561cac20447fece8e08d.jpeg",
+      "snippet": "Tartary buckwheat is similar to common buckwheat (F. esculentum) but is more frost tolerant. Its seeds are slightly smaller and contain more of the anti- ...",
+      "snippet_highlighted_words": [
+        "Tartary buckwheat"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 7.0,
+            "currency": "$"
+          },
+          "extensions": [
+            "$7.00",
+            "\u200eOut of stock"
+          ]
+        }
+      },
+      "source": "Great Lakes Staple Seeds"
+    },
+    {
+      "position": 6,
+      "title": "Himalayan Tartary Buckwheat Sprout Powder | Immune\u2026",
+      "link": "https://bigboldhealth.com/products/himalayan-tartary-buckwheat-sprout-powder-2023?srsltid=AfmBOopNKy9KseIVcc-DkivptOkOu8ATWJGBZl9lfAYpUpAqyBhwPcIu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bigboldhealth.com/products/himalayan-tartary-buckwheat-sprout-powder-2023%3Fsrsltid%3DAfmBOopNKy9KseIVcc-DkivptOkOu8ATWJGBZl9lfAYpUpAqyBhwPcIu&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQFnoECFUQAQ",
+      "displayed_link": "https://bigboldhealth.com \u203a products \u203a himalayan-tartary...",
+      "favicon": "https://serpapi.com/searches/670a2c2f0c6668d7bbf30bb6/images/d46587b0835a1323c311c34eb2a296fc257d14ab080890cd7b99cd83c5e43b5c.png",
+      "snippet": "Powdered sprouts have mild flavour and easy to use by sprinkling on oatmeal or yogurt or anything you like. Good to know it is supporting immune rejuvenation.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 4.5,
+            "price": 108.0,
+            "currency": "$",
+            "free_day_delivery": 5
+          },
+          "extensions": [
+            "4.5(35)",
+            "$108.00",
+            "\u200eFree 5\u20138 day delivery",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Big Bold Health"
+    },
+    {
+      "position": 7,
+      "title": "Get healthy with Himalayan Tartary Buckwheat",
+      "link": "https://colsa.unh.edu/blog/2023/11/get-healthy-himalayan-tartary-buckwheat-discover-many-health-benefits-superfood",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://colsa.unh.edu/blog/2023/11/get-healthy-himalayan-tartary-buckwheat-discover-many-health-benefits-superfood&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQFnoECFQQAQ",
+      "displayed_link": "https://colsa.unh.edu \u203a blog \u203a 2023/11 \u203a get-healthy-him...",
+      "favicon": "https://serpapi.com/searches/670a2c2f0c6668d7bbf30bb6/images/d46587b0835a1323c311c34eb2a296fc2298b9a04aeacd764156fb0bafe99615.png",
+      "date": "Nov 6, 2023",
+      "snippet": "Key Takeaways \u00b7 Himalayan Tartary Buckwheat is a gluten-free, nutrient-rich superfood that is a good source of protein, fiber, and minerals.",
+      "snippet_highlighted_words": [
+        "Tartary Buckwheat"
+      ],
+      "source": "University of New Hampshire"
+    },
+    {
+      "position": 8,
+      "title": "Tartary Buckwheat - an overview",
+      "link": "https://www.sciencedirect.com/topics/food-science/tartary-buckwheat",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedirect.com/topics/food-science/tartary-buckwheat&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQFnoECFsQAQ",
+      "displayed_link": "https://www.sciencedirect.com \u203a topics \u203a food-science \u203a ta...",
+      "favicon": "https://serpapi.com/searches/670a2c2f0c6668d7bbf30bb6/images/d46587b0835a1323c311c34eb2a296fcc7689cdb8e924a047ccc76b6c8ede2f8.png",
+      "snippet": "Tartary buckwheat has narrow-shaped leaves, more branches, and smaller flowers than common buckwheat, with inconspicuous greenish-white sepals.",
+      "snippet_highlighted_words": [
+        "Tartary buckwheat"
+      ],
+      "source": "ScienceDirect.com"
+    },
+    {
+      "position": 9,
+      "title": "The buckwheat stops here \u2013 Tartary buckwheat\u2013cultivation ...",
+      "link": "https://tartarybuckwheat.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tartarybuckwheat.com/&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQFnoECFMQAQ",
+      "displayed_link": "https://tartarybuckwheat.com",
+      "favicon": "https://serpapi.com/searches/670a2c2f0c6668d7bbf30bb6/images/d46587b0835a1323c311c34eb2a296fcfff91ad2db770595eaf09b8c2665c873.jpeg",
+      "snippet": "While tartary buckwheat is considered more tolerant of cold temperatures than common buckwheat, both these species are sensitive to freezing temperatures.",
+      "snippet_highlighted_words": [
+        "tartary buckwheat"
+      ],
+      "source": "tartarybuckwheat.com"
+    },
+    {
+      "position": 10,
+      "title": "A Bold New Superfood: Himalayan Tartary Buckwheat",
+      "link": "https://drhyman.com/blogs/content/a-bold-new-superfood-himalayan-tartary-buckwheat",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://drhyman.com/blogs/content/a-bold-new-superfood-himalayan-tartary-buckwheat&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQFnoECFkQAQ",
+      "displayed_link": "https://drhyman.com \u203a blogs \u203a content \u203a a-bold-new-super...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZXSU8xmw1ynFYgt7jDnVhCJ9E1AmrHR8RFMKtYl-hSM9LuxeaoArY&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2c2f0c6668d7bbf30bb6/images/d46587b0835a1323c311c34eb2a296fc8965138bc255074c4750751c3c1c8e8e.png",
+      "author": "by DR HYMAN",
+      "snippet": "Himalayan Tartary Buckwheat's extraordinary adaptivity makes it beneficial for people, soil quality, and for Earth's dwindling biodiversity.",
+      "snippet_highlighted_words": [
+        "Tartary Buckwheat's"
+      ],
+      "source": "Mark Hyman, MD"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "items": [
+        {
+          "name": "Buckwheat",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtGPtqjUQLihJ9U4Om1lixXdNN1e4mm4Xk0HzfsuebZPqQ2T8LC5Qw&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Buckwheat&stick=H4sIAAAAAAAAAOMwVGI0-MXIsIGF4RULFxeHfq6-QXaxRd4rFm4uThAnubzCNB3OM8oojreEKzQtyc14xcLDxQXiWGabZ5hUwlUaZxcUI_HSSwpM4Tzz7MqSHLhGI7PstOyKVyycXOwgbmFh9iJWTqfS5OzyjNTEkltskgzdT3uMA-NDCt6pNB-UOrRnyVOTn-tml3mvWsQhFpCaX5CTqpCYU5yvUJyaWJScoZCWX7SCgxEA9V496dkAAAA&sa=X&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQs9oBKAB6BAh-EAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Buckwheat&stick=H4sIAAAAAAAAAOMwVGI0-MXIsIGF4RULFxeHfq6-QXaxRd4rFm4uThAnubzCNB3OM8oojreEKzQtyc14xcLDxQXiWGabZ5hUwlUaZxcUI_HSSwpM4Tzz7MqSHLhGI7PstOyKVyycXOwgbmFh9iJWTqfS5OzyjNTEkltskgzdT3uMA-NDCt6pNB-UOrRnyVOTn-tml3mvWsQhFpCaX5CTqpCYU5yvUJyaWJScoZCWX7SCgxEA9V496dkAAAA"
+        },
+        {
+          "name": "Field bindweed",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQMBQ2HbhEiJByAJm-AtxBDKs3mTgpOcH1T6Igqk47CzOAwJD2dZs1&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Convolvulus+arvensis&stick=H4sIAAAAAAAAAOMwVGI0_MXIsIGF4RULFxeHfq6-QXaxRd4rFm4uThAnubzCNB3OM8oojreEKzQtyc14xcLDxQXiWGabZ5hUwlUaZxcUI_HSSwpM4Tzz7MqSHLhGI7PstOyKVyycXOwgbmFh9iJWEef8vLL8nLLSnNJihcSistS84sziW2ySDN1Pe4wD40MK3qk0H5Q6tGfJU5Of62aXea9axCEWkJpfkJOqkJhTnK9QnJpYlJyhkJZftIKDEQBIdlpc5AAAAA&sa=X&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQs9oBKAF6BAh-EAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Convolvulus+arvensis&stick=H4sIAAAAAAAAAOMwVGI0_MXIsIGF4RULFxeHfq6-QXaxRd4rFm4uThAnubzCNB3OM8oojreEKzQtyc14xcLDxQXiWGabZ5hUwlUaZxcUI_HSSwpM4Tzz7MqSHLhGI7PstOyKVyycXOwgbmFh9iJWEef8vLL8nLLSnNJihcSistS84sziW2ySDN1Pe4wD40MK3qk0H5Q6tGfJU5Of62aXea9axCEWkJpfkJOqkJhTnK9QnJpYlJyhkJZftIKDEQBIdlpc5AAAAA"
+        },
+        {
+          "name": "Bindweeds",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRJfsQGJbxv0p4CNniPKiyYdOeoMPMgmXl6XOV957b-pc9zDUCBd-zsl41gGm7kXLG3ZORRhW1a&s=19",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Convolvulus&stick=H4sIAAAAAAAAAOMwVGI0-sXIsIGF4RULFxeHfq6-QXaxRd4rFm4uThAnubzCNB3OM8oojreEKzQtyc14xcLDxQXiWGabZ5hUwlUaZxcUI_HSSwpM4Tzz7MqSHLhGI7PstOyKVyycXOwgbmFh9iJWbuf8vLL8nLLSnNLiW2ySDN1Pe4wD40MK3qk0H5Q6tGfJU5Of62aXea9axCEWkJpfkJOqkJhTnK9QnJpYlJyhkJZftIKDEQBa794K2wAAAA&sa=X&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQs9oBKAJ6BAh-EAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Convolvulus&stick=H4sIAAAAAAAAAOMwVGI0-sXIsIGF4RULFxeHfq6-QXaxRd4rFm4uThAnubzCNB3OM8oojreEKzQtyc14xcLDxQXiWGabZ5hUwlUaZxcUI_HSSwpM4Tzz7MqSHLhGI7PstOyKVyycXOwgbmFh9iJWbuf8vLL8nLLSnNLiW2ySDN1Pe4wD40MK3qk0H5Q6tGfJU5Of62aXea9axCEWkJpfkJOqkJhTnK9QnJpYlJyhkJZftIKDEQBa794K2wAAAA"
+        },
+        {
+          "name": "Buckwheats",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKWPbZ9UuTpQvmhRx0l4Ijy9P5-kmt8FpaLvVufmcX-QyEb-bAddqf&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Polygonaceae&stick=H4sIAAAAAAAAAOMwVGI0_sXIsIGF4RULFxeHfq6-QXaxRd4rFm4uThAnubzCNB3OM8oojreEKzQtyc14xcLDxQXiWGabZ5hUwlUaZxcUI_HSSwpM4Tzz7MqSHLhGI7PstOyKVyycXOwgbmFh9iJWnoD8nMr0_LzE5NTE1FtskgzdT3uMA-NDCt6pNB-UOrRnyVOTn-tml3mvWsQhFpCaX5CTqpCYU5yvUJyaWJScoZCWX7SCgxEAdnj5gdwAAAA&sa=X&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQs9oBKAN6BAh-EAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Polygonaceae&stick=H4sIAAAAAAAAAOMwVGI0_sXIsIGF4RULFxeHfq6-QXaxRd4rFm4uThAnubzCNB3OM8oojreEKzQtyc14xcLDxQXiWGabZ5hUwlUaZxcUI_HSSwpM4Tzz7MqSHLhGI7PstOyKVyycXOwgbmFh9iJWnoD8nMr0_LzE5NTE1FtskgzdT3uMA-NDCt6pNB-UOrRnyVOTn-tml3mvWsQhFpCaX5CTqpCYU5yvUJyaWJScoZCWX7SCgxEAdnj5gdwAAAA"
+        },
+        {
+          "name": "Black Bindweed",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbwyOVa6xkAyb9u_nJECsT5md-H8yjN1m2s5Hl&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Black+Bindweed&stick=H4sIAAAAAAAAAOMwVGI0-cXIsIGF4RULFxeHfq6-QXaxRd4rFm4uThAnubzCNB3OM8oojreEKzQtyc14xcLDxQXiWGabZ5hUwlUaZxcUI_HSSwpM4Tzz7MqSHLhGI7PstOyKVyycXOwgbmFh9iJWPqecxORsBafMvJTy1NSUW2ySDN1Pe4wD40MK3qk0H5Q6tGfJU5Of62aXea9axCEWkJpfkJOqkJhTnK9QnJpYlJyhkJZftIKDEQA7T-QK3gAAAA&sa=X&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQs9oBKAR6BAh-EAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Black+Bindweed&stick=H4sIAAAAAAAAAOMwVGI0-cXIsIGF4RULFxeHfq6-QXaxRd4rFm4uThAnubzCNB3OM8oojreEKzQtyc14xcLDxQXiWGabZ5hUwlUaZxcUI_HSSwpM4Tzz7MqSHLhGI7PstOyKVyycXOwgbmFh9iJWPqecxORsBafMvJTy1NSUW2ySDN1Pe4wD40MK3qk0H5Q6tGfJU5Of62aXea9axCEWkJpfkJOqkJhTnK9QnJpYlJyhkJZftIKDEQA7T-QK3gAAAA"
+        },
+        {
+          "name": "Buckwheats",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf2kpbw4Xb-MFgtGgTKBbhrHZxqTpdWBd28DMCwnKGHg9_H6HQuXM3&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Fagopyrum&stick=H4sIAAAAAAAAAOMwVGI0_cXIsIGF4RULFxeHfq6-QXaxRd4rFm4uThAnubzCNB3OM8oojreEKzQtyc14xcLDxQXiWGabZ5hUwlUaZxcUI_HSSwpM4Tzz7MqSHLhGI7PstOyKVyycXOwgbmFh9iJWTrfE9PyCyqLS3FtskgzdT3uMA-NDCt6pNB-UOrRnyVOTn-tml3mvWsQhFpCaX5CTqpCYU5yvUJyaWJScoZCWX7SCgxEAGlXCV9kAAAA&sa=X&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQs9oBKAV6BAh-EAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Fagopyrum&stick=H4sIAAAAAAAAAOMwVGI0_cXIsIGF4RULFxeHfq6-QXaxRd4rFm4uThAnubzCNB3OM8oojreEKzQtyc14xcLDxQXiWGabZ5hUwlUaZxcUI_HSSwpM4Tzz7MqSHLhGI7PstOyKVyycXOwgbmFh9iJWTrfE9PyCyqLS3FtskgzdT3uMA-NDCt6pNB-UOrRnyVOTn-tml3mvWsQhFpCaX5CTqpCYU5yvUJyaWJScoZCWX7SCgxEAGlXCV9kAAAA"
+        }
+      ]
+    },
+    {
+      "block_position": 1,
+      "query": "Himalayan tartary buckwheat",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Himalayan+tartary+buckwheat&sa=X&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQ1QJ6BQiFARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Himalayan+tartary+buckwheat"
+    },
+    {
+      "block_position": 1,
+      "query": "Tartary buckwheat benefits",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Tartary+buckwheat+benefits&sa=X&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQ1QJ6BQiGARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Tartary+buckwheat+benefits"
+    },
+    {
+      "block_position": 1,
+      "query": "Where to buy Himalayan Tartary Buckwheat",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Where+to+buy+Himalayan+Tartary+Buckwheat&sa=X&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQ1QJ6BQiAARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Where+to+buy+Himalayan+Tartary+Buckwheat"
+    },
+    {
+      "block_position": 1,
+      "query": "Himalayan Tartary Buckwheat recipes",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Himalayan+Tartary+Buckwheat+recipes&sa=X&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQ1QJ6BQiEARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Himalayan+Tartary+Buckwheat+recipes"
+    },
+    {
+      "block_position": 1,
+      "query": "Himalayan Tartary Buckwheat in Hindi",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Himalayan+Tartary+Buckwheat+in+Hindi&sa=X&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQ1QJ6BQiDARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Himalayan+Tartary+Buckwheat+in+Hindi"
+    },
+    {
+      "block_position": 1,
+      "query": "Tartary buckwheat vs buckwheat",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Tartary+buckwheat+vs+buckwheat&sa=X&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQ1QJ6BQiBARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Tartary+buckwheat+vs+buckwheat"
+    },
+    {
+      "block_position": 1,
+      "query": "How to eat Himalayan Tartary Buckwheat",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=How+to+eat+Himalayan+Tartary+Buckwheat&sa=X&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQ1QJ6BQiCARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=How+to+eat+Himalayan+Tartary+Buckwheat"
+    },
+    {
+      "block_position": 1,
+      "query": "Himalayan Tartary Buckwheat flour",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Himalayan+Tartary+Buckwheat+flour&sa=X&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQ1QJ6BQiHARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Himalayan+Tartary+Buckwheat+flour"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=tartary+buckwheat&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=MCwKZ57sCrX_7_UPgcOqwAE&start=10&sa=N&sstk=Aagrsui6Z_zam5lnvas-EVF5M9IL7OHYyUriD7ygZwGuJtwpOXLSsIBKnGfJHxO_QUUwk-GwVqZBBlYoh10NdHwxfSsEohzcEYGygg&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQ8NMDegQIFBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=tartary+buckwheat&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=MCwKZ57sCrX_7_UPgcOqwAE&start=10&sa=N&sstk=Aagrsui6Z_zam5lnvas-EVF5M9IL7OHYyUriD7ygZwGuJtwpOXLSsIBKnGfJHxO_QUUwk-GwVqZBBlYoh10NdHwxfSsEohzcEYGygg&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQ8tMDegQIFBAE",
+      "3": "https://www.google.com/search?q=tartary+buckwheat&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=MCwKZ57sCrX_7_UPgcOqwAE&start=20&sa=N&sstk=Aagrsui6Z_zam5lnvas-EVF5M9IL7OHYyUriD7ygZwGuJtwpOXLSsIBKnGfJHxO_QUUwk-GwVqZBBlYoh10NdHwxfSsEohzcEYGygg&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQ8tMDegQIFBAG",
+      "4": "https://www.google.com/search?q=tartary+buckwheat&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=MCwKZ57sCrX_7_UPgcOqwAE&start=30&sa=N&sstk=Aagrsui6Z_zam5lnvas-EVF5M9IL7OHYyUriD7ygZwGuJtwpOXLSsIBKnGfJHxO_QUUwk-GwVqZBBlYoh10NdHwxfSsEohzcEYGygg&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQ8tMDegQIFBAI",
+      "5": "https://www.google.com/search?q=tartary+buckwheat&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=MCwKZ57sCrX_7_UPgcOqwAE&start=40&sa=N&sstk=Aagrsui6Z_zam5lnvas-EVF5M9IL7OHYyUriD7ygZwGuJtwpOXLSsIBKnGfJHxO_QUUwk-GwVqZBBlYoh10NdHwxfSsEohzcEYGygg&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQ8tMDegQIFBAK",
+      "6": "https://www.google.com/search?q=tartary+buckwheat&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=MCwKZ57sCrX_7_UPgcOqwAE&start=50&sa=N&sstk=Aagrsui6Z_zam5lnvas-EVF5M9IL7OHYyUriD7ygZwGuJtwpOXLSsIBKnGfJHxO_QUUwk-GwVqZBBlYoh10NdHwxfSsEohzcEYGygg&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQ8tMDegQIFBAM",
+      "7": "https://www.google.com/search?q=tartary+buckwheat&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=MCwKZ57sCrX_7_UPgcOqwAE&start=60&sa=N&sstk=Aagrsui6Z_zam5lnvas-EVF5M9IL7OHYyUriD7ygZwGuJtwpOXLSsIBKnGfJHxO_QUUwk-GwVqZBBlYoh10NdHwxfSsEohzcEYGygg&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQ8tMDegQIFBAO",
+      "8": "https://www.google.com/search?q=tartary+buckwheat&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=MCwKZ57sCrX_7_UPgcOqwAE&start=70&sa=N&sstk=Aagrsui6Z_zam5lnvas-EVF5M9IL7OHYyUriD7ygZwGuJtwpOXLSsIBKnGfJHxO_QUUwk-GwVqZBBlYoh10NdHwxfSsEohzcEYGygg&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQ8tMDegQIFBAQ",
+      "9": "https://www.google.com/search?q=tartary+buckwheat&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=MCwKZ57sCrX_7_UPgcOqwAE&start=80&sa=N&sstk=Aagrsui6Z_zam5lnvas-EVF5M9IL7OHYyUriD7ygZwGuJtwpOXLSsIBKnGfJHxO_QUUwk-GwVqZBBlYoh10NdHwxfSsEohzcEYGygg&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQ8tMDegQIFBAS",
+      "10": "https://www.google.com/search?q=tartary+buckwheat&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=MCwKZ57sCrX_7_UPgcOqwAE&start=90&sa=N&sstk=Aagrsui6Z_zam5lnvas-EVF5M9IL7OHYyUriD7ygZwGuJtwpOXLSsIBKnGfJHxO_QUUwk-GwVqZBBlYoh10NdHwxfSsEohzcEYGygg&ved=2ahUKEwiexIjGr4iJAxW1_7sIHYGhChgQ8tMDegQIFBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=tartary+buckwheat&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=tartary+buckwheat&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=tartary+buckwheat&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=tartary+buckwheat&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=tartary+buckwheat&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=tartary+buckwheat&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=tartary+buckwheat&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=tartary+buckwheat&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=tartary+buckwheat&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=tartary+buckwheat&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=tartary+buckwheat&start=90"
+    }
+  }
+}

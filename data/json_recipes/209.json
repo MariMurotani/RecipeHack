@@ -1,0 +1,602 @@
+{
+  "search_metadata": {
+    "id": "670a2a4898d8debb93ded7ba",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7da93f2a286d7e56/670a2a4898d8debb93ded7ba.json",
+    "created_at": "2024-10-12 07:50:32 UTC",
+    "processed_at": "2024-10-12 07:50:32 UTC",
+    "google_url": "https://www.google.com/search?q=pumpkin&oq=pumpkin&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/7da93f2a286d7e56/670a2a4898d8debb93ded7ba.html",
+    "total_time_taken": 1.2
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "pumpkin",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "pumpkin",
+    "total_results": 980000000,
+    "time_taken_displayed": 0.24,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=pumpkin&npsic=0&rflfq=1&rldoc=1&rllag=30413176,-97741240,20350&tbm=lcl&sa=X&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20QtgN6BAg7EAI",
+    "image": "https://serpapi.com/searches/670a2a4898d8debb93ded7ba/images/0c8e5fa75981604749a777d84fa25460.png",
+    "gps_coordinates": {
+      "latitude": 30.413176,
+      "longitude": -97.74124
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.8,
+        "reviews_original": "(3.1K)",
+        "reviews": 3100,
+        "description": "\"Loads of fun activities and thousands of unique pumpkins and gourds.\"",
+        "lsig": "AB86z5XaATCYv7PlYvdHetfbgexm",
+        "thumbnail": "https://serpapi.com/searches/670a2a4898d8debb93ded7ba/images/19cedbd9e949fd3a84d39f76271b34bd2cf523211e9e264f1642b56e50d4e50ddf0c448899243221.png",
+        "links": {
+          "website": "http://www.texaspumpkinfest.com/",
+          "directions": "https://www.google.com/maps/dir//Texas+Pumpkin+Fest,+8760+FM+2243,+Leander,+TX+78641/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x865b335bc79ed855:0xb1a445ef7f5a55b8?sa=X&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20Q48ADegQIJRAA&hl=en&gl=us"
+        },
+        "title": "Texas Pumpkin Fest",
+        "type": "Pumpkin patch",
+        "phone": "(512) 222-8055",
+        "address": "Leander, TX",
+        "hours": "Closed \u22c5 Opens 10 AM",
+        "place_id": "12800432935829919160",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=12800432935829919160&q=pumpkin",
+        "gps_coordinates": {
+          "latitude": 30.581858,
+          "longitude": -97.82356
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.4,
+        "reviews_original": "(396)",
+        "reviews": 396,
+        "description": "\"Lots of fun light displays, huge pumpkins, and even a fire show!\"",
+        "lsig": "AB86z5W8vHENOYtcnpvWy3RUGAx0",
+        "thumbnail": "https://serpapi.com/searches/670a2a4898d8debb93ded7ba/images/19cedbd9e949fd3a84d39f76271b34bd7e5943c0747b5484b3e26c842a0e777bad20b1b93f75ab88.png",
+        "links": {
+          "website": "https://pumpkinnights.com/austin/",
+          "directions": "https://www.google.com/maps/dir//Pumpkin+Nights,+10621+Pioneer+Farms+Dr,+Austin,+TX+78754/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8644c90e7e0de2ad:0xd46f8c30aac35992?sa=X&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20Q48ADegQIJhAA&hl=en&gl=us"
+        },
+        "title": "Pumpkin Nights",
+        "type": "Festival",
+        "address": "10621 Pioneer Farms Dr",
+        "hours": "Closed \u22c5 Opens 6 PM",
+        "place_id": "15307607799106853266",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=15307607799106853266&q=pumpkin",
+        "gps_coordinates": {
+          "latitude": 30.3695,
+          "longitude": -97.65891
+        }
+      },
+      {
+        "position": 3,
+        "rating": 4.7,
+        "reviews_original": "(560)",
+        "reviews": 560,
+        "description": "\"They do give a free mini pumpkin when you leave!\"",
+        "lsig": "AB86z5VjFvum_focSomGy-aWJBOh",
+        "thumbnail": "https://serpapi.com/searches/670a2a4898d8debb93ded7ba/images/19cedbd9e949fd3a84d39f76271b34bd362b81c927d5836c1b2b5403abc84c935fc57214b28310ee.png",
+        "links": {
+          "website": "https://geoji.com/g/9796?r=3547",
+          "directions": "https://www.google.com/maps/dir//Austin+Pumpkin+Festival,+2800+S+Lamar+Blvd,+Austin,+TX+78704/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8644b57fd2a2ce21:0x6ab5b70498f8f4b4?sa=X&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20Q48ADegQIJxAA&hl=en&gl=us"
+        },
+        "title": "Austin Pumpkin Festival",
+        "type": "Pumpkin patch",
+        "phone": "(512) 806-1702",
+        "address": "2800 S Lamar Blvd",
+        "hours": "Closed \u22c5 Opens 10 AM",
+        "place_id": "7689253169179194548",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=7689253169179194548&q=pumpkin",
+        "gps_coordinates": {
+          "latitude": 30.244635,
+          "longitude": -97.78167
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&tbs=lf:1,lf_ui:2&tbm=lcl&q=pumpkin&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20QjGp6BAg8EAE"
+  },
+  "knowledge_graph": {
+    "title": "Pumpkin",
+    "type": "Squash",
+    "entity_type": "food, kp3_verticals",
+    "kgmid": "/m/05zsy",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/05zsy&hl=en-US&q=Pumpkin",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F05zsy&location=Austin%2CTexas%2CUnited+States&q=Pumpkin",
+    "description": "A pumpkin is a cultivated winter squash in the genus Cucurbita. The term is most commonly applied to round, orange-colored squash varieties, though it does not possess a scientific definition and may be used in reference to many different squashes of varied appearance.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Pumpkin"
+    },
+    "guinness_record": "2,749lb squashes bbc.com",
+    "guinness_record_links": [
+      {
+        "text": "bbc.com",
+        "link": "https://www.bbc.com/news/world-us-canada-67070839"
+      }
+    ],
+    "sources_include": "USDAUSDAPumpkin30 Calories - 1 cup (1\" cubes) (116 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/168448/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/168449/nutrients"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Chia seed",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgKgMUFQarfIOViDwNQ-C-beP2Q1vsPGh42W3jKUljGCRcjbOk3KWHNOlTgJaQ8TWwAJFWzf5fjjUxdW1-TToZrp0C6Nc-aWChKLUAdUtfZEvkPHXpA5LoFLzUJhh27PKwPm2cnCI7o1DX5ESX_NFHF8z982BO1oPecXsuVui17qgTa5qzYzHBKLXLrhn7SyKz986124AZHTI1u60RtMXFZ2VjaEIYIOYYEJKsbeS97V-wmkl5Dgdh5DN31w8tIKGTSVoT1k%3D&q=Chia+seed&sa=X&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20Qs9oBKAB6BAguEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Chia+seed&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgKgMUFQarfIOViDwNQ-C-beP2Q1vsPGh42W3jKUljGCRcjbOk3KWHNOlTgJaQ8TWwAJFWzf5fjjUxdW1-TToZrp0C6Nc-aWChKLUAdUtfZEvkPHXpA5LoFLzUJhh27PKwPm2cnCI7o1DX5ESX_NFHF8z982BO1oPecXsuVui17qgTa5qzYzHBKLXLrhn7SyKz986124AZHTI1u60RtMXFZ2VjaEIYIOYYEJKsbeS97V-wmkl5Dgdh5DN31w8tIKGTSVoT1k%3D",
+        "image": "https://serpapi.com/searches/670a2a4898d8debb93ded7ba/images/e85bee2653138d4e7311cfb3f4a59394746c0777ffaa1c48906536d0ce185b4fd0081cd88658ca8c2e3f1ba127c065ca.jpeg"
+      },
+      {
+        "name": "Watermelon",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmwYVqtewS4xe6JY-bounmKItN0NsCe7muJtt-D_UQP1j_jGYPskVi_h7lTDh2PN6YGfQlhogneJt6p0-UyuaKYR0wGEtC2hjXzaVYRiboI_HYUsjUOTHwtKFMt5YSRMw2h4XuWl1nGas84-cgY9H7c5O-YpvyXUaY81fqkraLGerSzeA4KV5Q_1QSFTxeiOgALTSxAI9RS3TX_7rDDzuJxd0JxfoTN9V6BxZ9yBIAEtaD_4Zp0n7hqlXfwt1bnx98FYAADA%3D&q=Watermelon&sa=X&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20Qs9oBKAB6BAguEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Watermelon&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmwYVqtewS4xe6JY-bounmKItN0NsCe7muJtt-D_UQP1j_jGYPskVi_h7lTDh2PN6YGfQlhogneJt6p0-UyuaKYR0wGEtC2hjXzaVYRiboI_HYUsjUOTHwtKFMt5YSRMw2h4XuWl1nGas84-cgY9H7c5O-YpvyXUaY81fqkraLGerSzeA4KV5Q_1QSFTxeiOgALTSxAI9RS3TX_7rDDzuJxd0JxfoTN9V6BxZ9yBIAEtaD_4Zp0n7hqlXfwt1bnx98FYAADA%3D",
+        "image": "https://serpapi.com/searches/670a2a4898d8debb93ded7ba/images/e85bee2653138d4e7311cfb3f4a59394746c0777ffaa1c48906536d0ce185b4f2430d7a988d9dcda3bf49d02659bb6f5.jpeg"
+      },
+      {
+        "name": "Pumpkin seed",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L--WyH6Ig5dAijfLR2eTkT1Ca7EOgg2WYyox0IQ3KPYaWsKOLIoiCglDJeLH90hEBn8Y3Ql9P25BX6O4uNNzejDbXRrshcgXWhc4e9-WaSOt2xoXfz8-FVp3geaSkyGe3WOXugk3s6LYH_Aa_bV2Vy_1Kfu4JSOLqH13ZdDA4LIr93-fM1QMhhkYsPMX0GDyvNiFMP09rOvCEV3CMTkSfSMYxY-L9uBU6ECBET-57zoZrrnLfw-pCSy1zwCdFX8nZ4GOuug%3D&q=Pumpkin+Seeds&sa=X&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20Qs9oBKAB6BAguEA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pumpkin+Seeds&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L--WyH6Ig5dAijfLR2eTkT1Ca7EOgg2WYyox0IQ3KPYaWsKOLIoiCglDJeLH90hEBn8Y3Ql9P25BX6O4uNNzejDbXRrshcgXWhc4e9-WaSOt2xoXfz8-FVp3geaSkyGe3WOXugk3s6LYH_Aa_bV2Vy_1Kfu4JSOLqH13ZdDA4LIr93-fM1QMhhkYsPMX0GDyvNiFMP09rOvCEV3CMTkSfSMYxY-L9uBU6ECBET-57zoZrrnLfw-pCSy1zwCdFX8nZ4GOuug%3D",
+        "image": "https://serpapi.com/searches/670a2a4898d8debb93ded7ba/images/e85bee2653138d4e7311cfb3f4a59394746c0777ffaa1c48906536d0ce185b4f38965879299e3fc79af60283fff2da18.jpeg"
+      },
+      {
+        "name": "Zucchini",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L-4ZTxH-7lkDbEiar4gh720QxrSe0n1vF1hqDXSOTtWGtgwc1Ij3VIE2BkhRzJZ_5j9SmQpDrBw9H24Okx1pTnEXJpLQqCAkTyhJx8uvJhHKPLzB7XIeIC98BBlnRD6UXUT21t3vksX54rWOKEb-9m6HAqhx2olCVlZJQPWTU416lTdHBK6NvK1_UfUsy-q185w3z42btpJZCP-VLo2KdEt7FVqk0eF_rY9ydIP0jXOqS0TABkwZK8T3FPi2q4Wnk4uPu9A%3D&q=Zucchini&sa=X&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20Qs9oBKAB6BAguEBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Zucchini&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L-4ZTxH-7lkDbEiar4gh720QxrSe0n1vF1hqDXSOTtWGtgwc1Ij3VIE2BkhRzJZ_5j9SmQpDrBw9H24Okx1pTnEXJpLQqCAkTyhJx8uvJhHKPLzB7XIeIC98BBlnRD6UXUT21t3vksX54rWOKEb-9m6HAqhx2olCVlZJQPWTU416lTdHBK6NvK1_UfUsy-q185w3z42btpJZCP-VLo2KdEt7FVqk0eF_rY9ydIP0jXOqS0TABkwZK8T3FPi2q4Wnk4uPu9A%3D",
+        "image": "https://serpapi.com/searches/670a2a4898d8debb93ded7ba/images/e85bee2653138d4e7311cfb3f4a59394746c0777ffaa1c48906536d0ce185b4faf14c1c233edd13fc099fa0e8f74e039.jpeg"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "0.1 g",
+        "0%"
+      ],
+      "cholesterol": [
+        "0 mg",
+        "0%"
+      ],
+      "sodium": [
+        "1 mg",
+        "0%"
+      ],
+      "potassium": [
+        "394 mg",
+        "11%"
+      ],
+      "total_carbohydrate": [
+        "8 g",
+        "2%"
+      ],
+      "protein": [
+        "1.2 g",
+        "2%"
+      ]
+    }
+  },
+  "related_questions": [
+    {
+      "question": "Is A pumpkin a fruit or a vegetable?",
+      "snippet": "Answer. A pumpkin, from a botanist's perspective, is a fruit because it's a product of the seed-bearing structure of flowering plants. Vegetables, on the other hand, are the edible portion of plants such as leaves, stems, roots, bullbs, flowers, and tubers.",
+      "title": "fruit",
+      "link": "https://fruitsandveggies.org/expert-advice/pumpkins-fruit-vegetable-difference-two/#:~:text=Answer,bullbs%2C%20flowers%2C%20and%20tubers.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM5J0C8qpVWbJI_Z6XhHDQ7KJRzh8Onb6z0CqRjt_0yA&s",
+      "source_logo": "https://serpapi.com/searches/670a2a4898d8debb93ded7ba/images/ddad6e282b63da2c98a9d175aeb35b969cfb6808ce595f35444287d5fec2c920.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU5XdHdja2hKU2tnNFJtNUNWbVowWW1SbGJFdHdUSEJ0YkZOMVVrTkxjelp5WTBWSWMzbFRhbmh5VlVoMmRHaGFXa3RzUzA4elgzQnJXSGwxTjA4eFgxWlJZbXByRWhkVFEyOUxXamhtTWs5T1EwRTFUMDFRYUhWaFR6WkJXUm9pUVVaWWNrVmpjSFJTVlV4SVFrcHBUemRVY1ZnM1kwTjZhelZTUjJVNU5IZDFkdyIsImZjdiI6IjMiLCJlaSI6IlNDb0taOGYyT05DQTVPTVBodWFPNkFZIiwicWMiOiJDZ2R3ZFcxd2EybHVFQUI5SFZva1B3IiwicXVlc3Rpb24iOiJJcyBBIHB1bXBraW4gYSBmcnVpdCBvciBhIHZlZ2V0YWJsZT8iLCJsayI6IkdoZHdkVzF3YTJsdUlHWnlkV2wwSUc5eUlIWmxaMmRwWlEiLCJicyI6ImM1Mk9zUXJDTUJDR2NjM2taZzJDQjlZWEtPcmlVQlNYT29tTGMwb3ZhYkJOU3BMVzBTZndGWHdRMzhWM01SVmJSOEhwanJ2dl9fakpqb1NKaFExVWRWbWRwUUlHM05UU2dUWi1iVkNnWTJtQmNYQzdSbU02NnFpZThZU1FTQTRrUE9YTUFUTUlLU3JrMGxuUUhKQTVxVVFuajRQSE9wclQyZVUzU3Jaay1qWm1HbTFmcmtTbXdNOUNONzdTX1JoTktHMXZiZEFyT3V4REVFT1d5VGNzdE02QS04NlpaQ2s2cjJVcWcxeUtITktpX1ZVR3JhMk5Oel8zMFlvdTVCX1o0ZUFGIiwiaWQiOiJmY19TQ29LWjhmMk9OQ0E1T01QaHVhTzZBWV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU5XdHdja2hKU2tnNFJtNUNWbVowWW1SbGJFdHdUSEJ0YkZOMVVrTkxjelp5WTBWSWMzbFRhbmh5VlVoMmRHaGFXa3RzUzA4elgzQnJXSGwxTjA4eFgxWlJZbXByRWhkVFEyOUxXamhtTWs5T1EwRTFUMDFRYUhWaFR6WkJXUm9pUVVaWWNrVmpjSFJTVlV4SVFrcHBUemRVY1ZnM1kwTjZhelZTUjJVNU5IZDFkdyIsImZjdiI6IjMiLCJlaSI6IlNDb0taOGYyT05DQTVPTVBodWFPNkFZIiwicWMiOiJDZ2R3ZFcxd2EybHVFQUI5SFZva1B3IiwicXVlc3Rpb24iOiJJcyBBIHB1bXBraW4gYSBmcnVpdCBvciBhIHZlZ2V0YWJsZT8iLCJsayI6IkdoZHdkVzF3YTJsdUlHWnlkV2wwSUc5eUlIWmxaMmRwWlEiLCJicyI6ImM1Mk9zUXJDTUJDR2NjM2taZzJDQjlZWEtPcmlVQlNYT29tTGMwb3ZhYkJOU3BMVzBTZndGWHdRMzhWM01SVmJSOEhwanJ2dl9fakpqb1NKaFExVWRWbWRwUUlHM05UU2dUWi1iVkNnWTJtQmNYQzdSbU02NnFpZThZU1FTQTRrUE9YTUFUTUlLU3JrMGxuUUhKQTVxVVFuajRQSE9wclQyZVUzU3Jaay1qWm1HbTFmcmtTbXdNOUNONzdTX1JoTktHMXZiZEFyT3V4REVFT1d5VGNzdE02QS04NlpaQ2s2cjJVcWcxeUtITktpX1ZVR3JhMk5Oel8zMFlvdTVCX1o0ZUFGIiwiaWQiOiJmY19TQ29LWjhmMk9OQ0E1T01QaHVhTzZBWV80In0%3D"
+    },
+    {
+      "question": "What are benefits of eating pumpkin?",
+      "snippet": "Pumpkin provides calcium, potassium, and magnesium, which can help keep your heartbeat regular and your blood pressure low. The fiber in pumpkin can also play a part in lowering blood pressure as well as cholesterol.",
+      "title": "Pumpkin: Health Benefits and Nutrition - WebMD",
+      "date": "Apr 22, 2024",
+      "link": "https://www.webmd.com/diet/health-benefits-pumpkin#:~:text=Pumpkin%20provides%20calcium%2C%20potassium%2C%20and,pressure%20as%20well%20as%20cholesterol.",
+      "source_logo": "https://serpapi.com/searches/670a2a4898d8debb93ded7ba/images/ddad6e282b63da2c98a9d175aeb35b96b1fca812cd74c29e94e1b64d6a8c256c.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU5XdHdja2hKU2tnNFJtNUNWbVowWW1SbGJFdHdUSEJ0YkZOMVVrTkxjelp5WTBWSWMzbFRhbmh5VlVoMmRHaGFXa3RzUzA4elgzQnJXSGwxTjA4eFgxWlJZbXByRWhkVFEyOUxXamhtTWs5T1EwRTFUMDFRYUhWaFR6WkJXUm9pUVVaWWNrVmpjSFJTVlV4SVFrcHBUemRVY1ZnM1kwTjZhelZTUjJVNU5IZDFkdyIsImZjdiI6IjMiLCJlaSI6IlNDb0taOGYyT05DQTVPTVBodWFPNkFZIiwicWMiOiJDZ2R3ZFcxd2EybHVFQUI5SFZva1B3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSBiZW5lZml0cyBvZiBlYXRpbmcgcHVtcGtpbj8iLCJsayI6IkdpTjNhR0YwSUdGeVpTQmlaVzVsWm1sMGN5QnZaaUJsWVhScGJtY2djSFZ0Y0d0cGJnIiwiYnMiOiJjNTJPc1FyQ01CQ0djYzNrWmcyQ0I5WVhLT3JpVUJTWE9vbUxjMG92YWJCTlNwTFcwU2Z3Rlh3UTM4VjNNUlZiUjhIcGpydnZfX2pKam9TSmhRMVVkVm1kcFFJRzNOVFNnVFotYlZDZ1kybUJjWEM3Um1NNjZxaWU4WVNRU0E0a1BPWE1BVE1JS1NyazBsblFISkE1cVVRbmo0UEhPcHJUMmVVM1NyWmstalptR20xZnJrU213TTlDTjc3U19SaE5LRzF2YmRBck91eERFRU9XeVRjc3RNNkEtODZaWkNrNnIyVXFnMXlLSE5LaV9WVUdyYTJOTnpfMzBZb3U1Ql9aNGVBRiIsImlkIjoiZmNfU0NvS1o4ZjJPTkNBNU9NUGh1YU82QVlfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU5XdHdja2hKU2tnNFJtNUNWbVowWW1SbGJFdHdUSEJ0YkZOMVVrTkxjelp5WTBWSWMzbFRhbmh5VlVoMmRHaGFXa3RzUzA4elgzQnJXSGwxTjA4eFgxWlJZbXByRWhkVFEyOUxXamhtTWs5T1EwRTFUMDFRYUhWaFR6WkJXUm9pUVVaWWNrVmpjSFJTVlV4SVFrcHBUemRVY1ZnM1kwTjZhelZTUjJVNU5IZDFkdyIsImZjdiI6IjMiLCJlaSI6IlNDb0taOGYyT05DQTVPTVBodWFPNkFZIiwicWMiOiJDZ2R3ZFcxd2EybHVFQUI5SFZva1B3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSBiZW5lZml0cyBvZiBlYXRpbmcgcHVtcGtpbj8iLCJsayI6IkdpTjNhR0YwSUdGeVpTQmlaVzVsWm1sMGN5QnZaaUJsWVhScGJtY2djSFZ0Y0d0cGJnIiwiYnMiOiJjNTJPc1FyQ01CQ0djYzNrWmcyQ0I5WVhLT3JpVUJTWE9vbUxjMG92YWJCTlNwTFcwU2Z3Rlh3UTM4VjNNUlZiUjhIcGpydnZfX2pKam9TSmhRMVVkVm1kcFFJRzNOVFNnVFotYlZDZ1kybUJjWEM3Um1NNjZxaWU4WVNRU0E0a1BPWE1BVE1JS1NyazBsblFISkE1cVVRbmo0UEhPcHJUMmVVM1NyWmstalptR20xZnJrU213TTlDTjc3U19SaE5LRzF2YmRBck91eERFRU9XeVRjc3RNNkEtODZaWkNrNnIyVXFnMXlLSE5LaV9WVUdyYTJOTnpfMzBZb3U1Ql9aNGVBRiIsImlkIjoiZmNfU0NvS1o4ZjJPTkNBNU9NUGh1YU82QVlfNCJ9"
+    },
+    {
+      "question": "What does pumpkin mean in love?",
+      "snippet": "In English, the word pumpkin is often used as a term of endearment. Other English words that people commonly use to express their adoration for someone include babe, baby, beautiful, buddy, cupcake, cutie-pie, darling, dear, handsome, honey, pet, princess, sugar, sweet pea, sweetie, or sweetie-pie.",
+      "title": "Pumpkin is a Term of Endearment | EnglishClub",
+      "link": "https://www.englishclub.com/efl/podcasts/interesting-facts/term-of-endearment/#:~:text=Term%20of%20Endearment-,In%20English%2C%20the%20word%20pumpkin%20is%20often%20used%20as%20a,sweetie%2C%20or%20sweetie%2Dpie.",
+      "source_logo": "https://serpapi.com/searches/670a2a4898d8debb93ded7ba/images/ddad6e282b63da2c98a9d175aeb35b96bf49cb1fbe89f975372a9b221841577a.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU5XdHdja2hKU2tnNFJtNUNWbVowWW1SbGJFdHdUSEJ0YkZOMVVrTkxjelp5WTBWSWMzbFRhbmh5VlVoMmRHaGFXa3RzUzA4elgzQnJXSGwxTjA4eFgxWlJZbXByRWhkVFEyOUxXamhtTWs5T1EwRTFUMDFRYUhWaFR6WkJXUm9pUVVaWWNrVmpjSFJTVlV4SVFrcHBUemRVY1ZnM1kwTjZhelZTUjJVNU5IZDFkdyIsImZjdiI6IjMiLCJlaSI6IlNDb0taOGYyT05DQTVPTVBodWFPNkFZIiwicWMiOiJDZ2R3ZFcxd2EybHVFQUI5SFZva1B3IiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgcHVtcGtpbiBtZWFuIGluIGxvdmU/IiwibGsiOiJHaHB0WldGdWFXNW5JRzltSUhCMWJYQnJhVzRnYVc0Z2JHOTJaUSIsImJzIjoiYzUyT3NRckNNQkNHY2Mza1pnMkNCOVlYS09yaVVCU1hPb21MYzBvdmFiQk5TcExXMFNmd0ZYd1EzOFYzTVJWYlI4SHBqcnZ2X19qSmpvU0poUTFVZFZtZHBRSUczTlRTZ1RaLWJWQ2dZMm1CY1hDN1JtTTY2cWllOFlTUVNBNGtQT1hNQVRNSUtTcmswbG5RSEpBNXFVUW5qNFBIT3ByVDJlVTNTclprLWpabUdtMWZya1Ntd005Q043N1NfUmhOS0cxdmJkQXJPdXhERUVPV3lUY3N0TTZBLTg2WlpDazZyMlVxZzF5S0hOS2lfVlVHcmEyTk56XzMwWW91NUJfWjRlQUYiLCJpZCI6ImZjX1NDb0taOGYyT05DQTVPTVBodWFPNkFZXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU5XdHdja2hKU2tnNFJtNUNWbVowWW1SbGJFdHdUSEJ0YkZOMVVrTkxjelp5WTBWSWMzbFRhbmh5VlVoMmRHaGFXa3RzUzA4elgzQnJXSGwxTjA4eFgxWlJZbXByRWhkVFEyOUxXamhtTWs5T1EwRTFUMDFRYUhWaFR6WkJXUm9pUVVaWWNrVmpjSFJTVlV4SVFrcHBUemRVY1ZnM1kwTjZhelZTUjJVNU5IZDFkdyIsImZjdiI6IjMiLCJlaSI6IlNDb0taOGYyT05DQTVPTVBodWFPNkFZIiwicWMiOiJDZ2R3ZFcxd2EybHVFQUI5SFZva1B3IiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgcHVtcGtpbiBtZWFuIGluIGxvdmU%2FIiwibGsiOiJHaHB0WldGdWFXNW5JRzltSUhCMWJYQnJhVzRnYVc0Z2JHOTJaUSIsImJzIjoiYzUyT3NRckNNQkNHY2Mza1pnMkNCOVlYS09yaVVCU1hPb21MYzBvdmFiQk5TcExXMFNmd0ZYd1EzOFYzTVJWYlI4SHBqcnZ2X19qSmpvU0poUTFVZFZtZHBRSUczTlRTZ1RaLWJWQ2dZMm1CY1hDN1JtTTY2cWllOFlTUVNBNGtQT1hNQVRNSUtTcmswbG5RSEpBNXFVUW5qNFBIT3ByVDJlVTNTclprLWpabUdtMWZya1Ntd005Q043N1NfUmhOS0cxdmJkQXJPdXhERUVPV3lUY3N0TTZBLTg2WlpDazZyMlVxZzF5S0hOS2lfVlVHcmEyTk56XzMwWW91NUJfWjRlQUYiLCJpZCI6ImZjX1NDb0taOGYyT05DQTVPTVBodWFPNkFZXzQifQ%3D%3D"
+    },
+    {
+      "question": "Is pumpkin good for diabetes and high blood pressure?",
+      "snippet": "P is for potassium To help decrease your blood pressure, try eating pumpkin, which contains potassium that helps to control blood pressure. Potassium also helps with bone health and decreases your risk for diabetes. Around 10% of your daily potassium is found in just a half-cup serving of canned pumpkin.",
+      "title": "9 reasons to add pumpkin to your diet | OSF HealthCare",
+      "date": "Sep 18, 2023",
+      "link": "https://www.osfhealthcare.org/blog/9-reasons-to-add-pumpkin/#:~:text=P%20is%20for%20potassium&text=To%20help%20decrease%20your%20blood,cup%20serving%20of%20canned%20pumpkin.",
+      "source_logo": "https://serpapi.com/searches/670a2a4898d8debb93ded7ba/images/ddad6e282b63da2c98a9d175aeb35b967fa5539feede556647d32a1b70450876.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU5XdHdja2hKU2tnNFJtNUNWbVowWW1SbGJFdHdUSEJ0YkZOMVVrTkxjelp5WTBWSWMzbFRhbmh5VlVoMmRHaGFXa3RzUzA4elgzQnJXSGwxTjA4eFgxWlJZbXByRWhkVFEyOUxXamhtTWs5T1EwRTFUMDFRYUhWaFR6WkJXUm9pUVVaWWNrVmpjSFJTVlV4SVFrcHBUemRVY1ZnM1kwTjZhelZTUjJVNU5IZDFkdyIsImZjdiI6IjMiLCJlaSI6IlNDb0taOGYyT05DQTVPTVBodWFPNkFZIiwicWMiOiJDZ2R3ZFcxd2EybHVFQUI5SFZva1B3IiwicXVlc3Rpb24iOiJJcyBwdW1wa2luIGdvb2QgZm9yIGRpYWJldGVzIGFuZCBoaWdoIGJsb29kIHByZXNzdXJlPyIsImxrIjoiR2pScGN5QndkVzF3YTJsdUlHZHZiMlFnWm05eUlHUnBZV0psZEdWeklHRnVaQ0JvYVdkb0lHSnNiMjlrSUhCeVpYTnpkWEpsIiwiYnMiOiJjNTJPc1FyQ01CQ0djYzNrWmcyQ0I5WVhLT3JpVUJTWE9vbUxjMG92YWJCTlNwTFcwU2Z3Rlh3UTM4VjNNUlZiUjhIcGpydnZfX2pKam9TSmhRMVVkVm1kcFFJRzNOVFNnVFotYlZDZ1kybUJjWEM3Um1NNjZxaWU4WVNRU0E0a1BPWE1BVE1JS1NyazBsblFISkE1cVVRbmo0UEhPcHJUMmVVM1NyWmstalptR20xZnJrU213TTlDTjc3U19SaE5LRzF2YmRBck91eERFRU9XeVRjc3RNNkEtODZaWkNrNnIyVXFnMXlLSE5LaV9WVUdyYTJOTnpfMzBZb3U1Ql9aNGVBRiIsImlkIjoiZmNfU0NvS1o4ZjJPTkNBNU9NUGh1YU82QVlfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU5XdHdja2hKU2tnNFJtNUNWbVowWW1SbGJFdHdUSEJ0YkZOMVVrTkxjelp5WTBWSWMzbFRhbmh5VlVoMmRHaGFXa3RzUzA4elgzQnJXSGwxTjA4eFgxWlJZbXByRWhkVFEyOUxXamhtTWs5T1EwRTFUMDFRYUhWaFR6WkJXUm9pUVVaWWNrVmpjSFJTVlV4SVFrcHBUemRVY1ZnM1kwTjZhelZTUjJVNU5IZDFkdyIsImZjdiI6IjMiLCJlaSI6IlNDb0taOGYyT05DQTVPTVBodWFPNkFZIiwicWMiOiJDZ2R3ZFcxd2EybHVFQUI5SFZva1B3IiwicXVlc3Rpb24iOiJJcyBwdW1wa2luIGdvb2QgZm9yIGRpYWJldGVzIGFuZCBoaWdoIGJsb29kIHByZXNzdXJlPyIsImxrIjoiR2pScGN5QndkVzF3YTJsdUlHZHZiMlFnWm05eUlHUnBZV0psZEdWeklHRnVaQ0JvYVdkb0lHSnNiMjlrSUhCeVpYTnpkWEpsIiwiYnMiOiJjNTJPc1FyQ01CQ0djYzNrWmcyQ0I5WVhLT3JpVUJTWE9vbUxjMG92YWJCTlNwTFcwU2Z3Rlh3UTM4VjNNUlZiUjhIcGpydnZfX2pKam9TSmhRMVVkVm1kcFFJRzNOVFNnVFotYlZDZ1kybUJjWEM3Um1NNjZxaWU4WVNRU0E0a1BPWE1BVE1JS1NyazBsblFISkE1cVVRbmo0UEhPcHJUMmVVM1NyWmstalptR20xZnJrU213TTlDTjc3U19SaE5LRzF2YmRBck91eERFRU9XeVRjc3RNNkEtODZaWkNrNnIyVXFnMXlLSE5LaV9WVUdyYTJOTnpfMzBZb3U1Ql9aNGVBRiIsImlkIjoiZmNfU0NvS1o4ZjJPTkNBNU9NUGh1YU82QVlfNCJ9"
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "Pumpkin | Description, Plant, Types, Scientific Name, & Facts",
+    "link": "https://www.britannica.com/plant/pumpkin#:~:text=pumpkin%2C%20fruit%20of%20certain%20varieties,and%20also%20for%20livestock%20feed.",
+    "displayed_link": "https://www.britannica.com \u203a ... \u203a Earth Sciences",
+    "date": "Sep 29, 2024",
+    "hover_info": [
+      {
+        "text": "Cucurbita pepo",
+        "info": "Cucurbita pepo is a cultivated plant of the genus Cucurbita. It yields varieties of winter squash and pumpkin, but the most widespread varieties belong to the subspecies Cucurbita pepo subsp. pepo, called summer squash.",
+        "title": "Cucurbita pepo - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Cucurbita_pepo",
+        "displayed_link": "https://en.wikipedia.org/wiki/Cucurbita_pepo"
+      },
+      {
+        "text": "C. maxima",
+        "info": "Giant pumpkins are Cucurbita maxima, a different species from the pumpkins used for jack-o'-lanterns or pumpkin pies, which are usually C. pepo.",
+        "title": "Giant pumpkin - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Giant_pumpkin",
+        "displayed_link": "https://en.wikipedia.org/wiki/Giant_pumpkin"
+      },
+      {
+        "text": "gourd family",
+        "info": "Cucurbitaceae, the gourd family of flowering plants, belonging to the order Cucurbitales and containing 98 genera and about 975 species of food and ornamental plants. Members of the family are annual or perennial herbs native to temperate and tropical areas and include cucumbers, gourds, melons, squashes, and pumpkins.",
+        "title": "Cucurbitaceae | Definition, Characteristics, Examples, & Facts",
+        "link": "https://www.britannica.com/plant/Cucurbitaceae",
+        "displayed_link": "https://www.britannica.com/plant/Cucurbitaceae"
+      }
+    ],
+    "snippet": "pumpkin, fruit of certain varieties of squash\u2014such as varieties of Cucurbita pepo, C. moschata, and C. maxima\u2014in the gourd family (Cucurbitaceae), usually characterized by a hard orange rind with distinctive grooves. Pumpkins are commonly grown for human consumption, for decoration, and also for livestock feed.",
+    "snippet_highlighted_words": [
+      "fruit of certain varieties of squash"
+    ],
+    "favicon": "https://serpapi.com/searches/670a2a4898d8debb93ded7ba/images/6bc2993a51b074af032d8dfb5bdc02d942cc7c1dcbff2332.png",
+    "source": "Britannica",
+    "images": [
+      "https://serpapi.com/searches/670a2a4898d8debb93ded7ba/images/6bc2993a51b074afa6ce57a7a9f0d48133cfee5345dbeb51.jpeg",
+      "https://serpapi.com/searches/670a2a4898d8debb93ded7ba/images/6bc2993a51b074afa6ce57a7a9f0d481665e0bcad675f699.jpeg",
+      "https://serpapi.com/searches/670a2a4898d8debb93ded7ba/images/6bc2993a51b074afa6ce57a7a9f0d481635935f474dd5337.jpeg"
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Pumpkin",
+      "link": "https://en.wikipedia.org/wiki/Pumpkin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Pumpkin&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20QFnoECA8QAQ",
+      "displayed_link": "https://en.wikipedia.org/wiki/Pumpkin",
+      "favicon": "https://serpapi.com/searches/670a2a4898d8debb93ded7ba/images/d8f31110de716789bf833b881113f29a05381cdcc54d849c615d2e8781838c80.png",
+      "snippet": "A pumpkin is a cultivated winter squash in the genus Cucurbita. The term is most commonly applied to round, orange-colored squash varieties, though it does ...",
+      "snippet_highlighted_words": [
+        "pumpkin"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Pumpkin seed",
+            "link": "https://en.wikipedia.org/wiki/Pumpkin_seed"
+          },
+          {
+            "title": "Connecticut field pumpkin",
+            "link": "https://en.wikipedia.org/wiki/Connecticut_field_pumpkin"
+          },
+          {
+            "title": "Pumpkin (disambiguation)",
+            "link": "https://en.wikipedia.org/wiki/Pumpkin_(disambiguation)"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Pumpkin\u00ae \u00bb Pet Insurance for Dogs & Cats",
+      "link": "https://www.pumpkin.care/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pumpkin.care/&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20QFnoECA0QAQ",
+      "displayed_link": "https://www.pumpkin.care/",
+      "favicon": "https://serpapi.com/searches/670a2a4898d8debb93ded7ba/images/d8f31110de716789bf833b881113f29a218133647586808acbe11e5d586f913a.png",
+      "snippet": "Pumpkin plans cover physical therapy and prescription food & supplements* for covered conditions \u2013 no extra add-on fees required; No breed or upper age ...",
+      "snippet_highlighted_words": [
+        "Pumpkin"
+      ],
+      "source": "pumpkin.care"
+    },
+    {
+      "position": 3,
+      "title": "Libby's 100% Pure Canned Pumpkin",
+      "link": "https://www.amazon.com/Nestle-LIBBYS-Canned-Pumpkin-Puree/dp/B000Q5I6VO",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/Nestle-LIBBYS-Canned-Pumpkin-Puree/dp/B000Q5I6VO&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20QFnoECEgQAQ",
+      "displayed_link": "https://www.amazon.com/...Pumpkin.../B000Q5I6VO",
+      "favicon": "https://serpapi.com/searches/670a2a4898d8debb93ded7ba/images/d8f31110de716789bf833b881113f29a1ef8cda89fa0d6bd066ee75e94b8eddd.png",
+      "snippet": "100% Pure Pumpkin, nutritionally dense, and good for you. 100% natural. It has no gluten, no GMOs, no artificial flavors, and no preservatives.",
+      "snippet_highlighted_words": [
+        "Pumpkin"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 30,
+            "price": 2.79,
+            "currency": "$"
+          },
+          "extensions": [
+            "4.8(2,426)",
+            "$2.79",
+            "\u200e30",
+            "day returns"
+          ]
+        }
+      },
+      "source": "Amazon.com"
+    },
+    {
+      "position": 4,
+      "title": "Best Pumpkin Puree Recipe - How to Make Homemade ...",
+      "link": "https://www.thepioneerwoman.com/food-cooking/recipes/a11184/make-your-own-pumpkin-puree/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thepioneerwoman.com/food-cooking/recipes/a11184/make-your-own-pumpkin-puree/&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20QFnoECE8QAQ",
+      "displayed_link": "https://www.thepioneerwoman.com \u203a ... \u203a Recipes",
+      "favicon": "https://serpapi.com/searches/670a2a4898d8debb93ded7ba/images/d8f31110de716789bf833b881113f29a859bae40f46c6a439c4278cbc0a1c603.png",
+      "snippet": "Homemade pumpkin puree is shockingly easy to make. This recipe will show you how to prep, roast, and puree pumpkins like a pro. Use it in your holiday pies!",
+      "snippet_highlighted_words": [
+        "pumpkin",
+        "pumpkins"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.7,
+            "hr_min": 1
+          },
+          "extensions": [
+            "4.7(32)",
+            "1 hr 30 min"
+          ]
+        }
+      },
+      "source": "The Pioneer Woman"
+    },
+    {
+      "position": 5,
+      "title": "We grow the pumpkins so you can harvest some amazing ...",
+      "link": "https://maranapumpkinpatch.com/pages/pumpkin-patch",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://maranapumpkinpatch.com/pages/pumpkin-patch&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20QFnoECEcQAQ",
+      "displayed_link": "https://maranapumpkinpatch.com/pages/pumpkin-patch",
+      "favicon": "https://serpapi.com/searches/670a2a4898d8debb93ded7ba/images/d8f31110de716789bf833b881113f29a9d3fa884b28b4f9c33651c4e2e997763.png",
+      "snippet": "October 5TH-27TH 2024 ... We have 50 acres of homegrown pumpkins (courtesy of Post Farms) so you can find your own personal favorite to take home. Walk through ...",
+      "snippet_highlighted_words": [
+        "pumpkins"
+      ],
+      "source": "Marana Pumpkin Patch"
+    },
+    {
+      "position": 6,
+      "title": "Swan's Pumpkin Farm",
+      "link": "https://thepumpkinfarm.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thepumpkinfarm.com/&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20QFnoECE0QAQ",
+      "displayed_link": "https://thepumpkinfarm.com/",
+      "snippet": "Welcome to Swan's Pumpkin Farm, located in scenic Racine County, WI. The premier source for pumpkins, watermelon, and fall fun in Racine.",
+      "snippet_highlighted_words": [
+        "Pumpkin",
+        "pumpkins"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Contact",
+            "link": "https://thepumpkinfarm.com/contact"
+          },
+          {
+            "title": "Watermelons",
+            "link": "https://thepumpkinfarm.com/watermelons"
+          },
+          {
+            "title": "Adventures",
+            "link": "https://thepumpkinfarm.com/adventures"
+          },
+          {
+            "title": "Employment",
+            "link": "https://thepumpkinfarm.com/employment"
+          }
+        ]
+      },
+      "source": "Swan's Pumpkin Farm"
+    },
+    {
+      "position": 7,
+      "title": "Perfect Pumpkin Pie Recipe",
+      "link": "https://www.allrecipes.com/recipe/23439/perfect-pumpkin-pie/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.allrecipes.com/recipe/23439/perfect-pumpkin-pie/&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20QFnoECE4QAQ",
+      "displayed_link": "https://www.allrecipes.com \u203a ... \u203a Pumpkin Pie Recipes",
+      "favicon": "https://serpapi.com/searches/670a2a4898d8debb93ded7ba/images/d8f31110de716789bf833b881113f29a60bc24a5bfb7d11e1f7826998120489e.png",
+      "snippet": "This pumpkin pie recipe makes a smooth and creamy filling with canned pumpkin and sweetened condensed milk for the perfect Thanksgiving dessert.",
+      "snippet_highlighted_words": [
+        "pumpkin",
+        "pumpkin"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Homemade Pumpkin Puree",
+            "link": "https://www.allrecipes.com/recipe/22935/pumpkin-puree/"
+          },
+          {
+            "title": "How to Blind Bake a Pie Crust",
+            "link": "https://www.allrecipes.com/article/how-to-bake-a-pie-crust/"
+          },
+          {
+            "title": "Pie Crusts",
+            "link": "https://www.allrecipes.com/recipes/818/desserts/pies/pie-crusts/"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.7,
+            "hr": 1
+          },
+          "extensions": [
+            "4.7(3,783)",
+            "1 hr"
+          ]
+        }
+      },
+      "source": "Allrecipes"
+    },
+    {
+      "position": 8,
+      "title": "Pumpkin, raw - FoodData Central - USDA",
+      "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/168448/nutrients",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fdc.nal.usda.gov/fdc-app.html%23/food-details/168448/nutrients&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20QFnoECEoQAQ",
+      "displayed_link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/...",
+      "favicon": "https://serpapi.com/searches/670a2a4898d8debb93ded7ba/images/d8f31110de716789bf833b881113f29a7ae530a5caa5f4ac050e6162095a0125.png",
+      "snippet": "Pumpkin, raw ; Carbohydrate, by difference, 6.5, g ; Fiber, total dietary, 0.5, g ; Total Sugars, 2.76, g ; Calcium, Ca, 21, mg.",
+      "snippet_highlighted_words": [
+        "Pumpkin"
+      ],
+      "source": "USDA FoodData Central (.gov)"
+    },
+    {
+      "position": 9,
+      "title": "Easy Pumpkin Puree Recipe",
+      "link": "https://www.inspiredtaste.net/35527/easy-pumpkin-puree-recipe/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.inspiredtaste.net/35527/easy-pumpkin-puree-recipe/&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20QFnoECFAQAQ",
+      "displayed_link": "https://www.inspiredtaste.net/.../easy-pumpkin-puree-re...",
+      "favicon": "https://serpapi.com/searches/670a2a4898d8debb93ded7ba/images/d8f31110de716789bf833b881113f29ad3d7ac6f9b7e2516ebc4cc16c999ba1b.png",
+      "snippet": "My easy pumpkin puree recipe requires 2 ingredients, one of which is salt, which is technically optional! For the best pumpkin puree, roast your pumpkins.",
+      "snippet_highlighted_words": [
+        "pumpkin",
+        "pumpkin",
+        "pumpkins"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Pumpkin Recipes",
+            "link": "https://www.inspiredtaste.net/category/recipes/pumpkin-recipes/"
+          },
+          {
+            "title": "Easy Pumpkin Pie",
+            "link": "https://www.inspiredtaste.net/24962/pumpkin-pie-recipe/"
+          },
+          {
+            "title": "Easy Pumpkin Cupcakes",
+            "link": "https://www.inspiredtaste.net/18010/pumpkin-cupcakes-recipe/"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "hr": 1
+          },
+          "extensions": [
+            "5.0(27)",
+            "1 hr"
+          ]
+        }
+      },
+      "source": "Inspired Taste"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&tbs=lf:1,lf_ui:2&tbm=lcl&q=pumpkin&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20QjGp6BAg8EAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pumpkin&tbs=lf%3A1%2Clf_ui%3A2&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Pumpkin drawing",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Pumpkin+drawing&sa=X&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20Q1QJ6BAh4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pumpkin+drawing"
+    },
+    {
+      "block_position": 1,
+      "query": "Pumpkin Halloween",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Pumpkin+Halloween&sa=X&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20Q1QJ6BAh5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pumpkin+Halloween"
+    },
+    {
+      "block_position": 1,
+      "query": "Pumpkin recipes",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Pumpkin+recipes&sa=X&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20Q1QJ6BAh9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pumpkin+recipes"
+    },
+    {
+      "block_position": 1,
+      "query": "Pumpkin cartoon",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Pumpkin+cartoon&sa=X&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20Q1QJ6BAh6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pumpkin+cartoon"
+    },
+    {
+      "block_position": 1,
+      "query": "Pumpkin plant",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Pumpkin+plant&sa=X&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20Q1QJ6BAh-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pumpkin+plant"
+    },
+    {
+      "block_position": 1,
+      "query": "Pumpkin patch",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Pumpkin+patch&sa=X&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20Q1QJ6BAh8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pumpkin+patch"
+    },
+    {
+      "block_position": 1,
+      "query": "Pumpkin Green",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Pumpkin+Green&sa=X&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20Q1QJ6BAh3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pumpkin+Green"
+    },
+    {
+      "block_position": 1,
+      "query": "Pumpkin benefits",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Pumpkin+benefits&sa=X&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20Q1QJ6BAh7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pumpkin+benefits"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=pumpkin&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=SCoKZ8f2ONCA5OMPhuaO6AY&start=10&sa=N&sstk=AagrsujSFGosBnXuAj5eOaHzu9dfZoOziaAQ7XyhF_G8n-Qd5wJ10SbjJIm3YafBKNWozmKGFsrD4o5QSPTDjINV8qedszJa3IWm_w&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20Q8NMDegQIBRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=pumpkin&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=SCoKZ8f2ONCA5OMPhuaO6AY&start=10&sa=N&sstk=AagrsujSFGosBnXuAj5eOaHzu9dfZoOziaAQ7XyhF_G8n-Qd5wJ10SbjJIm3YafBKNWozmKGFsrD4o5QSPTDjINV8qedszJa3IWm_w&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20Q8tMDegQIBRAE",
+      "3": "https://www.google.com/search?q=pumpkin&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=SCoKZ8f2ONCA5OMPhuaO6AY&start=20&sa=N&sstk=AagrsujSFGosBnXuAj5eOaHzu9dfZoOziaAQ7XyhF_G8n-Qd5wJ10SbjJIm3YafBKNWozmKGFsrD4o5QSPTDjINV8qedszJa3IWm_w&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20Q8tMDegQIBRAG",
+      "4": "https://www.google.com/search?q=pumpkin&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=SCoKZ8f2ONCA5OMPhuaO6AY&start=30&sa=N&sstk=AagrsujSFGosBnXuAj5eOaHzu9dfZoOziaAQ7XyhF_G8n-Qd5wJ10SbjJIm3YafBKNWozmKGFsrD4o5QSPTDjINV8qedszJa3IWm_w&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20Q8tMDegQIBRAI",
+      "5": "https://www.google.com/search?q=pumpkin&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=SCoKZ8f2ONCA5OMPhuaO6AY&start=40&sa=N&sstk=AagrsujSFGosBnXuAj5eOaHzu9dfZoOziaAQ7XyhF_G8n-Qd5wJ10SbjJIm3YafBKNWozmKGFsrD4o5QSPTDjINV8qedszJa3IWm_w&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20Q8tMDegQIBRAK",
+      "6": "https://www.google.com/search?q=pumpkin&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=SCoKZ8f2ONCA5OMPhuaO6AY&start=50&sa=N&sstk=AagrsujSFGosBnXuAj5eOaHzu9dfZoOziaAQ7XyhF_G8n-Qd5wJ10SbjJIm3YafBKNWozmKGFsrD4o5QSPTDjINV8qedszJa3IWm_w&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20Q8tMDegQIBRAM",
+      "7": "https://www.google.com/search?q=pumpkin&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=SCoKZ8f2ONCA5OMPhuaO6AY&start=60&sa=N&sstk=AagrsujSFGosBnXuAj5eOaHzu9dfZoOziaAQ7XyhF_G8n-Qd5wJ10SbjJIm3YafBKNWozmKGFsrD4o5QSPTDjINV8qedszJa3IWm_w&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20Q8tMDegQIBRAO",
+      "8": "https://www.google.com/search?q=pumpkin&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=SCoKZ8f2ONCA5OMPhuaO6AY&start=70&sa=N&sstk=AagrsujSFGosBnXuAj5eOaHzu9dfZoOziaAQ7XyhF_G8n-Qd5wJ10SbjJIm3YafBKNWozmKGFsrD4o5QSPTDjINV8qedszJa3IWm_w&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20Q8tMDegQIBRAQ",
+      "9": "https://www.google.com/search?q=pumpkin&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=SCoKZ8f2ONCA5OMPhuaO6AY&start=80&sa=N&sstk=AagrsujSFGosBnXuAj5eOaHzu9dfZoOziaAQ7XyhF_G8n-Qd5wJ10SbjJIm3YafBKNWozmKGFsrD4o5QSPTDjINV8qedszJa3IWm_w&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20Q8tMDegQIBRAS",
+      "10": "https://www.google.com/search?q=pumpkin&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=SCoKZ8f2ONCA5OMPhuaO6AY&start=90&sa=N&sstk=AagrsujSFGosBnXuAj5eOaHzu9dfZoOziaAQ7XyhF_G8n-Qd5wJ10SbjJIm3YafBKNWozmKGFsrD4o5QSPTDjINV8qedszJa3IWm_w&ved=2ahUKEwjHut3drYiJAxVQAHkGHQazA20Q8tMDegQIBRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pumpkin&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pumpkin&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pumpkin&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pumpkin&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pumpkin&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pumpkin&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pumpkin&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pumpkin&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pumpkin&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pumpkin&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pumpkin&start=90"
+    }
+  }
+}

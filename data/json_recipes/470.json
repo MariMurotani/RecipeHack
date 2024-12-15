@@ -1,0 +1,830 @@
+{
+  "search_metadata": {
+    "id": "670a2c92a3657ac8d175dc59",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ac2115b8c6b30b1a/670a2c92a3657ac8d175dc59.json",
+    "created_at": "2024-10-12 08:00:18 UTC",
+    "processed_at": "2024-10-12 08:00:18 UTC",
+    "google_url": "https://www.google.com/search?q=red+rice&oq=red+rice&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/ac2115b8c6b30b1a/670a2c92a3657ac8d175dc59.html",
+    "total_time_taken": 1.36
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "red rice",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "red rice",
+    "total_results": 1500000000,
+    "time_taken_displayed": 0.31,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "recipes_results": [
+    {
+      "title": "Charleston Red Rice",
+      "link": "https://www.allrecipes.com/recipe/214070/charleston-red-rice/",
+      "source": "Allrecipes",
+      "rating": 4.0,
+      "reviews": 47,
+      "total_time": "1 hr 20 min",
+      "ingredients": [
+        "Bacon",
+        "tomato sauce",
+        "grain white rice",
+        "tomato paste",
+        "worcestershire sauce"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/f5a2b30671a5789d7e31845ec35fed5f681cbde3a4d5bff80d06375a9b879b4f.jpeg"
+    },
+    {
+      "title": "Mexican Red Rice",
+      "link": "https://www.recipetineats.com/mexican-red-rice/",
+      "source": "RecipeTin Eats",
+      "rating": 5.0,
+      "reviews": 79,
+      "total_time": "18 min",
+      "ingredients": [
+        "Grain white rice",
+        "tomato paste",
+        "olive oil",
+        "cilantro",
+        "vegetable broth"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/f5a2b30671a5789d7e31845ec35fed5f8f80bde1b129d0c0993a3f7cd63fefea.jpeg"
+    },
+    {
+      "title": "Charleston Red Rice",
+      "link": "https://www.theseasonedmom.com/red-rice/",
+      "source": "The Seasoned Mom",
+      "rating": 5.0,
+      "reviews": 6,
+      "total_time": "1 hr",
+      "ingredients": [
+        "Bacon",
+        "grain white rice",
+        "tomato paste",
+        "garlic",
+        "sugar"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/f5a2b30671a5789d7e31845ec35fed5f0ef057b7499a5d80aa91b30dce391c63.jpeg"
+    }
+  ],
+  "knowledge_graph": {
+    "title": "Charleston red rice",
+    "type": "Dish",
+    "entity_type": "food, foods_and_dishes",
+    "kgmid": "/m/09k4mjy",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/09k4mjy&hl=en-US&q=Charleston+red+rice",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F09k4mjy&location=Austin%2CTexas%2CUnited+States&q=Charleston+red+rice",
+    "image": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/56da791f0301ed2c06e871c4029c615e3b150646c1deb52b.jpeg",
+    "description": "Charleston red rice or Savannah red rice is a rice dish commonly found along the Southeastern coastal regions of Georgia and South Carolina, known simply as red rice by natives of the region. This traditional meal was brought to the U.S. by enslaved Africans from the West Coast of Africa.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Charleston_red_rice"
+    }
+  },
+  "inline_images": [
+    {
+      "source": "https://www.recipetineats.com/mexican-red-rice/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqvp5MkuZFhDOalwrvcp6p-rE-BsxrtobRuGyN_jT5g1Nd_h0FfozIwLo&s",
+      "original": "https://www.recipetineats.com/tachyon/2017/10/Mexican-Red-Rice_-2.jpg",
+      "title": "Mexican Red Rice",
+      "source_name": "RecipeTin Eats"
+    },
+    {
+      "source": "https://flouredframe.com/chamoru-red-rice/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgPC_W16y5Xv2Bb0MwaiZFpEbJ-zlZVkMvZjgJ2Ac8YuEcP5IrARueIAU&s",
+      "original": "https://flouredframe.com/wp-content/uploads/2020/12/chamoru-red-rice-ft-image-1200x1200-1-480x270.jpg",
+      "title": "Chamoru Red Rice",
+      "source_name": "Floured Frame"
+    },
+    {
+      "source": "https://www.thetasteofkosher.com/israeli-red-rice/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3yZ7ba-7ZDR6WTsmCjPTlJYny46Q0TGOY7bTqTdgI9WTogG9q5-gJ75Q&s",
+      "original": "https://www.thetasteofkosher.com/wp-content/uploads/2018/10/Israeli_red_rice.jpg.webp",
+      "title": "Israeli Red Rice",
+      "source_name": "The Taste of Kosher"
+    },
+    {
+      "source": "https://www.allrecipes.com/recipe/221433/arroz-rojo-mexican-red-rice/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa04rHN6wTMky-7L6BRrmexutbweHBYVaosxgNfTjH7I4Yxv0k7pnoOvs&s",
+      "original": "https://www.allrecipes.com/thmb/uxhLIrbMA8oVJzrfBaFQmH0xP1o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2264124-arroz-rojo-mexican-red-rice-naples34102-4x3-1-492c3cb8ce1649f8a322c92a8427919d.jpg",
+      "title": "Arroz Rojo (Mexican Red Rice)",
+      "source_name": "Allrecipes"
+    },
+    {
+      "source": "https://www.theseasonedmom.com/red-rice/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNHlQRuH54sskYTXaoHa2MkZUNSTAH1M3SWtMlUGfqc5Sy92E8q1ouWQ4&s",
+      "original": "https://www.theseasonedmom.com/wp-content/uploads/2024/07/red-rice-recipe-11.jpg",
+      "title": "Charleston Red Rice",
+      "source_name": "The Seasoned Mom"
+    },
+    {
+      "source": "https://compassandfork.com/recipe/what-is-red-rice-why-famous-food-bhutan/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNfQr80TXVn-S-CCsC3-UhC1WFWThuJwNXct8_nlgZgtVCKwDrgzw1q_4&s",
+      "original": "https://www.compassandfork.com/wp-content/uploads/2017/04/What-is-Red-Rice-and-Why-it-is-a-Famous-Food-of-Bhutan-Serving-2.jpg",
+      "title": "What is Red Rice and Why it is a Famous Food of Bhutan",
+      "source_name": "Compass & Fork"
+    },
+    {
+      "source": "https://www.allrecipes.com/recipe/214070/charleston-red-rice/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv8udX9YO2hXFVju8ncKHknPnD0jb1AjMtytm3HvfFz-ef_-hyrT3sZNo&s",
+      "original": "https://www.allrecipes.com/thmb/6Tt7GrWcbRlJUa2NKTIPnG11loE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/214070charleston-red-riceCookingwithShelia4x3-61419501b2cd4868af473d79a17cf265.jpg",
+      "title": "Charleston Red Rice",
+      "source_name": "Allrecipes"
+    },
+    {
+      "source": "https://cookingwithlibby.com/red-rice-recipes-from-gua/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQizt2z_xJCkDx-P1aCziLa7I-16Scw2AkeIzlGQIItVkXTVISwB1R7GZc&s",
+      "original": "https://cookingwithlibby.com/wp-content/uploads/2014/03/Red-Rice-3.jpg",
+      "title": "Red Rice",
+      "source_name": "Cooking With Libby"
+    },
+    {
+      "source": "https://lolascocina.com/mexican-red-rice/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt6ZhUTEL3OeIeFUeghdxllWGe8wtee2LvjO4IHPudFo_3vQmuwDhpsvg&s",
+      "original": "https://lolascocina.com/wp-content/uploads/2014/02/2024.05.01-Arroz-Rojo-Mexican-Red-Rice-WEB-21-500x500.jpg",
+      "title": "Arroz Rojo - BEST Mexican Red Rice Recipe",
+      "source_name": "Lola's Cocina"
+    },
+    {
+      "source": "https://www.chilipeppermadness.com/recipes/red-rice/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3ZSZjYKUxh8Yyo_NJ49cGyOHsJnXk9qHpxCPERp6shGrgqBUnTAaetWY&s",
+      "original": "https://www.chilipeppermadness.com/wp-content/uploads/2023/02/Red-Rice-Recipe1.jpg",
+      "title": "Charleston Red Rice Recipe",
+      "source_name": "Chili Pepper Madness"
+    },
+    {
+      "source": "https://www.washingtonpost.com/recipes/red-rice/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKQxMV9cFXob-OZaiAniU8KfoxM7gLFJBgl9J2EoZcWzxkL1kBsUy8S28&s",
+      "original": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CLQZW2E3CUI6ZGMHTXHO4YVD6Y.jpg",
+      "title": "Red Rice",
+      "source_name": "The Washington Post"
+    },
+    {
+      "source": "https://thehiddenveggies.com/vegan-red-rice/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzgDgx5UnNhWgMSYWyrqbpA-1fGv3lpSsNB4sSiernagecJ9yCfuNOBZI&s",
+      "original": "https://thehiddenveggies.com/wp-content/uploads/2022/07/vegan-red-rice-process-sq.jpg",
+      "title": "Vegan Red Rice",
+      "source_name": "The Hidden Veggies"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/ce05c3e3df72321977923c6a31ce42dbd990235046ed7977e6df057723e89095.webp",
+      "source_logo": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/ce05c3e3df72321977923c6a31ce42db6d69526156a0df6aef204f0b6b6ba4d4c5d311df868fa5e6.png",
+      "source": "Amazon",
+      "title": "Food to Live Red Rice Whole Long-Grain Rice, Nutty Flavor, Soft Texture, Non-Sticky, Vegan. Good Source of Protein and Antioxidants",
+      "rating": 5.0,
+      "reviews": 6,
+      "price": "$8.49",
+      "extracted_price": 8.49,
+      "immersive_product_page_token": "eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA2MzMwMzA2MjM5MzQ2NTU1NTIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjUzNDc1MTE0OTc1MDcwNDc1MyIsImltYWdlRG9jaWQiOiIxMTI2MzY2MjY2MDA4MTEyNzc2OSIsInJkcyI6IlBDXzI2NTQxNTA2NjYzMjc3MzA5NzR8UFJPRF9QQ18yNjU0MTUwNjY2MzI3NzMwOTc0IiwicXVlcnkiOiJyZWQrcmljZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA2MzMwMzA2MjM5MzQ2NTU1NTIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjUzNDc1MTE0OTc1MDcwNDc1MyIsImltYWdlRG9jaWQiOiIxMTI2MzY2MjY2MDA4MTEyNzc2OSIsInJkcyI6IlBDXzI2NTQxNTA2NjYzMjc3MzA5NzR8UFJPRF9QQ18yNjU0MTUwNjY2MzI3NzMwOTc0IiwicXVlcnkiOiJyZWQrcmljZSJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/ce05c3e3df72321977923c6a31ce42dbf4eb6d07bbc4b9125fbfa87fd28c4ad9.webp",
+      "source_logo": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/ce05c3e3df72321977923c6a31ce42dbb0233daab8fee337acd93f503700658bdf08d1d9088282ca.png",
+      "source": "Aneka Market",
+      "title": "Asian Best Premium Red Rice",
+      "price": "$9.95",
+      "extracted_price": 9.95,
+      "immersive_product_page_token": "eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc1NzEzOTQ3NjY1MTQyOTMxMjYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijc0MDg0NzExNjAwNzI3OTc4NSIsImltYWdlRG9jaWQiOiIxMTY3MzE0MTk1MDU5NzA5OTI5MiIsInJkcyI6IiIsInF1ZXJ5IjoicmVkK3JpY2UifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc1NzEzOTQ3NjY1MTQyOTMxMjYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijc0MDg0NzExNjAwNzI3OTc4NSIsImltYWdlRG9jaWQiOiIxMTY3MzE0MTk1MDU5NzA5OTI5MiIsInJkcyI6IiIsInF1ZXJ5IjoicmVkK3JpY2UifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/ce05c3e3df72321977923c6a31ce42db4a0602e83928a249d236471cf1e5df1e.webp",
+      "source_logo": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/ce05c3e3df72321977923c6a31ce42dbbd90d76f93246b98296910799520f2c31f59bd15a2ea70a8.png",
+      "source": "Uber Eats",
+      "title": "Lotus Foods Organic Red Rice",
+      "rating": 4.9,
+      "reviews": 34,
+      "price": "$5.29",
+      "extracted_price": 5.29,
+      "delivery": "Get it by 10/12",
+      "immersive_product_page_token": "eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI3MDIxNTU0NzEwNDY2OTI2NTciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjMyMDQ1OTYxNTIwNzI4MTgyMDUiLCJpbWFnZURvY2lkIjoiNjI5ODQ1NjI5MjA3NzQ0MzMwOCIsInJkcyI6IlBDXzg4NDYwMzE5MjYyMzAyMDg2MTV8UFJPRF9QQ184ODQ2MDMxOTI2MjMwMjA4NjE1IiwicXVlcnkiOiJyZWQrcmljZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI3MDIxNTU0NzEwNDY2OTI2NTciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjMyMDQ1OTYxNTIwNzI4MTgyMDUiLCJpbWFnZURvY2lkIjoiNjI5ODQ1NjI5MjA3NzQ0MzMwOCIsInJkcyI6IlBDXzg4NDYwMzE5MjYyMzAyMDg2MTV8UFJPRF9QQ184ODQ2MDMxOTI2MjMwMjA4NjE1IiwicXVlcnkiOiJyZWQrcmljZSJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/ce05c3e3df72321977923c6a31ce42db76eb0d697b25557b0eab8bd9af5507b1.webp",
+      "source_logo": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/ce05c3e3df72321977923c6a31ce42dbfbf9f53f0c07caa2fa94525e7950cce7746bbe2f461e0e53.png",
+      "source": "Lundberg Family Farms",
+      "title": "lundberg Family Farms Organic California Red Jasmine Rice",
+      "rating": 4.7,
+      "reviews": 65,
+      "price": "$5.99",
+      "extracted_price": 5.99,
+      "immersive_product_page_token": "eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjE5MTc1ODY4ODUwOTYzNjc3IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDI5MjYxOTI1MTE3OTYxMzg5OSIsImltYWdlRG9jaWQiOiI0MDA0NTg1NzQwNjM0OTc2Njg2IiwicmRzIjoiUENfOTc1MTk2NzUwMzkwMDI0NTc2MnxQUk9EX1BDXzk3NTE5Njc1MDM5MDAyNDU3NjIiLCJxdWVyeSI6InJlZCtyaWNlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjE5MTc1ODY4ODUwOTYzNjc3IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDI5MjYxOTI1MTE3OTYxMzg5OSIsImltYWdlRG9jaWQiOiI0MDA0NTg1NzQwNjM0OTc2Njg2IiwicmRzIjoiUENfOTc1MTk2NzUwMzkwMDI0NTc2MnxQUk9EX1BDXzk3NTE5Njc1MDM5MDAyNDU3NjIiLCJxdWVyeSI6InJlZCtyaWNlIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/ce05c3e3df72321977923c6a31ce42db966297bd1e0084dcb99944eb2e3377a3.webp",
+      "source_logo": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/ce05c3e3df72321977923c6a31ce42db2eee18abc7f7eacca3f47cc6f533b93e83a20c24b24dad15.png",
+      "source": "Walmart - Food To Live",
+      "title": "Food to Live Organic Red Rice",
+      "rating": 4.8,
+      "reviews": 16,
+      "price": "$8.19",
+      "extracted_price": 8.19,
+      "immersive_product_page_token": "eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzMzNjU3NDQxMzI3MjgwOTE3OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTUxOTQxOTE3NzExNTQwNzA2MjEiLCJpbWFnZURvY2lkIjoiMjMwMzUxMTYwNDQ5OTU2NTQiLCJyZHMiOiJQQ18xMDk1MDg5ODM1NDkwODU5OTEyN3xQUk9EX1BDXzEwOTUwODk4MzU0OTA4NTk5MTI3IiwicXVlcnkiOiJyZWQrcmljZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzMzNjU3NDQxMzI3MjgwOTE3OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTUxOTQxOTE3NzExNTQwNzA2MjEiLCJpbWFnZURvY2lkIjoiMjMwMzUxMTYwNDQ5OTU2NTQiLCJyZHMiOiJQQ18xMDk1MDg5ODM1NDkwODU5OTEyN3xQUk9EX1BDXzEwOTUwODk4MzU0OTA4NTk5MTI3IiwicXVlcnkiOiJyZWQrcmljZSJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/ce05c3e3df72321977923c6a31ce42dba23ced8f260452d81f28b836d6f57c9e.webp",
+      "source_logo": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/ce05c3e3df72321977923c6a31ce42dbb8e498ce6e40fa65b5fb86ccade039556a49a05e09ab5bb6.png",
+      "source": "Amazon.com - Seller",
+      "title": "Ralston Family Farms Red Rice",
+      "price": "$10.98",
+      "extracted_price": 10.98,
+      "immersive_product_page_token": "eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTcwNDMyNzUwOTE1MTA4NjQ0NTAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjI0MTQyMzQyMzg0OTU2MjQzNDciLCJpbWFnZURvY2lkIjoiODk3MjkxOTI5MTk3Njk2MzQ5OSIsInJkcyI6IiIsInF1ZXJ5IjoicmVkK3JpY2UifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTcwNDMyNzUwOTE1MTA4NjQ0NTAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjI0MTQyMzQyMzg0OTU2MjQzNDciLCJpbWFnZURvY2lkIjoiODk3MjkxOTI5MTk3Njk2MzQ5OSIsInJkcyI6IiIsInF1ZXJ5IjoicmVkK3JpY2UifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/ce05c3e3df72321977923c6a31ce42db8b9aea93858ed731b7d2092ecd36fb72.webp",
+      "source_logo": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/ce05c3e3df72321977923c6a31ce42dbc6f4298188c96fcbff67bccc0ef0f3e353dcf7a9277ed05f.png",
+      "source": "Ashery Country Store",
+      "title": "Red Rice",
+      "price": "$6.59",
+      "extracted_price": 6.59,
+      "immersive_product_page_token": "eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiMTM4NzUwMzEyMzgxMzAxODk4NTMiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzODc1MDMxMjM4MTMwMTg5ODUzIiwiaW1hZ2VEb2NpZCI6IjEzNjE1MzMyMzY2NTY1Nzc1OTU5IiwicmRzIjoiIiwicXVlcnkiOiJyZWQrcmljZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiMTM4NzUwMzEyMzgxMzAxODk4NTMiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzODc1MDMxMjM4MTMwMTg5ODUzIiwiaW1hZ2VEb2NpZCI6IjEzNjE1MzMyMzY2NTY1Nzc1OTU5IiwicmRzIjoiIiwicXVlcnkiOiJyZWQrcmljZSJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/ce05c3e3df72321977923c6a31ce42db2713f74723b2df8b1a682d15e60f479d.webp",
+      "source_logo": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/ce05c3e3df72321977923c6a31ce42db469e5086096d7019b5aecda88f737263bae9e65789c0b2d6.png",
+      "source": "Mantra Bazaar",
+      "title": "24 Mantra Organic Red Rice",
+      "price": "$9.99",
+      "extracted_price": 9.99,
+      "original_price": "Usually $13",
+      "extracted_original_price": 13,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzI0Mzg0OTQzOTE1MDI3NTY5OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzc4MzAwNDgwMjUxOTE1MDgyOSIsImltYWdlRG9jaWQiOiIxNTgyODc2MzM1MzUwNDEzMzExMyIsInJkcyI6IiIsInF1ZXJ5IjoicmVkK3JpY2UifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzI0Mzg0OTQzOTE1MDI3NTY5OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzc4MzAwNDgwMjUxOTE1MDgyOSIsImltYWdlRG9jaWQiOiIxNTgyODc2MzM1MzUwNDEzMzExMyIsInJkcyI6IiIsInF1ZXJ5IjoicmVkK3JpY2UifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTrpUlF_PzoxtQPJLUpN3aUJVvtVU5Nnk1COXcBnLkm9sI9kDC5-Ei405roX__kszlWSC8wQqMrGv5cv8qazVSLIggR1gSb1Ypdhq3ijtW8n9LH-NufekJI9Q",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSgXtkxXVWHN8-c_VelcVtxHFVLIqHkpormcs9h0vxdUry6i_eWbdxtl7JtrLUQBrgB91mX-8LtlAI1zkHHifC5su5_KSpV",
+      "source": "Giant Food",
+      "title": "Lotus Foods Organic Red Rice Gluten Free",
+      "rating": 4.9,
+      "reviews": 34,
+      "price": "$4.99",
+      "extracted_price": 4.99,
+      "immersive_product_page_token": "eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiNDc0MDQ2ODQ1MzQ4NDUyMTE2MSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDc0MDQ2ODQ1MzQ4NDUyMTE2MSIsImltYWdlRG9jaWQiOiIxMDI5MDczNDM0ODg5NjMxNTE1MCIsInJkcyI6IlBDXzg4NDYwMzE5MjYyMzAyMDg2MTV8UFJPRF9QQ184ODQ2MDMxOTI2MjMwMjA4NjE1IiwicXVlcnkiOiJyZWQrcmljZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiNDc0MDQ2ODQ1MzQ4NDUyMTE2MSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDc0MDQ2ODQ1MzQ4NDUyMTE2MSIsImltYWdlRG9jaWQiOiIxMDI5MDczNDM0ODg5NjMxNTE1MCIsInJkcyI6IlBDXzg4NDYwMzE5MjYyMzAyMDg2MTV8UFJPRF9QQ184ODQ2MDMxOTI2MjMwMjA4NjE1IiwicXVlcnkiOiJyZWQrcmljZSJ9"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRT3G9FkjvlPPVwROIFe_T_xS5rhhb7hbJ_vNZoeK-cPj0aFlr1FrsSZ4t6iPhxDlSFr-e5jvc2m3r4cNALpfnJEvbusNG6j6sMPLGVmxXReP3W9z4X30x1Qw",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQJabgWQBlkSDxJ_H3BSR1_MjhAn_AL94NzNCLnV5gdJc5X0-iNHBqnMzcTqf15NRM_VrJyfvyFeN28QtS6YmzMQkMl0A",
+      "source": "Walmart",
+      "title": "Kerala Matta Rice Single Boiled Palakkadan Red Rice Export Quality Double Horse 5KG",
+      "rating": 4.6,
+      "reviews": 5,
+      "price": "$49.99",
+      "extracted_price": 49.99,
+      "immersive_product_page_token": "eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiMTI0MzI0NzcyNDIxOTU2NDI4MjEiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyNDMyNDc3MjQyMTk1NjQyODIxIiwiaW1hZ2VEb2NpZCI6IjUxNjg2NDEwOTg3MjM3Nzc1NjUiLCJyZHMiOiJQQ182NzcwNjk0NTkzMzc2NTA0MzA4fFBST0RfUENfNjc3MDY5NDU5MzM3NjUwNDMwOCIsInF1ZXJ5IjoicmVkK3JpY2UifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiMTI0MzI0NzcyNDIxOTU2NDI4MjEiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyNDMyNDc3MjQyMTk1NjQyODIxIiwiaW1hZ2VEb2NpZCI6IjUxNjg2NDEwOTg3MjM3Nzc1NjUiLCJyZHMiOiJQQ182NzcwNjk0NTkzMzc2NTA0MzA4fFBST0RfUENfNjc3MDY5NDU5MzM3NjUwNDMwOCIsInF1ZXJ5IjoicmVkK3JpY2UifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR6fVumHkJ4VVztO12RcDftWgl8ECyCU_q6RtNyIvE2hKJu7rn35dcyeZmfTK7G2WwBvRa8NC6TA_Dl5Oodp6Mb1QcbWs2PpwwdnoLPM-mmmXy_mGQS4yqy",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+      "source": "Amazon.com - Seller",
+      "title": "Dragonfly Red Rice",
+      "rating": 4.3,
+      "reviews": 6,
+      "price": "$20.84",
+      "extracted_price": 20.84,
+      "immersive_product_page_token": "eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU4NjI3Mzk3OTU2MzkwMDE5NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTIxNzU0MzAwMDE3MjY2MzAzMCIsImltYWdlRG9jaWQiOiI4NDQyNzgyOTMwNjM4OTk0MDc3IiwicmRzIjoiUENfMTQ5MzkwNjMwMzU4NjI5NDI4OTN8UFJPRF9QQ18xNDkzOTA2MzAzNTg2Mjk0Mjg5MyIsInF1ZXJ5IjoicmVkK3JpY2UifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU4NjI3Mzk3OTU2MzkwMDE5NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTIxNzU0MzAwMDE3MjY2MzAzMCIsImltYWdlRG9jaWQiOiI4NDQyNzgyOTMwNjM4OTk0MDc3IiwicmRzIjoiUENfMTQ5MzkwNjMwMzU4NjI5NDI4OTN8UFJPRF9QQ18xNDkzOTA2MzAzNTg2Mjk0Mjg5MyIsInF1ZXJ5IjoicmVkK3JpY2UifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcScSSTCLQ7sJa-fvTdnRYvsAVuX7HCmYANvchQuOogFiKRy4p_KU6OUuMRDL1-mzhDfOUeN-KBAKkyIyD8DWyjW5AkaxZqNVYAKQI5wFQ-RkugBtXhkd1Ka_Q",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSh6F3eWkTR20H_pLno4XVYJZmEJGomUupqdAnc6V6crQbgajIiIP_ZsBxgp0SyLBg9vf6NCmeO3VjqUCxLHA_uU8BLaCQH",
+      "source": "SubziCart.com",
+      "title": "Jiva Organic Red Rice 10 Pounds",
+      "price": "$19.29",
+      "extracted_price": 19.29,
+      "delivery": "Free $120+",
+      "immersive_product_page_token": "eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQzMzQ4NDQxODAzMTM4Mzg1NDciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMDA4MTMzMTY3NTkxNTY1MTIzIiwiaW1hZ2VEb2NpZCI6IjQ2NTYzMDQwNzc1NjU1NzMyNjgiLCJyZHMiOiIiLCJxdWVyeSI6InJlZCtyaWNlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQzMzQ4NDQxODAzMTM4Mzg1NDciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwMDA4MTMzMTY3NTkxNTY1MTIzIiwiaW1hZ2VEb2NpZCI6IjQ2NTYzMDQwNzc1NjU1NzMyNjgiLCJyZHMiOiIiLCJxdWVyeSI6InJlZCtyaWNlIn0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTvZ4zhWkk8HN-4IYvWU6BsGDySmO-E3QA0dhM-_q0hy86Q5YKJFmkxAKWDLfM8liC28IoyFI5-jKwXLGz0FdTD1sqwaaywJScwSWzKT-MknOrEjmmTJjSLJg",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTBbdPyQMfyCPqlILncTJJ6LLPcI41HheHhnIwda17OFffQSa3j7Od4dMfGhoczKbz_4afW9LKBAn7bcJ1TO3bL9IrpN8cP",
+      "source": "DailyCart",
+      "title": "Deep Red Matta Rice",
+      "price": "$25.99",
+      "extracted_price": 25.99,
+      "immersive_product_page_token": "eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjY4OTUyNDYyOTA2NDc1NDM2IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI3MzMxMTczOTI5ODU0MTYzMjY3IiwiaW1hZ2VEb2NpZCI6IjE1NjU5Mzg1NzkwNTUwMzI1MzUxIiwicmRzIjoiIiwicXVlcnkiOiJyZWQrcmljZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjY4OTUyNDYyOTA2NDc1NDM2IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI3MzMxMTczOTI5ODU0MTYzMjY3IiwiaW1hZ2VEb2NpZCI6IjE1NjU5Mzg1NzkwNTUwMzI1MzUxIiwicmRzIjoiIiwicXVlcnkiOiJyZWQrcmljZSJ9"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTCfezpNl7I_ekQOqOTCSDv4x5LWHE1TAsU7NtCk82gGRNwG-Tk0pjjSF5wniQ-Ka_YW9DBODdeYJSl1o9tfA896XlH7qEzeDHErcnua9WrdFkDO4GOsoxBQA",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSvzGnAZTT0bZjSLUI8YaNlhjbhpyAVo-eA0vZApiZF57k0g53Z3h8JstIxVdHLwsdhJX_3uT144B_WQYagfeUQTXOqZ8sqp3JDYA7XTjxJT7VQyAN2vPwtNw",
+      "source": "Charleston Specialty Foods",
+      "title": "Charleston's Own Red Rice Mix",
+      "price": "$3.99",
+      "extracted_price": 3.99,
+      "immersive_product_page_token": "eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUyNzQ1MjU5MTgyNDE1MzYyMiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTIyMTk2MDM5MTY0NDQxMzIwODgiLCJpbWFnZURvY2lkIjoiMjc2Mzk2NjY1OTA4NTY0NDQ5OSIsInJkcyI6IiIsInF1ZXJ5IjoicmVkK3JpY2UifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUyNzQ1MjU5MTgyNDE1MzYyMiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTIyMTk2MDM5MTY0NDQxMzIwODgiLCJpbWFnZURvY2lkIjoiMjc2Mzk2NjY1OTA4NTY0NDQ5OSIsInJkcyI6IiIsInF1ZXJ5IjoicmVkK3JpY2UifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTY2PmeAoTaxEsG2D-JMKBaGlSWZ_DDKAswLJ6nLdNtXeuuy2cXhj41ck7g5iUTVKwxubXBHPK1zR3EUMTJOdeJ5FQbP-MBUh-zmIdKfzI7TmJHxCPQft2cEg",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS0Y54M9eATV8qlb4tj2QWI-porgMeIE8gi0m7yYMO_bs4GAzPD--K7WcxZXv95dh9W2J3XtUIwrz7lmybj_KrOfosK8o-l-zaC",
+      "source": "Mantra Bazaar",
+      "title": "Ariya Red Rice",
+      "rating": 5.0,
+      "reviews": 1,
+      "price": "$18.99",
+      "extracted_price": 18.99,
+      "immersive_product_page_token": "eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTgyODk5NjA5ODM2NDQ2Nzg1MzQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM2NDA5NTEzNzUxNTk1ODg3NyIsImltYWdlRG9jaWQiOiIxNDMyMDkwNTcwOTkzMDI4MTU2NyIsInJkcyI6IlBDXzE1ODUzNTU2NTA1OTk1MTM1fFBST0RfUENfMTU4NTM1NTY1MDU5OTUxMzUiLCJxdWVyeSI6InJlZCtyaWNlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTgyODk5NjA5ODM2NDQ2Nzg1MzQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM2NDA5NTEzNzUxNTk1ODg3NyIsImltYWdlRG9jaWQiOiIxNDMyMDkwNTcwOTkzMDI4MTU2NyIsInJkcyI6IlBDXzE1ODUzNTU2NTA1OTk1MTM1fFBST0RfUENfMTU4NTM1NTY1MDU5OTUxMzUiLCJxdWVyeSI6InJlZCtyaWNlIn0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQkY1cpR87gg_4HJ9Jej3hMZBQTcSjKt-t4BGBTpU9YoqyK_kBdCE10KWzSGMQuOkZCYbyWS4Fj3sn4yvk8kwnnvKm5Mi0FCDi3AmlRCUmco4CWw_JrPXOBug",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQpgfL0avcSnIIA7Wnlomi5kymZiO0A2kINnMkGZ3G1FlJRmOOARrbdPOOdSZARVbApsdeCP7QiIe5WxnPSOaIbtM4r",
+      "source": "Amazon",
+      "title": "Ralston Family Farms, Rice Red, 16 Ounce",
+      "price": "$5.26",
+      "extracted_price": 5.26,
+      "immersive_product_page_token": "eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiODcxOTAxOTI1Mjk4NDM3NTk5MSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODcxOTAxOTI1Mjk4NDM3NTk5MSIsImltYWdlRG9jaWQiOiIzNjI4NjY0ODEwNzkzNDYzNTI2IiwicmRzIjoiIiwicXVlcnkiOiJyZWQrcmljZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicHJvZHVjdGlkIjoiODcxOTAxOTI1Mjk4NDM3NTk5MSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODcxOTAxOTI1Mjk4NDM3NTk5MSIsImltYWdlRG9jaWQiOiIzNjI4NjY0ODEwNzkzNDYzNTI2IiwicmRzIjoiIiwicXVlcnkiOiJyZWQrcmljZSJ9"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is special about red rice?",
+      "snippet": "Red rice varieties, such as Himalayan red rice and Thai red cargo rice, are deeply pigmented and contain an impressive array of nutrients and beneficial plant compounds. This type is higher in protein and fiber than white rice varieties, but where it really shines is in its antioxidant content ( 14 , 15 ).",
+      "title": "What Is the Healthiest Type of Rice? - Healthline",
+      "link": "https://www.healthline.com/nutrition/healthiest-rice#:~:text=Red%20rice%20varieties%2C%20such%20as,content%20(%2014%20%2C%2015%20).",
+      "displayed_link": "https://www.healthline.com \u203a nutrition \u203a healthiest-rice",
+      "source_logo": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/fe9144aa2d16f8ce1d4969b7a1d9a7bcb007b8154072ffed8f9dddcc9f0a5b3c.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWNscDNXbU54TjA0MldGTm1kbDlGZUVnMFVtdHBVWGxWVm10cGJtdG1aMlZNTFVWS1lqZ3RWblZVTFVOVk9Hb3RYMDlGVTB4eVpUTndNemgxU1U0eVlWSjBkbmhqRWhkcmFYZExXalY1ZEUwNVlrRndPRFJRY0RkMU5uRkJWUm9pUVVaWWNrVmpjbmsyWm1vMVIwbDFNRUpHTFhwdFIzaFFjMmhpYkVveU4yWmhadyIsImZjdiI6IjMiLCJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicWMiOiJDZ2h5WldRZ2NtbGpaUkFBZmM0cUFqOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBzcGVjaWFsIGFib3V0IHJlZCByaWNlPyIsImxrIjoiR2g1M2FHRjBJR2x6SUhOd1pXTnBZV3dnWVdKdmRYUWdjbVZrSUhKcFkyVSIsImJzIjoiYy1OeTQ1SVB6MGdzVWNnc1ZpZ3VTRTNPVE14UlNFektMeTFSS0VwTlVTaktURTYxbDdqRlk2UWdKVmVPVnhWWENKZWFaekdjcTVDUm1waFRrcEdaV3FSUWtwR1lwNUJVbEYtZUJ6WHVhcjZSdXBScUpqR0t1WUs0VkdHdUs4bElWVWpKTEU1TUtVdk1LMGxNVDFYSVQwTnk0NW9LSXpVcGxYSWkxSUxNUkhacFlqSFVfa29RTXlrbk1Ua2JhbWFfQk1qTVRDTFVDakFDQUEiLCJpZCI6ImZjX2tpd0taNXl0TTliQXA4NFBwN3U2cUFVXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWNscDNXbU54TjA0MldGTm1kbDlGZUVnMFVtdHBVWGxWVm10cGJtdG1aMlZNTFVWS1lqZ3RWblZVTFVOVk9Hb3RYMDlGVTB4eVpUTndNemgxU1U0eVlWSjBkbmhqRWhkcmFYZExXalY1ZEUwNVlrRndPRFJRY0RkMU5uRkJWUm9pUVVaWWNrVmpjbmsyWm1vMVIwbDFNRUpHTFhwdFIzaFFjMmhpYkVveU4yWmhadyIsImZjdiI6IjMiLCJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicWMiOiJDZ2h5WldRZ2NtbGpaUkFBZmM0cUFqOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBzcGVjaWFsIGFib3V0IHJlZCByaWNlPyIsImxrIjoiR2g1M2FHRjBJR2x6SUhOd1pXTnBZV3dnWVdKdmRYUWdjbVZrSUhKcFkyVSIsImJzIjoiYy1OeTQ1SVB6MGdzVWNnc1ZpZ3VTRTNPVE14UlNFektMeTFSS0VwTlVTaktURTYxbDdqRlk2UWdKVmVPVnhWWENKZWFaekdjcTVDUm1waFRrcEdaV3FSUWtwR1lwNUJVbEYtZUJ6WHVhcjZSdXBScUpqR0t1WUs0VkdHdUs4bElWVWpKTEU1TUtVdk1LMGxNVDFYSVQwTnk0NW9LSXpVcGxYSWkxSUxNUkhacFlqSFVfa29RTXlrbk1Ua2JhbWFfQk1qTVRDTFVDakFDQUEiLCJpZCI6ImZjX2tpd0taNXl0TTliQXA4NFBwN3U2cUFVXzEifQ%3D%3D"
+    },
+    {
+      "question": "Is red rice healthier than brown rice?",
+      "snippet": "Like black rice, red rice gets its color from anthocyanins. Research suggests that among the different types of rice, red rice has the highest level of the antioxidant\u201410 times more than brown rice\u2014and may thus aid in the prevention or management of such illnesses as heart disease, diabetes, and even cancer.",
+      "title": "Black, Brown, or Red? How to Choose Organic Rice - Healthy Options",
+      "date": "Feb 9, 2023",
+      "link": "https://shop.healthyoptions.com.ph/blogs/articles/black-brown-or-red-how-to-choose-organic-rice#:~:text=Like%20black%20rice%2C%20red%20rice,%2C%20diabetes%2C%20and%20even%20cancer.",
+      "displayed_link": "https://shop.healthyoptions.com.ph \u203a blogs \u203a articles \u203a bl...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbtsJ-mKY8TgBmVYiR2c-atlWz_MJJHjpNeH1oYlPFQQ&s",
+      "source_logo": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/fe9144aa2d16f8ce1d4969b7a1d9a7bc4bdc8f0d69e72f79c9b8045de3199a4d.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWNscDNXbU54TjA0MldGTm1kbDlGZUVnMFVtdHBVWGxWVm10cGJtdG1aMlZNTFVWS1lqZ3RWblZVTFVOVk9Hb3RYMDlGVTB4eVpUTndNemgxU1U0eVlWSjBkbmhqRWhkcmFYZExXalY1ZEUwNVlrRndPRFJRY0RkMU5uRkJWUm9pUVVaWWNrVmpjbmsyWm1vMVIwbDFNRUpHTFhwdFIzaFFjMmhpYkVveU4yWmhadyIsImZjdiI6IjMiLCJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicWMiOiJDZ2h5WldRZ2NtbGpaUkFBZmM0cUFqOCIsInF1ZXN0aW9uIjoiSXMgcmVkIHJpY2UgaGVhbHRoaWVyIHRoYW4gYnJvd24gcmljZT8iLCJsayI6ImM1TlN6U3hXS0VwTlVTaktURTVWeUVoTnpDbkp5RXd0VWlqSlNNeFRTQ3JLTDg4RHl3QUEiLCJicyI6ImMtTnk0NUlQejBnc1VjZ3NWaWd1U0UzT1RNeFJTRXpLTHkxUktFcE5VU2pLVEU2MWw3akZZNlFnSlZlT1Z4VlhDSmVhWnpHY3E1Q1JtcGhUa3BHWldxUlFrcEdZcDVCVWxGLWVCelh1YXI2UnVwUnFKakdLdVlLNFZHR3VLOGxJVlVqSkxFNU1LVXZNSzBsTVQxWElUME55NDVvS0l6VXBsWElpMUlMTVJIWnBZakhVX2tvUU15a25NVGtiYW1hX0JNak1UQ0xVQ2pBQ0FBIiwiaWQiOiJmY19raXdLWjV5dE05YkFwODRQcDd1NnFBVV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWNscDNXbU54TjA0MldGTm1kbDlGZUVnMFVtdHBVWGxWVm10cGJtdG1aMlZNTFVWS1lqZ3RWblZVTFVOVk9Hb3RYMDlGVTB4eVpUTndNemgxU1U0eVlWSjBkbmhqRWhkcmFYZExXalY1ZEUwNVlrRndPRFJRY0RkMU5uRkJWUm9pUVVaWWNrVmpjbmsyWm1vMVIwbDFNRUpHTFhwdFIzaFFjMmhpYkVveU4yWmhadyIsImZjdiI6IjMiLCJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicWMiOiJDZ2h5WldRZ2NtbGpaUkFBZmM0cUFqOCIsInF1ZXN0aW9uIjoiSXMgcmVkIHJpY2UgaGVhbHRoaWVyIHRoYW4gYnJvd24gcmljZT8iLCJsayI6ImM1TlN6U3hXS0VwTlVTaktURTVWeUVoTnpDbkp5RXd0VWlqSlNNeFRTQ3JLTDg4RHl3QUEiLCJicyI6ImMtTnk0NUlQejBnc1VjZ3NWaWd1U0UzT1RNeFJTRXpLTHkxUktFcE5VU2pLVEU2MWw3akZZNlFnSlZlT1Z4VlhDSmVhWnpHY3E1Q1JtcGhUa3BHWldxUlFrcEdZcDVCVWxGLWVCelh1YXI2UnVwUnFKakdLdVlLNFZHR3VLOGxJVlVqSkxFNU1LVXZNSzBsTVQxWElUME55NDVvS0l6VXBsWElpMUlMTVJIWnBZakhVX2tvUU15a25NVGtiYW1hX0JNak1UQ0xVQ2pBQ0FBIiwiaWQiOiJmY19raXdLWjV5dE05YkFwODRQcDd1NnFBVV8xIn0%3D"
+    },
+    {
+      "question": "What is the disadvantage of red rice?",
+      "snippet": "Red rice is undoubtedly a great variety of rice but do not overconsume it. Though there are no side effect perse, it can still lead to severe stomach discomfort, pain and indigestion if not consumed in moderate amounts.",
+      "title": "Red Rice: Types, Nutritional Content, Health Benefits, Recipes And Side ...",
+      "link": "https://www.netmeds.com/health-library/post/red-rice-types-nutritional-content-health-benefits-recipes-and-side-effects#:~:text=Red%20rice%20is%20undoubtedly%20a,not%20consumed%20in%20moderate%20amounts.",
+      "displayed_link": "https://www.netmeds.com \u203a health-library \u203a post \u203a red-ri...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6VuQkuQHNN0KADnUxUf7PpHOSDfjQJFrZVNY_PLd9UQ&s",
+      "source_logo": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/fe9144aa2d16f8ce1d4969b7a1d9a7bc6310d8bc866b6c722ff307826a09ed3e.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWNscDNXbU54TjA0MldGTm1kbDlGZUVnMFVtdHBVWGxWVm10cGJtdG1aMlZNTFVWS1lqZ3RWblZVTFVOVk9Hb3RYMDlGVTB4eVpUTndNemgxU1U0eVlWSjBkbmhqRWhkcmFYZExXalY1ZEUwNVlrRndPRFJRY0RkMU5uRkJWUm9pUVVaWWNrVmpjbmsyWm1vMVIwbDFNRUpHTFhwdFIzaFFjMmhpYkVveU4yWmhadyIsImZjdiI6IjMiLCJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicWMiOiJDZ2h5WldRZ2NtbGpaUkFBZmM0cUFqOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZGlzYWR2YW50YWdlIG9mIHJlZCByaWNlPyIsImxrIjoiR2lSM2FHRjBJR2x6SUhSb1pTQmthWE5oWkhaaGJuUmhaMlVnYjJZZ2NtVmtJSEpwWTJVIiwiYnMiOiJjLU55NDVJUHowZ3NVY2dzVmlndVNFM09UTXhSU0V6S0x5MVJLRXBOVVNqS1RFNjFsN2pGWTZRZ0pWZU9WeFZYQ0plYVp6R2NxNUNSbXBoVGtwR1pXcVJRa3BHWXA1QlVsRi1lQnpYdWFyNlJ1cFJxSmpHS3VZSzRWR0d1SzhsSVZVakpMRTVNS1V2TUswbE1UMVhJVDBOeTQ1b0tJelVwbFhJaTFJTE1SSFpwWWpIVV9rb1FNeWtuTVRrYmFtYV9CTWpNVENMVUNqQUNBQSIsImlkIjoiZmNfa2l3S1o1eXRNOWJBcDg0UHA3dTZxQVVfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWNscDNXbU54TjA0MldGTm1kbDlGZUVnMFVtdHBVWGxWVm10cGJtdG1aMlZNTFVWS1lqZ3RWblZVTFVOVk9Hb3RYMDlGVTB4eVpUTndNemgxU1U0eVlWSjBkbmhqRWhkcmFYZExXalY1ZEUwNVlrRndPRFJRY0RkMU5uRkJWUm9pUVVaWWNrVmpjbmsyWm1vMVIwbDFNRUpHTFhwdFIzaFFjMmhpYkVveU4yWmhadyIsImZjdiI6IjMiLCJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicWMiOiJDZ2h5WldRZ2NtbGpaUkFBZmM0cUFqOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZGlzYWR2YW50YWdlIG9mIHJlZCByaWNlPyIsImxrIjoiR2lSM2FHRjBJR2x6SUhSb1pTQmthWE5oWkhaaGJuUmhaMlVnYjJZZ2NtVmtJSEpwWTJVIiwiYnMiOiJjLU55NDVJUHowZ3NVY2dzVmlndVNFM09UTXhSU0V6S0x5MVJLRXBOVVNqS1RFNjFsN2pGWTZRZ0pWZU9WeFZYQ0plYVp6R2NxNUNSbXBoVGtwR1pXcVJRa3BHWXA1QlVsRi1lQnpYdWFyNlJ1cFJxSmpHS3VZSzRWR0d1SzhsSVZVakpMRTVNS1V2TUswbE1UMVhJVDBOeTQ1b0tJelVwbFhJaTFJTE1SSFpwWWpIVV9rb1FNeWtuTVRrYmFtYV9CTWpNVENMVUNqQUNBQSIsImlkIjoiZmNfa2l3S1o1eXRNOWJBcDg0UHA3dTZxQVVfMSJ9"
+    },
+    {
+      "question": "Is red rice as healthy as black rice?",
+      "snippet": "Calories: Red rice has fewer calories than black, but it's still high in carbs. One cup of cooked red or black rice contains approximately 230-250 calories each. Protein: Both types contain about 5 grams of protein per serving \u2013 not enough to make them a good source of this nutrient on their own, but not bad either!",
+      "title": "The Health Benefits of Red Rice vs Black Rice - Puri Pangan Utama",
+      "link": "https://puripangan.co.id/health-benefits-of-red-rice-and-black-rice/#:~:text=Calories%3A%20Red%20rice%20has%20fewer,own%2C%20but%20not%20bad%20either!",
+      "displayed_link": "https://puripangan.co.id \u203a health-benefits-of-red-rice-and...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2wT457fxkeEdfvA1JzZ5XMLavE6IKnPCOVCqBrvxPg&s",
+      "source_logo": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/fe9144aa2d16f8ce1d4969b7a1d9a7bc9a2db493722d47190f2b99b3ce105d51.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWNscDNXbU54TjA0MldGTm1kbDlGZUVnMFVtdHBVWGxWVm10cGJtdG1aMlZNTFVWS1lqZ3RWblZVTFVOVk9Hb3RYMDlGVTB4eVpUTndNemgxU1U0eVlWSjBkbmhqRWhkcmFYZExXalY1ZEUwNVlrRndPRFJRY0RkMU5uRkJWUm9pUVVaWWNrVmpjbmsyWm1vMVIwbDFNRUpHTFhwdFIzaFFjMmhpYkVveU4yWmhadyIsImZjdiI6IjMiLCJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicWMiOiJDZ2h5WldRZ2NtbGpaUkFBZmM0cUFqOCIsInF1ZXN0aW9uIjoiSXMgcmVkIHJpY2UgYXMgaGVhbHRoeSBhcyBibGFjayByaWNlPyIsImxrIjoiYzVOU3lTeFdLRXBOVVNqS1RFNVZTQ3hXeUVoTnpDbkpxQVF4azNJU2s3UEJFZ0EiLCJicyI6ImMtTnk0NUlQejBnc1VjZ3NWaWd1U0UzT1RNeFJTRXpLTHkxUktFcE5VU2pLVEU2MWw3akZZNlFnSlZlT1Z4VlhDSmVhWnpHY3E1Q1JtcGhUa3BHWldxUlFrcEdZcDVCVWxGLWVCelh1YXI2UnVwUnFKakdLdVlLNFZHR3VLOGxJVlVqSkxFNU1LVXZNSzBsTVQxWElUME55NDVvS0l6VXBsWElpMUlMTVJIWnBZakhVX2tvUU15a25NVGtiYW1hX0JNak1UQ0xVQ2pBQ0FBIiwiaWQiOiJmY19raXdLWjV5dE05YkFwODRQcDd1NnFBVV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWNscDNXbU54TjA0MldGTm1kbDlGZUVnMFVtdHBVWGxWVm10cGJtdG1aMlZNTFVWS1lqZ3RWblZVTFVOVk9Hb3RYMDlGVTB4eVpUTndNemgxU1U0eVlWSjBkbmhqRWhkcmFYZExXalY1ZEUwNVlrRndPRFJRY0RkMU5uRkJWUm9pUVVaWWNrVmpjbmsyWm1vMVIwbDFNRUpHTFhwdFIzaFFjMmhpYkVveU4yWmhadyIsImZjdiI6IjMiLCJlaSI6Imtpd0taNXl0TTliQXA4NFBwN3U2cUFVIiwicWMiOiJDZ2h5WldRZ2NtbGpaUkFBZmM0cUFqOCIsInF1ZXN0aW9uIjoiSXMgcmVkIHJpY2UgYXMgaGVhbHRoeSBhcyBibGFjayByaWNlPyIsImxrIjoiYzVOU3lTeFdLRXBOVVNqS1RFNVZTQ3hXeUVoTnpDbkpxQVF4azNJU2s3UEJFZ0EiLCJicyI6ImMtTnk0NUlQejBnc1VjZ3NWaWd1U0UzT1RNeFJTRXpLTHkxUktFcE5VU2pLVEU2MWw3akZZNlFnSlZlT1Z4VlhDSmVhWnpHY3E1Q1JtcGhUa3BHWldxUlFrcEdZcDVCVWxGLWVCelh1YXI2UnVwUnFKakdLdVlLNFZHR3VLOGxJVlVqSkxFNU1LVXZNSzBsTVQxWElUME55NDVvS0l6VXBsWElpMUlMTVJIWnBZakhVX2tvUU15a25NVGtiYW1hX0JNak1UQ0xVQ2pBQ0FBIiwiaWQiOiJmY19raXdLWjV5dE05YkFwODRQcDd1NnFBVV8xIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Charleston Red Rice Recipe",
+      "link": "https://www.allrecipes.com/recipe/214070/charleston-red-rice/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.allrecipes.com/recipe/214070/charleston-red-rice/&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQFnoECE4QAQ",
+      "displayed_link": "https://www.allrecipes.com \u203a ... \u203a Rice Side Dish Recipes",
+      "thumbnail": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/6402638f39b563e8eb57831ca2da85e9ab6c3ae45bbb3473cd1ad966f72f6add.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/6402638f39b563e8eb57831ca2da85e9d08083582cf17252d6e5e9520d6137f8.webp",
+      "snippet": "This red rice recipe is a Carolina Lowcountry tradition \u2014 cooked rice is baked with tomato sauce, bacon, and onion to make a savory side ...",
+      "snippet_highlighted_words": [
+        "red rice"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.0,
+            "hr_min": 1
+          },
+          "extensions": [
+            "4.0(47)",
+            "1 hr 20 min"
+          ]
+        }
+      },
+      "source": "Allrecipes"
+    },
+    {
+      "position": 2,
+      "title": "Mexican Red Rice",
+      "link": "https://www.recipetineats.com/mexican-red-rice/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.recipetineats.com/mexican-red-rice/&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQFnoECE8QAQ",
+      "displayed_link": "https://www.recipetineats.com \u203a Mexican",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkhEmWKzvsKlRUCRSSHAN1sI7w8XPgZ-j2GK5xWV3h_SUyMKkA4VEI&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/6402638f39b563e8eb57831ca2da85e96ae7fd5f37f4602c7c77e76b22d416e2.webp",
+      "date": "Nov 1, 2017",
+      "snippet": "Fluffy, beautifully seasoned Mexican Red Rice (Arroz Rojo). With a whisper of coriander / cilantro flavour, this is tasty enough to eat plain.",
+      "snippet_highlighted_words": [
+        "Red Rice"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "min": 18
+          },
+          "extensions": [
+            "5.0(79)",
+            "18 min"
+          ]
+        }
+      },
+      "source": "RecipeTin Eats"
+    },
+    {
+      "position": 3,
+      "title": "Red rice",
+      "link": "https://en.wikipedia.org/wiki/Red_rice",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Red_rice&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQFnoECEwQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Red_rice",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Pr8HdBHaJ09AjLu6nv9RN9yGlob9p3pMF0z1Ag64QWAGQgI5HqpW&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/6402638f39b563e8eb57831ca2da85e97745a3d534a82602e0dfd684e770695b.webp",
+      "snippet": "Red rice is rice that is colored red due to natural anthocyanin content. It is usually eaten unpolished or partially polished, and has a red bran layer, ...",
+      "snippet_highlighted_words": [
+        "Red rice"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Charleston red rice",
+            "link": "https://en.wikipedia.org/wiki/Charleston_red_rice"
+          },
+          {
+            "title": "Bhutanese red rice",
+            "link": "https://en.wikipedia.org/wiki/Bhutanese_red_rice"
+          },
+          {
+            "title": "Camargue red rice",
+            "link": "https://en.wikipedia.org/wiki/Camargue_red_rice"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 4,
+      "title": "Organic Red Jasmine Rice",
+      "link": "https://www.lundberg.com/products/organic-california-red-jasmine-rice-1lb?srsltid=AfmBOopgmC10-SHoyC671qxQRSJfGTUT7SYLccpyEkrE5SNjJ5CI80K-",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lundberg.com/products/organic-california-red-jasmine-rice-1lb%3Fsrsltid%3DAfmBOopgmC10-SHoyC671qxQRSJfGTUT7SYLccpyEkrE5SNjJ5CI80K-&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQFnoECEkQAQ",
+      "displayed_link": "https://www.lundberg.com \u203a products \u203a organic-californi...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFL-ROaTYgazvJiueCVRifZx2XvCqQ96TsW6m58I-X3qBst4rbdvH9&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/6402638f39b563e8eb57831ca2da85e93245a109ca5a3106ab64da9cdeccb846.webp",
+      "snippet": "Aromatic & Nutty: These honey-hued grains remain separate when cooked and fill the kitchen with an irresistible aroma (some say it smells like popcorn!).",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 5.99,
+            "currency": "$",
+            "free_day_delivery": 7
+          },
+          "extensions": [
+            "$5.99",
+            "\u200eFree 7\u201310 day delivery",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Lundberg Family Farms"
+    },
+    {
+      "position": 5,
+      "title": "Red Tomato Rice",
+      "link": "https://www.rickbayless.com/recipe/red-tomato-rice/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.rickbayless.com/recipe/red-tomato-rice/&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQFnoECHAQAQ",
+      "displayed_link": "https://www.rickbayless.com \u203a Recipes",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTguAR-2MeFSYSeObk-ZIv9SMrAWcUrffl6DQ7OHGSdFl_MdgpSYiKs&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/6402638f39b563e8eb57831ca2da85e9d6e77a0e6d9a4afc23e7b14984ff33b5.webp",
+      "snippet": "Add the raw rice and stir frequently until the kernels have turned from translucent to milky white, 5 to 6 minutes\u2014it is fine for some browning to take place.",
+      "snippet_highlighted_words": [
+        "rice"
+      ],
+      "source": "Rick Bayless"
+    },
+    {
+      "position": 6,
+      "title": "Hidden Heritage \u2014 A Search for Culture, Heirlooms, and ...",
+      "link": "https://www.goodbeerhunting.com/blog/2023/5/25/search-for-culture-heirlooms-and-my-grandmas-red-rice-recipe",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodbeerhunting.com/blog/2023/5/25/search-for-culture-heirlooms-and-my-grandmas-red-rice-recipe&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQFnoECEsQAQ",
+      "displayed_link": "https://www.goodbeerhunting.com \u203a blog \u203a search-for-...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQdzaNBNVvNTjHE4qQCRunwVfjTO-A7NS_8-XmU2-rDRbfaJfsvrrH&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/6402638f39b563e8eb57831ca2da85e9e43c685375352e89b4fdbc39073c6929.webp",
+      "date": "May 25, 2023",
+      "snippet": "My favorite was her red rice, enveloped in rich, browned tomato paste. The browning transformed the flavor from raw and acidic to one with savory depth and ...",
+      "snippet_highlighted_words": [
+        "red rice"
+      ],
+      "source": "GOOD BEER HUNTING"
+    },
+    {
+      "position": 7,
+      "title": "Simple Red Rice",
+      "link": "https://www.deepfriedhoney.com/simple-red-rice/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.deepfriedhoney.com/simple-red-rice/&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQFnoECEoQAQ",
+      "displayed_link": "https://www.deepfriedhoney.com \u203a simple-red-rice",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNBYRFuq0jfgWZonqgLYm3UMrxxn3hvVDJD0K79aiuXvq-_DBy8J0v&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/6402638f39b563e8eb57831ca2da85e98dfb13a509c88c5f601f35e78fed6cb5.webp",
+      "date": "May 23, 2024",
+      "snippet": "Enjoy a flavorful dish with my Simple Red Rice recipe! Just combine water, rice, onion, tomatoes, garlic, salt, and pepper for a tasty meal.",
+      "snippet_highlighted_words": [
+        "Red Rice"
+      ],
+      "rich_snippet": {
+        "bottom": {}
+      },
+      "source": "deepfriedhoney"
+    },
+    {
+      "position": 8,
+      "title": "Charleston Red Rice",
+      "link": "https://www.theseasonedmom.com/red-rice/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theseasonedmom.com/red-rice/&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQFnoECE0QAQ",
+      "displayed_link": "https://www.theseasonedmom.com \u203a red-rice",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlURwZ-BlP_CF-i424ZTdx6RTyxZVEvdB8yHuvA6MmlhNAREoB1V2C&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2c92a3657ac8d175dc59/images/6402638f39b563e8eb57831ca2da85e9fd09d13ad5747c5b03e34e690c070aa4.webp",
+      "date": "Aug 22, 2024",
+      "snippet": "This Southern red rice recipe is a classic Lowcountry side dish made of white rice baked with bacon, onion, garlic, and tomato!",
+      "snippet_highlighted_words": [
+        "red rice"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "How to Make this Red Rice...",
+            "link": "https://www.theseasonedmom.com/red-rice/#how-to-make-this-red-rice-recipe-1-minute-video"
+          },
+          {
+            "title": "Few Notes Before You Get...",
+            "link": "https://www.theseasonedmom.com/red-rice/#a-few-notes-before-you-get-started"
+          },
+          {
+            "title": "How to Cook Red Rice",
+            "link": "https://www.theseasonedmom.com/red-rice/#how-to-cook-red-rice"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "hr": 1
+          },
+          "extensions": [
+            "5.0(6)",
+            "1 hr"
+          ]
+        }
+      },
+      "source": "The Seasoned Mom"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=red+rice&udm=2&source=univ&fir=ZlLNoRcadarIQM%252CflcVtMIs-IZQSM%252C_%253BpBsoM9FJrezxjM%252CrsueWL6X0O9f6M%252C_%253BE3uI8WRmowZd6M%252CmgTNh2jtiiu0RM%252C_%253B3MOcT-4GoqcNLM%252CCtJs3mWp1-rVTM%252C_%253BBHnVOMx03RLBJM%252C-wk5sbSc2eWuwM%252C_%253BPGO3Ixix7Wl_mM%252CZGhi7v_wvEREMM%252C_%253BEYcjXFredmIfZM%252CxKnptqE21oFbqM%252C_%253BBOoRCwhiFjgKuM%252Cdo7cGoLCtc2cmM%252C_%253BGjI2qHwEwQeQmM%252Co42sQVEwAPVfCM%252C_%253BcHHbZX-SmZlMHM%252ChC8aATLMHVqwuM%252C_%253BffQwiNcYH7yE2M%252CENAg6XpXiNnDtM%252C_%253BYnwRlHiRnF6WJM%252CA420SOEWD3xYrM%252C_&usg=AI4_-kQflJlr6rLJp4zuoxnj9aojPSCIvQ&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQ7Al6BAhlEAY",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=red+rice",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Red rice benefits",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Red+rice+benefits&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQ1QJ6BAh3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Red+rice+benefits"
+    },
+    {
+      "block_position": 1,
+      "query": "Red rice recipe",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Red+rice+recipe&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQ1QJ6BAh1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Red+rice+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Red rice nutrition",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Red+rice+nutrition&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQ1QJ6BAh4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Red+rice+nutrition"
+    },
+    {
+      "block_position": 1,
+      "query": "Red rice cholesterol",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Red+rice+cholesterol&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQ1QJ6BAh5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Red+rice+cholesterol"
+    },
+    {
+      "block_position": 1,
+      "query": "Red rice recipes Indian",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Red+rice+recipes+Indian&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQ1QJ6BAhzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Red+rice+recipes+Indian"
+    },
+    {
+      "block_position": 1,
+      "query": "Charleston red rice",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Charleston+red+rice&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQ1QJ6BAhuEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Charleston+red+rice"
+    },
+    {
+      "block_position": 1,
+      "query": "Indian red rice",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Indian+red+rice&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQ1QJ6BAhtEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Indian+red+rice"
+    },
+    {
+      "block_position": 1,
+      "query": "Red rice supplement",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Red+rice+supplement&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQ1QJ6BAh2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Red+rice+supplement"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Recipe",
+      "link": "https://www.google.com/search?q=recipe+red+rice&hl=en&gl=us&shoprs=GBIqCHJlZCByaWNlMgoIEhIGUmVjaXBlYAE&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQip4GKAF6BAgdEEU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=recipe+red+rice"
+    },
+    {
+      "query": "Spanish",
+      "link": "https://www.google.com/search?q=spanish+red+rice&hl=en&gl=us&shoprs=GAEqCHJlZCByaWNlMhcIARIHU3BhbmlzaDoKCPPoORD_6DkwAFii3B9gAQ&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQip4GKAJ6BAgdEEY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=spanish+red+rice"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?q=buy+red+rice&hl=en&gl=us&shoprs=GBIqCHJlZCByaWNlMgcIEhIDQnV5YAE&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQip4GKAN6BAgdEEc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=buy+red+rice"
+    },
+    {
+      "query": "Brand",
+      "link": "https://www.google.com/search?q=brand+red+rice&hl=en&gl=us&shoprs=GBIqCHJlZCByaWNlMgkIEhIFQnJhbmRgAQ&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQip4GKAR6BAgdEEg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brand+red+rice"
+    },
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?q=red+rice+nearby&hl=en&gl=us&shoprs=GAMqCHJlZCByaWNlMgwIAxIGTmVhcmJ5GAJYotwfYAE&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQip4GKAV6BAgdEEk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=red+rice+nearby"
+    },
+    {
+      "query": "Get it fast",
+      "link": "https://www.google.com/search?q=red+rice&hl=en&gl=us&shoprs=Eg2aAQoKCBADOAFAAkgBGBQqCHJlZCByaWNlMiQIFBILR2V0IGl0IGZhc3QiDZoBCgoIEAM4AUACSAEqBBABGAFgAQ&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQip4GKAZ6BAgdEEo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=red+rice"
+    },
+    {
+      "query": "White",
+      "link": "https://www.google.com/search?q=white+red+rice&hl=en&gl=us&shoprs=GAEqCHJlZCByaWNlMhUIARIFV2hpdGU6Cgjz6DkQgOk5MABYotwfYAE&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQip4GKAd6BAgdEEs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=white+red+rice"
+    },
+    {
+      "query": "Brown",
+      "link": "https://www.google.com/search?q=brown+red+rice&hl=en&gl=us&shoprs=GAEqCHJlZCByaWNlMhUIARIFQnJvd246Cgjz6DkQ9-g5MABYotwfYAE&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQip4GKAh6BAgdEEw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brown+red+rice"
+    },
+    {
+      "query": "Organic",
+      "link": "https://www.google.com/search?q=organic+red+rice&hl=en&gl=us&shoprs=GAEqCHJlZCByaWNlMhkIARIHT3JnYW5pYzoMCL75hwEQv_mHATADWKLcH2AB&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQip4GKAl6BAgdEE0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=organic+red+rice"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?q=black+red+rice&hl=en&gl=us&shoprs=GAEqCHJlZCByaWNlMhUIARIFQmxhY2s6Cgjz6DkQ9ug5MABYotwfYAE&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQip4GKAp6BAgdEE4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=black+red+rice"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?q=reviews+red+rice&hl=en&gl=us&shoprs=GBIqCHJlZCByaWNlMgsIEhIHUmV2aWV3c2AB&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQip4GKAt6BAgdEE8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=reviews+red+rice"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?q=red+rice+sale&hl=en&gl=us&shoprs=EgRKAhgBGAYqCHJlZCByaWNlMhMIBhIHT24gc2FsZRgCIgRKAhgBWKLcH2AB&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQip4GKAx6BAgdEFA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=red+rice+sale"
+    },
+    {
+      "query": "Wild",
+      "link": "https://www.google.com/search?q=wild+red+rice&hl=en&gl=us&shoprs=GAEqCHJlZCByaWNlMhQIARIEV2lsZDoKCPPoORCB6TkwAFii3B9gAQ&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQip4GKA16BAgdEFE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wild+red+rice"
+    },
+    {
+      "query": "Bulk",
+      "link": "https://www.google.com/search?q=bulk+red+rice&hl=en&gl=us&shoprs=GAEqCHJlZCByaWNlMhQIARIEQnVsazoKCKPOOxCkzjswA1ii3B9gAQ&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQip4GKA56BAgdEFI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bulk+red+rice"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?q=red+rice+for+sale&hl=en&gl=us&shoprs=GBIqCHJlZCByaWNlMgwIEhIIRm9yIFNhbGVgAQ&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQip4GKA96BAgdEFM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=red+rice+for+sale"
+    },
+    {
+      "query": "Japanese",
+      "link": "https://www.google.com/search?q=japanese+red+rice&hl=en&gl=us&shoprs=GBIqCHJlZCByaWNlMgwIEhIISmFwYW5lc2VgAQ&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQip4GKBB6BAgdEFQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=japanese+red+rice"
+    },
+    {
+      "query": "Long Grain",
+      "link": "https://www.google.com/search?q=long+grain+red+rice&hl=en&gl=us&shoprs=GAEqCHJlZCByaWNlMhoIARIKTG9uZyBHcmFpbjoKCILpORCF6TkwAlii3B9gAQ&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQip4GKBF6BAgdEFU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=long+grain+red+rice"
+    },
+    {
+      "query": "Gluten-free",
+      "link": "https://www.google.com/search?q=gluten-free+red+rice&hl=en&gl=us&shoprs=GAEqCHJlZCByaWNlMh0IARILR2x1dGVuLWZyZWU6DAiyiogBELOKiAEwA1ii3B9gAQ&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQip4GKBJ6BAgdEFY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=gluten-free+red+rice"
+    },
+    {
+      "query": "Usa",
+      "link": "https://www.google.com/search?q=usa+red+rice&hl=en&gl=us&shoprs=GBIqCHJlZCByaWNlMgcIEhIDVXNhYAE&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQip4GKBN6BAgdEFc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=usa+red+rice"
+    },
+    {
+      "query": "Online",
+      "link": "https://www.google.com/search?q=online+red+rice&hl=en&gl=us&shoprs=GBIqCHJlZCByaWNlMgoIEhIGT25saW5lYAE&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQip4GKBR6BAgdEFg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=online+red+rice"
+    },
+    {
+      "query": "Small",
+      "link": "https://www.google.com/search?q=small+red+rice&hl=en&gl=us&shoprs=GBIqCHJlZCByaWNlMgkIEhIFU21hbGxgAQ&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQip4GKBV6BAgdEFk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=small+red+rice"
+    },
+    {
+      "query": "Vegan",
+      "link": "https://www.google.com/search?q=vegan+red+rice&hl=en&gl=us&shoprs=GAEqCHJlZCByaWNlMhcIARIFVmVnYW46DAjCvYcBEMO9hwEwA1ii3B9gAQ&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQip4GKBZ6BAgdEFo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=vegan+red+rice"
+    },
+    {
+      "query": "Kosher",
+      "link": "https://www.google.com/search?q=kosher+red+rice&hl=en&gl=us&shoprs=GAEqCHJlZCByaWNlMhgIARIGS29zaGVyOgwI8d-HARDy34cBMANYotwfYAE&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQip4GKBd6BAgdEFs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=kosher+red+rice"
+    },
+    {
+      "query": "Instant",
+      "link": "https://www.google.com/search?q=instant+red+rice&hl=en&gl=us&shoprs=GAEqCHJlZCByaWNlMhcIARIHSW5zdGFudDoKCIvpORCM6TkwA1ii3B9gAQ&sa=X&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQip4GKBh6BAgdEFw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=instant+red+rice"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=red+rice&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=kiwKZ5ytM9bAp84Pp7u6qAU&start=10&sa=N&sstk=AagrsuglN11OdtenTr3NZet2fR-KWyTwVdovRvWmYEqpJx1r7tOulye61jPMs6fFctWZYYt0-YL6OXuomYmkYk0JhtxztmhtsS5HLA&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQ8NMDegQICBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=red+rice&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=kiwKZ5ytM9bAp84Pp7u6qAU&start=10&sa=N&sstk=AagrsuglN11OdtenTr3NZet2fR-KWyTwVdovRvWmYEqpJx1r7tOulye61jPMs6fFctWZYYt0-YL6OXuomYmkYk0JhtxztmhtsS5HLA&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQ8tMDegQICBAE",
+      "3": "https://www.google.com/search?q=red+rice&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=kiwKZ5ytM9bAp84Pp7u6qAU&start=20&sa=N&sstk=AagrsuglN11OdtenTr3NZet2fR-KWyTwVdovRvWmYEqpJx1r7tOulye61jPMs6fFctWZYYt0-YL6OXuomYmkYk0JhtxztmhtsS5HLA&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQ8tMDegQICBAG",
+      "4": "https://www.google.com/search?q=red+rice&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=kiwKZ5ytM9bAp84Pp7u6qAU&start=30&sa=N&sstk=AagrsuglN11OdtenTr3NZet2fR-KWyTwVdovRvWmYEqpJx1r7tOulye61jPMs6fFctWZYYt0-YL6OXuomYmkYk0JhtxztmhtsS5HLA&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQ8tMDegQICBAI",
+      "5": "https://www.google.com/search?q=red+rice&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=kiwKZ5ytM9bAp84Pp7u6qAU&start=40&sa=N&sstk=AagrsuglN11OdtenTr3NZet2fR-KWyTwVdovRvWmYEqpJx1r7tOulye61jPMs6fFctWZYYt0-YL6OXuomYmkYk0JhtxztmhtsS5HLA&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQ8tMDegQICBAK",
+      "6": "https://www.google.com/search?q=red+rice&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=kiwKZ5ytM9bAp84Pp7u6qAU&start=50&sa=N&sstk=AagrsuglN11OdtenTr3NZet2fR-KWyTwVdovRvWmYEqpJx1r7tOulye61jPMs6fFctWZYYt0-YL6OXuomYmkYk0JhtxztmhtsS5HLA&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQ8tMDegQICBAM",
+      "7": "https://www.google.com/search?q=red+rice&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=kiwKZ5ytM9bAp84Pp7u6qAU&start=60&sa=N&sstk=AagrsuglN11OdtenTr3NZet2fR-KWyTwVdovRvWmYEqpJx1r7tOulye61jPMs6fFctWZYYt0-YL6OXuomYmkYk0JhtxztmhtsS5HLA&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQ8tMDegQICBAO",
+      "8": "https://www.google.com/search?q=red+rice&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=kiwKZ5ytM9bAp84Pp7u6qAU&start=70&sa=N&sstk=AagrsuglN11OdtenTr3NZet2fR-KWyTwVdovRvWmYEqpJx1r7tOulye61jPMs6fFctWZYYt0-YL6OXuomYmkYk0JhtxztmhtsS5HLA&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQ8tMDegQICBAQ",
+      "9": "https://www.google.com/search?q=red+rice&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=kiwKZ5ytM9bAp84Pp7u6qAU&start=80&sa=N&sstk=AagrsuglN11OdtenTr3NZet2fR-KWyTwVdovRvWmYEqpJx1r7tOulye61jPMs6fFctWZYYt0-YL6OXuomYmkYk0JhtxztmhtsS5HLA&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQ8tMDegQICBAS",
+      "10": "https://www.google.com/search?q=red+rice&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=kiwKZ5ytM9bAp84Pp7u6qAU&start=90&sa=N&sstk=AagrsuglN11OdtenTr3NZet2fR-KWyTwVdovRvWmYEqpJx1r7tOulye61jPMs6fFctWZYYt0-YL6OXuomYmkYk0JhtxztmhtsS5HLA&ved=2ahUKEwicvo71r4iJAxVW4MkDHaedDlUQ8tMDegQICBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=red+rice&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=red+rice&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=red+rice&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=red+rice&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=red+rice&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=red+rice&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=red+rice&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=red+rice&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=red+rice&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=red+rice&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=red+rice&start=90"
+    }
+  }
+}

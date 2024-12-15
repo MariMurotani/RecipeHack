@@ -1,0 +1,662 @@
+{
+  "search_metadata": {
+    "id": "670a2e5171b0e81ca3f14005",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/b33cdfd67fb2b9e3/670a2e5171b0e81ca3f14005.json",
+    "created_at": "2024-10-12 08:07:45 UTC",
+    "processed_at": "2024-10-12 08:07:45 UTC",
+    "google_url": "https://www.google.com/search?q=snapper&oq=snapper&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/b33cdfd67fb2b9e3/670a2e5171b0e81ca3f14005.html",
+    "total_time_taken": 1.99
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "snapper",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "snapper",
+    "total_results": 63500000,
+    "time_taken_displayed": 0.37,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=snapper&npsic=0&rflfq=1&rldoc=1&rllag=30268315,-97744585,159&tbm=lcl&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQtgN6BAhtEAI",
+    "image": "https://serpapi.com/searches/670a2e5171b0e81ca3f14005/images/beba9ca052e4813c50d780a2208e7774.png",
+    "gps_coordinates": {
+      "latitude": 30.268315,
+      "longitude": -97.744585
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.4,
+        "reviews_original": "(602)",
+        "reviews": 602,
+        "description": "\"Snapper, mac and cheese and salad was fire.\"",
+        "lsig": "AB86z5U04L01X4eqslQNxBM2iYao",
+        "thumbnail": "https://serpapi.com/searches/670a2e5171b0e81ca3f14005/images/0a2a7342d322f11a071da0b74b7eacd1ad022905cc838ef161ccefb6c7edca72a96c2ffaddfe293d.jpeg",
+        "title": "Turf N' Surf Po Boy",
+        "type": "Seafood",
+        "address": "407 Lavaca St",
+        "hours": "Closed \u22c5 Opens 11 AM",
+        "place_id": "8869167598910260447",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=8869167598910260447&q=snapper",
+        "gps_coordinates": {
+          "latitude": 30.267262,
+          "longitude": -97.74562
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.6,
+        "reviews_original": "(3.9K)",
+        "reviews": 3900,
+        "description": "\"Lamb and red snapper are absolute amazing.\"",
+        "lsig": "AB86z5Ukt1IQbUzHybQyEcKd2VsE",
+        "thumbnail": "https://serpapi.com/searches/670a2e5171b0e81ca3f14005/images/0a2a7342d322f11a071da0b74b7eacd1794f5c025c2970240e208663bffb80232632178ff743fc41.png",
+        "title": "Perry's Steakhouse & Grille - Downtown Austin",
+        "type": "Steak",
+        "address": "114 W 7th St",
+        "hours": "Closed \u22c5 Opens 4 PM",
+        "place_id": "4620661984350240395",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=4620661984350240395&q=snapper",
+        "gps_coordinates": {
+          "latitude": 30.269423,
+          "longitude": -97.74353
+        }
+      },
+      {
+        "position": 3,
+        "rating": 4.4,
+        "reviews_original": "(803)",
+        "reviews": 803,
+        "description": "\"This was followed by the Snapper Tostada: $24.\"",
+        "lsig": "AB86z5XVNkH5NYsRCN5t2FCdM89-",
+        "thumbnail": "https://serpapi.com/searches/670a2e5171b0e81ca3f14005/images/0a2a7342d322f11a071da0b74b7eacd13422403d002cd90b2a236a489a4376f7c3e6ba7d2de9efec.jpeg",
+        "title": "Comedor",
+        "type": "Restaurant",
+        "address": "501 Colorado St",
+        "hours": "Closed \u22c5 Opens 5 PM",
+        "place_id": "6958240678106455106",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=6958240678106455106&q=snapper",
+        "gps_coordinates": {
+          "latitude": 30.2676,
+          "longitude": -97.74416
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&tbs=lf:1,lf_ui:9&tbm=lcl&q=snapper&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQjGp6BAhuEAE"
+  },
+  "knowledge_graph": {
+    "title": "Snapper Inc.",
+    "type": "Company",
+    "entity_type": "companies, company",
+    "kgmid": "/m/04y7bp9",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/04y7bp9&hl=en-US&q=Snapper+Inc.",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F04y7bp9&location=Austin%2CTexas%2CUnited+States&q=Snapper+Inc.",
+    "image": "https://serpapi.com/searches/670a2e5171b0e81ca3f14005/images/1b7f276e99a3e08f125b1ffd775b0529cd871a9f2b154894.png",
+    "description": "Snapper, Inc. is an American company, formerly based in McDonough, Georgia, that manufactures residential and professional lawn-care and snow-removal equipment.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Snapper_Inc."
+    },
+    "customer_service": "1 (800) 317-7833",
+    "founded": "1894",
+    "headquarters": "McDonough, GA",
+    "headquarters_links": [
+      {
+        "text": "McDonough, GA",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=McDonough,+Georgia&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmyvGtWRbjxD--buhvxp539ZJ6VHcjRsFxfMkFrQor0wrlpelJwmE4udmNWxr_fy2X3_0Pm-qUBDy7bdIzFFOezx66sbhvwaSWauDmM5RdhWP0Vh_rIwx0B4NzxL65dWiIKLz9WKMbV32ooat2r4lUmqjlzXDnqqW-quPyUV-8YanzE_TOA%3D%3D&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQmxMoAHoECD0QAg"
+      }
+    ],
+    "profiles": [
+      {
+        "name": "YouTube",
+        "link": "https://www.youtube.com/c/snappermowers",
+        "image": "https://serpapi.com/searches/670a2e5171b0e81ca3f14005/images/1b7f276e99a3e08f125b1ffd775b05295c8318bc85c44df07c602687f4e1277c16c53ecc5c26d657.png"
+      },
+      {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/Snapper/",
+        "image": "https://serpapi.com/searches/670a2e5171b0e81ca3f14005/images/1b7f276e99a3e08f125b1ffd775b05295c8318bc85c44df09a2299011b9c02f9d9fddb3f6c0c19fe.png"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Briggs & Stratton",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L2482KsyOLtZYddY2bN4FQOwuGqxye7HpZgDcIudD9nSCkcYm4pCZQiVzOEDM8dvduBvrgNARE-JavfVnhZTm1O57Y9vcBy1yVZUW6wDEmLGzwSM6zkaHHnXFioqY6Uzs3MK7StWGkfV22WNRf43of30Dz-qDeozR6_e9dYE7LBHlIQOGug1kWoNTVwH_EI9YwCDs3oSvGh0TfMUV31Ae6zZAjF2Rryrjw0JOzcJ1a6IikBwkZVdqZldRhP9XAxtNTM68uNw1H5rrcxuf5XFaZnjZw0O&q=Briggs+and+Stratton&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQs9oBKAB6BAg7EAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Briggs+and+Stratton&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L2482KsyOLtZYddY2bN4FQOwuGqxye7HpZgDcIudD9nSCkcYm4pCZQiVzOEDM8dvduBvrgNARE-JavfVnhZTm1O57Y9vcBy1yVZUW6wDEmLGzwSM6zkaHHnXFioqY6Uzs3MK7StWGkfV22WNRf43of30Dz-qDeozR6_e9dYE7LBHlIQOGug1kWoNTVwH_EI9YwCDs3oSvGh0TfMUV31Ae6zZAjF2Rryrjw0JOzcJ1a6IikBwkZVdqZldRhP9XAxtNTM68uNw1H5rrcxuf5XFaZnjZw0O",
+        "image": "https://serpapi.com/searches/670a2e5171b0e81ca3f14005/images/1b7f276e99a3e08f125b1ffd775b0529c8ac31d61ca29f548f902f50356cc07c3be0902edde7472eb61004a19b66de4e.jpeg"
+      },
+      {
+        "name": "The Toro Company",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L-U2oDXZc8HhxQaKM3bFk1MdAyENwSoWWylAj13en64gKYhA_gmE2ARLduOidnMo6fqSWMrR1x2WpFYp-manaNOhchrA0sGpLTPrpBlds9CEx_1eTPEUUMSuoOEF55HQ6H2XpOII7QjCBrad4pA6GvDQXu2m96GeVZKtJY7ZlybNolWvOfcYaNH4ZbiIwX1HjJDQ5Y61bZBjV3bhDQ-04hzo-hxzzk0hixqIIwargljeET3oLwwqW532SuNERuhwpo4uRdg%3D&q=The+Toro+Company&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQs9oBKAB6BAg7EAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=The+Toro+Company&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L-U2oDXZc8HhxQaKM3bFk1MdAyENwSoWWylAj13en64gKYhA_gmE2ARLduOidnMo6fqSWMrR1x2WpFYp-manaNOhchrA0sGpLTPrpBlds9CEx_1eTPEUUMSuoOEF55HQ6H2XpOII7QjCBrad4pA6GvDQXu2m96GeVZKtJY7ZlybNolWvOfcYaNH4ZbiIwX1HjJDQ5Y61bZBjV3bhDQ-04hzo-hxzzk0hixqIIwargljeET3oLwwqW532SuNERuhwpo4uRdg%3D",
+        "image": "https://serpapi.com/searches/670a2e5171b0e81ca3f14005/images/1b7f276e99a3e08f125b1ffd775b0529c8ac31d61ca29f548f902f50356cc07ce88348dd87b81b13f8bbc825185817a7.png"
+      },
+      {
+        "name": "MTD Holdings",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L_bUyFr5ORhA8Watm-WVF5YPwzhtTuEy0zUWXzhyAlAGO8fR6-nVnXEEcvIuXZGrgHojsNYF-nYZ_JFbhK-cq3vychD3tp8qPvT_KzXOx3Nm2TqvwIIEVGVzilFlPbAp0eMLU818rK7KKH21RMOSC5dIDLyOARXyiyrpjRVWGIDKkzgRjHEPGKEUExNRiGW7s2E27AcwdaToJ4y8CCRNsAq3MZY54yporxHYgUeUfs4Xji0CCkEhEecNaZaF1cJ1qBhzZS4%3D&q=MTD+Holdings&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQs9oBKAB6BAg7EA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=MTD+Holdings&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L_bUyFr5ORhA8Watm-WVF5YPwzhtTuEy0zUWXzhyAlAGO8fR6-nVnXEEcvIuXZGrgHojsNYF-nYZ_JFbhK-cq3vychD3tp8qPvT_KzXOx3Nm2TqvwIIEVGVzilFlPbAp0eMLU818rK7KKH21RMOSC5dIDLyOARXyiyrpjRVWGIDKkzgRjHEPGKEUExNRiGW7s2E27AcwdaToJ4y8CCRNsAq3MZY54yporxHYgUeUfs4Xji0CCkEhEecNaZaF1cJ1qBhzZS4%3D",
+        "image": "https://serpapi.com/searches/670a2e5171b0e81ca3f14005/images/1b7f276e99a3e08f125b1ffd775b0529c8ac31d61ca29f548f902f50356cc07c476c7d1c38e097527e018bee7c4e1eb7.png"
+      },
+      {
+        "name": "Husqvarna Group",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQbIv1ExaBKi1WETf0NQUA2jH50YKJUTC3fwGABrev5qM6bo1SzMdD2VDp_O2VLfne1FkBkh8yiXoPggbPlBcUtED0URYOOw6Fx77oLtUDZVr076M5pc_yFh4xu9o6jUy_GAkOUa7oOa3HFuPL2u58RWNfDBmAjIZ-02o3jIEd1aQuGBgCvJtN_byudsQs9Ts44wE14wOmWRzR5WJ_Ej7m3BuF2nzTAqHBsH8kOutUGfx8TNQTjF0FZNeTnzpJGDA9MREhFI%3D&q=Husqvarna&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQs9oBKAB6BAg7EBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Husqvarna&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQbIv1ExaBKi1WETf0NQUA2jH50YKJUTC3fwGABrev5qM6bo1SzMdD2VDp_O2VLfne1FkBkh8yiXoPggbPlBcUtED0URYOOw6Fx77oLtUDZVr076M5pc_yFh4xu9o6jUy_GAkOUa7oOa3HFuPL2u58RWNfDBmAjIZ-02o3jIEd1aQuGBgCvJtN_byudsQs9Ts44wE14wOmWRzR5WJ_Ej7m3BuF2nzTAqHBsH8kOutUGfx8TNQTjF0FZNeTnzpJGDA9MREhFI%3D",
+        "image": "https://serpapi.com/searches/670a2e5171b0e81ca3f14005/images/1b7f276e99a3e08f125b1ffd775b0529c8ac31d61ca29f548f902f50356cc07cc434217e61261cb48cf7e682ecb218fd.png"
+      }
+    ]
+  },
+  "inline_images": [
+    {
+      "source": "https://netunousa.com/snapper-yellow-tail-3/",
+      "thumbnail": "https://serpapi.com/searches/670a2e5171b0e81ca3f14005/images/dfd9260c4c3c951ac9b0f9e7967cc2b81178266a832ac5c1e5a41574818142b2.jpeg",
+      "original": "https://netunousa.com/wp-content/uploads/2024/04/Whole-Yellowtail-Snapper-WGGS.webp",
+      "title": "Whole Yellowtail Snapper | Netuno USA | Seafood Wholesale",
+      "source_name": "Netuno USA"
+    },
+    {
+      "source": "https://localsseafood.com/nc-seafood-guide/red-snapper/",
+      "thumbnail": "https://serpapi.com/searches/670a2e5171b0e81ca3f14005/images/dfd9260c4c3c951aed82feb8844ebfd9efec6b53066627d72849590faea86c8c.jpeg",
+      "original": "https://localsseafood.com/wp-content/uploads/2018/11/Red-Snapper.jpg",
+      "title": "Red Snapper - Locals Seafood",
+      "source_name": "Locals Seafood"
+    },
+    {
+      "source": "https://www.islander.org/2023/08/mangrove-snapper-invade-inshore-offshore-waters-fill-coolers/",
+      "thumbnail": "https://serpapi.com/searches/670a2e5171b0e81ca3f14005/images/dfd9260c4c3c951a7f6b03fda0879613f8068a9e30f08c86d0468d84f564024b.jpeg",
+      "original": "https://www.islander.org/wp-content/uploads/2023/08/fish-white-huge-red-snapper.jpg",
+      "title": "Mangrove snapper invade inshore, offshore waters, fill ...",
+      "source_name": "Anna Maria Islander"
+    },
+    {
+      "source": "https://www.aquabestnyc.com/products/red-snapper",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2HSvlGecUHxOrqOOD_OFVFH_z5zamTf3OfqX10O2051-AG_8qDBD11to&s"
+    },
+    {
+      "source": "https://www.fisheries.noaa.gov/species/vermilion-snapper",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTct0QL32oGuwDvEWPCMam8IdC0xfiQtXDsu1pqiT09mBE5eCHweiVswTw&s"
+    },
+    {
+      "source": "https://fishingbooker.com/blog/best-snapper-bait/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGVBykV4dCZuJ1mM7hBV7itAd9gDpygYLveFn2LkTQlGlKGDp-ZQqAB6I&s"
+    },
+    {
+      "source": "https://en.wikipedia.org/wiki/Lutjanidae",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxTdms-iaoojbHai0ADVuIiroh_b2qGSOtuXpn_xPGkRfXGqUbKCj5xCs&s"
+    },
+    {
+      "source": "https://safmc.net/species/snapper-cubera/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5myzDL6uhbevjnuANgXLcCUwDsNfcZUEayFRFztpP_Bh9oCDhKIckL4s&s"
+    },
+    {
+      "source": "https://www.youtube.com/watch?v=oO2x1xKmL5Q",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQjjZ_649aDQEmUOsqeIoaOGLU_UvqtB6tC1ekWlikhjlpCYsUk92slbE&s"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR_Y2H8lIHbL3F6Itlm6TrshwmBUHKpphYGIrc9wpQDzOvYFPb-LhwAeSNazI6pm0RV-to5CCiVuMBIgyN3g5NrAAQGKL9-E9DNOjoWBOefZFAEfHYLgfv9",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTgDJw2mofi7kQOWQDu65XUMCogtBFyaL3uW1_L0YswzEotE9DR3MUFprG9U6UTG7noAIxhyS1gZPaJReHMyGVoRNkSYQ",
+      "source": "H-E-B",
+      "title": "H-E-B Wild Caught Fresh Whole American Red Snapper lb",
+      "price": "$13.49",
+      "extracted_price": 13.49,
+      "location": "11 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IlVpNEtaN0g2STdlWXdia1BocGFZaUFzIiwicHJvZHVjdGlkIjoiNTk2MDc1MjE4NDEzNDIyNTA4IiwiY2F0YWxvZ2lkIjoiIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI1OTYwNzUyMTg0MTM0MjI1MDgiLCJpbWFnZURvY2lkIjoiMzIzMDQ3OTYwODAxNTM4Mzg1OCIsInJkcyI6IiIsInF1ZXJ5Ijoic25hcHBlciJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlVpNEtaN0g2STdlWXdia1BocGFZaUFzIiwicHJvZHVjdGlkIjoiNTk2MDc1MjE4NDEzNDIyNTA4IiwiY2F0YWxvZ2lkIjoiIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI1OTYwNzUyMTg0MTM0MjI1MDgiLCJpbWFnZURvY2lkIjoiMzIzMDQ3OTYwODAxNTM4Mzg1OCIsInJkcyI6IiIsInF1ZXJ5Ijoic25hcHBlciJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQlSPN_MPNR6qpXhxmzZjdn2egHEovVNsyzq95127U5lMt5fi0tYdnpegJjC5i32VhE937ivJwazrvPCD6pAzywZ-95uwU10ksm4WZcVOnMP4IIepwO2s4S",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+      "source": "Amazon.com - Seller",
+      "title": "Briggs & Stratton Snapper XD Walk Mower",
+      "rating": 1.0,
+      "reviews": 4,
+      "price": "$319.89",
+      "extracted_price": 319.89,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "eyJlaSI6IlVpNEtaN0g2STdlWXdia1BocGFZaUFzIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUwNTUxMjYwMDE0NDg3MDg1NTAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0MDg5NjIzNTExNjIyMjQ5OTQyIiwiaW1hZ2VEb2NpZCI6IjU0NjE3NDA1OTUwMTQ4NjA2OTAiLCJyZHMiOiJQQ181OTU3OTI0ODczMzM0MjU4NTV8UFJPRF9QQ181OTU3OTI0ODczMzM0MjU4NTUiLCJxdWVyeSI6InNuYXBwZXIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlVpNEtaN0g2STdlWXdia1BocGFZaUFzIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUwNTUxMjYwMDE0NDg3MDg1NTAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0MDg5NjIzNTExNjIyMjQ5OTQyIiwiaW1hZ2VEb2NpZCI6IjU0NjE3NDA1OTUwMTQ4NjA2OTAiLCJyZHMiOiJQQ181OTU3OTI0ODczMzM0MjU4NTV8UFJPRF9QQ181OTU3OTI0ODczMzM0MjU4NTUiLCJxdWVyeSI6InNuYXBwZXIifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQoMCyoJktQHHyfjWakK-ZJHWKlVMkGiBC1jMpSIHtXgH_3KYnLqjpP5fq05j7iWae3H1wUxlMcY2VTY8sKcKERg8ZelJhikMkIjo_2vM4",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRLUOcvQKUsjf4741IhWzsVCqQQhmHZ49Y3vTU9YOoNC5z2-SgvhKzwx9igsX64XDm_K81bVq4ZFqODGf1MzaoR6lZbFI9VW0339kI",
+      "source": "Eddie M's Seafood",
+      "title": "Whole Snapper",
+      "price": "$75.00",
+      "extracted_price": 75.0,
+      "immersive_product_page_token": "eyJlaSI6IlVpNEtaN0g2STdlWXdia1BocGFZaUFzIiwicHJvZHVjdGlkIjoiNzA4NjI3MzE5MTk0MjgzNjk4MyIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzA4NjI3MzE5MTk0MjgzNjk4MyIsImltYWdlRG9jaWQiOiI0NTQ2ODM0NDcyNzcxNjAyNjY2IiwicmRzIjoiIiwicXVlcnkiOiJzbmFwcGVyIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlVpNEtaN0g2STdlWXdia1BocGFZaUFzIiwicHJvZHVjdGlkIjoiNzA4NjI3MzE5MTk0MjgzNjk4MyIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzA4NjI3MzE5MTk0MjgzNjk4MyIsImltYWdlRG9jaWQiOiI0NTQ2ODM0NDcyNzcxNjAyNjY2IiwicmRzIjoiIiwicXVlcnkiOiJzbmFwcGVyIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQaK9CwusbBL8mc8nmyURv7nSyHiiPrvY-ZJHo-HhNyB3q4MbHCokZlLCk6mtlR_U7-wU1xKSxs5HrO27xiE0LhexYBdsPgPPfOKJLxvQ",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTuikhrcE3n4ZLMMTUWlc11fLXnfiHcRQnXUoXPc45kAT4clWb1GZjnFa0gE9Hv9b3R1Oa_lKHh6d-3-of475625JT7NCrh8pE",
+      "source": "Kunkel's Seafood & Steakhouse",
+      "title": "Red Snapper",
+      "price": "$30.00",
+      "extracted_price": 30.0,
+      "immersive_product_page_token": "eyJlaSI6IlVpNEtaN0g2STdlWXdia1BocGFZaUFzIiwicHJvZHVjdGlkIjoiMTQ3NzY0NTY3OTkyOTY4MzM5NjEiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0Nzc2NDU2Nzk5Mjk2ODMzOTYxIiwiaW1hZ2VEb2NpZCI6IjEzMzk3ODM2MDI2OTM2OTI1NDAzIiwicmRzIjoiIiwicXVlcnkiOiJzbmFwcGVyIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlVpNEtaN0g2STdlWXdia1BocGFZaUFzIiwicHJvZHVjdGlkIjoiMTQ3NzY0NTY3OTkyOTY4MzM5NjEiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0Nzc2NDU2Nzk5Mjk2ODMzOTYxIiwiaW1hZ2VEb2NpZCI6IjEzMzk3ODM2MDI2OTM2OTI1NDAzIiwicmRzIjoiIiwicXVlcnkiOiJzbmFwcGVyIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRmyyLvEg16qYgek24ernqH0rCBqbbiobOFW5k7YV7bYNZEKkqviu3mOdphkSHCxM258MhXGDefbEbeZ21qWumebIiKiWGI0yO8vocaTNORVxvlqqLW7eec",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRGj77Bp2MtyuBjRh6ORUjyPRrKInP7XrHQbcgGLvMacgiVIf4ApZG2EbFv27Di12xoo3RrxcOgWtVxjU6qqDaMIb7zQERnmacn",
+      "source": "Sam's Club",
+      "title": "Member's Mark Snapper Fillet, priced per pound",
+      "price": "$10.98",
+      "extracted_price": 10.98,
+      "location": "12 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IlVpNEtaN0g2STdlWXdia1BocGFZaUFzIiwicHJvZHVjdGlkIjoiMTczOTExNjkyNTMxMzk4Mjk4NTAiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MzkxMTY5MjUzMTM5ODI5ODUwIiwiaW1hZ2VEb2NpZCI6IjcyMjc0NTc5ODQ3MTQ1NDQ4MTUiLCJyZHMiOiIiLCJxdWVyeSI6InNuYXBwZXIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlVpNEtaN0g2STdlWXdia1BocGFZaUFzIiwicHJvZHVjdGlkIjoiMTczOTExNjkyNTMxMzk4Mjk4NTAiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MzkxMTY5MjUzMTM5ODI5ODUwIiwiaW1hZ2VEb2NpZCI6IjcyMjc0NTc5ODQ3MTQ1NDQ4MTUiLCJyZHMiOiIiLCJxdWVyeSI6InNuYXBwZXIifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTxeUwF5-M4uYyofHohq9j2SRrsLyv1Hi1L1WBDAt6gLQIDQ4xvyIcMA5BFUibt-Ane1eenMhCa7p6AeaL_Dd35iKX_aluFKvitic-Sdm0NUNSsRoan51mtUg",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTgDJw2mofi7kQOWQDu65XUMCogtBFyaL3uW1_L0YswzEotE9DR3MUFprG9U6UTG7noAIxhyS1gZPaJReHMyGVoRNkSYQ",
+      "source": "H-E-B",
+      "title": "H-E-B Wild Caught Fresh American Red Snapper Fillet lb",
+      "price": "$31.17",
+      "extracted_price": 31.17,
+      "location": "10 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IlVpNEtaN0g2STdlWXdia1BocGFZaUFzIiwicHJvZHVjdGlkIjoiNzU3MDM0OTg3Mjk4NjcwNjYyNyIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzU3MDM0OTg3Mjk4NjcwNjYyNyIsImltYWdlRG9jaWQiOiIxNjYyNDEyODY4MTk1ODgyOTMzNyIsInJkcyI6IiIsInF1ZXJ5Ijoic25hcHBlciJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlVpNEtaN0g2STdlWXdia1BocGFZaUFzIiwicHJvZHVjdGlkIjoiNzU3MDM0OTg3Mjk4NjcwNjYyNyIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzU3MDM0OTg3Mjk4NjcwNjYyNyIsImltYWdlRG9jaWQiOiIxNjYyNDEyODY4MTk1ODgyOTMzNyIsInJkcyI6IiIsInF1ZXJ5Ijoic25hcHBlciJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQF990U5EOL0ja8YPZnhznKdMkqGW8tebXlFFZceQKuOG88Aqv46K5gmaKeXd3f2xjqM9kNZvePu-AIMeaFq4QH3BEnQgLFpeAsiWGA7h27dA8tEM6_mmLc2Q",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+      "source": "Amazon.com",
+      "title": "Briggs & Stratton Snapper XD 82V 21\" Self-Propelled Push Lawn Mower",
+      "rating": 4.2,
+      "reviews": 5,
+      "price": "$662.95",
+      "extracted_price": 662.95,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "eyJlaSI6IlVpNEtaN0g2STdlWXdia1BocGFZaUFzIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTYyMDAyMDE1MTMzNDkyOTI2NjgiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE5MDE3ODcxNDg5NDgxNTk2MDEiLCJpbWFnZURvY2lkIjoiMzY5MDI4MDExNDgyMzM5NDUyNSIsInJkcyI6IlBDXzU0OTgzNjY3NjE4MTIwNTU2MDN8UFJPRF9QQ181NDk4MzY2NzYxODEyMDU1NjAzIiwicXVlcnkiOiJzbmFwcGVyIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlVpNEtaN0g2STdlWXdia1BocGFZaUFzIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTYyMDAyMDE1MTMzNDkyOTI2NjgiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE5MDE3ODcxNDg5NDgxNTk2MDEiLCJpbWFnZURvY2lkIjoiMzY5MDI4MDExNDgyMzM5NDUyNSIsInJkcyI6IlBDXzU0OTgzNjY3NjE4MTIwNTU2MDN8UFJPRF9QQ181NDk4MzY2NzYxODEyMDU1NjAzIiwicXVlcnkiOiJzbmFwcGVyIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQC7cUjq3xl_kqIJRhY5Qg8hQ5yVbQhwFvaGL-WI3V0NXmh4lOI7jo8KmQNbt5mNd2rh1bEPf5FZrnd1163XFsHkVSb02UEFqG677y0giLw",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQmIUbWw2uJkndSis1whaRUZFmzykk9tUgcpniU1J0c5W73E4YURXiZTa5blSpvKL7SasR0I3Rbjpfz05mVVX3Lm-FP8OVPHE9lyQ",
+      "source": "TarponBay Shop",
+      "title": "TarponBay Shop Red Snapper 8-10 oz",
+      "price": "$9.95",
+      "extracted_price": 9.95,
+      "immersive_product_page_token": "eyJlaSI6IlVpNEtaN0g2STdlWXdia1BocGFZaUFzIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzE2MDQ5NjY3NDk4NDgwMjI0MSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzE2NzY1NjA5MjI3MTU1ODkyMSIsImltYWdlRG9jaWQiOiI2MDMwMDY4ODUwMDAxNTY2OTA3IiwicmRzIjoiIiwicXVlcnkiOiJzbmFwcGVyIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlVpNEtaN0g2STdlWXdia1BocGFZaUFzIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzE2MDQ5NjY3NDk4NDgwMjI0MSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzE2NzY1NjA5MjI3MTU1ODkyMSIsImltYWdlRG9jaWQiOiI2MDMwMDY4ODUwMDAxNTY2OTA3IiwicmRzIjoiIiwicXVlcnkiOiJzbmFwcGVyIn0%3D"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Are snapper good eating fish?",
+      "snippet": "Red snapper has long been considered one of the most delicious deep-sea deli- cacies on the market. Its brilliant color- ing and at t r act i v e appearance is only exceeded by the juicy, white, fine -flavored flesh. Most of the snapper on the market is caught in the Gulf of Mexico and landed in Florida.",
+      "title": "80 FOOD FISH FACTS The red snapper is one of the most delicious ...",
+      "link": "https://spo.nmfs.noaa.gov/sites/default/files/pdf-content/foodfishfacts_0.pdf",
+      "displayed_link": "https://spo.nmfs.noaa.gov \u203a default \u203a files \u203a pdf-content",
+      "source_logo": "https://serpapi.com/searches/670a2e5171b0e81ca3f14005/images/e65fdb906b883cc6d894f9fe6bad2c5623a5f7d9e851cbdb8c94b7df429cb3e3.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1RXSnhUVk5VYTNodWFGWkNYM2hMYVdNM1FqTmtha1UwVldKNE4yWnpaM2xuYld4TFV6QTFSVTFKYlhOTWVFd3lhM1kxUVV3eVRVTTRORXBsY1RkdE1EaDJXVFZXRWhkVmFUUkxXamRJTmtrM1pWbDNZbXRRYUhCaFdXbEJjeG9pUVVaWWNrVmpjblV0Vm1oa1VuVjFXbE14UmxGSlQyTTNiMVphWlhkRFRpMXpRUSIsImZjdiI6IjMiLCJlaSI6IlVpNEtaN0g2STdlWXdia1BocGFZaUFzIiwicWMiOiJDZ2R6Ym1Gd2NHVnlFQUI5eVRzdlB3IiwicXVlc3Rpb24iOiJBcmUgc25hcHBlciBnb29kIGVhdGluZyBmaXNoPyIsImxrIjoiR2h4aGNtVWdjMjVoY0hCbGNpQm5iMjlrSUdWaGRHbHVaeUJtYVhObyIsImJzIjoiYy1OeTRwSjFMRXBWS001TExDaElMVkpJejg5UFVVaE5MTW5NUzFkSXl5ek9zSmQ0VVdna0p5V1RpRWNObHhHWHFHY3hYRHBSb1NReko3RWdNOUZlNHIyQmtaaVVTQ1lXT1M1TkxxSHdqTVFTQmFCa0lremFYcUxOeGtoQWlxOGNKQUVYNVRMbGtvTXBMY2xJVlVqTFNTekxMMUxJVDBOb1d5Y00wZ2F6QktKQWdCRUEiLCJpZCI6ImZjX1VpNEtaN0g2STdlWXdia1BocGFZaUFzXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1RXSnhUVk5VYTNodWFGWkNYM2hMYVdNM1FqTmtha1UwVldKNE4yWnpaM2xuYld4TFV6QTFSVTFKYlhOTWVFd3lhM1kxUVV3eVRVTTRORXBsY1RkdE1EaDJXVFZXRWhkVmFUUkxXamRJTmtrM1pWbDNZbXRRYUhCaFdXbEJjeG9pUVVaWWNrVmpjblV0Vm1oa1VuVjFXbE14UmxGSlQyTTNiMVphWlhkRFRpMXpRUSIsImZjdiI6IjMiLCJlaSI6IlVpNEtaN0g2STdlWXdia1BocGFZaUFzIiwicWMiOiJDZ2R6Ym1Gd2NHVnlFQUI5eVRzdlB3IiwicXVlc3Rpb24iOiJBcmUgc25hcHBlciBnb29kIGVhdGluZyBmaXNoPyIsImxrIjoiR2h4aGNtVWdjMjVoY0hCbGNpQm5iMjlrSUdWaGRHbHVaeUJtYVhObyIsImJzIjoiYy1OeTRwSjFMRXBWS001TExDaElMVkpJejg5UFVVaE5MTW5NUzFkSXl5ek9zSmQ0VVdna0p5V1RpRWNObHhHWHFHY3hYRHBSb1NReko3RWdNOUZlNHIyQmtaaVVTQ1lXT1M1TkxxSHdqTVFTQmFCa0lremFYcUxOeGtoQWlxOGNKQUVYNVRMbGtvTXBMY2xJVlVqTFNTekxMMUxJVDBOb1d5Y00wZ2F6QktKQWdCRUEiLCJpZCI6ImZjX1VpNEtaN0g2STdlWXdia1BocGFZaUFzXzIifQ%3D%3D"
+    },
+    {
+      "question": "Is snapper a tilapia?",
+      "snippet": "Unfortunately, confusion between species and high costs have led some restaurants to mislabel tilapia or rockfish as snapper. While those substitutes' flesh may look similar to a snapper, that snapper taste is unmistakable.",
+      "title": "Your Essential Guide to Snapper | What Kind of Fish is Snapper?",
+      "link": "https://fultonfishmarket.com/blogs/articles/essential-guide-to-snapper#:~:text=Unfortunately%2C%20confusion%20between%20species%20and,that%20snapper%20taste%20is%20unmistakable.",
+      "displayed_link": "https://fultonfishmarket.com \u203a blogs \u203a articles \u203a essential-...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOuSTZXOyCrmmOIBl0-sD8ypv0Htt1O5gJKZ5_KqHpcw&s",
+      "source_logo": "https://serpapi.com/searches/670a2e5171b0e81ca3f14005/images/e65fdb906b883cc6d894f9fe6bad2c567537cb2094ddb973c7cf3f636a0f512d.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1RXSnhUVk5VYTNodWFGWkNYM2hMYVdNM1FqTmtha1UwVldKNE4yWnpaM2xuYld4TFV6QTFSVTFKYlhOTWVFd3lhM1kxUVV3eVRVTTRORXBsY1RkdE1EaDJXVFZXRWhkVmFUUkxXamRJTmtrM1pWbDNZbXRRYUhCaFdXbEJjeG9pUVVaWWNrVmpjblV0Vm1oa1VuVjFXbE14UmxGSlQyTTNiMVphWlhkRFRpMXpRUSIsImZjdiI6IjMiLCJlaSI6IlVpNEtaN0g2STdlWXdia1BocGFZaUFzIiwicWMiOiJDZ2R6Ym1Gd2NHVnlFQUI5eVRzdlB3IiwicXVlc3Rpb24iOiJJcyBzbmFwcGVyIGEgdGlsYXBpYT8iLCJsayI6IkdoUnBjeUJ6Ym1Gd2NHVnlJR0VnZEdsc1lYQnBZUSIsImJzIjoiYy1OeTRwSjFMRXBWS001TExDaElMVkpJejg5UFVVaE5MTW5NUzFkSXl5ek9zSmQ0VVdna0p5V1RpRWNObHhHWHFHY3hYRHBSb1NReko3RWdNOUZlNHIyQmtaaVVTQ1lXT1M1TkxxSHdqTVFTQmFCa0lremFYcUxOeGtoQWlxOGNKQUVYNVRMbGtvTXBMY2xJVlVqTFNTekxMMUxJVDBOb1d5Y00wZ2F6QktKQWdCRUEiLCJpZCI6ImZjX1VpNEtaN0g2STdlWXdia1BocGFZaUFzXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1RXSnhUVk5VYTNodWFGWkNYM2hMYVdNM1FqTmtha1UwVldKNE4yWnpaM2xuYld4TFV6QTFSVTFKYlhOTWVFd3lhM1kxUVV3eVRVTTRORXBsY1RkdE1EaDJXVFZXRWhkVmFUUkxXamRJTmtrM1pWbDNZbXRRYUhCaFdXbEJjeG9pUVVaWWNrVmpjblV0Vm1oa1VuVjFXbE14UmxGSlQyTTNiMVphWlhkRFRpMXpRUSIsImZjdiI6IjMiLCJlaSI6IlVpNEtaN0g2STdlWXdia1BocGFZaUFzIiwicWMiOiJDZ2R6Ym1Gd2NHVnlFQUI5eVRzdlB3IiwicXVlc3Rpb24iOiJJcyBzbmFwcGVyIGEgdGlsYXBpYT8iLCJsayI6IkdoUnBjeUJ6Ym1Gd2NHVnlJR0VnZEdsc1lYQnBZUSIsImJzIjoiYy1OeTRwSjFMRXBWS001TExDaElMVkpJejg5UFVVaE5MTW5NUzFkSXl5ek9zSmQ0VVdna0p5V1RpRWNObHhHWHFHY3hYRHBSb1NReko3RWdNOUZlNHIyQmtaaVVTQ1lXT1M1TkxxSHdqTVFTQmFCa0lremFYcUxOeGtoQWlxOGNKQUVYNVRMbGtvTXBMY2xJVlVqTFNTekxMMUxJVDBOb1d5Y00wZ2F6QktKQWdCRUEiLCJpZCI6ImZjX1VpNEtaN0g2STdlWXdia1BocGFZaUFzXzIifQ%3D%3D"
+    },
+    {
+      "question": "What is a snapper?",
+      "snippet": "a. : any of numerous active carnivorous fishes (family Lutjanidae) of warm seas important as food and often as sport fishes. b. : any of several immature fishes (such as the young of the bluefish) that resemble a snapper.",
+      "title": "Snapper Definition & Meaning - Merriam-Webster",
+      "link": "https://www.merriam-webster.com/dictionary/snapper#:~:text=plural%20also%20snapper-,a,bluefish)%20that%20resemble%20a%20snapper",
+      "displayed_link": "https://www.merriam-webster.com \u203a dictionary \u203a snapper",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1RXSnhUVk5VYTNodWFGWkNYM2hMYVdNM1FqTmtha1UwVldKNE4yWnpaM2xuYld4TFV6QTFSVTFKYlhOTWVFd3lhM1kxUVV3eVRVTTRORXBsY1RkdE1EaDJXVFZXRWhkVmFUUkxXamRJTmtrM1pWbDNZbXRRYUhCaFdXbEJjeG9pUVVaWWNrVmpjblV0Vm1oa1VuVjFXbE14UmxGSlQyTTNiMVphWlhkRFRpMXpRUSIsImZjdiI6IjMiLCJlaSI6IlVpNEtaN0g2STdlWXdia1BocGFZaUFzIiwicWMiOiJDZ2R6Ym1Gd2NHVnlFQUI5eVRzdlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgc25hcHBlcj8iLCJsayI6IkdnNTNhR0YwSUdFZ2MyNWhjSEJsY2ciLCJicyI6ImMtTnk0cEoxTEVwVktNNUxMQ2hJTFZKSXo4OVBVVWhOTE1uTVMxZEl5eXpPc0pkNFVXZ2tKeVdUaUVjTmx4R1hxR2N4WERwUm9TUXpKN0VnTTlGZTRyMkJrWmlVU0NZV09TNU5McUh3ak1RU0JhQmtJa3phWHFMTnhraEFpcThjSkFFWDVUTGxrb01wTGNsSVZVakxTU3pMTDFMSVQwTm9XeWNNMGdhekJLSkFnQkVBIiwiaWQiOiJmY19VaTRLWjdINkk3ZVl3YmtQaHBhWWlBc18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1RXSnhUVk5VYTNodWFGWkNYM2hMYVdNM1FqTmtha1UwVldKNE4yWnpaM2xuYld4TFV6QTFSVTFKYlhOTWVFd3lhM1kxUVV3eVRVTTRORXBsY1RkdE1EaDJXVFZXRWhkVmFUUkxXamRJTmtrM1pWbDNZbXRRYUhCaFdXbEJjeG9pUVVaWWNrVmpjblV0Vm1oa1VuVjFXbE14UmxGSlQyTTNiMVphWlhkRFRpMXpRUSIsImZjdiI6IjMiLCJlaSI6IlVpNEtaN0g2STdlWXdia1BocGFZaUFzIiwicWMiOiJDZ2R6Ym1Gd2NHVnlFQUI5eVRzdlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgc25hcHBlcj8iLCJsayI6IkdnNTNhR0YwSUdFZ2MyNWhjSEJsY2ciLCJicyI6ImMtTnk0cEoxTEVwVktNNUxMQ2hJTFZKSXo4OVBVVWhOTE1uTVMxZEl5eXpPc0pkNFVXZ2tKeVdUaUVjTmx4R1hxR2N4WERwUm9TUXpKN0VnTTlGZTRyMkJrWmlVU0NZV09TNU5McUh3ak1RU0JhQmtJa3phWHFMTnhraEFpcThjSkFFWDVUTGxrb01wTGNsSVZVakxTU3pMTDFMSVQwTm9XeWNNMGdhekJLSkFnQkVBIiwiaWQiOiJmY19VaTRLWjdINkk3ZVl3YmtQaHBhWWlBc18yIn0%3D"
+    },
+    {
+      "question": "What is the flavor of snapper?",
+      "snippet": "Red Snapper Taste It has a sweet, mild but unique flavor. It has a peculiarly fresh, almost nutty flavor. Red snapper flesh is considered delicious and the throats are considered a delicacy. It is one of the most sought-after offshore fish.",
+      "title": "What Are the Health Benefits of Red Snapper? - WebMD",
+      "date": "Jun 14, 2024",
+      "link": "https://www.webmd.com/diet/health-benefits-of-red-snapper#:~:text=Red%20Snapper%20Taste,-According%20to%20the&text=It%20has%20a%20sweet%2C%20mild,most%20sought%2Dafter%20offshore%20fish.",
+      "displayed_link": "https://www.webmd.com \u203a diet \u203a health-benefits-of-red-s...",
+      "source_logo": "https://serpapi.com/searches/670a2e5171b0e81ca3f14005/images/e65fdb906b883cc6d894f9fe6bad2c569cbdf0898232c123e63f72a478dfbec0.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1RXSnhUVk5VYTNodWFGWkNYM2hMYVdNM1FqTmtha1UwVldKNE4yWnpaM2xuYld4TFV6QTFSVTFKYlhOTWVFd3lhM1kxUVV3eVRVTTRORXBsY1RkdE1EaDJXVFZXRWhkVmFUUkxXamRJTmtrM1pWbDNZbXRRYUhCaFdXbEJjeG9pUVVaWWNrVmpjblV0Vm1oa1VuVjFXbE14UmxGSlQyTTNiMVphWlhkRFRpMXpRUSIsImZjdiI6IjMiLCJlaSI6IlVpNEtaN0g2STdlWXdia1BocGFZaUFzIiwicWMiOiJDZ2R6Ym1Gd2NHVnlFQUI5eVRzdlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBmbGF2b3Igb2Ygc25hcHBlcj8iLCJsayI6IkdnNXpibUZ3Y0dWeUlHWnNZWFp2Y2ciLCJicyI6ImMtTnk0cEoxTEVwVktNNUxMQ2hJTFZKSXo4OVBVVWhOTE1uTVMxZEl5eXpPc0pkNFVXZ2tKeVdUaUVjTmx4R1hxR2N4WERwUm9TUXpKN0VnTTlGZTRyMkJrWmlVU0NZV09TNU5McUh3ak1RU0JhQmtJa3phWHFMTnhraEFpcThjSkFFWDVUTGxrb01wTGNsSVZVakxTU3pMTDFMSVQwTm9XeWNNMGdhekJLSkFnQkVBIiwiaWQiOiJmY19VaTRLWjdINkk3ZVl3YmtQaHBhWWlBc18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1RXSnhUVk5VYTNodWFGWkNYM2hMYVdNM1FqTmtha1UwVldKNE4yWnpaM2xuYld4TFV6QTFSVTFKYlhOTWVFd3lhM1kxUVV3eVRVTTRORXBsY1RkdE1EaDJXVFZXRWhkVmFUUkxXamRJTmtrM1pWbDNZbXRRYUhCaFdXbEJjeG9pUVVaWWNrVmpjblV0Vm1oa1VuVjFXbE14UmxGSlQyTTNiMVphWlhkRFRpMXpRUSIsImZjdiI6IjMiLCJlaSI6IlVpNEtaN0g2STdlWXdia1BocGFZaUFzIiwicWMiOiJDZ2R6Ym1Gd2NHVnlFQUI5eVRzdlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBmbGF2b3Igb2Ygc25hcHBlcj8iLCJsayI6IkdnNXpibUZ3Y0dWeUlHWnNZWFp2Y2ciLCJicyI6ImMtTnk0cEoxTEVwVktNNUxMQ2hJTFZKSXo4OVBVVWhOTE1uTVMxZEl5eXpPc0pkNFVXZ2tKeVdUaUVjTmx4R1hxR2N4WERwUm9TUXpKN0VnTTlGZTRyMkJrWmlVU0NZV09TNU5McUh3ak1RU0JhQmtJa3phWHFMTnhraEFpcThjSkFFWDVUTGxrb01wTGNsSVZVakxTU3pMTDFMSVQwTm9XeWNNMGdhekJLSkFnQkVBIiwiaWQiOiJmY19VaTRLWjdINkk3ZVl3YmtQaHBhWWlBc18yIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Snapper | Legendary",
+      "link": "https://www.snapper.com/na/en_us/home.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.snapper.com/na/en_us/home.html&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQFnoECB4QAQ",
+      "displayed_link": "https://www.snapper.com \u203a en_us",
+      "favicon": "https://serpapi.com/searches/670a2e5171b0e81ca3f14005/images/c481e5bb7b361b098ad2d1250fa4163c9ef15bba21d958e45a5ee430596bc1a3.png",
+      "snippet": "Snapper.\u00ae A legendary brand that started it all. We created a category when we invented the industry's first self-propelled rotary lawn mower in 1951 and we ...",
+      "snippet_highlighted_words": [
+        "Snapper"
+      ],
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "Parts & Service",
+            "link": "https://www.snapper.com/na/en_us/support/parts-and-service.html",
+            "snippet": "Find parts, service and manual information for your Snapper ..."
+          },
+          {
+            "title": "Push Mowers",
+            "link": "https://www.snapper.com/na/en_us/products/residential/push-mowers.html",
+            "snippet": "A Snapper push mower is versatile for small jobs and powerful for ..."
+          },
+          {
+            "title": "Where To Buy",
+            "link": "https://www.snapper.com/na/en_us/where-to-buy.html",
+            "snippet": "Snapper products can be found at your local dealer or other ..."
+          },
+          {
+            "title": "Residential Products",
+            "link": "https://www.snapper.com/na/en_us/products/residential.html",
+            "snippet": "Snapper residential products are powerful and easy-to-use - the ..."
+          },
+          {
+            "title": "Dealer Locator",
+            "link": "https://www.snapper.com/na/en_us/support/product-selector.html",
+            "snippet": "Residential Locator - Where To Buy - International Dealers - ..."
+          }
+        ]
+      },
+      "source": "Snapper"
+    },
+    {
+      "position": 2,
+      "title": "Lutjanidae",
+      "link": "https://en.wikipedia.org/wiki/Lutjanidae",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Lutjanidae&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQFnoECE0QAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Lutjanidae",
+      "favicon": "https://serpapi.com/searches/670a2e5171b0e81ca3f14005/images/c481e5bb7b361b098ad2d1250fa4163cd71357afe745949b88e1a4d98a8a0960.png",
+      "snippet": "Lutjanidae or snappers are a family of perciform fish, mainly marine, but with some members inhabiting estuaries, feeding in fresh water.",
+      "snippet_highlighted_words": [
+        "snappers"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 3,
+      "title": "Snapper | Saltwater, Reef, Edible",
+      "link": "https://www.britannica.com/animal/snapper",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.britannica.com/animal/snapper&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQFnoECEsQAQ",
+      "displayed_link": "https://www.britannica.com \u203a ... \u203a Food",
+      "favicon": "https://serpapi.com/searches/670a2e5171b0e81ca3f14005/images/c481e5bb7b361b098ad2d1250fa4163c8ce95f14cd69e82553a138a9296658a0.png",
+      "date": "Sep 5, 2024",
+      "snippet": "Active, schooling fishes with elongated bodies, large mouths, sharp canine teeth, and blunt or forked tails, snappers are usually rather large, ...",
+      "snippet_highlighted_words": [
+        "snappers"
+      ],
+      "source": "Britannica"
+    },
+    {
+      "position": 4,
+      "title": "Red Snapper",
+      "link": "https://www.fisheries.noaa.gov/species/red-snapper",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fisheries.noaa.gov/species/red-snapper&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQFnoECEwQAQ",
+      "displayed_link": "https://www.fisheries.noaa.gov \u203a species \u203a red-snapper",
+      "favicon": "https://serpapi.com/searches/670a2e5171b0e81ca3f14005/images/c481e5bb7b361b098ad2d1250fa4163c0b24db842b72bd8a670c53149e20bb2b.png",
+      "snippet": "US wild-caught red snapper is a smart seafood choice because it is sustainably managed under rebuilding plans that allow limited harvest by US fishermen.",
+      "snippet_highlighted_words": [
+        "snapper"
+      ],
+      "source": "NOAA Fisheries (.gov)"
+    },
+    {
+      "position": 5,
+      "title": "My favorite fish to grill? Red snapper \u2013 it\u2019s versatile, it\u2019s ...",
+      "link": "https://www.facebook.com/AndrewZimmern/videos/my-favorite-fish-to-grill-red-snapper-its-versatile-its-economical-and-it-cooks-/750398443960675/",
+      "displayed_link": "430+ reactions \u00b7 3 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7V3OByQiQWb2stmhUO8ZC3nfHobQ-WGTLp94TgK3Ii0Hu&s",
+      "favicon": "https://serpapi.com/searches/670a2e5171b0e81ca3f14005/images/c481e5bb7b361b098ad2d1250fa4163cb072cc1d0b2012d722b5f5164d8c6687.png",
+      "snippet": "Red snapper \u2013 it's versatile, it's economical and it cooks quickly. Watch as I share a few simple tips to take your grilled fish to the next level.",
+      "duration": "1:21",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTl7p4roT47q2NUw9kDfygAnWiYTW3uQQSv9A",
+      "source": "Facebook \u00b7 Andrew Zimmern"
+    },
+    {
+      "position": 6,
+      "title": "openSUSE/snapper: Manage filesystem snapshots and ...",
+      "link": "https://github.com/openSUSE/snapper",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/openSUSE/snapper&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQFnoECEoQAQ",
+      "displayed_link": "https://github.com \u203a openSUSE \u203a snapper",
+      "favicon": "https://serpapi.com/searches/670a2e5171b0e81ca3f14005/images/c481e5bb7b361b098ad2d1250fa4163c04e3776fc1e62a3fbabc69c5dc3496d9.png",
+      "snippet": "Snapper is a tool for Linux file system snapshot management. Apart from the obvious creation and deletion of snapshots it can compare snapshots and revert ...",
+      "snippet_highlighted_words": [
+        "Snapper"
+      ],
+      "source": "GitHub"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=snapper&udm=2&source=univ&fir=Rd14ikojLGZaEM%252CvRB4L3MK99tA7M%252C_%253BUtmJLML0qi-yLM%252CLE_OS0Z_x69i1M%252C_%253BcJ3TOsEvvyXcrM%252CeuehhbWhuVfWlM%252C_%253BHEQkeVZlwwCsWM%252CZN12djyM54vIrM%252C_%253BK94kQB6WvACsCM%252Cf1ThkC1cSXv74M%252C_%253B-CgNz3J6gNQGSM%252CMgga5as0qh4oxM%252C_%253B1nIqpsmRH9krnM%252Cehkr0egVoZ8ZQM%252C_%253BXgESrP7rzAN_RM%252Cdqqty0DNMKyqAM%252C_%253BMyPMiH0SWo_ZNM%252CtCTJZjetNbJ-XM%252C_&usg=AI4_-kSEbvWEZPNp4AuVUT-Qbumkb2z73Q&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQ7Al6BAgREAY",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=snapper",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Snappers fish",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Snappers+fish&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQ1QJ6BAhqEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Snappers+fish"
+    },
+    {
+      "block_position": 1,
+      "query": "Snapper in Spanish",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Snapper+in+Spanish&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQ1QJ6BAhrEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Snapper+in+Spanish"
+    },
+    {
+      "block_position": 1,
+      "query": "Snapper lawn mower",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Snapper+lawn+mower&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQ1QJ6BAhoEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Snapper+lawn+mower"
+    },
+    {
+      "block_position": 1,
+      "query": "Snapper recipes",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Snapper+recipes&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQ1QJ6BAhlEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Snapper+recipes"
+    },
+    {
+      "block_position": 1,
+      "query": "Snapper in Chinese",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Snapper+in+Chinese&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQ1QJ6BAhkEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Snapper+in+Chinese"
+    },
+    {
+      "block_position": 1,
+      "query": "Snapper Food",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Snapper+Food&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQ1QJ6BAhiEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Snapper+Food"
+    },
+    {
+      "block_position": 1,
+      "query": "Red snapper",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Red+snapper&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQ1QJ6BAheEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Red+snapper"
+    },
+    {
+      "block_position": 1,
+      "query": "Snapper Linux",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Snapper+Linux&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQ1QJ6BAhnEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Snapper+Linux"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Lawn Mowers",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=lawn+mowers+snapper&shoprs=GAkqB3NuYXBwZXIyDwgJEgtMYXduIE1vd2Vyc2AB&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQip4GKAF6BAg0EEM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lawn+mowers+snapper"
+    },
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=snapper+nearby&shoprs=GAMqB3NuYXBwZXIyDAgDEgZOZWFyYnkYAliFjSFgAQ&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQip4GKAJ6BAg0EEQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=snapper+nearby"
+    },
+    {
+      "query": "Riding",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=riding+snapper&shoprs=GAEqB3NuYXBwZXIyFggBEgZSaWRpbmc6Cgi_3TsQwd07MAJYhY0hYAE&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQip4GKAN6BAg0EEU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=riding+snapper"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=snapper+for+sale&shoprs=GBIqB3NuYXBwZXIyDAgSEghGb3IgU2FsZWAB&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQip4GKAR6BAg0EEY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=snapper+for+sale"
+    },
+    {
+      "query": "Lawn Mower Blades",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=lawn+mower+blades+snapper&shoprs=GAkqB3NuYXBwZXIyFQgJEhFMYXduIE1vd2VyIEJsYWRlc2AB&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQip4GKAV6BAg0EEc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lawn+mower+blades+snapper"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=snapper+sale&shoprs=EgRKAhgBGAYqB3NuYXBwZXIyEwgGEgdPbiBzYWxlGAIiBEoCGAFYhY0hYAE&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQip4GKAZ6BAg0EEg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=snapper+sale"
+    },
+    {
+      "query": "Size",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=size+snapper&shoprs=GBIqB3NuYXBwZXIyCAgSEgRTaXplYAE&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQip4GKAd6BAg0EEk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=size+snapper"
+    },
+    {
+      "query": "Fresh Fish",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=fresh+fish+snapper&shoprs=GAkqB3NuYXBwZXIyDggJEgpGcmVzaCBGaXNoYAE&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQip4GKAh6BAg0EEo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=fresh+fish+snapper"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=buy+snapper&shoprs=GBIqB3NuYXBwZXIyBwgSEgNCdXlgAQ&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQip4GKAl6BAg0EEs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=buy+snapper"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=reviews+snapper&shoprs=GBIqB3NuYXBwZXIyCwgSEgdSZXZpZXdzYAE&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQip4GKAp6BAg0EEw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=reviews+snapper"
+    },
+    {
+      "query": "Walk-behind",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=walk-behind+snapper&shoprs=GAEqB3NuYXBwZXIyGwgBEgtXYWxrLWJlaGluZDoKCL_dOxDE3TswAliFjSFgAQ&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQip4GKAt6BAg0EE0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=walk-behind+snapper"
+    },
+    {
+      "query": "Lawn Mower Mulching Parts & ...",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=lawn+mower+mulching+parts+%26+attachments+snapper&shoprs=GAkqB3NuYXBwZXIyKwgJEidMYXduIE1vd2VyIE11bGNoaW5nIFBhcnRzICYgQXR0YWNobWVudHNgAQ&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQip4GKAx6BAg0EE4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lawn+mower+mulching+parts+%26+attachments+snapper"
+    },
+    {
+      "query": "Under $80",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=snapper+under+$80&shoprs=Eg0SCxEAAAAA0BKTQRgBGAUqB3NuYXBwZXIyIggFEglVbmRlciAkODAYAiINEgsRAAAAANASk0EYASoCGAFYhY0hYAE&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQip4GKA16BAg0EE8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=snapper+under+%2480"
+    },
+    {
+      "query": "Small Engine Parts",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=small+engine+parts+snapper&shoprs=GAkqB3NuYXBwZXIyFggJEhJTbWFsbCBFbmdpbmUgUGFydHNgAQ&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQip4GKA56BAg0EFA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=small+engine+parts+snapper"
+    },
+    {
+      "query": "Gas",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=gas+snapper&shoprs=GAEqB3NuYXBwZXIyEwgBEgNHYXM6CgjN3TsQzt07MABYhY0hYAE&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQip4GKA96BAg0EFE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=gas+snapper"
+    },
+    {
+      "query": "Large",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=large+snapper&shoprs=GBIqB3NuYXBwZXIyCQgSEgVMYXJnZWAB&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQip4GKBB6BAg0EFI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=large+snapper"
+    },
+    {
+      "query": "2 \u2013 5 pounds",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=2+pounds+to+5+pounds+snapper&shoprs=EhsqGQidn-kBEhIJAAAAYHpZjEARAAAAgOy3oUAYASoHc25hcHBlcjJUCAESDjIg4oCTIDUgcG91bmRzIhsqGQidn-kBEhIJAAAAYHpZjEARAAAAgOy3oUAqGAoUMiBwb3VuZHMgdG8gNSBwb3VuZHMYAToJCJ2f6QEQADAGWIWNIWAB&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQip4GKBF6BAg0EFM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=2+pounds+to+5+pounds+snapper"
+    },
+    {
+      "query": "1 pound \u2013 2 pounds",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=1+pound+to+2+pounds+snapper&shoprs=EhsqGQidn-kBEhIJAAAAYHpZfEARAAAAYHpZjEAYASoHc25hcHBlcjJZCAESFDEgcG91bmQg4oCTIDIgcG91bmRzIhsqGQidn-kBEhIJAAAAYHpZfEARAAAAYHpZjEAqFwoTMSBwb3VuZCB0byAyIHBvdW5kcxgBOgkInZ_pARAAMAZYhY0hYAE&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQip4GKBJ6BAg0EFQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=1+pound+to+2+pounds+snapper"
+    },
+    {
+      "query": "Under 1 pound",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=under+1+pound+snapper&shoprs=EhIqEAidn-kBEgkRAAAAYHpZfEAYASoHc25hcHBlcjI0CAESDVVuZGVyIDEgcG91bmQiEioQCJ2f6QESCREAAABgell8QCoCGAE6CQidn-kBEAAwBliFjSFgAQ&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQip4GKBN6BAg0EFU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=under+1+pound+snapper"
+    },
+    {
+      "query": "Over 5 pounds",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=over+5+pounds+snapper&shoprs=EhIqEAidn-kBEgkJAAAAgOy3oUAYASoHc25hcHBlcjI0CAESDU92ZXIgNSBwb3VuZHMiEioQCJ2f6QESCQkAAACA7LehQCoCGAE6CQidn-kBEAAwBliFjSFgAQ&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQip4GKBR6BAg0EFY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=over+5+pounds+snapper"
+    },
+    {
+      "query": "Electric",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=electric+snapper&shoprs=GAEqB3NuYXBwZXIyGAgBEghFbGVjdHJpYzoKCM3dOxDP3TswAFiFjSFgAQ&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQip4GKBV6BAg0EFc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=electric+snapper"
+    },
+    {
+      "query": "Rear Wheel",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=rear+wheel+snapper&shoprs=GAEqB3NuYXBwZXIyGggBEgpSZWFyIFdoZWVsOgoI9OE7EPbhOzAAWIWNIWAB&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQip4GKBZ6BAg0EFg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=rear+wheel+snapper"
+    },
+    {
+      "query": "Shrimp",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=shrimp+snapper&shoprs=GAEqB3NuYXBwZXIyGAgBEgZTaHJpbXA6DAjYhIgBENqEiAEwAFiFjSFgAQ&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQip4GKBd6BAg0EFk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=shrimp+snapper"
+    },
+    {
+      "query": "Kosher",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=kosher+snapper&shoprs=GAEqB3NuYXBwZXIyGAgBEgZLb3NoZXI6DAjx34cBEPLfhwEwA1iFjSFgAQ&sa=X&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQip4GKBh6BAg0EFo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=kosher+snapper"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=snapper&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=Ui4KZ7H6I7eYwbkPhpaYiAs&start=10&sa=N&sstk=Aagrsug73KtMim8R8jXbXY3CAeVoC2ZLiSI0544KeYlmgJaine3NgjHIN60kAbGsoEoACmGxbyu9wrdXMHZ_yeT7u_AP-jJVfU8KGg&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQ8NMDegQIBxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=snapper&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=Ui4KZ7H6I7eYwbkPhpaYiAs&start=10&sa=N&sstk=Aagrsug73KtMim8R8jXbXY3CAeVoC2ZLiSI0544KeYlmgJaine3NgjHIN60kAbGsoEoACmGxbyu9wrdXMHZ_yeT7u_AP-jJVfU8KGg&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQ8tMDegQIBxAE",
+      "3": "https://www.google.com/search?q=snapper&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=Ui4KZ7H6I7eYwbkPhpaYiAs&start=20&sa=N&sstk=Aagrsug73KtMim8R8jXbXY3CAeVoC2ZLiSI0544KeYlmgJaine3NgjHIN60kAbGsoEoACmGxbyu9wrdXMHZ_yeT7u_AP-jJVfU8KGg&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQ8tMDegQIBxAG",
+      "4": "https://www.google.com/search?q=snapper&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=Ui4KZ7H6I7eYwbkPhpaYiAs&start=30&sa=N&sstk=Aagrsug73KtMim8R8jXbXY3CAeVoC2ZLiSI0544KeYlmgJaine3NgjHIN60kAbGsoEoACmGxbyu9wrdXMHZ_yeT7u_AP-jJVfU8KGg&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQ8tMDegQIBxAI",
+      "5": "https://www.google.com/search?q=snapper&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=Ui4KZ7H6I7eYwbkPhpaYiAs&start=40&sa=N&sstk=Aagrsug73KtMim8R8jXbXY3CAeVoC2ZLiSI0544KeYlmgJaine3NgjHIN60kAbGsoEoACmGxbyu9wrdXMHZ_yeT7u_AP-jJVfU8KGg&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQ8tMDegQIBxAK",
+      "6": "https://www.google.com/search?q=snapper&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=Ui4KZ7H6I7eYwbkPhpaYiAs&start=50&sa=N&sstk=Aagrsug73KtMim8R8jXbXY3CAeVoC2ZLiSI0544KeYlmgJaine3NgjHIN60kAbGsoEoACmGxbyu9wrdXMHZ_yeT7u_AP-jJVfU8KGg&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQ8tMDegQIBxAM",
+      "7": "https://www.google.com/search?q=snapper&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=Ui4KZ7H6I7eYwbkPhpaYiAs&start=60&sa=N&sstk=Aagrsug73KtMim8R8jXbXY3CAeVoC2ZLiSI0544KeYlmgJaine3NgjHIN60kAbGsoEoACmGxbyu9wrdXMHZ_yeT7u_AP-jJVfU8KGg&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQ8tMDegQIBxAO",
+      "8": "https://www.google.com/search?q=snapper&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=Ui4KZ7H6I7eYwbkPhpaYiAs&start=70&sa=N&sstk=Aagrsug73KtMim8R8jXbXY3CAeVoC2ZLiSI0544KeYlmgJaine3NgjHIN60kAbGsoEoACmGxbyu9wrdXMHZ_yeT7u_AP-jJVfU8KGg&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQ8tMDegQIBxAQ",
+      "9": "https://www.google.com/search?q=snapper&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=Ui4KZ7H6I7eYwbkPhpaYiAs&start=80&sa=N&sstk=Aagrsug73KtMim8R8jXbXY3CAeVoC2ZLiSI0544KeYlmgJaine3NgjHIN60kAbGsoEoACmGxbyu9wrdXMHZ_yeT7u_AP-jJVfU8KGg&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQ8tMDegQIBxAS",
+      "10": "https://www.google.com/search?q=snapper&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=Ui4KZ7H6I7eYwbkPhpaYiAs&start=90&sa=N&sstk=Aagrsug73KtMim8R8jXbXY3CAeVoC2ZLiSI0544KeYlmgJaine3NgjHIN60kAbGsoEoACmGxbyu9wrdXMHZ_yeT7u_AP-jJVfU8KGg&ved=2ahUKEwix687KsYiJAxU3TDABHQYLBrEQ8tMDegQIBxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=snapper&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=snapper&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=snapper&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=snapper&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=snapper&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=snapper&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=snapper&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=snapper&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=snapper&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=snapper&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=snapper&start=90"
+    }
+  }
+}

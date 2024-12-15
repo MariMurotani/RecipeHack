@@ -1,0 +1,624 @@
+{
+  "search_metadata": {
+    "id": "670a2f717f37199ae02445e7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f96228bf3aa93501/670a2f717f37199ae02445e7.json",
+    "created_at": "2024-10-12 08:12:33 UTC",
+    "processed_at": "2024-10-12 08:12:33 UTC",
+    "google_url": "https://www.google.com/search?q=salt&oq=salt&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/f96228bf3aa93501/670a2f717f37199ae02445e7.html",
+    "total_time_taken": 0.78
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "salt",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "salt",
+    "total_results": 3500000000,
+    "time_taken_displayed": 0.33,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=salt&npsic=0&rflfq=1&rldoc=1&rllag=30258070,-97765447,2209&tbm=lcl&sa=X&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQtgN6BAh-EAI",
+    "image": "https://serpapi.com/searches/670a2f717f37199ae02445e7/images/dd6339c9e1103d717460698c4e9fc832.png",
+    "gps_coordinates": {
+      "latitude": 30.25807,
+      "longitude": -97.765447
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 5.0,
+        "reviews_original": "(13)",
+        "reviews": 13,
+        "description": "\"In looking for a new esti, so found Salt Spa and had a great experience!\"",
+        "lsig": "AB86z5UEvawA_bIgOrxKRq9E2-m2",
+        "thumbnail": "https://serpapi.com/searches/670a2f717f37199ae02445e7/images/cbe940920b82e66e9400215ae96534f68c13ebb614716cf4f545ec832db5098cdaa33f7ec50f5440.jpeg",
+        "title": "Salt Spa",
+        "type": "Day spa",
+        "address": "806 West Ave",
+        "place_id": "1984184229005827115",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=1984184229005827115&q=salt",
+        "gps_coordinates": {
+          "latitude": 30.272766,
+          "longitude": -97.74996
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.6,
+        "reviews_original": "(1.5K)",
+        "reviews": 1500,
+        "price": "$$$",
+        "description": "\"Salt Traders offers a quality and very tasty alternative.\"",
+        "lsig": "AB86z5Vj5jPbaJ51fEcEtydy0CNB",
+        "thumbnail": "https://serpapi.com/searches/670a2f717f37199ae02445e7/images/cbe940920b82e66e9400215ae96534f6aa664097782ea6d3c3879d96308ed4e92f100cd26a7105b5.jpeg",
+        "title": "Salt Traders Coastal Cooking",
+        "type": "Seafood",
+        "address": "1101 S MoPac Expy",
+        "hours": "Closed \u22c5 Opens 11 AM",
+        "place_id": "3288111975294270444",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=3288111975294270444&q=salt",
+        "gps_coordinates": {
+          "latitude": 30.265333,
+          "longitude": -97.78094
+        }
+      },
+      {
+        "position": 3,
+        "rating": 5.0,
+        "reviews_original": "(110)",
+        "reviews": 110,
+        "description": "\"My skin felt amazing after washing the salt off hours afterwards.\"",
+        "lsig": "AB86z5Wo-k-SZJPcJ4xxYUFJ7zga",
+        "thumbnail": "https://serpapi.com/searches/670a2f717f37199ae02445e7/images/cbe940920b82e66e9400215ae96534f6baa7f454319aa405f0ce4c8ae108319f39fbd6d481b05ee2.jpeg",
+        "title": "Austin Salt Room",
+        "type": "Wellness center",
+        "address": "2215 S 1st St",
+        "hours": "Closed \u22c5 Opens 10 AM",
+        "place_id": "14193756564551098573",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=14193756564551098573&q=salt",
+        "gps_coordinates": {
+          "latitude": 30.243374,
+          "longitude": -97.75812
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=salt&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQjGp6BAh8EAE"
+  },
+  "knowledge_graph": {
+    "title": "Salt",
+    "type": "PG-13 2010 \u2027 Action/Mystery \u2027 1h 44m",
+    "entity_type": "film, tvm",
+    "kgmid": "/m/05pbl56",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/05pbl56&hl=en-US&q=Salt",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F05pbl56&location=Austin%2CTexas%2CUnited+States&q=Salt",
+    "director": "Phillip Noyce",
+    "director_links": [
+      {
+        "text": "Phillip Noyce",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Phillip+Noyce&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L_xx4F1NaY3DPMuYxR9g6yiIQEk6w6h9QcELFiXh-ZNR4MnePNYOqW5-Isd5MPZ4WptAtAwdaxI-DFKrs0bV_-zg6Jk7IRYQxU_UA2A__Fu7IKXMfvOILiD9z4RdaVF6UQ8yN4Cdxgnb7g-LE2khH6ELSYx_&sa=X&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQmxMoAHoECDwQAg"
+      }
+    ],
+    "distributed_by": "Sony Pictures, Columbia Pictures, Sony Pictures Releasing",
+    "distributed_by_links": [
+      {
+        "text": "Sony Pictures",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Sony+Pictures&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L2o2e6to2bpBV-qDc_zQr1odX96RP7IROt3HCju9c6tLYbLwrzvRWJ0-o9N4M_un7pT0NKlG_8YG90V0yUFlAvkih7t6XXVzHdyB-g11O9RWMYIrZ9avN4iggKHOQ5EQ_idcwmRrMzvkk9JhqwjjLCL7FzRM&sa=X&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQmxMoAHoECD0QAg"
+      },
+      {
+        "text": "Columbia Pictures",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Columbia+Pictures&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L8h07leXGHtWzOGKBPJLH9ymTiBdLwctd4IsmhNCabLQlDUVUeNT-l-Vx7qIMP4zGE3tDdzujX7Yiue_EMCg2WGPO1WbHbEkgUI3_cO0htAVHUHYbGbBVE3QL2fWIBJeI4jCC6_Mp39TN1STrEhiTryWLdo-hRw_DI_JOQi-sC8VJINEQQ%3D%3D&sa=X&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQmxMoAXoECD0QAw"
+      },
+      {
+        "text": "Sony Pictures Releasing",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Sony+Pictures+Releasing&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQVtsc1W6NeKTSXH7zp-sVV4ud4olbtIUlAwaLkpkKd1aIjT1XmQUM-db32rflMsg1tL41Cx_G-Rvk2FvpEZY4OpXRbnLvth02egC_aUzDIv_s_7WyLTY4cP-WP2XgWGrnk1-VKrLqiH9C7DJWkQzjGhxepyDKBSVTFKvataYv3LkYpi1kw%3D%3D&sa=X&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQmxMoAnoECD0QBA"
+      }
+    ],
+    "box_office": "$293.5 million",
+    "cinematography": "Robert Elswit",
+    "cinematography_links": [
+      {
+        "text": "Robert Elswit",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Robert+Elswit&stick=H4sIAAAAAAAAAONgVuLSz9U3MCqrMEk2WsTKG5SflFpUouCaU1yeWQIAis4i2B4AAAA&sa=X&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQmxMoAHoECD4QAg"
+      }
+    ],
+    "music_by": "James Newton Howard",
+    "music_by_links": [
+      {
+        "text": "James Newton Howard",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=James+Newton+Howard&stick=H4sIAAAAAAAAAONgVuLUz9U3MMqqyC1axCrslZibWqzgl1pekp-n4JFfnliUAgBPQVWlIwAAAA&sa=X&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQmxMoAHoECD8QAg"
+      }
+    ],
+    "audience_reviews": [
+      {
+        "rating": 5.0,
+        "summary": "This is Anglina Jolie's action thrillers movie. Anglina looking beautiful in her all dress and action are perform best . chemistry with her ..."
+      },
+      {
+        "rating": 4.0,
+        "summary": "\"Salt\" is a commendable action thriller with a thoughtfully articulated and powerful message. Liev Schreiber is at his typical ..."
+      }
+    ],
+    "user_statistics": {
+      "platform": "Google users",
+      "statistic": "72% liked this movie"
+    }
+  },
+  "inline_images": [
+    {
+      "source": "https://www.canr.msu.edu/news/what_is_the_difference_between_table_salt_and_sea_salt",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpp-1Z96J3FG0rWpQnWYZbLBgQbzQWVTm8m3zifRvDS8iU_P-SnIH1UH8&s",
+      "original": "https://www.canr.msu.edu/outreach/uploads/images/salt-6728600_1280.jpg?language_id=1",
+      "title": "What is the difference between table salt and sea salt ...",
+      "source_name": "MSU College of Agriculture and Natural Resources - Michigan ..."
+    },
+    {
+      "source": "https://www.eehealth.org/blog/2017/12/low-salt-diet/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-qzr5eSNuTl9uVQ3etZY_UWQ0C38Bf8cwy61nsEpWqgtmGJf4Zp5YiZU&s",
+      "original": "https://www.eehealth.org/-/media/images/modules/blog/posts/2017/hdhearts-saltnewcrop.jpg",
+      "title": "Slashing salt saves lives | Edward-Elmhurst Health",
+      "source_name": "Edward-Elmhurst Health"
+    },
+    {
+      "source": "https://www.foodnavigator.com/Article/2013/07/25/Many-ingredients-many-strategies-The-complex-nature-of-salt-reduction",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCXX6mx3uV1rHWQRgcjYZiGYf3ZD2u8DLBfI2QqPTjmtKcHOUP0WQAE7A&s",
+      "original": "https://www.foodnavigator.com/var/wrbm_gb_food_pharma/storage/images/1/9/6/7/2647691-1-eng-GB/Many-ingredients-many-strategies-The-complex-nature-of-salt-reduction.jpg",
+      "title": "Many ingredients, many strategies: The 'complex nature' of ...",
+      "source_name": "Food Navigator"
+    },
+    {
+      "source": "https://cen.acs.org/biological-chemistry/biochemistry/Salt-revs-allergy-activating-immune/97/web/2019/02",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST2qKvZOfjf8tSc3ALvwelbysA-si7dm7wV8h340ghLckEdPeJTNIQu20&s",
+      "original": "https://s7d1.scene7.com/is/image/CENODS/LN-saltshaker?$twitter$",
+      "title": "Salt revs up allergy-activating immune cells\ufeff",
+      "source_name": "C&EN - American Chemical Society"
+    },
+    {
+      "source": "https://iambaker.net/salt-in-baking/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLIkF7kccAT1TLOZ86C2ZiircQOs7w2irPBrlwYdPUBXFmd-bGMoeCUU&s",
+      "original": "https://iambaker.net/wp-content/uploads/2023/03/kosher-salt.jpg",
+      "title": "Salt in Baking - i am baker",
+      "source_name": "I Am Baker"
+    },
+    {
+      "source": "https://www.theguardian.com/lifeandstyle/2014/jan/28/experts-use-salt-in-cooking-why",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbNkTSC_3sPoWnzeqPaEskAA2IndVaJ2dROD169oT1Y2TboN5End5q4yU&s",
+      "original": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/1/28/1390910850413/Sea-salt---how-do-you-get-011.jpg?width=465&dpr=1&s=none",
+      "title": "How the experts use salt in their cooking \u2013 and why | Food ...",
+      "source_name": "The Guardian"
+    },
+    {
+      "source": "https://www.self.com/story/common-types-of-cooking-salt-when-to-use",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMGQ9JjqBIoCyjntUG_LKORr3n_xMR2ztF4qko2uCcgoWiG7ivPXqSAxM&s",
+      "original": "https://media.self.com/photos/5cc0781558c4c36a45d91deb/1:1/w_3569,h_3569,c_limit/cooking-salts.jpg",
+      "title": "6 Common Types of Salt to Cook With\u2014and When to Use Each One ...",
+      "source_name": "www.self.com"
+    },
+    {
+      "source": "https://www.drstevenlin.com/salt-good-for-you/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEc_DULwoQfaVZgs2K0qsPVzpRucZQ67jkJUz5l2D1wHXuSWAGBq0AYYo&s",
+      "original": "https://www.drstevenlin.com/wp-content/uploads/2018/03/5-Reasons-Why-Salt-is-Good-for-You-According-to-Medicine-image.jpeg",
+      "title": "5 Reasons Why Salt is Good for You According to Medicine ...",
+      "source_name": "Dr Steven Lin"
+    },
+    {
+      "source": "https://www.southernliving.com/sea-salt-vs-table-salt-6831227",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3yWq0v-ecxr9HRvjAXZuus-hnuFJV5x9LuW2Hv86u7YjIQKMGhM1q2YE&s",
+      "original": "https://www.southernliving.com/thmb/EmvwuozrEjqzpPVRhY5PnLz1vuE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1348072128-8af35c603a394f1db3bfe59e37f5357c.jpg",
+      "title": "Sea Salt Vs. Table Salt: What's The Difference?",
+      "source_name": "Southern Living"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the healthiest salt?",
+      "snippet": "Himalayan salt boasts all 84 essential trace elements which your body needs to function properly. Not only this, but it is known to promote stable blood sugar levels, reduce muscle cramp, and facilitate an optimal pH in your cells. It's no wonder it's so popular!",
+      "title": "Himalayan salt",
+      "date": "Jan 14, 2021",
+      "link": "https://coleandmasonusa.com/blogs/seasoning/what-is-the-healthiest-salt#:~:text=Himalayan%20salt%20boasts%20all%2084,no%20wonder%20it's%20so%20popular!",
+      "displayed_link": "https://coleandmasonusa.com \u203a blogs \u203a seasoning \u203a what...",
+      "source_logo": "https://serpapi.com/searches/670a2f717f37199ae02445e7/images/ef28b26e61a29985cfacc360b380ce73fa26967063c5b6d082128572ee08b6a7.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWFUaG9Za0ZMUjJodVdsWm9iVUkzWjBKQ05WVkNhRUZ1YlhObE5saFNZM0ZvTlRoeU1qVnRlakpOVkVsMGVYUndXazl5TkhOMFZXMXFhVmg2VjNOSU5HdE9VVUl3RWhkalV6aExXaloyTkV4YVIycHBURTFRZG5CSVNXdEJieG9pUVVaWWNrVmpjbHBzVUhkNE55MXFia2hFUXprMWMzZE5SbEpHUmt4ZldUUTRkdyIsImZjdiI6IjMiLCJlaSI6ImNTOEtaNnY0TFpHamlMTVB2cEhJa0FvIiwicWMiOiJDZ1J6WVd4MEVBQjlQZndzUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGhlYWx0aGllc3Qgc2FsdD8iLCJsayI6IkdodDNhR0YwSUdseklIUm9aU0JvWldGc2RHaHBaWE4wSUhOaGJIUSIsImJzIjoiYzVXT1RRckNNQkNGY1R0UWRGbmlENlB1VllyN2VnQmRkNTAyRXhPb0NUU3BvUWZ3RE43Qy03bFRRd1UzSXU0ZXpQZmVmTENEU2FHNFItM1FLMEpGdlBaS2tfUG9uaWxQcjBrMlplUHdIWUU5TEFyVnhmeENlT1ZiWHRjZEhxMFZLRzJEblczejlITElsbXdlZm9FZ1lmM3BJN1NVMUpDcENFdnlnY2lnczBLM0otUkc5SXIzYzdaaHFfQlhDN1l3aTM5NFE3RlNraUdwdlVNci05bWJ6b1lzaWJidjQyandBQSIsImlkIjoiZmNfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWFUaG9Za0ZMUjJodVdsWm9iVUkzWjBKQ05WVkNhRUZ1YlhObE5saFNZM0ZvTlRoeU1qVnRlakpOVkVsMGVYUndXazl5TkhOMFZXMXFhVmg2VjNOSU5HdE9VVUl3RWhkalV6aExXaloyTkV4YVIycHBURTFRZG5CSVNXdEJieG9pUVVaWWNrVmpjbHBzVUhkNE55MXFia2hFUXprMWMzZE5SbEpHUmt4ZldUUTRkdyIsImZjdiI6IjMiLCJlaSI6ImNTOEtaNnY0TFpHamlMTVB2cEhJa0FvIiwicWMiOiJDZ1J6WVd4MEVBQjlQZndzUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGhlYWx0aGllc3Qgc2FsdD8iLCJsayI6IkdodDNhR0YwSUdseklIUm9aU0JvWldGc2RHaHBaWE4wSUhOaGJIUSIsImJzIjoiYzVXT1RRckNNQkNGY1R0UWRGbmlENlB1VllyN2VnQmRkNTAyRXhPb0NUU3BvUWZ3RE43Qy03bFRRd1UzSXU0ZXpQZmVmTENEU2FHNFItM1FLMEpGdlBaS2tfUG9uaWxQcjBrMlplUHdIWUU5TEFyVnhmeENlT1ZiWHRjZEhxMFZLRzJEblczejlITElsbXdlZm9FZ1lmM3BJN1NVMUpDcENFdnlnY2lnczBLM0otUkc5SXIzYzdaaHFfQlhDN1l3aTM5NFE3RlNraUdwdlVNci05bWJ6b1lzaWJidjQyandBQSIsImlkIjoiZmNfMyJ9"
+    },
+    {
+      "question": "Why salt is actually good for you?",
+      "snippet": "The human body requires a small amount of sodium to conduct nerve impulses, contract and relax muscles, and maintain the proper balance of water and minerals. It is estimated that we need about 500 mg of sodium daily for these vital functions.",
+      "title": "Salt and Sodium - The Nutrition Source",
+      "link": "https://nutritionsource.hsph.harvard.edu/salt-and-sodium/#:~:text=The%20human%20body%20requires%20a,daily%20for%20these%20vital%20functions.",
+      "displayed_link": "https://nutritionsource.hsph.harvard.edu \u203a salt-and-sodium",
+      "source_logo": "https://serpapi.com/searches/670a2f717f37199ae02445e7/images/ef28b26e61a29985cfacc360b380ce733a814ef105b453fe965b0f8be4a07701.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWFUaG9Za0ZMUjJodVdsWm9iVUkzWjBKQ05WVkNhRUZ1YlhObE5saFNZM0ZvTlRoeU1qVnRlakpOVkVsMGVYUndXazl5TkhOMFZXMXFhVmg2VjNOSU5HdE9VVUl3RWhkalV6aExXaloyTkV4YVIycHBURTFRZG5CSVNXdEJieG9pUVVaWWNrVmpjbHBzVUhkNE55MXFia2hFUXprMWMzZE5SbEpHUmt4ZldUUTRkdyIsImZjdiI6IjMiLCJlaSI6ImNTOEtaNnY0TFpHamlMTVB2cEhJa0FvIiwicWMiOiJDZ1J6WVd4MEVBQjlQZndzUHciLCJxdWVzdGlvbiI6IldoeSBzYWx0IGlzIGFjdHVhbGx5IGdvb2QgZm9yIHlvdT8iLCJsayI6IkdpRjNhSGtnYzJGc2RDQnBjeUJoWTNSMVlXeHNlU0JuYjI5a0lHWnZjaUI1YjNVIiwiYnMiOiJjNVdPVFFyQ01CQ0ZjVHRRZEZuaUQ2UHVWWXI3ZWdCZGQ1MDJFeE9vQ1RTcG9RZndETjdDLTdsVFF3VTNJdTRlelBmZWZMQ0RTYUc0Ui0zUUswSkZ2UFpLa19Qb25pbFByMGsyWmVQd0hZRTlMQXJWeGZ4Q2VPVmJYdGNkSHEwVktHMkRuVzN6OUhMSWxtd2Vmb0VnWWYzcEk3U1UxSkNwQ0V2eWdjaWdzMEszSi1SRzlJcjNjN1pocV9CWEM3WXdpMzk0UTdGU2tpR3B2VU1yLTltYnpvWXNpYmJ2NDJqd0FBIiwiaWQiOiJmY18zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWFUaG9Za0ZMUjJodVdsWm9iVUkzWjBKQ05WVkNhRUZ1YlhObE5saFNZM0ZvTlRoeU1qVnRlakpOVkVsMGVYUndXazl5TkhOMFZXMXFhVmg2VjNOSU5HdE9VVUl3RWhkalV6aExXaloyTkV4YVIycHBURTFRZG5CSVNXdEJieG9pUVVaWWNrVmpjbHBzVUhkNE55MXFia2hFUXprMWMzZE5SbEpHUmt4ZldUUTRkdyIsImZjdiI6IjMiLCJlaSI6ImNTOEtaNnY0TFpHamlMTVB2cEhJa0FvIiwicWMiOiJDZ1J6WVd4MEVBQjlQZndzUHciLCJxdWVzdGlvbiI6IldoeSBzYWx0IGlzIGFjdHVhbGx5IGdvb2QgZm9yIHlvdT8iLCJsayI6IkdpRjNhSGtnYzJGc2RDQnBjeUJoWTNSMVlXeHNlU0JuYjI5a0lHWnZjaUI1YjNVIiwiYnMiOiJjNVdPVFFyQ01CQ0ZjVHRRZEZuaUQ2UHVWWXI3ZWdCZGQ1MDJFeE9vQ1RTcG9RZndETjdDLTdsVFF3VTNJdTRlelBmZWZMQ0RTYUc0Ui0zUUswSkZ2UFpLa19Qb25pbFByMGsyWmVQd0hZRTlMQXJWeGZ4Q2VPVmJYdGNkSHEwVktHMkRuVzN6OUhMSWxtd2Vmb0VnWWYzcEk3U1UxSkNwQ0V2eWdjaWdzMEszSi1SRzlJcjNjN1pocV9CWEM3WXdpMzk0UTdGU2tpR3B2VU1yLTltYnpvWXNpYmJ2NDJqd0FBIiwiaWQiOiJmY18zIn0%3D"
+    },
+    {
+      "question": "What is the difference between sodium and salt?",
+      "snippet": "The words \u201ctable salt\u201d and \u201csodium\u201d are often used interchangeably, but they do not mean the same thing. Table salt (also known by its chemical name, sodium chloride) is a crystal-like compound that is abundant in nature. Sodium is a mineral, and one of the chemical elements found in salt.",
+      "title": "Sodium in Your Diet | FDA",
+      "date": "Mar 5, 2024",
+      "link": "https://www.fda.gov/food/nutrition-education-resources-materials/sodium-your-diet#:~:text=The%20words%20%E2%80%9Ctable%20salt%E2%80%9D%20and,chemical%20elements%20found%20in%20salt.",
+      "displayed_link": "https://www.fda.gov \u203a food \u203a sodium-your-diet",
+      "source_logo": "https://serpapi.com/searches/670a2f717f37199ae02445e7/images/ef28b26e61a29985cfacc360b380ce7320a48b6401e7d4b50424e42bfa3f6305.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWFUaG9Za0ZMUjJodVdsWm9iVUkzWjBKQ05WVkNhRUZ1YlhObE5saFNZM0ZvTlRoeU1qVnRlakpOVkVsMGVYUndXazl5TkhOMFZXMXFhVmg2VjNOSU5HdE9VVUl3RWhkalV6aExXaloyTkV4YVIycHBURTFRZG5CSVNXdEJieG9pUVVaWWNrVmpjbHBzVUhkNE55MXFia2hFUXprMWMzZE5SbEpHUmt4ZldUUTRkdyIsImZjdiI6IjMiLCJlaSI6ImNTOEtaNnY0TFpHamlMTVB2cEhJa0FvIiwicWMiOiJDZ1J6WVd4MEVBQjlQZndzUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiBzb2RpdW0gYW5kIHNhbHQ/IiwibGsiOiJHaTUzYUdGMElHbHpJSFJvWlNCa2FXWm1aWEpsYm1ObElHSmxkSGRsWlc0Z2MyOWthWFZ0SUdGdVpDQnpZV3gwIiwiYnMiOiJjNVdPVFFyQ01CQ0ZjVHRRZEZuaUQ2UHVWWXI3ZWdCZGQ1MDJFeE9vQ1RTcG9RZndETjdDLTdsVFF3VTNJdTRlelBmZWZMQ0RTYUc0Ui0zUUswSkZ2UFpLa19Qb25pbFByMGsyWmVQd0hZRTlMQXJWeGZ4Q2VPVmJYdGNkSHEwVktHMkRuVzN6OUhMSWxtd2Vmb0VnWWYzcEk3U1UxSkNwQ0V2eWdjaWdzMEszSi1SRzlJcjNjN1pocV9CWEM3WXdpMzk0UTdGU2tpR3B2VU1yLTltYnpvWXNpYmJ2NDJqd0FBIiwiaWQiOiJmY18zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWFUaG9Za0ZMUjJodVdsWm9iVUkzWjBKQ05WVkNhRUZ1YlhObE5saFNZM0ZvTlRoeU1qVnRlakpOVkVsMGVYUndXazl5TkhOMFZXMXFhVmg2VjNOSU5HdE9VVUl3RWhkalV6aExXaloyTkV4YVIycHBURTFRZG5CSVNXdEJieG9pUVVaWWNrVmpjbHBzVUhkNE55MXFia2hFUXprMWMzZE5SbEpHUmt4ZldUUTRkdyIsImZjdiI6IjMiLCJlaSI6ImNTOEtaNnY0TFpHamlMTVB2cEhJa0FvIiwicWMiOiJDZ1J6WVd4MEVBQjlQZndzUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiBzb2RpdW0gYW5kIHNhbHQ%2FIiwibGsiOiJHaTUzYUdGMElHbHpJSFJvWlNCa2FXWm1aWEpsYm1ObElHSmxkSGRsWlc0Z2MyOWthWFZ0SUdGdVpDQnpZV3gwIiwiYnMiOiJjNVdPVFFyQ01CQ0ZjVHRRZEZuaUQ2UHVWWXI3ZWdCZGQ1MDJFeE9vQ1RTcG9RZndETjdDLTdsVFF3VTNJdTRlelBmZWZMQ0RTYUc0Ui0zUUswSkZ2UFpLa19Qb25pbFByMGsyWmVQd0hZRTlMQXJWeGZ4Q2VPVmJYdGNkSHEwVktHMkRuVzN6OUhMSWxtd2Vmb0VnWWYzcEk3U1UxSkNwQ0V2eWdjaWdzMEszSi1SRzlJcjNjN1pocV9CWEM3WXdpMzk0UTdGU2tpR3B2VU1yLTltYnpvWXNpYmJ2NDJqd0FBIiwiaWQiOiJmY18zIn0%3D"
+    },
+    {
+      "question": "What are the benefits of salt?",
+      "snippet": "On the other hand, the major benefits of salt according to modern medicine resources are; aiding the balance of electrolytes and fluids, carry nutrients into cells, regulation of acid-base balance, support transfer of nerve impulses, regulate blood pressure, and secretion of gastric acid.",
+      "title": "Salt and its Role in Health and Disease Prevention from the ... - NCBI",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5103567/#:~:text=On%20the%20other%20hand%2C%20the,and%20secretion%20of%20gastric%20acid.",
+      "displayed_link": "https://www.ncbi.nlm.nih.gov \u203a articles \u203a PMC5103567",
+      "source_logo": "https://serpapi.com/searches/670a2f717f37199ae02445e7/images/ef28b26e61a29985cfacc360b380ce73e53c6c204b95bed18c299850f480e1b0.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWFUaG9Za0ZMUjJodVdsWm9iVUkzWjBKQ05WVkNhRUZ1YlhObE5saFNZM0ZvTlRoeU1qVnRlakpOVkVsMGVYUndXazl5TkhOMFZXMXFhVmg2VjNOSU5HdE9VVUl3RWhkalV6aExXaloyTkV4YVIycHBURTFRZG5CSVNXdEJieG9pUVVaWWNrVmpjbHBzVUhkNE55MXFia2hFUXprMWMzZE5SbEpHUmt4ZldUUTRkdyIsImZjdiI6IjMiLCJlaSI6ImNTOEtaNnY0TFpHamlMTVB2cEhJa0FvIiwicWMiOiJDZ1J6WVd4MEVBQjlQZndzUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBiZW5lZml0cyBvZiBzYWx0PyIsImxrIjoiR2cxellXeDBJR0psYm1WbWFYUnoiLCJicyI6ImM1V09UUXJDTUJDRmNUdFFkRm5pRDZQdVZZcjdlZ0JkZDUwMkV4T29DVFNwb1Fmd0RON0MtN2xUUXdVM0l1NGV6UGZlZkxDRFNhRzRSLTNRSzBKRnZQWktrX1BvbmlsUHIwazJaZVB3SFlFOUxBclZ4ZnhDZU9WYlh0Y2RIcTBWS0cyRG5XM3o5SExJbG13ZWZvRWdZZjNwSTdTVTFKQ3BDRXZ5Z2NpZ3MwSzNKLVJHOUlyM2M3WmhxX0JYQzdZd2kzOTRRN0ZTa2lHcHZVTXItOW1iem9Zc2liYnY0Mmp3QUEiLCJpZCI6ImZjXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWFUaG9Za0ZMUjJodVdsWm9iVUkzWjBKQ05WVkNhRUZ1YlhObE5saFNZM0ZvTlRoeU1qVnRlakpOVkVsMGVYUndXazl5TkhOMFZXMXFhVmg2VjNOSU5HdE9VVUl3RWhkalV6aExXaloyTkV4YVIycHBURTFRZG5CSVNXdEJieG9pUVVaWWNrVmpjbHBzVUhkNE55MXFia2hFUXprMWMzZE5SbEpHUmt4ZldUUTRkdyIsImZjdiI6IjMiLCJlaSI6ImNTOEtaNnY0TFpHamlMTVB2cEhJa0FvIiwicWMiOiJDZ1J6WVd4MEVBQjlQZndzUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBiZW5lZml0cyBvZiBzYWx0PyIsImxrIjoiR2cxellXeDBJR0psYm1WbWFYUnoiLCJicyI6ImM1V09UUXJDTUJDRmNUdFFkRm5pRDZQdVZZcjdlZ0JkZDUwMkV4T29DVFNwb1Fmd0RON0MtN2xUUXdVM0l1NGV6UGZlZkxDRFNhRzRSLTNRSzBKRnZQWktrX1BvbmlsUHIwazJaZVB3SFlFOUxBclZ4ZnhDZU9WYlh0Y2RIcTBWS0cyRG5XM3o5SExJbG13ZWZvRWdZZjNwSTdTVTFKQ3BDRXZ5Z2NpZ3MwSzNKLVJHOUlyM2M3WmhxX0JYQzdZd2kzOTRRN0ZTa2lHcHZVTXItOW1iem9Zc2liYnY0Mmp3QUEiLCJpZCI6ImZjXzMifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Salt",
+      "link": "https://en.wikipedia.org/wiki/Salt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Salt&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQFnoECBoQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Salt",
+      "thumbnail": "https://serpapi.com/searches/670a2f717f37199ae02445e7/images/d586d2acde35255b5a7bec931ce51e6394053bc38fb8cca0a342fdb454b032c0.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2f717f37199ae02445e7/images/d586d2acde35255b5a7bec931ce51e634a217a2c7552ee57811d10ade584378a.webp",
+      "snippet": "Salt is a mineral composed primarily of sodium chloride (NaCl). When used in food, especially in granulated form, it is more formally called table salt.",
+      "snippet_highlighted_words": [
+        "Salt",
+        "salt"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Salt (chemistry)",
+            "link": "https://en.wikipedia.org/wiki/Salt_(chemistry)"
+          },
+          {
+            "title": "History",
+            "link": "https://en.wikipedia.org/wiki/History_of_salt"
+          },
+          {
+            "title": "Salt (disambiguation)",
+            "link": "https://en.wikipedia.org/wiki/Salt_(disambiguation)"
+          },
+          {
+            "title": "Salt in the Bible",
+            "link": "https://en.wikipedia.org/wiki/Salt_in_the_Bible"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Salt | Chemistry, History, Occurrence, Manufacture, Uses, & ...",
+      "link": "https://www.britannica.com/science/salt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.britannica.com/science/salt&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQFnoECBQQAQ",
+      "displayed_link": "https://www.britannica.com \u203a Science \u203a Chemistry",
+      "thumbnail": "https://serpapi.com/searches/670a2f717f37199ae02445e7/images/d586d2acde35255b5a7bec931ce51e6350a9143d6e1b85033505d33f5ec0298a.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2f717f37199ae02445e7/images/d586d2acde35255b5a7bec931ce51e631aade1a41437a84f113a9255b6701f7c.webp",
+      "date": "Sep 18, 2024",
+      "snippet": "Salt, also called sodium chloride, mineral substance of great importance to human and animal health, as well as to industry.",
+      "snippet_highlighted_words": [
+        "Salt"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Salt manufacture",
+            "link": "https://www.britannica.com/science/salt/Salt-manufacture"
+          },
+          {
+            "title": "Occurrence",
+            "link": "https://www.britannica.com/science/salt/Occurrence"
+          },
+          {
+            "title": "Use of artificial heat",
+            "link": "https://www.britannica.com/science/salt/Use-of-artificial-heat"
+          }
+        ]
+      },
+      "source": "Britannica"
+    },
+    {
+      "position": 3,
+      "title": "Salt (2010)",
+      "link": "https://www.imdb.com/title/tt0944835/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.imdb.com/title/tt0944835/&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQFnoECBcQAQ",
+      "displayed_link": "https://www.imdb.com \u203a title",
+      "thumbnail": "https://serpapi.com/searches/670a2f717f37199ae02445e7/images/d586d2acde35255b5a7bec931ce51e6318af1e35c4162f5c47ad7effc0f1d5aa.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2f717f37199ae02445e7/images/d586d2acde35255b5a7bec931ce51e63b206f3fa00eb3ca17d3565483b1093ef.webp",
+      "snippet": "Evelyn Salt is a CIA agent and highly respected by all, including her boss, Ted Winter. Out of the blue, a Russian spy walks into their offices and offers a ...",
+      "snippet_highlighted_words": [
+        "Salt"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Full Cast & Crew",
+            "link": "https://www.imdb.com/title/tt0944835/fullcredits"
+          },
+          {
+            "title": "Parents guide",
+            "link": "https://m.imdb.com/title/tt0944835/parentalguide/"
+          },
+          {
+            "title": "User reviews",
+            "link": "https://www.imdb.com/title/tt0944835/reviews/"
+          },
+          {
+            "title": "Trailer #2",
+            "link": "https://www.imdb.com/video/vi1236141849/"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.0,
+            "unknown": 6.5
+          },
+          "extensions": [
+            "Rated 3.0 out of 5,",
+            "6.5/10(333,211)"
+          ]
+        }
+      },
+      "source": "IMDb"
+    },
+    {
+      "position": 4,
+      "title": "SALT | Empowering Big Ideas",
+      "link": "https://www.salt.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.salt.org/&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQFnoECBYQAQ",
+      "displayed_link": "https://www.salt.org",
+      "thumbnail": "https://serpapi.com/searches/670a2f717f37199ae02445e7/images/d586d2acde35255b5a7bec931ce51e6382e816374381765064bd37afe13cb543.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2f717f37199ae02445e7/images/d586d2acde35255b5a7bec931ce51e630c2db069ea232a0b25335f9437d26597.webp",
+      "snippet": "SALT is a global investment platform connecting institutional asset owners with asset managers and technology entrepreneurs.",
+      "snippet_highlighted_words": [
+        "SALT"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "About",
+            "link": "https://www.salt.org/about"
+          },
+          {
+            "title": "SALT Talks",
+            "link": "https://www.salt.org/talks"
+          },
+          {
+            "title": "SALT iConnections Asia 2024",
+            "link": "https://www.salt.org/events/2024-asia"
+          },
+          {
+            "title": "Events",
+            "link": "https://www.salt.org/events"
+          }
+        ]
+      },
+      "source": "SALT Conference"
+    },
+    {
+      "position": 5,
+      "title": "Salt Optics",
+      "link": "https://saltoptics.com/?srsltid=AfmBOookxSz_oxqIOEFseuB00t08pMDA587QixL2tnJUFGHvSL26sX4c",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://saltoptics.com/%3Fsrsltid%3DAfmBOookxSz_oxqIOEFseuB00t08pMDA587QixL2tnJUFGHvSL26sX4c&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQFnoECBMQAQ",
+      "displayed_link": "https://saltoptics.com",
+      "thumbnail": "https://serpapi.com/searches/670a2f717f37199ae02445e7/images/d586d2acde35255b5a7bec931ce51e633f0dc49c02b1dddbd6c8fcfdb525d5a0.jpeg",
+      "snippet": "SALT. is a premium eyewear brand from coastal California that is committed to quality construction and timeless design inspired by effortless beauty.",
+      "snippet_highlighted_words": [
+        "SALT"
+      ],
+      "source": "Salt Optics"
+    },
+    {
+      "position": 6,
+      "title": "SALT Home Page",
+      "link": "https://www.saltsoftware.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.saltsoftware.com/&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQFnoECE4QAQ",
+      "displayed_link": "https://www.saltsoftware.com",
+      "favicon": "https://serpapi.com/searches/670a2f717f37199ae02445e7/images/d586d2acde35255b5a7bec931ce51e63e9a7680ed69acf883cc050a9d07cb5be.webp",
+      "snippet": "Systematic Analysis of Language Transcripts (SALT) software standardizes the process of eliciting, transcribing, and analyzing language samples. It includes a ...",
+      "snippet_highlighted_words": [
+        "Systematic Analysis of Language Transcripts",
+        "SALT"
+      ],
+      "source": "Salt Software"
+    },
+    {
+      "position": 7,
+      "title": "Salt (2010 film)",
+      "link": "https://en.wikipedia.org/wiki/Salt_(2010_film)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Salt_(2010_film)&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQFnoECFcQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Salt_(2010_film)",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQpBj5MEmXHZGa9rQdu-xnOr1bQcFqh9u9yQ4atyzWMdN__5UTKwmV&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2f717f37199ae02445e7/images/d586d2acde35255b5a7bec931ce51e638a64271fbd4517f5100ebd82ed334592.webp",
+      "snippet": "Salt is a 2010 American action thriller film directed by Phillip Noyce, written by Kurt Wimmer, and starring Angelina Jolie, Liev Schreiber, ...",
+      "snippet_highlighted_words": [
+        "Salt"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Daniel Olbrychski",
+            "link": "https://en.wikipedia.org/wiki/Daniel_Olbrychski"
+          },
+          {
+            "title": "Strategic Arms Limitation Talks",
+            "link": "https://en.wikipedia.org/wiki/Strategic_Arms_Limitation_Talks"
+          },
+          {
+            "title": "Arachnology",
+            "link": "https://en.wikipedia.org/wiki/Arachnology"
+          },
+          {
+            "title": "Hunt Block",
+            "link": "https://en.wikipedia.org/wiki/Hunt_Block"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 8,
+      "title": "Saltproject.io",
+      "link": "https://saltproject.io/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://saltproject.io/&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQFnoECE8QAQ",
+      "displayed_link": "https://saltproject.io",
+      "snippet": "What is Salt? It's automation, infrastructure management. It's data-driven orchestration and remote execution. It's configuration management. It's so much more.",
+      "snippet_highlighted_words": [
+        "Salt"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Salt",
+            "link": "https://docs.saltproject.io/en/latest/contents.html"
+          },
+          {
+            "title": "Salt install guide",
+            "link": "https://docs.saltproject.io/salt/install-guide/en/latest/index.html"
+          },
+          {
+            "title": "Salt user guide",
+            "link": "https://docs.saltproject.io/salt/user-guide/en/latest/index.html"
+          },
+          {
+            "title": "Salt Module Index",
+            "link": "https://docs.saltproject.io/en/latest/py-modindex.html"
+          }
+        ]
+      },
+      "source": "Saltproject.io"
+    },
+    {
+      "position": 9,
+      "title": "SALT - Boulder, CO",
+      "link": "https://saltboulder.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://saltboulder.com/&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQFnoECFMQAQ",
+      "displayed_link": "https://saltboulder.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqigvDcERDUI0dNKt3lppxJbWTm7CoQLMaS-3adm7Eul2Ae0SIv6Fy&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2f717f37199ae02445e7/images/d586d2acde35255b5a7bec931ce51e6383849f758da65d1b4100b94286f339fd.webp",
+      "snippet": "A truly local experience. At SALT, our passionate commitment to sustainability inspires everything we do. We source quality ingredients from local farms.",
+      "snippet_highlighted_words": [
+        "SALT"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Salt Cellar Information",
+            "link": "https://saltboulder.com/boulder-salt-salt-cellar-information"
+          },
+          {
+            "title": "Our menu food",
+            "link": "https://saltboulder.com/boulder-salt-food-menu"
+          },
+          {
+            "title": "Menu",
+            "link": "https://saltboulder.com/boulder-salt-food-menu-120354"
+          },
+          {
+            "title": "Drinks",
+            "link": "https://saltboulder.com/boulder-salt-drink-menu"
+          }
+        ]
+      },
+      "source": "SALT - Boulder"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=salt&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQjGp6BAh8EAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salt&tbs=lf%3A1%2Clf_ui%3A9&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Salt chemical formula",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Salt+chemical+formula&sa=X&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQ1QJ6BAhbEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Salt+chemical+formula"
+    },
+    {
+      "block_position": 1,
+      "query": "Salt price",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Salt+price&sa=X&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQ1QJ6BAhYEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Salt+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Salt pronunciation",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Salt+pronunciation&sa=X&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQ1QJ6BAhWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Salt+pronunciation"
+    },
+    {
+      "block_position": 1,
+      "query": "Salt 2",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Salt+2&sa=X&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQ1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Salt+2"
+    },
+    {
+      "block_position": 1,
+      "query": "Salt history",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Salt+history&sa=X&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQ1QJ6BAhREAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Salt+history"
+    },
+    {
+      "block_position": 1,
+      "query": "Salt movie",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Salt+movie&sa=X&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQ1QJ6BAhQEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Salt+movie"
+    },
+    {
+      "block_position": 1,
+      "query": "SALT app",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=SALT+app&sa=X&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQ1QJ6BAhNEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=SALT+app"
+    },
+    {
+      "block_position": 1,
+      "query": "SALT tax",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=SALT+tax&sa=X&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQ1QJ6BAhMEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=SALT+tax"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=salt&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=cS8KZ6v4LZGjiLMPvpHIkAo&start=10&sa=N&sstk=AagrsuiPWAgnEv5jEf94QrHKTlg1jaP463zUniDkiMaMuQO-fuYM3xWVyDmmH7QlJs9WKIj7g0gPCZb1BrQjWhXhJATH87-owR2QtQ&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQ8NMDegQIEhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=salt&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=cS8KZ6v4LZGjiLMPvpHIkAo&start=10&sa=N&sstk=AagrsuiPWAgnEv5jEf94QrHKTlg1jaP463zUniDkiMaMuQO-fuYM3xWVyDmmH7QlJs9WKIj7g0gPCZb1BrQjWhXhJATH87-owR2QtQ&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQ8tMDegQIEhAE",
+      "3": "https://www.google.com/search?q=salt&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=cS8KZ6v4LZGjiLMPvpHIkAo&start=20&sa=N&sstk=AagrsuiPWAgnEv5jEf94QrHKTlg1jaP463zUniDkiMaMuQO-fuYM3xWVyDmmH7QlJs9WKIj7g0gPCZb1BrQjWhXhJATH87-owR2QtQ&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQ8tMDegQIEhAG",
+      "4": "https://www.google.com/search?q=salt&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=cS8KZ6v4LZGjiLMPvpHIkAo&start=30&sa=N&sstk=AagrsuiPWAgnEv5jEf94QrHKTlg1jaP463zUniDkiMaMuQO-fuYM3xWVyDmmH7QlJs9WKIj7g0gPCZb1BrQjWhXhJATH87-owR2QtQ&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQ8tMDegQIEhAI",
+      "5": "https://www.google.com/search?q=salt&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=cS8KZ6v4LZGjiLMPvpHIkAo&start=40&sa=N&sstk=AagrsuiPWAgnEv5jEf94QrHKTlg1jaP463zUniDkiMaMuQO-fuYM3xWVyDmmH7QlJs9WKIj7g0gPCZb1BrQjWhXhJATH87-owR2QtQ&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQ8tMDegQIEhAK",
+      "6": "https://www.google.com/search?q=salt&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=cS8KZ6v4LZGjiLMPvpHIkAo&start=50&sa=N&sstk=AagrsuiPWAgnEv5jEf94QrHKTlg1jaP463zUniDkiMaMuQO-fuYM3xWVyDmmH7QlJs9WKIj7g0gPCZb1BrQjWhXhJATH87-owR2QtQ&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQ8tMDegQIEhAM",
+      "7": "https://www.google.com/search?q=salt&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=cS8KZ6v4LZGjiLMPvpHIkAo&start=60&sa=N&sstk=AagrsuiPWAgnEv5jEf94QrHKTlg1jaP463zUniDkiMaMuQO-fuYM3xWVyDmmH7QlJs9WKIj7g0gPCZb1BrQjWhXhJATH87-owR2QtQ&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQ8tMDegQIEhAO",
+      "8": "https://www.google.com/search?q=salt&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=cS8KZ6v4LZGjiLMPvpHIkAo&start=70&sa=N&sstk=AagrsuiPWAgnEv5jEf94QrHKTlg1jaP463zUniDkiMaMuQO-fuYM3xWVyDmmH7QlJs9WKIj7g0gPCZb1BrQjWhXhJATH87-owR2QtQ&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQ8tMDegQIEhAQ",
+      "9": "https://www.google.com/search?q=salt&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=cS8KZ6v4LZGjiLMPvpHIkAo&start=80&sa=N&sstk=AagrsuiPWAgnEv5jEf94QrHKTlg1jaP463zUniDkiMaMuQO-fuYM3xWVyDmmH7QlJs9WKIj7g0gPCZb1BrQjWhXhJATH87-owR2QtQ&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQ8tMDegQIEhAS",
+      "10": "https://www.google.com/search?q=salt&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=cS8KZ6v4LZGjiLMPvpHIkAo&start=90&sa=N&sstk=AagrsuiPWAgnEv5jEf94QrHKTlg1jaP463zUniDkiMaMuQO-fuYM3xWVyDmmH7QlJs9WKIj7g0gPCZb1BrQjWhXhJATH87-owR2QtQ&ved=2ahUKEwjr9MXTsoiJAxWREWIAHb4IEqIQ8tMDegQIEhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salt&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salt&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salt&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salt&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salt&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salt&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salt&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salt&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salt&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salt&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=salt&start=90"
+    }
+  }
+}

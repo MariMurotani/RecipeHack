@@ -1,0 +1,548 @@
+{
+  "search_metadata": {
+    "id": "670a2d24d997abf67106dcff",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/dc81a95e206ef158/670a2d24d997abf67106dcff.json",
+    "created_at": "2024-10-12 08:02:44 UTC",
+    "processed_at": "2024-10-12 08:02:44 UTC",
+    "google_url": "https://www.google.com/search?q=carob&oq=carob&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/dc81a95e206ef158/670a2d24d997abf67106dcff.html",
+    "total_time_taken": 0.99
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "carob",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "carob",
+    "total_results": 20000000,
+    "time_taken_displayed": 0.25,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "title": "Carob",
+    "type": "Plant",
+    "entity_type": "biology",
+    "main_tab_text": "Overview",
+    "kgmid": "/g/1226f_md",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/1226f_md&hl=en-US&q=Carob&shndl=17&source=sh/x/kp/osrp/m5/1",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F1226f_md&location=Austin%2CTexas%2CUnited+States&q=Carob",
+    "tabs": [
+      {
+        "text": "Taste",
+        "si": "ACC90nx7UkgtYsuG5mcUBxiJqzbeiV4xFZaMvCPZbzkgzf8B05fpzNJd7LYWxq2RZZ5gGTuY9Ms4RXI1-7UwlfiKh7U7eucop80CPGIgSJH3rczGeb6W5YknK4Bj09KOrceSjpZSy8ca",
+        "link": "https://www.google.com/search?si=ACC90nx7UkgtYsuG5mcUBxiJqzbeiV4xFZaMvCPZbzkgzf8B05fpzNJd7LYWxq2RZZ5gGTuY9Ms4RXI1-7UwlfiKh7U7eucop80CPGIgSJH3rczGeb6W5YknK4Bj09KOrceSjpZSy8ca",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=carob&si=ACC90nx7UkgtYsuG5mcUBxiJqzbeiV4xFZaMvCPZbzkgzf8B05fpzNJd7LYWxq2RZZ5gGTuY9Ms4RXI1-7UwlfiKh7U7eucop80CPGIgSJH3rczGeb6W5YknK4Bj09KOrceSjpZSy8ca"
+      },
+      {
+        "text": "Benefits",
+        "si": "ACC90nyGHT5ugtXuO9TtR6RyoqpregRWfOs23F9esjYjJhhoMliHwYsL7rHWTpPQJj9YAv0yJDKzlorB_y4Yl-EalyDgLYIQYTvrZENNL7sfAz6Z5kXpY8o=",
+        "link": "https://www.google.com/search?si=ACC90nyGHT5ugtXuO9TtR6RyoqpregRWfOs23F9esjYjJhhoMliHwYsL7rHWTpPQJj9YAv0yJDKzlorB_y4Yl-EalyDgLYIQYTvrZENNL7sfAz6Z5kXpY8o=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=carob&si=ACC90nyGHT5ugtXuO9TtR6RyoqpregRWfOs23F9esjYjJhhoMliHwYsL7rHWTpPQJj9YAv0yJDKzlorB_y4Yl-EalyDgLYIQYTvrZENNL7sfAz6Z5kXpY8o%3D"
+      }
+    ],
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2d24d997abf67106dcff/images/d51d7fb061be3f1269837c783237f4a3a295a9404d4836cb175278d9112a8aac5aef623fca7f571f.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2d24d997abf67106dcff/images/d51d7fb061be3f1269837c783237f4a3a295a9404d4836cb78c409fe6317957624e9e2c73e751c2f.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2d24d997abf67106dcff/images/d51d7fb061be3f1269837c783237f4a3a295a9404d4836cbf2da44968e719bca1b33cf535c60d3d8.webp"
+      }
+    ],
+    "description": "The carob is a flowering evergreen tree or shrub in the Caesalpinioideae sub-family of the legume family, Fabaceae. It is widely cultivated for its edible fruit, which takes the form of seed pods, and as an ornamental tree in gardens and landscapes.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Carob"
+    },
+    "scientific_name": "Ceratonia siliqua",
+    "higher_classification": "Ceratonia",
+    "web_results": [
+      {
+        "thumbnail": "https://serpapi.com/searches/670a2d24d997abf67106dcff/images/d51d7fb061be3f1269837c783237f4a363a6b99dfc58630edae68c8f3e909a544802bc18dc3f6b1e.jpeg",
+        "title": "Carob vs. Chocolate: What's the Difference? - Thrive Market",
+        "snippet": "First, carob contains no caffeine or theobromine. These stimulants can positively impact central nervous system and the cardiovascular system.",
+        "link": "https://thrivemarket.com/blog/carob-vs-chocolate"
+      },
+      {
+        "title": "Scientific name",
+        "snippet": "Ceratonia siliqua",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=carob+scientific+name&stick=H4sIAAAAAAAAAOPgE-LWT9c3NDIyS4vPTdGyz0620k_KzM_JT6_Uzy9KT8zLLM6NT85JLC7OTMtMTizJzM-zKk7OTM0rAfEV8hJzUxUS81IUclOBSvPSF7GKJicW5ScpoKkBAONhtzdoAAAA&sa=X&ved=2ahUKEwjWo-26sIiJAxXzI0QIHfMpB30Q18AJegQIIxAB"
+      },
+      {
+        "title": "Higher classification",
+        "snippet": "Ceratonia",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=carob+higher+classification&stick=H4sIAAAAAAAAAOPgE-LWT9c3NDIyS4vPTdGSLi620i9PTUpLTC4ptsrITM9ILYpPzkksLs5MW8QqnZxYlJ-kABFWgApnJieWZObnAQB8gvVISgAAAA&sa=X&ved=2ahUKEwjWo-26sIiJAxXzI0QIHfMpB30Q18AJegQIIhAB"
+      },
+      {
+        "thumbnail": "https://serpapi.com/searches/670a2d24d997abf67106dcff/images/d51d7fb061be3f1269837c783237f4a363a6b99dfc58630e99a33ebc44e815199426c2a73191e934.jpeg",
+        "title": "Tasting First Carob in 2023 - Clifford Variety",
+        "source": "YouTube \u2022 Real Life Fruitopia",
+        "source_image": "https://serpapi.com/searches/670a2d24d997abf67106dcff/images/d51d7fb061be3f1269837c783237f4a363a6b99dfc58630e6c2f1e6c19d25e79ec7947457e8204bfea1b3b025023e1fe.png",
+        "link": "https://www.youtube.com/watch?v=dE56LPqocyA",
+        "duration": "5:22"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Ceratonia",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LzKuc9JprgUA8AgvMhYoNWQtYRoNYq7ScMF8hjGS8NtmItX7Eda2OYS-zliR_5oZlPcWzeVlWISJ7NH6fSa-wfSndVzJ8ypQrQITuqyhAziyqkvUjx2B8iv4VE6vCLiSa_38qMm3Loymz3LnUuTB0r0FDyqlX025hefN7lXfC7yUefDEyJn96XmAwYYydy4DTmGCNL5D5pqpwgNVFp17hb7nNXLcE2siKrx8y3vY2v9bSQdKnubSPpMykisGUfvKerlzof4%3D&q=Ceratonia&sa=X&ved=2ahUKEwjWo-26sIiJAxXzI0QIHfMpB30Qs9oBKAB6BAgTEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Ceratonia&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LzKuc9JprgUA8AgvMhYoNWQtYRoNYq7ScMF8hjGS8NtmItX7Eda2OYS-zliR_5oZlPcWzeVlWISJ7NH6fSa-wfSndVzJ8ypQrQITuqyhAziyqkvUjx2B8iv4VE6vCLiSa_38qMm3Loymz3LnUuTB0r0FDyqlX025hefN7lXfC7yUefDEyJn96XmAwYYydy4DTmGCNL5D5pqpwgNVFp17hb7nNXLcE2siKrx8y3vY2v9bSQdKnubSPpMykisGUfvKerlzof4%3D",
+        "image": "https://serpapi.com/searches/670a2d24d997abf67106dcff/images/d51d7fb061be3f1269837c783237f4a309cf068d24721daf27630e7a4d9d72cdbbbe86333dc9d093433ba36948d51dbc.jpeg"
+      },
+      {
+        "name": "Jujube",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep251_u1tE9oi63pxCTpTLhTgAq2nA78WdX4LCx6mdAtXLHDr62JDMk8iarXtIfdKACBVjfGCpVZ9KNkhqbytueYAJJzq58MEIuTD91SjhOuPioxzXLLXB4szTRvlnmSVVbXRjWbo5g7UHcyv0gMj6QtTUwlmnr4GncJZxuiQIgcopn2sFH58y74dnojeC_oFmC1QILxoWPqecWJbPSRgT13EcLF6697bzC_ot-_L0YYI-RmJNsFW-dLnncRUllgWMqxlD1Q%3D&q=Jujube&sa=X&ved=2ahUKEwjWo-26sIiJAxXzI0QIHfMpB30Qs9oBKAB6BAgTEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Jujube&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep251_u1tE9oi63pxCTpTLhTgAq2nA78WdX4LCx6mdAtXLHDr62JDMk8iarXtIfdKACBVjfGCpVZ9KNkhqbytueYAJJzq58MEIuTD91SjhOuPioxzXLLXB4szTRvlnmSVVbXRjWbo5g7UHcyv0gMj6QtTUwlmnr4GncJZxuiQIgcopn2sFH58y74dnojeC_oFmC1QILxoWPqecWJbPSRgT13EcLF6697bzC_ot-_L0YYI-RmJNsFW-dLnncRUllgWMqxlD1Q%3D",
+        "image": "https://serpapi.com/searches/670a2d24d997abf67106dcff/images/d51d7fb061be3f1269837c783237f4a309cf068d24721daf27630e7a4d9d72cd88ac5bec77c6a57553b4bd07a8a7f6e5.jpeg"
+      },
+      {
+        "name": "Black mulberry",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LziTyxWFgkhfrvHYmIkIHx7jyaNBN--QTZFAfS2VZVnw7Y7wpjet_HBXTW1cq7AWsVLoPLfCiK8Ng8uU0ev40545f71qzQwc93G4dwB8RJI47YfSEv2lPqGrx6oa4XQR-4iIVTUP1rpN5lF7VMFLd7N7NehMCjXA0OusHSZV8UOS7d86RzljwrXN-y55-Y9FYX60x0wYHyOC0LjEMqPizyQ9Ejssn8D5JClHPgMdjfhBiCXQwRcEBp9a1U3x_xHFly8-xuc%3D&q=Morus+nigra&sa=X&ved=2ahUKEwjWo-26sIiJAxXzI0QIHfMpB30Qs9oBKAB6BAgTEA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Morus+nigra&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LziTyxWFgkhfrvHYmIkIHx7jyaNBN--QTZFAfS2VZVnw7Y7wpjet_HBXTW1cq7AWsVLoPLfCiK8Ng8uU0ev40545f71qzQwc93G4dwB8RJI47YfSEv2lPqGrx6oa4XQR-4iIVTUP1rpN5lF7VMFLd7N7NehMCjXA0OusHSZV8UOS7d86RzljwrXN-y55-Y9FYX60x0wYHyOC0LjEMqPizyQ9Ejssn8D5JClHPgMdjfhBiCXQwRcEBp9a1U3x_xHFly8-xuc%3D",
+        "image": "https://serpapi.com/searches/670a2d24d997abf67106dcff/images/d51d7fb061be3f1269837c783237f4a309cf068d24721daf27630e7a4d9d72cdf09dd9cc71b286cb6444c4de1caa1f78.jpeg"
+      },
+      {
+        "name": "Legumes",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm1x5FGMT8nimg2nXfLEd7kPx2M5ByUmDnNcK29iGcesXaNjnQThV1yjpedjbvvcu8cOQN8_oZwq32cQZ359Y7rsTYBjQU6FwqRlx6a6IEAXDmA6EWPXBxhi2XzykRwlw9BwXN5ARMl17YAPoig_2FBwmVPFwtAMxYdlcgVV2QnVrdbb9aAZjqxHKKHVKDGVkxdxbWUVhpKemroOfVUDr60-FrrSGHG4z11IHYYJP-QVbeRj952lokOgvpMJojukRjjG7DWw%3D&q=Fabaceae&sa=X&ved=2ahUKEwjWo-26sIiJAxXzI0QIHfMpB30Qs9oBKAB6BAgTEBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Fabaceae&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm1x5FGMT8nimg2nXfLEd7kPx2M5ByUmDnNcK29iGcesXaNjnQThV1yjpedjbvvcu8cOQN8_oZwq32cQZ359Y7rsTYBjQU6FwqRlx6a6IEAXDmA6EWPXBxhi2XzykRwlw9BwXN5ARMl17YAPoig_2FBwmVPFwtAMxYdlcgVV2QnVrdbb9aAZjqxHKKHVKDGVkxdxbWUVhpKemroOfVUDr60-FrrSGHG4z11IHYYJP-QVbeRj952lokOgvpMJojukRjjG7DWw%3D",
+        "image": "https://serpapi.com/searches/670a2d24d997abf67106dcff/images/d51d7fb061be3f1269837c783237f4a309cf068d24721daf27630e7a4d9d72cd9b97566f7acf7a39366ecf66aaf6b09e.jpeg"
+      }
+    ]
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Watch this before Cooking With Carob",
+      "link": "https://www.youtube.com/watch?v=IJoq9kp4ocE",
+      "thumbnail": "https://i.ytimg.com/vi/IJoq9kp4ocE/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3lA111xC9BdXnsn4HyA8_rmYuxe3A",
+      "channel": "mensch chef",
+      "duration": "5:46",
+      "platform": "YouTube",
+      "date": "Dec 15, 2023",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Carobs",
+          "link": "https://www.youtube.com/watch?v=IJoq9kp4ocE&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUGf8i-uzaq8Yx8PhVhodbweUmDvsBW7hFDDJP-8ZIBA&s"
+        },
+        {
+          "time": "00:51",
+          "title": "How to Make Carob Powder",
+          "link": "https://www.youtube.com/watch?v=IJoq9kp4ocE&t=51",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScIAovcHLOA07-D7wHpdple-LzxJUgIBw5T5WD1v2v9g&s"
+        },
+        {
+          "time": "02:08",
+          "title": "How to Make Carob Chocolate Bars",
+          "link": "https://www.youtube.com/watch?v=IJoq9kp4ocE&t=128",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdNwx-CE4tJCDrQWtTiLBio-5L1ZErxyc28uv5uAjvnw&s"
+        },
+        {
+          "time": "02:57",
+          "title": "How to Make Muesli Carob Energy Truffles",
+          "link": "https://www.youtube.com/watch?v=IJoq9kp4ocE&t=177",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxjhKjPvXy8umJ6YZf7D0zxet8ufQCcAf0ETn8ipb2wg&s"
+        },
+        {
+          "time": "03:55",
+          "title": "How to Make Peanut Butter Carob Fudge",
+          "link": "https://www.youtube.com/watch?v=IJoq9kp4ocE&t=235",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlpXncFzHRgghUW7hxoOtvNn13jCeX3CXTFg82My4MCg&s"
+        },
+        {
+          "time": "04:58",
+          "title": "Holy Carob",
+          "link": "https://www.youtube.com/watch?v=IJoq9kp4ocE&t=298",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUpDMXc5XyoymIU0MuJW8CPO3N221gW5alpGEFqcwnpQ&s"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Carob - Ceratonia siliqua - Self-fertile variety Clifford",
+      "link": "https://www.youtube.com/watch?v=MGcIN5uw-rs",
+      "thumbnail": "https://i.ytimg.com/vi/MGcIN5uw-rs/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kaNaugJJqg2UmqLikair1APLIbJg",
+      "channel": "daleysfr",
+      "duration": "6:01",
+      "platform": "YouTube",
+      "date": "Jan 8, 2020",
+      "key_moments": [
+        {
+          "time": "00:40",
+          "title": "Climate requirements",
+          "link": "https://www.youtube.com/watch?v=MGcIN5uw-rs&t=40",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYzpg1ogKi1RCoBxmeb9IqW2vjXkZhdxM4wARoQ9xr5Q&s"
+        },
+        {
+          "time": "01:02",
+          "title": "Growing conditions",
+          "link": "https://www.youtube.com/watch?v=MGcIN5uw-rs&t=62",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR29pYtrG4VyPS6sku0G2EBeddaTb_wtL4FxgaTB9qFqw&s"
+        },
+        {
+          "time": "01:28",
+          "title": "Requirements",
+          "link": "https://www.youtube.com/watch?v=MGcIN5uw-rs&t=88",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1bvhvDtag5kIIfZSCv3UYFk9mH_T31NLzwEN-ChAo3Q&s"
+        },
+        {
+          "time": "02:18",
+          "title": "Time to flower and fruit",
+          "link": "https://www.youtube.com/watch?v=MGcIN5uw-rs&t=138",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Adxjwwr1P3JG7Y7JNXZuCsv7EWuzi3peeKAE2bHQ0w&s"
+        },
+        {
+          "time": "02:51",
+          "title": "Why are they grown?",
+          "link": "https://www.youtube.com/watch?v=MGcIN5uw-rs&t=171",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8oq_ioSB_M0OsP8CITjaINswXRFV6QewnsqBCsmosxQ&s"
+        },
+        {
+          "time": "04:49",
+          "title": "How to make carob powder",
+          "link": "https://www.youtube.com/watch?v=MGcIN5uw-rs&t=289",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQ156ip81-XG6CtVwDyNJZUlq0HTaaE4x-g6w5HW52Q&s"
+        },
+        {
+          "time": "05:19",
+          "title": "Harvesting",
+          "link": "https://www.youtube.com/watch?v=MGcIN5uw-rs&t=319",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOO_6YWnRkwZhxJNvOzqNBKJZEPF4gF1SInpN4wWG7Eg&s"
+        },
+        {
+          "time": "05:45",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=MGcIN5uw-rs&t=345",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXMJcWxyHqH9CSq1fz0JNtjC6cxxpB3YiuMhOk-ZGywg&s"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "Tasting First Carob in 2023 - Clifford Variety",
+      "link": "https://www.youtube.com/watch?v=dE56LPqocyA",
+      "thumbnail": "https://i.ytimg.com/vi/dE56LPqocyA/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3l7e3choI94IlOUrrClVmnC3gJV-g",
+      "channel": "Real Life Fruitopia",
+      "duration": "5:22",
+      "platform": "YouTube",
+      "date": "Apr 12, 2023"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Why is carob not more popular?",
+      "snippet": "A 2018 New Yorker piece explains the evolution of carob in the United States, saying it failed to become a popular food because it \"traumatized a generation.\" In the 1970s, children whose parents were members of the natural food movement felt betrayed when they were presented with carob-filled \"chocolate\" confections, ...",
+      "title": "Why Isn't Carob More Popular? - Treehugger",
+      "link": "https://www.treehugger.com/why-isnt-carob-more-popular-4868718#:~:text=A%202018%20New%20Yorker%20piece,%2Dfilled%20%22chocolate%22%20confections%2C",
+      "displayed_link": "https://www.treehugger.com \u203a why-isnt-carob-more-pop...",
+      "source_logo": "https://serpapi.com/searches/670a2d24d997abf67106dcff/images/3b2fcb8346f477240f8ab1244bc8a2668f432f9e8455eebb9b2b00c42a802916.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlpscGpWbFZGWWxZNWRWZE9OazExUmtJeGVWSnpNakJhZERVeE9EZEZkR3g1WjFKWWNrSnlNR1F6VHpWc1ltSnFkemxQVFd0WFJXOTNNMVo0V25nMlpVWktiWE5IRWhkS1V6QkxXalZpT1VKbVVFaHJVRWxRT0RsUFl6WkJZeG9pUVVaWWNrVmpiMms0ZUhkVVFWOUVjVVpUT1dGbGRETlllSE5zTFhBNVMyeExVUSIsImZjdiI6IjMiLCJlaSI6IkpTMEtaNWI5QmZQSGtQSVA4OU9jNkFjIiwicWMiOiJDZ1ZqWVhKdlloQUFmU3dlSFQ4IiwicXVlc3Rpb24iOiJXaHkgaXMgY2Fyb2Igbm90IG1vcmUgcG9wdWxhcj8iLCJsayI6IkdoMTNhSGtnYVhNZ1kyRnliMklnYm05MElHMXZjbVVnY0c5d2RXeGhjZyIsImJzIjoiYy1OeTRaSUx6NmhVeUN4V1NFNHN5azlTeU1zdlVjak5MMHBWS01ndktNMUpMTEtYMkpwbEpDOGxXNDVQRVpjVmw2UkxmaXBNT2lPeExCWElURXRMemN4THRaZllHMmNrSlNXUmdrT2VDLWdDVDdoTWFtSk9TVVptYXBGQ1NVWmlIbEF3T1RIZlh1S3pQY2dGbWZnVWNYbHhLWVpuSkphQTNKZ0lWVmVRbjZLUW1RZFVsS3JnbEptVUEzUkpXNDJSa3BSQ09XNTFTU0IxQW93QSIsImlkIjoiZmNfSlMwS1o1YjlCZlBIa1BJUDg5T2M2QWNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlpscGpWbFZGWWxZNWRWZE9OazExUmtJeGVWSnpNakJhZERVeE9EZEZkR3g1WjFKWWNrSnlNR1F6VHpWc1ltSnFkemxQVFd0WFJXOTNNMVo0V25nMlpVWktiWE5IRWhkS1V6QkxXalZpT1VKbVVFaHJVRWxRT0RsUFl6WkJZeG9pUVVaWWNrVmpiMms0ZUhkVVFWOUVjVVpUT1dGbGRETlllSE5zTFhBNVMyeExVUSIsImZjdiI6IjMiLCJlaSI6IkpTMEtaNWI5QmZQSGtQSVA4OU9jNkFjIiwicWMiOiJDZ1ZqWVhKdlloQUFmU3dlSFQ4IiwicXVlc3Rpb24iOiJXaHkgaXMgY2Fyb2Igbm90IG1vcmUgcG9wdWxhcj8iLCJsayI6IkdoMTNhSGtnYVhNZ1kyRnliMklnYm05MElHMXZjbVVnY0c5d2RXeGhjZyIsImJzIjoiYy1OeTRaSUx6NmhVeUN4V1NFNHN5azlTeU1zdlVjak5MMHBWS01ndktNMUpMTEtYMkpwbEpDOGxXNDVQRVpjVmw2UkxmaXBNT2lPeExCWElURXRMemN4THRaZllHMmNrSlNXUmdrT2VDLWdDVDdoTWFtSk9TVVptYXBGQ1NVWmlIbEF3T1RIZlh1S3pQY2dGbWZnVWNYbHhLWVpuSkphQTNKZ0lWVmVRbjZLUW1RZFVsS3JnbEptVUEzUkpXNDJSa3BSQ09XNTFTU0IxQW93QSIsImlkIjoiZmNfSlMwS1o1YjlCZlBIa1BJUDg5T2M2QWNfMSJ9"
+    },
+    {
+      "question": "Does carob have caffeine?",
+      "snippet": "Since carob is naturally high in fiber and has no caffeine, it's ideal for people with high blood pressure. The low sugar and fat content also makes it a great dietary addition or chocolate substitution for people looking to lose weight.",
+      "title": "The 5 Best Things About Carob - Healthline",
+      "link": "https://www.healthline.com/health/5-best-things-about-carob#:~:text=Since%20carob%20is%20naturally%20high,people%20looking%20to%20lose%20weight.",
+      "displayed_link": "https://www.healthline.com \u203a health \u203a 5-best-things-abo...",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlpscGpWbFZGWWxZNWRWZE9OazExUmtJeGVWSnpNakJhZERVeE9EZEZkR3g1WjFKWWNrSnlNR1F6VHpWc1ltSnFkemxQVFd0WFJXOTNNMVo0V25nMlpVWktiWE5IRWhkS1V6QkxXalZpT1VKbVVFaHJVRWxRT0RsUFl6WkJZeG9pUVVaWWNrVmpiMms0ZUhkVVFWOUVjVVpUT1dGbGRETlllSE5zTFhBNVMyeExVUSIsImZjdiI6IjMiLCJlaSI6IkpTMEtaNWI5QmZQSGtQSVA4OU9jNkFjIiwicWMiOiJDZ1ZqWVhKdlloQUFmU3dlSFQ4IiwicXVlc3Rpb24iOiJEb2VzIGNhcm9iIGhhdmUgY2FmZmVpbmU/IiwibGsiOiJHaGhrYjJWeklHTmhjbTlpSUdoaGRtVWdZMkZtWm1WcGJtVSIsImJzIjoiYy1OeTRaSUx6NmhVeUN4V1NFNHN5azlTeU1zdlVjak5MMHBWS01ndktNMUpMTEtYMkpwbEpDOGxXNDVQRVpjVmw2UkxmaXBNT2lPeExCWElURXRMemN4THRaZllHMmNrSlNXUmdrT2VDLWdDVDdoTWFtSk9TVVptYXBGQ1NVWmlIbEF3T1RIZlh1S3pQY2dGbWZnVWNYbHhLWVpuSkphQTNKZ0lWVmVRbjZLUW1RZFVsS3JnbEptVUEzUkpXNDJSa3BSQ09XNTFTU0IxQW93QSIsImlkIjoiZmNfSlMwS1o1YjlCZlBIa1BJUDg5T2M2QWNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlpscGpWbFZGWWxZNWRWZE9OazExUmtJeGVWSnpNakJhZERVeE9EZEZkR3g1WjFKWWNrSnlNR1F6VHpWc1ltSnFkemxQVFd0WFJXOTNNMVo0V25nMlpVWktiWE5IRWhkS1V6QkxXalZpT1VKbVVFaHJVRWxRT0RsUFl6WkJZeG9pUVVaWWNrVmpiMms0ZUhkVVFWOUVjVVpUT1dGbGRETlllSE5zTFhBNVMyeExVUSIsImZjdiI6IjMiLCJlaSI6IkpTMEtaNWI5QmZQSGtQSVA4OU9jNkFjIiwicWMiOiJDZ1ZqWVhKdlloQUFmU3dlSFQ4IiwicXVlc3Rpb24iOiJEb2VzIGNhcm9iIGhhdmUgY2FmZmVpbmU%2FIiwibGsiOiJHaGhrYjJWeklHTmhjbTlpSUdoaGRtVWdZMkZtWm1WcGJtVSIsImJzIjoiYy1OeTRaSUx6NmhVeUN4V1NFNHN5azlTeU1zdlVjak5MMHBWS01ndktNMUpMTEtYMkpwbEpDOGxXNDVQRVpjVmw2UkxmaXBNT2lPeExCWElURXRMemN4THRaZllHMmNrSlNXUmdrT2VDLWdDVDdoTWFtSk9TVVptYXBGQ1NVWmlIbEF3T1RIZlh1S3pQY2dGbWZnVWNYbHhLWVpuSkphQTNKZ0lWVmVRbjZLUW1RZFVsS3JnbEptVUEzUkpXNDJSa3BSQ09XNTFTU0IxQW93QSIsImlkIjoiZmNfSlMwS1o1YjlCZlBIa1BJUDg5T2M2QWNfMSJ9"
+    },
+    {
+      "question": "Is carob healthier than cacao?",
+      "snippet": "Carob is healthier than cacao because it contains more nutrients and fiber and it is lower in fat and calories. If you enjoy baking and eating delicious desserts, you may find recipes calling for carob powder. Bakers frequently use this sweet brown ingredient as a substitute for cacao and cocoa powder.",
+      "title": "What Is Carob Powder Good For and Is It Healthier Than Cacao?",
+      "date": "Oct 27, 2022",
+      "link": "https://www.medicinenet.com/carob_powder_good_is_it_healthier_than_cacao/article.htm#:~:text=Carob%20is%20healthier%20than%20cacao,for%20cacao%20and%20cocoa%20powder.",
+      "displayed_link": "https://www.medicinenet.com \u203a article",
+      "source_logo": "https://serpapi.com/searches/670a2d24d997abf67106dcff/images/3b2fcb8346f477240f8ab1244bc8a2666e56fd1060403976d2d2aaa841ad2245.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlpscGpWbFZGWWxZNWRWZE9OazExUmtJeGVWSnpNakJhZERVeE9EZEZkR3g1WjFKWWNrSnlNR1F6VHpWc1ltSnFkemxQVFd0WFJXOTNNMVo0V25nMlpVWktiWE5IRWhkS1V6QkxXalZpT1VKbVVFaHJVRWxRT0RsUFl6WkJZeG9pUVVaWWNrVmpiMms0ZUhkVVFWOUVjVVpUT1dGbGRETlllSE5zTFhBNVMyeExVUSIsImZjdiI6IjMiLCJlaSI6IkpTMEtaNWI5QmZQSGtQSVA4OU9jNkFjIiwicWMiOiJDZ1ZqWVhKdlloQUFmU3dlSFQ4IiwicXVlc3Rpb24iOiJJcyBjYXJvYiBoZWFsdGhpZXIgdGhhbiBjYWNhbz8iLCJsayI6IkdoMXBjeUJqWVhKdllpQm9aV0ZzZEdocFpYSWdkR2hoYmlCallXTmhidyIsImJzIjoiYy1OeTRaSUx6NmhVeUN4V1NFNHN5azlTeU1zdlVjak5MMHBWS01ndktNMUpMTEtYMkpwbEpDOGxXNDVQRVpjVmw2UkxmaXBNT2lPeExCWElURXRMemN4THRaZllHMmNrSlNXUmdrT2VDLWdDVDdoTWFtSk9TVVptYXBGQ1NVWmlIbEF3T1RIZlh1S3pQY2dGbWZnVWNYbHhLWVpuSkphQTNKZ0lWVmVRbjZLUW1RZFVsS3JnbEptVUEzUkpXNDJSa3BSQ09XNTFTU0IxQW93QSIsImlkIjoiZmNfSlMwS1o1YjlCZlBIa1BJUDg5T2M2QWNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlpscGpWbFZGWWxZNWRWZE9OazExUmtJeGVWSnpNakJhZERVeE9EZEZkR3g1WjFKWWNrSnlNR1F6VHpWc1ltSnFkemxQVFd0WFJXOTNNMVo0V25nMlpVWktiWE5IRWhkS1V6QkxXalZpT1VKbVVFaHJVRWxRT0RsUFl6WkJZeG9pUVVaWWNrVmpiMms0ZUhkVVFWOUVjVVpUT1dGbGRETlllSE5zTFhBNVMyeExVUSIsImZjdiI6IjMiLCJlaSI6IkpTMEtaNWI5QmZQSGtQSVA4OU9jNkFjIiwicWMiOiJDZ1ZqWVhKdlloQUFmU3dlSFQ4IiwicXVlc3Rpb24iOiJJcyBjYXJvYiBoZWFsdGhpZXIgdGhhbiBjYWNhbz8iLCJsayI6IkdoMXBjeUJqWVhKdllpQm9aV0ZzZEdocFpYSWdkR2hoYmlCallXTmhidyIsImJzIjoiYy1OeTRaSUx6NmhVeUN4V1NFNHN5azlTeU1zdlVjak5MMHBWS01ndktNMUpMTEtYMkpwbEpDOGxXNDVQRVpjVmw2UkxmaXBNT2lPeExCWElURXRMemN4THRaZllHMmNrSlNXUmdrT2VDLWdDVDdoTWFtSk9TVVptYXBGQ1NVWmlIbEF3T1RIZlh1S3pQY2dGbWZnVWNYbHhLWVpuSkphQTNKZ0lWVmVRbjZLUW1RZFVsS3JnbEptVUEzUkpXNDJSa3BSQ09XNTFTU0IxQW93QSIsImlkIjoiZmNfSlMwS1o1YjlCZlBIa1BJUDg5T2M2QWNfMSJ9"
+    },
+    {
+      "question": "What is a carob pod in the Bible?",
+      "snippet": "The Greek word for carob is keras, meaning horn, in reference to its arc shaped pods. It is also known as \"St. John's Bread\" and, according to the Bible, sustained St. John the Baptist in the wilderness (Mark 1:16). Another Biblical reference to carob is as the \"locust bean\" which tempted the Prodigal Son (Luke 15:16).",
+      "title": "Carob Notes - Eden Foods",
+      "link": "https://edenfoods.com/carob#:~:text=The%20Greek%20word%20for%20carob,(Luke%2015%3A16).",
+      "displayed_link": "https://edenfoods.com \u203a carob",
+      "source_logo": "https://serpapi.com/searches/670a2d24d997abf67106dcff/images/3b2fcb8346f477240f8ab1244bc8a266b5851c3cf82461673a142d9812c83670.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlpscGpWbFZGWWxZNWRWZE9OazExUmtJeGVWSnpNakJhZERVeE9EZEZkR3g1WjFKWWNrSnlNR1F6VHpWc1ltSnFkemxQVFd0WFJXOTNNMVo0V25nMlpVWktiWE5IRWhkS1V6QkxXalZpT1VKbVVFaHJVRWxRT0RsUFl6WkJZeG9pUVVaWWNrVmpiMms0ZUhkVVFWOUVjVVpUT1dGbGRETlllSE5zTFhBNVMyeExVUSIsImZjdiI6IjMiLCJlaSI6IkpTMEtaNWI5QmZQSGtQSVA4OU9jNkFjIiwicWMiOiJDZ1ZqWVhKdlloQUFmU3dlSFQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgY2Fyb2IgcG9kIGluIHRoZSBCaWJsZT8iLCJsayI6IkdpQjNhR0YwSUdseklHRWdZMkZ5YjJJZ2NHOWtJR2x1SUhSb1pTQmlhV0pzWlEiLCJicyI6ImMtTnk0WklMejZoVXlDeFdTRTRzeWs5U3lNc3ZVY2pOTDBwVktNZ3ZLTTFKTExLWDJKcGxKQzhsVzQ1UEVaY1ZsNlJMZmlwTU9pT3hMQlhJVEV0THpjeEx0WmZZRzJja0pTV1Jna09lQy1nQ1Q3aE1hbUpPU1VabWFwRkNTVVppSGxBd09USGZYdUt6UGNnRm1mZ1VjWGx4S1labkpKYUEzSmdJVlZlUW42S1FtUWRVbEtyZ2xKbVVBM1JKVzQyUmtwUkNPVzUxU1NCMUFvd0EiLCJpZCI6ImZjX0pTMEtaNWI5QmZQSGtQSVA4OU9jNkFjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlpscGpWbFZGWWxZNWRWZE9OazExUmtJeGVWSnpNakJhZERVeE9EZEZkR3g1WjFKWWNrSnlNR1F6VHpWc1ltSnFkemxQVFd0WFJXOTNNMVo0V25nMlpVWktiWE5IRWhkS1V6QkxXalZpT1VKbVVFaHJVRWxRT0RsUFl6WkJZeG9pUVVaWWNrVmpiMms0ZUhkVVFWOUVjVVpUT1dGbGRETlllSE5zTFhBNVMyeExVUSIsImZjdiI6IjMiLCJlaSI6IkpTMEtaNWI5QmZQSGtQSVA4OU9jNkFjIiwicWMiOiJDZ1ZqWVhKdlloQUFmU3dlSFQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgY2Fyb2IgcG9kIGluIHRoZSBCaWJsZT8iLCJsayI6IkdpQjNhR0YwSUdseklHRWdZMkZ5YjJJZ2NHOWtJR2x1SUhSb1pTQmlhV0pzWlEiLCJicyI6ImMtTnk0WklMejZoVXlDeFdTRTRzeWs5U3lNc3ZVY2pOTDBwVktNZ3ZLTTFKTExLWDJKcGxKQzhsVzQ1UEVaY1ZsNlJMZmlwTU9pT3hMQlhJVEV0THpjeEx0WmZZRzJja0pTV1Jna09lQy1nQ1Q3aE1hbUpPU1VabWFwRkNTVVppSGxBd09USGZYdUt6UGNnRm1mZ1VjWGx4S1labkpKYUEzSmdJVlZlUW42S1FtUWRVbEtyZ2xKbVVBM1JKVzQyUmtwUkNPVzUxU1NCMUFvd0EiLCJpZCI6ImZjX0pTMEtaNWI5QmZQSGtQSVA4OU9jNkFjXzEifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Carob",
+      "link": "https://en.wikipedia.org/wiki/Carob",
+      "redirect_link": "https://www.google.com/url?sa=t&url=https://en.wikipedia.org/wiki/Carob&usg=AOvVaw2i9h__azzhANPDkasbvOhj",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Carob",
+      "thumbnail": "https://serpapi.com/searches/670a2d24d997abf67106dcff/images/d80d9fc0d09256fe6ec2b78bffcb7bb660480d9426602e85a3e3eaae49929ccc.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2d24d997abf67106dcff/images/d80d9fc0d09256fe6ec2b78bffcb7bb65653c28a35f4336bf0065d58e9cd8863.png",
+      "snippet": "The carob is a flowering evergreen tree or shrub in the Caesalpinioideae sub-family of the legume family, Fabaceae. It is widely cultivated for its edible ...",
+      "snippet_highlighted_words": [
+        "carob"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "What is Carob?",
+      "link": "https://www.thespruceeats.com/what-is-carob-4775711",
+      "redirect_link": "https://www.google.com/url?sa=t&url=https://www.thespruceeats.com/what-is-carob-4775711&usg=AOvVaw1CJgOkupQeXOrN_fBwWL55",
+      "displayed_link": "https://www.thespruceeats.com \u203a what-is-carob-4775711",
+      "favicon": "https://serpapi.com/searches/670a2d24d997abf67106dcff/images/d80d9fc0d09256fe6ec2b78bffcb7bb669da8cf6752b6ea61d45cc23e611cefb.png",
+      "date": "Sep 6, 2022",
+      "snippet": "Carob grows on trees, is a member of the legume family, and is frequently turned into a popular chocolate substitute. It's also known as locust ...",
+      "snippet_highlighted_words": [
+        "Carob"
+      ],
+      "source": "The Spruce Eats"
+    },
+    {
+      "position": 3,
+      "title": "Carob | Health Benefits, Nutritional Value & Culinary Uses",
+      "link": "https://www.britannica.com/plant/carob",
+      "redirect_link": "https://www.google.com/url?sa=t&url=https://www.britannica.com/plant/carob&usg=AOvVaw3Qxu3ju5zrb9m11BbFd5oE",
+      "displayed_link": "https://www.britannica.com \u203a ... \u203a Food",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1r62qsq_AkqQAbiob6ApA3uWa4Kmg85nBchh2weHEXRNN9uMQZhfs&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2d24d997abf67106dcff/images/d80d9fc0d09256fe6ec2b78bffcb7bb60eb55e78a4898ac86efbead70b30a338.png",
+      "date": "Aug 23, 2024",
+      "snippet": "Rich in carbohydrates, it has several health benefits and is an excellent source of quick energy. It also contains minute amounts of the ...",
+      "source": "Britannica"
+    },
+    {
+      "position": 4,
+      "title": "Landau Carob chips, 12 Oz : Grocery & Gourmet Food",
+      "link": "https://www.amazon.com/Landau-Carob-chips-12-Oz/dp/B00439UZ5O",
+      "redirect_link": "https://www.google.com/url?sa=t&url=https://www.amazon.com/Landau-Carob-chips-12-Oz/dp/B00439UZ5O&usg=AOvVaw0NBND6i9p58F89bs0kmfIW",
+      "displayed_link": "https://www.amazon.com \u203a Landau-Carob-chips-12-Oz",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj6QzmcuWFoLU8a6aCa_PSp-HH-vEcGXX3_ThqgyqlefeYfKsolMbM&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2d24d997abf67106dcff/images/d80d9fc0d09256fe6ec2b78bffcb7bb666b327650cc5f51964714112e25f5a2e.png",
+      "snippet": "Taste was almost identical: both tasty, both a little too sweet. In texture the Landau was a tiny bit creamier, so for my taste a tiny bit better. I wish they'd ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 30,
+            "price": 7.95,
+            "currency": "$"
+          },
+          "extensions": [
+            "4.4(804)",
+            "$7.95",
+            "\u200e30",
+            "day returns",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Amazon.com"
+    },
+    {
+      "position": 5,
+      "title": "The Australian Carob Co. Pure Carob, Raw 7oz",
+      "link": "https://www.missyjs.com/products/the-australian-carob-co-pure-carob-powder-raw-organic-7oz?srsltid=AfmBOoo2uWzo8-8cWqv0ii_QjOPa1nhqymenQnooonySCO_-4Y6TpT9f",
+      "redirect_link": "https://www.google.com/url?sa=t&url=https://www.missyjs.com/products/the-australian-carob-co-pure-carob-powder-raw-organic-7oz?srsltid=AfmBOoo2uWzo8-8cWqv0ii_QjOPa1nhqymenQnooonySCO_-4Y6TpT9f&usg=AOvVaw1cktxwlgCxnUwolGA3Y5V9",
+      "displayed_link": "https://www.missyjs.com \u203a products \u203a the-australian-car...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqiSb1AdBn5gcpttCtWKDeOUuTmMxfDUIDO34LCLEfIF9TIxS3m7p&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2d24d997abf67106dcff/images/d80d9fc0d09256fe6ec2b78bffcb7bb62c9a28a4aee2b11049b75213593510d9.png",
+      "snippet": "The raw carob powder has a full-bodied, sweet, smooth malt taste. Mild carob flavor (not chocolatey) like our roasted carob powder.",
+      "snippet_highlighted_words": [
+        "carob",
+        "carob",
+        "carob"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "price": 3,
+            "currency": "Free \u2013 day delivery over $"
+          },
+          "extensions": [
+            "5.0(3)",
+            "$6.95",
+            "\u200eFree 3\u20135 day delivery over $99"
+          ]
+        }
+      },
+      "source": "Missy J's"
+    },
+    {
+      "position": 6,
+      "title": "Carob vs. Chocolate: What's the Difference?",
+      "link": "https://thrivemarket.com/blog/carob-vs-chocolate",
+      "redirect_link": "https://www.google.com/url?sa=t&url=https://thrivemarket.com/blog/carob-vs-chocolate&usg=AOvVaw17_g2ZKVhm_0WRnwF4hRra",
+      "displayed_link": "https://thrivemarket.com \u203a blog \u203a carob-vs-chocolate",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgrPjtqgAKPoi7pd3D63L9HVHXpwfErw9HnUfq67D3288oOFwl_5hL&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2d24d997abf67106dcff/images/d80d9fc0d09256fe6ec2b78bffcb7bb65e48084b9d25f5627c854b0e29e3b71c.png",
+      "date": "Jul 9, 2024",
+      "snippet": "Carob is often used as a chocolate substitute for those who are sensitive to caffeine and theobromine or are looking for a lower-fat option.",
+      "snippet_highlighted_words": [
+        "Carob"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 8.99,
+            "currency": "$ to $"
+          },
+          "extensions": [
+            "$8.99 to $11.89"
+          ]
+        }
+      },
+      "source": "Thrive Market"
+    },
+    {
+      "position": 7,
+      "title": "The 5 Best Things About Carob",
+      "link": "https://www.healthline.com/health/5-best-things-about-carob",
+      "redirect_link": "https://www.google.com/url?sa=t&url=https://www.healthline.com/health/5-best-things-about-carob&usg=AOvVaw0_34Pi31U2qP0LqBFvGDE3",
+      "displayed_link": "https://www.healthline.com \u203a health \u203a 5-best-things-abo...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpP5MCCIj-HZyHT6FCyI5KcWLcpDIahhDHASGBWrHtI4WC3Ydz8_qb&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2d24d997abf67106dcff/images/d80d9fc0d09256fe6ec2b78bffcb7bb6e60e91fecc964fec9bfbf0c25037c03b.png",
+      "snippet": "Carob \u00b7 has twice the amount of calcium compared to cocoa \u00b7 is free of a migraine-triggering compound \u00b7 is caffeine- and fat-free ...",
+      "snippet_highlighted_words": [
+        "Carob"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "How Is Carob Used?",
+            "link": "https://www.healthline.com/health/5-best-things-about-carob#:~:text=How%20is%20carob%20used%3F"
+          },
+          {
+            "title": "Is Carob Healthy?",
+            "link": "https://www.healthline.com/health/5-best-things-about-carob#:~:text=Is%20carob%20healthy%3F"
+          },
+          {
+            "title": "Cocoa",
+            "link": "https://www.healthline.com/health/5-best-things-about-carob#:~:text=Cocoa,-contains%20oxalic%20acid%2C%20which"
+          }
+        ]
+      },
+      "source": "Healthline"
+    },
+    {
+      "position": 8,
+      "title": "Why isn't Carob more popular? It's supposed to taste like ...",
+      "link": "https://www.reddit.com/r/AskRedditFood/comments/1cnhmpx/why_isnt_carob_more_popular_its_supposed_to_taste/",
+      "redirect_link": "https://www.google.com/url?sa=t&url=https://www.reddit.com/r/AskRedditFood/comments/1cnhmpx/why_isnt_carob_more_popular_its_supposed_to_taste/&usg=AOvVaw1RaRwXVscbi-s-MzIp5EcP",
+      "displayed_link": "10+ comments \u00b7 5 months ago",
+      "favicon": "https://serpapi.com/searches/670a2d24d997abf67106dcff/images/d80d9fc0d09256fe6ec2b78bffcb7bb6288a4883ad283029e9f6aebc500c79a9.png",
+      "snippet": "Carob is native to the Mediterranean region, so you would figure it would have a huge headstart in the cuisine or sweets of Europeans.",
+      "snippet_highlighted_words": [
+        "Carob"
+      ],
+      "source": "Reddit \u00b7 r/AskRedditFood"
+    },
+    {
+      "position": 9,
+      "title": "Carob",
+      "link": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/carob",
+      "redirect_link": "https://www.google.com/url?sa=t&url=https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/carob&usg=AOvVaw0Gqxo4m3UIqxYwJln9JvBx",
+      "displayed_link": "https://www.aspca.org \u203a toxic-and-non-toxic-plants \u203a ca...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKDIWzWXbfLMmsOelZbiHF1L3vg9jMZ8AUXPKppVD8phKw4sALKJjT&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2d24d997abf67106dcff/images/d80d9fc0d09256fe6ec2b78bffcb7bb64b9c282cce7d6c341bf815d1e86eb6dc.png",
+      "snippet": "Common Names: Sugar Pod, Locust Pods, Algaroba, Carob Tree Kharoub, Beans. Scientific Name: Ceratonia siliqua. Family: Fabaceae. Toxicity: Non-Toxic to Dogs.",
+      "snippet_highlighted_words": [
+        "Carob"
+      ],
+      "source": "ASPCA"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Carob&stick=H4sIAAAAAAAAAONgFuLWT9c3NDIyS4vPTVFC5mgJBmempJYnVhb7pVaUBJekFhT_YhQLSM0vyElVSMwpzlcoTk0sSs5QSMsvWsTK6pxYlJ-0g5XxFpskQ_fTHmMbSbYKwWnNjU88jyh-nPtuS4l8KTsAttk0w28AAAA&sa=X&ved=2ahUKEwjWo-26sIiJAxXzI0QIHfMpB30QzO0BKAR6BAgTEBM",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Carob&stick=H4sIAAAAAAAAAONgFuLWT9c3NDIyS4vPTVFC5mgJBmempJYnVhb7pVaUBJekFhT_YhQLSM0vyElVSMwpzlcoTk0sSs5QSMsvWsTK6pxYlJ-0g5XxFpskQ_fTHmMbSbYKwWnNjU88jyh-nPtuS4l8KTsAttk0w28AAAA",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Carob chocolate",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Carob+chocolate&sa=X&ved=2ahUKEwjWo-26sIiJAxXzI0QIHfMpB30Q1QJ6BAh_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Carob+chocolate"
+    },
+    {
+      "block_position": 1,
+      "query": "Carob for dogs",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Carob+for+dogs&sa=X&ved=2ahUKEwjWo-26sIiJAxXzI0QIHfMpB30Q1QJ6BAh-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Carob+for+dogs"
+    },
+    {
+      "block_position": 1,
+      "query": "Carob powder",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Carob+powder&sa=X&ved=2ahUKEwjWo-26sIiJAxXzI0QIHfMpB30Q1QJ6BAh9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Carob+powder"
+    },
+    {
+      "block_position": 1,
+      "query": "What is carob used for",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=What+is+carob+used+for&sa=X&ved=2ahUKEwjWo-26sIiJAxXzI0QIHfMpB30Q1QJ6BQiBARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=What+is+carob+used+for"
+    },
+    {
+      "block_position": 1,
+      "query": "Carob benefits",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Carob+benefits&sa=X&ved=2ahUKEwjWo-26sIiJAxXzI0QIHfMpB30Q1QJ6BAh8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Carob+benefits"
+    },
+    {
+      "block_position": 1,
+      "query": "Carob tree",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Carob+tree&sa=X&ved=2ahUKEwjWo-26sIiJAxXzI0QIHfMpB30Q1QJ6BAh7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Carob+tree"
+    },
+    {
+      "block_position": 1,
+      "query": "Carob Syrup",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Carob+Syrup&sa=X&ved=2ahUKEwjWo-26sIiJAxXzI0QIHfMpB30Q1QJ6BAh6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Carob+Syrup"
+    },
+    {
+      "block_position": 1,
+      "query": "Carob tree fruit",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Carob+tree+fruit&sa=X&ved=2ahUKEwjWo-26sIiJAxXzI0QIHfMpB30Q1QJ6BQiAARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Carob+tree+fruit"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=carob&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=JS0KZ5b9BfPHkPIP89Oc6Ac&start=10&sa=N&sstk=Aagrsuha57KY-aeQPUS19FccseT-s6STiz3HiGFFGYVH1GLz9_JJGSKLzWDDKPatfvO7L6g2NPHbJ7vh0khbvuPyWCBpfxKs2Qtz9w&ved=2ahUKEwjWo-26sIiJAxXzI0QIHfMpB30Q8NMDegQIJBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=carob&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=JS0KZ5b9BfPHkPIP89Oc6Ac&start=10&sa=N&sstk=Aagrsuha57KY-aeQPUS19FccseT-s6STiz3HiGFFGYVH1GLz9_JJGSKLzWDDKPatfvO7L6g2NPHbJ7vh0khbvuPyWCBpfxKs2Qtz9w&ved=2ahUKEwjWo-26sIiJAxXzI0QIHfMpB30Q8tMDegQIJBAE",
+      "3": "https://www.google.com/search?q=carob&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=JS0KZ5b9BfPHkPIP89Oc6Ac&start=20&sa=N&sstk=Aagrsuha57KY-aeQPUS19FccseT-s6STiz3HiGFFGYVH1GLz9_JJGSKLzWDDKPatfvO7L6g2NPHbJ7vh0khbvuPyWCBpfxKs2Qtz9w&ved=2ahUKEwjWo-26sIiJAxXzI0QIHfMpB30Q8tMDegQIJBAG",
+      "4": "https://www.google.com/search?q=carob&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=JS0KZ5b9BfPHkPIP89Oc6Ac&start=30&sa=N&sstk=Aagrsuha57KY-aeQPUS19FccseT-s6STiz3HiGFFGYVH1GLz9_JJGSKLzWDDKPatfvO7L6g2NPHbJ7vh0khbvuPyWCBpfxKs2Qtz9w&ved=2ahUKEwjWo-26sIiJAxXzI0QIHfMpB30Q8tMDegQIJBAI",
+      "5": "https://www.google.com/search?q=carob&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=JS0KZ5b9BfPHkPIP89Oc6Ac&start=40&sa=N&sstk=Aagrsuha57KY-aeQPUS19FccseT-s6STiz3HiGFFGYVH1GLz9_JJGSKLzWDDKPatfvO7L6g2NPHbJ7vh0khbvuPyWCBpfxKs2Qtz9w&ved=2ahUKEwjWo-26sIiJAxXzI0QIHfMpB30Q8tMDegQIJBAK",
+      "6": "https://www.google.com/search?q=carob&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=JS0KZ5b9BfPHkPIP89Oc6Ac&start=50&sa=N&sstk=Aagrsuha57KY-aeQPUS19FccseT-s6STiz3HiGFFGYVH1GLz9_JJGSKLzWDDKPatfvO7L6g2NPHbJ7vh0khbvuPyWCBpfxKs2Qtz9w&ved=2ahUKEwjWo-26sIiJAxXzI0QIHfMpB30Q8tMDegQIJBAM",
+      "7": "https://www.google.com/search?q=carob&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=JS0KZ5b9BfPHkPIP89Oc6Ac&start=60&sa=N&sstk=Aagrsuha57KY-aeQPUS19FccseT-s6STiz3HiGFFGYVH1GLz9_JJGSKLzWDDKPatfvO7L6g2NPHbJ7vh0khbvuPyWCBpfxKs2Qtz9w&ved=2ahUKEwjWo-26sIiJAxXzI0QIHfMpB30Q8tMDegQIJBAO",
+      "8": "https://www.google.com/search?q=carob&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=JS0KZ5b9BfPHkPIP89Oc6Ac&start=70&sa=N&sstk=Aagrsuha57KY-aeQPUS19FccseT-s6STiz3HiGFFGYVH1GLz9_JJGSKLzWDDKPatfvO7L6g2NPHbJ7vh0khbvuPyWCBpfxKs2Qtz9w&ved=2ahUKEwjWo-26sIiJAxXzI0QIHfMpB30Q8tMDegQIJBAQ",
+      "9": "https://www.google.com/search?q=carob&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=JS0KZ5b9BfPHkPIP89Oc6Ac&start=80&sa=N&sstk=Aagrsuha57KY-aeQPUS19FccseT-s6STiz3HiGFFGYVH1GLz9_JJGSKLzWDDKPatfvO7L6g2NPHbJ7vh0khbvuPyWCBpfxKs2Qtz9w&ved=2ahUKEwjWo-26sIiJAxXzI0QIHfMpB30Q8tMDegQIJBAS",
+      "10": "https://www.google.com/search?q=carob&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=JS0KZ5b9BfPHkPIP89Oc6Ac&start=90&sa=N&sstk=Aagrsuha57KY-aeQPUS19FccseT-s6STiz3HiGFFGYVH1GLz9_JJGSKLzWDDKPatfvO7L6g2NPHbJ7vh0khbvuPyWCBpfxKs2Qtz9w&ved=2ahUKEwjWo-26sIiJAxXzI0QIHfMpB30Q8tMDegQIJBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=carob&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=carob&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=carob&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=carob&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=carob&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=carob&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=carob&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=carob&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=carob&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=carob&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=carob&start=90"
+    }
+  }
+}

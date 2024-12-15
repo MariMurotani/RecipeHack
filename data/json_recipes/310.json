@@ -1,0 +1,607 @@
+{
+  "search_metadata": {
+    "id": "670a2b249062f82b94cb4126",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3890fb6fdd3343de/670a2b249062f82b94cb4126.json",
+    "created_at": "2024-10-12 07:54:12 UTC",
+    "processed_at": "2024-10-12 07:54:12 UTC",
+    "google_url": "https://www.google.com/search?q=tea&oq=tea&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/3890fb6fdd3343de/670a2b249062f82b94cb4126.html",
+    "total_time_taken": 0.63
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "tea",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "tea",
+    "total_results": 3510000000,
+    "time_taken_displayed": 0.32,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=tea&npsic=0&rflfq=1&rldoc=1&rllag=30284232,-97728624,2783&tbm=lcl&sa=X&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQtgN6BAhAEAI",
+    "image": "https://serpapi.com/searches/670a2b249062f82b94cb4126/images/e2a068749f14d5f96435a1e668918d8e.png",
+    "gps_coordinates": {
+      "latitude": 30.284232,
+      "longitude": -97.728624
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.6,
+        "reviews_original": "(166)",
+        "reviews": 166,
+        "description": "\"The food and teas are consistently top notch.\"",
+        "lsig": "AB86z5V2LpcHe1Ay6Kj8aTNQzYH_",
+        "thumbnail": "https://serpapi.com/searches/670a2b249062f82b94cb4126/images/6e3c0608ceb8332b232cf65401a336e159dea6c35e19a51af28f1aa8db68be0de9d0c0374ececa40.png",
+        "links": {
+          "website": "https://www.sweetwaterscafe.com/tx-austin-texas-capitol/?utm_source=extnet&utm_medium=yext",
+          "directions": "https://www.google.com/maps/dir//Sweetwaters+Coffee+%26+Tea,+316+W+12th+St,+Austin,+TX+78701/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8644b5b050d141a5:0x988e9a47537b5e15?sa=X&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ48ADegQIJhAA&hl=en&gl=us"
+        },
+        "title": "Sweetwaters Coffee & Tea",
+        "type": "Coffee shop",
+        "phone": "(737) 717-3103",
+        "address": "316 W 12th St",
+        "hours": "Closed \u22c5 Opens 9 AM",
+        "place_id": "10992893371591908885",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=10992893371591908885&q=tea",
+        "gps_coordinates": {
+          "latitude": 30.274988,
+          "longitude": -97.743774
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.9,
+        "reviews_original": "(370)",
+        "reviews": 370,
+        "description": "\"Fantastic teas overall, Beautiful energy and great quality/ flavor.\"",
+        "lsig": "AB86z5Xf-aEW38E-jE0-T_221FzF",
+        "thumbnail": "https://serpapi.com/searches/670a2b249062f82b94cb4126/images/6e3c0608ceb8332b232cf65401a336e18b47c77abfefdcbdd00246a09a27960c11d8303c7189afa9.png",
+        "links": {
+          "website": "http://www.westchinatea.com/",
+          "directions": "https://www.google.com/maps/dir//West+China+Tea+House,+4706+N+Interstate+Hwy+35,+Austin,+TX+78751/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8644ca0947b10343:0xa1ce62d4f81a4d1b?sa=X&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ48ADegQIJxAA&hl=en&gl=us"
+        },
+        "title": "West China Tea House",
+        "type": "Tea house",
+        "phone": "(512) 887-8324",
+        "address": "4706 N Interstate Hwy 35",
+        "hours": "Closed \u22c5 Opens 10 AM",
+        "place_id": "11659365152143854875",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=11659365152143854875&q=tea",
+        "gps_coordinates": {
+          "latitude": 30.305588,
+          "longitude": -97.71344
+        }
+      },
+      {
+        "position": 3,
+        "rating": 4.9,
+        "reviews_original": "(159)",
+        "reviews": 159,
+        "description": "\"The bubble tea was delish and the insta worthy walls were a bonus.\"",
+        "lsig": "AB86z5W09_IuVPJcBDJa_-ia2bJH",
+        "thumbnail": "https://serpapi.com/searches/670a2b249062f82b94cb4126/images/6e3c0608ceb8332b232cf65401a336e10cbe03b669a65ba2eb2bc1e7664e4c6a1a3fb70cbee7e309.png",
+        "links": {
+          "directions": "https://www.google.com/maps/dir//Love+Bubble+Tea,+1614+E+6th+St+%23107,+Austin,+TX+78702/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8644b5900cfc12c3:0x5968d87ec5e39858?sa=X&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ48ADegQIKBAA&hl=en&gl=us"
+        },
+        "title": "Love Bubble Tea",
+        "type": "Bubble tea store",
+        "phone": "(512) 305-3771",
+        "address": "1614 E 6th St #107",
+        "hours": "Closed \u22c5 Opens 11 AM",
+        "place_id": "6442637305951000664",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=6442637305951000664&q=tea",
+        "gps_coordinates": {
+          "latitude": 30.262877,
+          "longitude": -97.72573
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&tbs=lf:1,lf_ui:2&tbm=lcl&q=tea&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQjGp6BAhBEAE"
+  },
+  "knowledge_graph": {
+    "title": "Tea",
+    "type": "Beverages",
+    "entity_type": "food, kp3_verticals",
+    "kgmid": "/m/07clx",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/07clx&hl=en-US&q=Tea",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F07clx&location=Austin%2CTexas%2CUnited+States&q=Tea",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2b249062f82b94cb4126/images/4616513a7410d79c271361f9a82a94ba999779bc1258fe3ca949cc1b42bbb4b98c86adc3a64c96ff.jpeg",
+        "source": "https://en.wikipedia.org/wiki/Tea"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2b249062f82b94cb4126/images/4616513a7410d79c271361f9a82a94ba999779bc1258fe3ca178b1b9bd213324e9c7c10d7b5976f2.jpeg",
+        "source": "https://www.thekitchn.com/milk-tea-recipe-23612343"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2b249062f82b94cb4126/images/4616513a7410d79c271361f9a82a94ba999779bc1258fe3cb467849fc41fb84fa2f03e8f1d9df654.jpeg",
+        "source": "https://www.tomatoblues.com/vegan-masala-chai-vegan-milk-tea/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2b249062f82b94cb4126/images/4616513a7410d79c271361f9a82a94ba999779bc1258fe3c8505806a3ebfb710fbaa23be5a20c1a4.jpeg",
+        "source": "https://www.health.harvard.edu/blog/tea-drink-to-your-health-201312186947"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2b249062f82b94cb4126/images/4616513a7410d79c271361f9a82a94ba999779bc1258fe3caf5c4eb40cf972ed8e4f4f2394b66793.jpeg",
+        "source": "https://cupitol.com/coffee/tea-time-9-benefits-of-drinking-tea-in-the-morning/"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8tHKhFifhMJu6S-RZfckBfNpwVGuwqmU0arwdqIhzMg&s",
+        "source": "https://brodandtaylor.com/blogs/recipes/how-to-make-your-own-tea-blends"
+      }
+    ],
+    "description": "Tea is an aromatic beverage prepared by pouring hot or boiling water over cured or fresh leaves of Camellia sinensis, an evergreen shrub native to East Asia which probably originated in the borderlands of southwestern China and northern Myanmar. Tea is also made, but rarely, from the leaves of Camellia taliensis.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Tea"
+    },
+    "sources_include": "USDAUSDAUSDAUSDATea2 Calories - 1 serving 8 fl oz cup (238 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173227/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/174873/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173232/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171924/nutrients"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "0 g",
+        "0%"
+      ],
+      "cholesterol": [
+        "0 mg",
+        "0%"
+      ],
+      "sodium": [
+        "10 mg",
+        "0%"
+      ],
+      "potassium": [
+        "43 mg",
+        "1%"
+      ],
+      "total_carbohydrate": [
+        "0.4 g",
+        "0%"
+      ],
+      "protein": [
+        "0.1 g",
+        "0%"
+      ],
+      "caffeine": [
+        "26 mg"
+      ]
+    }
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=tea&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=gHFdus430YjDdM%252Cikn7xREP1by0PM%252C%252Fm%252F07clx%253BdOQf0YIahQhtJM%252CFgvFBErskvgKGM%252C_%253Bb9Z44m7HmQTh9M%252CoLHJSRwyG0tvgM%252C_%253B9wH9hYQEwUxOzM%252ClBEQk7gkEoAvJM%252C_%253BrBsvxO1FMTpeoM%252CxK0To87R-LngZM%252C_%253BIGIk4I1FlH8cuM%252Cd6r9TozHA7YElM%252C_&usg=AI4_-kSn_A6NCxeDBn9ldtDZIKCWatMWpg&sa=X&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ_B16BAg5EAE#vhid=gHFdus430YjDdM&vssid=mosaic",
+      "source": "https://en.wikipedia.org/wiki/Tea",
+      "thumbnail": "https://serpapi.com/searches/670a2b249062f82b94cb4126/images/8d5fdc644b961e3bc58debea9abeb946531564a0a1a877afcd3766d7587d9388.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Longjing_tea_steeping_in_gaiwan.jpg/1200px-Longjing_tea_steeping_in_gaiwan.jpg",
+      "title": "upload.wikimedia.org/wikipedia/commons/thumb/d/d3/...",
+      "source_name": "en.wikipedia.org"
+    },
+    {
+      "link": "https://www.google.com/search?q=tea&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=gHFdus430YjDdM%252Cikn7xREP1by0PM%252C_%253BdOQf0YIahQhtJM%252CFgvFBErskvgKGM%252C_%253Bb9Z44m7HmQTh9M%252CoLHJSRwyG0tvgM%252C_%253B9wH9hYQEwUxOzM%252ClBEQk7gkEoAvJM%252C_%253BrBsvxO1FMTpeoM%252CxK0To87R-LngZM%252C_%253BIGIk4I1FlH8cuM%252Cd6r9TozHA7YElM%252C_&usg=AI4_-kRQd8ijRzIk4iH7uoe-2qW7XgIkZQ&sa=X&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ_h16BAg3EAE#vhid=dOQf0YIahQhtJM&vssid=mosaic",
+      "source": "https://www.thekitchn.com/milk-tea-recipe-23612343",
+      "thumbnail": "https://serpapi.com/searches/670a2b249062f82b94cb4126/images/8d5fdc644b961e3b2df224011ca14c9d743d9293f2d1a3fa970d91cbb5b692ed.jpeg",
+      "original": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/k%2FPhoto%2FRecipes%2F2023-12-milk-tea%2Fmilk-tea-587",
+      "title": "Milk Tea",
+      "source_name": "The Kitchn"
+    },
+    {
+      "link": "https://www.google.com/search?q=tea&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=gHFdus430YjDdM%252Cikn7xREP1by0PM%252C_%253BdOQf0YIahQhtJM%252CFgvFBErskvgKGM%252C_%253Bb9Z44m7HmQTh9M%252CoLHJSRwyG0tvgM%252C_%253B9wH9hYQEwUxOzM%252ClBEQk7gkEoAvJM%252C_%253BrBsvxO1FMTpeoM%252CxK0To87R-LngZM%252C_%253BIGIk4I1FlH8cuM%252Cd6r9TozHA7YElM%252C_&usg=AI4_-kRQd8ijRzIk4iH7uoe-2qW7XgIkZQ&sa=X&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ_h16BAg4EAE#vhid=b9Z44m7HmQTh9M&vssid=mosaic",
+      "source": "https://www.tomatoblues.com/vegan-masala-chai-vegan-milk-tea/",
+      "thumbnail": "https://serpapi.com/searches/670a2b249062f82b94cb4126/images/8d5fdc644b961e3bf6c3acd8b6425efcaabc8ebcda00e4c775fd46c211c33332.jpeg",
+      "original": "https://www.tomatoblues.com/wp-content/uploads/2022/08/vegan-masala-chai-3.jpg",
+      "title": "Vegan Masala Chai",
+      "source_name": "Tomato Blues"
+    },
+    {
+      "link": "https://www.google.com/search?q=tea&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=gHFdus430YjDdM%252Cikn7xREP1by0PM%252C_%253BdOQf0YIahQhtJM%252CFgvFBErskvgKGM%252C_%253Bb9Z44m7HmQTh9M%252CoLHJSRwyG0tvgM%252C_%253B9wH9hYQEwUxOzM%252ClBEQk7gkEoAvJM%252C_%253BrBsvxO1FMTpeoM%252CxK0To87R-LngZM%252C_%253BIGIk4I1FlH8cuM%252Cd6r9TozHA7YElM%252C_&usg=AI4_-kRQd8ijRzIk4iH7uoe-2qW7XgIkZQ&sa=X&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ_h16BAg2EAE#vhid=9wH9hYQEwUxOzM&vssid=mosaic",
+      "source": "https://www.health.harvard.edu/blog/tea-drink-to-your-health-201312186947",
+      "thumbnail": "https://serpapi.com/searches/670a2b249062f82b94cb4126/images/8d5fdc644b961e3b8f48631455a7206e7f9ebde14886cb945f009cc8d5bad82a.jpeg",
+      "original": "https://domf5oio6qrcr.cloudfront.net/medialibrary/8468/conversions/Tea-thumb.jpg",
+      "title": "Tea: Drink to your health? - Harvard Health",
+      "source_name": "Harvard Health"
+    },
+    {
+      "link": "https://www.google.com/search?q=tea&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=gHFdus430YjDdM%252Cikn7xREP1by0PM%252C_%253BdOQf0YIahQhtJM%252CFgvFBErskvgKGM%252C_%253Bb9Z44m7HmQTh9M%252CoLHJSRwyG0tvgM%252C_%253B9wH9hYQEwUxOzM%252ClBEQk7gkEoAvJM%252C_%253BrBsvxO1FMTpeoM%252CxK0To87R-LngZM%252C_%253BIGIk4I1FlH8cuM%252Cd6r9TozHA7YElM%252C_&usg=AI4_-kRQd8ijRzIk4iH7uoe-2qW7XgIkZQ&sa=X&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ_h16BAg1EAE#vhid=rBsvxO1FMTpeoM&vssid=mosaic",
+      "source": "https://cupitol.com/coffee/tea-time-9-benefits-of-drinking-tea-in-the-morning/",
+      "thumbnail": "https://serpapi.com/searches/670a2b249062f82b94cb4126/images/8d5fdc644b961e3bb62007a6cbee967ce47da5e740216cd04c9065c1713e6dd8.jpeg",
+      "original": "https://cupitol.com/wp-content/uploads/2019/08/tea-drinking-1.jpg",
+      "title": "Tea Time: 9 Benefits of Drinking Tea in the Morning ...",
+      "source_name": "Cupitol"
+    },
+    {
+      "link": "https://www.google.com/search?q=tea&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=gHFdus430YjDdM%252Cikn7xREP1by0PM%252C_%253BdOQf0YIahQhtJM%252CFgvFBErskvgKGM%252C_%253Bb9Z44m7HmQTh9M%252CoLHJSRwyG0tvgM%252C_%253B9wH9hYQEwUxOzM%252ClBEQk7gkEoAvJM%252C_%253BrBsvxO1FMTpeoM%252CxK0To87R-LngZM%252C_%253BIGIk4I1FlH8cuM%252Cd6r9TozHA7YElM%252C_&usg=AI4_-kRQd8ijRzIk4iH7uoe-2qW7XgIkZQ&sa=X&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ_h16BAg0EAE#vhid=IGIk4I1FlH8cuM&vssid=mosaic",
+      "source": "https://brodandtaylor.com/blogs/recipes/how-to-make-your-own-tea-blends",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8tHKhFifhMJu6S-RZfckBfNpwVGuwqmU0arwdqIhzMg&s",
+      "original": "https://cdn.shopify.com/s/files/1/0382/1836/7107/t/3/assets/dehydrated-tea-hero-image-1639694925155_1200x.jpg?v=1639694928",
+      "title": "Drying and Blending Herbal Tea Leaves at Home | Brod & Taylor",
+      "source_name": "Brod & Taylor"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the best tea to drink for your body?",
+      "snippet": "Green tea will get you \u201cthe most bang for your buck\u201d when it comes to nutritional benefits, Crumble Smith said. It has better antioxidant properties than black tea because it contains more polyphenols. Green tea contains several types of catechins, a group of flavonoid compounds.",
+      "title": "What is the healthiest tea? Here's a rundown of teas and benefits",
+      "date": "Dec 17, 2023",
+      "link": "https://www.usatoday.com/story/life/food-dining/2023/12/17/what-is-the-healthiest-tea/71880844007/#:~:text=Green%20tea%20will%20get%20you,a%20group%20of%20flavonoid%20compounds.",
+      "displayed_link": "https://www.usatoday.com \u203a food-dining \u203a 2023/12/17",
+      "source_logo": "https://serpapi.com/searches/670a2b249062f82b94cb4126/images/b5310d19d06535de3ca1dd50d6ab8d81c07967ecdc32d62ac4e3d2259acabfac.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlVFOU1WblZoT1ZJd01rbDVOM1ZwWXpGd04yZFpRMDFpZDNOSmRVaG9lRnBLTmxWaGNGcFNPVlJZTTJWcE1VMUdUM0V5UjBWbVRtUmZWVXR6WlU5WGFVWlNhRTlNRWhkS1UzTkxXalJEVmtGMmVtWjNUalJRTFhKbWVuZFJWUm9pUVVaWWNrVmpiekJ6U2xsWFZWaDJlRlF5YW1ocGJscGhORFUxZG5SUFpVWTJadyIsImZjdiI6IjMiLCJlaSI6IkpTc0taNENWQXZ6ZndONFAtcmZ6d1FVIiwicWMiOiJDZ04wWldFUUFIMGEtMTRfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IHRlYSB0byBkcmluayBmb3IgeW91ciBib2R5PyIsImxrIjoiR2l0M2FHRjBJR2x6SUhSb1pTQmlaWE4wSUhSbFlTQjBieUJrY21sdWF5Qm1iM0lnZVc5MWNpQmliMlI1IiwiYnMiOiJjLU5LNE5JSnowZ3NVY2dzVmlqSlNGVklTaTB1VVNoSlRWUW95VmRJS2NyTXkxWkl5eTlTcU13dkxWSkl5ay1wdEpkb2NUYlNsZEl1SjE0TGx5R1hMTmlHeEtKVXFQcTgxTFRNa21LRl9EU1FObnVKYm1ZalhpbHVrQWxRS1M0dExrSFBZckNaeFRtSmVla2dBLTBsUHZvYkNVa0paS0tKYzNseEtZS05UOGxQaFVxVkpPYWxnTjJRbWFjUWtscVJXR3d2MGVaanBDU2xVSTViWFFsSW5RQWpBQSIsImlkIjoiZmNfSlNzS1o0Q1ZBdnpmd040UC1yZnp3UVVfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlVFOU1WblZoT1ZJd01rbDVOM1ZwWXpGd04yZFpRMDFpZDNOSmRVaG9lRnBLTmxWaGNGcFNPVlJZTTJWcE1VMUdUM0V5UjBWbVRtUmZWVXR6WlU5WGFVWlNhRTlNRWhkS1UzTkxXalJEVmtGMmVtWjNUalJRTFhKbWVuZFJWUm9pUVVaWWNrVmpiekJ6U2xsWFZWaDJlRlF5YW1ocGJscGhORFUxZG5SUFpVWTJadyIsImZjdiI6IjMiLCJlaSI6IkpTc0taNENWQXZ6ZndONFAtcmZ6d1FVIiwicWMiOiJDZ04wWldFUUFIMGEtMTRfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IHRlYSB0byBkcmluayBmb3IgeW91ciBib2R5PyIsImxrIjoiR2l0M2FHRjBJR2x6SUhSb1pTQmlaWE4wSUhSbFlTQjBieUJrY21sdWF5Qm1iM0lnZVc5MWNpQmliMlI1IiwiYnMiOiJjLU5LNE5JSnowZ3NVY2dzVmlqSlNGVklTaTB1VVNoSlRWUW95VmRJS2NyTXkxWkl5eTlTcU13dkxWSkl5ay1wdEpkb2NUYlNsZEl1SjE0TGx5R1hMTmlHeEtKVXFQcTgxTFRNa21LRl9EU1FObnVKYm1ZalhpbHVrQWxRS1M0dExrSFBZckNaeFRtSmVla2dBLTBsUHZvYkNVa0paS0tKYzNseEtZS05UOGxQaFVxVkpPYWxnTjJRbWFjUWtscVJXR3d2MGVaanBDU2xVSTViWFFsSW5RQWpBQSIsImlkIjoiZmNfSlNzS1o0Q1ZBdnpmd040UC1yZnp3UVVfNCJ9"
+    },
+    {
+      "question": "What are the benefits of tea?",
+      "snippet": "All varieties of tea (black, white, green and oolong) are a rich source of protective plant compounds, called polyphenols. Regularly consuming these polyphenols may help protect the cells of the body from damage and as a result reduce the risk of chronic diseases like heart disease, diabetes and cancer.",
+      "title": "Top 10 health benefits of tea - BBC Good Food",
+      "date": "Aug 25, 2023",
+      "link": "https://www.bbcgoodfood.com/health/nutrition/top-10-health-benefits-of-tea#:~:text=All%20varieties%20of%20tea%20(black,heart%20disease%2C%20diabetes%20and%20cancer.",
+      "displayed_link": "https://www.bbcgoodfood.com \u203a health \u203a nutrition \u203a top...",
+      "source_logo": "https://serpapi.com/searches/670a2b249062f82b94cb4126/images/b5310d19d06535de3ca1dd50d6ab8d8132b5d5cd435152650c5c652b1f0f9f11.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlVFOU1WblZoT1ZJd01rbDVOM1ZwWXpGd04yZFpRMDFpZDNOSmRVaG9lRnBLTmxWaGNGcFNPVlJZTTJWcE1VMUdUM0V5UjBWbVRtUmZWVXR6WlU5WGFVWlNhRTlNRWhkS1UzTkxXalJEVmtGMmVtWjNUalJRTFhKbWVuZFJWUm9pUVVaWWNrVmpiekJ6U2xsWFZWaDJlRlF5YW1ocGJscGhORFUxZG5SUFpVWTJadyIsImZjdiI6IjMiLCJlaSI6IkpTc0taNENWQXZ6ZndONFAtcmZ6d1FVIiwicWMiOiJDZ04wWldFUUFIMGEtMTRfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgYmVuZWZpdHMgb2YgdGVhPyIsImxrIjoiR2d0MFpXRWdZbVZ1WldacGRBIiwiYnMiOiJjLU5LNE5JSnowZ3NVY2dzVmlqSlNGVklTaTB1VVNoSlRWUW95VmRJS2NyTXkxWkl5eTlTcU13dkxWSkl5ay1wdEpkb2NUYlNsZEl1SjE0TGx5R1hMTmlHeEtKVXFQcTgxTFRNa21LRl9EU1FObnVKYm1ZalhpbHVrQWxRS1M0dExrSFBZckNaeFRtSmVla2dBLTBsUHZvYkNVa0paS0tKYzNseEtZS05UOGxQaFVxVkpPYWxnTjJRbWFjUWtscVJXR3d2MGVaanBDU2xVSTViWFFsSW5RQWpBQSIsImlkIjoiZmNfSlNzS1o0Q1ZBdnpmd040UC1yZnp3UVVfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlVFOU1WblZoT1ZJd01rbDVOM1ZwWXpGd04yZFpRMDFpZDNOSmRVaG9lRnBLTmxWaGNGcFNPVlJZTTJWcE1VMUdUM0V5UjBWbVRtUmZWVXR6WlU5WGFVWlNhRTlNRWhkS1UzTkxXalJEVmtGMmVtWjNUalJRTFhKbWVuZFJWUm9pUVVaWWNrVmpiekJ6U2xsWFZWaDJlRlF5YW1ocGJscGhORFUxZG5SUFpVWTJadyIsImZjdiI6IjMiLCJlaSI6IkpTc0taNENWQXZ6ZndONFAtcmZ6d1FVIiwicWMiOiJDZ04wWldFUUFIMGEtMTRfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgYmVuZWZpdHMgb2YgdGVhPyIsImxrIjoiR2d0MFpXRWdZbVZ1WldacGRBIiwiYnMiOiJjLU5LNE5JSnowZ3NVY2dzVmlqSlNGVklTaTB1VVNoSlRWUW95VmRJS2NyTXkxWkl5eTlTcU13dkxWSkl5ay1wdEpkb2NUYlNsZEl1SjE0TGx5R1hMTmlHeEtKVXFQcTgxTFRNa21LRl9EU1FObnVKYm1ZalhpbHVrQWxRS1M0dExrSFBZckNaeFRtSmVla2dBLTBsUHZvYkNVa0paS0tKYzNseEtZS05UOGxQaFVxVkpPYWxnTjJRbWFjUWtscVJXR3d2MGVaanBDU2xVSTViWFFsSW5RQWpBQSIsImlkIjoiZmNfSlNzS1o0Q1ZBdnpmd040UC1yZnp3UVVfNCJ9"
+    },
+    {
+      "question": "Is tea slang for?",
+      "snippet": "\"T\" or \"Tea\" is slang for gossiping about a situation, story, news, or some juicy information. You can give tea, get tea, or spill tea.",
+      "title": "Tea Slang\u2026Funny Tea Terms - Uptown Tea Shop",
+      "date": "Mar 14, 2022",
+      "link": "https://uptownteashop.com/blogs/teatalk/tea-slang-funny-tea-terms#:~:text=%22T%22%20or%20%22Tea%22,get%20tea%2C%20or%20spill%20tea.",
+      "displayed_link": "https://uptownteashop.com \u203a blogs \u203a tea-slang-funny-tea...",
+      "source_logo": "https://serpapi.com/searches/670a2b249062f82b94cb4126/images/b5310d19d06535de3ca1dd50d6ab8d81f9008bbb116e3a574878ee4bd4b3a22f.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlVFOU1WblZoT1ZJd01rbDVOM1ZwWXpGd04yZFpRMDFpZDNOSmRVaG9lRnBLTmxWaGNGcFNPVlJZTTJWcE1VMUdUM0V5UjBWbVRtUmZWVXR6WlU5WGFVWlNhRTlNRWhkS1UzTkxXalJEVmtGMmVtWjNUalJRTFhKbWVuZFJWUm9pUVVaWWNrVmpiekJ6U2xsWFZWaDJlRlF5YW1ocGJscGhORFUxZG5SUFpVWTJadyIsImZjdiI6IjMiLCJlaSI6IkpTc0taNENWQXZ6ZndONFAtcmZ6d1FVIiwicWMiOiJDZ04wWldFUUFIMGEtMTRfIiwicXVlc3Rpb24iOiJJcyB0ZWEgc2xhbmcgZm9yPyIsImxrIjoiR2hCcGN5QjBaV0VnYzJ4aGJtY2dabTl5IiwiYnMiOiJjLU5LNE5JSnowZ3NVY2dzVmlqSlNGVklTaTB1VVNoSlRWUW95VmRJS2NyTXkxWkl5eTlTcU13dkxWSkl5ay1wdEpkb2NUYlNsZEl1SjE0TGx5R1hMTmlHeEtKVXFQcTgxTFRNa21LRl9EU1FObnVKYm1ZalhpbHVrQWxRS1M0dExrSFBZckNaeFRtSmVla2dBLTBsUHZvYkNVa0paS0tKYzNseEtZS05UOGxQaFVxVkpPYWxnTjJRbWFjUWtscVJXR3d2MGVaanBDU2xVSTViWFFsSW5RQWpBQSIsImlkIjoiZmNfSlNzS1o0Q1ZBdnpmd040UC1yZnp3UVVfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlVFOU1WblZoT1ZJd01rbDVOM1ZwWXpGd04yZFpRMDFpZDNOSmRVaG9lRnBLTmxWaGNGcFNPVlJZTTJWcE1VMUdUM0V5UjBWbVRtUmZWVXR6WlU5WGFVWlNhRTlNRWhkS1UzTkxXalJEVmtGMmVtWjNUalJRTFhKbWVuZFJWUm9pUVVaWWNrVmpiekJ6U2xsWFZWaDJlRlF5YW1ocGJscGhORFUxZG5SUFpVWTJadyIsImZjdiI6IjMiLCJlaSI6IkpTc0taNENWQXZ6ZndONFAtcmZ6d1FVIiwicWMiOiJDZ04wWldFUUFIMGEtMTRfIiwicXVlc3Rpb24iOiJJcyB0ZWEgc2xhbmcgZm9yPyIsImxrIjoiR2hCcGN5QjBaV0VnYzJ4aGJtY2dabTl5IiwiYnMiOiJjLU5LNE5JSnowZ3NVY2dzVmlqSlNGVklTaTB1VVNoSlRWUW95VmRJS2NyTXkxWkl5eTlTcU13dkxWSkl5ay1wdEpkb2NUYlNsZEl1SjE0TGx5R1hMTmlHeEtKVXFQcTgxTFRNa21LRl9EU1FObnVKYm1ZalhpbHVrQWxRS1M0dExrSFBZckNaeFRtSmVla2dBLTBsUHZvYkNVa0paS0tKYzNseEtZS05UOGxQaFVxVkpPYWxnTjJRbWFjUWtscVJXR3d2MGVaanBDU2xVSTViWFFsSW5RQWpBQSIsImlkIjoiZmNfSlNzS1o0Q1ZBdnpmd040UC1yZnp3UVVfNCJ9"
+    },
+    {
+      "question": "What does tea stand for in Texas?",
+      "snippet": "The Texas Education Agency is the state agency that oversees primary and secondary public education. It is headed by the commissioner of education. The Texas Education Agency improves outcomes for all public school students in the state by providing leadership, guidance, and support to school systems.",
+      "title": "The Texas Education Agency",
+      "link": "https://tea.texas.gov/about-tea#:~:text=The%20Texas%20Education%20Agency%20is,and%20support%20to%20school%20systems.",
+      "displayed_link": "https://tea.texas.gov \u203a about-tea",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIbNy6J2Q6L3zztWS0qSuScZAEskezQJdmUn3od2Eq&s",
+      "source_logo": "https://serpapi.com/searches/670a2b249062f82b94cb4126/images/b5310d19d06535de3ca1dd50d6ab8d8166d95b45475a35c55beeb7b2ca7ceb22.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlVFOU1WblZoT1ZJd01rbDVOM1ZwWXpGd04yZFpRMDFpZDNOSmRVaG9lRnBLTmxWaGNGcFNPVlJZTTJWcE1VMUdUM0V5UjBWbVRtUmZWVXR6WlU5WGFVWlNhRTlNRWhkS1UzTkxXalJEVmtGMmVtWjNUalJRTFhKbWVuZFJWUm9pUVVaWWNrVmpiekJ6U2xsWFZWaDJlRlF5YW1ocGJscGhORFUxZG5SUFpVWTJadyIsImZjdiI6IjMiLCJlaSI6IkpTc0taNENWQXZ6ZndONFAtcmZ6d1FVIiwicWMiOiJDZ04wWldFUUFIMGEtMTRfIiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgdGVhIHN0YW5kIGZvciBpbiBUZXhhcz8iLCJsayI6IkdpQjNhR0YwSUdSdlpYTWdkR1ZoSUhOMFlXNWtJR1p2Y2lCcGJpQjBaWGhoY3ciLCJicyI6ImMtTks0TklKejBnc1VjZ3NWaWpKU0ZWSVNpMHVVU2hKVFZRb3lWZElLY3JNeTFaSXl5OVNxTXd2TFZKSXlrLXB0SmRvY1RiU2xkSXVKMTRMbHlHWExOaUd4S0pVcVBxODFMVE1rbUtGX0RTUU5udUpibVlqWGlsdWtBbFFLUzR0TGtIUFlyQ1p4VG1KZWVrZ0EtMGxQdm9iQ1VrSlpLS0pjM2x4S1lLTlQ4bFBoVXFWSk9hbGdOMlFtYWNRa2xxUldHd3YwZVpqcENTbFVJNWJYUWxJblFBakFBIiwiaWQiOiJmY19KU3NLWjRDVkF2emZ3TjRQLXJmendRVV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlVFOU1WblZoT1ZJd01rbDVOM1ZwWXpGd04yZFpRMDFpZDNOSmRVaG9lRnBLTmxWaGNGcFNPVlJZTTJWcE1VMUdUM0V5UjBWbVRtUmZWVXR6WlU5WGFVWlNhRTlNRWhkS1UzTkxXalJEVmtGMmVtWjNUalJRTFhKbWVuZFJWUm9pUVVaWWNrVmpiekJ6U2xsWFZWaDJlRlF5YW1ocGJscGhORFUxZG5SUFpVWTJadyIsImZjdiI6IjMiLCJlaSI6IkpTc0taNENWQXZ6ZndONFAtcmZ6d1FVIiwicWMiOiJDZ04wWldFUUFIMGEtMTRfIiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgdGVhIHN0YW5kIGZvciBpbiBUZXhhcz8iLCJsayI6IkdpQjNhR0YwSUdSdlpYTWdkR1ZoSUhOMFlXNWtJR1p2Y2lCcGJpQjBaWGhoY3ciLCJicyI6ImMtTks0TklKejBnc1VjZ3NWaWpKU0ZWSVNpMHVVU2hKVFZRb3lWZElLY3JNeTFaSXl5OVNxTXd2TFZKSXlrLXB0SmRvY1RiU2xkSXVKMTRMbHlHWExOaUd4S0pVcVBxODFMVE1rbUtGX0RTUU5udUpibVlqWGlsdWtBbFFLUzR0TGtIUFlyQ1p4VG1KZWVrZ0EtMGxQdm9iQ1VrSlpLS0pjM2x4S1lLTlQ4bFBoVXFWSk9hbGdOMlFtYWNRa2xxUldHd3YwZVpqcENTbFVJNWJYUWxJblFBakFBIiwiaWQiOiJmY19KU3NLWjRDVkF2emZ3TjRQLXJmendRVV80In0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Texas Education Agency - Texas.gov",
+      "link": "https://tea.texas.gov/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tea.texas.gov/&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQFnoECBwQAQ",
+      "displayed_link": "https://tea.texas.gov",
+      "favicon": "https://serpapi.com/searches/670a2b249062f82b94cb4126/images/c91d9e07ebbf16a27ad62d325369c947d76dd18a8d08f9c0c5aef1c51130db59.png",
+      "snippet": "Texas Education Agency Home \u00b7 The Latest TEA News \u00b7 Annual Report & Pocket Edition \u00b7 Superintendents \u00b7 Parent Resources \u00b7 Educator Certification \u00b7 Employment",
+      "snippet_highlighted_words": [
+        "Texas Education Agency",
+        "TEA"
+      ],
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "Certificate Look Up",
+            "link": "https://tea.texas.gov/texas-educators/certification/certificate-lookup",
+            "snippet": "View official certification records for Texas educators using the ..."
+          },
+          {
+            "title": "Certification",
+            "link": "https://tea.texas.gov/texas-educators/certification",
+            "snippet": "(512) 936-8400 Phone Options: Option 2-Educator Preparation ..."
+          },
+          {
+            "title": "Contact Us",
+            "link": "https://tea.texas.gov/about-tea/contact-us",
+            "snippet": "This page contains general contact information for the agency, as ..."
+          },
+          {
+            "title": "Employment",
+            "link": "https://tea.texas.gov/about-tea/welcome-and-overview/employment",
+            "snippet": "As a TEA employee, you will be a part of a team focused on ..."
+          },
+          {
+            "title": "Student Assessment",
+            "link": "https://tea.texas.gov/student-assessment",
+            "snippet": "The Texas Education Agency oversees several testing ..."
+          }
+        ]
+      },
+      "source": "Texas.gov"
+    },
+    {
+      "position": 2,
+      "title": "Texas Education Agency",
+      "link": "https://tealprod.tea.state.tx.us/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tealprod.tea.state.tx.us/&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQFnoECBIQAQ",
+      "displayed_link": "https://tealprod.tea.state.tx.us",
+      "favicon": "https://serpapi.com/searches/670a2b249062f82b94cb4126/images/c91d9e07ebbf16a27ad62d325369c94776bdab0f9a03d2036b6210c2ca1cf9f5.png",
+      "snippet": "TEA Login (TEAL) NOTICE: TEA Web Applications will not be available each Sunday morning from 5:00am to 2:00pm due to routine maintenance.",
+      "snippet_highlighted_words": [
+        "TEA",
+        "TEA"
+      ],
+      "source": "Texas.gov"
+    },
+    {
+      "position": 3,
+      "title": "Tea",
+      "link": "https://en.wikipedia.org/wiki/Tea",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Tea&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQFnoECBgQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Tea",
+      "thumbnail": "https://serpapi.com/searches/670a2b249062f82b94cb4126/images/c91d9e07ebbf16a27ad62d325369c947ab1d7750c86b405563685ced2db11fab.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2b249062f82b94cb4126/images/c91d9e07ebbf16a27ad62d325369c947b7d8850aef6ff44fba4d48b8b200f528.png",
+      "snippet": "Tea is an aromatic beverage prepared by pouring hot or boiling water over cured or fresh leaves of Camellia sinensis, an evergreen shrub native to East Asia ...",
+      "snippet_highlighted_words": [
+        "Tea"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Green tea",
+            "link": "https://en.wikipedia.org/wiki/Green_tea"
+          },
+          {
+            "title": "History",
+            "link": "https://en.wikipedia.org/wiki/History_of_tea"
+          },
+          {
+            "title": "Black tea",
+            "link": "https://en.wikipedia.org/wiki/Black_tea"
+          },
+          {
+            "title": "Tea processing",
+            "link": "https://en.wikipedia.org/wiki/Tea_processing"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 4,
+      "title": "Tea Collection | Children's Clothes for Kids, Baby & Newborn",
+      "link": "https://www.teacollection.com/?srsltid=AfmBOooQDUjS4-7QCPLpQq5lzyppX2CuagMUDTLAxDDNWUcG0ojNoTBj",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.teacollection.com/%3Fsrsltid%3DAfmBOooQDUjS4-7QCPLpQq5lzyppX2CuagMUDTLAxDDNWUcG0ojNoTBj&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQFnoECE8QAQ",
+      "displayed_link": "https://www.teacollection.com",
+      "favicon": "https://serpapi.com/searches/670a2b249062f82b94cb4126/images/c91d9e07ebbf16a27ad62d325369c947f0d9c80fa950c609cd26d36f0d67abe8.png",
+      "snippet": "At Tea Collection, we travel the world to bring you globally inspired, well-made kids clothes for all of life's adventures. Shop Tea Collection children's ...",
+      "snippet_highlighted_words": [
+        "Tea",
+        "Tea"
+      ],
+      "source": "Tea Collection"
+    },
+    {
+      "position": 5,
+      "title": "The Tea Spot | Loose Leaf Tea, Pyramid Tea Bags, Steepware ...",
+      "link": "https://www.theteaspot.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theteaspot.com/&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQFnoECFAQAQ",
+      "displayed_link": "https://www.theteaspot.com",
+      "snippet": "Whole Leaf Tea & Modern Steepware\u00ae Infusers - Handcrafted in Boulder, Colorado, since 2004. Buy loose leaf tea & pyramid tea bags online: organic, green tea ...",
+      "snippet_highlighted_words": [
+        "Tea",
+        "tea",
+        "tea",
+        "tea"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Steepware",
+            "link": "https://www.theteaspot.com/collections/steepware-tea-infuser"
+          },
+          {
+            "title": "Tea Stocking Stuffers & Tea...",
+            "link": "https://www.theteaspot.com/collections/tea-gift-stocking-stuffers"
+          },
+          {
+            "title": "About Tea Types",
+            "link": "https://www.theteaspot.com/pages/about-tea"
+          },
+          {
+            "title": "Tea Traditions",
+            "link": "https://www.theteaspot.com/pages/tea-traditions"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 3,
+            "currency": "Free \u2013 day delivery over $",
+            "unknown": 30
+          },
+          "extensions": [
+            "Free 3\u20139 day delivery over $60",
+            "\u200e30",
+            "day returns"
+          ]
+        }
+      },
+      "source": "The Tea Spot"
+    },
+    {
+      "position": 6,
+      "title": "Art of Tea: Organic Loose Leaf Teas, Tea Bags & Tea Gift",
+      "link": "https://www.artoftea.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.artoftea.com/&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQFnoECFIQAQ",
+      "displayed_link": "https://www.artoftea.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTgg399IlunFJdJifvcTDQMJiKagnOquaWc45ogr8tuQvVEHa_DbYN&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2b249062f82b94cb4126/images/c91d9e07ebbf16a27ad62d325369c947b3188ed4efe9d0cdd1e62681641b8d6e.png",
+      "snippet": "Explore Art of Tea, an organic online tea shop with a wide variety of loose leaf, packaged teas, teaware, tea gifts & more. Shop custom-crafted teas today!",
+      "snippet_highlighted_words": [
+        "Tea",
+        "tea",
+        "teas",
+        "tea",
+        "teas"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Packaged Teas",
+            "link": "https://www.artoftea.com/collections/packaged-tea-collection"
+          },
+          {
+            "title": "Tea Club",
+            "link": "https://www.artoftea.com/pages/tea-of-the-month"
+          },
+          {
+            "title": "Loose Leaf Tea Collection",
+            "link": "https://www.artoftea.com/collections/loose-leaf-teas"
+          },
+          {
+            "title": "Black Tea",
+            "link": "https://www.artoftea.com/collections/black-tea"
+          }
+        ]
+      },
+      "source": "artoftea.com"
+    },
+    {
+      "position": 7,
+      "title": "Tea Definition & Meaning",
+      "link": "https://www.merriam-webster.com/dictionary/tea",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.merriam-webster.com/dictionary/tea&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQFnoECFEQAQ",
+      "displayed_link": "https://www.merriam-webster.com \u203a dictionary \u203a tea",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYgkfOpWjxFIQpX5Ocj9i9b9lZ2JIT9BZuQsVjD2Ar7TqVzyJFPTTH&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2b249062f82b94cb4126/images/c91d9e07ebbf16a27ad62d325369c947960439988917e2ddddc0c8308bb79922.png",
+      "date": "Oct 3, 2024",
+      "snippet": "1. a : a widely cultivated shrub (Camellia sinensis of the family Theaceae, the tea family) native to China, northern India, and southeastern Asia",
+      "snippet_highlighted_words": [
+        "tea"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Tea bag",
+            "link": "https://www.merriam-webster.com/dictionary/tea%20bag"
+          },
+          {
+            "title": "Cup of tea",
+            "link": "https://www.merriam-webster.com/dictionary/cup%20of%20tea"
+          },
+          {
+            "title": "High tea",
+            "link": "https://www.merriam-webster.com/dictionary/high%20tea"
+          },
+          {
+            "title": "Black tea",
+            "link": "https://www.merriam-webster.com/dictionary/black%20tea"
+          }
+        ]
+      },
+      "source": "Merriam-Webster"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&tbs=lf:1,lf_ui:2&tbm=lcl&q=tea&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQjGp6BAhBEAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=tea&tbs=lf%3A1%2Clf_ui%3A2&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "TEA Learn",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=TEA+Learn&sa=X&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ1QJ6BAh7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=TEA+Learn"
+    },
+    {
+      "block_position": 1,
+      "query": "TEA Login",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=TEA+Login&sa=X&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ1QJ6BAhiEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=TEA+Login"
+    },
+    {
+      "block_position": 1,
+      "query": "TEAL login",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=TEAL+login&sa=X&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ1QJ6BAhjEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=TEAL+login"
+    },
+    {
+      "block_position": 1,
+      "query": "TEA Texas",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=TEA+Texas&sa=X&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ1QJ6BAhmEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=TEA+Texas"
+    },
+    {
+      "block_position": 1,
+      "query": "Tea definition",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Tea+definition&sa=X&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ1QJ6BAhcEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Tea+definition"
+    },
+    {
+      "block_position": 1,
+      "query": "TEA certification",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=TEA+certification&sa=X&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ1QJ6BAhfEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=TEA+certification"
+    },
+    {
+      "block_position": 1,
+      "query": "Tea types",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Tea+types&sa=X&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ1QJ6BAhhEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Tea+types"
+    },
+    {
+      "block_position": 1,
+      "query": "Tea brands",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Tea+brands&sa=X&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ1QJ6BAh6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Tea+brands"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=tea&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=JSsKZ4CVAvzfwN4P-rfzwQU&start=10&sa=N&sstk=AagrsuiVz2KlGZPqH23K6sgzObm_Qx5IaukOq7pMaxPEKT4Z5Em2vCKE6G0xdKNlj5HtM6Eit1UQNA60V00lJNe2Ju-gj_BfMP8LaQ&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ8NMDegQICRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=tea&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=JSsKZ4CVAvzfwN4P-rfzwQU&start=10&sa=N&sstk=AagrsuiVz2KlGZPqH23K6sgzObm_Qx5IaukOq7pMaxPEKT4Z5Em2vCKE6G0xdKNlj5HtM6Eit1UQNA60V00lJNe2Ju-gj_BfMP8LaQ&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ8tMDegQICRAE",
+      "3": "https://www.google.com/search?q=tea&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=JSsKZ4CVAvzfwN4P-rfzwQU&start=20&sa=N&sstk=AagrsuiVz2KlGZPqH23K6sgzObm_Qx5IaukOq7pMaxPEKT4Z5Em2vCKE6G0xdKNlj5HtM6Eit1UQNA60V00lJNe2Ju-gj_BfMP8LaQ&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ8tMDegQICRAG",
+      "4": "https://www.google.com/search?q=tea&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=JSsKZ4CVAvzfwN4P-rfzwQU&start=30&sa=N&sstk=AagrsuiVz2KlGZPqH23K6sgzObm_Qx5IaukOq7pMaxPEKT4Z5Em2vCKE6G0xdKNlj5HtM6Eit1UQNA60V00lJNe2Ju-gj_BfMP8LaQ&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ8tMDegQICRAI",
+      "5": "https://www.google.com/search?q=tea&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=JSsKZ4CVAvzfwN4P-rfzwQU&start=40&sa=N&sstk=AagrsuiVz2KlGZPqH23K6sgzObm_Qx5IaukOq7pMaxPEKT4Z5Em2vCKE6G0xdKNlj5HtM6Eit1UQNA60V00lJNe2Ju-gj_BfMP8LaQ&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ8tMDegQICRAK",
+      "6": "https://www.google.com/search?q=tea&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=JSsKZ4CVAvzfwN4P-rfzwQU&start=50&sa=N&sstk=AagrsuiVz2KlGZPqH23K6sgzObm_Qx5IaukOq7pMaxPEKT4Z5Em2vCKE6G0xdKNlj5HtM6Eit1UQNA60V00lJNe2Ju-gj_BfMP8LaQ&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ8tMDegQICRAM",
+      "7": "https://www.google.com/search?q=tea&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=JSsKZ4CVAvzfwN4P-rfzwQU&start=60&sa=N&sstk=AagrsuiVz2KlGZPqH23K6sgzObm_Qx5IaukOq7pMaxPEKT4Z5Em2vCKE6G0xdKNlj5HtM6Eit1UQNA60V00lJNe2Ju-gj_BfMP8LaQ&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ8tMDegQICRAO",
+      "8": "https://www.google.com/search?q=tea&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=JSsKZ4CVAvzfwN4P-rfzwQU&start=70&sa=N&sstk=AagrsuiVz2KlGZPqH23K6sgzObm_Qx5IaukOq7pMaxPEKT4Z5Em2vCKE6G0xdKNlj5HtM6Eit1UQNA60V00lJNe2Ju-gj_BfMP8LaQ&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ8tMDegQICRAQ",
+      "9": "https://www.google.com/search?q=tea&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=JSsKZ4CVAvzfwN4P-rfzwQU&start=80&sa=N&sstk=AagrsuiVz2KlGZPqH23K6sgzObm_Qx5IaukOq7pMaxPEKT4Z5Em2vCKE6G0xdKNlj5HtM6Eit1UQNA60V00lJNe2Ju-gj_BfMP8LaQ&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ8tMDegQICRAS",
+      "10": "https://www.google.com/search?q=tea&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=JSsKZ4CVAvzfwN4P-rfzwQU&start=90&sa=N&sstk=AagrsuiVz2KlGZPqH23K6sgzObm_Qx5IaukOq7pMaxPEKT4Z5Em2vCKE6G0xdKNlj5HtM6Eit1UQNA60V00lJNe2Ju-gj_BfMP8LaQ&ved=2ahUKEwjAu9fGroiJAxX8L9AFHfrbPFgQ8tMDegQICRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=tea&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=tea&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=tea&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=tea&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=tea&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=tea&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=tea&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=tea&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=tea&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=tea&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=tea&start=90"
+    }
+  }
+}

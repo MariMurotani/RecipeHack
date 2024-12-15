@@ -1,0 +1,571 @@
+{
+  "search_metadata": {
+    "id": "670a306e17b10ea0cfb46b02",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a62c0ced3220c686/670a306e17b10ea0cfb46b02.json",
+    "created_at": "2024-10-12 08:16:46 UTC",
+    "processed_at": "2024-10-12 08:16:46 UTC",
+    "google_url": "https://www.google.com/search?q=pie&oq=pie&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/a62c0ced3220c686/670a306e17b10ea0cfb46b02.html",
+    "total_time_taken": 1.97
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "pie",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "pie",
+    "total_results": 4430000000,
+    "time_taken_displayed": 0.27,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=pie&npsic=0&rflfq=1&rldoc=1&rllag=30288769,-97743146,4148&tbm=lcl&sa=X&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQtgN6BAglEAI",
+    "image": "https://serpapi.com/searches/670a306e17b10ea0cfb46b02/images/c73216585e0a5144208160d2127ff7c1.png",
+    "gps_coordinates": {
+      "latitude": 30.288769,
+      "longitude": -97.743146
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.3,
+        "reviews_original": "(300)",
+        "reviews": 300,
+        "description": "\"The pecan pie (full sized) is 90% pecans 9% crust, 1% filling.\"",
+        "lsig": "AB86z5VqC7YKjIDXmEOr5OZvMa9U",
+        "thumbnail": "https://serpapi.com/searches/670a306e17b10ea0cfb46b02/images/a3aedc22be5a2618650f20b653bb899d33a5511e7b69640536c413a8b88f605cc7f1cc99608cef16.jpeg",
+        "title": "Tiny Pies",
+        "type": "Pie shop",
+        "address": "1100 S Lamar Blvd Unit 1116",
+        "hours": "Closed \u22c5 Opens 8 AM",
+        "place_id": "3132823351598262129",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=3132823351598262129&q=pie",
+        "gps_coordinates": {
+          "latitude": 30.255287,
+          "longitude": -97.762215
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.5,
+        "reviews_original": "(408)",
+        "reviews": 408,
+        "description": "\"Pie crust from scratch is not difficult to make and very inexpensive!\"",
+        "lsig": "AB86z5Xs5RjiK3Pr5VOB9khFHmPM",
+        "thumbnail": "https://serpapi.com/searches/670a306e17b10ea0cfb46b02/images/a3aedc22be5a2618650f20b653bb899d2ad59b8324f558b7d6ae647b66e0176853ea0901f45f5c3c.png",
+        "title": "Tiny Pies\u00ae",
+        "type": "Pie shop",
+        "address": "5035 Burnet Rd #100",
+        "hours": "Closed \u22c5 Opens 10 AM",
+        "place_id": "13903251761316434042",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=13903251761316434042&q=pie",
+        "gps_coordinates": {
+          "latitude": 30.322252,
+          "longitude": -97.73911
+        }
+      },
+      {
+        "position": 3,
+        "rating": 4.4,
+        "reviews_original": "(719)",
+        "reviews": 719,
+        "price": "$",
+        "description": "\"Thin crust crispiness with great toppings.\"",
+        "lsig": "AB86z5VeoOkJLdXWqNxfBXC54E1A",
+        "thumbnail": "https://serpapi.com/searches/670a306e17b10ea0cfb46b02/images/a3aedc22be5a2618650f20b653bb899d10adbbe09addf808ee2cdf2a2a7dd3a03b18445020bcf87e.jpeg",
+        "title": "East Side Pies",
+        "type": "Pizza",
+        "address": "1401 Rosewood Ave",
+        "hours": "Closed \u22c5 Opens 10 AM",
+        "place_id": "9637081686728620218",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=9637081686728620218&q=pie",
+        "gps_coordinates": {
+          "latitude": 30.26877,
+          "longitude": -97.72408
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&tbs=lf:1,lf_ui:9&tbm=lcl&q=pie&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQjGp6BAgmEAE"
+  },
+  "inline_images": [
+    {
+      "source": "https://sallysbakingaddiction.com/best-blueberry-pie/",
+      "thumbnail": "https://serpapi.com/searches/670a306e17b10ea0cfb46b02/images/79511e9a126ec3492b8b01460136b5e478a3b2a5944f563702f97b7881cf4fce.jpeg",
+      "original": "https://sallysbakingaddiction.com/wp-content/uploads/2016/06/blueberry-pie.jpg",
+      "title": "Homemade Blueberry Pie",
+      "source_name": "Sally's Baking Addiction"
+    },
+    {
+      "source": "https://cooking.nytimes.com/recipes/1024804-caramelized-apple-pie",
+      "thumbnail": "https://serpapi.com/searches/670a306e17b10ea0cfb46b02/images/79511e9a126ec349c7dcc9e5a181ca256f32699a8f51d2fd9455c6af5d233d72.jpeg",
+      "original": "https://static01.nyt.com/images/2023/11/09/multimedia/09piesrex3-apple/09piesrex4-lemon-cqtk-superJumbo.jpg",
+      "title": "Caramelized Apple Pie",
+      "source_name": "NYT Cooking - The New York Times"
+    },
+    {
+      "source": "https://www.allrecipes.com/recipe/13711/homemade-fresh-pumpkin-pie/",
+      "thumbnail": "https://serpapi.com/searches/670a306e17b10ea0cfb46b02/images/79511e9a126ec349275e465cd42a5eaa8911cae7f0959e7048a8ccc2093a760c.jpeg",
+      "original": "https://www.allrecipes.com/thmb/oRURpOkbOgy8qkhZBeQVmAWio9M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13711-homemade-fresh-pumpkin-pie-mfs254-927f6526424746a1bc204f544f064231.jpg",
+      "title": "Homemade Fresh Pumpkin Pie",
+      "source_name": "Allrecipes"
+    },
+    {
+      "source": "https://schoolnightvegan.com/home/vegan-apple-pie/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5CX8-VtkcMlz-CEnNkBaBEhCTa-t9A0OgkCnzJuAhXeG2EfYKW-73NWk&s",
+      "original": "https://schoolnightvegan.com/wp-content/uploads/2022/11/vegan-apple-pie-25.jpg",
+      "title": "Vegan Apple Pie",
+      "source_name": "School Night Vegan"
+    },
+    {
+      "source": "https://herbsandflour.com/classic-apple-pie/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6pCmPq9T1KtpIHyyDaczsOBhwPRU6b_YgX1z8rfsR5oYFJsWbb5erCJw&s",
+      "original": "https://herbsandflour.com/wp-content/uploads/2020/10/Classic-Apple-Pie-2-791x1024.jpg",
+      "title": "Classic Apple Pie",
+      "source_name": "Herbs & Flour"
+    },
+    {
+      "source": "https://www.inspiredtaste.net/23159/homemade-blueberry-pie-recipe/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXoad_Yfdbyp4-v2S6Qm3cERY5tDF92zG2Yh7AGxJfyCZeBIDAYA0J5pk&s",
+      "original": "https://www.inspiredtaste.net/wp-content/uploads/2022/11/Blueberry-Pie-Recipe-Video.jpg",
+      "title": "Best Blueberry Pie We've Ever Made",
+      "source_name": "Inspired Taste"
+    },
+    {
+      "source": "https://www.bbcgoodfood.com/recipes/collection/fruit-pie-recipes",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4evK2eDU-ofIam7bU4YZXWuqPeFxJzXle5Pwy2vU-jhJAAX3PO-63oto&s",
+      "original": "https://images.immediate.co.uk/production/volatile/sites/30/2022/07/Blackberry-pie-c418fda.jpg?quality=90&resize=556,505",
+      "title": "Fruit pie recipes | Good Food",
+      "source_name": "BBC Good Food"
+    },
+    {
+      "source": "https://www.onceuponachef.com/recipes/lemon-chess-pie.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSte_lTCDP4S-PM0Ujsy8j4wUt51cSOH6NY28G1Y17MPZ-lh_9AN65QMj8&s",
+      "original": "https://www.onceuponachef.com/images/2023/11/lemon-chess-pie-1.jpg",
+      "title": "Lemon Chess Pie",
+      "source_name": "Once Upon a Chef"
+    },
+    {
+      "source": "https://www.epicurious.com/recipes/food/views/pear-pie-with-lattice-crust",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJWgS5AHylRxxNcxGVrgI9QI05tuUECGxF7R32-hx2PbNWLB0IFRt6yc&s",
+      "original": "https://assets.epicurious.com/photos/636fb8056e27feaf22780945/1:1/w_2560%2Cc_limit/LatticePearPie_RECIPE_111022_42206.jpg",
+      "title": "Pear Pie With Lattice Crust",
+      "source_name": "Epicurious"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is a pie slang?",
+      "snippet": "It could mean a kilo of cocaine to a very pleasant or kind person that you like.",
+      "title": "What does it mean when someone calls you 'pie' instead of your name?",
+      "date": "Apr 27, 2023",
+      "link": "https://www.quora.com/What-does-it-mean-when-someone-calls-you-pie-instead-of-your-name#:~:text=It%20could%20mean%20a%20kilo,kind%20person%20that%20you%20like.",
+      "displayed_link": "https://www.quora.com \u203a What-does-it-mean-when-some...",
+      "source_logo": "https://serpapi.com/searches/670a306e17b10ea0cfb46b02/images/69e0a52a6553249b1fa21c5450f87e7c53e2ba65c3714b4c05ec7cb34577ed70.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UE5uZERWMFIyTkZaM2JFeFdOaTFNZUhWTk1XUlVPSGQ2YkdWMk9FMU5PSEZoWDBwdFZGQTFWbmhXYVdSb2RWSkRlazR3TmtKb05EZEhSRGhhUzFsbFRGUmZhMFkwRWhkaWVrRkxXbDlVZFVoTVZ6RTFUbTlRTTNOcFJESkJWUm9pUVVaWWNrVmpjbkpLZVhwalJqRlFURVpZTUVkMFJVVXlVazFQZWxvNWNVdDZRUSIsImZjdiI6IjMiLCJlaSI6ImJ6QUtaX1R1SExXMTVOb1Azc2lEMkFVIiwicWMiOiJDZ053YVdVUUFIMVlFaWtfIiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgcGllIHNsYW5nPyIsImxrIjoiR2hGd2FXVWdiV1ZoYm1sdVp5QnpiR0Z1WnciLCJicyI6ImMtUFM0eElKejBnc1VjZ3NWa2hVS01oTVZTak9TY3hMdDVmWW0yWWtMQ1VJRXNoTlRjekx6RXVIU0hENWNDbUIxYWZrSzVSa3BDcmtwSmFVcEJZVlEzU1dKT2FsS0tUbEY5bExUSFkyVXBaU0xDZWtrTXVBUzhRbFA3Vll3VmpQMEVTaHVDQTFKd2Vrd0Y2aXo4VklWRW80QlZPS3k0Ukx6Qk5pU2w1aWJtcUtRbUlhMEZnZzMxN2lTNDJSdUpSb0pqWkpBVVlBIiwiaWQiOiJmY180In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UE5uZERWMFIyTkZaM2JFeFdOaTFNZUhWTk1XUlVPSGQ2YkdWMk9FMU5PSEZoWDBwdFZGQTFWbmhXYVdSb2RWSkRlazR3TmtKb05EZEhSRGhhUzFsbFRGUmZhMFkwRWhkaWVrRkxXbDlVZFVoTVZ6RTFUbTlRTTNOcFJESkJWUm9pUVVaWWNrVmpjbkpLZVhwalJqRlFURVpZTUVkMFJVVXlVazFQZWxvNWNVdDZRUSIsImZjdiI6IjMiLCJlaSI6ImJ6QUtaX1R1SExXMTVOb1Azc2lEMkFVIiwicWMiOiJDZ053YVdVUUFIMVlFaWtfIiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgcGllIHNsYW5nPyIsImxrIjoiR2hGd2FXVWdiV1ZoYm1sdVp5QnpiR0Z1WnciLCJicyI6ImMtUFM0eElKejBnc1VjZ3NWa2hVS01oTVZTak9TY3hMdDVmWW0yWWtMQ1VJRXNoTlRjekx6RXVIU0hENWNDbUIxYWZrSzVSa3BDcmtwSmFVcEJZVlEzU1dKT2FsS0tUbEY5bExUSFkyVXBaU0xDZWtrTXVBUzhRbFA3Vll3VmpQMEVTaHVDQTFKd2Vrd0Y2aXo4VklWRW80QlZPS3k0Ukx6Qk5pU2w1aWJtcUtRbUlhMEZnZzMxN2lTNDJSdUpSb0pqWkpBVVlBIiwiaWQiOiJmY180In0%3D"
+    },
+    {
+      "question": "What do the letters pie stand for?",
+      "snippet": "PIE is an acronym for Point, Illustration, and Explanation. It is used in body paragraphs to help students figure out how to include examples and quotes.",
+      "title": "Pie Format",
+      "link": "https://bristolcc.edu/media/pie_format.pdf",
+      "displayed_link": "https://bristolcc.edu \u203a media \u203a pie_format",
+      "source_logo": "https://serpapi.com/searches/670a306e17b10ea0cfb46b02/images/69e0a52a6553249b1fa21c5450f87e7cb1fafd37be48632e3f36efe05c030e36.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UE5uZERWMFIyTkZaM2JFeFdOaTFNZUhWTk1XUlVPSGQ2YkdWMk9FMU5PSEZoWDBwdFZGQTFWbmhXYVdSb2RWSkRlazR3TmtKb05EZEhSRGhhUzFsbFRGUmZhMFkwRWhkaWVrRkxXbDlVZFVoTVZ6RTFUbTlRTTNOcFJESkJWUm9pUVVaWWNrVmpjbkpLZVhwalJqRlFURVpZTUVkMFJVVXlVazFQZWxvNWNVdDZRUSIsImZjdiI6IjMiLCJlaSI6ImJ6QUtaX1R1SExXMTVOb1Azc2lEMkFVIiwicWMiOiJDZ053YVdVUUFIMVlFaWtfIiwicXVlc3Rpb24iOiJXaGF0IGRvIHRoZSBsZXR0ZXJzIHBpZSBzdGFuZCBmb3I/IiwibGsiOiJHaUYzYUdGMElHUnZJSFJvWlNCc1pYUjBaWEp6SUhCcFpTQnpkR0Z1WkNCbWIzSSIsImJzIjoiYy1QUzR4SUp6MGdzVWNnc1ZraFVLTWhNVlNqT1NjeEx0NWZZbTJZa0xDVUlFc2hOVGN6THpFdUhTSEQ1Y0NtQjFhZmtLNVJrcENya3BKYVVwQllWUTNTV0pPYWxLS1RsRjlsTFRIWTJVcFpTTENla2tNdUFTOFFsUDdWWXdWalAwRVNodUNBMUp3ZWt3RjZpejhWSVZFbzRCVk9LeTRSTHpCTmlTbDVpYm1xS1FtSWEwRmdnMzE3aVM0MlJ1SlJvSmpaSkFVWUEiLCJpZCI6ImZjXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UE5uZERWMFIyTkZaM2JFeFdOaTFNZUhWTk1XUlVPSGQ2YkdWMk9FMU5PSEZoWDBwdFZGQTFWbmhXYVdSb2RWSkRlazR3TmtKb05EZEhSRGhhUzFsbFRGUmZhMFkwRWhkaWVrRkxXbDlVZFVoTVZ6RTFUbTlRTTNOcFJESkJWUm9pUVVaWWNrVmpjbkpLZVhwalJqRlFURVpZTUVkMFJVVXlVazFQZWxvNWNVdDZRUSIsImZjdiI6IjMiLCJlaSI6ImJ6QUtaX1R1SExXMTVOb1Azc2lEMkFVIiwicWMiOiJDZ053YVdVUUFIMVlFaWtfIiwicXVlc3Rpb24iOiJXaGF0IGRvIHRoZSBsZXR0ZXJzIHBpZSBzdGFuZCBmb3I%2FIiwibGsiOiJHaUYzYUdGMElHUnZJSFJvWlNCc1pYUjBaWEp6SUhCcFpTQnpkR0Z1WkNCbWIzSSIsImJzIjoiYy1QUzR4SUp6MGdzVWNnc1ZraFVLTWhNVlNqT1NjeEx0NWZZbTJZa0xDVUlFc2hOVGN6THpFdUhTSEQ1Y0NtQjFhZmtLNVJrcENya3BKYVVwQllWUTNTV0pPYWxLS1RsRjlsTFRIWTJVcFpTTENla2tNdUFTOFFsUDdWWXdWalAwRVNodUNBMUp3ZWt3RjZpejhWSVZFbzRCVk9LeTRSTHpCTmlTbDVpYm1xS1FtSWEwRmdnMzE3aVM0MlJ1SlJvSmpaSkFVWUEiLCJpZCI6ImZjXzQifQ%3D%3D"
+    },
+    {
+      "question": "Does 3.14 spell pie?",
+      "snippet": "Pi Day will be celebrated on March 14\u20143.14. Pi (Greek letter \u201c\u03c0\u201d) is the symbol used in mathematics to represent a constant\u2014the ratio of the circumference of a circle to its diameter\u2014which is approximately 3.14159.",
+      "title": "Having Fun with Pi On Its Special Day: 3.14 - Syracuse University News",
+      "date": "Mar 12, 2020",
+      "link": "https://news.syr.edu/blog/2020/03/12/having-fun-with-pi-on-its-special-day-3-14/#:~:text=Pi%20Day%20will%20be%20celebrated,diameter%E2%80%94which%20is%20approximately%203.14159.",
+      "displayed_link": "https://news.syr.edu \u203a blog \u203a 2020/03/12 \u203a having-fun-w...",
+      "source_logo": "https://serpapi.com/searches/670a306e17b10ea0cfb46b02/images/69e0a52a6553249b1fa21c5450f87e7c7814f94d5c0e0a02c427fd6bf633a435.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UE5uZERWMFIyTkZaM2JFeFdOaTFNZUhWTk1XUlVPSGQ2YkdWMk9FMU5PSEZoWDBwdFZGQTFWbmhXYVdSb2RWSkRlazR3TmtKb05EZEhSRGhhUzFsbFRGUmZhMFkwRWhkaWVrRkxXbDlVZFVoTVZ6RTFUbTlRTTNOcFJESkJWUm9pUVVaWWNrVmpjbkpLZVhwalJqRlFURVpZTUVkMFJVVXlVazFQZWxvNWNVdDZRUSIsImZjdiI6IjMiLCJlaSI6ImJ6QUtaX1R1SExXMTVOb1Azc2lEMkFVIiwicWMiOiJDZ053YVdVUUFIMVlFaWtfIiwicXVlc3Rpb24iOiJEb2VzIDMuMTQgc3BlbGwgcGllPyIsImxrIjoiR2hOa2IyVnpJRE11TVRRZ2MzQmxiR3dnY0dsbCIsImJzIjoiYy1QUzR4SUp6MGdzVWNnc1ZraFVLTWhNVlNqT1NjeEx0NWZZbTJZa0xDVUlFc2hOVGN6THpFdUhTSEQ1Y0NtQjFhZmtLNVJrcENya3BKYVVwQllWUTNTV0pPYWxLS1RsRjlsTFRIWTJVcFpTTENla2tNdUFTOFFsUDdWWXdWalAwRVNodUNBMUp3ZWt3RjZpejhWSVZFbzRCVk9LeTRSTHpCTmlTbDVpYm1xS1FtSWEwRmdnMzE3aVM0MlJ1SlJvSmpaSkFVWUEiLCJpZCI6ImZjXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UE5uZERWMFIyTkZaM2JFeFdOaTFNZUhWTk1XUlVPSGQ2YkdWMk9FMU5PSEZoWDBwdFZGQTFWbmhXYVdSb2RWSkRlazR3TmtKb05EZEhSRGhhUzFsbFRGUmZhMFkwRWhkaWVrRkxXbDlVZFVoTVZ6RTFUbTlRTTNOcFJESkJWUm9pUVVaWWNrVmpjbkpLZVhwalJqRlFURVpZTUVkMFJVVXlVazFQZWxvNWNVdDZRUSIsImZjdiI6IjMiLCJlaSI6ImJ6QUtaX1R1SExXMTVOb1Azc2lEMkFVIiwicWMiOiJDZ053YVdVUUFIMVlFaWtfIiwicXVlc3Rpb24iOiJEb2VzIDMuMTQgc3BlbGwgcGllPyIsImxrIjoiR2hOa2IyVnpJRE11TVRRZ2MzQmxiR3dnY0dsbCIsImJzIjoiYy1QUzR4SUp6MGdzVWNnc1ZraFVLTWhNVlNqT1NjeEx0NWZZbTJZa0xDVUlFc2hOVGN6THpFdUhTSEQ1Y0NtQjFhZmtLNVJrcENya3BKYVVwQllWUTNTV0pPYWxLS1RsRjlsTFRIWTJVcFpTTENla2tNdUFTOFFsUDdWWXdWalAwRVNodUNBMUp3ZWt3RjZpejhWSVZFbzRCVk9LeTRSTHpCTmlTbDVpYm1xS1FtSWEwRmdnMzE3aVM0MlJ1SlJvSmpaSkFVWUEiLCJpZCI6ImZjXzQifQ%3D%3D"
+    },
+    {
+      "question": "Is pie named after pi?",
+      "snippet": "\"Pie\" was the word for a magpie before it was a word for a pastry, from the Latin word for the bird, Pica (whence the name of the disorder that makes you eat weird things). Pica morphed into \"pie\" in Old French, following the proud French tradition of actually pronouncing as few consonants as possible.",
+      "title": "How Pie Got Its Name - Bon Appetit",
+      "date": "Nov 15, 2012",
+      "link": "https://www.bonappetit.com/test-kitchen/ingredients/article/how-pie-got-its-name#:~:text=%22Pie%22%20was%20the%20word%20for,as%20few%20consonants%20as%20possible.",
+      "displayed_link": "https://www.bonappetit.com \u203a ingredients \u203a article \u203a how...",
+      "source_logo": "https://serpapi.com/searches/670a306e17b10ea0cfb46b02/images/69e0a52a6553249b1fa21c5450f87e7c0467a8ef9a3e0487849cf033bcf8ddda.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UE5uZERWMFIyTkZaM2JFeFdOaTFNZUhWTk1XUlVPSGQ2YkdWMk9FMU5PSEZoWDBwdFZGQTFWbmhXYVdSb2RWSkRlazR3TmtKb05EZEhSRGhhUzFsbFRGUmZhMFkwRWhkaWVrRkxXbDlVZFVoTVZ6RTFUbTlRTTNOcFJESkJWUm9pUVVaWWNrVmpjbkpLZVhwalJqRlFURVpZTUVkMFJVVXlVazFQZWxvNWNVdDZRUSIsImZjdiI6IjMiLCJlaSI6ImJ6QUtaX1R1SExXMTVOb1Azc2lEMkFVIiwicWMiOiJDZ053YVdVUUFIMVlFaWtfIiwicXVlc3Rpb24iOiJJcyBwaWUgbmFtZWQgYWZ0ZXIgcGk/IiwibGsiOiJHaFZwY3lCd2FXVWdibUZ0WldRZ1lXWjBaWElnY0drIiwiYnMiOiJjLVBTNHhJSnowZ3NVY2dzVmtoVUtNaE1WU2pPU2N4THQ1ZlltMllrTENVSUVzaE5UY3pMekV1SFNIRDVjQ21CMWFma0s1UmtwQ3JrcEphVXBCWVZRM1NXSk9hbEtLVGxGOWxMVEhZMlVwWlNMQ2Vra011QVM4UWxQN1ZZd1ZqUDBFU2h1Q0ExSndla3dGNml6OFZJVkVvNEJWT0t5NFJMekJOaVNsNWlibXFLUW1JYTBGZ2czMTdpUzQyUnVKUm9KalpKQVVZQSIsImlkIjoiZmNfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UE5uZERWMFIyTkZaM2JFeFdOaTFNZUhWTk1XUlVPSGQ2YkdWMk9FMU5PSEZoWDBwdFZGQTFWbmhXYVdSb2RWSkRlazR3TmtKb05EZEhSRGhhUzFsbFRGUmZhMFkwRWhkaWVrRkxXbDlVZFVoTVZ6RTFUbTlRTTNOcFJESkJWUm9pUVVaWWNrVmpjbkpLZVhwalJqRlFURVpZTUVkMFJVVXlVazFQZWxvNWNVdDZRUSIsImZjdiI6IjMiLCJlaSI6ImJ6QUtaX1R1SExXMTVOb1Azc2lEMkFVIiwicWMiOiJDZ053YVdVUUFIMVlFaWtfIiwicXVlc3Rpb24iOiJJcyBwaWUgbmFtZWQgYWZ0ZXIgcGk%2FIiwibGsiOiJHaFZwY3lCd2FXVWdibUZ0WldRZ1lXWjBaWElnY0drIiwiYnMiOiJjLVBTNHhJSnowZ3NVY2dzVmtoVUtNaE1WU2pPU2N4THQ1ZlltMllrTENVSUVzaE5UY3pMekV1SFNIRDVjQ21CMWFma0s1UmtwQ3JrcEphVXBCWVZRM1NXSk9hbEtLVGxGOWxMVEhZMlVwWlNMQ2Vra011QVM4UWxQN1ZZd1ZqUDBFU2h1Q0ExSndla3dGNml6OFZJVkVvNEJWT0t5NFJMekJOaVNsNWlibXFLUW1JYTBGZ2czMTdpUzQyUnVKUm9KalpKQVVZQSIsImlkIjoiZmNfNCJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "St. Pete-Clearwater International Airport: Low-cost, Non-stop ...",
+      "link": "https://fly2pie.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fly2pie.com/&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQFnoECA8QAQ",
+      "displayed_link": "https://fly2pie.com",
+      "favicon": "https://serpapi.com/searches/670a306e17b10ea0cfb46b02/images/c63f7d69f8d86ec58a13dda75dcddc907ffbeccbd362af8687b37abccc748831.png",
+      "snippet": "Every gate is a short walk for parking. Every flight is non-stop. And you have more than 60 destinations to choose from at great fares.",
+      "source": "St. Pete-Clearwater International Airport"
+    },
+    {
+      "position": 2,
+      "title": "Pie",
+      "link": "https://en.wikipedia.org/wiki/Pie",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Pie&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQFnoECB8QAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Pie",
+      "thumbnail": "https://serpapi.com/searches/670a306e17b10ea0cfb46b02/images/c63f7d69f8d86ec58a13dda75dcddc909f7326cd315a9c09fa77c17bed36e493.jpeg",
+      "favicon": "https://serpapi.com/searches/670a306e17b10ea0cfb46b02/images/c63f7d69f8d86ec58a13dda75dcddc90eb2ac0dc0fc050741c9805e7af5ce78a.png",
+      "snippet": "A pie is a baked dish which is usually made of a pastry dough casing that contains a filling of various sweet or savoury ingredients. Sweet pies may be ...",
+      "snippet_highlighted_words": [
+        "pie",
+        "pies"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 3,
+      "title": "Pies, Crisps, & Tarts",
+      "link": "https://sallysbakingaddiction.com/category/desserts/pies-crisps-tarts/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sallysbakingaddiction.com/category/desserts/pies-crisps-tarts/&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQFnoECDAQAQ",
+      "displayed_link": "https://sallysbakingaddiction.com \u203a Desserts",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FEZmOMyEi4R0A8U2zBxj2YeTmvLTfIivBWrOuYZC8bXcx4VDK_Fd&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a306e17b10ea0cfb46b02/images/c63f7d69f8d86ec58a13dda75dcddc90f53ee0f9310df830b7cdfd8b554c9fc2.png",
+      "snippet": "Find trusted recipes and easy-to-follow tutorials for homemade pies, including berry, pumpkin, apple, pecan, and cream pies; plus crisps, cobblers, ...",
+      "snippet_highlighted_words": [
+        "pies",
+        "pies"
+      ],
+      "source": "Sally's Baking Addiction"
+    },
+    {
+      "position": 4,
+      "title": "50 Perfect Pie Recipes",
+      "link": "https://www.foodnetwork.com/recipes/photos/pie-recipes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.foodnetwork.com/recipes/photos/pie-recipes&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQFnoECDQQAQ",
+      "displayed_link": "https://www.foodnetwork.com \u203a Recipes",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDj0w0Scn0VSoW378e-eLBrYUwK78BBBKfaewAgojPC0EZ0fM7BEoi&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a306e17b10ea0cfb46b02/images/c63f7d69f8d86ec58a13dda75dcddc90f4ecc96cf9dfcc89024fe5c11cac77bd.png",
+      "snippet": "Dessert is easy with these delicious pie recipes from Food Network. We've rounded up our best fruit pies, cream pies, custard pies and more.",
+      "snippet_highlighted_words": [
+        "pie",
+        "pies",
+        "pies",
+        "pies"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Buttermilk Pie",
+            "link": "https://www.foodnetwork.com/recipes/food-network-kitchen/buttermilk-pie-recipe-2119936"
+          },
+          {
+            "title": "Blackberry Pie",
+            "link": "https://www.foodnetwork.com/recipes/food-network-kitchen/blackberry-pie-5195680"
+          },
+          {
+            "title": "Blueberry Pie",
+            "link": "https://www.foodnetwork.com/recipes/blueberry-pie-recipe-1957757"
+          },
+          {
+            "title": "Strawberry-Rhubarb Pie",
+            "link": "https://www.foodnetwork.com/recipes/nancy-fuller/strawberry-rhubarb-pie-3362911"
+          }
+        ]
+      },
+      "source": "Food Network"
+    },
+    {
+      "position": 5,
+      "title": "Pie Ranch",
+      "link": "https://www.pieranch.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pieranch.org/&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQFnoECC8QAQ",
+      "displayed_link": "https://www.pieranch.org",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq7HF0bRWcZWbNmxGYjGLPMN0zeYEznh_oPS8faysad3Vvh9fY_KaP&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a306e17b10ea0cfb46b02/images/c63f7d69f8d86ec58a13dda75dcddc900ffcf37386e6b01e188cd4af2dbb5fcd.png",
+      "snippet": "Pie Ranch's Mission is to cultivate a healthy and just food system from seed to table through food education, farmer pathways, and regional partnerships.",
+      "snippet_highlighted_words": [
+        "Pie"
+      ],
+      "source": "Pie Ranch"
+    },
+    {
+      "position": 6,
+      "title": "Apple Pie by Grandma Ople Recipe",
+      "link": "https://www.allrecipes.com/recipe/12682/apple-pie-by-grandma-ople/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.allrecipes.com/recipe/12682/apple-pie-by-grandma-ople/&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQFnoECDMQAQ",
+      "displayed_link": "https://www.allrecipes.com \u203a ... \u203a Apple Pie Recipes",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoqp_3oM_oMK3f_QogJO02q_UL9OE0osea6aTQnN03ogawRqb7ZKx&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a306e17b10ea0cfb46b02/images/c63f7d69f8d86ec58a13dda75dcddc902e2e8b2fff4e81d02a4352c1366ad077.png",
+      "snippet": "This popular apple pie recipe makes a caramelized lattice crust filled with sweet, buttery apple slices for the perfect fall or holiday dessert!",
+      "snippet_highlighted_words": [
+        "pie"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.8,
+            "hr_min": 1
+          },
+          "extensions": [
+            "4.8(12,734)",
+            "1 hr 30 min"
+          ]
+        }
+      },
+      "source": "Allrecipes"
+    },
+    {
+      "position": 7,
+      "title": "Pie Junkie",
+      "link": "https://www.piejunkie.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.piejunkie.com/&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQFnoECDIQAQ",
+      "displayed_link": "https://www.piejunkie.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm5God-Qz4p7r2O8UTptGQQdR7-MtcoX20f3SnCGFfzW7xjVDBxb_f&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a306e17b10ea0cfb46b02/images/c63f7d69f8d86ec58a13dda75dcddc90e426febdd0b67b61d825b91f137e6015.png",
+      "snippet": "We are Oklahoma City's premier pie bakery making over 20,000 pies per year in our tiny shop. Located in the heart of the eclectic Plaza District, we bake ...",
+      "snippet_highlighted_words": [
+        "pie",
+        "pies"
+      ],
+      "source": "piejunkie.com"
+    },
+    {
+      "position": 8,
+      "title": "4 Steak & Cheese Individual Pies, Pie Heaven, the best pie ...",
+      "link": "https://www.youtube.com/watch?v=nsnLVuWON-k",
+      "displayed_link": "48.4K+ views \u00b7 2 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/nsnLVuWON-k/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3lISdjiXQZvdRE9JOnRrn02FbEvbw",
+      "favicon": "https://serpapi.com/searches/670a306e17b10ea0cfb46b02/images/c63f7d69f8d86ec58a13dda75dcddc909030e1c6e804e429307e05c44cdcc19b.png",
+      "snippet": "How to make 4 unbelievably delicious steak and peppercorn sauce pies, easy step by step instructions, from start to finish.",
+      "duration": "15:35",
+      "source": "YouTube \u00b7 John Kirkwood"
+    },
+    {
+      "position": 9,
+      "title": "Our 24 Best Pie Recipes From Traditional to Modern",
+      "link": "https://www.foodandwine.com/desserts/pies/best-pie-recipes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.foodandwine.com/desserts/pies/best-pie-recipes&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQFnoECDEQAQ",
+      "displayed_link": "https://www.foodandwine.com \u203a ... \u203a Pies & Tarts",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSZl6pqHFENA2jzIO7j5Zhl3tpzmI9bB0Ra6P0DYjQVu_gbvFNPDCW&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a306e17b10ea0cfb46b02/images/c63f7d69f8d86ec58a13dda75dcddc90e63c90f4c2d0c2eef1dcae9d48cad57c.png",
+      "date": "4 days ago",
+      "snippet": "From banana pudding to sweet potato honey pie, or summery strawberry to Boston cream pie, these are the flavors to enjoy year-round. Our ...",
+      "snippet_highlighted_words": [
+        "pie",
+        "pie"
+      ],
+      "source": "Food & Wine"
+    }
+  ],
+  "filters": [
+    {
+      "name": "Recipes",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7daGtYstpXpxPF1kru9OHbjtwlT4FkIoMJCvqeviGjl2UhFuA2_nMluYCjJEZTPF-3KZmOmkiS7G2C1rKPYZSk2k7so5rhjd-SBbVdkQeCgQ2izUx0CGRvR-mPRPzeLGP-2mhRxA",
+        "q": "Pie recipes"
+      },
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Pie+recipes&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7daGtYstpXpxPF1kru9OHbjtwlT4FkIoMJCvqeviGjl2UhFuA2_nMluYCjJEZTPF-3KZmOmkiS7G2C1rKPYZSk2k7so5rhjd-SBbVdkQeCgQ2izUx0CGRvR-mPRPzeLGP-2mhRxA&sa=X&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQxKsJegQIGBAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pie+recipes&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7daGtYstpXpxPF1kru9OHbjtwlT4FkIoMJCvqeviGjl2UhFuA2_nMluYCjJEZTPF-3KZmOmkiS7G2C1rKPYZSk2k7so5rhjd-SBbVdkQeCgQ2izUx0CGRvR-mPRPzeLGP-2mhRxA"
+    },
+    {
+      "name": "Math",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dAAh-P1KL938xtHbIzGFid_f87VRUxj5xRSiaOgBQ5xJo0_g5bodZWYMGtM_fS-LS9HTxjOmh46PARW91JKKq2MucQatTIntu-RqOvgNNUnjfonnanAVgzoSdKGaB5I4LtwMnxQ",
+        "q": "Pie math"
+      },
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Pie+math&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAAh-P1KL938xtHbIzGFid_f87VRUxj5xRSiaOgBQ5xJo0_g5bodZWYMGtM_fS-LS9HTxjOmh46PARW91JKKq2MucQatTIntu-RqOvgNNUnjfonnanAVgzoSdKGaB5I4LtwMnxQ&sa=X&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQxKsJegQIFRAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pie+math&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dAAh-P1KL938xtHbIzGFid_f87VRUxj5xRSiaOgBQ5xJo0_g5bodZWYMGtM_fS-LS9HTxjOmh46PARW91JKKq2MucQatTIntu-RqOvgNNUnjfonnanAVgzoSdKGaB5I4LtwMnxQ"
+    },
+    {
+      "name": "Open now",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dDN8jhNAzW9qMJvnEAK4JR-9wQOfdULOq-vR6J_nmbEdwknh_--aJ6KxxB15-GObCTjmsVZYG-3_r-HMa6uP3SK2-lbcsoAZokjtOVtqmDKwH8UFjzfx2YzRe45DfgvYI24benhxvplchNa5iDgcbwFqv1Os",
+        "q": "pie open now"
+      },
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=pie+open+now&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dDN8jhNAzW9qMJvnEAK4JR-9wQOfdULOq-vR6J_nmbEdwknh_--aJ6KxxB15-GObCTjmsVZYG-3_r-HMa6uP3SK2-lbcsoAZokjtOVtqmDKwH8UFjzfx2YzRe45DfgvYI24benhxvplchNa5iDgcbwFqv1Os&sa=X&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQxKsJegQIExAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pie+open+now&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dDN8jhNAzW9qMJvnEAK4JR-9wQOfdULOq-vR6J_nmbEdwknh_--aJ6KxxB15-GObCTjmsVZYG-3_r-HMa6uP3SK2-lbcsoAZokjtOVtqmDKwH8UFjzfx2YzRe45DfgvYI24benhxvplchNa5iDgcbwFqv1Os"
+    },
+    {
+      "name": "Near me",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7daGtYstpXpxPF1kru9OHbjmAfPOkJy3Jxk6YVsnqkWHlNN0j_VcnLj7-Vyvd-yY__ifr5PQHmGELYcrLzibmsXJipNlpGXloDTYg3etIigJkZBnLG6nk01pNS0y6kvB8lTjhpUg",
+        "q": "Pie near me"
+      },
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Pie+near+me&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7daGtYstpXpxPF1kru9OHbjmAfPOkJy3Jxk6YVsnqkWHlNN0j_VcnLj7-Vyvd-yY__ifr5PQHmGELYcrLzibmsXJipNlpGXloDTYg3etIigJkZBnLG6nk01pNS0y6kvB8lTjhpUg&sa=X&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQxKsJegQIDhAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pie+near+me&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7daGtYstpXpxPF1kru9OHbjmAfPOkJy3Jxk6YVsnqkWHlNN0j_VcnLj7-Vyvd-yY__ifr5PQHmGELYcrLzibmsXJipNlpGXloDTYg3etIigJkZBnLG6nk01pNS0y6kvB8lTjhpUg"
+    },
+    {
+      "name": "Drawing",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7daGtYstpXpxPF1kru9OHbjjid46fu2JMgvAyPADtQdBtw2IJSos0RIB8lMccBpbSzlhEVgHTwFvdLIzQv4fBocifVCe2u85pTvOmKgIrYT2F44Gcr_bHpogFFtxez3GrY-NSO3w",
+        "q": "Pie drawing"
+      },
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Pie+drawing&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7daGtYstpXpxPF1kru9OHbjjid46fu2JMgvAyPADtQdBtw2IJSos0RIB8lMccBpbSzlhEVgHTwFvdLIzQv4fBocifVCe2u85pTvOmKgIrYT2F44Gcr_bHpogFFtxez3GrY-NSO3w&sa=X&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQxKsJegQIDBAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pie+drawing&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7daGtYstpXpxPF1kru9OHbjjid46fu2JMgvAyPADtQdBtw2IJSos0RIB8lMccBpbSzlhEVgHTwFvdLIzQv4fBocifVCe2u85pTvOmKgIrYT2F44Gcr_bHpogFFtxez3GrY-NSO3w"
+    },
+    {
+      "name": "Vibe",
+      "options": [
+        {
+          "name": "Any vibe"
+        },
+        {
+          "name": "Casual",
+          "parameters": {
+            "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dMh53n2rbz9p2GPa63Wv6D8eyfyG9Ke8oH8NrR7zsSL6HLe9bUbJHgvHwyvhzdk_Bz3ciBHdnD21S7HqEKr_P1h-I5sj52Uj1Uru1L06z5dSNchiYadQo8BO_B7oulApbCxRoz3CL1p9cREUiQHByIUClY10c3Dj0ojnFIfitw-JFsJ7FbXc7FSy3bEZgBVvQu_gc7VAi7S15G8igKgwXF9PCoxifaBcG75omn_rjYfVsNIl8Gh2enki_j6j2RVKfsJO1lpSaUkq1isLOlPYxDCNG3t1sWiKQu_mtMdgCv-_PrUxguKg-GjPCK1ca9mxBQQ1sDvvLpJ0ySV6JCwooYmk3l8s3z_WdGu00bGStS7V1-jutejowZGki5te0tFoTXStKcmS0o4rewDaXPtXR0IrULjg",
+            "q": "casual pie"
+          },
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=casual+pie&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dMh53n2rbz9p2GPa63Wv6D8eyfyG9Ke8oH8NrR7zsSL6HLe9bUbJHgvHwyvhzdk_Bz3ciBHdnD21S7HqEKr_P1h-I5sj52Uj1Uru1L06z5dSNchiYadQo8BO_B7oulApbCxRoz3CL1p9cREUiQHByIUClY10c3Dj0ojnFIfitw-JFsJ7FbXc7FSy3bEZgBVvQu_gc7VAi7S15G8igKgwXF9PCoxifaBcG75omn_rjYfVsNIl8Gh2enki_j6j2RVKfsJO1lpSaUkq1isLOlPYxDCNG3t1sWiKQu_mtMdgCv-_PrUxguKg-GjPCK1ca9mxBQQ1sDvvLpJ0ySV6JCwooYmk3l8s3z_WdGu00bGStS7V1-jutejowZGki5te0tFoTXStKcmS0o4rewDaXPtXR0IrULjg&sa=X&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQkbEKegQIbRAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=casual+pie&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dMh53n2rbz9p2GPa63Wv6D8eyfyG9Ke8oH8NrR7zsSL6HLe9bUbJHgvHwyvhzdk_Bz3ciBHdnD21S7HqEKr_P1h-I5sj52Uj1Uru1L06z5dSNchiYadQo8BO_B7oulApbCxRoz3CL1p9cREUiQHByIUClY10c3Dj0ojnFIfitw-JFsJ7FbXc7FSy3bEZgBVvQu_gc7VAi7S15G8igKgwXF9PCoxifaBcG75omn_rjYfVsNIl8Gh2enki_j6j2RVKfsJO1lpSaUkq1isLOlPYxDCNG3t1sWiKQu_mtMdgCv-_PrUxguKg-GjPCK1ca9mxBQQ1sDvvLpJ0ySV6JCwooYmk3l8s3z_WdGu00bGStS7V1-jutejowZGki5te0tFoTXStKcmS0o4rewDaXPtXR0IrULjg"
+        },
+        {
+          "name": "Cozy",
+          "parameters": {
+            "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7doO_wUkjKSPvQHe8AxGtRTWIz7nfRNvZctZuXgT27jeXgdiXNr9HMRwDWO_XbHF27ZeyQSKUPdwCQWQRY5w3TJrdbxMe33lDREYtWPO4UvjovtI9s8t3d-WPdKthd_mVpj0_r6dws_FpYLH5rF742HJmYKDiwV_zcVRBL38MRntV3Cb7Qaq4lOirygPnMVISZ0u70TI2_RN4Xly1zSU9ACmLm6QRcJvEk8nh5vlDKIOochOgV9EgrBDALBm9FB2ljvh50c-Uqsoc9TbGtW4xRxtnDEYFy2EjtXVQi-XCsycvCNcrNg32dy2t4k27KfL93nGJSiJlAjT_1npqP4p-Sualr4K_4nhjzM_KmKR6Ua7ZPtRk50lpGPOvVSD6oshJN1EDRrhseOB32xTqeKYynPzhNehM",
+            "q": "cozy pie"
+          },
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=cozy+pie&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7doO_wUkjKSPvQHe8AxGtRTWIz7nfRNvZctZuXgT27jeXgdiXNr9HMRwDWO_XbHF27ZeyQSKUPdwCQWQRY5w3TJrdbxMe33lDREYtWPO4UvjovtI9s8t3d-WPdKthd_mVpj0_r6dws_FpYLH5rF742HJmYKDiwV_zcVRBL38MRntV3Cb7Qaq4lOirygPnMVISZ0u70TI2_RN4Xly1zSU9ACmLm6QRcJvEk8nh5vlDKIOochOgV9EgrBDALBm9FB2ljvh50c-Uqsoc9TbGtW4xRxtnDEYFy2EjtXVQi-XCsycvCNcrNg32dy2t4k27KfL93nGJSiJlAjT_1npqP4p-Sualr4K_4nhjzM_KmKR6Ua7ZPtRk50lpGPOvVSD6oshJN1EDRrhseOB32xTqeKYynPzhNehM&sa=X&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQkbEKegQIbRAF",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=cozy+pie&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7doO_wUkjKSPvQHe8AxGtRTWIz7nfRNvZctZuXgT27jeXgdiXNr9HMRwDWO_XbHF27ZeyQSKUPdwCQWQRY5w3TJrdbxMe33lDREYtWPO4UvjovtI9s8t3d-WPdKthd_mVpj0_r6dws_FpYLH5rF742HJmYKDiwV_zcVRBL38MRntV3Cb7Qaq4lOirygPnMVISZ0u70TI2_RN4Xly1zSU9ACmLm6QRcJvEk8nh5vlDKIOochOgV9EgrBDALBm9FB2ljvh50c-Uqsoc9TbGtW4xRxtnDEYFy2EjtXVQi-XCsycvCNcrNg32dy2t4k27KfL93nGJSiJlAjT_1npqP4p-Sualr4K_4nhjzM_KmKR6Ua7ZPtRk50lpGPOvVSD6oshJN1EDRrhseOB32xTqeKYynPzhNehM"
+        },
+        {
+          "name": "Trendy",
+          "parameters": {
+            "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dMh53n2rbz9p2GPa63Wv6D4L64LKVFOKjy7S-zHaAy_F7lj1wuS0UtpuavZvj0bcloLTDz3N_hO7AmI8xPgpKAOYwLHZWNZNEUw2ty2GPPE6sv7jMPKWKQfN7c3nDBbBUycv31zQeJDOabOuHM1eWNqkFZPhJ7BVK1j4ffCxMugV9jmKXYvPok5D0W7tiiX25PTyJq1LJopFaiPG6fyvL8PLnCqUAEkUFE2faHdhbaX7FaUKVCWskSkBZvZLx0wSj6sHcfscJ0sHHcLPNcpnvG9pLuDoTI-Qw3hEhKs6KkEJuIN0K6mAD5d4YDMFj2tnkQ4yHKWlLSGNtq6PBPlNSPYgZC42StmyV0zdw_vG6BVMddt_QxKQk1Jl87FiXhicFty2_AcNfP3OSjdEgwcGrEp4HIG0",
+            "q": "trendy pie"
+          },
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=trendy+pie&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dMh53n2rbz9p2GPa63Wv6D4L64LKVFOKjy7S-zHaAy_F7lj1wuS0UtpuavZvj0bcloLTDz3N_hO7AmI8xPgpKAOYwLHZWNZNEUw2ty2GPPE6sv7jMPKWKQfN7c3nDBbBUycv31zQeJDOabOuHM1eWNqkFZPhJ7BVK1j4ffCxMugV9jmKXYvPok5D0W7tiiX25PTyJq1LJopFaiPG6fyvL8PLnCqUAEkUFE2faHdhbaX7FaUKVCWskSkBZvZLx0wSj6sHcfscJ0sHHcLPNcpnvG9pLuDoTI-Qw3hEhKs6KkEJuIN0K6mAD5d4YDMFj2tnkQ4yHKWlLSGNtq6PBPlNSPYgZC42StmyV0zdw_vG6BVMddt_QxKQk1Jl87FiXhicFty2_AcNfP3OSjdEgwcGrEp4HIG0&sa=X&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQkbEKegQIbRAG",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=trendy+pie&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dMh53n2rbz9p2GPa63Wv6D4L64LKVFOKjy7S-zHaAy_F7lj1wuS0UtpuavZvj0bcloLTDz3N_hO7AmI8xPgpKAOYwLHZWNZNEUw2ty2GPPE6sv7jMPKWKQfN7c3nDBbBUycv31zQeJDOabOuHM1eWNqkFZPhJ7BVK1j4ffCxMugV9jmKXYvPok5D0W7tiiX25PTyJq1LJopFaiPG6fyvL8PLnCqUAEkUFE2faHdhbaX7FaUKVCWskSkBZvZLx0wSj6sHcfscJ0sHHcLPNcpnvG9pLuDoTI-Qw3hEhKs6KkEJuIN0K6mAD5d4YDMFj2tnkQ4yHKWlLSGNtq6PBPlNSPYgZC42StmyV0zdw_vG6BVMddt_QxKQk1Jl87FiXhicFty2_AcNfP3OSjdEgwcGrEp4HIG0"
+        },
+        {
+          "name": "Romantic",
+          "parameters": {
+            "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dDYSPlMC9UqxsmZA8Yk5W6VxkggQnXBwD0qNgqN6CBDw6Tb3Xbqk5BPcs0Trd5UwtS0dm8hCKWw7BO683X4R7tiHX391PbOy48OkCNZoxolAJE4yT3Vpus7yEX_d2O4e2NqYv8OiKIejM2GB1RsZ5iuvHHKQHRUzvWZ3NJENIsPqRzq334_MUhypGkSmckqy48VdlGCLFZO4Ri1Rt6zlTD-ClhecVHQQsD1g86FTgbJsE_JFLPWS0u0Kc9E8IvAPMQivZtCHdQjH4CT3uvjyWJzkAdftrrfcED2vlyMeByvbXlY0BMEU87Kkd7NELvonuNO42d95usqRBJ0HZqz3pNpIFiop-SxI-JHWWKDGrBszeuXNY6yI3O6u4WEjA16EX-fH0yVlAkvE0yjvkWhV-8dk7gs8",
+            "q": "romantic pie"
+          },
+          "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=romantic+pie&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dDYSPlMC9UqxsmZA8Yk5W6VxkggQnXBwD0qNgqN6CBDw6Tb3Xbqk5BPcs0Trd5UwtS0dm8hCKWw7BO683X4R7tiHX391PbOy48OkCNZoxolAJE4yT3Vpus7yEX_d2O4e2NqYv8OiKIejM2GB1RsZ5iuvHHKQHRUzvWZ3NJENIsPqRzq334_MUhypGkSmckqy48VdlGCLFZO4Ri1Rt6zlTD-ClhecVHQQsD1g86FTgbJsE_JFLPWS0u0Kc9E8IvAPMQivZtCHdQjH4CT3uvjyWJzkAdftrrfcED2vlyMeByvbXlY0BMEU87Kkd7NELvonuNO42d95usqRBJ0HZqz3pNpIFiop-SxI-JHWWKDGrBszeuXNY6yI3O6u4WEjA16EX-fH0yVlAkvE0yjvkWhV-8dk7gs8&sa=X&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQkbEKegQIbRAH",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=romantic+pie&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dDYSPlMC9UqxsmZA8Yk5W6VxkggQnXBwD0qNgqN6CBDw6Tb3Xbqk5BPcs0Trd5UwtS0dm8hCKWw7BO683X4R7tiHX391PbOy48OkCNZoxolAJE4yT3Vpus7yEX_d2O4e2NqYv8OiKIejM2GB1RsZ5iuvHHKQHRUzvWZ3NJENIsPqRzq334_MUhypGkSmckqy48VdlGCLFZO4Ri1Rt6zlTD-ClhecVHQQsD1g86FTgbJsE_JFLPWS0u0Kc9E8IvAPMQivZtCHdQjH4CT3uvjyWJzkAdftrrfcED2vlyMeByvbXlY0BMEU87Kkd7NELvonuNO42d95usqRBJ0HZqz3pNpIFiop-SxI-JHWWKDGrBszeuXNY6yI3O6u4WEjA16EX-fH0yVlAkvE0yjvkWhV-8dk7gs8"
+        }
+      ]
+    },
+    {
+      "name": "Pronunciation",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGYs_sqw_8OOWb2SeZOT_4fGefiez4nTET3DOfvaAJJajvRcOV7dcQyKNQaL-dh6V-P90J1IP3DpXZ_CdsUtC2jMd3ZzzTNzBswgLo2fn3FSPWnDJ2myfPeSsbFCjV-xxviGjNvQ",
+        "q": "Pie pronunciation"
+      },
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Pie+pronunciation&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGYs_sqw_8OOWb2SeZOT_4fGefiez4nTET3DOfvaAJJajvRcOV7dcQyKNQaL-dh6V-P90J1IP3DpXZ_CdsUtC2jMd3ZzzTNzBswgLo2fn3FSPWnDJ2myfPeSsbFCjV-xxviGjNvQ&sa=X&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQxKsJegQIZBAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pie+pronunciation&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGYs_sqw_8OOWb2SeZOT_4fGefiez4nTET3DOfvaAJJajvRcOV7dcQyKNQaL-dh6V-P90J1IP3DpXZ_CdsUtC2jMd3ZzzTNzBswgLo2fn3FSPWnDJ2myfPeSsbFCjV-xxviGjNvQ"
+    },
+    {
+      "name": "Within 5 mi",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dsn0TD44p2051LbyCfsr2lu6dr9_mZt5ES4qPbzzlo5symiJb1nr6hPEO-XN7yJxudGWrwjIjUmfIMqX6aiUwNtSCjiQSSnBMAf9HHpc7SigptY4p1B3nHnfVRCYT5unREWSRRa6gJYIlIhafnjTx64zTVPQ",
+        "q": "pie within 5 mi"
+      },
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=pie+within+5+mi&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dsn0TD44p2051LbyCfsr2lu6dr9_mZt5ES4qPbzzlo5symiJb1nr6hPEO-XN7yJxudGWrwjIjUmfIMqX6aiUwNtSCjiQSSnBMAf9HHpc7SigptY4p1B3nHnfVRCYT5unREWSRRa6gJYIlIhafnjTx64zTVPQ&sa=X&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQxKsJegQIYhAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pie+within+5+mi&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dsn0TD44p2051LbyCfsr2lu6dr9_mZt5ES4qPbzzlo5symiJb1nr6hPEO-XN7yJxudGWrwjIjUmfIMqX6aiUwNtSCjiQSSnBMAf9HHpc7SigptY4p1B3nHnfVRCYT5unREWSRRa6gJYIlIhafnjTx64zTVPQ"
+    },
+    {
+      "name": "Beer",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d4zGKWJJ-nx3sMnUBYbqQWmp3iXdO4BN-_04WeASPGxsTc3O14rM2dPUnW22w9TC0uf-aW4E-fKaeRkpOqmJZUrEO8wOyoBl2eVHnmrt7p_eTigVnMXtRZnteTG1MgKSnpHfKE6l2UNP9hrdyN2LGEaxRQvpA0YGJrcqVP-C70LeNvEjam40cbvbM6VmoUHwbaYmZfw",
+        "q": "beer pie"
+      },
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=beer+pie&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d4zGKWJJ-nx3sMnUBYbqQWmp3iXdO4BN-_04WeASPGxsTc3O14rM2dPUnW22w9TC0uf-aW4E-fKaeRkpOqmJZUrEO8wOyoBl2eVHnmrt7p_eTigVnMXtRZnteTG1MgKSnpHfKE6l2UNP9hrdyN2LGEaxRQvpA0YGJrcqVP-C70LeNvEjam40cbvbM6VmoUHwbaYmZfw&sa=X&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQxKsJegQIYxAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beer+pie&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d4zGKWJJ-nx3sMnUBYbqQWmp3iXdO4BN-_04WeASPGxsTc3O14rM2dPUnW22w9TC0uf-aW4E-fKaeRkpOqmJZUrEO8wOyoBl2eVHnmrt7p_eTigVnMXtRZnteTG1MgKSnpHfKE6l2UNP9hrdyN2LGEaxRQvpA0YGJrcqVP-C70LeNvEjam40cbvbM6VmoUHwbaYmZfw"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=pie&udm=2&source=univ&fir=rmSZI5Jyeend3M%252CAem4K5o6xdjnIM%252C_%253BmNZMp2acCHq7lM%252C8XCNMFUd2O3wsM%252C_%253Bb76N5o2YReArIM%252CtcPm1-Knim863M%252C_%253BBO3hLFUHjHY9sM%252C1xl3v32teZqlkM%252C_%253BlKCanzSfTIh3KM%252CVqaCqNXxnwaf-M%252C_%253Blnp8IojU7SaOqM%252CGDJcJXoKLXESbM%252C_%253BKaVN6bob15sIzM%252C6yf28gclQ5FYYM%252C_%253BG1kxCPUSEXzPPM%252Cs645Z3FDABf6nM%252C_%253BaEZeA4Ho2SNvjM%252CbfAFqCZsm9DU5M%252C_&usg=AI4_-kTvvFr5-KXavQiR9hB6cBxEW5dQDA&sa=X&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQ7Al6BAgLEAY",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pie",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Pie recipe",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Pie+recipe&sa=X&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQ1QJ6BAhZEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pie+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "List of pies",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=List+of+pies&sa=X&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=List+of+pies"
+    },
+    {
+      "block_position": 1,
+      "query": "Meat pie",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Meat+pie&sa=X&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQ1QJ6BAheEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Meat+pie"
+    },
+    {
+      "block_position": 1,
+      "query": "Pie chart",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Pie+chart&sa=X&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pie+chart"
+    },
+    {
+      "block_position": 1,
+      "query": "Pie drawing",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Pie+drawing&sa=X&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQ1QJ6BAhdEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pie+drawing"
+    },
+    {
+      "block_position": 1,
+      "query": "Apple pie",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Apple+pie&sa=X&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQ1QJ6BAhbEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Apple+pie"
+    },
+    {
+      "block_position": 1,
+      "query": "Pie cartoon",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Pie+cartoon&sa=X&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQ1QJ6BAhYEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pie+cartoon"
+    },
+    {
+      "block_position": 1,
+      "query": "Pie clipart",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Pie+clipart&sa=X&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQ1QJ6BAhfEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pie+clipart"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=pie&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=bzAKZ_TuHLW15NoP3siD2AU&start=10&sa=N&sstk=Aagrsui4IYwnevqG-jdvI0-NIzLD3XyIYddKc1dyTvu10JUs6zegycqd8K2G9lO7wxebnoWMeYwQZi2wJ3T1mxqeSj6puEFvneSSJg&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQ8NMDegQIBRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=pie&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=bzAKZ_TuHLW15NoP3siD2AU&start=10&sa=N&sstk=Aagrsui4IYwnevqG-jdvI0-NIzLD3XyIYddKc1dyTvu10JUs6zegycqd8K2G9lO7wxebnoWMeYwQZi2wJ3T1mxqeSj6puEFvneSSJg&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQ8tMDegQIBRAE",
+      "3": "https://www.google.com/search?q=pie&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=bzAKZ_TuHLW15NoP3siD2AU&start=20&sa=N&sstk=Aagrsui4IYwnevqG-jdvI0-NIzLD3XyIYddKc1dyTvu10JUs6zegycqd8K2G9lO7wxebnoWMeYwQZi2wJ3T1mxqeSj6puEFvneSSJg&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQ8tMDegQIBRAG",
+      "4": "https://www.google.com/search?q=pie&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=bzAKZ_TuHLW15NoP3siD2AU&start=30&sa=N&sstk=Aagrsui4IYwnevqG-jdvI0-NIzLD3XyIYddKc1dyTvu10JUs6zegycqd8K2G9lO7wxebnoWMeYwQZi2wJ3T1mxqeSj6puEFvneSSJg&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQ8tMDegQIBRAI",
+      "5": "https://www.google.com/search?q=pie&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=bzAKZ_TuHLW15NoP3siD2AU&start=40&sa=N&sstk=Aagrsui4IYwnevqG-jdvI0-NIzLD3XyIYddKc1dyTvu10JUs6zegycqd8K2G9lO7wxebnoWMeYwQZi2wJ3T1mxqeSj6puEFvneSSJg&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQ8tMDegQIBRAK",
+      "6": "https://www.google.com/search?q=pie&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=bzAKZ_TuHLW15NoP3siD2AU&start=50&sa=N&sstk=Aagrsui4IYwnevqG-jdvI0-NIzLD3XyIYddKc1dyTvu10JUs6zegycqd8K2G9lO7wxebnoWMeYwQZi2wJ3T1mxqeSj6puEFvneSSJg&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQ8tMDegQIBRAM",
+      "7": "https://www.google.com/search?q=pie&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=bzAKZ_TuHLW15NoP3siD2AU&start=60&sa=N&sstk=Aagrsui4IYwnevqG-jdvI0-NIzLD3XyIYddKc1dyTvu10JUs6zegycqd8K2G9lO7wxebnoWMeYwQZi2wJ3T1mxqeSj6puEFvneSSJg&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQ8tMDegQIBRAO",
+      "8": "https://www.google.com/search?q=pie&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=bzAKZ_TuHLW15NoP3siD2AU&start=70&sa=N&sstk=Aagrsui4IYwnevqG-jdvI0-NIzLD3XyIYddKc1dyTvu10JUs6zegycqd8K2G9lO7wxebnoWMeYwQZi2wJ3T1mxqeSj6puEFvneSSJg&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQ8tMDegQIBRAQ",
+      "9": "https://www.google.com/search?q=pie&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=bzAKZ_TuHLW15NoP3siD2AU&start=80&sa=N&sstk=Aagrsui4IYwnevqG-jdvI0-NIzLD3XyIYddKc1dyTvu10JUs6zegycqd8K2G9lO7wxebnoWMeYwQZi2wJ3T1mxqeSj6puEFvneSSJg&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQ8tMDegQIBRAS",
+      "10": "https://www.google.com/search?q=pie&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=bzAKZ_TuHLW15NoP3siD2AU&start=90&sa=N&sstk=Aagrsui4IYwnevqG-jdvI0-NIzLD3XyIYddKc1dyTvu10JUs6zegycqd8K2G9lO7wxebnoWMeYwQZi2wJ3T1mxqeSj6puEFvneSSJg&ved=2ahUKEwi04sPMs4iJAxW1GlkFHV7kAFsQ8tMDegQIBRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pie&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pie&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pie&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pie&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pie&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pie&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pie&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pie&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pie&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pie&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pie&start=90"
+    }
+  }
+}

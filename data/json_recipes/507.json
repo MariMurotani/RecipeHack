@@ -1,0 +1,538 @@
+{
+  "search_metadata": {
+    "id": "670a2cf0dc969f3677101876",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/35f6a345c704a9ca/670a2cf0dc969f3677101876.json",
+    "created_at": "2024-10-12 08:01:52 UTC",
+    "processed_at": "2024-10-12 08:01:52 UTC",
+    "google_url": "https://www.google.com/search?q=beaver&oq=beaver&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/35f6a345c704a9ca/670a2cf0dc969f3677101876.html",
+    "total_time_taken": 1.69
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "beaver",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "beaver",
+    "total_results": 284000000,
+    "time_taken_displayed": 0.55,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "title": "Beaver",
+    "type": "Rodents",
+    "entity_type": "biology, animal",
+    "main_tab_text": "Overview",
+    "kgmid": "/m/01dw9",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/01dw9&hl=en-US&q=Beaver&shndl=17&source=sh/x/kp/osrp/m5/1",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F01dw9&location=Austin%2CTexas%2CUnited+States&q=Beaver",
+    "tabs": [
+      {
+        "text": "Diet",
+        "si": "ACC90nzF7EHxqzwbgEt1v0ESy9CJkc0hAl8ev7VBij5b-okPLMrM_2SE_-JkzWKo_-QD1b2H88rPWE5gGJdg8h9yarf1G7oEZG9HLT-PxWhdsIbc7QQWA7o=",
+        "link": "https://www.google.com/search?si=ACC90nzF7EHxqzwbgEt1v0ESy9CJkc0hAl8ev7VBij5b-okPLMrM_2SE_-JkzWKo_-QD1b2H88rPWE5gGJdg8h9yarf1G7oEZG9HLT-PxWhdsIbc7QQWA7o=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beaver&si=ACC90nzF7EHxqzwbgEt1v0ESy9CJkc0hAl8ev7VBij5b-okPLMrM_2SE_-JkzWKo_-QD1b2H88rPWE5gGJdg8h9yarf1G7oEZG9HLT-PxWhdsIbc7QQWA7o%3D"
+      },
+      {
+        "text": "Habitat",
+        "si": "ACC90nzMjDoCuLaQR-UYA1hzeicysYba3J3UfKN9jSRTtDeiT7XmKuwmDjkydTZGDOi6KxnZVkRyD6wXJdVPwsfumpLH_rVeUErPlEXd1fJs484vzkRxgzI=",
+        "link": "https://www.google.com/search?si=ACC90nzMjDoCuLaQR-UYA1hzeicysYba3J3UfKN9jSRTtDeiT7XmKuwmDjkydTZGDOi6KxnZVkRyD6wXJdVPwsfumpLH_rVeUErPlEXd1fJs484vzkRxgzI=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beaver&si=ACC90nzMjDoCuLaQR-UYA1hzeicysYba3J3UfKN9jSRTtDeiT7XmKuwmDjkydTZGDOi6KxnZVkRyD6wXJdVPwsfumpLH_rVeUErPlEXd1fJs484vzkRxgzI%3D"
+      },
+      {
+        "text": "Sounds",
+        "si": "ACC90nyppaBKaZxtSRyOPKHUA22LIjQ7vgHYjO65hn2ilQyhjUD-85hO0WOq09x_9AYGlWmPkiC_sFC8whz4F_YC4pJsOrT8EN74ZoJFsje5i9fnJ1NM54g=",
+        "link": "https://www.google.com/search?si=ACC90nyppaBKaZxtSRyOPKHUA22LIjQ7vgHYjO65hn2ilQyhjUD-85hO0WOq09x_9AYGlWmPkiC_sFC8whz4F_YC4pJsOrT8EN74ZoJFsje5i9fnJ1NM54g=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beaver&si=ACC90nyppaBKaZxtSRyOPKHUA22LIjQ7vgHYjO65hn2ilQyhjUD-85hO0WOq09x_9AYGlWmPkiC_sFC8whz4F_YC4pJsOrT8EN74ZoJFsje5i9fnJ1NM54g%3D"
+      },
+      {
+        "text": "Predators",
+        "si": "ACC90nxr_FFDxy-yy7b-WUnModj_8jKnIuna6CZts21vWqd9Ds0gQzWRclx1nQqH3h3_bRUNitJXZ-nMDRcKxPUrAV-9jY0VQq8rxxZVRkS_Y1A3U5lmTu0=",
+        "link": "https://www.google.com/search?si=ACC90nxr_FFDxy-yy7b-WUnModj_8jKnIuna6CZts21vWqd9Ds0gQzWRclx1nQqH3h3_bRUNitJXZ-nMDRcKxPUrAV-9jY0VQq8rxxZVRkS_Y1A3U5lmTu0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beaver&si=ACC90nxr_FFDxy-yy7b-WUnModj_8jKnIuna6CZts21vWqd9Ds0gQzWRclx1nQqH3h3_bRUNitJXZ-nMDRcKxPUrAV-9jY0VQq8rxxZVRkS_Y1A3U5lmTu0%3D"
+      },
+      {
+        "text": "Lifespan",
+        "si": "ACC90nwzeB7ut2_qHCNVxNDQr84ZZylV76kE9THxeq3M6FlCnTyqM28cEdbUuxbl1vxWS53WMG52tCDr45ygpuYzKURZwN0BSCy9vyxdsKTRYvTEp88aVOY2rHHrmAszwMRwwV1W10nR",
+        "link": "https://www.google.com/search?si=ACC90nwzeB7ut2_qHCNVxNDQr84ZZylV76kE9THxeq3M6FlCnTyqM28cEdbUuxbl1vxWS53WMG52tCDr45ygpuYzKURZwN0BSCy9vyxdsKTRYvTEp88aVOY2rHHrmAszwMRwwV1W10nR",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beaver&si=ACC90nwzeB7ut2_qHCNVxNDQr84ZZylV76kE9THxeq3M6FlCnTyqM28cEdbUuxbl1vxWS53WMG52tCDr45ygpuYzKURZwN0BSCy9vyxdsKTRYvTEp88aVOY2rHHrmAszwMRwwV1W10nR"
+      },
+      {
+        "text": "Lower classifications",
+        "si": "ACC90nw9u7Ejwdz41Ixemr1dIq2MJR4S5ABpLtfilW6cqNvFdtF4S8JbiIjZ9aUTUcpY5eWRGveNcxzO5D_L1t7nrJ3lASmMcg18mCL_1RmbSgJPtDd7FTg4hL25VbWLp9JfMT167F-1WCAaxof0AxCTmjT7E-fhtwJvR8EyA73a1SC8H9JFxls=",
+        "link": "https://www.google.com/search?si=ACC90nw9u7Ejwdz41Ixemr1dIq2MJR4S5ABpLtfilW6cqNvFdtF4S8JbiIjZ9aUTUcpY5eWRGveNcxzO5D_L1t7nrJ3lASmMcg18mCL_1RmbSgJPtDd7FTg4hL25VbWLp9JfMT167F-1WCAaxof0AxCTmjT7E-fhtwJvR8EyA73a1SC8H9JFxls=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beaver&si=ACC90nw9u7Ejwdz41Ixemr1dIq2MJR4S5ABpLtfilW6cqNvFdtF4S8JbiIjZ9aUTUcpY5eWRGveNcxzO5D_L1t7nrJ3lASmMcg18mCL_1RmbSgJPtDd7FTg4hL25VbWLp9JfMT167F-1WCAaxof0AxCTmjT7E-fhtwJvR8EyA73a1SC8H9JFxls%3D"
+      }
+    ],
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2cf0dc969f3677101876/images/881c1480abd062c5c9cb4febc315e34ce579610e1adddfcd747e62e605432a21c82eebbe2f1d280d.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2cf0dc969f3677101876/images/881c1480abd062c5c9cb4febc315e34ce579610e1adddfcd380e952c660509d6dffa0cb88077ad48.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2cf0dc969f3677101876/images/881c1480abd062c5c9cb4febc315e34ce579610e1adddfcd27eba9937d71f6be966d3291e4fbf8e1.webp"
+      }
+    ],
+    "description": "Beavers are large, semiaquatic rodents of the Northern Hemisphere. There are two existing species: the North American beaver and the Eurasian beaver. Beavers are the second-largest living rodents, after capybaras, weighing up to 50 kg.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Beaver"
+    },
+    "family": "Castoridae",
+    "subfamily": "Castorinae",
+    "scientific_name": "Castor",
+    "eaten_by": "Wolf",
+    "eaten_by_links": [
+      {
+        "text": "Wolf",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Wolf&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm9YHMbbz5c0faFq1lI8b-Rq_Sfs59u2WleidPEqkpwgxUkvZSbJxj13kYGAcYBpQdmL5zb3b4pSJOmFgGJtVBXSnIc05sOCMKmqDDzjGrssVN3XGqbrFgBhGcaBPbA_CU1afXGFWaFmpNZsJB2bB0GQTmSHV&sa=X&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQmxMoAHoECBoQAg"
+      }
+    ],
+    "term_for_young": "kit, kitten, pup Wikimedia Foundation",
+    "term_for_young_links": [
+      {
+        "text": "Wikimedia Foundation",
+        "link": "https://en.wikipedia.org/wiki/List_of_animal_names"
+      }
+    ],
+    "class": "Mammalia",
+    "web_results": [
+      {
+        "thumbnail": "https://serpapi.com/searches/670a2cf0dc969f3677101876/images/881c1480abd062c5c9cb4febc315e34c0c0c3628c09240667079908625a4efc4c5a9d3e1ef1052c1.jpeg",
+        "title": "Nibi the beaver in Massachusetts is saved from release ... - NPR",
+        "snippet": "For the past several weeks, the beloved beaver has been embroiled in a court battle over whether she should return to the wild or stay at ...",
+        "link": "https://www.npr.org/2024/10/04/nx-s1-5140582/nibi-beaver-massachusetts-govern-newhouse-wildlife"
+      },
+      {
+        "title": "Extinction status",
+        "snippet": "Not extinct",
+        "source": "Encyclopedia of Life",
+        "link": "http://eol.org/"
+      },
+      {
+        "title": "Term for young",
+        "snippet": "kit, kitten, pup",
+        "source": "Wikimedia Foundation",
+        "link": "https://en.wikipedia.org/wiki/List_of_animal_names"
+      },
+      {
+        "thumbnail": "https://serpapi.com/searches/670a2cf0dc969f3677101876/images/881c1480abd062c5c9cb4febc315e34c0c0c3628c092406654ce7aa09de13a6b04d32517dcf8376e.jpeg",
+        "title": "Beaver sounds like human baby",
+        "source": "YouTube \u2022 GeoBeats Animals",
+        "source_image": "https://serpapi.com/searches/670a2cf0dc969f3677101876/images/881c1480abd062c5c9cb4febc315e34c0c0c3628c0924066f06dfafc7103597ebe078ef9d6e8491e70c74bec161d9b56.png",
+        "link": "https://www.youtube.com/watch?v=k7b5baZycjg",
+        "duration": "3:33"
+      }
+    ],
+    "lower_classifications": [
+      {
+        "name": "Eurasian beaver",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Eurasian+beaver&stick=H4sIAAAAAAAAAONgFuLQz9U3MEwpt1TiBLGMc02MTLQss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7Hyu5YWJRZnJuYpJKUmlqUW7WBlBABF3JAyZwAAAA&sa=X&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQgOQBegQIXxAG",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Eurasian+beaver&stick=H4sIAAAAAAAAAONgFuLQz9U3MEwpt1TiBLGMc02MTLQss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7Hyu5YWJRZnJuYpJKUmlqUW7WBlBABF3JAyZwAAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVxkSyoIbGv_8QTPAHFZYyzpH_Qn4WI_PhHt8ZsPiPVgZtQ2DwkPw95ss&s=0"
+      },
+      {
+        "name": "American beaver",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=American+beaver&stick=H4sIAAAAAAAAAONgFuLQz9U3MEwpt1TiBLFMCooNjbQss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7HyO-amFgG5eQpJqYllqUU7WBkBy_ClrmcAAAA&sa=X&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQgOQBegQIXxAM",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=American+beaver&stick=H4sIAAAAAAAAAONgFuLQz9U3MEwpt1TiBLFMCooNjbQss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7HyO-amFgG5eQpJqYllqUU7WBkBy_ClrmcAAAA",
+        "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTD2bfuamOBVULrGmWAkjyNk3i_3gsyLnZGSbGX9WdNJhS5FTV27XxoUf3LHLEpnX-yju_jmeMsDIg&s=19"
+      }
+    ]
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Beaver sounds like human baby",
+      "link": "https://www.youtube.com/watch?v=k7b5baZycjg",
+      "thumbnail": "https://i.ytimg.com/vi/k7b5baZycjg/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kKtgmEtUzDUiKCA3tCtfcsYM4lTw",
+      "channel": "GeoBeats Animals",
+      "duration": "3:33",
+      "platform": "YouTube",
+      "date": "Jun 7, 2024"
+    },
+    {
+      "position": 2,
+      "title": "Beavers: Understanding their biology",
+      "link": "https://www.youtube.com/watch?v=HJfHnsbdQe8",
+      "thumbnail": "https://i.ytimg.com/vi/HJfHnsbdQe8/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3mpuxvyenX45FDBZOZkfNbeDPetYA",
+      "channel": "Beaver Trust",
+      "duration": "4:26",
+      "platform": "YouTube",
+      "date": "Feb 26, 2024",
+      "key_moments": [
+        {
+          "time": "00:23",
+          "title": "Beaver Biology",
+          "link": "https://www.youtube.com/watch?v=HJfHnsbdQe8&t=23"
+        },
+        {
+          "time": "01:04",
+          "title": "What Beavers Eat",
+          "link": "https://www.youtube.com/watch?v=HJfHnsbdQe8&t=64"
+        },
+        {
+          "time": "03:44",
+          "title": "Family Life",
+          "link": "https://www.youtube.com/watch?v=HJfHnsbdQe8&t=224"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "Living With Beavers",
+      "link": "https://m.youtube.com/watch?v=3IkT2Tv2XI0",
+      "thumbnail": "https://i.ytimg.com/vi/3IkT2Tv2XI0/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3nFLkGPVCIrH9GGY7Mym0NfXrtzVQ",
+      "channel": "Oregon Zoo",
+      "duration": "4:01",
+      "platform": "YouTube",
+      "date": "Feb 8, 2022",
+      "key_moments": [
+        {
+          "time": "00:42",
+          "title": "Prevention",
+          "link": "https://m.youtube.com/watch?v=3IkT2Tv2XI0&t=42",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ulDqXw6VzyDOPPFCSKzEDaQen28KCaNRkjch6z0HYA&s"
+        },
+        {
+          "time": "01:04",
+          "title": "Beaver Relocation",
+          "link": "https://m.youtube.com/watch?v=3IkT2Tv2XI0&t=64",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0uWvIbTcIn89eiwtD5n8wlvouTNwtMaa793x5Th1XeQ&s"
+        },
+        {
+          "time": "02:20",
+          "title": "Release Day",
+          "link": "https://m.youtube.com/watch?v=3IkT2Tv2XI0&t=140",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUxt8L0CMzE2Ed86vqIGUjOIY_cIfxk4jVg6UKY77aeQ&s"
+        },
+        {
+          "time": "03:14",
+          "title": "Conclusion",
+          "link": "https://m.youtube.com/watch?v=3IkT2Tv2XI0&t=194",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq9YxxM32QC4UxJx3nZhT2Almn7Q2ElcfMI5PPY9KueA&s"
+        },
+        {
+          "time": "03:33",
+          "title": "Closing Remarks",
+          "link": "https://m.youtube.com/watch?v=3IkT2Tv2XI0&t=213",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY9NPRmOs5C03DCmwklFdjotQTcrPfE5HP8XlEsY6tzw&s"
+        }
+      ]
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What do beavers symbolize?",
+      "snippet": "The Beaver in Native American tradition teaches people to be productive and not limit their options. He teaches us to be persistent and to use available resources. The Beaver helps people understand the dynamics of teamwork and to appreciate each individual's talents and contributions in order to accomplish anything.",
+      "title": "The Beaver Indigenous Symbol - Spirits of the West Coast Art Gallery",
+      "link": "https://spiritsofthewestcoast.com/collections/the-beaver-symbol#:~:text=The%20Beaver%20in%20Native%20American,in%20order%20to%20accomplish%20anything.",
+      "displayed_link": "https://spiritsofthewestcoast.com \u203a collections \u203a the-beave...",
+      "source_logo": "https://serpapi.com/searches/670a2cf0dc969f3677101876/images/59776eb9f3a615bffffd4f7048bcbd422d9926db4414b20eb6e6e5738fd3126d.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmEydzFOVkEyYzJwV2NFdGhWSEpuTXpkV2FXVkJiR1Z2WVhoUVJWZEpXWFpIWTBOcGFFUmlUMUJVV1VwUVZWSlJkUzFpUzFoWk5HcERWMmsxZUhSaWQwbENSVUZURWhjNFUzZExXamhYWTBZMFYxQjNZbXRRTlUxbVRUQlJheG9pUVVaWWNrVmpieTE0V1VJMU5tYzBlbkpCUTFCYVNGOWxabUpsVVdwc1UyMWpRUSIsImZjdiI6IjMiLCJlaSI6IjhTd0taOFdjRjRXUHdia1A1TWZNMFFrIiwicWMiOiJDZ1ppWldGMlpYSVFBSDFtMURVXyIsInF1ZXN0aW9uIjoiV2hhdCBkbyBiZWF2ZXJzIHN5bWJvbGl6ZT8iLCJsayI6IkdobDNhR0YwSUdSdklHSmxZWFpsY25NZ2MzbHRZbTlzYVhwbCIsImJzIjoiYy1PeTRaSUt6MGdzVVVqSlYwaEtUU3hMTFNwV0tLN01UY3JQeWF4S3RaZTRiR01rTFNWWmprc0Jsd21YdUdleGdpTlVSaUZSSVQwX1AwV2hJTFhFWHVKYmxwR1lsRWhtTWFZY1Z3aVhCZGhPb0dSSlJxcENTbVphV21wUmFsNXlLbEJ0U1hscWFoNUljVkYtYVY1S1JuNjZRbUplQ3BBUE1jVmVZcEcta2FpVU1FSzJER1lCbHgyWGRIaEdwVUppVVNyQ29ma0t4UVdweVptSk9mWVNHM1dNWktTa3luR3FFR0FFQUEiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmEydzFOVkEyYzJwV2NFdGhWSEpuTXpkV2FXVkJiR1Z2WVhoUVJWZEpXWFpIWTBOcGFFUmlUMUJVV1VwUVZWSlJkUzFpUzFoWk5HcERWMmsxZUhSaWQwbENSVUZURWhjNFUzZExXamhYWTBZMFYxQjNZbXRRTlUxbVRUQlJheG9pUVVaWWNrVmpieTE0V1VJMU5tYzBlbkpCUTFCYVNGOWxabUpsVVdwc1UyMWpRUSIsImZjdiI6IjMiLCJlaSI6IjhTd0taOFdjRjRXUHdia1A1TWZNMFFrIiwicWMiOiJDZ1ppWldGMlpYSVFBSDFtMURVXyIsInF1ZXN0aW9uIjoiV2hhdCBkbyBiZWF2ZXJzIHN5bWJvbGl6ZT8iLCJsayI6IkdobDNhR0YwSUdSdklHSmxZWFpsY25NZ2MzbHRZbTlzYVhwbCIsImJzIjoiYy1PeTRaSUt6MGdzVVVqSlYwaEtUU3hMTFNwV0tLN01UY3JQeWF4S3RaZTRiR01rTFNWWmprc0Jsd21YdUdleGdpTlVSaUZSSVQwX1AwV2hJTFhFWHVKYmxwR1lsRWhtTWFZY1Z3aVhCZGhPb0dSSlJxcENTbVphV21wUmFsNXlLbEJ0U1hscWFoNUljVkYtYVY1S1JuNjZRbUplQ3BBUE1jVmVZcEcta2FpVU1FSzJER1lCbHgyWGRIaEdwVUppVVNyQ29ma0t4UVdweVptSk9mWVNHM1dNWktTa3luR3FFR0FFQUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+    },
+    {
+      "question": "Is A beaver a good pet?",
+      "snippet": "Orphaned beavers look cute and cuddly, and the idea of raising a kit can be appealing. However, beavers make terrible pets\u2014and municipal ordinances often prohibit keeping a wild animal as a pet. Please do not attempt to raise an orphaned beaver.",
+      "title": "Beaver Factsheet '03 - St. Hubert's Animal Welfare Center",
+      "link": "https://sthuberts-edit.squarespace.com/s/Beaver_Factsheet-em23.pdf",
+      "displayed_link": "https://sthuberts-edit.squarespace.com \u203a Beaver_Factsheet...",
+      "source_logo": "https://serpapi.com/searches/670a2cf0dc969f3677101876/images/59776eb9f3a615bffffd4f7048bcbd4246e875bcef4bbc1631c1b6747b17d93f.jpeg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmEydzFOVkEyYzJwV2NFdGhWSEpuTXpkV2FXVkJiR1Z2WVhoUVJWZEpXWFpIWTBOcGFFUmlUMUJVV1VwUVZWSlJkUzFpUzFoWk5HcERWMmsxZUhSaWQwbENSVUZURWhjNFUzZExXamhYWTBZMFYxQjNZbXRRTlUxbVRUQlJheG9pUVVaWWNrVmpieTE0V1VJMU5tYzBlbkpCUTFCYVNGOWxabUpsVVdwc1UyMWpRUSIsImZjdiI6IjMiLCJlaSI6IjhTd0taOFdjRjRXUHdia1A1TWZNMFFrIiwicWMiOiJDZ1ppWldGMlpYSVFBSDFtMURVXyIsInF1ZXN0aW9uIjoiSXMgQSBiZWF2ZXIgYSBnb29kIHBldD8iLCJsayI6IkdoUnBjeUJpWldGMlpYSWdZU0JuYjI5a0lIQmxkQSIsImJzIjoiYy1PeTRaSUt6MGdzVVVqSlYwaEtUU3hMTFNwV0tLN01UY3JQeWF4S3RaZTRiR01rTFNWWmprc0Jsd21YdUdleGdpTlVSaUZSSVQwX1AwV2hJTFhFWHVKYmxwR1lsRWhtTWFZY1Z3aVhCZGhPb0dSSlJxcENTbVphV21wUmFsNXlLbEJ0U1hscWFoNUljVkYtYVY1S1JuNjZRbUplQ3BBUE1jVmVZcEcta2FpVU1FSzJER1lCbHgyWGRIaEdwVUppVVNyQ29ma0t4UVdweVptSk9mWVNHM1dNWktTa3luR3FFR0FFQUEiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmEydzFOVkEyYzJwV2NFdGhWSEpuTXpkV2FXVkJiR1Z2WVhoUVJWZEpXWFpIWTBOcGFFUmlUMUJVV1VwUVZWSlJkUzFpUzFoWk5HcERWMmsxZUhSaWQwbENSVUZURWhjNFUzZExXamhYWTBZMFYxQjNZbXRRTlUxbVRUQlJheG9pUVVaWWNrVmpieTE0V1VJMU5tYzBlbkpCUTFCYVNGOWxabUpsVVdwc1UyMWpRUSIsImZjdiI6IjMiLCJlaSI6IjhTd0taOFdjRjRXUHdia1A1TWZNMFFrIiwicWMiOiJDZ1ppWldGMlpYSVFBSDFtMURVXyIsInF1ZXN0aW9uIjoiSXMgQSBiZWF2ZXIgYSBnb29kIHBldD8iLCJsayI6IkdoUnBjeUJpWldGMlpYSWdZU0JuYjI5a0lIQmxkQSIsImJzIjoiYy1PeTRaSUt6MGdzVVVqSlYwaEtUU3hMTFNwV0tLN01UY3JQeWF4S3RaZTRiR01rTFNWWmprc0Jsd21YdUdleGdpTlVSaUZSSVQwX1AwV2hJTFhFWHVKYmxwR1lsRWhtTWFZY1Z3aVhCZGhPb0dSSlJxcENTbVphV21wUmFsNXlLbEJ0U1hscWFoNUljVkYtYVY1S1JuNjZRbUplQ3BBUE1jVmVZcEcta2FpVU1FSzJER1lCbHgyWGRIaEdwVUppVVNyQ29ma0t4UVdweVptSk9mWVNHM1dNWktTa3luR3FFR0FFQUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+    },
+    {
+      "question": "What is the difference between a groundhog and a beaver?",
+      "snippet": "Beavers have flat, rudder-like tails and yellow incisors, while groundhogs have short, bushy tails and white front teeth. Nesting Habits: Beaver bodies are perfect for aquatic living. Though they may venture onto lawns, beavers always den close to water or tunnel into riverbanks.",
+      "title": "Beaver vs. Woodchuck - Critter Control",
+      "link": "https://www.crittercontrol.com/wildlife/beavers/beaver-vs-woodchuck/#:~:text=Beavers%20have%20flat%2C%20rudder%2Dlike,water%20or%20tunnel%20into%20riverbanks.",
+      "displayed_link": "https://www.crittercontrol.com \u203a wildlife \u203a beavers \u203a beav...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe3WCKlgVKsJlT0Qhyx05VPthRRP94O0LFG2diapszHCVkllVzaj1JXEgOTw&s",
+      "source_logo": "https://serpapi.com/searches/670a2cf0dc969f3677101876/images/59776eb9f3a615bffffd4f7048bcbd4212fed93f6f44bbca88baf86274f54b88.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmEydzFOVkEyYzJwV2NFdGhWSEpuTXpkV2FXVkJiR1Z2WVhoUVJWZEpXWFpIWTBOcGFFUmlUMUJVV1VwUVZWSlJkUzFpUzFoWk5HcERWMmsxZUhSaWQwbENSVUZURWhjNFUzZExXamhYWTBZMFYxQjNZbXRRTlUxbVRUQlJheG9pUVVaWWNrVmpieTE0V1VJMU5tYzBlbkpCUTFCYVNGOWxabUpsVVdwc1UyMWpRUSIsImZjdiI6IjMiLCJlaSI6IjhTd0taOFdjRjRXUHdia1A1TWZNMFFrIiwicWMiOiJDZ1ppWldGMlpYSVFBSDFtMURVXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIGEgZ3JvdW5kaG9nIGFuZCBhIGJlYXZlcj8iLCJsayI6IkdoTm5jbTkxYm1Sb2IyY2dkbk1nWW1WaGRtVnkiLCJicyI6ImMtT3k0WklLejBnc1VVakpWMGhLVFN4TExTcFdLSzdNVGNyUHlheEt0WmU0YkdNa0xTVlpqa3NCbHdtWHVHZXhnaU5VUmlGUklUMF9QMFdoSUxYRVh1SmJscEdZbEVobU1hWWNWd2lYQmRoT29HUkpScXBDU21aYVdtcFJhbDV5S2xCdFNYbHFhaDVJY1ZGLWFWNUtSbjY2UW1KZUNwQVBNY1ZlWXBHLWthaVVNRUsyREdZQmx4MlhkSGhHcFVKaVVTckNvZmtLeFFXcHlabUpPZllTRzNXTVpLU2t5bkdxRUdBRUFBIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmEydzFOVkEyYzJwV2NFdGhWSEpuTXpkV2FXVkJiR1Z2WVhoUVJWZEpXWFpIWTBOcGFFUmlUMUJVV1VwUVZWSlJkUzFpUzFoWk5HcERWMmsxZUhSaWQwbENSVUZURWhjNFUzZExXamhYWTBZMFYxQjNZbXRRTlUxbVRUQlJheG9pUVVaWWNrVmpieTE0V1VJMU5tYzBlbkpCUTFCYVNGOWxabUpsVVdwc1UyMWpRUSIsImZjdiI6IjMiLCJlaSI6IjhTd0taOFdjRjRXUHdia1A1TWZNMFFrIiwicWMiOiJDZ1ppWldGMlpYSVFBSDFtMURVXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIGEgZ3JvdW5kaG9nIGFuZCBhIGJlYXZlcj8iLCJsayI6IkdoTm5jbTkxYm1Sb2IyY2dkbk1nWW1WaGRtVnkiLCJicyI6ImMtT3k0WklLejBnc1VVakpWMGhLVFN4TExTcFdLSzdNVGNyUHlheEt0WmU0YkdNa0xTVlpqa3NCbHdtWHVHZXhnaU5VUmlGUklUMF9QMFdoSUxYRVh1SmJscEdZbEVobU1hWWNWd2lYQmRoT29HUkpScXBDU21aYVdtcFJhbDV5S2xCdFNYbHFhaDVJY1ZGLWFWNUtSbjY2UW1KZUNwQVBNY1ZlWXBHLWthaVVNRUsyREdZQmx4MlhkSGhHcFVKaVVTckNvZmtLeFFXcHlabUpPZllTRzNXTVpLU2t5bkdxRUdBRUFBIiwiaWQiOiJmY18xIn0%3D"
+    },
+    {
+      "question": "Why are beavers so special?",
+      "snippet": "Beavers are generally beneficial to the environment. They are instrumental in creating habitats for many aquatic organisms, maintaining the water table at an appropriate level and controlling flooding and erosion, all by building dams.",
+      "title": "9 Amazing Beaver Facts - Chattahoochee Nature Center",
+      "link": "https://www.chattnaturecenter.org/visit/experience/wildlife/animal-facts/beaver/#:~:text=Beavers%20are%20generally%20beneficial%20to,erosion%2C%20all%20by%20building%20dams.",
+      "displayed_link": "https://www.chattnaturecenter.org \u203a wildlife \u203a animal-facts",
+      "source_logo": "https://serpapi.com/searches/670a2cf0dc969f3677101876/images/59776eb9f3a615bffffd4f7048bcbd42ddd0433cbc01e9503819bacb4f3bb5f0.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmEydzFOVkEyYzJwV2NFdGhWSEpuTXpkV2FXVkJiR1Z2WVhoUVJWZEpXWFpIWTBOcGFFUmlUMUJVV1VwUVZWSlJkUzFpUzFoWk5HcERWMmsxZUhSaWQwbENSVUZURWhjNFUzZExXamhYWTBZMFYxQjNZbXRRTlUxbVRUQlJheG9pUVVaWWNrVmpieTE0V1VJMU5tYzBlbkpCUTFCYVNGOWxabUpsVVdwc1UyMWpRUSIsImZjdiI6IjMiLCJlaSI6IjhTd0taOFdjRjRXUHdia1A1TWZNMFFrIiwicWMiOiJDZ1ppWldGMlpYSVFBSDFtMURVXyIsInF1ZXN0aW9uIjoiV2h5IGFyZSBiZWF2ZXJzIHNvIHNwZWNpYWw/IiwibGsiOiJHaHAzYUhrZ1lYSmxJR0psWVhabGNuTWdjMjhnYzNCbFkybGhiQSIsImJzIjoiYy1PeTRaSUt6MGdzVVVqSlYwaEtUU3hMTFNwV0tLN01UY3JQeWF4S3RaZTRiR01rTFNWWmprc0Jsd21YdUdleGdpTlVSaUZSSVQwX1AwV2hJTFhFWHVKYmxwR1lsRWhtTWFZY1Z3aVhCZGhPb0dSSlJxcENTbVphV21wUmFsNXlLbEJ0U1hscWFoNUljVkYtYVY1S1JuNjZRbUplQ3BBUE1jVmVZcEcta2FpVU1FSzJER1lCbHgyWGRIaEdwVUppVVNyQ29ma0t4UVdweVptSk9mWVNHM1dNWktTa3luR3FFR0FFQUEiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmEydzFOVkEyYzJwV2NFdGhWSEpuTXpkV2FXVkJiR1Z2WVhoUVJWZEpXWFpIWTBOcGFFUmlUMUJVV1VwUVZWSlJkUzFpUzFoWk5HcERWMmsxZUhSaWQwbENSVUZURWhjNFUzZExXamhYWTBZMFYxQjNZbXRRTlUxbVRUQlJheG9pUVVaWWNrVmpieTE0V1VJMU5tYzBlbkpCUTFCYVNGOWxabUpsVVdwc1UyMWpRUSIsImZjdiI6IjMiLCJlaSI6IjhTd0taOFdjRjRXUHdia1A1TWZNMFFrIiwicWMiOiJDZ1ppWldGMlpYSVFBSDFtMURVXyIsInF1ZXN0aW9uIjoiV2h5IGFyZSBiZWF2ZXJzIHNvIHNwZWNpYWw%2FIiwibGsiOiJHaHAzYUhrZ1lYSmxJR0psWVhabGNuTWdjMjhnYzNCbFkybGhiQSIsImJzIjoiYy1PeTRaSUt6MGdzVVVqSlYwaEtUU3hMTFNwV0tLN01UY3JQeWF4S3RaZTRiR01rTFNWWmprc0Jsd21YdUdleGdpTlVSaUZSSVQwX1AwV2hJTFhFWHVKYmxwR1lsRWhtTWFZY1Z3aVhCZGhPb0dSSlJxcENTbVphV21wUmFsNXlLbEJ0U1hscWFoNUljVkYtYVY1S1JuNjZRbUplQ3BBUE1jVmVZcEcta2FpVU1FSzJER1lCbHgyWGRIaEdwVUppVVNyQ29ma0t4UVdweVptSk9mWVNHM1dNWktTa3luR3FFR0FFQUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Beaver",
+      "link": "https://en.wikipedia.org/wiki/Beaver",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Beaver&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQFnoECD8QAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Beaver",
+      "thumbnail": "https://serpapi.com/searches/670a2cf0dc969f3677101876/images/9ef7385366aca66893a84184ad19fa423dfab564d00a5e4670c2cd9eeaf83fe4.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2cf0dc969f3677101876/images/9ef7385366aca66893a84184ad19fa427b1649248f986e1cf5ebc295e503cc3f.webp",
+      "snippet": "Beavers are the second-largest living rodents, after capybaras, weighing up to 50 kg (110 lb). They have stout bodies with large heads, long chisel-like ...",
+      "snippet_highlighted_words": [
+        "Beavers"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "North American beaver",
+            "link": "https://en.wikipedia.org/wiki/North_American_beaver"
+          },
+          {
+            "title": "Eurasian beaver",
+            "link": "https://en.wikipedia.org/wiki/Eurasian_beaver"
+          },
+          {
+            "title": "Beaver dam",
+            "link": "https://en.wikipedia.org/wiki/Beaver_dam"
+          },
+          {
+            "title": "Beaver attack",
+            "link": "https://en.wikipedia.org/wiki/Beaver_attack"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Beaver",
+      "link": "https://nationalzoo.si.edu/animals/beaver",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nationalzoo.si.edu/animals/beaver&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQFnoECFwQAQ",
+      "displayed_link": "https://nationalzoo.si.edu \u203a animals \u203a beaver",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2RF9Vq2i-g3dVn1xwnvHHDqkiPR6HUB2UNnQSi1qnd2TqpfDDC281&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2cf0dc969f3677101876/images/9ef7385366aca66893a84184ad19fa42f315c636c5d237583a313a1e91c591fc.webp",
+      "snippet": "Beavers are the largest rodents in North America and one of the few species that significantly change their environment. By building dams, which form ...",
+      "snippet_highlighted_words": [
+        "Beavers"
+      ],
+      "source": "Smithsonian's National Zoo and Conservation Biology Institute"
+    },
+    {
+      "position": 3,
+      "title": "Beaver | Habitat, Size, & Facts.",
+      "link": "https://www.britannica.com/animal/beaver",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.britannica.com/animal/beaver&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQFnoECF4QAQ",
+      "displayed_link": "https://www.britannica.com \u203a ... \u203a Civil Engineering",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUPfjI8fJF-KnF6DFszGnJsTXrqruRbF7fXI8CSPxvtGJZZq4N-IwA&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2cf0dc969f3677101876/images/9ef7385366aca66893a84184ad19fa42731ee5b7d41e59f2ca37fcc345364c6e.webp",
+      "date": "Oct 3, 2024",
+      "snippet": "Beavers are the largest rodents in North America and Eurasia and the second largest rodents worldwide. Their bodies extend up to 80 cm (31 ...",
+      "snippet_highlighted_words": [
+        "Beavers"
+      ],
+      "source": "Britannica"
+    },
+    {
+      "position": 4,
+      "title": "Penn State Beaver",
+      "link": "https://beaver.psu.edu/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://beaver.psu.edu/&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQFnoECF0QAQ",
+      "displayed_link": "https://beaver.psu.edu",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw37ZLe4V6CsiWK-p2fSSt_r3UwJI03Y38JXEU2Cah5p10O2r8dBYZ&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2cf0dc969f3677101876/images/9ef7385366aca66893a84184ad19fa42a8a3cd2bb3ae6e10046b6e90a77bd807.webp",
+      "snippet": "Penn State Beaver offers highly sought-after degrees and personalized attention in a small campus setting less than 45 minutes from Pittsburgh.",
+      "snippet_highlighted_words": [
+        "Beaver"
+      ],
+      "source": "Penn State Beaver"
+    },
+    {
+      "position": 5,
+      "title": "Beaver | Washington Department of Fish & Wildlife",
+      "link": "https://wdfw.wa.gov/species-habitats/species/castor-canadensis",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wdfw.wa.gov/species-habitats/species/castor-canadensis&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQFnoECFkQAQ",
+      "displayed_link": "https://wdfw.wa.gov \u203a species \u203a castor-canadensis",
+      "favicon": "https://serpapi.com/searches/670a2cf0dc969f3677101876/images/9ef7385366aca66893a84184ad19fa4218fb5c1eedaaf1f3f2609d232ab898f8.webp",
+      "snippet": "Beavers are the largest living rodents in North America, with adults averaging 40 pounds in weight and measuring more than 3 feet in length, including the tail.",
+      "snippet_highlighted_words": [
+        "Beavers"
+      ],
+      "source": "Washington Department of Fish and Wildlife (.gov)"
+    },
+    {
+      "position": 6,
+      "title": "Beaver Institute Management, Research and Education",
+      "link": "https://www.beaverinstitute.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.beaverinstitute.org/&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQFnoECFgQAQ",
+      "displayed_link": "https://www.beaverinstitute.org",
+      "favicon": "https://serpapi.com/searches/670a2cf0dc969f3677101876/images/9ef7385366aca66893a84184ad19fa425386e17e07e8b1931ad0713f68d29c94.webp",
+      "snippet": "Advancing Beaver Management and Watershed Restoration. Learn More About Beavers, Get Beaver Help, and Professional Info available from the Beaver Institute.",
+      "snippet_highlighted_words": [
+        "Beaver",
+        "Beavers",
+        "Beaver",
+        "Beaver"
+      ],
+      "source": "Beaver Institute"
+    },
+    {
+      "position": 7,
+      "title": "Beaver Builder: WordPress Page Builder Plugin",
+      "link": "https://www.wpbeaverbuilder.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wpbeaverbuilder.com/&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQFnoECFoQAQ",
+      "displayed_link": "https://www.wpbeaverbuilder.com",
+      "favicon": "https://serpapi.com/searches/670a2cf0dc969f3677101876/images/9ef7385366aca66893a84184ad19fa425683de6bbb756489f0c1a24979c40e01.webp",
+      "snippet": "Easily build beautiful, responsive WordPress pages in minutes. Beaver Builder is a drag and drop WordPress Page Builder. Get it now!",
+      "snippet_highlighted_words": [
+        "Beaver"
+      ],
+      "source": "Beaver Builder"
+    },
+    {
+      "position": 8,
+      "title": "Beaver",
+      "link": "http://vtfishandwildlife.com/learn-more/vermont-critters/mammals/beaver",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://vtfishandwildlife.com/learn-more/vermont-critters/mammals/beaver&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQFnoECHkQAQ",
+      "displayed_link": "http://vtfishandwildlife.com \u203a vermont-critters \u203a mammals",
+      "favicon": "https://serpapi.com/searches/670a2cf0dc969f3677101876/images/9ef7385366aca66893a84184ad19fa420ee3bfe9de7406d54cd46c8ec0d874cc.webp",
+      "snippet": "Castor canadensis, is the largest rodent in North America. It is easily recognized by its large, flat, bare, scaled tail and fully webbed rear feet. Beaver ...",
+      "snippet_highlighted_words": [
+        "Beaver"
+      ],
+      "source": "Vermont Fish & Wildlife Department"
+    },
+    {
+      "position": 9,
+      "title": "Beaver",
+      "link": "https://oregonwild.org/resource/beaver/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://oregonwild.org/resource/beaver/&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQFnoECH4QAQ",
+      "displayed_link": "https://oregonwild.org \u203a Resources",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOKtjYack9Yl3KsRUv2ekNSpRFT_2hXPIOAlo_pdjHi7Op8PkMlLjQ&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2cf0dc969f3677101876/images/9ef7385366aca66893a84184ad19fa4268a614cf67f3665898fc3fb8af2e1af8.webp",
+      "snippet": "Beavers are common throughout Oregon's waterways and riparian areas. They continue to grow throughout their lives and can reach 65 pounds and up to four feet in ...",
+      "snippet_highlighted_words": [
+        "Beavers"
+      ],
+      "source": "Oregon Wild"
+    },
+    {
+      "position": 10,
+      "title": "Home Page - Beaver Mountain Ski Resort",
+      "link": "https://www.skithebeav.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.skithebeav.com/&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQFnoECH0QAQ",
+      "displayed_link": "https://www.skithebeav.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSJrV8LDDvkoT-ifMVGHH5FEwLPTYdiGnT2jR12TSPU0xzTumkxkiF&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2cf0dc969f3677101876/images/9ef7385366aca66893a84184ad19fa42cb085e41c6035c545a6578d972b84314.webp",
+      "snippet": "Beaver Mountain Ski Resort Home Page for the oldest continuously-owned family ski resort in the US, featuring runs for every rider.",
+      "snippet_highlighted_words": [
+        "Beaver"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Conditions",
+            "link": "https://www.skithebeav.com/mountain/conditions/"
+          },
+          {
+            "title": "Events",
+            "link": "https://www.skithebeav.com/events/"
+          },
+          {
+            "title": "Beaver Bash",
+            "link": "https://www.skithebeav.com/galleries/beaver-bash/"
+          },
+          {
+            "title": "Trails",
+            "link": "https://www.skithebeav.com/mountain/"
+          }
+        ]
+      },
+      "source": "Beaver Mountain Ski Resort"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Beavers football",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Beavers+football&sa=X&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQ1QJ6BQiLARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Beavers+football"
+    },
+    {
+      "block_position": 1,
+      "query": "Beaver Dam",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Beaver+Dam&sa=X&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQ1QJ6BQiNARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Beaver+Dam"
+    },
+    {
+      "block_position": 1,
+      "query": "Beaver habitat",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Beaver+habitat&sa=X&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQ1QJ6BQiKARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Beaver+habitat"
+    },
+    {
+      "block_position": 1,
+      "query": "Beaver diet",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Beaver+diet&sa=X&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQ1QJ6BQiPARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Beaver+diet"
+    },
+    {
+      "block_position": 1,
+      "query": "Beaver teeth",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Beaver+teeth&sa=X&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQ1QJ6BQiOARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Beaver+teeth"
+    },
+    {
+      "block_position": 1,
+      "query": "Beaver weight",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Beaver+weight&sa=X&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQ1QJ6BQiRARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Beaver+weight"
+    },
+    {
+      "block_position": 1,
+      "query": "Beaver family",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Beaver+family&sa=X&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQ1QJ6BQiQARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Beaver+family"
+    },
+    {
+      "block_position": 1,
+      "query": "Beaver lifespan",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Beaver+lifespan&sa=X&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQ1QJ6BQiMARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Beaver+lifespan"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=beaver&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=8SwKZ8WcF4WPwbkP5MfM0Qk&start=10&sa=N&sstk=AagrsujjIp6nc6a_qHqb4jPHq4tE6irOyT-SW8LkhNfAlZF7aLoXdrti4_eioPWWYCMlRRsoSTltPCYW_CubcJrBbExE9mezwuQneA&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQ8NMDegQICBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=beaver&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=8SwKZ8WcF4WPwbkP5MfM0Qk&start=10&sa=N&sstk=AagrsujjIp6nc6a_qHqb4jPHq4tE6irOyT-SW8LkhNfAlZF7aLoXdrti4_eioPWWYCMlRRsoSTltPCYW_CubcJrBbExE9mezwuQneA&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQ8tMDegQICBAE",
+      "3": "https://www.google.com/search?q=beaver&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=8SwKZ8WcF4WPwbkP5MfM0Qk&start=20&sa=N&sstk=AagrsujjIp6nc6a_qHqb4jPHq4tE6irOyT-SW8LkhNfAlZF7aLoXdrti4_eioPWWYCMlRRsoSTltPCYW_CubcJrBbExE9mezwuQneA&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQ8tMDegQICBAG",
+      "4": "https://www.google.com/search?q=beaver&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=8SwKZ8WcF4WPwbkP5MfM0Qk&start=30&sa=N&sstk=AagrsujjIp6nc6a_qHqb4jPHq4tE6irOyT-SW8LkhNfAlZF7aLoXdrti4_eioPWWYCMlRRsoSTltPCYW_CubcJrBbExE9mezwuQneA&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQ8tMDegQICBAI",
+      "5": "https://www.google.com/search?q=beaver&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=8SwKZ8WcF4WPwbkP5MfM0Qk&start=40&sa=N&sstk=AagrsujjIp6nc6a_qHqb4jPHq4tE6irOyT-SW8LkhNfAlZF7aLoXdrti4_eioPWWYCMlRRsoSTltPCYW_CubcJrBbExE9mezwuQneA&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQ8tMDegQICBAK",
+      "6": "https://www.google.com/search?q=beaver&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=8SwKZ8WcF4WPwbkP5MfM0Qk&start=50&sa=N&sstk=AagrsujjIp6nc6a_qHqb4jPHq4tE6irOyT-SW8LkhNfAlZF7aLoXdrti4_eioPWWYCMlRRsoSTltPCYW_CubcJrBbExE9mezwuQneA&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQ8tMDegQICBAM",
+      "7": "https://www.google.com/search?q=beaver&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=8SwKZ8WcF4WPwbkP5MfM0Qk&start=60&sa=N&sstk=AagrsujjIp6nc6a_qHqb4jPHq4tE6irOyT-SW8LkhNfAlZF7aLoXdrti4_eioPWWYCMlRRsoSTltPCYW_CubcJrBbExE9mezwuQneA&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQ8tMDegQICBAO",
+      "8": "https://www.google.com/search?q=beaver&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=8SwKZ8WcF4WPwbkP5MfM0Qk&start=70&sa=N&sstk=AagrsujjIp6nc6a_qHqb4jPHq4tE6irOyT-SW8LkhNfAlZF7aLoXdrti4_eioPWWYCMlRRsoSTltPCYW_CubcJrBbExE9mezwuQneA&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQ8tMDegQICBAQ",
+      "9": "https://www.google.com/search?q=beaver&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=8SwKZ8WcF4WPwbkP5MfM0Qk&start=80&sa=N&sstk=AagrsujjIp6nc6a_qHqb4jPHq4tE6irOyT-SW8LkhNfAlZF7aLoXdrti4_eioPWWYCMlRRsoSTltPCYW_CubcJrBbExE9mezwuQneA&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQ8tMDegQICBAS",
+      "10": "https://www.google.com/search?q=beaver&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=8SwKZ8WcF4WPwbkP5MfM0Qk&start=90&sa=N&sstk=AagrsujjIp6nc6a_qHqb4jPHq4tE6irOyT-SW8LkhNfAlZF7aLoXdrti4_eioPWWYCMlRRsoSTltPCYW_CubcJrBbExE9mezwuQneA&ved=2ahUKEwiF2ZiisIiJAxWFRzABHeQjM5oQ8tMDegQICBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beaver&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beaver&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beaver&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beaver&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beaver&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beaver&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beaver&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beaver&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beaver&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beaver&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=beaver&start=90"
+    }
+  }
+}

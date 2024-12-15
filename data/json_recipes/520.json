@@ -1,0 +1,513 @@
+{
+  "search_metadata": {
+    "id": "670a2d10db3ac9dac52b157c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3a3de53c6758558e/670a2d10db3ac9dac52b157c.json",
+    "created_at": "2024-10-12 08:02:24 UTC",
+    "processed_at": "2024-10-12 08:02:24 UTC",
+    "google_url": "https://www.google.com/search?q=brown+bear&oq=brown+bear&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/3a3de53c6758558e/670a2d10db3ac9dac52b157c.html",
+    "total_time_taken": 2.0
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "brown bear",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "brown bear",
+    "total_results": 1350000000,
+    "time_taken_displayed": 0.64,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "title": "Brown bear",
+    "type": "Animal",
+    "entity_type": "biology, animal",
+    "main_tab_text": "Overview",
+    "kgmid": "/m/01dxs",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/01dxs&hl=en-US&q=Brown+bear&shndl=17&source=sh/x/kp/osrp/m5/1",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F01dxs&location=Austin%2CTexas%2CUnited+States&q=Brown+bear",
+    "tabs": [
+      {
+        "text": "Diet",
+        "si": "ACC90nzF7EHxqzwbgEt1v0ESy9CJkc0hAl8ev7VBij5b-okPLBZVKRq9gdQhYdqVEAGL9sS3rItk43nphplqQn2DptbL56cdMINwKURud-vv7__jYZCUWjsL3-nvxupdjj82gU2pg-kD",
+        "link": "https://www.google.com/search?si=ACC90nzF7EHxqzwbgEt1v0ESy9CJkc0hAl8ev7VBij5b-okPLBZVKRq9gdQhYdqVEAGL9sS3rItk43nphplqQn2DptbL56cdMINwKURud-vv7__jYZCUWjsL3-nvxupdjj82gU2pg-kD",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brown+bear&si=ACC90nzF7EHxqzwbgEt1v0ESy9CJkc0hAl8ev7VBij5b-okPLBZVKRq9gdQhYdqVEAGL9sS3rItk43nphplqQn2DptbL56cdMINwKURud-vv7__jYZCUWjsL3-nvxupdjj82gU2pg-kD"
+      },
+      {
+        "text": "Habitat",
+        "si": "ACC90nzMjDoCuLaQR-UYA1hzeicysYba3J3UfKN9jSRTtDeiT_vPeshfhXNF-jdebhYbCedSSj14pzgFyv-afGRhS9c5AQAmlKOD1FgijMwvdh4ByFt8OBESvSXgH0mMXqcalLYvzO_P",
+        "link": "https://www.google.com/search?si=ACC90nzMjDoCuLaQR-UYA1hzeicysYba3J3UfKN9jSRTtDeiT_vPeshfhXNF-jdebhYbCedSSj14pzgFyv-afGRhS9c5AQAmlKOD1FgijMwvdh4ByFt8OBESvSXgH0mMXqcalLYvzO_P",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brown+bear&si=ACC90nzMjDoCuLaQR-UYA1hzeicysYba3J3UfKN9jSRTtDeiT_vPeshfhXNF-jdebhYbCedSSj14pzgFyv-afGRhS9c5AQAmlKOD1FgijMwvdh4ByFt8OBESvSXgH0mMXqcalLYvzO_P"
+      },
+      {
+        "text": "Sounds",
+        "si": "ACC90nyppaBKaZxtSRyOPKHUA22LIjQ7vgHYjO65hn2ilQyhjQxjfQFxW-a7_zM3j2tjSlMma7s5wQJ3oL9wb6k17mfN9ubEuPvPLqx_nZ0KfBnGEu0odEWy8xXLKdUL5ecS_BG61sVT",
+        "link": "https://www.google.com/search?si=ACC90nyppaBKaZxtSRyOPKHUA22LIjQ7vgHYjO65hn2ilQyhjQxjfQFxW-a7_zM3j2tjSlMma7s5wQJ3oL9wb6k17mfN9ubEuPvPLqx_nZ0KfBnGEu0odEWy8xXLKdUL5ecS_BG61sVT",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brown+bear&si=ACC90nyppaBKaZxtSRyOPKHUA22LIjQ7vgHYjO65hn2ilQyhjQxjfQFxW-a7_zM3j2tjSlMma7s5wQJ3oL9wb6k17mfN9ubEuPvPLqx_nZ0KfBnGEu0odEWy8xXLKdUL5ecS_BG61sVT"
+      },
+      {
+        "text": "Predators",
+        "si": "ACC90nxr_FFDxy-yy7b-WUnModj_8jKnIuna6CZts21vWqd9DovIawG9_RkLqoRWCOKzkrfn2zKCyqlrgj_IOPgyVOv0t12jOYY4w8obc7n0BTl1snOm4lR4m2DQjdj4gW8XZTGhPUhC",
+        "link": "https://www.google.com/search?si=ACC90nxr_FFDxy-yy7b-WUnModj_8jKnIuna6CZts21vWqd9DovIawG9_RkLqoRWCOKzkrfn2zKCyqlrgj_IOPgyVOv0t12jOYY4w8obc7n0BTl1snOm4lR4m2DQjdj4gW8XZTGhPUhC",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brown+bear&si=ACC90nxr_FFDxy-yy7b-WUnModj_8jKnIuna6CZts21vWqd9DovIawG9_RkLqoRWCOKzkrfn2zKCyqlrgj_IOPgyVOv0t12jOYY4w8obc7n0BTl1snOm4lR4m2DQjdj4gW8XZTGhPUhC"
+      },
+      {
+        "text": "Lower classifications",
+        "si": "ACC90nw9u7Ejwdz41Ixemr1dIq2MJR4S5ABpLtfilW6cqNvFdtF4S8JbiIjZ9aUTUcpY5eWRGveNcxzO5D_L1t7nrJ3ltkL6UKQUqy8cieBHWh1G-gTTyPxbdIfOhtVTY3kDoqjPIJO1RXg7Q3f90COHNO-JmJCEgtJPHz-fj0yXoYOI1CPkQbQ=",
+        "link": "https://www.google.com/search?si=ACC90nw9u7Ejwdz41Ixemr1dIq2MJR4S5ABpLtfilW6cqNvFdtF4S8JbiIjZ9aUTUcpY5eWRGveNcxzO5D_L1t7nrJ3ltkL6UKQUqy8cieBHWh1G-gTTyPxbdIfOhtVTY3kDoqjPIJO1RXg7Q3f90COHNO-JmJCEgtJPHz-fj0yXoYOI1CPkQbQ=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brown+bear&si=ACC90nw9u7Ejwdz41Ixemr1dIq2MJR4S5ABpLtfilW6cqNvFdtF4S8JbiIjZ9aUTUcpY5eWRGveNcxzO5D_L1t7nrJ3ltkL6UKQUqy8cieBHWh1G-gTTyPxbdIfOhtVTY3kDoqjPIJO1RXg7Q3f90COHNO-JmJCEgtJPHz-fj0yXoYOI1CPkQbQ%3D"
+      }
+    ],
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/fc77dde326bdb614473dbc40a282ec71c72cd3a0a5cf929c5735724c2efccba7e93bb6b958dae0d1.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/fc77dde326bdb614473dbc40a282ec71c72cd3a0a5cf929c3b56629fb84776b7c0e64ae6f76e2fbb.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/fc77dde326bdb614473dbc40a282ec71c72cd3a0a5cf929c12a19c063dd846631a587e5798a2165c.webp"
+      }
+    ],
+    "description": "The brown bear is a large bear native to Eurasia and North America. It is one of the largest land carnivorans, rivaled in size only by its closest relative, the polar bear, which is much less variable in size and slightly bigger on average.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Brown_bear"
+    },
+    "mass": "180 \u2013 1,300 lbs",
+    "speed": "35 mph (Maximum)",
+    "gestation_period": "180 \u2013 270 days",
+    "lifespan": "20 \u2013 30 years (In the wild)",
+    "height": "2.3 \u2013 5 ft. (At Shoulder)",
+    "conservation_status": "Least Concern (Population stable) Encyclopedia of Life",
+    "conservation_status_links": [
+      {
+        "text": "Encyclopedia of Life",
+        "link": "http://eol.org/"
+      }
+    ],
+    "web_results": [
+      {
+        "thumbnail": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/fc77dde326bdb614473dbc40a282ec71c558893b6154bcb37bdbfae376a34d9ee5cd6764c8987f90.jpeg",
+        "title": "Brown Bear, Brown Bear, What Do You See? Song | Kids ...",
+        "snippet": "Brown Bear, Brown Bear, What Do You See? Song | Kids Songs | Eric Carle Book | Colors | Animals. 9.9M views \u00b7 2 years ago ...more ...",
+        "source": "YouTube \u2022 Mr. Elephant - Music and Books for Kids",
+        "source_image": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/fc77dde326bdb614473dbc40a282ec71c558893b6154bcb34ae7a6246a934dfcdf015888d330a2976352699ae7973dd2.png",
+        "link": "https://www.youtube.com/watch?v=E7tvOtt1itA",
+        "duration": "3:07"
+      },
+      {
+        "title": "Height",
+        "snippet": "2.3 \u2013 5 ft. At Shoulder",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=brown+bear+height&stick=H4sIAAAAAAAAAOPgE-LQz9U3MEypKNbSyk620k_KzM_JT6_Uzy9KT8zLLM6NT85JLC7OTMtMTizJzM-zykjNTM8oWcQqmFSUX56nkJSaWKQAEQMAFeTQRkwAAAA&sa=X&ved=2ahUKEwij0K6xsIiJAxVgga8BHREfPeIQ18AJegQIIhAB"
+      },
+      {
+        "title": "Speed",
+        "snippet": "35 mph Maximum",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=brown+bear+speed&stick=H4sIAAAAAAAAAOPgE-LQz9U3MEypKNbSzE620k_KzM_JT6_Uzy9KT8zLLM6NT85JLC7OTMtMTizJzM-zKi5ITU1ZxCqQVJRfnqeQlJpYpAAWAgA_5_vgSgAAAA&sa=X&ved=2ahUKEwij0K6xsIiJAxVgga8BHREfPeIQ18AJegQIIBAB"
+      },
+      {
+        "thumbnail": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/fc77dde326bdb614473dbc40a282ec71c558893b6154bcb31988b97c21fcef766e755feafe374558.jpeg",
+        "title": "Brown bear in Kent recovering well after UK-first brain surgery",
+        "link": "https://www.theguardian.com/world/2024/oct/10/brown-bear-in-kent-recovering-well-after-uk-first-brain-surgery"
+      }
+    ],
+    "lower_classifications": [
+      {
+        "name": "Grizzly bear",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Grizzly+bear&stick=H4sIAAAAAAAAAONgFuLQz9U3MEypKFYCs4zN48u0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixex8rgXZVZV5VQqJKUmFu1gZQQAkEMrFmMAAAA&sa=X&ved=2ahUKEwij0K6xsIiJAxVgga8BHREfPeIQgOQBegQIQxAG",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Grizzly+bear&stick=H4sIAAAAAAAAAONgFuLQz9U3MEypKFYCs4zN48u0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixex8rgXZVZV5VQqJKUmFu1gZQQAkEMrFmMAAAA",
+        "image": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/fc77dde326bdb614473dbc40a282ec7151c65eec01cade82d8fd14fb43f86e5f40633476c787a098b23375b3c9cbd916.jpeg"
+      },
+      {
+        "name": "Kodiak bear",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Kodiak+bear&stick=H4sIAAAAAAAAAONgFuLQz9U3MEypKFbiBLGMq-KNi7Uss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7Fye-enZCZmKySlJhbtYGUEACLy40VjAAAA&sa=X&ved=2ahUKEwij0K6xsIiJAxVgga8BHREfPeIQgOQBegQIQxAM",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Kodiak+bear&stick=H4sIAAAAAAAAAONgFuLQz9U3MEypKFbiBLGMq-KNi7Uss5Ot9JMy83Py0yv184vSE_Myi3Pjk3MSi4sz0zKTE0sy8_OscvLLU4sUUAWLF7Fye-enZCZmKySlJhbtYGUEACLy40VjAAAA",
+        "image": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/fc77dde326bdb614473dbc40a282ec7151c65eec01cade82d8fd14fb43f86e5feb19601036756be57555f53269852aac.jpeg"
+      },
+      {
+        "name": "Himalayan brown bear",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Himalayan+brown+bear&stick=H4sIAAAAAAAAAONgFuLQz9U3MEypKFbiArGMTCuMy1O0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixexinhk5ibmJFYm5ikkFeWXA8nUxKIdrIwA0uhKTG0AAAA&sa=X&ved=2ahUKEwij0K6xsIiJAxVgga8BHREfPeIQgOQBegQIQxAS",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Himalayan+brown+bear&stick=H4sIAAAAAAAAAONgFuLQz9U3MEypKFbiArGMTCuMy1O0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixexinhk5ibmJFYm5ikkFeWXA8nUxKIdrIwA0uhKTG0AAAA",
+        "image": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/fc77dde326bdb614473dbc40a282ec7151c65eec01cade82d8fd14fb43f86e5f6b22b120a54866b1a50e725a08f0a496.jpeg"
+      },
+      {
+        "name": "Eurasian brown bear",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Eurasian+brown+bear&stick=H4sIAAAAAAAAAONgFuLQz9U3MEypKFbiArGMyssszYq0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixexCruWFiUWZybmKSQV5ZcDydTEoh2sjAAcE4bhbAAAAA&sa=X&ved=2ahUKEwij0K6xsIiJAxVgga8BHREfPeIQgOQBegQIQxAY",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Eurasian+brown+bear&stick=H4sIAAAAAAAAAONgFuLQz9U3MEypKFbiArGMyssszYq0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixexCruWFiUWZybmKSQV5ZcDydTEoh2sjAAcE4bhbAAAAA",
+        "image": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/fc77dde326bdb614473dbc40a282ec7151c65eec01cade82d8fd14fb43f86e5ff1d6d6400a1165a412a477cd0d99b198.jpeg"
+      },
+      {
+        "name": "Ussuri brown bear",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Ussuri+brown+bear&stick=H4sIAAAAAAAAAONgFuLQz9U3MEypKFbiArFMq_LKTSu0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixexCoYWF5cWZSokFeWX5ykkpSYW7WBlBABUU8WlagAAAA&sa=X&ved=2ahUKEwij0K6xsIiJAxVgga8BHREfPeIQgOQBegQIQxAe",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Ussuri+brown+bear&stick=H4sIAAAAAAAAAONgFuLQz9U3MEypKFbiArFMq_LKTSu0LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixexCoYWF5cWZSokFeWX5ykkpSYW7WBlBABUU8WlagAAAA",
+        "image": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/fc77dde326bdb614473dbc40a282ec7151c65eec01cade82d8fd14fb43f86e5fcd1d4f28b5430ecbb54c71bb3bcca30b.jpeg"
+      },
+      {
+        "name": "Alaska Peninsula brown bear",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Alaska+Peninsula+brown+bear&stick=H4sIAAAAAAAAAONgFuLQz9U3MEypKFbiBrMM0rOTq-K1LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixexSjsCRbITFQJS8zLziktzEhWSivLL8xSSUhOLdrAyAgA9_oaEdQAAAA&sa=X&ved=2ahUKEwij0K6xsIiJAxVgga8BHREfPeIQgOQBegQIQxAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Alaska+Peninsula+brown+bear&stick=H4sIAAAAAAAAAONgFuLQz9U3MEypKFbiBrMM0rOTq-K1LLOTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrHLyy1OLFFAFixexSjsCRbITFQJS8zLziktzEhWSivLL8xSSUhOLdrAyAgA9_oaEdQAAAA",
+        "image": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/fc77dde326bdb614473dbc40a282ec7151c65eec01cade82d8fd14fb43f86e5f54c9c753eab077e8bdc0932ed099e5ba.jpeg"
+      }
+    ]
+  },
+  "related_questions": [
+    {
+      "question": "Is brown bear the same as grizzly?",
+      "snippet": "Grizzly bears and brown bears are the same species (Ursus arctos), but grizzly bears are currently considered to be a separate subspecies (U. a. horribilis). Due to a few morphological differences, Kodiak bears are also considered to be a distinct subspecies of brown bear (U.",
+      "title": "Brown Bear Frequently Asked Questions - Katmai National Park ...",
+      "date": "Apr 16, 2021",
+      "link": "https://www.nps.gov/katm/learn/photosmultimedia/brown-bear-frequently-asked-questions.htm#:~:text=Grizzly%20bears%20and%20brown%20bears,subspecies%20of%20brown%20bear%20(U.",
+      "displayed_link": "https://www.nps.gov \u203a katm \u203a learn \u203a photosmultimedia",
+      "source_logo": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/ea372cae9c3b80b30c585c76b8996806fc0d26dc3b21ea575993ffc6295d173b.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1NFTkRjbWREVUdoeVMxZEJWamhVUlhST1dXbExhVzFhWjNnM1VXeHVaVGR2VUZGTmVtWXpTbmR5T1dRM09FNVFia0pWYXpaMk9XeEZhMmxCYzBKclJWTnJPRFkxRWhkRlV6QkxXaTFQUkVSUFEwTjJjakJRYTJJM01HdFJOQm9pUVVaWWNrVmpjVWhUZDFKUlJuRk1kRWRqZVVaQ1VEWmxSa05xWVc1emEycElkdyIsImZjdiI6IjMiLCJlaSI6IkVTMEtaLU9ERE9DQ3ZyMFBrYjcwa1E0IiwicWMiOiJDZ3BpY205M2JpQmlaV0Z5RUFCOVp0UTFQdyIsInF1ZXN0aW9uIjoiSXMgYnJvd24gYmVhciB0aGUgc2FtZSBhcyBncml6emx5PyIsImxrIjoiR2gxcGN5QmljbTkzYmlCaVpXRnlJSE5oYldVZ1lYTWdaM0pwZW5wc2VRIiwiYnMiOiJjNFdRdndyQ01CakVjYzNrV0FMaVIxdDN5UzVkZFZHaFNEZmhheE5OYUUyaDZSX2JaX0Zwbk1Wbk10V2xkdWw2OXp1NE83SWw3czVBWE9TTmhsaGdBYVVVWVBBbUFBMWNDOVYxV1JzNDd3TmIwb1g2QTBjUTJSTXZsSG1WY1dqekNreUNoYlViYkFFSHFjQjVwY3lucnBra3laSDRrUlRXNHZsQU5wQ3BXb0RTMzZLbk1IQ2VkN2FpWGpPRlZvYWN5U2FTV0lMZDBTdGNYUzQycEJOaDhiSVJRdmNGTWt6UzMwRFVmTlQ5c1dhVU9nT2tIajR5bjMwQSIsImlkIjoiZmNfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1NFTkRjbWREVUdoeVMxZEJWamhVUlhST1dXbExhVzFhWjNnM1VXeHVaVGR2VUZGTmVtWXpTbmR5T1dRM09FNVFia0pWYXpaMk9XeEZhMmxCYzBKclJWTnJPRFkxRWhkRlV6QkxXaTFQUkVSUFEwTjJjakJRYTJJM01HdFJOQm9pUVVaWWNrVmpjVWhUZDFKUlJuRk1kRWRqZVVaQ1VEWmxSa05xWVc1emEycElkdyIsImZjdiI6IjMiLCJlaSI6IkVTMEtaLU9ERE9DQ3ZyMFBrYjcwa1E0IiwicWMiOiJDZ3BpY205M2JpQmlaV0Z5RUFCOVp0UTFQdyIsInF1ZXN0aW9uIjoiSXMgYnJvd24gYmVhciB0aGUgc2FtZSBhcyBncml6emx5PyIsImxrIjoiR2gxcGN5QmljbTkzYmlCaVpXRnlJSE5oYldVZ1lYTWdaM0pwZW5wc2VRIiwiYnMiOiJjNFdRdndyQ01CakVjYzNrV0FMaVIxdDN5UzVkZFZHaFNEZmhheE5OYUUyaDZSX2JaX0Zwbk1Wbk10V2xkdWw2OXp1NE83SWw3czVBWE9TTmhsaGdBYVVVWVBBbUFBMWNDOVYxV1JzNDd3TmIwb1g2QTBjUTJSTXZsSG1WY1dqekNreUNoYlViYkFFSHFjQjVwY3lucnBra3laSDRrUlRXNHZsQU5wQ3BXb0RTMzZLbk1IQ2VkN2FpWGpPRlZvYWN5U2FTV0lMZDBTdGNYUzQycEJOaDhiSVJRdmNGTWt6UzMwRFVmTlQ5c1dhVU9nT2tIajR5bjMwQSIsImlkIjoiZmNfMyJ9"
+    },
+    {
+      "question": "Should you scare away a brown bear?",
+      "snippet": "Keep your pack on, it will help protect you during an attack. Stay still and don't make any noise\u2014you're trying to convince the bear that you aren't a threat to it or its cubs.",
+      "title": "Bear Attacks (U.S. National Park Service)",
+      "date": "Jul 22, 2022",
+      "link": "https://www.nps.gov/articles/bearattacks.htm#:~:text=Keep%20your%20pack%20on%2C%20it,to%20it%20or%20its%20cubs.",
+      "displayed_link": "https://www.nps.gov \u203a articles \u203a bearattacks",
+      "source_logo": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/ea372cae9c3b80b30c585c76b8996806338a9c6d4aac34978c8dd1c31115309e.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1NFTkRjbWREVUdoeVMxZEJWamhVUlhST1dXbExhVzFhWjNnM1VXeHVaVGR2VUZGTmVtWXpTbmR5T1dRM09FNVFia0pWYXpaMk9XeEZhMmxCYzBKclJWTnJPRFkxRWhkRlV6QkxXaTFQUkVSUFEwTjJjakJRYTJJM01HdFJOQm9pUVVaWWNrVmpjVWhUZDFKUlJuRk1kRWRqZVVaQ1VEWmxSa05xWVc1emEycElkdyIsImZjdiI6IjMiLCJlaSI6IkVTMEtaLU9ERE9DQ3ZyMFBrYjcwa1E0IiwicWMiOiJDZ3BpY205M2JpQmlaV0Z5RUFCOVp0UTFQdyIsInF1ZXN0aW9uIjoiU2hvdWxkIHlvdSBzY2FyZSBhd2F5IGEgYnJvd24gYmVhcj8iLCJsayI6IkdpSnphRzkxYkdRZ2VXOTFJSE5qWVhKbElHRjNZWGtnWVNCaWNtOTNiaUJpWldGeSIsImJzIjoiYzRXUXZ3ckNNQmpFY2Mza1dBTGlSMXQzeVM1ZGRWR2hTRGZoYXhOTmFFMmg2Ul9iWl9GcG5NVm5NdFdsZHVsNjl6dTRPN0lsN3M1QVhPU05obGhnQWFVVVlQQW1BQTFjQzlWMVdSczQ3d05iMG9YNkEwY1EyUk12bEhtVmNXanpDa3lDaGJVYmJBRUhxY0I1cGN5bnJwa2t5Wkg0a1JUVzR2bEFOcENwV29EUzM2S25NSENlZDdhaVhqT0ZWb2FjeVNhU1dJTGQwU3RjWFM0MnBCTmg4YklSUXZjRk1relMzMERVZk5UOXNXYVVPZ09rSGo0eW4zMEEiLCJpZCI6ImZjXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1NFTkRjbWREVUdoeVMxZEJWamhVUlhST1dXbExhVzFhWjNnM1VXeHVaVGR2VUZGTmVtWXpTbmR5T1dRM09FNVFia0pWYXpaMk9XeEZhMmxCYzBKclJWTnJPRFkxRWhkRlV6QkxXaTFQUkVSUFEwTjJjakJRYTJJM01HdFJOQm9pUVVaWWNrVmpjVWhUZDFKUlJuRk1kRWRqZVVaQ1VEWmxSa05xWVc1emEycElkdyIsImZjdiI6IjMiLCJlaSI6IkVTMEtaLU9ERE9DQ3ZyMFBrYjcwa1E0IiwicWMiOiJDZ3BpY205M2JpQmlaV0Z5RUFCOVp0UTFQdyIsInF1ZXN0aW9uIjoiU2hvdWxkIHlvdSBzY2FyZSBhd2F5IGEgYnJvd24gYmVhcj8iLCJsayI6IkdpSnphRzkxYkdRZ2VXOTFJSE5qWVhKbElHRjNZWGtnWVNCaWNtOTNiaUJpWldGeSIsImJzIjoiYzRXUXZ3ckNNQmpFY2Mza1dBTGlSMXQzeVM1ZGRWR2hTRGZoYXhOTmFFMmg2Ul9iWl9GcG5NVm5NdFdsZHVsNjl6dTRPN0lsN3M1QVhPU05obGhnQWFVVVlQQW1BQTFjQzlWMVdSczQ3d05iMG9YNkEwY1EyUk12bEhtVmNXanpDa3lDaGJVYmJBRUhxY0I1cGN5bnJwa2t5Wkg0a1JUVzR2bEFOcENwV29EUzM2S25NSENlZDdhaVhqT0ZWb2FjeVNhU1dJTGQwU3RjWFM0MnBCTmg4YklSUXZjRk1relMzMERVZk5UOXNXYVVPZ09rSGo0eW4zMEEiLCJpZCI6ImZjXzMifQ%3D%3D"
+    },
+    {
+      "question": "Where do brown bears live in the US?",
+      "snippet": "Most of the U.S. brown bears live in Alaska with a small population of about 1,500 in the lower 48 states of Montana, Idaho, Wyoming, and Washington.",
+      "title": "Bears of North America | Be Bear Aware Campaign",
+      "link": "https://bebearaware.org/bears-of-north-america#:~:text=Most%20of%20the%20U.S.%20brown,Idaho%2C%20Wyoming%2C%20and%20Washington.",
+      "displayed_link": "https://bebearaware.org \u203a bears-of-north-america",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYzNHqGN2uobnQAIWa9DLrbPBomnewufDMaCHNj8QUEJT28oOP6xcf9RWJbA&s",
+      "source_logo": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/ea372cae9c3b80b30c585c76b8996806cf54fedeb31c497d853e4a5feaf6be81.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1NFTkRjbWREVUdoeVMxZEJWamhVUlhST1dXbExhVzFhWjNnM1VXeHVaVGR2VUZGTmVtWXpTbmR5T1dRM09FNVFia0pWYXpaMk9XeEZhMmxCYzBKclJWTnJPRFkxRWhkRlV6QkxXaTFQUkVSUFEwTjJjakJRYTJJM01HdFJOQm9pUVVaWWNrVmpjVWhUZDFKUlJuRk1kRWRqZVVaQ1VEWmxSa05xWVc1emEycElkdyIsImZjdiI6IjMiLCJlaSI6IkVTMEtaLU9ERE9DQ3ZyMFBrYjcwa1E0IiwicWMiOiJDZ3BpY205M2JpQmlaV0Z5RUFCOVp0UTFQdyIsInF1ZXN0aW9uIjoiV2hlcmUgZG8gYnJvd24gYmVhcnMgbGl2ZSBpbiB0aGUgVVM/IiwibGsiOiJHaU4zYUdWeVpTQmtieUJpY205M2JpQmlaV0Z5Y3lCc2FYWmxJR2x1SUhSb1pTQjFjdyIsImJzIjoiYzRXUXZ3ckNNQmpFY2Mza1dBTGlSMXQzeVM1ZGRWR2hTRGZoYXhOTmFFMmg2Ul9iWl9GcG5NVm5NdFdsZHVsNjl6dTRPN0lsN3M1QVhPU05obGhnQWFVVVlQQW1BQTFjQzlWMVdSczQ3d05iMG9YNkEwY1EyUk12bEhtVmNXanpDa3lDaGJVYmJBRUhxY0I1cGN5bnJwa2t5Wkg0a1JUVzR2bEFOcENwV29EUzM2S25NSENlZDdhaVhqT0ZWb2FjeVNhU1dJTGQwU3RjWFM0MnBCTmg4YklSUXZjRk1relMzMERVZk5UOXNXYVVPZ09rSGo0eW4zMEEiLCJpZCI6ImZjXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1NFTkRjbWREVUdoeVMxZEJWamhVUlhST1dXbExhVzFhWjNnM1VXeHVaVGR2VUZGTmVtWXpTbmR5T1dRM09FNVFia0pWYXpaMk9XeEZhMmxCYzBKclJWTnJPRFkxRWhkRlV6QkxXaTFQUkVSUFEwTjJjakJRYTJJM01HdFJOQm9pUVVaWWNrVmpjVWhUZDFKUlJuRk1kRWRqZVVaQ1VEWmxSa05xWVc1emEycElkdyIsImZjdiI6IjMiLCJlaSI6IkVTMEtaLU9ERE9DQ3ZyMFBrYjcwa1E0IiwicWMiOiJDZ3BpY205M2JpQmlaV0Z5RUFCOVp0UTFQdyIsInF1ZXN0aW9uIjoiV2hlcmUgZG8gYnJvd24gYmVhcnMgbGl2ZSBpbiB0aGUgVVM%2FIiwibGsiOiJHaU4zYUdWeVpTQmtieUJpY205M2JpQmlaV0Z5Y3lCc2FYWmxJR2x1SUhSb1pTQjFjdyIsImJzIjoiYzRXUXZ3ckNNQmpFY2Mza1dBTGlSMXQzeVM1ZGRWR2hTRGZoYXhOTmFFMmg2Ul9iWl9GcG5NVm5NdFdsZHVsNjl6dTRPN0lsN3M1QVhPU05obGhnQWFVVVlQQW1BQTFjQzlWMVdSczQ3d05iMG9YNkEwY1EyUk12bEhtVmNXanpDa3lDaGJVYmJBRUhxY0I1cGN5bnJwa2t5Wkg0a1JUVzR2bEFOcENwV29EUzM2S25NSENlZDdhaVhqT0ZWb2FjeVNhU1dJTGQwU3RjWFM0MnBCTmg4YklSUXZjRk1relMzMERVZk5UOXNXYVVPZ09rSGo0eW4zMEEiLCJpZCI6ImZjXzMifQ%3D%3D"
+    },
+    {
+      "question": "What is the difference between a black bear and a brown bear?",
+      "snippet": "A brown bear (Ursus arctos) is usually larger than a black bear (Ursus americanus), has a more prominent hump on its shoulder, less prominent ears, and longer, straighter front claws. Longer claws are useful for digging roots or excavating small burrowing animals.",
+      "title": "Brown and Black Bear Viewing - Alaska Department of Fish and Game",
+      "link": "https://www.adfg.alaska.gov/index.cfm?adfg=viewing.landmammals&species=bears#:~:text=A%20brown%20bear%20(Ursus%20arctos,or%20excavating%20small%20burrowing%20animals.",
+      "displayed_link": "https://www.adfg.alaska.gov \u203a species=bears",
+      "source_logo": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/ea372cae9c3b80b30c585c76b8996806ff26aea671bc2def16a48d099dc9c7e1.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1NFTkRjbWREVUdoeVMxZEJWamhVUlhST1dXbExhVzFhWjNnM1VXeHVaVGR2VUZGTmVtWXpTbmR5T1dRM09FNVFia0pWYXpaMk9XeEZhMmxCYzBKclJWTnJPRFkxRWhkRlV6QkxXaTFQUkVSUFEwTjJjakJRYTJJM01HdFJOQm9pUVVaWWNrVmpjVWhUZDFKUlJuRk1kRWRqZVVaQ1VEWmxSa05xWVc1emEycElkdyIsImZjdiI6IjMiLCJlaSI6IkVTMEtaLU9ERE9DQ3ZyMFBrYjcwa1E0IiwicWMiOiJDZ3BpY205M2JpQmlaV0Z5RUFCOVp0UTFQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIGEgYmxhY2sgYmVhciBhbmQgYSBicm93biBiZWFyPyIsImxrIjoiYzVPU1NNcEpUTTVXU0VwTkxGSW9LMVpJS3Nvdnp3UHpBQSIsImJzIjoiYzRXUXZ3ckNNQmpFY2Mza1dBTGlSMXQzeVM1ZGRWR2hTRGZoYXhOTmFFMmg2Ul9iWl9GcG5NVm5NdFdsZHVsNjl6dTRPN0lsN3M1QVhPU05obGhnQWFVVVlQQW1BQTFjQzlWMVdSczQ3d05iMG9YNkEwY1EyUk12bEhtVmNXanpDa3lDaGJVYmJBRUhxY0I1cGN5bnJwa2t5Wkg0a1JUVzR2bEFOcENwV29EUzM2S25NSENlZDdhaVhqT0ZWb2FjeVNhU1dJTGQwU3RjWFM0MnBCTmg4YklSUXZjRk1relMzMERVZk5UOXNXYVVPZ09rSGo0eW4zMEEiLCJpZCI6ImZjXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1NFTkRjbWREVUdoeVMxZEJWamhVUlhST1dXbExhVzFhWjNnM1VXeHVaVGR2VUZGTmVtWXpTbmR5T1dRM09FNVFia0pWYXpaMk9XeEZhMmxCYzBKclJWTnJPRFkxRWhkRlV6QkxXaTFQUkVSUFEwTjJjakJRYTJJM01HdFJOQm9pUVVaWWNrVmpjVWhUZDFKUlJuRk1kRWRqZVVaQ1VEWmxSa05xWVc1emEycElkdyIsImZjdiI6IjMiLCJlaSI6IkVTMEtaLU9ERE9DQ3ZyMFBrYjcwa1E0IiwicWMiOiJDZ3BpY205M2JpQmlaV0Z5RUFCOVp0UTFQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIGEgYmxhY2sgYmVhciBhbmQgYSBicm93biBiZWFyPyIsImxrIjoiYzVPU1NNcEpUTTVXU0VwTkxGSW9LMVpJS3Nvdnp3UHpBQSIsImJzIjoiYzRXUXZ3ckNNQmpFY2Mza1dBTGlSMXQzeVM1ZGRWR2hTRGZoYXhOTmFFMmg2Ul9iWl9GcG5NVm5NdFdsZHVsNjl6dTRPN0lsN3M1QVhPU05obGhnQWFVVVlQQW1BQTFjQzlWMVdSczQ3d05iMG9YNkEwY1EyUk12bEhtVmNXanpDa3lDaGJVYmJBRUhxY0I1cGN5bnJwa2t5Wkg0a1JUVzR2bEFOcENwV29EUzM2S25NSENlZDdhaVhqT0ZWb2FjeVNhU1dJTGQwU3RjWFM0MnBCTmg4YklSUXZjRk1relMzMERVZk5UOXNXYVVPZ09rSGo0eW4zMEEiLCJpZCI6ImZjXzMifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Brown bear",
+      "link": "https://en.wikipedia.org/wiki/Brown_bear",
+      "redirect_link": "https://www.google.com/url?sa=t&url=https://en.wikipedia.org/wiki/Brown_bear&usg=AOvVaw3uTVM8QOYe59YWfG1GdHuz",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Brown_bear",
+      "thumbnail": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/236381b81b19794e7c889c3f0cbacb8367d4d9aa3d067c9f4ca354e281ef7fd5.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/236381b81b19794e7c889c3f0cbacb83060eca30674f8da5b8da8ee6f670f885.png",
+      "snippet": "The brown bear (Ursus arctos) is a large bear native to Eurasia and North America. It is one of the largest land carnivorans, rivaled in size only by its ...",
+      "snippet_highlighted_words": [
+        "brown bear"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Subspecies",
+            "link": "https://en.wikipedia.org/wiki/Subspecies_of_brown_bear"
+          },
+          {
+            "title": "Eurasian brown bear",
+            "link": "https://en.wikipedia.org/wiki/Eurasian_brown_bear"
+          },
+          {
+            "title": "Himalayan brown",
+            "link": "https://en.wikipedia.org/wiki/Himalayan_brown_bear"
+          },
+          {
+            "title": "Marsican brown bear",
+            "link": "https://en.wikipedia.org/wiki/Marsican_brown_bear"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Brown Bear, Brown Bear, What Do You See? Song | Kids ...",
+      "link": "https://www.youtube.com/watch?v=E7tvOtt1itA",
+      "displayed_link": "9.9M+ views \u00b7 2 years ago",
+      "thumbnail": "https://i.ytimg.com/vi/E7tvOtt1itA/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3nhjKp7rCXL7DCmEoi6PTB_VMt5OA",
+      "favicon": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/236381b81b19794e7c889c3f0cbacb8313044267bda5442286dedc6e7360f9ab.png",
+      "snippet": "Brown Bear, Brown Bear, What Do You See? Song | Kids Songs | Eric Carle Book | Colors | Animals. 9.9M views \u00b7 2 years ago ...more ...",
+      "duration": "3:07",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSY87Tp0eMSupeqyQzGSbXCYqxnBJiqxoDouA",
+      "source": "YouTube \u00b7 Mr. Elephant - Music and Books for Kids"
+    },
+    {
+      "position": 3,
+      "title": "Amazon.com: Brown Bear, Brown Bear, What Do You See?",
+      "link": "https://www.amazon.com/Brown-Bear-What-You-See/dp/0805047905",
+      "redirect_link": "https://www.google.com/url?sa=t&url=https://www.amazon.com/Brown-Bear-What-You-See/dp/0805047905&usg=AOvVaw1CJaMUZGAV5Tocw6AvdUv7",
+      "displayed_link": "https://www.amazon.com \u203a Brown-Bear-What-You-See",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQmskLBpdLN2AF84P9ItDhxiHL0RyNlrZ5dFJY-CY&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/236381b81b19794e7c889c3f0cbacb83dafc0ac8348a4b30986b94f596a9fb97.png",
+      "snippet": "This rollicking companion to Brown Bear, Brown Bear, What Do You See? is a playful story introducing zoo animals, colors, and sounds to the youngest readers.",
+      "snippet_highlighted_words": [
+        "Brown Bear",
+        "Brown Bear"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 30,
+            "price": 5.36,
+            "currency": "$"
+          },
+          "extensions": [
+            "4.9(53,606)",
+            "$5.36",
+            "\u200e30",
+            "day returns",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Amazon.com"
+    },
+    {
+      "position": 4,
+      "title": "Brown Bear (Ursus arctos) Species Profile",
+      "link": "https://www.adfg.alaska.gov/index.cfm?adfg=brownbear.main",
+      "redirect_link": "https://www.google.com/url?sa=t&url=https://www.adfg.alaska.gov/index.cfm?adfg=brownbear.main&usg=AOvVaw041yNbe36_YKRMxNp3Qdfg",
+      "displayed_link": "https://www.adfg.alaska.gov \u203a ... \u203a Species \u203a Animals",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwzTuR-QBIRqMvVlhcieFXGl6nh0c9lGgAjTqxmllaEpP-b9tHY0BV&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/236381b81b19794e7c889c3f0cbacb83934d64dc86440ff36555884c0ebb60f9.png",
+      "snippet": "Brown bears are usually larger than black bears, have a more prominent shoulder hump, less prominent ears, and longer, straighter claws. Polar bears are similar ...",
+      "snippet_highlighted_words": [
+        "Brown bears"
+      ],
+      "source": "Alaska Department of Fish and Game (.gov)"
+    },
+    {
+      "position": 5,
+      "title": "Brown Bear | Species | WWF",
+      "link": "https://www.worldwildlife.org/species/brown-bear",
+      "redirect_link": "https://www.google.com/url?sa=t&url=https://www.worldwildlife.org/species/brown-bear&usg=AOvVaw1vnr5k0Ovb-Pp4d5IFYFaJ",
+      "displayed_link": "https://www.worldwildlife.org \u203a species \u203a brown-bear",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSug1yx_LdkDKF7FdTcwOcKJyrSujnU4SOpqClUWPMcBKBrHJlr3B14qYA&s",
+      "favicon": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/236381b81b19794e7c889c3f0cbacb83de998b667648020568e5032fdeb14a00.png",
+      "snippet": "Formerly hunted for its hides, meat, and as a big game trophy, the brown bear's most severe threats are currently habitat destruction and persecution.",
+      "snippet_highlighted_words": [
+        "brown bear's"
+      ],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSug1yx_LdkDKF7FdTcwOcKJyrSujnU4SOpqClUWPMcBKBrHJlr3B14qYA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXlxkb4YawOf3SyJf_M-eutePt0XmjN9yPe4w2upQJyLyposygTAYV4g&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7vhlGr7zK5sj9CitW9X9-7lzQnbkqB17KFUWx9_EtaN-CZ1ZtvmkfpPw&s"
+      ],
+      "source": "World Wildlife Fund"
+    },
+    {
+      "position": 6,
+      "title": "Brown Bear Car Wash | Washington's Favorite Car Wash ...",
+      "link": "https://www.brownbear.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&url=https://www.brownbear.com/&usg=AOvVaw2gI2AWrEPfjcYdAgUaLy6C",
+      "displayed_link": "https://www.brownbear.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMke4K_ltN8qET8W_a5HWEuFSXdcBFiQWHxCUA97k&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/236381b81b19794e7c889c3f0cbacb833561e93d6985019dcd620c75e1057e7c.png",
+      "snippet": "We are Washington's Favorite Car Wash for over 65 years! With over 45 convenient locations, Brown Bear Car Wash is here to keep your car looking great.",
+      "snippet_highlighted_words": [
+        "Brown Bear"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Sign In",
+            "link": "https://www.brownbear.com/sign-in"
+          },
+          {
+            "title": "Find a Wash",
+            "link": "https://www.brownbear.com/locations"
+          },
+          {
+            "title": "About Our Washes",
+            "link": "https://www.brownbear.com/about-our-washes"
+          },
+          {
+            "title": "Tunnel Car Washes",
+            "link": "https://www.brownbear.com/about-our-washes/tunnel-car-wash"
+          }
+        ]
+      },
+      "source": "Brown Bear Car Wash"
+    },
+    {
+      "position": 7,
+      "title": "Brown Bear, Polar Bear, Panda Bear and Baby Bear, What Do ...",
+      "link": "https://www.youtube.com/watch?v=-Jayv9tcp0k",
+      "displayed_link": "4.2M+ views \u00b7 1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/-Jayv9tcp0k/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kQ_0zg8te_xBBbNjDtygQ1Gtb0Sw",
+      "favicon": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/236381b81b19794e7c889c3f0cbacb83f4645f9847114bd2122e36a72c80d73f.png",
+      "snippet": "SUBSCRIBE NOW to help public school educators. Here's the one-stop shop for the musical bear books by Bill Martin Jr. and Eric Carle.",
+      "duration": "13:31",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "3:36: Brown Bear, Brown Bear, What Do You See?",
+          "link": "https://www.youtube.com/watch?v=-Jayv9tcp0k&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT025o5bYsz0ZKHUrquxBAZbxi9BheCaTBFCdYm45w5zg&s"
+        },
+        {
+          "time": "03:37",
+          "title": "7:37: Polar Bear, Polar Bear, What Do You Hear?",
+          "link": "https://www.youtube.com/watch?v=-Jayv9tcp0k&t=217",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ZHH9nXPCLiyp8P5jdHmQxJqXnzq1YBBIaOQe3CRFcg&s"
+        },
+        {
+          "time": "07:38",
+          "title": "10:54: Panda Bear, Panda Bear, What Do You See?",
+          "link": "https://www.youtube.com/watch?v=-Jayv9tcp0k&t=458",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU_BO56MbQzuhIyFbYzZzmPYIxGAn-rtwaYAn75_mYoQ&s"
+        },
+        {
+          "time": "10:55",
+          "title": "13:30: Baby Bear, Baby Bear, What Do You See?",
+          "link": "https://www.youtube.com/watch?v=-Jayv9tcp0k&t=655",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOzNV98dfApR0hWQ4AtHc6JL-zQTIMn7oilNL9wdw4BA&s"
+        }
+      ],
+      "source": "YouTube \u00b7 Mr. Elephant - Music and Books for Kids"
+    },
+    {
+      "position": 8,
+      "title": "Brown bear | Diet, Habitat, & Facts",
+      "link": "https://www.britannica.com/animal/brown-bear",
+      "redirect_link": "https://www.google.com/url?sa=t&url=https://www.britannica.com/animal/brown-bear&usg=AOvVaw21JJ7GSWLTowRJCPIYcZ5X",
+      "displayed_link": "https://www.britannica.com \u203a ... \u203a Mammals \u203a Carnivores",
+      "favicon": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/236381b81b19794e7c889c3f0cbacb83584eea6d3190cf4199cbba05607f6f77.png",
+      "date": "Sep 13, 2024",
+      "snippet": "Brown bears are omnivorous and feed on berries, plant roots and shoots, small mammals, fish, calves of many hoofed animals, and carrion. They ...",
+      "snippet_highlighted_words": [
+        "Brown bears"
+      ],
+      "source": "Britannica"
+    },
+    {
+      "position": 9,
+      "title": "Brown Bear - D&D 5th Edition",
+      "link": "https://roll20.net/compendium/dnd5e/Brown%20Bear",
+      "redirect_link": "https://www.google.com/url?sa=t&url=https://roll20.net/compendium/dnd5e/Brown%20Bear&usg=AOvVaw1lQJ2WmRF4Svsn9HNokDam",
+      "displayed_link": "https://roll20.net \u203a compendium \u203a Brown Bear",
+      "favicon": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/236381b81b19794e7c889c3f0cbacb83adc6932a315afe37148fefe73a100564.png",
+      "snippet": "The bear makes two attacks: one with its bite and one with its claws. Bite: Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.",
+      "snippet_highlighted_words": [
+        "bear"
+      ],
+      "source": "Roll20"
+    },
+    {
+      "position": 10,
+      "title": "Brown Bears",
+      "link": "https://www.nps.gov/subjects/bears/brown-bears.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&url=https://www.nps.gov/subjects/bears/brown-bears.htm&usg=AOvVaw2uRBIzOfQFhRYj1bRk-4gx",
+      "displayed_link": "https://www.nps.gov \u203a subjects \u203a bears \u203a brown-bears",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ131GIC5TxH6aDjigqqcVG2GpXVm_0p9tqe2RPHgVspiGyI3NAuP1d&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2d10db3ac9dac52b157c/images/236381b81b19794e7c889c3f0cbacb8365698c2f09ea20cd04bb148b56743691.png",
+      "date": "Apr 5, 2022",
+      "snippet": "Brown bears are omnivorous, eating a mixed diet of plants, berries, fish, and small mammals. Unlike black bears, brown bears have long, strong claws.",
+      "snippet_highlighted_words": [
+        "Brown bears",
+        "brown bears"
+      ],
+      "source": "National Park Service (.gov)"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Brown bear vs grizzly bear",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Brown+bear+vs+grizzly+bear&sa=X&ved=2ahUKEwij0K6xsIiJAxVgga8BHREfPeIQ1QJ6BQiEARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Brown+bear+vs+grizzly+bear"
+    },
+    {
+      "block_position": 1,
+      "query": "Brown bear drawing",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Brown+bear+drawing&sa=X&ved=2ahUKEwij0K6xsIiJAxVgga8BHREfPeIQ1QJ6BQiDARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Brown+bear+drawing"
+    },
+    {
+      "block_position": 1,
+      "query": "Brown Bear Bakery",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Brown+Bear+Bakery&sa=X&ved=2ahUKEwij0K6xsIiJAxVgga8BHREfPeIQ1QJ6BQiBARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Brown+Bear+Bakery"
+    },
+    {
+      "block_position": 1,
+      "query": "Brown Bear book",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Brown+Bear+book&sa=X&ved=2ahUKEwij0K6xsIiJAxVgga8BHREfPeIQ1QJ6BQiCARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Brown+Bear+book"
+    },
+    {
+      "block_position": 1,
+      "query": "Brown Bear bss",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Brown+Bear+bss&sa=X&ved=2ahUKEwij0K6xsIiJAxVgga8BHREfPeIQ1QJ6BQiFARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Brown+Bear+bss"
+    },
+    {
+      "block_position": 1,
+      "query": "Brown Bear Song",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Brown+Bear+Song&sa=X&ved=2ahUKEwij0K6xsIiJAxVgga8BHREfPeIQ1QJ6BQiGARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Brown+Bear+Song"
+    },
+    {
+      "block_position": 1,
+      "query": "Brown bear height",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Brown+bear+height&sa=X&ved=2ahUKEwij0K6xsIiJAxVgga8BHREfPeIQ1QJ6BQiIARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Brown+bear+height"
+    },
+    {
+      "block_position": 1,
+      "query": "Black bear",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Black+bear&sa=X&ved=2ahUKEwij0K6xsIiJAxVgga8BHREfPeIQ1QJ6BQiHARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Black+bear"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=brown+bear&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=ES0KZ-ODDOCCvr0Pkb70kQ4&start=10&sa=N&sstk=AagrsujipSghakwsVAqgPmQri7_cyQSwqTBsfgBLz1gLyjTmyh43I484CozmR9Y89GFvkrXFF-AfIKRdp-Z3AtJQvZGmLj_GEr6Rkw&ved=2ahUKEwij0K6xsIiJAxVgga8BHREfPeIQ8NMDegQIHRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=brown+bear&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=ES0KZ-ODDOCCvr0Pkb70kQ4&start=10&sa=N&sstk=AagrsujipSghakwsVAqgPmQri7_cyQSwqTBsfgBLz1gLyjTmyh43I484CozmR9Y89GFvkrXFF-AfIKRdp-Z3AtJQvZGmLj_GEr6Rkw&ved=2ahUKEwij0K6xsIiJAxVgga8BHREfPeIQ8tMDegQIHRAE",
+      "3": "https://www.google.com/search?q=brown+bear&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=ES0KZ-ODDOCCvr0Pkb70kQ4&start=20&sa=N&sstk=AagrsujipSghakwsVAqgPmQri7_cyQSwqTBsfgBLz1gLyjTmyh43I484CozmR9Y89GFvkrXFF-AfIKRdp-Z3AtJQvZGmLj_GEr6Rkw&ved=2ahUKEwij0K6xsIiJAxVgga8BHREfPeIQ8tMDegQIHRAG",
+      "4": "https://www.google.com/search?q=brown+bear&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=ES0KZ-ODDOCCvr0Pkb70kQ4&start=30&sa=N&sstk=AagrsujipSghakwsVAqgPmQri7_cyQSwqTBsfgBLz1gLyjTmyh43I484CozmR9Y89GFvkrXFF-AfIKRdp-Z3AtJQvZGmLj_GEr6Rkw&ved=2ahUKEwij0K6xsIiJAxVgga8BHREfPeIQ8tMDegQIHRAI",
+      "5": "https://www.google.com/search?q=brown+bear&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=ES0KZ-ODDOCCvr0Pkb70kQ4&start=40&sa=N&sstk=AagrsujipSghakwsVAqgPmQri7_cyQSwqTBsfgBLz1gLyjTmyh43I484CozmR9Y89GFvkrXFF-AfIKRdp-Z3AtJQvZGmLj_GEr6Rkw&ved=2ahUKEwij0K6xsIiJAxVgga8BHREfPeIQ8tMDegQIHRAK",
+      "6": "https://www.google.com/search?q=brown+bear&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=ES0KZ-ODDOCCvr0Pkb70kQ4&start=50&sa=N&sstk=AagrsujipSghakwsVAqgPmQri7_cyQSwqTBsfgBLz1gLyjTmyh43I484CozmR9Y89GFvkrXFF-AfIKRdp-Z3AtJQvZGmLj_GEr6Rkw&ved=2ahUKEwij0K6xsIiJAxVgga8BHREfPeIQ8tMDegQIHRAM",
+      "7": "https://www.google.com/search?q=brown+bear&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=ES0KZ-ODDOCCvr0Pkb70kQ4&start=60&sa=N&sstk=AagrsujipSghakwsVAqgPmQri7_cyQSwqTBsfgBLz1gLyjTmyh43I484CozmR9Y89GFvkrXFF-AfIKRdp-Z3AtJQvZGmLj_GEr6Rkw&ved=2ahUKEwij0K6xsIiJAxVgga8BHREfPeIQ8tMDegQIHRAO",
+      "8": "https://www.google.com/search?q=brown+bear&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=ES0KZ-ODDOCCvr0Pkb70kQ4&start=70&sa=N&sstk=AagrsujipSghakwsVAqgPmQri7_cyQSwqTBsfgBLz1gLyjTmyh43I484CozmR9Y89GFvkrXFF-AfIKRdp-Z3AtJQvZGmLj_GEr6Rkw&ved=2ahUKEwij0K6xsIiJAxVgga8BHREfPeIQ8tMDegQIHRAQ",
+      "9": "https://www.google.com/search?q=brown+bear&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=ES0KZ-ODDOCCvr0Pkb70kQ4&start=80&sa=N&sstk=AagrsujipSghakwsVAqgPmQri7_cyQSwqTBsfgBLz1gLyjTmyh43I484CozmR9Y89GFvkrXFF-AfIKRdp-Z3AtJQvZGmLj_GEr6Rkw&ved=2ahUKEwij0K6xsIiJAxVgga8BHREfPeIQ8tMDegQIHRAS",
+      "10": "https://www.google.com/search?q=brown+bear&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=ES0KZ-ODDOCCvr0Pkb70kQ4&start=90&sa=N&sstk=AagrsujipSghakwsVAqgPmQri7_cyQSwqTBsfgBLz1gLyjTmyh43I484CozmR9Y89GFvkrXFF-AfIKRdp-Z3AtJQvZGmLj_GEr6Rkw&ved=2ahUKEwij0K6xsIiJAxVgga8BHREfPeIQ8tMDegQIHRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brown+bear&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brown+bear&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brown+bear&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brown+bear&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brown+bear&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brown+bear&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brown+bear&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brown+bear&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brown+bear&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brown+bear&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brown+bear&start=90"
+    }
+  }
+}

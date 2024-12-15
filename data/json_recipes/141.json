@@ -1,0 +1,658 @@
+{
+  "search_metadata": {
+    "id": "670a1749fda26d0ad2cadf91",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f9b379079c70b856/670a1749fda26d0ad2cadf91.json",
+    "created_at": "2024-10-12 06:29:29 UTC",
+    "processed_at": "2024-10-12 06:29:29 UTC",
+    "google_url": "https://www.google.com/search?q=oyster&oq=oyster&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/f9b379079c70b856/670a1749fda26d0ad2cadf91.html",
+    "total_time_taken": 1.11
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "oyster",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "oyster",
+    "total_results": 446000000,
+    "time_taken_displayed": 0.32,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "recipes_results": [
+    {
+      "title": "Oysters on the Half Shell",
+      "link": "https://www.tabasco.com/recipe/oysters-on-the-half-shell/",
+      "source": "Tabasco",
+      "ingredients": [
+        "Red sauce",
+        "lemon",
+        "crushed ice"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJPxtK-DPuNLD5s454IFNTME7E8qqF5yxk5V7ZYj4JBg&s"
+    },
+    {
+      "title": "Fried Oysters (\u9165\u70b8\u751f\u8814): My Dad's Authentic Recipe (Video)!",
+      "link": "https://www.madewithlau.com/recipes/fried-oysters",
+      "source": "Made With Lau",
+      "rating": 4.9,
+      "reviews": 818,
+      "total_time": "15 min",
+      "ingredients": [
+        "Cabbage",
+        "fish sauce",
+        "oyster",
+        "flour",
+        "baking powder"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHVVLxdoYYY7-eowl1vOl5rXbE4kTASN2tp1DBgw5bEHDxUvTs5TcDYca4mw&s"
+    },
+    {
+      "title": "Oysters with Uni and Aguachile",
+      "link": "https://www.thebrinybabe.com/recipes/oysters-uni-aguachile",
+      "source": "The Briny Babe",
+      "ingredients": [
+        "Oysters",
+        "uni",
+        "trout roe",
+        "crushed tortilla chips",
+        "olive oil"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMK0mMicQSbIlG46FPlV-42n3FqDvYE7QJSYn8-j5TPxwshzSLlMdLksofhg&s"
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=oyster&npsic=0&rflfq=1&rldoc=1&rllag=30280652,-97764838,2485&tbm=lcl&sa=X&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQtgN6BAg6EAI",
+    "image": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/5b6d3e9b62bb87be8c0e8999ab1ca058.png",
+    "gps_coordinates": {
+      "latitude": 30.280652,
+      "longitude": -97.764838
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.4,
+        "reviews_original": "(175)",
+        "reviews": 175,
+        "description": "\"The oysters are fresh and taste right from the sea.\"",
+        "lsig": "AB86z5XJB5DHWBG1OfLwABENMmNV",
+        "thumbnail": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/e6f9a2386a1dabcc513c834464ca5fe3cd5797d3ce9d489edb1ada614b86b64d142dee56e0da9734.jpeg",
+        "title": "Bill's Oyster",
+        "type": "Restaurant",
+        "address": "205 W 3rd St",
+        "hours": "Closed \u22c5 Opens 10:30 AM",
+        "place_id": "16395400424363949746",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=16395400424363949746&q=oyster",
+        "gps_coordinates": {
+          "latitude": 30.265644,
+          "longitude": -97.74566
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.6,
+        "reviews_original": "(580)",
+        "reviews": 580,
+        "description": "\"\u2b50\u2b50\u2b50\u2b50\u2b50 Oyster Landing is an absolute gem in Austin!\"",
+        "lsig": "AB86z5Xx2FZ3_S2uHbAsgLierQMK",
+        "thumbnail": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/e6f9a2386a1dabcc513c834464ca5fe3e4c6d82e5efc082fe67bf81f321f06af450fc2bc03f709fb.jpeg",
+        "title": "Oyster Landing",
+        "type": "Business center",
+        "address": "3825 Lake Austin Blvd",
+        "place_id": "1533538407018948138",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=1533538407018948138&q=oyster",
+        "gps_coordinates": {
+          "latitude": 30.29566,
+          "longitude": -97.78401
+        }
+      },
+      {
+        "position": 3,
+        "rating": 4.0,
+        "reviews_original": "(119)",
+        "reviews": 119,
+        "description": "\"Love their Happy Hour, love their service and atmosphere, oysters so fresh!\"",
+        "lsig": "AB86z5Xsr-inJZ_p118tbozuyzBx",
+        "thumbnail": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/e6f9a2386a1dabcc513c834464ca5fe39cdf01e42598acec38664be0cc6a493da95a7dc0c576fe01.jpeg",
+        "title": "Pearl and Fin Oyster Bar",
+        "type": "Seafood",
+        "address": "1611 W 5th St Suite 105",
+        "hours": "Closed \u22c5 Opens 5 PM",
+        "place_id": "11677584049333257649",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=11677584049333257649&q=oyster",
+        "gps_coordinates": {
+          "latitude": 30.274511,
+          "longitude": -97.76464
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=oyster&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQjGp6BAg7EAE"
+  },
+  "knowledge_graph": {
+    "title": "Oyster",
+    "type": "Seafood",
+    "entity_type": "biology, food, animal",
+    "kgmid": "/m/0_cp5",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0_cp5&hl=en-US&q=Oyster",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0_cp5&location=Austin%2CTexas%2CUnited+States&q=Oyster",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/ccfeb9a247fcd4184b34e4e3d0d19c89535b73cc93fd8f763ac24a17653dd9632dc994e098bf0162.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/ccfeb9a247fcd4184b34e4e3d0d19c89535b73cc93fd8f769a87fe3f919080da8e99058c1b2609b9.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/ccfeb9a247fcd4184b34e4e3d0d19c89535b73cc93fd8f767613a328d9e7326764e7f57149c5cb02.webp"
+      }
+    ],
+    "sources_include": "USDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAOyster, Eastern, breaded and fried175 Calories - 6 medium (88 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171979/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/175172/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/175173/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171978/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/175171/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171980/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/174219/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/174250/nutrients"
+      }
+    ],
+    "web_results": [
+      {
+        "snippet": "Oyster is the common name for a number of different families of salt-water bivalve molluscs that live in marine or brackish habitats. In some species, the valves are highly calcified, and many are somewhat irregular in shape. Many, but not all oysters, are in the superfamily Ostreoidea.",
+        "source": "Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Oyster"
+      },
+      {
+        "title": "Class",
+        "snippet": "Bivalvia",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=oyster+class&stick=H4sIAAAAAAAAAOPgE-LQz9U3iE8uMNUSKi620i9PTUpLTC4ptkrOSSwuXsTKk19ZXJJapADmAgCw1404LwAAAA&sa=X&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQ18AJegQIMhAB"
+      },
+      {
+        "title": "Domain",
+        "snippet": "Eukaryota",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=oyster+domain&stick=H4sIAAAAAAAAAOPgE-LQz9U3iE8uMNUSLi620i9PTUpLTC4ptkrJz03MzFvEyptfWVySWqQA4QMAjesjNjEAAAA&sa=X&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQ18AJegQIMxAB"
+      }
+    ],
+    "representative_species": [
+      {
+        "name": "True oysters",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Ostreidae&stick=H4sIAAAAAAAAAONgFuLQz9U3iE8uMFXiBLGMzJOzK7Xss5Ot9JMy83Py0yv1M_PS8otyE3PiIQKZyUBmelF-aUFmXrpVUWpBUWpxal5JYklmWapCcUFqcmZq8SJWTv_ikqLUzJTE1B2sjAAHh3acZwAAAA&sa=X&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQxA16BAgvEAM",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Ostreidae&stick=H4sIAAAAAAAAAONgFuLQz9U3iE8uMFXiBLGMzJOzK7Xss5Ot9JMy83Py0yv1M_PS8otyE3PiIQKZyUBmelF-aUFmXrpVUWpBUWpxal5JYklmWapCcUFqcmZq8SJWTv_ikqLUzJTE1B2sjAAHh3acZwAAAA",
+        "image": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/ccfeb9a247fcd4184b34e4e3d0d19c898f51289419e6affcebc8655f3bc70e28456f96d08eca43583cc975aada41f382.jpeg"
+      },
+      {
+        "name": "Crassostrea",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Crassostrea&stick=H4sIAAAAAAAAAONgFuLQz9U3iE8uMFXiArHMqkpKzHK07LOTrfSTMvNz8tMr9TPz0vKLchNz4iECmclAZnpRfmlBZl66VVFqQVFqcWpeSWJJZlmqQnFBanJmavEiVm7nosTi4vzikqLUxB2sjACPtbrQagAAAA&sa=X&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQxA16BAgvEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Crassostrea&stick=H4sIAAAAAAAAAONgFuLQz9U3iE8uMFXiArHMqkpKzHK07LOTrfSTMvNz8tMr9TPz0vKLchNz4iECmclAZnpRfmlBZl66VVFqQVFqcWpeSWJJZlmqQnFBanJmavEiVm7nosTi4vzikqLUxB2sjACPtbrQagAAAA",
+        "image": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/ccfeb9a247fcd4184b34e4e3d0d19c898f51289419e6affcebc8655f3bc70e28caa7a2d1296164fbe00c77f08e64b850.jpeg"
+      },
+      {
+        "name": "Pinctada",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Pinctada&stick=H4sIAAAAAAAAAONgFuLQz9U3iE8uMFXiBLGMzNOyM7Tss5Ot9JMy83Py0yv1M_PS8otyE3PiIQKZyUBmelF-aUFmXrpVUWpBUWpxal5JYklmWapCcUFqcmZq8SJWjoDMvOSSxJTEHayMALWatc5mAAAA&sa=X&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQxA16BAgvEAc",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pinctada&stick=H4sIAAAAAAAAAONgFuLQz9U3iE8uMFXiBLGMzNOyM7Tss5Ot9JMy83Py0yv1M_PS8otyE3PiIQKZyUBmelF-aUFmXrpVUWpBUWpxal5JYklmWapCcUFqcmZq8SJWjoDMvOSSxJTEHayMALWatc5mAAAA",
+        "image": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/ccfeb9a247fcd4184b34e4e3d0d19c898f51289419e6affcebc8655f3bc70e28dc65bf7d6d4940f4deb04964ebe4785b.jpeg"
+      },
+      {
+        "name": "Ostrea edulis",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Ostrea+edulis&stick=H4sIAAAAAAAAAONgFuLQz9U3iE8uMFXiBLFSDMqL0rXss5Ot9JMy83Py0yv1M_PS8otyE3PiIQKZyUBmelF-aUFmXrpVUWpBUWpxal5JYklmWapCcUFqcmZq8SJWXv_ikqLURIXUlNKczOIdrIwA3ieRvGsAAAA&sa=X&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQxA16BAgvEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Ostrea+edulis&stick=H4sIAAAAAAAAAONgFuLQz9U3iE8uMFXiBLFSDMqL0rXss5Ot9JMy83Py0yv1M_PS8otyE3PiIQKZyUBmelF-aUFmXrpVUWpBUWpxal5JYklmWapCcUFqcmZq8SJWXv_ikqLURIXUlNKczOIdrIwA3ieRvGsAAAA",
+        "image": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/ccfeb9a247fcd4184b34e4e3d0d19c898f51289419e6affcebc8655f3bc70e28199d0882b93a996279946911bddc025c.jpeg"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "11 g",
+        "16%"
+      ],
+      "cholesterol": [
+        "62 mg",
+        "20%"
+      ],
+      "sodium": [
+        "367 mg",
+        "15%"
+      ],
+      "potassium": [
+        "215 mg",
+        "6%"
+      ],
+      "total_carbohydrate": [
+        "10 g",
+        "3%"
+      ],
+      "protein": [
+        "8 g",
+        "16%"
+      ]
+    }
+  },
+  "related_questions": [
+    {
+      "question": "Are oysters healthy to eat?",
+      "snippet": "Let's cut to the chase \u2014 YES, oysters are good for you! In fact, oysters are often considered a superfood because of their incredible nutrition-to-calorie ratio. One 3-ounce serving of oysters (typically 2-3 raw oysters) has only 69 calories, 8 grams of protein, and only 2 grams of fat.",
+      "title": "Shellfish 101: Are Oysters Good For Your Health? - North Coast Seafoods",
+      "link": "https://www.northcoastseafoods.com/blogs/seafood-nutrition/are-oysters-good-for-you#:~:text=Let's%20cut%20to%20the%20chase,only%202%20grams%20of%20fat.",
+      "displayed_link": "https://www.northcoastseafoods.com \u203a seafood-nutrition",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQft0q5af1HnUoY6ug42ugEvnSu8CuBvyejXQk127vEMA&s",
+      "source_logo": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/eef3e3dbe549824ef1ef05780a2057b1243086352ce92fd3a2707dc10e1ea091.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZWTjNaMU5xWld3MldsbDRiMUJyYlhWME9YTldNbGh2UkhZeFVXeGFWMVYwY0ZGT1ZXWTJMVkpaWWsxRU5tRm1aWGt6UkZwdWJrUm5VRVZOYm0xUE1ta3lhMDV0RWhkVFVtTkxXalI2YjAxelUwZDNPR05RTVdNMmRIZFJTUm9pUVVaWWNrVmpiM2hmV0U1RlltSldjM2xMYjFGTVQyTmtXbFJQUVRGaE5VWXhRUSIsImZjdiI6IjMiLCJlaSI6IlNSY0taNHpvTXNTR3c4Y1AxYzZ0d1FJIiwicWMiOiJDZ1p2ZVhOMFpYSVFBSDB2M1NRXyIsInF1ZXN0aW9uIjoiQXJlIG95c3RlcnMgaGVhbHRoeSB0byBlYXQ/IiwibGsiOiJHaHBoY21VZ2IzbHpkR1Z5Y3lCb1pXRnNkR2g1SUhSdklHVmhkQSIsImJzIjoiYy1PeTQ1SjJMRXBWeUs4c0xra3RLbGJJU0UzTUtjbW9WQ2pKVjBoTkxMR1gyRmxoSkNNbGxZaFRCVmNjbDdaSGZya0Nzb3Jzekp5YzFCU0ZwTlMwZktCb1pYNHBTS0ZDU1VacXJyM0VUU0VqSFNtdERLSjFjRmx3U1lSbkpKYW9GeXRrNWhWbnBxUXFKT1pCdGRsTDNJczNrcFFTTDhjdXpRWDBXVGpRblNuNWNHdHlFN05URlFwU0U0dHlpdTBsLXZSQlBpdkhxVUtBRVFBIiwiaWQiOiJmY181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZWTjNaMU5xWld3MldsbDRiMUJyYlhWME9YTldNbGh2UkhZeFVXeGFWMVYwY0ZGT1ZXWTJMVkpaWWsxRU5tRm1aWGt6UkZwdWJrUm5VRVZOYm0xUE1ta3lhMDV0RWhkVFVtTkxXalI2YjAxelUwZDNPR05RTVdNMmRIZFJTUm9pUVVaWWNrVmpiM2hmV0U1RlltSldjM2xMYjFGTVQyTmtXbFJQUVRGaE5VWXhRUSIsImZjdiI6IjMiLCJlaSI6IlNSY0taNHpvTXNTR3c4Y1AxYzZ0d1FJIiwicWMiOiJDZ1p2ZVhOMFpYSVFBSDB2M1NRXyIsInF1ZXN0aW9uIjoiQXJlIG95c3RlcnMgaGVhbHRoeSB0byBlYXQ%2FIiwibGsiOiJHaHBoY21VZ2IzbHpkR1Z5Y3lCb1pXRnNkR2g1SUhSdklHVmhkQSIsImJzIjoiYy1PeTQ1SjJMRXBWeUs4c0xra3RLbGJJU0UzTUtjbW9WQ2pKVjBoTkxMR1gyRmxoSkNNbGxZaFRCVmNjbDdaSGZya0Nzb3Jzekp5YzFCU0ZwTlMwZktCb1pYNHBTS0ZDU1VacXJyM0VUU0VqSFNtdERLSjFjRmx3U1lSbkpKYW9GeXRrNWhWbnBxUXFKT1pCdGRsTDNJczNrcFFTTDhjdXpRWDBXVGpRblNuNWNHdHlFN05URlFwU0U0dHlpdTBsLXZSQlBpdkhxVUtBRVFBIiwiaWQiOiJmY181In0%3D"
+    },
+    {
+      "question": "How are oysters killed before you eat them?",
+      "snippet": "The bad news is, it died within a few minutes of being shucked. Once an oyster's flesh is removed from the shell by cutting the adductor muscle (that tough bit that keeps the oyster clamped shut) the oyster continues to breathe for three to five minutes.",
+      "title": "Wait, are oysters alive when you eat them? - Delicious",
+      "date": "Dec 14, 2023",
+      "link": "https://www.delicious.com.au/food-files/article/oysters-alive/gac3zz1u#:~:text=The%20bad%20news%20is%2C%20it,few%20minutes%20of%20being%20shucked.&text=Once%20an%20oyster's%20flesh%20is,for%20three%20to%20five%20minutes.",
+      "displayed_link": "https://www.delicious.com.au \u203a food-files \u203a article \u203a oyst...",
+      "source_logo": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/eef3e3dbe549824ef1ef05780a2057b165c6aa150cc7f1e5b2318779fe732e61.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZWTjNaMU5xWld3MldsbDRiMUJyYlhWME9YTldNbGh2UkhZeFVXeGFWMVYwY0ZGT1ZXWTJMVkpaWWsxRU5tRm1aWGt6UkZwdWJrUm5VRVZOYm0xUE1ta3lhMDV0RWhkVFVtTkxXalI2YjAxelUwZDNPR05RTVdNMmRIZFJTUm9pUVVaWWNrVmpiM2hmV0U1RlltSldjM2xMYjFGTVQyTmtXbFJQUVRGaE5VWXhRUSIsImZjdiI6IjMiLCJlaSI6IlNSY0taNHpvTXNTR3c4Y1AxYzZ0d1FJIiwicWMiOiJDZ1p2ZVhOMFpYSVFBSDB2M1NRXyIsInF1ZXN0aW9uIjoiSG93IGFyZSBveXN0ZXJzIGtpbGxlZCBiZWZvcmUgeW91IGVhdCB0aGVtPyIsImxrIjoiR2lwb2IzY2dZWEpsSUc5NWMzUmxjbk1nYTJsc2JHVmtJR0psWm05eVpTQjViM1VnWldGMElIUm9aVzAiLCJicyI6ImMtT3k0NUoyTEVwVnlLOHNMa2t0S2xiSVNFM01LY21vVkNqSlYwaE5MTEdYMkZsaEpDTWxsWWhUQlZjY2w3WkhmcmtDc29yc3pKeWMxQlNGcE5TMGZLQm9aWDRwU0tGQ1NVWnFycjNFVFNFakhTbXRES0oxY0Zsd1NZUm5KSmFvRnl0azVoVm5wcVFxSk9aQnRkbEwzSXMza3BRU0w4Y3V6UVgwV1RqUW5TbjVjR3R5RTdOVEZRcFNFNHR5aXUwbC12UkJQaXZIcVVLQUVRQSIsImlkIjoiZmNfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZWTjNaMU5xWld3MldsbDRiMUJyYlhWME9YTldNbGh2UkhZeFVXeGFWMVYwY0ZGT1ZXWTJMVkpaWWsxRU5tRm1aWGt6UkZwdWJrUm5VRVZOYm0xUE1ta3lhMDV0RWhkVFVtTkxXalI2YjAxelUwZDNPR05RTVdNMmRIZFJTUm9pUVVaWWNrVmpiM2hmV0U1RlltSldjM2xMYjFGTVQyTmtXbFJQUVRGaE5VWXhRUSIsImZjdiI6IjMiLCJlaSI6IlNSY0taNHpvTXNTR3c4Y1AxYzZ0d1FJIiwicWMiOiJDZ1p2ZVhOMFpYSVFBSDB2M1NRXyIsInF1ZXN0aW9uIjoiSG93IGFyZSBveXN0ZXJzIGtpbGxlZCBiZWZvcmUgeW91IGVhdCB0aGVtPyIsImxrIjoiR2lwb2IzY2dZWEpsSUc5NWMzUmxjbk1nYTJsc2JHVmtJR0psWm05eVpTQjViM1VnWldGMElIUm9aVzAiLCJicyI6ImMtT3k0NUoyTEVwVnlLOHNMa2t0S2xiSVNFM01LY21vVkNqSlYwaE5MTEdYMkZsaEpDTWxsWWhUQlZjY2w3WkhmcmtDc29yc3pKeWMxQlNGcE5TMGZLQm9aWDRwU0tGQ1NVWnFycjNFVFNFakhTbXRES0oxY0Zsd1NZUm5KSmFvRnl0azVoVm5wcVFxSk9aQnRkbEwzSXMza3BRU0w4Y3V6UVgwV1RqUW5TbjVjR3R5RTdOVEZRcFNFNHR5aXUwbC12UkJQaXZIcVVLQUVRQSIsImlkIjoiZmNfNSJ9"
+    },
+    {
+      "question": "What's inside an oyster?",
+      "snippet": "Oysters have a small heart and internal organs, but no central nervous system. Lack of a central nervous system makes it unlikely oysters feel pain, one reason some people who otherwise are vegetarians comfortable eating oysters. Some oysters have two sexes, but all have both eggs and sperm.",
+      "title": "Oyster anatomy \u2014 Mass Oyster Project",
+      "link": "https://massoyster.org/oyster-information/anatomy#:~:text=Oysters%20have%20a%20small%20heart,have%20both%20eggs%20and%20sperm.",
+      "displayed_link": "https://massoyster.org \u203a oyster-information \u203a anatomy",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlVpEbmHyJeiuPCXqTwNjaSbH71mAvrlNc8Jry3cJycA&s",
+      "source_logo": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/eef3e3dbe549824ef1ef05780a2057b118fb04786e0e4f27ea1c57ce70d1d813.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZWTjNaMU5xWld3MldsbDRiMUJyYlhWME9YTldNbGh2UkhZeFVXeGFWMVYwY0ZGT1ZXWTJMVkpaWWsxRU5tRm1aWGt6UkZwdWJrUm5VRVZOYm0xUE1ta3lhMDV0RWhkVFVtTkxXalI2YjAxelUwZDNPR05RTVdNMmRIZFJTUm9pUVVaWWNrVmpiM2hmV0U1RlltSldjM2xMYjFGTVQyTmtXbFJQUVRGaE5VWXhRUSIsImZjdiI6IjMiLCJlaSI6IlNSY0taNHpvTXNTR3c4Y1AxYzZ0d1FJIiwicWMiOiJDZ1p2ZVhOMFpYSVFBSDB2M1NRXyIsInF1ZXN0aW9uIjoiV2hhdCdzIGluc2lkZSBhbiBveXN0ZXI/IiwibGsiOiJHaGQzYUdGMEozTWdhVzV6YVdSbElHRnVJRzk1YzNSbGNnIiwiYnMiOiJjLU95NDVKMkxFcFZ5SzhzTGtrdEtsYklTRTNNS2Ntb1ZDakpWMGhOTExHWDJGbGhKQ01sbFloVEJWY2NsN1pIZnJrQ3NvcnN6SnljMUJTRnBOUzBmS0JvWlg0cFNLRkNTVVpxcnIzRVRTRWpIU210REtKMWNGbHdTWVJuSkphb0Z5dGs1aFZucHFRcUpPWkJ0ZGxMM0lzM2twUVNMOGN1elFYMFdUalFuU241Y0d0eUU3TlRGUXBTRTR0eWl1MGwtdlJCUGl2SHFVS0FFUUEiLCJpZCI6ImZjXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZWTjNaMU5xWld3MldsbDRiMUJyYlhWME9YTldNbGh2UkhZeFVXeGFWMVYwY0ZGT1ZXWTJMVkpaWWsxRU5tRm1aWGt6UkZwdWJrUm5VRVZOYm0xUE1ta3lhMDV0RWhkVFVtTkxXalI2YjAxelUwZDNPR05RTVdNMmRIZFJTUm9pUVVaWWNrVmpiM2hmV0U1RlltSldjM2xMYjFGTVQyTmtXbFJQUVRGaE5VWXhRUSIsImZjdiI6IjMiLCJlaSI6IlNSY0taNHpvTXNTR3c4Y1AxYzZ0d1FJIiwicWMiOiJDZ1p2ZVhOMFpYSVFBSDB2M1NRXyIsInF1ZXN0aW9uIjoiV2hhdCdzIGluc2lkZSBhbiBveXN0ZXI%2FIiwibGsiOiJHaGQzYUdGMEozTWdhVzV6YVdSbElHRnVJRzk1YzNSbGNnIiwiYnMiOiJjLU95NDVKMkxFcFZ5SzhzTGtrdEtsYklTRTNNS2Ntb1ZDakpWMGhOTExHWDJGbGhKQ01sbFloVEJWY2NsN1pIZnJrQ3NvcnN6SnljMUJTRnBOUzBmS0JvWlg0cFNLRkNTVVpxcnIzRVRTRWpIU210REtKMWNGbHdTWVJuSkphb0Z5dGs1aFZucHFRcUpPWkJ0ZGxMM0lzM2twUVNMOGN1elFYMFdUalFuU241Y0d0eUU3TlRGUXBTRTR0eWl1MGwtdlJCUGl2SHFVS0FFUUEiLCJpZCI6ImZjXzUifQ%3D%3D"
+    },
+    {
+      "question": "Why do oysters make pearls?",
+      "snippet": "Pearls are made by marine oysters and freshwater mussels as a natural defence against an irritant such as a parasite entering their shell or damage to their fragile body. The oyster or mussel slowly secretes layers of aragonite and conchiolin, materials that also make up its shell.",
+      "title": "How do oysters make pearls? - Natural History Museum",
+      "link": "https://www.nhm.ac.uk/discover/quick-questions/how-do-oysters-make-pearls.html#:~:text=Pearls%20are%20made%20by%20marine,also%20make%20up%20its%20shell.",
+      "displayed_link": "https://www.nhm.ac.uk \u203a discover \u203a quick-questions \u203a h...",
+      "source_logo": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/eef3e3dbe549824ef1ef05780a2057b1429c1688f71972ac394b0c286e13ca6d.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZWTjNaMU5xWld3MldsbDRiMUJyYlhWME9YTldNbGh2UkhZeFVXeGFWMVYwY0ZGT1ZXWTJMVkpaWWsxRU5tRm1aWGt6UkZwdWJrUm5VRVZOYm0xUE1ta3lhMDV0RWhkVFVtTkxXalI2YjAxelUwZDNPR05RTVdNMmRIZFJTUm9pUVVaWWNrVmpiM2hmV0U1RlltSldjM2xMYjFGTVQyTmtXbFJQUVRGaE5VWXhRUSIsImZjdiI6IjMiLCJlaSI6IlNSY0taNHpvTXNTR3c4Y1AxYzZ0d1FJIiwicWMiOiJDZ1p2ZVhOMFpYSVFBSDB2M1NRXyIsInF1ZXN0aW9uIjoiV2h5IGRvIG95c3RlcnMgbWFrZSBwZWFybHM/IiwibGsiOiJHaHAzYUhrZ1pHOGdiM2x6ZEdWeWN5QnRZV3RsSUhCbFlYSnNjdyIsImJzIjoiYy1PeTQ1SjJMRXBWeUs4c0xra3RLbGJJU0UzTUtjbW9WQ2pKVjBoTkxMR1gyRmxoSkNNbGxZaFRCVmNjbDdaSGZya0Nzb3Jzekp5YzFCU0ZwTlMwZktCb1pYNHBTS0ZDU1VacXJyM0VUU0VqSFNtdERLSjFjRmx3U1lSbkpKYW9GeXRrNWhWbnBxUXFKT1pCdGRsTDNJczNrcFFTTDhjdXpRWDBXVGpRblNuNWNHdHlFN05URlFwU0U0dHlpdTBsLXZSQlBpdkhxVUtBRVFBIiwiaWQiOiJmY181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZWTjNaMU5xWld3MldsbDRiMUJyYlhWME9YTldNbGh2UkhZeFVXeGFWMVYwY0ZGT1ZXWTJMVkpaWWsxRU5tRm1aWGt6UkZwdWJrUm5VRVZOYm0xUE1ta3lhMDV0RWhkVFVtTkxXalI2YjAxelUwZDNPR05RTVdNMmRIZFJTUm9pUVVaWWNrVmpiM2hmV0U1RlltSldjM2xMYjFGTVQyTmtXbFJQUVRGaE5VWXhRUSIsImZjdiI6IjMiLCJlaSI6IlNSY0taNHpvTXNTR3c4Y1AxYzZ0d1FJIiwicWMiOiJDZ1p2ZVhOMFpYSVFBSDB2M1NRXyIsInF1ZXN0aW9uIjoiV2h5IGRvIG95c3RlcnMgbWFrZSBwZWFybHM%2FIiwibGsiOiJHaHAzYUhrZ1pHOGdiM2x6ZEdWeWN5QnRZV3RsSUhCbFlYSnNjdyIsImJzIjoiYy1PeTQ1SjJMRXBWeUs4c0xra3RLbGJJU0UzTUtjbW9WQ2pKVjBoTkxMR1gyRmxoSkNNbGxZaFRCVmNjbDdaSGZya0Nzb3Jzekp5YzFCU0ZwTlMwZktCb1pYNHBTS0ZDU1VacXJyM0VUU0VqSFNtdERLSjFjRmx3U1lSbkpKYW9GeXRrNWhWbnBxUXFKT1pCdGRsTDNJczNrcFFTTDhjdXpRWDBXVGpRblNuNWNHdHlFN05URlFwU0U0dHlpdTBsLXZSQlBpdkhxVUtBRVFBIiwiaWQiOiJmY181In0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Oyster HR",
+      "link": "https://www.oysterhr.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oysterhr.com/&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQFnoECBQQAQ",
+      "displayed_link": "https://www.oysterhr.com",
+      "favicon": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/23ec7a2ce15ec97147f7da21b81b30c631593634801a5a72870b690edc0c7e60.png",
+      "snippet": "Hire, pay, manage, and take care of your globally distributed team with ease. Try Oyster for free today!",
+      "snippet_highlighted_words": [
+        "Oyster"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Oyster App\u2197\ufe0f",
+            "link": "https://app.oysterhr.com/users/sign_in?"
+          },
+          {
+            "title": "Why Oyster",
+            "link": "https://www.oysterhr.com/country-availability"
+          },
+          {
+            "title": "Oyster Academy",
+            "link": "https://www.oysterhr.com/academy"
+          },
+          {
+            "title": "Oyster API",
+            "link": "https://developer.oysterhr.com/"
+          }
+        ]
+      },
+      "source": "Oyster HR"
+    },
+    {
+      "position": 2,
+      "title": "Find Hotel Deals, Reviews & Photos | Oyster",
+      "link": "https://www.oyster.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oyster.com/&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQFnoECBMQAQ",
+      "displayed_link": "https://www.oyster.com",
+      "favicon": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/23ec7a2ce15ec97147f7da21b81b30c613b50626bad95ffe107732c08eb31f29.png",
+      "snippet": "Unbiased Reviews. Oyster shares honest reviews and undoctored photos so you know exactly what you'll get before you check in.",
+      "snippet_highlighted_words": [
+        "Oyster"
+      ],
+      "source": "Oyster.com"
+    },
+    {
+      "position": 3,
+      "title": "Oyster",
+      "link": "https://en.wikipedia.org/wiki/Oyster",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Oyster&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQFnoECBYQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Oyster",
+      "thumbnail": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/23ec7a2ce15ec97147f7da21b81b30c678ba838d29a5307dc2a71ce7021d3826.jpeg",
+      "favicon": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/23ec7a2ce15ec97147f7da21b81b30c68cfe3d04a06bffef3750a0cd1867bbde.png",
+      "snippet": "Oyster is the common name for a number of different families of salt-water bivalve molluscs that live in marine or brackish habitats.",
+      "snippet_highlighted_words": [
+        "Oyster"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Oyster farming",
+            "link": "https://en.wikipedia.org/wiki/Oyster_farming"
+          },
+          {
+            "title": "Pacific oyster",
+            "link": "https://en.wikipedia.org/wiki/Pacific_oyster"
+          },
+          {
+            "title": "Eastern oyster",
+            "link": "https://en.wikipedia.org/wiki/Eastern_oyster"
+          },
+          {
+            "title": "Oyster reef",
+            "link": "https://en.wikipedia.org/wiki/Oyster_reef"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 4,
+      "title": "Oyster Standards",
+      "link": "https://www.inahalfshell.com/standards",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.inahalfshell.com/standards&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQFnoECEoQAQ",
+      "displayed_link": "https://www.inahalfshell.com \u203a standards",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUIZr9HVCviPKJxmdAG_ru88DOevbJxXBba9a8SRxXvY2UPzpaCHiv&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/23ec7a2ce15ec97147f7da21b81b30c6bd0df12036696c5892876dd9650410a4.png",
+      "snippet": "Shell interiors should be white, with minimal mud blister worm scaring. My optimal half shell size is between 2 to 4 inches in length with 2:3 to 3:4 width/ ...",
+      "source": "In A Half Shell"
+    },
+    {
+      "position": 5,
+      "title": "Oyster Yachts: Iconic Sailing Boats & Yachts for Bluewater ...",
+      "link": "https://oysteryachts.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://oysteryachts.com/&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQFnoECEwQAQ",
+      "displayed_link": "https://oysteryachts.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVF6g6pVQkl5KF5uRLki_S_KyYSgQ_3q_YdCix0Zu63G09YPUfGqL3&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/23ec7a2ce15ec97147f7da21b81b30c69755c7f6ba741afcef0a3c2d23c16473.png",
+      "snippet": "Oyster is a thoroughbred British luxury sailing yacht builder. We have designed, built and supported the world's finest liveaboard sailboats since 1973.",
+      "snippet_highlighted_words": [
+        "Oyster"
+      ],
+      "source": "Oyster Yachts"
+    },
+    {
+      "position": 6,
+      "title": "Oyster | Business Insurance from Quote to Compliance",
+      "link": "https://www.withoyster.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.withoyster.com/&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQFnoECEkQAQ",
+      "displayed_link": "https://www.withoyster.com",
+      "favicon": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/23ec7a2ce15ec97147f7da21b81b30c69c7827553142c11e38c6c09f84fcf698.png",
+      "snippet": "Best-in-Class Service and Experience. Oyster can better serve your insurance needs with our technology, extensive carrier network, and experienced risk experts.",
+      "snippet_highlighted_words": [
+        "Oyster"
+      ],
+      "source": "Oyster Technologies"
+    },
+    {
+      "position": 7,
+      "title": "The Working Man\u2019s Oyster",
+      "link": "https://www.youtube.com/watch?v=NzgErWos88U",
+      "displayed_link": "485.7K+ views \u00b7 2 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/NzgErWos88U/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3ngGe3x5O3qAdPcTeYdKbIA1zirMQ",
+      "favicon": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/23ec7a2ce15ec97147f7da21b81b30c60f1333f379d33ea261b4c6358f370040.png",
+      "snippet": "Oysters were a staple food in early America. The Working Man's Oyster tells how folks from all walks of life used them and prepared them.",
+      "duration": "10:58",
+      "source": "YouTube \u00b7 Townsends"
+    },
+    {
+      "position": 8,
+      "title": "Austin Oyster Co. | East Coast Oysters, Southern Hospitality",
+      "link": "https://www.austinoysterco.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.austinoysterco.com/&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQFnoECE0QAQ",
+      "displayed_link": "https://www.austinoysterco.com",
+      "favicon": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/23ec7a2ce15ec97147f7da21b81b30c6709e3617347a57534196271092a48196.png",
+      "snippet": "Discover the finest East Coast oysters delivered directly to Texas. Experience the freshness of Maine's oysters, served with Southern hospitality.",
+      "snippet_highlighted_words": [
+        "oysters",
+        "oysters"
+      ],
+      "source": "Austin Oyster Co."
+    },
+    {
+      "position": 9,
+      "title": "Oyster Myths & Facts (February 2024)",
+      "link": "https://www.inahalfshell.com/oyster-myths-facts",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.inahalfshell.com/oyster-myths-facts&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQFnoECEsQAQ",
+      "displayed_link": "https://www.inahalfshell.com \u203a oyster-myths-facts",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmxBNbUvP94dzA8NygaQopQzIHdq3IC9OUykcWaTqvUMGz1PJx2lEJ&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/23ec7a2ce15ec97147f7da21b81b30c625cb695b5dfa59ed31dda66c2533e7d6.png",
+      "snippet": "THE SIMPLE TRUTH. Yes, yes they do. Oysters expel both real poop AND pseudofeces, which are particles of non-food things in their food.",
+      "snippet_highlighted_words": [
+        "Oysters"
+      ],
+      "source": "In A Half Shell"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=oyster&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQjGp6BAg7EAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oyster&tbs=lf%3A1%2Clf_ui%3A9&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Oyster near me",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Oyster+near+me&sa=X&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQ1QJ6BAhlEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Oyster+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Oyster Bar",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Oyster+Bar&sa=X&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQ1QJ6BAhhEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Oyster+Bar"
+    },
+    {
+      "block_position": 1,
+      "query": "Oyster in Spanish",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Oyster+in+Spanish&sa=X&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQ1QJ6BAhoEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Oyster+in+Spanish"
+    },
+    {
+      "block_position": 1,
+      "query": "Oyster pearl",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Oyster+pearl&sa=X&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQ1QJ6BAhnEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Oyster+pearl"
+    },
+    {
+      "block_position": 1,
+      "query": "Oyster vs mussel",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Oyster+vs+mussel&sa=X&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQ1QJ6BAhjEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Oyster+vs+mussel"
+    },
+    {
+      "block_position": 1,
+      "query": "Oyster HR",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Oyster+HR&sa=X&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQ1QJ6BAhmEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Oyster+HR"
+    },
+    {
+      "block_position": 1,
+      "query": "Oyster careers",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Oyster+careers&sa=X&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQ1QJ6BAhiEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Oyster+careers"
+    },
+    {
+      "block_position": 1,
+      "query": "Oyster seafood",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Oyster+seafood&sa=X&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQ1QJ6BAhkEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Oyster+seafood"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Effects on body",
+        "subtitle": "What Does Eating Oysters Do To You",
+        "title": "Why Do I Feel So Good After Eating Oysters? Nutrition Chart",
+        "link": "https://www.medicinenet.com/why_do_i_feel_so_good_after_eating_oysters/article.htm#:~:text=Oysters%20are%20a%20rich%20source,aphrodisiac%20(stimulates%20sex%20drive).",
+        "displayed_link": "https://www.medicinenet.com \u203a article",
+        "snippet": "Oysters are a rich source of omega-3 and omega-6 fatty acids, minerals, and vitamins while being low in carbohydrates. Oysters help regulate blood pressure and improve blood circulation, which gives an overall good feeling. Oysters are often regarded as an aphrodisiac (stimulates sex drive).",
+        "snippet_highlighted_words": [
+          "help regulate blood pressure and improve blood circulation"
+        ],
+        "favicon": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/13c6c9ffda35565a0b9a29b0270137c883d053d299b158485c23d3acdfb3230601e019f09602d64f.png",
+        "source": "medicinenet.com",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=what+does+eating+oysters+do+to+you&sa=X&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQrooIegQIUhAF",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+does+eating+oysters+do+to+you"
+      },
+      {
+        "text": "Healthy ingredients",
+        "subtitle": "What Is In Oysters That Is Good For You",
+        "title": "Oysters: Are They Good for You? - WebMD",
+        "link": "https://www.webmd.com/diet/oysters-good-for-you#:~:text=Oysters%20are%20a%20rich%20source,be%20more%20effective%20than%20supplements.",
+        "displayed_link": "https://www.webmd.com \u203a diet \u203a oysters-good-for-you",
+        "date": "Sep 15, 2022",
+        "snippet": "Oysters are a rich source of vitamin D, copper, zinc, and manganese. These micronutrients, in combination with calcium, are thought to be key to slowing or even preventing bone loss in older women due to osteoporosis. Additionally, dietary sources of these minerals are thought to be more effective than supplements.",
+        "snippet_highlighted_words": [
+          "vitamin D, copper, zinc, and manganese"
+        ],
+        "favicon": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/13c6c9ffda35565a0b9a29b0270137c82de0275c120d7e5da2220194467cd96fcd6e54cd2bcc2b42.png",
+        "source": "webmd.com",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=what+is+in+oysters+that+is+good+for+you&sa=X&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQrooIegQIUhAK",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+is+in+oysters+that+is+good+for+you"
+      },
+      {
+        "text": "How to eat",
+        "subtitle": "How To Eat Oysters",
+        "title": "How to Eat Oysters like a Pro - Summer Shack",
+        "link": "https://www.summershackrestaurant.com/news-item/how-to-eat-oysters-like-a-pro/#:~:text=Use%20the%20smallest%20fork%20to,has%20slid%20into%20your%20mouth.",
+        "displayed_link": "https://www.summershackrestaurant.com \u203a news-item \u203a h...",
+        "snippet": "Use the smallest fork to gently loosen the oyster from the shell. This will allow it to slide into your mouth smoothly. Once it's loosened, raise the edge of the shell to your lips and gently tip it back until the entire oyster has slid into your mouth.",
+        "favicon": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/13c6c9ffda35565a0b9a29b0270137c84602081ff291530bebec00e637f9f166bd12afad80df54e6.png",
+        "source": "summershackrestaurant.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJyzHImhHIWKFpUkjoMfOVRNVTldeCnaZkeEzv7TEpIFG&s",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=how+to+eat+oysters&sa=X&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQrooIegQIUhAS",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+to+eat+oysters"
+      },
+      {
+        "text": "Why can you eat",
+        "subtitle": "Why Can You Eat Raw Oysters?",
+        "title": "Is It Ever Safe to Eat Raw Oysters? Here's What Experts Say",
+        "link": "https://www.verywellhealth.com/raw-oyster-safety-7548937#:~:text=Means%20For%20You-,Raw%20oysters%20can%20carry%20harmful%20bacteria%20that%20can%20make%20you,degrees%20F)%20before%20eating%20them.&text=Chesapeake%20Bay%20Foundation.,Oyster%20fact%20sheet.",
+        "displayed_link": "https://www.verywellhealth.com \u203a raw-oyster-safety-754...",
+        "date": "Jun 20, 2023",
+        "snippet": "Raw oysters can carry harmful bacteria that can make you sick. To avoid foodborne illness, always cook oysters properly (to an internal temperature of 145 degrees F) before eating them. Chesapeake Bay Foundation. Oyster fact sheet.",
+        "snippet_highlighted_words": [
+          "can carry harmful bacteria that can make you sick"
+        ],
+        "favicon": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/13c6c9ffda35565a0b9a29b0270137c8b48f49fc0b1f6d83044102e76dfc3890bbfc8845b65d188c.png",
+        "source": "verywellhealth.com",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=why+can+you+eat+raw+oysters&sa=X&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQrooIegQIUhAX",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=why+can+you+eat+raw+oysters"
+      },
+      {
+        "text": "When to eat",
+        "subtitle": "When To Eat Oysters?",
+        "title": "Oyster - BBC Good Food",
+        "link": "https://www.bbcgoodfood.com/glossary/oyster-glossary#:~:text=In%20the%20northern%20hemisphere%2C%20the,are%20available%20all%20year%20round.",
+        "displayed_link": "https://www.bbcgoodfood.com \u203a oyster-glossary",
+        "snippet": "In the northern hemisphere, the old rule that native oysters should only be eaten when there's an 'r' in the month still holds true; so eat oysters from September to April. During the summer months they're busy spawning, and their flesh becomes unpleasantly soft and milky. Rock oysters are available all year round.",
+        "snippet_highlighted_words": [
+          "September to April"
+        ],
+        "favicon": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/13c6c9ffda35565a0b9a29b0270137c8dc6fd46082362cbf67d4fa3eb3f1dab2dbb9f8bf233397b5.png",
+        "source": "bbcgoodfood.com",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=when+to+eat+oysters&sa=X&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQrooIegQIUhAd",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=when+to+eat+oysters"
+      },
+      {
+        "text": "What to eat with",
+        "subtitle": "What To Eat With Oysters",
+        "title": "What Do Oysters Eat?",
+        "link": "https://hamahamaoysters.com/blogs/oyster-blog/what-do-oysters-eat#:~:text=The%20usual%20answer%20is%20that,aka%20oyster%20food%20%5B1%5D.",
+        "displayed_link": "https://hamahamaoysters.com \u203a blogs \u203a oyster-blog \u203a wh...",
+        "date": "Jun 11, 2018",
+        "snippet": "The usual answer is that oysters eat plankton. Here we have some magnified phytoplankton and zooplankton, aka oyster food [1].",
+        "snippet_highlighted_words": [
+          "phytoplankton and zooplankton"
+        ],
+        "favicon": "https://serpapi.com/searches/670a1749fda26d0ad2cadf91/images/13c6c9ffda35565a0b9a29b0270137c86527cf0b86eed470a437dc3cf3b8d6b586cc826932f3d183.png",
+        "source": "hamahamaoysters.com",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=what+to+eat+with+oysters&sa=X&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQrooIegQIUhAi",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+to+eat+with+oysters"
+      },
+      {
+        "text": "Protein Amount",
+        "subtitle": "Protein In Oysters",
+        "title": "Oysters on the Menu: Nutrition and Safety - Texas Sea Grant",
+        "link": "https://oyster.texasseagrant.org/geting-started/nutrition-and-safety.html#:~:text=A%20single%203.5%2Dounce%20serving,3%20fatty%20acids%20(source).",
+        "displayed_link": "https://oyster.texasseagrant.org \u203a geting-started \u203a nutritio...",
+        "snippet": "A single 3.5-ounce serving of eastern oysters has only 68 calories and 3 grams of fat, but packs in 7 grams of protein and 100% of your daily requirements for vitamin B12, zinc, and copper. They're also a great source of selenium, vitamin D, and heart-healthy omega-3 fatty acids (source).",
+        "snippet_highlighted_words": [
+          "7 grams"
+        ],
+        "source": "texasseagrant.org",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=protein+in+oysters&sa=X&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQrooIegQIUhAn",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=protein+in+oysters"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=oyster&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=SRcKZ4zoMsSGw8cP1c6twQI&start=10&sa=N&sstk=AagrsugM2dcZ5LRVCHg35lnDjWlfHe48RPWWl3W3gKqe1viSPkQQaOESn8NfpQ-x9Ebx4d6n7AuwPQbeNtNzwxFQH937aIVNGWkkzw&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQ8NMDegQIERAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=oyster&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=SRcKZ4zoMsSGw8cP1c6twQI&start=10&sa=N&sstk=AagrsugM2dcZ5LRVCHg35lnDjWlfHe48RPWWl3W3gKqe1viSPkQQaOESn8NfpQ-x9Ebx4d6n7AuwPQbeNtNzwxFQH937aIVNGWkkzw&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQ8tMDegQIERAE",
+      "3": "https://www.google.com/search?q=oyster&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=SRcKZ4zoMsSGw8cP1c6twQI&start=20&sa=N&sstk=AagrsugM2dcZ5LRVCHg35lnDjWlfHe48RPWWl3W3gKqe1viSPkQQaOESn8NfpQ-x9Ebx4d6n7AuwPQbeNtNzwxFQH937aIVNGWkkzw&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQ8tMDegQIERAG",
+      "4": "https://www.google.com/search?q=oyster&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=SRcKZ4zoMsSGw8cP1c6twQI&start=30&sa=N&sstk=AagrsugM2dcZ5LRVCHg35lnDjWlfHe48RPWWl3W3gKqe1viSPkQQaOESn8NfpQ-x9Ebx4d6n7AuwPQbeNtNzwxFQH937aIVNGWkkzw&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQ8tMDegQIERAI",
+      "5": "https://www.google.com/search?q=oyster&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=SRcKZ4zoMsSGw8cP1c6twQI&start=40&sa=N&sstk=AagrsugM2dcZ5LRVCHg35lnDjWlfHe48RPWWl3W3gKqe1viSPkQQaOESn8NfpQ-x9Ebx4d6n7AuwPQbeNtNzwxFQH937aIVNGWkkzw&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQ8tMDegQIERAK",
+      "6": "https://www.google.com/search?q=oyster&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=SRcKZ4zoMsSGw8cP1c6twQI&start=50&sa=N&sstk=AagrsugM2dcZ5LRVCHg35lnDjWlfHe48RPWWl3W3gKqe1viSPkQQaOESn8NfpQ-x9Ebx4d6n7AuwPQbeNtNzwxFQH937aIVNGWkkzw&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQ8tMDegQIERAM",
+      "7": "https://www.google.com/search?q=oyster&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=SRcKZ4zoMsSGw8cP1c6twQI&start=60&sa=N&sstk=AagrsugM2dcZ5LRVCHg35lnDjWlfHe48RPWWl3W3gKqe1viSPkQQaOESn8NfpQ-x9Ebx4d6n7AuwPQbeNtNzwxFQH937aIVNGWkkzw&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQ8tMDegQIERAO",
+      "8": "https://www.google.com/search?q=oyster&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=SRcKZ4zoMsSGw8cP1c6twQI&start=70&sa=N&sstk=AagrsugM2dcZ5LRVCHg35lnDjWlfHe48RPWWl3W3gKqe1viSPkQQaOESn8NfpQ-x9Ebx4d6n7AuwPQbeNtNzwxFQH937aIVNGWkkzw&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQ8tMDegQIERAQ",
+      "9": "https://www.google.com/search?q=oyster&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=SRcKZ4zoMsSGw8cP1c6twQI&start=80&sa=N&sstk=AagrsugM2dcZ5LRVCHg35lnDjWlfHe48RPWWl3W3gKqe1viSPkQQaOESn8NfpQ-x9Ebx4d6n7AuwPQbeNtNzwxFQH937aIVNGWkkzw&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQ8tMDegQIERAS",
+      "10": "https://www.google.com/search?q=oyster&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=SRcKZ4zoMsSGw8cP1c6twQI&start=90&sa=N&sstk=AagrsugM2dcZ5LRVCHg35lnDjWlfHe48RPWWl3W3gKqe1viSPkQQaOESn8NfpQ-x9Ebx4d6n7AuwPQbeNtNzwxFQH937aIVNGWkkzw&ved=2ahUKEwjMsOnOm4iJAxVEw_ACHVVnKygQ8tMDegQIERAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oyster&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oyster&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oyster&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oyster&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oyster&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oyster&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oyster&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oyster&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oyster&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oyster&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oyster&start=90"
+    }
+  }
+}

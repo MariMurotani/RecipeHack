@@ -1,0 +1,613 @@
+{
+  "search_metadata": {
+    "id": "670a16c8cdf1550373f000fb",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/419fe21415b241d3/670a16c8cdf1550373f000fb.json",
+    "created_at": "2024-10-12 06:27:20 UTC",
+    "processed_at": "2024-10-12 06:27:20 UTC",
+    "google_url": "https://www.google.com/search?q=russian+cheese&oq=russian+cheese&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/419fe21415b241d3/670a16c8cdf1550373f000fb.html",
+    "total_time_taken": 1.64
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "russian cheese",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "russian cheese",
+    "total_results": 60600000,
+    "time_taken_displayed": 0.27,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "title": "Rossiyskiy",
+    "type": "Cheese",
+    "entity_type": "food, kp3_verticals",
+    "kgmid": "/g/121ngrp3",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/121ngrp3&hl=en-US&q=Rossiyskiy",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F121ngrp3&location=Austin%2CTexas%2CUnited+States&q=Rossiyskiy",
+    "image": "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/52ecd30b125f94466816ac404ca3383c08b23372f5c4ecd0.jpeg",
+    "description": "Russian cheese is a Russian semi-hard, chymosin cheese produced from pasteurized cows' milk and aged for 2 months. The recipe was developed by VNIIMS in Uglich, Yaroslavl Oblast, Russia in the 1960s.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Russian_cheese"
+    },
+    "fat_content": "50 \u00b11.6%",
+    "source_of_milk": "Cows",
+    "people_also_search_for": [
+      {
+        "name": "Cheese",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm6nzOIf2eF46lFTC23xt0kc2WoCZjavmYEUpT3Y1qBCV8oKEHNi3JYo_BhaXxPlbbnIi8JPk944Uf8-p8CkZBgzGG3Z09BDxgz6_JEWF7thzwq1dZ4DC0eViXg_Au7lwhXlc9Qp3_pLx3EEZ4pwmYlWGk9d1s3U5scQwfpkfru2wXtIDc-WjIovNq1rPnWLO3FdhL5LVtsctb4TDlvWfm8kwE741-N4fzFPkL_EfLgiWJSumcAM0jDdufj8eCHhI3Wb8Rmg%3D&q=Cheese&sa=X&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQs9oBKAB6BAgzEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Cheese&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm6nzOIf2eF46lFTC23xt0kc2WoCZjavmYEUpT3Y1qBCV8oKEHNi3JYo_BhaXxPlbbnIi8JPk944Uf8-p8CkZBgzGG3Z09BDxgz6_JEWF7thzwq1dZ4DC0eViXg_Au7lwhXlc9Qp3_pLx3EEZ4pwmYlWGk9d1s3U5scQwfpkfru2wXtIDc-WjIovNq1rPnWLO3FdhL5LVtsctb4TDlvWfm8kwE741-N4fzFPkL_EfLgiWJSumcAM0jDdufj8eCHhI3Wb8Rmg%3D",
+        "image": "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/52ecd30b125f94466816ac404ca3383c33ccd9a0c8a005fa50cfc739922eeb1b3878d5eb415b77d05d15e391848fc86d.jpeg"
+      },
+      {
+        "name": "Gouda cheese",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L3BVw6_wSEfWHhu2mdm8__CCqnKyJ-7V9BFstN5yEfAdkVHK7e02aKVYbAOpnIDKMkti3Q7ICAS92YCKfdxLfdg9Xfqf-3JtLsxWYl5qUuogTzWERyxX4cZiKF_2reKFJmZ70I2NDOanwoThIQ2uSHUM6gfXe-wTcVtfqMOnNcNCdpWblQflyHr5fGplDVYj239T9mx2QhwhxNDf4LSQrP-YLvuoLnDxzbIt2VFl_ZPHdEkmu6bdlutElKep6rjsI_Wxnk8%3D&q=Gouda+cheese&sa=X&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQs9oBKAB6BAgzEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Gouda+cheese&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L3BVw6_wSEfWHhu2mdm8__CCqnKyJ-7V9BFstN5yEfAdkVHK7e02aKVYbAOpnIDKMkti3Q7ICAS92YCKfdxLfdg9Xfqf-3JtLsxWYl5qUuogTzWERyxX4cZiKF_2reKFJmZ70I2NDOanwoThIQ2uSHUM6gfXe-wTcVtfqMOnNcNCdpWblQflyHr5fGplDVYj239T9mx2QhwhxNDf4LSQrP-YLvuoLnDxzbIt2VFl_ZPHdEkmu6bdlutElKep6rjsI_Wxnk8%3D",
+        "image": "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/52ecd30b125f94466816ac404ca3383c33ccd9a0c8a005fa50cfc739922eeb1b1563dfbcd3f7f7b5c977e8910af89545.jpeg"
+      },
+      {
+        "name": "Parmesan",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-Lwr_Nu-ufwz0xIN-cY_A1si8k4_pFCKgN-2DItTyCHP8dWaJO45AVnYVvIa-VKnX-QFJ8zcoDEEL6-Y9qJ2hhzOLfieST_Cm17G4nZSLxO0yi1n45LOw5-cBIxpG5LIiBdevmZOYJ_p72FvsCgQNqkLFx80G2X_IE7BqOAXMeH4OuZmVnh-spOsuap92a5oL1ov01uipjbKk-XAoIIhsF0bBNhhmDKXLHkgLPLX40-LXWo3TqamnNg8EddlHubjQ9qbSqWw%3D&q=Parmesan&sa=X&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQs9oBKAB6BAgzEA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Parmesan&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-Lwr_Nu-ufwz0xIN-cY_A1si8k4_pFCKgN-2DItTyCHP8dWaJO45AVnYVvIa-VKnX-QFJ8zcoDEEL6-Y9qJ2hhzOLfieST_Cm17G4nZSLxO0yi1n45LOw5-cBIxpG5LIiBdevmZOYJ_p72FvsCgQNqkLFx80G2X_IE7BqOAXMeH4OuZmVnh-spOsuap92a5oL1ov01uipjbKk-XAoIIhsF0bBNhhmDKXLHkgLPLX40-LXWo3TqamnNg8EddlHubjQ9qbSqWw%3D",
+        "image": "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/52ecd30b125f94466816ac404ca3383c33ccd9a0c8a005fa50cfc739922eeb1b87f69bd73b7d6e9ad81f7b0049ad7f43.jpeg"
+      },
+      {
+        "name": "Mozzarella",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm4qVbv4qHoNHJ8zJbnckXOZECdW30k8Ldr1o83Ql3hsNGQ5ivT6Ld6r7Ylh0Oc3MZxJqkEh3zW6_bsaxdJfMm1_I1ambjtm1UpYRosWPFVA6D5BqItj6FLAbXfF4oF72bksC6dzLShDFC4RD4MjS3xnZq_pATAjbfTJ-Cbyh6bPeeersU4hgIVmjUtC-tjnh40h51Z2_ewcPxwoAv-dWxAkopQzrSvSOslJtH117YHeRoEXdXvVfDxCvVuysjQiaxUgCAao%3D&q=Mozzarella&sa=X&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQs9oBKAB6BAgzEBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Mozzarella&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm4qVbv4qHoNHJ8zJbnckXOZECdW30k8Ldr1o83Ql3hsNGQ5ivT6Ld6r7Ylh0Oc3MZxJqkEh3zW6_bsaxdJfMm1_I1ambjtm1UpYRosWPFVA6D5BqItj6FLAbXfF4oF72bksC6dzLShDFC4RD4MjS3xnZq_pATAjbfTJ-Cbyh6bPeeersU4hgIVmjUtC-tjnh40h51Z2_ewcPxwoAv-dWxAkopQzrSvSOslJtH117YHeRoEXdXvVfDxCvVuysjQiaxUgCAao%3D",
+        "image": "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/52ecd30b125f94466816ac404ca3383c33ccd9a0c8a005fa50cfc739922eeb1b4b7c40c0f510ab401d1cac7e45eefba7.jpeg"
+      }
+    ]
+  },
+  "inline_images": [
+    {
+      "source": "https://en.wikipedia.org/wiki/Russian_cheese",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk2qII5c6TbcJm9b03dyiPuzYh4L9UKR3j6FI6UuKFk6xUTiqlLBri-ew&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%8B%D1%80.jpg/640px-%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%8B%D1%80.jpg",
+      "title": "Russian cheese - Wikipedia",
+      "source_name": "Wikipedia"
+    },
+    {
+      "source": "https://www.skazkarussianfood.com/food/cheese/russian-cheese.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtw-ji8HANAtgBI-Xx-J0MEHtJiT78Qw6VwtGDQYO07WX_rzbMf9GQC4&s",
+      "original": "https://www.skazkarussianfood.com/images/P/193_5.jpg",
+      "title": "SkazkaRussianFood.com \u2013 Online Russian Food Store ...",
+      "source_name": "SkazkaRussianFood.com \u2013 Online Russian Food Store ..."
+    },
+    {
+      "source": "https://www.amazon.com/Svalya-Russian-Sliced-Cheese-150g/dp/B0D19QZZ5P",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl1c3H_evNySH-BAw1ZBFWnU7Z0IYVoyTWRtO9wpNXg9vd5shn6ktFV_U&s",
+      "original": "https://m.media-amazon.com/images/I/51ivJZ0MHvL._AC_UF894,1000_QL80_.jpg",
+      "title": "Svalya Russian Sliced Cheese 150g (3 Pack) - Fresh And Flavorful Russian  Cheese For Sandwiches, Snacks, And Recipes",
+      "source_name": "Amazon.com"
+    },
+    {
+      "source": "http://bigsquarestore.com/product/0020012400000",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1drVoOHxiZZzZWs7asuvHXM58U-jtRclpgeZ2aBqDXDPJVvTtQU3CJy0&s",
+      "original": "https://cdn.localexpress.io/img/JyeicWbpavIiO3Ln1WJ3b0NyB3XlY1R2bzavQ3JlcIRxs0UyTVZmdWbp9i5SZnFicGcqb3JCLiI6IScWbp9zVGZvXudWa2ZhB3kTUvUF1ya1MtwmMyQjdEFWbp9w5SZnLicmbXazJCpjIlpicnI7MwUjOCaiwCADN6I=0Xfw.jpg",
+      "title": "Russian Cheese - Cheese by LB",
+      "source_name": "BIG SQUARE"
+    },
+    {
+      "source": "https://www.gfifoods.com/15806-gina-marie-russian-style-farmer-cheese",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSggRRL560vwc4huyEq_Da1fr9w64vrX00c1ywiKcb0jDAfO5JllmS9FgY&s",
+      "original": "https://www.gfifoods.com/media/catalog/product/cache/8794a98778c2ca77788a2eb8b07fbd40/5/5/5500-201lb20fresh20farmers20cheese20trans20bg_20190920_1158954_os3apy8asqqbdulq.jpg",
+      "title": "Russian Style Farmer Cheese",
+      "source_name": "Gourmet Foods International"
+    },
+    {
+      "source": "https://www.allrecipes.com/recipe/86659/russian-cheese-salad/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3fLlfp7Bn90mskQu6kAs_GsPsoZIw1_cRy7iLvMG7mwYKiTmT1A5k44I&s",
+      "original": "https://www.allrecipes.com/thmb/g-3f038Quc4YEOme5asEh4J3gZc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2036240-132ec57ece174b60a0cfbacaf6e0e5e9.jpg",
+      "title": "Russian Cheese Salad",
+      "source_name": "Allrecipes"
+    },
+    {
+      "source": "https://steemit.com/food/@aksinya/russian-cheese-if-you-can-call-it-cheese",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpz9GPBr8V0CLU0cdynVoW6lsmJSUREo0SReBHXf2X2uKeedziFh_dCTQ&s",
+      "original": "https://steemitimages.com/640x0/https://lh3.googleusercontent.com/-xpWLe_rVatQ/V9XF71nj6QI/AAAAAAAAC40/7uzUT6mP8WU3k2Jj3p7KFgW5lQDyMCiNACLcB/s0/12284632-Gouda-Cheese-Wheel-Stock-Photo.jpg",
+      "title": "RUSSIAN CHEESE, IF YOU CAN CALL IT CHEESE\u2026\u2026. \u2014 Steemit",
+      "source_name": "Steemit"
+    },
+    {
+      "source": "https://www.lu-blu.com/deli-en/cheese/russian-cheese/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2yhvtP9sHQxL-S4H_POo2q70E_9LCXGp_jMvZnr81_hb3w2VTgOjfBz8&s",
+      "original": "https://www.lu-blu.com/images/detailed/4/215010.jpg",
+      "title": "Home :: Deli department :: Cheese by weight :: RUSSIAN CHEESE",
+      "source_name": "Boca Russian Market"
+    },
+    {
+      "source": "https://www.themoscowtimes.com/2014/11/06/siberian-couple-creates-all-russian-goat-camembert-and-roquefort-a41108",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4u7Cz2ZgWgsNrAAHb85od50gio4H7rqcbdkh8v6s0gl3yyeVDfkwAU04&s",
+      "original": "https://static.themoscowtimes.com/image/article_1360/a9/e89cf6a010f64630b62fe4200f2c05c7.jpg",
+      "title": "Siberian Couple Creates All-Russian Goat Camembert and ...",
+      "source_name": "The Moscow Times"
+    },
+    {
+      "source": "https://milkalliance.com.ua/en/rosijskij-klasichnij-50-zhiru-11/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgjsLr-C55E6eStxEJ2eqUdbBwAr9d4I0_U05NG7goJyA0QIhfGuQJ-O8&s",
+      "original": "https://milkalliance.com.ua/uploads/gallery_photo/photo/0384/37.jpg",
+      "title": "Russian Classic cheese 50% fat - Zlatokrai",
+      "source_name": "milkalliance.com.ua"
+    },
+    {
+      "source": "https://thatswhatshehad.com/how-to-make-russian-tvorog-recipe/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR38aiRe22DYaxBMDblJL6ReKZoMX4B0qmESrJCE7btBlz6p5Thln8MX0&s",
+      "original": "https://thatswhatshehad.com/wp-content/uploads/2016/10/how-to-make-cottage-cheese-at-home-681x1024.jpg",
+      "title": "How to Make Authentic Russian Tvorog at Home \u2013 That's What ...",
+      "source_name": "That's What She Had"
+    },
+    {
+      "source": "https://eadaily.com/en/news/2024/09/10/americans-and-french-caught-up-with-panic-russian-cheese-makers-are-not-afraid-of-product-shortages",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGai3LxWD6QcHsZyT2Me45oGoUrN7AF2wugmxT93eZ0mBnDEtWxc_8HMM&s",
+      "original": "https://img8.eadaily.com/c650x400/o/76a/20a428c922d60718ef229a503fdf5.jpeg",
+      "title": "Americans and French caught up with panic: Russian cheese ...",
+      "source_name": "EADaily"
+    }
+  ],
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "How to make Russian Tvorog aka Farmer's Cheese at home ...",
+      "link": "https://www.youtube.com/watch?v=rUTjLFv8Bjs",
+      "thumbnail": "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/12b3ba86c01c8b37662979b1d8377305c1c3bde53ad6a3de2a6eb6235b98590e.jpeg",
+      "channel": "NastassjaCanCook",
+      "duration": "6:27",
+      "date": "Jun 2, 2021",
+      "key_moments": [
+        {
+          "time": "01:14",
+          "title": "Making the milk mixture",
+          "link": "https://www.youtube.com/watch?v=rUTjLFv8Bjs&t=74"
+        },
+        {
+          "time": "01:55",
+          "title": "Heating the mixture",
+          "link": "https://www.youtube.com/watch?v=rUTjLFv8Bjs&t=115"
+        },
+        {
+          "time": "02:09",
+          "title": "Bringing the mixture to a boil",
+          "link": "https://www.youtube.com/watch?v=rUTjLFv8Bjs&t=129"
+        },
+        {
+          "time": "02:29",
+          "title": "Straining the mixture",
+          "link": "https://www.youtube.com/watch?v=rUTjLFv8Bjs&t=149"
+        },
+        {
+          "time": "03:38",
+          "title": "Tvorog after 30 minutes of straining",
+          "link": "https://www.youtube.com/watch?v=rUTjLFv8Bjs&t=218"
+        },
+        {
+          "time": "03:50",
+          "title": "Tvorog one hour after straining (medium set)",
+          "link": "https://www.youtube.com/watch?v=rUTjLFv8Bjs&t=230"
+        },
+        {
+          "time": "04:03",
+          "title": "Medium-firm set",
+          "link": "https://www.youtube.com/watch?v=rUTjLFv8Bjs&t=243"
+        },
+        {
+          "time": "04:30",
+          "title": "Storing",
+          "link": "https://www.youtube.com/watch?v=rUTjLFv8Bjs&t=270"
+        },
+        {
+          "time": "04:59",
+          "title": "Shelf life",
+          "link": "https://www.youtube.com/watch?v=rUTjLFv8Bjs&t=299"
+        },
+        {
+          "time": "05:55",
+          "title": "Finished product",
+          "link": "https://www.youtube.com/watch?v=rUTjLFv8Bjs&t=355"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "13 Russian Cheeses",
+      "link": "https://www.youtube.com/watch?v=JMm-Pk25x28",
+      "thumbnail": "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/12b3ba86c01c8b37c9e64a4f18188e0b5be8a8dcef8a7ddd1edab90e09df9726.jpeg",
+      "channel": "Food In Focus",
+      "duration": "4:55",
+      "date": "Nov 23, 2023"
+    },
+    {
+      "position": 3,
+      "title": "How to make Russian cheese (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0441\u044b\u0440) - Cooking with ...",
+      "link": "https://www.youtube.com/watch?v=77OY9kKcFgY",
+      "thumbnail": "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/12b3ba86c01c8b375ccd39fb860410561c78d0c4cc5bdcddc05f817c17308521.jpeg",
+      "channel": "Life of Boris",
+      "duration": "11:06",
+      "date": "Nov 20, 2020"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What kind of cheese is popular in Russia?",
+      "snippet": "White, crumbly and found in a wide variety of traditional desserts, this delicious cheese is something of a household staple in most Russian homes.",
+      "title": "Tvorog: Russia's Favorite Cheese - ITMO.news",
+      "date": "May 31, 2021",
+      "link": "https://news.itmo.ru/en/features/life_in_russia/news/10370/#:~:text=White%2C%20crumbly%20and%20found%20in,staple%20in%20most%20Russian%20homes.",
+      "displayed_link": "https://news.itmo.ru \u203a features \u203a life_in_russia \u203a news",
+      "source_logo": "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/797528ad4e50cf8b62e77d802abf5de6e8f7f4552b55ac649e94c3b723634dae.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU16TlBaV3BVYm1oNU1sZDRka05zVldReFJXcFJVM1JvVUdaNFVtWlhURlpOU25ZNFExWlBUVFptZWxvMVJFeHpabU01VDJGSk9UaDRRMXAyWTBSeVYyeExhVTlxRWhkNVVsbExXbDgzVFV0UFlXVTFUbTlRZWpScVJIbFJSUm9pUVVaWWNrVmpjVGRFTFVwWFRYSkhNa3hRZW1wM05EWkVOM1J5ZDNoVVNVTkNadyIsImZjdiI6IjMiLCJlaSI6InlSWUtaXzdNS09hZTVOb1B6NGpEeVFFIiwicWMiOiJDZzV5ZFhOemFXRnVJR05vWldWelpSQUFmY1R0X0Q0IiwicXVlc3Rpb24iOiJXaGF0IGtpbmQgb2YgY2hlZXNlIGlzIHBvcHVsYXIgaW4gUnVzc2lhPyIsImxrIjoiR2loM2FHRjBJR3RwYm1RZ2IyWWdZMmhsWlhObElHbHpJSEJ2Y0hWc1lYSWdhVzRnY25WemMybGgiLCJicyI6ImMtT0s0dElNejBnc1Vjak96RXRSeUU5VFNNNUlUUzFPVmNnc1ZpaklMeWpOU1N4U3lNeFRDQ290THM1TXRKYzRVMmFrSmFWUlRsQjlFVmc5VndDWEN0aHNvQ1RFaER5RjRwTEtuRlNGdE1TaTNOUWlxRjU3aVE1SkkxVXA1WEtvMGlMY1Nya3N1Q1E4aXhYUzgwdFRFbUUyUTAyMmwyZ3FOWktVRXM5RWs0YWF4bVhISlE5ekM2cEdoZHpFbEZTZ1Qtd2wxaVVZU1VpSm9lcUR5UW93QWdBIiwiaWQiOiJmY195UllLWl83TUtPYWU1Tm9QejRqRHlRRV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU16TlBaV3BVYm1oNU1sZDRka05zVldReFJXcFJVM1JvVUdaNFVtWlhURlpOU25ZNFExWlBUVFptZWxvMVJFeHpabU01VDJGSk9UaDRRMXAyWTBSeVYyeExhVTlxRWhkNVVsbExXbDgzVFV0UFlXVTFUbTlRZWpScVJIbFJSUm9pUVVaWWNrVmpjVGRFTFVwWFRYSkhNa3hRZW1wM05EWkVOM1J5ZDNoVVNVTkNadyIsImZjdiI6IjMiLCJlaSI6InlSWUtaXzdNS09hZTVOb1B6NGpEeVFFIiwicWMiOiJDZzV5ZFhOemFXRnVJR05vWldWelpSQUFmY1R0X0Q0IiwicXVlc3Rpb24iOiJXaGF0IGtpbmQgb2YgY2hlZXNlIGlzIHBvcHVsYXIgaW4gUnVzc2lhPyIsImxrIjoiR2loM2FHRjBJR3RwYm1RZ2IyWWdZMmhsWlhObElHbHpJSEJ2Y0hWc1lYSWdhVzRnY25WemMybGgiLCJicyI6ImMtT0s0dElNejBnc1Vjak96RXRSeUU5VFNNNUlUUzFPVmNnc1ZpaklMeWpOU1N4U3lNeFRDQ290THM1TXRKYzRVMmFrSmFWUlRsQjlFVmc5VndDWEN0aHNvQ1RFaER5RjRwTEtuRlNGdE1TaTNOUWlxRjU3aVE1SkkxVXA1WEtvMGlMY1Nya3N1Q1E4aXhYUzgwdFRFbUUyUTAyMmwyZ3FOWktVRXM5RWs0YWF4bVhISlE5ekM2cEdoZHpFbEZTZ1Qtd2wxaVVZU1VpSm9lcUR5UW93QWdBIiwiaWQiOiJmY195UllLWl83TUtPYWU1Tm9QejRqRHlRRV8xIn0%3D"
+    },
+    {
+      "question": "What is Russian style farmer cheese?",
+      "snippet": "\"Tvorog, known in the US as Farmer's Cheese - a sour variety of white cheese, tasty to eat as is, with honey or jam, or maple syrup, or use as a filling for crepes and likewise. This food is a Russian tradition, but it is expensive to buy in the US, and about four times to cheaper to make yourself.\"",
+      "title": "Tvorog - Russian Style Farmer's Cheese Recipe - Food.com",
+      "link": "https://www.food.com/recipe/tvorog-russian-style-farmers-cheese-494514#:~:text=%22Tvorog%2C%20known%20in%20the%20US,to%20cheaper%20to%20make%20yourself.%22",
+      "displayed_link": "https://www.food.com \u203a recipe \u203a tvorog-russian-style-far...",
+      "source_logo": "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/797528ad4e50cf8b62e77d802abf5de691c512d49c1752dd9c28b7f893a3bef6.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU16TlBaV3BVYm1oNU1sZDRka05zVldReFJXcFJVM1JvVUdaNFVtWlhURlpOU25ZNFExWlBUVFptZWxvMVJFeHpabU01VDJGSk9UaDRRMXAyWTBSeVYyeExhVTlxRWhkNVVsbExXbDgzVFV0UFlXVTFUbTlRZWpScVJIbFJSUm9pUVVaWWNrVmpjVGRFTFVwWFRYSkhNa3hRZW1wM05EWkVOM1J5ZDNoVVNVTkNadyIsImZjdiI6IjMiLCJlaSI6InlSWUtaXzdNS09hZTVOb1B6NGpEeVFFIiwicWMiOiJDZzV5ZFhOemFXRnVJR05vWldWelpSQUFmY1R0X0Q0IiwicXVlc3Rpb24iOiJXaGF0IGlzIFJ1c3NpYW4gc3R5bGUgZmFybWVyIGNoZWVzZT8iLCJsayI6IkdpTjNhR0YwSUdseklISjFjM05wWVc0Z2MzUjViR1VnWm1GeWJXVnlJR05vWldWelpRIiwiYnMiOiJjLU9LNHRJTXowZ3NVY2pPekV0UnlFOVRTTTVJVFMxT1ZjZ3NWaWpJTHlqTlNTeFN5TXhUQ0NvdExzNU10SmM0VTJha0phVlJUbEI5RVZnOVZ3Q1hDdGhzb0NURWhEeUY0cExLbkZTRnRNU2kzTlFpcUY1N2lRNUpJMVVwNVhLbzBpTGNTcmtzdUNROGl4WFM4MHRURW1FMlEwMjJsMmdxTlpLVUVzOUVrNGFheG1YSEpROXpDNnBHaGR6RWxGU2dULXdsMWlVWVNVaUpvZXFEeVFvd0FnQSIsImlkIjoiZmNfeVJZS1pfN01LT2FlNU5vUHo0akR5UUVfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU16TlBaV3BVYm1oNU1sZDRka05zVldReFJXcFJVM1JvVUdaNFVtWlhURlpOU25ZNFExWlBUVFptZWxvMVJFeHpabU01VDJGSk9UaDRRMXAyWTBSeVYyeExhVTlxRWhkNVVsbExXbDgzVFV0UFlXVTFUbTlRZWpScVJIbFJSUm9pUVVaWWNrVmpjVGRFTFVwWFRYSkhNa3hRZW1wM05EWkVOM1J5ZDNoVVNVTkNadyIsImZjdiI6IjMiLCJlaSI6InlSWUtaXzdNS09hZTVOb1B6NGpEeVFFIiwicWMiOiJDZzV5ZFhOemFXRnVJR05vWldWelpSQUFmY1R0X0Q0IiwicXVlc3Rpb24iOiJXaGF0IGlzIFJ1c3NpYW4gc3R5bGUgZmFybWVyIGNoZWVzZT8iLCJsayI6IkdpTjNhR0YwSUdseklISjFjM05wWVc0Z2MzUjViR1VnWm1GeWJXVnlJR05vWldWelpRIiwiYnMiOiJjLU9LNHRJTXowZ3NVY2pPekV0UnlFOVRTTTVJVFMxT1ZjZ3NWaWpJTHlqTlNTeFN5TXhUQ0NvdExzNU10SmM0VTJha0phVlJUbEI5RVZnOVZ3Q1hDdGhzb0NURWhEeUY0cExLbkZTRnRNU2kzTlFpcUY1N2lRNUpJMVVwNVhLbzBpTGNTcmtzdUNROGl4WFM4MHRURW1FMlEwMjJsMmdxTlpLVUVzOUVrNGFheG1YSEpROXpDNnBHaGR6RWxGU2dULXdsMWlVWVNVaUpvZXFEeVFvd0FnQSIsImlkIjoiZmNfeVJZS1pfN01LT2FlNU5vUHo0akR5UUVfMSJ9"
+    },
+    {
+      "question": "Is gouda cheese Russian?",
+      "snippet": "Gouda cheese (/\u02c8\u0261a\u028ad\u0259/, US also /\u02c8\u0261u\u02d0d\u0259/, Dutch: [\u02c8\u0263\u028cuda\u02d0]; Dutch: Goudse kaas, \"cheese from Gouda\") is a creamy, yellow cow's milk cheese originating from the Netherlands.",
+      "title": "Gouda cheese - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Gouda_cheese#:~:text=Gouda%20cheese%20(%2F%CB%88%C9%A1a%CA%8A,cheese%20originating%20from%20the%20Netherlands.",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Gouda_cheese",
+      "source_logo": "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/797528ad4e50cf8b62e77d802abf5de6bb3249173f5a828d9b9ef4634c5340f6.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU16TlBaV3BVYm1oNU1sZDRka05zVldReFJXcFJVM1JvVUdaNFVtWlhURlpOU25ZNFExWlBUVFptZWxvMVJFeHpabU01VDJGSk9UaDRRMXAyWTBSeVYyeExhVTlxRWhkNVVsbExXbDgzVFV0UFlXVTFUbTlRZWpScVJIbFJSUm9pUVVaWWNrVmpjVGRFTFVwWFRYSkhNa3hRZW1wM05EWkVOM1J5ZDNoVVNVTkNadyIsImZjdiI6IjMiLCJlaSI6InlSWUtaXzdNS09hZTVOb1B6NGpEeVFFIiwicWMiOiJDZzV5ZFhOemFXRnVJR05vWldWelpSQUFmY1R0X0Q0IiwicXVlc3Rpb24iOiJJcyBnb3VkYSBjaGVlc2UgUnVzc2lhbj8iLCJsayI6IkdoZHBjeUJuYjNWa1lTQmphR1ZsYzJVZ2NuVnpjMmxoYmciLCJicyI6ImMtT0s0dElNejBnc1Vjak96RXRSeUU5VFNNNUlUUzFPVmNnc1ZpaklMeWpOU1N4U3lNeFRDQ290THM1TXRKYzRVMmFrSmFWUlRsQjlFVmc5VndDWEN0aHNvQ1RFaER5RjRwTEtuRlNGdE1TaTNOUWlxRjU3aVE1SkkxVXA1WEtvMGlMY1Nya3N1Q1E4aXhYUzgwdFRFbUUyUTAyMmwyZ3FOWktVRXM5RWs0YWF4bVhISlE5ekM2cEdoZHpFbEZTZ1Qtd2wxaVVZU1VpSm9lcUR5UW93QWdBIiwiaWQiOiJmY195UllLWl83TUtPYWU1Tm9QejRqRHlRRV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU16TlBaV3BVYm1oNU1sZDRka05zVldReFJXcFJVM1JvVUdaNFVtWlhURlpOU25ZNFExWlBUVFptZWxvMVJFeHpabU01VDJGSk9UaDRRMXAyWTBSeVYyeExhVTlxRWhkNVVsbExXbDgzVFV0UFlXVTFUbTlRZWpScVJIbFJSUm9pUVVaWWNrVmpjVGRFTFVwWFRYSkhNa3hRZW1wM05EWkVOM1J5ZDNoVVNVTkNadyIsImZjdiI6IjMiLCJlaSI6InlSWUtaXzdNS09hZTVOb1B6NGpEeVFFIiwicWMiOiJDZzV5ZFhOemFXRnVJR05vWldWelpSQUFmY1R0X0Q0IiwicXVlc3Rpb24iOiJJcyBnb3VkYSBjaGVlc2UgUnVzc2lhbj8iLCJsayI6IkdoZHBjeUJuYjNWa1lTQmphR1ZsYzJVZ2NuVnpjMmxoYmciLCJicyI6ImMtT0s0dElNejBnc1Vjak96RXRSeUU5VFNNNUlUUzFPVmNnc1ZpaklMeWpOU1N4U3lNeFRDQ290THM1TXRKYzRVMmFrSmFWUlRsQjlFVmc5VndDWEN0aHNvQ1RFaER5RjRwTEtuRlNGdE1TaTNOUWlxRjU3aVE1SkkxVXA1WEtvMGlMY1Nya3N1Q1E4aXhYUzgwdFRFbUUyUTAyMmwyZ3FOWktVRXM5RWs0YWF4bVhISlE5ekM2cEdoZHpFbEZTZ1Qtd2wxaVVZU1VpSm9lcUR5UW93QWdBIiwiaWQiOiJmY195UllLWl83TUtPYWU1Tm9QejRqRHlRRV8xIn0%3D"
+    },
+    {
+      "question": "What is cheese Russian made of?",
+      "snippet": "Our Cheese Russians are made using only the finest ingredients and a natural casing. We only use Pork, Beef and Real Cheddar Cheese to create a mouth watering quality product just for you. Get a 700g of Cheese Russians packed for your convenience.",
+      "title": "Footlong Cheese Russians (700g) - Dirk's Meat Market",
+      "link": "https://dirks.co.za/products/cheese-russians#:~:text=Our%20Cheese%20Russians%20are%20made,Russians%20packed%20for%20your%20convenience.",
+      "displayed_link": "https://dirks.co.za \u203a products \u203a cheese-russians",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKccMxO7fc0CIWgyk36zrppL8TvetKpOhPUeHRJcIgnA&s",
+      "source_logo": "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/797528ad4e50cf8b62e77d802abf5de610488d07ed42658c43200e6d857cd1dc.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU16TlBaV3BVYm1oNU1sZDRka05zVldReFJXcFJVM1JvVUdaNFVtWlhURlpOU25ZNFExWlBUVFptZWxvMVJFeHpabU01VDJGSk9UaDRRMXAyWTBSeVYyeExhVTlxRWhkNVVsbExXbDgzVFV0UFlXVTFUbTlRZWpScVJIbFJSUm9pUVVaWWNrVmpjVGRFTFVwWFRYSkhNa3hRZW1wM05EWkVOM1J5ZDNoVVNVTkNadyIsImZjdiI6IjMiLCJlaSI6InlSWUtaXzdNS09hZTVOb1B6NGpEeVFFIiwicWMiOiJDZzV5ZFhOemFXRnVJR05vWldWelpSQUFmY1R0X0Q0IiwicXVlc3Rpb24iOiJXaGF0IGlzIGNoZWVzZSBSdXNzaWFuIG1hZGUgb2Y/IiwibGsiOiJHaFpqYUdWbGMyVWdjblZ6YzJsaGJpQnRZV1JsSUc5bSIsImJzIjoiYy1PSzR0SU16MGdzVWNqT3pFdFJ5RTlUU001SVRTMU9WY2dzVmlqSUx5ak5TU3hTeU14VENDb3RMczVNdEpjNFUyYWtKYVZSVGxCOUVWZzlWd0NYQ3Roc29DVEVoRHlGNHBMS25GU0Z0TVNpM05RaXFGNTdpUTVKSTFVcDVYS28waUxjU3Jrc3VDUThpeFhTODB0VEVtRTJRMDIybDJncU5aS1VFczlFazRhYXhtWEhKUTl6QzZwR2hkekVsRlNnVC13bDFpVVlTVWlKb2VxRHlRb3dBZ0EiLCJpZCI6ImZjX3lSWUtaXzdNS09hZTVOb1B6NGpEeVFFXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UU16TlBaV3BVYm1oNU1sZDRka05zVldReFJXcFJVM1JvVUdaNFVtWlhURlpOU25ZNFExWlBUVFptZWxvMVJFeHpabU01VDJGSk9UaDRRMXAyWTBSeVYyeExhVTlxRWhkNVVsbExXbDgzVFV0UFlXVTFUbTlRZWpScVJIbFJSUm9pUVVaWWNrVmpjVGRFTFVwWFRYSkhNa3hRZW1wM05EWkVOM1J5ZDNoVVNVTkNadyIsImZjdiI6IjMiLCJlaSI6InlSWUtaXzdNS09hZTVOb1B6NGpEeVFFIiwicWMiOiJDZzV5ZFhOemFXRnVJR05vWldWelpSQUFmY1R0X0Q0IiwicXVlc3Rpb24iOiJXaGF0IGlzIGNoZWVzZSBSdXNzaWFuIG1hZGUgb2Y%2FIiwibGsiOiJHaFpqYUdWbGMyVWdjblZ6YzJsaGJpQnRZV1JsSUc5bSIsImJzIjoiYy1PSzR0SU16MGdzVWNqT3pFdFJ5RTlUU001SVRTMU9WY2dzVmlqSUx5ak5TU3hTeU14VENDb3RMczVNdEpjNFUyYWtKYVZSVGxCOUVWZzlWd0NYQ3Roc29DVEVoRHlGNHBMS25GU0Z0TVNpM05RaXFGNTdpUTVKSTFVcDVYS28waUxjU3Jrc3VDUThpeFhTODB0VEVtRTJRMDIybDJncU5aS1VFczlFazRhYXhtWEhKUTl6QzZwR2hkekVsRlNnVC13bDFpVVlTVWlKb2VxRHlRb3dBZ0EiLCJpZCI6ImZjX3lSWUtaXzdNS09hZTVOb1B6NGpEeVFFXzEifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Russian Dairy & Cheese",
+      "link": "https://www.russianfoodusa.com/food-drink/dairy-cheese/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.russianfoodusa.com/food-drink/dairy-cheese/&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQFnoECBUQAQ",
+      "displayed_link": "https://www.russianfoodusa.com \u203a Food & Drink",
+      "thumbnail": "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/5fc129edccef4f394954ee52cf01afbf3a5dc9de92661f9bcc4cc749dbd703eb.jpeg",
+      "favicon": "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/5fc129edccef4f394954ee52cf01afbf92a93e085332245b9dbe6d542e073f5e.png",
+      "snippet": "The best Russian and Eastern European dairy and cheese you can buy in our online store. Each item will be fresh and delivered direct to your door.",
+      "snippet_highlighted_words": [
+        "Russian",
+        "cheese"
+      ],
+      "images": [
+        "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/5fc129edccef4f394954ee52cf01afbf39c7ef4f76b920e9c20b3e0597359bc6.jpeg",
+        "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/5fc129edccef4f394954ee52cf01afbf39c7ef4f76b920e9267a293d939ff0fe.jpeg",
+        "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/5fc129edccef4f394954ee52cf01afbf39c7ef4f76b920e925c29bcffc1cd46f.jpeg"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 200,
+            "currency": "Free delivery over $",
+            "unknown": 30
+          },
+          "extensions": [
+            "Free delivery over $200",
+            "\u200e30",
+            "day returns"
+          ]
+        }
+      },
+      "source": "RussianFoodUSA"
+    },
+    {
+      "position": 2,
+      "title": "What cheeses are popular in Russia? What is your ...",
+      "link": "https://www.reddit.com/r/AskARussian/comments/xydqwm/what_cheeses_are_popular_in_russia_what_is_your/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/AskARussian/comments/xydqwm/what_cheeses_are_popular_in_russia_what_is_your/&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQFnoECBgQAQ",
+      "displayed_link": "70+ comments \u00b7 2 years ago",
+      "favicon": "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/5fc129edccef4f394954ee52cf01afbfcc39ceea2b22eec993747498b10f11b5.png",
+      "snippet": "Maasdam, Mozzarella, Hallumi, brynza, riccota. Some of them are being imported from Europe, some are produced here and in Belarus. i'm not a big ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Why do Russians hate Russian cheese? : r/AskARussian",
+            "link": "https://www.reddit.com/r/AskARussian/comments/1bzvlbd/why_do_russians_hate_russian_cheese/",
+            "date": "Apr 9, 2024"
+          },
+          {
+            "title": "Do Russians eat cheese? : r/AskARussian - Reddit",
+            "link": "https://www.reddit.com/r/AskARussian/comments/fv3n1j/do_russians_eat_cheese/",
+            "date": "Apr 5, 2020"
+          },
+          {
+            "title": "Russians smuggling cheese from Finland : r/europe - Reddit",
+            "link": "https://www.reddit.com/r/europe/comments/8rk8ce/russians_smuggling_cheese_from_finland/",
+            "date": "Jun 16, 2018"
+          },
+          {
+            "title": "Russian cheese... : r/touhou - Reddit",
+            "link": "https://www.reddit.com/r/touhou/comments/rhofyf/russian_cheese/",
+            "date": "Dec 16, 2021"
+          }
+        ]
+      },
+      "source": "Reddit \u00b7 r/AskARussian"
+    },
+    {
+      "position": 3,
+      "title": "Russian cheese",
+      "link": "https://en.wikipedia.org/wiki/Russian_cheese",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Russian_cheese&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQFnoECA4QAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Russian_cheese",
+      "favicon": "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/5fc129edccef4f394954ee52cf01afbf306b177ff1eb7c882c034b7aa4112c90.png",
+      "snippet": "Russian cheese is a Russian semi-hard, chymosin cheese produced from pasteurized cows' milk and aged for 2 months. The recipe was developed by VNIIMS [ru] ...",
+      "snippet_highlighted_words": [
+        "Russian cheese"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 4,
+      "title": "10 Russian cheeses you've GOT to try",
+      "link": "https://www.rbth.com/russian-kitchen/329871-10-russian-cheeses",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.rbth.com/russian-kitchen/329871-10-russian-cheeses&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQFnoECBAQAQ",
+      "displayed_link": "https://www.rbth.com \u203a Russian Kitchen",
+      "favicon": "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/5fc129edccef4f394954ee52cf01afbf9144d3f466f13237671dfff84bbe5d7b.png",
+      "date": "Jan 20, 2019",
+      "snippet": "10 Russian cheeses you've GOT to try \u00b7 1. Gollandsky cheese \u00b7 2. Rossiysky cheese \u00b7 3. Kostromskoy cheese \u00b7 4. Poshekhonsky cheese \u00b7 6.",
+      "snippet_highlighted_words": [
+        "Russian cheeses"
+      ],
+      "source": "Russia Beyond"
+    },
+    {
+      "position": 5,
+      "title": "Russian quality deli cheese Buy Online. US Shipping.",
+      "link": "https://www.russianfoodusa.com/food-drink/dairy-cheese/deli-cheese/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.russianfoodusa.com/food-drink/dairy-cheese/deli-cheese/&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQFnoECF4QAQ",
+      "displayed_link": "https://www.russianfoodusa.com \u203a ... \u203a Dairy & Cheese",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSed0R9ydOsZkDe7Tyjtjy1Vi7d9MduK3agBM1T0TdIH5NqNsQN8ks5&s",
+      "favicon": "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/5fc129edccef4f394954ee52cf01afbf8224ffe2ed1f88311d97f084fc80185e.png",
+      "snippet": "Our on-line store offers a wide variety of deli cheese- Gouda, feta, Bulgarian white, Havarti, Madrigal and more - prepared according to ...",
+      "snippet_highlighted_words": [
+        "cheese"
+      ],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSed0R9ydOsZkDe7Tyjtjy1Vi7d9MduK3agBM1T0TdIH5NqNsQN8ks5&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKdKyhaBxd24U_SjUxPGCTCxthUrkvcHdEEbvr5jakv5Pm54Pppv20&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-CW1nUu3-50Jz0XoxRxAHRwEbMa9ngbC_tNgQUq_rS3HST0ZjMF3IZ8hb56AxD7eGY4&s"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 200,
+            "currency": "Free delivery over $",
+            "unknown": 30
+          },
+          "extensions": [
+            "$5 to $20",
+            "\u200eFree delivery over $200",
+            "\u200e30",
+            "day returns"
+          ]
+        }
+      },
+      "source": "RussianFoodUSA"
+    },
+    {
+      "position": 6,
+      "title": "Why is Russian cheese so bad? I bought some ...",
+      "link": "https://www.quora.com/Why-is-Russian-cheese-so-bad-I-bought-some-cheeses-at-Lenta-in-Moscow-but-they-all-taste-like-plastic-Can-you-suggest-a-good-brand",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/Why-is-Russian-cheese-so-bad-I-bought-some-cheeses-at-Lenta-in-Moscow-but-they-all-taste-like-plastic-Can-you-suggest-a-good-brand&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQFnoECFoQAQ",
+      "displayed_link": "https://www.quora.com \u203a Why-is-Russian-cheese-so-bad...",
+      "favicon": "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/5fc129edccef4f394954ee52cf01afbf66c3fc6bc65ee0f1786a38528adcda21.png",
+      "snippet": "Rossiysky is made from pasteurized cow's milk, which imparts a slightly sour taste. Slicing reveals a uniform patchwork of tiny pores, which ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "What are the most famous cheeses in Russia? - Quora",
+            "link": "https://www.quora.com/What-are-the-most-famous-cheeses-in-Russia",
+            "answer_count": 1,
+            "date": "Dec 24, 2018"
+          },
+          {
+            "title": "Do people eat cheese in Russia? What kind? - Quora",
+            "link": "https://www.quora.com/Do-people-eat-cheese-in-Russia-What-kind",
+            "answer_count": 9,
+            "date": "Mar 20, 2019"
+          },
+          {
+            "title": "How good are the Russian 'imitation' cheeses ... - Quora",
+            "link": "https://www.quora.com/How-good-are-the-Russian-imitation-cheeses-Russian-ambassador-to-Sweden-Viktor-Tatarintsev-just-said-weve-learned-to-make-just-as-good-Russian-cheeses-using-Italian-and-Swiss-recipes",
+            "answer_count": 3,
+            "date": "Feb 13, 2022"
+          },
+          {
+            "title": "Is it true that Russian cheeses are just glue and sawdust?",
+            "link": "https://www.quora.com/Is-it-true-that-Russian-cheeses-are-just-glue-and-sawdust",
+            "answer_count": 16,
+            "date": "Nov 4, 2021"
+          }
+        ]
+      },
+      "source": "Quora"
+    },
+    {
+      "position": 7,
+      "title": "Russian Cheese is More Than Cheese",
+      "link": "https://www.themoscowtimes.com/2024/04/06/russian-cheese-is-more-than-cheese-a84740",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.themoscowtimes.com/2024/04/06/russian-cheese-is-more-than-cheese-a84740&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQFnoECFIQAQ",
+      "displayed_link": "https://www.themoscowtimes.com \u203a Arts & Life",
+      "favicon": "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/5fc129edccef4f394954ee52cf01afbf1335c5f8d2a80428f2a3496bf37aa12f.png",
+      "date": "Apr 6, 2024",
+      "snippet": "The thesis popular today in pro-Putin circles is that Russian cheese is the oldest and most delicious cheese in the world and that Europe stole ...",
+      "snippet_highlighted_words": [
+        "Russian cheese"
+      ],
+      "source": "The Moscow Times"
+    },
+    {
+      "position": 8,
+      "title": "Category:Russian cheeses",
+      "link": "https://en.wikipedia.org/wiki/Category:Russian_cheeses",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Category:Russian_cheeses&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQFnoECFEQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Category:Russian_chee...",
+      "favicon": "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/5fc129edccef4f394954ee52cf01afbff564a2b33bfad19f52d52523b71de753.png",
+      "snippet": "Wikimedia Commons has media related to Cheese from Russia. Pages in category \"Russian cheeses\".",
+      "snippet_highlighted_words": [
+        "Russian cheeses"
+      ],
+      "source": "Wikipedia"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=russian+cheese&udm=2&source=univ&fir=YcM7m3NeC4YjgM%252CnVkhqXcRpM9uLM%252C_%253BrmLvBOXoX8H6TM%252CUQWFjJ-a9PS-5M%252C_%253BQiBkuAEc1pLwFM%252CIGn7M5YG3cGRnM%252C_%253Birt7j5I2jjLsMM%252CqRqfkIvKnXghOM%252C_%253BVho42UnBantMeM%252Crq_mQ4GNUPGYkM%252C_%253BZxx6gtWP9vo_6M%252CxuU_hzYrdAi6QM%252C_%253Baf9ndXHbF-lpuM%252C8OE-Y2YuKtaDeM%252C_%253Bqi0eO8kIDUtxVM%252CId2oSk4vXyaZnM%252C_%253Bpc0nnUfWhz9DuM%252Ck2ROZqt8QVM2LM%252C_%253Byz2TFjcIPDtSGM%252Cq_WxPKW0WrLkzM%252C_%253BWxN5I4gma_bA4M%252C6Dc3HCv_-IMNVM%252C_%253BckeZRI_hro_LbM%252CZTj1lowYj--SWM%252C_&usg=AI4_-kRLSQ11D2Kyi2Y2DFaYQRSm0T9WCw&sa=X&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQ7Al6BAhiEAY",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=russian+cheese",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Russian cheese names",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Russian+cheese+names&sa=X&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQ1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Russian+cheese+names"
+    },
+    {
+      "block_position": 1,
+      "query": "Russian cheese where to buy",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Russian+cheese+where+to+buy&sa=X&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQ1QJ6BAhTEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Russian+cheese+where+to+buy"
+    },
+    {
+      "block_position": 1,
+      "query": "Russian cheese man",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Russian+cheese+man&sa=X&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQ1QJ6BAhQEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Russian+cheese+man"
+    },
+    {
+      "block_position": 1,
+      "query": "Russian cheese for sale",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Russian+cheese+for+sale&sa=X&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQ1QJ6BAhPEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Russian+cheese+for+sale"
+    },
+    {
+      "block_position": 1,
+      "query": "Russian cheesecake",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Russian+cheesecake&sa=X&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQ1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Russian+cheesecake"
+    },
+    {
+      "block_position": 1,
+      "query": "Russian food",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Russian+food&sa=X&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQ1QJ6BAhLEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Russian+food"
+    },
+    {
+      "block_position": 1,
+      "query": "Most popular cheese in Russia",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Most+popular+cheese+in+Russia&sa=X&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQ1QJ6BAhKEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Most+popular+cheese+in+Russia"
+    },
+    {
+      "block_position": 1,
+      "query": "Russian smoked cheese",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Russian+smoked+cheese&sa=X&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQ1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Russian+smoked+cheese"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Types",
+        "subtitle": "Types Of Russian Cheese",
+        "title": "Russian Cheese is More Than Cheese - The Moscow Times",
+        "link": "https://www.themoscowtimes.com/2024/04/06/russian-cheese-is-more-than-cheese-a84740#:~:text=All%20the%20cheeses%20such%20as,no%20bans%20on%20cheese%20imports!",
+        "displayed_link": "https://www.themoscowtimes.com \u203a 2024/04/06 \u203a russian...",
+        "date": "Apr 6, 2024",
+        "snippet": "All the cheeses such as Kostroma, Yaroslavl, Uglich, Poshekhonye, and so on came from that era. By the beginning of the 20th century Russia produced about 100 native cheeses. And this was when there were no bans on cheese imports!",
+        "snippet_highlighted_words": [
+          "Kostroma, Yaroslavl, Uglich, Poshekhonye"
+        ],
+        "favicon": "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/df83900114e5fd6929545f076330c2995754e8ef59a7e7a9802a5ab818931522136c6dae19b7b413.png",
+        "source": "themoscowtimes.com",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=types+of+russian+cheese&sa=X&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQrooIegQIDBAH",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=types+of+russian+cheese"
+      },
+      {
+        "text": "Most popular",
+        "subtitle": "Most Popular Cheese In Russia",
+        "title": "Russian Dairy & Cheese - RussianFoodUSA",
+        "link": "https://www.russianfoodusa.com/food-drink/dairy-cheese/#:~:text=Tvorog%20is%20a%20very%20popular,Russians%20will%20swear%20by%20tvorog.",
+        "displayed_link": "https://www.russianfoodusa.com \u203a food-drink \u203a dairy-che...",
+        "snippet": "Tvorog is a very popular and nutritious dairy product that is very similar to western cottage cheese, though most Russians will swear by tvorog.",
+        "snippet_highlighted_words": [
+          "Tvorog"
+        ],
+        "answer": "Tvorog",
+        "favicon": "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/df83900114e5fd6929545f076330c2998615516031a9df9b497c7dd38f896e01efda032cfe9d8b58.png",
+        "source": "russianfoodusa.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaSLxoZuq_7qTDEh-hIOrAiXRKTDGuhMo-gw1lhbTDuvU&s",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=most+popular+cheese+in+russia&sa=X&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQrooIegQIDBAQ",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=most+popular+cheese+in+russia"
+      },
+      {
+        "text": "Taste",
+        "subtitle": "Russian Cheese Taste",
+        "title": "Russian cheese - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Russian_cheese#:~:text=The%20cheese%20is%20semi%2Dhard,It%20tastes%20slightly%20sour.",
+        "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Russian_cheese",
+        "snippet": "The cheese is semi-hard with a fat content of 50 \u00b11.6%, yellow, and small holes can be seen when it's cut. It tastes slightly sour.",
+        "snippet_highlighted_words": [
+          "slightly sour"
+        ],
+        "favicon": "https://serpapi.com/searches/670a16c8cdf1550373f000fb/images/df83900114e5fd6929545f076330c29985958a7670909b9ed63f8d6e4b5147f85ba2a24be76741fe.png",
+        "source": "wikipedia.org",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQSp2Ao7II7BVXWuIgsceNutMaRZ1pnFNLtU5X3eI-Ks&s",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=russian+cheese+taste&sa=X&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQrooIegQIDBAZ",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=russian+cheese+taste"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=russian+cheese&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=yRYKZ_7MKOae5NoPz4jDyQE&start=10&sa=N&sstk=AagrsujL6f-iPMmWuf6GGFtXPM4znUfXxtIK1h5Q5PSwQz3OoVVP2AOqepS_OqZDk0OXHzD0StE7xj7mkOQXuI3mMq5MYclo7q7eqg&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQ8NMDegQIBxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=russian+cheese&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=yRYKZ_7MKOae5NoPz4jDyQE&start=10&sa=N&sstk=AagrsujL6f-iPMmWuf6GGFtXPM4znUfXxtIK1h5Q5PSwQz3OoVVP2AOqepS_OqZDk0OXHzD0StE7xj7mkOQXuI3mMq5MYclo7q7eqg&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQ8tMDegQIBxAE",
+      "3": "https://www.google.com/search?q=russian+cheese&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=yRYKZ_7MKOae5NoPz4jDyQE&start=20&sa=N&sstk=AagrsujL6f-iPMmWuf6GGFtXPM4znUfXxtIK1h5Q5PSwQz3OoVVP2AOqepS_OqZDk0OXHzD0StE7xj7mkOQXuI3mMq5MYclo7q7eqg&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQ8tMDegQIBxAG",
+      "4": "https://www.google.com/search?q=russian+cheese&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=yRYKZ_7MKOae5NoPz4jDyQE&start=30&sa=N&sstk=AagrsujL6f-iPMmWuf6GGFtXPM4znUfXxtIK1h5Q5PSwQz3OoVVP2AOqepS_OqZDk0OXHzD0StE7xj7mkOQXuI3mMq5MYclo7q7eqg&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQ8tMDegQIBxAI",
+      "5": "https://www.google.com/search?q=russian+cheese&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=yRYKZ_7MKOae5NoPz4jDyQE&start=40&sa=N&sstk=AagrsujL6f-iPMmWuf6GGFtXPM4znUfXxtIK1h5Q5PSwQz3OoVVP2AOqepS_OqZDk0OXHzD0StE7xj7mkOQXuI3mMq5MYclo7q7eqg&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQ8tMDegQIBxAK",
+      "6": "https://www.google.com/search?q=russian+cheese&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=yRYKZ_7MKOae5NoPz4jDyQE&start=50&sa=N&sstk=AagrsujL6f-iPMmWuf6GGFtXPM4znUfXxtIK1h5Q5PSwQz3OoVVP2AOqepS_OqZDk0OXHzD0StE7xj7mkOQXuI3mMq5MYclo7q7eqg&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQ8tMDegQIBxAM",
+      "7": "https://www.google.com/search?q=russian+cheese&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=yRYKZ_7MKOae5NoPz4jDyQE&start=60&sa=N&sstk=AagrsujL6f-iPMmWuf6GGFtXPM4znUfXxtIK1h5Q5PSwQz3OoVVP2AOqepS_OqZDk0OXHzD0StE7xj7mkOQXuI3mMq5MYclo7q7eqg&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQ8tMDegQIBxAO",
+      "8": "https://www.google.com/search?q=russian+cheese&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=yRYKZ_7MKOae5NoPz4jDyQE&start=70&sa=N&sstk=AagrsujL6f-iPMmWuf6GGFtXPM4znUfXxtIK1h5Q5PSwQz3OoVVP2AOqepS_OqZDk0OXHzD0StE7xj7mkOQXuI3mMq5MYclo7q7eqg&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQ8tMDegQIBxAQ",
+      "9": "https://www.google.com/search?q=russian+cheese&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=yRYKZ_7MKOae5NoPz4jDyQE&start=80&sa=N&sstk=AagrsujL6f-iPMmWuf6GGFtXPM4znUfXxtIK1h5Q5PSwQz3OoVVP2AOqepS_OqZDk0OXHzD0StE7xj7mkOQXuI3mMq5MYclo7q7eqg&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQ8tMDegQIBxAS",
+      "10": "https://www.google.com/search?q=russian+cheese&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=yRYKZ_7MKOae5NoPz4jDyQE&start=90&sa=N&sstk=AagrsujL6f-iPMmWuf6GGFtXPM4znUfXxtIK1h5Q5PSwQz3OoVVP2AOqepS_OqZDk0OXHzD0StE7xj7mkOQXuI3mMq5MYclo7q7eqg&ved=2ahUKEwi-1dqRm4iJAxVmD1kFHU_EMBkQ8tMDegQIBxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=russian+cheese&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=russian+cheese&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=russian+cheese&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=russian+cheese&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=russian+cheese&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=russian+cheese&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=russian+cheese&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=russian+cheese&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=russian+cheese&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=russian+cheese&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=russian+cheese&start=90"
+    }
+  }
+}

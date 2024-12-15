@@ -1,0 +1,675 @@
+{
+  "search_metadata": {
+    "id": "670a2be2a775f2c583499e09",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/38d21a2c76d5e11f/670a2be2a775f2c583499e09.json",
+    "created_at": "2024-10-12 07:57:22 UTC",
+    "processed_at": "2024-10-12 07:57:22 UTC",
+    "google_url": "https://www.google.com/search?q=lotus&oq=lotus&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/38d21a2c76d5e11f/670a2be2a775f2c583499e09.html",
+    "total_time_taken": 0.54
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "lotus",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "lotus",
+    "total_results": 705000000,
+    "time_taken_displayed": 0.26,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=lotus&npsic=0&rflfq=1&rldoc=1&rllag=30336919,-97754002,8367&tbm=lcl&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQtgN6BAg8EAI",
+    "image": "https://serpapi.com/searches/670a2be2a775f2c583499e09/images/3385e8de3e0a6f8b6a59e2329ee05c5b.png",
+    "gps_coordinates": {
+      "latitude": 30.336919,
+      "longitude": -97.754002
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "label": "A",
+        "description": "Dine-in\u00b7Takeout\u00b7No-contact delivery",
+        "lsig": "AB86z5Xc9HNAvMQ0bLdGSe6BGiWW",
+        "service_options": {
+          "dine_in": true,
+          "takeout": true,
+          "no_contact_delivery": true
+        },
+        "links": {
+          "website": "http://www.lotushunan.com/",
+          "directions": "https://www.google.com/maps/dir//Lotus+Hunan,+3201+Bee+Caves+Rd+%23112,+Austin,+TX+78746/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x865b4ab89eb6e26b:0xac28d54abe32be2a?sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ48ADegQIIRAA&hl=en&gl=us"
+        },
+        "title": "Lotus Hunan",
+        "phone": "(512) 327-7776",
+        "address": "3201 Bee Caves Rd #112",
+        "hours": "Closed \u22c5 Opens 11 AM",
+        "place_id": "12405399690587323946",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=12405399690587323946&q=lotus",
+        "gps_coordinates": {
+          "latitude": 30.272734,
+          "longitude": -97.799515
+        }
+      },
+      {
+        "position": 2,
+        "label": "B",
+        "description": "Dine-in\u00b7Takeout\u00b7Delivery",
+        "lsig": "AB86z5WDhunneA67UMCeq28rqAbc",
+        "service_options": {
+          "dine_in": true,
+          "takeout": true,
+          "delivery": true
+        },
+        "links": {
+          "website": "http://www.lotuschineseatx.com/",
+          "directions": "https://www.google.com/maps/dir//Lotus+Chinese,+11501+Rock+Rose+Ave+%23152,+Austin,+TX+78758/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8644cd139dfead2b:0xe70392265dcd1871?sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ48ADegQIJhAA&hl=en&gl=us",
+          "order": "https://food.google.com/chooseprovider?restaurantId=/g/11gh34m8vp&g2lbs=AOHF13knKQC9fjrMdWaeOvu5QUD-pWStCSQ9dgMALkCtDtHrXtBUqXwaQKNvT0SaKPxyoE5xh_AGcsy7o9eRlO0_URJSz6jNkw%3D%3D&hl=en-US&gl=us&ssta=1&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=chain-result&gei=4isKZ-_UBI25wN4PxtbqSA&ei=4isKZ-_UBI25wN4PxtbqSA&fo_s=OA,SOE&opi=89978449&foub=mcpp"
+        },
+        "title": "Lotus Chinese",
+        "address": "11501 Rock Rose Ave #152",
+        "hours": "Closed \u22c5 Opens 11:30 AM",
+        "place_id": "16646309341171619953",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=16646309341171619953&q=lotus",
+        "gps_coordinates": {
+          "latitude": 30.401117,
+          "longitude": -97.722595
+        }
+      },
+      {
+        "position": 3,
+        "label": "C",
+        "description": "Dine-in\u00b7Takeout\u00b7No-contact delivery",
+        "lsig": "AB86z5W2gMFe3vxjShS7owyOdRfL",
+        "service_options": {
+          "dine_in": true,
+          "takeout": true,
+          "no_contact_delivery": true
+        },
+        "links": {
+          "directions": "https://www.google.com/maps/dir//Lotus+salad,+5610+N+Interstate+Hwy+35,+Austin,+TX+78751/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8644cbe21147842f:0x581aa35210ddd8f1?sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ48ADegQIJRAA&hl=en&gl=us",
+          "order": "https://food.google.com/chooseprovider?restaurantId=/g/11w3cb69_g&g2lbs=AOHF13kb7oelveW2Hl73DQ6SoT8T4ZrMUIvF_uN_eqAyDTJL4Fd8mXsCllCswb8jyr3qTmTdzYZ4F7tUg_CIN5GDhVBXC3qdyA%3D%3D&hl=en-US&gl=us&ssta=1&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=chain-result&gei=4isKZ-_UBI25wN4PxtbqSA&ei=4isKZ-_UBI25wN4PxtbqSA&fo_s=OA,SOE&opi=89978449&foub=mcpp"
+        },
+        "title": "Lotus salad",
+        "address": "5610 N Interstate Hwy 35",
+        "hours": "Closed \u22c5 Opens 11 AM",
+        "place_id": "6348566197597755633",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=6348566197597755633&q=lotus",
+        "gps_coordinates": {
+          "latitude": 30.316149,
+          "longitude": -97.70849
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&tbs=lf:1,lf_ui:4&tbm=lcl&q=lotus&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQjGp6BAg9EAE"
+  },
+  "knowledge_graph": {
+    "title": "Lotus Cars Limited",
+    "type": "Automotive manufacturer",
+    "entity_type": "companies, cars, chains, company",
+    "kgmid": "/m/016qk5",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/016qk5&hl=en-US&q=Lotus+Cars+Limited",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F016qk5&location=Austin%2CTexas%2CUnited+States&q=Lotus+Cars+Limited",
+    "image": "https://serpapi.com/searches/670a2be2a775f2c583499e09/images/6ee85de55d474302f9fc0aa9033d914fd373f164a00ff63d.png",
+    "description": "Lotus Group is a British multinational automotive manufacturer of luxury sports cars and electric vehicles. Lotus Group is composed of three primary entities. Lotus Cars, a high-performance sports car company, is based in Hethel, Norfolk.",
+    "website": "http://www.lotuscars.com/",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Lotus_Cars"
+    },
+    "parent_organizations": "Geely, Lotus Group International Ltd.",
+    "parent_organizations_links": [
+      {
+        "text": "Geely",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Geely&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L2NAZBVdRpNGYfmqJvjNBst2Kn6nkY5IlgFKaWwRvPN2tdwb7TpJxB60qy3Zalpu_-iIrRWFQSFumJfopHloX2xH8X72VFHTov8qgZ4OOkV1fYNrh9FhSJKHuitUCipRiRANjuJV57i3LuZ-fXfj58rJjE8AJj_eikS3ITcLhDPQan5oq9pmsjUDNx59GAjmPTODzpih9vdmDS1R3V6Ox4TYEFiANEVHTPPDF6ahHxV3u7FWxQ%3D%3D&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQmxMoAHoECDAQAg"
+      },
+      {
+        "text": "Lotus Group International Ltd.",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Lotus+Group+International+Ltd.&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgNlnyTcUpKF9Ngye0Q-nTq1xm-G6yAIxeoufreRaPBbs4mDVT9U_0Py46YFNs-qxyg4Hky7e25-Cs4br1KTBC5IketRH2ru_s_XyF-T_wY3-DIFt47G9VwnPeAcjoTSbrAK0WkA6tmRkCnlmUpvS7fMKtOMHwapa7BOqsYLH9DAVI4YAH3-AJNG2I66xrX7AaXyG9qRsOlgnnEOdbQ0LR9vpRo1u5BmjLI0i4XGEO8xqOOXFeVLpMo21WyyCHhvMxySx6nFraXG8KR8LDZQpnTh6DWd_&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQmxMoAXoECDAQAw"
+      }
+    ],
+    "founder": "Colin Chapman",
+    "founder_links": [
+      {
+        "text": "Colin Chapman",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Colin+Chapman&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L7jUCaqu9k2zawSU0eLwssIG8nnObuz1W5YKTognZv3KiEjsGky-AnjK_umDxlTvvRIdQup2vvBfjgNgB2UmqbqE-c6lnwagVqTiP2cooOQVCmkOde9P8idD_Yd4NU9w9MjbiRN7eA2XKsqVQS5GkcE2vGzY&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQmxMoAHoECDIQAg"
+      }
+    ],
+    "founded": "1948, Hethel, United Kingdom",
+    "founded_links": [
+      {
+        "text": "Hethel, United Kingdom",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Hethel&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQSk-G2MlAwbG4XczSRh9cgzYnsKhZMrtfJqlDetOwx3eaUXy5t7pCptW2fyNSUazVtnFygu9z-hFMHs7plGaE_c2pV3g1vVUDKCbMG0_OppILizgIHLi9ObK37GRDQtmjgECEbwfDRgkqdmsDLepV2M0WxP5&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQmxMoAHoECDMQAg"
+      }
+    ],
+    "headquarters": "Norwich, United Kingdom",
+    "headquarters_links": [
+      {
+        "text": "Norwich, United Kingdom",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Norwich&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm9pqdR7PRLMzW3MHXAwQKcnLoSpzlyRyHcWxAE2Mk-jbtN80YAwlJNV7-yYycg92edWzz8xxU2Zylfa4N_fY1ZJapF_ZE2ZhIKh0cT7ZBmiASqdwYPXJPARlh0TOniE_FgEiOGtTp3IYF_X8t7IhhCOTugbp&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQmxMoAHoECC8QAg"
+      }
+    ],
+    "latest_models": [
+      {
+        "name": "2024 Lotus Emira",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=2024+Lotus+Emira&stick=H4sIAAAAAAAAAONgFuLUz9U3MDQrzDZV4tVP1zc0LKk0y00uzjPSEnbOzy1IzKsMyffNT0nNiUxNLCpexCpgZGBkouCTX1JarOCam1mUuIOVEQA7LDeiRwAAAA&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQxA16BAguEAM",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=2024+Lotus+Emira&stick=H4sIAAAAAAAAAONgFuLUz9U3MDQrzDZV4tVP1zc0LKk0y00uzjPSEnbOzy1IzKsMyffNT0nNiUxNLCpexCpgZGBkouCTX1JarOCam1mUuIOVEQA7LDeiRwAAAA",
+        "image": "https://serpapi.com/searches/670a2be2a775f2c583499e09/images/6ee85de55d474302f9fc0aa9033d914f5d159eb38e9495609a7862eb14b0bb72a800b17fc33b11da.jpeg"
+      },
+      {
+        "name": "2025 Lotus Eletre",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=2025+Lotus+Eletre&stick=H4sIAAAAAAAAAONgFuLUz9U3MDQrzDZV4tVP1zc0rDQtNLNIqsjTEnbOzy1IzKsMyffNT0nNiUxNLCpexCpoZGBkquCTX1JarOCak1pSlLqDlREAh2-59EgAAAA&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQxA16BAguEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=2025+Lotus+Eletre&stick=H4sIAAAAAAAAAONgFuLUz9U3MDQrzDZV4tVP1zc0rDQtNLNIqsjTEnbOzy1IzKsMyffNT0nNiUxNLCpexCpoZGBkquCTX1JarOCak1pSlLqDlREAh2-59EgAAAA",
+        "image": "https://serpapi.com/searches/670a2be2a775f2c583499e09/images/6ee85de55d474302f9fc0aa9033d914f5d159eb38e949560ec8d1ad281d00c26f401a9ab4ade22dd.jpeg"
+      }
+    ],
+    "profiles": [
+      {
+        "name": "YouTube",
+        "link": "https://www.youtube.com/user/grouplotus",
+        "image": "https://serpapi.com/searches/670a2be2a775f2c583499e09/images/6ee85de55d474302f9fc0aa9033d914f38fd1b717e9be587f5e8ca8777c2efcb05be0907b241359a.png"
+      },
+      {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/LotusCars",
+        "image": "https://serpapi.com/searches/670a2be2a775f2c583499e09/images/6ee85de55d474302f9fc0aa9033d914f38fd1b717e9be587235e7e9502415023b9696ebec26e0a3b.png"
+      },
+      {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/lotuscars",
+        "image": "https://serpapi.com/searches/670a2be2a775f2c583499e09/images/6ee85de55d474302f9fc0aa9033d914f38fd1b717e9be58734b722e56e81ba0ab46282c847e9bf4a.png"
+      },
+      {
+        "name": "LinkedIn",
+        "link": "https://uk.linkedin.com/company/group-lotus",
+        "image": "https://serpapi.com/searches/670a2be2a775f2c583499e09/images/6ee85de55d474302f9fc0aa9033d914f38fd1b717e9be5878700df528b9f61f0eaa54f8173c24a0c.png"
+      },
+      {
+        "name": "X (Twitter)",
+        "link": "https://twitter.com/lotuscars",
+        "image": "https://serpapi.com/searches/670a2be2a775f2c583499e09/images/6ee85de55d474302f9fc0aa9033d914f38fd1b717e9be587f1d8486bbc3b5bdd5fe077b75eca8e5d.png"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Caterham Cars",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L1aXuHlVp2TMnOT35Y6fi70rqXFRTsL-3AoY0eO1AtMPq53XPg16PkEQwUHxGDvEcIJiYv8rgUUqs1mSTVaQAvq8vzQwhlUFJntoEgsKBgRwt2i83XDYhNhj0l4GgegjO5Any4zyjcaWO7zCVDVLFQnvdd5zmCyCIuF23uszli18ApXv2yprnpNPgZWzFUWGmPUl_BxpEw8-uj_v-qj6cwueBXKStPNTHVIP7I_SNavwIGFV0jb58CXtmhs5IKBGuy84AO0%3D&q=Caterham+Cars&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQs9oBKAB6BAg0EAI",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Caterham+Cars&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L1aXuHlVp2TMnOT35Y6fi70rqXFRTsL-3AoY0eO1AtMPq53XPg16PkEQwUHxGDvEcIJiYv8rgUUqs1mSTVaQAvq8vzQwhlUFJntoEgsKBgRwt2i83XDYhNhj0l4GgegjO5Any4zyjcaWO7zCVDVLFQnvdd5zmCyCIuF23uszli18ApXv2yprnpNPgZWzFUWGmPUl_BxpEw8-uj_v-qj6cwueBXKStPNTHVIP7I_SNavwIGFV0jb58CXtmhs5IKBGuy84AO0%3D",
+        "image": "https://serpapi.com/searches/670a2be2a775f2c583499e09/images/6ee85de55d474302f9fc0aa9033d914f7c2dcf32eb5363a1acab46625529e10b786c9a5e266eeb41ca967d63ae6a7d3e.png"
+      },
+      {
+        "name": "Geely",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L1H5P-wY54qlr6nT9jsoNZ6sPE1fGVE8YP8EnH9JkUciMgUnfBjo3FmwIEuGLOdrsQhtedxfu-zj5w_a4FmU5HukRiMr-6rZ4IpKamoAjmtFq6-tebseZnhbLrsrFWeOIq-xnsSmqo_c1nnNbQtrqU8MGGk2xC_llUbDp33MfQOhfddtOsL27plrKaetFI8P5cUacI3-mi_VtZ4AyApmdLGqQxacetf0RGFD_HlIgTL-JcAsJCGDUDASXVX4d0MB8nGl7l4%3D&q=Geely&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQs9oBKAF6BAg0EAM",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Geely&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L1H5P-wY54qlr6nT9jsoNZ6sPE1fGVE8YP8EnH9JkUciMgUnfBjo3FmwIEuGLOdrsQhtedxfu-zj5w_a4FmU5HukRiMr-6rZ4IpKamoAjmtFq6-tebseZnhbLrsrFWeOIq-xnsSmqo_c1nnNbQtrqU8MGGk2xC_llUbDp33MfQOhfddtOsL27plrKaetFI8P5cUacI3-mi_VtZ4AyApmdLGqQxacetf0RGFD_HlIgTL-JcAsJCGDUDASXVX4d0MB8nGl7l4%3D",
+        "image": "https://serpapi.com/searches/670a2be2a775f2c583499e09/images/6ee85de55d474302f9fc0aa9033d914f7c2dcf32eb5363a1acab46625529e10be59abca5725111fc9240a88fac3e0659.jpeg"
+      },
+      {
+        "name": "Aston Martin",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nyYzndfSpHALlN52qAqlQZE2s8nxEbc9OSW3jbjf5_eZhieNSVDwwMeaB1nhCQjvGt-Z5nJVubuWKuFPpyhi4fRpyxbhZthIxcjCwCWD7ny1MHmDwKMgXlutZH1v_zINjs77PCFSDGoMdLwTnhcYrcXOJ3j0mrYapxyz4ZsUuczWpRX4V9OKrSY2Tl3LrzYevRxSkqTI09JxTaZzHkN0cWBv_WODGoZB34DPvFDfLIc0b0rOC0I8EnsGUecEra5AOrw0yvbvkkpM_E5h4P_uwDK4dEKbn2c_8sQcWye4lilipB3XQc%3D&q=Aston+Martin&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQs9oBKAJ6BAg0EAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Aston+Martin&si=ACC90nyYzndfSpHALlN52qAqlQZE2s8nxEbc9OSW3jbjf5_eZhieNSVDwwMeaB1nhCQjvGt-Z5nJVubuWKuFPpyhi4fRpyxbhZthIxcjCwCWD7ny1MHmDwKMgXlutZH1v_zINjs77PCFSDGoMdLwTnhcYrcXOJ3j0mrYapxyz4ZsUuczWpRX4V9OKrSY2Tl3LrzYevRxSkqTI09JxTaZzHkN0cWBv_WODGoZB34DPvFDfLIc0b0rOC0I8EnsGUecEra5AOrw0yvbvkkpM_E5h4P_uwDK4dEKbn2c_8sQcWye4lilipB3XQc%3D",
+        "image": "https://serpapi.com/searches/670a2be2a775f2c583499e09/images/6ee85de55d474302f9fc0aa9033d914f7c2dcf32eb5363a1acab46625529e10ba35588d822d67c6ec6bd179c77bf0edf.png"
+      },
+      {
+        "name": "Bentley Motors Limited",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm1bLtYPO3g7DkoO4KMTpWzjzdH8OwoLGgFyVUmGNy4TFmqUe7BpZ7pgZ8zlb_J6eAaS6H5gGVJrEIK-7X6qCU36j2kWFlyACn9LiGMI51iHIcZDsXJDMmRb9H5gqz3-dJyT7JRECadSKomWBhlPovax9qURNBCqnchzh8ewnS2RFO3I2bgisC3ZfsHdsytcjYr4IsFBsMn1ONR4u5H041k5kyI8aY23mpcef1VJHn9lN4aV9xnH8WuTy-xKAurE5KkLIcM1tfiDUtprktrrq4TTAiMji&q=Bentley+Motors+Limited&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQs9oBKAN6BAg0EAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Bentley+Motors+Limited&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm1bLtYPO3g7DkoO4KMTpWzjzdH8OwoLGgFyVUmGNy4TFmqUe7BpZ7pgZ8zlb_J6eAaS6H5gGVJrEIK-7X6qCU36j2kWFlyACn9LiGMI51iHIcZDsXJDMmRb9H5gqz3-dJyT7JRECadSKomWBhlPovax9qURNBCqnchzh8ewnS2RFO3I2bgisC3ZfsHdsytcjYr4IsFBsMn1ONR4u5H041k5kyI8aY23mpcef1VJHn9lN4aV9xnH8WuTy-xKAurE5KkLIcM1tfiDUtprktrrq4TTAiMji",
+        "image": "https://serpapi.com/searches/670a2be2a775f2c583499e09/images/6ee85de55d474302f9fc0aa9033d914f7c2dcf32eb5363a1acab46625529e10ba2dc1fb914e1549be040585a54788918.png"
+      }
+    ]
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=lotus&udm=2&source=univ&fir=d2hw2cVcH8TcKM%252CVT_RsS_WSNLiiM%252C_%253BZDUEpWOSs4qxiM%252CWoC8zIXwmeD7XM%252C_%253BPQFrRDfjbeINRM%252CtSgg2aw8cVFJnM%252C_%253Blx1RnlP2_MVosM%252ChoIDhdJhp4zx6M%252C_%253BiC6foMtHL03yhM%252CNT2x-wWSu6c78M%252C_%253BIzPWizT-1BcUUM%252CgJp3LL5_cnA6uM%252C_%253BPyH_jEj7drj_7M%252CgMZgNlsQd-PNAM%252C_%253BeNScmM3iAYopJM%252CiurvFEamTCVufM%252C_%253B1BQq768ERJUUaM%252CO490JzlDs8vEIM%252C_%253BTM_JtKT7AlMi0M%252CVvYPqLPYi0RgwM%252C_&usg=AI4_-kSV7wh4o7lxpB-hx1syOr9Nlb2vIg&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ9AF6BAhSEAA#imgrc=d2hw2cVcH8TcKM",
+      "source": "https://en.wikipedia.org/wiki/Nelumbo_nucifera",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsGwYBWcwg91Q1G5rnPiyMTh2PukdurWn2_9pYAFqtFP2sceVIn0_wRI8&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Sacred_lotus_Nelumbo_nucifera.jpg",
+      "title": "Nelumbo nucifera - Wikipedia",
+      "source_name": "Wikipedia"
+    },
+    {
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=lotus&udm=2&source=univ&fir=d2hw2cVcH8TcKM%252CVT_RsS_WSNLiiM%252C_%253BZDUEpWOSs4qxiM%252CWoC8zIXwmeD7XM%252C_%253BPQFrRDfjbeINRM%252CtSgg2aw8cVFJnM%252C_%253Blx1RnlP2_MVosM%252ChoIDhdJhp4zx6M%252C_%253BiC6foMtHL03yhM%252CNT2x-wWSu6c78M%252C_%253BIzPWizT-1BcUUM%252CgJp3LL5_cnA6uM%252C_%253BPyH_jEj7drj_7M%252CgMZgNlsQd-PNAM%252C_%253BeNScmM3iAYopJM%252CiurvFEamTCVufM%252C_%253B1BQq768ERJUUaM%252CO490JzlDs8vEIM%252C_%253BTM_JtKT7AlMi0M%252CVvYPqLPYi0RgwM%252C_&usg=AI4_-kSV7wh4o7lxpB-hx1syOr9Nlb2vIg&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ9AF6BAhUEAA#imgrc=ZDUEpWOSs4qxiM",
+      "source": "https://www.lewisginter.org/lotus-home-garden/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNSas3SH4r0-0xcvm3cGiG1-L6yAzjXaREO9YmvAIzxlljnWUcmMgOoSI&s",
+      "original": "https://www.lewisginter.org/wp-content/uploads/2021/03/Tom-Hennessy-LGBG-June-29-TJH_3314-scaled.jpg",
+      "title": "Lotus Home Garden - Lewis Ginter Botanical Garden",
+      "source_name": "Lewis Ginter Botanical Garden"
+    },
+    {
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=lotus&udm=2&source=univ&fir=d2hw2cVcH8TcKM%252CVT_RsS_WSNLiiM%252C_%253BZDUEpWOSs4qxiM%252CWoC8zIXwmeD7XM%252C_%253BPQFrRDfjbeINRM%252CtSgg2aw8cVFJnM%252C_%253Blx1RnlP2_MVosM%252ChoIDhdJhp4zx6M%252C_%253BiC6foMtHL03yhM%252CNT2x-wWSu6c78M%252C_%253BIzPWizT-1BcUUM%252CgJp3LL5_cnA6uM%252C_%253BPyH_jEj7drj_7M%252CgMZgNlsQd-PNAM%252C_%253BeNScmM3iAYopJM%252CiurvFEamTCVufM%252C_%253B1BQq768ERJUUaM%252CO490JzlDs8vEIM%252C_%253BTM_JtKT7AlMi0M%252CVvYPqLPYi0RgwM%252C_&usg=AI4_-kSV7wh4o7lxpB-hx1syOr9Nlb2vIg&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ9AF6BAhTEAA#imgrc=PQFrRDfjbeINRM",
+      "source": "https://awakeningshealth.com/2021/09/08/the-miracle-of-the-lotus-flower/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpK6fwo4_heS58VtfYModwj3vzwdN4F0_5DCgf0FjSGBIyiaZEckZks88&s",
+      "original": "https://awakeningshealth.com/wp-content/uploads/2021/09/Untitled-design-8-1.jpg",
+      "title": "The Miracle of the Lotus Flower - Awakenings Health",
+      "source_name": "Awakenings Health"
+    },
+    {
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=lotus&udm=2&source=univ&fir=d2hw2cVcH8TcKM%252CVT_RsS_WSNLiiM%252C_%253BZDUEpWOSs4qxiM%252CWoC8zIXwmeD7XM%252C_%253BPQFrRDfjbeINRM%252CtSgg2aw8cVFJnM%252C_%253Blx1RnlP2_MVosM%252ChoIDhdJhp4zx6M%252C_%253BiC6foMtHL03yhM%252CNT2x-wWSu6c78M%252C_%253BIzPWizT-1BcUUM%252CgJp3LL5_cnA6uM%252C_%253BPyH_jEj7drj_7M%252CgMZgNlsQd-PNAM%252C_%253BeNScmM3iAYopJM%252CiurvFEamTCVufM%252C_%253B1BQq768ERJUUaM%252CO490JzlDs8vEIM%252C_%253BTM_JtKT7AlMi0M%252CVvYPqLPYi0RgwM%252C_&usg=AI4_-kSV7wh4o7lxpB-hx1syOr9Nlb2vIg&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ9AF6BQiCARAA#imgrc=lx1RnlP2_MVosM",
+      "source": "https://www.edmunds.com/lotus/emira/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxh5ZmzLKyhZZL9yo5buP_663Skejm43l7fguIhxrm_p-ENMIpZt2T6ZY&s",
+      "original": "https://media.ed.edmunds-media.com/lotus/emira/2024/oem/2024_lotus_emira_coupe_base_fq_oem_1_1600.jpg",
+      "title": "2024 Lotus Emira Prices, Reviews, and Pictures | Edmunds",
+      "source_name": "Edmunds"
+    },
+    {
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=lotus&udm=2&source=univ&fir=d2hw2cVcH8TcKM%252CVT_RsS_WSNLiiM%252C_%253BZDUEpWOSs4qxiM%252CWoC8zIXwmeD7XM%252C_%253BPQFrRDfjbeINRM%252CtSgg2aw8cVFJnM%252C_%253Blx1RnlP2_MVosM%252ChoIDhdJhp4zx6M%252C_%253BiC6foMtHL03yhM%252CNT2x-wWSu6c78M%252C_%253BIzPWizT-1BcUUM%252CgJp3LL5_cnA6uM%252C_%253BPyH_jEj7drj_7M%252CgMZgNlsQd-PNAM%252C_%253BeNScmM3iAYopJM%252CiurvFEamTCVufM%252C_%253B1BQq768ERJUUaM%252CO490JzlDs8vEIM%252C_%253BTM_JtKT7AlMi0M%252CVvYPqLPYi0RgwM%252C_&usg=AI4_-kSV7wh4o7lxpB-hx1syOr9Nlb2vIg&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ9AF6BQiEARAA#imgrc=iC6foMtHL03yhM",
+      "source": "https://www.harpercrown.com/blogs/topics/everything-you-should-know-about-the-lotus-flower",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxNa-XHAaoxraJzKSrX_ulNziksOC9GFCcOlAV940sjXQT70s1ELkLa0k&s",
+      "original": "http://www.harpercrown.com/cdn/shop/articles/everything-you-should-know-about-the-lotus-flower-450435.jpg?v=1704290246",
+      "title": "Meaning of Lotus Flower: Everything You Should Know",
+      "source_name": "HarperCrown"
+    },
+    {
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=lotus&udm=2&source=univ&fir=d2hw2cVcH8TcKM%252CVT_RsS_WSNLiiM%252C_%253BZDUEpWOSs4qxiM%252CWoC8zIXwmeD7XM%252C_%253BPQFrRDfjbeINRM%252CtSgg2aw8cVFJnM%252C_%253Blx1RnlP2_MVosM%252ChoIDhdJhp4zx6M%252C_%253BiC6foMtHL03yhM%252CNT2x-wWSu6c78M%252C_%253BIzPWizT-1BcUUM%252CgJp3LL5_cnA6uM%252C_%253BPyH_jEj7drj_7M%252CgMZgNlsQd-PNAM%252C_%253BeNScmM3iAYopJM%252CiurvFEamTCVufM%252C_%253B1BQq768ERJUUaM%252CO490JzlDs8vEIM%252C_%253BTM_JtKT7AlMi0M%252CVvYPqLPYi0RgwM%252C_&usg=AI4_-kSV7wh4o7lxpB-hx1syOr9Nlb2vIg&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ9AF6BQiHARAA#imgrc=IzPWizT-1BcUUM",
+      "source": "https://tenmilecreeknursery.com/products/sacred-lotus",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3w0h2y9zP3EwBNX0bFJ3DY2gPL4Te0jj33eHoz9pCnaao1fn5wPBJDrw&s",
+      "original": "https://tenmilecreeknursery.com/cdn/shop/products/sacred-lotus-773479.jpg?v=1695727196",
+      "title": "Sacred Lotus",
+      "source_name": "Ten Mile Creek Nursery"
+    },
+    {
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=lotus&udm=2&source=univ&fir=d2hw2cVcH8TcKM%252CVT_RsS_WSNLiiM%252C_%253BZDUEpWOSs4qxiM%252CWoC8zIXwmeD7XM%252C_%253BPQFrRDfjbeINRM%252CtSgg2aw8cVFJnM%252C_%253Blx1RnlP2_MVosM%252ChoIDhdJhp4zx6M%252C_%253BiC6foMtHL03yhM%252CNT2x-wWSu6c78M%252C_%253BIzPWizT-1BcUUM%252CgJp3LL5_cnA6uM%252C_%253BPyH_jEj7drj_7M%252CgMZgNlsQd-PNAM%252C_%253BeNScmM3iAYopJM%252CiurvFEamTCVufM%252C_%253B1BQq768ERJUUaM%252CO490JzlDs8vEIM%252C_%253BTM_JtKT7AlMi0M%252CVvYPqLPYi0RgwM%252C_&usg=AI4_-kSV7wh4o7lxpB-hx1syOr9Nlb2vIg&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ9AF6BQiGARAA#imgrc=PyH_jEj7drj_7M",
+      "source": "https://www.vdvelde.com/en/lotus/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0drJoiebMI3qNZoX0EIt9CO61ncPxfxTdRe3dYc_wK5GbVqxjnD3dI_w&s",
+      "original": "https://www.vdvelde.com/wp-content/uploads/2024/01/Lotus-plant-bloem.jpg",
+      "title": "Lotus Flowers - Lotuses for the pond - vdvelde.com",
+      "source_name": "vdvelde.com"
+    },
+    {
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=lotus&udm=2&source=univ&fir=d2hw2cVcH8TcKM%252CVT_RsS_WSNLiiM%252C_%253BZDUEpWOSs4qxiM%252CWoC8zIXwmeD7XM%252C_%253BPQFrRDfjbeINRM%252CtSgg2aw8cVFJnM%252C_%253Blx1RnlP2_MVosM%252ChoIDhdJhp4zx6M%252C_%253BiC6foMtHL03yhM%252CNT2x-wWSu6c78M%252C_%253BIzPWizT-1BcUUM%252CgJp3LL5_cnA6uM%252C_%253BPyH_jEj7drj_7M%252CgMZgNlsQd-PNAM%252C_%253BeNScmM3iAYopJM%252CiurvFEamTCVufM%252C_%253B1BQq768ERJUUaM%252CO490JzlDs8vEIM%252C_%253BTM_JtKT7AlMi0M%252CVvYPqLPYi0RgwM%252C_&usg=AI4_-kSV7wh4o7lxpB-hx1syOr9Nlb2vIg&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ9AF6BQiFARAA#imgrc=eNScmM3iAYopJM",
+      "source": "https://www.amazon.com/Padmashri-Artificial-Decoration-Aquarium-Multi-Colored/dp/B081NLWYQD",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCuxgDFYtlEJWxv-X1Kr_BKg1p7krwozAK2sA5r3xaFzn2jKI4XEW8u6w&s",
+      "original": "https://m.media-amazon.com/images/I/61dGj7y4iKL._AC_UF894,1000_QL80_.jpg",
+      "title": "Padmashri Artificial Lotus Flower for Home Decoration and  Aquarium/Pound/Fish Tank Lotus Flower Multi-Colored Lotus with Leaf for  Decoration 18 cm in ...",
+      "source_name": "Amazon.com"
+    },
+    {
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=lotus&udm=2&source=univ&fir=d2hw2cVcH8TcKM%252CVT_RsS_WSNLiiM%252C_%253BZDUEpWOSs4qxiM%252CWoC8zIXwmeD7XM%252C_%253BPQFrRDfjbeINRM%252CtSgg2aw8cVFJnM%252C_%253Blx1RnlP2_MVosM%252ChoIDhdJhp4zx6M%252C_%253BiC6foMtHL03yhM%252CNT2x-wWSu6c78M%252C_%253BIzPWizT-1BcUUM%252CgJp3LL5_cnA6uM%252C_%253BPyH_jEj7drj_7M%252CgMZgNlsQd-PNAM%252C_%253BeNScmM3iAYopJM%252CiurvFEamTCVufM%252C_%253B1BQq768ERJUUaM%252CO490JzlDs8vEIM%252C_%253BTM_JtKT7AlMi0M%252CVvYPqLPYi0RgwM%252C_&usg=AI4_-kSV7wh4o7lxpB-hx1syOr9Nlb2vIg&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ9AF6BQiDARAA#imgrc=1BQq768ERJUUaM",
+      "source": "https://autodesignmagazine.com/en/2024/05/lotus-emira-the-english-sports-car-becomes-comfortable/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKQktrQHjkBmy3Fgwd9WJaX5FeonpfyK8TCXFGKE1d7Uop4K-M4O70rkA&s",
+      "original": "https://autodesignmagazine.com/wp-content/uploads/2024/05/Emira_First_Edition_Static_Nimbus_Grey_04.jpg",
+      "title": "LOTUS EMIRA, THE ENGLISH SPORTS CAR BECOMES COMFORTABLE ...",
+      "source_name": "Auto&Design"
+    }
+  ],
+  "inline_people_also_search_for": [
+    {
+      "items": [
+        {
+          "name": "Geely",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfTj2KiO7G98PvIX6llS_xacaD8d0jkkoZbzb&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Geely&stick=H4sIAAAAAAAAAOMwVGI0-MXIsIGF4RULNxenfq6-gXGORZXRKxYuLg4Qz8yo2OQVCycXO4hTWZ4MlzDJLcmBc4zis0vgnAyTZMtXLDxcXGBOVVFJpQXc8JQiS4MUhBkpFeWLWFndU1NzKm-xSTJ0P-0xDowPKXin0nxQ6tCeJU9Nfq6bXea9ahGHWEBqfkFOqkJiTnG-QnFqYlFyhkJaftEKDkYAIYZHa8MAAAA&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQs9oBKAB6BAhNEAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Geely&stick=H4sIAAAAAAAAAOMwVGI0-MXIsIGF4RULNxenfq6-gXGORZXRKxYuLg4Qz8yo2OQVCycXO4hTWZ4MlzDJLcmBc4zis0vgnAyTZMtXLDxcXGBOVVFJpQXc8JQiS4MUhBkpFeWLWFndU1NzKm-xSTJ0P-0xDowPKXin0nxQ6tCeJU9Nfq6bXea9ahGHWEBqfkFOqkJiTnG-QnFqYlFyhkJaftEKDkYAIYZHa8MAAAA"
+        },
+        {
+          "name": "Porsche",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxhsAEQULVlTZxcmxW-grD5vzuXAmrMwlq37Sl&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Porsche&stick=H4sIAAAAAAAAAOMwVGI0_MXIsIGF4RULNxenfq6-gXGORZXRKxYuLg4Qz8yo2OQVCycXO4hTWZ4MlzDJLcmBc4zis0vgnAyTZMtXLDxcXGBOVVFJpQXc8JQiS4MUhBkpFeWLWNkD8ouKkzNSb7FJMnQ_7TEOjA8peKfSfFDq0J4lT01-rptd5r1qEYdYQGp-QU6qQmJOcb5CcWpiUXKGQlp-0QoORgDjM9WvxQAAAA&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQs9oBKAF6BAhNEAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Porsche&stick=H4sIAAAAAAAAAOMwVGI0_MXIsIGF4RULNxenfq6-gXGORZXRKxYuLg4Qz8yo2OQVCycXO4hTWZ4MlzDJLcmBc4zis0vgnAyTZMtXLDxcXGBOVVFJpQXc8JQiS4MUhBkpFeWLWNkD8ouKkzNSb7FJMnQ_7TEOjA8peKfSfFDq0J4lT01-rptd5r1qEYdYQGp-QU6qQmJOcb5CcWpiUXKGQlp-0QoORgDjM9WvxQAAAA"
+        },
+        {
+          "name": "Aston Martin",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1HJpVr1-yKOLTVXFVBLsvQgzF95ZPRTEDT5IL&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Aston+Martin&stick=H4sIAAAAAAAAAOMwVGI0-sXIsIGF4RULNxenfq6-gXGORZXRKxYuLg4Qz8yo2OQVCycXO4hTWZ4MlzDJLcmBc4zis0vgnAyTZMtXLDxcXGBOVVFJpQXc8JQiS4MUhBkpFeWLWHkci0vy8xR8E4tKMvNusUkydD_tMQ6MDyl4p9J8UOrQniVPTX6um13mvWoRh1hAan5BTqpCYk5xvkJxamJRcoZCWn7RCg5GALtKBw7KAAAA&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQs9oBKAJ6BAhNEAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Aston+Martin&stick=H4sIAAAAAAAAAOMwVGI0-sXIsIGF4RULNxenfq6-gXGORZXRKxYuLg4Qz8yo2OQVCycXO4hTWZ4MlzDJLcmBc4zis0vgnAyTZMtXLDxcXGBOVVFJpQXc8JQiS4MUhBkpFeWLWHkci0vy8xR8E4tKMvNusUkydD_tMQ6MDyl4p9J8UOrQniVPTX6um13mvWoRh1hAan5BTqpCYk5xvkJxamJRcoZCWn7RCg5GALtKBw7KAAAA"
+        },
+        {
+          "name": "Lamborghini",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTklBLxk4VVBc63tA1bG9fAWM6LwgeLC0ZmPYWA&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Lamborghini&stick=H4sIAAAAAAAAAOMwVGI0_sXIsIGF4RULNxenfq6-gXGORZXRKxYuLg4Qz8yo2OQVCycXO4hTWZ4MlzDJLcmBc4zis0vgnAyTZMtXLDxcXGBOVVFJpQXc8JQiS4MUhBkpFeWLWLl9EnOT8ovSMzLzMm-xSTJ0P-0xDowPKXin0nxQ6tCeJU9Nfq6bXea9ahGHWEBqfkFOqkJiTnG-QnFqYlFyhkJaftEKDkYAhzteLMkAAAA&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQs9oBKAN6BAhNEAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lamborghini&stick=H4sIAAAAAAAAAOMwVGI0_sXIsIGF4RULNxenfq6-gXGORZXRKxYuLg4Qz8yo2OQVCycXO4hTWZ4MlzDJLcmBc4zis0vgnAyTZMtXLDxcXGBOVVFJpQXc8JQiS4MUhBkpFeWLWLl9EnOT8ovSMzLzMm-xSTJ0P-0xDowPKXin0nxQ6tCeJU9Nfq6bXea9ahGHWEBqfkFOqkJiTnG-QnFqYlFyhkJaftEKDkYAhzteLMkAAAA"
+        },
+        {
+          "name": "Ferrari S.p.A.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPQTmspm35Nq_Oi5OgPgwqjuT3WHgFPCJJbZ-1&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Ferrari+S.p.A.&stick=H4sIAAAAAAAAAOMwVGI0-cXIsIGF4RULNxenfq6-gXGORZXRKxYuLg4Qz8yo2OQVCycXO4hTWZ4MlzDJLcmBc4zis0vgnAyTZMtXLDxcXGBOVVFJpQXc8JQiS4MUhBkpFeWLWPncUouKEosyFYL1CvQc9W6xSTJ0P-0xDowPKXin0nxQ6tCeJU9Nfq6bXea9ahGHWEBqfkFOqkJiTnG-QnFqYlFyhkJaftEKDkYA4OoN68wAAAA&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQs9oBKAR6BAhNEAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Ferrari+S.p.A.&stick=H4sIAAAAAAAAAOMwVGI0-cXIsIGF4RULNxenfq6-gXGORZXRKxYuLg4Qz8yo2OQVCycXO4hTWZ4MlzDJLcmBc4zis0vgnAyTZMtXLDxcXGBOVVFJpQXc8JQiS4MUhBkpFeWLWPncUouKEosyFYL1CvQc9W6xSTJ0P-0xDowPKXin0nxQ6tCeJU9Nfq6bXea9ahGHWEBqfkFOqkJiTnG-QnFqYlFyhkJaftEKDkYA4OoN68wAAAA"
+        },
+        {
+          "name": "Maserati",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvsA6Qprs023R47QhCpQshhiDHeH4v3PTQWGtB&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Maserati&stick=H4sIAAAAAAAAAOMwVGI0_cXIsIGF4RULNxenfq6-gXGORZXRKxYuLg4Qz8yo2OQVCycXO4hTWZ4MlzDJLcmBc4zis0vgnAyTZMtXLDxcXGBOVVFJpQXc8JQiS4MUhBkpFeWLWDl8E4tTixJLMm-xSTJ0P-0xDowPKXin0nxQ6tCeJU9Nfq6bXea9ahGHWEBqfkFOqkJiTnG-QnFqYlFyhkJaftEKDkYAga7LOMYAAAA&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQs9oBKAV6BAhNEAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Maserati&stick=H4sIAAAAAAAAAOMwVGI0_cXIsIGF4RULNxenfq6-gXGORZXRKxYuLg4Qz8yo2OQVCycXO4hTWZ4MlzDJLcmBc4zis0vgnAyTZMtXLDxcXGBOVVFJpQXc8JQiS4MUhBkpFeWLWDl8E4tTixJLMm-xSTJ0P-0xDowPKXin0nxQ6tCeJU9Nfq6bXea9ahGHWEBqfkFOqkJiTnG-QnFqYlFyhkJaftEKDkYAga7LOMYAAAA"
+        }
+      ]
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What lotus means?",
+      "snippet": "The lotus flower meaning varies from culture to culture. In general, however, the lotus commonly serves as a sacred for purity, rebirth, and strength. Because lotuses rise from the mud without stains, they are often viewed as a symbol of purity.",
+      "title": "purity, rebirth",
+      "date": "Jul 11, 2022",
+      "link": "https://www.saffronmarigold.com/blog/lotus-flower-meaning/#:~:text=The%20lotus%20flower%20meaning%20varies,as%20a%20symbol%20of%20purity.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJhUjiRLLy1F5bZs6A2m875Jmr8chrOnQPFADHFG3x&s",
+      "source_logo": "https://serpapi.com/searches/670a2be2a775f2c583499e09/images/bdb30acaf1527e5a2396ca6a926fbb30818277b1b195112aee59c594b290c117.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210T1UxcGxTWEJHUldobFdYWmljamMzUnpaTGQzYzVZMmRmWWpOTVpHTlBMVVZzVTBwVE56QXlhMUZQYzB0U2JqUklOMk5vUWpKMk1XNXhhVlpEVkRGVGNsZG9jWGRoRWhZMGFYTkxXaTFmVlVKSk1qVjNUalJRZUhSaWNWTkJHaUpCUmxoeVJXTnZTM0l3VmpKRVIyNUpWelYyZURGUFlsVjRWUzFGYzFJeFMwUjMiLCJmY3YiOiIzIiwiZWkiOiI0aXNLWi1fVUJJMjV3TjRQeHRicVNBIiwicWMiOiJDZ1ZzYjNSMWN4QUFmWTJYTGo4IiwicXVlc3Rpb24iOiJXaGF0IGxvdHVzIG1lYW5zPyIsImxrIjoiR2hWM2FHRjBJR2x6SUd4dmRIVnpJRzFsWVc1cGJtYyIsImJzIjoiYy1QUzV4SU16MGdzVWNqSkx5a3RWc2hOVGN3cnRwZDRsR2NrTGlWYURoTFBMRWFTeXN4TDV6TGpFZ19QcUVTSUYtY3JwQ1htNXBjQ3RhM2dNcEtRRWl2SEtzdmx4NlVNMVZlU2tRcVZUY3ZKTDA4dEFpa3FMa2hOemt6TXNaZFk2bXlrSXFWVVRsQWxsd09YakNmTUZwQTZxSXI4TklXY3pMUlVlNG5PRWlOWktlbE0zRW9FR0FFIiwiaWQiOiJmY180aXNLWi1fVUJJMjV3TjRQeHRicVNBXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210T1UxcGxTWEJHUldobFdYWmljamMzUnpaTGQzYzVZMmRmWWpOTVpHTlBMVVZzVTBwVE56QXlhMUZQYzB0U2JqUklOMk5vUWpKMk1XNXhhVlpEVkRGVGNsZG9jWGRoRWhZMGFYTkxXaTFmVlVKSk1qVjNUalJRZUhSaWNWTkJHaUpCUmxoeVJXTnZTM0l3VmpKRVIyNUpWelYyZURGUFlsVjRWUzFGYzFJeFMwUjMiLCJmY3YiOiIzIiwiZWkiOiI0aXNLWi1fVUJJMjV3TjRQeHRicVNBIiwicWMiOiJDZ1ZzYjNSMWN4QUFmWTJYTGo4IiwicXVlc3Rpb24iOiJXaGF0IGxvdHVzIG1lYW5zPyIsImxrIjoiR2hWM2FHRjBJR2x6SUd4dmRIVnpJRzFsWVc1cGJtYyIsImJzIjoiYy1QUzV4SU16MGdzVWNqSkx5a3RWc2hOVGN3cnRwZDRsR2NrTGlWYURoTFBMRWFTeXN4TDV6TGpFZ19QcUVTSUYtY3JwQ1htNXBjQ3RhM2dNcEtRRWl2SEtzdmx4NlVNMVZlU2tRcVZUY3ZKTDA4dEFpa3FMa2hOemt6TXNaZFk2bXlrSXFWVVRsQWxsd09YakNmTUZwQTZxSXI4TklXY3pMUlVlNG5PRWlOWktlbE0zRW9FR0FFIiwiaWQiOiJmY180aXNLWi1fVUJJMjV3TjRQeHRicVNBXzMifQ%3D%3D"
+    },
+    {
+      "question": "Why is lotus so famous?",
+      "snippet": "In Hindu philosophy, the lotus is regarded to be the first born of creation and a magic womb for the universe and gods. It has also been associated with longevity, fertility, wealth, and knowledge.",
+      "title": "Sacred lotus in religious art - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Sacred_lotus_in_religious_art#:~:text=In%20Hindu%20philosophy%2C%20the%20lotus,fertility%2C%20wealth%2C%20and%20knowledge.",
+      "source_logo": "https://serpapi.com/searches/670a2be2a775f2c583499e09/images/bdb30acaf1527e5a2396ca6a926fbb30914e490f39db5996fd6a19467c193a89.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210T1UxcGxTWEJHUldobFdYWmljamMzUnpaTGQzYzVZMmRmWWpOTVpHTlBMVVZzVTBwVE56QXlhMUZQYzB0U2JqUklOMk5vUWpKMk1XNXhhVlpEVkRGVGNsZG9jWGRoRWhZMGFYTkxXaTFmVlVKSk1qVjNUalJRZUhSaWNWTkJHaUpCUmxoeVJXTnZTM0l3VmpKRVIyNUpWelYyZURGUFlsVjRWUzFGYzFJeFMwUjMiLCJmY3YiOiIzIiwiZWkiOiI0aXNLWi1fVUJJMjV3TjRQeHRicVNBIiwicWMiOiJDZ1ZzYjNSMWN4QUFmWTJYTGo4IiwicXVlc3Rpb24iOiJXaHkgaXMgbG90dXMgc28gZmFtb3VzPyIsImxrIjoiR2haM2FIa2dhWE1nYkc5MGRYTWdjMjhnWm1GdGIzVnoiLCJicyI6ImMtUFM1eElNejBnc1VjakpMeWt0VnNoTlRjd3J0cGQ0bEdja0xpVmFEaExQTEVhU3lzeEw1ekxqRWdfUHFFU0lGLWNycENYbTVwY0N0YTNnTXBLUUVpdkhLc3ZseDZVTTFWZVNrUXFWVGN2SkwwOHRBaWtxTGtoTnprek1zWmRZNm15a0lxVlVUbEFsbHdPWGpDZk1GcEE2cUlyOE5JV2N6TFJVZTRuT0VpTlpLZWxNM0VvRUdBRSIsImlkIjoiZmNfNGlzS1otX1VCSTI1d040UHh0YnFTQV8zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210T1UxcGxTWEJHUldobFdYWmljamMzUnpaTGQzYzVZMmRmWWpOTVpHTlBMVVZzVTBwVE56QXlhMUZQYzB0U2JqUklOMk5vUWpKMk1XNXhhVlpEVkRGVGNsZG9jWGRoRWhZMGFYTkxXaTFmVlVKSk1qVjNUalJRZUhSaWNWTkJHaUpCUmxoeVJXTnZTM0l3VmpKRVIyNUpWelYyZURGUFlsVjRWUzFGYzFJeFMwUjMiLCJmY3YiOiIzIiwiZWkiOiI0aXNLWi1fVUJJMjV3TjRQeHRicVNBIiwicWMiOiJDZ1ZzYjNSMWN4QUFmWTJYTGo4IiwicXVlc3Rpb24iOiJXaHkgaXMgbG90dXMgc28gZmFtb3VzPyIsImxrIjoiR2haM2FIa2dhWE1nYkc5MGRYTWdjMjhnWm1GdGIzVnoiLCJicyI6ImMtUFM1eElNejBnc1VjakpMeWt0VnNoTlRjd3J0cGQ0bEdja0xpVmFEaExQTEVhU3lzeEw1ekxqRWdfUHFFU0lGLWNycENYbTVwY0N0YTNnTXBLUUVpdkhLc3ZseDZVTTFWZVNrUXFWVGN2SkwwOHRBaWtxTGtoTnprek1zWmRZNm15a0lxVlVUbEFsbHdPWGpDZk1GcEE2cUlyOE5JV2N6TFJVZTRuT0VpTlpLZWxNM0VvRUdBRSIsImlkIjoiZmNfNGlzS1otX1VCSTI1d040UHh0YnFTQV8zIn0%3D"
+    },
+    {
+      "question": "Why is the lotus flower so special?",
+      "snippet": "In Hinduism, the lotus represents spiritual enlightenment, beauty, fertility, purity, prosperity and eternity. It is said that there's a lotus flower in every Hindu's heart, and that when this lotus blooms, the person achieves enlightenment.",
+      "title": "The Lotus Flower: Meanings, Images & Insights - Floraly",
+      "date": "Sep 1, 2022",
+      "link": "https://www.floraly.com.au/blogs/news/lotus-flower-meanings#:~:text=In%20Hinduism%2C%20the%20lotus%20represents,blooms%2C%20the%20person%20achieves%20enlightenment.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8jN3yhV3strKJNyxYrIh1YweGoHSbnU6wYts-e0TO4w&s",
+      "source_logo": "https://serpapi.com/searches/670a2be2a775f2c583499e09/images/bdb30acaf1527e5a2396ca6a926fbb30dd00131fbcede314074bdf5e3d3371f6.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210T1UxcGxTWEJHUldobFdYWmljamMzUnpaTGQzYzVZMmRmWWpOTVpHTlBMVVZzVTBwVE56QXlhMUZQYzB0U2JqUklOMk5vUWpKMk1XNXhhVlpEVkRGVGNsZG9jWGRoRWhZMGFYTkxXaTFmVlVKSk1qVjNUalJRZUhSaWNWTkJHaUpCUmxoeVJXTnZTM0l3VmpKRVIyNUpWelYyZURGUFlsVjRWUzFGYzFJeFMwUjMiLCJmY3YiOiIzIiwiZWkiOiI0aXNLWi1fVUJJMjV3TjRQeHRicVNBIiwicWMiOiJDZ1ZzYjNSMWN4QUFmWTJYTGo4IiwicXVlc3Rpb24iOiJXaHkgaXMgdGhlIGxvdHVzIGZsb3dlciBzbyBzcGVjaWFsPyIsImxrIjoiR2lKM2FIa2dhWE1nZEdobElHeHZkSFZ6SUdac2IzZGxjaUJ6YnlCemNHVmphV0ZzIiwiYnMiOiJjLVBTNXhJTXowZ3NVY2pKTHlrdFZzaE5UY3dydHBkNGxHY2tMaVZhRGhMUExFYVN5c3hMNXpMakVnX1BxRVNJRi1jcnBDWG01cGNDdGEzZ01wS1FFaXZIS3N2bHg2VU0xVmVTa1FxVlRjdkpMMDh0QWlrcUxraE56a3pNc1pkWTZteWtJcVZVVGxBbGx3T1hqQ2ZNRnBBNnFJcjhOSVdjekxSVWU0bk9FaU5aS2VsTTNFb0VHQUUiLCJpZCI6ImZjXzRpc0taLV9VQkkyNXdONFB4dGJxU0FfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210T1UxcGxTWEJHUldobFdYWmljamMzUnpaTGQzYzVZMmRmWWpOTVpHTlBMVVZzVTBwVE56QXlhMUZQYzB0U2JqUklOMk5vUWpKMk1XNXhhVlpEVkRGVGNsZG9jWGRoRWhZMGFYTkxXaTFmVlVKSk1qVjNUalJRZUhSaWNWTkJHaUpCUmxoeVJXTnZTM0l3VmpKRVIyNUpWelYyZURGUFlsVjRWUzFGYzFJeFMwUjMiLCJmY3YiOiIzIiwiZWkiOiI0aXNLWi1fVUJJMjV3TjRQeHRicVNBIiwicWMiOiJDZ1ZzYjNSMWN4QUFmWTJYTGo4IiwicXVlc3Rpb24iOiJXaHkgaXMgdGhlIGxvdHVzIGZsb3dlciBzbyBzcGVjaWFsPyIsImxrIjoiR2lKM2FIa2dhWE1nZEdobElHeHZkSFZ6SUdac2IzZGxjaUJ6YnlCemNHVmphV0ZzIiwiYnMiOiJjLVBTNXhJTXowZ3NVY2pKTHlrdFZzaE5UY3dydHBkNGxHY2tMaVZhRGhMUExFYVN5c3hMNXpMakVnX1BxRVNJRi1jcnBDWG01cGNDdGEzZ01wS1FFaXZIS3N2bHg2VU0xVmVTa1FxVlRjdkpMMDh0QWlrcUxraE56a3pNc1pkWTZteWtJcVZVVGxBbGx3T1hqQ2ZNRnBBNnFJcjhOSVdjekxSVWU0bk9FaU5aS2VsTTNFb0VHQUUiLCJpZCI6ImZjXzRpc0taLV9VQkkyNXdONFB4dGJxU0FfMyJ9"
+    },
+    {
+      "question": "Is lotus the flower of life?",
+      "snippet": "In Eastern cultures and spiritualities, especially, the lotus is sometimes called the \u201cFlower of Life\u201d due to its association with the cycle of life, death, and rebirth or reincarnation. Each lotus' color also has significance of its own.",
+      "title": "Flower Power: The Lotus and its Meanings Throughout Time",
+      "date": "May 5, 2022",
+      "link": "https://gtslivingfoods.com/blogs/latest/flower-power-the-lotus-and-its-meanings-throughout-time#:~:text=In%20Eastern%20cultures%20and%20spiritualities,has%20significance%20of%20its%20own.",
+      "source_logo": "https://serpapi.com/searches/670a2be2a775f2c583499e09/images/bdb30acaf1527e5a2396ca6a926fbb30964360a8f3102fab337748ce183e5d52.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210T1UxcGxTWEJHUldobFdYWmljamMzUnpaTGQzYzVZMmRmWWpOTVpHTlBMVVZzVTBwVE56QXlhMUZQYzB0U2JqUklOMk5vUWpKMk1XNXhhVlpEVkRGVGNsZG9jWGRoRWhZMGFYTkxXaTFmVlVKSk1qVjNUalJRZUhSaWNWTkJHaUpCUmxoeVJXTnZTM0l3VmpKRVIyNUpWelYyZURGUFlsVjRWUzFGYzFJeFMwUjMiLCJmY3YiOiIzIiwiZWkiOiI0aXNLWi1fVUJJMjV3TjRQeHRicVNBIiwicWMiOiJDZ1ZzYjNSMWN4QUFmWTJYTGo4IiwicXVlc3Rpb24iOiJJcyBsb3R1cyB0aGUgZmxvd2VyIG9mIGxpZmU/IiwibGsiOiJHaHRwY3lCc2IzUjFjeUIwYUdVZ1pteHZkMlZ5SUc5bUlHeHBabVUiLCJicyI6ImMtUFM1eElNejBnc1VjakpMeWt0VnNoTlRjd3J0cGQ0bEdja0xpVmFEaExQTEVhU3lzeEw1ekxqRWdfUHFFU0lGLWNycENYbTVwY0N0YTNnTXBLUUVpdkhLc3ZseDZVTTFWZVNrUXFWVGN2SkwwOHRBaWtxTGtoTnprek1zWmRZNm15a0lxVlVUbEFsbHdPWGpDZk1GcEE2cUlyOE5JV2N6TFJVZTRuT0VpTlpLZWxNM0VvRUdBRSIsImlkIjoiZmNfNGlzS1otX1VCSTI1d040UHh0YnFTQV8zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210T1UxcGxTWEJHUldobFdYWmljamMzUnpaTGQzYzVZMmRmWWpOTVpHTlBMVVZzVTBwVE56QXlhMUZQYzB0U2JqUklOMk5vUWpKMk1XNXhhVlpEVkRGVGNsZG9jWGRoRWhZMGFYTkxXaTFmVlVKSk1qVjNUalJRZUhSaWNWTkJHaUpCUmxoeVJXTnZTM0l3VmpKRVIyNUpWelYyZURGUFlsVjRWUzFGYzFJeFMwUjMiLCJmY3YiOiIzIiwiZWkiOiI0aXNLWi1fVUJJMjV3TjRQeHRicVNBIiwicWMiOiJDZ1ZzYjNSMWN4QUFmWTJYTGo4IiwicXVlc3Rpb24iOiJJcyBsb3R1cyB0aGUgZmxvd2VyIG9mIGxpZmU%2FIiwibGsiOiJHaHRwY3lCc2IzUjFjeUIwYUdVZ1pteHZkMlZ5SUc5bUlHeHBabVUiLCJicyI6ImMtUFM1eElNejBnc1VjakpMeWt0VnNoTlRjd3J0cGQ0bEdja0xpVmFEaExQTEVhU3lzeEw1ekxqRWdfUHFFU0lGLWNycENYbTVwY0N0YTNnTXBLUUVpdkhLc3ZseDZVTTFWZVNrUXFWVGN2SkwwOHRBaWtxTGtoTnprek1zWmRZNm15a0lxVlVUbEFsbHdPWGpDZk1GcEE2cUlyOE5JV2N6TFJVZTRuT0VpTlpLZWxNM0VvRUdBRSIsImlkIjoiZmNfNGlzS1otX1VCSTI1d040UHh0YnFTQV8zIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Lotus Cars Official Website | United Kingdom",
+      "link": "https://www.lotuscars.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lotuscars.com/&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQFnoECAkQAQ",
+      "displayed_link": "https://www.lotuscars.com",
+      "favicon": "https://serpapi.com/searches/670a2be2a775f2c583499e09/images/cc48b97e0c7189b077749b963fdf74123de9db5a066fc2c754190089f32f224e.png",
+      "snippet": "Excitement beyond the ordinary. The official website of Lotus Cars. Revolutionary automotive technology and design with racing pedigree.",
+      "snippet_highlighted_words": [
+        "Lotus"
+      ],
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "Lotus Emira \u2013 Reserve Now",
+            "link": "https://www.lotuscars.com/en-US/emira",
+            "snippet": "The Lotus Emira is a true sports car that builds on the legacy of ..."
+          },
+          {
+            "title": "Lotus",
+            "link": "https://media.lotuscars.com/",
+            "snippet": "Emira - Emeya - Evija - Eletre - Type 66 - Global News - News"
+          },
+          {
+            "title": "My Lotus",
+            "link": "https://www.lotuscars.com/en-US",
+            "snippet": "Welcome to Lotus Cars official website! Explore our models ..."
+          },
+          {
+            "title": "Lotus Story",
+            "link": "https://www.lotuscars.com/en-US/lotus-story",
+            "snippet": "Lotus stands alone as a brand dedicated to pure drivers' cars ..."
+          },
+          {
+            "title": "Contact Us",
+            "link": "https://www.lotuscars.com/en-IE",
+            "snippet": "Welcome to Lotus Cars official website! Explore our models ..."
+          }
+        ]
+      },
+      "source": "Lotus Cars"
+    },
+    {
+      "position": 2,
+      "title": "Lotus Vibes | Tour Dates & More",
+      "link": "https://www.lotusvibes.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lotusvibes.com/&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQFnoECB0QAQ",
+      "displayed_link": "https://www.lotusvibes.com",
+      "thumbnail": "https://serpapi.com/searches/670a2be2a775f2c583499e09/images/cc48b97e0c7189b077749b963fdf7412e538b66de7bd0141f21bd0e6f3954e01.jpeg",
+      "snippet": "This show has been cancelled due to the damage caused by Hurricane Helene. Refunds will automatically be issued for all ticket purchasers.",
+      "source": "Lotus Vibes"
+    },
+    {
+      "position": 3,
+      "title": "Lotus Energy Drinks | Plant Based Energy Concentrate",
+      "link": "https://lotusenergydrinks.com/?srsltid=AfmBOooJlYxy8xqhD_IMkchlNyDil30mppRehfJXfRnibudwaDmGZqHx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lotusenergydrinks.com/%3Fsrsltid%3DAfmBOooJlYxy8xqhD_IMkchlNyDil30mppRehfJXfRnibudwaDmGZqHx&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQFnoECFEQAQ",
+      "displayed_link": "https://lotusenergydrinks.com",
+      "thumbnail": "https://serpapi.com/searches/670a2be2a775f2c583499e09/images/cc48b97e0c7189b077749b963fdf741232c940b8d882e4e33dab0df111f0cbc9.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2be2a775f2c583499e09/images/cc48b97e0c7189b077749b963fdf74121c8287734cf2e1e6a553745b9720bfff.png",
+      "snippet": "Create a rainbow of handcrafted, flavor-infused plant power drinks with our Lotus Plant Power Concentrates to our new Lotus Plant Power ready-to-drink cans.",
+      "snippet_highlighted_words": [
+        "Lotus",
+        "Lotus"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Energy Concentrates",
+            "link": "https://lotusenergydrinks.com/collections/lotus-energy-concentrates"
+          },
+          {
+            "title": "Lotus Fruit Fusion Concentrates",
+            "link": "https://lotusenergydrinks.com/collections/fruit-fusions"
+          },
+          {
+            "title": "Skinny Lotus Energy...",
+            "link": "https://lotusenergydrinks.com/collections/skinny-lotus-energy-concentrates"
+          }
+        ]
+      },
+      "source": "Lotus Energy Drinks"
+    },
+    {
+      "position": 4,
+      "title": "Nelumbo nucifera",
+      "link": "https://en.wikipedia.org/wiki/Nelumbo_nucifera",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Nelumbo_nucifera&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQFnoECE4QAQ",
+      "displayed_link": "https://en.wikipedia.org",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtNgaw4KpDEg7foDMItkUhjnmlmTfTlD46za0DAjRYLx8jZgc7YcXi&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2be2a775f2c583499e09/images/cc48b97e0c7189b077749b963fdf741298a2c4d2cbeeada9f08d57b03f1f6e95.png",
+      "snippet": "Nelumbo nucifera, also known as sacred lotus, Indian lotus, or simply lotus, is one of two extant species of aquatic plant in the family Nelumbonaceae.",
+      "snippet_highlighted_words": [
+        "lotus",
+        "lotus",
+        "lotus"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 5,
+      "title": "Lotus Foods",
+      "link": "https://www.lotusfoods.com/?srsltid=AfmBOoq9V1v_tkZcmAJDDPkcLbvFb0cZxNaUQeRX3zrIVcMLXtbsivs4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lotusfoods.com/%3Fsrsltid%3DAfmBOoq9V1v_tkZcmAJDDPkcLbvFb0cZxNaUQeRX3zrIVcMLXtbsivs4&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQFnoECE8QAQ",
+      "displayed_link": "https://www.lotusfoods.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF01Pr6zpyl6MgIuyQ-Sm72iPnUykZSdwn2An-APuIT81AHuvARHh_&usqp=CAE&s",
+      "snippet": "Lotus Foods is a California-based company that focuses on importing handcrafted rice from small family farms to the United States.",
+      "snippet_highlighted_words": [
+        "Lotus"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Recipes",
+            "link": "https://www.lotusfoods.com/blogs/recipes"
+          },
+          {
+            "title": "Store Locator",
+            "link": "https://www.lotusfoods.com/pages/store-locator"
+          },
+          {
+            "title": "Our Story",
+            "link": "https://www.lotusfoods.com/pages/our-story"
+          },
+          {
+            "title": "Rice Ramen Noodles",
+            "link": "https://www.lotusfoods.com/collections/rice-ramen-noodles"
+          }
+        ]
+      },
+      "source": "Lotus Foods"
+    },
+    {
+      "position": 6,
+      "title": "Lotus Seafood | Best Seafood In Houston",
+      "link": "https://lotus-seafood.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lotus-seafood.com/&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQFnoECEwQAQ",
+      "displayed_link": "https://lotus-seafood.com",
+      "favicon": "https://serpapi.com/searches/670a2be2a775f2c583499e09/images/cc48b97e0c7189b077749b963fdf74129b0b42bf4eb390708c96dfa711a1249e.png",
+      "snippet": "Visit Lotus Seafood for some of the best Seafood in Houston, Texas. We have 4 locations around the Houston area and more on the way!",
+      "snippet_highlighted_words": [
+        "Lotus"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Contact",
+            "link": "https://lotus-seafood.com/contact/"
+          },
+          {
+            "title": "Menu",
+            "link": "https://lotus-seafood.com/menu-2/"
+          },
+          {
+            "title": "Jobs",
+            "link": "https://lotus-seafood.com/jobs/"
+          }
+        ]
+      },
+      "source": "Lotus Seafood"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&tbs=lf:1,lf_ui:4&tbm=lcl&q=lotus&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQjGp6BAg9EAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lotus&tbs=lf%3A1%2Clf_ui%3A4&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "items": [
+        {
+          "name": "Geely",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfTj2KiO7G98PvIX6llS_xacaD8d0jkkoZbzb&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Geely&stick=H4sIAAAAAAAAAOMwVGI0-MXIsIGF4RULNxenfq6-gXGORZXRKxYuLg4Qz8yo2OQVCycXO4hTWZ4MlzDJLcmBc4zis0vgnAyTZMtXLDxcXGBOVVFJpQXc8JQiS4MUhBkpFeWLWFndU1NzKm-xSTJ0P-0xDowPKXin0nxQ6tCeJU9Nfq6bXea9ahGHWEBqfkFOqkJiTnG-QnFqYlFyhkJaftEKDkYAIYZHa8MAAAA&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQs9oBKAB6BAhNEAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Geely&stick=H4sIAAAAAAAAAOMwVGI0-MXIsIGF4RULNxenfq6-gXGORZXRKxYuLg4Qz8yo2OQVCycXO4hTWZ4MlzDJLcmBc4zis0vgnAyTZMtXLDxcXGBOVVFJpQXc8JQiS4MUhBkpFeWLWFndU1NzKm-xSTJ0P-0xDowPKXin0nxQ6tCeJU9Nfq6bXea9ahGHWEBqfkFOqkJiTnG-QnFqYlFyhkJaftEKDkYAIYZHa8MAAAA"
+        },
+        {
+          "name": "Porsche",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxhsAEQULVlTZxcmxW-grD5vzuXAmrMwlq37Sl&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Porsche&stick=H4sIAAAAAAAAAOMwVGI0_MXIsIGF4RULNxenfq6-gXGORZXRKxYuLg4Qz8yo2OQVCycXO4hTWZ4MlzDJLcmBc4zis0vgnAyTZMtXLDxcXGBOVVFJpQXc8JQiS4MUhBkpFeWLWNkD8ouKkzNSb7FJMnQ_7TEOjA8peKfSfFDq0J4lT01-rptd5r1qEYdYQGp-QU6qQmJOcb5CcWpiUXKGQlp-0QoORgDjM9WvxQAAAA&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQs9oBKAF6BAhNEAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Porsche&stick=H4sIAAAAAAAAAOMwVGI0_MXIsIGF4RULNxenfq6-gXGORZXRKxYuLg4Qz8yo2OQVCycXO4hTWZ4MlzDJLcmBc4zis0vgnAyTZMtXLDxcXGBOVVFJpQXc8JQiS4MUhBkpFeWLWNkD8ouKkzNSb7FJMnQ_7TEOjA8peKfSfFDq0J4lT01-rptd5r1qEYdYQGp-QU6qQmJOcb5CcWpiUXKGQlp-0QoORgDjM9WvxQAAAA"
+        },
+        {
+          "name": "Aston Martin",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1HJpVr1-yKOLTVXFVBLsvQgzF95ZPRTEDT5IL&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Aston+Martin&stick=H4sIAAAAAAAAAOMwVGI0-sXIsIGF4RULNxenfq6-gXGORZXRKxYuLg4Qz8yo2OQVCycXO4hTWZ4MlzDJLcmBc4zis0vgnAyTZMtXLDxcXGBOVVFJpQXc8JQiS4MUhBkpFeWLWHkci0vy8xR8E4tKMvNusUkydD_tMQ6MDyl4p9J8UOrQniVPTX6um13mvWoRh1hAan5BTqpCYk5xvkJxamJRcoZCWn7RCg5GALtKBw7KAAAA&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQs9oBKAJ6BAhNEAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Aston+Martin&stick=H4sIAAAAAAAAAOMwVGI0-sXIsIGF4RULNxenfq6-gXGORZXRKxYuLg4Qz8yo2OQVCycXO4hTWZ4MlzDJLcmBc4zis0vgnAyTZMtXLDxcXGBOVVFJpQXc8JQiS4MUhBkpFeWLWHkci0vy8xR8E4tKMvNusUkydD_tMQ6MDyl4p9J8UOrQniVPTX6um13mvWoRh1hAan5BTqpCYk5xvkJxamJRcoZCWn7RCg5GALtKBw7KAAAA"
+        },
+        {
+          "name": "Lamborghini",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTklBLxk4VVBc63tA1bG9fAWM6LwgeLC0ZmPYWA&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Lamborghini&stick=H4sIAAAAAAAAAOMwVGI0_sXIsIGF4RULNxenfq6-gXGORZXRKxYuLg4Qz8yo2OQVCycXO4hTWZ4MlzDJLcmBc4zis0vgnAyTZMtXLDxcXGBOVVFJpQXc8JQiS4MUhBkpFeWLWLl9EnOT8ovSMzLzMm-xSTJ0P-0xDowPKXin0nxQ6tCeJU9Nfq6bXea9ahGHWEBqfkFOqkJiTnG-QnFqYlFyhkJaftEKDkYAhzteLMkAAAA&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQs9oBKAN6BAhNEAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lamborghini&stick=H4sIAAAAAAAAAOMwVGI0_sXIsIGF4RULNxenfq6-gXGORZXRKxYuLg4Qz8yo2OQVCycXO4hTWZ4MlzDJLcmBc4zis0vgnAyTZMtXLDxcXGBOVVFJpQXc8JQiS4MUhBkpFeWLWLl9EnOT8ovSMzLzMm-xSTJ0P-0xDowPKXin0nxQ6tCeJU9Nfq6bXea9ahGHWEBqfkFOqkJiTnG-QnFqYlFyhkJaftEKDkYAhzteLMkAAAA"
+        },
+        {
+          "name": "Ferrari S.p.A.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPQTmspm35Nq_Oi5OgPgwqjuT3WHgFPCJJbZ-1&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Ferrari+S.p.A.&stick=H4sIAAAAAAAAAOMwVGI0-cXIsIGF4RULNxenfq6-gXGORZXRKxYuLg4Qz8yo2OQVCycXO4hTWZ4MlzDJLcmBc4zis0vgnAyTZMtXLDxcXGBOVVFJpQXc8JQiS4MUhBkpFeWLWPncUouKEosyFYL1CvQc9W6xSTJ0P-0xDowPKXin0nxQ6tCeJU9Nfq6bXea9ahGHWEBqfkFOqkJiTnG-QnFqYlFyhkJaftEKDkYA4OoN68wAAAA&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQs9oBKAR6BAhNEAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Ferrari+S.p.A.&stick=H4sIAAAAAAAAAOMwVGI0-cXIsIGF4RULNxenfq6-gXGORZXRKxYuLg4Qz8yo2OQVCycXO4hTWZ4MlzDJLcmBc4zis0vgnAyTZMtXLDxcXGBOVVFJpQXc8JQiS4MUhBkpFeWLWPncUouKEosyFYL1CvQc9W6xSTJ0P-0xDowPKXin0nxQ6tCeJU9Nfq6bXea9ahGHWEBqfkFOqkJiTnG-QnFqYlFyhkJaftEKDkYA4OoN68wAAAA"
+        },
+        {
+          "name": "Maserati",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvsA6Qprs023R47QhCpQshhiDHeH4v3PTQWGtB&s=0",
+          "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Maserati&stick=H4sIAAAAAAAAAOMwVGI0_cXIsIGF4RULNxenfq6-gXGORZXRKxYuLg4Qz8yo2OQVCycXO4hTWZ4MlzDJLcmBc4zis0vgnAyTZMtXLDxcXGBOVVFJpQXc8JQiS4MUhBkpFeWLWDl8E4tTixJLMm-xSTJ0P-0xDowPKXin0nxQ6tCeJU9Nfq6bXea9ahGHWEBqfkFOqkJiTnG-QnFqYlFyhkJaftEKDkYAga7LOMYAAAA&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQs9oBKAV6BAhNEAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Maserati&stick=H4sIAAAAAAAAAOMwVGI0_cXIsIGF4RULNxenfq6-gXGORZXRKxYuLg4Qz8yo2OQVCycXO4hTWZ4MlzDJLcmBc4zis0vgnAyTZMtXLDxcXGBOVVFJpQXc8JQiS4MUhBkpFeWLWDl8E4tTixJLMm-xSTJ0P-0xDowPKXin0nxQ6tCeJU9Nfq6bXea9ahGHWEBqfkFOqkJiTnG-QnFqYlFyhkJaftEKDkYAga7LOMYAAAA"
+        }
+      ]
+    },
+    {
+      "block_position": 1,
+      "query": "Lotus car",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Lotus+car&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ1QJ6BAhoEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lotus+car"
+    },
+    {
+      "block_position": 1,
+      "query": "Lotus sports car",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Lotus+sports+car&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ1QJ6BAhpEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lotus+sports+car"
+    },
+    {
+      "block_position": 1,
+      "query": "Lotus flower",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Lotus+flower&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ1QJ6BAhmEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lotus+flower"
+    },
+    {
+      "block_position": 1,
+      "query": "Lotus VALORANT",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Lotus+VALORANT&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ1QJ6BAhlEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lotus+VALORANT"
+    },
+    {
+      "block_position": 1,
+      "query": "Lotus Emira price",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Lotus+Emira+price&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ1QJ6BAhjEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lotus+Emira+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Lotus Evija",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Lotus+Evija&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ1QJ6BAhiEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lotus+Evija"
+    },
+    {
+      "block_position": 1,
+      "query": "Lotus for sale",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Lotus+for+sale&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ1QJ6BAheEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lotus+for+sale"
+    },
+    {
+      "block_position": 1,
+      "query": "Lotus car logo",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Lotus+car+logo&sa=X&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ1QJ6BAhnEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lotus+car+logo"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=lotus&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=4isKZ-_UBI25wN4PxtbqSA&start=10&sa=N&sstk=Aagrsui4UfVeT7zMJpC_highFEtmJVaFHo-hWZwCOK8EWy5RTv4vFirsiOdIAEEs1uHF7Lr9SbS7cQJgZUTEKECBJTffHZa2brmpBA&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ8NMDegQISRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=lotus&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=4isKZ-_UBI25wN4PxtbqSA&start=10&sa=N&sstk=Aagrsui4UfVeT7zMJpC_highFEtmJVaFHo-hWZwCOK8EWy5RTv4vFirsiOdIAEEs1uHF7Lr9SbS7cQJgZUTEKECBJTffHZa2brmpBA&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ8tMDegQISRAE",
+      "3": "https://www.google.com/search?q=lotus&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=4isKZ-_UBI25wN4PxtbqSA&start=20&sa=N&sstk=Aagrsui4UfVeT7zMJpC_highFEtmJVaFHo-hWZwCOK8EWy5RTv4vFirsiOdIAEEs1uHF7Lr9SbS7cQJgZUTEKECBJTffHZa2brmpBA&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ8tMDegQISRAG",
+      "4": "https://www.google.com/search?q=lotus&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=4isKZ-_UBI25wN4PxtbqSA&start=30&sa=N&sstk=Aagrsui4UfVeT7zMJpC_highFEtmJVaFHo-hWZwCOK8EWy5RTv4vFirsiOdIAEEs1uHF7Lr9SbS7cQJgZUTEKECBJTffHZa2brmpBA&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ8tMDegQISRAI",
+      "5": "https://www.google.com/search?q=lotus&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=4isKZ-_UBI25wN4PxtbqSA&start=40&sa=N&sstk=Aagrsui4UfVeT7zMJpC_highFEtmJVaFHo-hWZwCOK8EWy5RTv4vFirsiOdIAEEs1uHF7Lr9SbS7cQJgZUTEKECBJTffHZa2brmpBA&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ8tMDegQISRAK",
+      "6": "https://www.google.com/search?q=lotus&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=4isKZ-_UBI25wN4PxtbqSA&start=50&sa=N&sstk=Aagrsui4UfVeT7zMJpC_highFEtmJVaFHo-hWZwCOK8EWy5RTv4vFirsiOdIAEEs1uHF7Lr9SbS7cQJgZUTEKECBJTffHZa2brmpBA&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ8tMDegQISRAM",
+      "7": "https://www.google.com/search?q=lotus&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=4isKZ-_UBI25wN4PxtbqSA&start=60&sa=N&sstk=Aagrsui4UfVeT7zMJpC_highFEtmJVaFHo-hWZwCOK8EWy5RTv4vFirsiOdIAEEs1uHF7Lr9SbS7cQJgZUTEKECBJTffHZa2brmpBA&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ8tMDegQISRAO",
+      "8": "https://www.google.com/search?q=lotus&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=4isKZ-_UBI25wN4PxtbqSA&start=70&sa=N&sstk=Aagrsui4UfVeT7zMJpC_highFEtmJVaFHo-hWZwCOK8EWy5RTv4vFirsiOdIAEEs1uHF7Lr9SbS7cQJgZUTEKECBJTffHZa2brmpBA&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ8tMDegQISRAQ",
+      "9": "https://www.google.com/search?q=lotus&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=4isKZ-_UBI25wN4PxtbqSA&start=80&sa=N&sstk=Aagrsui4UfVeT7zMJpC_highFEtmJVaFHo-hWZwCOK8EWy5RTv4vFirsiOdIAEEs1uHF7Lr9SbS7cQJgZUTEKECBJTffHZa2brmpBA&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ8tMDegQISRAS",
+      "10": "https://www.google.com/search?q=lotus&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=4isKZ-_UBI25wN4PxtbqSA&start=90&sa=N&sstk=Aagrsui4UfVeT7zMJpC_highFEtmJVaFHo-hWZwCOK8EWy5RTv4vFirsiOdIAEEs1uHF7Lr9SbS7cQJgZUTEKECBJTffHZa2brmpBA&ved=2ahUKEwjvzemgr4iJAxWNHNAFHUarGgkQ8tMDegQISRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lotus&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lotus&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lotus&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lotus&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lotus&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lotus&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lotus&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lotus&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lotus&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lotus&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lotus&start=90"
+    }
+  }
+}

@@ -1,0 +1,1247 @@
+{
+  "search_metadata": {
+    "id": "670a178672f716bd0be530d3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/dc697fdf5997c64e/670a178672f716bd0be530d3.json",
+    "created_at": "2024-10-12 06:30:30 UTC",
+    "processed_at": "2024-10-12 06:30:30 UTC",
+    "google_url": "https://www.google.com/search?q=apple&oq=apple&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/dc697fdf5997c64e/670a178672f716bd0be530d3.html",
+    "total_time_taken": 0.67
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "apple",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "apple",
+    "total_results": 10630000000,
+    "time_taken_displayed": 0.43,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Apple | Official Site",
+      "link": "https://www.apple.com/store",
+      "displayed_link": "https://www.apple.com",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChcSEwjmys3rm4iJAxXPg1oFHQniCDcYABAAGgJ2dQ&co=1&ase=2&gclid=EAIaIQobChMI5srN65uIiQMVz4NaBR0J4gg3EAAYASAAEgJ9YPD_BwE&sig=AOD64_3t1mBnyyQumDPJxqa1LK5Exo0bJg&q&nis=4&adurl",
+      "description": "Buy iPhone 16 and iPhone 16 Pro now and save big with carrier deals at Apple. Terms apply. Get $180\u2013$650 off a new iPhone 16 when you trade in an iPhone 12 or higher. Terms apply. Chat for shopping help. Payment options available.",
+      "source": "Apple"
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=apple&npsic=0&rflfq=1&rldoc=1&rllag=30330110,-97764480,9021&tbm=lcl&sa=X&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQtgN6BAg8EAI",
+    "image": "https://serpapi.com/searches/670a178672f716bd0be530d3/images/7a8a6f639c14879a9d06d2ba861e654b.png",
+    "gps_coordinates": {
+      "latitude": 30.33011,
+      "longitude": -97.76448
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "label": "A",
+        "description": "In-store shopping\u00b7In-store pickup\u00b7Delivery",
+        "lsig": "AB86z5VWBiMAVHL3X1q1DL2Kc8lH",
+        "service_options": {
+          "in_store_shopping": true,
+          "in_store_pickup": true,
+          "delivery": true
+        },
+        "links": {
+          "website": "https://www.apple.com/retail/bartoncreek?cid=aos-us-seo-maps",
+          "directions": "https://www.google.com/maps/dir//Apple+Barton+Creek,+2901+S+Capital+of+Texas+Hwy,+Austin,+TX+78746/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x865b4ae78499618f:0x946dba1a0d09b573?sa=X&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQ48ADegQIIhAA&hl=en&gl=us"
+        },
+        "title": "Apple Barton Creek",
+        "phone": "(512) 634-0520",
+        "address": "2901 S Capital of Texas Hwy",
+        "hours": "Closed \u22c5 Opens 10 AM",
+        "place_id": "10695409311125452147",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=10695409311125452147&q=apple",
+        "gps_coordinates": {
+          "latitude": 30.257727,
+          "longitude": -97.806946
+        }
+      },
+      {
+        "position": 2,
+        "label": "B",
+        "description": "In-store shopping\u00b7In-store pickup\u00b7Delivery",
+        "lsig": "AB86z5WCM60HGwsKRgmRLusWa8ft",
+        "service_options": {
+          "in_store_shopping": true,
+          "in_store_pickup": true,
+          "delivery": true
+        },
+        "links": {
+          "website": "https://www.apple.com/retail/domainnorthside?cid=aos-us-seo-maps",
+          "directions": "https://www.google.com/maps/dir//Apple+Domain+NORTHSIDE,+3121+Palm+Way,+Austin,+TX+78758/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x864686b5be4fd0fd:0x73f04695da0ab476?sa=X&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQ48ADegQIIxAA&hl=en&gl=us"
+        },
+        "title": "Apple Domain NORTHSIDE",
+        "phone": "(512) 691-4800",
+        "address": "3121 Palm Way",
+        "hours": "Closed \u22c5 Opens 10 AM",
+        "place_id": "8354254918194476150",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=8354254918194476150&q=apple",
+        "gps_coordinates": {
+          "latitude": 30.402494,
+          "longitude": -97.722015
+        }
+      },
+      {
+        "position": 3,
+        "label": "C",
+        "description": "In-store pickup",
+        "lsig": "AB86z5WL318wUCHI76UvAQmiery4",
+        "service_options": {
+          "in_store_pickup": true
+        },
+        "links": {
+          "website": "http://www.austinmacworks.com/",
+          "directions": "https://www.google.com/maps/dir//Austin+MacWorks-Apple+Authorized+Service+Provider+%26+Reseller,+450+W+2nd+St,+Austin,+TX+78701/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8644b50f3fff1c6f:0x678bed2f8cc71b40?sa=X&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQ48ADegQIJBAA&hl=en&gl=us"
+        },
+        "title": "Austin MacWorks-Apple Authorized Service Provider & Reseller",
+        "phone": "(512) 476-7000",
+        "address": "450 W 2nd St",
+        "hours": "Closed \u22c5 Opens 10 AM",
+        "place_id": "7461317996150463296",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=7461317996150463296&q=apple",
+        "gps_coordinates": {
+          "latitude": 30.265661,
+          "longitude": -97.74838
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&tbs=lf:1,lf_ui:4&tbm=lcl&q=apple&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQjGp6BAg-EAE"
+  },
+  "knowledge_graph": {
+    "title": "Apple",
+    "type": "Technology company",
+    "entity_type": "companies, chains, shopping_merchant",
+    "kgmid": "/m/0k8z",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0k8z&hl=en-US&q=Apple",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0k8z&location=Austin%2CTexas%2CUnited+States&q=Apple",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a178672f716bd0be530d3/images/39eedfeec8021cff1d65349ded42543ff9520ed58f9acdda00161cb47364d0b6bcd9e058c12f84a6.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a178672f716bd0be530d3/images/39eedfeec8021cff1d65349ded42543ff9520ed58f9acdda30f257826893147ed6bca80cabe40ab3.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a178672f716bd0be530d3/images/39eedfeec8021cff1d65349ded42543ff9520ed58f9acdda8304147b95f88880dcce806ea213f2fd.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a178672f716bd0be530d3/images/39eedfeec8021cff1d65349ded42543ff9520ed58f9acdda06158a96f8b3e218989a877b50512ef4.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a178672f716bd0be530d3/images/39eedfeec8021cff1d65349ded42543ff9520ed58f9acdda96321ac17efc48ce7587cd6083935245.webp"
+      }
+    ],
+    "rating": 4.7,
+    "review_count": 5400,
+    "website": "http://www.apple.com/",
+    "stock_price": "AAPL (NASDAQ) $227.55 -1.49 (-0.65%)Oct 11, 4 - 00 PM EDT - Disclaimer",
+    "stock_price_links": [
+      {
+        "text": "AAPL",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=NASDAQ:+AAPL&stick=H4sIAAAAAAAAAONgecRoyi3w8sc9YSmdSWtOXmNU4-IKzsgvd80rySypFJLgYoOy-KR4uLj0c_UNzKtyk8rSeBax8vg5Brs4BlopODoG-AAAo_3cUkkAAAA&sa=X&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQsRV6BAgvEAI"
+      },
+      {
+        "text": "Disclaimer",
+        "link": "https://www.google.com/intl/en-US_US/googlefinance/disclaimer/"
+      }
+    ],
+    "founders": "Steve Jobs, Steve Wozniak, Ronald Wayne",
+    "founders_links": [
+      {
+        "text": "Steve Jobs",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Steve+Jobs&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm0U8ySDGNgCC1l3uRMz5JTIEwzV5fp-MGHk1jIUqUP-Xo7U19lJ4OtD-Jf20XsnS_MPLO_cOTeSxnjI7CQtV5BE94f8lfECHp-Lhqs9VxLXAxdbQPa2D_Pa93oq5vjf1ut9Rm32tMxcNBQ1nKXzDifsEzoMqpXo_pMqWu0DDbgqYOd6Ct_TIau51qGdWKmdmXvQHLhneGhXvdC2FoLWVgEzNugr-&sa=X&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQmxMoAHoECDQQAg"
+      },
+      {
+        "text": "Steve Wozniak",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Steve+Wozniak&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmzwchcj3V8PJgy6YZolRlDdI1hSlp33RpmoWKGaP6Kz3UHsoPt8USSQI2-Y1AWu1CkzirdzibVcUIk9wwKb5U1DhRH7pYte8eRbrxmcfaxpXrjWLCKIaPxvBputcyptmzMQH0PURG6co-GkbrOkefCUF9Xz3fEB2N2l37YzB4ogRnyXTfFFz87pvASuTqdI2lW8z089Lh9ALJD0Cja9F-AUl8yZd&sa=X&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQmxMoAXoECDQQAw"
+      },
+      {
+        "text": "Ronald Wayne",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Ronald+Wayne&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L4WOg-e7G9kcs8X4NRXFJRVyvKKCKqkpKUei0pAo7vRLY8PhCMtnCiHu0VZ8UTn-WpDlSpek6-GEwgJtJqGC3uMePj2kiiUSIJzvcrYXnlTpD-c9Up_zUoYCcNxU9C0tlGlxOQrLCHlapJrF1TfHB97ufiSSRKdtN01wML6IpVgctD-Q4lWsB1xYTa1FhVK32XoTPzKaHlJqSKVI-bHSaYhtBbrM&sa=X&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQmxMoAnoECDQQBA"
+      }
+    ],
+    "customer_service": "1 (800) 275-2273",
+    "ceo": "Tim Cook (Aug 24, 2011\u2013)",
+    "ceo_links": [
+      {
+        "text": "Tim Cook",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Tim+Cook&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L2WczUpwGXSJZ8j6_pz-koQ6mEJLqFphtJkwUiFMeiSxrJEugWpKSstRIooQ1JfjOsq41cYLP43z0MpY8d-4Scak4PK91dsOkNmMNo8yQ8_09Qa5avSwoUtGdOjaJP2cYFHDN4SaQec_vGSLGZRmaFLGdxds&sa=X&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQmxMoAHoECDIQAg"
+      }
+    ],
+    "headquarters": "Cupertino, CA",
+    "headquarters_links": [
+      {
+        "text": "Cupertino, CA",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Cupertino&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm_8pBiw5xV3gy1pdxjUh3G4z1VDu3LB7Jh1xy1AwcIyL2skT5tVzTWKqFbPmnasFgbdDB7_L4kRIwrQgxJVgtQnfGdFHKkd1OpI2XJfNq5VWk6IruB5HXnEvPoC-QgjLoGUPQaGYmotVAyPiIbEr8mLQRKgn&sa=X&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQmxMoAHoECDEQAg"
+      }
+    ],
+    "founded": "April 1, 1976, Los Altos, CA",
+    "founded_links": [
+      {
+        "text": "Los Altos, CA",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Los+Altos&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm2mLMEauAnIhfSn00FGS8IwLBWLYBNPmUXvIddIebNURGuoZDQDKzGafHWbErNIlpMo1uNxsIySh_p-FC9RSTCAqv7I-1igOzWj0o1qZskfUUdq27DATi82pvAXeLqnfT1tkBqD_Qxc1zIOYn3pKyuLlhGB7&sa=X&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQmxMoAHoECDsQAg"
+      }
+    ],
+    "web_results": [
+      {
+        "snippet": "Apple Inc. is an American multinational corporation and technology company headquartered and incorporated in Cupertino, California, in Silicon Valley. It is best known for its consumer electronics, software, and services.",
+        "source": "Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Apple_Inc."
+      }
+    ],
+    "profiles": [
+      {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/apple",
+        "image": "https://serpapi.com/searches/670a178672f716bd0be530d3/images/39eedfeec8021cff1d65349ded42543fed0f12f86a435abf6efa832e7fbd248aaf4221fb1735d058.png"
+      },
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/company/apple",
+        "image": "https://serpapi.com/searches/670a178672f716bd0be530d3/images/39eedfeec8021cff1d65349ded42543fed0f12f86a435abf724cb1584c42ed3f043dee1a26bac5e9.png"
+      },
+      {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/apple/",
+        "image": "https://serpapi.com/searches/670a178672f716bd0be530d3/images/39eedfeec8021cff1d65349ded42543fed0f12f86a435abf8db0055bc940127e43a489d7525c7090.png"
+      },
+      {
+        "name": "YouTube",
+        "link": "https://www.youtube.com/user/Apple",
+        "image": "https://serpapi.com/searches/670a178672f716bd0be530d3/images/39eedfeec8021cff1d65349ded42543fed0f12f86a435abf6bd1adec3c5888e73293a7d5385b8b8b.png"
+      },
+      {
+        "name": "X (Twitter)",
+        "link": "https://twitter.com/AppleSupport",
+        "image": "https://serpapi.com/searches/670a178672f716bd0be530d3/images/39eedfeec8021cff1d65349ded42543fed0f12f86a435abf1f15d173fbfe84fd868de20e379b4af5.png"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Samsung Electronics",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L5aVx7XAfX0_HyFErnBwniKKHTBzEYwl0yrh78htK-lxyQnCjBptKXdUI-7rSBrwNUt_QPvgjvnZH6nT4w2vc5s711PgXDst1HlFoCk8bQo-zIQOgj0bFn7WYF5dnhK_7awWVQsDF0SJ81EFt_TOUOGUuo9Iix3n2vcESVLnXdVqCyxKlkX4XgxmzqxvyQe6prp1NOED63I2Q0iM8lgEvJaX58U5LjYCSYUO-ycvGlMOJ0Nuxj--k38R4eBH7LIVQvpn5Hk%3D&q=Samsung+Electronics&sa=X&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQs9oBKAB6BAguEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Samsung+Electronics&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L5aVx7XAfX0_HyFErnBwniKKHTBzEYwl0yrh78htK-lxyQnCjBptKXdUI-7rSBrwNUt_QPvgjvnZH6nT4w2vc5s711PgXDst1HlFoCk8bQo-zIQOgj0bFn7WYF5dnhK_7awWVQsDF0SJ81EFt_TOUOGUuo9Iix3n2vcESVLnXdVqCyxKlkX4XgxmzqxvyQe6prp1NOED63I2Q0iM8lgEvJaX58U5LjYCSYUO-ycvGlMOJ0Nuxj--k38R4eBH7LIVQvpn5Hk%3D",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTiJ9iqo-y2Q0zQnWQZbTklBn8mUxvLI9WAb2Y&s=0"
+      },
+      {
+        "name": "Nvidia",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm9eF681nqCOGn-LIHoTN0AsAu6_P-4RqABy5EJ3x6OTjSeOBtfFut4HPwDrMWTgpFg_4V68N9bFjEvu-Lurj5zWFzp2UI1zeOc6996QZs-C7ZZDu5z8S4GXDHEhzH9IdRdOoR1JxKZXETTPaik-hatOUl2CqSGq2IuypQRPhDZSdl61CgVSR7Z4VFhxchisK_HCjj7L-tp6wLepY5509z3mknVOTNYKvDMZoekpTmB02Hytu2A%3D%3D&q=Nvidia&sa=X&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQs9oBKAB6BAguEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Nvidia&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm9eF681nqCOGn-LIHoTN0AsAu6_P-4RqABy5EJ3x6OTjSeOBtfFut4HPwDrMWTgpFg_4V68N9bFjEvu-Lurj5zWFzp2UI1zeOc6996QZs-C7ZZDu5z8S4GXDHEhzH9IdRdOoR1JxKZXETTPaik-hatOUl2CqSGq2IuypQRPhDZSdl61CgVSR7Z4VFhxchisK_HCjj7L-tp6wLepY5509z3mknVOTNYKvDMZoekpTmB02Hytu2A%3D%3D",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmhhQ3Vc7tz50WPSf33yvU9OLAbZxMeOttnDfl&s=0"
+      },
+      {
+        "name": "Best Buy",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-Ly8j1MduscEdIWGTpuqG5VxaTjtEvLPMlqW8kkBiAmy8YBI3KKi-bike9UrY5XGJsE2moKHDySxuy7XA3kA8syRetcuo61zxJ31CheW-8FXrC_6NW4Cc1Zg5S0kgZUGdduhtzp8hKtUk4H-SWLuoCuRg4auDUcovEzzQ4eI9IfFyCnfOU6HHrt05iNFZdRPJS5rMDai1KYVUhuPXJBWfNKK2cZ3fUBj_yf-xn3TNeUJ79AlcQOXF3lpjFDRaNSN7J39qptY%3D&q=Best+Buy&sa=X&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQs9oBKAB6BAguEA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Best+Buy&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-Ly8j1MduscEdIWGTpuqG5VxaTjtEvLPMlqW8kkBiAmy8YBI3KKi-bike9UrY5XGJsE2moKHDySxuy7XA3kA8syRetcuo61zxJ31CheW-8FXrC_6NW4Cc1Zg5S0kgZUGdduhtzp8hKtUk4H-SWLuoCuRg4auDUcovEzzQ4eI9IfFyCnfOU6HHrt05iNFZdRPJS5rMDai1KYVUhuPXJBWfNKK2cZ3fUBj_yf-xn3TNeUJ79AlcQOXF3lpjFDRaNSN7J39qptY%3D",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoFJopkKptLm-5aP53H85BB-SrloTF7As2jlLp&s=0"
+      },
+      {
+        "name": "Huawei",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L4ZIxGsmy9drcen1aGL7LmXlDwbY1GOguzR8uaZAUOdWsAMKYqUM0ZE25E5KNX6GzObBOv3oMYH248IEpzWfbcGr1lwHMSio_sgt0poSY2TdqCE4PHdnvGCZwVFSmGwEfuCG1CuwhQPQyRXKvNqBRbVfAudXdCLzisG3Wgb8w_1bRPLy0kSCrQaUsPKTj6ig7NLZYovvuLQlY9zPtWDSOmrfDaW5YvoYVrS9_NPoEChox6iMnA%3D%3D&q=Huawei&sa=X&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQs9oBKAB6BAguEBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Huawei&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L4ZIxGsmy9drcen1aGL7LmXlDwbY1GOguzR8uaZAUOdWsAMKYqUM0ZE25E5KNX6GzObBOv3oMYH248IEpzWfbcGr1lwHMSio_sgt0poSY2TdqCE4PHdnvGCZwVFSmGwEfuCG1CuwhQPQyRXKvNqBRbVfAudXdCLzisG3Wgb8w_1bRPLy0kSCrQaUsPKTj6ig7NLZYovvuLQlY9zPtWDSOmrfDaW5YvoYVrS9_NPoEChox6iMnA%3D%3D",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS907pJ7vJjxThOAH-VWTA_3KBOcjRu2YdrCcvT&s=0"
+      }
+    ]
+  },
+  "inline_products": [
+    {
+      "position": 1,
+      "title": "Apple iPhone 16 Pro",
+      "block_title": "In stores nearby",
+      "source": "Apple",
+      "price": 1099.0,
+      "currency": "$",
+      "rating": 4.0,
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTAz4_Qo_4i7suti7svrXh4HxUtoV2o50w2IOhXJT6D4XfXdW0awAvd_qXADYLD9BkBmSSyv3B9TaCmxKiricU3eY7eUgKlPL8LDY7dkveIC0KSIHU4aJyTGA"
+    },
+    {
+      "position": 2,
+      "title": "Gala Apple Large",
+      "block_title": "In stores nearby",
+      "source": "Randalls",
+      "price": 1.0,
+      "currency": "$",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSvU-96TTayydDJmE4FQn9bMpN4tiJy0d2I2bY7S8S8UC7VvHHeYCe93Gk26sWRa_ZMSHT3gknug16z-JXdjEktKzGX6wfh3Y_LJTyujZlRNOFvPMi59N1s"
+    },
+    {
+      "position": 3,
+      "title": "Apple iPhone 16",
+      "block_title": "In stores nearby",
+      "source": "Best Buy",
+      "price": 31.38,
+      "currency": "$",
+      "original_price": 36,
+      "rating": 4.2,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRH94cBWJNZW1PBJT5dmVtpL-5qrcu0xZgH9VcpUfMv1pYZV6BddhPCaddqkyzcXjrccHAylljIbyMef5_07LcPJgqFgiT3UAGQ0HZiiccJ1MPL53jvoSmz"
+    },
+    {
+      "position": 4,
+      "title": "Apple iPhone 13 - Midnight - 128GB (with plan)",
+      "block_title": "In stores nearby",
+      "source": "T-Mobile",
+      "price": 629.99,
+      "currency": "$",
+      "rating": 4.7,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRVndx56ONfJwPYxzgJlOYE8BwWm94ehNSMuiGuKIEDlsbmGG10IXytrEO3wraWABatUkB8o6Y69I4XqbbB7LleepkMp1hZw3Wl8UGNcjU53SXPU2nrJkWL"
+    },
+    {
+      "position": 5,
+      "title": "Apple iPhone 16 Pro",
+      "block_title": "In stores nearby",
+      "source": "Apple",
+      "price": 1099.0,
+      "currency": "$",
+      "rating": 4.0,
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTAz4_Qo_4i7suti7svrXh4HxUtoV2o50w2IOhXJT6D4XfXdW0awAvd_qXADYLD9BkBmSSyv3B9TaCmxKiricU3eY7eUgKlPL8LDY7dkveIC0KSIHU4aJyTGA"
+    },
+    {
+      "position": 6,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 7,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 8,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 9,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 10,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 11,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 12,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 13,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 14,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 15,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 16,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 17,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 18,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 19,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 20,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 21,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 22,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 23,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 24,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 25,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 26,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 27,
+      "block_title": "In stores nearby"
+    },
+    {
+      "position": 28,
+      "block_title": "In stores nearby"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTAz4_Qo_4i7suti7svrXh4HxUtoV2o50w2IOhXJT6D4XfXdW0awAvd_qXADYLD9BkBmSSyv3B9TaCmxKiricU3eY7eUgKlPL8LDY7dkveIC0KSIHU4aJyTGA",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQHXFo_4_jfSkgJGci2J3gMfs5gRtqQjLtWp4j8oZ5V76tcJKWfy34pBCFnqxz-2SHx5D256e-9aNEAtsTTvB5jXz-jbEk",
+      "source": "Apple",
+      "title": "Apple iPhone 16 Pro",
+      "rating": 4.0,
+      "reviews": 811,
+      "price": "$1,099.00",
+      "extracted_price": 1099.0,
+      "location": "12 mi \u00b7 In stock",
+      "returns": "Free 14-day returns",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjEyNDk1NDAwMjMzNzkxMTQxNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQ2MzE5NDAyMzYyNjU2ODQwODkiLCJpbWFnZURvY2lkIjoiNDkyMTM4Njk4Mzg1MDEyOTE4NSIsInJkcyI6IlBDXzU3NDgwNTcwNzQzOTY3NjI3NjN8UFJPRF9QQ181NzQ4MDU3MDc0Mzk2NzYyNzYzIiwicXVlcnkiOiJhcHBsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjEyNDk1NDAwMjMzNzkxMTQxNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQ2MzE5NDAyMzYyNjU2ODQwODkiLCJpbWFnZURvY2lkIjoiNDkyMTM4Njk4Mzg1MDEyOTE4NSIsInJkcyI6IlBDXzU3NDgwNTcwNzQzOTY3NjI3NjN8UFJPRF9QQ181NzQ4MDU3MDc0Mzk2NzYyNzYzIiwicXVlcnkiOiJhcHBsZSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSvU-96TTayydDJmE4FQn9bMpN4tiJy0d2I2bY7S8S8UC7VvHHeYCe93Gk26sWRa_ZMSHT3gknug16z-JXdjEktKzGX6wfh3Y_LJTyujZlRNOFvPMi59N1s",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTNUmppK-lnis9Xc6-QCWT3x4BEvuDTG1ZAlAUnb8JBMDAshETTiOzHhWyu2oKq1x0mUGc1VjECakwvPIAAdUlal-n2wCqxGOotZg",
+      "source": "Randalls",
+      "title": "Gala Apple Large",
+      "price": "$1.00",
+      "extracted_price": 1.0,
+      "location": "9.3 mi \u00b7 In stock",
+      "returns": "30-day returns",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiOTc1NDY0MTU3MjUwNjM4MjUwNyIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTc1NDY0MTU3MjUwNjM4MjUwNyIsImltYWdlRG9jaWQiOiI0OTAwMjkwNTI3NzM4Mzk1OTY2IiwicmRzIjoiIiwicXVlcnkiOiJhcHBsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiOTc1NDY0MTU3MjUwNjM4MjUwNyIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTc1NDY0MTU3MjUwNjM4MjUwNyIsImltYWdlRG9jaWQiOiI0OTAwMjkwNTI3NzM4Mzk1OTY2IiwicmRzIjoiIiwicXVlcnkiOiJhcHBsZSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRH94cBWJNZW1PBJT5dmVtpL-5qrcu0xZgH9VcpUfMv1pYZV6BddhPCaddqkyzcXjrccHAylljIbyMef5_07LcPJgqFgiT3UAGQ0HZiiccJ1MPL53jvoSmz",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Apple iPhone 16",
+      "rating": 4.2,
+      "reviews": 216,
+      "price": "$31.38/mo",
+      "extracted_price": 31.38,
+      "original_price": "x 36",
+      "extracted_original_price": 36,
+      "location": "16 mi \u00b7 In stock",
+      "returns": "Free 30-day returns",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzM1NDE5NjEwNDYyNDM1NTU3OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzU0ODI2Mjg2MjQ0NTI3MTQ5NiIsImltYWdlRG9jaWQiOiI4ODczMzUzMDQyOTg0NzQ2NTQ4IiwicmRzIjoiUENfMTYyOTY5ODMzNTU4NDc1NTkzNnxQUk9EX1BDXzE2Mjk2OTgzMzU1ODQ3NTU5MzYiLCJxdWVyeSI6ImFwcGxlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzM1NDE5NjEwNDYyNDM1NTU3OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzU0ODI2Mjg2MjQ0NTI3MTQ5NiIsImltYWdlRG9jaWQiOiI4ODczMzUzMDQyOTg0NzQ2NTQ4IiwicmRzIjoiUENfMTYyOTY5ODMzNTU4NDc1NTkzNnxQUk9EX1BDXzE2Mjk2OTgzMzU1ODQ3NTU5MzYiLCJxdWVyeSI6ImFwcGxlIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRVndx56ONfJwPYxzgJlOYE8BwWm94ehNSMuiGuKIEDlsbmGG10IXytrEO3wraWABatUkB8o6Y69I4XqbbB7LleepkMp1hZw3Wl8UGNcjU53SXPU2nrJkWL",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ-q01vaDYIpDrFHoIuRErwtKqSM8csNrLJ3FNkiswgaI0vvC_AA0aNzhFri51Cms1QjYeJVBLkrO0bY-m5dFu2E_PkPMIL_iK_",
+      "source": "T-Mobile",
+      "title": "Apple iPhone 13 - Midnight - 128GB (with plan)",
+      "rating": 4.7,
+      "reviews": 56000,
+      "price": "$629.99",
+      "extracted_price": 629.99,
+      "location": "12 mi \u00b7 In stock",
+      "returns": "20-day returns",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiMTMxMjMyODk0NTM5MDM4Mjg3OSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTMxMjMyODk0NTM5MDM4Mjg3OSIsImltYWdlRG9jaWQiOiIzMTI3NzkzMzU0NTEyMjc4NDk0IiwicmRzIjoiUENfODk3MTY1MDgwNDc4NTg1NzI2OHxQUk9EX1BDXzg5NzE2NTA4MDQ3ODU4NTcyNjgiLCJxdWVyeSI6ImFwcGxlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiMTMxMjMyODk0NTM5MDM4Mjg3OSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTMxMjMyODk0NTM5MDM4Mjg3OSIsImltYWdlRG9jaWQiOiIzMTI3NzkzMzU0NTEyMjc4NDk0IiwicmRzIjoiUENfODk3MTY1MDgwNDc4NTg1NzI2OHxQUk9EX1BDXzg5NzE2NTA4MDQ3ODU4NTcyNjgiLCJxdWVyeSI6ImFwcGxlIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTAz4_Qo_4i7suti7svrXh4HxUtoV2o50w2IOhXJT6D4XfXdW0awAvd_qXADYLD9BkBmSSyv3B9TaCmxKiricU3eY7eUgKlPL8LDY7dkveIC0KSIHU4aJyTGA",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQHXFo_4_jfSkgJGci2J3gMfs5gRtqQjLtWp4j8oZ5V76tcJKWfy34pBCFnqxz-2SHx5D256e-9aNEAtsTTvB5jXz-jbEk",
+      "source": "Apple",
+      "title": "Apple iPhone 16 Pro",
+      "rating": 4.0,
+      "reviews": 811,
+      "price": "$1,099.00",
+      "extracted_price": 1099.0,
+      "location": "12 mi \u00b7 In stock",
+      "returns": "Free 14-day returns",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjEyNDk1NDAwMjMzNzkxMTQxNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTI2MTQxNjQ0MTYwMjc0NjIxNSIsImltYWdlRG9jaWQiOiI0OTIxMzg2OTgzODUwMTI5MTg1IiwicmRzIjoiUENfNTc0ODA1NzA3NDM5Njc2Mjc2M3xQUk9EX1BDXzU3NDgwNTcwNzQzOTY3NjI3NjMiLCJxdWVyeSI6ImFwcGxlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjEyNDk1NDAwMjMzNzkxMTQxNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTI2MTQxNjQ0MTYwMjc0NjIxNSIsImltYWdlRG9jaWQiOiI0OTIxMzg2OTgzODUwMTI5MTg1IiwicmRzIjoiUENfNTc0ODA1NzA3NDM5Njc2Mjc2M3xQUk9EX1BDXzU3NDgwNTcwNzQzOTY3NjI3NjMiLCJxdWVyeSI6ImFwcGxlIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzAxODA2MDkwNTAyODM2MzUyIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDcwNDE5NTMyMDg3OTQxMzI1MyIsImltYWdlRG9jaWQiOiIxMTQzODUwNTE4NDAyODgxOTE2IiwicmRzIjoiUENfMjAyODIwNTM4MzI1NDg3ODkzfFBST0RfUENfMjAyODIwNTM4MzI1NDg3ODkzIiwicXVlcnkiOiJhcHBsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzAxODA2MDkwNTAyODM2MzUyIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDcwNDE5NTMyMDg3OTQxMzI1MyIsImltYWdlRG9jaWQiOiIxMTQzODUwNTE4NDAyODgxOTE2IiwicmRzIjoiUENfMjAyODIwNTM4MzI1NDg3ODkzfFBST0RfUENfMjAyODIwNTM4MzI1NDg3ODkzIiwicXVlcnkiOiJhcHBsZSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTgyODU2Mzc1MTE0ODM1MzM3OTEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijg1MDgzNjUxMzU4MDgzOTQ3NTciLCJpbWFnZURvY2lkIjoiMTE0OTUzOTE4MDcyOTQ5Mzc5IiwicmRzIjoiUENfMTQ2NDkxNTEzOTQxMDk0MzAwNzl8UFJPRF9QQ18xNDY0OTE1MTM5NDEwOTQzMDA3OSIsInF1ZXJ5IjoiYXBwbGUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTgyODU2Mzc1MTE0ODM1MzM3OTEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijg1MDgzNjUxMzU4MDgzOTQ3NTciLCJpbWFnZURvY2lkIjoiMTE0OTUzOTE4MDcyOTQ5Mzc5IiwicmRzIjoiUENfMTQ2NDkxNTEzOTQxMDk0MzAwNzl8UFJPRF9QQ18xNDY0OTE1MTM5NDEwOTQzMDA3OSIsInF1ZXJ5IjoiYXBwbGUifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiMTIxNzgzMzY5NDc5MTIyMjM5NzEiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMTc4MzM2OTQ3OTEyMjIzOTcxIiwiaW1hZ2VEb2NpZCI6IjE3NDE0MzAxNDk4NjE0ODE1MTE5IiwicmRzIjoiIiwicXVlcnkiOiJhcHBsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiMTIxNzgzMzY5NDc5MTIyMjM5NzEiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMTc4MzM2OTQ3OTEyMjIzOTcxIiwiaW1hZ2VEb2NpZCI6IjE3NDE0MzAxNDk4NjE0ODE1MTE5IiwicmRzIjoiIiwicXVlcnkiOiJhcHBsZSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjEyNDk1NDAwMjMzNzkxMTQxNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTYyNjI0MzYyMTE2ODcxOTkyIiwiaW1hZ2VEb2NpZCI6IjQ5MjEzODY5ODM4NTAxMjkxODUiLCJyZHMiOiJQQ181NzQ4MDU3MDc0Mzk2NzYyNzYzfFBST0RfUENfNTc0ODA1NzA3NDM5Njc2Mjc2MyIsInF1ZXJ5IjoiYXBwbGUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjEyNDk1NDAwMjMzNzkxMTQxNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTYyNjI0MzYyMTE2ODcxOTkyIiwiaW1hZ2VEb2NpZCI6IjQ5MjEzODY5ODM4NTAxMjkxODUiLCJyZHMiOiJQQ181NzQ4MDU3MDc0Mzk2NzYyNzYzfFBST0RfUENfNTc0ODA1NzA3NDM5Njc2Mjc2MyIsInF1ZXJ5IjoiYXBwbGUifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjEyNDk1NDAwMjMzNzkxMTQxNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzAyNzg1NTkxMjE0NTU1NTQ0NSIsImltYWdlRG9jaWQiOiI0OTIxMzg2OTgzODUwMTI5MTg1IiwicmRzIjoiUENfNTc0ODA1NzA3NDM5Njc2Mjc2M3xQUk9EX1BDXzU3NDgwNTcwNzQzOTY3NjI3NjMiLCJxdWVyeSI6ImFwcGxlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjEyNDk1NDAwMjMzNzkxMTQxNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzAyNzg1NTkxMjE0NTU1NTQ0NSIsImltYWdlRG9jaWQiOiI0OTIxMzg2OTgzODUwMTI5MTg1IiwicmRzIjoiUENfNTc0ODA1NzA3NDM5Njc2Mjc2M3xQUk9EX1BDXzU3NDgwNTcwNzQzOTY3NjI3NjMiLCJxdWVyeSI6ImFwcGxlIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiMjMzMTI3NzA1NjY0ODYzNDI5IiwiY2F0YWxvZ2lkIjoiIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIyMzMxMjc3MDU2NjQ4NjM0MjkiLCJpbWFnZURvY2lkIjoiMTQxMjI4ODU2NzE4Mzk5ODI5MiIsInJkcyI6IiIsInF1ZXJ5IjoiYXBwbGUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiMjMzMTI3NzA1NjY0ODYzNDI5IiwiY2F0YWxvZ2lkIjoiIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIyMzMxMjc3MDU2NjQ4NjM0MjkiLCJpbWFnZURvY2lkIjoiMTQxMjI4ODU2NzE4Mzk5ODI5MiIsInJkcyI6IiIsInF1ZXJ5IjoiYXBwbGUifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMwMDAzMTkyNjA5OTM4ODc2OSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzk2MTgyNjY4MjYxNTAyOTQwNyIsImltYWdlRG9jaWQiOiIzODQwMDg4OTE1MTg4NDAxNjE4IiwicmRzIjoiUENfNjYwMTY0ODY5NTQzMjQzMzYzNXxQUk9EX1BDXzY2MDE2NDg2OTU0MzI0MzM2MzUiLCJxdWVyeSI6ImFwcGxlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMwMDAzMTkyNjA5OTM4ODc2OSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzk2MTgyNjY4MjYxNTAyOTQwNyIsImltYWdlRG9jaWQiOiIzODQwMDg4OTE1MTg4NDAxNjE4IiwicmRzIjoiUENfNjYwMTY0ODY5NTQzMjQzMzYzNXxQUk9EX1BDXzY2MDE2NDg2OTU0MzI0MzM2MzUiLCJxdWVyeSI6ImFwcGxlIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjI4NDQ3Mjk0ODc2ODc0MzU5NSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTEwMzI1MDAxODY5OTU5NTIzMjIiLCJpbWFnZURvY2lkIjoiMTIwOTMyNTUwNjU5MTQ4MjE3NCIsInJkcyI6IlBDXzg3NjY2OTMzNjAxOTU3MjcwOTh8UFJPRF9QQ184NzY2NjkzMzYwMTk1NzI3MDk4IiwicXVlcnkiOiJhcHBsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjI4NDQ3Mjk0ODc2ODc0MzU5NSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTEwMzI1MDAxODY5OTU5NTIzMjIiLCJpbWFnZURvY2lkIjoiMTIwOTMyNTUwNjU5MTQ4MjE3NCIsInJkcyI6IlBDXzg3NjY2OTMzNjAxOTU3MjcwOTh8UFJPRF9QQ184NzY2NjkzMzYwMTk1NzI3MDk4IiwicXVlcnkiOiJhcHBsZSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzM1NDE5NjEwNDYyNDM1NTU3OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTA2NjU0NTc4ODU2MDk5Nzk3NDUiLCJpbWFnZURvY2lkIjoiODg3MzM1MzA0Mjk4NDc0NjU0OCIsInJkcyI6IlBDXzE2Mjk2OTgzMzU1ODQ3NTU5MzZ8UFJPRF9QQ18xNjI5Njk4MzM1NTg0NzU1OTM2IiwicXVlcnkiOiJhcHBsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzM1NDE5NjEwNDYyNDM1NTU3OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTA2NjU0NTc4ODU2MDk5Nzk3NDUiLCJpbWFnZURvY2lkIjoiODg3MzM1MzA0Mjk4NDc0NjU0OCIsInJkcyI6IlBDXzE2Mjk2OTgzMzU1ODQ3NTU5MzZ8UFJPRF9QQ18xNjI5Njk4MzM1NTg0NzU1OTM2IiwicXVlcnkiOiJhcHBsZSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTAxODA3NTgwMTI4ODk1MDk0NDQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExMTYzNDQxNjcwODQzMzIxNTc2IiwiaW1hZ2VEb2NpZCI6IjE0NjUxNTYwODg1OTk5OTc5NTc1IiwicmRzIjoiUENfODA1MzgwNDI5MzQ4MjE5OTQ3N3xQUk9EX1BDXzgwNTM4MDQyOTM0ODIxOTk0NzciLCJxdWVyeSI6ImFwcGxlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTAxODA3NTgwMTI4ODk1MDk0NDQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExMTYzNDQxNjcwODQzMzIxNTc2IiwiaW1hZ2VEb2NpZCI6IjE0NjUxNTYwODg1OTk5OTc5NTc1IiwicmRzIjoiUENfODA1MzgwNDI5MzQ4MjE5OTQ3N3xQUk9EX1BDXzgwNTM4MDQyOTM0ODIxOTk0NzciLCJxdWVyeSI6ImFwcGxlIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjI4NDQ3Mjk0ODc2ODc0MzU5NSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc0MzM2MjQwMjE4OTgyMjcyNDIiLCJpbWFnZURvY2lkIjoiMTIwOTMyNTUwNjU5MTQ4MjE3NCIsInJkcyI6IlBDXzg3NjY2OTMzNjAxOTU3MjcwOTh8UFJPRF9QQ184NzY2NjkzMzYwMTk1NzI3MDk4IiwicXVlcnkiOiJhcHBsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjI4NDQ3Mjk0ODc2ODc0MzU5NSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc0MzM2MjQwMjE4OTgyMjcyNDIiLCJpbWFnZURvY2lkIjoiMTIwOTMyNTUwNjU5MTQ4MjE3NCIsInJkcyI6IlBDXzg3NjY2OTMzNjAxOTU3MjcwOTh8UFJPRF9QQ184NzY2NjkzMzYwMTk1NzI3MDk4IiwicXVlcnkiOiJhcHBsZSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjEyNDk1NDAwMjMzNzkxMTQxNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjkwNzk2MTkzNDAwNzg1NjExOSIsImltYWdlRG9jaWQiOiI0OTIxMzg2OTgzODUwMTI5MTg1IiwicmRzIjoiUENfNTc0ODA1NzA3NDM5Njc2Mjc2M3xQUk9EX1BDXzU3NDgwNTcwNzQzOTY3NjI3NjMiLCJxdWVyeSI6ImFwcGxlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjEyNDk1NDAwMjMzNzkxMTQxNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjkwNzk2MTkzNDAwNzg1NjExOSIsImltYWdlRG9jaWQiOiI0OTIxMzg2OTgzODUwMTI5MTg1IiwicmRzIjoiUENfNTc0ODA1NzA3NDM5Njc2Mjc2M3xQUk9EX1BDXzU3NDgwNTcwNzQzOTY3NjI3NjMiLCJxdWVyeSI6ImFwcGxlIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzM1NDE5NjEwNDYyNDM1NTU3OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTYyMjQwMTQ0MTM5NDExNzczNjEiLCJpbWFnZURvY2lkIjoiODg3MzM1MzA0Mjk4NDc0NjU0OCIsInJkcyI6IlBDXzE2Mjk2OTgzMzU1ODQ3NTU5MzZ8UFJPRF9QQ18xNjI5Njk4MzM1NTg0NzU1OTM2IiwicXVlcnkiOiJhcHBsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzM1NDE5NjEwNDYyNDM1NTU3OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTYyMjQwMTQ0MTM5NDExNzczNjEiLCJpbWFnZURvY2lkIjoiODg3MzM1MzA0Mjk4NDc0NjU0OCIsInJkcyI6IlBDXzE2Mjk2OTgzMzU1ODQ3NTU5MzZ8UFJPRF9QQ18xNjI5Njk4MzM1NTg0NzU1OTM2IiwicXVlcnkiOiJhcHBsZSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzM1NDE5NjEwNDYyNDM1NTU3OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTY2OTgwMDc3MjM2OTY2Njg2MTgiLCJpbWFnZURvY2lkIjoiODg3MzM1MzA0Mjk4NDc0NjU0OCIsInJkcyI6IlBDXzE2Mjk2OTgzMzU1ODQ3NTU5MzZ8UFJPRF9QQ18xNjI5Njk4MzM1NTg0NzU1OTM2IiwicXVlcnkiOiJhcHBsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzM1NDE5NjEwNDYyNDM1NTU3OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTY2OTgwMDc3MjM2OTY2Njg2MTgiLCJpbWFnZURvY2lkIjoiODg3MzM1MzA0Mjk4NDc0NjU0OCIsInJkcyI6IlBDXzE2Mjk2OTgzMzU1ODQ3NTU5MzZ8UFJPRF9QQ18xNjI5Njk4MzM1NTg0NzU1OTM2IiwicXVlcnkiOiJhcHBsZSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTAxODA3NTgwMTI4ODk1MDk0NDQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExOTgzOTMwMDczMjQxMTMzNDYxIiwiaW1hZ2VEb2NpZCI6IjE0NjUxNTYwODg1OTk5OTc5NTc1IiwicmRzIjoiUENfODA1MzgwNDI5MzQ4MjE5OTQ3N3xQUk9EX1BDXzgwNTM4MDQyOTM0ODIxOTk0NzciLCJxdWVyeSI6ImFwcGxlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTAxODA3NTgwMTI4ODk1MDk0NDQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExOTgzOTMwMDczMjQxMTMzNDYxIiwiaW1hZ2VEb2NpZCI6IjE0NjUxNTYwODg1OTk5OTc5NTc1IiwicmRzIjoiUENfODA1MzgwNDI5MzQ4MjE5OTQ3N3xQUk9EX1BDXzgwNTM4MDQyOTM0ODIxOTk0NzciLCJxdWVyeSI6ImFwcGxlIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjI4NDQ3Mjk0ODc2ODc0MzU5NSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODI4MjQ2OTk2NDk1NDMzODExNyIsImltYWdlRG9jaWQiOiIxMjA5MzI1NTA2NTkxNDgyMTc0IiwicmRzIjoiUENfODc2NjY5MzM2MDE5NTcyNzA5OHxQUk9EX1BDXzg3NjY2OTMzNjAxOTU3MjcwOTgiLCJxdWVyeSI6ImFwcGxlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjI4NDQ3Mjk0ODc2ODc0MzU5NSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODI4MjQ2OTk2NDk1NDMzODExNyIsImltYWdlRG9jaWQiOiIxMjA5MzI1NTA2NTkxNDgyMTc0IiwicmRzIjoiUENfODc2NjY5MzM2MDE5NTcyNzA5OHxQUk9EX1BDXzg3NjY2OTMzNjAxOTU3MjcwOTgiLCJxdWVyeSI6ImFwcGxlIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzM1NDE5NjEwNDYyNDM1NTU3OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDY0Nzk2MDgxMzU3NTA0ODI2NiIsImltYWdlRG9jaWQiOiI4ODczMzUzMDQyOTg0NzQ2NTQ4IiwicmRzIjoiUENfMTYyOTY5ODMzNTU4NDc1NTkzNnxQUk9EX1BDXzE2Mjk2OTgzMzU1ODQ3NTU5MzYiLCJxdWVyeSI6ImFwcGxlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzM1NDE5NjEwNDYyNDM1NTU3OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDY0Nzk2MDgxMzU3NTA0ODI2NiIsImltYWdlRG9jaWQiOiI4ODczMzUzMDQyOTg0NzQ2NTQ4IiwicmRzIjoiUENfMTYyOTY5ODMzNTU4NDc1NTkzNnxQUk9EX1BDXzE2Mjk2OTgzMzU1ODQ3NTU5MzYiLCJxdWVyeSI6ImFwcGxlIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjI4NDQ3Mjk0ODc2ODc0MzU5NSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTYwOTMxNzU5NTk5MTQ3MDk1NTAiLCJpbWFnZURvY2lkIjoiMTIwOTMyNTUwNjU5MTQ4MjE3NCIsInJkcyI6IlBDXzg3NjY2OTMzNjAxOTU3MjcwOTh8UFJPRF9QQ184NzY2NjkzMzYwMTk1NzI3MDk4IiwicXVlcnkiOiJhcHBsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjI4NDQ3Mjk0ODc2ODc0MzU5NSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTYwOTMxNzU5NTk5MTQ3MDk1NTAiLCJpbWFnZURvY2lkIjoiMTIwOTMyNTUwNjU5MTQ4MjE3NCIsInJkcyI6IlBDXzg3NjY2OTMzNjAxOTU3MjcwOTh8UFJPRF9QQ184NzY2NjkzMzYwMTk1NzI3MDk4IiwicXVlcnkiOiJhcHBsZSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTAxODA3NTgwMTI4ODk1MDk0NDQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk2NDAyMDUzNTA4NjcyNzgxNzQiLCJpbWFnZURvY2lkIjoiMTQ2NTE1NjA4ODU5OTk5Nzk1NzUiLCJyZHMiOiJQQ184MDUzODA0MjkzNDgyMTk5NDc3fFBST0RfUENfODA1MzgwNDI5MzQ4MjE5OTQ3NyIsInF1ZXJ5IjoiYXBwbGUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTAxODA3NTgwMTI4ODk1MDk0NDQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk2NDAyMDUzNTA4NjcyNzgxNzQiLCJpbWFnZURvY2lkIjoiMTQ2NTE1NjA4ODU5OTk5Nzk1NzUiLCJyZHMiOiJQQ184MDUzODA0MjkzNDgyMTk5NDc3fFBST0RfUENfODA1MzgwNDI5MzQ4MjE5OTQ3NyIsInF1ZXJ5IjoiYXBwbGUifQ%3D%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzM1NDE5NjEwNDYyNDM1NTU3OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTgzODA1OTQzMjgzMDE5MDkzNTkiLCJpbWFnZURvY2lkIjoiODg3MzM1MzA0Mjk4NDc0NjU0OCIsInJkcyI6IlBDXzE2Mjk2OTgzMzU1ODQ3NTU5MzZ8UFJPRF9QQ18xNjI5Njk4MzM1NTg0NzU1OTM2IiwicXVlcnkiOiJhcHBsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzM1NDE5NjEwNDYyNDM1NTU3OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTgzODA1OTQzMjgzMDE5MDkzNTkiLCJpbWFnZURvY2lkIjoiODg3MzM1MzA0Mjk4NDc0NjU0OCIsInJkcyI6IlBDXzE2Mjk2OTgzMzU1ODQ3NTU5MzZ8UFJPRF9QQ18xNjI5Njk4MzM1NTg0NzU1OTM2IiwicXVlcnkiOiJhcHBsZSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMwMDAzMTkyNjA5OTM4ODc2OSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzg4MzY2NDI5MzY2MTYzNDI5OSIsImltYWdlRG9jaWQiOiIzODQwMDg4OTE1MTg4NDAxNjE4IiwicmRzIjoiUENfNjYwMTY0ODY5NTQzMjQzMzYzNXxQUk9EX1BDXzY2MDE2NDg2OTU0MzI0MzM2MzUiLCJxdWVyeSI6ImFwcGxlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMwMDAzMTkyNjA5OTM4ODc2OSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzg4MzY2NDI5MzY2MTYzNDI5OSIsImltYWdlRG9jaWQiOiIzODQwMDg4OTE1MTg4NDAxNjE4IiwicmRzIjoiUENfNjYwMTY0ODY5NTQzMjQzMzYzNXxQUk9EX1BDXzY2MDE2NDg2OTU0MzI0MzM2MzUiLCJxdWVyeSI6ImFwcGxlIn0%3D"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTAxODA3NTgwMTI4ODk1MDk0NDQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjY1MjEzMDAzMDQwMzA1NzYyMyIsImltYWdlRG9jaWQiOiIxNDY1MTU2MDg4NTk5OTk3OTU3NSIsInJkcyI6IlBDXzgwNTM4MDQyOTM0ODIxOTk0Nzd8UFJPRF9QQ184MDUzODA0MjkzNDgyMTk5NDc3IiwicXVlcnkiOiJhcHBsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTAxODA3NTgwMTI4ODk1MDk0NDQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjY1MjEzMDAzMDQwMzA1NzYyMyIsImltYWdlRG9jaWQiOiIxNDY1MTU2MDg4NTk5OTk3OTU3NSIsInJkcyI6IlBDXzgwNTM4MDQyOTM0ODIxOTk0Nzd8UFJPRF9QQ184MDUzODA0MjkzNDgyMTk5NDc3IiwicXVlcnkiOiJhcHBsZSJ9"
+    },
+    {
+      "category": "In stores nearby",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzM1NDE5NjEwNDYyNDM1NTU3OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjg5MDk0OTc5MTYzNzkzMTQ1NyIsImltYWdlRG9jaWQiOiI4ODczMzUzMDQyOTg0NzQ2NTQ4IiwicmRzIjoiUENfMTYyOTY5ODMzNTU4NDc1NTkzNnxQUk9EX1BDXzE2Mjk2OTgzMzU1ODQ3NTU5MzYiLCJxdWVyeSI6ImFwcGxlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzM1NDE5NjEwNDYyNDM1NTU3OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjg5MDk0OTc5MTYzNzkzMTQ1NyIsImltYWdlRG9jaWQiOiI4ODczMzUzMDQyOTg0NzQ2NTQ4IiwicmRzIjoiUENfMTYyOTY5ODMzNTU4NDc1NTkzNnxQUk9EX1BDXzE2Mjk2OTgzMzU1ODQ3NTU5MzYiLCJxdWVyeSI6ImFwcGxlIn0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQCD7kADq6KEl6iPnrJBsKTA9i1lDnQ_4Qf8uyiFKh4fs4cX8CGBFw-oqwqdnA-v-gGYOrZuwQZiURg_FOCiEXpFTqNzhL1B8Pt0o-yiGIyfXt51WBElqVNqw",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ-q01vaDYIpDrFHoIuRErwtKqSM8csNrLJ3FNkiswgaI0vvC_AA0aNzhFri51Cms1QjYeJVBLkrO0bY-m5dFu2E_PkPMIL_iK_",
+      "source": "T-Mobile",
+      "title": "Apple iPhone 16 Pro",
+      "rating": 4.0,
+      "reviews": 811,
+      "price": "$999.99",
+      "extracted_price": 999.99,
+      "delivery": "Free delivery",
+      "returns": "20-day returns",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTE5NzE1Nzg2MzM0NDE1OTI1MSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTk5NTMzNzY1NDg1MjI3NzE3NyIsImltYWdlRG9jaWQiOiI3MjAyMzA0NTQwNDgzOTYxODY3IiwicmRzIjoiUENfNTc0ODA1NzA3NDM5Njc2Mjc2M3xQUk9EX1BDXzU3NDgwNTcwNzQzOTY3NjI3NjMiLCJxdWVyeSI6ImFwcGxlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTE5NzE1Nzg2MzM0NDE1OTI1MSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTk5NTMzNzY1NDg1MjI3NzE3NyIsImltYWdlRG9jaWQiOiI3MjAyMzA0NTQwNDgzOTYxODY3IiwicmRzIjoiUENfNTc0ODA1NzA3NDM5Njc2Mjc2M3xQUk9EX1BDXzU3NDgwNTcwNzQzOTY3NjI3NjMiLCJxdWVyeSI6ImFwcGxlIn0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQjJSsmWJaZXKOrt7ZeZSiOoxgMSgI40dSYe_rNx8vhvfjphIWjcCYFwJ8YVinPbE6XSflE_7r5oXtlvyHrSo5sEE90htsFtM1MNbB8yjyxDLvxBZKeZNBn",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRVm7wUxUP88UoSWJcLNlzjnO3bKYd93m7r3CY46_3KxUYnxxHgujxzqvIDxv23Gejx7YN_1axicN4RIG3xAc8nl-3HBKiVzaI",
+      "source": "Optimum Mobile",
+      "title": "Apple iPhone 16",
+      "rating": 4.2,
+      "reviews": 216,
+      "price": "$23.03/mo",
+      "extracted_price": 23.03,
+      "original_price": "x 36",
+      "extracted_original_price": 36,
+      "delivery": "Free by 10/17",
+      "returns": "21-day returns",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ5MjM0MDc1Nzg3MzIxNzc3MDUiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2Mzg4OTQ2NTc0NzM0NzEwNTgwIiwiaW1hZ2VEb2NpZCI6IjEyNzUwMTg4ODg5OTU4MDc2NzQ5IiwicmRzIjoiUENfMTYyOTY5ODMzNTU4NDc1NTkzNnxQUk9EX1BDXzE2Mjk2OTgzMzU1ODQ3NTU5MzYiLCJxdWVyeSI6ImFwcGxlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ5MjM0MDc1Nzg3MzIxNzc3MDUiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2Mzg4OTQ2NTc0NzM0NzEwNTgwIiwiaW1hZ2VEb2NpZCI6IjEyNzUwMTg4ODg5OTU4MDc2NzQ5IiwicmRzIjoiUENfMTYyOTY5ODMzNTU4NDc1NTkzNnxQUk9EX1BDXzE2Mjk2OTgzMzU1ODQ3NTU5MzYiLCJxdWVyeSI6ImFwcGxlIn0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQoX6Ez9YGIXDVaPRCf157vNREt9ASMoiUL398zp5w-ry-qBqFp5DLZmKAgqrCtPqFJqiVlThFgtLxqPLOqsbPfJY8uxNfxLI9TgfxeXrzoNbsYskoWKoQI",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQHXFo_4_jfSkgJGci2J3gMfs5gRtqQjLtWp4j8oZ5V76tcJKWfy34pBCFnqxz-2SHx5D256e-9aNEAtsTTvB5jXz-jbEk",
+      "source": "Apple",
+      "title": "Apple iPhone 16 Pro Max",
+      "rating": 3.9,
+      "reviews": 1300,
+      "price": "$1,399.00",
+      "extracted_price": 1399.0,
+      "location": "12 mi \u00b7 In stock",
+      "returns": "Free 14-day returns",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTgyODU2Mzc1MTE0ODM1MzM3OTEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijg1MDgzNjUxMzU4MDgzOTQ3NTciLCJpbWFnZURvY2lkIjoiMTE0OTUzOTE4MDcyOTQ5Mzc5IiwicmRzIjoiUENfMTQ2NDkxNTEzOTQxMDk0MzAwNzl8UFJPRF9QQ18xNDY0OTE1MTM5NDEwOTQzMDA3OSIsInF1ZXJ5IjoiYXBwbGUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTgyODU2Mzc1MTE0ODM1MzM3OTEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijg1MDgzNjUxMzU4MDgzOTQ3NTciLCJpbWFnZURvY2lkIjoiMTE0OTUzOTE4MDcyOTQ5Mzc5IiwicmRzIjoiUENfMTQ2NDkxNTEzOTQxMDk0MzAwNzl8UFJPRF9QQ18xNDY0OTE1MTM5NDEwOTQzMDA3OSIsInF1ZXJ5IjoiYXBwbGUifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQY3Z-GazB9sR4R-b7bHGU8Mau09C_VSQY-HYtu7aATdDUNqqIHXluZ0FDlGkaxuhMNPpBPwGtuHUxaozlfuTatAJVHyY0SbnDZdns84pp_mzTuAK21VLtMBw",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQJabgWQBlkSDxJ_H3BSR1_MjhAn_AL94NzNCLnV5gdJc5X0-iNHBqnMzcTqf15NRM_VrJyfvyFeN28QtS6YmzMQkMl0A",
+      "source": "Walmart",
+      "title": "Fresh Gala Apple, Each",
+      "rating": 1.7,
+      "reviews": 626,
+      "price": "$0.69",
+      "extracted_price": 0.69,
+      "returns": "Free 90-day returns",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiNDcxNzE4MjI0MTE2NzE1NTg1MCIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDcxNzE4MjI0MTE2NzE1NTg1MCIsImltYWdlRG9jaWQiOiIxNTIzMjI1MDk4MTk3ODYyMzAzNiIsInJkcyI6IkxPXzQ3MTcxODIyNDExNjcxNTU4NTB8UFJPRF9MT180NzE3MTgyMjQxMTY3MTU1ODUwIiwicXVlcnkiOiJhcHBsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiNDcxNzE4MjI0MTE2NzE1NTg1MCIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDcxNzE4MjI0MTE2NzE1NTg1MCIsImltYWdlRG9jaWQiOiIxNTIzMjI1MDk4MTk3ODYyMzAzNiIsInJkcyI6IkxPXzQ3MTcxODIyNDExNjcxNTU4NTB8UFJPRF9MT180NzE3MTgyMjQxMTY3MTU1ODUwIiwicXVlcnkiOiJhcHBsZSJ9"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSkbQ6kxKk4aPHeepqj34S94EnBJfSf52mtjBgyi3NB_BJ66U7yVvQIvD9DSWlA702TQxBlIsne25WJXSjmeq7i6E4EsEBFScDOMkY3h5TufgNIeIdfWE0H",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQttBrLD36PDDPlV8mKHkUuL2gL5QsMg4ntt3fcRg27obElEgwXD4KHiy6oKsUQyKHWCLJlMBH9dRegHElG7A1dgzkbTDgpT4n1BIk",
+      "source": "Back Market",
+      "title": "Apple iPhone 13",
+      "rating": 4.7,
+      "reviews": 56000,
+      "price": "$383.99",
+      "extracted_price": 383.99,
+      "returns": "30-day returns",
+      "extensions": [
+        "38% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjIwMzc4MTMzNTczMjU5MzMyMCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTM3ODYwMzI5NTEyODA4MTEwIiwiaW1hZ2VEb2NpZCI6Ijg4MjcyMzU4MTQwMzI0MTU3MDMiLCJyZHMiOiJQQ184OTcxNjUwODA0Nzg1ODU3MjY4fFBST0RfUENfODk3MTY1MDgwNDc4NTg1NzI2OCIsInF1ZXJ5IjoiYXBwbGUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjIwMzc4MTMzNTczMjU5MzMyMCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTM3ODYwMzI5NTEyODA4MTEwIiwiaW1hZ2VEb2NpZCI6Ijg4MjcyMzU4MTQwMzI0MTU3MDMiLCJyZHMiOiJQQ184OTcxNjUwODA0Nzg1ODU3MjY4fFBST0RfUENfODk3MTY1MDgwNDc4NTg1NzI2OCIsInF1ZXJ5IjoiYXBwbGUifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSKWINy3zU8JZxy31qmCbva2GIKxG3EzZwcsF2MEjyeMsUCcZqyftlFk0s-aZQv46cucz8KwSS8B-b7er5V8EWYtn6IGchG_aKUBm0Ny4pDDl_DqY8Mh0ui",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRwXzPWkn1iRDTYUmElCwn9Vtud4B2xf8vY5TEgISVJxiLNI6ae7SP3Xv2PSVpAiMGG7aWeXshyzZYziiVVdPmZwIr4q2lIvLM",
+      "source": "Cellcom",
+      "title": "Apple iPhone 16 Plus",
+      "rating": 4.3,
+      "reviews": 106,
+      "price": "$25.84/mo",
+      "extracted_price": 25.84,
+      "original_price": "x 36",
+      "extracted_original_price": 36,
+      "delivery": "Free by 10/21",
+      "returns": "15-day returns",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjI4NDQ3Mjk0ODc2ODc0MzU5NSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTA0NzEzODc2OTc2ODE1MTEwNzgiLCJpbWFnZURvY2lkIjoiMTA3NDgzNjQ1MTM1ODcwODY4NTMiLCJyZHMiOiJQQ184NzY2NjkzMzYwMTk1NzI3MDk4fFBST0RfUENfODc2NjY5MzM2MDE5NTcyNzA5OCIsInF1ZXJ5IjoiYXBwbGUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjI4NDQ3Mjk0ODc2ODc0MzU5NSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTA0NzEzODc2OTc2ODE1MTEwNzgiLCJpbWFnZURvY2lkIjoiMTA3NDgzNjQ1MTM1ODcwODY4NTMiLCJyZHMiOiJQQ184NzY2NjkzMzYwMTk1NzI3MDk4fFBST0RfUENfODc2NjY5MzM2MDE5NTcyNzA5OCIsInF1ZXJ5IjoiYXBwbGUifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQaY53sQrjJcC2J13kppIhbngtCWgi7yJv0H9UZtvUDzhGeZkP9z7i66ICaU4S2gt3aLHwQZcw0-7u0B341MqOUwe4oSd-wmKDc7zjQ6eIh8IKH1oWopd-pwQ",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQpgfL0avcSnIIA7Wnlomi5kymZiO0A2kINnMkGZ3G1FlJRmOOARrbdPOOdSZARVbApsdeCP7QiIe5WxnPSOaIbtM4r",
+      "source": "Amazon",
+      "title": "Apple iPhone 14",
+      "rating": 4.6,
+      "reviews": 24000,
+      "price": "$556.55",
+      "extracted_price": 556.55,
+      "location": "Also nearby",
+      "returns": "30-day returns",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTg3NzA0NzE2MzMyMzU5Njk4NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjI0ODI1MjIwNzA2MDQ4Mjg2OSIsImltYWdlRG9jaWQiOiIxMjI2NjkxNTg3NzU4OTI2MTIzOSIsInJkcyI6IlBDXzgwNTM4MDQyOTM0ODIxOTk0Nzd8UFJPRF9QQ184MDUzODA0MjkzNDgyMTk5NDc3IiwicXVlcnkiOiJhcHBsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTg3NzA0NzE2MzMyMzU5Njk4NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjI0ODI1MjIwNzA2MDQ4Mjg2OSIsImltYWdlRG9jaWQiOiIxMjI2NjkxNTg3NzU4OTI2MTIzOSIsInJkcyI6IlBDXzgwNTM4MDQyOTM0ODIxOTk0Nzd8UFJPRF9QQ184MDUzODA0MjkzNDgyMTk5NDc3IiwicXVlcnkiOiJhcHBsZSJ9"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSBfcTg_iRqt2OI4qyzk_NJIwSA5fbJX69mf1qvyt5BaOnNQRXqiRcecTiuv_c1lPD1soM6aUVbHp4kShoquzgDtF4rHJCOXqc0M9fXU23PhhLsyOJrAICr",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQHXFo_4_jfSkgJGci2J3gMfs5gRtqQjLtWp4j8oZ5V76tcJKWfy34pBCFnqxz-2SHx5D256e-9aNEAtsTTvB5jXz-jbEk",
+      "source": "Apple",
+      "title": "Apple iPhone 15",
+      "rating": 4.6,
+      "reviews": 18000,
+      "price": "$729.00",
+      "extracted_price": 729.0,
+      "location": "12 mi \u00b7 In stock",
+      "returns": "Free 14-day returns",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMwMDAzMTkyNjA5OTM4ODc2OSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzk2MTgyNjY4MjYxNTAyOTQwNyIsImltYWdlRG9jaWQiOiIzODQwMDg4OTE1MTg4NDAxNjE4IiwicmRzIjoiUENfNjYwMTY0ODY5NTQzMjQzMzYzNXxQUk9EX1BDXzY2MDE2NDg2OTU0MzI0MzM2MzUiLCJxdWVyeSI6ImFwcGxlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMwMDAzMTkyNjA5OTM4ODc2OSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzk2MTgyNjY4MjYxNTAyOTQwNyIsImltYWdlRG9jaWQiOiIzODQwMDg4OTE1MTg4NDAxNjE4IiwicmRzIjoiUENfNjYwMTY0ODY5NTQzMjQzMzYzNXxQUk9EX1BDXzY2MDE2NDg2OTU0MzI0MzM2MzUiLCJxdWVyeSI6ImFwcGxlIn0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT41OKUyMHZON39GoYBh7ipqaUzU8Blo0l61LH0p56ADqwTlx35l3VHNo-szs4IjWd4DF4UmCBhyOZ_MqIN1C7Uh67rO3F9bFvnrIke-nGB_fuioylV6KXcEA",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ-q01vaDYIpDrFHoIuRErwtKqSM8csNrLJ3FNkiswgaI0vvC_AA0aNzhFri51Cms1QjYeJVBLkrO0bY-m5dFu2E_PkPMIL_iK_",
+      "source": "T-Mobile",
+      "title": "Apple iPhone 16 - White - 128GB (with plan)",
+      "rating": 4.5,
+      "reviews": 391,
+      "price": "$829.99",
+      "extracted_price": 829.99,
+      "delivery": "Free delivery",
+      "returns": "20-day returns",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiOTAwNzk4MTgzNTA4OTk0NTIzMyIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTAwNzk4MTgzNTA4OTk0NTIzMyIsImltYWdlRG9jaWQiOiI5MDM3OTUyOTg0NjkzMTE4MDg2IiwicmRzIjoiUENfMTQ2NTYwMTY4NzIxNTQyNTg1NHxQUk9EX1BDXzE0NjU2MDE2ODcyMTU0MjU4NTQiLCJxdWVyeSI6ImFwcGxlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiOTAwNzk4MTgzNTA4OTk0NTIzMyIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTAwNzk4MTgzNTA4OTk0NTIzMyIsImltYWdlRG9jaWQiOiI5MDM3OTUyOTg0NjkzMTE4MDg2IiwicmRzIjoiUENfMTQ2NTYwMTY4NzIxNTQyNTg1NHxQUk9EX1BDXzE0NjU2MDE2ODcyMTU0MjU4NTQiLCJxdWVyeSI6ImFwcGxlIn0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ2Kw5hEl95n5Jh2n5xygkdUIti6Y6c6OaI93ON-nGhgBeJo4uCvU47pdedz4F5UFHoFwaAbPql0nqUuIygh_EQFtk2_pMSDE1XrXK8HGZH0XdN4kwMfhtSZA",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQJabgWQBlkSDxJ_H3BSR1_MjhAn_AL94NzNCLnV5gdJc5X0-iNHBqnMzcTqf15NRM_VrJyfvyFeN28QtS6YmzMQkMl0A",
+      "source": "Walmart",
+      "title": "Gala Apples",
+      "rating": 1.8,
+      "reviews": 804,
+      "price": "$3.66",
+      "extracted_price": 3.66,
+      "returns": "Free 90-day returns",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODU2MjUxMTUyMTUxODI1NDU0MCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjg5NjYyOTI0NDczMDA4MTM0OCIsImltYWdlRG9jaWQiOiIxNTMyNjMxMjgxNzc2MDc3MzYyOCIsInJkcyI6IlBDXzEwMzY4Njk4OTk2MTAxMjkwNTAyfFBST0RfUENfMTAzNjg2OTg5OTYxMDEyOTA1MDIiLCJxdWVyeSI6ImFwcGxlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODU2MjUxMTUyMTUxODI1NDU0MCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjg5NjYyOTI0NDczMDA4MTM0OCIsImltYWdlRG9jaWQiOiIxNTMyNjMxMjgxNzc2MDc3MzYyOCIsInJkcyI6IlBDXzEwMzY4Njk4OTk2MTAxMjkwNTAyfFBST0RfUENfMTAzNjg2OTg5OTYxMDEyOTA1MDIiLCJxdWVyeSI6ImFwcGxlIn0%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQKWJER0j4nZieE7R6lEcdyXELJvPYwQN0fLw10eNI8IP7BW5TsSJyFXuz3lQMqkQmzFQnqSdfCsKKOUocQDNVlljLvLgNlsNCL-ZISaOKm",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRgzBrRdg5T7lpq78WpaJOO9MyQ572bCsLy8IO390D8nToW6gxGZn4b1Uk4zmsuv61I0uKem__K4pD8Ggcsl8LO-uZFHc9ju6rXCbKr09o",
+      "source": "Champlain Orchards",
+      "title": "Gala Apple Box Large Box (16-20 Apples)",
+      "price": "$39.00",
+      "extracted_price": 39.0,
+      "returns": "30-day returns",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiODQ4NTczMjkxMzcyNTAwMDM3MiIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODQ4NTczMjkxMzcyNTAwMDM3MiIsImltYWdlRG9jaWQiOiI1NzEwMDAyMzE2ODI1NjIzMzU0IiwicmRzIjoiIiwicXVlcnkiOiJhcHBsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiODQ4NTczMjkxMzcyNTAwMDM3MiIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODQ4NTczMjkxMzcyNTAwMDM3MiIsImltYWdlRG9jaWQiOiI1NzEwMDAyMzE2ODI1NjIzMzU0IiwicmRzIjoiIiwicXVlcnkiOiJhcHBsZSJ9"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTfWmXEvajUU7Ui2b0lC0MPT9W5WOULSCcsNiuhgjsqIIC3M0TxT04c6HjKBTqasBHbnxqmdupRhJu8hKUYc_evRpHCsg-H79A2RIc7RYacz14U-j1__FHhLw",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+      "source": "Amazon.com - Seller",
+      "title": "Apple Red Delicious Organic, 48 Ounce",
+      "price": "$20.49",
+      "extracted_price": 20.49,
+      "original_price": "$22",
+      "extracted_original_price": 22,
+      "extensions": [
+        "6% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiMTY4NDcyMjQ3MDE3NDYzNTAzNzgiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2ODQ3MjI0NzAxNzQ2MzUwMzc4IiwiaW1hZ2VEb2NpZCI6IjE0NTEwMjIyMjM3MDc2NjY3NTAzIiwicmRzIjoiIiwicXVlcnkiOiJhcHBsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiMTY4NDcyMjQ3MDE3NDYzNTAzNzgiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2ODQ3MjI0NzAxNzQ2MzUwMzc4IiwiaW1hZ2VEb2NpZCI6IjE0NTEwMjIyMjM3MDc2NjY3NTAzIiwicmRzIjoiIiwicXVlcnkiOiJhcHBsZSJ9"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSxowfSyVAzVIfbayaBIwlkgiKRefZVmh3feOt0E1sWrCt2RM14JCqzFGU0q61rd3w6zt9YaslrXgx8rNmv2mdPjYBaYYJxlzKYeUC7H0NYtyfbE0hoQcel",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQHXFo_4_jfSkgJGci2J3gMfs5gRtqQjLtWp4j8oZ5V76tcJKWfy34pBCFnqxz-2SHx5D256e-9aNEAtsTTvB5jXz-jbEk",
+      "source": "Apple",
+      "title": "iPhone 15, 512GB - T-Mobile (with installments plan) - Blue - Apple",
+      "rating": 4.6,
+      "reviews": 18000,
+      "price": "$41.63/mo",
+      "extracted_price": 41.63,
+      "original_price": "x 24",
+      "extracted_original_price": 24,
+      "delivery": "Free 3-day",
+      "returns": "Free 14-day returns",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiNTE4MDA1MDIzMjAyMzEwNjA5MiIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTE4MDA1MDIzMjAyMzEwNjA5MiIsImltYWdlRG9jaWQiOiIxMjAzMTExNTIzODAwNjU2MTU2NCIsInJkcyI6IlBDXzY2MDE2NDg2OTU0MzI0MzM2MzV8UFJPRF9QQ182NjAxNjQ4Njk1NDMyNDMzNjM1IiwicXVlcnkiOiJhcHBsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiNTE4MDA1MDIzMjAyMzEwNjA5MiIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTE4MDA1MDIzMjAyMzEwNjA5MiIsImltYWdlRG9jaWQiOiIxMjAzMTExNTIzODAwNjU2MTU2NCIsInJkcyI6IlBDXzY2MDE2NDg2OTU0MzI0MzM2MzV8UFJPRF9QQ182NjAxNjQ4Njk1NDMyNDMzNjM1IiwicXVlcnkiOiJhcHBsZSJ9"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRKSzqrr8R_nmzBorSCcLso3Y7gl82cjnieOo5pmfVdrtzA4_HKaWWGs2yyU6EWy-o6q4_pQGHoK6bpUmWyuEy9X2hRQ_BsFH6BuhEpwj34DosBoh545GK3",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ-q01vaDYIpDrFHoIuRErwtKqSM8csNrLJ3FNkiswgaI0vvC_AA0aNzhFri51Cms1QjYeJVBLkrO0bY-m5dFu2E_PkPMIL_iK_",
+      "source": "T-Mobile",
+      "title": "Apple iPhone 13 - Green - 128GB (with 24 monthly payments + plan)",
+      "rating": 4.7,
+      "reviews": 56000,
+      "price": "$629.99 now",
+      "extracted_price": 629.99,
+      "original_price": "$26.25/mo x 24",
+      "extracted_original_price": 26.25,
+      "delivery": "Free delivery",
+      "returns": "20-day returns",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiMTE2OTY1NTMwMjE2NjYyMzgzNjgiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExNjk2NTUzMDIxNjY2MjM4MzY4IiwiaW1hZ2VEb2NpZCI6Ijc1NjgyMTI2MTM3ODEwMDAxNjIiLCJyZHMiOiJQQ184OTcxNjUwODA0Nzg1ODU3MjY4fFBST0RfUENfODk3MTY1MDgwNDc4NTg1NzI2OCIsInF1ZXJ5IjoiYXBwbGUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiMTE2OTY1NTMwMjE2NjYyMzgzNjgiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExNjk2NTUzMDIxNjY2MjM4MzY4IiwiaW1hZ2VEb2NpZCI6Ijc1NjgyMTI2MTM3ODEwMDAxNjIiLCJyZHMiOiJQQ184OTcxNjUwODA0Nzg1ODU3MjY4fFBST0RfUENfODk3MTY1MDgwNDc4NTg1NzI2OCIsInF1ZXJ5IjoiYXBwbGUifQ%3D%3D"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSnS3b0jGJr8hAgcDUSa8DN3hXzeu78mYw-Wg_HNbbo0l2SpzoocQvXw9HY03zqQCybw-dwIy7MxN2QdBuc6o-rrvF9XXNSIU0p_aLc1xdx1Revp6XNmnG2",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTNUmppK-lnis9Xc6-QCWT3x4BEvuDTG1ZAlAUnb8JBMDAshETTiOzHhWyu2oKq1x0mUGc1VjECakwvPIAAdUlal-n2wCqxGOotZg",
+      "source": "Randalls",
+      "title": "Gala Apple Large",
+      "price": "$1.00",
+      "extracted_price": 1.0,
+      "location": "9.3 mi \u00b7 In stock",
+      "returns": "30-day returns",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiOTc1NDY0MTU3MjUwNjM4MjUwNyIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTc1NDY0MTU3MjUwNjM4MjUwNyIsImltYWdlRG9jaWQiOiI0OTAwMjkwNTI3NzM4Mzk1OTY2IiwicmRzIjoiIiwicXVlcnkiOiJhcHBsZSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiOTc1NDY0MTU3MjUwNjM4MjUwNyIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTc1NDY0MTU3MjUwNjM4MjUwNyIsImltYWdlRG9jaWQiOiI0OTAwMjkwNTI3NzM4Mzk1OTY2IiwicmRzIjoiIiwicXVlcnkiOiJhcHBsZSJ9"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSyhE_ntg86h-HV3QFhGNss2_iRoydtoJoBsi997DHOo9xTBdZAOMcgucm5ztlbC51MZ4uM1J4r-I7ygQ_UH6uQorXFzmM8c8ItGzNtDrppnQ-w4pgKjZUI",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ-q01vaDYIpDrFHoIuRErwtKqSM8csNrLJ3FNkiswgaI0vvC_AA0aNzhFri51Cms1QjYeJVBLkrO0bY-m5dFu2E_PkPMIL_iK_",
+      "source": "T-Mobile",
+      "title": "Apple iPhone 13 - Midnight - 128GB (with plan)",
+      "rating": 4.7,
+      "reviews": 56000,
+      "price": "$629.99",
+      "extracted_price": 629.99,
+      "location": "12 mi \u00b7 In stock",
+      "returns": "20-day returns",
+      "immersive_product_page_token": "eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiMTMxMjMyODk0NTM5MDM4Mjg3OSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTMxMjMyODk0NTM5MDM4Mjg3OSIsImltYWdlRG9jaWQiOiIzMTI3NzkzMzU0NTEyMjc4NDk0IiwicmRzIjoiUENfODk3MTY1MDgwNDc4NTg1NzI2OHxQUk9EX1BDXzg5NzE2NTA4MDQ3ODU4NTcyNjgiLCJxdWVyeSI6ImFwcGxlIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImhoY0taOE8tQjU3cWt2UVB1Yi1HMEFjIiwicHJvZHVjdGlkIjoiMTMxMjMyODk0NTM5MDM4Mjg3OSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTMxMjMyODk0NTM5MDM4Mjg3OSIsImltYWdlRG9jaWQiOiIzMTI3NzkzMzU0NTEyMjc4NDk0IiwicmRzIjoiUENfODk3MTY1MDgwNDc4NTg1NzI2OHxQUk9EX1BDXzg5NzE2NTA4MDQ3ODU4NTcyNjgiLCJxdWVyeSI6ImFwcGxlIn0%3D"
+    }
+  ],
+  "short_videos": [
+    {
+      "position": 1,
+      "title": "apple | Commissioned by Apple. Everything looks more cinematic in ... on Instagram. Play on Instagram. 0:42. 2 weeks ago",
+      "source": "2w",
+      "profile_name": "Instagram",
+      "extensions": [
+        "Instagram"
+      ],
+      "views": "Instagram2w",
+      "extracted_views": 2,
+      "duration": "0:42",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQovsl8zqt7sZm0Xx1JTr4pcvhRmXr_PiXD8w",
+      "thumbnail": "https://serpapi.com/searches/670a178672f716bd0be530d3/images/6389663d1ed6bcb844c4fec1172c10a93429cd2a504afb436d052b2dcdac4646.jpeg",
+      "link": "https://www.instagram.com/apple/reel/DAWI6ltvPE7/"
+    },
+    {
+      "position": 2,
+      "title": "apple | Watch The Weeknd\u2019s new music video for \u201cDancing In The ... on Instagram. Play on Instagram. 0:30. 1 month ago",
+      "source": "4w",
+      "profile_name": "Instagram",
+      "extensions": [
+        "Instagram"
+      ],
+      "views": "Instagram4w",
+      "extracted_views": 4,
+      "duration": "0:30",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSypm5WEbRSR2-ajNwqiRyF-sL0IzJs6Y_OQQ",
+      "thumbnail": "https://serpapi.com/searches/670a178672f716bd0be530d3/images/6389663d1ed6bcb80f6f77ba641badfea6b0c4e38f993f4dd260376e47beec3f.jpeg",
+      "link": "https://www.instagram.com/apple/reel/C_3SOQgPvEF/"
+    },
+    {
+      "position": 3,
+      "title": "apple | Commissioned by Apple. An iconic Emmy night with Apple ... on Instagram. Play on Instagram. 0:56. 3 weeks ago",
+      "source": "3w",
+      "profile_name": "Instagram",
+      "extensions": [
+        "Instagram"
+      ],
+      "views": "Instagram3w",
+      "extracted_views": 3,
+      "duration": "0:56",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRqUst2pD4zsGAiy6RfAt9dLSsvbMiXZnkx-w",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0b6zx-FoULHweoHNUpp2YO2W08-R5w5XgwEZAWIReEvCR_A&s",
+      "link": "https://www.instagram.com/apple/reel/DABwra-Rvhy/"
+    },
+    {
+      "position": 4,
+      "title": "apple | \u201cI\u2019ll see a butterfly and want to reinterpret it through makeup ... on Instagram. Play on Instagram. 0:09. Apr 17, 2024",
+      "source": "5mo",
+      "profile_name": "Instagram",
+      "extensions": [
+        "Instagram"
+      ],
+      "views": "Instagram5mo",
+      "extracted_views": 5,
+      "duration": "0:09",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJqEjPH8JwIoY-BvSteunfLIPQYfQHPfs2mwraX-1qmcCThQ&s",
+      "link": "https://www.instagram.com/apple/reel/C53lhyVxaKB/"
+    },
+    {
+      "position": 5,
+      "title": "apple | \u201cI had the idea to have my dogs look directly at all my viewers ... on Instagram. Play on Instagram. 0:10. 1 month ago",
+      "source": "1mo",
+      "profile_name": "Instagram",
+      "extensions": [
+        "Instagram"
+      ],
+      "views": "Instagram1mo",
+      "extracted_views": 1,
+      "duration": "0:10",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQfAQLDXi7uxCZAlddQNlQS6TWFY8q_zmfWFw",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFUOquLiyGEjlMfoNKNk6uHCeZFDDftJD0ahw4CC58UjKC8A&s",
+      "link": "https://www.instagram.com/apple/reel/C--lsNWvrUh/"
+    },
+    {
+      "position": 6,
+      "title": "apple | \u201cBeauty sometimes comes in the most abstract yet simple ... on Instagram. Play on Instagram. 0:12. Apr 18, 2024",
+      "source": "5mo",
+      "profile_name": "Instagram",
+      "extensions": [
+        "Instagram"
+      ],
+      "views": "Instagram5mo",
+      "extracted_views": 5,
+      "duration": "0:12",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQbboGmNJbTUHWxqLry0tEQpZ4sS9Ida2-k1Q",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYnpvjYCvLg688yYH2viP8uvApCXAz7ardltfAuEUz4vfCag&s",
+      "link": "https://www.instagram.com/apple/reel/C56NSaFr6aN/"
+    },
+    {
+      "position": 7,
+      "title": "iOS Universal Clipboard Hack by Zoey Stein by apple on TikTok. Play on TikTok. 0:15. Jul 31, 2024",
+      "source": "TikTok",
+      "date": "2mo",
+      "source_logo": "https://serpapi.com/searches/670a178672f716bd0be530d3/images/6389663d1ed6bcb82ece6f5d22d347e1e271ef31ced2af9b1366e4f7cc3ce525.png",
+      "profile_name": "apple",
+      "extensions": [
+        "apple"
+      ],
+      "views": "aappleTikTok \u00b7 2mo",
+      "extracted_views": 2,
+      "duration": "0:15",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSTHNqIF9X7W0GH9Xouu5DTbD9H8FWqqewUPA",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0sFW9oFq2UhRCPjWD1Eh-8XtSiJAm-ofBbKkj5_u_G8yPXA&s",
+      "link": "https://www.tiktok.com/@apple/video/7397842601488944427"
+    },
+    {
+      "position": 8,
+      "title": "apple | To celebrate the launch of the new iPad Pro, Nike designed ... on Instagram. Play on Instagram. 0:23. May 7, 2024",
+      "source": "5mo",
+      "profile_name": "Instagram",
+      "extensions": [
+        "Instagram"
+      ],
+      "views": "Instagram5mo",
+      "extracted_views": 5,
+      "duration": "0:23",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTt-n-zgeSnZTGoX-3RzTydIAKEJMTozj5vGw",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJOcPm9XpYQAk2TPkQL-WtytZNkyK6_BiWaAl8RiOL4Sgi8Q&s",
+      "link": "https://www.instagram.com/apple/reel/C6rg0cKS-cl/"
+    },
+    {
+      "position": 9,
+      "title": "apple | \"Try to surprise yourself, not to impress others ... on Instagram. Play on Instagram. 0:15. 1 month ago",
+      "source": "1mo",
+      "profile_name": "Instagram",
+      "extensions": [
+        "Instagram"
+      ],
+      "views": "Instagram1mo",
+      "extracted_views": 1,
+      "duration": "0:15",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSi8O0sIVFn69fMcnsHtc5TceuhTjgsZwehxg",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzq0knD2-6KVbN1AEHVaYiODy4RGYr5a4vpYpavwJlwi7i5w&s",
+      "link": "https://www.instagram.com/apple/reel/C_ipSZpPep7/"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Apple",
+      "link": "https://www.apple.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.apple.com/&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQFnoECAkQAQ",
+      "displayed_link": "https://www.apple.com",
+      "favicon": "https://serpapi.com/searches/670a178672f716bd0be530d3/images/69db1660d5a680e42bec9cb221b43b86b189a5843b2d9bcc0bf545c5d0e706ee.png",
+      "snippet": "Apple Watch Series 10. Thinstant classic. Learn more Buy. AirPods 4. Iconic. Now supersonic. Available with Active Noise Cancellation.",
+      "snippet_highlighted_words": [
+        "Apple"
+      ],
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "iPad",
+            "link": "https://www.apple.com/ipad/",
+            "snippet": "Shop iPad - iPad Pro - Compare iPad Models - iPad Air - iPad mini"
+          },
+          {
+            "title": "iPhone",
+            "link": "https://www.apple.com/iphone/",
+            "snippet": "Designed for Apple Intelligence. Discover the new iPhone 16 ..."
+          },
+          {
+            "title": "Mac",
+            "link": "https://www.apple.com/mac/",
+            "snippet": "MacBook Air - MacBook Pro - iMac - Compare Mac Models - Mac mini"
+          },
+          {
+            "title": "Watch",
+            "link": "https://www.apple.com/watch/",
+            "snippet": "Apple Watch is the ultimate device for a healthy life. Available in ..."
+          },
+          {
+            "title": "Support",
+            "link": "https://support.apple.com/",
+            "snippet": "iPhone Support - Contact - Billing and Subscriptions - Apple Repair"
+          }
+        ]
+      },
+      "sitelinks_search_box": true,
+      "source": "Apple"
+    },
+    {
+      "position": 2,
+      "title": "Apple Inc.",
+      "link": "https://en.wikipedia.org/wiki/Apple_Inc.",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Apple_Inc.&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQFnoECB4QAQ",
+      "displayed_link": "https://en.wikipedia.org",
+      "thumbnail": "https://serpapi.com/searches/670a178672f716bd0be530d3/images/69db1660d5a680e42bec9cb221b43b8682e8a40295666cbc3687af349b25c57f.jpeg",
+      "favicon": "https://serpapi.com/searches/670a178672f716bd0be530d3/images/69db1660d5a680e42bec9cb221b43b869c7a49e2df146ec25bade6c9f4f61052.png",
+      "snippet": "Apple Inc. is an American multinational corporation and technology company headquartered and incorporated in Cupertino, California, in Silicon Valley.",
+      "snippet_highlighted_words": [
+        "an American multinational corporation and technology company"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 3,
+      "title": "iCloud",
+      "link": "https://www.icloud.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.icloud.com/&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQFnoECF4QAQ",
+      "displayed_link": "https://www.icloud.com",
+      "favicon": "https://serpapi.com/searches/670a178672f716bd0be530d3/images/69db1660d5a680e42bec9cb221b43b864b1f071ea6a68e7def5a12075b0c4652.png",
+      "snippet": "Log in to iCloud to access your photos, mail, notes, documents and more. Sign in with your Apple Account or create a new account to start using Apple services.",
+      "snippet_highlighted_words": [
+        "Log in to iCloud"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "iCloud Photos",
+            "link": "https://www.icloud.com/photos/"
+          },
+          {
+            "title": "Calendar",
+            "link": "https://www.icloud.com/calendar"
+          },
+          {
+            "title": "Notes",
+            "link": "https://www.icloud.com/notes/"
+          },
+          {
+            "title": "Settings",
+            "link": "https://www.icloud.com/settings/"
+          }
+        ]
+      },
+      "source": "iCloud"
+    },
+    {
+      "position": 4,
+      "title": "@apple \u2022 Instagram photos and videos",
+      "link": "https://www.instagram.com/apple/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/apple/&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQFnoECFwQAQ",
+      "displayed_link": "33.8M+ followers",
+      "favicon": "https://serpapi.com/searches/670a178672f716bd0be530d3/images/69db1660d5a680e42bec9cb221b43b86d630b56630bcc2dc2e102328ac806264.png",
+      "snippet": "Commissioned by Apple. With the new 48MP Fusion and 48MP Ultra Wide cameras, the #iPhone16Pro is a new kind of animal. #ShotoniPhone by Nicholas Alan C. @ ...",
+      "snippet_highlighted_words": [
+        "Commissioned by Apple"
+      ],
+      "source": "Instagram \u00b7 apple"
+    },
+    {
+      "position": 5,
+      "title": "Apple",
+      "link": "https://www.youtube.com/apple",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/apple&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQFnoECFsQAQ",
+      "displayed_link": "19.8M+ followers",
+      "favicon": "https://serpapi.com/searches/670a178672f716bd0be530d3/images/69db1660d5a680e42bec9cb221b43b863663dbba6231096833fefa6ca1387306.png",
+      "snippet": "Original stories from the most creative minds in TV and film. Watch new Apple Originals on the Apple TV app with an Apple TV+ subscription.",
+      "snippet_highlighted_words": [
+        "Apple",
+        "Apple",
+        "Apple"
+      ],
+      "source": "YouTube \u00b7 Apple"
+    },
+    {
+      "position": 6,
+      "title": "Apple",
+      "link": "https://www.linkedin.com/company/apple",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/company/apple&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQFnoECF0QAQ",
+      "displayed_link": "17.6M+ followers",
+      "favicon": "https://serpapi.com/searches/670a178672f716bd0be530d3/images/69db1660d5a680e42bec9cb221b43b86ec953d2a8c1aee44524e2a0d9ca600c9.png",
+      "snippet": "We're a diverse collective of thinkers and doers, continually reimagining what's possible to help us all do what we love in new ways.",
+      "snippet_highlighted_words": [
+        "a diverse collective of thinkers and doers"
+      ],
+      "source": "LinkedIn \u00b7 Apple"
+    }
+  ],
+  "top_stories": [
+    {
+      "title": "Meet the Unstoppable Growth Stock That Could Join Apple, Nvidia, and Microsoft in the $3 Trillion Club by 2029",
+      "link": "https://finance.yahoo.com/news/meet-unstoppable-growth-stock-could-080200237.html",
+      "source": "Yahoo Finance",
+      "date": "22 hours ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4wsAtEwtrUseN_vD883iveUoPKdFFcoO28JCosq9QOA-xWtSdvUBlYeWsSg&usqp=CAI&s=10"
+    },
+    {
+      "title": "Prediction: 3 Stocks That'll Be Worth More Than Apple 5 Years From Now",
+      "link": "https://www.fool.com/investing/2024/10/11/prediction-3-stocks-thatll-be-worth-more-than-appl/",
+      "source": "The Motley Fool",
+      "date": "19 hours ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdm4qN9UIVyx28Tayd7QsoGhRN9twCsw_icledi_AX_ncd8vifSesawAA&usqp=CAI&s"
+    },
+    {
+      "title": "Apple\u2019s USB SuperDrive might be gone for good",
+      "link": "https://www.theverge.com/2024/10/11/24267842/apple-usb-superdrive-discontinued",
+      "source": "The Verge",
+      "date": "14 hours ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcEnQTaK23GJQTANYKSEq7wSY8Xhi9FuZmpbbdk5SBrzNbcVNgfd3ZIB4&usqp=CAI&s"
+    },
+    {
+      "title": "\u2018No longer in a relationship; wants belongings from the apartment\u2019: Apple Intelligence break-up message reveals new world of dystopian dumpings",
+      "link": "https://www.techradar.com/phones/iphone/whats-worse-than-a-break-up-by-text-this-savage-apple-intelligence-dumping",
+      "source": "TechRadar",
+      "date": "20 hours ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvLJJQXLuPo9P55wj-GlcHX0JE2XaAAV07G_KWJoZljpK9izhR0mU_9qg&usqp=CAI&s"
+    },
+    {
+      "title": "I turned to Apple Intelligence to improve my writing \u2014 here\u2019s my grade for Writing Tools",
+      "link": "https://www.tomsguide.com/ai/i-turned-to-apple-intelligence-to-improve-my-writing-heres-my-grade-for-writing-tools",
+      "source": "Tom's Guide",
+      "date": "57 minutes ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_T3Wr0WLri1PQlLfm2CA10nl-qwF5VSI5zxw0DSBgsVqSVgyGM7Bl-YU&usqp=CAI&s"
+    },
+    {
+      "title": "What to expect from Apple\u2019s next Mac and iPad announcements",
+      "link": "https://www.theverge.com/2024/10/11/24253972/apple-event-october-macbook-pro-air-rumors-date-time-livestream-watch-how-to",
+      "source": "The Verge",
+      "date": "19 hours ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj8BcXax63sWaFZfYft_2bEFx9ZtHNXhAu9_oC4vA&usqp=CAI&s"
+    },
+    {
+      "title": "Apple\u2019s New iPhone Update\u2014Bad News Revealed For Millions Of Google Users",
+      "link": "https://www.forbes.com/sites/zakdoffman/2024/10/11/apple-ios-18-bad-news-for-google-as-millions-of-iphone-15-iphone-16-users-update/",
+      "source": "Forbes",
+      "date": "16 hours ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB5CEad8D2VQkLPUDNBsgO5RhvfA-seui4ZOAEpFNGGAjIHwmB1ujSzxA&usqp=CAI&s"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&tbs=lf:1,lf_ui:4&tbm=lcl&q=apple&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQjGp6BAg-EAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=apple&tbs=lf%3A1%2Clf_ui%3A4&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Apple USA",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Apple+USA&sa=X&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQ1QJ6BQiCARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Apple+USA"
+    },
+    {
+      "block_position": 1,
+      "query": "Apple Store",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Apple+Store&sa=X&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQ1QJ6BAh_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Apple+Store"
+    },
+    {
+      "block_position": 1,
+      "query": "Apple India",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Apple+India&sa=X&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQ1QJ6BAh9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Apple+India"
+    },
+    {
+      "block_position": 1,
+      "query": "Apple id",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Apple+id&sa=X&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQ1QJ6BAh6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Apple+id"
+    },
+    {
+      "block_position": 1,
+      "query": "Apple login",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Apple+login&sa=X&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQ1QJ6BAh5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Apple+login"
+    },
+    {
+      "block_position": 1,
+      "query": "Apple fruit",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Apple+fruit&sa=X&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQ1QJ6BAh0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Apple+fruit"
+    },
+    {
+      "block_position": 1,
+      "query": "Create apple id",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Create+apple+id&sa=X&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQ1QJ6BAhxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Create+apple+id"
+    },
+    {
+      "block_position": 1,
+      "query": "Apple Account",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Apple+Account&sa=X&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQ1QJ6BQiDARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Apple+Account"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=apple&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=hhcKZ8O-B57qkvQPub-G0Ac&start=10&sa=N&sstk=AagrsujaS2sYZhs1GBYT8cg67WDwA1gd43-YzMe1BlcN2IFt03qcoxIi6qrOEBg9JJMVipcKibt0bqt0wDb6G9NwM7txZelxN8Uvdg&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQ8NMDegUImQEQFg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=apple&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=hhcKZ8O-B57qkvQPub-G0Ac&start=10&sa=N&sstk=AagrsujaS2sYZhs1GBYT8cg67WDwA1gd43-YzMe1BlcN2IFt03qcoxIi6qrOEBg9JJMVipcKibt0bqt0wDb6G9NwM7txZelxN8Uvdg&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQ8tMDegUImQEQBA",
+      "3": "https://www.google.com/search?q=apple&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=hhcKZ8O-B57qkvQPub-G0Ac&start=20&sa=N&sstk=AagrsujaS2sYZhs1GBYT8cg67WDwA1gd43-YzMe1BlcN2IFt03qcoxIi6qrOEBg9JJMVipcKibt0bqt0wDb6G9NwM7txZelxN8Uvdg&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQ8tMDegUImQEQBg",
+      "4": "https://www.google.com/search?q=apple&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=hhcKZ8O-B57qkvQPub-G0Ac&start=30&sa=N&sstk=AagrsujaS2sYZhs1GBYT8cg67WDwA1gd43-YzMe1BlcN2IFt03qcoxIi6qrOEBg9JJMVipcKibt0bqt0wDb6G9NwM7txZelxN8Uvdg&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQ8tMDegUImQEQCA",
+      "5": "https://www.google.com/search?q=apple&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=hhcKZ8O-B57qkvQPub-G0Ac&start=40&sa=N&sstk=AagrsujaS2sYZhs1GBYT8cg67WDwA1gd43-YzMe1BlcN2IFt03qcoxIi6qrOEBg9JJMVipcKibt0bqt0wDb6G9NwM7txZelxN8Uvdg&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQ8tMDegUImQEQCg",
+      "6": "https://www.google.com/search?q=apple&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=hhcKZ8O-B57qkvQPub-G0Ac&start=50&sa=N&sstk=AagrsujaS2sYZhs1GBYT8cg67WDwA1gd43-YzMe1BlcN2IFt03qcoxIi6qrOEBg9JJMVipcKibt0bqt0wDb6G9NwM7txZelxN8Uvdg&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQ8tMDegUImQEQDA",
+      "7": "https://www.google.com/search?q=apple&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=hhcKZ8O-B57qkvQPub-G0Ac&start=60&sa=N&sstk=AagrsujaS2sYZhs1GBYT8cg67WDwA1gd43-YzMe1BlcN2IFt03qcoxIi6qrOEBg9JJMVipcKibt0bqt0wDb6G9NwM7txZelxN8Uvdg&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQ8tMDegUImQEQDg",
+      "8": "https://www.google.com/search?q=apple&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=hhcKZ8O-B57qkvQPub-G0Ac&start=70&sa=N&sstk=AagrsujaS2sYZhs1GBYT8cg67WDwA1gd43-YzMe1BlcN2IFt03qcoxIi6qrOEBg9JJMVipcKibt0bqt0wDb6G9NwM7txZelxN8Uvdg&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQ8tMDegUImQEQEA",
+      "9": "https://www.google.com/search?q=apple&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=hhcKZ8O-B57qkvQPub-G0Ac&start=80&sa=N&sstk=AagrsujaS2sYZhs1GBYT8cg67WDwA1gd43-YzMe1BlcN2IFt03qcoxIi6qrOEBg9JJMVipcKibt0bqt0wDb6G9NwM7txZelxN8Uvdg&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQ8tMDegUImQEQEg",
+      "10": "https://www.google.com/search?q=apple&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=hhcKZ8O-B57qkvQPub-G0Ac&start=90&sa=N&sstk=AagrsujaS2sYZhs1GBYT8cg67WDwA1gd43-YzMe1BlcN2IFt03qcoxIi6qrOEBg9JJMVipcKibt0bqt0wDb6G9NwM7txZelxN8Uvdg&ved=2ahUKEwjDmcnrm4iJAxUetYQIHbmfAXoQ8tMDegUImQEQFA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=apple&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=apple&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=apple&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=apple&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=apple&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=apple&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=apple&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=apple&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=apple&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=apple&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=apple&start=90"
+    }
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "search_metadata": {
+    "id": "670a1637e1d1aded60dce399",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/e6e8d17188341eea/670a1637e1d1aded60dce399.json",
+    "created_at": "2024-10-12 06:24:55 UTC",
+    "processed_at": "2024-10-12 06:24:56 UTC",
+    "google_url": "https://www.google.com/search?q=weinbrand+brandy&oq=weinbrand+brandy&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/e6e8d17188341eea/670a1637e1d1aded60dce399.html",
+    "total_time_taken": 0.89
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "weinbrand brandy",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "weinbrand brandy",
+    "total_results": 31300000,
+    "time_taken_displayed": 0.32,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What is the world's best brandy?",
+      "title": "The 14 Best Brandies to Drink - Liquor.com",
+      "link": "https://www.liquor.com/best-brandies-5071823",
+      "list": [
+        "Best Overall. Philbert Rare Cask Sherry Finish Cognac. ... ",
+        "Runner-Up Best Overall. Hennessy X.O Cognac. ... ",
+        "Best Armagnac. Darroze Les Grands Assemblages 40 Year Armagnac. ... ",
+        "Best Cognac. Hine Homage Cognac. ... ",
+        "Best for Summer. Augier L'Oc\u00e9anique Cognac. ... ",
+        "Best Budget. Deau VS Cognac. ... ",
+        "Best Under $50. Bertoux Brandy. ... ",
+        "Best for Sipping."
+      ],
+      "displayed_link": "https://www.liquor.com \u203a best-brandies-5071823",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa2h84XMy6ktbaJAjXvkiADQ5SzB6ic2PVaUum_6IKGQ&s",
+      "source_logo": "https://serpapi.com/searches/670a1637e1d1aded60dce399/images/e0edad4370db700d271d1cba00b8d3de4cbf7858e0154535784623bf8c05f475.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlRGcFFVM0pOTkd4aVF6TmZZVXBOVXpnNE5VdG1XR0pIUzJKc2MyMHlObkJzU1VWR2NIRnJSSGhWYVc5TlF6QnhSV0pKWmpGM2RreHhNM0JtVDB4RmRISlpVRXh3RWhkUFFsbExXbDk1YVVaTlVGbDNZbXRRZERsWFVHMUJZeG9pUVVaWWNrVmpjRlU0UkVweVZucEpOalpwY1ZWNmJtVm5ZMjgyTWt0YWVqVkpRUSIsImZjdiI6IjMiLCJlaSI6Ik9CWUtaX3lpRk1QWXdia1B0OVdQbUFjIiwicWMiOiJjLU1TS0VfTnpFc3FTc3hMVVFDVGxRSU10U2N1aTlvREFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSB3b3JsZCdzIGJlc3QgYnJhbmR5PyIsImxrIjoiR2g5M2FHRjBJR2x6SUhSb1pTQjNiM0pzWkNkeklHSmxjM1FnWW5KaGJtUjUiLCJicyI6ImMtUHk0RklJejBnc1VjZ3NWaWpKU0ZVb3p5X0tTVkV2VmtoS0xTNVJTQ3BLekV1cHRKZFlVRzZrS0NWZmpsOFpseHVYUE5pa3hLSlVzQm9UaFpMS2d0UmloZncwdUVFemdvMFVwT1RLOGFyaWN1QlNRblpSV21KdWZtbXhnbTlxUldaeVloN2NxT1p5STNFcFVhaGtMb29rbHhXWHBHY3hsS09RcUpDY2tacFlvSkNUV1ZpYVgyUXZNVG5NU0VwS0loT0h2QUFqQUEiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlRGcFFVM0pOTkd4aVF6TmZZVXBOVXpnNE5VdG1XR0pIUzJKc2MyMHlObkJzU1VWR2NIRnJSSGhWYVc5TlF6QnhSV0pKWmpGM2RreHhNM0JtVDB4RmRISlpVRXh3RWhkUFFsbExXbDk1YVVaTlVGbDNZbXRRZERsWFVHMUJZeG9pUVVaWWNrVmpjRlU0UkVweVZucEpOalpwY1ZWNmJtVm5ZMjgyTWt0YWVqVkpRUSIsImZjdiI6IjMiLCJlaSI6Ik9CWUtaX3lpRk1QWXdia1B0OVdQbUFjIiwicWMiOiJjLU1TS0VfTnpFc3FTc3hMVVFDVGxRSU10U2N1aTlvREFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSB3b3JsZCdzIGJlc3QgYnJhbmR5PyIsImxrIjoiR2g5M2FHRjBJR2x6SUhSb1pTQjNiM0pzWkNkeklHSmxjM1FnWW5KaGJtUjUiLCJicyI6ImMtUHk0RklJejBnc1VjZ3NWaWpKU0ZVb3p5X0tTVkV2VmtoS0xTNVJTQ3BLekV1cHRKZFlVRzZrS0NWZmpsOFpseHVYUE5pa3hLSlVzQm9UaFpMS2d0UmloZncwdUVFemdvMFVwT1RLOGFyaWN1QlNRblpSV21KdWZtbXhnbTlxUldaeVloN2NxT1p5STNFcFVhaGtMb29rbHhXWHBHY3hsS09RcUpDY2tacFlvSkNUV1ZpYVgyUXZNVG5NU0VwS0loT0h2QUFqQUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+    },
+    {
+      "question": "What are the 4 types of brandy?",
+      "snippet": "It's also one of the most confusing because it's made all over the world from a wide range of raw materials, primarily, fermented fruit juice.\u201d The vast majority of brandies though are distilled either from grapes (Spanish brandy, Cognac, Armagnac, Pisco) or apple (and pear) ciders (Calvados, applejack, apple brandy).",
+      "title": "Types of brandy \u2013 Taste, Origins and pairings - Lustau",
+      "date": "May 6, 2023",
+      "link": "https://lustau.es/en/blog/types-of-brandy-taste-origins-and-pairings/#:~:text=It's%20also%20one%20of%20the,%2C%20applejack%2C%20apple%20brandy).",
+      "displayed_link": "https://lustau.es \u203a blog \u203a types-of-brandy-taste-origins-an...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYKZyAC_jvA_KxI9qjuoI1t7tI-n56zRy-f4cv60qFvg&s",
+      "source_logo": "https://serpapi.com/searches/670a1637e1d1aded60dce399/images/e0edad4370db700d271d1cba00b8d3de4754c20692b204a2485a4cc00a5e08da.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlRGcFFVM0pOTkd4aVF6TmZZVXBOVXpnNE5VdG1XR0pIUzJKc2MyMHlObkJzU1VWR2NIRnJSSGhWYVc5TlF6QnhSV0pKWmpGM2RreHhNM0JtVDB4RmRISlpVRXh3RWhkUFFsbExXbDk1YVVaTlVGbDNZbXRRZERsWFVHMUJZeG9pUVVaWWNrVmpjRlU0UkVweVZucEpOalpwY1ZWNmJtVm5ZMjgyTWt0YWVqVkpRUSIsImZjdiI6IjMiLCJlaSI6Ik9CWUtaX3lpRk1QWXdia1B0OVdQbUFjIiwicWMiOiJjLU1TS0VfTnpFc3FTc3hMVVFDVGxRSU10U2N1aTlvREFBIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgNCB0eXBlcyBvZiBicmFuZHk/IiwibGsiOiJHaDUzYUdGMElHRnlaU0IwYUdVZ05DQjBlWEJsY3lCdlppQmljbUZ1WkhrIiwiYnMiOiJjLVB5NEZJSXowZ3NVY2dzVmlqSlNGVW96eV9LU1ZFdlZraEtMUzVSU0NwS3pFdXB0SmRZVUc2a0tDVmZqbDhabHh1WFBOaWt4S0pVc0JvVGhaTEtndFJpaGZ3MHVFRXpnbzBVcE9USzhhcmljdUJTUW5aUldtSnVmbW14Z205cVJXWnlZaDdjcU9aeUkzRXBVYWhrTG9va2x4V1hwR2N4bEtPUXFKQ2NrWnBZb0pDVFdWaWFYMlF2TVRuTVNFcEtJaE9IdkFBakFBIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlRGcFFVM0pOTkd4aVF6TmZZVXBOVXpnNE5VdG1XR0pIUzJKc2MyMHlObkJzU1VWR2NIRnJSSGhWYVc5TlF6QnhSV0pKWmpGM2RreHhNM0JtVDB4RmRISlpVRXh3RWhkUFFsbExXbDk1YVVaTlVGbDNZbXRRZERsWFVHMUJZeG9pUVVaWWNrVmpjRlU0UkVweVZucEpOalpwY1ZWNmJtVm5ZMjgyTWt0YWVqVkpRUSIsImZjdiI6IjMiLCJlaSI6Ik9CWUtaX3lpRk1QWXdia1B0OVdQbUFjIiwicWMiOiJjLU1TS0VfTnpFc3FTc3hMVVFDVGxRSU10U2N1aTlvREFBIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgNCB0eXBlcyBvZiBicmFuZHk%2FIiwibGsiOiJHaDUzYUdGMElHRnlaU0IwYUdVZ05DQjBlWEJsY3lCdlppQmljbUZ1WkhrIiwiYnMiOiJjLVB5NEZJSXowZ3NVY2dzVmlqSlNGVW96eV9LU1ZFdlZraEtMUzVSU0NwS3pFdXB0SmRZVUc2a0tDVmZqbDhabHh1WFBOaWt4S0pVc0JvVGhaTEtndFJpaGZ3MHVFRXpnbzBVcE9USzhhcmljdUJTUW5aUldtSnVmbW14Z205cVJXWnlZaDdjcU9aeUkzRXBVYWhrTG9va2x4V1hwR2N4bEtPUXFKQ2NrWnBZb0pDVFdWaWFYMlF2TVRuTVNFcEtJaE9IdkFBakFBIiwiaWQiOiJmY18xIn0%3D"
+    },
+    {
+      "question": "What is the famous Mexican brandy?",
+      "snippet": "Azteca De Oro: Probably the highest revered brandy coming from Mexico, comes across with present oak and woody notes, certain cognac character, dried fruits and vanilla.",
+      "title": "Azteca de Oro, Don Pedro Reserva and Presidente Solera : r/Brandy",
+      "date": "Mar 3, 2023",
+      "link": "https://www.reddit.com/r/Brandy/comments/11gqtph/tasting_notes_for_casa_domecq_mexican_brandies/#:~:text=Azteca%20De%20Oro%3A%20Probably%20the,character%2C%20dried%20fruits%20and%20vanilla.",
+      "displayed_link": "https://www.reddit.com \u203a Brandy \u203a comments \u203a tasting_...",
+      "source_logo": "https://serpapi.com/searches/670a1637e1d1aded60dce399/images/e0edad4370db700d271d1cba00b8d3de041e9f2ac6e4c57afa27e812f8372235.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlRGcFFVM0pOTkd4aVF6TmZZVXBOVXpnNE5VdG1XR0pIUzJKc2MyMHlObkJzU1VWR2NIRnJSSGhWYVc5TlF6QnhSV0pKWmpGM2RreHhNM0JtVDB4RmRISlpVRXh3RWhkUFFsbExXbDk1YVVaTlVGbDNZbXRRZERsWFVHMUJZeG9pUVVaWWNrVmpjRlU0UkVweVZucEpOalpwY1ZWNmJtVm5ZMjgyTWt0YWVqVkpRUSIsImZjdiI6IjMiLCJlaSI6Ik9CWUtaX3lpRk1QWXdia1B0OVdQbUFjIiwicWMiOiJjLU1TS0VfTnpFc3FTc3hMVVFDVGxRSU10U2N1aTlvREFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBmYW1vdXMgTWV4aWNhbiBicmFuZHk/IiwibGsiOiJHaFZtWVcxdmRYTWdiV1Y0YVdOaGJpQmljbUZ1WkhrIiwiYnMiOiJjLVB5NEZJSXowZ3NVY2dzVmlqSlNGVW96eV9LU1ZFdlZraEtMUzVSU0NwS3pFdXB0SmRZVUc2a0tDVmZqbDhabHh1WFBOaWt4S0pVc0JvVGhaTEtndFJpaGZ3MHVFRXpnbzBVcE9USzhhcmljdUJTUW5aUldtSnVmbW14Z205cVJXWnlZaDdjcU9aeUkzRXBVYWhrTG9va2x4V1hwR2N4bEtPUXFKQ2NrWnBZb0pDVFdWaWFYMlF2TVRuTVNFcEtJaE9IdkFBakFBIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlRGcFFVM0pOTkd4aVF6TmZZVXBOVXpnNE5VdG1XR0pIUzJKc2MyMHlObkJzU1VWR2NIRnJSSGhWYVc5TlF6QnhSV0pKWmpGM2RreHhNM0JtVDB4RmRISlpVRXh3RWhkUFFsbExXbDk1YVVaTlVGbDNZbXRRZERsWFVHMUJZeG9pUVVaWWNrVmpjRlU0UkVweVZucEpOalpwY1ZWNmJtVm5ZMjgyTWt0YWVqVkpRUSIsImZjdiI6IjMiLCJlaSI6Ik9CWUtaX3lpRk1QWXdia1B0OVdQbUFjIiwicWMiOiJjLU1TS0VfTnpFc3FTc3hMVVFDVGxRSU10U2N1aTlvREFBIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBmYW1vdXMgTWV4aWNhbiBicmFuZHk%2FIiwibGsiOiJHaFZtWVcxdmRYTWdiV1Y0YVdOaGJpQmljbUZ1WkhrIiwiYnMiOiJjLVB5NEZJSXowZ3NVY2dzVmlqSlNGVW96eV9LU1ZFdlZraEtMUzVSU0NwS3pFdXB0SmRZVUc2a0tDVmZqbDhabHh1WFBOaWt4S0pVc0JvVGhaTEtndFJpaGZ3MHVFRXpnbzBVcE9USzhhcmljdUJTUW5aUldtSnVmbW14Z205cVJXWnlZaDdjcU9aeUkzRXBVYWhrTG9va2x4V1hwR2N4bEtPUXFKQ2NrWnBZb0pDVFdWaWFYMlF2TVRuTVNFcEtJaE9IdkFBakFBIiwiaWQiOiJmY18xIn0%3D"
+    },
+    {
+      "question": "Is brandy a cheap liquor?",
+      "snippet": "Some categories (rum, vodka) run a little less expensive for the target quality; some run pricier, like mezcal and brandy.",
+      "title": "Home Bar Staples: Brandy - Herzog Cocktail School",
+      "date": "Feb 10, 2024",
+      "link": "https://www.herzogcocktailschool.com/recipe-blog/2024/2/10/home-bar-staples-brandy#:~:text=Some%20categories%20(rum%2C%20vodka),pricier%2C%20like%20mezcal%20and%20brandy.",
+      "displayed_link": "https://www.herzogcocktailschool.com \u203a recipe-blog \u203a h...",
+      "source_logo": "https://serpapi.com/searches/670a1637e1d1aded60dce399/images/e0edad4370db700d271d1cba00b8d3dea8754d950ab8bdee0a8a078ddd17dc95.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlRGcFFVM0pOTkd4aVF6TmZZVXBOVXpnNE5VdG1XR0pIUzJKc2MyMHlObkJzU1VWR2NIRnJSSGhWYVc5TlF6QnhSV0pKWmpGM2RreHhNM0JtVDB4RmRISlpVRXh3RWhkUFFsbExXbDk1YVVaTlVGbDNZbXRRZERsWFVHMUJZeG9pUVVaWWNrVmpjRlU0UkVweVZucEpOalpwY1ZWNmJtVm5ZMjgyTWt0YWVqVkpRUSIsImZjdiI6IjMiLCJlaSI6Ik9CWUtaX3lpRk1QWXdia1B0OVdQbUFjIiwicWMiOiJjLU1TS0VfTnpFc3FTc3hMVVFDVGxRSU10U2N1aTlvREFBIiwicXVlc3Rpb24iOiJJcyBicmFuZHkgYSBjaGVhcCBsaXF1b3I/IiwibGsiOiJHaGhwY3lCaWNtRnVaSGtnWVNCamFHVmhjQ0JzYVhGMWIzSSIsImJzIjoiYy1QeTRGSUl6MGdzVWNnc1ZpakpTRlVvenlfS1NWRXZWa2hLTFM1UlNDcEt6RXVwdEpkWVVHNmtLQ1Zmamw4Wmx4dVhQTmlreEtKVXNCb1RoWkxLZ3RSaWhmdzB1RUV6Z28wVXBPVEs4YXJpY3VCU1FuWlJXbUp1Zm1teGdtOXFSV1p5WWg3Y3FPWnlJM0VwVWFoa0xvb2tseFdYcEdjeGxLT1FxSkNja1pwWW9KQ1RXVmlhWDJRdk1Ubk1TRXBLSWhPSHZBQWpBQSIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TlRGcFFVM0pOTkd4aVF6TmZZVXBOVXpnNE5VdG1XR0pIUzJKc2MyMHlObkJzU1VWR2NIRnJSSGhWYVc5TlF6QnhSV0pKWmpGM2RreHhNM0JtVDB4RmRISlpVRXh3RWhkUFFsbExXbDk1YVVaTlVGbDNZbXRRZERsWFVHMUJZeG9pUVVaWWNrVmpjRlU0UkVweVZucEpOalpwY1ZWNmJtVm5ZMjgyTWt0YWVqVkpRUSIsImZjdiI6IjMiLCJlaSI6Ik9CWUtaX3lpRk1QWXdia1B0OVdQbUFjIiwicWMiOiJjLU1TS0VfTnpFc3FTc3hMVVFDVGxRSU10U2N1aTlvREFBIiwicXVlc3Rpb24iOiJJcyBicmFuZHkgYSBjaGVhcCBsaXF1b3I%2FIiwibGsiOiJHaGhwY3lCaWNtRnVaSGtnWVNCamFHVmhjQ0JzYVhGMWIzSSIsImJzIjoiYy1QeTRGSUl6MGdzVWNnc1ZpakpTRlVvenlfS1NWRXZWa2hLTFM1UlNDcEt6RXVwdEpkWVVHNmtLQ1Zmamw4Wmx4dVhQTmlreEtKVXNCb1RoWkxLZ3RSaWhmdzB1RUV6Z28wVXBPVEs4YXJpY3VCU1FuWlJXbUp1Zm1teGdtOXFSV1p5WWg3Y3FPWnlJM0VwVWFoa0xvb2tseFdYcEdjeGxLT1FxSkNja1pwWW9KQ1RXVmlhWDJRdk1Ubk1TRXBLSWhPSHZBQWpBQSIsImlkIjoiZmNfMSJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Brandy/Weinbrand",
+      "link": "https://www.oiv.int/standards/international-code-of-oenological-practices/part-i-definitions/spirits%2C-alcohols-and-spirit-beverages-of-vitinicultural-origin/brandy/weinbrand",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oiv.int/standards/international-code-of-oenological-practices/part-i-definitions/spirits%252C-alcohols-and-spirit-beverages-of-vitinicultural-origin/brandy/weinbrand&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQFnoECBMQAQ",
+      "displayed_link": "https://www.oiv.int \u203a standards \u203a part-i-definitions \u203a wei...",
+      "favicon": "https://serpapi.com/searches/670a1637e1d1aded60dce399/images/d75588ed9ce503dd62cbfa86cd80985e44e6cb13e5c19e460e4fe50a53324b7f.png",
+      "snippet": "I.7.6 Brandy/ Weinbrand. A spirit beverage obtained exclusively by the distillation of wine, fortified wine, wine possibly with the addition of wine ...",
+      "snippet_highlighted_words": [
+        "Brandy",
+        "Weinbrand"
+      ],
+      "source": "OIV"
+    },
+    {
+      "position": 2,
+      "title": "Brandy / Weinbrand",
+      "link": "https://responsibledrinking.eu/drink/brandy-weinbrand/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://responsibledrinking.eu/drink/brandy-weinbrand/&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQFnoECBIQAQ",
+      "displayed_link": "https://responsibledrinking.eu \u203a drink \u203a brandy-weinbrand",
+      "favicon": "https://serpapi.com/searches/670a1637e1d1aded60dce399/images/d75588ed9ce503dd62cbfa86cd80985e6bd57373e15043b72fe12fde881b3c90.png",
+      "snippet": "Brandy or weinbrand is produced from wine spirit to which wine distillate may be added, as long as the latter (a) has been distilled at less than 94.8% vol. and ...",
+      "snippet_highlighted_words": [
+        "Brandy",
+        "weinbrand"
+      ],
+      "source": "responsibledrinking.eu"
+    },
+    {
+      "position": 3,
+      "title": "Chantre Weinbrand (brandy) 1.0l - worldwidespirits",
+      "link": "https://www.worldwidespirits.com/spirits-liqueurs/brandy/1773/chantre-brandy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.worldwidespirits.com/spirits-liqueurs/brandy/1773/chantre-brandy&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQFnoECBsQAQ",
+      "displayed_link": "https://www.worldwidespirits.com \u203a ... \u203a Brandy",
+      "favicon": "https://serpapi.com/searches/670a1637e1d1aded60dce399/images/d75588ed9ce503dd62cbfa86cd80985eaac73f9ec0af7ddd32fedb2873fdbfec.png",
+      "snippet": "Chantre Weinbrand 1,0l 36% vol. read more \u20ac13.95 * Content: 1 Liter Prices incl. VAT plus shipping costs Shipping weight: 2 kg Spend an additional 150,00 \u20ac to ...",
+      "snippet_highlighted_words": [
+        "Weinbrand"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 13.95,
+            "currency": "\u20ac",
+            "unknown": 14
+          },
+          "extensions": [
+            "\u20ac13.95",
+            "\u200e14",
+            "day returns"
+          ]
+        }
+      },
+      "source": "worldwidespirits.com"
+    },
+    {
+      "position": 4,
+      "title": "Chantre Weinbrand, Germany | prices, reviews, stores & ...",
+      "link": "https://www.wine-searcher.com/find/chantre+brandy+germany?srsltid=AfmBOop64af4gnZ5IsuYWzvKufOsuYG2egZTC1TeSYKpBja79QS4JBg1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wine-searcher.com/find/chantre%2Bbrandy%2Bgermany%3Fsrsltid%3DAfmBOop64af4gnZ5IsuYWzvKufOsuYG2egZTC1TeSYKpBja79QS4JBg1&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQFnoECBYQAQ",
+      "displayed_link": "https://www.wine-searcher.com \u203a find \u203a chantre+brandy...",
+      "thumbnail": "https://serpapi.com/searches/670a1637e1d1aded60dce399/images/d75588ed9ce503dd62cbfa86cd80985ebae3f564de46e484651fb55bbedf74de.jpeg",
+      "favicon": "https://serpapi.com/searches/670a1637e1d1aded60dce399/images/d75588ed9ce503dd62cbfa86cd80985e4e517ee54ea1f3170682c28579521c34.png",
+      "snippet": "Find the best local price for Chantre Weinbrand, Germany. Avg Price (ex-tax) $10 / 750ml. Find and shop from stores and merchants near you.",
+      "snippet_highlighted_words": [
+        "Weinbrand"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 25,
+            "currency": "$ \u2013 day delivery"
+          },
+          "extensions": [
+            "$8 to $13",
+            "\u200e$25 2\u201310 day delivery"
+          ]
+        }
+      },
+      "source": "Wine-Searcher"
+    },
+    {
+      "position": 5,
+      "title": "Brandy Filled Chocolates, Weinbrand Bohnen, 5.2 oz",
+      "link": "https://www.parthenonfoods.com/products/brandy-filled-chocolates-weinbrand-bohnen-5-2-oz",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.parthenonfoods.com/products/brandy-filled-chocolates-weinbrand-bohnen-5-2-oz&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQFnoECEMQAQ",
+      "displayed_link": "https://www.parthenonfoods.com \u203a products \u203a brandy-fil...",
+      "thumbnail": "https://serpapi.com/searches/670a1637e1d1aded60dce399/images/d75588ed9ce503dd62cbfa86cd80985ec0d8bce175ebc75ae8129561eaa3a993.jpeg",
+      "favicon": "https://serpapi.com/searches/670a1637e1d1aded60dce399/images/d75588ed9ce503dd62cbfa86cd80985ea7804ef7bd9cae27bc5ae7aa683eaab8.png",
+      "snippet": "\"Naughty and nice\" describe these exquisite pieces of indulgence which are for adults only, as they are made with dark chocolate and contain real German brandy.",
+      "snippet_highlighted_words": [
+        "brandy"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 5,
+            "price": 27.99,
+            "currency": "$"
+          },
+          "extensions": [
+            "4.8(5)",
+            "$5.99",
+            "\u200e$27.99 7",
+            "day delivery",
+            "\u200e5",
+            "day returns",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Parthenon Foods"
+    },
+    {
+      "position": 6,
+      "title": "Asbach 'Spezialbrand' 15 Jahre Gereift Weinbrand Germany",
+      "link": "https://thewineconnection.com/products/asbach-spezialbrand-15-jahre-gereift-weinbrand-germany?srsltid=AfmBOorzaEaib8Iv3J9tIYzNu_DHP4oOATVfT2fih_N5F72F36JJbbM_",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thewineconnection.com/products/asbach-spezialbrand-15-jahre-gereift-weinbrand-germany%3Fsrsltid%3DAfmBOorzaEaib8Iv3J9tIYzNu_DHP4oOATVfT2fih_N5F72F36JJbbM_&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQFnoECD4QAQ",
+      "displayed_link": "https://thewineconnection.com \u203a products \u203a asbach-spez...",
+      "thumbnail": "https://serpapi.com/searches/670a1637e1d1aded60dce399/images/d75588ed9ce503dd62cbfa86cd80985e01bbab8a5a8928e0bd099b6cc47d2ef5.jpeg",
+      "favicon": "https://serpapi.com/searches/670a1637e1d1aded60dce399/images/d75588ed9ce503dd62cbfa86cd80985eb1a8675d6a7a32fb1408d2eeda7de501.png",
+      "snippet": "Particularly carefully selected distillates from the best vineyards and aged for at least 15 years in Limousine oak barrels are the basis for the Asbach special ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 33.15,
+            "currency": "$",
+            "free": 30
+          },
+          "extensions": [
+            "$99.99",
+            "\u200e$33.15 4",
+            "day delivery",
+            "\u200eFree 30",
+            "day returns",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "The Wine Connection"
+    },
+    {
+      "position": 7,
+      "title": "Noris Runder Voller Weinbrand Noris Round Full Brandy ...",
+      "link": "https://www.ebay.com/itm/114786959794",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ebay.com/itm/114786959794&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQFnoECD0QAQ",
+      "displayed_link": "https://www.ebay.com \u203a ... \u203a Liquor",
+      "thumbnail": "https://serpapi.com/searches/670a1637e1d1aded60dce399/images/d75588ed9ce503dd62cbfa86cd80985e2e03174cfa209c7e122c49b0283e2b71.jpeg",
+      "favicon": "https://serpapi.com/searches/670a1637e1d1aded60dce399/images/d75588ed9ce503dd62cbfa86cd80985e1f432bfd8200246f863fe8cff7977623.png",
+      "snippet": "Bottle is used but in good condition.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 5.1,
+            "currency": "$"
+          },
+          "extensions": [
+            "$4.00",
+            "\u200e$5.10 5",
+            "day delivery",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "eBay"
+    },
+    {
+      "position": 8,
+      "title": "Riegelein \"Weinbrand\" Praline Brandy Barrels, 3.5 oz",
+      "link": "https://www.thetasteofgermany.com/riegelein-weinbrand-praline-brandy-barrels-3-5-oz/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thetasteofgermany.com/riegelein-weinbrand-praline-brandy-barrels-3-5-oz/&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQFnoECD8QAQ",
+      "displayed_link": "https://www.thetasteofgermany.com \u203a riegelein-weinbran...",
+      "thumbnail": "https://serpapi.com/searches/670a1637e1d1aded60dce399/images/d75588ed9ce503dd62cbfa86cd80985e5e0dfbc6aa3d17113640af6150b5d42f.jpeg",
+      "favicon": "https://serpapi.com/searches/670a1637e1d1aded60dce399/images/d75588ed9ce503dd62cbfa86cd80985e2957b67583cf7ac9d502e05388d1db25.png",
+      "snippet": "These delicious Riegelein liqueur-filled dark chocolate barrel ornaments are a real treat for the holidays. Each dark chocolate barrel contains a unique ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 100,
+            "currency": "$ \u2013 day delivery"
+          },
+          "extensions": [
+            "$4.95",
+            "\u200e$100 4\u20139 day delivery",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "The Taste of Germany"
+    },
+    {
+      "position": 9,
+      "title": "Weinbrand - Wiktionary, the free dictionary",
+      "link": "https://en.wiktionary.org/wiki/Weinbrand",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wiktionary.org/wiki/Weinbrand&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQFnoECDoQAQ",
+      "displayed_link": "https://en.wiktionary.org \u203a wiki \u203a Weinbrand",
+      "favicon": "https://serpapi.com/searches/670a1637e1d1aded60dce399/images/d75588ed9ce503dd62cbfa86cd80985e78f666115929204c27b6b8330ddfa537.jpeg",
+      "snippet": "Weinbrand m (strong, genitive Weinbrandes or Weinbrands, plural Weinbr\u00e4nde) brandy (drink made from distilled wine)",
+      "snippet_highlighted_words": [
+        "Weinbrand",
+        "Weinbrands",
+        "brandy"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "German",
+            "link": "https://en.wiktionary.org/wiki/Weinbrand#German"
+          },
+          {
+            "title": "Noun",
+            "link": "https://en.wiktionary.org/wiki/Weinbrand#Noun"
+          }
+        ]
+      },
+      "source": "Wiktionary"
+    },
+    {
+      "position": 10,
+      "title": "April \"Wine\" Pick: Asbach Uralt Weinbrand (German Brandy)",
+      "link": "https://www.thewinestalker.net/2016/04/asbach.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thewinestalker.net/2016/04/asbach.html&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQFnoECEEQAQ",
+      "displayed_link": "https://www.thewinestalker.net \u203a 2016/04 \u203a asbach",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbcD7UPyo9xJ9BVYbQpG6BeuKbS7m1sOIhCx1ZcBBocZ0B4TnigVoyXg&s",
+      "favicon": "https://serpapi.com/searches/670a1637e1d1aded60dce399/images/d75588ed9ce503dd62cbfa86cd80985efc63fcd5aee808c094d0e2b80fb89342.png",
+      "date": "Apr 1, 2016",
+      "snippet": "It's got a wonderful gold color with a red hue. There's a nutty Sherry-like character on the nose along with apricots and caramel. It's heavy in ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 27.0,
+            "currency": "$"
+          },
+          "extensions": [
+            "$27.00"
+          ]
+        }
+      },
+      "source": "The Wine Stalker"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Weinbrand brandy where to buy",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Weinbrand+brandy+where+to+buy&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Weinbrand+brandy+where+to+buy"
+    },
+    {
+      "block_position": 1,
+      "query": "Weinbrand brandy price",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Weinbrand+brandy+price&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Weinbrand+brandy+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Weinbrand brandy near me",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Weinbrand+brandy+near+me&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Weinbrand+brandy+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Weinbrand brandy review",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Weinbrand+brandy+review&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Weinbrand+brandy+review"
+    },
+    {
+      "block_position": 1,
+      "query": "Chantre Brandy price",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Chantre+Brandy+price&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQ1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Chantre+Brandy+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Weinbrand brandy for sale",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Weinbrand+brandy+for+sale&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQ1QJ6BAhKEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Weinbrand+brandy+for+sale"
+    },
+    {
+      "block_position": 1,
+      "query": "Chantr\u00e9 Weinbrand",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Chantr%C3%A9+Weinbrand&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Chantr%C3%A9+Weinbrand"
+    },
+    {
+      "block_position": 1,
+      "query": "Chantre Weinbrand price in india",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Chantre+Weinbrand+price+in+india&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Chantre+Weinbrand+price+in+india"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=buy+weinbrand+brandy&shoprs=CAEYEioQd2VpbmJyYW5kIGJyYW5keTIHCBISA0J1eWAB&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQip4GKAB6BAgfEAM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=buy+weinbrand+brandy"
+    },
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=weinbrand+brandy+nearby&shoprs=CAEYAyoQd2VpbmJyYW5kIGJyYW5keTIMCAMSBk5lYXJieRgCWNuLIWAB&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQip4GKAF6BAgfEAQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=weinbrand+brandy+nearby"
+    },
+    {
+      "query": "Get it fast",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=weinbrand+brandy&shoprs=CAESDZoBCgoIEAM4AUACSAEYFCoQd2VpbmJyYW5kIGJyYW5keTIkCBQSC0dldCBpdCBmYXN0Ig2aAQoKCBADOAFAAkgBKgQQARgBYAE&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQip4GKAJ6BAgfEAU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=weinbrand+brandy"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=reviews+weinbrand+brandy&shoprs=CAEYEioQd2VpbmJyYW5kIGJyYW5keTILCBISB1Jldmlld3NgAQ&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQip4GKAN6BAgfEAY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=reviews+weinbrand+brandy"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=weinbrand+brandy+sale&shoprs=CAESBEoCGAEYBioQd2VpbmJyYW5kIGJyYW5keTITCAYSB09uIHNhbGUYAiIESgIYAVjbiyFgAQ&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQip4GKAR6BAgfEAc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=weinbrand+brandy+sale"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=weinbrand+brandy+for+sale&shoprs=CAEYEioQd2VpbmJyYW5kIGJyYW5keTIMCBISCEZvciBTYWxlYAE&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQip4GKAV6BAgfEAg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=weinbrand+brandy+for+sale"
+    },
+    {
+      "query": "Apple",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=apple+weinbrand+brandy&shoprs=CAEYASoQd2VpbmJyYW5kIGJyYW5keTIXCAESBUFwcGxlOgwIz4z8ARDQjPwBMABY24shYAE&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQip4GKAZ6BAgfEAk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=apple+weinbrand+brandy"
+    },
+    {
+      "query": "Under $15",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=weinbrand+brandy+under+$15&shoprs=CAESDRILEQAAAAA4nGxBGAEYBSoQd2VpbmJyYW5kIGJyYW5keTIiCAUSCVVuZGVyICQxNRgCIg0SCxEAAAAAOJxsQRgBKgIYAVjbiyFgAQ&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQip4GKAd6BAgfEAo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=weinbrand+brandy+under+%2415"
+    },
+    {
+      "query": "Usa",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=usa+weinbrand+brandy&shoprs=CAEYEioQd2VpbmJyYW5kIGJyYW5keTIHCBISA1VzYWAB&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQip4GKAh6BAgfEAs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=usa+weinbrand+brandy"
+    },
+    {
+      "query": "Online",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=online+weinbrand+brandy&shoprs=CAEYEioQd2VpbmJyYW5kIGJyYW5keTIKCBISBk9ubGluZWAB&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQip4GKAl6BAgfEAw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=online+weinbrand+brandy"
+    },
+    {
+      "query": "Vanilla",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=vanilla+weinbrand+brandy&shoprs=CAEYASoQd2VpbmJyYW5kIGJyYW5keTIZCAESB1ZhbmlsbGE6DAjPjPwBEMz9gQIwAFjbiyFgAQ&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQip4GKAp6BAgfEA0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=vanilla+weinbrand+brandy"
+    },
+    {
+      "query": "BevMo!",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=bevmo!+weinbrand+brandy&shoprs=CAEYAioQd2VpbmJyYW5kIGJyYW5keTIKCAISBkJldk1vIVjbiyFgAQ&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQip4GKAt6BAgfEA4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bevmo%21+weinbrand+brandy",
+      "thumbnail": "https://serpapi.com/searches/670a1637e1d1aded60dce399/images/23bd5baf73171e2bc7d192af128e7e04eb76265e81a1dc1ed8cfd793e7011ce4.png"
+    },
+    {
+      "query": "Peach",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=peach+weinbrand+brandy&shoprs=CAEYASoQd2VpbmJyYW5kIGJyYW5keTIXCAESBVBlYWNoOgwIz4z8ARDWjPwBMABY24shYAE&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQip4GKAx6BAgfEBA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=peach+weinbrand+brandy"
+    },
+    {
+      "query": "Store",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=store+weinbrand+brandy&shoprs=CAEYEioQd2VpbmJyYW5kIGJyYW5keTIJCBISBVN0b3JlYAE&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQip4GKA16BAgfEBE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=store+weinbrand+brandy"
+    },
+    {
+      "query": "Brand",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=brand+weinbrand+brandy&shoprs=CAEYEioQd2VpbmJyYW5kIGJyYW5keTIJCBISBUJyYW5kYAE&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQip4GKA56BAgfEBI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brand+weinbrand+brandy"
+    },
+    {
+      "query": "Walmart",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=walmart+weinbrand+brandy&shoprs=CAEYAioQd2VpbmJyYW5kIGJyYW5keTILCAISB1dhbG1hcnRY24shYAE&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQip4GKA96BAgfEBM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=walmart+weinbrand+brandy",
+      "thumbnail": "https://serpapi.com/searches/670a1637e1d1aded60dce399/images/23bd5baf73171e2bc7d192af128e7e0435387123f9d67ffe363e5151e4859450.png"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=price+weinbrand+brandy&shoprs=CAEYEioQd2VpbmJyYW5kIGJyYW5keTIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQip4GKBB6BAgfEBU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=price+weinbrand+brandy"
+    },
+    {
+      "query": "Recipe",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=recipe+weinbrand+brandy&shoprs=CAEYEioQd2VpbmJyYW5kIGJyYW5keTIKCBISBlJlY2lwZWAB&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQip4GKBF6BAgfEBY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=recipe+weinbrand+brandy"
+    },
+    {
+      "query": "Apricot",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=apricot+weinbrand+brandy&shoprs=CAEYASoQd2VpbmJyYW5kIGJyYW5keTIZCAESB0Fwcmljb3Q6DAjPjPwBENGM_AEwAFjbiyFgAQ&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQip4GKBJ6BAgfEBc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=apricot+weinbrand+brandy"
+    },
+    {
+      "query": "Plum",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=plum+weinbrand+brandy&shoprs=CAEYASoQd2VpbmJyYW5kIGJyYW5keTIWCAESBFBsdW06DAjPjPwBENeM_AEwAFjbiyFgAQ&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQip4GKBN6BAgfEBg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=plum+weinbrand+brandy"
+    },
+    {
+      "query": "Kosher",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=kosher+weinbrand+brandy&shoprs=CAEYASoQd2VpbmJyYW5kIGJyYW5keTIYCAESBktvc2hlcjoMCPHfhwEQ8t-HATADWNuLIWAB&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQip4GKBR6BAgfEBk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=kosher+weinbrand+brandy"
+    },
+    {
+      "query": "Organic",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=organic+weinbrand+brandy&shoprs=CAEYASoQd2VpbmJyYW5kIGJyYW5keTIZCAESB09yZ2FuaWM6DAi--YcBEL_5hwEwA1jbiyFgAQ&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQip4GKBV6BAgfEBo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=organic+weinbrand+brandy"
+    },
+    {
+      "query": "Free shipping",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=weinbrand+brandy+free+shipping&shoprs=CAESBFICEAEYGSoQd2VpbmJyYW5kIGJyYW5keTIXCBkSDUZyZWUgc2hpcHBpbmciBFICEAFgAQ&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQip4GKBZ6BAgfEBs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=weinbrand+brandy+free+shipping"
+    },
+    {
+      "query": "Small business",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=weinbrand+brandy&shoprs=CAESAmoAGBYqEHdlaW5icmFuZCBicmFuZHkyHAgWEg5TbWFsbCBidXNpbmVzcyICagAqBBABGAFgAQ&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQip4GKBd6BAgfEBw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=weinbrand+brandy"
+    },
+    {
+      "query": "Total Wine & More",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=total+wine+%26+more+weinbrand+brandy&shoprs=CAEYAioQd2VpbmJyYW5kIGJyYW5keTIVCAISEVRvdGFsIFdpbmUgJiBNb3JlWNuLIWAB&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQip4GKBh6BAgfEB0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=total+wine+%26+more+weinbrand+brandy",
+      "thumbnail": "https://serpapi.com/searches/670a1637e1d1aded60dce399/images/23bd5baf73171e2bc7d192af128e7e04d8ffcc589a945594061ee1e6839709a7.png"
+    },
+    {
+      "query": "eBay",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=ebay+weinbrand+brandy&shoprs=CAEYAioQd2VpbmJyYW5kIGJyYW5keTIICAISBGVCYXlY24shYAE&sa=X&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQip4GKBl6BAgfEB8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ebay+weinbrand+brandy",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ebay.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=weinbrand+brandy&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=OBYKZ_yiFMPYwbkPt9WPmAc&start=10&sa=N&sstk=Aagrsugq86L0xqawCejeu9CXALTBjvEBs1mbsfDWSH7HN6SM8J3tI2FUjttlvkfiYv5b5AiwRHKP9adtX8IVDKcsxIgjJ8A9zSzqeQ&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQ8NMDegQIBxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=weinbrand+brandy&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=OBYKZ_yiFMPYwbkPt9WPmAc&start=10&sa=N&sstk=Aagrsugq86L0xqawCejeu9CXALTBjvEBs1mbsfDWSH7HN6SM8J3tI2FUjttlvkfiYv5b5AiwRHKP9adtX8IVDKcsxIgjJ8A9zSzqeQ&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQ8tMDegQIBxAE",
+      "3": "https://www.google.com/search?q=weinbrand+brandy&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=OBYKZ_yiFMPYwbkPt9WPmAc&start=20&sa=N&sstk=Aagrsugq86L0xqawCejeu9CXALTBjvEBs1mbsfDWSH7HN6SM8J3tI2FUjttlvkfiYv5b5AiwRHKP9adtX8IVDKcsxIgjJ8A9zSzqeQ&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQ8tMDegQIBxAG",
+      "4": "https://www.google.com/search?q=weinbrand+brandy&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=OBYKZ_yiFMPYwbkPt9WPmAc&start=30&sa=N&sstk=Aagrsugq86L0xqawCejeu9CXALTBjvEBs1mbsfDWSH7HN6SM8J3tI2FUjttlvkfiYv5b5AiwRHKP9adtX8IVDKcsxIgjJ8A9zSzqeQ&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQ8tMDegQIBxAI",
+      "5": "https://www.google.com/search?q=weinbrand+brandy&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=OBYKZ_yiFMPYwbkPt9WPmAc&start=40&sa=N&sstk=Aagrsugq86L0xqawCejeu9CXALTBjvEBs1mbsfDWSH7HN6SM8J3tI2FUjttlvkfiYv5b5AiwRHKP9adtX8IVDKcsxIgjJ8A9zSzqeQ&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQ8tMDegQIBxAK",
+      "6": "https://www.google.com/search?q=weinbrand+brandy&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=OBYKZ_yiFMPYwbkPt9WPmAc&start=50&sa=N&sstk=Aagrsugq86L0xqawCejeu9CXALTBjvEBs1mbsfDWSH7HN6SM8J3tI2FUjttlvkfiYv5b5AiwRHKP9adtX8IVDKcsxIgjJ8A9zSzqeQ&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQ8tMDegQIBxAM",
+      "7": "https://www.google.com/search?q=weinbrand+brandy&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=OBYKZ_yiFMPYwbkPt9WPmAc&start=60&sa=N&sstk=Aagrsugq86L0xqawCejeu9CXALTBjvEBs1mbsfDWSH7HN6SM8J3tI2FUjttlvkfiYv5b5AiwRHKP9adtX8IVDKcsxIgjJ8A9zSzqeQ&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQ8tMDegQIBxAO",
+      "8": "https://www.google.com/search?q=weinbrand+brandy&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=OBYKZ_yiFMPYwbkPt9WPmAc&start=70&sa=N&sstk=Aagrsugq86L0xqawCejeu9CXALTBjvEBs1mbsfDWSH7HN6SM8J3tI2FUjttlvkfiYv5b5AiwRHKP9adtX8IVDKcsxIgjJ8A9zSzqeQ&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQ8tMDegQIBxAQ",
+      "9": "https://www.google.com/search?q=weinbrand+brandy&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=OBYKZ_yiFMPYwbkPt9WPmAc&start=80&sa=N&sstk=Aagrsugq86L0xqawCejeu9CXALTBjvEBs1mbsfDWSH7HN6SM8J3tI2FUjttlvkfiYv5b5AiwRHKP9adtX8IVDKcsxIgjJ8A9zSzqeQ&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQ8tMDegQIBxAS",
+      "10": "https://www.google.com/search?q=weinbrand+brandy&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=OBYKZ_yiFMPYwbkPt9WPmAc&start=90&sa=N&sstk=Aagrsugq86L0xqawCejeu9CXALTBjvEBs1mbsfDWSH7HN6SM8J3tI2FUjttlvkfiYv5b5AiwRHKP9adtX8IVDKcsxIgjJ8A9zSzqeQ&ved=2ahUKEwj8nrTMmoiJAxVDbDABHbfqA3MQ8tMDegQIBxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=weinbrand+brandy&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=weinbrand+brandy&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=weinbrand+brandy&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=weinbrand+brandy&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=weinbrand+brandy&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=weinbrand+brandy&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=weinbrand+brandy&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=weinbrand+brandy&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=weinbrand+brandy&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=weinbrand+brandy&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=weinbrand+brandy&start=90"
+    }
+  }
+}

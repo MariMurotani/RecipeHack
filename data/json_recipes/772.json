@@ -1,0 +1,736 @@
+{
+  "search_metadata": {
+    "id": "670a2f61d78a98b1e5378eb4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d29dab9fc45690c8/670a2f61d78a98b1e5378eb4.json",
+    "created_at": "2024-10-12 08:12:17 UTC",
+    "processed_at": "2024-10-12 08:12:17 UTC",
+    "google_url": "https://www.google.com/search?q=pastry&oq=pastry&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/d29dab9fc45690c8/670a2f61d78a98b1e5378eb4.html",
+    "total_time_taken": 1.48
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "pastry",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "pastry",
+    "total_results": 480000000,
+    "time_taken_displayed": 0.32,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "recipes_results": [
+    {
+      "title": "Amazing Pastry Dough Recipe",
+      "link": "https://pastrieslikeapro.com/amazing-pastry-dough-recipe/",
+      "source": "Pastries Like a Pro",
+      "rating": 5.0,
+      "reviews": 1,
+      "total_time": "2 hr 10 min",
+      "ingredients": [
+        "Sour cream",
+        "bread flour",
+        "egg",
+        "baking powder"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6327Ou19NGjPUwazrguotq90Xl6YSEqMeFf4cvs3ft8cXqNPLvIm8REk&s"
+    },
+    {
+      "title": "Quick & Easy Homemade Puff Pastry",
+      "link": "https://anitalianinmykitchen.com/puff-pastry/",
+      "source": "An Italian in my Kitchen",
+      "rating": 5.0,
+      "reviews": 698,
+      "total_time": "30 min",
+      "ingredients": [
+        "Brown sugar",
+        "apple",
+        "pear",
+        "mini chocolate chips",
+        "parmesan cheese"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQobG5y6R7pweQ2eSED98Py6vKUdd1M4i2tOca1ZSwHt4dsz44rh1VCb29g&s"
+    },
+    {
+      "title": "Handmade Puff Pastry (Rough Puff Method)",
+      "link": "https://sallysbakingaddiction.com/rough-puff-pastry/",
+      "source": "Sally's Baking Addiction",
+      "rating": 4.9,
+      "reviews": 28,
+      "total_time": "3 hr",
+      "ingredients": [
+        "All purpose flour"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw6fzgUdNmnOL7e46MCcJwMUUnWSTOJOKLWabqzAUUzCi9B49HMizyaoE&s"
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=pastry&npsic=0&rflfq=1&rldoc=1&rllag=30257890,-97748481,1342&tbm=lcl&sa=X&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQtgN6BAhAEAI",
+    "image": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/e527c01569e3370de9bf0f3183f426e3.png",
+    "gps_coordinates": {
+      "latitude": 30.25789,
+      "longitude": -97.748481
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.4,
+        "reviews_original": "(1.5K)",
+        "reviews": 1500,
+        "description": "\"Fantastic atmosphere, friendly staff, and delicious croissants!\"",
+        "lsig": "AB86z5Uq8THdQ7mSyU_nvfXr6r8p",
+        "thumbnail": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/6b3ba8830a5469f9fd16c83f9b4db9f8990f3d2b6f9ce403de32c2139a7ff5bf7f89d76f69bdc849.jpeg",
+        "title": "1886 Cafe & Bakery",
+        "type": "Bakery",
+        "address": "604 Brazos St",
+        "hours": "Closed \u22c5 Opens 6:30 AM",
+        "place_id": "9733524214709783913",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=9733524214709783913&q=pastry",
+        "gps_coordinates": {
+          "latitude": 30.268003,
+          "longitude": -97.74197
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.4,
+        "reviews_original": "(6.8K)",
+        "reviews": 6800,
+        "price": "$",
+        "description": "\"The real raspberry filling tasted natural and was not too sweet.\"",
+        "lsig": "AB86z5U3EjYUVdL2Kc9orJHl3wTL",
+        "thumbnail": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/6b3ba8830a5469f9fd16c83f9b4db9f82f9ae665d5efa2788c47be293a52c4caf158292ce1dc1f23.jpeg",
+        "title": "Voodoo Doughnut",
+        "type": "Donuts",
+        "address": "212 E 6th St",
+        "hours": "Closed \u22c5 Opens 6 AM",
+        "place_id": "9724422690476119100",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=9724422690476119100&q=pastry",
+        "gps_coordinates": {
+          "latitude": 30.267784,
+          "longitude": -97.74085
+        }
+      },
+      {
+        "position": 3,
+        "rating": 4.4,
+        "reviews_original": "(442)",
+        "reviews": 442,
+        "description": "\"Delicious, delicate French pastries, easy to order online, and lovely staff.\"",
+        "lsig": "AB86z5VW1qtgeFIG0HG106zdANR-",
+        "thumbnail": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/6b3ba8830a5469f9fd16c83f9b4db9f822e2d2db5faf03aa0a97085dd13960eadb65a393d7462b8f.jpeg",
+        "title": "La P\u00e2tisserie",
+        "type": "Patisserie",
+        "address": "602 W Annie St",
+        "hours": "Closed \u22c5 Opens 8 AM",
+        "place_id": "14783990991414598541",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=14783990991414598541&q=pastry",
+        "gps_coordinates": {
+          "latitude": 30.247778,
+          "longitude": -97.75611
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=pastry&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQjGp6BAhBEAE"
+  },
+  "knowledge_graph": {
+    "title": "Pastry",
+    "type": "Food",
+    "entity_type": "food, kp3_verticals",
+    "kgmid": "/m/0hnyx",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0hnyx&hl=en-US&q=Pastry",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0hnyx&location=Austin%2CTexas%2CUnited+States&q=Pastry",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/5d96ee8023ff0eb802bc0932bc911acadf468f41c4d5bf15a49b62a83a383ecf70bd660618e4b66b.jpeg",
+        "source": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQK5yZnwGnEuthsUzazDsE_NoCxaDCoFCTo1FWgXJw6-LpGsWHUIywD-qXX1zfvuxs4"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/5d96ee8023ff0eb802bc0932bc911acadf468f41c4d5bf15a9e7e0fd2839b2a0527baa06e4092306.jpeg",
+        "source": "https://bakerpedia.com/processes/pastry/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/5d96ee8023ff0eb802bc0932bc911acadf468f41c4d5bf1537fe6a9c7764fc15ca4feae5dac77389.jpeg",
+        "source": "https://www.piesandtacos.com/cream-cheese-puff-pastry/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/5d96ee8023ff0eb802bc0932bc911acadf468f41c4d5bf158b7c7e3004519eebea72f3235193e18b.jpeg",
+        "source": "https://ashbaber.com/3-ingredient-puff-pastry-croissants/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/5d96ee8023ff0eb802bc0932bc911acadf468f41c4d5bf150d178bc40f596e1544520f7022107cbc.jpeg",
+        "source": "https://www.eatingwell.com/puff-pastry-apple-turnovers-with-brown-butter-8386369"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/5d96ee8023ff0eb802bc0932bc911acadf468f41c4d5bf1582c54e85b99966c0c6e00d724cacf493.jpeg",
+        "source": "https://peanutbutterandjulie.com/french-napoleon-pastry-recipe/"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJVuPTQug1SrsGOh7iSO9wlX4VH-04utuWnf-GSSeS_A&s",
+        "source": "https://bakerbettie.com/easy-breakfast-pastries-for-valentines-day/"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAlLAMRLIwrEOOh4OEziUpmXj_I6F8ouy3NkWeC3HClw&s",
+        "source": "https://ourbalancedbowl.com/strawberry-and-cream-cheese-puff-pastry-tarts/"
+      }
+    ],
+    "description": "Pastry refers to a variety of doughs, as well as the sweet and savoury baked goods made from them. These goods are often called pastries as a synecdoche, and the dough may be accordingly called pastry dough for clarity. Sweetened pastries are often described as bakers' confectionery.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Pastry"
+    },
+    "sources_include": "USDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAPuff pastry, frozen156 Calories - 1 oz (28.4 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/167940/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/172754/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/167528/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/172765/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/172738/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/172790/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/175039/nutrients"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Cake",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm0lSuR-j7CTpqtNkTb9pUX75NOwkg1mZAS8TD1-Psb8aRJSYwhsMUtEHySDlqjSO7tfhCtOsYTLiS-b3HLE218l0gc4wLukxXU__Fbds_PLAURA7QM2EOJaa6j_sWcxgjaXwlRczaF0XoW3o9F8l3ET7mCV5ztJ0oW4--NnsmTXePpQag3yCYG-fiCsL-7wyBB47ghy6KYD_835EzUuN-L5UDSH265TreZNpOB8AVdjtU3J0fg%3D%3D&q=Cake&sa=X&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQs9oBKAB6BAg8EAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Cake&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm0lSuR-j7CTpqtNkTb9pUX75NOwkg1mZAS8TD1-Psb8aRJSYwhsMUtEHySDlqjSO7tfhCtOsYTLiS-b3HLE218l0gc4wLukxXU__Fbds_PLAURA7QM2EOJaa6j_sWcxgjaXwlRczaF0XoW3o9F8l3ET7mCV5ztJ0oW4--NnsmTXePpQag3yCYG-fiCsL-7wyBB47ghy6KYD_835EzUuN-L5UDSH265TreZNpOB8AVdjtU3J0fg%3D%3D",
+        "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTgBBHIqut6lRjts_UJ4w123fJ0cNv3b5qlSfYpavnyNMlJTuqqczL9yjOVZW7XPtVs4m0KFT7q&s=19"
+      },
+      {
+        "name": "Cookie",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm8QQxS7qPAKXFEUgEQfiMxz5QOTYX_aJJnygl1SreSSgwKJrPK1uc1cvW8voUaZAKQGJQ8C572Q3iTJZ4eEpFWyLsliAhMx-Bef65FORjzGjbIdHb94A7ZliMFKqpqUGVEHiwtNtFAszCPz_5JdIL_TtR4n9Yhg4QsnofJuvADxNBnq1Wq6bQwNAJdlny6GSJz4X5x4uKH97AOJ0g4L5CuHaSqAVpHYJYeT3CRVfPjV_4EUS9A%3D%3D&q=Cookie&sa=X&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQs9oBKAB6BAg8EAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Cookie&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm8QQxS7qPAKXFEUgEQfiMxz5QOTYX_aJJnygl1SreSSgwKJrPK1uc1cvW8voUaZAKQGJQ8C572Q3iTJZ4eEpFWyLsliAhMx-Bef65FORjzGjbIdHb94A7ZliMFKqpqUGVEHiwtNtFAszCPz_5JdIL_TtR4n9Yhg4QsnofJuvADxNBnq1Wq6bQwNAJdlny6GSJz4X5x4uKH97AOJ0g4L5CuHaSqAVpHYJYeT3CRVfPjV_4EUS9A%3D%3D",
+        "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSfRkx2Vj_p_4RFsiwwREiRKPG2DGwizMs6e3IhaoUFIqBInK5FOUmwLzugj5s8xC5vwM1oOqU6&s=19"
+      },
+      {
+        "name": "Croissant",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L42MakK49tiW-pi4TwH74_GQ_emM8v_I63uS3ewohHbuc0Z53uIWbxoqJOlGH0YRXBxZo0V-ONWxwPIUCbma1PfrA_hVs_pBbQEBcvT2YGW8GskMtuH4-DZS0cz-Vjiw4kHDiPBu8iVSlzDM1jq-bU3a1-YfwZm7oPhf1iJewvpMGpUl8y10b_2iBIL3tahHLng6ldMcjWzSNFgo0FsuZDzSW4pd40bSqL4uAIiU50zOiVJUc8bXomWpA9B4Su6vYPvXz3E%3D&q=Croissant&sa=X&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQs9oBKAB6BAg8EA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Croissant&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L42MakK49tiW-pi4TwH74_GQ_emM8v_I63uS3ewohHbuc0Z53uIWbxoqJOlGH0YRXBxZo0V-ONWxwPIUCbma1PfrA_hVs_pBbQEBcvT2YGW8GskMtuH4-DZS0cz-Vjiw4kHDiPBu8iVSlzDM1jq-bU3a1-YfwZm7oPhf1iJewvpMGpUl8y10b_2iBIL3tahHLng6ldMcjWzSNFgo0FsuZDzSW4pd40bSqL4uAIiU50zOiVJUc8bXomWpA9B4Su6vYPvXz3E%3D",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7KaSLrawCqKmDaPl5cJB2LgTed6K2TC329CbDKh8hLgYmHoDhFIS4&s=0"
+      },
+      {
+        "name": "Shirini Keshmeshi",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8y_gzxakSy_0pF2c9X8v5lEa7rqnmVZpyw-oaLlwCb8fvY975c3u3ZnQ2QsEmr6nMQRPwR7_B-u52WdNe3GW0_XODOB8vzcamekXVNvDpDxL3KTS3TJkOUTMvpxA4it2g6JPSEF0bND8zeTa2R3PaR_cTO4_ZD5l0LDqTfcY5pJsonBcxqvBDCx12PK42Wr9bAy80FxA7EaYPn1ioKqH1VdmF13Xw5lTmepTGI6XbLzNPjEet3xwo6zC_lOEeGmCvpWYw8tnlA7hWBQ6QrRV1X6I2_G&q=Shirini+Keshmeshi&sa=X&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQs9oBKAB6BAg8EBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Shirini+Keshmeshi&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8y_gzxakSy_0pF2c9X8v5lEa7rqnmVZpyw-oaLlwCb8fvY975c3u3ZnQ2QsEmr6nMQRPwR7_B-u52WdNe3GW0_XODOB8vzcamekXVNvDpDxL3KTS3TJkOUTMvpxA4it2g6JPSEF0bND8zeTa2R3PaR_cTO4_ZD5l0LDqTfcY5pJsonBcxqvBDCx12PK42Wr9bAy80FxA7EaYPn1ioKqH1VdmF13Xw5lTmepTGI6XbLzNPjEet3xwo6zC_lOEeGmCvpWYw8tnlA7hWBQ6QrRV1X6I2_G",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbC5WQlJhKcYlddEpYHgKRK-1LXSfIOEHqtnG4z2j-RHSY5JL-7H86&s=0"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "11 g",
+        "16%"
+      ],
+      "cholesterol": [
+        "0 mg",
+        "0%"
+      ],
+      "sodium": [
+        "71 mg",
+        "2%"
+      ],
+      "potassium": [
+        "17 mg",
+        "0%"
+      ],
+      "total_carbohydrate": [
+        "13 g",
+        "4%"
+      ],
+      "protein": [
+        "2.1 g",
+        "4%"
+      ]
+    }
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=pastry&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=hYiMlCQ29RzZNM%252CYCON7yVlcYu4IM%252C%252Fm%252F0hnyx%253BG2Y_7vP-Zt6wqM%252Cd-7LCXLPrg1hJM%252C_%253BOA3h5lFDsp07NM%252Cuzf2lIt04iYl8M%252C_%253BEHHbTgs3P3f-fM%252CwDX1c37N8Ri7kM%252C_%253B5nlswOuUsuXSyM%252CeIABcs23YBLVVM%252C_%253BKan-Lu4qB_M_XM%252CC6nTrG2R63pf7M%252C_%253B5FjjeUrMZvgqFM%252C0XoMmBxBHgTepM%252C_%253BH9ty0e0qfhn_OM%252CfZvDpZXP06r5WM%252C_&usg=AI4_-kQXuNhMbIt5zoFE92i3qrNCzhKjLw&sa=X&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQ_B16BAhIEAE#vhid=hYiMlCQ29RzZNM&vssid=mosaic",
+      "source": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQK5yZnwGnEuthsUzazDsE_NoCxaDCoFCTo1FWgXJw6-LpGsWHUIywD-qXX1zfvuxs4",
+      "thumbnail": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/4b9f8083a58a358a29c7e9f444c7be29c113a232ca046ad96cd6f2da21a3759c.jpeg",
+      "original": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQK5yZnwGnEuthsUzazDsE_NoCxaDCoFCTo1FWgXJw6-LpGsWHUIywD-qXX1zfvuxs4",
+      "source_name": "t1.gstatic.com"
+    },
+    {
+      "link": "https://www.google.com/search?q=pastry&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=G2Y_7vP-Zt6wqM%252Cd-7LCXLPrg1hJM%252C_%253BOA3h5lFDsp07NM%252Cuzf2lIt04iYl8M%252C_%253BEHHbTgs3P3f-fM%252CwDX1c37N8Ri7kM%252C_%253B5nlswOuUsuXSyM%252CeIABcs23YBLVVM%252C_%253BKan-Lu4qB_M_XM%252CC6nTrG2R63pf7M%252C_%253B5FjjeUrMZvgqFM%252C0XoMmBxBHgTepM%252C_%253BH9ty0e0qfhn_OM%252CfZvDpZXP06r5WM%252C_&usg=AI4_-kRommQ1XYBr9Ant8ooUxJ752vltvQ&sa=X&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQ_h16BAhMEAE#vhid=G2Y_7vP-Zt6wqM&vssid=mosaic",
+      "source": "https://bakerpedia.com/processes/pastry/",
+      "thumbnail": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/4b9f8083a58a358a07ed69e70249e567b30510076399540a766d961a6ae60850.jpeg",
+      "original": "https://bakerpedia.com/wp-content/uploads/2020/06/Pastry_baking-processes-e1593464950587.jpg",
+      "title": "What is a Pastry? | Knead to Know Basis | BAKERpedia",
+      "source_name": "BAKERpedia"
+    },
+    {
+      "link": "https://www.google.com/search?q=pastry&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=G2Y_7vP-Zt6wqM%252Cd-7LCXLPrg1hJM%252C_%253BOA3h5lFDsp07NM%252Cuzf2lIt04iYl8M%252C_%253BEHHbTgs3P3f-fM%252CwDX1c37N8Ri7kM%252C_%253B5nlswOuUsuXSyM%252CeIABcs23YBLVVM%252C_%253BKan-Lu4qB_M_XM%252CC6nTrG2R63pf7M%252C_%253B5FjjeUrMZvgqFM%252C0XoMmBxBHgTepM%252C_%253BH9ty0e0qfhn_OM%252CfZvDpZXP06r5WM%252C_&usg=AI4_-kRommQ1XYBr9Ant8ooUxJ752vltvQ&sa=X&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQ_h16BAhJEAE#vhid=OA3h5lFDsp07NM&vssid=mosaic",
+      "source": "https://www.piesandtacos.com/cream-cheese-puff-pastry/",
+      "thumbnail": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/4b9f8083a58a358a721085ab1453cee8aea87961beb3f3a5e19ab461bc8e7027.jpeg",
+      "original": "https://www.piesandtacos.com/wp-content/uploads/2023/06/pastries-3-683x1024.jpg",
+      "title": "Cream Cheese Puff Pastry - Pies and Tacos",
+      "source_name": "Pies and Tacos"
+    },
+    {
+      "link": "https://www.google.com/search?q=pastry&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=G2Y_7vP-Zt6wqM%252Cd-7LCXLPrg1hJM%252C_%253BOA3h5lFDsp07NM%252Cuzf2lIt04iYl8M%252C_%253BEHHbTgs3P3f-fM%252CwDX1c37N8Ri7kM%252C_%253B5nlswOuUsuXSyM%252CeIABcs23YBLVVM%252C_%253BKan-Lu4qB_M_XM%252CC6nTrG2R63pf7M%252C_%253B5FjjeUrMZvgqFM%252C0XoMmBxBHgTepM%252C_%253BH9ty0e0qfhn_OM%252CfZvDpZXP06r5WM%252C_&usg=AI4_-kRommQ1XYBr9Ant8ooUxJ752vltvQ&sa=X&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQ_h16BAhPEAE#vhid=EHHbTgs3P3f-fM&vssid=mosaic",
+      "source": "https://ashbaber.com/3-ingredient-puff-pastry-croissants/",
+      "thumbnail": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/4b9f8083a58a358ac016d05b078e7c42ab3675e884602415f7c24c406d16428a.jpeg",
+      "original": "http://ashbaber.com/wp-content/uploads/2023/02/Puff-pastry-croissants-small.jpg",
+      "title": "3 Ingredient Puff Pastry Croissants",
+      "source_name": "Ash Baber"
+    },
+    {
+      "link": "https://www.google.com/search?q=pastry&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=G2Y_7vP-Zt6wqM%252Cd-7LCXLPrg1hJM%252C_%253BOA3h5lFDsp07NM%252Cuzf2lIt04iYl8M%252C_%253BEHHbTgs3P3f-fM%252CwDX1c37N8Ri7kM%252C_%253B5nlswOuUsuXSyM%252CeIABcs23YBLVVM%252C_%253BKan-Lu4qB_M_XM%252CC6nTrG2R63pf7M%252C_%253B5FjjeUrMZvgqFM%252C0XoMmBxBHgTepM%252C_%253BH9ty0e0qfhn_OM%252CfZvDpZXP06r5WM%252C_&usg=AI4_-kRommQ1XYBr9Ant8ooUxJ752vltvQ&sa=X&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQ_h16BAhNEAE#vhid=5nlswOuUsuXSyM&vssid=mosaic",
+      "source": "https://www.eatingwell.com/puff-pastry-apple-turnovers-with-brown-butter-8386369",
+      "thumbnail": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/4b9f8083a58a358a737c87b8b25c504f3e9d0c41f4a242c0cc1674a69b1f5cc3.jpeg",
+      "original": "https://www.eatingwell.com/thmb/ShRWIxbTEC5S_zi0UBAMex6fcCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AppleTurnovers-Beauty-01-d37f9e295a334b3084574a099531086a.jpg",
+      "title": "Puff-Pastry Apple Turnovers with Brown Butter",
+      "source_name": "EatingWell"
+    },
+    {
+      "link": "https://www.google.com/search?q=pastry&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=G2Y_7vP-Zt6wqM%252Cd-7LCXLPrg1hJM%252C_%253BOA3h5lFDsp07NM%252Cuzf2lIt04iYl8M%252C_%253BEHHbTgs3P3f-fM%252CwDX1c37N8Ri7kM%252C_%253B5nlswOuUsuXSyM%252CeIABcs23YBLVVM%252C_%253BKan-Lu4qB_M_XM%252CC6nTrG2R63pf7M%252C_%253B5FjjeUrMZvgqFM%252C0XoMmBxBHgTepM%252C_%253BH9ty0e0qfhn_OM%252CfZvDpZXP06r5WM%252C_&usg=AI4_-kRommQ1XYBr9Ant8ooUxJ752vltvQ&sa=X&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQ_h16BAhKEAE#vhid=Kan-Lu4qB_M_XM&vssid=mosaic",
+      "source": "https://peanutbutterandjulie.com/french-napoleon-pastry-recipe/",
+      "thumbnail": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/4b9f8083a58a358a014c51372cadaff78b3692f8ae8a9972a8db739b46a13048.jpeg",
+      "original": "https://peanutbutterandjulie.com/wp-content/uploads/2023/03/Classic-French-Napoleon-Pastry-on-serving-platter-square.jpg",
+      "title": "French Napoleon Pastry Recipe",
+      "source_name": "Peanut Butter and Julie"
+    },
+    {
+      "link": "https://www.google.com/search?q=pastry&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=G2Y_7vP-Zt6wqM%252Cd-7LCXLPrg1hJM%252C_%253BOA3h5lFDsp07NM%252Cuzf2lIt04iYl8M%252C_%253BEHHbTgs3P3f-fM%252CwDX1c37N8Ri7kM%252C_%253B5nlswOuUsuXSyM%252CeIABcs23YBLVVM%252C_%253BKan-Lu4qB_M_XM%252CC6nTrG2R63pf7M%252C_%253B5FjjeUrMZvgqFM%252C0XoMmBxBHgTepM%252C_%253BH9ty0e0qfhn_OM%252CfZvDpZXP06r5WM%252C_&usg=AI4_-kRommQ1XYBr9Ant8ooUxJ752vltvQ&sa=X&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQ_h16BAhQEAE#vhid=5FjjeUrMZvgqFM&vssid=mosaic",
+      "source": "https://bakerbettie.com/easy-breakfast-pastries-for-valentines-day/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJVuPTQug1SrsGOh7iSO9wlX4VH-04utuWnf-GSSeS_A&s",
+      "original": "https://bakerbettie.com/wp-content/uploads/2012/01/easy-breakfast-pastries-5-480x480.jpg",
+      "title": "Cream Cheese Breakfast Danish",
+      "source_name": "Baker Bettie"
+    },
+    {
+      "link": "https://www.google.com/search?q=pastry&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=G2Y_7vP-Zt6wqM%252Cd-7LCXLPrg1hJM%252C_%253BOA3h5lFDsp07NM%252Cuzf2lIt04iYl8M%252C_%253BEHHbTgs3P3f-fM%252CwDX1c37N8Ri7kM%252C_%253B5nlswOuUsuXSyM%252CeIABcs23YBLVVM%252C_%253BKan-Lu4qB_M_XM%252CC6nTrG2R63pf7M%252C_%253B5FjjeUrMZvgqFM%252C0XoMmBxBHgTepM%252C_%253BH9ty0e0qfhn_OM%252CfZvDpZXP06r5WM%252C_&usg=AI4_-kRommQ1XYBr9Ant8ooUxJ752vltvQ&sa=X&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQ_h16BAhHEAE#vhid=H9ty0e0qfhn_OM&vssid=mosaic",
+      "source": "https://ourbalancedbowl.com/strawberry-and-cream-cheese-puff-pastry-tarts/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAlLAMRLIwrEOOh4OEziUpmXj_I6F8ouy3NkWeC3HClw&s",
+      "original": "https://ourbalancedbowl.com/wp-content/uploads/2024/03/IMG_2794.jpg",
+      "title": "Strawberry and Cream Cheese Puff Pastry Tarts",
+      "source_name": "Our Balanced Bowl -"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What are the 7 types of pastry?",
+      "title": "The different types of pastry are:",
+      "date": "Feb 27, 2024",
+      "link": "https://erudus.com/editorial/the-food-agenda/the-different-types-of-pastry",
+      "list": [
+        "Choux.",
+        "Filo.",
+        "Flakey.",
+        "Hot water crust pastry.",
+        "Puff.",
+        "Shortcrust.",
+        "Suet crust pastry."
+      ],
+      "displayed_link": "https://erudus.com \u203a editorial \u203a the-food-agenda \u203a the-diff...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAGNpc77JrrnYDAFYr70OeJhVBnN9GP0hn0jUHQH-fWw&s",
+      "source_logo": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/b4592f4889e6148866347bbb8aa75d1702096dc08a3c459c2b68a3ff16c58395.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZYUlBWbWQ0TkZGU1FUQldNREl5TTBaaVFtVmtOMjlVUWt0clFWSlBWV3RNYkZkTVJWbHFiM0IwVkdOd1gySm1ja3A2ZG05VFYyY3RTbFpxTjNOWk4zUlpkbE5QRWhkWmFUaExXamxITlVoUGRVaDNPR05RZVRocFJqUlJjeG9pUVVaWWNrVmpjR1ZCZFRkWFRVaHBUVU00ZGtsbU9IRnNaR2RtVVVoWWJHYzBkdyIsImZjdiI6IjMiLCJlaSI6IllpOEtaOUc1SE91SHc4Y1B5OGlGNFFzIiwicWMiOiJDZ1p3WVhOMGNua1FBSDMwYWlNXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIDcgdHlwZXMgb2YgcGFzdHJ5PyIsImxrIjoiR2g1M2FHRjBJR0Z5WlNCMGFHVWdOeUIwZVhCbGN5QnZaaUJ3WVhOMGNuayIsImJzIjoiYy1OeTQ1SVB6MGdzVVVnc1NsVW95VWhWTUZjb3FTeElMVmJJVDFNb1NDd3VLYXEwbHpobGI2UWdKVmVPVnhXWEE1Y00ySnpNWW9Ya19Meml6SlRVb3RRVWhVUzRJVmRWakdTbHBNdHhLLUd5UkhPSkNhWkx2dHNiQ1VzSllraHdPVU10QjJsTnJVak1MY2hCMWJjdERjTUhVR1VJVlFLTUFBIiwiaWQiOiJmY19ZaThLWjlHNUhPdUh3OGNQeThpRjRRc18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZYUlBWbWQ0TkZGU1FUQldNREl5TTBaaVFtVmtOMjlVUWt0clFWSlBWV3RNYkZkTVJWbHFiM0IwVkdOd1gySm1ja3A2ZG05VFYyY3RTbFpxTjNOWk4zUlpkbE5QRWhkWmFUaExXamxITlVoUGRVaDNPR05RZVRocFJqUlJjeG9pUVVaWWNrVmpjR1ZCZFRkWFRVaHBUVU00ZGtsbU9IRnNaR2RtVVVoWWJHYzBkdyIsImZjdiI6IjMiLCJlaSI6IllpOEtaOUc1SE91SHc4Y1B5OGlGNFFzIiwicWMiOiJDZ1p3WVhOMGNua1FBSDMwYWlNXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIDcgdHlwZXMgb2YgcGFzdHJ5PyIsImxrIjoiR2g1M2FHRjBJR0Z5WlNCMGFHVWdOeUIwZVhCbGN5QnZaaUJ3WVhOMGNuayIsImJzIjoiYy1OeTQ1SVB6MGdzVVVnc1NsVW95VWhWTUZjb3FTeElMVmJJVDFNb1NDd3VLYXEwbHpobGI2UWdKVmVPVnhXWEE1Y00ySnpNWW9Ya19Meml6SlRVb3RRVWhVUzRJVmRWakdTbHBNdHhLLUd5UkhPSkNhWkx2dHNiQ1VzSllraHdPVU10QjJsTnJVak1MY2hCMWJjdERjTUhVR1VJVlFLTUFBIiwiaWQiOiJmY19ZaThLWjlHNUhPdUh3OGNQeThpRjRRc18yIn0%3D"
+    },
+    {
+      "question": "What is considered a pastry?",
+      "snippet": "Pastry refers to a variety of doughs (often enriched with fat or eggs), as well as the sweet and savoury baked goods made from them.",
+      "title": "Pastry - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Pastry#:~:text=Pastry%20refers%20to%20a%20variety,baked%20goods%20made%20from%20them.",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Pastry",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6gnxlXxgJ6_6BbeumSZEFj527PgaVGqhWl9icgLqA5Q&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZYUlBWbWQ0TkZGU1FUQldNREl5TTBaaVFtVmtOMjlVUWt0clFWSlBWV3RNYkZkTVJWbHFiM0IwVkdOd1gySm1ja3A2ZG05VFYyY3RTbFpxTjNOWk4zUlpkbE5QRWhkWmFUaExXamxITlVoUGRVaDNPR05RZVRocFJqUlJjeG9pUVVaWWNrVmpjR1ZCZFRkWFRVaHBUVU00ZGtsbU9IRnNaR2RtVVVoWWJHYzBkdyIsImZjdiI6IjMiLCJlaSI6IllpOEtaOUc1SE91SHc4Y1B5OGlGNFFzIiwicWMiOiJDZ1p3WVhOMGNua1FBSDMwYWlNXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBjb25zaWRlcmVkIGEgcGFzdHJ5PyIsImxrIjoiR2h0M2FHRjBJR2x6SUdOdmJuTnBaR1Z5WldRZ1lTQndZWE4wY25rIiwiYnMiOiJjLU55NDVJUHowZ3NVVWdzU2xVb3lVaFZNRmNvcVN4SUxWYklUMU1vU0N3dUthcTBsemhsYjZRZ0pWZU9WeFdYQTVjTTJKek1Zb1hrX0x6aXpKVFVvdFFVaFVTNElWZFZqR1NscE10eEstR3lSSE9KQ2FaTHZ0c2JDVXNKWWtod09VTXRCMmxOclVqTUxjaEIxYmN0RGNNSFVHVUlWUUtNQUEiLCJpZCI6ImZjX1lpOEtaOUc1SE91SHc4Y1B5OGlGNFFzXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZYUlBWbWQ0TkZGU1FUQldNREl5TTBaaVFtVmtOMjlVUWt0clFWSlBWV3RNYkZkTVJWbHFiM0IwVkdOd1gySm1ja3A2ZG05VFYyY3RTbFpxTjNOWk4zUlpkbE5QRWhkWmFUaExXamxITlVoUGRVaDNPR05RZVRocFJqUlJjeG9pUVVaWWNrVmpjR1ZCZFRkWFRVaHBUVU00ZGtsbU9IRnNaR2RtVVVoWWJHYzBkdyIsImZjdiI6IjMiLCJlaSI6IllpOEtaOUc1SE91SHc4Y1B5OGlGNFFzIiwicWMiOiJDZ1p3WVhOMGNua1FBSDMwYWlNXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBjb25zaWRlcmVkIGEgcGFzdHJ5PyIsImxrIjoiR2h0M2FHRjBJR2x6SUdOdmJuTnBaR1Z5WldRZ1lTQndZWE4wY25rIiwiYnMiOiJjLU55NDVJUHowZ3NVVWdzU2xVb3lVaFZNRmNvcVN4SUxWYklUMU1vU0N3dUthcTBsemhsYjZRZ0pWZU9WeFdYQTVjTTJKek1Zb1hrX0x6aXpKVFVvdFFVaFVTNElWZFZqR1NscE10eEstR3lSSE9KQ2FaTHZ0c2JDVXNKWWtod09VTXRCMmxOclVqTUxjaEIxYmN0RGNNSFVHVUlWUUtNQUEiLCJpZCI6ImZjX1lpOEtaOUc1SE91SHc4Y1B5OGlGNFFzXzIifQ%3D%3D"
+    },
+    {
+      "question": "What are the 4 types of pastry?",
+      "snippet": "There are five main types of pastry dough for creating pastries: flaky, shortcrust, puff, choux and filo.",
+      "title": "5 Types of Pastry | KitchenAid",
+      "link": "https://www.kitchenaid.com/pinch-of-help/countertop-appliances/types-of-pastry.html#:~:text=There%20are%20five%20main%20types,%2C%20puff%2C%20choux%20and%20filo.",
+      "displayed_link": "https://www.kitchenaid.com \u203a countertop-appliances \u203a typ...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVZEhx0VoOCvovuq_ULhFYOBACS0w3QcWsb_Scz4Fr9w&s",
+      "source_logo": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/b4592f4889e6148866347bbb8aa75d172f247d3a69646f6b03256c4da765125f.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZYUlBWbWQ0TkZGU1FUQldNREl5TTBaaVFtVmtOMjlVUWt0clFWSlBWV3RNYkZkTVJWbHFiM0IwVkdOd1gySm1ja3A2ZG05VFYyY3RTbFpxTjNOWk4zUlpkbE5QRWhkWmFUaExXamxITlVoUGRVaDNPR05RZVRocFJqUlJjeG9pUVVaWWNrVmpjR1ZCZFRkWFRVaHBUVU00ZGtsbU9IRnNaR2RtVVVoWWJHYzBkdyIsImZjdiI6IjMiLCJlaSI6IllpOEtaOUc1SE91SHc4Y1B5OGlGNFFzIiwicWMiOiJDZ1p3WVhOMGNua1FBSDMwYWlNXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIDQgdHlwZXMgb2YgcGFzdHJ5PyIsImxrIjoiR2hFMElIUjVjR1Z6SUc5bUlIQmhjM1J5ZVEiLCJicyI6ImMtTnk0NUlQejBnc1VVZ3NTbFVveVVoVk1GY29xU3hJTFZiSVQxTW9TQ3d1S2FxMGx6aGxiNlFnSlZlT1Z4V1hBNWNNMkp6TVlvWGtfTHppekpUVW90UVVoVVM0SVZkVmpHU2xwTXR4Sy1HeVJIT0pDYVpMdnRzYkNVc0pZa2h3T1VNdEIybE5yVWpNTGNoQjFiY3REY01IVUdVSVZRS01BQSIsImlkIjoiZmNfWWk4S1o5RzVIT3VIdzhjUHk4aUY0UXNfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZYUlBWbWQ0TkZGU1FUQldNREl5TTBaaVFtVmtOMjlVUWt0clFWSlBWV3RNYkZkTVJWbHFiM0IwVkdOd1gySm1ja3A2ZG05VFYyY3RTbFpxTjNOWk4zUlpkbE5QRWhkWmFUaExXamxITlVoUGRVaDNPR05RZVRocFJqUlJjeG9pUVVaWWNrVmpjR1ZCZFRkWFRVaHBUVU00ZGtsbU9IRnNaR2RtVVVoWWJHYzBkdyIsImZjdiI6IjMiLCJlaSI6IllpOEtaOUc1SE91SHc4Y1B5OGlGNFFzIiwicWMiOiJDZ1p3WVhOMGNua1FBSDMwYWlNXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIDQgdHlwZXMgb2YgcGFzdHJ5PyIsImxrIjoiR2hFMElIUjVjR1Z6SUc5bUlIQmhjM1J5ZVEiLCJicyI6ImMtTnk0NUlQejBnc1VVZ3NTbFVveVVoVk1GY29xU3hJTFZiSVQxTW9TQ3d1S2FxMGx6aGxiNlFnSlZlT1Z4V1hBNWNNMkp6TVlvWGtfTHppekpUVW90UVVoVVM0SVZkVmpHU2xwTXR4Sy1HeVJIT0pDYVpMdnRzYkNVc0pZa2h3T1VNdEIybE5yVWpNTGNoQjFiY3REY01IVUdVSVZRS01BQSIsImlkIjoiZmNfWWk4S1o5RzVIT3VIdzhjUHk4aUY0UXNfMiJ9"
+    },
+    {
+      "question": "What are examples of pastry?",
+      "snippet": "Pastry dishes always start with a dough consisting of flour, water, and solid fat (which can be shortening, butter, or lard). Some common examples include pies, tarts, donuts, croissants, Danishes, and scones.",
+      "title": "24 Pastry Recipes That Taste Like They Came from a Bakery",
+      "date": "Jul 31, 2024",
+      "link": "https://www.bhg.com/recipes/breakfast/brunch/pastry-recipes/#:~:text=Pastry%20dishes%20always%20start%20with,croissants%2C%20Danishes%2C%20and%20scones.",
+      "displayed_link": "https://www.bhg.com \u203a recipes \u203a breakfast \u203a brunch \u203a past...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRurmAgCbPkiOGqATYVP_z7BJFvT3mTa9T23K21uqfjEg&s",
+      "source_logo": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/b4592f4889e6148866347bbb8aa75d1756a2ecb5acd814db8343465addfca84e.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZYUlBWbWQ0TkZGU1FUQldNREl5TTBaaVFtVmtOMjlVUWt0clFWSlBWV3RNYkZkTVJWbHFiM0IwVkdOd1gySm1ja3A2ZG05VFYyY3RTbFpxTjNOWk4zUlpkbE5QRWhkWmFUaExXamxITlVoUGRVaDNPR05RZVRocFJqUlJjeG9pUVVaWWNrVmpjR1ZCZFRkWFRVaHBUVU00ZGtsbU9IRnNaR2RtVVVoWWJHYzBkdyIsImZjdiI6IjMiLCJlaSI6IllpOEtaOUc1SE91SHc4Y1B5OGlGNFFzIiwicWMiOiJDZ1p3WVhOMGNua1FBSDMwYWlNXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgZXhhbXBsZXMgb2YgcGFzdHJ5PyIsImxrIjoiR2g1M2FHRjBJR0Z5WlNCMGFHVWdaWGhoYlhCc1pTQnZaaUJ3WVhOMGNuayIsImJzIjoiYy1OeTQ1SVB6MGdzVVVnc1NsVW95VWhWTUZjb3FTeElMVmJJVDFNb1NDd3VLYXEwbHpobGI2UWdKVmVPVnhXWEE1Y00ySnpNWW9Ya19Meml6SlRVb3RRVWhVUzRJVmRWakdTbHBNdHhLLUd5UkhPSkNhWkx2dHNiQ1VzSllraHdPVU10QjJsTnJVak1MY2hCMWJjdERjTUhVR1VJVlFLTUFBIiwiaWQiOiJmY19ZaThLWjlHNUhPdUh3OGNQeThpRjRRc18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFZYUlBWbWQ0TkZGU1FUQldNREl5TTBaaVFtVmtOMjlVUWt0clFWSlBWV3RNYkZkTVJWbHFiM0IwVkdOd1gySm1ja3A2ZG05VFYyY3RTbFpxTjNOWk4zUlpkbE5QRWhkWmFUaExXamxITlVoUGRVaDNPR05RZVRocFJqUlJjeG9pUVVaWWNrVmpjR1ZCZFRkWFRVaHBUVU00ZGtsbU9IRnNaR2RtVVVoWWJHYzBkdyIsImZjdiI6IjMiLCJlaSI6IllpOEtaOUc1SE91SHc4Y1B5OGlGNFFzIiwicWMiOiJDZ1p3WVhOMGNua1FBSDMwYWlNXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgZXhhbXBsZXMgb2YgcGFzdHJ5PyIsImxrIjoiR2g1M2FHRjBJR0Z5WlNCMGFHVWdaWGhoYlhCc1pTQnZaaUJ3WVhOMGNuayIsImJzIjoiYy1OeTQ1SVB6MGdzVVVnc1NsVW95VWhWTUZjb3FTeElMVmJJVDFNb1NDd3VLYXEwbHpobGI2UWdKVmVPVnhXWEE1Y00ySnpNWW9Ya19Meml6SlRVb3RRVWhVUzRJVmRWakdTbHBNdHhLLUd5UkhPSkNhWkx2dHNiQ1VzSllraHdPVU10QjJsTnJVak1MY2hCMWJjdERjTUhVR1VJVlFLTUFBIiwiaWQiOiJmY19ZaThLWjlHNUhPdUh3OGNQeThpRjRRc18yIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Pastry",
+      "link": "https://en.wikipedia.org/wiki/Pastry",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Pastry&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQFnoECBQQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Pastry",
+      "thumbnail": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/28a63b77b7065c1fd69a689ca674c3898c5283c0e7f5ab10a5960d9baff28363.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/28a63b77b7065c1fd69a689ca674c3894d5cea5740c81674f4ba0f48df6ec0e7.png",
+      "snippet": "Pastry refers to a variety of doughs as well as the sweet and savoury baked goods made from them. These goods are often called pastries as a synecdoche, ...",
+      "snippet_highlighted_words": [
+        "Pastry",
+        "pastries"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "List",
+            "link": "https://en.wikipedia.org/wiki/List_of_pastries"
+          },
+          {
+            "title": "Shortcrust pastry",
+            "link": "https://en.wikipedia.org/wiki/Shortcrust_pastry"
+          },
+          {
+            "title": "Pastry chef",
+            "link": "https://en.wikipedia.org/wiki/Pastry_chef"
+          },
+          {
+            "title": "Flaky pastry",
+            "link": "https://en.wikipedia.org/wiki/Flaky_pastry"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Pastries",
+      "link": "https://sallysbakingaddiction.com/category/pastries/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sallysbakingaddiction.com/category/pastries/&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQFnoECHcQAQ",
+      "displayed_link": "https://sallysbakingaddiction.com \u203a category \u203a pastries",
+      "thumbnail": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/28a63b77b7065c1fd69a689ca674c3897020222083221cd2f1cbb3e8c44e0bf1.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/28a63b77b7065c1fd69a689ca674c3891f00583f149dc03f0d1cb98819437e15.png",
+      "snippet": "Learn how to make homemade pastries\u2014it's easier than you think. My detailed recipe instructions make from-scratch pastries achievable for most home bakers.",
+      "snippet_highlighted_words": [
+        "pastries",
+        "pastries"
+      ],
+      "images": [
+        "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/28a63b77b7065c1fd69a689ca674c389c1feb268f872a4d4d3caefee36448cb3.jpeg"
+      ],
+      "source": "Sally's Baking Addiction"
+    },
+    {
+      "position": 3,
+      "title": "Pastry - Recipes",
+      "link": "https://www.kingarthurbaking.com/recipes/pastry",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kingarthurbaking.com/recipes/pastry&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQFnoECHYQAQ",
+      "displayed_link": "https://www.kingarthurbaking.com \u203a recipes \u203a pastry",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcucqOJql22sVFEttcNdgqMIvW4F6nX4lcKZd0yauw6Uym-Bmj50OXm0C4MeAN6wSoB7U&s",
+      "favicon": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/28a63b77b7065c1fd69a689ca674c38930dddd053eb88c67e12715ebbecc448e.png",
+      "author": "\u200e",
+      "snippet": "Recipes (75) \u00b7 Baker's Croissants \u00b7 Almond Puff Loaf \u00b7 Easy Microwave Lemon Curd \u00b7 Cream Puffs and \u00c9clairs \u00b7 Pastry Cream (Cr\u00e8me P\u00e2tissi\u00e8re) \u00b7 Strawberry Cream ...",
+      "snippet_highlighted_words": [
+        "Pastry"
+      ],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcucqOJql22sVFEttcNdgqMIvW4F6nX4lcKZd0yauw6Uym-Bmj50OXm0C4MeAN6wSoB7U&s"
+      ],
+      "source": "King Arthur Baking"
+    },
+    {
+      "position": 4,
+      "title": "Protein Pastries - Shop Tasty Pastries",
+      "link": "https://www.eatlegendary.com/collections/protein-pastries?srsltid=AfmBOoqjBGfQkjbo9KTJ4y7ay9IDJnvcdrqp8fNfOtiKMt3LDmLqFnug",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.eatlegendary.com/collections/protein-pastries%3Fsrsltid%3DAfmBOoqjBGfQkjbo9KTJ4y7ay9IDJnvcdrqp8fNfOtiKMt3LDmLqFnug&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQFnoECGMQAQ",
+      "displayed_link": "https://www.eatlegendary.com \u203a collections \u203a protein-pastr...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-dO3mD9UZykuQygjHdgTlbVVRcOfm61eeI57Mb__bxmVop16w0SIG&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/28a63b77b7065c1fd69a689ca674c389fb96461f2a55de8cee3b97c7eb3e7536.png",
+      "author": "\u200e",
+      "snippet": "The iconic tasty treat that started it all! Each Protein Pastry packs in 20g of protein, incredible flavor, sweet icing, and 1g sugar (or less)!.",
+      "snippet_highlighted_words": [
+        "Pastry"
+      ],
+      "source": "Legendary Foods"
+    },
+    {
+      "position": 5,
+      "title": "Pastry Definition & Meaning",
+      "link": "https://www.merriam-webster.com/dictionary/pastry",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.merriam-webster.com/dictionary/pastry&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQFnoECGAQAQ",
+      "displayed_link": "https://www.merriam-webster.com \u203a dictionary \u203a pastry",
+      "favicon": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/28a63b77b7065c1fd69a689ca674c3894df971a4abe3950bd246f5771e102d54.png",
+      "date": "6 days ago",
+      "snippet": "The meaning of PASTRY is a dough that is used to make pies and other baked goods and typically has a high fat content : paste.",
+      "snippet_highlighted_words": [
+        "PASTRY"
+      ],
+      "source": "Merriam-Webster"
+    },
+    {
+      "position": 6,
+      "title": "33 Easy Pastry Recipes You Can Make at Home",
+      "link": "https://www.tasteofhome.com/collection/easy-pastry-recipes-you-can-make-at-home/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tasteofhome.com/collection/easy-pastry-recipes-you-can-make-at-home/&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQFnoECGQQAQ",
+      "displayed_link": "https://www.tasteofhome.com \u203a ... \u203a Breakfast",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv8CxtnISzvzME7L_uBqXYLFxqG1U-3ycSzLwU5c7v6sbp823TUShR&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/28a63b77b7065c1fd69a689ca674c389d3fb58fe65be61af5fbdcade42443543.png",
+      "date": "Aug 21, 2024",
+      "snippet": "Satisfy your a.m. sweet tooth with one of these easy pastry recipes, from decadent donuts to fluffy scones.",
+      "snippet_highlighted_words": [
+        "pastry"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Cinnamon Fruit Biscuits",
+            "link": "https://www.tasteofhome.com/recipes/cinnamon-fruit-biscuits/"
+          },
+          {
+            "title": "Cinnamon Quick Bread",
+            "link": "https://www.tasteofhome.com/recipes/cinnamon-swirl-quick-bread/"
+          },
+          {
+            "title": "Lemon Pound Cake Muffins",
+            "link": "https://www.tasteofhome.com/recipes/lemon-pound-cake-muffins/"
+          }
+        ]
+      },
+      "source": "Taste of Home"
+    },
+    {
+      "position": 7,
+      "title": "Pastries Like a Pro: Expert Baking & Pastry Recipes from ...",
+      "link": "https://pastrieslikeapro.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pastrieslikeapro.com/&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQFnoECGEQAQ",
+      "displayed_link": "https://pastrieslikeapro.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWlTum9y9pMqJPN-cK7HckmNP-FENP2ccGq6Wy8A0p1HqHhbsKoXfW&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/28a63b77b7065c1fd69a689ca674c389e041c2f4eec0e9f96f6f43824f7bdc0b.png",
+      "snippet": "Expert Baking & Pastry Recipes from Helen S. Fletcher. Browse hundreds of delicious, show-stopping baking & pastry recipes you can make today!",
+      "snippet_highlighted_words": [
+        "Pastry",
+        "pastry"
+      ],
+      "source": "Pastries Like a Pro"
+    },
+    {
+      "position": 8,
+      "title": "No one expected such a result! Simple and quick puff pastry ...",
+      "link": "https://www.youtube.com/watch?v=0k81lHZ7Q1A",
+      "displayed_link": "1.7M+ views \u00b7 5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/0k81lHZ7Q1A/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3lua_ct3QOIELUJbhaA5rRPIto1EQ",
+      "favicon": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/28a63b77b7065c1fd69a689ca674c389a64133ca720dcd7ed031c5be8e6bceba.png",
+      "snippet": "No one expected such a result! Simple and quick puff pastry dessert Ingredients: puff pastry: 700 g (25 oz) berries: 400 g (14 oz) sugar: ...",
+      "duration": "8:04",
+      "source": "YouTube \u00b7 Appetizing.tv-Baking Recipes"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=pastry&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQjGp6BAhBEAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pastry&tbs=lf%3A1%2Clf_ui%3A9&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Types of pastry",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Types+of+pastry&sa=X&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQ1QJ6BQiIARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Types+of+pastry"
+    },
+    {
+      "block_position": 1,
+      "query": "Pastry recipes",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Pastry+recipes&sa=X&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQ1QJ6BQiDARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pastry+recipes"
+    },
+    {
+      "block_position": 1,
+      "query": "Pastry cake",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Pastry+cake&sa=X&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQ1QJ6BQiEARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pastry+cake"
+    },
+    {
+      "block_position": 1,
+      "query": "Pastry shop",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Pastry+shop&sa=X&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQ1QJ6BQiCARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pastry+shop"
+    },
+    {
+      "block_position": 1,
+      "query": "Pastry Chef",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Pastry+Chef&sa=X&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQ1QJ6BQiGARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pastry+Chef"
+    },
+    {
+      "block_position": 1,
+      "query": "Pastry pronunciation",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Pastry+pronunciation&sa=X&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQ1QJ6BQiFARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pastry+pronunciation"
+    },
+    {
+      "block_position": 1,
+      "query": "Pastry dough",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Pastry+dough&sa=X&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQ1QJ6BQiBARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pastry+dough"
+    },
+    {
+      "block_position": 1,
+      "query": "Pastry nearby",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Pastry+nearby&sa=X&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQ1QJ6BQiHARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pastry+nearby"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "what is this pastry called?",
+      "link": "https://www.reddit.com/r/pastry/comments/1bkzyao/what_is_this_pastry_called/",
+      "date": "6mo ago",
+      "extensions": [
+        "r/pastry",
+        "30+ comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "What's the difference between pastry and patisserie",
+      "link": "https://www.reddit.com/r/bakeoff/comments/juf0xb/whats_the_difference_between_pastry_and_patisserie/",
+      "date": "3y ago",
+      "extensions": [
+        "r/bakeoff",
+        "3 comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "Does \"pastry\" mean something different in cooking than in baking?",
+      "link": "https://cooking.stackexchange.com/questions/124221/does-pastry-mean-something-different-in-cooking-than-in-baking",
+      "date": "1y ago",
+      "extensions": [
+        "1 answer"
+      ],
+      "source": "Seasoned Advice"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "List",
+        "subtitle": "List Of Pastries",
+        "title": "17 sweet pastries to make your mouth water - Taste",
+        "link": "https://www.taste.com.au/baking/articles/17-sweet-pastries-to-make-your-mouth-water/w9rjjvv3",
+        "displayed_link": "https://www.taste.com.au \u203a baking \u203a articles \u203a 17-sweet-pa...",
+        "snippet": "17 sweet pastries to make your mouth water",
+        "snippet_highlighted_words": [
+          "17 sweet pastries to make your mouth water"
+        ],
+        "list": [
+          "Apricot Danish.",
+          "Rhubarb tartlets.",
+          "Profiteroles.",
+          "Baklava.",
+          "Florentine tarts.",
+          "Chinese custard tarts.",
+          "Rocky road cups.",
+          "Lemon meringue tarts."
+        ],
+        "favicon": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/cb3c7f657e34d71cd83578a2d7df85186ecf76dc9ab9a8c03dcc5fb6be904603584464107c4a9dc7.png",
+        "source": "taste.com.au",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=list+of+pastries&sa=X&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQrooIegQIXxAH",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=list+of+pastries"
+      },
+      {
+        "text": "Best type",
+        "subtitle": "Best Type Of Pastry",
+        "title": "Exploring the World's Favorite Pastries in 2024 - FHA-HoReCa",
+        "link": "https://fhahoreca.com/fha-insider/popular-pastries-in-the-world/",
+        "displayed_link": "https://fhahoreca.com \u203a popular-pastries-in-the-world",
+        "snippet": "Let's begin our journey of Exploring the World's Favorite Pastries!",
+        "snippet_highlighted_words": [
+          "Let's begin our journey of Exploring the World's Favorite Pastries!"
+        ],
+        "list": [
+          "Croissant. The croissant, a renowned French pastry, has a rich history dating back to a period of Viennese influence in France and is one of the most popular pastries. ... ",
+          "Macaron. ... ",
+          "Baklava. ... ",
+          "Puff Pastry. ... ",
+          "Danish Pastry. ... ",
+          "Cannoli. ... ",
+          "\u00c9clair. ... ",
+          "Tiramisu."
+        ],
+        "favicon": "https://serpapi.com/searches/670a2f61d78a98b1e5378eb4/images/cb3c7f657e34d71cd83578a2d7df8518d4347b4673b23c800cc4f13915f15957f283a766cca3bd56.png",
+        "source": "fhahoreca.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=best+type+of+pastry&sa=X&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQrooIegQIXxAN",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=best+type+of+pastry"
+      },
+      {
+        "text": "Pronunciation",
+        "subtitle": "How To Pronounce Pastry",
+        "thumbnail": "https://ssl.gstatic.com/dictionary/static/pronunciation/20180801/desktop/sil.svg",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=How+to+pronounce+Pastry&si=ACC90nxW8ILQY0p6m_CPdbM1W2PxuiWSVWsdoFcWPS_Kq2L9lIo76yUoQjLx2IqFY4m4cN62vTGpq0V4gW8Q1akgteRHCB97yo0he1lzx4kj2JQePzzx25pbYdVKCtXLvYokL6SMjGn0O9yeyTZb0OmbP_rdc3RGEg%3D%3D&sa=X&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQrooIegQIXxAT",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=How+to+pronounce+Pastry&si=ACC90nxW8ILQY0p6m_CPdbM1W2PxuiWSVWsdoFcWPS_Kq2L9lIo76yUoQjLx2IqFY4m4cN62vTGpq0V4gW8Q1akgteRHCB97yo0he1lzx4kj2JQePzzx25pbYdVKCtXLvYokL6SMjGn0O9yeyTZb0OmbP_rdc3RGEg%3D%3D"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=pastry&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=Yi8KZ9G5HOuHw8cPy8iF4Qs&start=10&sa=N&sstk=AagrsuiFxXE9V_VBG7-YP4Foru69DIA4Udqi-dZG2qCxyjLCqICPiBpscAwH-DHdrHT88DMqUm8x5vpqNt-23Z63lzuhgp2XPDlQfA&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQ8NMDegQICRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=pastry&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=Yi8KZ9G5HOuHw8cPy8iF4Qs&start=10&sa=N&sstk=AagrsuiFxXE9V_VBG7-YP4Foru69DIA4Udqi-dZG2qCxyjLCqICPiBpscAwH-DHdrHT88DMqUm8x5vpqNt-23Z63lzuhgp2XPDlQfA&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQ8tMDegQICRAE",
+      "3": "https://www.google.com/search?q=pastry&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=Yi8KZ9G5HOuHw8cPy8iF4Qs&start=20&sa=N&sstk=AagrsuiFxXE9V_VBG7-YP4Foru69DIA4Udqi-dZG2qCxyjLCqICPiBpscAwH-DHdrHT88DMqUm8x5vpqNt-23Z63lzuhgp2XPDlQfA&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQ8tMDegQICRAG",
+      "4": "https://www.google.com/search?q=pastry&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=Yi8KZ9G5HOuHw8cPy8iF4Qs&start=30&sa=N&sstk=AagrsuiFxXE9V_VBG7-YP4Foru69DIA4Udqi-dZG2qCxyjLCqICPiBpscAwH-DHdrHT88DMqUm8x5vpqNt-23Z63lzuhgp2XPDlQfA&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQ8tMDegQICRAI",
+      "5": "https://www.google.com/search?q=pastry&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=Yi8KZ9G5HOuHw8cPy8iF4Qs&start=40&sa=N&sstk=AagrsuiFxXE9V_VBG7-YP4Foru69DIA4Udqi-dZG2qCxyjLCqICPiBpscAwH-DHdrHT88DMqUm8x5vpqNt-23Z63lzuhgp2XPDlQfA&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQ8tMDegQICRAK",
+      "6": "https://www.google.com/search?q=pastry&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=Yi8KZ9G5HOuHw8cPy8iF4Qs&start=50&sa=N&sstk=AagrsuiFxXE9V_VBG7-YP4Foru69DIA4Udqi-dZG2qCxyjLCqICPiBpscAwH-DHdrHT88DMqUm8x5vpqNt-23Z63lzuhgp2XPDlQfA&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQ8tMDegQICRAM",
+      "7": "https://www.google.com/search?q=pastry&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=Yi8KZ9G5HOuHw8cPy8iF4Qs&start=60&sa=N&sstk=AagrsuiFxXE9V_VBG7-YP4Foru69DIA4Udqi-dZG2qCxyjLCqICPiBpscAwH-DHdrHT88DMqUm8x5vpqNt-23Z63lzuhgp2XPDlQfA&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQ8tMDegQICRAO",
+      "8": "https://www.google.com/search?q=pastry&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=Yi8KZ9G5HOuHw8cPy8iF4Qs&start=70&sa=N&sstk=AagrsuiFxXE9V_VBG7-YP4Foru69DIA4Udqi-dZG2qCxyjLCqICPiBpscAwH-DHdrHT88DMqUm8x5vpqNt-23Z63lzuhgp2XPDlQfA&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQ8tMDegQICRAQ",
+      "9": "https://www.google.com/search?q=pastry&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=Yi8KZ9G5HOuHw8cPy8iF4Qs&start=80&sa=N&sstk=AagrsuiFxXE9V_VBG7-YP4Foru69DIA4Udqi-dZG2qCxyjLCqICPiBpscAwH-DHdrHT88DMqUm8x5vpqNt-23Z63lzuhgp2XPDlQfA&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQ8tMDegQICRAS",
+      "10": "https://www.google.com/search?q=pastry&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=Yi8KZ9G5HOuHw8cPy8iF4Qs&start=90&sa=N&sstk=AagrsuiFxXE9V_VBG7-YP4Foru69DIA4Udqi-dZG2qCxyjLCqICPiBpscAwH-DHdrHT88DMqUm8x5vpqNt-23Z63lzuhgp2XPDlQfA&ved=2ahUKEwjR8qDMsoiJAxXrw_ACHUtkIbwQ8tMDegQICRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pastry&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pastry&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pastry&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pastry&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pastry&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pastry&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pastry&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pastry&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pastry&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pastry&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pastry&start=90"
+    }
+  }
+}

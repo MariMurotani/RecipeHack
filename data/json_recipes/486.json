@@ -1,0 +1,631 @@
+{
+  "search_metadata": {
+    "id": "670a2cb874f0a458db4b1964",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7872b1071fe2867a/670a2cb874f0a458db4b1964.json",
+    "created_at": "2024-10-12 08:00:56 UTC",
+    "processed_at": "2024-10-12 08:00:56 UTC",
+    "google_url": "https://www.google.com/search?q=sourdough&oq=sourdough&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/7872b1071fe2867a/670a2cb874f0a458db4b1964.html",
+    "total_time_taken": 1.09
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "sourdough",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "sourdough",
+    "total_results": 107000000,
+    "time_taken_displayed": 0.33,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "recipes_results": [
+    {
+      "title": "Sourdough Bread: A Beginner's Guide",
+      "link": "https://www.theclevercarrot.com/2014/01/sourdough-bread-a-beginners-guide/",
+      "source": "The Clever Carrot",
+      "rating": 4.9,
+      "reviews": 1000,
+      "total_time": "14 hr",
+      "ingredients": [
+        "King arthur",
+        "dutch oven",
+        "quart dutch oven",
+        "sourdough starter",
+        "parchment paper"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/c3236697efa210db7a8bd31492c8365f0cae10b4ef97831f7ba19c3154eda10f.jpeg"
+    },
+    {
+      "title": "Beginner's Sourdough Bread Recipe",
+      "link": "https://www.theperfectloaf.com/beginners-sourdough-bread/",
+      "source": "The Perfect Loaf",
+      "total_time": "24 hr",
+      "ingredients": [
+        "Sourdough starter",
+        "whole wheat flour",
+        "grain rye flour",
+        "bread flour",
+        "sea salt"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/c3236697efa210db7a8bd31492c8365f933a5c934eda22cd807615e68c38b4bf.jpeg"
+    },
+    {
+      "title": "Beginners Sourdough Bread",
+      "link": "https://www.farmhouseonboone.com/beginners-sourdough-bread-recipe/",
+      "source": "Farmhouse on Boone",
+      "rating": 4.6,
+      "reviews": 1000,
+      "total_time": "22 hr",
+      "ingredients": [
+        "Starter",
+        "all purpose flour"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/c3236697efa210db7a8bd31492c8365f352450af6a79494ee84a2ecd2504f5fe.jpeg"
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=sourdough&npsic=0&rflfq=1&rldoc=1&rllag=30391832,-97728748,18039&tbm=lcl&sa=X&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8QtgN6BAh0EAI",
+    "image": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/52fd69e75d736967ecc429686c7fc79e.png",
+    "gps_coordinates": {
+      "latitude": 30.391832,
+      "longitude": -97.728748
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 5.0,
+        "reviews_original": "(8)",
+        "reviews": 8,
+        "description": "\"The Sourdough Project's crackers and products are truly exceptional.\"",
+        "lsig": "AB86z5XhdWYG1YgliDxcdjCSUISa",
+        "thumbnail": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/27fa55a4dd4e061d8128963e24b7148d30e2f939b78a3a9f5b70767f5c36552677c054d955c9f72a.jpeg",
+        "title": "The Sourdough Project",
+        "type": "Bakery",
+        "address": "720 Bastrop Hwy #102",
+        "place_id": "14412464705439732559",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=14412464705439732559&q=sourdough",
+        "gps_coordinates": {
+          "latitude": 30.233953,
+          "longitude": -97.685455
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.7,
+        "reviews_original": "(227)",
+        "reviews": 227,
+        "description": "\"The white sourdough is airy and the crust is crunchy.\"",
+        "lsig": "AB86z5WS1BncM7pzC5tZ0DUtzngW",
+        "thumbnail": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/27fa55a4dd4e061d8128963e24b7148d78738bb673b1a8096fa6be6c0ef823135ad318727df04846.jpeg",
+        "title": "ThoroughBread",
+        "type": "Bakery",
+        "address": "1709 Bluebonnet Ln",
+        "hours": "Closed \u22c5 Opens 8 AM",
+        "place_id": "6126811942166899309",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=6126811942166899309&q=sourdough",
+        "gps_coordinates": {
+          "latitude": 30.254368,
+          "longitude": -97.772026
+        }
+      },
+      {
+        "position": 3,
+        "rating": 4.6,
+        "reviews_original": "(193)",
+        "reviews": 193,
+        "description": "\"The sourdough bread is unbeatable so is the veggie chowder.\"",
+        "lsig": "AB86z5UT_LMwlJBwaPXzp0gIocFa",
+        "thumbnail": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/27fa55a4dd4e061d8128963e24b7148d05051397c9240dfb382e4852f1095944520d7807fb32f25e.jpeg",
+        "title": "Sanford Sourdough Bakery & Market",
+        "type": "Bakery",
+        "address": "Round Rock, TX",
+        "hours": "Closed \u22c5 Opens 9 AM",
+        "place_id": "5336064771516627030",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=5336064771516627030&q=sourdough",
+        "gps_coordinates": {
+          "latitude": 30.549713,
+          "longitude": -97.737305
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&tbs=lf:1,lf_ui:9&tbm=lcl&q=sourdough&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8QjGp6BAh1EAE"
+  },
+  "knowledge_graph": {
+    "title": "Sourdough Bread",
+    "entity_type": "food, kp3_verticals",
+    "kgmid": "/g/120hhs60",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/120hhs60&hl=en-US&q=Sourdough+Bread",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F120hhs60&location=Austin%2CTexas%2CUnited+States&q=Sourdough+Bread",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/bddff4548877eb29145b6f8f1ab47171cf7a705f52821ed4a0de5501a651363ab7998cca167b72ba.jpeg",
+        "source": "https://www.theclevercarrot.com/2014/01/sourdough-bread-a-beginners-guide/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/bddff4548877eb29145b6f8f1ab47171cf7a705f52821ed4d1dbe3c93d8be29a79f62c0cc9e9e459.jpeg",
+        "source": "https://vikalinka.com/sourdough-bread-for-beginners/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/bddff4548877eb29145b6f8f1ab47171cf7a705f52821ed476d0a59300c900a6002968444878db14.jpeg",
+        "source": "https://alexandracooks.com/2017/10/24/artisan-sourdough-made-simple-sourdough-bread-demystified-a-beginners-guide-to-sourdough-baking/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/bddff4548877eb29145b6f8f1ab47171cf7a705f52821ed406b871f6304e6185eddb7008af9d2c4d.jpeg",
+        "source": "https://dirtanddough.com/easy-overnight-sourdough-bread/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/bddff4548877eb29145b6f8f1ab47171cf7a705f52821ed4e79366e402bd4e710e51af929ec3da2e.jpeg",
+        "source": "https://www.theseasonalhomestead.com/how-to-make-whole-wheat-sourdough-bread/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/bddff4548877eb29145b6f8f1ab47171cf7a705f52821ed47651403f7e5344cb915bf8c90d6ca01c.jpeg",
+        "source": "https://www.farmhouseonboone.com/beginners-sourdough-bread-recipe/"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH3O48ZjehmfN7Q8HURd4wtPjh-PWb91yLa3KYRwlYsg&s",
+        "source": "https://makeitdough.com/basic-sourdough-bread/"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSphhfNVPzC0TmRcO4v5JuagvRVoyuNEqJveX3bNcXCrw&s",
+        "source": "https://sourdoughbrandon.com/my-everyday-sourdough-bread-recipe/"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyUyF22wGUGTugr4-UhqNEc_j6IL4KbNEPSxypldp6w&s",
+        "source": "https://www.pantrymama.com/overnight-sourdough-bread/"
+      }
+    ],
+    "description": "Sourdough or sourdough bread is a bread made by the fermentation of dough using wild lactobacillaceae and yeast. Lactic acid from fermentation imparts a sour taste and improves keeping qualities.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Sourdough"
+    },
+    "gi_index": "54 medicalnewstoday.com",
+    "gi_index_links": [
+      {
+        "text": "medicalnewstoday.com",
+        "link": "https://www.medicalnewstoday.com/articles/about-sourdough-bread"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Sourdough",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L-RObym7wrfdnQ_EBrbZ_385j0KHxvRb9dqgxuTtwde5YhvvZngvvyztRfxLiMcdpjmjpCz4TDeTPjuTJFJGmUJZz9ojJ3hUqFBYatguAWApc0lLBhbmi3Uec-ZkiXBePSDQvyJsMgEuDc1JUWQerKmn9PO9uT1xqoGF84f8o5DNhnrNDmtY-0PFz59IsQVvO7Owj7PjijfRySBXZJ20xULiL415ypBgA5oAORh0zL98aqJLnvPYRFfnFgmLM9uQ3OZI7MQ%3D&q=Sourdough&sa=X&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Qs9oBKAB6BAgsEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sourdough&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L-RObym7wrfdnQ_EBrbZ_385j0KHxvRb9dqgxuTtwde5YhvvZngvvyztRfxLiMcdpjmjpCz4TDeTPjuTJFJGmUJZz9ojJ3hUqFBYatguAWApc0lLBhbmi3Uec-ZkiXBePSDQvyJsMgEuDc1JUWQerKmn9PO9uT1xqoGF84f8o5DNhnrNDmtY-0PFz59IsQVvO7Owj7PjijfRySBXZJ20xULiL415ypBgA5oAORh0zL98aqJLnvPYRFfnFgmLM9uQ3OZI7MQ%3D",
+        "image": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/bddff4548877eb29145b6f8f1ab471714886618fcdd547a6b4dbeaab358646390d0b3f2ea8b656ca148efc9ceb9133d8.jpeg"
+      },
+      {
+        "name": "Bread",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmxQWGVl9cAJvBAxnRDH3chIqB8PCtI6lGeiJ2NJfrgWyK8mNIQeMTwJH0gd-86U9XZaBqOOke3e8bjsuzA0BA1DVbEZz8GeRsRLivr24HhppVymveZcGo9iJdvh3Z6hM_7_ZVRLkFL-tiGNXEs21FZgxVqLX34bUOrnnl_dPnm6vdWw-hVglDVGG9dMFk_wLkJB0S6uuKQ-5lxDnIIL96sGcdEzRhJsrdXH3aw_ufhjDJju_2aV-NP6HCdE6E34MwbD-7EE%3D&q=Bread&sa=X&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Qs9oBKAB6BAgsEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Bread&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmxQWGVl9cAJvBAxnRDH3chIqB8PCtI6lGeiJ2NJfrgWyK8mNIQeMTwJH0gd-86U9XZaBqOOke3e8bjsuzA0BA1DVbEZz8GeRsRLivr24HhppVymveZcGo9iJdvh3Z6hM_7_ZVRLkFL-tiGNXEs21FZgxVqLX34bUOrnnl_dPnm6vdWw-hVglDVGG9dMFk_wLkJB0S6uuKQ-5lxDnIIL96sGcdEzRhJsrdXH3aw_ufhjDJju_2aV-NP6HCdE6E34MwbD-7EE%3D",
+        "image": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/bddff4548877eb29145b6f8f1ab471714886618fcdd547a6b4dbeaab35864639939e97426f4dbec4a252deba497fe9a4.jpeg"
+      },
+      {
+        "name": "Focaccia",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L2aa6VeCbQG0lsuFVtt_y0h1QlHLsW7YMi0tZgHnEUYsN7o3pXtIjifjgvOE7k4GI_py7Shaq7RchqQLoYcpsMH0-4ucF_m6o7hoGwQB5_nElH9OxDkXcAr9tvx7NJA6IzdiDE6jcZXLxcXmQu1qiCEEbHKXZriSdBP5ehho1BfZ8zPzXwkuCel5PL447_C3AxLkhBPRBvY2Uc9POkDszkTqZ8UvUFv1o-MegVMPSuCx2BubCi6FV0IeCGYQziXY5IH8YVY%3D&q=Focaccia&sa=X&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Qs9oBKAB6BAgsEA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Focaccia&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L2aa6VeCbQG0lsuFVtt_y0h1QlHLsW7YMi0tZgHnEUYsN7o3pXtIjifjgvOE7k4GI_py7Shaq7RchqQLoYcpsMH0-4ucF_m6o7hoGwQB5_nElH9OxDkXcAr9tvx7NJA6IzdiDE6jcZXLxcXmQu1qiCEEbHKXZriSdBP5ehho1BfZ8zPzXwkuCel5PL447_C3AxLkhBPRBvY2Uc9POkDszkTqZ8UvUFv1o-MegVMPSuCx2BubCi6FV0IeCGYQziXY5IH8YVY%3D",
+        "image": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/bddff4548877eb29145b6f8f1ab471714886618fcdd547a6b4dbeaab358646391423fcd5c876a5e3e17d3d161cb461e5.jpeg"
+      },
+      {
+        "name": "Baguette",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L2w-1Nkv5W1HRY1mQwaKpDyndYHignnSBrsLv3HRXzOhJyUZMWOpg-HXpTW3I-aJ94vsy_R8whfXpLFVA7qh8-49VY3CFnQJ8ImdPTfv96PKGMzSMuNe7UXuRMYIhOdJW9O92JynfFFWF9LMnWKxcbeMwagIaHrnDnv95X9OaUjsy-ySl8Wv7guWouy425AZ4p1UrZbyOP0O6tXoqUEC491IfChCsgAEFeOwiXiS20ytAhQ2pqfFrq7J2lP7_L1B2f-rIr4%3D&q=Baguette&sa=X&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Qs9oBKAB6BAgsEBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Baguette&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L2w-1Nkv5W1HRY1mQwaKpDyndYHignnSBrsLv3HRXzOhJyUZMWOpg-HXpTW3I-aJ94vsy_R8whfXpLFVA7qh8-49VY3CFnQJ8ImdPTfv96PKGMzSMuNe7UXuRMYIhOdJW9O92JynfFFWF9LMnWKxcbeMwagIaHrnDnv95X9OaUjsy-ySl8Wv7guWouy425AZ4p1UrZbyOP0O6tXoqUEC491IfChCsgAEFeOwiXiS20ytAhQ2pqfFrq7J2lP7_L1B2f-rIr4%3D",
+        "image": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/bddff4548877eb29145b6f8f1ab471714886618fcdd547a6b4dbeaab35864639c40d9e4db63179287960056ecb27107e.jpeg"
+      }
+    ]
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=sourdough&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=PHE7WJAlarH8vM%252Ck622Zfbb65c5hM%252C%252Fg%252F120hhs60%253BebO5gvpoNh0NRM%252CrBk5CfgrTAsgMM%252C_%253BjeMsNbXF5GzxfM%252CcuwMOP2P6HtqIM%252C_%253BQhJO5P71O8fIxM%252C-SWqL1wK2ovUiM%252C_%253B5UogYjUaUJ-hrM%252CRPaWqJBn_My_9M%252C_%253B_5XEBKWb2uZF7M%252CixRzNGTPXCfByM%252C_%253BnUNY_l0mDnqX4M%252CmJcJJ9cqlF3TxM%252C_%253B4XS89rHFHJXx0M%252CuBK0LoNTdnH4HM%252C_%253BaFJVbwtRPOkLhM%252CJnDxXqoio23fYM%252C_&usg=AI4_-kQzcEPMniY2gmSsuUiwNxzs8ldsjQ&sa=X&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q_B16BAgvEAE#vhid=PHE7WJAlarH8vM&vssid=mosaic",
+      "source": "https://www.theclevercarrot.com/2014/01/sourdough-bread-a-beginners-guide/",
+      "thumbnail": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/c333a7794ab09d930d6f3e9c958a7b85f942860d30f17e060a58862d1a3c4d51.jpeg",
+      "original": "https://www.theclevercarrot.com/wp-content/uploads/2013/12/sourdough-bread-round-1-of-1.jpg",
+      "title": "www.theclevercarrot.com/wp-content/uploads/2013/12...",
+      "source_name": "www.theclevercarrot.com"
+    },
+    {
+      "link": "https://www.google.com/search?q=sourdough&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=PHE7WJAlarH8vM%252Ck622Zfbb65c5hM%252C_%253BebO5gvpoNh0NRM%252CrBk5CfgrTAsgMM%252C_%253BjeMsNbXF5GzxfM%252CcuwMOP2P6HtqIM%252C_%253BQhJO5P71O8fIxM%252C-SWqL1wK2ovUiM%252C_%253B5UogYjUaUJ-hrM%252CRPaWqJBn_My_9M%252C_%253B_5XEBKWb2uZF7M%252CixRzNGTPXCfByM%252C_%253BnUNY_l0mDnqX4M%252CmJcJJ9cqlF3TxM%252C_%253B4XS89rHFHJXx0M%252CuBK0LoNTdnH4HM%252C_%253BaFJVbwtRPOkLhM%252CJnDxXqoio23fYM%252C_&usg=AI4_-kSws9S396HqZPnctzw4SmbSgJkY6Q&sa=X&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q_h16BAg4EAE#vhid=ebO5gvpoNh0NRM&vssid=mosaic",
+      "source": "https://vikalinka.com/sourdough-bread-for-beginners/",
+      "thumbnail": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/c333a7794ab09d93123adcf7acdc0374dbf83a1ae7e8c68945167039f84faddd.jpeg",
+      "original": "https://vikalinka.com/wp-content/uploads/2020/09/Sourdough-Bread-Recipe-6-Edit-500x500.jpg",
+      "title": "Sourdough Bread for Beginners",
+      "source_name": "Vikalinka"
+    },
+    {
+      "link": "https://www.google.com/search?q=sourdough&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=PHE7WJAlarH8vM%252Ck622Zfbb65c5hM%252C_%253BebO5gvpoNh0NRM%252CrBk5CfgrTAsgMM%252C_%253BjeMsNbXF5GzxfM%252CcuwMOP2P6HtqIM%252C_%253BQhJO5P71O8fIxM%252C-SWqL1wK2ovUiM%252C_%253B5UogYjUaUJ-hrM%252CRPaWqJBn_My_9M%252C_%253B_5XEBKWb2uZF7M%252CixRzNGTPXCfByM%252C_%253BnUNY_l0mDnqX4M%252CmJcJJ9cqlF3TxM%252C_%253B4XS89rHFHJXx0M%252CuBK0LoNTdnH4HM%252C_%253BaFJVbwtRPOkLhM%252CJnDxXqoio23fYM%252C_&usg=AI4_-kSws9S396HqZPnctzw4SmbSgJkY6Q&sa=X&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q_h16BAg5EAE#vhid=jeMsNbXF5GzxfM&vssid=mosaic",
+      "source": "https://alexandracooks.com/2017/10/24/artisan-sourdough-made-simple-sourdough-bread-demystified-a-beginners-guide-to-sourdough-baking/",
+      "thumbnail": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/c333a7794ab09d937eac82aacc5686fb05a71e778c471f12187a492f0dea9971.jpeg",
+      "original": "https://alexandracooks.com/wp-content/uploads/2021/01/simplesourdoughhalved.jpg",
+      "title": "Homemade Sourdough Bread, Step by Step",
+      "source_name": "Alexandra's Kitchen"
+    },
+    {
+      "link": "https://www.google.com/search?q=sourdough&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=PHE7WJAlarH8vM%252Ck622Zfbb65c5hM%252C_%253BebO5gvpoNh0NRM%252CrBk5CfgrTAsgMM%252C_%253BjeMsNbXF5GzxfM%252CcuwMOP2P6HtqIM%252C_%253BQhJO5P71O8fIxM%252C-SWqL1wK2ovUiM%252C_%253B5UogYjUaUJ-hrM%252CRPaWqJBn_My_9M%252C_%253B_5XEBKWb2uZF7M%252CixRzNGTPXCfByM%252C_%253BnUNY_l0mDnqX4M%252CmJcJJ9cqlF3TxM%252C_%253B4XS89rHFHJXx0M%252CuBK0LoNTdnH4HM%252C_%253BaFJVbwtRPOkLhM%252CJnDxXqoio23fYM%252C_&usg=AI4_-kSws9S396HqZPnctzw4SmbSgJkY6Q&sa=X&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q_h16BAgyEAE#vhid=QhJO5P71O8fIxM&vssid=mosaic",
+      "source": "https://dirtanddough.com/easy-overnight-sourdough-bread/",
+      "thumbnail": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/c333a7794ab09d9333eeef2badcc62d7e26938dd4f70a8e05ef701d581bd08d5.jpeg",
+      "original": "https://dirtanddough.com/wp-content/uploads/2020/04/overnight-sourdough-bread-featured-image-500x500.jpg",
+      "title": "Overnight Sourdough Bread",
+      "source_name": "Dirt and Dough"
+    },
+    {
+      "link": "https://www.google.com/search?q=sourdough&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=PHE7WJAlarH8vM%252Ck622Zfbb65c5hM%252C_%253BebO5gvpoNh0NRM%252CrBk5CfgrTAsgMM%252C_%253BjeMsNbXF5GzxfM%252CcuwMOP2P6HtqIM%252C_%253BQhJO5P71O8fIxM%252C-SWqL1wK2ovUiM%252C_%253B5UogYjUaUJ-hrM%252CRPaWqJBn_My_9M%252C_%253B_5XEBKWb2uZF7M%252CixRzNGTPXCfByM%252C_%253BnUNY_l0mDnqX4M%252CmJcJJ9cqlF3TxM%252C_%253B4XS89rHFHJXx0M%252CuBK0LoNTdnH4HM%252C_%253BaFJVbwtRPOkLhM%252CJnDxXqoio23fYM%252C_&usg=AI4_-kSws9S396HqZPnctzw4SmbSgJkY6Q&sa=X&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q_h16BAg1EAE#vhid=5UogYjUaUJ-hrM&vssid=mosaic",
+      "source": "https://www.theseasonalhomestead.com/how-to-make-whole-wheat-sourdough-bread/",
+      "thumbnail": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/c333a7794ab09d938f4d00b92a7729953386d1375ba95e6e88c403d8e9fb702f.jpeg",
+      "original": "https://www.theseasonalhomestead.com/wp-content/uploads/2022/02/sourdough-bread.jpg",
+      "title": "How to Make Whole Wheat Sourdough Bread",
+      "source_name": "The Seasonal Homestead"
+    },
+    {
+      "link": "https://www.google.com/search?q=sourdough&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=PHE7WJAlarH8vM%252Ck622Zfbb65c5hM%252C_%253BebO5gvpoNh0NRM%252CrBk5CfgrTAsgMM%252C_%253BjeMsNbXF5GzxfM%252CcuwMOP2P6HtqIM%252C_%253BQhJO5P71O8fIxM%252C-SWqL1wK2ovUiM%252C_%253B5UogYjUaUJ-hrM%252CRPaWqJBn_My_9M%252C_%253B_5XEBKWb2uZF7M%252CixRzNGTPXCfByM%252C_%253BnUNY_l0mDnqX4M%252CmJcJJ9cqlF3TxM%252C_%253B4XS89rHFHJXx0M%252CuBK0LoNTdnH4HM%252C_%253BaFJVbwtRPOkLhM%252CJnDxXqoio23fYM%252C_&usg=AI4_-kSws9S396HqZPnctzw4SmbSgJkY6Q&sa=X&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q_h16BAgzEAE#vhid=_5XEBKWb2uZF7M&vssid=mosaic",
+      "source": "https://www.farmhouseonboone.com/beginners-sourdough-bread-recipe/",
+      "thumbnail": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/c333a7794ab09d939a3e8031d907d22ff636ba14c721f5895edf24a4aa990b3a.jpeg",
+      "original": "https://www.farmhouseonboone.com/wp-content/uploads/2023/04/sourdough-for-beginners-25-scaled.jpg",
+      "title": "Beginners Sourdough Bread",
+      "source_name": "Farmhouse on Boone"
+    },
+    {
+      "link": "https://www.google.com/search?q=sourdough&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=PHE7WJAlarH8vM%252Ck622Zfbb65c5hM%252C_%253BebO5gvpoNh0NRM%252CrBk5CfgrTAsgMM%252C_%253BjeMsNbXF5GzxfM%252CcuwMOP2P6HtqIM%252C_%253BQhJO5P71O8fIxM%252C-SWqL1wK2ovUiM%252C_%253B5UogYjUaUJ-hrM%252CRPaWqJBn_My_9M%252C_%253B_5XEBKWb2uZF7M%252CixRzNGTPXCfByM%252C_%253BnUNY_l0mDnqX4M%252CmJcJJ9cqlF3TxM%252C_%253B4XS89rHFHJXx0M%252CuBK0LoNTdnH4HM%252C_%253BaFJVbwtRPOkLhM%252CJnDxXqoio23fYM%252C_&usg=AI4_-kSws9S396HqZPnctzw4SmbSgJkY6Q&sa=X&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q_h16BAg2EAE#vhid=nUNY_l0mDnqX4M&vssid=mosaic",
+      "source": "https://makeitdough.com/basic-sourdough-bread/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH3O48ZjehmfN7Q8HURd4wtPjh-PWb91yLa3KYRwlYsg&s",
+      "original": "https://makeitdough.com/wp-content/uploads/2022/12/Basic-Sourdough-14-1.jpg",
+      "title": "Basic Sourdough Bread Recipe",
+      "source_name": "Make It Dough"
+    },
+    {
+      "link": "https://www.google.com/search?q=sourdough&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=PHE7WJAlarH8vM%252Ck622Zfbb65c5hM%252C_%253BebO5gvpoNh0NRM%252CrBk5CfgrTAsgMM%252C_%253BjeMsNbXF5GzxfM%252CcuwMOP2P6HtqIM%252C_%253BQhJO5P71O8fIxM%252C-SWqL1wK2ovUiM%252C_%253B5UogYjUaUJ-hrM%252CRPaWqJBn_My_9M%252C_%253B_5XEBKWb2uZF7M%252CixRzNGTPXCfByM%252C_%253BnUNY_l0mDnqX4M%252CmJcJJ9cqlF3TxM%252C_%253B4XS89rHFHJXx0M%252CuBK0LoNTdnH4HM%252C_%253BaFJVbwtRPOkLhM%252CJnDxXqoio23fYM%252C_&usg=AI4_-kSws9S396HqZPnctzw4SmbSgJkY6Q&sa=X&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q_h16BAgwEAE#vhid=4XS89rHFHJXx0M&vssid=mosaic",
+      "source": "https://sourdoughbrandon.com/my-everyday-sourdough-bread-recipe/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSphhfNVPzC0TmRcO4v5JuagvRVoyuNEqJveX3bNcXCrw&s",
+      "original": "https://i0.wp.com/sourdoughbrandon.com/wp-content/uploads/2022/02/Crumbshots-of-bread-stacked.jpg?ssl=1",
+      "title": "My Everyday Sourdough Bread Recipe \u2013 Sourdough Brandon",
+      "source_name": "Sourdough Brandon"
+    },
+    {
+      "link": "https://www.google.com/search?q=sourdough&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=PHE7WJAlarH8vM%252Ck622Zfbb65c5hM%252C_%253BebO5gvpoNh0NRM%252CrBk5CfgrTAsgMM%252C_%253BjeMsNbXF5GzxfM%252CcuwMOP2P6HtqIM%252C_%253BQhJO5P71O8fIxM%252C-SWqL1wK2ovUiM%252C_%253B5UogYjUaUJ-hrM%252CRPaWqJBn_My_9M%252C_%253B_5XEBKWb2uZF7M%252CixRzNGTPXCfByM%252C_%253BnUNY_l0mDnqX4M%252CmJcJJ9cqlF3TxM%252C_%253B4XS89rHFHJXx0M%252CuBK0LoNTdnH4HM%252C_%253BaFJVbwtRPOkLhM%252CJnDxXqoio23fYM%252C_&usg=AI4_-kSws9S396HqZPnctzw4SmbSgJkY6Q&sa=X&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q_h16BAgxEAE#vhid=aFJVbwtRPOkLhM&vssid=mosaic",
+      "source": "https://www.pantrymama.com/overnight-sourdough-bread/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyUyF22wGUGTugr4-UhqNEc_j6IL4KbNEPSxypldp6w&s",
+      "original": "https://www.pantrymama.com/wp-content/uploads/2023/02/OVERNIGHT-SOURDOUGH-BREAD-1.jpg",
+      "title": "Overnight Sourdough Bread Recipe",
+      "source_name": "The Pantry Mama"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is sourdough better for you than bread?",
+      "snippet": "The bottom line Sourdough is a healthier alternative to regular white or whole wheat bread. Although it has comparable nutrients, the lower phytate levels mean it is more digestible and nutritious. The prebiotics also help to keep your gut bacteria happy, and it may be less likely to spike blood sugar levels.",
+      "title": "Why sourdough bread is healthier than regular white or wheat bread",
+      "date": "Jun 13, 2020",
+      "link": "https://www.businessinsider.com/guides/health/diet-nutrition/is-sourdough-bread-healthy#:~:text=The%20bottom%20line,to%20spike%20blood%20sugar%20levels.",
+      "source_logo": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/5abe49709bb23ffb64b552ce1b986ad746acaf8896f0ad68acb4117518554a1f.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmJucFNZbU0wY1hSdU5ESjVTVUpVTmpkdmVHWjBObGxMV2tsZlFsaDBlVmRoYlRGS1preEhRbVZqT0hvelowZ3dURXRwYWxsdFNtMTFkMVZ0TFhaZlJrVmFTRmxWRWhkMVEzZExXalJNWjBwd2NsTTFUbTlRT0RscFNpMVJieG9pUVVaWWNrVmpjbVY1YW5WdFdYUXdaVWhzVWprdGNXWkJXRVZ2YjIxRFptUk1VUSIsImZjdiI6IjMiLCJlaSI6InVDd0taNExnSnByUzVOb1A4OWlKLVFvIiwicWMiOiJDZ2x6YjNWeVpHOTFaMmdRQUgxQ0V5VV8iLCJxdWVzdGlvbiI6IklzIHNvdXJkb3VnaCBiZXR0ZXIgZm9yIHlvdSB0aGFuIGJyZWFkPyIsImxrIjoiR2lacGN5QnpiM1Z5Wkc5MVoyZ2dZbVYwZEdWeUlHWnZjaUI1YjNVZ2RHaGhiaUJpY21WaFpBIiwiYnMiOiJjNTJPdlFyQ01CaEZjYzNrSXBRTThnMWFxMk0yZGVqczZxRGdsalpmVGRFbWtoLUM0Q3k0LW42LWkxcF9LRTdGX2R4ekxsbVIwY0tDMWQ0STdiY1NNblFPRFJUYXdGRjdjSklyeUF4eWtVWTN5UklhbDYxb3NpSGp0ZVFPYWh6c0FmT1M3NEZuMnJ2bV9tVy05Tm1FSnFFbFQwNWs5bkU3aVNES29rQ0RLc2ZubjRDb0dndXVCQ2h0cW9mc0hidjIySnhPdzc4Q3NpVER1bDd4SGRyZmIxLVhTNlB6aE1WMEVGcXczYzRkIiwiaWQiOiJmY181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmJucFNZbU0wY1hSdU5ESjVTVUpVTmpkdmVHWjBObGxMV2tsZlFsaDBlVmRoYlRGS1preEhRbVZqT0hvelowZ3dURXRwYWxsdFNtMTFkMVZ0TFhaZlJrVmFTRmxWRWhkMVEzZExXalJNWjBwd2NsTTFUbTlRT0RscFNpMVJieG9pUVVaWWNrVmpjbVY1YW5WdFdYUXdaVWhzVWprdGNXWkJXRVZ2YjIxRFptUk1VUSIsImZjdiI6IjMiLCJlaSI6InVDd0taNExnSnByUzVOb1A4OWlKLVFvIiwicWMiOiJDZ2x6YjNWeVpHOTFaMmdRQUgxQ0V5VV8iLCJxdWVzdGlvbiI6IklzIHNvdXJkb3VnaCBiZXR0ZXIgZm9yIHlvdSB0aGFuIGJyZWFkPyIsImxrIjoiR2lacGN5QnpiM1Z5Wkc5MVoyZ2dZbVYwZEdWeUlHWnZjaUI1YjNVZ2RHaGhiaUJpY21WaFpBIiwiYnMiOiJjNTJPdlFyQ01CaEZjYzNrSXBRTThnMWFxMk0yZGVqczZxRGdsalpmVGRFbWtoLUM0Q3k0LW42LWkxcF9LRTdGX2R4ekxsbVIwY0tDMWQ0STdiY1NNblFPRFJUYXdGRjdjSklyeUF4eWtVWTN5UklhbDYxb3NpSGp0ZVFPYWh6c0FmT1M3NEZuMnJ2bV9tVy05Tm1FSnFFbFQwNWs5bkU3aVNES29rQ0RLc2ZubjRDb0dndXVCQ2h0cW9mc0hidjIySnhPdzc4Q3NpVER1bDd4SGRyZmIxLVhTNlB6aE1WMEVGcXczYzRkIiwiaWQiOiJmY181In0%3D"
+    },
+    {
+      "question": "What is so special about sourdough bread?",
+      "snippet": "According to some studies, sourdough bread acts as a prebiotic, which means that the fiber in the bread helps feed the \u201cgood\u201d bacteria in your intestines. These bacteria are important for maintaining a stable, healthy digestive system. Sourdough is also lower in gluten than other forms of bread.",
+      "title": "Sourdough Bread: Is It Good for You? - WebMD",
+      "date": "Sep 20, 2022",
+      "link": "https://www.webmd.com/diet/sourdough-bread-good-for-you#:~:text=According%20to%20some%20studies%2C%20sourdough,than%20other%20forms%20of%20bread.",
+      "source_logo": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/5abe49709bb23ffb64b552ce1b986ad7aec42a9ea43dd351fb989c90e910bb44.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmJucFNZbU0wY1hSdU5ESjVTVUpVTmpkdmVHWjBObGxMV2tsZlFsaDBlVmRoYlRGS1preEhRbVZqT0hvelowZ3dURXRwYWxsdFNtMTFkMVZ0TFhaZlJrVmFTRmxWRWhkMVEzZExXalJNWjBwd2NsTTFUbTlRT0RscFNpMVJieG9pUVVaWWNrVmpjbVY1YW5WdFdYUXdaVWhzVWprdGNXWkJXRVZ2YjIxRFptUk1VUSIsImZjdiI6IjMiLCJlaSI6InVDd0taNExnSnByUzVOb1A4OWlKLVFvIiwicWMiOiJDZ2x6YjNWeVpHOTFaMmdRQUgxQ0V5VV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgc28gc3BlY2lhbCBhYm91dCBzb3VyZG91Z2ggYnJlYWQ/IiwibGsiOiJHaWgzYUdGMElHbHpJSE52SUhOd1pXTnBZV3dnWVdKdmRYUWdjMjkxY21SdmRXZG9JR0p5WldGayIsImJzIjoiYzUyT3ZRckNNQmhGY2Mza0lwUU04ZzFhcTJNMmRlanM2cURnbGpaZlRkRW1raC1DNEN5NC1uNi1pMXBfS0U3Rl9keHpMbG1SMGNLQzFkNEk3YmNTTW5RT0RSVGF3RkY3Y0pJcnlBeHlrVVkzeVJJYWw2MW9zaUhqdGVRT2FoenNBZk9TNzRGbjJydm1fbVctOU5tRUpxRWxUMDVrOW5FN2lTREtva0NES3Nmbm40Q29HZ3V1QkNodHFvZnNIYnYyMkp4T3c3OENzaVREdWw3eEhkcmZiMS1YUzZQemhNVjBFRnF3M2M0ZCIsImlkIjoiZmNfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmJucFNZbU0wY1hSdU5ESjVTVUpVTmpkdmVHWjBObGxMV2tsZlFsaDBlVmRoYlRGS1preEhRbVZqT0hvelowZ3dURXRwYWxsdFNtMTFkMVZ0TFhaZlJrVmFTRmxWRWhkMVEzZExXalJNWjBwd2NsTTFUbTlRT0RscFNpMVJieG9pUVVaWWNrVmpjbVY1YW5WdFdYUXdaVWhzVWprdGNXWkJXRVZ2YjIxRFptUk1VUSIsImZjdiI6IjMiLCJlaSI6InVDd0taNExnSnByUzVOb1A4OWlKLVFvIiwicWMiOiJDZ2x6YjNWeVpHOTFaMmdRQUgxQ0V5VV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgc28gc3BlY2lhbCBhYm91dCBzb3VyZG91Z2ggYnJlYWQ%2FIiwibGsiOiJHaWgzYUdGMElHbHpJSE52SUhOd1pXTnBZV3dnWVdKdmRYUWdjMjkxY21SdmRXZG9JR0p5WldGayIsImJzIjoiYzUyT3ZRckNNQmhGY2Mza0lwUU04ZzFhcTJNMmRlanM2cURnbGpaZlRkRW1raC1DNEN5NC1uNi1pMXBfS0U3Rl9keHpMbG1SMGNLQzFkNEk3YmNTTW5RT0RSVGF3RkY3Y0pJcnlBeHlrVVkzeVJJYWw2MW9zaUhqdGVRT2FoenNBZk9TNzRGbjJydm1fbVctOU5tRUpxRWxUMDVrOW5FN2lTREtva0NES3Nmbm40Q29HZ3V1QkNodHFvZnNIYnYyMkp4T3c3OENzaVREdWw3eEhkcmZiMS1YUzZQemhNVjBFRnF3M2M0ZCIsImlkIjoiZmNfNSJ9"
+    },
+    {
+      "question": "What is the difference between sourdough and normal bread?",
+      "snippet": "Sourdough bread is made through slow, natural fermentation. While other breads have added yeast to help the dough rise quickly, sourdough uses a 'starter' made of flour and water, which contains wild yeasts and bacteria.",
+      "title": "Is sourdough bread healthy? - British Heart Foundation",
+      "link": "https://www.bhf.org.uk/informationsupport/heart-matters-magazine/nutrition/ask-the-expert/sourdough-bread-healthy#:~:text=Sourdough%20bread%20is%20made%20through,contains%20wild%20yeasts%20and%20bacteria.",
+      "source_logo": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/5abe49709bb23ffb64b552ce1b986ad7bccd680e53c753c3b8254d839a4b01ab.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmJucFNZbU0wY1hSdU5ESjVTVUpVTmpkdmVHWjBObGxMV2tsZlFsaDBlVmRoYlRGS1preEhRbVZqT0hvelowZ3dURXRwYWxsdFNtMTFkMVZ0TFhaZlJrVmFTRmxWRWhkMVEzZExXalJNWjBwd2NsTTFUbTlRT0RscFNpMVJieG9pUVVaWWNrVmpjbVY1YW5WdFdYUXdaVWhzVWprdGNXWkJXRVZ2YjIxRFptUk1VUSIsImZjdiI6IjMiLCJlaSI6InVDd0taNExnSnByUzVOb1A4OWlKLVFvIiwicWMiOiJDZ2x6YjNWeVpHOTFaMmdRQUgxQ0V5VV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiBzb3VyZG91Z2ggYW5kIG5vcm1hbCBicmVhZD8iLCJsayI6ImN3WEIwUTNBSUFnRndEMzY5ZGJvT0ZpZVl0SkNnaGpYNzkxMUg1UENYQ2dqZFBiT3BEOUVZeDNTc1dLbnhoNEdjWVZIZnZLaUpVVl8iLCJicyI6ImM1Mk92UXJDTUJoRmNjM2tJcFFNOGcxYXEyTTJkZWpzNnFEZ2xqWmZUZEVta2gtQzRDeTQtbjYtaTFwX0tFN0ZfZHh6TGxtUjBjS0MxZDRJN2JjU01uUU9EUlRhd0ZGN2NKSXJ5QXh5a1VZM3lSSWFsNjFvc2lIanRlUU9haHpzQWZPUzc0Rm4ycnZtX21XLTlObUVKcUVsVDA1azluRTdpU0RLb2tDREtzZm5uNENvR2d1dUJDaHRxb2ZzSGJ2MjJKeE93NzhDc2lURHVsN3hIZHJmYjEtWFM2UHpoTVYwRUZxdzNjNGQiLCJpZCI6ImZjXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmJucFNZbU0wY1hSdU5ESjVTVUpVTmpkdmVHWjBObGxMV2tsZlFsaDBlVmRoYlRGS1preEhRbVZqT0hvelowZ3dURXRwYWxsdFNtMTFkMVZ0TFhaZlJrVmFTRmxWRWhkMVEzZExXalJNWjBwd2NsTTFUbTlRT0RscFNpMVJieG9pUVVaWWNrVmpjbVY1YW5WdFdYUXdaVWhzVWprdGNXWkJXRVZ2YjIxRFptUk1VUSIsImZjdiI6IjMiLCJlaSI6InVDd0taNExnSnByUzVOb1A4OWlKLVFvIiwicWMiOiJDZ2x6YjNWeVpHOTFaMmdRQUgxQ0V5VV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiBzb3VyZG91Z2ggYW5kIG5vcm1hbCBicmVhZD8iLCJsayI6ImN3WEIwUTNBSUFnRndEMzY5ZGJvT0ZpZVl0SkNnaGpYNzkxMUg1UENYQ2dqZFBiT3BEOUVZeDNTc1dLbnhoNEdjWVZIZnZLaUpVVl8iLCJicyI6ImM1Mk92UXJDTUJoRmNjM2tJcFFNOGcxYXEyTTJkZWpzNnFEZ2xqWmZUZEVta2gtQzRDeTQtbjYtaTFwX0tFN0ZfZHh6TGxtUjBjS0MxZDRJN2JjU01uUU9EUlRhd0ZGN2NKSXJ5QXh5a1VZM3lSSWFsNjFvc2lIanRlUU9haHpzQWZPUzc0Rm4ycnZtX21XLTlObUVKcUVsVDA1azluRTdpU0RLb2tDREtzZm5uNENvR2d1dUJDaHRxb2ZzSGJ2MjJKeE93NzhDc2lURHVsN3hIZHJmYjEtWFM2UHpoTVYwRUZxdzNjNGQiLCJpZCI6ImZjXzUifQ%3D%3D"
+    },
+    {
+      "question": "What makes sourdough bread different?",
+      "snippet": "Sourdough is naturally leavened bread, which means it doesn't use commercial yeast to rise. Instead, it uses a 'starter' \u2013 a fermented flour and water mixture that contains wild yeast and good bacteria \u2013 to rise. This also produces the tangy flavour and slightly chewy texture you'll find in sourdough.",
+      "title": "What is sourdough? - BBC Good Food",
+      "link": "https://www.bbcgoodfood.com/howto/guide/what-sourdough#:~:text=Sourdough%20is%20naturally%20leavened%20bread,you'll%20find%20in%20sourdough.",
+      "source_logo": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/5abe49709bb23ffb64b552ce1b986ad76c3abafd3cfec560f855dc397c0815e0.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmJucFNZbU0wY1hSdU5ESjVTVUpVTmpkdmVHWjBObGxMV2tsZlFsaDBlVmRoYlRGS1preEhRbVZqT0hvelowZ3dURXRwYWxsdFNtMTFkMVZ0TFhaZlJrVmFTRmxWRWhkMVEzZExXalJNWjBwd2NsTTFUbTlRT0RscFNpMVJieG9pUVVaWWNrVmpjbVY1YW5WdFdYUXdaVWhzVWprdGNXWkJXRVZ2YjIxRFptUk1VUSIsImZjdiI6IjMiLCJlaSI6InVDd0taNExnSnByUzVOb1A4OWlKLVFvIiwicWMiOiJDZ2x6YjNWeVpHOTFaMmdRQUgxQ0V5VV8iLCJxdWVzdGlvbiI6IldoYXQgbWFrZXMgc291cmRvdWdoIGJyZWFkIGRpZmZlcmVudD8iLCJsayI6IkdpUjNhR0YwSUcxaGEyVnpJSE52ZFhKa2IzVm5hQ0JpY21WaFpDQmthV1ptWlhKbGJuUSIsImJzIjoiYzUyT3ZRckNNQmhGY2Mza0lwUU04ZzFhcTJNMmRlanM2cURnbGpaZlRkRW1raC1DNEN5NC1uNi1pMXBfS0U3Rl9keHpMbG1SMGNLQzFkNEk3YmNTTW5RT0RSVGF3RkY3Y0pJcnlBeHlrVVkzeVJJYWw2MW9zaUhqdGVRT2FoenNBZk9TNzRGbjJydm1fbVctOU5tRUpxRWxUMDVrOW5FN2lTREtva0NES3Nmbm40Q29HZ3V1QkNodHFvZnNIYnYyMkp4T3c3OENzaVREdWw3eEhkcmZiMS1YUzZQemhNVjBFRnF3M2M0ZCIsImlkIjoiZmNfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmJucFNZbU0wY1hSdU5ESjVTVUpVTmpkdmVHWjBObGxMV2tsZlFsaDBlVmRoYlRGS1preEhRbVZqT0hvelowZ3dURXRwYWxsdFNtMTFkMVZ0TFhaZlJrVmFTRmxWRWhkMVEzZExXalJNWjBwd2NsTTFUbTlRT0RscFNpMVJieG9pUVVaWWNrVmpjbVY1YW5WdFdYUXdaVWhzVWprdGNXWkJXRVZ2YjIxRFptUk1VUSIsImZjdiI6IjMiLCJlaSI6InVDd0taNExnSnByUzVOb1A4OWlKLVFvIiwicWMiOiJDZ2x6YjNWeVpHOTFaMmdRQUgxQ0V5VV8iLCJxdWVzdGlvbiI6IldoYXQgbWFrZXMgc291cmRvdWdoIGJyZWFkIGRpZmZlcmVudD8iLCJsayI6IkdpUjNhR0YwSUcxaGEyVnpJSE52ZFhKa2IzVm5hQ0JpY21WaFpDQmthV1ptWlhKbGJuUSIsImJzIjoiYzUyT3ZRckNNQmhGY2Mza0lwUU04ZzFhcTJNMmRlanM2cURnbGpaZlRkRW1raC1DNEN5NC1uNi1pMXBfS0U3Rl9keHpMbG1SMGNLQzFkNEk3YmNTTW5RT0RSVGF3RkY3Y0pJcnlBeHlrVVkzeVJJYWw2MW9zaUhqdGVRT2FoenNBZk9TNzRGbjJydm1fbVctOU5tRUpxRWxUMDVrOW5FN2lTREtva0NES3Nmbm40Q29HZ3V1QkNodHFvZnNIYnYyMkp4T3c3OENzaVREdWw3eEhkcmZiMS1YUzZQemhNVjBFRnF3M2M0ZCIsImlkIjoiZmNfNSJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Sourdough Bread: A Beginner's Guide",
+      "link": "https://www.theclevercarrot.com/2014/01/sourdough-bread-a-beginners-guide/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theclevercarrot.com/2014/01/sourdough-bread-a-beginners-guide/&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8QFnoECBUQAQ",
+      "displayed_link": "https://www.theclevercarrot.com",
+      "thumbnail": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/072b3bc96c5146fdd68364ce377b30bafa326b006caefe5060baf490a6af6352.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/072b3bc96c5146fdd68364ce377b30babbf018fd6853ea0a4387cd40f519c29d.png",
+      "date": "Jan 3, 2014",
+      "snippet": "In this tutorial, I'll teach you how to make fresh, homemade sourdough bread with step-by-step recipe instructions and videos for guidance.",
+      "snippet_highlighted_words": [
+        "sourdough"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Sourdough starter",
+            "link": "https://www.theclevercarrot.com/2019/03/beginner-sourdough-starter-recipe/"
+          },
+          {
+            "title": "Sourdough Bread Recipes",
+            "link": "https://www.theclevercarrot.com/category/sourdough-recipes/"
+          },
+          {
+            "title": "Artisan Sourdough with All...",
+            "link": "https://www.theclevercarrot.com/2020/04/artisan-sourdough-with-all-purpose-flour/"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.9,
+            "hr": 14
+          },
+          "extensions": [
+            "4.9(1,038)",
+            "14 hr"
+          ]
+        }
+      },
+      "source": "The Clever Carrot"
+    },
+    {
+      "position": 2,
+      "title": "Beginner's Sourdough Bread",
+      "link": "https://www.theperfectloaf.com/beginners-sourdough-bread/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theperfectloaf.com/beginners-sourdough-bread/&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8QFnoECBYQAQ",
+      "displayed_link": "https://www.theperfectloaf.com",
+      "thumbnail": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/072b3bc96c5146fdd68364ce377b30bac050521ca438be1d67090efa3ea75bfd.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/072b3bc96c5146fdd68364ce377b30ba8be6b4b1fae22bf0c9db6fe03a7155c5.png",
+      "date": "Sep 2, 2024",
+      "snippet": "New to baking bread? Start with this easy and comprehensive guide to a beginner's sourdough bread to make delicious sourdough at home!",
+      "snippet_highlighted_words": [
+        "sourdough",
+        "sourdough"
+      ],
+      "rich_snippet": {
+        "bottom": {}
+      },
+      "source": "The Perfect Loaf"
+    },
+    {
+      "position": 3,
+      "title": "Beginner's Sourdough Bread Recipe",
+      "link": "https://www.farmhouseonboone.com/beginners-sourdough-bread-recipe/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.farmhouseonboone.com/beginners-sourdough-bread-recipe/&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8QFnoECBwQAQ",
+      "displayed_link": "https://www.farmhouseonboone.com \u203a ... \u203a Sourdough",
+      "thumbnail": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/072b3bc96c5146fdd68364ce377b30bac67606958b01be9953bd7a31bc218ca7.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/072b3bc96c5146fdd68364ce377b30ba47ea4809f6495fb493055ebfec23852d.png",
+      "date": "Apr 10, 2023",
+      "snippet": "Creating a sourdough starter is actually pretty simple. It is the process of mixing water and flour together and discarding for multiple days ...",
+      "snippet_highlighted_words": [
+        "sourdough"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.6,
+            "hr": 22
+          },
+          "extensions": [
+            "4.6(1,007)",
+            "22 hr"
+          ]
+        }
+      },
+      "source": "Farmhouse on Boone"
+    },
+    {
+      "position": 4,
+      "title": "Sourdough",
+      "link": "https://en.wikipedia.org/wiki/Sourdough",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Sourdough&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8QFnoECEQQAQ",
+      "displayed_link": "https://en.wikipedia.org",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaqBSPsksFWJPaUUWvg6hpevjnmJ8OzS1gWyZ8J5NCsEmm3Zr8jo4i&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/072b3bc96c5146fdd68364ce377b30bae4b911c2a46225e540355dcebe0acf03.png",
+      "snippet": "Sourdough or sourdough bread is a bread made by the fermentation of dough using wild lactobacillaceae and yeast. Lactic acid from fermentation imparts a ...",
+      "snippet_highlighted_words": [
+        "Sourdough",
+        "sourdough"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 5,
+      "title": "Homemade Sourdough Bread, Step by Step",
+      "link": "https://alexandracooks.com/2017/10/24/artisan-sourdough-made-simple-sourdough-bread-demystified-a-beginners-guide-to-sourdough-baking/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alexandracooks.com/2017/10/24/artisan-sourdough-made-simple-sourdough-bread-demystified-a-beginners-guide-to-sourdough-baking/&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8QFnoECEUQAQ",
+      "displayed_link": "https://alexandracooks.com \u203a ... \u203a Sourdough Breads",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiehdjzbXfhn_eFPUvQvqfwh4oPBeZYiopNz5ZYUF-1Wrh3_oSkFoT&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/072b3bc96c5146fdd68364ce377b30baf155871e7c5609508e098e53151995a3.png",
+      "date": "Oct 24, 2017",
+      "snippet": "If you love fresh sourdough bread with a golden, crisp crust and a light, airy crumb, this recipe is for you.",
+      "snippet_highlighted_words": [
+        "sourdough"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Sourdough Bread",
+            "link": "https://alexandracooks.com/category/recipe/bread/sourdough-breads/"
+          },
+          {
+            "title": "How to Build a Sourdough...",
+            "link": "https://alexandracooks.com/2023/09/10/how-to-build-a-sourdough-starter-from-scratch/"
+          },
+          {
+            "title": "How to feed a sourdough starter",
+            "link": "https://alexandracooks.com/2019/11/07/how-to-activate-feed-and-maintain-a-sourdough-starter/"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "hr_min": 18
+          },
+          "extensions": [
+            "5.0(1,146)",
+            "18 hr 45 min"
+          ]
+        }
+      },
+      "source": "Alexandra's Kitchen"
+    },
+    {
+      "position": 6,
+      "title": "My Best Sourdough Recipe",
+      "link": "https://www.theperfectloaf.com/best-sourdough-recipe/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theperfectloaf.com/best-sourdough-recipe/&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8QFnoECEsQAQ",
+      "displayed_link": "https://www.theperfectloaf.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHiYtdvbix2QxZ6_oxmzA1TzrwmSdTBuR3mJy8LQyy8KV-2jVMWkLV&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/072b3bc96c5146fdd68364ce377b30ba4c5f3696900fd4eb87327b89a23f8611.png",
+      "date": "Jul 10, 2024",
+      "snippet": "My best sourdough recipe is simply a mix of flour, water, salt, and levain, there are many nuances here to pay close attention to.",
+      "snippet_highlighted_words": [
+        "sourdough"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Sourdough bread baking notes",
+            "link": "https://www.theperfectloaf.com/the-simplest-way-i-improved-my-baking-using-this-baking-notes-worksheet/"
+          },
+          {
+            "title": "Steam your oven",
+            "link": "https://www.theperfectloaf.com/baking-with-steam-in-your-home-oven/"
+          },
+          {
+            "title": "Slap and fold kneading",
+            "link": "https://www.theperfectloaf.com/guides/slap-and-fold/"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {}
+      },
+      "source": "The Perfect Loaf"
+    },
+    {
+      "position": 7,
+      "title": "First Sourdough",
+      "link": "https://www.reddit.com/r/Sourdough/comments/1g1e0vf/first_sourdough/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/Sourdough/comments/1g1e0vf/first_sourdough/&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8QFnoECEMQAQ",
+      "displayed_link": "1 comment \u00b7 15 hours ago",
+      "favicon": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/072b3bc96c5146fdd68364ce377b30baf94d2deb582b8de36c5fa227ad1f4ba9.png",
+      "snippet": "My first sourdough but the best bread I've ever made. The crumb is super light, airy, and fully springs back after a pinch.",
+      "snippet_highlighted_words": [
+        "sourdough"
+      ],
+      "source": "Reddit \u00b7 r/Sourdough"
+    },
+    {
+      "position": 8,
+      "title": "Sourdough",
+      "link": "https://www.robinsloan.com/books/sourdough/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.robinsloan.com/books/sourdough/&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8QFnoECEIQAQ",
+      "displayed_link": "https://www.robinsloan.com",
+      "favicon": "https://serpapi.com/searches/670a2cb874f0a458db4b1964/images/072b3bc96c5146fdd68364ce377b30baace8d68b60bd929d2aa67842cbdcab32.png",
+      "snippet": "The Suitcase Clone. Bundled with the latest MCD edition of Sourdough, you'll find a short prequel. The story is set between California and Europe, circa 1986.",
+      "snippet_highlighted_words": [
+        "Sourdough"
+      ],
+      "source": "Robin Sloan"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&tbs=lf:1,lf_ui:9&tbm=lcl&q=sourdough&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8QjGp6BAh1EAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sourdough&tbs=lf%3A1%2Clf_ui%3A9&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Sourdough recipes",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Sourdough+recipes&sa=X&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q1QJ6BAhsEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sourdough+recipes"
+    },
+    {
+      "block_position": 1,
+      "query": "Sourdough bread benefits",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Sourdough+bread+benefits&sa=X&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q1QJ6BAhrEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sourdough+bread+benefits"
+    },
+    {
+      "block_position": 1,
+      "query": "Sourdough starter",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Sourdough+starter&sa=X&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q1QJ6BAhpEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sourdough+starter"
+    },
+    {
+      "block_position": 1,
+      "query": "Sourdough starter recipe",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Sourdough+starter+recipe&sa=X&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q1QJ6BAhoEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sourdough+starter+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Sourdough bread ingredients",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Sourdough+bread+ingredients&sa=X&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q1QJ6BAhnEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sourdough+bread+ingredients"
+    },
+    {
+      "block_position": 1,
+      "query": "Basic sourdough bread recipe",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Basic+sourdough+bread+recipe&sa=X&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q1QJ6BAhlEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Basic+sourdough+bread+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Sourdough bread near me",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Sourdough+bread+near+me&sa=X&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q1QJ6BAhjEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sourdough+bread+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Sourdough bread Tesco",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Sourdough+bread+Tesco&sa=X&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q1QJ6BAhtEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sourdough+bread+Tesco"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=sourdough&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=uCwKZ4LgJprS5NoP89iJ-Qo&start=10&sa=N&sstk=Aagrsujne8bUZPnZKXf0CVrkeVVtxImI7se4CWDhOFi1j2U9-07YTDpQkk0qPjJNdfxIfxZeiWUktEt-qu8BxpCDS-dpwGM3htlafQ&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q8NMDegQICRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=sourdough&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=uCwKZ4LgJprS5NoP89iJ-Qo&start=10&sa=N&sstk=Aagrsujne8bUZPnZKXf0CVrkeVVtxImI7se4CWDhOFi1j2U9-07YTDpQkk0qPjJNdfxIfxZeiWUktEt-qu8BxpCDS-dpwGM3htlafQ&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q8tMDegQICRAE",
+      "3": "https://www.google.com/search?q=sourdough&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=uCwKZ4LgJprS5NoP89iJ-Qo&start=20&sa=N&sstk=Aagrsujne8bUZPnZKXf0CVrkeVVtxImI7se4CWDhOFi1j2U9-07YTDpQkk0qPjJNdfxIfxZeiWUktEt-qu8BxpCDS-dpwGM3htlafQ&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q8tMDegQICRAG",
+      "4": "https://www.google.com/search?q=sourdough&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=uCwKZ4LgJprS5NoP89iJ-Qo&start=30&sa=N&sstk=Aagrsujne8bUZPnZKXf0CVrkeVVtxImI7se4CWDhOFi1j2U9-07YTDpQkk0qPjJNdfxIfxZeiWUktEt-qu8BxpCDS-dpwGM3htlafQ&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q8tMDegQICRAI",
+      "5": "https://www.google.com/search?q=sourdough&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=uCwKZ4LgJprS5NoP89iJ-Qo&start=40&sa=N&sstk=Aagrsujne8bUZPnZKXf0CVrkeVVtxImI7se4CWDhOFi1j2U9-07YTDpQkk0qPjJNdfxIfxZeiWUktEt-qu8BxpCDS-dpwGM3htlafQ&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q8tMDegQICRAK",
+      "6": "https://www.google.com/search?q=sourdough&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=uCwKZ4LgJprS5NoP89iJ-Qo&start=50&sa=N&sstk=Aagrsujne8bUZPnZKXf0CVrkeVVtxImI7se4CWDhOFi1j2U9-07YTDpQkk0qPjJNdfxIfxZeiWUktEt-qu8BxpCDS-dpwGM3htlafQ&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q8tMDegQICRAM",
+      "7": "https://www.google.com/search?q=sourdough&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=uCwKZ4LgJprS5NoP89iJ-Qo&start=60&sa=N&sstk=Aagrsujne8bUZPnZKXf0CVrkeVVtxImI7se4CWDhOFi1j2U9-07YTDpQkk0qPjJNdfxIfxZeiWUktEt-qu8BxpCDS-dpwGM3htlafQ&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q8tMDegQICRAO",
+      "8": "https://www.google.com/search?q=sourdough&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=uCwKZ4LgJprS5NoP89iJ-Qo&start=70&sa=N&sstk=Aagrsujne8bUZPnZKXf0CVrkeVVtxImI7se4CWDhOFi1j2U9-07YTDpQkk0qPjJNdfxIfxZeiWUktEt-qu8BxpCDS-dpwGM3htlafQ&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q8tMDegQICRAQ",
+      "9": "https://www.google.com/search?q=sourdough&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=uCwKZ4LgJprS5NoP89iJ-Qo&start=80&sa=N&sstk=Aagrsujne8bUZPnZKXf0CVrkeVVtxImI7se4CWDhOFi1j2U9-07YTDpQkk0qPjJNdfxIfxZeiWUktEt-qu8BxpCDS-dpwGM3htlafQ&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q8tMDegQICRAS",
+      "10": "https://www.google.com/search?q=sourdough&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=uCwKZ4LgJprS5NoP89iJ-Qo&start=90&sa=N&sstk=Aagrsujne8bUZPnZKXf0CVrkeVVtxImI7se4CWDhOFi1j2U9-07YTDpQkk0qPjJNdfxIfxZeiWUktEt-qu8BxpCDS-dpwGM3htlafQ&ved=2ahUKEwiCnJGHsIiJAxUaKVkFHXNsIq8Q8tMDegQICRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sourdough&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sourdough&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sourdough&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sourdough&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sourdough&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sourdough&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sourdough&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sourdough&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sourdough&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sourdough&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sourdough&start=90"
+    }
+  }
+}

@@ -1,0 +1,812 @@
+{
+  "search_metadata": {
+    "id": "670a2cafd997abf67106dcd4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/484a750ddbf0ac6e/670a2cafd997abf67106dcd4.json",
+    "created_at": "2024-10-12 08:00:47 UTC",
+    "processed_at": "2024-10-12 08:00:47 UTC",
+    "google_url": "https://www.google.com/search?q=pasta&oq=pasta&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/484a750ddbf0ac6e/670a2cafd997abf67106dcd4.html",
+    "total_time_taken": 6.46
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "pasta",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "pasta",
+    "total_results": 2500000000,
+    "time_taken_displayed": 0.28,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=pasta&npsic=0&rflfq=1&rldoc=1&rllag=30267186,-97740385,865&tbm=lcl&sa=X&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4QtgN6BAhFEAI",
+    "image": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/1a8070c8daa275ddac9801f616344e08.png",
+    "gps_coordinates": {
+      "latitude": 30.267186,
+      "longitude": -97.740385
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.8,
+        "reviews_original": "(286)",
+        "reviews": 286,
+        "description": "\"The bolognese gnocchetti was delicious and the service was excellent.\"",
+        "lsig": "AB86z5UyaTG3PIAk65byq47UPQN9",
+        "thumbnail": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/1b6754aaa66b1fb5d057a5a797b737336299e4074061844eae03888bc63af721d15f72cf60d47f9d.jpeg",
+        "title": "Sapori Italian Roots",
+        "type": "Restaurant",
+        "address": "800 Brazos St ste 215",
+        "hours": "Closed \u22c5 Opens 11 AM",
+        "place_id": "1980105960025349979",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=1980105960025349979&q=pasta",
+        "gps_coordinates": {
+          "latitude": 30.269691,
+          "longitude": -97.74125
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.4,
+        "reviews_original": "(1.9K)",
+        "reviews": 1900,
+        "description": "\"The pasta is simply outstanding\u2014rich, flavorful, and clearly made with care.\"",
+        "lsig": "AB86z5VbwnB7EI1mBEltmWmuqjbl",
+        "thumbnail": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/1b6754aaa66b1fb5d057a5a797b73733eae15a1f702fb1fdd30e1278b16e99e1c3e278a2e3fe5085.jpeg",
+        "title": "North Italia",
+        "type": "Italian",
+        "address": "500 W 2nd St #120",
+        "hours": "Closed \u22c5 Opens 11 AM",
+        "place_id": "2993614288872089081",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=2993614288872089081&q=pasta",
+        "gps_coordinates": {
+          "latitude": 30.265789,
+          "longitude": -97.74892
+        }
+      },
+      {
+        "position": 3,
+        "rating": 4.8,
+        "reviews_original": "(87)",
+        "reviews": 87,
+        "description": "\"- The truffle spaghetti ...and the amount of truffles you were served!!!\"",
+        "lsig": "AB86z5UmPlXFGalYSnZAsjbSVdM4",
+        "thumbnail": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/1b6754aaa66b1fb5d057a5a797b737339925394cc64561d9cd57c3b71045314dea784f9f5011a5ef.jpeg",
+        "title": "Pasta|Bar Austin",
+        "type": "Restaurant",
+        "address": "1017 E 6th St",
+        "hours": "Closed \u22c5 Opens 5 PM",
+        "place_id": "145460593373449135",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=145460593373449135&q=pasta",
+        "gps_coordinates": {
+          "latitude": 30.264748,
+          "longitude": -97.73185
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&tbs=lf:1,lf_ui:9&tbm=lcl&q=pasta&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4QjGp6BAhIEAE"
+  },
+  "knowledge_graph": {
+    "title": "Pasta",
+    "type": "Food",
+    "entity_type": "food, kp3_verticals",
+    "kgmid": "/m/05z55",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/05z55&hl=en-US&q=Pasta",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F05z55&location=Austin%2CTexas%2CUnited+States&q=Pasta",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/0c6a28e9d1f489e8c321cbabe5f53a9ba055014029ff1977305ea5d52d33f0c8665255070c4832cd.jpeg",
+        "source": "https://en.wikipedia.org/wiki/Pasta"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/0c6a28e9d1f489e8c321cbabe5f53a9ba055014029ff1977454a51c5af19623fd42e1151b64dbe16.jpeg",
+        "source": "https://www.epicurious.com/recipes/food/views/simple-one-skillet-chicken-alfredo-pasta"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/0c6a28e9d1f489e8c321cbabe5f53a9ba055014029ff197765f320613191d851fcab5bec744975bd.jpeg",
+        "source": "https://www.lazycatkitchen.com/roasted-tomato-sauce-pasta/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/0c6a28e9d1f489e8c321cbabe5f53a9ba055014029ff19773c806fb6d200b484fe61a0ef5db927e9.jpeg",
+        "source": "https://www.realfoodwithsarah.com/authentic-italian-pasta-sauce-recipe/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/0c6a28e9d1f489e8c321cbabe5f53a9ba055014029ff1977a4cab5c38a477adbb1ff96bbbe80d05e.jpeg",
+        "source": "https://www.yummytummyaarthi.com/red-sauce-pasta-recipe/"
+      }
+    ],
+    "description": "Pasta is a type of food typically made from an unleavened dough of wheat flour mixed with water or eggs, and formed into sheets or other shapes, then cooked by boiling or baking.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Pasta"
+    },
+    "sources_include": "USDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAUSDAPasta, fresh-refrigerated, cooked75 Calories - 2 oz (57 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/169727/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/169728/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/169729/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/169730/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/168901/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/168902/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173328/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/168928/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/172094/nutrients"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Penne",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LyT1nkcoBD4AnInRZ0TWiZOZXl28AcLJ7rShC78pRfccZLIuVtrsh5djCU_iVIJEA8AtMPrWOW4KKSnNVOr66RzLCL5aiuRz_zlX-X__lmoK-b3jxhPPrg1gUu_CQy7m7XqB2behgAG30O9AwG92Mopwf-KGH9UGIjMIT4kb3u8UWxnHeiE7RWg3tZhSpX09GwFNJnLs2cAuYdaiIUClDzYsabxVPdB17JoBaOxXr-okFQC9bA%3D%3D&q=Penne&sa=X&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Qs9oBKAB6BAg2EAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Penne&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LyT1nkcoBD4AnInRZ0TWiZOZXl28AcLJ7rShC78pRfccZLIuVtrsh5djCU_iVIJEA8AtMPrWOW4KKSnNVOr66RzLCL5aiuRz_zlX-X__lmoK-b3jxhPPrg1gUu_CQy7m7XqB2behgAG30O9AwG92Mopwf-KGH9UGIjMIT4kb3u8UWxnHeiE7RWg3tZhSpX09GwFNJnLs2cAuYdaiIUClDzYsabxVPdB17JoBaOxXr-okFQC9bA%3D%3D",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW1774rBpQ6LC6zZsvmRNbSqYyoA_E5LJD4DBG&s=0"
+      },
+      {
+        "name": "Rigatoni",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L-wTBU06MF3YyeT4pHpY4GExtCMYE_RPDOwWr03RLsbVvHC7rrq1SrFMlG9ZQTV1eVIWHxsrBlYhWCuY54BoJnJj879z2CN1gUrATxbTSkdqgW-w5NLNOPStRxWl9kqvy7xlea2TxWB8bMF9U4KWhTnE8j_nP5NjYDQFr9QA9LtUIVxD3ZEgM_KgtGj7b_MpeN0StDuWsmGywxlq1DS7YHJwlMylqWW5hhqXKm3YgUKMQI-fp7cIoAPS-rDPvMktWs1gsf8%3D&q=Rigatoni&sa=X&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Qs9oBKAB6BAg2EAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Rigatoni&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L-wTBU06MF3YyeT4pHpY4GExtCMYE_RPDOwWr03RLsbVvHC7rrq1SrFMlG9ZQTV1eVIWHxsrBlYhWCuY54BoJnJj879z2CN1gUrATxbTSkdqgW-w5NLNOPStRxWl9kqvy7xlea2TxWB8bMF9U4KWhTnE8j_nP5NjYDQFr9QA9LtUIVxD3ZEgM_KgtGj7b_MpeN0StDuWsmGywxlq1DS7YHJwlMylqWW5hhqXKm3YgUKMQI-fp7cIoAPS-rDPvMktWs1gsf8%3D",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP7A8ny9YD0UlZcrrnogCM7EVZeC2qaGN0IKJp&s=0"
+      },
+      {
+        "name": "Fettuccine",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L0Ja4qQIQ1WiYo-eB84sYQR6dFl8NnNeaG03lYWEKfXMB-VzFQ66PZbHG-GtQUTSdqaROlPIRLF-spk9Wj_LJ-dw4bwCe_bXH-2NGDxwGzjEPxV4y92XklcASe0sXbmIK6bOjyFfCFd2QFEjlW5aJ0PlKgMZ8Zc7VCQYaBnMS_EUcZJMqZOV32no1DMVq88UePrtjuClPfDoTpk98pHJir8nkMSg-OBdGJFs7giPm5q8-pIrhrSKn8beCyb20hmflGoHyp4%3D&q=Fettuccine&sa=X&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Qs9oBKAB6BAg2EA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Fettuccine&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L0Ja4qQIQ1WiYo-eB84sYQR6dFl8NnNeaG03lYWEKfXMB-VzFQ66PZbHG-GtQUTSdqaROlPIRLF-spk9Wj_LJ-dw4bwCe_bXH-2NGDxwGzjEPxV4y92XklcASe0sXbmIK6bOjyFfCFd2QFEjlW5aJ0PlKgMZ8Zc7VCQYaBnMS_EUcZJMqZOV32no1DMVq88UePrtjuClPfDoTpk98pHJir8nkMSg-OBdGJFs7giPm5q8-pIrhrSKn8beCyb20hmflGoHyp4%3D",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdnL5uNB0cMf2vkiZyNEm4ui5nooGkzyYr304J&s=0"
+      },
+      {
+        "name": "Spaghetti",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm1_RLeutWFCidep9GfHmKcIJwdFG8Swljv15LZq8Qf8Ri9LpKBMacLa_pkHY0IUg5hqlM0rrMJX4qJo396UISMqrRLK2jJBJiK3BwWPErGJFqgBySL_203T73Pga6WSS0nNCI2Vsci_wzG1yjJQFRhKPFJu02NItHx5jMWBN8G6cVPJnWIR5Yeata09IaN50l9RiMfwuethDiGDnjt5dR4rOpnkIdAGDF5ruvzTPYG8TlFzdCdKPMnYoorzIyUDXFDdbf8Q%3D&q=Spaghetti&sa=X&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Qs9oBKAB6BAg2EBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Spaghetti&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm1_RLeutWFCidep9GfHmKcIJwdFG8Swljv15LZq8Qf8Ri9LpKBMacLa_pkHY0IUg5hqlM0rrMJX4qJo396UISMqrRLK2jJBJiK3BwWPErGJFqgBySL_203T73Pga6WSS0nNCI2Vsci_wzG1yjJQFRhKPFJu02NItHx5jMWBN8G6cVPJnWIR5Yeata09IaN50l9RiMfwuethDiGDnjt5dR4rOpnkIdAGDF5ruvzTPYG8TlFzdCdKPMnYoorzIyUDXFDdbf8Q%3D",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU0zJIqUpCpCo56N2i33RqDrSeLCWB1Nk8Xpsz&s=0"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "0.6 g",
+        "0%"
+      ],
+      "cholesterol": [
+        "19 mg",
+        "6%"
+      ],
+      "sodium": [
+        "3 mg",
+        "0%"
+      ],
+      "potassium": [
+        "14 mg",
+        "0%"
+      ],
+      "total_carbohydrate": [
+        "14 g",
+        "4%"
+      ],
+      "protein": [
+        "2.9 g",
+        "5%"
+      ]
+    }
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=pasta&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=uPDfc_yBPPmm-M%252C6hk4svw8ZG1L-M%252C%252Fm%252F05z55%253BkkZnWvrHVoBYWM%252CmaYPv8_up-z_GM%252C_%253Byj4J_6WRjxjoSM%252CFLL4hxyjsxxCiM%252C_%253BAXg1XmGQXFoI7M%252CBM-pVYHKm3G2IM%252C_%253BU4EGY-EiGEOtgM%252C-YW933xi_H7FRM%252C_&usg=AI4_-kSQbrp6-y5etsWY9tUmTSbNTZQ91A&sa=X&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Q_B16BAg6EAE#vhid=uPDfc_yBPPmm-M&vssid=mosaic",
+      "source": "https://en.wikipedia.org/wiki/Pasta",
+      "thumbnail": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/45a666cb1ac3042f03b7d6676fe242b7970ed8e8c70a4f69f154f5829734b070.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/%28Pasta%29_by_David_Adam_Kess_%28pic.2%29.jpg/800px-%28Pasta%29_by_David_Adam_Kess_%28pic.2%29.jpg",
+      "title": "upload.wikimedia.org/wikipedia/commons/thumb/3/3f/...",
+      "source_name": "en.wikipedia.org"
+    },
+    {
+      "link": "https://www.google.com/search?q=pasta&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=uPDfc_yBPPmm-M%252C6hk4svw8ZG1L-M%252C_%253BkkZnWvrHVoBYWM%252CmaYPv8_up-z_GM%252C_%253Byj4J_6WRjxjoSM%252CFLL4hxyjsxxCiM%252C_%253BAXg1XmGQXFoI7M%252CBM-pVYHKm3G2IM%252C_%253BU4EGY-EiGEOtgM%252C-YW933xi_H7FRM%252C_&usg=AI4_-kTruleJjPXGaG_9vSL0-gFdcyPzcQ&sa=X&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Q_h16BAg8EAE#vhid=kkZnWvrHVoBYWM&vssid=mosaic",
+      "source": "https://www.epicurious.com/recipes/food/views/simple-one-skillet-chicken-alfredo-pasta",
+      "thumbnail": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/45a666cb1ac3042ffb866fea2c4e6c2181fbfe23b3c25575322ab5279ca47f0f.jpeg",
+      "original": "https://assets.epicurious.com/photos/5988e3458e3ab375fe3c0caf/1:1/w_3607,h_3607,c_limit/How-to-Make-Chicken-Alfredo-Pasta-hero-02082017.jpg",
+      "title": "Simple One-Skillet Chicken Alfredo Pasta",
+      "source_name": "Epicurious"
+    },
+    {
+      "link": "https://www.google.com/search?q=pasta&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=uPDfc_yBPPmm-M%252C6hk4svw8ZG1L-M%252C_%253BkkZnWvrHVoBYWM%252CmaYPv8_up-z_GM%252C_%253Byj4J_6WRjxjoSM%252CFLL4hxyjsxxCiM%252C_%253BAXg1XmGQXFoI7M%252CBM-pVYHKm3G2IM%252C_%253BU4EGY-EiGEOtgM%252C-YW933xi_H7FRM%252C_&usg=AI4_-kTruleJjPXGaG_9vSL0-gFdcyPzcQ&sa=X&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Q_h16BAg9EAE#vhid=yj4J_6WRjxjoSM&vssid=mosaic",
+      "source": "https://www.lazycatkitchen.com/roasted-tomato-sauce-pasta/",
+      "thumbnail": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/45a666cb1ac3042f6b0cdc7c0fa1a70450797a41e056a62d40d3eadf890b5338.jpeg",
+      "original": "https://cdn77-s3.lazycatkitchen.com/wp-content/uploads/2021/10/roasted-tomato-sauce-portion-800x1200.jpg",
+      "title": "Roasted tomato sauce pasta",
+      "source_name": "Lazy Cat Kitchen"
+    },
+    {
+      "link": "https://www.google.com/search?q=pasta&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=uPDfc_yBPPmm-M%252C6hk4svw8ZG1L-M%252C_%253BkkZnWvrHVoBYWM%252CmaYPv8_up-z_GM%252C_%253Byj4J_6WRjxjoSM%252CFLL4hxyjsxxCiM%252C_%253BAXg1XmGQXFoI7M%252CBM-pVYHKm3G2IM%252C_%253BU4EGY-EiGEOtgM%252C-YW933xi_H7FRM%252C_&usg=AI4_-kTruleJjPXGaG_9vSL0-gFdcyPzcQ&sa=X&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Q_h16BAg5EAE#vhid=AXg1XmGQXFoI7M&vssid=mosaic",
+      "source": "https://www.realfoodwithsarah.com/authentic-italian-pasta-sauce-recipe/",
+      "thumbnail": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/45a666cb1ac3042fd6074ab1ef34af25358774b8e5f1adba8b4e5ba6e10fd9c2.jpeg",
+      "original": "https://www.realfoodwithsarah.com/wp-content/uploads/2024/05/authentic-italian-pasta-sauce-3.jpg",
+      "title": "Authentic Italian Pasta Sauce",
+      "source_name": "Real Food with Sarah"
+    },
+    {
+      "link": "https://www.google.com/search?q=pasta&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=uPDfc_yBPPmm-M%252C6hk4svw8ZG1L-M%252C_%253BkkZnWvrHVoBYWM%252CmaYPv8_up-z_GM%252C_%253Byj4J_6WRjxjoSM%252CFLL4hxyjsxxCiM%252C_%253BAXg1XmGQXFoI7M%252CBM-pVYHKm3G2IM%252C_%253BU4EGY-EiGEOtgM%252C-YW933xi_H7FRM%252C_&usg=AI4_-kTruleJjPXGaG_9vSL0-gFdcyPzcQ&sa=X&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Q_h16BAg7EAE#vhid=U4EGY-EiGEOtgM&vssid=mosaic",
+      "source": "https://www.yummytummyaarthi.com/red-sauce-pasta-recipe/",
+      "thumbnail": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/45a666cb1ac3042f45561958981a83bf83f57bdf237a8a9bd538f3969daa3395.jpeg",
+      "original": "https://www.yummytummyaarthi.com/wp-content/uploads/2022/11/red-sauce-pasta-1.jpg",
+      "title": "Red Sauce Pasta Recipe",
+      "source_name": "Yummy Tummy Aarthi"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What are 10 types of pasta?",
+      "title": "What are the most popular pasta shapes?",
+      "date": "Apr 4, 2019",
+      "link": "https://www.innit.com/learn/grocery/ingredient-guides/top-10-pasta-shapes.html",
+      "list": [
+        "Pappardelle.",
+        "Orecchiette. ... ",
+        "Macaroni. ... ",
+        "Linguine. ... ",
+        "Farfalle. ... ",
+        "Fusilli. ... ",
+        "Fettuccine. ... ",
+        "Capellini. Capellini, or more commonly known as angel hair pasta, is one of the thinnest types of pasta with a diameter ranging between 0.85 and 0.92 millimeters. ... "
+      ],
+      "displayed_link": "https://www.innit.com \u203a grocery \u203a top-10-pasta-shapes",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjCd3SQxXk9sXoA-Jp8EhfHZKlh4LquS4iBXSUX8Mrww&s",
+      "source_logo": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/a19e3976b72309b3164015c7ac35892674c92e9cbe9ae7a62f650cb1096a7593.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2RHTTNiRGhEU1RRNWRtTkRMV2xoV0ZsSlptcEdla0Y0TTBGSFNscG9Sa2M1Y1hjMU1ISjVNMVV4UkdWRFZrNWFTVXRqTVZwSWFFMTVWbk15VFZWM2RGVTRWa3BQRWhkMFEzZExXamx1WkUxS1MzSndkRkZRWjBwVFdUaFJVUm9pUVVaWWNrVmpjVU15ZGxSTGVVZ3ljR3gwVUMxd2RscFpSbDlPVW5WNFEwTlFRUSIsImZjdiI6IjMiLCJlaSI6InRDd0taOW5kTUpLcnB0UVBnSlNZOFFRIiwicWMiOiJDZ1Z3WVhOMFlSQUFmZTVPSFQ4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSAxMCB0eXBlcyBvZiBwYXN0YT8iLCJsayI6IkdocDNhR0YwSUdGeVpTQXhNQ0IwZVhCbGN5QnZaaUJ3WVhOMFlRIiwiYnMiOiJjLU95NDVJT3owZ3NVVWdzU2xVd05GQW9xU3hJTFZiSVQxTW9TQ3d1U2JTWC1NUmpKQ01sVlk1VEJaY2JsenhjZjBrR1VJVVJwaGxwUmdwU2N1VjRWWEc1Y01sNUZrUFlDcVY1R2FtSk9TVVpsUXI1UlFwUXByM0VBM0VqZVNuWlRIeUt1SUs0Vk9HdU1USlFTTWxNUzBzdFNzMHJ3WERUTGw4ak5TbVZjaUxVQ2pBQ0FBIiwiaWQiOiJmY18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2RHTTNiRGhEU1RRNWRtTkRMV2xoV0ZsSlptcEdla0Y0TTBGSFNscG9Sa2M1Y1hjMU1ISjVNMVV4UkdWRFZrNWFTVXRqTVZwSWFFMTVWbk15VFZWM2RGVTRWa3BQRWhkMFEzZExXamx1WkUxS1MzSndkRkZRWjBwVFdUaFJVUm9pUVVaWWNrVmpjVU15ZGxSTGVVZ3ljR3gwVUMxd2RscFpSbDlPVW5WNFEwTlFRUSIsImZjdiI6IjMiLCJlaSI6InRDd0taOW5kTUpLcnB0UVBnSlNZOFFRIiwicWMiOiJDZ1Z3WVhOMFlSQUFmZTVPSFQ4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSAxMCB0eXBlcyBvZiBwYXN0YT8iLCJsayI6IkdocDNhR0YwSUdGeVpTQXhNQ0IwZVhCbGN5QnZaaUJ3WVhOMFlRIiwiYnMiOiJjLU95NDVJT3owZ3NVVWdzU2xVd05GQW9xU3hJTFZiSVQxTW9TQ3d1U2JTWC1NUmpKQ01sVlk1VEJaY2JsenhjZjBrR1VJVVJwaGxwUmdwU2N1VjRWWEc1Y01sNUZrUFlDcVY1R2FtSk9TVVpsUXI1UlFwUXByM0VBM0VqZVNuWlRIeUt1SUs0Vk9HdU1USlFTTWxNUzBzdFNzMHJ3WERUTGw4ak5TbVZjaUxVQ2pBQ0FBIiwiaWQiOiJmY18yIn0%3D"
+    },
+    {
+      "question": "What are the 12 types of pasta?",
+      "title": "12 Different Types of Pasta You Should to Try This Year",
+      "date": "Dec 29, 2022",
+      "link": "https://jonahsbistro.in/different-types-of-pasta-you-should-try/",
+      "list": [
+        "Bow Tie Pasta (Farfalle) It is also known as bow-tie pasta because it resembles a small bow tie with a frilled edge. ... ",
+        "Ditalini Pasta. ... ",
+        "Fettuccine Pasta. ... ",
+        "Fusilli pasta. ... ",
+        "Gnocchi. ... ",
+        "Lasagna. ... ",
+        "Linguine. ... ",
+        "Rigatoni."
+      ],
+      "displayed_link": "https://jonahsbistro.in \u203a different-types-of-pasta-you-shou...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNCLQ0womg1_coEckEtvvgyJIuWQL0e3gyi3EnlMKDlA&s",
+      "source_logo": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/a19e3976b72309b3164015c7ac358926c0d47df19fa40e6d35f56e100aeba4ec.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2RHTTNiRGhEU1RRNWRtTkRMV2xoV0ZsSlptcEdla0Y0TTBGSFNscG9Sa2M1Y1hjMU1ISjVNMVV4UkdWRFZrNWFTVXRqTVZwSWFFMTVWbk15VFZWM2RGVTRWa3BQRWhkMFEzZExXamx1WkUxS1MzSndkRkZRWjBwVFdUaFJVUm9pUVVaWWNrVmpjVU15ZGxSTGVVZ3ljR3gwVUMxd2RscFpSbDlPVW5WNFEwTlFRUSIsImZjdiI6IjMiLCJlaSI6InRDd0taOW5kTUpLcnB0UVBnSlNZOFFRIiwicWMiOiJDZ1Z3WVhOMFlSQUFmZTVPSFQ4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgMTIgdHlwZXMgb2YgcGFzdGE/IiwibGsiOiJHaDUzYUdGMElHRnlaU0IwYUdVZ01USWdkSGx3WlhNZ2IyWWdjR0Z6ZEdFIiwiYnMiOiJjLU95NDVJT3owZ3NVVWdzU2xVd05GQW9xU3hJTFZiSVQxTW9TQ3d1U2JTWC1NUmpKQ01sVlk1VEJaY2JsenhjZjBrR1VJVVJwaGxwUmdwU2N1VjRWWEc1Y01sNUZrUFlDcVY1R2FtSk9TVVpsUXI1UlFwUXByM0VBM0VqZVNuWlRIeUt1SUs0Vk9HdU1USlFTTWxNUzBzdFNzMHJ3WERUTGw4ak5TbVZjaUxVQ2pBQ0FBIiwiaWQiOiJmY18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2RHTTNiRGhEU1RRNWRtTkRMV2xoV0ZsSlptcEdla0Y0TTBGSFNscG9Sa2M1Y1hjMU1ISjVNMVV4UkdWRFZrNWFTVXRqTVZwSWFFMTVWbk15VFZWM2RGVTRWa3BQRWhkMFEzZExXamx1WkUxS1MzSndkRkZRWjBwVFdUaFJVUm9pUVVaWWNrVmpjVU15ZGxSTGVVZ3ljR3gwVUMxd2RscFpSbDlPVW5WNFEwTlFRUSIsImZjdiI6IjMiLCJlaSI6InRDd0taOW5kTUpLcnB0UVBnSlNZOFFRIiwicWMiOiJDZ1Z3WVhOMFlSQUFmZTVPSFQ4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgMTIgdHlwZXMgb2YgcGFzdGE%2FIiwibGsiOiJHaDUzYUdGMElHRnlaU0IwYUdVZ01USWdkSGx3WlhNZ2IyWWdjR0Z6ZEdFIiwiYnMiOiJjLU95NDVJT3owZ3NVVWdzU2xVd05GQW9xU3hJTFZiSVQxTW9TQ3d1U2JTWC1NUmpKQ01sVlk1VEJaY2JsenhjZjBrR1VJVVJwaGxwUmdwU2N1VjRWWEc1Y01sNUZrUFlDcVY1R2FtSk9TVVpsUXI1UlFwUXByM0VBM0VqZVNuWlRIeUt1SUs0Vk9HdU1USlFTTWxNUzBzdFNzMHJ3WERUTGw4ak5TbVZjaUxVQ2pBQ0FBIiwiaWQiOiJmY18yIn0%3D"
+    },
+    {
+      "question": "Is pasta unhealthy or healthy?",
+      "snippet": "It's Part of a Good Diet Pasta is made from grain, one of the basic food groups in a healthy diet that also can include vegetables, fruits, fish, and poultry. It's a good source of energy and can give you fiber, too, if it's made from whole grain. That can help with stomach problems and may help lower cholesterol.",
+      "title": "Buon Appetito: 14 Reasons to Eat More Pasta - WebMD",
+      "date": "Aug 31, 2024",
+      "link": "https://www.webmd.com/food-recipes/ss/slideshow-eat-pasta#:~:text=It's%20Part%20of%20a%20Good,and%20may%20help%20lower%20cholesterol.",
+      "displayed_link": "https://www.webmd.com \u203a slideshow-eat-pasta",
+      "source_logo": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/a19e3976b72309b3164015c7ac358926c34db6970f58c4d6a2cdac0f7af9e0e9.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2RHTTNiRGhEU1RRNWRtTkRMV2xoV0ZsSlptcEdla0Y0TTBGSFNscG9Sa2M1Y1hjMU1ISjVNMVV4UkdWRFZrNWFTVXRqTVZwSWFFMTVWbk15VFZWM2RGVTRWa3BQRWhkMFEzZExXamx1WkUxS1MzSndkRkZRWjBwVFdUaFJVUm9pUVVaWWNrVmpjVU15ZGxSTGVVZ3ljR3gwVUMxd2RscFpSbDlPVW5WNFEwTlFRUSIsImZjdiI6IjMiLCJlaSI6InRDd0taOW5kTUpLcnB0UVBnSlNZOFFRIiwicWMiOiJDZ1Z3WVhOMFlSQUFmZTVPSFQ4IiwicXVlc3Rpb24iOiJJcyBwYXN0YSB1bmhlYWx0aHkgb3IgaGVhbHRoeT8iLCJsayI6ImM1T1N6U3hXS0Vnc0xrbFVLTTNMU0UzTUtjbW9WTWd2VW9BeUFRIiwiYnMiOiJjLU95NDVJT3owZ3NVVWdzU2xVd05GQW9xU3hJTFZiSVQxTW9TQ3d1U2JTWC1NUmpKQ01sVlk1VEJaY2JsenhjZjBrR1VJVVJwaGxwUmdwU2N1VjRWWEc1Y01sNUZrUFlDcVY1R2FtSk9TVVpsUXI1UlFwUXByM0VBM0VqZVNuWlRIeUt1SUs0Vk9HdU1USlFTTWxNUzBzdFNzMHJ3WERUTGw4ak5TbVZjaUxVQ2pBQ0FBIiwiaWQiOiJmY18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2RHTTNiRGhEU1RRNWRtTkRMV2xoV0ZsSlptcEdla0Y0TTBGSFNscG9Sa2M1Y1hjMU1ISjVNMVV4UkdWRFZrNWFTVXRqTVZwSWFFMTVWbk15VFZWM2RGVTRWa3BQRWhkMFEzZExXamx1WkUxS1MzSndkRkZRWjBwVFdUaFJVUm9pUVVaWWNrVmpjVU15ZGxSTGVVZ3ljR3gwVUMxd2RscFpSbDlPVW5WNFEwTlFRUSIsImZjdiI6IjMiLCJlaSI6InRDd0taOW5kTUpLcnB0UVBnSlNZOFFRIiwicWMiOiJDZ1Z3WVhOMFlSQUFmZTVPSFQ4IiwicXVlc3Rpb24iOiJJcyBwYXN0YSB1bmhlYWx0aHkgb3IgaGVhbHRoeT8iLCJsayI6ImM1T1N6U3hXS0Vnc0xrbFVLTTNMU0UzTUtjbW9WTWd2VW9BeUFRIiwiYnMiOiJjLU95NDVJT3owZ3NVVWdzU2xVd05GQW9xU3hJTFZiSVQxTW9TQ3d1U2JTWC1NUmpKQ01sVlk1VEJaY2JsenhjZjBrR1VJVVJwaGxwUmdwU2N1VjRWWEc1Y01sNUZrUFlDcVY1R2FtSk9TVVpsUXI1UlFwUXByM0VBM0VqZVNuWlRIeUt1SUs0Vk9HdU1USlFTTWxNUzBzdFNzMHJ3WERUTGw4ak5TbVZjaUxVQ2pBQ0FBIiwiaWQiOiJmY18yIn0%3D"
+    },
+    {
+      "question": "What are 20 different types of pasta?",
+      "title": "27 Types of Pasta and Their Uses",
+      "date": "Jan 8, 2024",
+      "link": "https://www.allrecipes.com/article/types-of-pasta/",
+      "list": [
+        "Angel Hair Pasta. The long, delicate strands of angel hair pasta (aka capellini) are best served in light or creamy sauces. ... ",
+        "Bow Tie Pasta (Farfalle) ... ",
+        "Bucatini Pasta. ... ",
+        "Ditalini Pasta. ... ",
+        "Egg Noodles. ... ",
+        "Fettuccine Pasta. ... ",
+        "Fusilli Pasta. ... ",
+        "Gemelli Pasta."
+      ],
+      "displayed_link": "https://www.allrecipes.com \u203a article \u203a types-of-pasta",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcVkKQ0wZKRBYZeJV6DNah2z9P0HoNbZacsCUh_g6o4Q&s",
+      "source_logo": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/a19e3976b72309b3164015c7ac3589265cee97e7d1aaff6991f268ad2bfe62df.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2RHTTNiRGhEU1RRNWRtTkRMV2xoV0ZsSlptcEdla0Y0TTBGSFNscG9Sa2M1Y1hjMU1ISjVNMVV4UkdWRFZrNWFTVXRqTVZwSWFFMTVWbk15VFZWM2RGVTRWa3BQRWhkMFEzZExXamx1WkUxS1MzSndkRkZRWjBwVFdUaFJVUm9pUVVaWWNrVmpjVU15ZGxSTGVVZ3ljR3gwVUMxd2RscFpSbDlPVW5WNFEwTlFRUSIsImZjdiI6IjMiLCJlaSI6InRDd0taOW5kTUpLcnB0UVBnSlNZOFFRIiwicWMiOiJDZ1Z3WVhOMFlSQUFmZTVPSFQ4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSAyMCBkaWZmZXJlbnQgdHlwZXMgb2YgcGFzdGE/IiwibGsiOiJHaVIzYUdGMElHRnlaU0F5TUNCa2FXWm1aWEpsYm5RZ2RIbHdaWE1nYjJZZ2NHRnpkR0UiLCJicyI6ImMtT3k0NUlPejBnc1VVZ3NTbFV3TkZBb3FTeElMVmJJVDFNb1NDd3VTYlNYLU1SakpDTWxWWTVUQlpjYmx6eGNmMGtHVUlVUnBobHBSZ3BTY3VWNFZYRzVjTWw1RmtQWUNxVjVHYW1KT1NVWmxRcjVSUXBRcHIzRUEzRWplU25aVEh5S3VJSzRWT0d1TVRKUVNNbE1TMHN0U3MwcndYRFRMbDhqTlNtVmNpTFVDakFDQUEiLCJpZCI6ImZjXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2RHTTNiRGhEU1RRNWRtTkRMV2xoV0ZsSlptcEdla0Y0TTBGSFNscG9Sa2M1Y1hjMU1ISjVNMVV4UkdWRFZrNWFTVXRqTVZwSWFFMTVWbk15VFZWM2RGVTRWa3BQRWhkMFEzZExXamx1WkUxS1MzSndkRkZRWjBwVFdUaFJVUm9pUVVaWWNrVmpjVU15ZGxSTGVVZ3ljR3gwVUMxd2RscFpSbDlPVW5WNFEwTlFRUSIsImZjdiI6IjMiLCJlaSI6InRDd0taOW5kTUpLcnB0UVBnSlNZOFFRIiwicWMiOiJDZ1Z3WVhOMFlSQUFmZTVPSFQ4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSAyMCBkaWZmZXJlbnQgdHlwZXMgb2YgcGFzdGE%2FIiwibGsiOiJHaVIzYUdGMElHRnlaU0F5TUNCa2FXWm1aWEpsYm5RZ2RIbHdaWE1nYjJZZ2NHRnpkR0UiLCJicyI6ImMtT3k0NUlPejBnc1VVZ3NTbFV3TkZBb3FTeElMVmJJVDFNb1NDd3VTYlNYLU1SakpDTWxWWTVUQlpjYmx6eGNmMGtHVUlVUnBobHBSZ3BTY3VWNFZYRzVjTWw1RmtQWUNxVjVHYW1KT1NVWmxRcjVSUXBRcHIzRUEzRWplU25aVEh5S3VJSzRWT0d1TVRKUVNNbE1TMHN0U3MwcndYRFRMbDhqTlNtVmNpTFVDakFDQUEiLCJpZCI6ImZjXzIifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Pasta",
+      "link": "https://en.wikipedia.org/wiki/Pasta",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Pasta&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4QFnoECHcQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Pasta",
+      "thumbnail": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/baec52660c961de5f2b6b75d373093f3d6aef78ea336bf6e875fdd93d31abf6a.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/baec52660c961de5f2b6b75d373093f3247c56060e262afcf7f9ca45d878d9e6.webp",
+      "snippet": "Pasta is a type of food typically made from an unleavened dough of wheat flour mixed with water or eggs, and formed into sheets or other shapes, ...",
+      "snippet_highlighted_words": [
+        "Pasta"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Homemade Pasta - Recipes by Love and Lemons",
+      "link": "https://www.loveandlemons.com/homemade-pasta-recipe/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.loveandlemons.com/homemade-pasta-recipe/&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4QFnoECFsQAQ",
+      "displayed_link": "https://www.loveandlemons.com \u203a Recipes",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG_vzka-mGF_1qeayUAZfWMTFNcyHFm9fTC1dyHtpUu3nS53n9zs6M&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/baec52660c961de5f2b6b75d373093f30c30e74e4b9a79a32dfd82686a8c7012.webp",
+      "snippet": "Fresh pasta is SO easy to make! This homemade pasta recipe uses just 4 ingredients - flour, eggs, olive oil, and salt - and it comes out perfect every time.",
+      "snippet_highlighted_words": [
+        "pasta",
+        "pasta"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "hr_min": 1
+          },
+          "extensions": [
+            "5.0(1,295)",
+            "1 hr 2 min"
+          ]
+        }
+      },
+      "source": "Love and Lemons"
+    },
+    {
+      "position": 3,
+      "title": "47 Pasta Recipes With Tons of Glowing, 5-Star Ratings",
+      "link": "https://www.foodnetwork.com/recipes/photos/5-star-pasta-recipes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.foodnetwork.com/recipes/photos/5-star-pasta-recipes&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4QFnoECFkQAQ",
+      "displayed_link": "https://www.foodnetwork.com \u203a Recipes",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZxjR3Wm1TdLSw8nO2xQXRxX8DJ4yClslDb5UcJnTfmSsyjccfaNPR&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/baec52660c961de5f2b6b75d373093f340d0d1edd4d90ab62ab44b0afa7acb0c.webp",
+      "snippet": "Satisfy your craving for carbs with one of these all-time-best pasta recipes from Food Network.",
+      "snippet_highlighted_words": [
+        "pasta"
+      ],
+      "source": "Food Network"
+    },
+    {
+      "position": 4,
+      "title": "Pasta",
+      "link": "https://www.youtube.com/playlist?list=PLU2I93QrktngTl9plWvvDCGZcOSJNOo_5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/playlist%3Flist%3DPLU2I93QrktngTl9plWvvDCGZcOSJNOo_5&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4QFnoFCIABEAE",
+      "displayed_link": "1.4M+ followers",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV07ES-tfa934HRPVdF4AzOa8_Ma0IPEopw0UBIJ8YOnFq-n5uMKXs&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/baec52660c961de5f2b6b75d373093f32f54c0fbe9fcc17e071b2a728c5a13e2.webp",
+      "snippet": "Pasta \u00b7 My family's favorite pasta recipe! I cook every weekend! \u00b7 I've Never Had Such Delicious Pasta! \u00b7 Do you have canned tuna and pasta at home? \u00b7 I have never ...",
+      "snippet_highlighted_words": [
+        "Pasta",
+        "pasta",
+        "Pasta",
+        "pasta"
+      ],
+      "source": "YouTube \u00b7 Hearty and tasty"
+    },
+    {
+      "position": 5,
+      "title": "Sfoglini Pasta | North American Organic Grain Pastas",
+      "link": "https://www.sfoglini.com/?srsltid=AfmBOootHQbvPwHze2JQZ1pH2YP4uoqzXQldyU9WOs1RdVDIVrL3cJCa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sfoglini.com/%3Fsrsltid%3DAfmBOootHQbvPwHze2JQZ1pH2YP4uoqzXQldyU9WOs1RdVDIVrL3cJCa&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4QFnoECFoQAQ",
+      "displayed_link": "https://www.sfoglini.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGBM0amqXlcdxlkjpu1DyA55r_tV9xNVuFB89yxBbmTdgLwECLSzAV&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/baec52660c961de5f2b6b75d373093f3e212a77a2b70e16343c645dfa9f230e8.webp",
+      "snippet": "Sfoglini pasta is made with premium semolina flour, milled from the heart of durum wheat, a staple in traditional Italian pasta for centuries.",
+      "snippet_highlighted_words": [
+        "pasta",
+        "pasta"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Pasta Club",
+            "link": "https://www.sfoglini.com/collections/pasta-of-the-month-club"
+          },
+          {
+            "title": "Pasta Club FAQS",
+            "link": "https://www.sfoglini.com/pages/pasta-club-faqs"
+          },
+          {
+            "title": "The Sfoglini Pasta Club",
+            "link": "https://www.sfoglini.com/products/the-sfoglini-pasta-club-a-year-of-pasta"
+          },
+          {
+            "title": "Shop All",
+            "link": "https://www.sfoglini.com/collections/shop-all"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 30
+          },
+          "extensions": [
+            "7",
+            "day delivery",
+            "\u200e30",
+            "day returns"
+          ]
+        }
+      },
+      "source": "Sfoglini"
+    },
+    {
+      "position": 6,
+      "title": "Pasta",
+      "link": "https://daily-harvest.com/collections/pasta?srsltid=AfmBOorb2H9drpsX3FQNnuvRdYEL_01pL9fNi674xoqui9olHWM95BYY",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://daily-harvest.com/collections/pasta%3Fsrsltid%3DAfmBOorb2H9drpsX3FQNnuvRdYEL_01pL9fNi674xoqui9olHWM95BYY&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4QFnoECF0QAQ",
+      "displayed_link": "https://daily-harvest.com \u203a collections \u203a pasta",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwuMhwotoTNIz5xwF3GllJnzMMQHj0mWR6aZvWEpFGWr7jEBjv553s&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/baec52660c961de5f2b6b75d373093f3eb9253fa17e49fd15730844553494c12.webp",
+      "snippet": "Gluten-free, dairy-free, and packed with vegetables, our pastas are nutrient-dense dishes designed to be shared...or not.",
+      "snippet_highlighted_words": [
+        "pastas"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "store_rating": 4.5,
+            "price": 9.99,
+            "currency": "$ \u2013 day delivery"
+          },
+          "extensions": [
+            "4.5store rating (214)",
+            "\u200e$9.99 1\u20134 day delivery"
+          ]
+        }
+      },
+      "source": "Daily Harvest"
+    },
+    {
+      "position": 7,
+      "title": "Banza Chickpea Pasta",
+      "link": "https://www.eatbanza.com/collections/pasta?srsltid=AfmBOorWjcgxDhdehUCmAMffnAlei06thNCybfwzBiqVMxkNYKMz9qG7",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.eatbanza.com/collections/pasta%3Fsrsltid%3DAfmBOorWjcgxDhdehUCmAMffnAlei06thNCybfwzBiqVMxkNYKMz9qG7&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4QFnoECFwQAQ",
+      "displayed_link": "https://www.eatbanza.com \u203a collections \u203a pasta",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9-Ubi2iYql98mT-5BkNmsdX-feLaztygGzL1xMXw&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/baec52660c961de5f2b6b75d373093f3a80f79d50ef21d1e526f02fb6cc845ae.webp",
+      "snippet": "Shop our delicious pasta made from chickpeas. Naturally gluten free, Banza has 25G of protein and 40% fewer net carbs in every serving.",
+      "snippet_highlighted_words": [
+        "pasta"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 26,
+            "currency": "$ to $",
+            "free_day_delivery": 6
+          },
+          "extensions": [
+            "$26 to $60",
+            "\u200eFree 6\u20139 day delivery"
+          ]
+        }
+      },
+      "source": "Banza"
+    },
+    {
+      "position": 8,
+      "title": "I could eat this pasta every day! Easy and delicious recipe ...",
+      "link": "https://www.youtube.com/watch?v=1oZS5_-8Vxk&vl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3D1oZS5_-8Vxk%26vl%3Den&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4QFnoECH4QAQ",
+      "displayed_link": "35.7K+ views \u00b7 1 month ago",
+      "favicon": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/baec52660c961de5f2b6b75d373093f3565176cebbd5ed8c9a0479e21b49d43d.webp",
+      "snippet": "3 zucchini \u00b7 250 g (9 oz) of pasta \u00b7 15 cherry tomatoes \u00b7 1 clove of garlic \u00b7 10 almonds \u00b7 Parmesan cheese \u00b7 80 g (3 oz) of cooked ham \u00b7 Olive ...",
+      "snippet_highlighted_words": [
+        "pasta"
+      ],
+      "source": "YouTube \u00b7 Ricette Perfette"
+    },
+    {
+      "position": 9,
+      "title": "Grain Free, Paleo-Friendly Cassava Pasta",
+      "link": "https://jovialfoods.com/grain-free/cassava-pasta/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jovialfoods.com/grain-free/cassava-pasta/&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4QFnoECGAQAQ",
+      "displayed_link": "https://jovialfoods.com \u203a grain-free \u203a cassava-pasta",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9NAvbmqpMPd52SKayUMpkRM60iszQLT6YsaaIdobFPBWD-6yUukB6&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/baec52660c961de5f2b6b75d373093f38cb7ede649e1bc5d65781b0005390dd1.webp",
+      "snippet": "Jovial cassava pasta is free from gluten, grains, the top 8 allergens, legumes, gums, starches and lectins!",
+      "snippet_highlighted_words": [
+        "pasta"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Grain Free Pasta Variety Pack",
+            "link": "https://jovialfoods.com/cassava-sample-pack/"
+          },
+          {
+            "title": "Cassava Spaghetti | Jovial",
+            "link": "https://jovialfoods.com/100-organic-grain-free-cassava-spaghetti/"
+          },
+          {
+            "title": "Jovial Cassava Penne",
+            "link": "https://jovialfoods.com/100-organic-grain-free-cassava-penne/"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 99,
+            "currency": "Free delivery over $",
+            "unknown": 30
+          },
+          "extensions": [
+            "$5 to $23",
+            "\u200eFree delivery over $99",
+            "\u200e30",
+            "day returns"
+          ]
+        }
+      },
+      "source": "Jovial Foods"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&tbs=lf:1,lf_ui:9&tbm=lcl&q=pasta&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4QjGp6BAhIEAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pasta&tbs=lf%3A1%2Clf_ui%3A9&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Pasta recipes",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Pasta+recipes&sa=X&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Q1QJ6BQiNARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pasta+recipes"
+    },
+    {
+      "block_position": 1,
+      "query": "Pasta types",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Pasta+types&sa=X&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Q1QJ6BQiMARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pasta+types"
+    },
+    {
+      "block_position": 1,
+      "query": "Pasta Maggi",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Pasta+Maggi&sa=X&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Q1QJ6BQiLARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pasta+Maggi"
+    },
+    {
+      "block_position": 1,
+      "query": "Pasta Food",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Pasta+Food&sa=X&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Q1QJ6BQiHARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pasta+Food"
+    },
+    {
+      "block_position": 1,
+      "query": "Pasta packet",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Pasta+packet&sa=X&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Q1QJ6BQiJARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pasta+packet"
+    },
+    {
+      "block_position": 1,
+      "query": "Simple pasta recipes",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Simple+pasta+recipes&sa=X&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Q1QJ6BQiKARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Simple+pasta+recipes"
+    },
+    {
+      "block_position": 1,
+      "query": "Pasta restaurant",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Pasta+restaurant&sa=X&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Q1QJ6BQiIARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pasta+restaurant"
+    },
+    {
+      "block_position": 1,
+      "query": "Pasta price",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Pasta+price&sa=X&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Q1QJ6BQiOARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pasta+price"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Any low effort pasta recipes?",
+      "link": "https://www.reddit.com/r/cookingforbeginners/comments/1cfvdjc/any_low_effort_pasta_recipes/",
+      "date": "5mo ago",
+      "extensions": [
+        "r/cookingforbeginners",
+        "130+ comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "Best Homemade Pasta Recipe Help",
+      "link": "https://www.reddit.com/r/pasta/comments/18x6qc6/best_homemade_pasta_recipe_help/",
+      "date": "9mo ago",
+      "extensions": [
+        "r/pasta",
+        "10+ comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "What's your favourite pasta recipe? (cooking forum at permies)",
+      "link": "https://permies.com/t/92776/favourite-pasta-recipe",
+      "date": "6y ago",
+      "source": "permies.com"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Types and names",
+        "subtitle": "Pasta Types And Names",
+        "title": "31 Different Types of Pasta and How To Use Them - Cozymeal",
+        "link": "https://www.cozymeal.com/magazine/types-of-pasta",
+        "displayed_link": "https://www.cozymeal.com \u203a magazine \u203a types-of-pasta",
+        "date": "Jun 6, 2024",
+        "snippet": "Long Types of Pasta",
+        "snippet_highlighted_words": [
+          "Long Types of Pasta"
+        ],
+        "list": [
+          "Spaghetti. The type of pasta that needs no introduction is spaghetti. ... ",
+          "Capelli D'Angelo. Capelli D'Angelo is known more commonly in English as angel hair pasta. ... ",
+          "Fettuccine. This type of pasta is the ultimate comfort food. ... ",
+          "Tagliatelle. ... ",
+          "Bucatini. ... ",
+          "Pappardelle. ... ",
+          "Linguine. ... ",
+          "Vermicelli."
+        ],
+        "favicon": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/30b27120c605c5af0d702f7f37198ae5a23b688ab623eda2c0ad236ccf3277d7fe8628a44431f2a5.png",
+        "source": "cozymeal.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=pasta+types+and+names&sa=X&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4QrooIegQIVhAF",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pasta+types+and+names"
+      },
+      {
+        "text": "Healthy or not",
+        "subtitle": "Is Pasta Healthy?",
+        "title": "Buon Appetito: 14 Reasons to Eat More Pasta - WebMD",
+        "link": "https://www.webmd.com/food-recipes/ss/slideshow-eat-pasta#:~:text=It's%20Part%20of%20a%20Good,and%20may%20help%20lower%20cholesterol.",
+        "displayed_link": "https://www.webmd.com \u203a slideshow-eat-pasta",
+        "date": "Aug 31, 2024",
+        "snippet": "It's Part of a Good Diet Pasta is made from grain, one of the basic food groups in a healthy diet that also can include vegetables, fruits, fish, and poultry. It's a good source of energy and can give you fiber, too, if it's made from whole grain. That can help with stomach problems and may help lower cholesterol.",
+        "snippet_highlighted_words": [
+          "It's Part of a Good Diet"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/30b27120c605c5af0d702f7f37198ae532b1a882aa3d915f18e6e739deff13a2dfac3da2aae97ceb.png",
+        "source": "webmd.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=is+pasta+healthy&sa=X&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4QrooIegQIVhAK",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=is+pasta+healthy"
+      },
+      {
+        "text": "Materials",
+        "subtitle": "What Is Pasta Made Of?",
+        "title": "How Is Pasta Made? - YouTube",
+        "link": "https://www.youtube.com/watch?v=u03XLe4GBLQ",
+        "displayed_link": "https://www.youtube.com \u203a watch",
+        "snippet": "When durum wheat is milled the grain is ground into a granular flower called semolina durum wheat is the hardest of wheat varieties. Making it perfect for pasta production.",
+        "favicon": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/30b27120c605c5af0d702f7f37198ae5bc53c0d4f16ad18194de1b27a1197b3bf62749916d423e8d.png",
+        "source": "youtube.com",
+        "thumbnail": "https://img.youtube.com/vi/u03XLe4GBLQ/hqdefault.jpg",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=what+is+pasta+made+of&sa=X&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4QrooIegQIVhAP",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+is+pasta+made+of"
+      },
+      {
+        "text": "Protein Amount",
+        "subtitle": "Protein In Pasta",
+        "title": "Best Pasta for Protein: Are There Health Benefits of Pasta? - Wildgrain",
+        "link": "https://wildgrain.com/blogs/news/best-pasta-protein#:~:text=Yes%2C%20pasta%20contains%20protein%2C%20and,typically%20used%20to%20make%20pasta.",
+        "displayed_link": "https://wildgrain.com \u203a blogs \u203a news \u203a best-pasta-protein",
+        "snippet": "Yes, pasta contains protein, and it has a fair amount of it. For every cup of cooked white or whole grain pasta, there are roughly 6-8 grams of protein. This protein content is derived from the durum wheat in semolina flour which is typically used to make pasta.",
+        "snippet_highlighted_words": [
+          "6-8 grams"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2cafd997abf67106dcd4/images/30b27120c605c5af0d702f7f37198ae59b3d7ebc821ddc74313a3eb0045c3a2a0144eb9a430917d4.png",
+        "source": "wildgrain.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-r2h7BqKija4EZw-kP7X23x7zbIh6psxOrBGOSRTsZw&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=protein+in+pasta&sa=X&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4QrooIegQIVhAX",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=protein+in+pasta"
+      },
+      {
+        "text": "Calories",
+        "subtitle": "Pasta Calories",
+        "table": [
+          [
+            "Amount Per 2 oz (57 g)100 grams2 oz (57 g)"
+          ],
+          [
+            "Calories 75"
+          ]
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=pasta+calories&sa=X&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4QrooIegQIVhAc",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pasta+calories"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=pasta&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=tCwKZ9ndMJKrptQPgJSY8QQ&start=10&sa=N&sstk=AagrsujTbT47I8vEsa21L_I_YXNGy5tb_RJvq8QKUw1h6_uUP6Fe6l2NnCiK5LM87K-jNGpbu9-No22oumsnmDMvE2ixosHqSmOfgg&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Q8NMDegQIFRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=pasta&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=tCwKZ9ndMJKrptQPgJSY8QQ&start=10&sa=N&sstk=AagrsujTbT47I8vEsa21L_I_YXNGy5tb_RJvq8QKUw1h6_uUP6Fe6l2NnCiK5LM87K-jNGpbu9-No22oumsnmDMvE2ixosHqSmOfgg&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Q8tMDegQIFRAE",
+      "3": "https://www.google.com/search?q=pasta&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=tCwKZ9ndMJKrptQPgJSY8QQ&start=20&sa=N&sstk=AagrsujTbT47I8vEsa21L_I_YXNGy5tb_RJvq8QKUw1h6_uUP6Fe6l2NnCiK5LM87K-jNGpbu9-No22oumsnmDMvE2ixosHqSmOfgg&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Q8tMDegQIFRAG",
+      "4": "https://www.google.com/search?q=pasta&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=tCwKZ9ndMJKrptQPgJSY8QQ&start=30&sa=N&sstk=AagrsujTbT47I8vEsa21L_I_YXNGy5tb_RJvq8QKUw1h6_uUP6Fe6l2NnCiK5LM87K-jNGpbu9-No22oumsnmDMvE2ixosHqSmOfgg&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Q8tMDegQIFRAI",
+      "5": "https://www.google.com/search?q=pasta&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=tCwKZ9ndMJKrptQPgJSY8QQ&start=40&sa=N&sstk=AagrsujTbT47I8vEsa21L_I_YXNGy5tb_RJvq8QKUw1h6_uUP6Fe6l2NnCiK5LM87K-jNGpbu9-No22oumsnmDMvE2ixosHqSmOfgg&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Q8tMDegQIFRAK",
+      "6": "https://www.google.com/search?q=pasta&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=tCwKZ9ndMJKrptQPgJSY8QQ&start=50&sa=N&sstk=AagrsujTbT47I8vEsa21L_I_YXNGy5tb_RJvq8QKUw1h6_uUP6Fe6l2NnCiK5LM87K-jNGpbu9-No22oumsnmDMvE2ixosHqSmOfgg&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Q8tMDegQIFRAM",
+      "7": "https://www.google.com/search?q=pasta&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=tCwKZ9ndMJKrptQPgJSY8QQ&start=60&sa=N&sstk=AagrsujTbT47I8vEsa21L_I_YXNGy5tb_RJvq8QKUw1h6_uUP6Fe6l2NnCiK5LM87K-jNGpbu9-No22oumsnmDMvE2ixosHqSmOfgg&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Q8tMDegQIFRAO",
+      "8": "https://www.google.com/search?q=pasta&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=tCwKZ9ndMJKrptQPgJSY8QQ&start=70&sa=N&sstk=AagrsujTbT47I8vEsa21L_I_YXNGy5tb_RJvq8QKUw1h6_uUP6Fe6l2NnCiK5LM87K-jNGpbu9-No22oumsnmDMvE2ixosHqSmOfgg&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Q8tMDegQIFRAQ",
+      "9": "https://www.google.com/search?q=pasta&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=tCwKZ9ndMJKrptQPgJSY8QQ&start=80&sa=N&sstk=AagrsujTbT47I8vEsa21L_I_YXNGy5tb_RJvq8QKUw1h6_uUP6Fe6l2NnCiK5LM87K-jNGpbu9-No22oumsnmDMvE2ixosHqSmOfgg&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Q8tMDegQIFRAS",
+      "10": "https://www.google.com/search?q=pasta&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=tCwKZ9ndMJKrptQPgJSY8QQ&start=90&sa=N&sstk=AagrsujTbT47I8vEsa21L_I_YXNGy5tb_RJvq8QKUw1h6_uUP6Fe6l2NnCiK5LM87K-jNGpbu9-No22oumsnmDMvE2ixosHqSmOfgg&ved=2ahUKEwjZh6eFsIiJAxWSlYkEHQAKJk4Q8tMDegQIFRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pasta&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pasta&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pasta&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pasta&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pasta&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pasta&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pasta&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pasta&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pasta&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pasta&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pasta&start=90"
+    }
+  }
+}

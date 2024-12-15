@@ -1,0 +1,805 @@
+{
+  "search_metadata": {
+    "id": "670a174448c429ded6a443ee",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/230d7ecf612e896c/670a174448c429ded6a443ee.json",
+    "created_at": "2024-10-12 06:29:24 UTC",
+    "processed_at": "2024-10-12 06:29:24 UTC",
+    "google_url": "https://www.google.com/search?q=lobster&oq=lobster&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/230d7ecf612e896c/670a174448c429ded6a443ee.html",
+    "total_time_taken": 2.76
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "lobster",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "lobster",
+    "total_results": 248000000,
+    "time_taken_displayed": 0.29,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=lobster&npsic=0&rflfq=1&rldoc=1&rllag=30268640,-97749144,617&tbm=lcl&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQtgN6BAhGEAI",
+    "image": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/2ff7828a00ae4d00b4ed6cf8341b3e50.png",
+    "gps_coordinates": {
+      "latitude": 30.26864,
+      "longitude": -97.749144
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.5,
+        "reviews_original": "(260)",
+        "reviews": 260,
+        "description": "\"The lobster was incredibly fresh and the service was outstanding.\"",
+        "lsig": "AB86z5VxihrZb5sh6oaQPP8VRfgV",
+        "thumbnail": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/c5c897e34d0591a14be96c54dea4389328d82d97bad12f7d9947406cb72e43c54fad0bfe8fb13e9a.jpeg",
+        "title": "Mason's Famous Lobster Rolls",
+        "type": "Seafood",
+        "address": "200 Congress Ave.",
+        "hours": "Closed \u22c5 Opens 11 AM",
+        "place_id": "2396797749345171246",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=2396797749345171246&q=lobster",
+        "gps_coordinates": {
+          "latitude": 30.264704,
+          "longitude": -97.744606
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.6,
+        "reviews_original": "(97)",
+        "reviews": 97,
+        "description": "\"It had an ample amount of lobster meat and a delicious flavor.\"",
+        "lsig": "AB86z5VMHL7pMudQZ_QOd9K77hAk",
+        "thumbnail": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/c5c897e34d0591a14be96c54dea43893f040efc692aeb6f7ebed51670ab5c4d819d456b7484d0c9e.jpeg",
+        "title": "Garbo's",
+        "type": "Seafood",
+        "address": "626 N Lamar Blvd",
+        "hours": "Closed \u22c5 Opens 11 AM",
+        "place_id": "7869177612371840578",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=7869177612371840578&q=lobster",
+        "gps_coordinates": {
+          "latitude": 30.272581,
+          "longitude": -97.75368
+        }
+      },
+      {
+        "position": 3,
+        "rating": 4.7,
+        "reviews_original": "(1.7K)",
+        "reviews": 1700,
+        "description": "\"The Lobster Bisque was delicious with nice big chunks of Lobster.\"",
+        "lsig": "AB86z5XHWVYkhG5TIkr4u9WA4KZO",
+        "thumbnail": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/c5c897e34d0591a14be96c54dea438939cd193b6c423f1a5a7cfb328ab48f1bbc715e9ace57accab.jpeg",
+        "title": "Truluck's Ocean's Finest Seafood & Crab",
+        "type": "Seafood",
+        "address": "300 Colorado St",
+        "hours": "Closed \u22c5 Opens 4:30 PM",
+        "place_id": "13514735727124765649",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=13514735727124765649&q=lobster",
+        "gps_coordinates": {
+          "latitude": 30.265968,
+          "longitude": -97.74532
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=lobster&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQjGp6BAhHEAE"
+  },
+  "knowledge_graph": {
+    "title": "Lobster",
+    "type": "Animal",
+    "entity_type": "biology, animal",
+    "kgmid": "/m/0cjq5",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0cjq5&hl=en-US&q=Lobster",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0cjq5&location=Austin%2CTexas%2CUnited+States&q=Lobster",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/80a2fc0d0c283adf4d0fca595e1f94cc88b6565c1e45b47b9ed45f41dcd51d44fab002847e329e9f.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/80a2fc0d0c283adf4d0fca595e1f94cc88b6565c1e45b47b16f0b49de56a0c20c0170fc8d6699a20.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/80a2fc0d0c283adf4d0fca595e1f94cc88b6565c1e45b47bfde10e546f9e6ed18fc034cffc409da6.webp"
+      }
+    ],
+    "class": "Malacostraca",
+    "class_links": [
+      {
+        "text": "Malacostraca",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Malacostraca&stick=H4sIAAAAAAAAAONgVuLUz9U3MDLPKqpaxMrjm5iTmJxfXFKUmJwIAIIqqJQcAAAA&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQmxMoAHoECDcQAg"
+      }
+    ],
+    "domain": "Eukaryota",
+    "family": "Nephropidae; Dana, 1852",
+    "kingdom": "Animalia",
+    "web_results": [
+      {
+        "snippet": "Lobsters are malacostracans of the family Nephropidae or its synonym Homaridae. They have long bodies with muscular tails and live in crevices or burrows on the sea floor. Three of their five pairs of legs have claws, including the first pair, which are usually much larger than the others.",
+        "source": "Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Lobster"
+      },
+      {
+        "title": "Scientific name",
+        "snippet": "Nephropidae",
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=lobster+scientific+name&stick=H4sIAAAAAAAAAOPgE-LQz9U3SM4qNNWyz0620k_KzM_JT6_Uzy9KT8zLLM6NT85JLC7OTMtMTizJzM-zKk7OTM0rAfEV8hJzUxUS81IUclOBSvPSF7GK5-QnFZekFimgqQIAWH9Fu2cAAAA&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQ18AJegQIPxAB"
+      },
+      {
+        "title": "Carb count",
+        "snippet": "0 g",
+        "source": "medicalnewstoday.com",
+        "link": "https://www.medicalnewstoday.com/articles/303332"
+      }
+    ]
+  },
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8f82b3d7d04ebcf961eafc9da5140dcd3feb7d83146f7ac0320cbf96ed31ed5f.webp",
+      "source_logo": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8f82b3d7d04ebcf961eafc9da5140dcd8cfac2d1a6f0dee9dd60dd33f811aca5364a5ea852468d25.png",
+      "source": "H-E-B",
+      "title": "Scout Atlantic Canadian Lobster",
+      "rating": 4.1,
+      "reviews": 66,
+      "price": "$12.46",
+      "extracted_price": 12.46,
+      "location": "12 mi \u00b7 In stock",
+      "immersive_product_page_token": "eyJlaSI6IlJSY0taLUtVSExHc3B0UVA0X3ZXNEEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODM1Mzg1ODYwMDA1NzM2MTExMiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTU3MzQ0MzYwOTQ3NjExMzU1OCIsImltYWdlRG9jaWQiOiIzMjIwNDcwODExOTk5MzU1MDQiLCJyZHMiOiJQQ18xMzA1NjIyNjcyNzA1MjM3NzY5M3xQUk9EX1BDXzEzMDU2MjI2NzI3MDUyMzc3NjkzIiwicXVlcnkiOiJsb2JzdGVyIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlJSY0taLUtVSExHc3B0UVA0X3ZXNEEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODM1Mzg1ODYwMDA1NzM2MTExMiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTU3MzQ0MzYwOTQ3NjExMzU1OCIsImltYWdlRG9jaWQiOiIzMjIwNDcwODExOTk5MzU1MDQiLCJyZHMiOiJQQ18xMzA1NjIyNjcyNzA1MjM3NzY5M3xQUk9EX1BDXzEzMDU2MjI2NzI3MDUyMzc3NjkzIiwicXVlcnkiOiJsb2JzdGVyIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8f82b3d7d04ebcf961eafc9da5140dcd999d74862ca7d2c80c2eaf1422309d45.webp",
+      "source_logo": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8f82b3d7d04ebcf961eafc9da5140dcd47cd80b653be02a475bafcc2abea6e76d098773e05b6d7e8.png",
+      "source": "Walmart",
+      "title": "Wild Caught Cold Water Lobster Tails 7 oz",
+      "rating": 1.9,
+      "reviews": 62,
+      "price": "$16.92",
+      "extracted_price": 16.92,
+      "immersive_product_page_token": "eyJlaSI6IlJSY0taLUtVSExHc3B0UVA0X3ZXNEEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzUwMjM1ODYzMjAxMDc2MzM5NyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQ4ODQ2NTY4NDIxMDMyNTA5MzYiLCJpbWFnZURvY2lkIjoiMTcwODIxNzM0NjcxOTE4ODY4MzQiLCJyZHMiOiJQQ181ODIwNTEwODc2OTg2MTkxMTYwfFBST0RfUENfNTgyMDUxMDg3Njk4NjE5MTE2MCIsInF1ZXJ5IjoibG9ic3RlciJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlJSY0taLUtVSExHc3B0UVA0X3ZXNEEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzUwMjM1ODYzMjAxMDc2MzM5NyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQ4ODQ2NTY4NDIxMDMyNTA5MzYiLCJpbWFnZURvY2lkIjoiMTcwODIxNzM0NjcxOTE4ODY4MzQiLCJyZHMiOiJQQ181ODIwNTEwODc2OTg2MTkxMTYwfFBST0RfUENfNTgyMDUxMDg3Njk4NjE5MTE2MCIsInF1ZXJ5IjoibG9ic3RlciJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8f82b3d7d04ebcf961eafc9da5140dcdf155e068251dd0bfb5c57cc276682808.webp",
+      "source_logo": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8f82b3d7d04ebcf961eafc9da5140dcda4b1b4737b45b35db393cac9c54321885074705cd6a908f6.png",
+      "source": "Lobster Trap Company",
+      "title": "2 lb Fresh Live Maine Lobster",
+      "price": "$39.00",
+      "extracted_price": 39.0,
+      "immersive_product_page_token": "eyJlaSI6IlJSY0taLUtVSExHc3B0UVA0X3ZXNEEwIiwicHJvZHVjdGlkIjoiNTM3OTQ3MDIxODYxNjA2OTcyMSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTM3OTQ3MDIxODYxNjA2OTcyMSIsImltYWdlRG9jaWQiOiI5NjM3NjY4ODYzMzcxMDg3MzEwIiwicmRzIjoiIiwicXVlcnkiOiJsb2JzdGVyIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlJSY0taLUtVSExHc3B0UVA0X3ZXNEEwIiwicHJvZHVjdGlkIjoiNTM3OTQ3MDIxODYxNjA2OTcyMSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTM3OTQ3MDIxODYxNjA2OTcyMSIsImltYWdlRG9jaWQiOiI5NjM3NjY4ODYzMzcxMDg3MzEwIiwicmRzIjoiIiwicXVlcnkiOiJsb2JzdGVyIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8f82b3d7d04ebcf961eafc9da5140dcd6c2a62c9df5a2f4b17990acedda74fd9.webp",
+      "source_logo": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8f82b3d7d04ebcf961eafc9da5140dcde27bc32789be24530c476b0b7395c9f81ab68b1900a24eec.png",
+      "source": "Angie's Lobster",
+      "title": "Maine Lobster Meat",
+      "rating": 4.8,
+      "reviews": 280,
+      "price": "$40.00",
+      "extracted_price": 40.0,
+      "delivery": "Free by 10/21",
+      "immersive_product_page_token": "eyJlaSI6IlJSY0taLUtVSExHc3B0UVA0X3ZXNEEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ5NjMyNjcxMjU4NTI1MzMzNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTI4NjM4MjkyOTAyODE3NzkzMTIiLCJpbWFnZURvY2lkIjoiNjA2NjU0ODkxMjQ0MTIwNzI2IiwicmRzIjoiUENfMzI5NTIxNTU2MTE0Mzg0ODg3MHxQUk9EX1BDXzMyOTUyMTU1NjExNDM4NDg4NzAiLCJxdWVyeSI6ImxvYnN0ZXIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlJSY0taLUtVSExHc3B0UVA0X3ZXNEEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ5NjMyNjcxMjU4NTI1MzMzNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTI4NjM4MjkyOTAyODE3NzkzMTIiLCJpbWFnZURvY2lkIjoiNjA2NjU0ODkxMjQ0MTIwNzI2IiwicmRzIjoiUENfMzI5NTIxNTU2MTE0Mzg0ODg3MHxQUk9EX1BDXzMyOTUyMTU1NjExNDM4NDg4NzAiLCJxdWVyeSI6ImxvYnN0ZXIifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8f82b3d7d04ebcf961eafc9da5140dcd0e244157574c71665b61d14ebbff04b3.webp",
+      "source_logo": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8f82b3d7d04ebcf961eafc9da5140dcde6446d81ab9b7edf0dbbc27e68f1ef0eaecd5ff134ae283c.png",
+      "source": "Lobster Anywhere",
+      "title": "Jumbo Lobster Tails (8-10 oz.) Lobster || Lobster Anywhere",
+      "rating": 4.9,
+      "reviews": 439,
+      "price": "$39.00",
+      "extracted_price": 39.0,
+      "immersive_product_page_token": "eyJlaSI6IlJSY0taLUtVSExHc3B0UVA0X3ZXNEEwIiwicHJvZHVjdGlkIjoiNTY3MTk0OTg2MTE0NDM4NTU3NCIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTY3MTk0OTg2MTE0NDM4NTU3NCIsImltYWdlRG9jaWQiOiI5MDczNTIyMTg1MjI1ODQ4MDgzIiwicmRzIjoiTE9fNTY3MTk0OTg2MTE0NDM4NTU3NHxQUk9EX0xPXzU2NzE5NDk4NjExNDQzODU1NzQiLCJxdWVyeSI6ImxvYnN0ZXIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlJSY0taLUtVSExHc3B0UVA0X3ZXNEEwIiwicHJvZHVjdGlkIjoiNTY3MTk0OTg2MTE0NDM4NTU3NCIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTY3MTk0OTg2MTE0NDM4NTU3NCIsImltYWdlRG9jaWQiOiI5MDczNTIyMTg1MjI1ODQ4MDgzIiwicmRzIjoiTE9fNTY3MTk0OTg2MTE0NDM4NTU3NHxQUk9EX0xPXzU2NzE5NDk4NjExNDQzODU1NzQiLCJxdWVyeSI6ImxvYnN0ZXIifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8f82b3d7d04ebcf961eafc9da5140dcdc1fb0499af489fd038ac8ec2fcf495e7.webp",
+      "source_logo": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8f82b3d7d04ebcf961eafc9da5140dcdf6167e8d487ba7d3e4cb70d034484b669e19c47b374f3605.png",
+      "source": "Caviar Star",
+      "title": "Maine Lobster Meat Cooked Claw and Knuckle",
+      "rating": 4.8,
+      "reviews": 11,
+      "price": "$130.00",
+      "extracted_price": 130.0,
+      "immersive_product_page_token": "eyJlaSI6IlJSY0taLUtVSExHc3B0UVA0X3ZXNEEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODIxNDMzNjEzMjg4MzIxNjc5NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTcxNTY3MjQ2NDQyMzY3NjM4MjQiLCJpbWFnZURvY2lkIjoiMTUzNzc3NTcwODI2Mjk5MTUyMzMiLCJyZHMiOiJQQ18yMzQ2NzA3NDM0ODg2ODE0ODc0fFBST0RfUENfMjM0NjcwNzQzNDg4NjgxNDg3NCIsInF1ZXJ5IjoibG9ic3RlciJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlJSY0taLUtVSExHc3B0UVA0X3ZXNEEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODIxNDMzNjEzMjg4MzIxNjc5NiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTcxNTY3MjQ2NDQyMzY3NjM4MjQiLCJpbWFnZURvY2lkIjoiMTUzNzc3NTcwODI2Mjk5MTUyMzMiLCJyZHMiOiJQQ18yMzQ2NzA3NDM0ODg2ODE0ODc0fFBST0RfUENfMjM0NjcwNzQzNDg4NjgxNDg3NCIsInF1ZXJ5IjoibG9ic3RlciJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8f82b3d7d04ebcf961eafc9da5140dcdf07865b40d12ca8c5969d1297573008a.webp",
+      "source_logo": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8f82b3d7d04ebcf961eafc9da5140dcd55683834377154ac651df2e5d41e7826d6c86607e0d32c38.png",
+      "source": "Omaha Steaks",
+      "title": "Omaha Steaks Cold Water Lobster Tails",
+      "price": "$54.99",
+      "extracted_price": 54.99,
+      "original_price": "$110",
+      "extracted_original_price": 110,
+      "delivery": "Free $149+",
+      "extensions": [
+        "50% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IlJSY0taLUtVSExHc3B0UVA0X3ZXNEEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjQzMzA0NjUxOTg0MjY1MzM4MCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTY3NjEyNzM4NzEyNjk5OTkzNiIsImltYWdlRG9jaWQiOiIxNjQ5NzQ0OTEzNjA3OTY2NTI3OCIsInJkcyI6IiIsInF1ZXJ5IjoibG9ic3RlciJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlJSY0taLUtVSExHc3B0UVA0X3ZXNEEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjQzMzA0NjUxOTg0MjY1MzM4MCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTY3NjEyNzM4NzEyNjk5OTkzNiIsImltYWdlRG9jaWQiOiIxNjQ5NzQ0OTEzNjA3OTY2NTI3OCIsInJkcyI6IiIsInF1ZXJ5IjoibG9ic3RlciJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8f82b3d7d04ebcf961eafc9da5140dcdd4345682cbde1379f69e717dbfdf86be.webp",
+      "source_logo": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8f82b3d7d04ebcf961eafc9da5140dcd03dff566f81ee409ababbd08315878063020c70724895dfb.png",
+      "source": "Cafasso's a Casa Catering",
+      "title": "Live Lobster 1 1/2 lb",
+      "price": "$10.99",
+      "extracted_price": 10.99,
+      "immersive_product_page_token": "eyJlaSI6IlJSY0taLUtVSExHc3B0UVA0X3ZXNEEwIiwicHJvZHVjdGlkIjoiNTc5MzAzMjI3NjE0NDMwMjg5MSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTc5MzAzMjI3NjE0NDMwMjg5MSIsImltYWdlRG9jaWQiOiIxMDA4MTcxMDg3MzczMzc4OTM4MiIsInJkcyI6IiIsInF1ZXJ5IjoibG9ic3RlciJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlJSY0taLUtVSExHc3B0UVA0X3ZXNEEwIiwicHJvZHVjdGlkIjoiNTc5MzAzMjI3NjE0NDMwMjg5MSIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTc5MzAzMjI3NjE0NDMwMjg5MSIsImltYWdlRG9jaWQiOiIxMDA4MTcxMDg3MzczMzc4OTM4MiIsInJkcyI6IiIsInF1ZXJ5IjoibG9ic3RlciJ9"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Are lobsters healthy to eat?",
+      "snippet": "It's not as rich in omega-3 as fatty fishes like salmon and mackerel, but lobster is a lean, low-calorie source of protein with a number of vitamins and minerals, including zinc and calcium. While it is relatively high in cholesterol, Rimm says that's no reason to be concerned.",
+      "title": "Lobster's healthfulness depends on how it's served | News",
+      "link": "https://www.hsph.harvard.edu/news/hsph-in-the-news/lobster-healthy-protein/#:~:text=It's%20not%20as%20rich%20in,no%20reason%20to%20be%20concerned.",
+      "displayed_link": "https://www.hsph.harvard.edu \u203a lobster-healthy-protein",
+      "source_logo": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/a55905b960efd169976af7427a2204ddb46caf39d8f66627136ae39f0ff07630.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2FuZHViVFI0Wld0elExUlRVRWN4TWtrNWJuVjRiV0owUTFkUlEwNUVkV2xDZFV0V1pIUkpiVmc1Y3pKaVp6aDJNRmxXU0dacmNXaFBlRWh6YlZSbFV6ZFNTVEZDRWhkU1VtTkxXaTFMVlVoTVIzTndkRkZRTkY5MlZ6UkJNQm9pUVVaWWNrVmpjV2xwUkhGR1dETXlhbnBUWHpWNmVISlpWa0o2ZERCSFkwZHdkdyIsImZjdiI6IjMiLCJlaSI6IlJSY0taLUtVSExHc3B0UVA0X3ZXNEEwIiwicWMiOiJDZ2RzYjJKemRHVnlFQUI5dWtrc1B3IiwicXVlc3Rpb24iOiJBcmUgbG9ic3RlcnMgaGVhbHRoeSB0byBlYXQ/IiwibGsiOiJHaHRoY21VZ2JHOWljM1JsY25NZ2FHVmhiSFJvZVNCMGJ5QmxZWFEiLCJicyI6ImMtTnk0Skp4TEVwVnlNbFBLaTVKTFNwV3lFaE56Q25KcUZRb3lWZElUU3l4bDNoalp5UXJKWjJJV3drWDBJUndJQy16R0taQ29SZ29VVkdRbWxlY1daWnFMekUxSEdSQ09XNGxYSTVjU3VFWmlTVWctWklNb0VXWmFhbkZCWWw1Q3ZscENva3dIZllTRzRPTkpLVEVRSklLR0xKY0hsd0tZQ05RSEpxY2sxaGNuSm1XbVpxaWtGZ005SXF5a2FLVWZEbC1aUUtNQUEiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2FuZHViVFI0Wld0elExUlRVRWN4TWtrNWJuVjRiV0owUTFkUlEwNUVkV2xDZFV0V1pIUkpiVmc1Y3pKaVp6aDJNRmxXU0dacmNXaFBlRWh6YlZSbFV6ZFNTVEZDRWhkU1VtTkxXaTFMVlVoTVIzTndkRkZRTkY5MlZ6UkJNQm9pUVVaWWNrVmpjV2xwUkhGR1dETXlhbnBUWHpWNmVISlpWa0o2ZERCSFkwZHdkdyIsImZjdiI6IjMiLCJlaSI6IlJSY0taLUtVSExHc3B0UVA0X3ZXNEEwIiwicWMiOiJDZ2RzYjJKemRHVnlFQUI5dWtrc1B3IiwicXVlc3Rpb24iOiJBcmUgbG9ic3RlcnMgaGVhbHRoeSB0byBlYXQ%2FIiwibGsiOiJHaHRoY21VZ2JHOWljM1JsY25NZ2FHVmhiSFJvZVNCMGJ5QmxZWFEiLCJicyI6ImMtTnk0Skp4TEVwVnlNbFBLaTVKTFNwV3lFaE56Q25KcUZRb3lWZElUU3l4bDNoalp5UXJKWjJJV3drWDBJUndJQy16R0taQ29SZ29VVkdRbWxlY1daWnFMekUxSEdSQ09XNGxYSTVjU3VFWmlTVWctWklNb0VXWmFhbkZCWWw1Q3ZscENva3dIZllTRzRPTkpLVEVRSklLR0xKY0hsd0tZQ05RSEpxY2sxaGNuSm1XbVpxaWtGZ005SXF5a2FLVWZEbC1aUUtNQUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+    },
+    {
+      "question": "Why is lobster so expensive?",
+      "snippet": "Insider reports that this is in part because the crustaceans require so much maintenance: they grow slowly, eat a lot, and are susceptible to diseases. A lot of technology goes into not only encouraging the lobsters' healthy growth but also maintaining their health as they're shipped alive across the country.",
+      "title": "Why Does Lobster Cost So Much? - The Takeout",
+      "date": "Aug 28, 2024",
+      "link": "https://www.thetakeout.com/why-does-lobster-cost-so-damn-much-1848933262/#:~:text=Insider%20reports%20that%20this%20is,shipped%20alive%20across%20the%20country.",
+      "displayed_link": "https://www.thetakeout.com \u203a why-does-lobster-cost-so-...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOBPHauteqDD3XLQmV7VNcwspNCWi-FBZxD3EbnG-0FA&s",
+      "source_logo": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/a55905b960efd169976af7427a2204ddec0482ad42b19f329bda636542ff49e3.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2FuZHViVFI0Wld0elExUlRVRWN4TWtrNWJuVjRiV0owUTFkUlEwNUVkV2xDZFV0V1pIUkpiVmc1Y3pKaVp6aDJNRmxXU0dacmNXaFBlRWh6YlZSbFV6ZFNTVEZDRWhkU1VtTkxXaTFMVlVoTVIzTndkRkZRTkY5MlZ6UkJNQm9pUVVaWWNrVmpjV2xwUkhGR1dETXlhbnBUWHpWNmVISlpWa0o2ZERCSFkwZHdkdyIsImZjdiI6IjMiLCJlaSI6IlJSY0taLUtVSExHc3B0UVA0X3ZXNEEwIiwicWMiOiJDZ2RzYjJKemRHVnlFQUI5dWtrc1B3IiwicXVlc3Rpb24iOiJXaHkgaXMgbG9ic3RlciBzbyBleHBlbnNpdmU/IiwibGsiOiJHaHQzYUhrZ2FYTWdiRzlpYzNSbGNpQnpieUJsZUhCbGJuTnBkbVUiLCJicyI6ImMtTnk0Skp4TEVwVnlNbFBLaTVKTFNwV3lFaE56Q25KcUZRb3lWZElUU3l4bDNoalp5UXJKWjJJV3drWDBJUndJQy16R0taQ29SZ29VVkdRbWxlY1daWnFMekUxSEdSQ09XNGxYSTVjU3VFWmlTVWctWklNb0VXWmFhbkZCWWw1Q3ZscENva3dIZllTRzRPTkpLVEVRSklLR0xKY0hsd0tZQ05RSEpxY2sxaGNuSm1XbVpxaWtGZ005SXF5a2FLVWZEbC1aUUtNQUEiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2FuZHViVFI0Wld0elExUlRVRWN4TWtrNWJuVjRiV0owUTFkUlEwNUVkV2xDZFV0V1pIUkpiVmc1Y3pKaVp6aDJNRmxXU0dacmNXaFBlRWh6YlZSbFV6ZFNTVEZDRWhkU1VtTkxXaTFMVlVoTVIzTndkRkZRTkY5MlZ6UkJNQm9pUVVaWWNrVmpjV2xwUkhGR1dETXlhbnBUWHpWNmVISlpWa0o2ZERCSFkwZHdkdyIsImZjdiI6IjMiLCJlaSI6IlJSY0taLUtVSExHc3B0UVA0X3ZXNEEwIiwicWMiOiJDZ2RzYjJKemRHVnlFQUI5dWtrc1B3IiwicXVlc3Rpb24iOiJXaHkgaXMgbG9ic3RlciBzbyBleHBlbnNpdmU%2FIiwibGsiOiJHaHQzYUhrZ2FYTWdiRzlpYzNSbGNpQnpieUJsZUhCbGJuTnBkbVUiLCJicyI6ImMtTnk0Skp4TEVwVnlNbFBLaTVKTFNwV3lFaE56Q25KcUZRb3lWZElUU3l4bDNoalp5UXJKWjJJV3drWDBJUndJQy16R0taQ29SZ29VVkdRbWxlY1daWnFMekUxSEdSQ09XNGxYSTVjU3VFWmlTVWctWklNb0VXWmFhbkZCWWw1Q3ZscENva3dIZllTRzRPTkpLVEVRSklLR0xKY0hsd0tZQ05RSEpxY2sxaGNuSm1XbVpxaWtGZ005SXF5a2FLVWZEbC1aUUtNQUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+    },
+    {
+      "question": "What is the lifespan of a lobster?",
+      "snippet": "They found that, on average, male European lobsters live to 31 years old, and females to 54. There were a few exceptions: one particularly long-lived female had was found to be 72 years old. Lobsters certainly do not live forever.",
+      "title": "Are lobsters immortal? | Natural History Museum",
+      "link": "https://www.nhm.ac.uk/discover/are-lobsters-immortal.html#:~:text=They%20found%20that%2C%20on%20average,to%20be%2072%20years%20old.&text=Lobsters%20certainly%20do%20not%20live%20forever.",
+      "displayed_link": "https://www.nhm.ac.uk \u203a discover \u203a are-lobsters-immortal",
+      "source_logo": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/a55905b960efd169976af7427a2204ddba21eb2d10c8ac9a5df6b8c076dbb5cb.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2FuZHViVFI0Wld0elExUlRVRWN4TWtrNWJuVjRiV0owUTFkUlEwNUVkV2xDZFV0V1pIUkpiVmc1Y3pKaVp6aDJNRmxXU0dacmNXaFBlRWh6YlZSbFV6ZFNTVEZDRWhkU1VtTkxXaTFMVlVoTVIzTndkRkZRTkY5MlZ6UkJNQm9pUVVaWWNrVmpjV2xwUkhGR1dETXlhbnBUWHpWNmVISlpWa0o2ZERCSFkwZHdkdyIsImZjdiI6IjMiLCJlaSI6IlJSY0taLUtVSExHc3B0UVA0X3ZXNEEwIiwicWMiOiJDZ2RzYjJKemRHVnlFQUI5dWtrc1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBsaWZlc3BhbiBvZiBhIGxvYnN0ZXI/IiwibGsiOiJHaFpzYVdabElITndZVzRnYjJZZ1lTQnNiMkp6ZEdWeSIsImJzIjoiYy1OeTRKSnhMRXBWeU1sUEtpNUpMU3BXeUVoTnpDbkpxRlFveVZkSVRTeXhsM2hqWnlRckpaMklXd2tYMElSd0lDLXpHS1pDb1Jnb1VWR1FtbGVjV1pacUx6RTFIR1JDT1c0bFhJNWNTdUVaaVNVZy1aSU1vRVdaYWFuRkJZbDVDdmxwQ29rd0hmWVNHNE9OSktURVFKSUtHTEpjSGx3S1lDTlFISnFjazFoY25KbVdtWnFpa0ZnTTlJcXlrYUtVZkRsLVpRS01BQSIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2FuZHViVFI0Wld0elExUlRVRWN4TWtrNWJuVjRiV0owUTFkUlEwNUVkV2xDZFV0V1pIUkpiVmc1Y3pKaVp6aDJNRmxXU0dacmNXaFBlRWh6YlZSbFV6ZFNTVEZDRWhkU1VtTkxXaTFMVlVoTVIzTndkRkZRTkY5MlZ6UkJNQm9pUVVaWWNrVmpjV2xwUkhGR1dETXlhbnBUWHpWNmVISlpWa0o2ZERCSFkwZHdkdyIsImZjdiI6IjMiLCJlaSI6IlJSY0taLUtVSExHc3B0UVA0X3ZXNEEwIiwicWMiOiJDZ2RzYjJKemRHVnlFQUI5dWtrc1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBsaWZlc3BhbiBvZiBhIGxvYnN0ZXI%2FIiwibGsiOiJHaFpzYVdabElITndZVzRnYjJZZ1lTQnNiMkp6ZEdWeSIsImJzIjoiYy1OeTRKSnhMRXBWeU1sUEtpNUpMU3BXeUVoTnpDbkpxRlFveVZkSVRTeXhsM2hqWnlRckpaMklXd2tYMElSd0lDLXpHS1pDb1Jnb1VWR1FtbGVjV1pacUx6RTFIR1JDT1c0bFhJNWNTdUVaaVNVZy1aSU1vRVdaYWFuRkJZbDVDdmxwQ29rd0hmWVNHNE9OSktURVFKSUtHTEpjSGx3S1lDTlFISnFjazFoY25KbVdtWnFpa0ZnTTlJcXlrYUtVZkRsLVpRS01BQSIsImlkIjoiZmNfMSJ9"
+    },
+    {
+      "question": "What are lobsters classified as?",
+      "snippet": "As invertebrate crustaceans, lobsters also have a hard outer shell or exoskeleton, and no inner skeleton or bones.",
+      "title": "Anatomy & Biology - Lobster Institute - The University of Maine",
+      "link": "https://umaine.edu/lobsterinstitute/educational-resources/anatomy-biology/#:~:text=As%20invertebrate%20crustaceans%2C%20lobsters%20also,no%20inner%20skeleton%20or%20bones.",
+      "displayed_link": "https://umaine.edu \u203a educational-resources \u203a anatomy-bi...",
+      "source_logo": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/a55905b960efd169976af7427a2204dd8758a20588c5d6babb55c841ef4438cd.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2FuZHViVFI0Wld0elExUlRVRWN4TWtrNWJuVjRiV0owUTFkUlEwNUVkV2xDZFV0V1pIUkpiVmc1Y3pKaVp6aDJNRmxXU0dacmNXaFBlRWh6YlZSbFV6ZFNTVEZDRWhkU1VtTkxXaTFMVlVoTVIzTndkRkZRTkY5MlZ6UkJNQm9pUVVaWWNrVmpjV2xwUkhGR1dETXlhbnBUWHpWNmVISlpWa0o2ZERCSFkwZHdkdyIsImZjdiI6IjMiLCJlaSI6IlJSY0taLUtVSExHc3B0UVA0X3ZXNEEwIiwicWMiOiJDZ2RzYjJKemRHVnlFQUI5dWtrc1B3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSBsb2JzdGVycyBjbGFzc2lmaWVkIGFzPyIsImxrIjoiR2g5M2FHRjBJR0Z5WlNCc2IySnpkR1Z5Y3lCamJHRnpjMmxtYVdWa0lHRnoiLCJicyI6ImMtTnk0Skp4TEVwVnlNbFBLaTVKTFNwV3lFaE56Q25KcUZRb3lWZElUU3l4bDNoalp5UXJKWjJJV3drWDBJUndJQy16R0taQ29SZ29VVkdRbWxlY1daWnFMekUxSEdSQ09XNGxYSTVjU3VFWmlTVWctWklNb0VXWmFhbkZCWWw1Q3ZscENva3dIZllTRzRPTkpLVEVRSklLR0xKY0hsd0tZQ05RSEpxY2sxaGNuSm1XbVpxaWtGZ005SXF5a2FLVWZEbC1aUUtNQUEiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2FuZHViVFI0Wld0elExUlRVRWN4TWtrNWJuVjRiV0owUTFkUlEwNUVkV2xDZFV0V1pIUkpiVmc1Y3pKaVp6aDJNRmxXU0dacmNXaFBlRWh6YlZSbFV6ZFNTVEZDRWhkU1VtTkxXaTFMVlVoTVIzTndkRkZRTkY5MlZ6UkJNQm9pUVVaWWNrVmpjV2xwUkhGR1dETXlhbnBUWHpWNmVISlpWa0o2ZERCSFkwZHdkdyIsImZjdiI6IjMiLCJlaSI6IlJSY0taLUtVSExHc3B0UVA0X3ZXNEEwIiwicWMiOiJDZ2RzYjJKemRHVnlFQUI5dWtrc1B3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSBsb2JzdGVycyBjbGFzc2lmaWVkIGFzPyIsImxrIjoiR2g5M2FHRjBJR0Z5WlNCc2IySnpkR1Z5Y3lCamJHRnpjMmxtYVdWa0lHRnoiLCJicyI6ImMtTnk0Skp4TEVwVnlNbFBLaTVKTFNwV3lFaE56Q25KcUZRb3lWZElUU3l4bDNoalp5UXJKWjJJV3drWDBJUndJQy16R0taQ29SZ29VVkdRbWxlY1daWnFMekUxSEdSQ09XNGxYSTVjU3VFWmlTVWctWklNb0VXWmFhbkZCWWw1Q3ZscENva3dIZllTRzRPTkpLVEVRSklLR0xKY0hsd0tZQ05RSEpxY2sxaGNuSm1XbVpxaWtGZ005SXF5a2FLVWZEbC1aUUtNQUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Lobster",
+      "link": "https://en.wikipedia.org/wiki/Lobster",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Lobster&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQFnoECBEQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Lobster",
+      "thumbnail": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8593fd1dd70619b33b38111e2cd790b42f022ca32bb702e6c54f9553e21e13a0.jpeg",
+      "favicon": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8593fd1dd70619b33b38111e2cd790b43d23141375027bfbd29d89fa55fc3172.png",
+      "snippet": "Lobsters are malacostracans of the family Nephropidae or its synonym Homaridae. They have long bodies with muscular tails and live in crevices or burrows on ...",
+      "snippet_highlighted_words": [
+        "Lobsters"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "American lobster",
+            "link": "https://en.wikipedia.org/wiki/American_lobster"
+          },
+          {
+            "title": "Lobster fishing",
+            "link": "https://en.wikipedia.org/wiki/Lobster_fishing"
+          },
+          {
+            "title": "Spiny lobster",
+            "link": "https://en.wikipedia.org/wiki/Spiny_lobster"
+          },
+          {
+            "title": "Slipper lobster",
+            "link": "https://en.wikipedia.org/wiki/Slipper_lobster"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Red Lobster Seafood Restaurants",
+      "link": "https://www.redlobster.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.redlobster.com/&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQFnoECFcQAQ",
+      "displayed_link": "https://www.redlobster.com",
+      "favicon": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8593fd1dd70619b33b38111e2cd790b4bfedebf3d1d9a926333b2da41c489974.png",
+      "snippet": "Discover Red Lobster seafood restaurants, find locations, browse our menus and more.",
+      "snippet_highlighted_words": [
+        "Lobster"
+      ],
+      "source": "Red Lobster"
+    },
+    {
+      "position": 3,
+      "title": "Live Maine Lobster Delivery With Overnight Shipping ...",
+      "link": "https://lobsteranywhere.com/?srsltid=AfmBOopaS5HUw1n_7veGdlq480UNbhxk1YgqDPAYgZL707icSgMV_pnw",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lobsteranywhere.com/%3Fsrsltid%3DAfmBOopaS5HUw1n_7veGdlq480UNbhxk1YgqDPAYgZL707icSgMV_pnw&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQFnoECHUQAQ",
+      "displayed_link": "https://lobsteranywhere.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ8YxWjlyzOVtwYVA1LsMRNlBk9vPGjNohpPW-OsUigx_TKmlpmASM&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8593fd1dd70619b33b38111e2cd790b4ecdce688749fbb2534b6972c91eff4b5.png",
+      "snippet": "Live Maine lobster delivery overnight direct from LobsterAnywhere. Guaranteed delivery anywhere in the USA. Fresh frozen lobster on sale.",
+      "snippet_highlighted_words": [
+        "lobster",
+        "lobster"
+      ],
+      "source": "LobsterAnywhere.com"
+    },
+    {
+      "position": 4,
+      "title": "Luke's Lobster: Luke's Lobster\u00ae",
+      "link": "https://lukeslobster.com/?srsltid=AfmBOopONpz6FEVbJsZHrtsEVMSOvyuk_tlo7TvuYTmynIrX6itOTvCj",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lukeslobster.com/%3Fsrsltid%3DAfmBOopONpz6FEVbJsZHrtsEVMSOvyuk_tlo7TvuYTmynIrX6itOTvCj&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQFnoECHQQAQ",
+      "displayed_link": "https://lukeslobster.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQooZpeNEix_dQB-H-6PAPRfi1Oyd4pCrhByZxzzVbWOwz7jF9CN0H6&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8593fd1dd70619b33b38111e2cd790b4cca67d2d33489d95de432b9e99dfa7a7.png",
+      "snippet": "We now bring traceable, sustainable seafood to guests across the country in our shacks, in grocery stores, and shipped nationwide to your doorstep.",
+      "source": "Luke's Lobster"
+    },
+    {
+      "position": 5,
+      "title": "The Biggest Lobster I've EVER SEEN! {Catch Clean Cook ...",
+      "link": "https://www.youtube.com/watch?v=JIwSkO9ZBgI",
+      "displayed_link": "2.3M+ views \u00b7 7 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/JIwSkO9ZBgI/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3nO2hTuBCTBv9hYiaKtuQkEXBOpuA",
+      "favicon": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8593fd1dd70619b33b38111e2cd790b40d155b60df2dc9b4939a3eeb994a9d2d.png",
+      "snippet": "This entire day was beyond explanation!!! We had SUCH a good time!!! HUGE thank you to Matt from Brownie's in Fort Lauderdale!",
+      "duration": "30:07",
+      "source": "YouTube \u00b7 deermeatfordinner"
+    },
+    {
+      "position": 6,
+      "title": "Lobster | Definition, Habitat, Diet, Species, & Facts",
+      "link": "https://www.britannica.com/animal/lobster",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.britannica.com/animal/lobster&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQFnoECFQQAQ",
+      "displayed_link": "https://www.britannica.com \u203a ... \u203a Crustaceans",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThfBzvqHXgSgul9ScxbVcW7J52QbSTcIm1Tiy3TYdI01zYDlQHHPPI&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8593fd1dd70619b33b38111e2cd790b42ed616387bd87715ab101d10d93a1b6b.png",
+      "date": "Sep 8, 2024",
+      "snippet": "Lobster, any of numerous marine crustaceans (phylum Arthropoda, order Decapoda) constituting the families Homaridae (or Nephropsidae), true lobsters.",
+      "snippet_highlighted_words": [
+        "Lobster"
+      ],
+      "source": "Britannica"
+    },
+    {
+      "position": 7,
+      "title": "Get Maine Lobster",
+      "link": "https://getmainelobster.com/?srsltid=AfmBOopynhGbhmfYQHEXtrVCUDLNodf6C0LUp6pFK8ILEDxWoQNRKbDn",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://getmainelobster.com/%3Fsrsltid%3DAfmBOopynhGbhmfYQHEXtrVCUDLNodf6C0LUp6pFK8ILEDxWoQNRKbDn&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQFnoECFYQAQ",
+      "displayed_link": "https://getmainelobster.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOum7vfNVlxH0W1ufdyOUlmFPDlR3BLQ_2MuUtwzAhCPtGc6GrDY1D&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8593fd1dd70619b33b38111e2cd790b4a7b494c0436be30e4fc9c7729858be4d.png",
+      "snippet": "Ocean to Doorstep in 24 Hours. Wild caught by hand in the morning, expertly packed in the afternoon, delivered LIVE to your doorstep the next day!",
+      "source": "Get Maine Lobster"
+    },
+    {
+      "position": 8,
+      "title": "Cooking & Eating a Lobster - Lobster Institute",
+      "link": "https://umaine.edu/lobsterinstitute/educational-resources/cooking-eating-a-lobster/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://umaine.edu/lobsterinstitute/educational-resources/cooking-eating-a-lobster/&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQFnoECFMQAQ",
+      "displayed_link": "https://umaine.edu \u203a Home \u203a Educational Resources",
+      "favicon": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8593fd1dd70619b33b38111e2cd790b4d41b308660169999457fb6b1ffe61bd3.png",
+      "snippet": "Use about 2\u00bd quarts of water for each lobster. Bring the water to a boil. Put in the live lobsters, one at a time, cover and bring the water to a boil again.",
+      "snippet_highlighted_words": [
+        "lobster",
+        "lobsters"
+      ],
+      "source": "The University of Maine"
+    },
+    {
+      "position": 9,
+      "title": "Lobster Gram | Live Maine Lobster & Seafood Delivery",
+      "link": "https://www.dartagnan.com/lobstergram/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dartagnan.com/lobstergram/&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQFnoECFUQAQ",
+      "displayed_link": "https://www.dartagnan.com \u203a lobstergram",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkkv_RHy0k-9r8-Z1JaQHri26aXSNNN-HRwlFQ9GpvQcoci8G0Ofts&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8593fd1dd70619b33b38111e2cd790b432d3219182d9170b3201cf20f456c755.png",
+      "snippet": "Order now and enjoy the best selection of seafood, steaks, desserts, and more from Lobster Gram, the original lobster delivery company.",
+      "snippet_highlighted_words": [
+        "Lobster",
+        "lobster"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Lobster",
+            "link": "https://www.dartagnan.com/lobstergram/lobster/"
+          },
+          {
+            "title": "Lobster Tail Dinners",
+            "link": "https://www.dartagnan.com/lobstergram/lobster-tail-dinners/"
+          },
+          {
+            "title": "Lobster Tails",
+            "link": "https://www.dartagnan.com/lobstergram/lobster-tails/"
+          },
+          {
+            "title": "Our History",
+            "link": "https://www.dartagnan.com/lobstergram/about-lobster-gram.html"
+          }
+        ]
+      },
+      "source": "D'Artagnan Foods"
+    },
+    {
+      "position": 10,
+      "title": "The Lobster Restaurant at the Santa Monica Pier",
+      "link": "https://www.thelobster.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thelobster.com/&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQFnoECF8QAQ",
+      "displayed_link": "https://www.thelobster.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI5j4X1855uvrWbWFZFeXPzXPqeAMasO4KlNIdF7_PDaYcI8KpaR9c&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/8593fd1dd70619b33b38111e2cd790b444e0972ceaa35b791f33aee8b126387f.jpeg",
+      "snippet": "Experience the iconic Lobster restaurant at the Santa Monica Pier, offering delicious seafood and American cuisine. Enjoy ocean view dining with 190 degree ...",
+      "snippet_highlighted_words": [
+        "Lobster"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Contact Us",
+            "link": "https://www.thelobster.com/contact-us"
+          },
+          {
+            "title": "About Us",
+            "link": "https://www.thelobster.com/about-us"
+          },
+          {
+            "title": "MEET THE TEAM",
+            "link": "https://www.thelobster.com/team"
+          },
+          {
+            "title": "Private Events",
+            "link": "https://www.thelobster.com/privateevents"
+          }
+        ]
+      },
+      "source": "thelobster.com"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=lobster&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQjGp6BAhHEAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lobster&tbs=lf%3A1%2Clf_ui%3A9&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Red Lobster",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Red+Lobster&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQ1QJ6BQiDARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Red+Lobster"
+    },
+    {
+      "block_position": 1,
+      "query": "Lobster Deutsch",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Lobster+Deutsch&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQ1QJ6BQiFARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lobster+Deutsch"
+    },
+    {
+      "block_position": 1,
+      "query": "Lobster near me",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Lobster+near+me&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQ1QJ6BQiBARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lobster+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Lobster price",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Lobster+price&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQ1QJ6BQiCARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lobster+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Lobster dish",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Lobster+dish&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQ1QJ6BQiJARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lobster+dish"
+    },
+    {
+      "block_position": 1,
+      "query": "Lobster restaurant",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Lobster+restaurant&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQ1QJ6BQiEARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lobster+restaurant"
+    },
+    {
+      "block_position": 1,
+      "query": "Red Lobster menu",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Red+Lobster+menu&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQ1QJ6BQiHARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Red+Lobster+menu"
+    },
+    {
+      "block_position": 1,
+      "query": "Lobster tail",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=Lobster+tail&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQ1QJ6BQiAARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Lobster+tail"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?q=price+lobster&gl=us&hl=en&shoprs=GBIqB2xvYnN0ZXIyCQgSEgVQcmljZWAB&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQip4GKAF6BAggED0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=price+lobster"
+    },
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?q=lobster+nearby&gl=us&hl=en&shoprs=GAMqB2xvYnN0ZXIyDAgDEgZOZWFyYnkYAlisoyBgAQ&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQip4GKAJ6BAggED4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lobster+nearby"
+    },
+    {
+      "query": "Get it fast",
+      "link": "https://www.google.com/search?q=lobster&gl=us&hl=en&shoprs=Eg2aAQoKCBADOAFAAkgBGBQqB2xvYnN0ZXIyJAgUEgtHZXQgaXQgZmFzdCINmgEKCggQAzgBQAJIASoEEAEYAWAB&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQip4GKAN6BAggED8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lobster"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?q=buy+lobster&gl=us&hl=en&shoprs=GBIqB2xvYnN0ZXIyBwgSEgNCdXlgAQ&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQip4GKAR6BAggEEA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=buy+lobster"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?q=lobster+for+sale&gl=us&hl=en&shoprs=GBIqB2xvYnN0ZXIyDAgSEghGb3IgU2FsZWAB&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQip4GKAV6BAggEEE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lobster+for+sale"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?q=lobster+sale&gl=us&hl=en&shoprs=EgRKAhgBGAYqB2xvYnN0ZXIyEwgGEgdPbiBzYWxlGAIiBEoCGAFYrKMgYAE&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQip4GKAZ6BAggEEI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lobster+sale"
+    },
+    {
+      "query": "Recipe",
+      "link": "https://www.google.com/search?q=recipe+lobster&gl=us&hl=en&shoprs=GBIqB2xvYnN0ZXIyCggSEgZSZWNpcGVgAQ&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQip4GKAd6BAggEEM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=recipe+lobster"
+    },
+    {
+      "query": "Online",
+      "link": "https://www.google.com/search?q=online+lobster&gl=us&hl=en&shoprs=GBIqB2xvYnN0ZXIyCggSEgZPbmxpbmVgAQ&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQip4GKAh6BAggEEQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=online+lobster"
+    },
+    {
+      "query": "Soup",
+      "link": "https://www.google.com/search?q=soup+lobster&gl=us&hl=en&shoprs=GAEqB2xvYnN0ZXIyFggBEgRTb3VwOgwI9YClARD4gKUBMAJYrKMgYAE&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQip4GKAl6BAggEEU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=soup+lobster"
+    },
+    {
+      "query": "Size",
+      "link": "https://www.google.com/search?q=size+lobster&gl=us&hl=en&shoprs=GBIqB2xvYnN0ZXIyCAgSEgRTaXplYAE&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQip4GKAp6BAggEEY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=size+lobster"
+    },
+    {
+      "query": "Store",
+      "link": "https://www.google.com/search?q=store+lobster&gl=us&hl=en&shoprs=GBIqB2xvYnN0ZXIyCQgSEgVTdG9yZWAB&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQip4GKAt6BAggEEc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=store+lobster"
+    },
+    {
+      "query": "Frozen",
+      "link": "https://www.google.com/search?q=frozen+lobster&gl=us&hl=en&shoprs=GBIqB2xvYnN0ZXIyCggSEgZGcm96ZW5gAQ&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQip4GKAx6BAggEEg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=frozen+lobster"
+    },
+    {
+      "query": "Images",
+      "link": "https://www.google.com/search?q=images+lobster&gl=us&hl=en&shoprs=GBIqB2xvYnN0ZXIyCggSEgZJbWFnZXNgAQ&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQip4GKA16BAggEEk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=images+lobster"
+    },
+    {
+      "query": "Shellfish",
+      "link": "https://www.google.com/search?q=shellfish+lobster&gl=us&hl=en&shoprs=GAEqB2xvYnN0ZXIyGwgBEglTaGVsbGZpc2g6DAipuosBEKu6iwEwAlisoyBgAQ&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQip4GKA56BAggEEo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=shellfish+lobster"
+    },
+    {
+      "query": "Girl",
+      "link": "https://www.google.com/search?q=girl+lobster&gl=us&hl=en&shoprs=GBIqB2xvYnN0ZXIyCAgSEgRHaXJsYAE&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQip4GKA96BAggEEs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=girl+lobster"
+    },
+    {
+      "query": "Under $50",
+      "link": "https://www.google.com/search?q=lobster+under+$50&gl=us&hl=en&shoprs=Eg0SCxEAAAAAhNeHQRgBGAUqB2xvYnN0ZXIyIggFEglVbmRlciAkNTAYAiINEgsRAAAAAITXh0EYASoCGAFYrKMgYAE&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQip4GKBB6BAggEEw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lobster+under+%2450"
+    },
+    {
+      "query": "1 pound \u2013 2 pounds",
+      "link": "https://www.google.com/search?q=1+pound+to+2+pounds+lobster&gl=us&hl=en&shoprs=EhsqGQidn-kBEhIJAAAAYHpZfEARAAAAYHpZjEAYASoHbG9ic3RlcjJZCAESFDEgcG91bmQg4oCTIDIgcG91bmRzIhsqGQidn-kBEhIJAAAAYHpZfEARAAAAYHpZjEAqFwoTMSBwb3VuZCB0byAyIHBvdW5kcxgBOgkInZ_pARAAMAZYrKMgYAE&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQip4GKBF6BAggEE0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=1+pound+to+2+pounds+lobster"
+    },
+    {
+      "query": "Brand",
+      "link": "https://www.google.com/search?q=brand+lobster&gl=us&hl=en&shoprs=GBIqB2xvYnN0ZXIyCQgSEgVCcmFuZGAB&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQip4GKBJ6BAggEE4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brand+lobster"
+    },
+    {
+      "query": "Under 8 ounces",
+      "link": "https://www.google.com/search?q=under+8+ounces+lobster&gl=us&hl=en&shoprs=EhIqEAidn-kBEgkRAAAAYHpZbEAYASoHbG9ic3RlcjI1CAESDlVuZGVyIDggb3VuY2VzIhIqEAidn-kBEgkRAAAAYHpZbEAqAhgBOgkInZ_pARAAMAZYrKMgYAE&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQip4GKBN6BAggEE8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=under+8+ounces+lobster"
+    },
+    {
+      "query": "8 ounces \u2013 1 pound",
+      "link": "https://www.google.com/search?q=8+ounces+to+1+pound+lobster&gl=us&hl=en&shoprs=EhsqGQidn-kBEhIJAAAAYHpZbEARAAAAYHpZfEAYASoHbG9ic3RlcjJZCAESFDggb3VuY2VzIOKAkyAxIHBvdW5kIhsqGQidn-kBEhIJAAAAYHpZbEARAAAAYHpZfEAqFwoTOCBvdW5jZXMgdG8gMSBwb3VuZBgBOgkInZ_pARAAMAZYrKMgYAE&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQip4GKBR6BAggEFA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=8+ounces+to+1+pound+lobster"
+    },
+    {
+      "query": "Over 6 pounds",
+      "link": "https://www.google.com/search?q=over+6+pounds+lobster&gl=us&hl=en&shoprs=EhIqEAidn-kBEgkJAAAAwBtDpUAYASoHbG9ic3RlcjI0CAESDU92ZXIgNiBwb3VuZHMiEioQCJ2f6QESCQkAAADAG0OlQCoCGAE6CQidn-kBEAAwBlisoyBgAQ&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQip4GKBV6BAggEFE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=over+6+pounds+lobster"
+    },
+    {
+      "query": "2 \u2013 6 pounds",
+      "link": "https://www.google.com/search?q=2+pounds+to+6+pounds+lobster&gl=us&hl=en&shoprs=EhsqGQidn-kBEhIJAAAAYHpZjEARAAAAwBtDpUAYASoHbG9ic3RlcjJUCAESDjIg4oCTIDYgcG91bmRzIhsqGQidn-kBEhIJAAAAYHpZjEARAAAAwBtDpUAqGAoUMiBwb3VuZHMgdG8gNiBwb3VuZHMYAToJCJ2f6QEQADAGWKyjIGAB&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQip4GKBZ6BAggEFI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=2+pounds+to+6+pounds+lobster"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?q=reviews+lobster&gl=us&hl=en&shoprs=GBIqB2xvYnN0ZXIyCwgSEgdSZXZpZXdzYAE&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQip4GKBd6BAggEFM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=reviews+lobster"
+    },
+    {
+      "query": "Man",
+      "link": "https://www.google.com/search?q=man+lobster&gl=us&hl=en&shoprs=GBIqB2xvYnN0ZXIyBwgSEgNNYW5gAQ&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQip4GKBh6BAggEFQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=man+lobster"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "How do you eat",
+        "subtitle": "How Do You Eat Lobster",
+        "title": "How To Eat A Lobster Guide",
+        "link": "https://www.burgerandlobster.com/blog/how-to-eat-a-lobster#:~:text=Use%20your%20cracker%20on%20the,smaller%20bits%20of%20lobster%20meat.",
+        "displayed_link": "https://www.burgerandlobster.com \u203a blog \u203a how-to-eat-a...",
+        "snippet": "Use your cracker on the widest sides of the lobster claw, crunch down and then, using a fork or picker, remove the large chunk of lobster meat in one swift movement. Be sure to wiggle the smaller part of each claw too and gently pull out any smaller bits of lobster meat.",
+        "favicon": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/9fa844628013c6cb5989bd60184284c8a492742c1d526daea891e9e9c00a85b40eb2d72943265d83.png",
+        "source": "burgerandlobster.com",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=how+do+you+eat+lobster&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQrooIegQIXhAF",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+do+you+eat+lobster"
+      },
+      {
+        "text": "Materials",
+        "subtitle": "What Is Lobster Made Of?",
+        "title": "Lobster - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Lobster#:~:text=The%20lobster's%20thorax%20is%20composed,of%20uropods%20and%20the%20telson.",
+        "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Lobster",
+        "snippet": "The lobster's thorax is composed of maxillipeds, appendages that function primarily as mouthparts, and pereiopods, appendages that serve for walking and for gathering food. The abdomen includes pleopods (also known as swimmerets), used for swimming, as well as the tail fan, composed of uropods and the telson.",
+        "favicon": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/9fa844628013c6cb5989bd60184284c895a8d0d8069281f723ac5083d6efcf30ce27e0f529f09def.png",
+        "source": "wikipedia.org",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=what+is+lobster+made+of&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQrooIegQIXhAK",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+is+lobster+made+of"
+      },
+      {
+        "text": "Taste",
+        "subtitle": "Lobster Taste",
+        "title": "What Does Lobster Taste Like? Why People Love It | Fishermen's Net",
+        "link": "https://www.mualobster.com/blogs/news/what-does-lobster-taste-like#:~:text=Lobster%20has%20a%20fishy%20taste,eating%20lobster%20or%20lobster%20spices.",
+        "displayed_link": "https://www.mualobster.com \u203a blogs \u203a news \u203a what-does...",
+        "snippet": "Lobster has a fishy taste but not as strong as other seafood. You can use spices to add flavor to the lobster, but you should not use too much. Using too much seasoning will overwhelm your lobster flavor. You won't be able to tell if you're eating lobster or lobster spices.",
+        "snippet_highlighted_words": [
+          "fishy taste"
+        ],
+        "favicon": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/9fa844628013c6cb5989bd60184284c82e629ff35cf74306cf0e6ddb3894269f3f4b9784efcb5145.png",
+        "source": "mualobster.com",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=lobster+taste&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQrooIegQIXhAP",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lobster+taste"
+      },
+      {
+        "text": "Diet",
+        "subtitle": "What Do Lobsters Eat",
+        "title": "Diet & Digestion - Lobster Institute - University of Maine",
+        "link": "https://umaine.edu/lobsterinstitute/educational-resources/diet-digestion/#:~:text=It%20was%20once%20thought%20that,sometimes%20will%20eat%20other%20lobsters.",
+        "displayed_link": "https://umaine.edu \u203a educational-resources \u203a diet-digestion",
+        "snippet": "It was once thought that lobsters were scavengers, and ate primarily dead things. However, lobsters are really more opportunists, catching mainly fresh food which includes fish, crabs, clams, mussels, sea urchins. Lobsters are also cannibalistic and sometimes will eat other lobsters.",
+        "snippet_highlighted_words": [
+          "fish, crabs, clams, mussels, sea urchins"
+        ],
+        "favicon": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/9fa844628013c6cb5989bd60184284c859fd955ed0998eaf466601adfa8c82246e32d37e3308d449.png",
+        "source": "umaine.edu",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=what+do+lobsters+eat&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQrooIegQIXhAU",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+do+lobsters+eat"
+      },
+      {
+        "text": "Benefits",
+        "subtitle": "Lobster Benefits",
+        "title": "Five Health Benefits Of Eating Lobster - Costas Inn",
+        "link": "https://www.costasinn.com/blog/five-health-benefits-of-eating-lobster/#:~:text=Lobster%20is%20an%20excellent%20source%20of%20protein%20and%20contains%20good,prostaglandins%2C%20which%20protect%20the%20body.",
+        "displayed_link": "https://www.costasinn.com \u203a blog \u203a five-health-benefits-...",
+        "date": "Jan 19, 2024",
+        "snippet": "Lobster is an excellent source of protein and contains good fat that can aid in reducing inflammation in the body. The omega-3 fatty acids present in shellfish are beneficial for maintaining healthy cholesterol levels and promoting the production of prostaglandins, which protect the body.",
+        "snippet_highlighted_words": [
+          "an excellent source of protein and contains good fat that can aid in reducing inflammation in the body"
+        ],
+        "favicon": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/9fa844628013c6cb5989bd60184284c8639c16f3fd90dab61490d5fe46eeb2e90c584dac1c0d7354.png",
+        "source": "costasinn.com",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=lobster+benefits&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQrooIegQIXhAa",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lobster+benefits"
+      },
+      {
+        "text": "Eggs",
+        "subtitle": "Lobster Eggs",
+        "title": "Fun Facts About Luscious Lobsters | NOAA Fisheries",
+        "link": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-luscious-lobsters#:~:text=Yes%2C%20lobsters%20lay%20eggs.,carry%20more%20than%20100%2C000%20eggs.",
+        "displayed_link": "https://www.fisheries.noaa.gov \u203a outreach-and-education",
+        "date": "Aug 1, 2023",
+        "snippet": "Yes, lobsters lay eggs. A freshly-laid lobster egg is the size of the head of a pin (1/16\"). A 1-pound female lobster usually carries approximately 8000 eggs. A 9-pound female may carry more than 100,000 eggs.",
+        "snippet_highlighted_words": [
+          "A freshly-laid lobster egg is the size of the head of a pin (1/16\")"
+        ],
+        "favicon": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/9fa844628013c6cb5989bd60184284c8744c071eb9c79d9167eb7d81010282d5869bf5daed704758.png",
+        "source": "noaa.gov",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNTHO__pKtNvJFWUUfU2878VCaJpVk-DB3nDh8IOn9ics&s",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=lobster+eggs&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQrooIegQIXhAi",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lobster+eggs"
+      },
+      {
+        "text": "Habitat",
+        "subtitle": "Lobsters Habitat",
+        "title": "Habitat - Lobster Institute - The University of Maine",
+        "link": "https://umaine.edu/lobsterinstitute/educational-resources/habitat/#:~:text=Where%20do%20Lobsters%20Live%3F,from%20Newfoundland%20to%20North%20Carolina.",
+        "displayed_link": "https://umaine.edu \u203a educational-resources \u203a habitat",
+        "snippet": "Where do Lobsters Live? Lobsters are benthic, living on the bottom of the ocean. They prefer temperatures from 15-18\u00b0C (59-64\u00b0F) and salinities of 20-25 ppt. The American lobster can be found on the east coast of North America, from Newfoundland to North Carolina.",
+        "snippet_highlighted_words": [
+          "on the bottom of the ocean"
+        ],
+        "answer": "the ocean",
+        "favicon": "https://serpapi.com/searches/670a174448c429ded6a443ee/images/9fa844628013c6cb5989bd60184284c8c18c840e8fcf53770a697e8379d81a24ab176d0f5a89f22d.png",
+        "source": "umaine.edu",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3QpPqYcWc9TL-_CjCIxTtMzb9abgPg6VMmnfAnhINOBI&s",
+        "search_link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&q=lobsters+habitat&sa=X&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQrooIegQIXhAq",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lobsters+habitat"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=lobster&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=RRcKZ-KUHLGsptQP4_vW4A0&start=10&sa=N&sstk=AagrsuiuSHhYho2fHWZGZJFVrMG02gjTb0IdQZ6mWXDwOKuYxAxmoeVk5GfRTwCZEBl9BBeK0l-bYESMLx4jt3Uu7l7Zj5-XoOWnpg&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQ8NMDegQIFRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=lobster&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=RRcKZ-KUHLGsptQP4_vW4A0&start=10&sa=N&sstk=AagrsuiuSHhYho2fHWZGZJFVrMG02gjTb0IdQZ6mWXDwOKuYxAxmoeVk5GfRTwCZEBl9BBeK0l-bYESMLx4jt3Uu7l7Zj5-XoOWnpg&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQ8tMDegQIFRAE",
+      "3": "https://www.google.com/search?q=lobster&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=RRcKZ-KUHLGsptQP4_vW4A0&start=20&sa=N&sstk=AagrsuiuSHhYho2fHWZGZJFVrMG02gjTb0IdQZ6mWXDwOKuYxAxmoeVk5GfRTwCZEBl9BBeK0l-bYESMLx4jt3Uu7l7Zj5-XoOWnpg&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQ8tMDegQIFRAG",
+      "4": "https://www.google.com/search?q=lobster&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=RRcKZ-KUHLGsptQP4_vW4A0&start=30&sa=N&sstk=AagrsuiuSHhYho2fHWZGZJFVrMG02gjTb0IdQZ6mWXDwOKuYxAxmoeVk5GfRTwCZEBl9BBeK0l-bYESMLx4jt3Uu7l7Zj5-XoOWnpg&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQ8tMDegQIFRAI",
+      "5": "https://www.google.com/search?q=lobster&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=RRcKZ-KUHLGsptQP4_vW4A0&start=40&sa=N&sstk=AagrsuiuSHhYho2fHWZGZJFVrMG02gjTb0IdQZ6mWXDwOKuYxAxmoeVk5GfRTwCZEBl9BBeK0l-bYESMLx4jt3Uu7l7Zj5-XoOWnpg&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQ8tMDegQIFRAK",
+      "6": "https://www.google.com/search?q=lobster&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=RRcKZ-KUHLGsptQP4_vW4A0&start=50&sa=N&sstk=AagrsuiuSHhYho2fHWZGZJFVrMG02gjTb0IdQZ6mWXDwOKuYxAxmoeVk5GfRTwCZEBl9BBeK0l-bYESMLx4jt3Uu7l7Zj5-XoOWnpg&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQ8tMDegQIFRAM",
+      "7": "https://www.google.com/search?q=lobster&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=RRcKZ-KUHLGsptQP4_vW4A0&start=60&sa=N&sstk=AagrsuiuSHhYho2fHWZGZJFVrMG02gjTb0IdQZ6mWXDwOKuYxAxmoeVk5GfRTwCZEBl9BBeK0l-bYESMLx4jt3Uu7l7Zj5-XoOWnpg&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQ8tMDegQIFRAO",
+      "8": "https://www.google.com/search?q=lobster&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=RRcKZ-KUHLGsptQP4_vW4A0&start=70&sa=N&sstk=AagrsuiuSHhYho2fHWZGZJFVrMG02gjTb0IdQZ6mWXDwOKuYxAxmoeVk5GfRTwCZEBl9BBeK0l-bYESMLx4jt3Uu7l7Zj5-XoOWnpg&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQ8tMDegQIFRAQ",
+      "9": "https://www.google.com/search?q=lobster&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=RRcKZ-KUHLGsptQP4_vW4A0&start=80&sa=N&sstk=AagrsuiuSHhYho2fHWZGZJFVrMG02gjTb0IdQZ6mWXDwOKuYxAxmoeVk5GfRTwCZEBl9BBeK0l-bYESMLx4jt3Uu7l7Zj5-XoOWnpg&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQ8tMDegQIFRAS",
+      "10": "https://www.google.com/search?q=lobster&sca_esv=1dddcc5dd45c9b12&gl=us&hl=en&ei=RRcKZ-KUHLGsptQP4_vW4A0&start=90&sa=N&sstk=AagrsuiuSHhYho2fHWZGZJFVrMG02gjTb0IdQZ6mWXDwOKuYxAxmoeVk5GfRTwCZEBl9BBeK0l-bYESMLx4jt3Uu7l7Zj5-XoOWnpg&ved=2ahUKEwiiy97Mm4iJAxUxlokEHeO9FdwQ8tMDegQIFRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lobster&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lobster&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lobster&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lobster&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lobster&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lobster&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lobster&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lobster&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lobster&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lobster&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lobster&start=90"
+    }
+  }
+}

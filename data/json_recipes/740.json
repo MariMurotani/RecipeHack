@@ -1,0 +1,868 @@
+{
+  "search_metadata": {
+    "id": "670a2f1bee677f7eb89d6c89",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9a7b00aa9e4aec3d/670a2f1bee677f7eb89d6c89.json",
+    "created_at": "2024-10-12 08:11:07 UTC",
+    "processed_at": "2024-10-12 08:11:07 UTC",
+    "google_url": "https://www.google.com/search?q=oil+palm&oq=oil+palm&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/9a7b00aa9e4aec3d/670a2f1bee677f7eb89d6c89.html",
+    "total_time_taken": 1.11
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "oil palm",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "oil palm",
+    "total_results": 285000000,
+    "time_taken_displayed": 0.27,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "recipes_results": [
+    {
+      "title": "Annatto Oil",
+      "link": "https://www.yummymedley.com/ingredient-profile-palm-oil/",
+      "source": "Yummy Medley",
+      "ingredients": [
+        "Annatto seeds",
+        "vegetable oil"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS81n16VBKLUlMmNrnq7l6u6pvqpKCCNeVWIbm7vcqbjp1QhWZMjpVrYXWQ&s"
+    },
+    {
+      "title": "How to extract palm oil",
+      "link": "https://cookpad.com/us/recipes/8822774-how-to-extract-palm-oil",
+      "source": "cookpad.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIz_qd4_YrK6oeC9f0h1tPEINWy50bcFbNfl9f89KZT3lBj1UtW2N8hWXc&s"
+    },
+    {
+      "title": "Eggplants confit in palm oil and seared fish",
+      "link": "https://thebluefufu.com/eggplants-confit-in-palm-oil-and-seared-fish/",
+      "source": "Blue Fufu",
+      "rating": 5.0,
+      "reviews": 2,
+      "total_time": "1 hr 10 min",
+      "ingredients": [
+        "Balsamic vinegar",
+        "fish",
+        "country",
+        "leek",
+        "palm oil"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAmsIH41WpYhKJJ6CiPfMw77w5Qxawd0Iy_BYlU3OY91edTU9ATMrWaWQV&s"
+    }
+  ],
+  "knowledge_graph": {
+    "title": "Palm oil",
+    "type": "Edible oil",
+    "entity_type": "food, kp3_verticals",
+    "kgmid": "/m/0fsx5",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0fsx5&hl=en-US&q=Palm+oil",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0fsx5&location=Austin%2CTexas%2CUnited+States&q=Palm+oil",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/cf6082b0faf6d7bdb7b3a60e72ba8765b9f396905a7016a38a72112a8c058a73cbf9705642c4a646.jpeg",
+        "source": "https://www.health.harvard.edu/staying-healthy/by-the-way-doctor-is-palm-oil-good-for-you"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/cf6082b0faf6d7bdb7b3a60e72ba8765b9f396905a7016a38f0f2235593b9666e27458069d4fcb08.jpeg",
+        "source": "https://www.nationalgeographic.com/environment/article/palm-oil-destroying-rainforests-household-items"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/cf6082b0faf6d7bdb7b3a60e72ba8765b9f396905a7016a303fda914fc3c4b10169d31009f144fcc.jpeg",
+        "source": "https://en.wikipedia.org/wiki/Elaeis_guineensis"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/cf6082b0faf6d7bdb7b3a60e72ba8765b9f396905a7016a370cfae8c7c83f6c37c6f49926d5b3bff.jpeg",
+        "source": "https://www.orang-utans-in-not.org/en/palm-oil-facts/the-oil-palm-tree/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/cf6082b0faf6d7bdb7b3a60e72ba8765b9f396905a7016a3b0c335301bb8a30a3b50d8820d2819b8.jpeg",
+        "source": "https://www.musimmas.com/resources/blogs/what-is-palm-oil-from-seed-to-harvest/"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxXS5pXVpb6s0UFT2XCMW9CbuSkUSI-2L-_jLsIsGGjA&s",
+        "source": "https://www.conservation.org/projects/sustainable-palm-oil"
+      }
+    ],
+    "description": "Palm oil is an edible vegetable oil derived from the mesocarp of the fruit of oil palms. The oil is used in food manufacturing, in beauty products, and as biofuel. Palm oil accounted for about 36% of global oils produced from oil crops in 2014.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Palm_oil"
+    },
+    "largest_producer": "Indonesia",
+    "sources_include": "USDAPalm oil120 Calories - 1 tbsp (13.6 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171015/nutrients"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Soybean",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm0U-FYJal1Et-T80uTmwf-w2O0uR4ZzlbrH_eCZGOat8hfjVzM8-esypzRtjNiunxcQdu5OoF1IVMk1MJE9QDKG9V-ArTRsCNs-GxpjtV1BWmSzt5s7e4EVdFrTcVX83xdY9RKx5D2Ob9Fe6UewbkB-HJuZX-cdslzYUC0eaaCTp3UG55DP1HEGiYs8IRgGMMWYupHyqwnfV0M853uajXsUAUp_8lYxFL_sixoDn_QYYmw_Kpw%3D%3D&q=Soybean&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qs9oBKAB6BAg8EAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Soybean&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm0U-FYJal1Et-T80uTmwf-w2O0uR4ZzlbrH_eCZGOat8hfjVzM8-esypzRtjNiunxcQdu5OoF1IVMk1MJE9QDKG9V-ArTRsCNs-GxpjtV1BWmSzt5s7e4EVdFrTcVX83xdY9RKx5D2Ob9Fe6UewbkB-HJuZX-cdslzYUC0eaaCTp3UG55DP1HEGiYs8IRgGMMWYupHyqwnfV0M853uajXsUAUp_8lYxFL_sixoDn_QYYmw_Kpw%3D%3D",
+        "image": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/cf6082b0faf6d7bdb7b3a60e72ba87652e038aa68fee08989a7ca60c1f2b5cbeb609a556128aa5c026b878b95974c457.jpeg"
+      },
+      {
+        "name": "Rapeseed oil",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgFd_Hb7rWz0kF1Vld9D_POYdrDuH_ODzUTY1TVPnudTf8qh0KCuIc0Rhah-o36FU87Y34IeDbmcs-z_OIoJjSM7f71d2ezwfStU3uYAsvG1sTrZvpAkklYUiAXC1tV0bCBvQDAth599unx6fY0JYQscu5IIcg_HBHWFK2maoJd0MJ5B8a6y9ZHMPttAWleFTLN5BnOw2aHronIlkDu2tmB4QQMhV8i7FUw69zD9_XW_HbdPd8Fw9VdS07_cELCVaW8TccmI%3D&q=Rapeseed+oil&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qs9oBKAB6BAg8EAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Rapeseed+oil&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgFd_Hb7rWz0kF1Vld9D_POYdrDuH_ODzUTY1TVPnudTf8qh0KCuIc0Rhah-o36FU87Y34IeDbmcs-z_OIoJjSM7f71d2ezwfStU3uYAsvG1sTrZvpAkklYUiAXC1tV0bCBvQDAth599unx6fY0JYQscu5IIcg_HBHWFK2maoJd0MJ5B8a6y9ZHMPttAWleFTLN5BnOw2aHronIlkDu2tmB4QQMhV8i7FUw69zD9_XW_HbdPd8Fw9VdS07_cELCVaW8TccmI%3D",
+        "image": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/cf6082b0faf6d7bdb7b3a60e72ba87652e038aa68fee08989a7ca60c1f2b5cbed7920a767534f0a9f5926a19f3175653.jpeg"
+      },
+      {
+        "name": "Palm kernel oil",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQbC-o8V1RQAFwrFPpVZPTAk4pwVaL98nS_XguwYnm0CCXtP2lzC5GZVhjZvnxpJrPoY70GsOd2_SEKqlGqis4jOh-l8GF2Suk7hDgzFJyPgjPu6rZ9vHkohQQI5NIjY_PDWvnhcjpEibTfqhyT6uvOG4WcZzJzV7A5WKFUTqKw1wySpoOGrWhzSAPHHTHQae0TpHWqzQjaPJaFJhsS1UySZKIPBVRSmRvpWpzEZWHS0Nx1PW5L8N90oTTLyPe4ap3DffbN4%3D&q=Palm+kernel+oil&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qs9oBKAB6BAg8EA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Palm+kernel+oil&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQbC-o8V1RQAFwrFPpVZPTAk4pwVaL98nS_XguwYnm0CCXtP2lzC5GZVhjZvnxpJrPoY70GsOd2_SEKqlGqis4jOh-l8GF2Suk7hDgzFJyPgjPu6rZ9vHkohQQI5NIjY_PDWvnhcjpEibTfqhyT6uvOG4WcZzJzV7A5WKFUTqKw1wySpoOGrWhzSAPHHTHQae0TpHWqzQjaPJaFJhsS1UySZKIPBVRSmRvpWpzEZWHS0Nx1PW5L8N90oTTLyPe4ap3DffbN4%3D",
+        "image": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/cf6082b0faf6d7bdb7b3a60e72ba87652e038aa68fee08989a7ca60c1f2b5cbe56b83aecf5a8e99c17dcdef08c2c347c.jpeg"
+      },
+      {
+        "name": "Sunflower oil",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L1MZOckgr3DpScmvUv-dgzytRqz_X8iqd5D0m0FCo2N_qXxz2Npkde6Bj39Dhj1mLgGbMwDx3iqr8Ckvmo_g3g7HaZxplL2bprjUcMW0YOkVcNYWgzUfN05l6k9UGNSFN8MGfWnK7C3n--KEcCavkMPAWKx-9LQSTK2jGOQYww96Qq0kEo_kFeuFx0krsmXqibKWUWbRSwJopLz6wO-uFbZZZPBnJcWWW5byvxdkITGhexkhe6EPi9kFlXd2TPpQhRaPI3o%3D&q=Sunflower+Oil&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qs9oBKAB6BAg8EBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sunflower+Oil&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L1MZOckgr3DpScmvUv-dgzytRqz_X8iqd5D0m0FCo2N_qXxz2Npkde6Bj39Dhj1mLgGbMwDx3iqr8Ckvmo_g3g7HaZxplL2bprjUcMW0YOkVcNYWgzUfN05l6k9UGNSFN8MGfWnK7C3n--KEcCavkMPAWKx-9LQSTK2jGOQYww96Qq0kEo_kFeuFx0krsmXqibKWUWbRSwJopLz6wO-uFbZZZPBnJcWWW5byvxdkITGhexkhe6EPi9kFlXd2TPpQhRaPI3o%3D",
+        "image": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/cf6082b0faf6d7bdb7b3a60e72ba87652e038aa68fee08989a7ca60c1f2b5cbe2b600d8baf393b93e0e4086b1565f8dd.jpeg"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "14 g",
+        "21%"
+      ],
+      "cholesterol": [
+        "0 mg",
+        "0%"
+      ],
+      "sodium": [
+        "0 mg",
+        "0%"
+      ],
+      "total_carbohydrate": [
+        "0 g",
+        "0%"
+      ],
+      "protein": [
+        "0 g",
+        "0%"
+      ]
+    }
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=oil+palm&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=VcitHf5GCFIPwM%252Csy_cWwk3Jg5BTM%252C%252Fm%252F0fsx5%253BozY99FhiCSjOiM%252CpCVZTs-uq6qYbM%252C_%253BXdzLZ1jAidxGpM%252CGqTKlWKPOESL-M%252C_%253BrgYITK742pbTJM%252CCnOg48V8mpz0cM%252C_%253Bvg3YZrgO4Kc_wM%252CtMe1QXxrh8n7JM%252C_%253BE0vxLe6WJTQoxM%252C-nN6qU5LGrLVIM%252C_&usg=AI4_-kQztHDZ8Wwf9UUi5fLnXZPnx36tgw&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Q_B16BAg-EAE#vhid=VcitHf5GCFIPwM&vssid=mosaic",
+      "source": "https://www.health.harvard.edu/staying-healthy/by-the-way-doctor-is-palm-oil-good-for-you",
+      "thumbnail": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/7c15605b0be8677a33d97ab1c2a593c497fec99793ff789ba97bb9346666b9cd.jpeg",
+      "original": "https://domf5oio6qrcr.cloudfront.net/medialibrary/11496/723f36e0-71b8-4bcc-8c0b-9d0ddfd009cc.jpg",
+      "title": "domf5oio6qrcr.cloudfront.net/medialibrary/11496/72...",
+      "source_name": "www.health.harvard.edu"
+    },
+    {
+      "link": "https://www.google.com/search?q=oil+palm&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=VcitHf5GCFIPwM%252Csy_cWwk3Jg5BTM%252C_%253BozY99FhiCSjOiM%252CpCVZTs-uq6qYbM%252C_%253BXdzLZ1jAidxGpM%252CGqTKlWKPOESL-M%252C_%253BrgYITK742pbTJM%252CCnOg48V8mpz0cM%252C_%253Bvg3YZrgO4Kc_wM%252CtMe1QXxrh8n7JM%252C_%253BE0vxLe6WJTQoxM%252C-nN6qU5LGrLVIM%252C_&usg=AI4_-kRWkSanPAJuVJcUDuSy_L4dTnYgww&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Q_h16BAhDEAE#vhid=ozY99FhiCSjOiM&vssid=mosaic",
+      "source": "https://www.nationalgeographic.com/environment/article/palm-oil-destroying-rainforests-household-items",
+      "thumbnail": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/7c15605b0be8677a5f249f900f7821fbc4b399118124ebb5d0a2d34f3b940e23.jpeg",
+      "original": "https://i.natgeofe.com/n/52ea3597-97f9-45b5-9cc5-9b1bc911276f/palm-oil-in-products_4x3.jpg",
+      "title": "Palm oil is destroying rainforests. But try going a day ...",
+      "source_name": "National Geographic"
+    },
+    {
+      "link": "https://www.google.com/search?q=oil+palm&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=VcitHf5GCFIPwM%252Csy_cWwk3Jg5BTM%252C_%253BozY99FhiCSjOiM%252CpCVZTs-uq6qYbM%252C_%253BXdzLZ1jAidxGpM%252CGqTKlWKPOESL-M%252C_%253BrgYITK742pbTJM%252CCnOg48V8mpz0cM%252C_%253Bvg3YZrgO4Kc_wM%252CtMe1QXxrh8n7JM%252C_%253BE0vxLe6WJTQoxM%252C-nN6qU5LGrLVIM%252C_&usg=AI4_-kRWkSanPAJuVJcUDuSy_L4dTnYgww&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Q_h16BAhCEAE#vhid=XdzLZ1jAidxGpM&vssid=mosaic",
+      "source": "https://en.wikipedia.org/wiki/Elaeis_guineensis",
+      "thumbnail": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/7c15605b0be8677aefc3da91dc9fe0b741fb2da68f8042afaae1c988dcabdd4b.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Elaeis_guineensis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-056.jpg",
+      "title": "Elaeis guineensis - Wikipedia",
+      "source_name": "Wikipedia"
+    },
+    {
+      "link": "https://www.google.com/search?q=oil+palm&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=VcitHf5GCFIPwM%252Csy_cWwk3Jg5BTM%252C_%253BozY99FhiCSjOiM%252CpCVZTs-uq6qYbM%252C_%253BXdzLZ1jAidxGpM%252CGqTKlWKPOESL-M%252C_%253BrgYITK742pbTJM%252CCnOg48V8mpz0cM%252C_%253Bvg3YZrgO4Kc_wM%252CtMe1QXxrh8n7JM%252C_%253BE0vxLe6WJTQoxM%252C-nN6qU5LGrLVIM%252C_&usg=AI4_-kRWkSanPAJuVJcUDuSy_L4dTnYgww&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Q_h16BAhBEAE#vhid=rgYITK742pbTJM&vssid=mosaic",
+      "source": "https://www.orang-utans-in-not.org/en/palm-oil-facts/the-oil-palm-tree/",
+      "thumbnail": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/7c15605b0be8677ad49c87523c47d3df3200025079a4120c8ab0edb7e5149899.jpeg",
+      "original": "https://www.orang-utans-in-not.org/wp-content/uploads/2022/03/O%CC%88lpalmen_Grallert_20155-1-scaled-785x1024.jpg",
+      "title": "The oil palm and its fruits | Orang-Utans in Not e.V.",
+      "source_name": "Orang-Utans in Not e.V."
+    },
+    {
+      "link": "https://www.google.com/search?q=oil+palm&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=VcitHf5GCFIPwM%252Csy_cWwk3Jg5BTM%252C_%253BozY99FhiCSjOiM%252CpCVZTs-uq6qYbM%252C_%253BXdzLZ1jAidxGpM%252CGqTKlWKPOESL-M%252C_%253BrgYITK742pbTJM%252CCnOg48V8mpz0cM%252C_%253Bvg3YZrgO4Kc_wM%252CtMe1QXxrh8n7JM%252C_%253BE0vxLe6WJTQoxM%252C-nN6qU5LGrLVIM%252C_&usg=AI4_-kRWkSanPAJuVJcUDuSy_L4dTnYgww&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Q_h16BAhAEAE#vhid=vg3YZrgO4Kc_wM&vssid=mosaic",
+      "source": "https://www.musimmas.com/resources/blogs/what-is-palm-oil-from-seed-to-harvest/",
+      "thumbnail": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/7c15605b0be8677a92aa20a6ee4041d49fae35480fd00f096ab676780bcc57b1.jpeg",
+      "original": "https://www.musimmas.com/wp-content/uploads/2022/05/WRL_6025-scaled-1.jpg",
+      "title": "What is Palm Oil? From Seed to Harvest | Palm Oil Plantation",
+      "source_name": "Musim Mas"
+    },
+    {
+      "link": "https://www.google.com/search?q=oil+palm&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=VcitHf5GCFIPwM%252Csy_cWwk3Jg5BTM%252C_%253BozY99FhiCSjOiM%252CpCVZTs-uq6qYbM%252C_%253BXdzLZ1jAidxGpM%252CGqTKlWKPOESL-M%252C_%253BrgYITK742pbTJM%252CCnOg48V8mpz0cM%252C_%253Bvg3YZrgO4Kc_wM%252CtMe1QXxrh8n7JM%252C_%253BE0vxLe6WJTQoxM%252C-nN6qU5LGrLVIM%252C_&usg=AI4_-kRWkSanPAJuVJcUDuSy_L4dTnYgww&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Q_h16BAg_EAE#vhid=E0vxLe6WJTQoxM&vssid=mosaic",
+      "source": "https://www.conservation.org/projects/sustainable-palm-oil",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxXS5pXVpb6s0UFT2XCMW9CbuSkUSI-2L-_jLsIsGGjA&s",
+      "original": "https://ciorg.imgix.net/images/default-source/default-album/ci_39922110?&auto=compress&auto=format&fit=crop&w=1440&h=900",
+      "title": "Sustainable Palm Oil",
+      "source_name": "Conservation International"
+    }
+  ],
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "How To Make Palm Oil At Home - Easy Method Of Producing ...",
+      "link": "https://www.youtube.com/watch?v=djlfXSedhHk",
+      "thumbnail": "https://i.ytimg.com/vi/djlfXSedhHk/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3mSF7oaFaZK6dXJb8bhKsTNTC31yw",
+      "channel": "Grace Value",
+      "duration": "10:49",
+      "date": "May 23, 2024"
+    },
+    {
+      "position": 2,
+      "title": "How traditional palm oil is made in Volta Region, Ghana ...",
+      "link": "https://www.youtube.com/watch?v=Wp0wch2vGGE",
+      "thumbnail": "https://i.ytimg.com/vi/Wp0wch2vGGE/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3nkm4c_3hiXuDhQ4YufPPvEka-dDA",
+      "channel": "Eat with Afia",
+      "duration": "0:46",
+      "date": "Nov 6, 2023"
+    },
+    {
+      "position": 3,
+      "title": "Palm oil without palm trees",
+      "link": "https://www.youtube.com/watch?v=LF_cV2OElxM",
+      "thumbnail": "https://i.ytimg.com/vi/LF_cV2OElxM/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3nMF6WN0KLx3zCOso5h6Vpmuc8sIw",
+      "channel": "Bill Gates",
+      "duration": "2:36",
+      "date": "Feb 13, 2024"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f784708f0dcf761f505809fc3d482025414896b7fa9b355dfd15b269eb8afa27.webp",
+      "source_logo": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f784708f0dcf761f505809fc3d4820252679668b8e6f99679d008b117d370fe4e83b4f9e9c5885b0.png",
+      "source": "Amazon",
+      "title": "Oil Palm [Book]",
+      "price": "$90.00",
+      "extracted_price": 90.0,
+      "immersive_product_page_token": "eyJlaSI6IkhDOEtaNEc0QllfbndONFAtN0NXOEEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU0MjE5OTM4NzM0ODI2NjE3MCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDI0NDU0ODgwNTQ2NjQxNTczNyIsImltYWdlRG9jaWQiOiIxMDE2Nzc1NTk4MDE3MTEwNzc0NCIsInJkcyI6IiIsInF1ZXJ5Ijoib2lsK3BhbG0ifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhDOEtaNEc0QllfbndONFAtN0NXOEEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU0MjE5OTM4NzM0ODI2NjE3MCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDI0NDU0ODgwNTQ2NjQxNTczNyIsImltYWdlRG9jaWQiOiIxMDE2Nzc1NTk4MDE3MTEwNzc0NCIsInJkcyI6IiIsInF1ZXJ5Ijoib2lsK3BhbG0ifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f784708f0dcf761f505809fc3d48202595dd54b93aa25a539c540b306c0e541c.webp",
+      "source_logo": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f784708f0dcf761f505809fc3d48202582bc498a8b494f10af2b65bbcec1c0a646430a791a4d73d8.png",
+      "source": "Barnes & Noble - NOOK",
+      "title": "Oil Palm: A Global History [eBook]",
+      "price": "$18.99",
+      "extracted_price": 18.99,
+      "original_price": "$25",
+      "extracted_original_price": 25,
+      "delivery": "Free delivery",
+      "extensions": [
+        "24% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IkhDOEtaNEc0QllfbndONFAtN0NXOEEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTY2NTQ0NTYwMjE2NjM5Mzk0NyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQyNjUzMDE0NTU1NTYyOTk2NTAiLCJpbWFnZURvY2lkIjoiMTMxNzI3MzMwMTE4NDk3MTAyODUiLCJyZHMiOiIiLCJxdWVyeSI6Im9pbCtwYWxtIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhDOEtaNEc0QllfbndONFAtN0NXOEEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTY2NTQ0NTYwMjE2NjM5Mzk0NyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQyNjUzMDE0NTU1NTYyOTk2NTAiLCJpbWFnZURvY2lkIjoiMTMxNzI3MzMwMTE4NDk3MTAyODUiLCJyZHMiOiIiLCJxdWVyeSI6Im9pbCtwYWxtIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f784708f0dcf761f505809fc3d48202595e70e344624775b7b96f240fc2373e6.webp",
+      "source_logo": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f784708f0dcf761f505809fc3d482025576afe355b8ae9113ef8b1fdf261ba89a4514f37ab5091d7.png",
+      "source": "Walmart - ER African Online Store",
+      "title": "Praise Palm African Zomi Oil",
+      "rating": 4.6,
+      "reviews": 5,
+      "price": "$13.19",
+      "extracted_price": 13.19,
+      "immersive_product_page_token": "eyJlaSI6IkhDOEtaNEc0QllfbndONFAtN0NXOEEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE1Mjk5OTk2MDUwNDY5NjI2MjgiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyODk1Njc2MTI4Njc2MjgwOTc0IiwiaW1hZ2VEb2NpZCI6IjE1MjAzMTQxOTI2NjYwNzMyNjcxIiwicmRzIjoiUENfMTMyMDk2MTk2NDU5MTAxNTU4NDJ8UFJPRF9QQ18xMzIwOTYxOTY0NTkxMDE1NTg0MiIsInF1ZXJ5Ijoib2lsK3BhbG0ifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhDOEtaNEc0QllfbndONFAtN0NXOEEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE1Mjk5OTk2MDUwNDY5NjI2MjgiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyODk1Njc2MTI4Njc2MjgwOTc0IiwiaW1hZ2VEb2NpZCI6IjE1MjAzMTQxOTI2NjYwNzMyNjcxIiwicmRzIjoiUENfMTMyMDk2MTk2NDU5MTAxNTU4NDJ8UFJPRF9QQ18xMzIwOTYxOTY0NTkxMDE1NTg0MiIsInF1ZXJ5Ijoib2lsK3BhbG0ifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f784708f0dcf761f505809fc3d482025180873a71fc44a2d6c321fca8fec4682.webp",
+      "source_logo": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f784708f0dcf761f505809fc3d4820258aff1ffe129ae9244ad3cdc5e35ebf1515560948432d26d1.png",
+      "source": "eBay",
+      "title": "Oil Palm/ Haitian Huille Macretti .",
+      "price": "$32.89",
+      "extracted_price": 32.89,
+      "delivery": "Free by 10/22",
+      "immersive_product_page_token": "eyJlaSI6IkhDOEtaNEc0QllfbndONFAtN0NXOEEwIiwicHJvZHVjdGlkIjoiMTYyNjQ2ODE4OTcxMzExOTEzNDkiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2MjY0NjgxODk3MTMxMTkxMzQ5IiwiaW1hZ2VEb2NpZCI6IjExMTYzOTg0NTgxMzQ1MjQwMTg4IiwicmRzIjoiIiwicXVlcnkiOiJvaWwrcGFsbSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhDOEtaNEc0QllfbndONFAtN0NXOEEwIiwicHJvZHVjdGlkIjoiMTYyNjQ2ODE4OTcxMzExOTEzNDkiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2MjY0NjgxODk3MTMxMTkxMzQ5IiwiaW1hZ2VEb2NpZCI6IjExMTYzOTg0NTgxMzQ1MjQwMTg4IiwicmRzIjoiIiwicXVlcnkiOiJvaWwrcGFsbSJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f784708f0dcf761f505809fc3d4820250888a823fa6577f0738c1f1b3cab7fa5.webp",
+      "source_logo": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f784708f0dcf761f505809fc3d4820257d089b4a5a25702d534fea0a80c9f180edbb13fec02f4173.png",
+      "source": "Wiley",
+      "title": "The Oil Palm [eBook]",
+      "price": "$202.00",
+      "extracted_price": 202.0,
+      "immersive_product_page_token": "eyJlaSI6IkhDOEtaNEc0QllfbndONFAtN0NXOEEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTAzMjM5NzcwNTExMzUwNzc5MjYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ4MTEyNTA4MDI4NzgyNjQ2NDQiLCJpbWFnZURvY2lkIjoiMTQ5Mjc1NjY4NDIwOTAwMjMyMDQiLCJyZHMiOiIiLCJxdWVyeSI6Im9pbCtwYWxtIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhDOEtaNEc0QllfbndONFAtN0NXOEEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTAzMjM5NzcwNTExMzUwNzc5MjYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ4MTEyNTA4MDI4NzgyNjQ2NDQiLCJpbWFnZURvY2lkIjoiMTQ5Mjc1NjY4NDIwOTAwMjMyMDQiLCJyZHMiOiIiLCJxdWVyeSI6Im9pbCtwYWxtIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f784708f0dcf761f505809fc3d482025db7282a84a12df17848f174d2111500d.webp",
+      "source_logo": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f784708f0dcf761f505809fc3d482025b56231316125e50f52adc2f918ebde439d5095a3a67016f5.png",
+      "source": "Amazon.com - Seller",
+      "title": "Dr Adorable Palm Kernel Oil",
+      "rating": 4.0,
+      "reviews": 7,
+      "price": "$22.99",
+      "extracted_price": 22.99,
+      "immersive_product_page_token": "eyJlaSI6IkhDOEtaNEc0QllfbndONFAtN0NXOEEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU1NzI5MDExMDE1Mzk0NTQxNjUiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzMTkyMDI5NzE0ODE2NDM3NjIiLCJpbWFnZURvY2lkIjoiMTQ4MDIxMjk5NTg2NDg2MDI0MDUiLCJyZHMiOiJQQ18xMzgyMjk1MzU2MDE1NDUwNTkzfFBST0RfUENfMTM4MjI5NTM1NjAxNTQ1MDU5MyIsInF1ZXJ5Ijoib2lsK3BhbG0ifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhDOEtaNEc0QllfbndONFAtN0NXOEEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU1NzI5MDExMDE1Mzk0NTQxNjUiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzMTkyMDI5NzE0ODE2NDM3NjIiLCJpbWFnZURvY2lkIjoiMTQ4MDIxMjk5NTg2NDg2MDI0MDUiLCJyZHMiOiJQQ18xMzgyMjk1MzU2MDE1NDUwNTkzfFBST0RfUENfMTM4MjI5NTM1NjAxNTQ1MDU5MyIsInF1ZXJ5Ijoib2lsK3BhbG0ifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f784708f0dcf761f505809fc3d482025419e71f9f7c0ede883499d0c395c3cb0.webp",
+      "source_logo": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f784708f0dcf761f505809fc3d482025527d742aadbd46309d5748a489530eaf7c55d4a834346007.png",
+      "source": "Bulk Apothecary",
+      "title": "Palm Oil in Bulk 50 lb Block",
+      "price": "$100.50",
+      "extracted_price": 100.5,
+      "immersive_product_page_token": "eyJlaSI6IkhDOEtaNEc0QllfbndONFAtN0NXOEEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTA0NDUwMDMxMDQ3MjQzNjYzIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTY5MzE2OTU3ODE5MTA2Nzk3NiIsImltYWdlRG9jaWQiOiIxODM0NzI3MjUzMDMwNTg1NjI2MiIsInJkcyI6IiIsInF1ZXJ5Ijoib2lsK3BhbG0ifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhDOEtaNEc0QllfbndONFAtN0NXOEEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTA0NDUwMDMxMDQ3MjQzNjYzIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTY5MzE2OTU3ODE5MTA2Nzk3NiIsImltYWdlRG9jaWQiOiIxODM0NzI3MjUzMDMwNTg1NjI2MiIsInJkcyI6IiIsInF1ZXJ5Ijoib2lsK3BhbG0ifQ%3D%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f784708f0dcf761f505809fc3d482025540c438e3b07fbb067ebbb4274287330.webp",
+      "source_logo": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f784708f0dcf761f505809fc3d4820255b034341433bea29bdbb5a338af256c383d98e3c3793fb90.png",
+      "source": "Walmart - Organics Overseas Inc",
+      "title": "100% Sustainable Organic Palm Oil",
+      "rating": 5.0,
+      "reviews": 1,
+      "price": "$14.90",
+      "extracted_price": 14.9,
+      "immersive_product_page_token": "eyJlaSI6IkhDOEtaNEc0QllfbndONFAtN0NXOEEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI3NDc2NjcyNDgzMjAwMTUyNTMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU3OTU5NzQyMzEyMzMwNDA2MTciLCJpbWFnZURvY2lkIjoiMjU5OTUwMDcyNTE1MzYzODE4OSIsInJkcyI6IlBDXzEyMjM4NzI1MTcxOTM2NDIxOTQ2fFBST0RfUENfMTIyMzg3MjUxNzE5MzY0MjE5NDYiLCJxdWVyeSI6Im9pbCtwYWxtIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkhDOEtaNEc0QllfbndONFAtN0NXOEEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI3NDc2NjcyNDgzMjAwMTUyNTMiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU3OTU5NzQyMzEyMzMwNDA2MTciLCJpbWFnZURvY2lkIjoiMjU5OTUwMDcyNTE1MzYzODE4OSIsInJkcyI6IlBDXzEyMjM4NzI1MTcxOTM2NDIxOTQ2fFBST0RfUENfMTIyMzg3MjUxNzE5MzY0MjE5NDYiLCJxdWVyeSI6Im9pbCtwYWxtIn0%3D"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is unhealthy about palm oil?",
+      "snippet": "Palm oil is high in saturated fat, which may raise LDL cholesterol and increase the risk of cardiovascular disease. Some studies suggest palm oil could be linked to inflammation, certain cancer risks, and type 2 diabetes, but research is inconclusive and often contradictory.",
+      "title": "Palm Oil: Is It Bad for You? Side Effects to Know - Verywell Health",
+      "date": "Jan 24, 2024",
+      "link": "https://www.verywellhealth.com/is-palm-oil-bad-for-you-8415866#:~:text=Palm%20oil%20is%20high%20in%20saturated%20fat%2C%20which%20may%20raise,is%20inconclusive%20and%20often%20contradictory.",
+      "displayed_link": "https://www.verywellhealth.com \u203a is-palm-oil-bad-for-yo...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5MDjVCto-NqGkhsVuYi9Tjiv3X2uxETRMfYIZRc0-0A&s",
+      "source_logo": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f5b713e751a2beb16c820bd6825f0d3ff4467f0b4055619f4f2eb6acdf97e245.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TllYWkdlVFJIUm05dFFtbzJUREZKUjNobWVWOTBNbkl5WDFRelRUZFdWV2xqZHpaekxXVnBXbWhZV1RWVlRuTmxhblZPUTBsclFWSlpYM1pvWjNCdlUyMVRkWEI1RWhkSVF6aExXalJITkVKWlgyNTNUalJRTFRkRFZ6aEJNQm9pUVVaWWNrVmpjV2wyT0dwR1ZFbHJhR1ZEYnpSVVZUTnFkakU1VlUxU01VMXRkdyIsImZjdiI6IjMiLCJlaSI6IkhDOEtaNEc0QllfbndONFAtN0NXOEEwIiwicWMiOiJDZ2h2YVd3Z2NHRnNiUkFBZlQzOExEOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB1bmhlYWx0aHkgYWJvdXQgcGFsbSBvaWw/IiwibGsiOiJHaUIzYUdGMElHbHpJSFZ1YUdWaGJIUm9lU0JoWW05MWRDQndZV3h0SUc5cGJBIiwiYnMiOiJjLVB5NGxJTXowZ3NVY2dzVmlqTnkwaE56Q25KcUZSSVRNb3ZMVkVvU016SlZjalB6TEdYT0poaXBDU2xVRTVBSFpjUGx4TE1ySktNVklXQ292eWtuTlJjaGZMTWtnd2t3LTU2R2lsTEtaWVRVc2hsd3lVRk13M0loWWlYRnFlbUtLVGxGOWxMZk1zeWtwYVNMTWVsZ011Q1N5SWM2TUx5eEdLNGlRcEppWGw1cVNuMkVwY05qU1NseE11eFN3c3dBZ0EiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TllYWkdlVFJIUm05dFFtbzJUREZKUjNobWVWOTBNbkl5WDFRelRUZFdWV2xqZHpaekxXVnBXbWhZV1RWVlRuTmxhblZPUTBsclFWSlpYM1pvWjNCdlUyMVRkWEI1RWhkSVF6aExXalJITkVKWlgyNTNUalJRTFRkRFZ6aEJNQm9pUVVaWWNrVmpjV2wyT0dwR1ZFbHJhR1ZEYnpSVVZUTnFkakU1VlUxU01VMXRkdyIsImZjdiI6IjMiLCJlaSI6IkhDOEtaNEc0QllfbndONFAtN0NXOEEwIiwicWMiOiJDZ2h2YVd3Z2NHRnNiUkFBZlQzOExEOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB1bmhlYWx0aHkgYWJvdXQgcGFsbSBvaWw%2FIiwibGsiOiJHaUIzYUdGMElHbHpJSFZ1YUdWaGJIUm9lU0JoWW05MWRDQndZV3h0SUc5cGJBIiwiYnMiOiJjLVB5NGxJTXowZ3NVY2dzVmlqTnkwaE56Q25KcUZSSVRNb3ZMVkVvU016SlZjalB6TEdYT0poaXBDU2xVRTVBSFpjUGx4TE1ySktNVklXQ292eWtuTlJjaGZMTWtnd2t3LTU2R2lsTEtaWVRVc2hsd3lVRk13M0loWWlYRnFlbUtLVGxGOWxMZk1zeWtwYVNMTWVsZ011Q1N5SWM2TUx5eEdLNGlRcEppWGw1cVNuMkVwY05qU1NseE11eFN3c3dBZ0EiLCJpZCI6ImZjXzEifQ%3D%3D"
+    },
+    {
+      "question": "What is the problem with palm oil?",
+      "snippet": "Large-scale conversion of tropical forests to oil palm plantations has a devastating impact on a huge number of plant and animal species. Oil palm production also leads to an increase in human-wildlife conflict as populations of large animals are squeezed into increasingly isolated fragments of natural habitat.",
+      "title": "What is Palm Oil? Facts About the Palm Oil Industry",
+      "link": "https://www.worldwildlife.org/industries/palm-oil#:~:text=Large%2Dscale%20conversion%20of%20tropical,isolated%20fragments%20of%20natural%20habitat.",
+      "displayed_link": "https://www.worldwildlife.org \u203a industries \u203a palm-oil",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TllYWkdlVFJIUm05dFFtbzJUREZKUjNobWVWOTBNbkl5WDFRelRUZFdWV2xqZHpaekxXVnBXbWhZV1RWVlRuTmxhblZPUTBsclFWSlpYM1pvWjNCdlUyMVRkWEI1RWhkSVF6aExXalJITkVKWlgyNTNUalJRTFRkRFZ6aEJNQm9pUVVaWWNrVmpjV2wyT0dwR1ZFbHJhR1ZEYnpSVVZUTnFkakU1VlUxU01VMXRkdyIsImZjdiI6IjMiLCJlaSI6IkhDOEtaNEc0QllfbndONFAtN0NXOEEwIiwicWMiOiJDZ2h2YVd3Z2NHRnNiUkFBZlQzOExEOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgcHJvYmxlbSB3aXRoIHBhbG0gb2lsPyIsImxrIjoiR2lGM2FHRjBJR2x6SUhSb1pTQndjbTlpYkdWdElIZHBkR2dnY0dGc2JTQnZhV3ciLCJicyI6ImMtUHk0bElNejBnc1VjZ3NWaWpOeTBoTnpDbkpxRlJJVE1vdkxWRW9TTXpKVmNqUHpMR1hPSmhpcENTbFVFNUFIWmNQbHhMTXJKS01WSVdDb3Z5a25OUmNoZkxNa2d3a3ctNTZHaWxMS1pZVFVzaGx3eVVGTXczSWhZaVhGcWVtS0tUbEY5bExmTXN5a3BhU0xNZWxnTXVDU3lJYzZNTHl4R0s0aVFwSmlYbDVxU24yRXBjTmpTU2x4TXV4U3dzd0FnQSIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TllYWkdlVFJIUm05dFFtbzJUREZKUjNobWVWOTBNbkl5WDFRelRUZFdWV2xqZHpaekxXVnBXbWhZV1RWVlRuTmxhblZPUTBsclFWSlpYM1pvWjNCdlUyMVRkWEI1RWhkSVF6aExXalJITkVKWlgyNTNUalJRTFRkRFZ6aEJNQm9pUVVaWWNrVmpjV2wyT0dwR1ZFbHJhR1ZEYnpSVVZUTnFkakU1VlUxU01VMXRkdyIsImZjdiI6IjMiLCJlaSI6IkhDOEtaNEc0QllfbndONFAtN0NXOEEwIiwicWMiOiJDZ2h2YVd3Z2NHRnNiUkFBZlQzOExEOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgcHJvYmxlbSB3aXRoIHBhbG0gb2lsPyIsImxrIjoiR2lGM2FHRjBJR2x6SUhSb1pTQndjbTlpYkdWdElIZHBkR2dnY0dGc2JTQnZhV3ciLCJicyI6ImMtUHk0bElNejBnc1VjZ3NWaWpOeTBoTnpDbkpxRlJJVE1vdkxWRW9TTXpKVmNqUHpMR1hPSmhpcENTbFVFNUFIWmNQbHhMTXJKS01WSVdDb3Z5a25OUmNoZkxNa2d3a3ctNTZHaWxMS1pZVFVzaGx3eVVGTXczSWhZaVhGcWVtS0tUbEY5bExmTXN5a3BhU0xNZWxnTXVDU3lJYzZNTHl4R0s0aVFwSmlYbDVxU24yRXBjTmpTU2x4TXV4U3dzd0FnQSIsImlkIjoiZmNfMSJ9"
+    },
+    {
+      "question": "What is oil palm used for?",
+      "snippet": "Palm oil. Some 80% of palm oil is used for human consumption: margarine, basic vegetable fat, food oil, cooking oil and specialist fats. It is also used to make derivatives for industrial use: fatty acids, soaps and cosmetics, industrial soaps, inks, resins, methyl esters, and so on.",
+      "title": "Oil palm - Plant and uses - Cirad",
+      "link": "https://www.cirad.fr/en/our-activities-our-impact/tropical-value-chains/oil-palm/plant-and-uses#:~:text=its%20carotenoid%20content.-,Palm%20oil,methyl%20esters%2C%20and%20so%20on.",
+      "displayed_link": "https://www.cirad.fr \u203a tropical-value-chains \u203a plant-and-u...",
+      "source_logo": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TllYWkdlVFJIUm05dFFtbzJUREZKUjNobWVWOTBNbkl5WDFRelRUZFdWV2xqZHpaekxXVnBXbWhZV1RWVlRuTmxhblZPUTBsclFWSlpYM1pvWjNCdlUyMVRkWEI1RWhkSVF6aExXalJITkVKWlgyNTNUalJRTFRkRFZ6aEJNQm9pUVVaWWNrVmpjV2wyT0dwR1ZFbHJhR1ZEYnpSVVZUTnFkakU1VlUxU01VMXRkdyIsImZjdiI6IjMiLCJlaSI6IkhDOEtaNEc0QllfbndONFAtN0NXOEEwIiwicWMiOiJDZ2h2YVd3Z2NHRnNiUkFBZlQzOExEOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBvaWwgcGFsbSB1c2VkIGZvcj8iLCJsayI6IkdobDNhR0YwSUdseklHOXBiQ0J3WVd4dElIVnpaV1FnWm05eSIsImJzIjoiYy1QeTRsSU16MGdzVWNnc1Zpak55MGhOekNuSnFGUklUTW92TFZFb1NNekpWY2pQekxHWE9KaGlwQ1NsVUU1QUhaY1BseExNckpLTVZJV0Nvdnlrbk5SY2hmTE1rZ3drdy01NkdpbExLWllUVXNobHd5VUZNdzNJaFlpWEZxZW1LS1RsRjlsTGZNc3lrcGFTTE1lbGdNdUNTeUljNk1MeXhHSzRpUXBKaVhsNXFTbjJFcGNOalNTbHhNdXhTd3N3QWdBIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TllYWkdlVFJIUm05dFFtbzJUREZKUjNobWVWOTBNbkl5WDFRelRUZFdWV2xqZHpaekxXVnBXbWhZV1RWVlRuTmxhblZPUTBsclFWSlpYM1pvWjNCdlUyMVRkWEI1RWhkSVF6aExXalJITkVKWlgyNTNUalJRTFRkRFZ6aEJNQm9pUVVaWWNrVmpjV2wyT0dwR1ZFbHJhR1ZEYnpSVVZUTnFkakU1VlUxU01VMXRkdyIsImZjdiI6IjMiLCJlaSI6IkhDOEtaNEc0QllfbndONFAtN0NXOEEwIiwicWMiOiJDZ2h2YVd3Z2NHRnNiUkFBZlQzOExEOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBvaWwgcGFsbSB1c2VkIGZvcj8iLCJsayI6IkdobDNhR0YwSUdseklHOXBiQ0J3WVd4dElIVnpaV1FnWm05eSIsImJzIjoiYy1QeTRsSU16MGdzVWNnc1Zpak55MGhOekNuSnFGUklUTW92TFZFb1NNekpWY2pQekxHWE9KaGlwQ1NsVUU1QUhaY1BseExNckpLTVZJV0Nvdnlrbk5SY2hmTE1rZ3drdy01NkdpbExLWllUVXNobHd5VUZNdzNJaFlpWEZxZW1LS1RsRjlsTGZNc3lrcGFTTE1lbGdNdUNTeUljNk1MeXhHSzRpUXBKaVhsNXFTbjJFcGNOalNTbHhNdXhTd3N3QWdBIiwiaWQiOiJmY18xIn0%3D"
+    },
+    {
+      "question": "Why was palm oil banned?",
+      "snippet": "The Reasons Behind The Palm Oil Banning Researchers found that a significant portion of land converted to oil palm plantations was previously forested. As a result, carbon emissions from land conversion were estimated to be at an astronomical rate.",
+      "title": "The Impact of EU's Palm Oil Ban on Indonesia",
+      "date": "Jun 26, 2024",
+      "link": "https://www.cekindo.com/blog/palm-oil-ban#:~:text=The%20Reasons%20Behind%20The%20Palm%20Oil%20Banning,-Oil%20palm%20plantations&text=Researchers%20found%20that%20a%20significant,be%20at%20an%20astronomical%20rate.",
+      "displayed_link": "https://www.cekindo.com \u203a blog \u203a palm-oil-ban",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Tr55E-TyJf9hAi2GvD6M2p6abE9MUOZLRVHLI2iM6w&s",
+      "source_logo": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f5b713e751a2beb16c820bd6825f0d3f3a08d10b1abaf90ff1ce49efa9c17bef.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TllYWkdlVFJIUm05dFFtbzJUREZKUjNobWVWOTBNbkl5WDFRelRUZFdWV2xqZHpaekxXVnBXbWhZV1RWVlRuTmxhblZPUTBsclFWSlpYM1pvWjNCdlUyMVRkWEI1RWhkSVF6aExXalJITkVKWlgyNTNUalJRTFRkRFZ6aEJNQm9pUVVaWWNrVmpjV2wyT0dwR1ZFbHJhR1ZEYnpSVVZUTnFkakU1VlUxU01VMXRkdyIsImZjdiI6IjMiLCJlaSI6IkhDOEtaNEc0QllfbndONFAtN0NXOEEwIiwicWMiOiJDZ2h2YVd3Z2NHRnNiUkFBZlQzOExEOCIsInF1ZXN0aW9uIjoiV2h5IHdhcyBwYWxtIG9pbCBiYW5uZWQ/IiwibGsiOiJHaGQzYUhrZ2QyRnpJSEJoYkcwZ2IybHNJR0poYm01bFpBIiwiYnMiOiJjLVB5NGxJTXowZ3NVY2dzVmlqTnkwaE56Q25KcUZSSVRNb3ZMVkVvU016SlZjalB6TEdYT0poaXBDU2xVRTVBSFpjUGx4TE1ySktNVklXQ292eWtuTlJjaGZMTWtnd2t3LTU2R2lsTEtaWVRVc2hsd3lVRk13M0loWWlYRnFlbUtLVGxGOWxMZk1zeWtwYVNMTWVsZ011Q1N5SWM2TUx5eEdLNGlRcEppWGw1cVNuMkVwY05qU1NseE11eFN3c3dBZ0EiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TllYWkdlVFJIUm05dFFtbzJUREZKUjNobWVWOTBNbkl5WDFRelRUZFdWV2xqZHpaekxXVnBXbWhZV1RWVlRuTmxhblZPUTBsclFWSlpYM1pvWjNCdlUyMVRkWEI1RWhkSVF6aExXalJITkVKWlgyNTNUalJRTFRkRFZ6aEJNQm9pUVVaWWNrVmpjV2wyT0dwR1ZFbHJhR1ZEYnpSVVZUTnFkakU1VlUxU01VMXRkdyIsImZjdiI6IjMiLCJlaSI6IkhDOEtaNEc0QllfbndONFAtN0NXOEEwIiwicWMiOiJDZ2h2YVd3Z2NHRnNiUkFBZlQzOExEOCIsInF1ZXN0aW9uIjoiV2h5IHdhcyBwYWxtIG9pbCBiYW5uZWQ%2FIiwibGsiOiJHaGQzYUhrZ2QyRnpJSEJoYkcwZ2IybHNJR0poYm01bFpBIiwiYnMiOiJjLVB5NGxJTXowZ3NVY2dzVmlqTnkwaE56Q25KcUZSSVRNb3ZMVkVvU016SlZjalB6TEdYT0poaXBDU2xVRTVBSFpjUGx4TE1ySktNVklXQ292eWtuTlJjaGZMTWtnd2t3LTU2R2lsTEtaWVRVc2hsd3lVRk13M0loWWlYRnFlbUtLVGxGOWxMZk1zeWtwYVNMTWVsZ011Q1N5SWM2TUx5eEdLNGlRcEppWGw1cVNuMkVwY05qU1NseE11eFN3c3dBZ0EiLCJpZCI6ImZjXzEifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Elaeis",
+      "link": "https://en.wikipedia.org/wiki/Elaeis",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Elaeis&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4QFnoECBUQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Elaeis",
+      "thumbnail": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f840d838118abbba7a1691031b62bdec68eb4cea0b34e40868febdebb492c5bb.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f840d838118abbba7a1691031b62bdecdd05e478f06f216e631447ff0946e6b9.webp",
+      "snippet": "Elaeis (from Greek 'oil') is a genus of palms containing two species, called oil palms. They are used in commercial agriculture in the production of palm oil.",
+      "snippet_highlighted_words": [
+        "oil palms",
+        "palm oil"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Palm oil",
+      "link": "https://en.wikipedia.org/wiki/Palm_oil",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Palm_oil&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4QFnoECBIQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Palm_oil",
+      "thumbnail": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f840d838118abbba7a1691031b62bdecb3bbbc285c3e226f9f18e35174266d4a.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f840d838118abbba7a1691031b62bdeccda4510573a97fe97d915cd7ac19c89c.webp",
+      "snippet": "Palm oil is an edible vegetable oil derived from the mesocarp (reddish pulp) of the fruit of oil palms. The oil is used in food manufacturing, ...",
+      "snippet_highlighted_words": [
+        "Palm oil",
+        "oil palms"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Elaeis",
+            "link": "https://en.wikipedia.org/wiki/Elaeis"
+          },
+          {
+            "title": "Social and environmental...",
+            "link": "https://en.wikipedia.org/wiki/Social_and_environmental_impact_of_palm_oil"
+          },
+          {
+            "title": "Palm oil production in Indonesia",
+            "link": "https://en.wikipedia.org/wiki/Palm_oil_production_in_Indonesia"
+          },
+          {
+            "title": "Coconut oil",
+            "link": "https://en.wikipedia.org/wiki/Coconut_oil"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 3,
+      "title": "Oil palm | Description, Uses, Cultivation, Environmental ...",
+      "link": "https://www.britannica.com/plant/oil-palm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.britannica.com/plant/oil-palm&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4QFnoECFcQAQ",
+      "displayed_link": "https://www.britannica.com \u203a ... \u203a Plants \u203a Flowering Plants",
+      "thumbnail": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f840d838118abbba7a1691031b62bdec4839142e00c580240b7391de49dfd215.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f840d838118abbba7a1691031b62bdece751ec7192633e8cbe9e9b6b68c87b23.webp",
+      "date": "Sep 27, 2024",
+      "snippet": "The oil palm bears a single stem and reaches about 20 metres (66 feet) in height. It has many tiny flowers crowded on short branches that ...",
+      "snippet_highlighted_words": [
+        "oil palm"
+      ],
+      "source": "Britannica"
+    },
+    {
+      "position": 4,
+      "title": "8 things to know about palm oil - WWF-UK",
+      "link": "https://www.wwf.org.uk/updates/8-things-know-about-palm-oil",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wwf.org.uk/updates/8-things-know-about-palm-oil&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4QFnoECFgQAQ",
+      "displayed_link": "https://www.wwf.org.uk \u203a updates \u203a 8-things-know-abo...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRGxaGtXUDO3CT_5AK4ouI7CkE-OtTFI_JJ9XRNA7Z6RIH6yIPaWPR&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f840d838118abbba7a1691031b62bdec380622293c7e959f2d3d7625fb55c49d.webp",
+      "snippet": "Palm oil is one of the most efficient and widely used vegetable oils that comes from the fruit of oil palm trees. We've broken down they key facts.",
+      "snippet_highlighted_words": [
+        "Palm oil",
+        "oil palm"
+      ],
+      "source": "wwf.org.uk"
+    },
+    {
+      "position": 5,
+      "title": "Oil palm in the 2020s and beyond: challenges and solutions",
+      "link": "https://cabiagbio.biomedcentral.com/articles/10.1186/s43170-021-00058-3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cabiagbio.biomedcentral.com/articles/10.1186/s43170-021-00058-3&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4QFnoECFUQAQ",
+      "displayed_link": "https://cabiagbio.biomedcentral.com \u203a articles",
+      "favicon": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f840d838118abbba7a1691031b62bdeca7fdf83ec706d1e9fac31fc0a34f3f65.webp",
+      "author": "by DJ Murphy",
+      "cited_by": "Cited by 207",
+      "extracted_cited_by": 207,
+      "date": "2021",
+      "snippet": "Oil palm, Elaeis guineensis, is by far the most important global oil crop, supplying about 40% of all traded vegetable oil.",
+      "snippet_highlighted_words": [
+        "Oil palm"
+      ],
+      "source": "CABI Agriculture and Bioscience"
+    },
+    {
+      "position": 6,
+      "title": "What is Palm Oil? Facts About the Palm Oil Industry",
+      "link": "https://www.worldwildlife.org/industries/palm-oil",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.worldwildlife.org/industries/palm-oil&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4QFnoECFkQAQ",
+      "displayed_link": "https://www.worldwildlife.org \u203a industries \u203a palm-oil",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROY5Cbgtfi7iX15k2lkZlFjusq_t4zikwSsQTqJmV-j7Pt0-yvYwL8&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/f840d838118abbba7a1691031b62bdec06001ce309a71a8197df0a594f7f864c.webp",
+      "snippet": "Grown only in the tropics, the oil palm tree produces high-quality oil used primarily for cooking in developing countries. It is also used in food products, ...",
+      "snippet_highlighted_words": [
+        "oil palm"
+      ],
+      "source": "World Wildlife Fund"
+    },
+    {
+      "position": 7,
+      "title": "Oil palm - Plant and uses",
+      "link": "https://www.cirad.fr/en/our-activities-our-impact/tropical-value-chains/oil-palm/plant-and-uses",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cirad.fr/en/our-activities-our-impact/tropical-value-chains/oil-palm/plant-and-uses&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4QFnoECFYQAQ",
+      "displayed_link": "https://www.cirad.fr \u203a tropical-value-chains \u203a plant-and-u...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR752DbOEVgbxZi62V6cMSQOmyv78dvOUfERgINGDHtf6b1vSNeSTrd&usqp=CAE&s",
+      "snippet": "Oil palm is the leading producer of vegetable oil, ahead of soybean, and produces two types of oil. Red palm oil comes from the pulp of the fruit. Palm kernel ...",
+      "snippet_highlighted_words": [
+        "Oil palm",
+        "palm oil"
+      ],
+      "source": "Cirad"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?q=oil+palm&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=18&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Q8poLegQIWxAF",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oil+palm",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Oil palm scientific name",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Oil+palm+scientific+name&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Q1QJ6BQiCARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Oil+palm+scientific+name"
+    },
+    {
+      "block_position": 1,
+      "query": "Oil palm plantation",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Oil+palm+plantation&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Q1QJ6BQiEARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Oil+palm+plantation"
+    },
+    {
+      "block_position": 1,
+      "query": "Oil palm tree",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Oil+palm+tree&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Q1QJ6BQiAARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Oil+palm+tree"
+    },
+    {
+      "block_position": 1,
+      "query": "Oil palm scientific name and family",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Oil+palm+scientific+name+and+family&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Q1QJ6BQiBARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Oil+palm+scientific+name+and+family"
+    },
+    {
+      "block_position": 1,
+      "query": "Origin of oil palm",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Origin+of+oil+palm&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Q1QJ6BAh-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Origin+of+oil+palm"
+    },
+    {
+      "block_position": 1,
+      "query": "Oil palm fruit",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Oil+palm+fruit&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Q1QJ6BAh_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Oil+palm+fruit"
+    },
+    {
+      "block_position": 1,
+      "query": "Oil palm or palm oil",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Oil+palm+or+palm+oil&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Q1QJ6BAh9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Oil+palm+or+palm+oil"
+    },
+    {
+      "block_position": 1,
+      "query": "Family name of oil palm",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Family+name+of+oil+palm&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Q1QJ6BQiDARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Family+name+of+oil+palm"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Trees",
+      "link": "https://www.google.com/search?q=trees+oil+palm&gl=us&hl=en&shoprs=GAkqCG9pbCBwYWxtMgkICRIFVHJlZXNgAQ&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qip4GKAF6BAglEE4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=trees+oil+palm"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?q=buy+oil+palm&gl=us&hl=en&shoprs=GBIqCG9pbCBwYWxtMgcIEhIDQnV5YAE&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qip4GKAJ6BAglEE8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=buy+oil+palm"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?q=oil+palm+for+sale&gl=us&hl=en&shoprs=GBIqCG9pbCBwYWxtMgwIEhIIRm9yIFNhbGVgAQ&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qip4GKAN6BAglEFA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oil+palm+for+sale"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?q=oil+palm+sale&gl=us&hl=en&shoprs=EgRKAhgBGAYqCG9pbCBwYWxtMhMIBhIHT24gc2FsZRgCIgRKAhgBWPqKIWAB&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qip4GKAR6BAglEFE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oil+palm+sale"
+    },
+    {
+      "query": "Hair Oils & Serums",
+      "link": "https://www.google.com/search?q=hair+oils+%26+serums+oil+palm&gl=us&hl=en&shoprs=GAkqCG9pbCBwYWxtMhYICRISSGFpciBPaWxzICYgU2VydW1zYAE&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qip4GKAV6BAglEFI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hair+oils+%26+serums+oil+palm"
+    },
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?q=oil+palm+nearby&gl=us&hl=en&shoprs=GAMqCG9pbCBwYWxtMgwIAxIGTmVhcmJ5GAJY-oohYAE&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qip4GKAZ6BAglEFM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oil+palm+nearby"
+    },
+    {
+      "query": "Moisturizers",
+      "link": "https://www.google.com/search?q=moisturizers+oil+palm&gl=us&hl=en&shoprs=GAkqCG9pbCBwYWxtMhAICRIMTW9pc3R1cml6ZXJzYAE&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qip4GKAd6BAglEFQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=moisturizers+oil+palm"
+    },
+    {
+      "query": "Brand",
+      "link": "https://www.google.com/search?q=brand+oil+palm&gl=us&hl=en&shoprs=GBIqCG9pbCBwYWxtMgkIEhIFQnJhbmRgAQ&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qip4GKAh6BAglEFU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brand+oil+palm"
+    },
+    {
+      "query": "Vegetable",
+      "link": "https://www.google.com/search?q=vegetable+oil+palm&gl=us&hl=en&shoprs=GAEqCG9pbCBwYWxtMhkIARIJVmVnZXRhYmxlOgoIrf45EMiBOjACWPqKIWAB&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qip4GKAl6BAglEFY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=vegetable+oil+palm"
+    },
+    {
+      "query": "Organic",
+      "link": "https://www.google.com/search?q=organic+oil+palm&gl=us&hl=en&shoprs=GAEqCG9pbCBwYWxtMhkIARIHT3JnYW5pYzoMCL75hwEQv_mHATADWPqKIWAB&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qip4GKAp6BAglEFc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=organic+oil+palm"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?q=price+oil+palm&gl=us&hl=en&shoprs=GBIqCG9pbCBwYWxtMgkIEhIFUHJpY2VgAQ&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qip4GKAt6BAglEFg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=price+oil+palm"
+    },
+    {
+      "query": "Replacement",
+      "link": "https://www.google.com/search?q=replacement+oil+palm&gl=us&hl=en&shoprs=GBIqCG9pbCBwYWxtMg8IEhILUmVwbGFjZW1lbnRgAQ&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qip4GKAx6BAglEFk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=replacement+oil+palm"
+    },
+    {
+      "query": "Under $30",
+      "link": "https://www.google.com/search?q=oil+palm+under+$30&gl=us&hl=en&shoprs=Eg0SCxEAAAAAOJx8QRgBGAUqCG9pbCBwYWxtMiIIBRIJVW5kZXIgJDMwGAIiDRILEQAAAAA4nHxBGAEqAhgBWPqKIWAB&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qip4GKA16BAglEFo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oil+palm+under+%2430"
+    },
+    {
+      "query": "Recipe",
+      "link": "https://www.google.com/search?q=recipe+oil+palm&gl=us&hl=en&shoprs=GBIqCG9pbCBwYWxtMgoIEhIGUmVjaXBlYAE&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qip4GKA56BAglEFs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=recipe+oil+palm"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?q=reviews+oil+palm&gl=us&hl=en&shoprs=GBIqCG9pbCBwYWxtMgsIEhIHUmV2aWV3c2AB&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qip4GKA96BAglEFw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=reviews+oil+palm"
+    },
+    {
+      "query": "Olive",
+      "link": "https://www.google.com/search?q=olive+oil+palm&gl=us&hl=en&shoprs=GAEqCG9pbCBwYWxtMhUIARIFT2xpdmU6Cgit_jkQx4E6MAJY-oohYAE&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qip4GKBB6BAglEF0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=olive+oil+palm"
+    },
+    {
+      "query": "Online",
+      "link": "https://www.google.com/search?q=online+oil+palm&gl=us&hl=en&shoprs=GBIqCG9pbCBwYWxtMgoIEhIGT25saW5lYAE&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qip4GKBF6BAglEF4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=online+oil+palm"
+    },
+    {
+      "query": "Size",
+      "link": "https://www.google.com/search?q=size+oil+palm&gl=us&hl=en&shoprs=GBIqCG9pbCBwYWxtMggIEhIEU2l6ZWAB&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qip4GKBJ6BAglEF8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=size+oil+palm"
+    },
+    {
+      "query": "Coconut",
+      "link": "https://www.google.com/search?q=coconut+oil+palm&gl=us&hl=en&shoprs=GAEqCG9pbCBwYWxtMhcIARIHQ29jb251dDoKCK3-ORDKgTowAlj6iiFgAQ&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qip4GKBN6BAglEGA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=coconut+oil+palm"
+    },
+    {
+      "query": "1 \u2013 2 ltr",
+      "link": "https://www.google.com/search?q=1+ltr+to+2+ltr+oil+palm&gl=us&hl=en&shoprs=EhoqGAjbtmUSEgkAAAAAAECPQBEAAAAAAECfQBgBKghvaWwgcGFsbTJJCAESCzEg4oCTIDIgbHRyIhoqGAjbtmUSEgkAAAAAAECPQBEAAAAAAECfQCoSCg4xIGx0ciB0byAyIGx0chgBOggI27ZlEAAwBlj6iiFgAQ&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qip4GKBR6BAglEGE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=1+ltr+to+2+ltr+oil+palm"
+    },
+    {
+      "query": "Store",
+      "link": "https://www.google.com/search?q=store+oil+palm&gl=us&hl=en&shoprs=GBIqCG9pbCBwYWxtMgkIEhIFU3RvcmVgAQ&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qip4GKBV6BAglEGI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=store+oil+palm"
+    },
+    {
+      "query": "2 ltr \u2013 1 gal",
+      "link": "https://www.google.com/search?q=2+ltr+to+1+gal+oil+palm&gl=us&hl=en&shoprs=EhoqGAjbtmUSEgkAAAAAAECfQBEAAADg0pKtQBgBKghvaWwgcGFsbTJNCAESDzIgbHRyIOKAkyAxIGdhbCIaKhgI27ZlEhIJAAAAAABAn0ARAAAA4NKSrUAqEgoOMiBsdHIgdG8gMSBnYWwYAToICNu2ZRAAMAZY-oohYAE&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qip4GKBZ6BAglEGM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=2+ltr+to+1+gal+oil+palm"
+    },
+    {
+      "query": "Images",
+      "link": "https://www.google.com/search?q=images+oil+palm&gl=us&hl=en&shoprs=GBIqCG9pbCBwYWxtMgoIEhIGSW1hZ2VzYAE&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qip4GKBd6BAglEGQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=images+oil+palm"
+    },
+    {
+      "query": "Meaning",
+      "link": "https://www.google.com/search?q=meaning+oil+palm&gl=us&hl=en&shoprs=GBIqCG9pbCBwYWxtMgsIEhIHTWVhbmluZ2AB&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Qip4GKBh6BAglEGU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=meaning+oil+palm"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "African oil palm (14 years of growth in zone 9b)",
+      "link": "https://www.palmtalk.org/forum/topic/58496-african-oil-palm-14-years-of-growth-in-zone-9b/",
+      "date": "5y ago",
+      "source": "PalmTalk"
+    },
+    {
+      "title": "African Oil Palms on the West Coast of the USA?",
+      "link": "https://www.palmtalk.org/forum/topic/83027-african-oil-palms-on-the-west-coast-of-the-usa/",
+      "date": "7mo ago",
+      "source": "PalmTalk"
+    },
+    {
+      "title": "Is palm oil actually that bad?",
+      "link": "https://www.reddit.com/r/nutrition/comments/19aw7gd/is_palm_oil_actually_that_bad/",
+      "date": "8mo ago",
+      "extensions": [
+        "r/nutrition",
+        "40+ comments"
+      ],
+      "source": "Reddit"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Healthy or not",
+        "subtitle": "Is Palm Oil Healthy?",
+        "title": "Coconut oil and palm oil's role in nutrition, health and national ... - NCBI",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5044790/#:~:text=Palm%20oil%20is%20rich%20in,B2%2C%20and%20platelet%20factor%20IV.",
+        "displayed_link": "https://www.ncbi.nlm.nih.gov \u203a articles \u203a PMC5044790",
+        "snippet": "Palm oil is rich in vitamin E, which is composed mainly of tocopherols and tocotrienols. These compounds act as potent antioxidants that make it relatively stable to oxidation. Both animal and human studies show that tocotrienols could reduce plasma cholesterol, apolipoprotein B, thromboxane B2, and platelet factor IV.",
+        "snippet_highlighted_words": [
+          "rich in vitamin E"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/725b067bc4b82226604b755ee323ffacdf8e127cc28bec7dfefa67ee89b8da209f3fbd4489f3bd8f.png",
+        "source": "nih.gov",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=is+palm+oil+healthy&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4QrooIegQIGBAF",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=is+palm+oil+healthy"
+      },
+      {
+        "text": "Why to avoid",
+        "subtitle": "Why Should We Avoid Products With Palm Oil",
+        "title": "What is Palm Oil & Why is it Bad? | Lake Champlain Chocolates",
+        "link": "https://www.lakechamplainchocolates.com/palm-oil/#:~:text=The%20mono%2Dculture%20farming%20and,days%2C%20palm%20oil%20is%20everywhere.",
+        "displayed_link": "https://www.lakechamplainchocolates.com \u203a palm-oil",
+        "snippet": "The mono-culture farming and production practices of the palm oil industry not only ruin the area's rich biodiversity, it has caused the killing of animals and destruction of habitats of many endangered species. These days, palm oil is everywhere.",
+        "favicon": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/725b067bc4b82226604b755ee323ffac29a1d853ade349f5309153a8acd193bc3382c659995674eb.png",
+        "source": "lakechamplainchocolates.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=why+should+we+avoid+products+with+palm+oil&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4QrooIegQIGBAK",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=why+should+we+avoid+products+with+palm+oil"
+      },
+      {
+        "text": "Ingredients",
+        "subtitle": "What Is Palm Oil Made Of?",
+        "title": "8 things to know about palm oil - WWF-UK",
+        "link": "https://www.wwf.org.uk/updates/8-things-know-about-palm-oil#:~:text=What%20is%20palm%20oil%3F,the%20middle%20of%20the%20fruit.",
+        "displayed_link": "https://www.wwf.org.uk \u203a updates \u203a 8-things-know-about...",
+        "snippet": "What is palm oil? It's an edible vegetable oil that comes from the fruit of oil palm trees, the scientific name is Elaeis guineensis. Two types of oil can be produced; crude palm oil comes from squeezing the fleshy fruit, and palm kernel oil which comes from crushing the kernel, or the stone in the middle of the fruit.",
+        "snippet_highlighted_words": [
+          "the fruit of oil palm trees"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/725b067bc4b82226604b755ee323ffac0f0b9ed26ed9906eecdc3d05d165586ee4af8567d1f7f632.png",
+        "source": "wwf.org.uk",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVVXU_CQY3K9okVLJ8TVgI0DXaUu18BwyC5FqdYSegeoc&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=what+is+palm+oil+made+of&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4QrooIegQIGBAS",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+is+palm+oil+made+of"
+      },
+      {
+        "text": "Effects",
+        "subtitle": "Effects Of Palm Oil",
+        "title": "What is Palm Oil? Facts About the Palm Oil Industry",
+        "link": "https://www.worldwildlife.org/industries/palm-oil#:~:text=This%20clearing%20has%20destroyed%20critical,and%20erosion%20and%20water%20contamination.",
+        "displayed_link": "https://www.worldwildlife.org \u203a industries \u203a palm-oil",
+        "snippet": "This clearing has destroyed critical habitat for many endangered species\u2014including rhinos, elephants and tigers. Burning forests to make room for the crop is also a major source of greenhouse gas emissions. Intensive cultivation methods result in soil pollution and erosion and water contamination.",
+        "snippet_highlighted_words": [
+          "destroyed critical habitat for many endangered species"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/725b067bc4b82226604b755ee323ffac955af00259bd42ada02f40a3635f863e8803ff360fa3ce2f.png",
+        "source": "worldwildlife.org",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNrIxWYdDHhOPcmqnftjsmZ9OTEz4DoVDlLlSNR00xpBw&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=effects+of+palm+oil&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4QrooIegQIGBAa",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=effects+of+palm+oil"
+      },
+      {
+        "text": "Function",
+        "subtitle": "Palm Oil Function",
+        "title": "Palm oil - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Palm_oil#:~:text=The%20oil%20is%20used%20in,from%20oil%20crops%20in%202014.",
+        "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Palm_oil",
+        "snippet": "The oil is used in food manufacturing, in beauty products, and as biofuel. Palm oil accounted for about 36% of global oils produced from oil crops in 2014.",
+        "snippet_highlighted_words": [
+          "used in food manufacturing, in beauty products, and as biofuel"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/725b067bc4b82226604b755ee323ffac883479fe30432a6e2c28859b53d74bd674952eabc692990f.png",
+        "source": "wikipedia.org",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxPU7_vIOiKpkBzBS3UrY9DELjuKaoLK-BKc7b_KtyGeM&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=palm+oil+function&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4QrooIegQIGBAj",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=palm+oil+function"
+      },
+      {
+        "text": "Price",
+        "subtitle": "Price Of Palm Oil",
+        "title": "PALM OIL - Uses, Side Effects, and More - WebMD",
+        "link": "https://www.webmd.com/vitamins/ai/ingredientmono-1139/palm-oil#:~:text=But%20palm%20oil%20contains%20a,months%20seems%20to%20be%20safe.",
+        "displayed_link": "https://www.webmd.com \u203a ingredientmono-1139 \u203a palm-...",
+        "snippet": "But palm oil contains a type of fat that can increase cholesterol levels. So people should avoid eating palm oil in excess. Palm oil is possibly safe when used as a medicine, short-term. Taking 7-12 grams daily for up to 6 months seems to be safe.",
+        "snippet_highlighted_words": [
+          "7-12 grams daily for up to 6 months"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/725b067bc4b82226604b755ee323ffac095c1e7318e30b44dcbcfbf53e83cb8a56e812c70f2b86c3.png",
+        "source": "webmd.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=price+of+palm+oil&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4QrooIegQIGBAo",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=price+of+palm+oil"
+      },
+      {
+        "text": "Total Fat Amount",
+        "subtitle": "Palm Oil Fat Content",
+        "title": "Is palm oil good for you? - Asian Agri",
+        "link": "https://www.asianagri.com/en/media-publications/faqs/is-palm-oil-good-for-you/#:~:text=The%20nutritional%20profile%20of%20palm,1.5%20grams%20of%20polyunsaturated%20fat.",
+        "displayed_link": "https://www.asianagri.com \u203a media-publications \u203a faqs \u203a i...",
+        "date": "Nov 18, 2019",
+        "snippet": "The nutritional profile of palm oil is quite similar to other cooking oils. One tablespoon contains about 120 calories and 14 grams of total fat, including 7 grams of saturated fat, 5 grams of monounsaturated fat, and 1.5 grams of polyunsaturated fat.",
+        "snippet_highlighted_words": [
+          "14 grams"
+        ],
+        "answer": "14 grams",
+        "favicon": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/725b067bc4b82226604b755ee323ffacb87fa68741dd066d10a2e3ed87ea0fd93be45a9ac4792d2c.png",
+        "source": "asianagri.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNkODyS3wgTg4yCYTJjvFIsvub9GZ42tw62-HMdKbYE-Q&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=palm+oil+fat+content&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4QrooIegQIGBAw",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=palm+oil+fat+content"
+      },
+      {
+        "text": "Allergies",
+        "subtitle": "Palm Oil Allergies",
+        "title": "Palm Oil , Refined Oil and Allergies | BestFoodFacts.org",
+        "link": "https://www.bestfoodfacts.org/palm-oil-allergy/#:~:text=Palm%20oil%20is%20unlikely%20to,eat%20foods%20that%20contain%20it.",
+        "displayed_link": "https://www.bestfoodfacts.org \u203a palm-oil-allergy",
+        "date": "Jan 5, 2017",
+        "snippet": "Palm oil is unlikely to cause an allergic reaction, Dr. Taylor said, but some people told us about having reactions such as stomach pain, hives, rash or indigestion when they eat foods that contain it.",
+        "snippet_highlighted_words": [
+          "Palm oil is unlikely to cause an allergic reaction"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2f1bee677f7eb89d6c89/images/725b067bc4b82226604b755ee323ffaccf627bec82745a91a377a0575a9d9f832d383d07dc63a2a1.png",
+        "source": "bestfoodfacts.org",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=palm+oil+allergies&sa=X&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4QrooIegQIGBA1",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=palm+oil+allergies"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=oil+palm&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=HC8KZ4G4BY_nwN4P-7CW8A0&start=10&sa=N&sstk=Aagrsujy8YbhJwB7YrLOn99UTUP2E4TYYkR3FIPrnITVQFWBgUF75iH2pqyoonMs1P0oIuCP2sLP-QBPoSiHvaOcvcpOIDpbXKWJag&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Q8NMDegQIDxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=oil+palm&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=HC8KZ4G4BY_nwN4P-7CW8A0&start=10&sa=N&sstk=Aagrsujy8YbhJwB7YrLOn99UTUP2E4TYYkR3FIPrnITVQFWBgUF75iH2pqyoonMs1P0oIuCP2sLP-QBPoSiHvaOcvcpOIDpbXKWJag&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Q8tMDegQIDxAE",
+      "3": "https://www.google.com/search?q=oil+palm&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=HC8KZ4G4BY_nwN4P-7CW8A0&start=20&sa=N&sstk=Aagrsujy8YbhJwB7YrLOn99UTUP2E4TYYkR3FIPrnITVQFWBgUF75iH2pqyoonMs1P0oIuCP2sLP-QBPoSiHvaOcvcpOIDpbXKWJag&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Q8tMDegQIDxAG",
+      "4": "https://www.google.com/search?q=oil+palm&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=HC8KZ4G4BY_nwN4P-7CW8A0&start=30&sa=N&sstk=Aagrsujy8YbhJwB7YrLOn99UTUP2E4TYYkR3FIPrnITVQFWBgUF75iH2pqyoonMs1P0oIuCP2sLP-QBPoSiHvaOcvcpOIDpbXKWJag&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Q8tMDegQIDxAI",
+      "5": "https://www.google.com/search?q=oil+palm&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=HC8KZ4G4BY_nwN4P-7CW8A0&start=40&sa=N&sstk=Aagrsujy8YbhJwB7YrLOn99UTUP2E4TYYkR3FIPrnITVQFWBgUF75iH2pqyoonMs1P0oIuCP2sLP-QBPoSiHvaOcvcpOIDpbXKWJag&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Q8tMDegQIDxAK",
+      "6": "https://www.google.com/search?q=oil+palm&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=HC8KZ4G4BY_nwN4P-7CW8A0&start=50&sa=N&sstk=Aagrsujy8YbhJwB7YrLOn99UTUP2E4TYYkR3FIPrnITVQFWBgUF75iH2pqyoonMs1P0oIuCP2sLP-QBPoSiHvaOcvcpOIDpbXKWJag&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Q8tMDegQIDxAM",
+      "7": "https://www.google.com/search?q=oil+palm&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=HC8KZ4G4BY_nwN4P-7CW8A0&start=60&sa=N&sstk=Aagrsujy8YbhJwB7YrLOn99UTUP2E4TYYkR3FIPrnITVQFWBgUF75iH2pqyoonMs1P0oIuCP2sLP-QBPoSiHvaOcvcpOIDpbXKWJag&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Q8tMDegQIDxAO",
+      "8": "https://www.google.com/search?q=oil+palm&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=HC8KZ4G4BY_nwN4P-7CW8A0&start=70&sa=N&sstk=Aagrsujy8YbhJwB7YrLOn99UTUP2E4TYYkR3FIPrnITVQFWBgUF75iH2pqyoonMs1P0oIuCP2sLP-QBPoSiHvaOcvcpOIDpbXKWJag&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Q8tMDegQIDxAQ",
+      "9": "https://www.google.com/search?q=oil+palm&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=HC8KZ4G4BY_nwN4P-7CW8A0&start=80&sa=N&sstk=Aagrsujy8YbhJwB7YrLOn99UTUP2E4TYYkR3FIPrnITVQFWBgUF75iH2pqyoonMs1P0oIuCP2sLP-QBPoSiHvaOcvcpOIDpbXKWJag&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Q8tMDegQIDxAS",
+      "10": "https://www.google.com/search?q=oil+palm&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=HC8KZ4G4BY_nwN4P-7CW8A0&start=90&sa=N&sstk=Aagrsujy8YbhJwB7YrLOn99UTUP2E4TYYkR3FIPrnITVQFWBgUF75iH2pqyoonMs1P0oIuCP2sLP-QBPoSiHvaOcvcpOIDpbXKWJag&ved=2ahUKEwiBttmqsoiJAxWPM9AFHXuYBd4Q8tMDegQIDxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oil+palm&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oil+palm&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oil+palm&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oil+palm&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oil+palm&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oil+palm&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oil+palm&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oil+palm&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oil+palm&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oil+palm&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=oil+palm&start=90"
+    }
+  }
+}

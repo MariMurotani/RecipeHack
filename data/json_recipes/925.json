@@ -1,0 +1,557 @@
+{
+  "search_metadata": {
+    "id": "670a309706f4f295164230e4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6e13b599bdaa0704/670a309706f4f295164230e4.json",
+    "created_at": "2024-10-12 08:17:27 UTC",
+    "processed_at": "2024-10-12 08:17:27 UTC",
+    "google_url": "https://www.google.com/search?q=bagel&oq=bagel&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/6e13b599bdaa0704/670a309706f4f295164230e4.html",
+    "total_time_taken": 1.09
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "bagel",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "bagel",
+    "total_results": 177000000,
+    "time_taken_displayed": 0.37,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=bagel&npsic=0&rflfq=1&rldoc=1&rllag=30295702,-97733152,3359&tbm=lcl&sa=X&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4QtgN6BAg2EAI",
+    "image": "https://serpapi.com/searches/670a309706f4f295164230e4/images/5fcb97ebf2a37d362ce79e4058e421fb.png",
+    "gps_coordinates": {
+      "latitude": 30.295702,
+      "longitude": -97.733152
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.2,
+        "reviews_original": "(124)",
+        "reviews": 124,
+        "description": "\"Tasty bagels and has a bunch of vegan-friendly options, like schmear!\"",
+        "lsig": "AB86z5X-nE1yix0xk8VTVwvjtCt0",
+        "thumbnail": "https://serpapi.com/searches/670a309706f4f295164230e4/images/60259260627d324cf5f40831966bdb0dd12557930cb7eb9bc8a66096941ee5272d8a902821f069b1.jpeg",
+        "title": "Rosen's Bagel Co.",
+        "type": "Bagel shop",
+        "address": "422 W 5th St C",
+        "hours": "Closed \u22c5 Opens 8 AM",
+        "place_id": "16024096658619434804",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=16024096658619434804&q=bagel",
+        "gps_coordinates": {
+          "latitude": 30.268124,
+          "longitude": -97.747444
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.3,
+        "reviews_original": "(852)",
+        "reviews": 852,
+        "description": "\"try the rosemary salt bagel with peach basil cream cheese.\"",
+        "lsig": "AB86z5XjFn6MAf3wk__Jwf-7vHoV",
+        "thumbnail": "https://serpapi.com/searches/670a309706f4f295164230e4/images/60259260627d324cf5f40831966bdb0dddfb2879358e65cd92c912e4f0d14f09c9c00f6ca9350409.jpeg",
+        "title": "Rockstar Bagels",
+        "type": "Bagel shop",
+        "address": "1900 Rosewood Ave",
+        "hours": "Closed \u22c5 Opens 6:30 AM",
+        "place_id": "12996278579704033464",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=12996278579704033464&q=bagel",
+        "gps_coordinates": {
+          "latitude": 30.269901,
+          "longitude": -97.71892
+        }
+      },
+      {
+        "position": 3,
+        "rating": 4.5,
+        "reviews_original": "(1K)",
+        "reviews": 1000,
+        "description": "\"The bagels are perfectly cooked and fluffy.\"",
+        "lsig": "AB86z5UWaBDcnFXHVWRmwlfvJDkS",
+        "thumbnail": "https://serpapi.com/searches/670a309706f4f295164230e4/images/60259260627d324cf5f40831966bdb0df0021aa4b0a94c441db91267a2666f6f395baa86ff5c7be8.jpeg",
+        "title": "Nervous Charlie's Bagels",
+        "type": "Bagel shop",
+        "address": "5501 N Lamar Blvd Ste. B101",
+        "hours": "Closed \u22c5 Opens 7 AM",
+        "place_id": "9533671042208999888",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=9533671042208999888&q=bagel",
+        "gps_coordinates": {
+          "latitude": 30.323345,
+          "longitude": -97.72755
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&tbs=lf:1,lf_ui:9&tbm=lcl&q=bagel&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4QjGp6BAg3EAE"
+  },
+  "knowledge_graph": {
+    "title": "Bagel",
+    "type": "Bread",
+    "entity_type": "food, foods_and_dishes",
+    "kgmid": "/m/01fb_0",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/01fb_0&hl=en-US&q=Bagel",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F01fb_0&location=Austin%2CTexas%2CUnited+States&q=Bagel",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a309706f4f295164230e4/images/f46ca5f05e5b2aedbc5a379f2ce52378b42365919961cf68b35fc39768e557270d7608e277f02d89.jpeg",
+        "source": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSDU9yojuGKVnpxD_y83_501I2elYM41Vl1zxBaDssK0Qsayr4QrMpPayUtbBF1youp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a309706f4f295164230e4/images/f46ca5f05e5b2aedbc5a379f2ce52378b42365919961cf6867b3efef10f6ccb6d27d260a14403b74.jpeg",
+        "source": "https://www.foodnetwork.com/recipes/food-network-kitchen/homemade-bagels-12346887"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a309706f4f295164230e4/images/f46ca5f05e5b2aedbc5a379f2ce52378b42365919961cf681b82f00baf04fb01e5314ced84c7b85c.jpeg",
+        "source": "https://boichikbagels.com/products/plain"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a309706f4f295164230e4/images/f46ca5f05e5b2aedbc5a379f2ce52378b42365919961cf68bf990ad6e7d5ef337232f0a90ee468b4.jpeg",
+        "source": "https://www.layersofhappiness.com/everything-bagel-breakfast-sandwich/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a309706f4f295164230e4/images/f46ca5f05e5b2aedbc5a379f2ce52378b42365919961cf68b6012f9d5ea71e0d7e6785ac9a8b8ec4.jpeg",
+        "source": "https://bakingamoment.com/new-york-bagel-recipe/"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU8YVke2HN4j-XHF61cZytTtLDi1oUE1_VLH2fKCRREA&s",
+        "source": "https://www.debic.com/en/recipes/new-york-salmon-bagel"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv6TgN53BfevxyJktpUF-FM28073UVPC3jridQVKZASw&s",
+        "source": "https://sallysbakingaddiction.com/homemade-bagels/"
+      }
+    ],
+    "description": "A bagel is a bread roll originating in the Jewish communities of Poland. Bagels are traditionally made from yeasted wheat dough that is shaped by hand into a torus or ring, briefly boiled in water, and then baked. The result is a dense, chewy, doughy interior with a browned and sometimes crisp exterior.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Bagel"
+    },
+    "origins": "Germany, Poland",
+    "origins_links": [
+      {
+        "text": "Germany",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Germany&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm5xAoc4Or3_lNVhz0B-ZY1dh6r4Hwa8DhchjePAaIS3JFmV60aSIUPt6nuvC9OuiP4FGLZ6CJnoVRZgSJKEtb4tw-Shu5nNN7yTfJSAPsGssmUFDHdwcls1TUnrqSyGW8kXHhSJNnBpwGRnD2wmckuC0sND50DR4n8sG-kCWpLR7eeBnDQrdTSdWBoV8PPapeiKU3YWY9x_7NC9BC65QNHxtUKs8_xd4mNLurQ_Lr545qR-a1A%3D%3D&sa=X&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4QmxMoAHoECCcQAg"
+      },
+      {
+        "text": "Poland",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Poland&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm3W425hjPxK12UWbU8dgVcNegTgLVkWFh8648ywWFCgPMys2IqOhfEHhCKFRmu9qBZ-_CzRmunahPIAEdyugJ61dLHhVHIgjv9KwgJwBcUZuqHQE8TP6LsorZBLvh0t0g4fycEjvddReYm3bIs3l3KwmNK4IP9kGtmVZ0T-nl0_pvmXvRGwrDafBL4VsEc7GDhwvEBwFjcJhr-HUxa9KFchk7StxEyNlW6QLSulcGdO5UJS9uA%3D%3D&sa=X&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4QmxMoAXoECCcQAw"
+      }
+    ],
+    "sources_include": "USDAUSDAUSDAUSDAUSDABagel245 Calories - 1 bagel (98 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/167533/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/172664/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/172665/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/174901/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/172666/nutrients"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Coffee",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L8LQ7rjVUv3ZmuXA2id759KNazG1aB5x5zSDikP9wShJNQiJjXZZ86cJGANW7z8BFO-X3hZvCbN3A8xBCXctnq91XWNFYu9z65CFvZaTabvq1L3g44egnqtYaL8fGT6xq99ueZmiB2nTAZL4ukqdIfJwBL9DZPq7EvVeYQ_eQaJ0n5hhPUaKdRUd-b8b3-gejJl78GAkeSvLOR6H3Np_CsBaljK-mdLDxpfAqaPazT0xmPzWRxLtiXsPFpiHFIj_2cdJJPA%3D&q=Coffee&sa=X&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Qs9oBKAB6BAgmEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Coffee&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L8LQ7rjVUv3ZmuXA2id759KNazG1aB5x5zSDikP9wShJNQiJjXZZ86cJGANW7z8BFO-X3hZvCbN3A8xBCXctnq91XWNFYu9z65CFvZaTabvq1L3g44egnqtYaL8fGT6xq99ueZmiB2nTAZL4ukqdIfJwBL9DZPq7EvVeYQ_eQaJ0n5hhPUaKdRUd-b8b3-gejJl78GAkeSvLOR6H3Np_CsBaljK-mdLDxpfAqaPazT0xmPzWRxLtiXsPFpiHFIj_2cdJJPA%3D",
+        "image": "https://serpapi.com/searches/670a309706f4f295164230e4/images/f46ca5f05e5b2aedbc5a379f2ce52378f19d4dac9e4c80695c78f24efa5e37f02827ec76586cc454a09dc6249b1a8d88.jpeg"
+      },
+      {
+        "name": "Breakfast sandwich",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQXe8qCI2eDSnk8dUwSNfb1XiLt4nQowwEBS38aBP2M7ED8wb8emH3sbV-0FWTWeuIPkSYj6Qc_Moj5l3-8z6H4rRkmvgVQY3uQjJXMCahypaImjwx-sKpepUowWSByChJoiPWrRukDCBRaNTtIHLYqiigA363ghnkSLIx0YQsmewy6KAgheF412_fDF1ak6wkdUx2xjxBSZbqgdEHqOGB16VJrhI6lYcvpCdXLP5UIOjoTweQcPH3mxcHL4rQ_TiVccMzSx0sKQKG4gdInaQTWJBNeMb&q=Breakfast+Sandwich&sa=X&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Qs9oBKAB6BAgmEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Breakfast+Sandwich&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQXe8qCI2eDSnk8dUwSNfb1XiLt4nQowwEBS38aBP2M7ED8wb8emH3sbV-0FWTWeuIPkSYj6Qc_Moj5l3-8z6H4rRkmvgVQY3uQjJXMCahypaImjwx-sKpepUowWSByChJoiPWrRukDCBRaNTtIHLYqiigA363ghnkSLIx0YQsmewy6KAgheF412_fDF1ak6wkdUx2xjxBSZbqgdEHqOGB16VJrhI6lYcvpCdXLP5UIOjoTweQcPH3mxcHL4rQ_TiVccMzSx0sKQKG4gdInaQTWJBNeMb",
+        "image": "https://serpapi.com/searches/670a309706f4f295164230e4/images/f46ca5f05e5b2aedbc5a379f2ce52378f19d4dac9e4c80695c78f24efa5e37f0b2c1961344cc0bda944af9b2da3ad3f6.jpeg"
+      },
+      {
+        "name": "Muffin",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L6mPulKkLez4Tclc7RH5JZSDO0D8hwnFSzLqNzkCa1nIGMT6U9mtVVeE9zYt_O0VzzootleUcYTqkML5epdpOWCxwFd_NNFAXVIi8Sv9H1N-6K-5AI1rUei5dDLhmvL_8JZMcg5GzXTVFswmq1DriN-087cFCS3p18aMj3Ysgl1gqC1sVBzZ9aWqmDn9t08Tmep5SlpV9hGMkDxloNA7rJs25SBwIlupqgN0TIX4xe27-CNlzR-K6lke2ZlDGt1r5dqHJmM%3D&q=Muffins&sa=X&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Qs9oBKAB6BAgmEA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Muffins&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L6mPulKkLez4Tclc7RH5JZSDO0D8hwnFSzLqNzkCa1nIGMT6U9mtVVeE9zYt_O0VzzootleUcYTqkML5epdpOWCxwFd_NNFAXVIi8Sv9H1N-6K-5AI1rUei5dDLhmvL_8JZMcg5GzXTVFswmq1DriN-087cFCS3p18aMj3Ysgl1gqC1sVBzZ9aWqmDn9t08Tmep5SlpV9hGMkDxloNA7rJs25SBwIlupqgN0TIX4xe27-CNlzR-K6lke2ZlDGt1r5dqHJmM%3D",
+        "image": "https://serpapi.com/searches/670a309706f4f295164230e4/images/f46ca5f05e5b2aedbc5a379f2ce52378f19d4dac9e4c80695c78f24efa5e37f04997a86bd9ea21eeec34a0baafbb6dce.jpeg"
+      },
+      {
+        "name": "Bread",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm9X-whZbNnMlwk_iSpOOlxuMhXej3acwdM77OGxO1CvAS4GkvjpJO5sfNo8xye5JUOco7-EmKWAPDYY7aQGhYGYRlcsj-gBAG9o0IsFajJpj8wERI37mnv_2KQxlXxRMlp40GZXggHeTj9Nq3tjpQ4vG8UqZsQQyAeLtwO-NM7j6c9Xs6n2c5Z2ETEs9g36CO4DdXs0anaDbfZik26tOefJGC2Bk6KpC4kn_AIFE71LN_RCYHQ%3D%3D&q=Bread&sa=X&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Qs9oBKAB6BAgmEBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Bread&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm9X-whZbNnMlwk_iSpOOlxuMhXej3acwdM77OGxO1CvAS4GkvjpJO5sfNo8xye5JUOco7-EmKWAPDYY7aQGhYGYRlcsj-gBAG9o0IsFajJpj8wERI37mnv_2KQxlXxRMlp40GZXggHeTj9Nq3tjpQ4vG8UqZsQQyAeLtwO-NM7j6c9Xs6n2c5Z2ETEs9g36CO4DdXs0anaDbfZik26tOefJGC2Bk6KpC4kn_AIFE71LN_RCYHQ%3D%3D",
+        "image": "https://serpapi.com/searches/670a309706f4f295164230e4/images/f46ca5f05e5b2aedbc5a379f2ce52378f19d4dac9e4c80695c78f24efa5e37f00e4c17802f88e04476bdd8a84c9f12da.jpeg"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "1.5 g",
+        "2%"
+      ],
+      "cholesterol": [
+        "0 mg",
+        "0%"
+      ],
+      "sodium": [
+        "430 mg",
+        "17%"
+      ],
+      "potassium": [
+        "162 mg",
+        "4%"
+      ],
+      "total_carbohydrate": [
+        "48 g",
+        "16%"
+      ],
+      "protein": [
+        "10 g",
+        "20%"
+      ]
+    }
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=bagel&sca_esv=7d18109a394306ad&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=8SdFiz_FMiq4QM%252CW8Eb1ecYr-IJ7M%252C%252Fm%252F01fb_0%253BaAJtHqX7fAPd5M%252CjXM1SkibhmR3xM%252C_%253BHTfuoZzTeOAWpM%252CUQUZc6LsCtzhRM%252C_%253BSvJmdwrG15jw2M%252CD4b5QU0zoNgaLM%252C_%253B4D1_bJ9uePV5yM%252CHbmWq06pyW0N1M%252C_%253BiUnZKSTqCQR8jM%252CXdCgsuFv9CrpJM%252C_%253BkGNtkrR0VMgcTM%252CNL0Sg-B47OIrpM%252C_&usg=AI4_-kQ-FNwh2NZtMLvMIHDFCKBIZqrQKg&sa=X&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Q_B16BAgpEAE#vhid=8SdFiz_FMiq4QM&vssid=mosaic",
+      "source": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSDU9yojuGKVnpxD_y83_501I2elYM41Vl1zxBaDssK0Qsayr4QrMpPayUtbBF1youp",
+      "thumbnail": "https://serpapi.com/searches/670a309706f4f295164230e4/images/ded20048bc67118566718208df21733dd9e564c303d0741006bb55e290d118b3.jpeg",
+      "original": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSDU9yojuGKVnpxD_y83_501I2elYM41Vl1zxBaDssK0Qsayr4QrMpPayUtbBF1youp",
+      "source_name": "t1.gstatic.com"
+    },
+    {
+      "link": "https://www.google.com/search?q=bagel&sca_esv=7d18109a394306ad&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=aAJtHqX7fAPd5M%252CjXM1SkibhmR3xM%252C_%253BHTfuoZzTeOAWpM%252CUQUZc6LsCtzhRM%252C_%253BSvJmdwrG15jw2M%252CD4b5QU0zoNgaLM%252C_%253B4D1_bJ9uePV5yM%252CHbmWq06pyW0N1M%252C_%253BiUnZKSTqCQR8jM%252CXdCgsuFv9CrpJM%252C_%253BkGNtkrR0VMgcTM%252CNL0Sg-B47OIrpM%252C_&usg=AI4_-kSNYY7BHff_7fJaNcOyVd7BYYURQg&sa=X&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Q_h16BAgwEAE#vhid=aAJtHqX7fAPd5M&vssid=mosaic",
+      "source": "https://www.foodnetwork.com/recipes/food-network-kitchen/homemade-bagels-12346887",
+      "thumbnail": "https://serpapi.com/searches/670a309706f4f295164230e4/images/ded20048bc67118581742dffafa34aa5b656246fa863a59dcbd7f5797a411fe2.jpeg",
+      "original": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2022/02/16/0/FNM_030122-Homemade-Bagels_s4x3.jpg.rend.hgtvcom.1280.1280.suffix/1645023418907.webp",
+      "title": "Homemade Bagels",
+      "source_name": "Food Network"
+    },
+    {
+      "link": "https://www.google.com/search?q=bagel&sca_esv=7d18109a394306ad&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=aAJtHqX7fAPd5M%252CjXM1SkibhmR3xM%252C_%253BHTfuoZzTeOAWpM%252CUQUZc6LsCtzhRM%252C_%253BSvJmdwrG15jw2M%252CD4b5QU0zoNgaLM%252C_%253B4D1_bJ9uePV5yM%252CHbmWq06pyW0N1M%252C_%253BiUnZKSTqCQR8jM%252CXdCgsuFv9CrpJM%252C_%253BkGNtkrR0VMgcTM%252CNL0Sg-B47OIrpM%252C_&usg=AI4_-kSNYY7BHff_7fJaNcOyVd7BYYURQg&sa=X&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Q_h16BAgrEAE#vhid=HTfuoZzTeOAWpM&vssid=mosaic",
+      "source": "https://boichikbagels.com/products/plain",
+      "thumbnail": "https://serpapi.com/searches/670a309706f4f295164230e4/images/ded20048bc671185efd79a9abf55cfec53e97e29af02a8d6c54076e48075a2c7.jpeg",
+      "original": "https://boichikbagels.com/cdn/shop/products/plain.jpg?v=1603288516",
+      "title": "Plain Bagel",
+      "source_name": "Boichik Bagels"
+    },
+    {
+      "link": "https://www.google.com/search?q=bagel&sca_esv=7d18109a394306ad&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=aAJtHqX7fAPd5M%252CjXM1SkibhmR3xM%252C_%253BHTfuoZzTeOAWpM%252CUQUZc6LsCtzhRM%252C_%253BSvJmdwrG15jw2M%252CD4b5QU0zoNgaLM%252C_%253B4D1_bJ9uePV5yM%252CHbmWq06pyW0N1M%252C_%253BiUnZKSTqCQR8jM%252CXdCgsuFv9CrpJM%252C_%253BkGNtkrR0VMgcTM%252CNL0Sg-B47OIrpM%252C_&usg=AI4_-kSNYY7BHff_7fJaNcOyVd7BYYURQg&sa=X&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Q_h16BAguEAE#vhid=SvJmdwrG15jw2M&vssid=mosaic",
+      "source": "https://www.layersofhappiness.com/everything-bagel-breakfast-sandwich/",
+      "thumbnail": "https://serpapi.com/searches/670a309706f4f295164230e4/images/ded20048bc6711854546f126ff1e8ced9bb97ff24138c5d73d21fb87d58fee5e.jpeg",
+      "original": "https://www.layersofhappiness.com/wp-content/uploads/2023/07/Everything-Bagel-Breakfast-Sandwich-6-700x1050.jpg",
+      "title": "Everything Bagel Breakfast Sandwich",
+      "source_name": "Layers of Happiness"
+    },
+    {
+      "link": "https://www.google.com/search?q=bagel&sca_esv=7d18109a394306ad&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=aAJtHqX7fAPd5M%252CjXM1SkibhmR3xM%252C_%253BHTfuoZzTeOAWpM%252CUQUZc6LsCtzhRM%252C_%253BSvJmdwrG15jw2M%252CD4b5QU0zoNgaLM%252C_%253B4D1_bJ9uePV5yM%252CHbmWq06pyW0N1M%252C_%253BiUnZKSTqCQR8jM%252CXdCgsuFv9CrpJM%252C_%253BkGNtkrR0VMgcTM%252CNL0Sg-B47OIrpM%252C_&usg=AI4_-kSNYY7BHff_7fJaNcOyVd7BYYURQg&sa=X&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Q_h16BAgsEAE#vhid=4D1_bJ9uePV5yM&vssid=mosaic",
+      "source": "https://bakingamoment.com/new-york-bagel-recipe/",
+      "thumbnail": "https://serpapi.com/searches/670a309706f4f295164230e4/images/ded20048bc6711853bee89f6c9525851eeed64eea58d6f4944eb6be17b10e03c.jpeg",
+      "original": "https://bakingamoment.com/wp-content/uploads/2020/06/IMG_8813-bagel-recipe.jpg",
+      "title": "New York Bagel Recipe",
+      "source_name": "Baking A Moment"
+    },
+    {
+      "link": "https://www.google.com/search?q=bagel&sca_esv=7d18109a394306ad&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=aAJtHqX7fAPd5M%252CjXM1SkibhmR3xM%252C_%253BHTfuoZzTeOAWpM%252CUQUZc6LsCtzhRM%252C_%253BSvJmdwrG15jw2M%252CD4b5QU0zoNgaLM%252C_%253B4D1_bJ9uePV5yM%252CHbmWq06pyW0N1M%252C_%253BiUnZKSTqCQR8jM%252CXdCgsuFv9CrpJM%252C_%253BkGNtkrR0VMgcTM%252CNL0Sg-B47OIrpM%252C_&usg=AI4_-kSNYY7BHff_7fJaNcOyVd7BYYURQg&sa=X&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Q_h16BAgqEAE#vhid=iUnZKSTqCQR8jM&vssid=mosaic",
+      "source": "https://www.debic.com/en/recipes/new-york-salmon-bagel",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU8YVke2HN4j-XHF61cZytTtLDi1oUE1_VLH2fKCRREA&s",
+      "original": "https://www.debic.com/sites/default/files/2022-03/cream_cheese_425b0399-3b7e-4aaa-bc57-ae2200b29370_low-res-1920_0.jpg",
+      "title": "New York salmon bagel",
+      "source_name": "Debic"
+    },
+    {
+      "link": "https://www.google.com/search?q=bagel&sca_esv=7d18109a394306ad&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=aAJtHqX7fAPd5M%252CjXM1SkibhmR3xM%252C_%253BHTfuoZzTeOAWpM%252CUQUZc6LsCtzhRM%252C_%253BSvJmdwrG15jw2M%252CD4b5QU0zoNgaLM%252C_%253B4D1_bJ9uePV5yM%252CHbmWq06pyW0N1M%252C_%253BiUnZKSTqCQR8jM%252CXdCgsuFv9CrpJM%252C_%253BkGNtkrR0VMgcTM%252CNL0Sg-B47OIrpM%252C_&usg=AI4_-kSNYY7BHff_7fJaNcOyVd7BYYURQg&sa=X&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Q_h16BAgvEAE#vhid=kGNtkrR0VMgcTM&vssid=mosaic",
+      "source": "https://sallysbakingaddiction.com/homemade-bagels/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv6TgN53BfevxyJktpUF-FM28073UVPC3jridQVKZASw&s",
+      "original": "https://sallysbakingaddiction.com/wp-content/uploads/2018/12/bagels.jpg",
+      "title": "Homemade Bagels Recipe",
+      "source_name": "Sally's Baking Addiction"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Bagel",
+      "link": "https://en.wikipedia.org/wiki/Bagel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Bagel&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4QFnoECBYQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Bagel",
+      "thumbnail": "https://serpapi.com/searches/670a309706f4f295164230e4/images/e1e0f16f280d94d5760923947d189513cd4b4a0b58df92dd1a228e0fbde214e1.jpeg",
+      "favicon": "https://serpapi.com/searches/670a309706f4f295164230e4/images/e1e0f16f280d94d5760923947d18951336a4cafed63becb6c353fc0754f8e2d5.png",
+      "snippet": "A bagel is a bread roll originating in the Jewish communities of Poland. Bagels are traditionally made from yeasted wheat dough that is shaped by hand into ...",
+      "snippet_highlighted_words": [
+        "bagel",
+        "Bagels"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Where to Find Actually Good Bagels in Austin",
+      "link": "https://austin.eater.com/maps/best-bagels-austin-bagel-shops",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://austin.eater.com/maps/best-bagels-austin-bagel-shops&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4QFnoECBQQAQ",
+      "displayed_link": "https://austin.eater.com \u203a best-bagels-austin-bagel-shops",
+      "thumbnail": "https://serpapi.com/searches/670a309706f4f295164230e4/images/e1e0f16f280d94d5760923947d18951354c4188f2ed49ff8ece0398de30c4d49.jpeg",
+      "favicon": "https://serpapi.com/searches/670a309706f4f295164230e4/images/e1e0f16f280d94d5760923947d1895132d31ab38c6bec6db4b3c5c99dd65ed81.png",
+      "date": "Jun 27, 2023",
+      "snippet": "Where to find the best bagels at the best bagel shops in Austin, including Rosen's Bagels, Biderman's Deli, Nervous Charlie's, Wholy Bagel, ...",
+      "snippet_highlighted_words": [
+        "bagels",
+        "bagel",
+        "Bagels",
+        "Bagel"
+      ],
+      "source": "Eater Austin"
+    },
+    {
+      "position": 3,
+      "title": "THE BEST BAGELS IN AUSTIN",
+      "link": "https://do512.com/p/where-to-get-bagels-in-austin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://do512.com/p/where-to-get-bagels-in-austin&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4QFnoECEgQAQ",
+      "displayed_link": "https://do512.com \u203a where-to-get-bagels-in-austin",
+      "thumbnail": "https://serpapi.com/searches/670a309706f4f295164230e4/images/e1e0f16f280d94d5760923947d1895130c6095c70daedd2f303b061b2aa7c51f.jpeg",
+      "favicon": "https://serpapi.com/searches/670a309706f4f295164230e4/images/e1e0f16f280d94d5760923947d189513e8f39fe768d6a56e73841fdf9b55547c.png",
+      "snippet": "THE BEST BAGELS IN AUSTIN \u00b7 Where can you get a decent bagel in this city? \u00b7 Casper Fermentables \u00b7 David Doughie's Bagelry \u00b7 Nervous Charlie's \u00b7 Wholy Bagel.",
+      "snippet_highlighted_words": [
+        "BAGELS",
+        "bagel",
+        "Bagel"
+      ],
+      "source": "Do512"
+    },
+    {
+      "position": 4,
+      "title": "Homemade Bagel Recipe",
+      "link": "https://www.loveandlemons.com/bagel-recipe/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.loveandlemons.com/bagel-recipe/&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4QFnoECEoQAQ",
+      "displayed_link": "https://www.loveandlemons.com \u203a Recipes",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDwCExYIip4AeAId5q047YgcL4yfHKkjrNJHJpLizhi39H3RZh2Z1f&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a309706f4f295164230e4/images/e1e0f16f280d94d5760923947d1895136ccda0a6217833a5dae2da7abb79b6cb.png",
+      "snippet": "This bagel recipe yields chewy, delicious homemade bagels every time! Made with basic ingredients like flour, salt, and yeast, it's super easy to make.",
+      "snippet_highlighted_words": [
+        "bagel",
+        "bagels"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.9,
+            "hr_min": 1
+          },
+          "extensions": [
+            "4.9(158)",
+            "1 hr 30 min"
+          ]
+        }
+      },
+      "source": "Love and Lemons"
+    },
+    {
+      "position": 5,
+      "title": "Wholy Bagel | KEEPING AUSTIN BAKED weekdays 6 a.m. - 3 ...",
+      "link": "http://www.wholybagelatx.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.wholybagelatx.com/&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4QFnoECFYQAQ",
+      "displayed_link": "http://www.wholybagelatx.com",
+      "favicon": "https://serpapi.com/searches/670a309706f4f295164230e4/images/e1e0f16f280d94d5760923947d189513f95a2edcfed8b861bd4ab70a03626064.png",
+      "snippet": "Wholy Bagel prepares scratch made fresh New York style bagels daily.",
+      "snippet_highlighted_words": [
+        "Bagel",
+        "bagels"
+      ],
+      "source": "Wholy Bagel"
+    },
+    {
+      "position": 6,
+      "title": "Rosen's Bagels: Home - Austin",
+      "link": "https://www.rosensbagels.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.rosensbagels.com/&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4QFnoECEkQAQ",
+      "displayed_link": "https://www.rosensbagels.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV6OUiNb4ov7ymmucUOlnQhVOrPDVYSe89gg04NPyI0CTsn18uqdH8&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a309706f4f295164230e4/images/e1e0f16f280d94d5760923947d189513dfe6aefa10cdbf36cbf8b88af43794ee.png",
+      "snippet": "Rosen's is an Austin based bagel shop specializing in traditional bagels, artisanal schmears, house-cured lox, and all other bagel related needs.",
+      "snippet_highlighted_words": [
+        "bagel",
+        "bagels",
+        "bagel"
+      ],
+      "source": "Rosen's Bagels"
+    },
+    {
+      "position": 7,
+      "title": "Nervous Charlie's: Best Bagels Austin TX | Order Online ...",
+      "link": "https://www.nervouscharlies.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nervouscharlies.com/&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4QFnoECEcQAQ",
+      "displayed_link": "https://www.nervouscharlies.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdry8ZiN8DKgks4Mh7t0awC9YzAZ6BNJme1tpq0tviIp3u-mhnOO3j&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a309706f4f295164230e4/images/e1e0f16f280d94d5760923947d1895139c43f684ee2de147d8e8237713046def.png",
+      "snippet": "Get the best bagels, bagel sandwiches, lox and cream cheese, breakfast and lunch at Nervous Charlie's in Austin TX. Order online for fastest service.",
+      "snippet_highlighted_words": [
+        "bagels",
+        "bagel"
+      ],
+      "source": "Nervous Charlie's"
+    },
+    {
+      "position": 8,
+      "title": "Bagel Recipe | New York- Style Bagels Recipe",
+      "link": "https://www.sophisticatedgourmet.com/2009/10/new-york-style-bagel-recipe/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sophisticatedgourmet.com/2009/10/new-york-style-bagel-recipe/&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4QFnoECE4QAQ",
+      "displayed_link": "https://www.sophisticatedgourmet.com \u203a Recipe",
+      "favicon": "https://serpapi.com/searches/670a309706f4f295164230e4/images/e1e0f16f280d94d5760923947d1895135c0ea78e2acb5e0f1e094289d34987a2.png",
+      "date": "Aug 26, 2024",
+      "snippet": "This easy homemade New York-Style Bagel recipe is simply the best! Basic pantry ingredients transform into deliciously chewy freshly made ...",
+      "snippet_highlighted_words": [
+        "Bagel"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.8,
+            "hr": 2
+          },
+          "extensions": [
+            "4.8(3,389)",
+            "2 hr"
+          ]
+        }
+      },
+      "source": "Sophisticated Gourmet"
+    },
+    {
+      "position": 9,
+      "title": "Einstein Bros. Bagels: Home",
+      "link": "https://www.einsteinbros.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.einsteinbros.com/&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4QFnoECEYQAQ",
+      "displayed_link": "https://www.einsteinbros.com",
+      "favicon": "https://serpapi.com/searches/670a309706f4f295164230e4/images/e1e0f16f280d94d5760923947d189513845d4fe7608f712990f2dc8cf9a0c1cd.png",
+      "snippet": "Breakfast egg sandwiches and fresh to made bagels on demand! Order online or straight from your phone and let your taste buds celebrate.",
+      "snippet_highlighted_words": [
+        "bagels"
+      ],
+      "source": "Einstein Bros. Bagels"
+    },
+    {
+      "position": 10,
+      "title": "Homemade Bagels Recipe",
+      "link": "https://sallysbakingaddiction.com/homemade-bagels/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sallysbakingaddiction.com/homemade-bagels/&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4QFnoECEsQAQ",
+      "displayed_link": "https://sallysbakingaddiction.com \u203a Recipes \u203a Bread",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiv6HLN6HvLE8WBVq606iWf4odULKPjB4kj0VXoChps8a_VPdGb09U&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a309706f4f295164230e4/images/e1e0f16f280d94d5760923947d189513e0f24e011d2d7d0dffb4b3284067ed70.png",
+      "date": "Jan 1, 2019",
+      "snippet": "This easy homemade bagel recipe proves that you can make deliciously chewy bagels in your own kitchen with only a few basic ingredients and ...",
+      "snippet_highlighted_words": [
+        "bagel",
+        "bagels"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.9,
+            "hr": 3
+          },
+          "extensions": [
+            "4.9(644)",
+            "3 hr"
+          ]
+        }
+      },
+      "source": "Sally's Baking Addiction"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&tbs=lf:1,lf_ui:9&tbm=lcl&q=bagel&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4QjGp6BAg3EAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bagel&tbs=lf%3A1%2Clf_ui%3A9&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Bagels near me",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Bagels+near+me&sa=X&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Q1QJ6BAh1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Bagels+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Bagel pronunciation",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Bagel+pronunciation&sa=X&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Q1QJ6BAhzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Bagel+pronunciation"
+    },
+    {
+      "block_position": 1,
+      "query": "Bagel recipe",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Bagel+recipe&sa=X&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Q1QJ6BAhyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Bagel+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Einstein bagels",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Einstein+bagels&sa=X&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Q1QJ6BAhvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Einstein+bagels"
+    },
+    {
+      "block_position": 1,
+      "query": "Wholy Bagel",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Wholy+Bagel&sa=X&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Q1QJ6BAhxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Wholy+Bagel"
+    },
+    {
+      "block_position": 1,
+      "query": "Bagels in Austin",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Bagels+in+Austin&sa=X&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Q1QJ6BAhwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Bagels+in+Austin"
+    },
+    {
+      "block_position": 1,
+      "query": "Bagels Walmart",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Bagels+Walmart&sa=X&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Q1QJ6BAhuEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Bagels+Walmart"
+    },
+    {
+      "block_position": 1,
+      "query": "Bagel dog",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Bagel+dog&sa=X&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Q1QJ6BAh0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Bagel+dog"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=bagel&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=lzAKZ4TeDsCTwt0PtLCE8As&start=10&sa=N&sstk=Aagrsui4sMRmvjZemRnta48hWG8WWvM6tc9pxl6iLoGCkgCzR5jcWVBNh1qnhPXp1mSsHPGzcPPjRqct8rG3WJzSUi3Mu2KQLtu1jg&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Q8NMDegQICRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=bagel&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=lzAKZ4TeDsCTwt0PtLCE8As&start=10&sa=N&sstk=Aagrsui4sMRmvjZemRnta48hWG8WWvM6tc9pxl6iLoGCkgCzR5jcWVBNh1qnhPXp1mSsHPGzcPPjRqct8rG3WJzSUi3Mu2KQLtu1jg&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Q8tMDegQICRAE",
+      "3": "https://www.google.com/search?q=bagel&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=lzAKZ4TeDsCTwt0PtLCE8As&start=20&sa=N&sstk=Aagrsui4sMRmvjZemRnta48hWG8WWvM6tc9pxl6iLoGCkgCzR5jcWVBNh1qnhPXp1mSsHPGzcPPjRqct8rG3WJzSUi3Mu2KQLtu1jg&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Q8tMDegQICRAG",
+      "4": "https://www.google.com/search?q=bagel&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=lzAKZ4TeDsCTwt0PtLCE8As&start=30&sa=N&sstk=Aagrsui4sMRmvjZemRnta48hWG8WWvM6tc9pxl6iLoGCkgCzR5jcWVBNh1qnhPXp1mSsHPGzcPPjRqct8rG3WJzSUi3Mu2KQLtu1jg&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Q8tMDegQICRAI",
+      "5": "https://www.google.com/search?q=bagel&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=lzAKZ4TeDsCTwt0PtLCE8As&start=40&sa=N&sstk=Aagrsui4sMRmvjZemRnta48hWG8WWvM6tc9pxl6iLoGCkgCzR5jcWVBNh1qnhPXp1mSsHPGzcPPjRqct8rG3WJzSUi3Mu2KQLtu1jg&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Q8tMDegQICRAK",
+      "6": "https://www.google.com/search?q=bagel&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=lzAKZ4TeDsCTwt0PtLCE8As&start=50&sa=N&sstk=Aagrsui4sMRmvjZemRnta48hWG8WWvM6tc9pxl6iLoGCkgCzR5jcWVBNh1qnhPXp1mSsHPGzcPPjRqct8rG3WJzSUi3Mu2KQLtu1jg&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Q8tMDegQICRAM",
+      "7": "https://www.google.com/search?q=bagel&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=lzAKZ4TeDsCTwt0PtLCE8As&start=60&sa=N&sstk=Aagrsui4sMRmvjZemRnta48hWG8WWvM6tc9pxl6iLoGCkgCzR5jcWVBNh1qnhPXp1mSsHPGzcPPjRqct8rG3WJzSUi3Mu2KQLtu1jg&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Q8tMDegQICRAO",
+      "8": "https://www.google.com/search?q=bagel&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=lzAKZ4TeDsCTwt0PtLCE8As&start=70&sa=N&sstk=Aagrsui4sMRmvjZemRnta48hWG8WWvM6tc9pxl6iLoGCkgCzR5jcWVBNh1qnhPXp1mSsHPGzcPPjRqct8rG3WJzSUi3Mu2KQLtu1jg&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Q8tMDegQICRAQ",
+      "9": "https://www.google.com/search?q=bagel&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=lzAKZ4TeDsCTwt0PtLCE8As&start=80&sa=N&sstk=Aagrsui4sMRmvjZemRnta48hWG8WWvM6tc9pxl6iLoGCkgCzR5jcWVBNh1qnhPXp1mSsHPGzcPPjRqct8rG3WJzSUi3Mu2KQLtu1jg&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Q8tMDegQICRAS",
+      "10": "https://www.google.com/search?q=bagel&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=lzAKZ4TeDsCTwt0PtLCE8As&start=90&sa=N&sstk=Aagrsui4sMRmvjZemRnta48hWG8WWvM6tc9pxl6iLoGCkgCzR5jcWVBNh1qnhPXp1mSsHPGzcPPjRqct8rG3WJzSUi3Mu2KQLtu1jg&ved=2ahUKEwjEhb_fs4iJAxXAibAFHTQYAb4Q8tMDegQICRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bagel&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bagel&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bagel&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bagel&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bagel&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bagel&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bagel&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bagel&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bagel&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bagel&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bagel&start=90"
+    }
+  }
+}

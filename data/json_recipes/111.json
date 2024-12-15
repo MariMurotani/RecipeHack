@@ -1,0 +1,511 @@
+{
+  "search_metadata": {
+    "id": "670a170793584cae968572c2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/44e4824aa380406c/670a170793584cae968572c2.json",
+    "created_at": "2024-10-12 06:28:23 UTC",
+    "processed_at": "2024-10-12 06:28:23 UTC",
+    "google_url": "https://www.google.com/search?q=hyacinth&oq=hyacinth&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/44e4824aa380406c/670a170793584cae968572c2.html",
+    "total_time_taken": 1.49
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "hyacinth",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "hyacinth",
+    "total_results": 31000000,
+    "time_taken_displayed": 0.21,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "title": "See results about",
+    "see_results_about": [
+      {
+        "name": "Hyacinth",
+        "extensions": [
+          "Plant"
+        ],
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Hyacinth&si=ACC90nw_jPf0U9OHQLTsJBfNBfuzWP04Qb7uUj5bJ7NOdlcOVEnPJpOKEBwlCYSu0xlaP-VHPQLfCtHCTwbIYv49Ws7jvy9xxp6GnNB3yIArmA5Cbxu7_VaXtGyfNwZ3lJd1biosgqYXAJIIS-KRdUK_HBe8LJESFQ0VtN8XS_RkmBSnAy4QHnW9m96B3WGI3Y8GJ5VOsFKp2BsysCmAYCiETuBpOIcke5la_U7yW0jB3y46zGyuBhrxrM-mXK44Qb30VgWNCar9&sa=X&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQ6RN6BAgNEAE",
+        "image": "https://serpapi.com/searches/670a170793584cae968572c2/images/5c939af1e5589b33be3366d06b3c8ce8db76891457823a36fff17becae4bd842d59c6c59e8f3b25f407b800f2e880202.jpeg"
+      },
+      {
+        "name": "Hyacinth",
+        "extensions": [
+          "Plant"
+        ],
+        "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Hyacinthus+orientalis&si=ACC90nw_jPf0U9OHQLTsJBfNBfuzWP04Qb7uUj5bJ7NOdlcOVJ03eacAY-TZv7MCr_SBv49aCuUiP3fJZ9STOEhD9HXFy2q2djVvOPD0ELW4Ol7T9kpX4ZTcbNlzq_Wj2EYNupyykSv5h8Ho9dsoAffX5b_IXpDVZ4aBSQzIhvQ52jwxmxEcSh0LytOtcQ2rK1pkvqole8AJbkifNpIItIgZpE-CqFU0w--zn5BGSXSmD9yE6AlmMhSLenEstSn1_uQNrMqqyJGRgX3XGFsX9Faxh1B0NoOlow%3D%3D&sa=X&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQ6RN6BAgMEAE",
+        "image": "https://serpapi.com/searches/670a170793584cae968572c2/images/5c939af1e5589b33be3366d06b3c8ce8db76891457823a36fff17becae4bd8428139d4e52677e7299ca701d503e0d6c8.jpeg"
+      }
+    ]
+  },
+  "related_questions": [
+    {
+      "question": "Do hyacinths come back every year?",
+      "snippet": "Hyacinths are perennials, so you can plant them once and they'll come back every spring. Hyacinths are easier to grow than other spring bulbs, and they can be forced indoors in pots or a bulb vase. Most hyacinths need a chill to bloom, so they do best in areas where winter temperatures are consistently in the 30s.",
+      "title": "How to Plant, Grow and Care for Hyacinth Flowers - HGTV",
+      "link": "https://www.hgtv.com/outdoors/flowers-and-plants/plant-grow-care-hyacinth-flowers#:~:text=Hyacinths%20are%20perennials%2C%20so%20you,are%20consistently%20in%20the%2030s.",
+      "displayed_link": "https://www.hgtv.com \u203a outdoors \u203a plant-grow-care-hyaci...",
+      "source_logo": "https://serpapi.com/searches/670a170793584cae968572c2/images/096f4d913b0cf9c46b31aebe6de14de647b8b9eaaa77ac113554c69a5addec58.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UGFUTjRlakpXZEhwaE9XVktOM2hRTmxVNFdWTlVRVGsxZUc1dlJtZFpaMVJLVFc1VWJYbHFVVkIxYW1VMlVXc3hjWHBLUVRCTFkya3paMlV0V0hSdmJqSjFZemN5RWhkRFFtTkxXaTEyU0VoeVUzVjFjamhRZFV0SWVXZFJXUm9pUVVaWWNrVmpjVFpaVkdKcE9XVnNSV2RoTTJSTlNrNVdhRVJEYmxCS1VHaFFkdyIsImZjdiI6IjMiLCJlaSI6IkNCY0taLXZISHJTdXVyOFB1S0h5Z1FZIiwicWMiOiJDZ2hvZVdGamFXNTBhQkFBZllvdkl6OCIsInF1ZXN0aW9uIjoiRG8gaHlhY2ludGhzIGNvbWUgYmFjayBldmVyeSB5ZWFyPyIsImxrIjoiR2lGa2J5Qm9lV0ZqYVc1MGFITWdZMjl0WlNCaVlXTnJJR1YyWlhKNUlIbGxZWEkiLCJicyI6ImMtUHk0Vkp5eVZmSXFFeE16c3dyeVNoV1NNN1BUVlZJU2t6T1ZrZ3RTeTJxVktoTVRTeXlsX2dpYXFRc3BaaENTQ0dYQlpkTWVFWmlpUUtLeXVMSzNLVDhuTXlxVkh1SmlVSkdvbExDTUNtRm90U0NvdFRpMUx5U1lpNEhrTTVLaGNTaVZDU2RCZm1aeGZsNS1hWEY5aExYTW8xa3BhVExjU3ZoY3VLU1JmRkpmbDVPcFVKU1RuNS1McENaRExUOHFiMlJuSlJNQ2g0MUFvd0EiLCJpZCI6ImZjX0NCY0taLXZISHJTdXVyOFB1S0h5Z1FZXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UGFUTjRlakpXZEhwaE9XVktOM2hRTmxVNFdWTlVRVGsxZUc1dlJtZFpaMVJLVFc1VWJYbHFVVkIxYW1VMlVXc3hjWHBLUVRCTFkya3paMlV0V0hSdmJqSjFZemN5RWhkRFFtTkxXaTEyU0VoeVUzVjFjamhRZFV0SWVXZFJXUm9pUVVaWWNrVmpjVFpaVkdKcE9XVnNSV2RoTTJSTlNrNVdhRVJEYmxCS1VHaFFkdyIsImZjdiI6IjMiLCJlaSI6IkNCY0taLXZISHJTdXVyOFB1S0h5Z1FZIiwicWMiOiJDZ2hvZVdGamFXNTBhQkFBZllvdkl6OCIsInF1ZXN0aW9uIjoiRG8gaHlhY2ludGhzIGNvbWUgYmFjayBldmVyeSB5ZWFyPyIsImxrIjoiR2lGa2J5Qm9lV0ZqYVc1MGFITWdZMjl0WlNCaVlXTnJJR1YyWlhKNUlIbGxZWEkiLCJicyI6ImMtUHk0Vkp5eVZmSXFFeE16c3dyeVNoV1NNN1BUVlZJU2t6T1ZrZ3RTeTJxVktoTVRTeXlsX2dpYXFRc3BaaENTQ0dYQlpkTWVFWmlpUUtLeXVMSzNLVDhuTXlxVkh1SmlVSkdvbExDTUNtRm90U0NvdFRpMUx5U1lpNEhrTTVLaGNTaVZDU2RCZm1aeGZsNS1hWEY5aExYTW8xa3BhVExjU3ZoY3VLU1JmRkpmbDVPcFVKU1RuNS1McENaRExUOHFiMlJuSlJNQ2g0MUFvd0EiLCJpZCI6ImZjX0NCY0taLXZISHJTdXVyOFB1S0h5Z1FZXzEifQ%3D%3D"
+    },
+    {
+      "question": "What do hyacinths symbolize?",
+      "snippet": "Hyacinth Symbolism Due to its association with Apollo, the flower is sometimes linked to the themes of power, pride, and beauty. However, the story of Hyacinthus' tragic death also lends the hyacinth connotations of sorrow and mourning.",
+      "title": "Hyacinth: Origins, Symbolism, and Colors - BloomsyBox",
+      "link": "https://www.bloomsybox.com/blog/posts/unfolding-the-hyacinth#:~:text=Hyacinth%20Symbolism&text=Due%20to%20its%20association%20with,connotations%20of%20sorrow%20and%20mourning.",
+      "displayed_link": "https://www.bloomsybox.com \u203a unfolding-the-hyacinth",
+      "source_logo": "https://serpapi.com/searches/670a170793584cae968572c2/images/096f4d913b0cf9c46b31aebe6de14de6e5f0272e448878f63344847616cd8ded.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UGFUTjRlakpXZEhwaE9XVktOM2hRTmxVNFdWTlVRVGsxZUc1dlJtZFpaMVJLVFc1VWJYbHFVVkIxYW1VMlVXc3hjWHBLUVRCTFkya3paMlV0V0hSdmJqSjFZemN5RWhkRFFtTkxXaTEyU0VoeVUzVjFjamhRZFV0SWVXZFJXUm9pUVVaWWNrVmpjVFpaVkdKcE9XVnNSV2RoTTJSTlNrNVdhRVJEYmxCS1VHaFFkdyIsImZjdiI6IjMiLCJlaSI6IkNCY0taLXZISHJTdXVyOFB1S0h5Z1FZIiwicWMiOiJDZ2hvZVdGamFXNTBhQkFBZllvdkl6OCIsInF1ZXN0aW9uIjoiV2hhdCBkbyBoeWFjaW50aHMgc3ltYm9saXplPyIsImxrIjoiR2hOb2VXRmphVzUwYUNCeVpYQnlaWE5sYm5SeiIsImJzIjoiYy1QeTRWSnl5VmZJcUV4TXpzd3J5U2hXU003UFRWVklTa3pPVmtndFN5MnFWS2hNVFN5eWxfZ2lhcVFzcFpoQ1NDR1hCWmRNZUVaaWlRS0t5dUxLM0tUOG5NeXFWSHVKaVVKR29sTENNQ21Gb3RTQ290VGkxTHlTWWk0SGtNNUtoY1NpVkNTZEJmbVp4Zmw1LWFYRjloTFhNbzFrcGFUTGNTdmhjdUtTUmZGSmZsNU9wVUpTVG41LUxwQ1pETFQ4cWIyUm5KUk1DaDQxQW93QSIsImlkIjoiZmNfQ0JjS1otdkhIclN1dXI4UHVLSHlnUVlfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UGFUTjRlakpXZEhwaE9XVktOM2hRTmxVNFdWTlVRVGsxZUc1dlJtZFpaMVJLVFc1VWJYbHFVVkIxYW1VMlVXc3hjWHBLUVRCTFkya3paMlV0V0hSdmJqSjFZemN5RWhkRFFtTkxXaTEyU0VoeVUzVjFjamhRZFV0SWVXZFJXUm9pUVVaWWNrVmpjVFpaVkdKcE9XVnNSV2RoTTJSTlNrNVdhRVJEYmxCS1VHaFFkdyIsImZjdiI6IjMiLCJlaSI6IkNCY0taLXZISHJTdXVyOFB1S0h5Z1FZIiwicWMiOiJDZ2hvZVdGamFXNTBhQkFBZllvdkl6OCIsInF1ZXN0aW9uIjoiV2hhdCBkbyBoeWFjaW50aHMgc3ltYm9saXplPyIsImxrIjoiR2hOb2VXRmphVzUwYUNCeVpYQnlaWE5sYm5SeiIsImJzIjoiYy1QeTRWSnl5VmZJcUV4TXpzd3J5U2hXU003UFRWVklTa3pPVmtndFN5MnFWS2hNVFN5eWxfZ2lhcVFzcFpoQ1NDR1hCWmRNZUVaaWlRS0t5dUxLM0tUOG5NeXFWSHVKaVVKR29sTENNQ21Gb3RTQ290VGkxTHlTWWk0SGtNNUtoY1NpVkNTZEJmbVp4Zmw1LWFYRjloTFhNbzFrcGFUTGNTdmhjdUtTUmZGSmZsNU9wVUpTVG41LUxwQ1pETFQ4cWIyUm5KUk1DaDQxQW93QSIsImlkIjoiZmNfQ0JjS1otdkhIclN1dXI4UHVLSHlnUVlfMSJ9"
+    },
+    {
+      "question": "Why are hyacinths poisonous?",
+      "snippet": "Both hyacinths and tulips belong to the Liliaceae family, and contain allergenic lactones or similar alkaloids. The toxic principle of these plants is very concentrated in the bulbs (versus the leaf or flower), and when ingested in large amounts, can result in severe clinical signs.",
+      "title": "Tulips & Hyacinths Are Toxic To Pets | Pet Poison Helpline\u00ae",
+      "link": "https://www.petpoisonhelpline.com/poison/tulip/#:~:text=Both%20hyacinths%20and%20tulips%20belong,result%20in%20severe%20clinical%20signs.",
+      "displayed_link": "https://www.petpoisonhelpline.com \u203a poison \u203a tulip",
+      "source_logo": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UGFUTjRlakpXZEhwaE9XVktOM2hRTmxVNFdWTlVRVGsxZUc1dlJtZFpaMVJLVFc1VWJYbHFVVkIxYW1VMlVXc3hjWHBLUVRCTFkya3paMlV0V0hSdmJqSjFZemN5RWhkRFFtTkxXaTEyU0VoeVUzVjFjamhRZFV0SWVXZFJXUm9pUVVaWWNrVmpjVFpaVkdKcE9XVnNSV2RoTTJSTlNrNVdhRVJEYmxCS1VHaFFkdyIsImZjdiI6IjMiLCJlaSI6IkNCY0taLXZISHJTdXVyOFB1S0h5Z1FZIiwicWMiOiJDZ2hvZVdGamFXNTBhQkFBZllvdkl6OCIsInF1ZXN0aW9uIjoiV2h5IGFyZSBoeWFjaW50aHMgcG9pc29ub3VzPyIsImxrIjoiR2h0M2FIa2dZWEpsSUdoNVlXTnBiblJvY3lCd2IybHpiMjV2ZFhNIiwiYnMiOiJjLVB5NFZKeXlWZklxRXhNenN3cnlTaFdTTTdQVFZWSVNrek9Wa2d0U3kycVZLaE1UU3l5bF9naWFxUXNwWmhDU0NHWEJaZE1lRVppaVFLS3l1TEszS1Q4bk15cVZIdUppVUpHb2xMQ01DbUZvdFNDb3RUaTFMeVNZaTRIa001S2hjU2lWQ1NkQmZtWnhmbDUtYVhGOWhMWE1vMWtwYVRMY1N2aGN1S1NSZkZKZmw1T3BVSlNUbjUtTHBDWkRMVDhxYjJSbkpSTUNoNDFBb3dBIiwiaWQiOiJmY19DQmNLWi12SEhyU3V1cjhQdUtIeWdRWV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UGFUTjRlakpXZEhwaE9XVktOM2hRTmxVNFdWTlVRVGsxZUc1dlJtZFpaMVJLVFc1VWJYbHFVVkIxYW1VMlVXc3hjWHBLUVRCTFkya3paMlV0V0hSdmJqSjFZemN5RWhkRFFtTkxXaTEyU0VoeVUzVjFjamhRZFV0SWVXZFJXUm9pUVVaWWNrVmpjVFpaVkdKcE9XVnNSV2RoTTJSTlNrNVdhRVJEYmxCS1VHaFFkdyIsImZjdiI6IjMiLCJlaSI6IkNCY0taLXZISHJTdXVyOFB1S0h5Z1FZIiwicWMiOiJDZ2hvZVdGamFXNTBhQkFBZllvdkl6OCIsInF1ZXN0aW9uIjoiV2h5IGFyZSBoeWFjaW50aHMgcG9pc29ub3VzPyIsImxrIjoiR2h0M2FIa2dZWEpsSUdoNVlXTnBiblJvY3lCd2IybHpiMjV2ZFhNIiwiYnMiOiJjLVB5NFZKeXlWZklxRXhNenN3cnlTaFdTTTdQVFZWSVNrek9Wa2d0U3kycVZLaE1UU3l5bF9naWFxUXNwWmhDU0NHWEJaZE1lRVppaVFLS3l1TEszS1Q4bk15cVZIdUppVUpHb2xMQ01DbUZvdFNDb3RUaTFMeVNZaTRIa001S2hjU2lWQ1NkQmZtWnhmbDUtYVhGOWhMWE1vMWtwYVRMY1N2aGN1S1NSZkZKZmw1T3BVSlNUbjUtTHBDWkRMVDhxYjJSbkpSTUNoNDFBb3dBIiwiaWQiOiJmY19DQmNLWi12SEhyU3V1cjhQdUtIeWdRWV8xIn0%3D"
+    },
+    {
+      "question": "Do hyacinths only bloom once?",
+      "snippet": "How Often Do Hyacinths Bloom? Hyacinths, like most plants grown from bulbs, bloom just once. Hyacinths bloom in late spring, generally later than most daffodils and other early bloomers. However, that single bloom time lasts for up to four weeks, so you'll get a lot of mileage from that one bloom.",
+      "title": "Hyacinth Planting and Growing Tips - Brecks",
+      "link": "https://www.brecks.com/pages/how_to_tips_growing_instructions_hyacinths#:~:text=How%20Often%20Do%20Hyacinths%20Bloom,mileage%20from%20that%20one%20bloom.",
+      "displayed_link": "https://www.brecks.com \u203a pages \u203a how_to_tips_growing_...",
+      "source_logo": "https://serpapi.com/searches/670a170793584cae968572c2/images/096f4d913b0cf9c46b31aebe6de14de635dad33156c5a1fac7e6ce1b79b1b372.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UGFUTjRlakpXZEhwaE9XVktOM2hRTmxVNFdWTlVRVGsxZUc1dlJtZFpaMVJLVFc1VWJYbHFVVkIxYW1VMlVXc3hjWHBLUVRCTFkya3paMlV0V0hSdmJqSjFZemN5RWhkRFFtTkxXaTEyU0VoeVUzVjFjamhRZFV0SWVXZFJXUm9pUVVaWWNrVmpjVFpaVkdKcE9XVnNSV2RoTTJSTlNrNVdhRVJEYmxCS1VHaFFkdyIsImZjdiI6IjMiLCJlaSI6IkNCY0taLXZISHJTdXVyOFB1S0h5Z1FZIiwicWMiOiJDZ2hvZVdGamFXNTBhQkFBZllvdkl6OCIsInF1ZXN0aW9uIjoiRG8gaHlhY2ludGhzIG9ubHkgYmxvb20gb25jZT8iLCJsayI6IkdoeGtieUJvZVdGamFXNTBhSE1nYjI1c2VTQmliRzl2YlNCdmJtTmwiLCJicyI6ImMtUHk0Vkp5eVZmSXFFeE16c3dyeVNoV1NNN1BUVlZJU2t6T1ZrZ3RTeTJxVktoTVRTeXlsX2dpYXFRc3BaaENTQ0dYQlpkTWVFWmlpUUtLeXVMSzNLVDhuTXlxVkh1SmlVSkdvbExDTUNtRm90U0NvdFRpMUx5U1lpNEhrTTVLaGNTaVZDU2RCZm1aeGZsNS1hWEY5aExYTW8xa3BhVExjU3ZoY3VLU1JmRkpmbDVPcFVKU1RuNS1McENaRExUOHFiMlJuSlJNQ2g0MUFvd0EiLCJpZCI6ImZjX0NCY0taLXZISHJTdXVyOFB1S0h5Z1FZXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UGFUTjRlakpXZEhwaE9XVktOM2hRTmxVNFdWTlVRVGsxZUc1dlJtZFpaMVJLVFc1VWJYbHFVVkIxYW1VMlVXc3hjWHBLUVRCTFkya3paMlV0V0hSdmJqSjFZemN5RWhkRFFtTkxXaTEyU0VoeVUzVjFjamhRZFV0SWVXZFJXUm9pUVVaWWNrVmpjVFpaVkdKcE9XVnNSV2RoTTJSTlNrNVdhRVJEYmxCS1VHaFFkdyIsImZjdiI6IjMiLCJlaSI6IkNCY0taLXZISHJTdXVyOFB1S0h5Z1FZIiwicWMiOiJDZ2hvZVdGamFXNTBhQkFBZllvdkl6OCIsInF1ZXN0aW9uIjoiRG8gaHlhY2ludGhzIG9ubHkgYmxvb20gb25jZT8iLCJsayI6IkdoeGtieUJvZVdGamFXNTBhSE1nYjI1c2VTQmliRzl2YlNCdmJtTmwiLCJicyI6ImMtUHk0Vkp5eVZmSXFFeE16c3dyeVNoV1NNN1BUVlZJU2t6T1ZrZ3RTeTJxVktoTVRTeXlsX2dpYXFRc3BaaENTQ0dYQlpkTWVFWmlpUUtLeXVMSzNLVDhuTXlxVkh1SmlVSkdvbExDTUNtRm90U0NvdFRpMUx5U1lpNEhrTTVLaGNTaVZDU2RCZm1aeGZsNS1hWEY5aExYTW8xa3BhVExjU3ZoY3VLU1JmRkpmbDVPcFVKU1RuNS1McENaRExUOHFiMlJuSlJNQ2g0MUFvd0EiLCJpZCI6ImZjX0NCY0taLXZISHJTdXVyOFB1S0h5Z1FZXzEifQ%3D%3D"
+    }
+  ],
+  "answer_box": {
+    "type": "organic_result",
+    "title": "Hyacinth - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Hyacinth#:~:text=Hyacinthus%20%2F%CB%8Cha%C9%AA%C9%99,%C9%AAn%CE%B8s%2F).",
+    "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Hyacinth",
+    "snippet": "Hyacinthus /\u02ccha\u026a\u0259\u02c8s\u026an\u03b8\u0259s/ is a small genus of bulbous herbs, spring-blooming perennials. They are fragrant flowering plants in the family Asparagaceae, subfamily Scilloideae and are commonly called hyacinths (/\u02c8ha\u026a\u0259s\u026an\u03b8s/).",
+    "snippet_highlighted_words": [
+      "a small genus of bulbous herbs, spring-blooming perennials"
+    ],
+    "favicon": "https://serpapi.com/searches/670a170793584cae968572c2/images/9e517e9dd6841a78f216aae4060b4ffe8cf981eb726677d3.webp",
+    "source": "Wikipedia",
+    "images": [
+      "https://serpapi.com/searches/670a170793584cae968572c2/images/9e517e9dd6841a785f6ace1f2a7a3546e7f56293c3bf9350.jpeg",
+      "https://serpapi.com/searches/670a170793584cae968572c2/images/9e517e9dd6841a785f6ace1f2a7a3546f3d38e5e53d1ed45.jpeg",
+      "https://serpapi.com/searches/670a170793584cae968572c2/images/9e517e9dd6841a785f6ace1f2a7a35461a3a22e7012b7222.jpeg"
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "How To Grow And Care For Hyacinths",
+      "link": "https://www.southernliving.com/garden/flowers/hyacinth-flower",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.southernliving.com/garden/flowers/hyacinth-flower&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQFnoECBMQAQ",
+      "displayed_link": "https://www.southernliving.com \u203a ... \u203a Bulbs",
+      "thumbnail": "https://serpapi.com/searches/670a170793584cae968572c2/images/ace898776987712766cdcaecb0f2651cadd1dac9667b8d553deaec677a14ca54.jpeg",
+      "favicon": "https://serpapi.com/searches/670a170793584cae968572c2/images/ace898776987712766cdcaecb0f2651c29503e3d2da08ca483c8f41ca1a2ccaa.webp",
+      "date": "Apr 26, 2024",
+      "snippet": "Plant hyacinth bulbs in autumn, putting them in the ground from October to December for flowering in the spring months (usually March and April).",
+      "snippet_highlighted_words": [
+        "hyacinth"
+      ],
+      "source": "Southern Living"
+    },
+    {
+      "position": 2,
+      "title": "How to Plant, Grow, and Care for Hyacinth",
+      "link": "https://www.thespruce.com/growing-and-caring-for-hyacinth-plants-1402248",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thespruce.com/growing-and-caring-for-hyacinth-plants-1402248&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQFnoECBQQAQ",
+      "displayed_link": "https://www.thespruce.com \u203a ... \u203a Flowers",
+      "thumbnail": "https://serpapi.com/searches/670a170793584cae968572c2/images/ace898776987712766cdcaecb0f2651c55eda3c5d7466f1c5297e628b680b09f.jpeg",
+      "favicon": "https://serpapi.com/searches/670a170793584cae968572c2/images/ace898776987712766cdcaecb0f2651c144210a60367d0ff10d7c81abd07e49d.webp",
+      "date": "Jul 11, 2024",
+      "snippet": "Hyacinths like full sun to partial shade. Aim to give the plants at least six to eight hours of sunlight a day. As with all spring bulbs, ...",
+      "snippet_highlighted_words": [
+        "Hyacinths"
+      ],
+      "source": "The Spruce"
+    },
+    {
+      "position": 3,
+      "title": "Hyacinth (mythology)",
+      "link": "https://en.wikipedia.org/wiki/Hyacinth_(mythology)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Hyacinth_(mythology)&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQFnoECBUQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Hyacinth_(mythology)",
+      "thumbnail": "https://serpapi.com/searches/670a170793584cae968572c2/images/ace898776987712766cdcaecb0f2651c5f85c12a8bf3c43f299c0e514002f806.jpeg",
+      "favicon": "https://serpapi.com/searches/670a170793584cae968572c2/images/ace898776987712766cdcaecb0f2651c5c49421ddade5b93ee51bf3c48d2a3d9.webp",
+      "snippet": "Hyacinth /\u02c8ha\u026a\u0259s\u026an\u03b8/ or Hyacinthus is a deified hero and a lover of Apollo in Greek mythology. His cult at Amyclae southwest of Sparta dates from the ...",
+      "snippet_highlighted_words": [
+        "Hyacinth"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 4,
+      "title": "Hyacinth",
+      "link": "https://www.hyacinthstpaul.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hyacinthstpaul.com/&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQFnoECEsQAQ",
+      "displayed_link": "https://www.hyacinthstpaul.com",
+      "thumbnail": "https://serpapi.com/searches/670a170793584cae968572c2/images/ace898776987712766cdcaecb0f2651c1f95634c39e415d394434bdc6b329daa.jpeg",
+      "favicon": "https://serpapi.com/searches/670a170793584cae968572c2/images/ace898776987712766cdcaecb0f2651ca2f332f1d44867c3f16e5dae83f9bcb2.webp",
+      "snippet": "open tuesday - saturday. 5pm - First Seating Last Seating - 9pm. menus \u00b7 reservations \u00b7 Events/Catering \u00b7 gift cards \u00b7 ABOUT.",
+      "source": "hyacinthstpaul.com"
+    },
+    {
+      "position": 5,
+      "title": "Hyacinth Definition & Meaning",
+      "link": "https://www.merriam-webster.com/dictionary/hyacinth",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.merriam-webster.com/dictionary/hyacinth&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQFnoECEMQAQ",
+      "displayed_link": "https://www.merriam-webster.com \u203a dictionary \u203a hyacinth",
+      "favicon": "https://serpapi.com/searches/670a170793584cae968572c2/images/ace898776987712766cdcaecb0f2651c4b407ad22cdf55c5d7448c899538fe84.webp",
+      "snippet": "1. a : a precious stone of the ancients sometimes held to be the sapphire b : a gem zircon or hessonite 2. a : a plant of the ancients held to be a lily, iris",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Water hyacinth",
+            "link": "https://www.merriam-webster.com/dictionary/water%20hyacinth"
+          },
+          {
+            "title": "Grape hyacinth",
+            "link": "https://www.merriam-webster.com/dictionary/grape%20hyacinth"
+          },
+          {
+            "title": "Wild hyacinth",
+            "link": "https://www.merriam-webster.com/dictionary/wild%20hyacinth"
+          }
+        ]
+      },
+      "source": "Merriam-Webster"
+    },
+    {
+      "position": 6,
+      "title": "Shop Fragrant Hyacinth Bulbs",
+      "link": "https://www.longfield-gardens.com/Hyacinth",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.longfield-gardens.com/Hyacinth&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQFnoECFIQAQ",
+      "displayed_link": "https://www.longfield-gardens.com \u203a ... \u203a Shop by Type",
+      "thumbnail": "https://serpapi.com/searches/670a170793584cae968572c2/images/ace898776987712766cdcaecb0f2651c2596557de9e67ad201d27b4e4d5f41a1.jpeg",
+      "favicon": "https://serpapi.com/searches/670a170793584cae968572c2/images/ace898776987712766cdcaecb0f2651c389d9849452b65bac1e0ce051bf2c4e2.webp",
+      "snippet": "Hyacinths are the most fragrant flowers of spring. They will fill your yard and garden with their sweet perfume. Choose from a rainbow of pastel and jewel-tone ...",
+      "snippet_highlighted_words": [
+        "Hyacinths"
+      ],
+      "images": [
+        "https://serpapi.com/searches/670a170793584cae968572c2/images/ace898776987712766cdcaecb0f2651c8af7efd1185701e03b0b81a9b240df7a.jpeg",
+        "https://serpapi.com/searches/670a170793584cae968572c2/images/ace898776987712766cdcaecb0f2651c8af7efd1185701e001e1031dbbc342b7.jpeg",
+        "https://serpapi.com/searches/670a170793584cae968572c2/images/ace898776987712766cdcaecb0f2651c8af7efd1185701e041ce6c5ba3d16684.jpeg"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "store_rating": 5.0,
+            "price": 50,
+            "currency": "Free delivery over $"
+          },
+          "extensions": [
+            "5.0store rating (14)",
+            "\u200e$16 to $30",
+            "\u200eFree delivery over $50"
+          ]
+        }
+      },
+      "source": "Longfield Gardens"
+    },
+    {
+      "position": 7,
+      "title": "Shop Hyacinth Bulbs - Grow majestic Hyacinth flowers",
+      "link": "https://www.brecks.com/collections/hyacinth_flower_bulbs?srsltid=AfmBOorecEMmPlrItqLyWwIl-HuTiTo0TN51QNtJJagcXahPJmL0cfGE",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.brecks.com/collections/hyacinth_flower_bulbs%3Fsrsltid%3DAfmBOorecEMmPlrItqLyWwIl-HuTiTo0TN51QNtJJagcXahPJmL0cfGE&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQFnoECFkQAQ",
+      "displayed_link": "https://www.brecks.com \u203a collections \u203a hyacinth_flower_...",
+      "thumbnail": "https://serpapi.com/searches/670a170793584cae968572c2/images/ace898776987712766cdcaecb0f2651c71721890faa40e5cabbdee6d8919e684.jpeg",
+      "favicon": "https://serpapi.com/searches/670a170793584cae968572c2/images/ace898776987712766cdcaecb0f2651ca0569551bf604612659b2c3c471aa054.webp",
+      "snippet": "Hyacinths are generally low maintenance flowers that are hardy enough to thrive in a wide range of climates and conditions. These flowering ...",
+      "snippet_highlighted_words": [
+        "Hyacinths"
+      ],
+      "images": [
+        "https://serpapi.com/searches/670a170793584cae968572c2/images/ace898776987712766cdcaecb0f2651c8c06ec46a84de903d931053bcd1fb193.jpeg",
+        "https://serpapi.com/searches/670a170793584cae968572c2/images/ace898776987712766cdcaecb0f2651c8c06ec46a84de9035fcf2e7b1b7c628c.jpeg",
+        "https://serpapi.com/searches/670a170793584cae968572c2/images/ace898776987712766cdcaecb0f2651c8c06ec46a84de903decd6dd32d5b6313.jpeg"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "store_rating_k": 4.4,
+            "price": 13,
+            "currency": "$ to $",
+            "unknown": 30
+          },
+          "extensions": [
+            "4.4store rating (6.8K)",
+            "\u200e$13 to $45",
+            "\u200e3",
+            "day delivery",
+            "\u200e30",
+            "day returns"
+          ]
+        }
+      },
+      "source": "Brecks"
+    },
+    {
+      "position": 8,
+      "title": "Buy Hyacinth Bulbs For Sale",
+      "link": "https://www.dutchbulbs.com/category/Hyacinth-Flower-Bulbs?srsltid=AfmBOorAkoHzRGUnPLUIUy-6ZFwAZlxv0z0yCoBhPEm7W5G9vsCweJAV",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dutchbulbs.com/category/Hyacinth-Flower-Bulbs%3Fsrsltid%3DAfmBOorAkoHzRGUnPLUIUy-6ZFwAZlxv0z0yCoBhPEm7W5G9vsCweJAV&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQFnoECFUQAQ",
+      "displayed_link": "https://www.dutchbulbs.com \u203a Flower Bulbs",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZljRjt-nBvDCfVgoxCJ31ymLfr9dZKe3i1N8G3GLWBiTONRTdRya7J5YnMNU7BkVCDUi_&s",
+      "favicon": "https://serpapi.com/searches/670a170793584cae968572c2/images/ace898776987712766cdcaecb0f2651cd1a8a806a26c84dd381966c571e24e53.webp",
+      "snippet": "Hyacinths bloom in mid spring\u2014about the same time as daffodils. Growing 8-12 inches tall, they're ideal for beds and borders or as informal accents among ...",
+      "snippet_highlighted_words": [
+        "Hyacinths"
+      ],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZljRjt-nBvDCfVgoxCJ31ymLfr9dZKe3i1N8G3GLWBiTONRTdRya7J5YnMNU7BkVCDUi_&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnpRLt-bxyq0lXOxN5PvZvw1CrAeh1UkUWJ3lzUcWa2TMFqgCx7vJ9QJouj7_J0SzOpzTENQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC7C-CxX5wCIB0Bzv7z1JSu0zAvBwz0IZ60ThqTXEvF3hanLST0KKnDr4&s"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Royal Hyacinth Trio",
+            "link": "https://www.dutchbulbs.com/product/royal-hyacinth-trio"
+          },
+          {
+            "title": "Redolent Riches Hyacinth Blend",
+            "link": "https://www.dutchbulbs.com/product/redolent-riches-hyacinth-blend"
+          },
+          {
+            "title": "Blue-White Hyacinth Blend",
+            "link": "https://www.dutchbulbs.com/product/blue-white-hyacinth-blend"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "store_rating_k": 4.5,
+            "price": 99,
+            "currency": "Free delivery over $"
+          },
+          "extensions": [
+            "4.5store rating (2.8K)",
+            "\u200e$15 to $44",
+            "\u200eFree delivery over $99"
+          ]
+        }
+      },
+      "source": "K. van Bourgondien"
+    },
+    {
+      "position": 9,
+      "title": "Hyacinth Bulbs for Sale",
+      "link": "https://www.hollandbulbfarms.com/fall-planting-bulbs/hyacinths",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hollandbulbfarms.com/fall-planting-bulbs/hyacinths&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQFnoECFMQAQ",
+      "displayed_link": "https://www.hollandbulbfarms.com \u203a hyacinths",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkgD43Om_P8Hzosnfk6_y5Hy5e1KdUCgAmBjLOY3c5bcMkww_yz9Ucg3E&s",
+      "favicon": "https://serpapi.com/searches/670a170793584cae968572c2/images/ace898776987712766cdcaecb0f2651c5f3680efe87a65d8d1afb01530b6f179.webp",
+      "snippet": "Plant hyacinth bulbs in fall in a sunny location. Showy and fragrant flowers emerge in mid-spring and come in an assortment of colors.",
+      "snippet_highlighted_words": [
+        "hyacinth"
+      ],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkgD43Om_P8Hzosnfk6_y5Hy5e1KdUCgAmBjLOY3c5bcMkww_yz9Ucg3E&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqYj2uspewZEFuTtDb-M9meaD4dERQOgW8AKITqu4SgiGvTGq3ohNBq3LkE_fJxVrNXtgtfA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGWSJ1UT5ur6bxK6dBvvw0xmADBlCiCZqNtCHvn56xmPlvV3NjZxKE0AU&s"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "store_rating": 4.5,
+            "price": 6,
+            "currency": "$ to $",
+            "day_delivery": 1,
+            "unknown": 14
+          },
+          "extensions": [
+            "4.5store rating (37)",
+            "\u200e$6 to $58",
+            "\u200e1\u201310 day delivery",
+            "\u200e14",
+            "day returns"
+          ]
+        }
+      },
+      "source": "Holland Bulb Farms"
+    }
+  ],
+  "filters": [
+    {
+      "name": "Pronunciation",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kIk4yQuOOv0SfezRmaiZiZRLP_3lrr8oiZgWtGee4ah6HjHWjFAyksiKmBwgD3Z1TUs7zLBL-tjX9T5J1PtrkvdN0SiNhxBea4EsYCqS7kXCXkpngkSoEpzymJagiISKwOdoRM0",
+        "q": "Hyacinth pronunciation"
+      },
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Hyacinth+pronunciation&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kIk4yQuOOv0SfezRmaiZiZRLP_3lrr8oiZgWtGee4ah6HjHWjFAyksiKmBwgD3Z1TUs7zLBL-tjX9T5J1PtrkvdN0SiNhxBea4EsYCqS7kXCXkpngkSoEpzymJagiISKwOdoRM0&sa=X&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQxKsJegQIJxAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hyacinth+pronunciation&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dz57oEj80hr-27sLC06Q6kIk4yQuOOv0SfezRmaiZiZRLP_3lrr8oiZgWtGee4ah6HjHWjFAyksiKmBwgD3Z1TUs7zLBL-tjX9T5J1PtrkvdN0SiNhxBea4EsYCqS7kXCXkpngkSoEpzymJagiISKwOdoRM0"
+    },
+    {
+      "name": "Bulbs",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dFkBLZ55gGyeTF3ustRBQs-55YD5wNViYVUrF1aLCl6eETr29eGNfPOBfKmzclWGaPfbCFG9wTrLXs1VXp_saPvciCBYBCtHAlVWHd-GaULTr7CxaCx-DMnLdgoMp8VGBoOHpew",
+        "q": "Hyacinth bulbs"
+      },
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Hyacinth+bulbs&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dFkBLZ55gGyeTF3ustRBQs-55YD5wNViYVUrF1aLCl6eETr29eGNfPOBfKmzclWGaPfbCFG9wTrLXs1VXp_saPvciCBYBCtHAlVWHd-GaULTr7CxaCx-DMnLdgoMp8VGBoOHpew&sa=X&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQxKsJegQIIRAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hyacinth+bulbs&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dFkBLZ55gGyeTF3ustRBQs-55YD5wNViYVUrF1aLCl6eETr29eGNfPOBfKmzclWGaPfbCFG9wTrLXs1VXp_saPvciCBYBCtHAlVWHd-GaULTr7CxaCx-DMnLdgoMp8VGBoOHpew"
+    },
+    {
+      "name": "Caring",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dDN8jhNAzW9qMJvnEAK4JR90PBexadyEzQXC7J5C0uORce8LHWARKtAE49DKW_GiKfZ_MrTv24ij8gqTvod655pJS9-86KLyw24CmLAxzjjnLxiDkzIcBUMi1lajYYaeGBYo-6tNxqVA_0AOVwvI7e-sp55s",
+        "q": "Caring for an hyacinth"
+      },
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Caring+for+an+hyacinth&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dDN8jhNAzW9qMJvnEAK4JR90PBexadyEzQXC7J5C0uORce8LHWARKtAE49DKW_GiKfZ_MrTv24ij8gqTvod655pJS9-86KLyw24CmLAxzjjnLxiDkzIcBUMi1lajYYaeGBYo-6tNxqVA_0AOVwvI7e-sp55s&sa=X&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQxKsJegQIHxAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Caring+for+an+hyacinth&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dDN8jhNAzW9qMJvnEAK4JR90PBexadyEzQXC7J5C0uORce8LHWARKtAE49DKW_GiKfZ_MrTv24ij8gqTvod655pJS9-86KLyw24CmLAxzjjnLxiDkzIcBUMi1lajYYaeGBYo-6tNxqVA_0AOVwvI7e-sp55s"
+    },
+    {
+      "name": "Flowers",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77BrOflHv_EkDINMGzg-pgmYy_hTnJl1pqoYTE7roV1dWP4VDmGlQAGXU-IaGqGkjSQIUjEGhBkkx1VIofIBxGXaeOmEYp9gw8eQbEkyeG3BMj8FzIV3npD6HMH3CnPLPWlGpUCs",
+        "q": "Hyacinth flowers"
+      },
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Hyacinth+flowers&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77BrOflHv_EkDINMGzg-pgmYy_hTnJl1pqoYTE7roV1dWP4VDmGlQAGXU-IaGqGkjSQIUjEGhBkkx1VIofIBxGXaeOmEYp9gw8eQbEkyeG3BMj8FzIV3npD6HMH3CnPLPWlGpUCs&sa=X&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQxKsJegQIHBAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hyacinth+flowers&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d0cdZ5RSnXmyZGDVCbHG77BrOflHv_EkDINMGzg-pgmYy_hTnJl1pqoYTE7roV1dWP4VDmGlQAGXU-IaGqGkjSQIUjEGhBkkx1VIofIBxGXaeOmEYp9gw8eQbEkyeG3BMj8FzIV3npD6HMH3CnPLPWlGpUCs"
+    },
+    {
+      "name": "Tree",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dCkH7jUOA-VsrzXzgx3zlfKsK1oCbpVYoXP2X8g4uZj-9tuJpT68KbCRUiJG1m7LdRhOUDjguMZxYDY4i4gamk4yUgkm6FBMwA1ZKDaIAVOSWnCGSTlLC6yEr0AKONu_RnUeH5w",
+        "q": "Hyacinth tree"
+      },
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Hyacinth+tree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dCkH7jUOA-VsrzXzgx3zlfKsK1oCbpVYoXP2X8g4uZj-9tuJpT68KbCRUiJG1m7LdRhOUDjguMZxYDY4i4gamk4yUgkm6FBMwA1ZKDaIAVOSWnCGSTlLC6yEr0AKONu_RnUeH5w&sa=X&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQxKsJegQIGRAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hyacinth+tree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dCkH7jUOA-VsrzXzgx3zlfKsK1oCbpVYoXP2X8g4uZj-9tuJpT68KbCRUiJG1m7LdRhOUDjguMZxYDY4i4gamk4yUgkm6FBMwA1ZKDaIAVOSWnCGSTlLC6yEr0AKONu_RnUeH5w"
+    },
+    {
+      "name": "Color",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dFkBLZ55gGyeTF3ustRBQs-55YD5wNViYVUrF1aLCl6fZiBN24lVsvR4KuZFGvz4wjjAa85TleioLzhJbg0F_fEVrKym2OlxAdHIXxLnUH1eZf3p5YTLzg5N5pou8JHjjvQaiBQ",
+        "q": "Hyacinth color"
+      },
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Hyacinth+color&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dFkBLZ55gGyeTF3ustRBQs-55YD5wNViYVUrF1aLCl6fZiBN24lVsvR4KuZFGvz4wjjAa85TleioLzhJbg0F_fEVrKym2OlxAdHIXxLnUH1eZf3p5YTLzg5N5pou8JHjjvQaiBQ&sa=X&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQxKsJegQIaBAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hyacinth+color&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dFkBLZ55gGyeTF3ustRBQs-55YD5wNViYVUrF1aLCl6fZiBN24lVsvR4KuZFGvz4wjjAa85TleioLzhJbg0F_fEVrKym2OlxAdHIXxLnUH1eZf3p5YTLzg5N5pou8JHjjvQaiBQ"
+    },
+    {
+      "name": "Plant",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dFkBLZ55gGyeTF3ustRBQs6smjqNQeYEl_WaZe1S5Q-A4FUJlIYeESJ9aMkAOOZPlTtccKiaCdKOKypQKIqoAZWCVcEj_fNO7pL5FkKY9c48IeowC7insb8_PD4gn_zUUAQCctA",
+        "q": "Hyacinth plant"
+      },
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Hyacinth+plant&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dFkBLZ55gGyeTF3ustRBQs6smjqNQeYEl_WaZe1S5Q-A4FUJlIYeESJ9aMkAOOZPlTtccKiaCdKOKypQKIqoAZWCVcEj_fNO7pL5FkKY9c48IeowC7insb8_PD4gn_zUUAQCctA&sa=X&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQxKsJegQIahAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hyacinth+plant&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dFkBLZ55gGyeTF3ustRBQs6smjqNQeYEl_WaZe1S5Q-A4FUJlIYeESJ9aMkAOOZPlTtccKiaCdKOKypQKIqoAZWCVcEj_fNO7pL5FkKY9c48IeowC7insb8_PD4gn_zUUAQCctA"
+    },
+    {
+      "name": "In water",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGT4i0lU3JmyXRR-PNOenO2RK7pyS4ZhmcPUErGjxCL_gWE2n8ujFZ4v26geNsQSxEC7ILc5REXVks2OajDbrl3gF1_dXD2rp8MkKJe6XXDfvQyRnOS7HrbTs7RJKvJ3jy8Ib1JI",
+        "q": "Hyacinth in water"
+      },
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Hyacinth+in+water&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGT4i0lU3JmyXRR-PNOenO2RK7pyS4ZhmcPUErGjxCL_gWE2n8ujFZ4v26geNsQSxEC7ILc5REXVks2OajDbrl3gF1_dXD2rp8MkKJe6XXDfvQyRnOS7HrbTs7RJKvJ3jy8Ib1JI&sa=X&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQxKsJegQIbBAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hyacinth+in+water&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dYbXxNX2IpHxlJlmeQucMGT4i0lU3JmyXRR-PNOenO2RK7pyS4ZhmcPUErGjxCL_gWE2n8ujFZ4v26geNsQSxEC7ILc5REXVks2OajDbrl3gF1_dXD2rp8MkKJe6XXDfvQyRnOS7HrbTs7RJKvJ3jy8Ib1JI"
+    },
+    {
+      "name": "Smell",
+      "parameters": {
+        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dFkBLZ55gGyeTF3ustRBQs6smjqNQeYEl_WaZe1S5Q-ANs6X_4ilmPBBQmr7Kfi6ixk1JUzmjnJV8iJ-3M0_dGzzKnpm5TmR6SDnwMBGyBeuVAWMPVzrE4bsHCG_K6Y27U2IAxw",
+        "q": "Hyacinth smell"
+      },
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Hyacinth+smell&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dFkBLZ55gGyeTF3ustRBQs6smjqNQeYEl_WaZe1S5Q-ANs6X_4ilmPBBQmr7Kfi6ixk1JUzmjnJV8iJ-3M0_dGzzKnpm5TmR6SDnwMBGyBeuVAWMPVzrE4bsHCG_K6Y27U2IAxw&sa=X&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQxKsJegQIaRAB&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hyacinth+smell&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dFkBLZ55gGyeTF3ustRBQs6smjqNQeYEl_WaZe1S5Q-ANs6X_4ilmPBBQmr7Kfi6ixk1JUzmjnJV8iJ-3M0_dGzzKnpm5TmR6SDnwMBGyBeuVAWMPVzrE4bsHCG_K6Y27U2IAxw"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Hyacinth pronunciation",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Hyacinth+pronunciation&sa=X&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQ1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hyacinth+pronunciation"
+    },
+    {
+      "block_position": 1,
+      "query": "Hyacinth bulb",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Hyacinth+bulb&sa=X&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQ1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hyacinth+bulb"
+    },
+    {
+      "block_position": 1,
+      "query": "Hyacinth in water",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Hyacinth+in+water&sa=X&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQ1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hyacinth+in+water"
+    },
+    {
+      "block_position": 1,
+      "query": "Hyacinth color",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Hyacinth+color&sa=X&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQ1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hyacinth+color"
+    },
+    {
+      "block_position": 1,
+      "query": "Hyacinth myth",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Hyacinth+myth&sa=X&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hyacinth+myth"
+    },
+    {
+      "block_position": 1,
+      "query": "Hyacinth tree",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Hyacinth+tree&sa=X&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hyacinth+tree"
+    },
+    {
+      "block_position": 1,
+      "query": "Hyacinth symbolism",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Hyacinth+symbolism&sa=X&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hyacinth+symbolism"
+    },
+    {
+      "block_position": 1,
+      "query": "Hyacinth Blue",
+      "link": "https://www.google.com/search?sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&q=Hyacinth+Blue&sa=X&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Hyacinth+Blue"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=hyacinth&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=CBcKZ-vHHrSuur8PuKHygQY&start=10&sa=N&sstk=Aagrsuhybjwh1pvYj5bNCOX6ZNpHNcrGPIJ7P0SUyGKdYFiyFv8Xs8SAWXzWjqb-swn8miW5-xwN6j7FJHYknJfHjp11rzlwAbJiiQ&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQ8NMDegQIBxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=hyacinth&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=CBcKZ-vHHrSuur8PuKHygQY&start=10&sa=N&sstk=Aagrsuhybjwh1pvYj5bNCOX6ZNpHNcrGPIJ7P0SUyGKdYFiyFv8Xs8SAWXzWjqb-swn8miW5-xwN6j7FJHYknJfHjp11rzlwAbJiiQ&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQ8tMDegQIBxAE",
+      "3": "https://www.google.com/search?q=hyacinth&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=CBcKZ-vHHrSuur8PuKHygQY&start=20&sa=N&sstk=Aagrsuhybjwh1pvYj5bNCOX6ZNpHNcrGPIJ7P0SUyGKdYFiyFv8Xs8SAWXzWjqb-swn8miW5-xwN6j7FJHYknJfHjp11rzlwAbJiiQ&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQ8tMDegQIBxAG",
+      "4": "https://www.google.com/search?q=hyacinth&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=CBcKZ-vHHrSuur8PuKHygQY&start=30&sa=N&sstk=Aagrsuhybjwh1pvYj5bNCOX6ZNpHNcrGPIJ7P0SUyGKdYFiyFv8Xs8SAWXzWjqb-swn8miW5-xwN6j7FJHYknJfHjp11rzlwAbJiiQ&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQ8tMDegQIBxAI",
+      "5": "https://www.google.com/search?q=hyacinth&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=CBcKZ-vHHrSuur8PuKHygQY&start=40&sa=N&sstk=Aagrsuhybjwh1pvYj5bNCOX6ZNpHNcrGPIJ7P0SUyGKdYFiyFv8Xs8SAWXzWjqb-swn8miW5-xwN6j7FJHYknJfHjp11rzlwAbJiiQ&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQ8tMDegQIBxAK",
+      "6": "https://www.google.com/search?q=hyacinth&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=CBcKZ-vHHrSuur8PuKHygQY&start=50&sa=N&sstk=Aagrsuhybjwh1pvYj5bNCOX6ZNpHNcrGPIJ7P0SUyGKdYFiyFv8Xs8SAWXzWjqb-swn8miW5-xwN6j7FJHYknJfHjp11rzlwAbJiiQ&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQ8tMDegQIBxAM",
+      "7": "https://www.google.com/search?q=hyacinth&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=CBcKZ-vHHrSuur8PuKHygQY&start=60&sa=N&sstk=Aagrsuhybjwh1pvYj5bNCOX6ZNpHNcrGPIJ7P0SUyGKdYFiyFv8Xs8SAWXzWjqb-swn8miW5-xwN6j7FJHYknJfHjp11rzlwAbJiiQ&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQ8tMDegQIBxAO",
+      "8": "https://www.google.com/search?q=hyacinth&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=CBcKZ-vHHrSuur8PuKHygQY&start=70&sa=N&sstk=Aagrsuhybjwh1pvYj5bNCOX6ZNpHNcrGPIJ7P0SUyGKdYFiyFv8Xs8SAWXzWjqb-swn8miW5-xwN6j7FJHYknJfHjp11rzlwAbJiiQ&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQ8tMDegQIBxAQ",
+      "9": "https://www.google.com/search?q=hyacinth&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=CBcKZ-vHHrSuur8PuKHygQY&start=80&sa=N&sstk=Aagrsuhybjwh1pvYj5bNCOX6ZNpHNcrGPIJ7P0SUyGKdYFiyFv8Xs8SAWXzWjqb-swn8miW5-xwN6j7FJHYknJfHjp11rzlwAbJiiQ&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQ8tMDegQIBxAS",
+      "10": "https://www.google.com/search?q=hyacinth&sca_esv=1dddcc5dd45c9b12&hl=en&gl=us&ei=CBcKZ-vHHrSuur8PuKHygQY&start=90&sa=N&sstk=Aagrsuhybjwh1pvYj5bNCOX6ZNpHNcrGPIJ7P0SUyGKdYFiyFv8Xs8SAWXzWjqb-swn8miW5-xwN6j7FJHYknJfHjp11rzlwAbJiiQ&ved=2ahUKEwjr69Wvm4iJAxU0l-4BHbiQPGAQ8tMDegQIBxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hyacinth&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hyacinth&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hyacinth&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hyacinth&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hyacinth&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hyacinth&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hyacinth&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hyacinth&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hyacinth&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hyacinth&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=hyacinth&start=90"
+    }
+  }
+}

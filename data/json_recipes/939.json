@@ -1,0 +1,776 @@
+{
+  "search_metadata": {
+    "id": "670a30ba0197ddbdbb0f1dc0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/689fe9b7c3747266/670a30ba0197ddbdbb0f1dc0.json",
+    "created_at": "2024-10-12 08:18:02 UTC",
+    "processed_at": "2024-10-12 08:18:02 UTC",
+    "google_url": "https://www.google.com/search?q=greenthread+tea&oq=greenthread+tea&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/689fe9b7c3747266/670a30ba0197ddbdbb0f1dc0.html",
+    "total_time_taken": 2.4
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "greenthread tea",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "greenthread tea",
+    "total_results": 80100,
+    "time_taken_displayed": 0.33,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "bottom",
+      "title": "Greenthread Tea | As fast as One-Day with Prime",
+      "link": "https://www.amazon.com/s/?ie=UTF8&keywords=greenthread+tea&tag=googhydr-20&index=aps&hvadid=178364409333&hvpos=&hvnetw=g&hvrand=1234567890&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=&hvtargid=&ref=pd_sl_6zib21omaq_e",
+      "displayed_link": "https://www.amazon.com \u203a shop \u203a greenthread+tea",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChcSEwiuqZHxs4iJAxWvaUcBHdxvKoUYABADGgJxdQ&co=1&ase=2&gclid=EAIaIQobChMIrqmR8bOIiQMVr2lHAR3cbyqFEAMYASAAEgKwDfD_BwE&sig=AOD64_3zovJ34TFHyj6RGuzEz09YNKmg2w&q&nis=4&adurl",
+      "rating": 4.5,
+      "extensions": [
+        "Rating for amazon.com: 4.5 - 3,994 reviews"
+      ],
+      "reviews": 3994,
+      "source": "Amazon.com",
+      "sitelinks": [
+        {
+          "title": "Cooking & Basics",
+          "link": "https://www.amazon.com/b/?ie=UTF8&node=16310221&ext=7051-38115&ref=%7B_hydref%7D&tag=%7B_hydtag%7D&hvpos=%7Badposition%7D&hvnetw=%7Bnetwork%7D&hvrand=%7Brandom%7D&hvpone=%7Bparam1%7D&hvptwo=%7Bparam2%7D&hvqmt=%7Bmatchtype%7D&hvdev=%7Bdevice%7D&hvdvcmdl=%7Bdevicemodel%7D&hvlocint=%7Bloc_interest_ms%7D&hvlocphy=%7Bloc_physical_ms%7D&hvtargid=%7Btargetid%7D"
+        },
+        {
+          "title": "Coffee",
+          "link": "https://www.amazon.com/b/?ie=UTF8&node=16318031&ext=7051-38113&ref=%7B_hydref%7D&tag=%7B_hydtag%7D&hvpos=%7Badposition%7D&hvnetw=%7Bnetwork%7D&hvrand=%7Brandom%7D&hvpone=%7Bparam1%7D&hvptwo=%7Bparam2%7D&hvqmt=%7Bmatchtype%7D&hvdev=%7Bdevice%7D&hvdvcmdl=%7Bdevicemodel%7D&hvlocint=%7Bloc_interest_ms%7D&hvlocphy=%7Bloc_physical_ms%7D&hvtargid=%7Btargetid%7D"
+        },
+        {
+          "title": "Amazon Fresh",
+          "link": "https://www.amazon.com/b/?ie=UTF8&node=10329849011&ext=7051-38108&ref=%7B_hydref%7D&tag=%7B_hydtag%7D&hvpos=%7Badposition%7D&hvnetw=%7Bnetwork%7D&hvrand=%7Brandom%7D&hvpone=%7Bparam1%7D&hvptwo=%7Bparam2%7D&hvqmt=%7Bmatchtype%7D&hvdev=%7Bdevice%7D&hvdvcmdl=%7Bdevicemodel%7D&hvlocint=%7Bloc_interest_ms%7D&hvlocphy=%7Bloc_physical_ms%7D&hvtargid=%7Btargetid%7D"
+        },
+        {
+          "title": "International Food Market",
+          "link": "https://www.amazon.com/b/?ie=UTF8&node=17428419011&ext=7051-38112&ref=%7B_hydref%7D&tag=%7B_hydtag%7D&hvpos=%7Badposition%7D&hvnetw=%7Bnetwork%7D&hvrand=%7Brandom%7D&hvpone=%7Bparam1%7D&hvptwo=%7Bparam2%7D&hvqmt=%7Bmatchtype%7D&hvdev=%7Bdevice%7D&hvdvcmdl=%7Bdevicemodel%7D&hvlocint=%7Bloc_interest_ms%7D&hvlocphy=%7Bloc_physical_ms%7D&hvtargid=%7Btargetid%7D"
+        },
+        {
+          "title": "Grocery Deals",
+          "link": "https://www.amazon.com/b/?ie=UTF8&node=52129011&ext=7051-38110&ref=%7B_hydref%7D&tag=%7B_hydtag%7D&hvpos=%7Badposition%7D&hvnetw=%7Bnetwork%7D&hvrand=%7Brandom%7D&hvpone=%7Bparam1%7D&hvptwo=%7Bparam2%7D&hvqmt=%7Bmatchtype%7D&hvdev=%7Bdevice%7D&hvdvcmdl=%7Bdevicemodel%7D&hvlocint=%7Bloc_interest_ms%7D&hvlocphy=%7Bloc_physical_ms%7D&hvtargid=%7Btargetid%7D"
+        }
+      ]
+    }
+  ],
+  "shopping_results": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Cota-Navajo Tea-Hopi-Greenthread-Taos NM",
+      "price": "$11.95",
+      "extracted_price": 11.95,
+      "link": "https://www.etsy.com/listing/1504440990/cota-navajo-tea-hopi-greenthread-taos-nm?gpla=1&gao=1&",
+      "source": "Etsy",
+      "rating": 5.0,
+      "reviews": 12,
+      "reviews_original": "12",
+      "thumbnail": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/d9fb9afa2638ee9f6f52b3300c0a5453233b51a394714425323e442059c563df.webp",
+      "extensions": [
+        "Bag",
+        "Unsweetened",
+        "Red"
+      ]
+    },
+    {
+      "position": 2,
+      "block_position": "top",
+      "title": "HealinGifts Cota Indian Tea Greenthread Thelesperma cut 1 ounce",
+      "price": "$11.95",
+      "extracted_price": 11.95,
+      "link": "https://www.amazon.com/HealinGifts-Indian-Greenthread-Thelesperma-ounce/dp/B0B4RYM3PM?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2WMS2Y3PHB2VI",
+      "source": "Amazon.com",
+      "thumbnail": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/d9fb9afa2638ee9f6f52b3300c0a5453d0a368d6a35233a7539ce4a1143a273a.webp",
+      "extensions": [
+        "Tea",
+        "Greenthread",
+        "Bag",
+        "Unsweetened"
+      ]
+    },
+    {
+      "position": 3,
+      "block_position": "top",
+      "title": "Dried Navajo Tea - Certified Organic, Greenthread, Medicinal, Herbalism, Supplement, Dried Herb, Herbal Tea, Hopi Tea, Indian Tea, Southwest",
+      "price": "$2.99",
+      "extracted_price": 2.99,
+      "link": "https://www.etsy.com/listing/722180727/dried-navajo-tea-certified-organic?gpla=1&gao=1&",
+      "source": "Etsy",
+      "thumbnail": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/d9fb9afa2638ee9f6f52b3300c0a5453f165ee8a9020dd314dbedd6234d94e68.webp",
+      "extensions": [
+        "Tea",
+        "Greenthread",
+        "Herbal",
+        "Energy"
+      ]
+    }
+  ],
+  "knowledge_graph": {
+    "title": "Navajo tea",
+    "type": "Food",
+    "entity_type": "food, kp3_verticals",
+    "kgmid": "/g/11rgcdx45d",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11rgcdx45d&hl=en-US&q=Navajo+tea",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F11rgcdx45d&location=Austin%2CTexas%2CUnited+States&q=Navajo+tea",
+    "cite_name": "Greenthread - Grand Prismatic Seed",
+    "cite_link": "https://www.grandprismaticseed.com/dye-plants/navajo-tea#:~:text=Greenthread%2C%20also%20known%20as%20Navajo,throughout%20North%20America%20for%20generations.",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/c740f1ac5a67dd5a8519c970db8deb3e623893a1851b5f0e828384b4f161497e1c24393e0350dbbd.jpeg",
+        "source": "https://www.npr.org/sections/thesalt/2017/08/29/546817827/for-navajos-desert-tea-fosters-kinship-with-heritage-and-nature"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/c740f1ac5a67dd5a8519c970db8deb3e623893a1851b5f0ee297c11d45d77842c3ef2acce5288651.jpeg",
+        "source": "http://www.itmonline.org/arts/greenthread.htm"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/c740f1ac5a67dd5a8519c970db8deb3e623893a1851b5f0eaff250c6503b1ad220b946a6b8372f99.jpeg",
+        "source": "http://www.eldoradowindyfarm.com/SFBG-ethnonavajotea.html"
+      }
+    ],
+    "description": "Greenthread, also known as Navajo Tea, is a beautiful North American native wildflower that attracts small native bees, and makes the most delicious herbal tea. Many species within the genus Thelesperma have been used by indigenous groups throughout North America for generations."
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=greenthread+tea&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=4QJ5ZBxVdTDwAM%252CMoNuYIj4RWSQfM%252C%252Fg%252F11rgcdx45d%253Bgi_hkmbwGAYcSM%252CfuXQ2Jntnyep9M%252C_%253B6MO_0IRJK5D5yM%252C_d5sQTluoYcIdM%252C_&usg=AI4_-kSZZVlxZh376-eJTjGrTGEvqbcsPA&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQ_B16BAhJEAE#vhid=4QJ5ZBxVdTDwAM&vssid=mosaic",
+      "source": "https://www.npr.org/sections/thesalt/2017/08/29/546817827/for-navajos-desert-tea-fosters-kinship-with-heritage-and-nature",
+      "thumbnail": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/69c7722efd9ceba9bb8c7ad24f95ee6304441a12ef7ac2783a19295b01d1de39.jpeg",
+      "original": "https://media.npr.org/assets/img/2017/08/29/teaadacowan-2_custom-800a845c0a848e086e8d6579bf6aaa3af7035dcc.jpg",
+      "title": "media.npr.org/assets/img/2017/08/29/teaadacowan-2_...",
+      "source_name": "www.npr.org"
+    },
+    {
+      "link": "https://www.google.com/search?q=greenthread+tea&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=4QJ5ZBxVdTDwAM%252CMoNuYIj4RWSQfM%252C_%253Bgi_hkmbwGAYcSM%252CfuXQ2Jntnyep9M%252C_%253B6MO_0IRJK5D5yM%252C_d5sQTluoYcIdM%252C_&usg=AI4_-kRz3Fufz7md7AJYySvTa3DRjtcR1A&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQ_h16BAhKEAE#vhid=gi_hkmbwGAYcSM&vssid=mosaic",
+      "source": "http://www.itmonline.org/arts/greenthread.htm",
+      "thumbnail": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/69c7722efd9ceba9b805bdc3d3571d80d296c37941da6789c61d01301732b6e0.jpeg",
+      "original": "http://www.itmonline.org/image/green1.jpg",
+      "title": "Greenthread: Navajo-Hopi Tea -- A Relative of the Herb ...",
+      "source_name": "Institute for Traditional Medicine"
+    },
+    {
+      "link": "https://www.google.com/search?q=greenthread+tea&sca_esv=7d18109a394306ad&udm=2&source=iu&ictx=1&vet=1&fir=4QJ5ZBxVdTDwAM%252CMoNuYIj4RWSQfM%252C_%253Bgi_hkmbwGAYcSM%252CfuXQ2Jntnyep9M%252C_%253B6MO_0IRJK5D5yM%252C_d5sQTluoYcIdM%252C_&usg=AI4_-kRz3Fufz7md7AJYySvTa3DRjtcR1A&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQ_h16BAhIEAE#vhid=6MO_0IRJK5D5yM&vssid=mosaic",
+      "source": "http://www.eldoradowindyfarm.com/SFBG-ethnonavajotea.html",
+      "thumbnail": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/69c7722efd9ceba946d1d1201f2b2a4893f1475b3909f55959575165ac893b44.jpeg",
+      "original": "http://www.eldoradowindyfarm.com/Pics/1sfbg-navajoteaplflos.jpg",
+      "title": "SFBG ethno Navajo Tea - Thelesperma megapotamicum",
+      "source_name": "Eldorado Windy Farm"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRQHtWcymcUsG2fcb7A5_uX56KBr1DrW3ZfuKDk6xKUmH7xRY5_Sgn2XhyoRoTnrP9hcnR2qZhLnVCr5EyikNFDDWeBBc7egisPr9iCDUoWPNoICBLW1ncU",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+      "source": "Amazon.com - Seller",
+      "title": "HealinGifts Cota Indian Tea",
+      "price": "$11.95",
+      "extracted_price": 11.95,
+      "immersive_product_page_token": "eyJlaSI6InZEQUtaLXJQQ2JUajVOb1BtdS1ldUFFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODc5NTY2OTkxMzI0Njk1NjExOCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQzOTA2NDEwMjA2NTMwMzY2NDYiLCJpbWFnZURvY2lkIjoiNjY0MDMyMTQ5NjA2OTgwNTM5MyIsInJkcyI6IiIsInF1ZXJ5IjoiZ3JlZW50aHJlYWQrdGVhIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InZEQUtaLXJQQ2JUajVOb1BtdS1ldUFFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODc5NTY2OTkxMzI0Njk1NjExOCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQzOTA2NDEwMjA2NTMwMzY2NDYiLCJpbWFnZURvY2lkIjoiNjY0MDMyMTQ5NjA2OTgwNTM5MyIsInJkcyI6IiIsInF1ZXJ5IjoiZ3JlZW50aHJlYWQrdGVhIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTfErJzNnI8kbwoHRTR47jpIAWrVOgzCe69lHfsBwqo9H_mZOAr8e-Zj1PhOudWJcKZlQbKfn2cVvQ13a0tzUzY0jcpMpcG7glvr_XMw6r_DBoVr6RAMQ",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ7yF2nUIHtJ_oENS5PRv8rXIc8-NTtbpdhwTxDz6ZFgChQ-FNov7OBb7VrnYqHxG7C2hVMLKCJjeIPGiCSeIaM3KlbgUwg4g",
+      "source": "navajofizz.com",
+      "title": "Navajo Greenthread Tea",
+      "price": "$2.49",
+      "extracted_price": 2.49,
+      "immersive_product_page_token": "eyJlaSI6InZEQUtaLXJQQ2JUajVOb1BtdS1ldUFFIiwicHJvZHVjdGlkIjoiMTczODE5NzEwNTk1NjU0MjMzMzciLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MzgxOTcxMDU5NTY1NDIzMzM3IiwiaW1hZ2VEb2NpZCI6IjI1MjU4ODk0OTI0OTI5NDMyNDMiLCJyZHMiOiIiLCJxdWVyeSI6ImdyZWVudGhyZWFkK3RlYSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InZEQUtaLXJQQ2JUajVOb1BtdS1ldUFFIiwicHJvZHVjdGlkIjoiMTczODE5NzEwNTk1NjU0MjMzMzciLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MzgxOTcxMDU5NTY1NDIzMzM3IiwiaW1hZ2VEb2NpZCI6IjI1MjU4ODk0OTI0OTI5NDMyNDMiLCJyZHMiOiIiLCJxdWVyeSI6ImdyZWVudGhyZWFkK3RlYSJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRry76d0lk3MwVCMjVsezD50LJizaxD_iJC6qWTpdqhfdGjXZZKqMu_S3gukkn58g9ElBoth-ck2QJabNXPWtcdXMdjqyVV8G0prd6xn5KvaYmaObHCCy5M",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart - Healingifts Herbs and Healing",
+      "title": "HealinGifts Cota Indian Tea Greenthread Thelesperma Yabanah",
+      "rating": 1.0,
+      "reviews": 1,
+      "price": "$24.00",
+      "extracted_price": 24.0,
+      "immersive_product_page_token": "eyJlaSI6InZEQUtaLXJQQ2JUajVOb1BtdS1ldUFFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY2MTk3MjM5OTY1MTk1MjEwMTciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE4MDcyNTYwMTI5NDAxMjY4NTg4IiwiaW1hZ2VEb2NpZCI6IjIwNDU5MTMwNTMzMTIzODIyMTgiLCJyZHMiOiJQQ18xMjI4NTk1OTA0OTA5NTc0MTIwfFBST0RfUENfMTIyODU5NTkwNDkwOTU3NDEyMCIsInF1ZXJ5IjoiZ3JlZW50aHJlYWQrdGVhIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InZEQUtaLXJQQ2JUajVOb1BtdS1ldUFFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY2MTk3MjM5OTY1MTk1MjEwMTciLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE4MDcyNTYwMTI5NDAxMjY4NTg4IiwiaW1hZ2VEb2NpZCI6IjIwNDU5MTMwNTMzMTIzODIyMTgiLCJyZHMiOiJQQ18xMjI4NTk1OTA0OTA5NTc0MTIwfFBST0RfUENfMTIyODU5NTkwNDkwOTU3NDEyMCIsInF1ZXJ5IjoiZ3JlZW50aHJlYWQrdGVhIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRUrYOuyS4w-WNfzxBGIAoYz-XQXNd1Fn59zeH3VwuY-zB6esH4l8JRy4EvoMW0l0nHao9aMWhaDjec_QyIWDCrWDzGi747DQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS2z0OEdzOwawFK0V97twQOuTlbrkgoasaXw5LYQUWMiyLRfE8GggiOHifUkBlnmApPmKWP6gPZdMCW_nOyJuqo_cpxvfEg1RoXuc543A",
+      "source": "Terroir Seeds | Underwood Gardens",
+      "title": "Navajo/Hopi Tea (Greenthread) Seeds - (Thelesperma filifolium)",
+      "price": "$3.75",
+      "extracted_price": 3.75,
+      "immersive_product_page_token": "eyJlaSI6InZEQUtaLXJQQ2JUajVOb1BtdS1ldUFFIiwicHJvZHVjdGlkIjoiMzA3MDM1MDI3NjY4NDEzMTExOCIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzA3MDM1MDI3NjY4NDEzMTExOCIsImltYWdlRG9jaWQiOiIxMDUyNzEwNTUwNjc3ODI0MjA0MyIsInJkcyI6IiIsInF1ZXJ5IjoiZ3JlZW50aHJlYWQrdGVhIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InZEQUtaLXJQQ2JUajVOb1BtdS1ldUFFIiwicHJvZHVjdGlkIjoiMzA3MDM1MDI3NjY4NDEzMTExOCIsImNhdGFsb2dpZCI6IiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzA3MDM1MDI3NjY4NDEzMTExOCIsImltYWdlRG9jaWQiOiIxMDUyNzEwNTUwNjc3ODI0MjA0MyIsInJkcyI6IiIsInF1ZXJ5IjoiZ3JlZW50aHJlYWQrdGVhIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSjlZtDJSX8FivpRj8B32GY_glkt7mDA17LehM2x6iqD03hY2xK8gEeeoYeDjdnVvVb4093OZAxtQUzc7UIUK8zg86Pxo1FswMCHYR0R3Q6SNIUSLWZ2D0r9Q",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQLAJMwfylecWOVCZ7cgEXrUi54TW6zTo4ZJ-c7HrziXQvIeIFBwgI6vlWuD_ic7nzVMfBTmwJF56IJhTPcJJZnDwXINMj-",
+      "source": "ArtfulTea",
+      "title": "Navajo Tea Cota Wild Harvested 2 oz. Tin",
+      "price": "$20.00",
+      "extracted_price": 20.0,
+      "delivery": "Free $59+",
+      "immersive_product_page_token": "eyJlaSI6InZEQUtaLXJQQ2JUajVOb1BtdS1ldUFFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzA2ODQzMDM3ODkwMTkwMzUyOCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzM5MzgwMzU0ODI1NDg0OTA1NiIsImltYWdlRG9jaWQiOiIxMjc2Njg3ODUxNjgzMzcyNzE4NCIsInJkcyI6IiIsInF1ZXJ5IjoiZ3JlZW50aHJlYWQrdGVhIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InZEQUtaLXJQQ2JUajVOb1BtdS1ldUFFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzA2ODQzMDM3ODkwMTkwMzUyOCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzM5MzgwMzU0ODI1NDg0OTA1NiIsImltYWdlRG9jaWQiOiIxMjc2Njg3ODUxNjgzMzcyNzE4NCIsInJkcyI6IiIsInF1ZXJ5IjoiZ3JlZW50aHJlYWQrdGVhIn0%3D"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTfdGY2FIcRWWjjIQbjtH_yGwNuvv7UT7PRD5e3n9836qLX0Wk20j_8-bBvPZknm2i3xHy3ppZi0UjoTkbawiyubswQGwz9goiBkSuanEi_GQguKz7QOZVZ",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+      "source": "Amazon.com - Seller",
+      "title": "HealinGifts Cota Navajo Tea",
+      "price": "$45.00",
+      "extracted_price": 45.0,
+      "immersive_product_page_token": "eyJlaSI6InZEQUtaLXJQQ2JUajVOb1BtdS1ldUFFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTEwODg4OTU1NzUyNDA3OTYxNCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTk3MzIzMjQ0Mzc0NzA0MDA0IiwiaW1hZ2VEb2NpZCI6IjY4MjAzMDk5MjgwMjE5ODQyMDciLCJyZHMiOiIiLCJxdWVyeSI6ImdyZWVudGhyZWFkK3RlYSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InZEQUtaLXJQQ2JUajVOb1BtdS1ldUFFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTEwODg4OTU1NzUyNDA3OTYxNCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTk3MzIzMjQ0Mzc0NzA0MDA0IiwiaW1hZ2VEb2NpZCI6IjY4MjAzMDk5MjgwMjE5ODQyMDciLCJyZHMiOiIiLCJxdWVyeSI6ImdyZWVudGhyZWFkK3RlYSJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS3Xq9e49WZZMFFuCBfDhrRXSZcGEXdVCeHw98PByZ73ytxKnT62urAStEyHFhhl02W04ewWfNaX0drvPCnzC1Q0XLknU6OTUcb25EoPUYK",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTYfqmzSnx0Do3BKM6ByCxx7OguQGl0YUWNJAJwU09LrjxlAjjkJp7Ajx_wxeNJXrbzHNWWsoXg-2fEh8_5O9SzfP1WVX4",
+      "source": "Etsy - PurpleSageFarms",
+      "title": "Dried Navajo Tea - Certified Organic, Greenthread, Medicinal, Herbalism, Supplement, Dried Herb, Herbal Tea, Hopi Tea, Indian Tea, Southwest",
+      "price": "$2.99",
+      "extracted_price": 2.99,
+      "immersive_product_page_token": "eyJlaSI6InZEQUtaLXJQQ2JUajVOb1BtdS1ldUFFIiwicHJvZHVjdGlkIjoiMTQ3MDQ5NDczNDk1MTA0MzIzMTYiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0NzA0OTQ3MzQ5NTEwNDMyMzE2IiwiaW1hZ2VEb2NpZCI6IjY5NjE0MTU5NTE4Njk0NDExNTkiLCJyZHMiOiIiLCJxdWVyeSI6ImdyZWVudGhyZWFkK3RlYSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InZEQUtaLXJQQ2JUajVOb1BtdS1ldUFFIiwicHJvZHVjdGlkIjoiMTQ3MDQ5NDczNDk1MTA0MzIzMTYiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0NzA0OTQ3MzQ5NTEwNDMyMzE2IiwiaW1hZ2VEb2NpZCI6IjY5NjE0MTU5NTE4Njk0NDExNTkiLCJyZHMiOiIiLCJxdWVyeSI6ImdyZWVudGhyZWFkK3RlYSJ9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT8drgBYBrL2Cw_X0vX5Or9_4iLEPWCckw7kPiIb3EStcpECR1ZjHpE4vVdErU5a2NT5CFVO5RFwvJgejaQvilJzPMQiReWcmWa7Z5SejWAW5ijGw_rBlPQ",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRgnt5GSgCxfR3CmFyTRSNVsvv8MmG3E7mTuZYYrHKHRn-Z8iNIGP23RAFhlqfNdI7E2RVh-iy_b-S4ETxCX02p3Qc9UED1yd6lIC6iNyc2zkHRiAI",
+      "source": "Quintessence Incense",
+      "title": "Greenthread \"Navajo Tea\" Bundle",
+      "price": "$6.00",
+      "extracted_price": 6.0,
+      "immersive_product_page_token": "eyJlaSI6InZEQUtaLXJQQ2JUajVOb1BtdS1ldUFFIiwicHJvZHVjdGlkIjoiMTEzNTYzMDcyNTAxNDI2MjI2MzgiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExMzU2MzA3MjUwMTQyNjIyNjM4IiwiaW1hZ2VEb2NpZCI6IjY5OTE4NzY5MDY4NTUzNjg5MDgiLCJyZHMiOiIiLCJxdWVyeSI6ImdyZWVudGhyZWFkK3RlYSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InZEQUtaLXJQQ2JUajVOb1BtdS1ldUFFIiwicHJvZHVjdGlkIjoiMTEzNTYzMDcyNTAxNDI2MjI2MzgiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExMzU2MzA3MjUwMTQyNjIyNjM4IiwiaW1hZ2VEb2NpZCI6IjY5OTE4NzY5MDY4NTUzNjg5MDgiLCJyZHMiOiIiLCJxdWVyeSI6ImdyZWVudGhyZWFkK3RlYSJ9"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is greenthread tea good for?",
+      "snippet": "The plant is taken as a tea to relieve stomachaches and other digestive ailments. It is also used to reduce fevers, to treat kidney problems, to \u201cpurify the blood\u201d, against gonorrhea, as a vermifuge (to expel intestinal worms), as a stimulant for the nervous system, and applied as a mouthwash to reduce tooth pain.",
+      "title": "Cota - The University of Texas at El Paso",
+      "link": "https://www.utep.edu/herbal-safety/herbal-facts/herbal%20facts%20sheet/cota.html#:~:text=The%20plant%20is%20taken%20as,mouthwash%20to%20reduce%20tooth%20pain.",
+      "displayed_link": "https://www.utep.edu \u203a herbal-safety \u203a herbal-facts \u203a cota",
+      "source_logo": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/286bd0035336770ed0e7d89fb493874ba1fcf3e1b1120d59288227c2537d3379.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVdFWjBaVEpOVVVkamQxbE5hV3N0VURabWRXNVFRME56VUd0NGExaDJjV05TWkhJeVVrTXpWalV6UzBaeFJHdFZaekpWWjFWWU1uRjNOVlYxTFVOQmJGVTNPWEJORWhkMlJFRkxXaTF5VUVOaVZHbzFUbTlRYlhVdFpYVkJSUm9pUVVaWWNrVmpiM1kwYVZjeGFWUm1TRUZpV2tOVmMwOXBOSEJVWWxCVFZFcG9adyIsImZjdiI6IjMiLCJlaSI6InZEQUtaLXJQQ2JUajVOb1BtdS1ldUFFIiwicWMiOiJDZzluY21WbGJuUm9jbVZoWkNCMFpXRVFBSDJvYlJvXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBncmVlbnRocmVhZCB0ZWEgZ29vZCBmb3I/IiwibGsiOiJHaUIzYUdGMElHbHpJR2R5WldWdWRHaHlaV0ZrSUhSbFlTQm5iMjlrSUdadmNnIiwiYnMiOiJjLVB5NGxJTXowZ3NVY2dzVmtndlNrM05LOGtvU2sxTVVTaEpUVlJJejg5UFVVakxMN0tYZUs1bnBDU2xVRTVBSFpjRGx3ek1MTF9Fc3NTc2ZEUmpYc1FieVVwSnc0ekp3MVRDNWMybDdKRmZycEJibXB5aGtKeVlscGFhbVpjS1VwdVpoMlNpdlVTamc1R2lsSHdHcHNvOEpGTzVBcmhVc0Rnbk9URW5KelVGWWFLOXhKWTBJMVVwWlN6T1FpaUZDQW93QWdBIiwiaWQiOiJmY192REFLWi1yUENiVGo1Tm9QbXUtZXVBRV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVdFWjBaVEpOVVVkamQxbE5hV3N0VURabWRXNVFRME56VUd0NGExaDJjV05TWkhJeVVrTXpWalV6UzBaeFJHdFZaekpWWjFWWU1uRjNOVlYxTFVOQmJGVTNPWEJORWhkMlJFRkxXaTF5VUVOaVZHbzFUbTlRYlhVdFpYVkJSUm9pUVVaWWNrVmpiM1kwYVZjeGFWUm1TRUZpV2tOVmMwOXBOSEJVWWxCVFZFcG9adyIsImZjdiI6IjMiLCJlaSI6InZEQUtaLXJQQ2JUajVOb1BtdS1ldUFFIiwicWMiOiJDZzluY21WbGJuUm9jbVZoWkNCMFpXRVFBSDJvYlJvXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBncmVlbnRocmVhZCB0ZWEgZ29vZCBmb3I%2FIiwibGsiOiJHaUIzYUdGMElHbHpJR2R5WldWdWRHaHlaV0ZrSUhSbFlTQm5iMjlrSUdadmNnIiwiYnMiOiJjLVB5NGxJTXowZ3NVY2dzVmtndlNrM05LOGtvU2sxTVVTaEpUVlJJejg5UFVVakxMN0tYZUs1bnBDU2xVRTVBSFpjRGx3ek1MTF9Fc3NTc2ZEUmpYc1FieVVwSnc0ekp3MVRDNWMybDdKRmZycEJibXB5aGtKeVlscGFhbVpjS1VwdVpoMlNpdlVTamc1R2lsSHdHcHNvOEpGTzVBcmhVc0Rnbk9URW5KelVGWWFLOXhKWTBJMVVwWlN6T1FpaUZDQW93QWdBIiwiaWQiOiJmY192REFLWi1yUENiVGo1Tm9QbXUtZXVBRV8xIn0%3D"
+    },
+    {
+      "question": "What is Navajo tea good for?",
+      "snippet": "Navajo Tea, also known as D\u00e9\u00e9h is a plant that helps us in many different ways. Here are 3 things that we can benefit from D\u00e9\u00e9h. Alleviate joint pain \u25cf Calm upset stomachs \u25cf Promote healthy kidney function #IBepowerful #selfcare #navajotea.",
+      "title": "How does Navajo Tea help us?... - Iina Bihoo'aah Program - Facebook",
+      "date": "Oct 2, 2023",
+      "link": "https://www.facebook.com/iinabihooaah/posts/how-does-navajo-tea-help-us-great-question-well-first-off-this-plant-grows-very-/624425356518148/#:~:text=Navajo%20Tea%2C%20also%20known%20as,we%20can%20benefit%20from%20D%C3%A9%C3%A9h.&text=Alleviate%20joint%20pain%20%E2%97%8F%20Calm,function%20%23IBepowerful%20%23selfcare%20%23navajotea",
+      "displayed_link": "https://www.facebook.com \u203a iinabihooaah \u203a posts \u203a how...",
+      "source_logo": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/286bd0035336770ed0e7d89fb493874bed9d743131fcd850bfed9b4b801ffc53.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVdFWjBaVEpOVVVkamQxbE5hV3N0VURabWRXNVFRME56VUd0NGExaDJjV05TWkhJeVVrTXpWalV6UzBaeFJHdFZaekpWWjFWWU1uRjNOVlYxTFVOQmJGVTNPWEJORWhkMlJFRkxXaTF5VUVOaVZHbzFUbTlRYlhVdFpYVkJSUm9pUVVaWWNrVmpiM1kwYVZjeGFWUm1TRUZpV2tOVmMwOXBOSEJVWWxCVFZFcG9adyIsImZjdiI6IjMiLCJlaSI6InZEQUtaLXJQQ2JUajVOb1BtdS1ldUFFIiwicWMiOiJDZzluY21WbGJuUm9jbVZoWkNCMFpXRVFBSDJvYlJvXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBOYXZham8gdGVhIGdvb2QgZm9yPyIsImxrIjoiR2h0M2FHRjBJR2x6SUc1aGRtRnFieUIwWldFZ1oyOXZaQ0JtYjNJIiwiYnMiOiJjLVB5NGxJTXowZ3NVY2dzVmtndlNrM05LOGtvU2sxTVVTaEpUVlJJejg5UFVVakxMN0tYZUs1bnBDU2xVRTVBSFpjRGx3ek1MTF9Fc3NTc2ZEUmpYc1FieVVwSnc0ekp3MVRDNWMybDdKRmZycEJibXB5aGtKeVlscGFhbVpjS1VwdVpoMlNpdlVTamc1R2lsSHdHcHNvOEpGTzVBcmhVc0Rnbk9URW5KelVGWWFLOXhKWTBJMVVwWlN6T1FpaUZDQW93QWdBIiwiaWQiOiJmY192REFLWi1yUENiVGo1Tm9QbXUtZXVBRV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVdFWjBaVEpOVVVkamQxbE5hV3N0VURabWRXNVFRME56VUd0NGExaDJjV05TWkhJeVVrTXpWalV6UzBaeFJHdFZaekpWWjFWWU1uRjNOVlYxTFVOQmJGVTNPWEJORWhkMlJFRkxXaTF5VUVOaVZHbzFUbTlRYlhVdFpYVkJSUm9pUVVaWWNrVmpiM1kwYVZjeGFWUm1TRUZpV2tOVmMwOXBOSEJVWWxCVFZFcG9adyIsImZjdiI6IjMiLCJlaSI6InZEQUtaLXJQQ2JUajVOb1BtdS1ldUFFIiwicWMiOiJDZzluY21WbGJuUm9jbVZoWkNCMFpXRVFBSDJvYlJvXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBOYXZham8gdGVhIGdvb2QgZm9yPyIsImxrIjoiR2h0M2FHRjBJR2x6SUc1aGRtRnFieUIwWldFZ1oyOXZaQ0JtYjNJIiwiYnMiOiJjLVB5NGxJTXowZ3NVY2dzVmtndlNrM05LOGtvU2sxTVVTaEpUVlJJejg5UFVVakxMN0tYZUs1bnBDU2xVRTVBSFpjRGx3ek1MTF9Fc3NTc2ZEUmpYc1FieVVwSnc0ekp3MVRDNWMybDdKRmZycEJibXB5aGtKeVlscGFhbVpjS1VwdVpoMlNpdlVTamc1R2lsSHdHcHNvOEpGTzVBcmhVc0Rnbk9URW5KelVGWWFLOXhKWTBJMVVwWlN6T1FpaUZDQW93QWdBIiwiaWQiOiJmY192REFLWi1yUENiVGo1Tm9QbXUtZXVBRV8xIn0%3D"
+    },
+    {
+      "question": "How much caffeine is in Navajo tea?",
+      "snippet": "Description. Our Navajo Tea is made from the Green Thread plant and is native to many communities that is grown during the summer months. The caffeine-free Navajo Tea has a traditional smoothing flavor and can be enjoyed throughout the four seasons.",
+      "title": "caffeine-free",
+      "link": "https://napi.navajopride.com/product/navajo-tea/#:~:text=Reviews%20(0)-,Description,enjoyed%20throughout%20the%20four%20seasons.",
+      "displayed_link": "https://napi.navajopride.com \u203a product \u203a navajo-tea",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU8_VfcfstIBDB3LiNfmzqu3e0ZROrlGj7jSAr-8O9LA&s",
+      "source_logo": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/286bd0035336770ed0e7d89fb493874b1b7c66bc2f43a67c7a0d4d0c9926e3e3.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVdFWjBaVEpOVVVkamQxbE5hV3N0VURabWRXNVFRME56VUd0NGExaDJjV05TWkhJeVVrTXpWalV6UzBaeFJHdFZaekpWWjFWWU1uRjNOVlYxTFVOQmJGVTNPWEJORWhkMlJFRkxXaTF5VUVOaVZHbzFUbTlRYlhVdFpYVkJSUm9pUVVaWWNrVmpiM1kwYVZjeGFWUm1TRUZpV2tOVmMwOXBOSEJVWWxCVFZFcG9adyIsImZjdiI6IjMiLCJlaSI6InZEQUtaLXJQQ2JUajVOb1BtdS1ldUFFIiwicWMiOiJDZzluY21WbGJuUm9jbVZoWkNCMFpXRVFBSDJvYlJvXyIsInF1ZXN0aW9uIjoiSG93IG11Y2ggY2FmZmVpbmUgaXMgaW4gTmF2YWpvIHRlYT8iLCJsayI6IkdoOW9iM2NnYlhWamFDQmpZV1ptWldsdVpTQnBiaUJ1WVhaaGFtOGdkR1ZoIiwiYnMiOiJjLVB5NGxJTXowZ3NVY2dzVmtndlNrM05LOGtvU2sxTVVTaEpUVlJJejg5UFVVakxMN0tYZUs1bnBDU2xVRTVBSFpjRGx3ek1MTF9Fc3NTc2ZEUmpYc1FieVVwSnc0ekp3MVRDNWMybDdKRmZycEJibXB5aGtKeVlscGFhbVpjS1VwdVpoMlNpdlVTamc1R2lsSHdHcHNvOEpGTzVBcmhVc0Rnbk9URW5KelVGWWFLOXhKWTBJMVVwWlN6T1FpaUZDQW93QWdBIiwiaWQiOiJmY192REFLWi1yUENiVGo1Tm9QbXUtZXVBRV8xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVdFWjBaVEpOVVVkamQxbE5hV3N0VURabWRXNVFRME56VUd0NGExaDJjV05TWkhJeVVrTXpWalV6UzBaeFJHdFZaekpWWjFWWU1uRjNOVlYxTFVOQmJGVTNPWEJORWhkMlJFRkxXaTF5VUVOaVZHbzFUbTlRYlhVdFpYVkJSUm9pUVVaWWNrVmpiM1kwYVZjeGFWUm1TRUZpV2tOVmMwOXBOSEJVWWxCVFZFcG9adyIsImZjdiI6IjMiLCJlaSI6InZEQUtaLXJQQ2JUajVOb1BtdS1ldUFFIiwicWMiOiJDZzluY21WbGJuUm9jbVZoWkNCMFpXRVFBSDJvYlJvXyIsInF1ZXN0aW9uIjoiSG93IG11Y2ggY2FmZmVpbmUgaXMgaW4gTmF2YWpvIHRlYT8iLCJsayI6IkdoOW9iM2NnYlhWamFDQmpZV1ptWldsdVpTQnBiaUJ1WVhaaGFtOGdkR1ZoIiwiYnMiOiJjLVB5NGxJTXowZ3NVY2dzVmtndlNrM05LOGtvU2sxTVVTaEpUVlJJejg5UFVVakxMN0tYZUs1bnBDU2xVRTVBSFpjRGx3ek1MTF9Fc3NTc2ZEUmpYc1FieVVwSnc0ekp3MVRDNWMybDdKRmZycEJibXB5aGtKeVlscGFhbVpjS1VwdVpoMlNpdlVTamc1R2lsSHdHcHNvOEpGTzVBcmhVc0Rnbk9URW5KelVGWWFLOXhKWTBJMVVwWlN6T1FpaUZDQW93QWdBIiwiaWQiOiJmY192REFLWi1yUENiVGo1Tm9QbXUtZXVBRV8xIn0%3D"
+    },
+    {
+      "question": "What is Navajo tea called in Navajo?",
+      "snippet": "Ch'ilgohw\u00e9h\u00ed'de\u00ed",
+      "title": "Navajo tea Ch'ilgohw\u00e9h\u00ed'de\u00ed (Thelesperma megapotamicum ...",
+      "link": "https://navajorange.nmsu.edu/detail.php?id=160#:~:text=Ch'ilgohw%C3%A9h%C3%AD'de%C3%AD",
+      "displayed_link": "https://navajorange.nmsu.edu \u203a detail",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr5DzuFxxuXDhc5zS1Bqe1gsa-15KZ3N_w3DgG3oHDLQ&s",
+      "source_logo": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/286bd0035336770ed0e7d89fb493874b52ce51d51074fe601e7d7e4dfd0ecee1.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVdFWjBaVEpOVVVkamQxbE5hV3N0VURabWRXNVFRME56VUd0NGExaDJjV05TWkhJeVVrTXpWalV6UzBaeFJHdFZaekpWWjFWWU1uRjNOVlYxTFVOQmJGVTNPWEJORWhkMlJFRkxXaTF5VUVOaVZHbzFUbTlRYlhVdFpYVkJSUm9pUVVaWWNrVmpiM1kwYVZjeGFWUm1TRUZpV2tOVmMwOXBOSEJVWWxCVFZFcG9adyIsImZjdiI6IjMiLCJlaSI6InZEQUtaLXJQQ2JUajVOb1BtdS1ldUFFIiwicWMiOiJDZzluY21WbGJuUm9jbVZoWkNCMFpXRVFBSDJvYlJvXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBOYXZham8gdGVhIGNhbGxlZCBpbiBOYXZham8/IiwibGsiOiJjNU5TTHM5SUxGSElMRmJJU3l4THpNcFhLRWxOVkVoT3pNbEpUVkhJeklNS0FnQSIsImJzIjoiYy1QeTRsSU16MGdzVWNnc1ZrZ3ZTazNOSzhrb1NrMU1VU2hKVFZSSXo4OVBVVWpMTDdLWGVLNW5wQ1NsVUU1QUhaY0Rsd3pNTExfRXNzU3NmRFJqWHNRYnlVcEp3NHpKdzFUQzVjMmw3SkZmcnBCYm1weWhrSnlZbHBhYW1aY0tVcHVaaDJTaXZVU2pnNUdpbEh3R3BzbzhKRk81QXJoVXNEZ25PVEVuSnpVRllhSzl4SlkwSTFVcFpTek9RaWlGQ0Fvd0FnQSIsImlkIjoiZmNfdkRBS1otclBDYlRqNU5vUG11LWV1QUVfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVdFWjBaVEpOVVVkamQxbE5hV3N0VURabWRXNVFRME56VUd0NGExaDJjV05TWkhJeVVrTXpWalV6UzBaeFJHdFZaekpWWjFWWU1uRjNOVlYxTFVOQmJGVTNPWEJORWhkMlJFRkxXaTF5VUVOaVZHbzFUbTlRYlhVdFpYVkJSUm9pUVVaWWNrVmpiM1kwYVZjeGFWUm1TRUZpV2tOVmMwOXBOSEJVWWxCVFZFcG9adyIsImZjdiI6IjMiLCJlaSI6InZEQUtaLXJQQ2JUajVOb1BtdS1ldUFFIiwicWMiOiJDZzluY21WbGJuUm9jbVZoWkNCMFpXRVFBSDJvYlJvXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBOYXZham8gdGVhIGNhbGxlZCBpbiBOYXZham8%2FIiwibGsiOiJjNU5TTHM5SUxGSElMRmJJU3l4THpNcFhLRWxOVkVoT3pNbEpUVkhJeklNS0FnQSIsImJzIjoiYy1QeTRsSU16MGdzVWNnc1ZrZ3ZTazNOSzhrb1NrMU1VU2hKVFZSSXo4OVBVVWpMTDdLWGVLNW5wQ1NsVUU1QUhaY0Rsd3pNTExfRXNzU3NmRFJqWHNRYnlVcEp3NHpKdzFUQzVjMmw3SkZmcnBCYm1weWhrSnlZbHBhYW1aY0tVcHVaaDJTaXZVU2pnNUdpbEh3R3BzbzhKRk81QXJoVXNEZ25PVEVuSnpVRllhSzl4SlkwSTFVcFpTek9RaWlGQ0Fvd0FnQSIsImlkIjoiZmNfdkRBS1otclBDYlRqNU5vUG11LWV1QUVfMSJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Navajo/Hopi Tea (Greenthread) Heirloom Seeds",
+      "link": "https://store.underwoodgardens.com/Navajo-Hopi-Tea-Greenthread-Thelesperma-filifolium/productinfo/H1032/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://store.underwoodgardens.com/Navajo-Hopi-Tea-Greenthread-Thelesperma-filifolium/productinfo/H1032/&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQFnoECBQQAQ",
+      "displayed_link": "https://store.underwoodgardens.com \u203a ... \u203a Rare Herbs",
+      "thumbnail": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/55bfd6f95c11a4cf84f65e779d6ed70490af4ba0e3eacfbe29f30fa867878cc2.jpeg",
+      "favicon": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/55bfd6f95c11a4cf84f65e779d6ed704f06fc39a4cdeef2cfb8bd45072354060.png",
+      "date": "Jan 6, 2022",
+      "snippet": "Greenthread or Navajo/Hopi Tea is a cherished, beautifully hardy native herb that thrives in harsh conditions while generously sharing its ...",
+      "snippet_highlighted_words": [
+        "Greenthread",
+        "Tea"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 30,
+            "price": 3.75,
+            "currency": "$"
+          },
+          "extensions": [
+            "5.0(1)",
+            "$3.75",
+            "\u200e30",
+            "day returns",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Terroir Seeds | Underwood Gardens"
+    },
+    {
+      "position": 2,
+      "title": "Greenthread: Navajo-Hopi Tea -- A Relative of the Herb ...",
+      "link": "http://www.itmonline.org/arts/greenthread.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.itmonline.org/arts/greenthread.htm&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQFnoECBIQAQ",
+      "displayed_link": "http://www.itmonline.org \u203a arts \u203a greenthread",
+      "thumbnail": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/55bfd6f95c11a4cf84f65e779d6ed704407876e24a8c96b202f41ef38c9761fc.jpeg",
+      "favicon": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/55bfd6f95c11a4cf84f65e779d6ed7042a99373f3295170f3d4b4367a9819c0d.png",
+      "snippet": "Greenthread is reputed to be beneficial for the kidneys (mildly diuretic), to alleviate digestive problems (especially stomach cramps), and to purify the blood.",
+      "snippet_highlighted_words": [
+        "Greenthread"
+      ],
+      "source": "Institute for Traditional Medicine"
+    },
+    {
+      "position": 3,
+      "title": "Greenthread",
+      "link": "https://www.grandprismaticseed.com/dye-plants/navajo-tea",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.grandprismaticseed.com/dye-plants/navajo-tea&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQFnoECBMQAQ",
+      "displayed_link": "https://www.grandprismaticseed.com \u203a navajo-tea",
+      "thumbnail": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/55bfd6f95c11a4cf84f65e779d6ed70447fa7be4480ffba0682993afc926f032.jpeg",
+      "favicon": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/55bfd6f95c11a4cf84f65e779d6ed704e69803b2749d1737dfaed8196f24e88c.png",
+      "snippet": "Greenthread, also known as Navajo Tea, is a beautiful North American native wildflower that attracts small native bees, and makes the most delicious herbal tea.",
+      "snippet_highlighted_words": [
+        "Greenthread",
+        "Tea",
+        "tea"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 4.0,
+            "currency": "$"
+          },
+          "extensions": [
+            "$4.00",
+            "\u200eOut of stock"
+          ]
+        }
+      },
+      "source": "Grand Prismatic Seed"
+    },
+    {
+      "position": 4,
+      "title": "HealinGifts Cota Navajo Tea Indian Tea Greenthread ...",
+      "link": "https://www.amazon.com/HealinGifts-Greenthread-Thelesperma-Yabanah-Wildcrafted/dp/B0BZQXPX6Z",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/HealinGifts-Greenthread-Thelesperma-Yabanah-Wildcrafted/dp/B0BZQXPX6Z&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQFnoECBcQAQ",
+      "displayed_link": "https://www.amazon.com \u203a HealinGifts-Greenthread-Th...",
+      "thumbnail": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/55bfd6f95c11a4cf84f65e779d6ed70483ac467877544b2b85f121eea1eea796.jpeg",
+      "favicon": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/55bfd6f95c11a4cf84f65e779d6ed70445756bab0c83bb724538c4655b30ad8a.png",
+      "date": "Jun 26, 2023",
+      "snippet": "100% Cota Indian Navajo Greenthread tea flowers, leaves stems dried. Directions: An easier method is to use an infuser and add one teaspoon of the herb to 6-8 ...",
+      "snippet_highlighted_words": [
+        "Greenthread tea"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "HealinGifts Cota Indian Tea Greenthread Thelesperma ...",
+            "link": "https://www.amazon.com/HealinGifts-Indian-Greenthread-Thelesperma-Yabanah/dp/B0BBBTPJV8",
+            "date": "Jun 9, 2023"
+          },
+          {
+            "title": "HealinGifts Cota Indian Tea Greenthread Thelesperma cut 1 ...",
+            "link": "https://www.amazon.com/HealinGifts-Indian-Greenthread-Thelesperma-ounce/dp/B0B4RYM3PM",
+            "date": "Sep 17, 2023"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 30,
+            "price": 6.1,
+            "currency": "$ delivery"
+          },
+          "extensions": [
+            "5.0(3)",
+            "$45.00",
+            "\u200e$6.10 delivery",
+            "\u200e30",
+            "day returns"
+          ]
+        }
+      },
+      "source": "Amazon.com"
+    },
+    {
+      "position": 5,
+      "title": "Navajo Tea | Cota | Wild Harvested",
+      "link": "https://artfultea.com/products/cota-navajo-tea?srsltid=AfmBOoqzrd6WHBtYeucZyr39tKJwZNSebHKbtzhqYbBecAtaNxcSLL9C",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://artfultea.com/products/cota-navajo-tea%3Fsrsltid%3DAfmBOoqzrd6WHBtYeucZyr39tKJwZNSebHKbtzhqYbBecAtaNxcSLL9C&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQFnoECF4QAQ",
+      "displayed_link": "https://artfultea.com \u203a products \u203a cota-navajo-tea",
+      "thumbnail": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/55bfd6f95c11a4cf84f65e779d6ed704cc59c2dfae08db65a0bf7e5cce4e9385.jpeg",
+      "favicon": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/55bfd6f95c11a4cf84f65e779d6ed70458b305353954f16f5b600701b91df5d7.png",
+      "snippet": "Cota or Navajo tea, also known as greenthread, Hopi tea, or Zuni tea, is a medicinal herbal tea native to parts of the Southwest.",
+      "snippet_highlighted_words": [
+        "Cota",
+        "tea",
+        "greenthread",
+        "tea",
+        "tea",
+        "tea"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "price": 1,
+            "currency": "Free \u2013 day delivery over $"
+          },
+          "extensions": [
+            "5.0(2)",
+            "$17.00 to $60.00",
+            "\u200eFree 1\u20133 day delivery over $59",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "ArtfulTea"
+    },
+    {
+      "position": 6,
+      "title": "Thelesperma megapotamicum (Hopi tea greenthread)",
+      "link": "https://www.wildflower.org/plants/result.php?id_plant=THME",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wildflower.org/plants/result.php%3Fid_plant%3DTHME&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQFnoECFYQAQ",
+      "displayed_link": "https://www.wildflower.org \u203a plants \u203a result",
+      "favicon": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/55bfd6f95c11a4cf84f65e779d6ed704c7ecc8d5c283b97ce758e3fbb2a6a95f.png",
+      "date": "Jan 30, 2023",
+      "snippet": "Up to about 32 inches tall. Fruit: Fruit is a cypsela (pl. cypselae). Though technically incorrect, the fruit is often referred to as an achene.",
+      "source": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "position": 7,
+      "title": "Navajo Wild Tea | Cota",
+      "link": "https://nmteaco.com/Navajo-Wild-Tea-Cota_p_902.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nmteaco.com/Navajo-Wild-Tea-Cota_p_902.html&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQFnoECGIQAQ",
+      "displayed_link": "https://nmteaco.com \u203a Navajo-Wild-Tea-Cota_p_902",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPNerpzTDWk8V7wVsfPSs-3Hq5ZtBW9uL3J-Y5FacQRwJImSWEk5j4&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/55bfd6f95c11a4cf84f65e779d6ed704f363cd35c32470d727694ea012e1ab03.png",
+      "snippet": "Known for its long-standing use in traditional medicine, Cota tea is often associated with an array of potential health benefits, from easing kidney issues to ...",
+      "snippet_highlighted_words": [
+        "tea"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "price": 7.75,
+            "currency": "$ to $",
+            "free_day_delivery": 2
+          },
+          "extensions": [
+            "5.0(1)",
+            "$7.75 to $68.20",
+            "\u200eFree 2\u20135 day delivery",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "New Mexico Tea Company"
+    },
+    {
+      "position": 8,
+      "title": "Thelesperma megapotamicum, Hopi Tea Greenthread",
+      "link": "http://southwestdesertflora.com/WebsiteFolders/All_Species/Asteraceae/Thelesperma%20megapotamicum,%20Hopi%20Tea%20Greenthread.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://southwestdesertflora.com/WebsiteFolders/All_Species/Asteraceae/Thelesperma%2520megapotamicum,%2520Hopi%2520Tea%2520Greenthread.html&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQFnoECFgQAQ",
+      "displayed_link": "http://southwestdesertflora.com \u203a All_Species \u203a Asteraceae",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMhUknBcsFd3zeXuZ_E5YvlpUs0TMCa0C5SPC18YI6akJAi3WJchPz&usqp=CAE&s",
+      "snippet": "Beneficial Value to Butterflies, Honey Bees and Insects. Hopi Tea Greenthread, Thelesperma megapotamicum has small but attractive flowers, the flowers and their ...",
+      "snippet_highlighted_words": [
+        "Tea Greenthread"
+      ],
+      "source": "Southwest Desert Flora."
+    },
+    {
+      "position": 9,
+      "title": "Thelesperma",
+      "link": "https://en.wikipedia.org/wiki/Thelesperma",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Thelesperma&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQFnoECFoQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Thelesperma",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQye5o6Qv8HRdthMUcJf56LdW1PExeg-V9uoRJFVlUyYiwje9kbOPxz&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/55bfd6f95c11a4cf84f65e779d6ed704d4c0479da42be98c1653f8a952441143.png",
+      "snippet": "Members of the genus are used by a number of the southwestern Native American peoples as an herbal tea; as such, it is sometimes called \"Indian tea,\" \"Native ...",
+      "snippet_highlighted_words": [
+        "tea",
+        "tea"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 10,
+      "title": "Greenthread",
+      "link": "https://www.farmacieisolde.com/tinctoria/navajo-tea-1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.farmacieisolde.com/tinctoria/navajo-tea-1&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQFnoECFcQAQ",
+      "displayed_link": "https://www.farmacieisolde.com \u203a tinctoria \u203a navajo-tea-1",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUrl7rLIvxrMCgimIaxjLlVFqat_ZWG-MXatY3FK6DQF2V_LqXcYbw&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/55bfd6f95c11a4cf84f65e779d6ed70499a516141fd070afc088c1cb3fb41a13.png",
+      "snippet": "GREENTHREAD SEEDS. Thelesperma filifolium. Also known as Navajo Tea. The entire flowering plant is suitable for use as a yellow or orange dye.",
+      "snippet_highlighted_words": [
+        "GREENTHREAD",
+        "Tea"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 50,
+            "currency": "Free delivery over $"
+          },
+          "extensions": [
+            "$3.75",
+            "\u200eFree delivery over $50",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Farmacie Isolde"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Greenthread tea where to buy",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Greenthread+tea+where+to+buy&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQ1QJ6BQiDARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Greenthread+tea+where+to+buy"
+    },
+    {
+      "block_position": 1,
+      "query": "Greenthread tea benefits",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Greenthread+tea+benefits&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQ1QJ6BQiCARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Greenthread+tea+benefits"
+    },
+    {
+      "block_position": 1,
+      "query": "Greenthread tea side effects",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Greenthread+tea+side+effects&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQ1QJ6BQiBARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Greenthread+tea+side+effects"
+    },
+    {
+      "block_position": 1,
+      "query": "Greenthread tea health benefits",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Greenthread+tea+health+benefits&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQ1QJ6BAh-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Greenthread+tea+health+benefits"
+    },
+    {
+      "block_position": 1,
+      "query": "Greenthread tea near me",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Greenthread+tea+near+me&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQ1QJ6BAh9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Greenthread+tea+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Navajo Tea",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Navajo+Tea&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQ1QJ6BAh8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Navajo+Tea"
+    },
+    {
+      "block_position": 1,
+      "query": "Navajo tea side effects",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Navajo+tea+side+effects&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQ1QJ6BAh7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Navajo+tea+side+effects"
+    },
+    {
+      "block_position": 1,
+      "query": "Greenthread seeds",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&q=Greenthread+seeds&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQ1QJ6BAh6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Greenthread+seeds"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?q=greenthread+tea+nearby&shoprs=GAMqD2dyZWVudGhyZWFkIHRlYTIMCAMSBk5lYXJieRgCWJvRH2AB&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQip4GKAF6BAgZEHA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=greenthread+tea+nearby"
+    },
+    {
+      "query": "Recipe",
+      "link": "https://www.google.com/search?q=recipe+greenthread+tea&shoprs=GBIqD2dyZWVudGhyZWFkIHRlYTIKCBISBlJlY2lwZWAB&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQip4GKAJ6BAgZEHE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=recipe+greenthread+tea"
+    },
+    {
+      "query": "Herbal",
+      "link": "https://www.google.com/search?q=herbal+greenthread+tea&shoprs=GAEqD2dyZWVudGhyZWFkIHRlYTIWCAESBkhlcmJhbDoKCLKCORC1gjkwAlib0R9gAQ&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQip4GKAN6BAgZEHI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=herbal+greenthread+tea"
+    },
+    {
+      "query": "Bag",
+      "link": "https://www.google.com/search?q=bag+greenthread+tea&shoprs=GAEqD2dyZWVudGhyZWFkIHRlYTITCAESA0JhZzoKCIj9OBC5rzswAFib0R9gAQ&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQip4GKAR6BAgZEHM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=bag+greenthread+tea"
+    },
+    {
+      "query": "Brand",
+      "link": "https://www.google.com/search?q=brand+greenthread+tea&shoprs=GBIqD2dyZWVudGhyZWFkIHRlYTIJCBISBUJyYW5kYAE&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQip4GKAV6BAgZEHQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=brand+greenthread+tea"
+    },
+    {
+      "query": "Get it fast",
+      "link": "https://www.google.com/search?q=greenthread+tea&shoprs=Eg2aAQoKCBADOAFAAkgBGBQqD2dyZWVudGhyZWFkIHRlYTIkCBQSC0dldCBpdCBmYXN0Ig2aAQoKCBADOAFAAkgBKgQQARgBYAE&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQip4GKAZ6BAgZEHU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=greenthread+tea"
+    },
+    {
+      "query": "Walmart",
+      "link": "https://www.google.com/search?q=walmart+greenthread+tea&shoprs=GAIqD2dyZWVudGhyZWFkIHRlYTILCAISB1dhbG1hcnRYm9EfYAE&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQip4GKAd6BAgZEHY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=walmart+greenthread+tea",
+      "thumbnail": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/2ae609e031b5d1c172ce6c9c56b54b0adf76e94b1eab496e398b3cb5f1a9a73f.png"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?q=buy+greenthread+tea&shoprs=GBIqD2dyZWVudGhyZWFkIHRlYTIHCBISA0J1eWAB&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQip4GKAh6BAgZEHg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=buy+greenthread+tea"
+    },
+    {
+      "query": "Green Tea",
+      "link": "https://www.google.com/search?q=green+tea+greenthread&shoprs=GAEqD2dyZWVudGhyZWFkIHRlYTIbCAESCUdyZWVuIFRlYToMCPvG_AEQ2f2JAjAAWJvRH2AB&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQip4GKAl6BAgZEHk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=green+tea+greenthread"
+    },
+    {
+      "query": "Target",
+      "link": "https://www.google.com/search?q=target+greenthread+tea&shoprs=GAIqD2dyZWVudGhyZWFkIHRlYTIKCAISBlRhcmdldFib0R9gAQ&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQip4GKAp6BAgZEHo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=target+greenthread+tea",
+      "thumbnail": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/2ae609e031b5d1c172ce6c9c56b54b0a3726d3b59c01575dc290ef0562a0da59.png"
+    },
+    {
+      "query": "Slimming",
+      "link": "https://www.google.com/search?q=slimming+greenthread+tea&shoprs=GAEqD2dyZWVudGhyZWFkIHRlYTIYCAESCFNsaW1taW5nOgoIvJBnEL6QZzAAWJvRH2AB&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQip4GKAt6BAgZEHw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=slimming+greenthread+tea"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?q=greenthread+tea+sale&shoprs=EgRKAhgBGAYqD2dyZWVudGhyZWFkIHRlYTITCAYSB09uIHNhbGUYAiIESgIYAVib0R9gAQ&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQip4GKAx6BAgZEH0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=greenthread+tea+sale"
+    },
+    {
+      "query": "Organic",
+      "link": "https://www.google.com/search?q=organic+greenthread+tea&shoprs=GAEqD2dyZWVudGhyZWFkIHRlYTIZCAESB09yZ2FuaWM6DAi--YcBEL_5hwEwA1ib0R9gAQ&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQip4GKA16BAgZEH4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=organic+greenthread+tea"
+    },
+    {
+      "query": "Amazon",
+      "link": "https://www.google.com/search?q=amazon+greenthread+tea&shoprs=GAIqD2dyZWVudGhyZWFkIHRlYTIKCAISBkFtYXpvblib0R9gAQ&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQip4GKA56BAgZEH8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=amazon+greenthread+tea",
+      "thumbnail": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/2ae609e031b5d1c172ce6c9c56b54b0aa8e461db55e6388c0cbfe2fa7b1ebdd6.png"
+    },
+    {
+      "query": "Ginger",
+      "link": "https://www.google.com/search?q=ginger+greenthread+tea&shoprs=GAEqD2dyZWVudGhyZWFkIHRlYTIWCAESBkdpbmdlcjoKCI-CORCTgjkwAFib0R9gAQ&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQip4GKA96BQgZEIEB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ginger+greenthread+tea"
+    },
+    {
+      "query": "Ready Serve",
+      "link": "https://www.google.com/search?q=ready+serve+greenthread+tea&shoprs=GAEqD2dyZWVudGhyZWFkIHRlYTIbCAESC1JlYWR5IFNlcnZlOgoIiP04EIn9ODAAWJvRH2AB&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQip4GKBB6BQgZEIIB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ready+serve+greenthread+tea"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?q=reviews+greenthread+tea&shoprs=GBIqD2dyZWVudGhyZWFkIHRlYTILCBISB1Jldmlld3NgAQ&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQip4GKBF6BQgZEIMB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=reviews+greenthread+tea"
+    },
+    {
+      "query": "Lemon",
+      "link": "https://www.google.com/search?q=lemon+greenthread+tea&shoprs=GAEqD2dyZWVudGhyZWFkIHRlYTIVCAESBUxlbW9uOgoIj4I5EKaCOTAAWJvRH2AB&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQip4GKBJ6BQgZEIQB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=lemon+greenthread+tea"
+    },
+    {
+      "query": "Green",
+      "link": "https://www.google.com/search?q=green+greenthread+tea&shoprs=GAEqD2dyZWVudGhyZWFkIHRlYTIVCAESBUdyZWVuOgoIsoI5ELeCOTACWJvRH2AB&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQip4GKBN6BQgZEIUB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=green+greenthread+tea"
+    },
+    {
+      "query": "Loose Leaf",
+      "link": "https://www.google.com/search?q=loose+leaf+greenthread+tea&shoprs=GAEqD2dyZWVudGhyZWFkIHRlYTIaCAESCkxvb3NlIExlYWY6CgiI_TgQmrA7MABYm9EfYAE&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQip4GKBR6BQgZEIYB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=loose+leaf+greenthread+tea"
+    },
+    {
+      "query": "H-E-B",
+      "link": "https://www.google.com/search?q=h-e-b+greenthread+tea&shoprs=GAIqD2dyZWVudGhyZWFkIHRlYTIJCAISBUgtRS1CWJvRH2AB&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQip4GKBV6BQgZEIcB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=h-e-b+greenthread+tea",
+      "thumbnail": "https://serpapi.com/searches/670a30ba0197ddbdbb0f1dc0/images/2ae609e031b5d1c172ce6c9c56b54b0a433457a45fadbee1a649d4d273032380.png"
+    },
+    {
+      "query": "China",
+      "link": "https://www.google.com/search?q=china+greenthread+tea&shoprs=GAEqD2dyZWVudGhyZWFkIHRlYTIXCAESBUNoaW5hOgwI7NaxAhDt1rECMAJYm9EfYAE&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQip4GKBZ6BQgZEIkB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=china+greenthread+tea"
+    },
+    {
+      "query": "Caffeine-free",
+      "link": "https://www.google.com/search?q=caffeine-free+greenthread+tea&shoprs=GAEqD2dyZWVudGhyZWFkIHRlYTIfCAESDUNhZmZlaW5lLWZyZWU6DAig8YoBEKHxigEwA1ib0R9gAQ&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQip4GKBd6BQgZEIoB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=caffeine-free+greenthread+tea"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?q=price+greenthread+tea&shoprs=GBIqD2dyZWVudGhyZWFkIHRlYTIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQip4GKBh6BQgZEIsB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=price+greenthread+tea"
+    },
+    {
+      "query": "Store",
+      "link": "https://www.google.com/search?q=store+greenthread+tea&shoprs=GBIqD2dyZWVudGhyZWFkIHRlYTIJCBISBVN0b3JlYAE&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQip4GKBl6BQgZEIwB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=store+greenthread+tea"
+    },
+    {
+      "query": "Diy",
+      "link": "https://www.google.com/search?q=diy+greenthread+tea&shoprs=GBIqD2dyZWVudGhyZWFkIHRlYTIHCBISA0RpeWAB&sa=X&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQip4GKBp6BQgZEI0B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=diy+greenthread+tea"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=greenthread+tea&sca_esv=7d18109a394306ad&ei=vDAKZ-rPCbTj5NoPmu-euAE&start=10&sa=N&sstk=AagrsugpQ45X4ePX96ZNE7eRpX7-AWTZmWdQDNFqNiBrqDcRYJXGgmxZIVEhUf4pa_5E0P1eXmcnQ1PcF1qYPUoXwFWMc_l7MYfjEA&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQ8NMDegQIDxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=greenthread+tea&sca_esv=7d18109a394306ad&ei=vDAKZ-rPCbTj5NoPmu-euAE&start=10&sa=N&sstk=AagrsugpQ45X4ePX96ZNE7eRpX7-AWTZmWdQDNFqNiBrqDcRYJXGgmxZIVEhUf4pa_5E0P1eXmcnQ1PcF1qYPUoXwFWMc_l7MYfjEA&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQ8tMDegQIDxAE",
+      "3": "https://www.google.com/search?q=greenthread+tea&sca_esv=7d18109a394306ad&ei=vDAKZ-rPCbTj5NoPmu-euAE&start=20&sa=N&sstk=AagrsugpQ45X4ePX96ZNE7eRpX7-AWTZmWdQDNFqNiBrqDcRYJXGgmxZIVEhUf4pa_5E0P1eXmcnQ1PcF1qYPUoXwFWMc_l7MYfjEA&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQ8tMDegQIDxAG",
+      "4": "https://www.google.com/search?q=greenthread+tea&sca_esv=7d18109a394306ad&ei=vDAKZ-rPCbTj5NoPmu-euAE&start=30&sa=N&sstk=AagrsugpQ45X4ePX96ZNE7eRpX7-AWTZmWdQDNFqNiBrqDcRYJXGgmxZIVEhUf4pa_5E0P1eXmcnQ1PcF1qYPUoXwFWMc_l7MYfjEA&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQ8tMDegQIDxAI",
+      "5": "https://www.google.com/search?q=greenthread+tea&sca_esv=7d18109a394306ad&ei=vDAKZ-rPCbTj5NoPmu-euAE&start=40&sa=N&sstk=AagrsugpQ45X4ePX96ZNE7eRpX7-AWTZmWdQDNFqNiBrqDcRYJXGgmxZIVEhUf4pa_5E0P1eXmcnQ1PcF1qYPUoXwFWMc_l7MYfjEA&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQ8tMDegQIDxAK",
+      "6": "https://www.google.com/search?q=greenthread+tea&sca_esv=7d18109a394306ad&ei=vDAKZ-rPCbTj5NoPmu-euAE&start=50&sa=N&sstk=AagrsugpQ45X4ePX96ZNE7eRpX7-AWTZmWdQDNFqNiBrqDcRYJXGgmxZIVEhUf4pa_5E0P1eXmcnQ1PcF1qYPUoXwFWMc_l7MYfjEA&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQ8tMDegQIDxAM",
+      "7": "https://www.google.com/search?q=greenthread+tea&sca_esv=7d18109a394306ad&ei=vDAKZ-rPCbTj5NoPmu-euAE&start=60&sa=N&sstk=AagrsugpQ45X4ePX96ZNE7eRpX7-AWTZmWdQDNFqNiBrqDcRYJXGgmxZIVEhUf4pa_5E0P1eXmcnQ1PcF1qYPUoXwFWMc_l7MYfjEA&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQ8tMDegQIDxAO",
+      "8": "https://www.google.com/search?q=greenthread+tea&sca_esv=7d18109a394306ad&ei=vDAKZ-rPCbTj5NoPmu-euAE&start=70&sa=N&sstk=AagrsugpQ45X4ePX96ZNE7eRpX7-AWTZmWdQDNFqNiBrqDcRYJXGgmxZIVEhUf4pa_5E0P1eXmcnQ1PcF1qYPUoXwFWMc_l7MYfjEA&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQ8tMDegQIDxAQ",
+      "9": "https://www.google.com/search?q=greenthread+tea&sca_esv=7d18109a394306ad&ei=vDAKZ-rPCbTj5NoPmu-euAE&start=80&sa=N&sstk=AagrsugpQ45X4ePX96ZNE7eRpX7-AWTZmWdQDNFqNiBrqDcRYJXGgmxZIVEhUf4pa_5E0P1eXmcnQ1PcF1qYPUoXwFWMc_l7MYfjEA&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQ8tMDegQIDxAS",
+      "10": "https://www.google.com/search?q=greenthread+tea&sca_esv=7d18109a394306ad&ei=vDAKZ-rPCbTj5NoPmu-euAE&start=90&sa=N&sstk=AagrsugpQ45X4ePX96ZNE7eRpX7-AWTZmWdQDNFqNiBrqDcRYJXGgmxZIVEhUf4pa_5E0P1eXmcnQ1PcF1qYPUoXwFWMc_l7MYfjEA&ved=2ahUKEwjqnYzxs4iJAxW0MVkFHZq3BxcQ8tMDegQIDxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=greenthread+tea&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=greenthread+tea&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=greenthread+tea&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=greenthread+tea&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=greenthread+tea&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=greenthread+tea&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=greenthread+tea&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=greenthread+tea&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=greenthread+tea&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=greenthread+tea&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=greenthread+tea&start=90"
+    }
+  }
+}

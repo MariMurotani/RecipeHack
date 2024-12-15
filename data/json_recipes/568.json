@@ -1,0 +1,487 @@
+{
+  "search_metadata": {
+    "id": "670a2d89c05eb574bc191651",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d209e40b2420600a/670a2d89c05eb574bc191651.json",
+    "created_at": "2024-10-12 08:04:25 UTC",
+    "processed_at": "2024-10-12 08:04:25 UTC",
+    "google_url": "https://www.google.com/search?q=horse&oq=horse&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/d209e40b2420600a/670a2d89c05eb574bc191651.html",
+    "total_time_taken": 0.62
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "horse",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "horse",
+    "total_results": 2540000000,
+    "time_taken_displayed": 0.26,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "title": "Horse",
+    "type": "Animal",
+    "entity_type": "biology, animal",
+    "main_tab_text": "Overview",
+    "kgmid": "/m/03k3r",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/03k3r&hl=en-US&q=Horse&shndl=17&source=sh/x/kp/osrp/m5/1",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F03k3r&location=Austin%2CTexas%2CUnited+States&q=Horse",
+    "tabs": [
+      {
+        "text": "Breeds",
+        "si": "ACC90nyqRBxabwJSd5dqzsBtzp8rQXWo0_tlurGgToxPrneazt-DrLThn5SxBstkVaCD1kmGLIjHTPmWvvIAkXno8YKavbiX-FHQUGS4nRfsa--PDmRTSA2HN8I5GQYAPCl9qJCaN--t",
+        "link": "https://www.google.com/search?si=ACC90nyqRBxabwJSd5dqzsBtzp8rQXWo0_tlurGgToxPrneazt-DrLThn5SxBstkVaCD1kmGLIjHTPmWvvIAkXno8YKavbiX-FHQUGS4nRfsa--PDmRTSA2HN8I5GQYAPCl9qJCaN--t",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=horse&si=ACC90nyqRBxabwJSd5dqzsBtzp8rQXWo0_tlurGgToxPrneazt-DrLThn5SxBstkVaCD1kmGLIjHTPmWvvIAkXno8YKavbiX-FHQUGS4nRfsa--PDmRTSA2HN8I5GQYAPCl9qJCaN--t"
+      },
+      {
+        "text": "Sounds",
+        "si": "ACC90nyppaBKaZxtSRyOPKHUA22LIjQ7vgHYjO65hn2ilQyhjaibu9n_HyS8gGcI6hsQQn_tBrBm2Ul66cWz7MJjOv855HX4tcXf-viKqP-KlaktCMFEQG0=",
+        "link": "https://www.google.com/search?si=ACC90nyppaBKaZxtSRyOPKHUA22LIjQ7vgHYjO65hn2ilQyhjaibu9n_HyS8gGcI6hsQQn_tBrBm2Ul66cWz7MJjOv855HX4tcXf-viKqP-KlaktCMFEQG0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=horse&si=ACC90nyppaBKaZxtSRyOPKHUA22LIjQ7vgHYjO65hn2ilQyhjaibu9n_HyS8gGcI6hsQQn_tBrBm2Ul66cWz7MJjOv855HX4tcXf-viKqP-KlaktCMFEQG0%3D"
+      },
+      {
+        "text": "Diet",
+        "si": "ACC90nxDXeB5ozwkahJNuqcVENfkE9JB6fTB5_E1fYU55Sp1rZe70YriVISu2uXRDeCW6L8594V5_4T7xFD4_rJlxli6yx1WWpjn2sghDOzv2BIqwJ72EhKHAnpNRu4tZTtSr7kHd2BOeZBQ7hRRLJlx5OATiubbOw==",
+        "link": "https://www.google.com/search?si=ACC90nxDXeB5ozwkahJNuqcVENfkE9JB6fTB5_E1fYU55Sp1rZe70YriVISu2uXRDeCW6L8594V5_4T7xFD4_rJlxli6yx1WWpjn2sghDOzv2BIqwJ72EhKHAnpNRu4tZTtSr7kHd2BOeZBQ7hRRLJlx5OATiubbOw==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=horse&si=ACC90nxDXeB5ozwkahJNuqcVENfkE9JB6fTB5_E1fYU55Sp1rZe70YriVISu2uXRDeCW6L8594V5_4T7xFD4_rJlxli6yx1WWpjn2sghDOzv2BIqwJ72EhKHAnpNRu4tZTtSr7kHd2BOeZBQ7hRRLJlx5OATiubbOw%3D%3D"
+      },
+      {
+        "text": "Lifespan",
+        "si": "ACC90nwzeB7ut2_qHCNVxNDQr84ZZylV76kE9THxeq3M6FlCnTyqM28cEdbUuxbl1vxWS50xXgRY1diOrPC7CS3gzR9LDHvMtKi1ybmsSL5t6TSb9ngPIV8bTCPjassLaKf31pcKGdE9",
+        "link": "https://www.google.com/search?si=ACC90nwzeB7ut2_qHCNVxNDQr84ZZylV76kE9THxeq3M6FlCnTyqM28cEdbUuxbl1vxWS50xXgRY1diOrPC7CS3gzR9LDHvMtKi1ybmsSL5t6TSb9ngPIV8bTCPjassLaKf31pcKGdE9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=horse&si=ACC90nwzeB7ut2_qHCNVxNDQr84ZZylV76kE9THxeq3M6FlCnTyqM28cEdbUuxbl1vxWS50xXgRY1diOrPC7CS3gzR9LDHvMtKi1ybmsSL5t6TSb9ngPIV8bTCPjassLaKf31pcKGdE9"
+      }
+    ],
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/1d9d279cc8aeab74f995348e2d77183024ca0f3c43bda5f30ff8b00e9cf968adc0b5855e17994483.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/1d9d279cc8aeab74f995348e2d77183024ca0f3c43bda5f34bd3f86c4f22e09d1b23e107f76f476c.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/1d9d279cc8aeab74f995348e2d77183024ca0f3c43bda5f390c1a33a8d5ae0ad7f6e18c2f895ad3a.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/1d9d279cc8aeab74f995348e2d77183024ca0f3c43bda5f3d41f5b203fa9739c77a0667899770b7c.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/1d9d279cc8aeab74f995348e2d77183024ca0f3c43bda5f389b5d514f5a61a5f2ffb35e350e00f79.webp"
+      }
+    ],
+    "description": "The horse is a domesticated, one-toed, hoofed mammal. It belongs to the taxonomic family Equidae and is one of two extant subspecies of Equus ferus. The horse has evolved over the past 45 to 55 million years from a small multi-toed creature, close to Eohippus, into the large, single-toed animal of today.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Horse"
+    },
+    "term_for_young": "foal Wikimedia Foundation",
+    "term_for_young_links": [
+      {
+        "text": "Wikimedia Foundation",
+        "link": "https://en.wikipedia.org/wiki/List_of_animal_names"
+      }
+    ],
+    "lifespan": "25 \u2013 30 years",
+    "scientific_name": "Equus caballus",
+    "height": "Arabian horse - 4.8 \u2013 5.1 ft., Akhal-Teke - 4.8 \u2013 5.3 ft., Hanoverian horse - 5.1 \u2013 5.7 ft.",
+    "height_links": [
+      {
+        "text": "Arabian horse",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Arabian+horse&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-Ly30zTFwMhdpQYoTbKtdtpB2YX_V-R9oEyeWXEVwnDPy46OP-Yt1Gmd5TiWWa_Y8Xj5TdjbrPAiew-SsUqat3R0JngdfaHhA0YD4fntAEAH8aMNysoc10vBBon0QoUjBtzJed80S3TimsEwi4WCN2aalxn4MkH7jj-EKOFLSn3FLuDRfdTpuMUKOCm1sNChVfwIV76y1Y5ZIwTTS-PCJrZJktir9&sa=X&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQmxMoAHoECBsQAg"
+      },
+      {
+        "text": "Akhal-Teke",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Akhal-Teke&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm-YfsDmfFE9LJ-XDuimanOavhU3M4j0VbY6hJRWbRUTr4Kj2pdfMVHLfjp21C4JqrZGHgMT1Gwjbun0yzR9GqAMwpoF-GtwfjVOdnykwkgNboLLXW3vL20utzpp0z9odiIINz0d3IK9C5eiW6kh7rQjYuKDO10yvVctW5IDIlzWRZLfo-CBdqm6x8XBdt0Hl8gGTrqA%3D&sa=X&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQmxMoAXoECBsQAw"
+      },
+      {
+        "text": "Hanoverian horse",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Hanoverian+horse&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L99vY9O6k-5ZKSXTazKX96adg5S-eqlHM63i5Wp-V67976o9ojbYA3S-YEI5NWDOvvfdlCV824eAC7FD-f6DeXtcE9ZiwhpmJ8vTM_fOAXqKG33XTBVAKgYrh3VLWCMmzOAFN2Y-_Njc2TwYD_vaBQVzcnnzOg1mwoKeVjrEhOI8bVfREvMMKI_mPoEOmljGiuP_IHfmEau4Qk5BRvQZNHeBEI6h&sa=X&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQmxMoAnoECBsQBA"
+      }
+    ],
+    "fastest_breed": "Thoroughbred equusmagazine.com",
+    "fastest_breed_links": [
+      {
+        "text": "equusmagazine.com",
+        "link": "https://mynewhorse.equusmagazine.com/2023/08/14/what-is-the-fastest-horse-in-the-world/"
+      }
+    ],
+    "class": "Mammalia",
+    "web_results": [
+      {
+        "thumbnail": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/1d9d279cc8aeab74f995348e2d771830f23aba5661c9585aee25ca61c85b3870d24098d9030578e3.jpeg",
+        "title": "what horse is this? : r/StarStable - Reddit",
+        "snippet": "i've seen a few of these horses with this coat and i low key want one but i got 0 clue what horse it is lol, does anyone know?",
+        "link": "https://www.reddit.com/r/StarStable/comments/1g1oj2a/what_horse_is_this/"
+      },
+      {
+        "title": "Lifespan",
+        "snippet": "25 \u2013 30 years",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=horse+lifespan&stick=H4sIAAAAAAAAAOPgE-LQz9U3MM42LtLSyU620k_KzM_JT6_Uzy9KT8zLLM6NT85JLC7OTMtMTizJzM-zyslMSy0uSMxbxMqXkV9UnKoAEwAAjKteREsAAAA&sa=X&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQ18AJegQIIxAB"
+      },
+      {
+        "title": "Term for young",
+        "snippet": "foal",
+        "source": "Wikimedia Foundation",
+        "link": "https://en.wikipedia.org/wiki/List_of_animal_names"
+      },
+      {
+        "thumbnail": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/1d9d279cc8aeab74f995348e2d771830f23aba5661c9585a4ae69f27fb1ce03a295a856f9a1d283b.jpeg",
+        "title": "Future Champions Festival Preview Show LIVE | Horse ...",
+        "source": "YouTube \u2022 Racing Post",
+        "source_image": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/1d9d279cc8aeab74f995348e2d771830f23aba5661c9585ad103e0de607f3f6719b27dbe92a2e502f57ab51697f14058.png",
+        "link": "https://www.youtube.com/watch?v=2GzlIrJa0c0",
+        "duration": "1:14:45"
+      }
+    ],
+    "breeds": [
+      {
+        "name": "Arabian horse",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Arabian+horse&stick=H4sIAAAAAAAAAONgFuLQz9U3MM42LlLiBLEMC4tzk7XUspOt9JMy83Py0yv1U_JzU4tLMpMTS1JT4hPzMnMTc6ySilJTU4oXsfI6FiUmZSbmKWTkFxWn7mBlBABx_5qtUgAAAA&sa=X&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQgOQBegQIQBAG",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Arabian+horse&stick=H4sIAAAAAAAAAONgFuLQz9U3MM42LlLiBLEMC4tzk7XUspOt9JMy83Py0yv1U_JzU4tLMpMTS1JT4hPzMnMTc6ySilJTU4oXsfI6FiUmZSbmKWTkFxWn7mBlBABx_5qtUgAAAA",
+        "image": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/1d9d279cc8aeab74f995348e2d771830bfcb1a2cc133c367555d685088fea976.jpeg"
+      },
+      {
+        "name": "Friesian horse",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Friesian+horse&stick=H4sIAAAAAAAAAONgFuLQz9U3MM42LlLiBLGMciuNyrTUspOt9JMy83Py0yv1U_JzU4tLMpMTS1JT4hPzMnMTc6ySilJTU4oXsfK5FWWmFmcm5ilk5BcVp-5gZQQA_G3L7VMAAAA&sa=X&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQgOQBegQIQBAM",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Friesian+horse&stick=H4sIAAAAAAAAAONgFuLQz9U3MM42LlLiBLGMciuNyrTUspOt9JMy83Py0yv1U_JzU4tLMpMTS1JT4hPzMnMTc6ySilJTU4oXsfK5FWWmFmcm5ilk5BcVp-5gZQQA_G3L7VMAAAA",
+        "image": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/1d9d279cc8aeab74f995348e2d77183000c7c1a715c684c3473ebf1b2134eef4.jpeg"
+      },
+      {
+        "name": "Mustang",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Los+Medanos+College+Mustang&stick=H4sIAAAAAAAAAONgFuLQz9U3MM42LlLiBLGM4tOys7XUspOt9JMy83Py0yv1U_JzU4tLMpMTS1JT4hPzMnMTc6ySilJTU4oXsUr75Bcr-KamJOYBaef8nJzU9FQF39LiksS89B2sjAAha-TaYAAAAA&sa=X&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQgOQBegQIQBAS",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Los+Medanos+College+Mustang&stick=H4sIAAAAAAAAAONgFuLQz9U3MM42LlLiBLGM4tOys7XUspOt9JMy83Py0yv1U_JzU4tLMpMTS1JT4hPzMnMTc6ySilJTU4oXsUr75Bcr-KamJOYBaef8nJzU9FQF39LiksS89B2sjAAha-TaYAAAAA",
+        "image": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/1d9d279cc8aeab74f995348e2d77183095e265088c0330b22999c7d9aad27ba3.jpeg"
+      },
+      {
+        "name": "Shire horse",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Shire+horse&stick=H4sIAAAAAAAAAONgFuLQz9U3MM42LlLiBLMKy3KqtNSyk630kzLzc_LTK_VT8nNTi0sykxNLUlPiE_MycxNzrJKKUlNTihexcgdnZBalKmTkFxWn7mBlBAA-FTZbUAAAAA&sa=X&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQgOQBegQIQBAY",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Shire+horse&stick=H4sIAAAAAAAAAONgFuLQz9U3MM42LlLiBLMKy3KqtNSyk630kzLzc_LTK_VT8nNTi0sykxNLUlPiE_MycxNzrJKKUlNTihexcgdnZBalKmTkFxWn7mBlBAA-FTZbUAAAAA",
+        "image": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/1d9d279cc8aeab74f995348e2d771830e8616b9aa02bb0b9292af6807ec83040.jpeg"
+      },
+      {
+        "name": "Thoroughbred",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Thoroughbred&stick=H4sIAAAAAAAAAONgFuLQz9U3MM42LlICs7LLCwq01LKTrfSTMvNz8tMr9VPyc1OLSzKTE0tSU-IT8zJzE3OskopSU1OKF7HyhGTkF-WXpmcABVJ2sDICAAlLA4VQAAAA&sa=X&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQgOQBegQIQBAe",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Thoroughbred&stick=H4sIAAAAAAAAAONgFuLQz9U3MM42LlICs7LLCwq01LKTrfSTMvNz8tMr9VPyc1OLSzKTE0tSU-IT8zJzE3OskopSU1OKF7HyhGTkF-WXpmcABVJ2sDICAAlLA4VQAAAA",
+        "image": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/1d9d279cc8aeab74f995348e2d7718306a1cce7f82829cac1710e09658bf0659.jpeg"
+      },
+      {
+        "name": "American Quarter Horse",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=American+Quarter+Horse&stick=H4sIAAAAAAAAAONgFuLQz9U3MM42LlJiB7Gqig201LKTrfSTMvNz8tMr9VPyc1OLSzKTE0tSU-IT8zJzE3OskopSU1OKF7GKOeamFgGl8hQCSxOLSlKLFDzyi4pTd7AyAgD3YqdzWQAAAA&sa=X&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQgOQBegQIQBAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=American+Quarter+Horse&stick=H4sIAAAAAAAAAONgFuLQz9U3MM42LlJiB7Gqig201LKTrfSTMvNz8tMr9VPyc1OLSzKTE0tSU-IT8zJzE3OskopSU1OKF7GKOeamFgGl8hQCSxOLSlKLFDzyi4pTd7AyAgD3YqdzWQAAAA",
+        "image": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/1d9d279cc8aeab74f995348e2d77183078f002411868020e4e59668927d39547.jpeg"
+      }
+    ]
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Busted!- Horse Plus Happenings #11 -10-10-24",
+      "link": "https://www.youtube.com/watch?v=AMj3l_SNXis",
+      "thumbnail": "https://i.ytimg.com/vi/AMj3l_SNXis/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3lJGOA1RUb5Pvj4cEXRYfCwUrHGIA",
+      "channel": "Horse Plus Humane Society",
+      "duration": "23:28",
+      "date": "1 day ago"
+    },
+    {
+      "position": 2,
+      "title": "Future Champions Festival Preview Show LIVE | Horse ...",
+      "link": "https://www.youtube.com/watch?v=2GzlIrJa0c0",
+      "thumbnail": "https://i.ytimg.com/vi/2GzlIrJa0c0/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kWFFwBEzPNwm3zhL-JFugNRZXMHw",
+      "channel": "Racing Post",
+      "duration": "1:14:45",
+      "date": "2 hours ago"
+    },
+    {
+      "position": 3,
+      "title": "MEET MY NEW HORSE",
+      "link": "https://www.youtube.com/watch?v=yjw6DaU1Aes",
+      "thumbnail": "https://i.ytimg.com/vi/yjw6DaU1Aes/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3nm2M-oLKLC2mhKXJZW6iwrHqunYQ",
+      "channel": "Life On The Left Rein",
+      "duration": "52:55",
+      "date": "14 hours ago"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What did horses used to be called?",
+      "snippet": "The sequence, from Eohippus to the modern horse (Equus), was popularized by Thomas Huxley and became one of the most widely known examples of a clear evolutionary progression.",
+      "title": "Evolution of the horse - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Evolution_of_the_horse#:~:text=The%20sequence%2C%20from%20Eohippus%20to,of%20a%20clear%20evolutionary%20progression.",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Evolution_of_the_horse",
+      "source_logo": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/22321869773e057ef1e1780c3bcd908879c1245d49c8f8db93866775561678f0.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1gyMU1VbFppUTFGMVdTMUVjamhGYkZWNFNWZFdjbEUzVTA1eE1YTkJabkpFVjE4eVpFRmpPVk01TjJoR2IwSkpaalJrWW0xV1JGaDFjbXhhTWpsVFExbGpVRmgzRWhkcFV6QkxXamt6UTA5TVJHUjNUalJRY1dSRVp6QlJieG9pUVVaWWNrVmpjREZVWlRKbGEySkJYM05pWDJSVmMzRTVPSEZWZDBodmJUbDVVUSIsImZjdiI6IjMiLCJlaSI6ImlTMEtaOTNDT0xEZHdONFBxZERnMFFvIiwicWMiOiJDZ1ZvYjNKelpSQUFmU2xjTHo4IiwicXVlc3Rpb24iOiJXaGF0IGRpZCBob3JzZXMgdXNlZCB0byBiZSBjYWxsZWQ/IiwibGsiOiJHaUIzYUdGMElHUnBaQ0JvYjNKelpTQjFjMlZrSUhSdklHSmxJR05oYkd4bFpBIiwiYnMiOiJjNDNPc1FyQ01CQUdZRnh2Y2hBcFFlWHNvSUpiTmdjdHp1NTJqczNGQkdLRFNUU1A1RVA0Wms2SzFxRW80bnpmX184SEc4aExMU0pLSTFFN0h5amdLWkRFNkhCSFdBbHJTUmJaN2Noemhxa0ZQeDJzWVZocWh5WmcxSVRPU2dxeHdYUW1YMlJMUG1LRDlJUEFDc2JQZnhvUXJLajNtSnlYcUp4X3dTSzdMbmlmOWI3ZFlBdlRWcjR5VkVlalRJVzFPRHdHRllwM3kyWE9aMnlTX3RMZHpoMCIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1gyMU1VbFppUTFGMVdTMUVjamhGYkZWNFNWZFdjbEUzVTA1eE1YTkJabkpFVjE4eVpFRmpPVk01TjJoR2IwSkpaalJrWW0xV1JGaDFjbXhhTWpsVFExbGpVRmgzRWhkcFV6QkxXamt6UTA5TVJHUjNUalJRY1dSRVp6QlJieG9pUVVaWWNrVmpjREZVWlRKbGEySkJYM05pWDJSVmMzRTVPSEZWZDBodmJUbDVVUSIsImZjdiI6IjMiLCJlaSI6ImlTMEtaOTNDT0xEZHdONFBxZERnMFFvIiwicWMiOiJDZ1ZvYjNKelpSQUFmU2xjTHo4IiwicXVlc3Rpb24iOiJXaGF0IGRpZCBob3JzZXMgdXNlZCB0byBiZSBjYWxsZWQ%2FIiwibGsiOiJHaUIzYUdGMElHUnBaQ0JvYjNKelpTQjFjMlZrSUhSdklHSmxJR05oYkd4bFpBIiwiYnMiOiJjNDNPc1FyQ01CQUdZRnh2Y2hBcFFlWHNvSUpiTmdjdHp1NTJqczNGQkdLRFNUU1A1RVA0Wms2SzFxRW80bnpmX184SEc4aExMU0pLSTFFN0h5amdLWkRFNkhCSFdBbHJTUmJaN2Noemhxa0ZQeDJzWVZocWh5WmcxSVRPU2dxeHdYUW1YMlJMUG1LRDlJUEFDc2JQZnhvUXJLajNtSnlYcUp4X3dTSzdMbmlmOWI3ZFlBdlRWcjR5VkVlalRJVzFPRHdHRllwM3kyWE9aMnlTX3RMZHpoMCIsImlkIjoiZmNfMSJ9"
+    },
+    {
+      "question": "Who is the oldest horse ever?",
+      "snippet": "Old Billy (also called Billy or Ol' Billy) was the longest-living horse on record. Old Billy was verified to be 62 at his death. Born in Woolston, Cheshire, England in 1760, Billy adventured and became a barge horse that pulled barges up and down canals.",
+      "title": "Old Billy",
+      "link": "https://en.wikipedia.org/wiki/Old_Billy#:~:text=Old%20Billy%20(also%20called%20Billy,barges%20up%20and%20down%20canals.",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Old_Billy",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHTYdJRcWXb_vG4-Z7zYlq4j9zbz0QKUAEvh48qlv&s",
+      "source_logo": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/22321869773e057ef1e1780c3bcd9088580e2823c0a795175b76d980d8f9f7d5.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1gyMU1VbFppUTFGMVdTMUVjamhGYkZWNFNWZFdjbEUzVTA1eE1YTkJabkpFVjE4eVpFRmpPVk01TjJoR2IwSkpaalJrWW0xV1JGaDFjbXhhTWpsVFExbGpVRmgzRWhkcFV6QkxXamt6UTA5TVJHUjNUalJRY1dSRVp6QlJieG9pUVVaWWNrVmpjREZVWlRKbGEySkJYM05pWDJSVmMzRTVPSEZWZDBodmJUbDVVUSIsImZjdiI6IjMiLCJlaSI6ImlTMEtaOTNDT0xEZHdONFBxZERnMFFvIiwicWMiOiJDZ1ZvYjNKelpSQUFmU2xjTHo4IiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIG9sZGVzdCBob3JzZSBldmVyPyIsImxrIjoiR2h4M2FHOGdhWE1nZEdobElHOXNaR1Z6ZENCb2IzSnpaU0JsZG1WeSIsImJzIjoiYzQzT3NRckNNQkFHWUZ4dmNoQXBRZVhzb0lKYk5nY3R6dTUyanMzRkJHS0RTVFNQNUVQNFprNksxcUVvNG56Zl9fOEhHOGhMTFNKS0kxRTdIeWpnS1pERTZIQkhXQWxyU1JiWjdjaHpocWtGUHgyc1lWaHFoeVpnMUlUT1NncXh3WFFtWDJSTFBtS0Q5SVBBQ3NiUGZ4b1FyS2ozbUp5WHFKeF93U0s3TG5pZjliN2RZQXZUVnI0eVZFZWpUSVcxT0R3R0ZZcDN5MlhPWjJ5U190TGR6aDAiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1gyMU1VbFppUTFGMVdTMUVjamhGYkZWNFNWZFdjbEUzVTA1eE1YTkJabkpFVjE4eVpFRmpPVk01TjJoR2IwSkpaalJrWW0xV1JGaDFjbXhhTWpsVFExbGpVRmgzRWhkcFV6QkxXamt6UTA5TVJHUjNUalJRY1dSRVp6QlJieG9pUVVaWWNrVmpjREZVWlRKbGEySkJYM05pWDJSVmMzRTVPSEZWZDBodmJUbDVVUSIsImZjdiI6IjMiLCJlaSI6ImlTMEtaOTNDT0xEZHdONFBxZERnMFFvIiwicWMiOiJDZ1ZvYjNKelpSQUFmU2xjTHo4IiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIG9sZGVzdCBob3JzZSBldmVyPyIsImxrIjoiR2h4M2FHOGdhWE1nZEdobElHOXNaR1Z6ZENCb2IzSnpaU0JsZG1WeSIsImJzIjoiYzQzT3NRckNNQkFHWUZ4dmNoQXBRZVhzb0lKYk5nY3R6dTUyanMzRkJHS0RTVFNQNUVQNFprNksxcUVvNG56Zl9fOEhHOGhMTFNKS0kxRTdIeWpnS1pERTZIQkhXQWxyU1JiWjdjaHpocWtGUHgyc1lWaHFoeVpnMUlUT1NncXh3WFFtWDJSTFBtS0Q5SVBBQ3NiUGZ4b1FyS2ozbUp5WHFKeF93U0s3TG5pZjliN2RZQXZUVnI0eVZFZWpUSVcxT0R3R0ZZcDN5MlhPWjJ5U190TGR6aDAiLCJpZCI6ImZjXzEifQ%3D%3D"
+    },
+    {
+      "question": "What is the slang word for horse?",
+      "snippet": "gee-gee (slang) cuddy or cuddie (dialect, mainly Scottish)",
+      "title": "Synonyms of HORSE | Collins American English Thesaurus",
+      "link": "https://www.collinsdictionary.com/us/dictionary/english-thesaurus/horse#:~:text=or%20yarramin%20(Australian)-,gee%2Dgee%20(slang),cuddie%20(dialect%2C%20mainly%20Scottish)",
+      "displayed_link": "https://www.collinsdictionary.com \u203a dictionary \u203a horse",
+      "source_logo": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/22321869773e057ef1e1780c3bcd9088e8c769a35ad0f552a01369bfbabcf123.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1gyMU1VbFppUTFGMVdTMUVjamhGYkZWNFNWZFdjbEUzVTA1eE1YTkJabkpFVjE4eVpFRmpPVk01TjJoR2IwSkpaalJrWW0xV1JGaDFjbXhhTWpsVFExbGpVRmgzRWhkcFV6QkxXamt6UTA5TVJHUjNUalJRY1dSRVp6QlJieG9pUVVaWWNrVmpjREZVWlRKbGEySkJYM05pWDJSVmMzRTVPSEZWZDBodmJUbDVVUSIsImZjdiI6IjMiLCJlaSI6ImlTMEtaOTNDT0xEZHdONFBxZERnMFFvIiwicWMiOiJDZ1ZvYjNKelpSQUFmU2xjTHo4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzbGFuZyB3b3JkIGZvciBob3JzZT8iLCJsayI6IkdoUnpiR0Z1WnlCM2IzSmtJR1p2Y2lCb2IzSnpaUSIsImJzIjoiYzQzT3NRckNNQkFHWUZ4dmNoQXBRZVhzb0lKYk5nY3R6dTUyanMzRkJHS0RTVFNQNUVQNFprNksxcUVvNG56Zl9fOEhHOGhMTFNKS0kxRTdIeWpnS1pERTZIQkhXQWxyU1JiWjdjaHpocWtGUHgyc1lWaHFoeVpnMUlUT1NncXh3WFFtWDJSTFBtS0Q5SVBBQ3NiUGZ4b1FyS2ozbUp5WHFKeF93U0s3TG5pZjliN2RZQXZUVnI0eVZFZWpUSVcxT0R3R0ZZcDN5MlhPWjJ5U190TGR6aDAiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1gyMU1VbFppUTFGMVdTMUVjamhGYkZWNFNWZFdjbEUzVTA1eE1YTkJabkpFVjE4eVpFRmpPVk01TjJoR2IwSkpaalJrWW0xV1JGaDFjbXhhTWpsVFExbGpVRmgzRWhkcFV6QkxXamt6UTA5TVJHUjNUalJRY1dSRVp6QlJieG9pUVVaWWNrVmpjREZVWlRKbGEySkJYM05pWDJSVmMzRTVPSEZWZDBodmJUbDVVUSIsImZjdiI6IjMiLCJlaSI6ImlTMEtaOTNDT0xEZHdONFBxZERnMFFvIiwicWMiOiJDZ1ZvYjNKelpSQUFmU2xjTHo4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzbGFuZyB3b3JkIGZvciBob3JzZT8iLCJsayI6IkdoUnpiR0Z1WnlCM2IzSmtJR1p2Y2lCb2IzSnpaUSIsImJzIjoiYzQzT3NRckNNQkFHWUZ4dmNoQXBRZVhzb0lKYk5nY3R6dTUyanMzRkJHS0RTVFNQNUVQNFprNksxcUVvNG56Zl9fOEhHOGhMTFNKS0kxRTdIeWpnS1pERTZIQkhXQWxyU1JiWjdjaHpocWtGUHgyc1lWaHFoeVpnMUlUT1NncXh3WFFtWDJSTFBtS0Q5SVBBQ3NiUGZ4b1FyS2ozbUp5WHFKeF93U0s3TG5pZjliN2RZQXZUVnI0eVZFZWpUSVcxT0R3R0ZZcDN5MlhPWjJ5U190TGR6aDAiLCJpZCI6ImZjXzEifQ%3D%3D"
+    },
+    {
+      "question": "What is the scientific name of a horse?",
+      "snippet": "Common names are given to organisms in the language of the people who live with them. For example, \"horse\", \"cheval\", \"el caballo\" and \"pferd\" are all common names for the organism with the scientific name Equus caballus .",
+      "title": "Equus caballus",
+      "info": "Horse / Scientific name",
+      "link": "https://www.usu.edu/herbarium/education/fun-facts-about-fungi/whats-in-a-name#:~:text=Common%20names%20are%20given%20to,the%20scientific%20name%20Equus%20caballus%20.",
+      "displayed_link": "https://www.usu.edu \u203a education \u203a fun-facts-about-fungi",
+      "source_logo": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/22321869773e057ef1e1780c3bcd90885822f7b408365c2c1d0f6badbbabeb02.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1gyMU1VbFppUTFGMVdTMUVjamhGYkZWNFNWZFdjbEUzVTA1eE1YTkJabkpFVjE4eVpFRmpPVk01TjJoR2IwSkpaalJrWW0xV1JGaDFjbXhhTWpsVFExbGpVRmgzRWhkcFV6QkxXamt6UTA5TVJHUjNUalJRY1dSRVp6QlJieG9pUVVaWWNrVmpjREZVWlRKbGEySkJYM05pWDJSVmMzRTVPSEZWZDBodmJUbDVVUSIsImZjdiI6IjMiLCJlaSI6ImlTMEtaOTNDT0xEZHdONFBxZERnMFFvIiwicWMiOiJDZ1ZvYjNKelpSQUFmU2xjTHo4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzY2llbnRpZmljIG5hbWUgb2YgYSBob3JzZT8iLCJsayI6IkdpWjNhR0YwSUdseklIUm9aU0J6WTJsbGJuUnBabWxqSUc1aGJXVWdiMllnWVNCb2IzSnpaUSIsImJzIjoiYzQzT3NRckNNQkFHWUZ4dmNoQXBRZVhzb0lKYk5nY3R6dTUyanMzRkJHS0RTVFNQNUVQNFprNksxcUVvNG56Zl9fOEhHOGhMTFNKS0kxRTdIeWpnS1pERTZIQkhXQWxyU1JiWjdjaHpocWtGUHgyc1lWaHFoeVpnMUlUT1NncXh3WFFtWDJSTFBtS0Q5SVBBQ3NiUGZ4b1FyS2ozbUp5WHFKeF93U0s3TG5pZjliN2RZQXZUVnI0eVZFZWpUSVcxT0R3R0ZZcDN5MlhPWjJ5U190TGR6aDAiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1gyMU1VbFppUTFGMVdTMUVjamhGYkZWNFNWZFdjbEUzVTA1eE1YTkJabkpFVjE4eVpFRmpPVk01TjJoR2IwSkpaalJrWW0xV1JGaDFjbXhhTWpsVFExbGpVRmgzRWhkcFV6QkxXamt6UTA5TVJHUjNUalJRY1dSRVp6QlJieG9pUVVaWWNrVmpjREZVWlRKbGEySkJYM05pWDJSVmMzRTVPSEZWZDBodmJUbDVVUSIsImZjdiI6IjMiLCJlaSI6ImlTMEtaOTNDT0xEZHdONFBxZERnMFFvIiwicWMiOiJDZ1ZvYjNKelpSQUFmU2xjTHo4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzY2llbnRpZmljIG5hbWUgb2YgYSBob3JzZT8iLCJsayI6IkdpWjNhR0YwSUdseklIUm9aU0J6WTJsbGJuUnBabWxqSUc1aGJXVWdiMllnWVNCb2IzSnpaUSIsImJzIjoiYzQzT3NRckNNQkFHWUZ4dmNoQXBRZVhzb0lKYk5nY3R6dTUyanMzRkJHS0RTVFNQNUVQNFprNksxcUVvNG56Zl9fOEhHOGhMTFNKS0kxRTdIeWpnS1pERTZIQkhXQWxyU1JiWjdjaHpocWtGUHgyc1lWaHFoeVpnMUlUT1NncXh3WFFtWDJSTFBtS0Q5SVBBQ3NiUGZ4b1FyS2ozbUp5WHFKeF93U0s3TG5pZjliN2RZQXZUVnI0eVZFZWpUSVcxT0R3R0ZZcDN5MlhPWjJ5U190TGR6aDAiLCJpZCI6ImZjXzEifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Horse",
+      "link": "https://en.wikipedia.org/wiki/Horse",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Horse&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQFnoECDwQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Horse",
+      "thumbnail": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/94680851e74d4c61c59feed2c4aa20f2df88490af8931ac00526c00da1121390.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/94680851e74d4c61c59feed2c4aa20f28428127103c67b6cb5b794ed7358ada4.webp",
+      "snippet": "The horse (Equus ferus caballus) is a domesticated, one-toed, hoofed mammal. It belongs to the taxonomic family Equidae and is one of two extant subspecies ...",
+      "snippet_highlighted_words": [
+        "horse"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "All About Horses",
+      "link": "https://www.amnh.org/explore/ology/zoology/all-about-horses",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amnh.org/explore/ology/zoology/all-about-horses&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQFnoECEkQAQ",
+      "displayed_link": "https://www.amnh.org \u203a explore \u203a ology \u203a zoology \u203a all...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8zqH_3-ibpW-wGUCkF98fJ5AWidBAHmqev6ybqS0&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/94680851e74d4c61c59feed2c4aa20f2ebba77c4b2b3e6b90ddf1fff2e5db709.webp",
+      "snippet": "Explore amazing facts about horse breeds. Find out about their colors, body types, and where in the world they come from.",
+      "snippet_highlighted_words": [
+        "horse"
+      ],
+      "source": "American Museum of Natural History"
+    },
+    {
+      "position": 3,
+      "title": "Breeds of Horses | Oklahoma State University",
+      "link": "https://breeds.okstate.edu/horses/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://breeds.okstate.edu/horses/&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQFnoECEYQAQ",
+      "displayed_link": "https://breeds.okstate.edu \u203a horses",
+      "favicon": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/94680851e74d4c61c59feed2c4aa20f24e6e069091cc21932df8da9b6bff7ec5.webp",
+      "snippet": "A complete list of equine breeds and their various origins, characteristics and physical qualities.",
+      "source": "Oklahoma State Breeds of Livestock"
+    },
+    {
+      "position": 4,
+      "title": "Horse | Definition, Breeds, Pictures, Evolution, & Facts",
+      "link": "https://www.britannica.com/animal/horse",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.britannica.com/animal/horse&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQFnoECEgQAQ",
+      "displayed_link": "https://www.britannica.com \u203a ... \u203a Hoofed Mammals",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc7vNl39pTDFCusyft3r9RCLNMjLXJR4jFLGBTRBM&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/94680851e74d4c61c59feed2c4aa20f24a53ea246488105d33030c3755103382.webp",
+      "snippet": "Horse, a hoofed herbivorous mammal of the family Equidae. It comprises a single species, Equus caballus, divided into numerous varieties.",
+      "snippet_highlighted_words": [
+        "Horse"
+      ],
+      "source": "Britannica"
+    },
+    {
+      "position": 5,
+      "title": "Horse Supplies | Horse Products & Equipment - Horse.com",
+      "link": "https://www.horse.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.horse.com/&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQFnoECFgQAQ",
+      "displayed_link": "https://www.horse.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwKTl4KSVKavviKHTtN-rC5dOixD6AlzUAanFlYxZuopi6KFLoMWa&s",
+      "favicon": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/94680851e74d4c61c59feed2c4aa20f2088fa123b68e290eceecbafeb043908d.webp",
+      "snippet": "Horse.com is your source for everything equine. From tack to horse supplies & riding accessories, we have what you need at the lowest prices, guaranteed!",
+      "snippet_highlighted_words": [
+        "Horse",
+        "horse"
+      ],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwKTl4KSVKavviKHTtN-rC5dOixD6AlzUAanFlYxZuopi6KFLoMWa&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB7AHEw_Yw-ly_1NforCsYdNrCG1n-MyT2AKCSa4w32vTvj4SvRpBi&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUikRht8UFRySs9F8sSnVChuJqAkT6N3YYSkxueYime504lEQL81_P&s"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 30
+          },
+          "extensions": [
+            "1",
+            "day delivery",
+            "\u200e30",
+            "day returns"
+          ]
+        }
+      },
+      "source": "Horse.com"
+    },
+    {
+      "position": 6,
+      "title": "Horse - an overview",
+      "link": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/horse",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/horse&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQFnoECEcQAQ",
+      "displayed_link": "https://www.sciencedirect.com \u203a topics \u203a horse",
+      "favicon": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/94680851e74d4c61c59feed2c4aa20f20d4c0afb2ced2e0aae17982c1d870ed3.webp",
+      "snippet": "Horses have been associated with humans for many years. It is thought that all domestic horses are descended from two wild horses (Equus ferus).",
+      "snippet_highlighted_words": [
+        "Horses",
+        "horses",
+        "horses"
+      ],
+      "source": "ScienceDirect.com"
+    },
+    {
+      "position": 7,
+      "title": "The Horse: Home",
+      "link": "https://thehorse.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thehorse.com/&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQFnoECE4QAQ",
+      "displayed_link": "https://thehorse.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1J_fPUoWas6kBXHKAQ-Q4NZZ9skHgN0oNKW4vomnWiRNihyeMxdQN&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/94680851e74d4c61c59feed2c4aa20f29d2c5d23d90dbe486088eaf19aa7fea5.webp",
+      "snippet": "Unlock exclusive content including the latest and most reliable news and information regarding equine health, care, management, and welfare through our magazine ...",
+      "source": "thehorse.com"
+    },
+    {
+      "position": 8,
+      "title": "Wild Horse and Burro Program",
+      "link": "https://www.blm.gov/whb",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.blm.gov/whb&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQFnoECGsQAQ",
+      "displayed_link": "https://www.blm.gov \u203a Programs",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvc-2Fp-KekuPCBxxA0MyMLNZw7BiCAs0C0Jcu-EbB9yAXMKeDgaqi&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/94680851e74d4c61c59feed2c4aa20f2613024f3b01148541832de4a4f1710fe.webp",
+      "snippet": "The Bureau of Land Management manages and protects wild horses and burros on 26.9 million acres of public lands across 10 Western states as part of its ...",
+      "snippet_highlighted_words": [
+        "horses"
+      ],
+      "source": "Bureau of Land Management (.gov)"
+    },
+    {
+      "position": 9,
+      "title": "horse",
+      "link": "http://www.horsebrand.co/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.horsebrand.co/&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQFnoECGoQAQ",
+      "displayed_link": "http://www.horsebrand.co",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFVSQjC1mL84yIegtEWfZhu0tMmt469hrTc3xwD80oWl7ag05EgFJf&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/94680851e74d4c61c59feed2c4aa20f254aa022f0299c2af4ba7f4ef8c4b0283.webp",
+      "snippet": "Handmade quality products, Made in the USA.",
+      "source": "horsebrand.co"
+    },
+    {
+      "position": 10,
+      "title": "Kentucky Horse Park",
+      "link": "https://kyhorsepark.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kyhorsepark.com/&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQFnoECHYQAQ",
+      "displayed_link": "https://kyhorsepark.com",
+      "favicon": "https://serpapi.com/searches/670a2d89c05eb574bc191651/images/94680851e74d4c61c59feed2c4aa20f2f124f0a4bce92a8b33f8b6b85a62a785.webp",
+      "snippet": "Equine Theme Park. Meet a champion. Explore history. Get in the saddle. Discover why they call Kentucky the Horse Capital of the World!",
+      "snippet_highlighted_words": [
+        "Horse"
+      ],
+      "source": "Kentucky Horse Park"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Arabian horse",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Arabian+horse&sa=X&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQ1QJ6BQiNARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Arabian+horse"
+    },
+    {
+      "block_position": 1,
+      "query": "Friesian horse",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Friesian+horse&sa=X&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQ1QJ6BQiRARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Friesian+horse"
+    },
+    {
+      "block_position": 1,
+      "query": "Horse and girl",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Horse+and+girl&sa=X&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQ1QJ6BQiSARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Horse+and+girl"
+    },
+    {
+      "block_position": 1,
+      "query": "Horse classification",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Horse+classification&sa=X&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQ1QJ6BQiPARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Horse+classification"
+    },
+    {
+      "block_position": 1,
+      "query": "5 uses of horse",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=5+uses+of+horse&sa=X&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQ1QJ6BQiQARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=5+uses+of+horse"
+    },
+    {
+      "block_position": 1,
+      "query": "Horse family",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Horse+family&sa=X&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQ1QJ6BQiOARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Horse+family"
+    },
+    {
+      "block_position": 1,
+      "query": "Horse phylum",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Horse+phylum&sa=X&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQ1QJ6BQiIARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Horse+phylum"
+    },
+    {
+      "block_position": 1,
+      "query": "Horse drawing",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Horse+drawing&sa=X&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQ1QJ6BQiMARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Horse+drawing"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=horse&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=iS0KZ93COLDdwN4PqdDg0Qo&start=10&sa=N&sstk=AagrsugE-QDqFeRB6W_VE-xDkoJVw1JOdQwSqnEHD1iKb5-qRjz4S80yFqO0_by3Rn0TbthqIpXKjNsdPY5Uba7eP0hpLaCJ6Fcmog&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQ8NMDegQIBxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=horse&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=iS0KZ93COLDdwN4PqdDg0Qo&start=10&sa=N&sstk=AagrsugE-QDqFeRB6W_VE-xDkoJVw1JOdQwSqnEHD1iKb5-qRjz4S80yFqO0_by3Rn0TbthqIpXKjNsdPY5Uba7eP0hpLaCJ6Fcmog&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQ8tMDegQIBxAE",
+      "3": "https://www.google.com/search?q=horse&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=iS0KZ93COLDdwN4PqdDg0Qo&start=20&sa=N&sstk=AagrsugE-QDqFeRB6W_VE-xDkoJVw1JOdQwSqnEHD1iKb5-qRjz4S80yFqO0_by3Rn0TbthqIpXKjNsdPY5Uba7eP0hpLaCJ6Fcmog&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQ8tMDegQIBxAG",
+      "4": "https://www.google.com/search?q=horse&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=iS0KZ93COLDdwN4PqdDg0Qo&start=30&sa=N&sstk=AagrsugE-QDqFeRB6W_VE-xDkoJVw1JOdQwSqnEHD1iKb5-qRjz4S80yFqO0_by3Rn0TbthqIpXKjNsdPY5Uba7eP0hpLaCJ6Fcmog&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQ8tMDegQIBxAI",
+      "5": "https://www.google.com/search?q=horse&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=iS0KZ93COLDdwN4PqdDg0Qo&start=40&sa=N&sstk=AagrsugE-QDqFeRB6W_VE-xDkoJVw1JOdQwSqnEHD1iKb5-qRjz4S80yFqO0_by3Rn0TbthqIpXKjNsdPY5Uba7eP0hpLaCJ6Fcmog&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQ8tMDegQIBxAK",
+      "6": "https://www.google.com/search?q=horse&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=iS0KZ93COLDdwN4PqdDg0Qo&start=50&sa=N&sstk=AagrsugE-QDqFeRB6W_VE-xDkoJVw1JOdQwSqnEHD1iKb5-qRjz4S80yFqO0_by3Rn0TbthqIpXKjNsdPY5Uba7eP0hpLaCJ6Fcmog&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQ8tMDegQIBxAM",
+      "7": "https://www.google.com/search?q=horse&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=iS0KZ93COLDdwN4PqdDg0Qo&start=60&sa=N&sstk=AagrsugE-QDqFeRB6W_VE-xDkoJVw1JOdQwSqnEHD1iKb5-qRjz4S80yFqO0_by3Rn0TbthqIpXKjNsdPY5Uba7eP0hpLaCJ6Fcmog&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQ8tMDegQIBxAO",
+      "8": "https://www.google.com/search?q=horse&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=iS0KZ93COLDdwN4PqdDg0Qo&start=70&sa=N&sstk=AagrsugE-QDqFeRB6W_VE-xDkoJVw1JOdQwSqnEHD1iKb5-qRjz4S80yFqO0_by3Rn0TbthqIpXKjNsdPY5Uba7eP0hpLaCJ6Fcmog&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQ8tMDegQIBxAQ",
+      "9": "https://www.google.com/search?q=horse&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=iS0KZ93COLDdwN4PqdDg0Qo&start=80&sa=N&sstk=AagrsugE-QDqFeRB6W_VE-xDkoJVw1JOdQwSqnEHD1iKb5-qRjz4S80yFqO0_by3Rn0TbthqIpXKjNsdPY5Uba7eP0hpLaCJ6Fcmog&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQ8tMDegQIBxAS",
+      "10": "https://www.google.com/search?q=horse&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=iS0KZ93COLDdwN4PqdDg0Qo&start=90&sa=N&sstk=AagrsugE-QDqFeRB6W_VE-xDkoJVw1JOdQwSqnEHD1iKb5-qRjz4S80yFqO0_by3Rn0TbthqIpXKjNsdPY5Uba7eP0hpLaCJ6Fcmog&ved=2ahUKEwidq_fqsIiJAxWwLtAFHSkoOKoQ8tMDegQIBxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=horse&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=horse&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=horse&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=horse&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=horse&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=horse&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=horse&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=horse&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=horse&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=horse&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=horse&start=90"
+    }
+  }
+}

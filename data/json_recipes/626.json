@@ -1,0 +1,546 @@
+{
+  "search_metadata": {
+    "id": "670a2e1a17b10ea10381fde1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9c454e38c114b606/670a2e1a17b10ea10381fde1.json",
+    "created_at": "2024-10-12 08:06:50 UTC",
+    "processed_at": "2024-10-12 08:06:50 UTC",
+    "google_url": "https://www.google.com/search?q=pink+salmon&oq=pink+salmon&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/9c454e38c114b606/670a2e1a17b10ea10381fde1.html",
+    "total_time_taken": 1.02
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "pink salmon",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "pink salmon",
+    "total_results": 188000000,
+    "time_taken_displayed": 0.38,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "title": "Pink salmon",
+    "type": "Fish",
+    "entity_type": "biology, animal",
+    "main_tab_text": "Overview",
+    "kgmid": "/m/0638bm",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0638bm&hl=en-US&q=Pink+salmon&shndl=17&source=sh/x/kp/osrp/m5/1",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0638bm&location=Austin%2CTexas%2CUnited+States&q=Pink+salmon",
+    "tabs": [
+      {
+        "text": "Reproduction",
+        "si": "ACC90nwLAxg6K7U70mr7yQleljuWSIKgGF_J2wKu1Y97R9H_09Y1N6CWeoaW5y1iXHY8ezm8j88UoKyCUpqIOnM2B_1POIhaIRPz11zhs6yYpjmAnB6r8geooiLcFxjhURi59Pmr2r3QsN2D3E8rh7gOKHZYaMbOsczFugUFK9lZU1hg8NC8iJ4=",
+        "link": "https://www.google.com/search?si=ACC90nwLAxg6K7U70mr7yQleljuWSIKgGF_J2wKu1Y97R9H_09Y1N6CWeoaW5y1iXHY8ezm8j88UoKyCUpqIOnM2B_1POIhaIRPz11zhs6yYpjmAnB6r8geooiLcFxjhURi59Pmr2r3QsN2D3E8rh7gOKHZYaMbOsczFugUFK9lZU1hg8NC8iJ4=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pink+salmon&si=ACC90nwLAxg6K7U70mr7yQleljuWSIKgGF_J2wKu1Y97R9H_09Y1N6CWeoaW5y1iXHY8ezm8j88UoKyCUpqIOnM2B_1POIhaIRPz11zhs6yYpjmAnB6r8geooiLcFxjhURi59Pmr2r3QsN2D3E8rh7gOKHZYaMbOsczFugUFK9lZU1hg8NC8iJ4%3D"
+      },
+      {
+        "text": "Habitat",
+        "si": "ACC90nzYn15_7yExaUTmXTF9Uuhktlnhtl26kqrBFbL_ZhUPY0Unp7y6dbqP4alForlY7pDmfw_dZUB1nD2xDcbY6rBeSFGRwSBZNSx3I76FE-blxcN6Ebu8rukTMs4p6cQaOuUqkv_c",
+        "link": "https://www.google.com/search?si=ACC90nzYn15_7yExaUTmXTF9Uuhktlnhtl26kqrBFbL_ZhUPY0Unp7y6dbqP4alForlY7pDmfw_dZUB1nD2xDcbY6rBeSFGRwSBZNSx3I76FE-blxcN6Ebu8rukTMs4p6cQaOuUqkv_c",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pink+salmon&si=ACC90nzYn15_7yExaUTmXTF9Uuhktlnhtl26kqrBFbL_ZhUPY0Unp7y6dbqP4alForlY7pDmfw_dZUB1nD2xDcbY6rBeSFGRwSBZNSx3I76FE-blxcN6Ebu8rukTMs4p6cQaOuUqkv_c"
+      },
+      {
+        "text": "Life cycle",
+        "si": "ACC90nzr3GH9S1rA8GIMAu7hyfoONAEuOZqAfj7eoT4xd2ySkgAklcR8NLztqoOeuMjVXlwmnIigNgdJyOmGdoZKKjtePeJJuiTUYfpEku5kDP8h-g8gXkge__uJNkGsdmiZWKblKwDH",
+        "link": "https://www.google.com/search?si=ACC90nzr3GH9S1rA8GIMAu7hyfoONAEuOZqAfj7eoT4xd2ySkgAklcR8NLztqoOeuMjVXlwmnIigNgdJyOmGdoZKKjtePeJJuiTUYfpEku5kDP8h-g8gXkge__uJNkGsdmiZWKblKwDH",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pink+salmon&si=ACC90nzr3GH9S1rA8GIMAu7hyfoONAEuOZqAfj7eoT4xd2ySkgAklcR8NLztqoOeuMjVXlwmnIigNgdJyOmGdoZKKjtePeJJuiTUYfpEku5kDP8h-g8gXkge__uJNkGsdmiZWKblKwDH"
+      },
+      {
+        "text": "Lifespan",
+        "si": "ACC90nw_jexIbGO2K-hwhurXM6lDB4c33254kRWcHvzHXA3Px0yDJ0iC1P6QB3tYBoUL55gSqpm4sukGXF_Oq-Up86mtTziL1Yy9Z3sNB2mNmAqLV_bwiKyWA2avcL7DgwCTMENof8rCVrQqVlCEhoztQ9uPk--thg==",
+        "link": "https://www.google.com/search?si=ACC90nw_jexIbGO2K-hwhurXM6lDB4c33254kRWcHvzHXA3Px0yDJ0iC1P6QB3tYBoUL55gSqpm4sukGXF_Oq-Up86mtTziL1Yy9Z3sNB2mNmAqLV_bwiKyWA2avcL7DgwCTMENof8rCVrQqVlCEhoztQ9uPk--thg==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pink+salmon&si=ACC90nw_jexIbGO2K-hwhurXM6lDB4c33254kRWcHvzHXA3Px0yDJ0iC1P6QB3tYBoUL55gSqpm4sukGXF_Oq-Up86mtTziL1Yy9Z3sNB2mNmAqLV_bwiKyWA2avcL7DgwCTMENof8rCVrQqVlCEhoztQ9uPk--thg%3D%3D"
+      },
+      {
+        "text": "Diet",
+        "si": "ACC90nyH1E0GWbIqSZMS0XIemZoOs5zirH7XHzNK6e6Pf26fcGnHLLpbhQmw3HLsqTtyXJR_xMGZCZz2gG4vEXNUc-HSZoe4JdF9FgGtgBpnhksjDyZIg2AL1gdJu2DbYAbsptfCcDND",
+        "link": "https://www.google.com/search?si=ACC90nyH1E0GWbIqSZMS0XIemZoOs5zirH7XHzNK6e6Pf26fcGnHLLpbhQmw3HLsqTtyXJR_xMGZCZz2gG4vEXNUc-HSZoe4JdF9FgGtgBpnhksjDyZIg2AL1gdJu2DbYAbsptfCcDND",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pink+salmon&si=ACC90nyH1E0GWbIqSZMS0XIemZoOs5zirH7XHzNK6e6Pf26fcGnHLLpbhQmw3HLsqTtyXJR_xMGZCZz2gG4vEXNUc-HSZoe4JdF9FgGtgBpnhksjDyZIg2AL1gdJu2DbYAbsptfCcDND"
+      }
+    ],
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2e1a17b10ea10381fde1/images/00abae6fddb1733594881ce546cb38be0f940a69ceb7e4419876d812a72602a760e25b7c93d8861b.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2e1a17b10ea10381fde1/images/00abae6fddb1733594881ce546cb38be0f940a69ceb7e441fb727d15275d22a74c99a8edd7d5d1e7.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2e1a17b10ea10381fde1/images/00abae6fddb1733594881ce546cb38be0f940a69ceb7e44168c90e1c274fd1e33a720e1060403c88.webp"
+      }
+    ],
+    "description": "Pink salmon or humpback salmon is a species of euryhaline ray-finned fish in the family Salmonidae. It is the type species of the genus Oncorhynchus, and is the smallest and most abundant of the seven officially recognized species of salmon.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Pink_salmon"
+    },
+    "scientific_name": "Oncorhynchus gorbuscha",
+    "mass": "8.2 lbs (Adult) Encyclopedia of Life",
+    "mass_links": [
+      {
+        "text": "Encyclopedia of Life",
+        "link": "http://eol.org/traitbank"
+      }
+    ],
+    "length": "20 to 25 inches noaa.gov",
+    "length_links": [
+      {
+        "text": "noaa.gov",
+        "link": "https://www.fisheries.noaa.gov/species/pink-salmon"
+      }
+    ],
+    "class": "Actinopterygii",
+    "class_links": [
+      {
+        "text": "Actinopterygii",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Actinopterygii&stick=H4sIAAAAAAAAAONgVmLXz9U3yEpOWcTK55hckpmXX1CSWlSZnpkJAPekSnMcAAAA&sa=X&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQmxMoAHoECBIQAg"
+      }
+    ],
+    "domain": "Eukaryota",
+    "family": "Salmonidae",
+    "genus": "Oncorhynchus",
+    "web_results": [
+      {
+        "thumbnail": "https://serpapi.com/searches/670a2e1a17b10ea10381fde1/images/00abae6fddb1733594881ce546cb38bea1eede04e27c816d318806fda9e08fbe6f6818fdccdcd7ac.jpeg",
+        "title": "Facts: The Pink Salmon",
+        "snippet": "Quick facts about this commonly fished salmon species! The pink salmon (Oncorhynchus gorbuscha, humpback salmon). Pink salmon facts!",
+        "source": "YouTube \u2022 Deep Marine Scenes",
+        "source_image": "https://serpapi.com/searches/670a2e1a17b10ea10381fde1/images/00abae6fddb1733594881ce546cb38bea1eede04e27c816d678eafa66aba4f54c85dbe8ae797dc3ae23b8aa068c0fb8b.png",
+        "link": "https://www.youtube.com/watch?v=L9MT_viQkok",
+        "duration": "3:37"
+      },
+      {
+        "title": "Extinction status",
+        "snippet": "Not extinct",
+        "source": "Encyclopedia of Life",
+        "link": "http://eol.org/"
+      },
+      {
+        "title": "Mass",
+        "snippet": "8.2 lbs Adult",
+        "source": "Encyclopedia of Life",
+        "link": "http://eol.org/traitbank"
+      },
+      {
+        "title": "Acute Toxicity Testing of Pink Salmon (Oncorhynchus ...",
+        "snippet": "N-(1,3-dimethylbutyl)-N'-phenyl-p-phenylenediamine-quinone (6PPD-quinone) is a widespread contaminant of emerging concern resulting from ...",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/38651991/"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Atlantic salmon (Trending)",
+        "extensions": [
+          "Trending"
+        ],
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L-n_YqekbBSq6V-9DkBjygzceu0Zi131B9KzHAccwh-tajsN0UKj-YaDGflc6n54eDgTVZO5j_E3UqoZPMlmTOPmnErHrs01Wq8DlMAuESulTqWkvDVsIs_55CC71NCg9T11CWxl5tIbsmnB-u6iia8HZIHxBOWA6rstmQbR8SNXyvl4DSCpEwzMfZNmTIitG8TKMsnPIMaBQ0KGgO7dS7wLuJ1n8-zD9lUdueBPzluEMA12IzbYFo8zqXu1_BD2O7JDXfg%3D&q=Atlantic+salmon&sa=X&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQs9oBKAB6BAgZEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Atlantic+salmon&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L-n_YqekbBSq6V-9DkBjygzceu0Zi131B9KzHAccwh-tajsN0UKj-YaDGflc6n54eDgTVZO5j_E3UqoZPMlmTOPmnErHrs01Wq8DlMAuESulTqWkvDVsIs_55CC71NCg9T11CWxl5tIbsmnB-u6iia8HZIHxBOWA6rstmQbR8SNXyvl4DSCpEwzMfZNmTIitG8TKMsnPIMaBQ0KGgO7dS7wLuJ1n8-zD9lUdueBPzluEMA12IzbYFo8zqXu1_BD2O7JDXfg%3D",
+        "image": "https://serpapi.com/searches/670a2e1a17b10ea10381fde1/images/00abae6fddb1733594881ce546cb38bef5eb346c75e384c0248f849deea442fd69f96ee0b4f98976ea582ca97ce2b208.jpeg"
+      },
+      {
+        "name": "Sockeye salmon",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L6-X27rpgT3OTz6uVDDUQIYwgdMXHlqKTIOZF3chvbVx2LeJEeM9ywLCgN2VhZCEKF-cQdejlTmSCAD2WdQCjad-8b_wU3Y1uyYCjOyzGyvC0aw2NELnY_roToywZBjHDZML1LTmeXy4Gukf59rqBZNnfnBuT8lR_SGc9M6HqxIwKLy7dJ2OLquQ9D8ouWjNg_qgDLQCXzoMki4y8rh9tqmKxS0HJHh_Z6qzPQanypoxsnncBVoxZzA8pe-_FAlOhU1Q2nA%3D&q=Sockeye+salmon&sa=X&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQs9oBKAB6BAgZEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Sockeye+salmon&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L6-X27rpgT3OTz6uVDDUQIYwgdMXHlqKTIOZF3chvbVx2LeJEeM9ywLCgN2VhZCEKF-cQdejlTmSCAD2WdQCjad-8b_wU3Y1uyYCjOyzGyvC0aw2NELnY_roToywZBjHDZML1LTmeXy4Gukf59rqBZNnfnBuT8lR_SGc9M6HqxIwKLy7dJ2OLquQ9D8ouWjNg_qgDLQCXzoMki4y8rh9tqmKxS0HJHh_Z6qzPQanypoxsnncBVoxZzA8pe-_FAlOhU1Q2nA%3D",
+        "image": "https://serpapi.com/searches/670a2e1a17b10ea10381fde1/images/00abae6fddb1733594881ce546cb38bef5eb346c75e384c0248f849deea442fd665354cd1e08b6020f04d99f9fbef462.jpeg"
+      },
+      {
+        "name": "Coho salmon",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L7uq83qTx3pRum8Cbip-FQZ6yyMhwP12Y9fi4o04nYeb06m8eF5dfV0KiCKTsVf_08yUUj9x4a4TWSL-6weIWO9yp4EzLRZhyswF-ZGrCWyvOCrX3jZbcrLaRiunMwoB2-qCiDoxAd8ywlHoJkZpQfcIGUUWX1Di7mXE1_PS08wqTtmt7r0U9p82L1Odo0HSo4U9D3ec1f50OY9S4DvI-vbCA-pOa6ibfGgAL7C5jXvSO8-cRfXtweYb9Ow99MSBrz2vXDM%3D&q=Coho+salmon&sa=X&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQs9oBKAB6BAgZEA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Coho+salmon&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L7uq83qTx3pRum8Cbip-FQZ6yyMhwP12Y9fi4o04nYeb06m8eF5dfV0KiCKTsVf_08yUUj9x4a4TWSL-6weIWO9yp4EzLRZhyswF-ZGrCWyvOCrX3jZbcrLaRiunMwoB2-qCiDoxAd8ywlHoJkZpQfcIGUUWX1Di7mXE1_PS08wqTtmt7r0U9p82L1Odo0HSo4U9D3ec1f50OY9S4DvI-vbCA-pOa6ibfGgAL7C5jXvSO8-cRfXtweYb9Ow99MSBrz2vXDM%3D",
+        "image": "https://serpapi.com/searches/670a2e1a17b10ea10381fde1/images/00abae6fddb1733594881ce546cb38bef5eb346c75e384c0248f849deea442fdb70b20336e79ce4051bd9b77c87b0c78.jpeg"
+      },
+      {
+        "name": "Atlantic cod (Trending)",
+        "extensions": [
+          "Trending"
+        ],
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmwxk_58am2VaZiBxN-hc34JabbJc-vywVnA5SurlppgJtjcmCq0v6tNa2i2o8LBrh_AIO43twwWBezh7Xadj-RYxMDmXw36iGAN_Vn6s6_BQAWYhgg7nXYcmrtH8vwDHZa9ISJMVXxDG7enKILtxUUJ3gtMjX4WdgP5in07_k7QcBUPleRO-p6ZVI8cxENimSmtee8RVP3hW16bvJEWwjEhGWeKN70nSn-lSJgLHbz1tqZKNMHOjC1xdYy6aKyCC_id8BsQ%3D&q=Atlantic+cod&sa=X&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQs9oBKAB6BAgZEBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Atlantic+cod&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmwxk_58am2VaZiBxN-hc34JabbJc-vywVnA5SurlppgJtjcmCq0v6tNa2i2o8LBrh_AIO43twwWBezh7Xadj-RYxMDmXw36iGAN_Vn6s6_BQAWYhgg7nXYcmrtH8vwDHZa9ISJMVXxDG7enKILtxUUJ3gtMjX4WdgP5in07_k7QcBUPleRO-p6ZVI8cxENimSmtee8RVP3hW16bvJEWwjEhGWeKN70nSn-lSJgLHbz1tqZKNMHOjC1xdYy6aKyCC_id8BsQ%3D",
+        "image": "https://serpapi.com/searches/670a2e1a17b10ea10381fde1/images/00abae6fddb1733594881ce546cb38bef5eb346c75e384c0248f849deea442fd408b406f7b4a1549d01cc134c4afe1f6.jpeg"
+      }
+    ]
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "The Poor Persecuted Pink Salmon \u2013 Alaska Fishing",
+      "link": "https://www.youtube.com/watch?v=WzPFFcRqW0c",
+      "thumbnail": "https://i.ytimg.com/vi/WzPFFcRqW0c/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3nYHcl59bB9ARxZlC8mPmFQhCX6RA",
+      "channel": "Three Minutes Outdoors",
+      "duration": "3:58",
+      "date": "Aug 26, 2023"
+    },
+    {
+      "position": 2,
+      "title": "Pink Salmon Frenzy: Sault Ste. Marie Fishing Adventure ...",
+      "link": "https://m.youtube.com/watch?v=h_fL1dsjzfI",
+      "thumbnail": "https://i.ytimg.com/vi/h_fL1dsjzfI/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3mODrT3JnFSVv3z6b8KKjd4nPCX-w",
+      "channel": "Fisherman's Digest",
+      "duration": "19:54",
+      "date": "1 month ago"
+    },
+    {
+      "position": 3,
+      "title": "Facts: The Pink Salmon",
+      "link": "https://www.youtube.com/watch?v=L9MT_viQkok",
+      "thumbnail": "https://i.ytimg.com/vi/L9MT_viQkok/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kh9ICoziELS3hK6Lbq62oQEGiYUA",
+      "channel": "Deep Marine Scenes",
+      "duration": "3:37",
+      "date": "Feb 24, 2023",
+      "key_moments": [
+        {
+          "time": "00:25",
+          "title": "Pink Salmon Can Be Distinguished from Other Pacific Salmon",
+          "link": "https://www.youtube.com/watch?v=L9MT_viQkok&t=25",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi4-iVr8cpq2ECpHfib_0FC7nYWn1um2YZ-7pwb4-4TA&s"
+        },
+        {
+          "time": "00:56",
+          "title": "Pink Salmon Do Not Reside in Fresh Water",
+          "link": "https://www.youtube.com/watch?v=L9MT_viQkok&t=56",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2WWMlX0-hQPgDg9LSofEpd_glxnt-tiVQOTBCI0quLg&s"
+        },
+        {
+          "time": "01:35",
+          "title": "Breeding Males",
+          "link": "https://www.youtube.com/watch?v=L9MT_viQkok&t=95",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOZpxUycopyCGNVFIebDPDwUIbOtnOdSebfKxJRr_dQ&s"
+        }
+      ]
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is pink salmon good eating?",
+      "snippet": "They are also an excellent salmon for children to fish for because they're easy to hook, and easy to land due to their smaller size. Pink salmon are also very good to eat when caught in the ocean, or just returning to spawn. Their pale flesh has a mild taste and excellent texture.",
+      "title": "Pink Salmon Species Profile, Alaska Department of Fish and Game",
+      "link": "https://www.adfg.alaska.gov/index.cfm?adfg=pinksalmon.printerfriendly#:~:text=They%20are%20also%20an%20excellent,mild%20taste%20and%20excellent%20texture.",
+      "displayed_link": "https://www.adfg.alaska.gov \u203a adfg=pinksalmon.printerfri...",
+      "source_logo": "https://serpapi.com/searches/670a2e1a17b10ea10381fde1/images/5d2cc3f960604df46f16f22bd38411f226c9a78026778986bb367230438e7c71.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1puUXlSRFI1YlV4bVF6ZDRORmRMVjBwVU1XaDROMjFTYlVVMVdGWlFRV0ZvTmxOUGJGVTFlbVpCUkRSVFMwcE5hMjVIWDFVM1UxVTJUMlkzWjJsMGFuaE1UVnBWRWhkSGFUUkxXamRVWTBndFJGWTFUbTlRZUZCRFltbFJheG9pUVVaWWNrVmpjVXRTTFhCaWVWaEtiVlZZVDJzemRuWk1PVzFNVG5wb01reHFVUSIsImZjdiI6IjMiLCJlaSI6IkdpNEtaN1RjSC1EVjVOb1B4UENiaVFrIiwicWMiOiJDZ3R3YVc1cklITmhiRzF2YmhBQWZTLUVOVDgiLCJxdWVzdGlvbiI6IklzIHBpbmsgc2FsbW9uIGdvb2QgZWF0aW5nPyIsImxrIjoiR2hkd2FXNXJJSE5oYkcxdmJpQm5iMjlrSUdWaGRHbHVadyIsImJzIjoiYy1PeTVwTDJMRllveU16TFZpaE96TW5OejFOSXo4OVBVVWhOTE1uTVM3ZVhPTVpvSkNrbGprT2F5NDFMSGsxelVtcEpTV3FSUWtsR1lwNUNVV3FLdmNUbFRDTUZLYmxNdktxNDdEQWNVWlNhbUFObDIwdmNGRFNTa1pMS3hLbUN5NEZMSmp5alVnRk5SWEctUW5KR2FtS0J2Y1JxVlNOWktlbHkzRW9FR0FFIiwiaWQiOiJmY19HaTRLWjdUY0gtRFY1Tm9QeFBDYmlRa18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1puUXlSRFI1YlV4bVF6ZDRORmRMVjBwVU1XaDROMjFTYlVVMVdGWlFRV0ZvTmxOUGJGVTFlbVpCUkRSVFMwcE5hMjVIWDFVM1UxVTJUMlkzWjJsMGFuaE1UVnBWRWhkSGFUUkxXamRVWTBndFJGWTFUbTlRZUZCRFltbFJheG9pUVVaWWNrVmpjVXRTTFhCaWVWaEtiVlZZVDJzemRuWk1PVzFNVG5wb01reHFVUSIsImZjdiI6IjMiLCJlaSI6IkdpNEtaN1RjSC1EVjVOb1B4UENiaVFrIiwicWMiOiJDZ3R3YVc1cklITmhiRzF2YmhBQWZTLUVOVDgiLCJxdWVzdGlvbiI6IklzIHBpbmsgc2FsbW9uIGdvb2QgZWF0aW5nPyIsImxrIjoiR2hkd2FXNXJJSE5oYkcxdmJpQm5iMjlrSUdWaGRHbHVadyIsImJzIjoiYy1PeTVwTDJMRllveU16TFZpaE96TW5OejFOSXo4OVBVVWhOTE1uTVM3ZVhPTVpvSkNrbGprT2F5NDFMSGsxelVtcEpTV3FSUWtsR1lwNUNVV3FLdmNUbFRDTUZLYmxNdktxNDdEQWNVWlNhbUFObDIwdmNGRFNTa1pMS3hLbUN5NEZMSmp5alVnRk5SWEctUW5KR2FtS0J2Y1JxVlNOWktlbHkzRW9FR0FFIiwiaWQiOiJmY19HaTRLWjdUY0gtRFY1Tm9QeFBDYmlRa18xIn0%3D"
+    },
+    {
+      "question": "Is pink salmon better than red?",
+      "snippet": "The two common types of wild salmon are pink and sockeye. Pink salmon is the smallest species and is found in the Arctic and Pacific waters. Sockeye is often called \"red salmon\" due to its deeper hue. It has a higher fat content and is more flavorful than pink salmon.",
+      "title": "The 8 Best Canned Salmon of 2024: Taste Tested - The Spruce Eats",
+      "date": "Feb 4, 2024",
+      "link": "https://www.thespruceeats.com/best-canned-salmons-4843935#:~:text=The%20two%20common%20types%20of,more%20flavorful%20than%20pink%20salmon.",
+      "displayed_link": "https://www.thespruceeats.com \u203a best-canned-salmons-484...",
+      "source_logo": "https://serpapi.com/searches/670a2e1a17b10ea10381fde1/images/5d2cc3f960604df46f16f22bd38411f210b5d18581297c3b58edb666a4ef03f4.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1puUXlSRFI1YlV4bVF6ZDRORmRMVjBwVU1XaDROMjFTYlVVMVdGWlFRV0ZvTmxOUGJGVTFlbVpCUkRSVFMwcE5hMjVIWDFVM1UxVTJUMlkzWjJsMGFuaE1UVnBWRWhkSGFUUkxXamRVWTBndFJGWTFUbTlRZUZCRFltbFJheG9pUVVaWWNrVmpjVXRTTFhCaWVWaEtiVlZZVDJzemRuWk1PVzFNVG5wb01reHFVUSIsImZjdiI6IjMiLCJlaSI6IkdpNEtaN1RjSC1EVjVOb1B4UENiaVFrIiwicWMiOiJDZ3R3YVc1cklITmhiRzF2YmhBQWZTLUVOVDgiLCJxdWVzdGlvbiI6IklzIHBpbmsgc2FsbW9uIGJldHRlciB0aGFuIHJlZD8iLCJsayI6IkdoNXBjeUJ3YVc1cklITmhiRzF2YmlCaVpYUjBaWElnZEdoaGJpQnlaV1EiLCJicyI6ImMtT3k1cEwyTEZZb3lNekxWaWhPek1uTnoxTkl6ODlQVVVoTkxNbk1TN2VYT01ab0pDa2xqa09heTQxTEhrMXpVbXBKU1dxUlFrbEdZcDVDVVdxS3ZjVGxUQ01GS2JsTXZLcTQ3REFjVVpTYW1BTmwyMHZjRkRTU2taTEt4S21DeTRGTEpqeWpVZ0ZOUlhHLVFuSkdhbUtCdmNScVZTTlpLZWx5M0VvRUdBRSIsImlkIjoiZmNfR2k0S1o3VGNILURWNU5vUHhQQ2JpUWtfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1puUXlSRFI1YlV4bVF6ZDRORmRMVjBwVU1XaDROMjFTYlVVMVdGWlFRV0ZvTmxOUGJGVTFlbVpCUkRSVFMwcE5hMjVIWDFVM1UxVTJUMlkzWjJsMGFuaE1UVnBWRWhkSGFUUkxXamRVWTBndFJGWTFUbTlRZUZCRFltbFJheG9pUVVaWWNrVmpjVXRTTFhCaWVWaEtiVlZZVDJzemRuWk1PVzFNVG5wb01reHFVUSIsImZjdiI6IjMiLCJlaSI6IkdpNEtaN1RjSC1EVjVOb1B4UENiaVFrIiwicWMiOiJDZ3R3YVc1cklITmhiRzF2YmhBQWZTLUVOVDgiLCJxdWVzdGlvbiI6IklzIHBpbmsgc2FsbW9uIGJldHRlciB0aGFuIHJlZD8iLCJsayI6IkdoNXBjeUJ3YVc1cklITmhiRzF2YmlCaVpYUjBaWElnZEdoaGJpQnlaV1EiLCJicyI6ImMtT3k1cEwyTEZZb3lNekxWaWhPek1uTnoxTkl6ODlQVVVoTkxNbk1TN2VYT01ab0pDa2xqa09heTQxTEhrMXpVbXBKU1dxUlFrbEdZcDVDVVdxS3ZjVGxUQ01GS2JsTXZLcTQ3REFjVVpTYW1BTmwyMHZjRkRTU2taTEt4S21DeTRGTEpqeWpVZ0ZOUlhHLVFuSkdhbUtCdmNScVZTTlpLZWx5M0VvRUdBRSIsImlkIjoiZmNfR2k0S1o3VGNILURWNU5vUHhQQ2JpUWtfMSJ9"
+    },
+    {
+      "question": "Is pink salmon real salmon?",
+      "snippet": "Farm-raised salmon is naturally gray; the pink color is added. Wild salmon is naturally pink due to their diet which includes astaxanthin, a reddish-orange compound found in krill and shrimp. Farm-raised salmon, however, eat whatever farmers throw into their pen.",
+      "title": "Your Salmon Might Be Lying To You: Farm-Raised Salmon Isn't Naturally ...",
+      "date": "Jun 22, 2017",
+      "link": "https://www.foodandwine.com/news/your-salmon-might-be-lying-you-farm-raised-salmon-isn-t-naturally-pink#:~:text=Farm%2Draised%20salmon%20is%20naturally,farmers%20throw%20into%20their%20pen.",
+      "displayed_link": "https://www.foodandwine.com \u203a news \u203a your-salmon-mig...",
+      "source_logo": "https://serpapi.com/searches/670a2e1a17b10ea10381fde1/images/5d2cc3f960604df46f16f22bd38411f2304e425708302085cf37b37b222ec2be.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1puUXlSRFI1YlV4bVF6ZDRORmRMVjBwVU1XaDROMjFTYlVVMVdGWlFRV0ZvTmxOUGJGVTFlbVpCUkRSVFMwcE5hMjVIWDFVM1UxVTJUMlkzWjJsMGFuaE1UVnBWRWhkSGFUUkxXamRVWTBndFJGWTFUbTlRZUZCRFltbFJheG9pUVVaWWNrVmpjVXRTTFhCaWVWaEtiVlZZVDJzemRuWk1PVzFNVG5wb01reHFVUSIsImZjdiI6IjMiLCJlaSI6IkdpNEtaN1RjSC1EVjVOb1B4UENiaVFrIiwicWMiOiJDZ3R3YVc1cklITmhiRzF2YmhBQWZTLUVOVDgiLCJxdWVzdGlvbiI6IklzIHBpbmsgc2FsbW9uIHJlYWwgc2FsbW9uPyIsImxrIjoiYzVPU3lpeFdLTWpNeTFZb1Rzekp6YzlUS0VwTnpJR3lBUSIsImJzIjoiYy1PeTVwTDJMRllveU16TFZpaE96TW5OejFOSXo4OVBVVWhOTE1uTVM3ZVhPTVpvSkNrbGprT2F5NDFMSGsxelVtcEpTV3FSUWtsR1lwNUNVV3FLdmNUbFRDTUZLYmxNdktxNDdEQWNVWlNhbUFObDIwdmNGRFNTa1pMS3hLbUN5NEZMSmp5alVnRk5SWEctUW5KR2FtS0J2Y1JxVlNOWktlbHkzRW9FR0FFIiwiaWQiOiJmY19HaTRLWjdUY0gtRFY1Tm9QeFBDYmlRa18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1puUXlSRFI1YlV4bVF6ZDRORmRMVjBwVU1XaDROMjFTYlVVMVdGWlFRV0ZvTmxOUGJGVTFlbVpCUkRSVFMwcE5hMjVIWDFVM1UxVTJUMlkzWjJsMGFuaE1UVnBWRWhkSGFUUkxXamRVWTBndFJGWTFUbTlRZUZCRFltbFJheG9pUVVaWWNrVmpjVXRTTFhCaWVWaEtiVlZZVDJzemRuWk1PVzFNVG5wb01reHFVUSIsImZjdiI6IjMiLCJlaSI6IkdpNEtaN1RjSC1EVjVOb1B4UENiaVFrIiwicWMiOiJDZ3R3YVc1cklITmhiRzF2YmhBQWZTLUVOVDgiLCJxdWVzdGlvbiI6IklzIHBpbmsgc2FsbW9uIHJlYWwgc2FsbW9uPyIsImxrIjoiYzVPU3lpeFdLTWpNeTFZb1Rzekp6YzlUS0VwTnpJR3lBUSIsImJzIjoiYy1PeTVwTDJMRllveU16TFZpaE96TW5OejFOSXo4OVBVVWhOTE1uTVM3ZVhPTVpvSkNrbGprT2F5NDFMSGsxelVtcEpTV3FSUWtsR1lwNUNVV3FLdmNUbFRDTUZLYmxNdktxNDdEQWNVWlNhbUFObDIwdmNGRFNTa1pMS3hLbUN5NEZMSmp5alVnRk5SWEctUW5KR2FtS0J2Y1JxVlNOWktlbHkzRW9FR0FFIiwiaWQiOiJmY19HaTRLWjdUY0gtRFY1Tm9QeFBDYmlRa18xIn0%3D"
+    },
+    {
+      "question": "Why is pink salmon so cheap?",
+      "snippet": "This is why Reds are so expensive. The problem with lighter colored and pinker fleshed salmon (chinooks, pinks) is that they compete against farmed Atlantic salmon, which are of a comparable color and quality. Since there is so much Atlantic on the market, the prices for these are all lower.",
+      "title": "Why is red salmon so much more expensive than pink ... - Foodies!",
+      "date": "Oct 13, 2022",
+      "link": "https://foodie.quora.com/Why-is-red-salmon-so-much-more-expensive-than-pink-salmon#:~:text=This%20is%20why%20Reds%20are,for%20these%20are%20all%20lower.",
+      "displayed_link": "https://foodie.quora.com \u203a Why-is-red-salmon-so-much-m...",
+      "source_logo": "https://serpapi.com/searches/670a2e1a17b10ea10381fde1/images/5d2cc3f960604df46f16f22bd38411f2cd20e0d67e31b111fa3c6cacfd8dd16d.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1puUXlSRFI1YlV4bVF6ZDRORmRMVjBwVU1XaDROMjFTYlVVMVdGWlFRV0ZvTmxOUGJGVTFlbVpCUkRSVFMwcE5hMjVIWDFVM1UxVTJUMlkzWjJsMGFuaE1UVnBWRWhkSGFUUkxXamRVWTBndFJGWTFUbTlRZUZCRFltbFJheG9pUVVaWWNrVmpjVXRTTFhCaWVWaEtiVlZZVDJzemRuWk1PVzFNVG5wb01reHFVUSIsImZjdiI6IjMiLCJlaSI6IkdpNEtaN1RjSC1EVjVOb1B4UENiaVFrIiwicWMiOiJDZ3R3YVc1cklITmhiRzF2YmhBQWZTLUVOVDgiLCJxdWVzdGlvbiI6IldoeSBpcyBwaW5rIHNhbG1vbiBzbyBjaGVhcD8iLCJsayI6IkdodDNhSGtnYVhNZ2NHbHVheUJ6WVd4dGIyNGdjMjhnWTJobFlYQSIsImJzIjoiYy1PeTVwTDJMRllveU16TFZpaE96TW5OejFOSXo4OVBVVWhOTE1uTVM3ZVhPTVpvSkNrbGprT2F5NDFMSGsxelVtcEpTV3FSUWtsR1lwNUNVV3FLdmNUbFRDTUZLYmxNdktxNDdEQWNVWlNhbUFObDIwdmNGRFNTa1pMS3hLbUN5NEZMSmp5alVnRk5SWEctUW5KR2FtS0J2Y1JxVlNOWktlbHkzRW9FR0FFIiwiaWQiOiJmY19HaTRLWjdUY0gtRFY1Tm9QeFBDYmlRa18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1puUXlSRFI1YlV4bVF6ZDRORmRMVjBwVU1XaDROMjFTYlVVMVdGWlFRV0ZvTmxOUGJGVTFlbVpCUkRSVFMwcE5hMjVIWDFVM1UxVTJUMlkzWjJsMGFuaE1UVnBWRWhkSGFUUkxXamRVWTBndFJGWTFUbTlRZUZCRFltbFJheG9pUVVaWWNrVmpjVXRTTFhCaWVWaEtiVlZZVDJzemRuWk1PVzFNVG5wb01reHFVUSIsImZjdiI6IjMiLCJlaSI6IkdpNEtaN1RjSC1EVjVOb1B4UENiaVFrIiwicWMiOiJDZ3R3YVc1cklITmhiRzF2YmhBQWZTLUVOVDgiLCJxdWVzdGlvbiI6IldoeSBpcyBwaW5rIHNhbG1vbiBzbyBjaGVhcD8iLCJsayI6IkdodDNhSGtnYVhNZ2NHbHVheUJ6WVd4dGIyNGdjMjhnWTJobFlYQSIsImJzIjoiYy1PeTVwTDJMRllveU16TFZpaE96TW5OejFOSXo4OVBVVWhOTE1uTVM3ZVhPTVpvSkNrbGprT2F5NDFMSGsxelVtcEpTV3FSUWtsR1lwNUNVV3FLdmNUbFRDTUZLYmxNdktxNDdEQWNVWlNhbUFObDIwdmNGRFNTa1pMS3hLbUN5NEZMSmp5alVnRk5SWEctUW5KR2FtS0J2Y1JxVlNOWktlbHkzRW9FR0FFIiwiaWQiOiJmY19HaTRLWjdUY0gtRFY1Tm9QeFBDYmlRa18xIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Pink Salmon",
+      "link": "https://www.fisheries.noaa.gov/species/pink-salmon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fisheries.noaa.gov/species/pink-salmon&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQFnoECEsQAQ",
+      "displayed_link": "https://www.fisheries.noaa.gov \u203a species \u203a pink-salmon",
+      "thumbnail": "https://serpapi.com/searches/670a2e1a17b10ea10381fde1/images/e8db577f55791773384529e8b886003149f77c3315e10addadf318b0583acfb3.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2e1a17b10ea10381fde1/images/e8db577f55791773384529e8b886003158e570a8e5a17993f37836e1b4794dc4.webp",
+      "snippet": "Biology \u00b7 Pink salmon are anadromous \u2013 they hatch in freshwater streams and rivers then migrate out to the saltwater environment of the ocean to feed and grow.",
+      "snippet_highlighted_words": [
+        "Pink salmon"
+      ],
+      "source": "NOAA Fisheries (.gov)"
+    },
+    {
+      "position": 2,
+      "title": "Pink salmon",
+      "link": "https://en.wikipedia.org/wiki/Pink_salmon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Pink_salmon&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQFnoECFkQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Pink_salmon",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMG99PWHehp0QPQmMIXRJCwo3W_gz55y_i9LivF_tCz2JE21HvS3_&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2e1a17b10ea10381fde1/images/e8db577f55791773384529e8b8860031624e00ba72a9b51d64d36bd5e7ba6110.webp",
+      "snippet": "Pink salmon or humpback salmon (Oncorhynchus gorbuscha) is a species of euryhaline ray-finned fish in the family Salmonidae. It is the type species of the ...",
+      "snippet_highlighted_words": [
+        "Pink salmon"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 3,
+      "title": "Wild Alaska Pink Salmon in a Pouch | No Salt - Safe Catch",
+      "link": "https://safecatch.com/buy-safe-catch-tuna/wild-pacific-pink-salmon-no-salt-added-pouch/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://safecatch.com/buy-safe-catch-tuna/wild-pacific-pink-salmon-no-salt-added-pouch/&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQFnoECFoQAQ",
+      "displayed_link": "https://safecatch.com \u203a Salmon",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwz8XEqsbDcxqYnkjAznAip6rSMjGt6cKni9i2IYCVfJurFbB_CJbG&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2e1a17b10ea10381fde1/images/e8db577f55791773384529e8b8860031d85b9153226d24194e4df8d2e5111ffd.webp",
+      "snippet": "Our wild Alaska pink salmon in a pouch has the lowest mercury limit of any salmon brand. It's a great choice for kids & pregnant women!",
+      "snippet_highlighted_words": [
+        "pink salmon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 35.99,
+            "currency": "$",
+            "free_day_delivery": 1
+          },
+          "extensions": [
+            "$35.99",
+            "\u200eFree 1\u20138 day delivery",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Safe Catch"
+    },
+    {
+      "position": 4,
+      "title": "6 oz Reefnet Wild Pink Salmon",
+      "link": "https://lummiislandwild.com/our-seafood/reefnet-wild-pink-salmon/?srsltid=AfmBOoqcyplQ5Ix5HB8bTN2xvlkIRk2myVCCCjndWN6hbMbivyrp7FUN",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lummiislandwild.com/our-seafood/reefnet-wild-pink-salmon/%3Fsrsltid%3DAfmBOoqcyplQ5Ix5HB8bTN2xvlkIRk2myVCCCjndWN6hbMbivyrp7FUN&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQFnoECF0QAQ",
+      "displayed_link": "https://lummiislandwild.com \u203a Our Seafood",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtamxzOKntPjREZvyqe-58enm0CIV3TuTMoaBdaItakujOZAwiBINl&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2e1a17b10ea10381fde1/images/e8db577f55791773384529e8b88600314c75125c9cd0965154609c868b2a314d.webp",
+      "snippet": "Our reefnet-caught wild pinks are without a doubt, the very highest quality pink salmon available anywhere. Pinks are great for pan-searing, fish and chips or ...",
+      "snippet_highlighted_words": [
+        "pink salmon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 3.9,
+            "price": 11.0,
+            "currency": "$"
+          },
+          "extensions": [
+            "3.9(7)",
+            "$11.00",
+            "\u200eFree delivery",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Lummi Island Wild"
+    },
+    {
+      "position": 5,
+      "title": "In Defense of the Lowly Pink Salmon",
+      "link": "https://alaskamagazine.com/authentic-alaska/in-defense-of-the-lowly-pink-salmon/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alaskamagazine.com/authentic-alaska/in-defense-of-the-lowly-pink-salmon/&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQFnoECFcQAQ",
+      "displayed_link": "https://alaskamagazine.com \u203a Authentic Alaska",
+      "favicon": "https://serpapi.com/searches/670a2e1a17b10ea10381fde1/images/e8db577f55791773384529e8b8860031532720c7d1441a23699395b2abf8c5a1.webp",
+      "date": "Jun 21, 2017",
+      "snippet": "The numbers of pink salmon are greatest during even-numbered years. For eating quality, I think it's best to catch them right when they have entered the fresh ...",
+      "snippet_highlighted_words": [
+        "pink salmon"
+      ],
+      "source": "Alaska Magazine"
+    },
+    {
+      "position": 6,
+      "title": "Jumbo Lump Wild Pink Salmon (Can)",
+      "link": "https://starkist.com/product/jumbo-lump-wild-pink-salmon-can/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://starkist.com/product/jumbo-lump-wild-pink-salmon-can/&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQFnoECFsQAQ",
+      "displayed_link": "https://starkist.com \u203a Products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNN7uGLFaxLug2H-7OrOzFlCRLlKZ59UHsFZw8dNxk3YbFcShQTw86&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2e1a17b10ea10381fde1/images/e8db577f55791773384529e8b88600314686f15885c85eca9448d9c7eb2ba4b0.webp",
+      "snippet": "This skinless & boneless jumbo lump style Alaska Seafood Pink Salmon contains just 90 Calories and 19g of Protein per 5oz Can.",
+      "snippet_highlighted_words": [
+        "Pink Salmon"
+      ],
+      "source": "StarKist"
+    },
+    {
+      "position": 7,
+      "title": "Canned Salmon",
+      "link": "https://wildplanetfoods.com/collections/canned-salmon?srsltid=AfmBOop2xOXmDEp3vhTnpMlq33Cf37QW_57n4bR10udqgRNL3jjIWHT2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wildplanetfoods.com/collections/canned-salmon%3Fsrsltid%3DAfmBOop2xOXmDEp3vhTnpMlq33Cf37QW_57n4bR10udqgRNL3jjIWHT2&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQFnoECFgQAQ",
+      "displayed_link": "https://wildplanetfoods.com \u203a collections \u203a canned-salmon",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZUZfXGaK5me27aS4I9QqPeMkcxgN4c1LBtXT6SCSTrPOV0uNOGtb&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2e1a17b10ea10381fde1/images/e8db577f55791773384529e8b886003125bff35461447675c330f19a668b5d38.webp",
+      "snippet": "Delivering exceptional taste and firm texture, our wild sockeye and pink salmon varieties are sustainably caught by small-scale fishing families.",
+      "snippet_highlighted_words": [
+        "pink salmon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 6,
+            "currency": "Free \u2013 day delivery over $",
+            "unknown": 30
+          },
+          "extensions": [
+            "$24 to $77",
+            "\u200eFree 6\u20137 day delivery over $75",
+            "\u200e30",
+            "day returns"
+          ]
+        }
+      },
+      "source": "Wild Planet Foods"
+    },
+    {
+      "position": 8,
+      "title": "Pink Salmon Benefits and Recipe",
+      "link": "https://www.vitalchoice.com/articles/food-facts/pink-salmon-recipe",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vitalchoice.com/articles/food-facts/pink-salmon-recipe&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQFnoECF4QAQ",
+      "displayed_link": "https://www.vitalchoice.com \u203a Home \u203a Food facts",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlRb55gKYiqooRAP1bvAta0TnKpVOlzSjNKLQq-gADfzf5NJiEjJ9K&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2e1a17b10ea10381fde1/images/e8db577f55791773384529e8b8860031e5ab2aaae1a8e06ab664baabc59c13c9.webp",
+      "date": "Feb 17, 2023",
+      "snippet": "Pink salmon comes with many benefits including necessary nutrients and a delicious, subtle flavor - and it's easy to prepare!",
+      "snippet_highlighted_words": [
+        "Pink salmon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 39.99,
+            "currency": "$ to $"
+          },
+          "extensions": [
+            "$39.99 to $109.99"
+          ]
+        }
+      },
+      "source": "Vital Choice"
+    },
+    {
+      "position": 9,
+      "title": "Pink Salmon",
+      "link": "https://wildsalmoncenter.org/salmon-species/pink-salmon/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wildsalmoncenter.org/salmon-species/pink-salmon/&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQFnoECFwQAQ",
+      "displayed_link": "https://wildsalmoncenter.org \u203a Pacific Salmon",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBBCTtsHk4p0JCrik_QPpFbk80wJo3G9w84DGzZnI8lumOtd07Uee_&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2e1a17b10ea10381fde1/images/e8db577f55791773384529e8b8860031291a6192263065a96e48cb05001fd398.webp",
+      "date": "Mar 19, 2020",
+      "snippet": "Pink salmon are the most abundant of Pacific salmon. They (along with masu) are the smallest; pink are also the most limited upriver ...",
+      "snippet_highlighted_words": [
+        "Pink salmon"
+      ],
+      "source": "Wild Salmon Center"
+    },
+    {
+      "position": 10,
+      "title": "Pink Salmon (Oncorhynchus gorbuscha) Species Profile",
+      "link": "https://www.adfg.alaska.gov/index.cfm?adfg=pinksalmon.main",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.adfg.alaska.gov/index.cfm%3Fadfg%3Dpinksalmon.main&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQFnoFCIUBEAE",
+      "displayed_link": "https://www.adfg.alaska.gov \u203a ... \u203a Species \u203a Animals",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS98G7xIxUQ2f4MEFARJgpN0PGEogZMF1bhlwsrEgb2f4UNeUgmlUYc&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2e1a17b10ea10381fde1/images/e8db577f55791773384529e8b886003197dabaa8d2e3a42c0354e1f7c0b92716.webp",
+      "snippet": "Pink salmon are the smallest of the Pacific salmon found in North America weighing on average between 3.5 and 5 pounds, with an average length of 20-25 inches.",
+      "snippet_highlighted_words": [
+        "Pink salmon"
+      ],
+      "source": "Alaska Department of Fish and Game (.gov)"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Pink+salmon&stick=H4sIAAAAAAAAAONgFuLUz9U3MDO2SMpVQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1i5Q7IzMtWKE7Myc3P28HKeItNkqH7aY-xjSRbheC05sYnnkcUP859t6VEvpQdAIG5m5lxAAAA&sa=X&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQzO0BKAR6BAgZEBM",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pink+salmon&stick=H4sIAAAAAAAAAONgFuLUz9U3MDO2SMpVQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1i5Q7IzMtWKE7Myc3P28HKeItNkqH7aY-xjSRbheC05sYnnkcUP859t6VEvpQdAIG5m5lxAAAA",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Pink salmon recipe",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Pink+salmon+recipe&sa=X&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQ1QJ6BQiLARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pink+salmon+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Where are pink salmon found",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Where+are+pink+salmon+found&sa=X&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQ1QJ6BQiKARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Where+are+pink+salmon+found"
+    },
+    {
+      "block_position": 1,
+      "query": "Pink salmon meat",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Pink+salmon+meat&sa=X&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQ1QJ6BQiRARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pink+salmon+meat"
+    },
+    {
+      "block_position": 1,
+      "query": "Pink Salmon price",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Pink+Salmon+price&sa=X&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQ1QJ6BQiOARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pink+Salmon+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Pink salmon taste",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Pink+salmon+taste&sa=X&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQ1QJ6BQiNARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pink+salmon+taste"
+    },
+    {
+      "block_position": 1,
+      "query": "Pink salmon description",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Pink+salmon+description&sa=X&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQ1QJ6BQiPARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pink+salmon+description"
+    },
+    {
+      "block_position": 1,
+      "query": "Pink salmon size",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Pink+salmon+size&sa=X&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQ1QJ6BQiQARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pink+salmon+size"
+    },
+    {
+      "block_position": 1,
+      "query": "Pink salmon lifespan",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Pink+salmon+lifespan&sa=X&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQ1QJ6BQiSARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Pink+salmon+lifespan"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=pink+salmon&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=Gi4KZ7TcH-DV5NoPxPCbiQk&start=10&sa=N&sstk=AagrsujXJoS1vpi3I2G7UXZFFLyNz6yfuWIusHEUGBeA1kEW5_Qs_UN3YPJsYy3GGfLhsuN78Or7-w3gaYtgooLIdquYql7DQ84UiQ&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQ8NMDegQIBRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=pink+salmon&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=Gi4KZ7TcH-DV5NoPxPCbiQk&start=10&sa=N&sstk=AagrsujXJoS1vpi3I2G7UXZFFLyNz6yfuWIusHEUGBeA1kEW5_Qs_UN3YPJsYy3GGfLhsuN78Or7-w3gaYtgooLIdquYql7DQ84UiQ&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQ8tMDegQIBRAE",
+      "3": "https://www.google.com/search?q=pink+salmon&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=Gi4KZ7TcH-DV5NoPxPCbiQk&start=20&sa=N&sstk=AagrsujXJoS1vpi3I2G7UXZFFLyNz6yfuWIusHEUGBeA1kEW5_Qs_UN3YPJsYy3GGfLhsuN78Or7-w3gaYtgooLIdquYql7DQ84UiQ&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQ8tMDegQIBRAG",
+      "4": "https://www.google.com/search?q=pink+salmon&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=Gi4KZ7TcH-DV5NoPxPCbiQk&start=30&sa=N&sstk=AagrsujXJoS1vpi3I2G7UXZFFLyNz6yfuWIusHEUGBeA1kEW5_Qs_UN3YPJsYy3GGfLhsuN78Or7-w3gaYtgooLIdquYql7DQ84UiQ&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQ8tMDegQIBRAI",
+      "5": "https://www.google.com/search?q=pink+salmon&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=Gi4KZ7TcH-DV5NoPxPCbiQk&start=40&sa=N&sstk=AagrsujXJoS1vpi3I2G7UXZFFLyNz6yfuWIusHEUGBeA1kEW5_Qs_UN3YPJsYy3GGfLhsuN78Or7-w3gaYtgooLIdquYql7DQ84UiQ&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQ8tMDegQIBRAK",
+      "6": "https://www.google.com/search?q=pink+salmon&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=Gi4KZ7TcH-DV5NoPxPCbiQk&start=50&sa=N&sstk=AagrsujXJoS1vpi3I2G7UXZFFLyNz6yfuWIusHEUGBeA1kEW5_Qs_UN3YPJsYy3GGfLhsuN78Or7-w3gaYtgooLIdquYql7DQ84UiQ&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQ8tMDegQIBRAM",
+      "7": "https://www.google.com/search?q=pink+salmon&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=Gi4KZ7TcH-DV5NoPxPCbiQk&start=60&sa=N&sstk=AagrsujXJoS1vpi3I2G7UXZFFLyNz6yfuWIusHEUGBeA1kEW5_Qs_UN3YPJsYy3GGfLhsuN78Or7-w3gaYtgooLIdquYql7DQ84UiQ&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQ8tMDegQIBRAO",
+      "8": "https://www.google.com/search?q=pink+salmon&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=Gi4KZ7TcH-DV5NoPxPCbiQk&start=70&sa=N&sstk=AagrsujXJoS1vpi3I2G7UXZFFLyNz6yfuWIusHEUGBeA1kEW5_Qs_UN3YPJsYy3GGfLhsuN78Or7-w3gaYtgooLIdquYql7DQ84UiQ&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQ8tMDegQIBRAQ",
+      "9": "https://www.google.com/search?q=pink+salmon&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=Gi4KZ7TcH-DV5NoPxPCbiQk&start=80&sa=N&sstk=AagrsujXJoS1vpi3I2G7UXZFFLyNz6yfuWIusHEUGBeA1kEW5_Qs_UN3YPJsYy3GGfLhsuN78Or7-w3gaYtgooLIdquYql7DQ84UiQ&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQ8tMDegQIBRAS",
+      "10": "https://www.google.com/search?q=pink+salmon&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=Gi4KZ7TcH-DV5NoPxPCbiQk&start=90&sa=N&sstk=AagrsujXJoS1vpi3I2G7UXZFFLyNz6yfuWIusHEUGBeA1kEW5_Qs_UN3YPJsYy3GGfLhsuN78Or7-w3gaYtgooLIdquYql7DQ84UiQ&ved=2ahUKEwi00fCvsYiJAxXgKlkFHUT4JpEQ8tMDegQIBRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pink+salmon&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pink+salmon&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pink+salmon&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pink+salmon&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pink+salmon&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pink+salmon&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pink+salmon&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pink+salmon&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pink+salmon&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pink+salmon&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=pink+salmon&start=90"
+    }
+  }
+}

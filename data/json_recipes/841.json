@@ -1,0 +1,769 @@
+{
+  "search_metadata": {
+    "id": "670a2fe1ce1e10506d99618d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d401f1371a4f3c74/670a2fe1ce1e10506d99618d.json",
+    "created_at": "2024-10-12 08:14:25 UTC",
+    "processed_at": "2024-10-12 08:14:25 UTC",
+    "google_url": "https://www.google.com/search?q=sweet+custard&oq=sweet+custard&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/d401f1371a4f3c74/670a2fe1ce1e10506d99618d.html",
+    "total_time_taken": 1.06
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "sweet custard",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "sweet custard",
+    "total_results": 73000000,
+    "time_taken_displayed": 0.3,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "recipes_results": [
+    {
+      "title": "Simple Custard",
+      "link": "https://www.allrecipes.com/recipe/258755/simple-custard/",
+      "source": "Allrecipes",
+      "rating": 4.7,
+      "reviews": 141,
+      "total_time": "15 min",
+      "ingredients": [
+        "Butter",
+        "eggs",
+        "white sugar",
+        "whole milk",
+        "vanilla extract"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/d1a353e90217b946a7bc02fa72cefcb8c03d2a1a201d5aae86d667752799678e.jpeg"
+    },
+    {
+      "title": "Easy Custard Recipe",
+      "link": "https://downshiftology.com/recipes/custard/",
+      "source": "Downshiftology",
+      "rating": 4.9,
+      "reviews": 24,
+      "total_time": "4 hr 20 min",
+      "ingredients": [
+        "Tapioca flour",
+        "honey",
+        "heavy cream",
+        "egg yolks",
+        "whole milk"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/d1a353e90217b946a7bc02fa72cefcb8f6d62ab550f3898b410675d5febda714.jpeg"
+    },
+    {
+      "title": "Easy Egg Custard",
+      "link": "https://www.epicurious.com/recipes/food/views/easy-egg-custard-239229",
+      "source": "Epicurious",
+      "rating": 4.4,
+      "reviews": 51,
+      "ingredients": [
+        "Egg yolks",
+        "whole milk",
+        "vanilla extract"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/d1a353e90217b946a7bc02fa72cefcb85bbd11ab9139555cd96debafadb42310.jpeg"
+    }
+  ],
+  "knowledge_graph": {
+    "title": "Custard",
+    "type": "Food",
+    "entity_type": "food, foods_and_dishes",
+    "kgmid": "/m/0gtcd",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0gtcd&hl=en-US&q=Custard",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0gtcd&location=Austin%2CTexas%2CUnited+States&q=Custard",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/51a9ef4c0b31b9543c5e490ae2ddb2d96eb8118dcd48a6a1c7b0161a590f365ad92088d1d779595f.jpeg",
+        "source": "https://en.wikipedia.org/wiki/Custard"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/51a9ef4c0b31b9543c5e490ae2ddb2d96eb8118dcd48a6a1626d4b647ddc84770934ec74f6ef91fc.jpeg",
+        "source": "https://www.epicurious.com/recipes/food/views/easy-egg-custard-239229"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/51a9ef4c0b31b9543c5e490ae2ddb2d96eb8118dcd48a6a108f2829dde3f2f3572d0e319a2c1969b.jpeg",
+        "source": "https://myvegetarianroots.com/fruit-custard/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/51a9ef4c0b31b9543c5e490ae2ddb2d96eb8118dcd48a6a1ca67ef32f6de09da3ad14d40911ca1f2.jpeg",
+        "source": "https://www.youtube.com/watch?v=xffXCJM_rvU"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/51a9ef4c0b31b9543c5e490ae2ddb2d96eb8118dcd48a6a1b84eb844dfd765e7b0f695d89a924888.jpeg",
+        "source": "https://pipingpotcurry.com/fruit-custard/"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOXiwzxGde-X3Z0-NmCghl9dlNJ1P2HNpk7wWCz9cjww&s",
+        "source": "https://foodviva.com/dessert-recipes/fruit-custard/"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdh2RFjkILPnpSC_PGRQltX2VcPXRRWlOQVDb6mZATw&s",
+        "source": "https://mycountrytable.com/baked-egg-custard/"
+      }
+    ],
+    "description": "Custard is a variety of culinary preparations based on sweetened milk, cheese, or cream cooked with egg or egg yolk to thicken it, and sometimes also flour, corn starch, or gelatin. Depending on the recipe, custard may vary in consistency from a thin pouring sauce to the thick pastry cream used to fill \u00e9clairs.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Custard"
+    },
+    "origin": "United Kingdom",
+    "origin_links": [
+      {
+        "text": "United Kingdom",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=United+Kingdom&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm8q45QXxs1RnGHx6NpPfHoGN-gtG5Kgzr-DDXcIOETI7dHAWLZVGY5_D4NVSn56Sy5-dheSDXqkEWkLkad1Ui20yrbOUU9HU3Yi5zvRR1YuAde42mbVN9kPog0MF8i2lovPzT92NMmF6o0SJF9aFDBsm4NEE&sa=X&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQmxMoAHoECDMQAg"
+      }
+    ],
+    "sources_include": "USDAEgg custard, whole milk173 Calories - 0.5 cup (141 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/168773/nutrients"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "6 g",
+        "9%"
+      ],
+      "cholesterol": [
+        "72 mg",
+        "24%"
+      ],
+      "sodium": [
+        "118 mg",
+        "4%"
+      ],
+      "potassium": [
+        "292 mg",
+        "8%"
+      ],
+      "total_carbohydrate": [
+        "25 g",
+        "8%"
+      ],
+      "protein": [
+        "6 g",
+        "12%"
+      ]
+    }
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=sweet+custard&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=f-blUCxDTHr7jM%252Ctk_L3IB9vJ5AcM%252C%252Fm%252F0gtcd%253B-QGgxXMB4I_LSM%252CQwGOWR5WgolQhM%252C_%253BeGZlXX-MZIUHMM%252CXNxs7AfzcNVGFM%252C_%253Bj3yrB8zuUqa7MM%252CEMBUBj-Y2Z-jwM%252C_%253B767r4nmLWUYlgM%252CzbOui2VqOBg_SM%252C_%253BPDP-Br2BqSPXlM%252Ch1vbDdS6tQc86M%252C_%253BBN2LOMOGTbkA2M%252CKpZpDrn9m-lgjM%252C_&usg=AI4_-kRCZGRJa6h6fgCfBYh7tmISFwaWGA&sa=X&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQ_B16BAg1EAE#vhid=f-blUCxDTHr7jM&vssid=mosaic",
+      "source": "https://en.wikipedia.org/wiki/Custard",
+      "thumbnail": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/e54093b25bfb9788de2fdebe6186f428fcd681235223823428b827a6b7cfce2d.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Custard.jpg/1200px-Custard.jpg",
+      "title": "upload.wikimedia.org/wikipedia/commons/thumb/1/1f/...",
+      "source_name": "en.wikipedia.org"
+    },
+    {
+      "link": "https://www.google.com/search?q=sweet+custard&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=f-blUCxDTHr7jM%252Ctk_L3IB9vJ5AcM%252C_%253B-QGgxXMB4I_LSM%252CQwGOWR5WgolQhM%252C_%253BeGZlXX-MZIUHMM%252CXNxs7AfzcNVGFM%252C_%253Bj3yrB8zuUqa7MM%252CEMBUBj-Y2Z-jwM%252C_%253B767r4nmLWUYlgM%252CzbOui2VqOBg_SM%252C_%253BPDP-Br2BqSPXlM%252Ch1vbDdS6tQc86M%252C_%253BBN2LOMOGTbkA2M%252CKpZpDrn9m-lgjM%252C_&usg=AI4_-kQ_WJWKzjlOkROcwH5QSqpZbb2roA&sa=X&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQ_h16BAg5EAE#vhid=-QGgxXMB4I_LSM&vssid=mosaic",
+      "source": "https://www.epicurious.com/recipes/food/views/easy-egg-custard-239229",
+      "thumbnail": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/e54093b25bfb97887ec4f9c51837d657d9dc65ff27fb08d45d07ba2a9fd4f81e.jpeg",
+      "original": "https://assets.epicurious.com/photos/6356cd19d538c0909ced88c6/4:3/w_4822,h_3616,c_limit/EggCustard_RECIPE_101922_41029.jpg",
+      "title": "Easy Egg Custard",
+      "source_name": "Epicurious"
+    },
+    {
+      "link": "https://www.google.com/search?q=sweet+custard&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=f-blUCxDTHr7jM%252Ctk_L3IB9vJ5AcM%252C_%253B-QGgxXMB4I_LSM%252CQwGOWR5WgolQhM%252C_%253BeGZlXX-MZIUHMM%252CXNxs7AfzcNVGFM%252C_%253Bj3yrB8zuUqa7MM%252CEMBUBj-Y2Z-jwM%252C_%253B767r4nmLWUYlgM%252CzbOui2VqOBg_SM%252C_%253BPDP-Br2BqSPXlM%252Ch1vbDdS6tQc86M%252C_%253BBN2LOMOGTbkA2M%252CKpZpDrn9m-lgjM%252C_&usg=AI4_-kQ_WJWKzjlOkROcwH5QSqpZbb2roA&sa=X&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQ_h16BAg2EAE#vhid=eGZlXX-MZIUHMM&vssid=mosaic",
+      "source": "https://myvegetarianroots.com/fruit-custard/",
+      "thumbnail": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/e54093b25bfb9788b415bc1d178a485eaa0b05b802d6121df33e01789bcdb2e6.jpeg",
+      "original": "https://i0.wp.com/myvegetarianroots.com/wp-content/uploads/2021/10/DSC_0165.jpg?fit=1277%2C1920&ssl=1",
+      "title": "Fruit Custard - My Vegetarian Roots",
+      "source_name": "My Vegetarian Roots"
+    },
+    {
+      "link": "https://www.google.com/search?q=sweet+custard&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=f-blUCxDTHr7jM%252Ctk_L3IB9vJ5AcM%252C_%253B-QGgxXMB4I_LSM%252CQwGOWR5WgolQhM%252C_%253BeGZlXX-MZIUHMM%252CXNxs7AfzcNVGFM%252C_%253Bj3yrB8zuUqa7MM%252CEMBUBj-Y2Z-jwM%252C_%253B767r4nmLWUYlgM%252CzbOui2VqOBg_SM%252C_%253BPDP-Br2BqSPXlM%252Ch1vbDdS6tQc86M%252C_%253BBN2LOMOGTbkA2M%252CKpZpDrn9m-lgjM%252C_&usg=AI4_-kQ_WJWKzjlOkROcwH5QSqpZbb2roA&sa=X&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQ_h16BAg4EAE#vhid=j3yrB8zuUqa7MM&vssid=mosaic",
+      "source": "https://www.youtube.com/watch?v=xffXCJM_rvU",
+      "thumbnail": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/e54093b25bfb978833e205d5935b0b48c9e603034fec36566cf7037fded62b83.jpeg",
+      "original": "https://i.ytimg.com/vi/xffXCJM_rvU/maxresdefault.jpg",
+      "title": "Fruit Custard Recipe | Easy Dessert Recipe | How To Make Fruit Custard At  Home | Kanak's Kitchen",
+      "source_name": "YouTube"
+    },
+    {
+      "link": "https://www.google.com/search?q=sweet+custard&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=f-blUCxDTHr7jM%252Ctk_L3IB9vJ5AcM%252C_%253B-QGgxXMB4I_LSM%252CQwGOWR5WgolQhM%252C_%253BeGZlXX-MZIUHMM%252CXNxs7AfzcNVGFM%252C_%253Bj3yrB8zuUqa7MM%252CEMBUBj-Y2Z-jwM%252C_%253B767r4nmLWUYlgM%252CzbOui2VqOBg_SM%252C_%253BPDP-Br2BqSPXlM%252Ch1vbDdS6tQc86M%252C_%253BBN2LOMOGTbkA2M%252CKpZpDrn9m-lgjM%252C_&usg=AI4_-kQ_WJWKzjlOkROcwH5QSqpZbb2roA&sa=X&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQ_h16BAg9EAE#vhid=767r4nmLWUYlgM&vssid=mosaic",
+      "source": "https://pipingpotcurry.com/fruit-custard/",
+      "thumbnail": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/e54093b25bfb978823fa903eb835bf5baba76ab24c3b009f26b2700dca55da34.jpeg",
+      "original": "https://pipingpotcurry.com/wp-content/uploads/2023/10/Fruit-Custard-with-milk-Piping-Pot-Curry.jpg",
+      "title": "Fruit Custard (Easy Indian Dessert)",
+      "source_name": "Piping Pot Curry"
+    },
+    {
+      "link": "https://www.google.com/search?q=sweet+custard&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=f-blUCxDTHr7jM%252Ctk_L3IB9vJ5AcM%252C_%253B-QGgxXMB4I_LSM%252CQwGOWR5WgolQhM%252C_%253BeGZlXX-MZIUHMM%252CXNxs7AfzcNVGFM%252C_%253Bj3yrB8zuUqa7MM%252CEMBUBj-Y2Z-jwM%252C_%253B767r4nmLWUYlgM%252CzbOui2VqOBg_SM%252C_%253BPDP-Br2BqSPXlM%252Ch1vbDdS6tQc86M%252C_%253BBN2LOMOGTbkA2M%252CKpZpDrn9m-lgjM%252C_&usg=AI4_-kQ_WJWKzjlOkROcwH5QSqpZbb2roA&sa=X&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQ_h16BAg3EAE#vhid=PDP-Br2BqSPXlM&vssid=mosaic",
+      "source": "https://foodviva.com/dessert-recipes/fruit-custard/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOXiwzxGde-X3Z0-NmCghl9dlNJ1P2HNpk7wWCz9cjww&s",
+      "original": "https://cdn1.foodviva.com/static-content/food-images/dessert-recipes/fruit-custard/fruit-custard.jpg",
+      "title": "Fruit Custard Recipe",
+      "source_name": "Foodviva.com"
+    },
+    {
+      "link": "https://www.google.com/search?q=sweet+custard&sca_esv=8568a6baa21243e5&hl=en&gl=us&udm=2&source=iu&ictx=1&vet=1&fir=f-blUCxDTHr7jM%252Ctk_L3IB9vJ5AcM%252C_%253B-QGgxXMB4I_LSM%252CQwGOWR5WgolQhM%252C_%253BeGZlXX-MZIUHMM%252CXNxs7AfzcNVGFM%252C_%253Bj3yrB8zuUqa7MM%252CEMBUBj-Y2Z-jwM%252C_%253B767r4nmLWUYlgM%252CzbOui2VqOBg_SM%252C_%253BPDP-Br2BqSPXlM%252Ch1vbDdS6tQc86M%252C_%253BBN2LOMOGTbkA2M%252CKpZpDrn9m-lgjM%252C_&usg=AI4_-kQ_WJWKzjlOkROcwH5QSqpZbb2roA&sa=X&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQ_h16BAg6EAE#vhid=BN2LOMOGTbkA2M&vssid=mosaic",
+      "source": "https://mycountrytable.com/baked-egg-custard/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdh2RFjkILPnpSC_PGRQltX2VcPXRRWlOQVDb6mZATw&s",
+      "original": "https://mycountrytable.com/wp-content/uploads/2022/01/EggCustard6.jpg",
+      "title": "Baked Egg Custard",
+      "source_name": "My Country Table"
+    }
+  ],
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Homemade CUSTARD RECIPE - Super Easy To Make!",
+      "link": "https://www.youtube.com/watch?v=fIgHu-cIKKQ",
+      "thumbnail": "https://i.ytimg.com/vi/fIgHu-cIKKQ/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3mkfcmPj78NT4mMDVoijCkOHvQEtA",
+      "channel": "Downshiftology",
+      "duration": "6:47",
+      "date": "Oct 29, 2023",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=fIgHu-cIKKQ&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE7VSQ1oLyHcdiAmAgNbJTzFYcZBdnkPlRHHfb9I_6wA&s"
+        },
+        {
+          "time": "00:25",
+          "title": "Separate the egg yolks and whites.",
+          "link": "https://www.youtube.com/watch?v=fIgHu-cIKKQ&t=25",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlOXNW_6PderIaspk_yIokAtjVK8lZbIf0yX0oZwNBaQ&s"
+        },
+        {
+          "time": "01:11",
+          "title": "Heat the cream and milk on the stove.",
+          "link": "https://www.youtube.com/watch?v=fIgHu-cIKKQ&t=71",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC7eyRV3k1giNOa944vNEpyBUqyAmUJ1gNQN94ot4mIQ&s"
+        },
+        {
+          "time": "01:32",
+          "title": "Temper the eggs with the cream.",
+          "link": "https://www.youtube.com/watch?v=fIgHu-cIKKQ&t=92",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl78PX1IVvyOH16gSSUCUKBz5awohe6NNd1D4qpc8fRQ&s"
+        },
+        {
+          "time": "02:11",
+          "title": "Simmer the custard until it thickens slightly.",
+          "link": "https://www.youtube.com/watch?v=fIgHu-cIKKQ&t=131",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC3S8Hj8PSqPKnXTk2F-YLMJbGSuhNj6p0nJtoU4ALdA&s"
+        },
+        {
+          "time": "02:56",
+          "title": "Serve the custard warm over cake or other desserts.",
+          "link": "https://www.youtube.com/watch?v=fIgHu-cIKKQ&t=176",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsflgC5aFF5LpHD3ipvuUYrzzqKNtEYemQyLikomeANA&s"
+        },
+        {
+          "time": "03:39",
+          "title": "Chill the custard to firm it up and serve with berries.",
+          "link": "https://www.youtube.com/watch?v=fIgHu-cIKKQ&t=219",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyYvNAA_QTwIoNNGAnXdIiSOJG0r-KVQ26VKW5d16v0A&s"
+        },
+        {
+          "time": "04:38",
+          "title": "Taste test.",
+          "link": "https://www.youtube.com/watch?v=fIgHu-cIKKQ&t=278",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDtOVutYfCLJO-SSQd1QLrZBfKD93bqI9PWxI4Ic-Mtw&s"
+        },
+        {
+          "time": "06:04",
+          "title": "How to store leftovers.",
+          "link": "https://www.youtube.com/watch?v=fIgHu-cIKKQ&t=364",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFY5xusUYhNDSSUqkSx8PaSdqzCSam64gh8vg08-THeA&s"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "How to make an Easy Egg Custard | Vanilla Custard",
+      "link": "https://www.youtube.com/watch?v=XbWy57TcYNk",
+      "thumbnail": "https://i.ytimg.com/vi/XbWy57TcYNk/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3lRJt_eCJCaXLV5tZW-uBAQaOsjmA",
+      "channel": "Tastefully Shay",
+      "duration": "1:38",
+      "date": "May 1, 2020"
+    },
+    {
+      "position": 3,
+      "title": "PERFECTLY SWEET CUSTARD SAUCE: How to make ...",
+      "link": "https://www.youtube.com/watch?v=CiD3bNpREis",
+      "thumbnail": "https://i.ytimg.com/vi/CiD3bNpREis/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3mL_gfRBKLkRrQJngxEPJM_-vzCOg",
+      "channel": "Chef Lindsey Farr",
+      "duration": "7:26",
+      "date": "Nov 2, 2021",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro to Vanilla Bean Anglaise",
+          "link": "https://www.youtube.com/watch?v=CiD3bNpREis&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEty4IqaxVGOEYKK-60JvpKhcACfZHksaa_1w-NKp-4Q&s"
+        },
+        {
+          "time": "00:30",
+          "title": "Start with our milk and cream with half our sugar",
+          "link": "https://www.youtube.com/watch?v=CiD3bNpREis&t=30",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTCqI8nQVcd3WGV6PdGEXBIoeklnN6_YFRhZl7RLjTnA&s"
+        },
+        {
+          "time": "01:20",
+          "title": "Split and scrape our vanilla bean and put in pot",
+          "link": "https://www.youtube.com/watch?v=CiD3bNpREis&t=80",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtzCHvjcgdwZgi4ZH9Wj_UA6tJlkLDU6TkIM1LuLxZIg&s"
+        },
+        {
+          "time": "02:16",
+          "title": "Bring mixture to a boil",
+          "link": "https://www.youtube.com/watch?v=CiD3bNpREis&t=136",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEN0w6I0XMR82GUGozzHckAQw3xyzSBo4fApj-WdmHpw&s"
+        },
+        {
+          "time": "02:43",
+          "title": "Whisk together our eggs and remaining sugar",
+          "link": "https://www.youtube.com/watch?v=CiD3bNpREis&t=163",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaDT_WTKsHIJv1LsEXf2bqTd4EwPY40GiP41q_4JiYeg&s"
+        },
+        {
+          "time": "03:23",
+          "title": "Temper boiling mixture with egg mixture",
+          "link": "https://www.youtube.com/watch?v=CiD3bNpREis&t=203",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm9x-hxlBIsVovZy57wAYQgulY-Prec6H_kPiF12BfDA&s"
+        },
+        {
+          "time": "03:46",
+          "title": "Pour egg mixture back in pot and continue cooking",
+          "link": "https://www.youtube.com/watch?v=CiD3bNpREis&t=226",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmbCGLTeqp3BEF1nB830qirR54-17FZ1_TmAPzjPgrRw&s"
+        },
+        {
+          "time": "04:58",
+          "title": "Bring up to temperature",
+          "link": "https://www.youtube.com/watch?v=CiD3bNpREis&t=298",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3J41RhLTYPORuWCAejL3FU7HZDW3O_b1ENsFpkIAfjg&s"
+        },
+        {
+          "time": "05:23",
+          "title": "Pour through a strainer to catch the pod",
+          "link": "https://www.youtube.com/watch?v=CiD3bNpREis&t=323",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEKquS3E3XIpgxWmOhO7YXZ0hP6hntbYtJXrCkU-xDCA&s"
+        },
+        {
+          "time": "05:44",
+          "title": "Cover with plastic wrap and chill",
+          "link": "https://www.youtube.com/watch?v=CiD3bNpREis&t=344",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY7U-K-9KlwCpin_Al6a9hmtqm_oPfbxk_ZMctPfbtQw&s"
+        },
+        {
+          "time": "06:17",
+          "title": "It\u2019s ready! Time to try!",
+          "link": "https://www.youtube.com/watch?v=CiD3bNpREis&t=377",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJcA9gTgOADycASRUxnvmXcBFL-rvzXX7wMyeUKXyK_Q&s"
+        }
+      ]
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What are the three types of custard?",
+      "snippet": "3 Varieties of Custard There are three main varieties of custard: baked custard, stirred custard, and steamed custard. The first two are both popular in Western cuisine. Baked custard is typically firmer and made with whole eggs, while stirred custards can be much runnier and often only contain the yolks.",
+      "title": "How to Make Custard: 9 Ways to Prepare Custard - 2024 - MasterClass",
+      "date": "Sep 28, 2021",
+      "link": "https://www.masterclass.com/articles/how-to-make-custard#:~:text=of%20the%20spoon.-,3%20Varieties%20of%20Custard,often%20only%20contain%20the%20yolks.",
+      "displayed_link": "https://www.masterclass.com \u203a articles \u203a how-to-make-cu...",
+      "source_logo": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/2a2e520c79d384e09a6c60552933f46c540d7932dab4693adedd605cd5575651.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1lrSm1RM0ZXYVhsUFFtcDNOekpsVVVwS1NqaEJXV05wTjNJdE5EYzVYM04zY0RFdFVsOVBOV0pHVkZobFVXaHFhVVJpTm5wWU1sTlFiekEzZVdobVdGWnVORU5ERWhjMFV6aExXbDk2Ymt0bU0yeDNUalJRZWxwRFlXbEJVUm9pUVVaWWNrVmpjVE5KT0RkTVZ6VnNUV2wyZFZGYVRUTlBRVkF6YjJOVE9GVjRVUSIsImZjdiI6IjMiLCJlaSI6IjRTOEtaX3puS2YzbHdONFB6WkNhaUFRIiwicWMiOiJDZzF6ZDJWbGRDQmpkWE4wWVhKa0VBQjlkVnNZUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSB0aHJlZSB0eXBlcyBvZiBjdXN0YXJkPyIsImxrIjoiR2g5M2FHRjBJR0Z5WlNCMGFHVWdNeUIwZVhCbGN5QnZaaUJqZFhOMFlYSmsiLCJicyI6ImMtUHk0VklKejBnc1VVZ3NTbFVveVFEaG9sUWdXVm1RV3F5UW42YVFYRnBja2xpVVlpX3gwTnhJVVVxLUhGbXBNWVl5TGc4dUJjOWlHRThoQzBncmxDWG1aZWJrSkNvVWxLYWtaT2FsMjB0OGpnZVpsSWxmR1pjemx5cllYVUIxSUx0eVU0SHllZWtndTRyTFUxTkxFQTZiSjIwa0xpV0tJZ2hUeldYQkpRRXpCQzZWbUpJS05NVmU0cktKa2FTVWVEbDJhUUZHQUEiLCJpZCI6ImZjXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1lrSm1RM0ZXYVhsUFFtcDNOekpsVVVwS1NqaEJXV05wTjNJdE5EYzVYM04zY0RFdFVsOVBOV0pHVkZobFVXaHFhVVJpTm5wWU1sTlFiekEzZVdobVdGWnVORU5ERWhjMFV6aExXbDk2Ymt0bU0yeDNUalJRZWxwRFlXbEJVUm9pUVVaWWNrVmpjVE5KT0RkTVZ6VnNUV2wyZFZGYVRUTlBRVkF6YjJOVE9GVjRVUSIsImZjdiI6IjMiLCJlaSI6IjRTOEtaX3puS2YzbHdONFB6WkNhaUFRIiwicWMiOiJDZzF6ZDJWbGRDQmpkWE4wWVhKa0VBQjlkVnNZUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSB0aHJlZSB0eXBlcyBvZiBjdXN0YXJkPyIsImxrIjoiR2g5M2FHRjBJR0Z5WlNCMGFHVWdNeUIwZVhCbGN5QnZaaUJqZFhOMFlYSmsiLCJicyI6ImMtUHk0VklKejBnc1VVZ3NTbFVveVFEaG9sUWdXVm1RV3F5UW42YVFYRnBja2xpVVlpX3gwTnhJVVVxLUhGbXBNWVl5TGc4dUJjOWlHRThoQzBncmxDWG1aZWJrSkNvVWxLYWtaT2FsMjB0OGpnZVpsSWxmR1pjemx5cllYVUIxSUx0eVU0SHllZWtndTRyTFUxTkxFQTZiSjIwa0xpV0tJZ2hUeldYQkpRRXpCQzZWbUpJS05NVmU0cktKa2FTVWVEbDJhUUZHQUEiLCJpZCI6ImZjXzIifQ%3D%3D"
+    },
+    {
+      "question": "Is custard just vanilla pudding?",
+      "snippet": "While most custard and pudding recipes both typically call for eggs, the main difference is that pudding uses a starch for thickening, whereas custard's thickening agent is the egg itself (or egg yolk, in most instances). Custard's texture also tends to be firmer than pudding.",
+      "title": "Custard vs. Pudding: What's the Big Difference? - Taste of Home",
+      "link": "https://www.tasteofhome.com/article/the-difference-between-custard-and-pudding/#:~:text=While%20most%20custard%20and%20pudding,to%20be%20firmer%20than%20pudding.",
+      "displayed_link": "https://www.tasteofhome.com \u203a article \u203a the-difference-b...",
+      "source_logo": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/2a2e520c79d384e09a6c60552933f46c91a483ecbbffdf26b3113e80edfd4b8c.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1lrSm1RM0ZXYVhsUFFtcDNOekpsVVVwS1NqaEJXV05wTjNJdE5EYzVYM04zY0RFdFVsOVBOV0pHVkZobFVXaHFhVVJpTm5wWU1sTlFiekEzZVdobVdGWnVORU5ERWhjMFV6aExXbDk2Ymt0bU0yeDNUalJRZWxwRFlXbEJVUm9pUVVaWWNrVmpjVE5KT0RkTVZ6VnNUV2wyZFZGYVRUTlBRVkF6YjJOVE9GVjRVUSIsImZjdiI6IjMiLCJlaSI6IjRTOEtaX3puS2YzbHdONFB6WkNhaUFRIiwicWMiOiJDZzF6ZDJWbGRDQmpkWE4wWVhKa0VBQjlkVnNZUHciLCJxdWVzdGlvbiI6IklzIGN1c3RhcmQganVzdCB2YW5pbGxhIHB1ZGRpbmc/IiwibGsiOiJHaDlwY3lCamRYTjBZWEprSUdwMWMzUWdkbUZ1YVd4c1lTQndkV1JrYVc1biIsImJzIjoiYy1QeTRWSUp6MGdzVVVnc1NsVW95UURob2xRZ1dWbVFXcXlRbjZhUVhGcGNrbGlVWWlfeDBOeElVVXEtSEZtcE1ZWXlMZzh1QmM5aUdFOGhDMGdybENYbVplYmtKQ29VbEtha1pPYWwyMHQ4amdlWmxJbGZHWmN6bHlyWVhVQjFJTHR5VTRIeWVla2d1NHJMVTFOTEVBNmJKMjBrTGlXS0lnaFR6V1hCSlFFekJDNlZtSklLTk1WZTRyS0prYVNVZURsMmFRRkdBQSIsImlkIjoiZmNfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1lrSm1RM0ZXYVhsUFFtcDNOekpsVVVwS1NqaEJXV05wTjNJdE5EYzVYM04zY0RFdFVsOVBOV0pHVkZobFVXaHFhVVJpTm5wWU1sTlFiekEzZVdobVdGWnVORU5ERWhjMFV6aExXbDk2Ymt0bU0yeDNUalJRZWxwRFlXbEJVUm9pUVVaWWNrVmpjVE5KT0RkTVZ6VnNUV2wyZFZGYVRUTlBRVkF6YjJOVE9GVjRVUSIsImZjdiI6IjMiLCJlaSI6IjRTOEtaX3puS2YzbHdONFB6WkNhaUFRIiwicWMiOiJDZzF6ZDJWbGRDQmpkWE4wWVhKa0VBQjlkVnNZUHciLCJxdWVzdGlvbiI6IklzIGN1c3RhcmQganVzdCB2YW5pbGxhIHB1ZGRpbmc%2FIiwibGsiOiJHaDlwY3lCamRYTjBZWEprSUdwMWMzUWdkbUZ1YVd4c1lTQndkV1JrYVc1biIsImJzIjoiYy1QeTRWSUp6MGdzVVVnc1NsVW95UURob2xRZ1dWbVFXcXlRbjZhUVhGcGNrbGlVWWlfeDBOeElVVXEtSEZtcE1ZWXlMZzh1QmM5aUdFOGhDMGdybENYbVplYmtKQ29VbEtha1pPYWwyMHQ4amdlWmxJbGZHWmN6bHlyWVhVQjFJTHR5VTRIeWVla2d1NHJMVTFOTEVBNmJKMjBrTGlXS0lnaFR6V1hCSlFFekJDNlZtSklLTk1WZTRyS0prYVNVZURsMmFRRkdBQSIsImlkIjoiZmNfMiJ9"
+    },
+    {
+      "question": "What is the meaning of sweet custard?",
+      "snippet": "a sweet sauce made from eggs, milk, and sugar and poured over sweet dishes: apple pie and custard.",
+      "title": "CUSTARD | English meaning - Cambridge Dictionary",
+      "link": "https://dictionary.cambridge.org/dictionary/english/custard#:~:text=a%20sweet%20sauce%20made%20from,apple%20pie%20and%20custard",
+      "displayed_link": "https://dictionary.cambridge.org \u203a dictionary \u203a custard",
+      "source_logo": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/2a2e520c79d384e09a6c60552933f46c324735f2d34069f3e5068705ec0d1525.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1lrSm1RM0ZXYVhsUFFtcDNOekpsVVVwS1NqaEJXV05wTjNJdE5EYzVYM04zY0RFdFVsOVBOV0pHVkZobFVXaHFhVVJpTm5wWU1sTlFiekEzZVdobVdGWnVORU5ERWhjMFV6aExXbDk2Ymt0bU0yeDNUalJRZWxwRFlXbEJVUm9pUVVaWWNrVmpjVE5KT0RkTVZ6VnNUV2wyZFZGYVRUTlBRVkF6YjJOVE9GVjRVUSIsImZjdiI6IjMiLCJlaSI6IjRTOEtaX3puS2YzbHdONFB6WkNhaUFRIiwicWMiOiJDZzF6ZDJWbGRDQmpkWE4wWVhKa0VBQjlkVnNZUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG1lYW5pbmcgb2Ygc3dlZXQgY3VzdGFyZD8iLCJsayI6IkdoVnpkMlZsZENCamRYTjBZWEprSUcxbFlXNXBibWMiLCJicyI6ImMtUHk0VklKejBnc1VVZ3NTbFVveVFEaG9sUWdXVm1RV3F5UW42YVFYRnBja2xpVVlpX3gwTnhJVVVxLUhGbXBNWVl5TGc4dUJjOWlHRThoQzBncmxDWG1aZWJrSkNvVWxLYWtaT2FsMjB0OGpnZVpsSWxmR1pjemx5cllYVUIxSUx0eVU0SHllZWtndTRyTFUxTkxFQTZiSjIwa0xpV0tJZ2hUeldYQkpRRXpCQzZWbUpJS05NVmU0cktKa2FTVWVEbDJhUUZHQUEiLCJpZCI6ImZjXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1lrSm1RM0ZXYVhsUFFtcDNOekpsVVVwS1NqaEJXV05wTjNJdE5EYzVYM04zY0RFdFVsOVBOV0pHVkZobFVXaHFhVVJpTm5wWU1sTlFiekEzZVdobVdGWnVORU5ERWhjMFV6aExXbDk2Ymt0bU0yeDNUalJRZWxwRFlXbEJVUm9pUVVaWWNrVmpjVE5KT0RkTVZ6VnNUV2wyZFZGYVRUTlBRVkF6YjJOVE9GVjRVUSIsImZjdiI6IjMiLCJlaSI6IjRTOEtaX3puS2YzbHdONFB6WkNhaUFRIiwicWMiOiJDZzF6ZDJWbGRDQmpkWE4wWVhKa0VBQjlkVnNZUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG1lYW5pbmcgb2Ygc3dlZXQgY3VzdGFyZD8iLCJsayI6IkdoVnpkMlZsZENCamRYTjBZWEprSUcxbFlXNXBibWMiLCJicyI6ImMtUHk0VklKejBnc1VVZ3NTbFVveVFEaG9sUWdXVm1RV3F5UW42YVFYRnBja2xpVVlpX3gwTnhJVVVxLUhGbXBNWVl5TGc4dUJjOWlHRThoQzBncmxDWG1aZWJrSkNvVWxLYWtaT2FsMjB0OGpnZVpsSWxmR1pjemx5cllYVUIxSUx0eVU0SHllZWtndTRyTFUxTkxFQTZiSjIwa0xpV0tJZ2hUeldYQkpRRXpCQzZWbUpJS05NVmU0cktKa2FTVWVEbDJhUUZHQUEiLCJpZCI6ImZjXzIifQ%3D%3D"
+    },
+    {
+      "question": "What is custard made of?",
+      "snippet": "How is custard made? With milk or fresh pouring cream, egg yolks and sugar, and sometimes thickened with starch or egg proteins. The consistency depends mainly on the quantity of eggs or starch, the type of milk or cream and the cooking method.",
+      "title": "Custard Nutritional Information, Types & Benefits | How Is Custard Made?",
+      "link": "https://www.dairy.com.au/products/custard#:~:text=number%20of%20desserts.-,How%20is%20custard%20made%3F,cream%20and%20the%20cooking%20method.",
+      "displayed_link": "https://www.dairy.com.au \u203a products \u203a custard",
+      "source_logo": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/2a2e520c79d384e09a6c60552933f46c6258c153b0b7d9686091ba4c6bfd9be8.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1lrSm1RM0ZXYVhsUFFtcDNOekpsVVVwS1NqaEJXV05wTjNJdE5EYzVYM04zY0RFdFVsOVBOV0pHVkZobFVXaHFhVVJpTm5wWU1sTlFiekEzZVdobVdGWnVORU5ERWhjMFV6aExXbDk2Ymt0bU0yeDNUalJRZWxwRFlXbEJVUm9pUVVaWWNrVmpjVE5KT0RkTVZ6VnNUV2wyZFZGYVRUTlBRVkF6YjJOVE9GVjRVUSIsImZjdiI6IjMiLCJlaSI6IjRTOEtaX3puS2YzbHdONFB6WkNhaUFRIiwicWMiOiJDZzF6ZDJWbGRDQmpkWE4wWVhKa0VBQjlkVnNZUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgY3VzdGFyZCBtYWRlIG9mPyIsImxrIjoiR2hkM2FHRjBJR2x6SUdOMWMzUmhjbVFnYldGa1pTQnZaZyIsImJzIjoiYy1QeTRWSUp6MGdzVVVnc1NsVW95UURob2xRZ1dWbVFXcXlRbjZhUVhGcGNrbGlVWWlfeDBOeElVVXEtSEZtcE1ZWXlMZzh1QmM5aUdFOGhDMGdybENYbVplYmtKQ29VbEtha1pPYWwyMHQ4amdlWmxJbGZHWmN6bHlyWVhVQjFJTHR5VTRIeWVla2d1NHJMVTFOTEVBNmJKMjBrTGlXS0lnaFR6V1hCSlFFekJDNlZtSklLTk1WZTRyS0prYVNVZURsMmFRRkdBQSIsImlkIjoiZmNfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T1lrSm1RM0ZXYVhsUFFtcDNOekpsVVVwS1NqaEJXV05wTjNJdE5EYzVYM04zY0RFdFVsOVBOV0pHVkZobFVXaHFhVVJpTm5wWU1sTlFiekEzZVdobVdGWnVORU5ERWhjMFV6aExXbDk2Ymt0bU0yeDNUalJRZWxwRFlXbEJVUm9pUVVaWWNrVmpjVE5KT0RkTVZ6VnNUV2wyZFZGYVRUTlBRVkF6YjJOVE9GVjRVUSIsImZjdiI6IjMiLCJlaSI6IjRTOEtaX3puS2YzbHdONFB6WkNhaUFRIiwicWMiOiJDZzF6ZDJWbGRDQmpkWE4wWVhKa0VBQjlkVnNZUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgY3VzdGFyZCBtYWRlIG9mPyIsImxrIjoiR2hkM2FHRjBJR2x6SUdOMWMzUmhjbVFnYldGa1pTQnZaZyIsImJzIjoiYy1QeTRWSUp6MGdzVVVnc1NsVW95UURob2xRZ1dWbVFXcXlRbjZhUVhGcGNrbGlVWWlfeDBOeElVVXEtSEZtcE1ZWXlMZzh1QmM5aUdFOGhDMGdybENYbVplYmtKQ29VbEtha1pPYWwyMHQ4amdlWmxJbGZHWmN6bHlyWVhVQjFJTHR5VTRIeWVla2d1NHJMVTFOTEVBNmJKMjBrTGlXS0lnaFR6V1hCSlFFekJDNlZtSklLTk1WZTRyS0prYVNVZURsMmFRRkdBQSIsImlkIjoiZmNfMiJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Simple Custard Recipe",
+      "link": "https://www.allrecipes.com/recipe/258755/simple-custard/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.allrecipes.com/recipe/258755/simple-custard/&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQFnoECBwQAQ",
+      "displayed_link": "https://www.allrecipes.com \u203a ... \u203a Custards and Puddings",
+      "thumbnail": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/120b9b30fc359fb2ce2b0aeaabf1e12078dc0bc08d7d7752161cc55277512805.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/120b9b30fc359fb2ce2b0aeaabf1e120b42f0c01b9545f50ccc3633f522e2a13.png",
+      "date": "2 days ago",
+      "snippet": "This simple custard recipe uses eggs, milk, butter, cornstarch, and just enough sugar to make a not-too-sweet silky dessert that's perfect ...",
+      "snippet_highlighted_words": [
+        "custard",
+        "sweet"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.7,
+            "min": 15
+          },
+          "extensions": [
+            "4.7(141)",
+            "15 min"
+          ]
+        }
+      },
+      "source": "Allrecipes"
+    },
+    {
+      "position": 2,
+      "title": "Homemade Vanilla Custard Recipe",
+      "link": "https://www.askchefdennis.com/homemade-vanilla-custard-recipe/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.askchefdennis.com/homemade-vanilla-custard-recipe/&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQFnoECEwQAQ",
+      "displayed_link": "https://www.askchefdennis.com \u203a ... \u203a Custard Recipes",
+      "thumbnail": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/120b9b30fc359fb2ce2b0aeaabf1e120eeb7123ba5e6f16b1c28748b5d0ceefa.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/120b9b30fc359fb2ce2b0aeaabf1e120b8562ae429650890c862d955aefb3ed4.png",
+      "date": "Dec 23, 2023",
+      "snippet": "Vanilla custard is a decadent dessert that uses simple ingredients. It's made with a combination of eggs, milk, cream, sugar, vanilla, and cornstarch.",
+      "snippet_highlighted_words": [
+        "custard"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "hr_min": 3
+          },
+          "extensions": [
+            "5.0(50)",
+            "3 hr 20 min"
+          ]
+        }
+      },
+      "source": "Chef Dennis"
+    },
+    {
+      "position": 3,
+      "title": "Easy Vanilla Custard",
+      "link": "https://downshiftology.com/recipes/custard/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://downshiftology.com/recipes/custard/&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQFnoECE0QAQ",
+      "displayed_link": "https://downshiftology.com \u203a Recipes \u203a Courses \u203a Desserts",
+      "thumbnail": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/120b9b30fc359fb2ce2b0aeaabf1e12045f480563a88d157ef3e0e143b103dda.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/120b9b30fc359fb2ce2b0aeaabf1e120f5cbc7c73d5fcee0aec99eacf245a315.png",
+      "date": "Oct 29, 2023",
+      "snippet": "This classic custard is the perfect dessert to enjoy year-round. It's silky smooth, perfectly sweet, and much easier to make than you think.",
+      "snippet_highlighted_words": [
+        "custard",
+        "sweet"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.9,
+            "hr_min": 4
+          },
+          "extensions": [
+            "4.9(24)",
+            "4 hr 20 min"
+          ]
+        }
+      },
+      "source": "Downshiftology"
+    },
+    {
+      "position": 4,
+      "title": "Custard",
+      "link": "https://en.wikipedia.org/wiki/Custard",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Custard&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQFnoECEsQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Custard",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4G2b0JtQhuzEDpCx9ZvO5rpEWdAyGCDdgy07cImMvbxsvNPGWGE7G&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/120b9b30fc359fb2ce2b0aeaabf1e12045a3447616f9e95ddfbb2d9aaa653c37.png",
+      "snippet": "Custard is a variety of culinary preparations based on sweetened milk, cheese, or cream cooked with egg or egg yolk to thicken it",
+      "snippet_highlighted_words": [
+        "Custard"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Frozen custard",
+            "link": "https://en.wikipedia.org/wiki/Frozen_custard"
+          },
+          {
+            "title": "List of custard desserts",
+            "link": "https://en.wikipedia.org/wiki/List_of_custard_desserts"
+          },
+          {
+            "title": "Custard tart",
+            "link": "https://en.wikipedia.org/wiki/Custard_tart"
+          },
+          {
+            "title": "Bird's Custard",
+            "link": "https://en.wikipedia.org/wiki/Bird%27s_Custard"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 5,
+      "title": "Easy Egg Custard Recipe",
+      "link": "https://www.epicurious.com/recipes/food/views/easy-egg-custard-239229",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.epicurious.com/recipes/food/views/easy-egg-custard-239229&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQFnoECFAQAQ",
+      "displayed_link": "https://www.epicurious.com \u203a recipes \u203a food \u203a views",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoGtvK_oAfdpH4_Uz9mVKvJM8e4Xx-wSYlrMH11dc5IN9kW9f7uq19&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/120b9b30fc359fb2ce2b0aeaabf1e120fd78503e285f360d49d9ac922e96567c.png",
+      "date": "Nov 4, 2022",
+      "snippet": "When it's too hot to turn on the oven, or you're craving something sweet and chewy, these no-bake superstars are just the thing.",
+      "snippet_highlighted_words": [
+        "sweet"
+      ],
+      "rich_snippet": {
+        "bottom": {}
+      },
+      "source": "Epicurious"
+    },
+    {
+      "position": 6,
+      "title": "20 Good Old-Fashioned Custard Desserts",
+      "link": "https://www.tasteofhome.com/collection/good-old-fashioned-custard-desserts/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tasteofhome.com/collection/good-old-fashioned-custard-desserts/&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQFnoECEoQAQ",
+      "displayed_link": "https://www.tasteofhome.com \u203a ... \u203a Desserts",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8IzWrRun-2Ifq_dUghn6dKgoNXdH7nc8tjWI-nI_1YwNd5cz9GOaP&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/120b9b30fc359fb2ce2b0aeaabf1e1208d39c9916074ae85516f2fc3017eedd6.png",
+      "date": "Aug 23, 2024",
+      "snippet": "These classic pudding-like desserts have been around for ages. Here are our best recipes for cr\u00e8me brulee, flan, banana pudding and cream ...",
+      "source": "Taste of Home"
+    },
+    {
+      "position": 7,
+      "title": "Custard Pudding - Jenny Can Cook",
+      "link": "https://www.jennycancook.com/recipes/custard-pudding/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jennycancook.com/recipes/custard-pudding/&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQFnoECE8QAQ",
+      "displayed_link": "https://www.jennycancook.com \u203a recipes \u203a custard-puddi...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJE7gijl0s5ZOQsUbCSo7ERoKZX5dVLplOFqTWJRgYem-h8185cpLy&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/120b9b30fc359fb2ce2b0aeaabf1e12031b3af6afcfe63d4d9f35691e0054cab.png",
+      "snippet": "Ingredients: 1/2 cup sugar (works with 1/3 cup); 2 Tablespoons cornstarch (not corn flour); 2 cups milk (whole milk or low fat); 2 egg yolks. Instructions:.",
+      "rich_snippet": {
+        "bottom": {}
+      },
+      "source": "Jenny Can Cook"
+    },
+    {
+      "position": 8,
+      "title": "Homemade Baked Egg Custard Recipe",
+      "link": "https://www.allrecipes.com/recipe/263342/homemade-baked-egg-custard/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.allrecipes.com/recipe/263342/homemade-baked-egg-custard/&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQFnoECE4QAQ",
+      "displayed_link": "https://www.allrecipes.com \u203a ... \u203a Custard and Cream Pies",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGocMBiaY5mx_2YJLKas1zSqhzqDE1TB-7dHmOfUSHrPcg57CxvJT4&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/120b9b30fc359fb2ce2b0aeaabf1e1209dc36e72e7b86ad0687723b49c4feff5.png",
+      "date": "Jun 4, 2024",
+      "snippet": "This egg custard recipe is made from scratch, flavored with nutmeg, and baked in the oven in a sweet buttery crust until smooth, silky, and",
+      "snippet_highlighted_words": [
+        "custard",
+        "sweet"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Ingredients",
+            "link": "https://www.allrecipes.com/recipe/263342/homemade-baked-egg-custard/#:~:text=Ingredients,-1x"
+          },
+          {
+            "title": "Directions",
+            "link": "https://www.allrecipes.com/recipe/263342/homemade-baked-egg-custard/#:~:text=Directions"
+          },
+          {
+            "title": "Nutrition Facts (per...",
+            "link": "https://www.allrecipes.com/recipe/263342/homemade-baked-egg-custard/#:~:text=Nutrition%20Facts%20%28per%20serving%29"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.8,
+            "hr": 2
+          },
+          "extensions": [
+            "4.8(38)",
+            "2 hr"
+          ]
+        }
+      },
+      "source": "Allrecipes"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Custard recipe",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Custard+recipe&sa=X&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQ1QJ6BAh0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Custard+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Custard recipe without cream",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Custard+recipe+without+cream&sa=X&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQ1QJ6BAh1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Custard+recipe+without+cream"
+    },
+    {
+      "block_position": 1,
+      "query": "Custard Powder",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Custard+Powder&sa=X&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQ1QJ6BAh4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Custard+Powder"
+    },
+    {
+      "block_position": 1,
+      "query": "Vanilla custard",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Vanilla+custard&sa=X&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQ1QJ6BAh2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Vanilla+custard"
+    },
+    {
+      "block_position": 1,
+      "query": "How to make custard with custard powder",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=How+to+make+custard+with+custard+powder&sa=X&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQ1QJ6BAh3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=How+to+make+custard+with+custard+powder"
+    },
+    {
+      "block_position": 1,
+      "query": "Easy custard recipe",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Easy+custard+recipe&sa=X&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQ1QJ6BAhzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Easy+custard+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Traditional custard recipe",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Traditional+custard+recipe&sa=X&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQ1QJ6BAhyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Traditional+custard+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Baked custard",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Baked+custard&sa=X&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQ1QJ6BAhwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Baked+custard"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Ingredients",
+        "subtitle": "What Are The Ingredients For Custard",
+        "thumbnail": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/148f6449eb716f4e4e7c3ade7f1bbb728ad54f66e7ff993d554bde1de12cffc6f57db515f4323c6f.png",
+        "web_links": [
+          {
+            "title": "Simple Custard Recipe - Allrecipes",
+            "snippet": "This old-fashioned custard, made with simple ingredients you likely already have on hand, is the perfect sweet treat to...",
+            "link": "https://www.allrecipes.com/recipe/258755/simple-custard/",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQY5enTcqSfedzAPhbMijD_EpSbMSFVUihAr0_fZygu0-BV6dmLLmUj6d8SZaQ",
+            "source": "Allrecipes",
+            "source_thumbnail": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/148f6449eb716f4e4e7c3ade7f1bbb728ad54f66e7ff993d76bafd5769b4bb87a9d667025732abf4483f68e6c7cbe6aab58b5761dd6a19cb.png"
+          },
+          {
+            "title": "Homemade Vanilla Custard Recipe - Chef Dennis",
+            "snippet": "Vanilla custard is a decadent dessert that uses simple ingredients. It's made with a combination of eggs, milk,...",
+            "link": "https://www.askchefdennis.com/homemade-vanilla-custard-recipe/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpu5rJ2ytk6RQoHQI9kbY9bV0kq9Ba2Ct6f3aB-N7SyANCZOxnIhMavENVWRM",
+            "source": "Chef Dennis",
+            "source_thumbnail": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/148f6449eb716f4e4e7c3ade7f1bbb728ad54f66e7ff993d76bafd5769b4bb8725291d072f1c1846c1888e061014525b0c782ec876d9545f.png"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=what+are+the+ingredients+for+custard&sa=X&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQrooIegQIBRAF",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+are+the+ingredients+for+custard"
+      },
+      {
+        "text": "Condensed milk",
+        "subtitle": "Custard With Condensed Milk",
+        "thumbnail": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/148f6449eb716f4e4e7c3ade7f1bbb72db341f445c004dd19d491a3cd7a3fb99bb318d91f1a3f607.png",
+        "web_links": [
+          {
+            "title": "Baked Custard - Created by Diane",
+            "snippet": "1- 14 oz can sweetened condensed milk NOT evaporated milk, or regular milk \u00b7 4 cups very hot water boiling plus...",
+            "link": "https://www.createdby-diane.com/baked-custard/",
+            "source": "Created by Diane",
+            "source_thumbnail": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/148f6449eb716f4e4e7c3ade7f1bbb72db341f445c004dd1cc7274065ed9ac1d4e695e64de2058e804c4b9a013bd379d932b946685a6070c.png"
+          },
+          {
+            "title": "Condensed Milk Custard - dailydelicious",
+            "snippet": "Put the eggs, salt, and sweetened condensed milk into a bowl, and whisk to combine. Pour the whipping cream, milk, and...",
+            "link": "http://dailydelicious.blogspot.com/2022/04/condensed-milk-custard.html",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgdBHG3HieB4Engs3xLrTv33cwAq8ED2ZWQsFNWG1UytS6n1ZJbWShy4SJdtU",
+            "source": "Blogger.com",
+            "source_thumbnail": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/148f6449eb716f4e4e7c3ade7f1bbb72db341f445c004dd1cc7274065ed9ac1dc1673b132378400605817004164695ef326059d89419bc56.png"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=custard+with+condensed+milk&sa=X&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQrooIegQIBRAK",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=custard+with+condensed+milk"
+      },
+      {
+        "text": "Taste",
+        "subtitle": "What Does Custard Taste Like?",
+        "title": "What's The Difference Between Frozen Custard And Ice Cream?",
+        "link": "https://maketruescoops.com/blogs/recipes/whats-the-difference-between-frozen-custard-and-ice-cream#:~:text=Frozen%20custard%20tastes%20incredibly%20creamy,sweet%2C%20but%20not%20overwhelmingly%20so.",
+        "displayed_link": "https://maketruescoops.com \u203a blogs \u203a recipes \u203a whats-the...",
+        "date": "Dec 27, 2023",
+        "snippet": "Frozen custard tastes incredibly creamy and rich, more so than traditional ice cream. It has this smooth, velvety texture that just melts in your mouth. The flavor is deeply milky and sweet, but not overwhelmingly so.",
+        "snippet_highlighted_words": [
+          "deeply milky and sweet"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2fe1ce1e10506d99618d/images/148f6449eb716f4e4e7c3ade7f1bbb729292bd79378ad9d3ffa06ad223e3ac0ccabdb951dafb524b.png",
+        "source": "maketruescoops.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=what+does+custard+taste+like&sa=X&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQrooIegQIBRAP",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+does+custard+taste+like"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=sweet+custard&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=4S8KZ_znKf3lwN4PzZCaiAQ&start=10&sa=N&sstk=Aagrsuh7hwRuxoCVupnfuuZUZXWmsjJ0Z2cE3jAMR_VVns5ChKExXy4alg94iBDcOsRgNRfyfxJfrpVL3cokVic4G3J0KtIuo06S7Q&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQ8NMDegQIIhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=sweet+custard&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=4S8KZ_znKf3lwN4PzZCaiAQ&start=10&sa=N&sstk=Aagrsuh7hwRuxoCVupnfuuZUZXWmsjJ0Z2cE3jAMR_VVns5ChKExXy4alg94iBDcOsRgNRfyfxJfrpVL3cokVic4G3J0KtIuo06S7Q&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQ8tMDegQIIhAE",
+      "3": "https://www.google.com/search?q=sweet+custard&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=4S8KZ_znKf3lwN4PzZCaiAQ&start=20&sa=N&sstk=Aagrsuh7hwRuxoCVupnfuuZUZXWmsjJ0Z2cE3jAMR_VVns5ChKExXy4alg94iBDcOsRgNRfyfxJfrpVL3cokVic4G3J0KtIuo06S7Q&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQ8tMDegQIIhAG",
+      "4": "https://www.google.com/search?q=sweet+custard&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=4S8KZ_znKf3lwN4PzZCaiAQ&start=30&sa=N&sstk=Aagrsuh7hwRuxoCVupnfuuZUZXWmsjJ0Z2cE3jAMR_VVns5ChKExXy4alg94iBDcOsRgNRfyfxJfrpVL3cokVic4G3J0KtIuo06S7Q&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQ8tMDegQIIhAI",
+      "5": "https://www.google.com/search?q=sweet+custard&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=4S8KZ_znKf3lwN4PzZCaiAQ&start=40&sa=N&sstk=Aagrsuh7hwRuxoCVupnfuuZUZXWmsjJ0Z2cE3jAMR_VVns5ChKExXy4alg94iBDcOsRgNRfyfxJfrpVL3cokVic4G3J0KtIuo06S7Q&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQ8tMDegQIIhAK",
+      "6": "https://www.google.com/search?q=sweet+custard&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=4S8KZ_znKf3lwN4PzZCaiAQ&start=50&sa=N&sstk=Aagrsuh7hwRuxoCVupnfuuZUZXWmsjJ0Z2cE3jAMR_VVns5ChKExXy4alg94iBDcOsRgNRfyfxJfrpVL3cokVic4G3J0KtIuo06S7Q&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQ8tMDegQIIhAM",
+      "7": "https://www.google.com/search?q=sweet+custard&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=4S8KZ_znKf3lwN4PzZCaiAQ&start=60&sa=N&sstk=Aagrsuh7hwRuxoCVupnfuuZUZXWmsjJ0Z2cE3jAMR_VVns5ChKExXy4alg94iBDcOsRgNRfyfxJfrpVL3cokVic4G3J0KtIuo06S7Q&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQ8tMDegQIIhAO",
+      "8": "https://www.google.com/search?q=sweet+custard&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=4S8KZ_znKf3lwN4PzZCaiAQ&start=70&sa=N&sstk=Aagrsuh7hwRuxoCVupnfuuZUZXWmsjJ0Z2cE3jAMR_VVns5ChKExXy4alg94iBDcOsRgNRfyfxJfrpVL3cokVic4G3J0KtIuo06S7Q&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQ8tMDegQIIhAQ",
+      "9": "https://www.google.com/search?q=sweet+custard&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=4S8KZ_znKf3lwN4PzZCaiAQ&start=80&sa=N&sstk=Aagrsuh7hwRuxoCVupnfuuZUZXWmsjJ0Z2cE3jAMR_VVns5ChKExXy4alg94iBDcOsRgNRfyfxJfrpVL3cokVic4G3J0KtIuo06S7Q&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQ8tMDegQIIhAS",
+      "10": "https://www.google.com/search?q=sweet+custard&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=4S8KZ_znKf3lwN4PzZCaiAQ&start=90&sa=N&sstk=Aagrsuh7hwRuxoCVupnfuuZUZXWmsjJ0Z2cE3jAMR_VVns5ChKExXy4alg94iBDcOsRgNRfyfxJfrpVL3cokVic4G3J0KtIuo06S7Q&ved=2ahUKEwi83PWIs4iJAxX9MtAFHU2IBkEQ8tMDegQIIhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+custard&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+custard&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+custard&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+custard&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+custard&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+custard&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+custard&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+custard&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+custard&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+custard&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sweet+custard&start=90"
+    }
+  }
+}

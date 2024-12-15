@@ -1,0 +1,626 @@
+{
+  "search_metadata": {
+    "id": "670a2e76d997abf67106dd3c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5bf65eac11446e7e/670a2e76d997abf67106dd3c.json",
+    "created_at": "2024-10-12 08:08:22 UTC",
+    "processed_at": "2024-10-12 08:08:22 UTC",
+    "google_url": "https://www.google.com/search?q=whelk&oq=whelk&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/5bf65eac11446e7e/670a2e76d997abf67106dd3c.html",
+    "total_time_taken": 1.65
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "whelk",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "whelk",
+    "total_results": 3670000,
+    "time_taken_displayed": 0.24,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "title": "Whelk",
+    "type": "Seafood",
+    "entity_type": "food, kp3_verticals",
+    "kgmid": "/m/04gpjt",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/04gpjt&hl=en-US&q=Whelk",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F04gpjt&location=Austin%2CTexas%2CUnited+States&q=Whelk",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/8ef87aac603b7b33369d6dd05d4ee2dfdae3acf318dde0483d7cd11e66bb249bdd0a15215606bd4e.jpeg",
+        "source": "https://www.thespruceeats.com/whelks-2217258"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/8ef87aac603b7b33369d6dd05d4ee2dfdae3acf318dde0488520cbc03849b826a956c9674ee5a477.jpeg",
+        "source": "https://www.seashellsupply.com/lightning-whelk-busycon-contrarium-5-6/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/8ef87aac603b7b33369d6dd05d4ee2dfdae3acf318dde0483285611c8653c53ead13b3dd52d43684.jpeg",
+        "source": "https://www.flickr.com/photos/eclectic-echoes/3886146780"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/8ef87aac603b7b33369d6dd05d4ee2dfdae3acf318dde048a7ed96a29beb20e1042ea41e9624290c.jpeg",
+        "source": "https://www.nw-ifca.gov.uk/managing-sustainable-fisheries/species/shellfish/whelk/"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSaMqu1C1oC4fMDkxJBlWkNVccAY9eL2nqQZ5xivltQw&s",
+        "source": "https://www.mass.gov/info-details/whelks-and-whelk-management"
+      }
+    ],
+    "description": "Whelks are any of several carnivorous sea snail species with a swirling, tapered shell. Many are eaten by humans, such as the common whelk of the North Atlantic. Most whelks belong to the family Buccinidae and are known as \"true whelks.\"",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Whelk"
+    },
+    "sources_include": "USDAWhelk234 Calories - 3 oz (85 g)",
+    "people_also_search_for": [
+      {
+        "name": "Conch",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep1tSIn-RNUdAaCrvkOa3-L1wdVKhVjYPPgj-0svLSn2SkGiiEczgoptRSUu2WfJ6zAkAKzUxhnSb_tu_5L_pLEh5-NF3CG_o5Hza_6D36hU1Rthu4PZFfzcTjWvyuah0bki1FDJ-Kq7Jx6emkYLWM09EZgdB059eRtR1smKY4ECmz8_yhg44zpnL0evCJtHiCiClkJsBzcqrai6JmIvTDN7uAp2EEoskw0Hpn9TfF7n6-88l9drqKkWatUeVX0EBQ57_dMo%3D&q=Conch&sa=X&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQs9oBKAB6BAg0EAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Conch&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep1tSIn-RNUdAaCrvkOa3-L1wdVKhVjYPPgj-0svLSn2SkGiiEczgoptRSUu2WfJ6zAkAKzUxhnSb_tu_5L_pLEh5-NF3CG_o5Hza_6D36hU1Rthu4PZFfzcTjWvyuah0bki1FDJ-Kq7Jx6emkYLWM09EZgdB059eRtR1smKY4ECmz8_yhg44zpnL0evCJtHiCiClkJsBzcqrai6JmIvTDN7uAp2EEoskw0Hpn9TfF7n6-88l9drqKkWatUeVX0EBQ57_dMo%3D",
+        "image": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/8ef87aac603b7b33369d6dd05d4ee2df70ec7f739f7d887ad56f78c3d7d299969e68f7da178dfc7ca7a7c20b95e290f9.jpeg"
+      },
+      {
+        "name": "Cockle",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-Lz1S6Pq7cft9QarUygWXef1E2UBxiarSP_L4sc-LfAzwyhE1JyrKjpLUYnjIIHVlG4Kz4sw86dnaEvNQPKpYhEeQQJ6gwphpxhRhFt3dswmRDuxd5aWaJQUw0l8Hkg5ANvc60S0qJQl1IiIIOaRrAQR8yyWDq5Gnny3lVjmq8sZ75As9ItUhqrU_c45SR5P1rCclfly4CbzQ2f6Pv_5jb9xhFwUInlo60fNBvqnMpNf8wBKrYagfFkybOViSbq5vEOiism4%3D&q=Cockle&sa=X&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQs9oBKAB6BAg0EAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Cockle&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-Lz1S6Pq7cft9QarUygWXef1E2UBxiarSP_L4sc-LfAzwyhE1JyrKjpLUYnjIIHVlG4Kz4sw86dnaEvNQPKpYhEeQQJ6gwphpxhRhFt3dswmRDuxd5aWaJQUw0l8Hkg5ANvc60S0qJQl1IiIIOaRrAQR8yyWDq5Gnny3lVjmq8sZ75As9ItUhqrU_c45SR5P1rCclfly4CbzQ2f6Pv_5jb9xhFwUInlo60fNBvqnMpNf8wBKrYagfFkybOViSbq5vEOiism4%3D",
+        "image": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/8ef87aac603b7b33369d6dd05d4ee2df70ec7f739f7d887ad56f78c3d7d29996888f92a8d22ce746333fb18ead740906.jpeg"
+      },
+      {
+        "name": "Limpet",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L6Kj9_x5PNm45xsXd3AlYcIdMrSDimuU8v6HzxRLLz-2Ml2TR82TkNy9x5LQLZVXlnLkOFOMsmQeIo7Pe8eO4jngC8Iu5f1XtisK-_OMzl4S_ys2K-FXCKke4qAeao_Po87piJ4KVRDsVOx0jUtLzOD-bPyO4JkSGs8AZYiTLfgdg4ahmWVTNLfPbg9o_IaSDM02oLqFPGhY7RTrEhA9u31Mw1T0W14pB1NAckVkYeVCceLpufz5zYgomWW9ENDflBOHV1U%3D&q=Limpet&sa=X&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQs9oBKAB6BAg0EA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Limpet&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L6Kj9_x5PNm45xsXd3AlYcIdMrSDimuU8v6HzxRLLz-2Ml2TR82TkNy9x5LQLZVXlnLkOFOMsmQeIo7Pe8eO4jngC8Iu5f1XtisK-_OMzl4S_ys2K-FXCKke4qAeao_Po87piJ4KVRDsVOx0jUtLzOD-bPyO4JkSGs8AZYiTLfgdg4ahmWVTNLfPbg9o_IaSDM02oLqFPGhY7RTrEhA9u31Mw1T0W14pB1NAckVkYeVCceLpufz5zYgomWW9ENDflBOHV1U%3D",
+        "image": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/8ef87aac603b7b33369d6dd05d4ee2df70ec7f739f7d887ad56f78c3d7d29996c0be7444ecb71a05aaec7f29a421484f.jpeg"
+      },
+      {
+        "name": "Mussel",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L7breFP6Y0W4dd5_b67HkL1pKEfT7N5wUHyvG1T2LoRg9N7bOvLYrlpn2mZ3MzdQMYfcbAVIPpLO52OdPxtXIVmw9jM2W8aE52Rykh8eMSEksUMY3YgFdPpIQBWVRuu3dOv85j4F7ltQVmsBmy-OQZs2B-YzBYXgvkKsAG_Ya69-E5LNmI7GaC_TwSSYTfOikM8beKms7fya3OH_sSRAlK1LriMRrejDR29XHLY-VwEKNXTgQg-DpL0PSTsrl_vnEcfQ6YE%3D&q=Mussels&sa=X&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQs9oBKAB6BAg0EBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Mussels&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L7breFP6Y0W4dd5_b67HkL1pKEfT7N5wUHyvG1T2LoRg9N7bOvLYrlpn2mZ3MzdQMYfcbAVIPpLO52OdPxtXIVmw9jM2W8aE52Rykh8eMSEksUMY3YgFdPpIQBWVRuu3dOv85j4F7ltQVmsBmy-OQZs2B-YzBYXgvkKsAG_Ya69-E5LNmI7GaC_TwSSYTfOikM8beKms7fya3OH_sSRAlK1LriMRrejDR29XHLY-VwEKNXTgQg-DpL0PSTsrl_vnEcfQ6YE%3D",
+        "image": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/8ef87aac603b7b33369d6dd05d4ee2df70ec7f739f7d887ad56f78c3d7d299963a72017b8f8b0213dfdab66bff372819.jpeg"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "0.7 g",
+        "1%"
+      ],
+      "cholesterol": [
+        "110 mg",
+        "36%"
+      ],
+      "sodium": [
+        "350 mg",
+        "14%"
+      ],
+      "potassium": [
+        "590 mg",
+        "16%"
+      ],
+      "total_carbohydrate": [
+        "13 g",
+        "4%"
+      ],
+      "protein": [
+        "41 g",
+        "82%"
+      ]
+    }
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=whelk&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=BPXI03PX3jtgyM%252CPBoNG1omUfM71M%252C%252Fm%252F04gpjt%253BYiihg9IqScRZRM%252CdxSDyQCQeISNyM%252C_%253BI4N94dYk0UJYBM%252CM39-JNTzURHJuM%252C_%253BmzYZoJz1_6XgxM%252C6RN5Y19H1L0aiM%252C_%253B0lU_3KohdQkzoM%252CtCcotc0qJBV0rM%252C_&usg=AI4_-kTULGopt0hhrKKHzV4a4B0tJZ_Fug&sa=X&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQ_B16BAg3EAE#vhid=BPXI03PX3jtgyM&vssid=mosaic",
+      "source": "https://www.thespruceeats.com/whelks-2217258",
+      "thumbnail": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/f33bc91627b2f2abac3bcbe1db329e69535020f054ac6faa3287dc113e42b521.jpeg",
+      "original": "https://www.thespruceeats.com/thmb/Hp_d95wCmaKGf91e3U3SQJNV8Po=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Whelks-57e705ce5f9b586c355ede15.jpg",
+      "title": "www.thespruceeats.com/thmb/Hp_d95wCmaKGf91e3U3SQJN...",
+      "source_name": "www.thespruceeats.com"
+    },
+    {
+      "link": "https://www.google.com/search?q=whelk&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=BPXI03PX3jtgyM%252CPBoNG1omUfM71M%252C_%253BYiihg9IqScRZRM%252CdxSDyQCQeISNyM%252C_%253BI4N94dYk0UJYBM%252CM39-JNTzURHJuM%252C_%253BmzYZoJz1_6XgxM%252C6RN5Y19H1L0aiM%252C_%253B0lU_3KohdQkzoM%252CtCcotc0qJBV0rM%252C_&usg=AI4_-kT8CX1osWmb210frHg0jn0gLaLexQ&sa=X&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQ_h16BAg8EAE#vhid=Yiihg9IqScRZRM&vssid=mosaic",
+      "source": "https://www.seashellsupply.com/lightning-whelk-busycon-contrarium-5-6/",
+      "thumbnail": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/f33bc91627b2f2abd7d2c6af44629268a1f23a91ae329e8f4a929fa4a96f1996.jpeg",
+      "original": "https://cdn11.bigcommerce.com/s-58d8d/images/stencil/1280x1280/products/627/2493/4a4ac32b-bf30-4f3b-a292-294462b72f04__00278.1682969967.jpg?c=2",
+      "title": "Right Handed Whelk Seashell Knobbed Dark Streaked Busycon Carica (1 shell  approx. 5+ inches) Natural sea shells for display & collecting!",
+      "source_name": "SeaShell Supply"
+    },
+    {
+      "link": "https://www.google.com/search?q=whelk&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=BPXI03PX3jtgyM%252CPBoNG1omUfM71M%252C_%253BYiihg9IqScRZRM%252CdxSDyQCQeISNyM%252C_%253BI4N94dYk0UJYBM%252CM39-JNTzURHJuM%252C_%253BmzYZoJz1_6XgxM%252C6RN5Y19H1L0aiM%252C_%253B0lU_3KohdQkzoM%252CtCcotc0qJBV0rM%252C_&usg=AI4_-kT8CX1osWmb210frHg0jn0gLaLexQ&sa=X&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQ_h16BAg7EAE#vhid=I4N94dYk0UJYBM&vssid=mosaic",
+      "source": "https://www.flickr.com/photos/eclectic-echoes/3886146780",
+      "thumbnail": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/f33bc91627b2f2ab1a1e158e6e4e8d2b3da21d654275417d445f6253b3d13ef0.jpeg",
+      "original": "https://live.staticflickr.com/2639/3886146780_0083e22abf_b.jpg",
+      "title": "Channeled Whelk with Egg Cases | Johann had a blast on the P ...",
+      "source_name": "Flickr"
+    },
+    {
+      "link": "https://www.google.com/search?q=whelk&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=BPXI03PX3jtgyM%252CPBoNG1omUfM71M%252C_%253BYiihg9IqScRZRM%252CdxSDyQCQeISNyM%252C_%253BI4N94dYk0UJYBM%252CM39-JNTzURHJuM%252C_%253BmzYZoJz1_6XgxM%252C6RN5Y19H1L0aiM%252C_%253B0lU_3KohdQkzoM%252CtCcotc0qJBV0rM%252C_&usg=AI4_-kT8CX1osWmb210frHg0jn0gLaLexQ&sa=X&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQ_h16BAg5EAE#vhid=mzYZoJz1_6XgxM&vssid=mosaic",
+      "source": "https://www.nw-ifca.gov.uk/managing-sustainable-fisheries/species/shellfish/whelk/",
+      "thumbnail": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/f33bc91627b2f2abcf422a9d48eadc23e3d686de8aaf416a2fd0b8b195348e5b.jpeg",
+      "original": "http://www.nw-ifca.gov.uk/app/uploads/Buccinum_undatum-800x634.jpg",
+      "title": "Whelk - IFCA North West",
+      "source_name": "IFCA North West"
+    },
+    {
+      "link": "https://www.google.com/search?q=whelk&sca_esv=8568a6baa21243e5&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=BPXI03PX3jtgyM%252CPBoNG1omUfM71M%252C_%253BYiihg9IqScRZRM%252CdxSDyQCQeISNyM%252C_%253BI4N94dYk0UJYBM%252CM39-JNTzURHJuM%252C_%253BmzYZoJz1_6XgxM%252C6RN5Y19H1L0aiM%252C_%253B0lU_3KohdQkzoM%252CtCcotc0qJBV0rM%252C_&usg=AI4_-kT8CX1osWmb210frHg0jn0gLaLexQ&sa=X&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQ_h16BAg4EAE#vhid=0lU_3KohdQkzoM&vssid=mosaic",
+      "source": "https://www.mass.gov/info-details/whelks-and-whelk-management",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSaMqu1C1oC4fMDkxJBlWkNVccAY9eL2nqQZ5xivltQw&s",
+      "original": "https://www.mass.gov/files/styles/embedded_half_width/public/channeled_whelk.jpg?itok=kO1HUBRt",
+      "title": "Whelks and Whelk Management | Mass.gov",
+      "source_name": "Mass.gov"
+    }
+  ],
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "A Sheller's Guide to Whelk Shells",
+      "link": "https://www.youtube.com/watch?v=P3Cs5eBk6uc",
+      "thumbnail": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/40ca43fd1990422cbb7ee03fb9b3a28134c2169adf5e262315ca454ce0c50405.jpeg",
+      "channel": "Shell Stories",
+      "duration": "5:01",
+      "platform": "YouTube",
+      "date": "May 30, 2024",
+      "key_moments": [
+        {
+          "time": "00:07",
+          "title": "Lightning Whelk",
+          "link": "https://www.youtube.com/watch?v=P3Cs5eBk6uc&t=7",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5aDSmMoI4iTrwuXiBy1tprVSi8fuPfjn542YjgCQMHQ&s"
+        },
+        {
+          "time": "01:29",
+          "title": "Knobbed Whelk",
+          "link": "https://www.youtube.com/watch?v=P3Cs5eBk6uc&t=89",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW8XxB8BueggeiL9dVdPOvEcXqAbCh16ocbP2y_12RVw&s"
+        },
+        {
+          "time": "02:51",
+          "title": "Channeled Whelk",
+          "link": "https://www.youtube.com/watch?v=P3Cs5eBk6uc&t=171",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs7_uCQjIioFqmKXZG-0E4tllmTU1s-HjltBhxsmKYFQ&s"
+        },
+        {
+          "time": "04:05",
+          "title": "Pear Whelk",
+          "link": "https://www.youtube.com/watch?v=P3Cs5eBk6uc&t=245",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYaoxcD066QLnVRV0tWlvQrTxeddf_LwaP_tecjZ08pw&s"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "#WildlifeWednesday | Knobbed whelk You may know about ...",
+      "link": "https://www.facebook.com/NewJerseyStateParks/videos/wildlifewednesday/459445266946856/",
+      "thumbnail": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/40ca43fd1990422cf04194429b554395ec571172080866d1e9adf7bea1d2f8d9.jpeg",
+      "channel": "New Jersey State Parks, Forests & Historic Sites",
+      "duration": "2:51",
+      "platform": "Facebook",
+      "date": "Jul 10, 2024"
+    },
+    {
+      "position": 3,
+      "title": "Facts: Whelks",
+      "link": "https://m.youtube.com/watch?v=m8F_4vn3BI4",
+      "thumbnail": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/40ca43fd1990422c231d6f966f0652966a95d38da56fbab806ffdb0d74031c64.jpeg",
+      "channel": "Deep Marine Scenes",
+      "duration": "2:48",
+      "platform": "YouTube",
+      "date": "May 12, 2023",
+      "key_moments": [
+        {
+          "time": "01:00",
+          "title": "Tentacles",
+          "link": "https://m.youtube.com/watch?v=m8F_4vn3BI4&t=60",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWT12bjoLChe0xG_651CRThrwl8er7Ky5HTc14TjOIrg&s"
+        },
+        {
+          "time": "01:13",
+          "title": "Circulatory",
+          "link": "https://m.youtube.com/watch?v=m8F_4vn3BI4&t=73",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZnJIC9w6IxLUrRzAsO1Bk8vG0UY-Mvrzw3vH1Ebn0Q&s"
+        },
+        {
+          "time": "01:37",
+          "title": "Opportunistic Feeders",
+          "link": "https://m.youtube.com/watch?v=m8F_4vn3BI4&t=97",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdwM6jdC9B3ioPR3RwABPYxgJmJwPdiEOEO7526j7ulQ&s"
+        },
+        {
+          "time": "02:07",
+          "title": "Female Whelks",
+          "link": "https://m.youtube.com/watch?v=m8F_4vn3BI4&t=127",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPqJkbRxnjJQA5XSnD-xMr6WFqaZyyRaNsH8r6w2K3w&s"
+        }
+      ]
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Are whelks nice to eat?",
+      "snippet": "Unlike clams, whelks have a sweet and saline taste. You should take care not to overcook them in order to maintain their smooth and chewy texture. These edible sea snails add plenty of minerals to the diet. They are especially high in calcium, zinc, copper, iron, magnesium, potassium, phosphorus, and selenium.",
+      "title": "What Are the Health Benefits of Whelks? - WebMD",
+      "link": "https://www.webmd.com/diet/health-benefits-whelks#:~:text=Unlike%20clams%2C%20whelks%20have%20a,potassium%2C%20phosphorus%2C%20and%20selenium.",
+      "displayed_link": "https://www.webmd.com \u203a diet \u203a health-benefits-whelks",
+      "source_logo": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/058eda0a82edcae41e2a29eaa584d1e1b6ab01787f09950d8b66260fbd54a7ef.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVdHc3djRzFLUjFwelJtaGZkVUZqYm5kak1UY3hhMXBJUTJkRFRIVlBRbTR0T0c1MlVVTjRiRUZPWVZvNE0zZHJUWGx5ZDFaMGVEY3dXVXROY1ZZMmJUVkphMWxpRWhka2VUUkxXalZYVDBWMFpqbHdkRkZRTFRjM01uZEJTUm9pUVVaWWNrVmpiMFJIUm01NFMxOWlTVmd3VG0xUlprSmZNMWxvT1VWbmJubzBkdyIsImZjdiI6IjMiLCJlaSI6ImR5NEtaNVdPRXRmOXB0UVAtNzcyd0FJIiwicWMiOiJDZ1YzYUdWc2F4QUFmVDM4TEQ4IiwicXVlc3Rpb24iOiJBcmUgd2hlbGtzIG5pY2UgdG8gZWF0PyIsImxrIjoiR2haaGNtVWdkMmhsYkd0eklHNXBZMlVnZEc4Z1pXRjAiLCJicyI6ImM1V1BNUTdDTUF4RnhlcUpDZEl3NERNRXhJQ1FJbVlPMElraHBLNFN0WEtrTkNqaWRreWNnZ3R3QzFwZ1FBSUdOdXVfNTI4WlZqRGRSc0xzcUcwNlpHOEpVMEF5U1l2clhBazVNVjhwYkVDV3psdUhOaHc1eGRNUWRpOVJpOHRleldTUmZ3bkFzQ2lkU2VnN1RJNnc4blZOa2JpdlAxREtSSXptcWFMaHFwOXRZT3UwdUFXMWxDcl92UWxyS0I3MzNwN3hqTHNReVdoeE5rcEtrVDk1TV9EeDZBNCIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVdHc3djRzFLUjFwelJtaGZkVUZqYm5kak1UY3hhMXBJUTJkRFRIVlBRbTR0T0c1MlVVTjRiRUZPWVZvNE0zZHJUWGx5ZDFaMGVEY3dXVXROY1ZZMmJUVkphMWxpRWhka2VUUkxXalZYVDBWMFpqbHdkRkZRTFRjM01uZEJTUm9pUVVaWWNrVmpiMFJIUm01NFMxOWlTVmd3VG0xUlprSmZNMWxvT1VWbmJubzBkdyIsImZjdiI6IjMiLCJlaSI6ImR5NEtaNVdPRXRmOXB0UVAtNzcyd0FJIiwicWMiOiJDZ1YzYUdWc2F4QUFmVDM4TEQ4IiwicXVlc3Rpb24iOiJBcmUgd2hlbGtzIG5pY2UgdG8gZWF0PyIsImxrIjoiR2haaGNtVWdkMmhsYkd0eklHNXBZMlVnZEc4Z1pXRjAiLCJicyI6ImM1V1BNUTdDTUF4RnhlcUpDZEl3NERNRXhJQ1FJbVlPMElraHBLNFN0WEtrTkNqaWRreWNnZ3R3QzFwZ1FBSUdOdXVfNTI4WlZqRGRSc0xzcUcwNlpHOEpVMEF5U1l2clhBazVNVjhwYkVDV3psdUhOaHc1eGRNUWRpOVJpOHRleldTUmZ3bkFzQ2lkU2VnN1RJNnc4blZOa2JpdlAxREtSSXptcWFMaHFwOXRZT3UwdUFXMWxDcl92UWxyS0I3MzNwN3hqTHNReVdoeE5rcEtrVDk1TV9EeDZBNCIsImlkIjoiZmNfMSJ9"
+    },
+    {
+      "question": "Which country eats whelks?",
+      "snippet": "But those fishing for whelks off the coast of Wales claim they are popular in Japan and South Korea. Each year 10,000 tonnes of them are caught in the Bristol Channel but virtually all end up in Asia.",
+      "title": "Why are whelks caught in Wales popular in South Korea? - BBC",
+      "date": "Feb 9, 2019",
+      "link": "https://www.bbc.com/news/uk-wales-47172635#:~:text=But%20those%20fishing%20for%20whelks,all%20end%20up%20in%20Asia.",
+      "displayed_link": "https://www.bbc.com \u203a news \u203a uk-wales-47172635",
+      "source_logo": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/058eda0a82edcae41e2a29eaa584d1e1001f4f9297f46be4a136e4a72dd17ca0.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVdHc3djRzFLUjFwelJtaGZkVUZqYm5kak1UY3hhMXBJUTJkRFRIVlBRbTR0T0c1MlVVTjRiRUZPWVZvNE0zZHJUWGx5ZDFaMGVEY3dXVXROY1ZZMmJUVkphMWxpRWhka2VUUkxXalZYVDBWMFpqbHdkRkZRTFRjM01uZEJTUm9pUVVaWWNrVmpiMFJIUm01NFMxOWlTVmd3VG0xUlprSmZNMWxvT1VWbmJubzBkdyIsImZjdiI6IjMiLCJlaSI6ImR5NEtaNVdPRXRmOXB0UVAtNzcyd0FJIiwicWMiOiJDZ1YzYUdWc2F4QUFmVDM4TEQ4IiwicXVlc3Rpb24iOiJXaGljaCBjb3VudHJ5IGVhdHMgd2hlbGtzPyIsImxrIjoiR2hsM2FHbGphQ0JqYjNWdWRISjVJR1ZoZEhNZ2QyaGxiR3R6IiwiYnMiOiJjNVdQTVE3Q01BeEZ4ZXFKQ2RJdzRETUV4SUNRSW1ZTzBJa2hwSzRTdFhLa05Damlka3ljZ2d0d0MxcGdRQUlHTnV1XzUyOFpWakRkUnNMc3FHMDZaRzhKVTBBeVNZdnJYQWs1TVY4cGJFQ1d6bHVITmh3NXhkTVFkaTlSaTh0ZXpXU1Jmd25Bc0NpZFNlZzdUSTZ3OG5WTmtiaXZQMURLUkl6bXFhTGhxcDl0WU91MHVBVzFsQ3JfdlFscktCNzMzcDd4akxzUXlXaHhOa3BLa1Q5NU1fRHg2QTQiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVdHc3djRzFLUjFwelJtaGZkVUZqYm5kak1UY3hhMXBJUTJkRFRIVlBRbTR0T0c1MlVVTjRiRUZPWVZvNE0zZHJUWGx5ZDFaMGVEY3dXVXROY1ZZMmJUVkphMWxpRWhka2VUUkxXalZYVDBWMFpqbHdkRkZRTFRjM01uZEJTUm9pUVVaWWNrVmpiMFJIUm01NFMxOWlTVmd3VG0xUlprSmZNMWxvT1VWbmJubzBkdyIsImZjdiI6IjMiLCJlaSI6ImR5NEtaNVdPRXRmOXB0UVAtNzcyd0FJIiwicWMiOiJDZ1YzYUdWc2F4QUFmVDM4TEQ4IiwicXVlc3Rpb24iOiJXaGljaCBjb3VudHJ5IGVhdHMgd2hlbGtzPyIsImxrIjoiR2hsM2FHbGphQ0JqYjNWdWRISjVJR1ZoZEhNZ2QyaGxiR3R6IiwiYnMiOiJjNVdQTVE3Q01BeEZ4ZXFKQ2RJdzRETUV4SUNRSW1ZTzBJa2hwSzRTdFhLa05Damlka3ljZ2d0d0MxcGdRQUlHTnV1XzUyOFpWakRkUnNMc3FHMDZaRzhKVTBBeVNZdnJYQWs1TVY4cGJFQ1d6bHVITmh3NXhkTVFkaTlSaTh0ZXpXU1Jmd25Bc0NpZFNlZzdUSTZ3OG5WTmtiaXZQMURLUkl6bXFhTGhxcDl0WU91MHVBVzFsQ3JfdlFscktCNzMzcDd4akxzUXlXaHhOa3BLa1Q5NU1fRHg2QTQiLCJpZCI6ImZjXzEifQ%3D%3D"
+    },
+    {
+      "question": "What is the difference between a whelk and a conch?",
+      "snippet": "For starters, aside from the whelks preferring cold water and conchs preferring tropical waters, whelks are carnivores \u2013 and at times, cannibals \u2013 whereas conchs are herbivores. Known as the \u201cbullies of the sea,\u201d whelks attack each other, as well as any other smaller animal they find.",
+      "title": "Beachcomber's View: Whelks Versus Conchs - Coastal Review",
+      "date": "Apr 22, 2019",
+      "link": "https://coastalreview.org/2019/04/beachcombers-view-whelks-versus-conchs/#:~:text=For%20starters%2C%20aside%20from%20the,other%20smaller%20animal%20they%20find.",
+      "displayed_link": "https://coastalreview.org \u203a 2019/04 \u203a beachcombers-vie...",
+      "source_logo": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/058eda0a82edcae41e2a29eaa584d1e11310820319c77e1e655e2645736d5970.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVdHc3djRzFLUjFwelJtaGZkVUZqYm5kak1UY3hhMXBJUTJkRFRIVlBRbTR0T0c1MlVVTjRiRUZPWVZvNE0zZHJUWGx5ZDFaMGVEY3dXVXROY1ZZMmJUVkphMWxpRWhka2VUUkxXalZYVDBWMFpqbHdkRkZRTFRjM01uZEJTUm9pUVVaWWNrVmpiMFJIUm01NFMxOWlTVmd3VG0xUlprSmZNMWxvT1VWbmJubzBkdyIsImZjdiI6IjMiLCJlaSI6ImR5NEtaNVdPRXRmOXB0UVAtNzcyd0FJIiwicWMiOiJDZ1YzYUdWc2F4QUFmVDM4TEQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gYSB3aGVsayBhbmQgYSBjb25jaD8iLCJsayI6IkdqSjNhR0YwSUdseklIUm9aU0JrYVdabVpYSmxibU5sSUdKbGRIZGxaVzRnWVNCM2FHVnNheUJoYm1RZ1lTQmpiMjVqYUEiLCJicyI6ImM1V1BNUTdDTUF4RnhlcUpDZEl3NERNRXhJQ1FJbVlPMElraHBLNFN0WEtrTkNqaWRreWNnZ3R3QzFwZ1FBSUdOdXVfNTI4WlZqRGRSc0xzcUcwNlpHOEpVMEF5U1l2clhBazVNVjhwYkVDV3psdUhOaHc1eGRNUWRpOVJpOHRleldTUmZ3bkFzQ2lkU2VnN1RJNnc4blZOa2JpdlAxREtSSXptcWFMaHFwOXRZT3UwdUFXMWxDcl92UWxyS0I3MzNwN3hqTHNReVdoeE5rcEtrVDk1TV9EeDZBNCIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVdHc3djRzFLUjFwelJtaGZkVUZqYm5kak1UY3hhMXBJUTJkRFRIVlBRbTR0T0c1MlVVTjRiRUZPWVZvNE0zZHJUWGx5ZDFaMGVEY3dXVXROY1ZZMmJUVkphMWxpRWhka2VUUkxXalZYVDBWMFpqbHdkRkZRTFRjM01uZEJTUm9pUVVaWWNrVmpiMFJIUm01NFMxOWlTVmd3VG0xUlprSmZNMWxvT1VWbmJubzBkdyIsImZjdiI6IjMiLCJlaSI6ImR5NEtaNVdPRXRmOXB0UVAtNzcyd0FJIiwicWMiOiJDZ1YzYUdWc2F4QUFmVDM4TEQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gYSB3aGVsayBhbmQgYSBjb25jaD8iLCJsayI6IkdqSjNhR0YwSUdseklIUm9aU0JrYVdabVpYSmxibU5sSUdKbGRIZGxaVzRnWVNCM2FHVnNheUJoYm1RZ1lTQmpiMjVqYUEiLCJicyI6ImM1V1BNUTdDTUF4RnhlcUpDZEl3NERNRXhJQ1FJbVlPMElraHBLNFN0WEtrTkNqaWRreWNnZ3R3QzFwZ1FBSUdOdXVfNTI4WlZqRGRSc0xzcUcwNlpHOEpVMEF5U1l2clhBazVNVjhwYkVDV3psdUhOaHc1eGRNUWRpOVJpOHRleldTUmZ3bkFzQ2lkU2VnN1RJNnc4blZOa2JpdlAxREtSSXptcWFMaHFwOXRZT3UwdUFXMWxDcl92UWxyS0I3MzNwN3hqTHNReVdoeE5rcEtrVDk1TV9EeDZBNCIsImlkIjoiZmNfMSJ9"
+    },
+    {
+      "question": "What are whelks in Korea?",
+      "snippet": "Whelks are a type of edible sea snails that are high in protein and low in fat. Koreans typically use canned whelks (golbaengi) because they are pre-cooked and soaked in a sweet and savory brine, making them very convenient to use.",
+      "title": "Spicy whelks with noodles (Golbaengi-muchim) - Maangchi",
+      "link": "https://www.maangchi.com/recipe/golbaengi-muchim#:~:text=Whelks%20are%20a%20type%20of,them%20very%20convenient%20to%20use.",
+      "displayed_link": "https://www.maangchi.com \u203a recipe \u203a golbaengi-muchim",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaM6LLXR-7urh_Qv0YnkmrRIrMFxwmbv_rCf_loo6lyg&s",
+      "source_logo": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/058eda0a82edcae41e2a29eaa584d1e1bb9a952dbc08be13911c736e4afbe326.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVdHc3djRzFLUjFwelJtaGZkVUZqYm5kak1UY3hhMXBJUTJkRFRIVlBRbTR0T0c1MlVVTjRiRUZPWVZvNE0zZHJUWGx5ZDFaMGVEY3dXVXROY1ZZMmJUVkphMWxpRWhka2VUUkxXalZYVDBWMFpqbHdkRkZRTFRjM01uZEJTUm9pUVVaWWNrVmpiMFJIUm01NFMxOWlTVmd3VG0xUlprSmZNMWxvT1VWbmJubzBkdyIsImZjdiI6IjMiLCJlaSI6ImR5NEtaNVdPRXRmOXB0UVAtNzcyd0FJIiwicWMiOiJDZ1YzYUdWc2F4QUFmVDM4TEQ4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB3aGVsa3MgaW4gS29yZWE/IiwibGsiOiJHaGgzYUdGMElHRnlaU0IzYUdWc2EzTWdhVzRnYTI5eVpXRSIsImJzIjoiYzVXUE1RN0NNQXhGeGVxSkNkSXc0RE1FeElDUUltWU8wSWtocEs0U3RYS2tOQ2ppZGt5Y2dndHdDMXBnUUFJR051dV81MjhaVmpEZFJzTHNxRzA2Wkc4SlUwQXlTWXZyWEFrNU1WOHBiRUNXemx1SE5odzV4ZE1RZGk5Umk4dGV6V1NSZnduQXNDaWRTZWc3VEk2dzhuVk5rYml2UDFES1JJem1xYUxocXA5dFlPdTB1QVcxbENyX3ZRbHJLQjczM3A3eGpMc1F5V2h4TmtwS2tUOTVNX0R4NkE0IiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVdHc3djRzFLUjFwelJtaGZkVUZqYm5kak1UY3hhMXBJUTJkRFRIVlBRbTR0T0c1MlVVTjRiRUZPWVZvNE0zZHJUWGx5ZDFaMGVEY3dXVXROY1ZZMmJUVkphMWxpRWhka2VUUkxXalZYVDBWMFpqbHdkRkZRTFRjM01uZEJTUm9pUVVaWWNrVmpiMFJIUm01NFMxOWlTVmd3VG0xUlprSmZNMWxvT1VWbmJubzBkdyIsImZjdiI6IjMiLCJlaSI6ImR5NEtaNVdPRXRmOXB0UVAtNzcyd0FJIiwicWMiOiJDZ1YzYUdWc2F4QUFmVDM4TEQ4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB3aGVsa3MgaW4gS29yZWE%2FIiwibGsiOiJHaGgzYUdGMElHRnlaU0IzYUdWc2EzTWdhVzRnYTI5eVpXRSIsImJzIjoiYzVXUE1RN0NNQXhGeGVxSkNkSXc0RE1FeElDUUltWU8wSWtocEs0U3RYS2tOQ2ppZGt5Y2dndHdDMXBnUUFJR051dV81MjhaVmpEZFJzTHNxRzA2Wkc4SlUwQXlTWXZyWEFrNU1WOHBiRUNXemx1SE5odzV4ZE1RZGk5Umk4dGV6V1NSZnduQXNDaWRTZWc3VEk2dzhuVk5rYml2UDFES1JJem1xYUxocXA5dFlPdTB1QVcxbENyX3ZRbHJLQjczM3A3eGpMc1F5V2h4TmtwS2tUOTVNX0R4NkE0IiwiaWQiOiJmY18xIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Whelk",
+      "link": "https://en.wikipedia.org/wiki/Whelk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Whelk&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQFnoECBIQAQ&usg=AOvVaw3CtTBMrd0bEViy9sWfEYF5",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Whelk",
+      "favicon": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/ab5387319497b89b5003b05b4c5583baa33989d14f9ab0a8eff468abfacedd66.png",
+      "snippet": "Whelks are any of several carnivorous sea snail species with a swirling, tapered shell. Many are eaten by humans, such as the common whelk of the North ...",
+      "snippet_highlighted_words": [
+        "Whelks",
+        "whelk"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Knobbed whelk",
+            "link": "https://en.wikipedia.org/wiki/Knobbed_whelk"
+          },
+          {
+            "title": "Busycotypus canaliculatus",
+            "link": "https://en.wikipedia.org/wiki/Busycotypus_canaliculatus"
+          },
+          {
+            "title": "Dog whelk",
+            "link": "https://en.wikipedia.org/wiki/Dog_whelk"
+          },
+          {
+            "title": "Buccinum undatum",
+            "link": "https://en.wikipedia.org/wiki/Buccinum_undatum"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Whelk | Edible, Gastropod, Shellfish",
+      "link": "https://www.britannica.com/animal/whelk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.britannica.com/animal/whelk&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQFnoECFAQAQ&usg=AOvVaw2d92RmrVkW_bXC2ObDIXqn",
+      "displayed_link": "https://www.britannica.com \u203a Science \u203a Environment",
+      "favicon": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/ab5387319497b89b5003b05b4c5583ba0e812d350faafabb4e6cf246809f81b7.png",
+      "snippet": "Whelk, any marine snail of the family Buccinidae (subclass Prosobranchia of the class Gastropoda), or a snail having a similar shell.",
+      "snippet_highlighted_words": [
+        "Whelk"
+      ],
+      "source": "Britannica"
+    },
+    {
+      "position": 3,
+      "title": "Kellet's Whelk Enhanced Status Report - Marine Species Portal",
+      "link": "https://marinespecies.wildlife.ca.gov/kellet%E2%80%99s-whelk/the-species/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://marinespecies.wildlife.ca.gov/kellet%25E2%2580%2599s-whelk/the-species/&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQFnoECEsQAQ&usg=AOvVaw2Is_0BN8iy4jSs2uXGoPLt",
+      "displayed_link": "https://marinespecies.wildlife.ca.gov \u203a the-species",
+      "favicon": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/ab5387319497b89b5003b05b4c5583baf92e6cac0399ec1e55ebdeb50cc95eef.png",
+      "snippet": "Kellet's whelk (Kelletia kelletii) is the largest whelk found in southern California. The shell of the animal can reach 6.9 inches (in) (17.5 centimeters ...",
+      "snippet_highlighted_words": [
+        "whelk",
+        "whelk"
+      ],
+      "source": "Marine Species Portal (.gov)"
+    },
+    {
+      "position": 4,
+      "title": "What Is Whelk?",
+      "link": "https://www.thespruceeats.com/whelks-2217258",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thespruceeats.com/whelks-2217258&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQFnoECE0QAQ&usg=AOvVaw1HOOII_BeWoj0niz9dVqxg",
+      "displayed_link": "https://www.thespruceeats.com \u203a ... \u203a American Mains",
+      "favicon": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/ab5387319497b89b5003b05b4c5583ba5a796e8b6a63e926c19a99e1850f2aca.png",
+      "date": "Sep 15, 2022",
+      "snippet": "The whelk is a sea snail from the family Buccinidae that has elegantly spiraled shells and, when properly cooked, tender and succulent meat.",
+      "snippet_highlighted_words": [
+        "whelk"
+      ],
+      "source": "The Spruce Eats"
+    },
+    {
+      "position": 5,
+      "title": "Whelks and Whelk Management",
+      "link": "https://www.mass.gov/info-details/whelks-and-whelk-management",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mass.gov/info-details/whelks-and-whelk-management&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQFnoECE4QAQ&usg=AOvVaw2XLA-33Uw2eDk9Fw4EASkl",
+      "displayed_link": "https://www.mass.gov \u203a info-details \u203a whelks-and-whel...",
+      "favicon": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/ab5387319497b89b5003b05b4c5583bad30a88b6529e01839fad5406cf32f05a.png",
+      "snippet": "Channeled and knobbed whelks (\u201cwhelks\u201d) are edible marine snails. They are carnivorous scavengers and predators of shellfish that inhabit benthic, shallow, ...",
+      "snippet_highlighted_words": [
+        "whelks",
+        "whelks"
+      ],
+      "source": "Mass.gov"
+    },
+    {
+      "position": 6,
+      "title": "Whelk",
+      "link": "https://www.wildlifetrusts.org/wildlife-explorer/marine/sea-snails-and-sea-slugs/whelk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wildlifetrusts.org/wildlife-explorer/marine/sea-snails-and-sea-slugs/whelk&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQFnoECEwQAQ&usg=AOvVaw3pXPNLLvnhS571iAzsqoJd",
+      "displayed_link": "https://www.wildlifetrusts.org \u203a sea-snails-and-sea-slugs",
+      "favicon": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/ab5387319497b89b5003b05b4c5583ba0e2f3cc72d64a29a81beed3094f43fbb.png",
+      "snippet": "The common whelk is the largest sea snail found in UK seas, though you're more likely to find the dry balls of empty whelk egg capsules washed up in strandlines ...",
+      "snippet_highlighted_words": [
+        "whelk",
+        "whelk"
+      ],
+      "source": "The Wildlife Trusts"
+    },
+    {
+      "position": 7,
+      "title": "Knobbed Whelk Busycon carica - Chesapeake Bay Program",
+      "link": "https://www.chesapeakebay.net/discover/field-guide/entry/knobbed-whelk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chesapeakebay.net/discover/field-guide/entry/knobbed-whelk&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQFnoECEoQAQ&usg=AOvVaw02ZKkk-mNffIJHQSHc0VKq",
+      "displayed_link": "https://www.chesapeakebay.net \u203a field-guide \u203a entry",
+      "favicon": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/ab5387319497b89b5003b05b4c5583ba7de891a4862c76bf2415d78b35fceedd.png",
+      "snippet": "Knobbed whelks are marine gastropods that live in tidal estuaries along the Atlantic coast. Their spiral shells can range in color from grayish white to tan.",
+      "snippet_highlighted_words": [
+        "whelks"
+      ],
+      "source": "chesapeakebay.net"
+    },
+    {
+      "position": 8,
+      "title": "Whelks | Department of Marine Resources",
+      "link": "http://www.maine.gov/dmr/fisheries/commercial/fisheries-by-species/whelks",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.maine.gov/dmr/fisheries/commercial/fisheries-by-species/whelks&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQFnoECE8QAQ&usg=AOvVaw3iozeGBvQX9-Ab5NrFWClK",
+      "displayed_link": "http://www.maine.gov \u203a fisheries \u203a fisheries-by-species",
+      "favicon": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/ab5387319497b89b5003b05b4c5583ba9b35e7097fc8d567662c601f662293d2.jpeg",
+      "snippet": "Waved whelks are primarily scavengers feeding on dead or dying marine organisms. They use their radula (or tongue) to scrape flesh form their prey.",
+      "snippet_highlighted_words": [
+        "whelks"
+      ],
+      "source": "Maine.gov"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Whelk vs conch",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Whelk+vs+conch&sa=X&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQ1QJ6BAhqEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Whelk+vs+conch"
+    },
+    {
+      "block_position": 1,
+      "query": "Whelk shell",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Whelk+shell&sa=X&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQ1QJ6BAhoEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Whelk+shell"
+    },
+    {
+      "block_position": 1,
+      "query": "Whelk food",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Whelk+food&sa=X&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQ1QJ6BAhpEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Whelk+food"
+    },
+    {
+      "block_position": 1,
+      "query": "Whelk in French",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Whelk+in+French&sa=X&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQ1QJ6BAhrEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Whelk+in+French"
+    },
+    {
+      "block_position": 1,
+      "query": "Whelk snail",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Whelk+snail&sa=X&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQ1QJ6BAhnEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Whelk+snail"
+    },
+    {
+      "block_position": 1,
+      "query": "Whelk species",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Whelk+species&sa=X&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQ1QJ6BAhmEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Whelk+species"
+    },
+    {
+      "block_position": 1,
+      "query": "Whelk scientific name",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Whelk+scientific+name&sa=X&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQ1QJ6BAhlEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Whelk+scientific+name"
+    },
+    {
+      "block_position": 1,
+      "query": "Whelk sushi",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Whelk+sushi&sa=X&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQ1QJ6BAhsEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Whelk+sushi"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Taste",
+        "subtitle": "What Does Whelk Taste Like",
+        "title": "What Is Whelk? - The Spruce Eats",
+        "link": "https://www.thespruceeats.com/whelks-2217258#:~:text=Whelk%20has%20a%20briny%20and,from%20vinegar%20or%20fresh%20lemon.",
+        "displayed_link": "https://www.thespruceeats.com \u203a whelks-2217258",
+        "date": "Sep 15, 2022",
+        "snippet": "Whelk has a briny and sweet flavor, not dissimilar to clams. It has a pleasantly chewy texture when not overcooked\u2014it can become tough when cooked too long. Larger varieties of whelk have a meatier texture than smaller varieties. It pairs nicely with butter and a touch of acid from vinegar or fresh lemon.",
+        "snippet_highlighted_words": [
+          "briny and sweet"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/a15b3fed8309d0634d449161ce7c7c16ec8e48d3f0e4902edcf22cff6c572e3bb4abf4a52fb91b52.png",
+        "source": "thespruceeats.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnzjzAvKAiMbEzlLcUHsCchAST0mYY5J2-yDMDTPiEjC4&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=what+does+whelk+taste+like&sa=X&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQrooIegQIGRAI",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+does+whelk+taste+like"
+      },
+      {
+        "text": "Poisonous or not",
+        "subtitle": "Are Whelks Poisonous",
+        "title": "I hear that whelks are poisonous. Is it true?",
+        "link": "https://www.hokeniryo.metro.tokyo.lg.jp/shokuhin/eng/faq/category06/113.html#:~:text=The%20salivary%20glands%20of%20whelks,to%20one%20hour%20after%20ingestion.",
+        "displayed_link": "https://www.hokeniryo.metro.tokyo.lg.jp \u203a category06",
+        "snippet": "The salivary glands of whelks may contain a poisonous matter called tetramine (salivary gland poison). Ingestion of whelks without removing the salivary glands may cause symptoms such as headache, dizziness, and feeling of seasickness appearing approximately 30 minutes to one hour after ingestion.",
+        "snippet_highlighted_words": [
+          "The salivary glands of whelks may contain a poisonous matter called tetramine (salivary gland poison)"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/a15b3fed8309d0634d449161ce7c7c161ef6dc81f47e356c449a817c276aa775ea3a1c21210f44e0.png",
+        "source": "tokyo.lg.jp",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwQA35UHSvM_QOKtN6YLKM-gLlitHPyzp3KZNBUOpm7gU&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=are+whelks+poisonous&sa=X&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQrooIegQIGRAQ",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=are+whelks+poisonous"
+      },
+      {
+        "text": "Location",
+        "subtitle": "Where Do Whelks Live?",
+        "title": "Whelks | Department of Marine Resources - Maine.gov",
+        "link": "https://www.maine.gov/dmr/fisheries/commercial/fisheries-by-species/whelks#:~:text=Habitat%3A%20Waved%20whelks%20can%20be,of%20mucus%20which%20they%20secrete.",
+        "displayed_link": "https://www.maine.gov \u203a commercial \u203a fisheries-by-species",
+        "snippet": "Habitat: Waved whelks can be found along the Atlantic seaboard from the Arctic to New Jersey. They live subtidally to depths of about six hundred feet. Movement: Whelks have a powerful muscular foot that glides on a film of mucus which they secrete.",
+        "snippet_highlighted_words": [
+          "along the Atlantic seaboard from the Arctic to New Jersey"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/a15b3fed8309d0634d449161ce7c7c16738d6027516f2fd485014d774fbf6b3d110ba1ec55c97acd.png",
+        "source": "maine.gov",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=where+do+whelks+live&sa=X&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQrooIegQIGRAV",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=where+do+whelks+live"
+      },
+      {
+        "text": "How to eat",
+        "subtitle": "How Do You Eat A Whelk",
+        "title": "How to Eat Whelks - YouTube",
+        "link": "https://www.youtube.com/watch?v=o2By8AJ9U94",
+        "displayed_link": "https://www.youtube.com \u203a watch",
+        "snippet": "And usually used with a pin or a little fork. And served with a splash of malt vinegar.",
+        "favicon": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/a15b3fed8309d0634d449161ce7c7c160acb6edc8e0c1a96f832b587d051a5b8cd5e3919b78cc636.png",
+        "source": "youtube.com",
+        "thumbnail": "https://img.youtube.com/vi/o2By8AJ9U94/hqdefault.jpg",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=how+do+you+eat+a+whelk&sa=X&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQrooIegQIGRAa",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+do+you+eat+a+whelk"
+      },
+      {
+        "text": "How to catch",
+        "subtitle": "How Do You Catch Whelks",
+        "title": "Whelks | Devon & Severn IFCA | Inshore Fisheries and Conservation ...",
+        "link": "https://www.devonandsevernifca.gov.uk/environment-research/research/molluscan-research-in-ds-ifcas-district/whelks/#:~:text=Fishers%20use%20specially%20designed%20whelk,up%20of%20parallel%20metal%20bars.",
+        "displayed_link": "https://www.devonandsevernifca.gov.uk \u203a research \u203a wh...",
+        "snippet": "Fishers use specially designed whelk pots baited with fish and shellfish. They are set using a number of pots attached to one string. Once hauled the catch from each pot is passed through a riddle, which is a piece of equipment made up of parallel metal bars.",
+        "snippet_highlighted_words": [
+          "Fishers use specially designed whelk pots baited with fish and shellfish"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/a15b3fed8309d0634d449161ce7c7c16461e4093dda6d25230a81ad8fe760b4745668d562133416f.png",
+        "source": "devonandsevernifca.gov.uk",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=how+do+you+catch+whelks&sa=X&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQrooIegQIGRAg",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+do+you+catch+whelks"
+      },
+      {
+        "text": "Predator or prey",
+        "subtitle": "Is Whelk A Predator Or Prey",
+        "title": "Whelks | Vanderbilt Museum",
+        "link": "https://www.vanderbiltmuseum.org/wp-content/uploads/2020/04/whelk-fact-sheet.pdf",
+        "displayed_link": "https://www.vanderbiltmuseum.org \u203a whelk-fact-sheet",
+        "snippet": "Whelks are predatory sea snails. Scientifically they are known as gastropods.",
+        "snippet_highlighted_words": [
+          "predatory"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/a15b3fed8309d0634d449161ce7c7c163b5cdd4ab19d3248b1f169fe10d2c8932574b20f8a95d4b6.png",
+        "source": "vanderbiltmuseum.org",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=is+whelk+a+predator+or+prey&sa=X&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQrooIegQIGRAl",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=is+whelk+a+predator+or+prey"
+      },
+      {
+        "text": "Size",
+        "subtitle": "Size Of Whelk",
+        "title": "Whelk - IFCA North West",
+        "link": "https://www.nw-ifca.gov.uk/managing-sustainable-fisheries/species/shellfish/whelk/#:~:text=Description,highly%20variable%20depending%20on%20location.",
+        "displayed_link": "https://www.nw-ifca.gov.uk \u203a species \u203a shellfish \u203a whelk",
+        "snippet": "Description. Whelks are large gastropod molluscs that can reach 10cm in height and 6cm in width. The shell morphology and colour can be highly variable depending on location.",
+        "snippet_highlighted_words": [
+          "10cm in height and 6cm in width"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/a15b3fed8309d0634d449161ce7c7c16cb75f1b042f369ea8f02e12394ec8510b8e6744df688f1d8.png",
+        "source": "nw-ifca.gov.uk",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=size+of+whelk&sa=X&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQrooIegQIGRAq",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=size+of+whelk"
+      },
+      {
+        "text": "Life cycle",
+        "subtitle": "Whelk Life Cycle",
+        "title": "Knobbed Whelks: More than Just the State Shell of New Jersey",
+        "link": "https://www.savecoastalwildlife.org/featured-coastal-animal/2021/12/12/knobbed-whelk-more-than-just-the-state-of-shell-of-new-jersey#:~:text=This%20string%20of%20capsules%20is,live%20up%20to%2040%20years.",
+        "displayed_link": "https://www.savecoastalwildlife.org \u203a 2021/12/12 \u203a knob...",
+        "date": "Dec 12, 2021",
+        "snippet": "This string of capsules is called an egg case. Each tiny snail that emerges from an egg case is born with a shell. It will take 3 to 5 years before a juvenile whelk reaches maturity. Adult knobbed whelks measure five to nine inches in length and can live up to 40 years.",
+        "snippet_highlighted_words": [
+          "Adult knobbed whelks measure five to nine inches in length and can live up to 40 years"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2e76d997abf67106dd3c/images/a15b3fed8309d0634d449161ce7c7c164da32e2243e707320f6ad5b4ce3bb567de616a7daa1fb869.png",
+        "source": "savecoastalwildlife.org",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbKk8m_bHYiWv9cGwAFjYpfqAD2XW2nDP9UDCgeo7K37c&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=whelk+life+cycle&sa=X&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQrooIegQIGRAy",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=whelk+life+cycle"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=whelk&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=dy4KZ5WOEtf9ptQP-772wAI&start=10&sa=N&sstk=Aagrsui0iAT_yaWw-GYar15i47hA4IIEV9zUV2ZhyqEqKBPBWCXTiFuEaRMWi3F38NERrH8Ki49LMJOk9kMkf-3N_rSjURcqCHL3vw&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQ8NMDegQIBxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=whelk&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=dy4KZ5WOEtf9ptQP-772wAI&start=10&sa=N&sstk=Aagrsui0iAT_yaWw-GYar15i47hA4IIEV9zUV2ZhyqEqKBPBWCXTiFuEaRMWi3F38NERrH8Ki49LMJOk9kMkf-3N_rSjURcqCHL3vw&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQ8tMDegQIBxAE",
+      "3": "https://www.google.com/search?q=whelk&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=dy4KZ5WOEtf9ptQP-772wAI&start=20&sa=N&sstk=Aagrsui0iAT_yaWw-GYar15i47hA4IIEV9zUV2ZhyqEqKBPBWCXTiFuEaRMWi3F38NERrH8Ki49LMJOk9kMkf-3N_rSjURcqCHL3vw&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQ8tMDegQIBxAG",
+      "4": "https://www.google.com/search?q=whelk&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=dy4KZ5WOEtf9ptQP-772wAI&start=30&sa=N&sstk=Aagrsui0iAT_yaWw-GYar15i47hA4IIEV9zUV2ZhyqEqKBPBWCXTiFuEaRMWi3F38NERrH8Ki49LMJOk9kMkf-3N_rSjURcqCHL3vw&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQ8tMDegQIBxAI",
+      "5": "https://www.google.com/search?q=whelk&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=dy4KZ5WOEtf9ptQP-772wAI&start=40&sa=N&sstk=Aagrsui0iAT_yaWw-GYar15i47hA4IIEV9zUV2ZhyqEqKBPBWCXTiFuEaRMWi3F38NERrH8Ki49LMJOk9kMkf-3N_rSjURcqCHL3vw&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQ8tMDegQIBxAK",
+      "6": "https://www.google.com/search?q=whelk&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=dy4KZ5WOEtf9ptQP-772wAI&start=50&sa=N&sstk=Aagrsui0iAT_yaWw-GYar15i47hA4IIEV9zUV2ZhyqEqKBPBWCXTiFuEaRMWi3F38NERrH8Ki49LMJOk9kMkf-3N_rSjURcqCHL3vw&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQ8tMDegQIBxAM",
+      "7": "https://www.google.com/search?q=whelk&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=dy4KZ5WOEtf9ptQP-772wAI&start=60&sa=N&sstk=Aagrsui0iAT_yaWw-GYar15i47hA4IIEV9zUV2ZhyqEqKBPBWCXTiFuEaRMWi3F38NERrH8Ki49LMJOk9kMkf-3N_rSjURcqCHL3vw&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQ8tMDegQIBxAO",
+      "8": "https://www.google.com/search?q=whelk&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=dy4KZ5WOEtf9ptQP-772wAI&start=70&sa=N&sstk=Aagrsui0iAT_yaWw-GYar15i47hA4IIEV9zUV2ZhyqEqKBPBWCXTiFuEaRMWi3F38NERrH8Ki49LMJOk9kMkf-3N_rSjURcqCHL3vw&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQ8tMDegQIBxAQ",
+      "9": "https://www.google.com/search?q=whelk&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=dy4KZ5WOEtf9ptQP-772wAI&start=80&sa=N&sstk=Aagrsui0iAT_yaWw-GYar15i47hA4IIEV9zUV2ZhyqEqKBPBWCXTiFuEaRMWi3F38NERrH8Ki49LMJOk9kMkf-3N_rSjURcqCHL3vw&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQ8tMDegQIBxAS",
+      "10": "https://www.google.com/search?q=whelk&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=dy4KZ5WOEtf9ptQP-772wAI&start=90&sa=N&sstk=Aagrsui0iAT_yaWw-GYar15i47hA4IIEV9zUV2ZhyqEqKBPBWCXTiFuEaRMWi3F38NERrH8Ki49LMJOk9kMkf-3N_rSjURcqCHL3vw&ved=2ahUKEwjVpY_csYiJAxXXvokEHXufHSgQ8tMDegQIBxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=whelk&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=whelk&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=whelk&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=whelk&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=whelk&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=whelk&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=whelk&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=whelk&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=whelk&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=whelk&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=whelk&start=90"
+    }
+  }
+}

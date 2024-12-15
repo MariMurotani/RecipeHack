@@ -1,0 +1,567 @@
+{
+  "search_metadata": {
+    "id": "670a2d1f123457c30165990e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/b43cfe70833fd282/670a2d1f123457c30165990e.json",
+    "created_at": "2024-10-12 08:02:39 UTC",
+    "processed_at": "2024-10-12 08:02:39 UTC",
+    "google_url": "https://www.google.com/search?q=caribou&oq=caribou&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/b43cfe70833fd282/670a2d1f123457c30165990e.html",
+    "total_time_taken": 2.22
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "caribou",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "caribou",
+    "total_results": 44500000,
+    "time_taken_displayed": 0.27,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=caribou&npsic=0&rflfq=1&rldoc=1&rllag=30352857,-97840703,10554&tbm=lcl&sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQtgN6BAhFEAI",
+    "image": "https://serpapi.com/searches/670a2d1f123457c30165990e/images/a00ca6fa78deb6bc36aa59c2e7fa6b69.png",
+    "gps_coordinates": {
+      "latitude": 30.352857,
+      "longitude": -97.840703
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "label": "A",
+        "lsig": "AB86z5VhWgd97T3-yeD6PReydGSS",
+        "title": "Caribou Films",
+        "phone": "(512) 944-8621",
+        "hours": "Closed \u22c5 Opens 8 AM Mon",
+        "place_id": "2115087473585701267",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=2115087473585701267&q=caribou"
+      },
+      {
+        "position": 2,
+        "label": "B",
+        "description": "Dine-in\u00b7Drive-through\u00b7No-contact delivery",
+        "lsig": "AB86z5VYMnoyFddAeKO9Ra6gk5GG",
+        "service_options": {
+          "dine_in": true,
+          "drive_through": true,
+          "no_contact_delivery": true
+        },
+        "links": {
+          "website": "https://locations.einsteinbros.com/us/tx/austin/4501-w-braker-ln?y_source=1_OTA0OTk0Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+          "directions": "https://www.google.com/maps/dir//Einstein+Bros.+Bagels,+4501+W+Braker+Ln+Ste+500,+Austin,+TX+78759/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8644cc864b2d702d:0x116d775b12cd87ac?sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQ48ADegQILBAA&hl=en&gl=us",
+          "order": "https://food.google.com/chooseprovider?restaurantId=/g/1tsjf0ps&g2lbs=AOHF13ntlc8IuAp3wn5jqcZUtIoaspZBhOyUBRhBBfi0QIGgcQuftj6sUt9TcwW4KTE1dHfUWkjL3Uuoww1-jjDJaG5FVsv1DA%3D%3D&hl=en-US&gl=us&ssta=1&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=chain-result&gei=IC0KZ5qBKuD8ptQP28XJgAU&ei=IC0KZ5qBKuD8ptQP28XJgAU&fo_s=OA,SOE&opi=89978449&foub=mcpp"
+        },
+        "title": "Einstein Bros. Bagels",
+        "phone": "(512) 338-6711",
+        "address": "4501 W Braker Ln Ste 500",
+        "hours": "Closed \u22c5 Opens 6 AM",
+        "place_id": "1255791104147425196",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=1255791104147425196&q=caribou",
+        "gps_coordinates": {
+          "latitude": 30.399824,
+          "longitude": -97.74512
+        }
+      },
+      {
+        "position": 3,
+        "label": "C",
+        "description": "Dine-in\u00b7Takeout\u00b7No-contact delivery",
+        "lsig": "AB86z5WCBp1E6qOQPJb9Hjwg4KzF",
+        "service_options": {
+          "dine_in": true,
+          "takeout": true,
+          "no_contact_delivery": true
+        },
+        "links": {
+          "website": "https://locations.einsteinbros.com/us/tx/bee-cave/12532-fm-2244-rd?y_source=1_OTA0OTU4My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+          "directions": "https://www.google.com/maps/dir//Einstein+Bros.+Bagels,+12532+FM+Rd+2244+BLDG+2,+Bee+Cave,+TX+78738/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x865b37f39dd17f69:0xd756cd3dab28fa90?sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQ48ADegQIKxAA&hl=en&gl=us",
+          "order": "https://food.google.com/chooseprovider?restaurantId=/g/11b6rzwpbl&g2lbs=AOHF13mgQK0jR0J4jiAaysk5cpGkAmYU4N_pf3xGnmE9AI-LGfVSUp4rWTfMTeYZVtYmAxuVcsykIPIpkWSxbC-m4FzQ12sF0Q%3D%3D&hl=en-US&gl=us&ssta=1&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=chain-result&gei=IC0KZ5qBKuD8ptQP28XJgAU&ei=IC0KZ5qBKuD8ptQP28XJgAU&fo_s=OA,SOE&opi=89978449&foub=mcpp"
+        },
+        "title": "Einstein Bros. Bagels",
+        "phone": "(512) 687-0681",
+        "address": "Bee Cave, TX",
+        "hours": "Closed \u22c5 Opens 6 AM",
+        "place_id": "15516815230899911312",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=15516815230899911312&q=caribou",
+        "gps_coordinates": {
+          "latitude": 30.30589,
+          "longitude": -97.93629
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&tbs=lf:1,lf_ui:4&tbm=lcl&q=caribou&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQjGp6BAhGEAE"
+  },
+  "knowledge_graph": {
+    "title": "Caribou Coffee",
+    "type": "Retailer commercial company",
+    "entity_type": "companies, chains, shopping_merchant",
+    "kgmid": "/m/03p1q_2",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/03p1q_2&hl=en-US&q=Caribou+Coffee",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F03p1q_2&location=Austin%2CTexas%2CUnited+States&q=Caribou+Coffee",
+    "image": "https://serpapi.com/searches/670a2d1f123457c30165990e/images/c63adf974e6660628d01d7a58537eb3ecd4b4d97b296917c.png",
+    "website": "https://www.cariboucoffee.com/",
+    "parent_organizations": "JAB Holding Company, Pret Panera I G.P.",
+    "parent_organizations_links": [
+      {
+        "text": "JAB Holding Company",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=JAB+Holding+Company&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQYFawG05jkgh97uwFKkZoq2noGMS-amw-ERcI4YgtqpzfC4JCsN51sn2PVSKWKL_5psr5cN7Sia8m7ki_g-yoNth4LwfV_dOkKjzA4giTA7qdR7Z_3W6vUA26zWAQ593C9iMrIc05jn1GepZFIxjuYCRuEGB39et1QPJfVCxXcMAlLaOmD9JWo1ZfmCrpCi8YGPpr8m1TEguHOUqJ3itTvMkb3PUwnkRHwWpmPRIIGsUdtq4fHNpMiEd7nj3NIJPlPGq9B4%3D&sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQmxMoAHoECEAQAg"
+      },
+      {
+        "text": "Pret Panera I G.P.",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Pret+Panera+I+G.P.&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgH7yZ1F6FXPQFkUOrctKBw3M2KZGEVYIN5MTZZ8ThGT1A1fGJMxmd_M7XD7DVrmbP5p7hdPSlmMisxxi9BYkCGtNbntnHuV-I5Po2HZ1cMXKtfbxJROcKKOSsOTnDC9hIiecRxzf9gNyPdewMmP0KGgxqI0X2WoCfuzW--pK62POERwGEyEehY_1mZRN22M-KUkUKFMVXFskcS--ZYJZ8pC2POXpA-q3afLQRy7SN3mR4yftZA8RQaSMb_NkcZd7RqClAl4%3D&sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQmxMoAXoECEAQAw"
+      }
+    ],
+    "founded": "December 1992, Edina, MN",
+    "founded_links": [
+      {
+        "text": "Edina, MN",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Edina,+Minnesota&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm-409PIC-mFv2VYisebHTs7-8t5yNO8_NMNmnWT-EWhU-VLcjn0lWyez0SpwYGTnm2-r_6nuQd4a3679vSzHiAvAltWBiW31lA9yDT3uXdgIVlMbKRWbpzdCPzft-_hY77Ss7eRlGyEcmm36EusdzNCxhN7KHu5jhYO3Yj4WOOw8P8-qiA%3D%3D&sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQmxMoAHoECD8QAg"
+      }
+    ],
+    "founder": "John Puckett",
+    "founder_links": [
+      {
+        "text": "John Puckett",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=John+Puckett&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgMN5DnlxjQL1fGU94Pm-vVt7lYDpalvKG4gR4BHUgJcHBc8ZXQFNPIhEIqCbqqEIccdsCaZLb7dHIOzSm9FEKFzuRfNuFzcTM0HPt42OVa-LYVNMRveIzEyyQsb1iqn1vbj02UHxX5ZbCH9HRSNbYEKgMmvtiwc0QGH1odEyCA8UjBFmiQ%3D%3D&sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQmxMoAHoECD0QAg"
+      }
+    ],
+    "customer_service": "1 (888) 227-4268",
+    "headquarters": "Minneapolis, MN",
+    "headquarters_links": [
+      {
+        "text": "Minneapolis, MN",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Minneapolis&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L3RgLmejjPD0vaA_WYSmlOE5qtAO9M-hAo_LdJ5K8J8t5AzqWBEq7KyrS_osAfTYXrKiH9sw6-3Y2F-DLU3srFr1JZBh__lk5DX0bQlv2p9ISsPcD2UKA0FPTG5pCk75FU1fH40tCaJKSnPU-Lv2br51OtTI&sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQmxMoAHoECDwQAg"
+      }
+    ],
+    "president": "John Butcher",
+    "president_links": [
+      {
+        "text": "John Butcher",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=John+Butcher&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgGleXtMyx_KkzOHmsWTb73BlWqIzB-3kqDwpJUZKL8DYFq3gjeiltWMXNncsZDchIODB9vuHbASDJeut6v0eodyqI58z1AwJdcUTEC_MzktZE20ga86exYbftWn6t9Bz5hQ7hm9kxJ4GK-8zCIeTHzCX7jNoYvk8Phah0bT6YY5ssxQ3cQ%3D%3D&sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQmxMoAHoECDsQAg"
+      }
+    ],
+    "web_results": [
+      {
+        "snippet": "Caribou Coffee Company is an American coffee company and coffeehouse chain. It was founded in Edina, Minnesota, in 1992. As of September 2023, the company operates over 750 locations worldwide. It is headquartered in Brooklyn Center, Minnesota.",
+        "source": "Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Caribou_Coffee"
+      }
+    ],
+    "menu_nutrition": [
+      {
+        "name": "Trending, Peach Mango Lemonade Energy Drink",
+        "extensions": "190 to 530 Calories \u00b7 Trending",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=caribou+coffee+trending,+peach+mango+lemonade+energy+drink&stick=H4sIAAAAAAAAAB3HQQrCMBAF0IUIIrjxBIPuRIi1u1ymxMxPDG1m4tgKehxPKvh2b7Pab111l751j-F62Lnsum4SscT2OR3H6F1SZVchy9BMX4Vh_j_IbAXP79rHYOWmC0VNCaDZIFwkn6khxDvVIFlpQlUJDILA8pvYiow_q-05Y38AAAA&sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQri56BAg-EAM",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=caribou+coffee+trending%2C+peach+mango+lemonade+energy+drink&stick=H4sIAAAAAAAAAB3HQQrCMBAF0IUIIrjxBIPuRIi1u1ymxMxPDG1m4tgKehxPKvh2b7Pab111l751j-F62Lnsum4SscT2OR3H6F1SZVchy9BMX4Vh_j_IbAXP79rHYOWmC0VNCaDZIFwkn6khxDvVIFlpQlUJDILA8pvYiow_q-05Y38AAAA"
+      },
+      {
+        "name": "Trending, Blue Raspberry Lemonade Energy Drink",
+        "extensions": "180 to 490 Calories \u00b7 Trending",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=caribou+coffee+trending,+blue+raspberry+lemonade+energy+drink&stick=H4sIAAAAAAAAAB3HQQrCMBAF0IUIIrjxBIPuRIixC6XgWUrS-Q0hzaSdtkqv40kF3-7tNse9yeZWDXZs7qeDCcbaz3Pk9LB8Oae2Nl0pbDJkaQYt78jQ-j_IrBHTd_tqnUZfFmpL1wE0K4SjhCv5fgGpmwYP1ZV65CKOQRBoWIk1SvoBnNbvPoIAAAA&sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQri56BAg-EAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=caribou+coffee+trending%2C+blue+raspberry+lemonade+energy+drink&stick=H4sIAAAAAAAAAB3HQQrCMBAF0IUIIrjxBIPuRIixC6XgWUrS-Q0hzaSdtkqv40kF3-7tNse9yeZWDXZs7qeDCcbaz3Pk9LB8Oae2Nl0pbDJkaQYt78jQ-j_IrBHTd_tqnUZfFmpL1wE0K4SjhCv5fgGpmwYP1ZV65CKOQRBoWIk1SvoBnNbvPoIAAAA"
+      },
+      {
+        "name": "Trending, Strawberry Pineapple Lemonade Energy Drink",
+        "extensions": "180 to 490 Calories \u00b7 Trending",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=caribou+coffee+trending,+strawberry+pineapple+lemonade+energy+drink&stick=H4sIAAAAAAAAAB3HQQrCMBAF0IUIIrjxBIPuRIhtd916kJJmfktoMkmnqaXX8aSCb_dOh-vZRPNqcjV39e1iRlNVm6vnwLw_7pNrzZASmwhZu6zp4xna_gcp6rF8j29n1fdpJZeGAaCiEPYyPmkparceqjtlL7A5B1BATGIZBIGOO7F6mX6Sn7WoiAAAAA&sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQri56BAg-EAc",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=caribou+coffee+trending%2C+strawberry+pineapple+lemonade+energy+drink&stick=H4sIAAAAAAAAAB3HQQrCMBAF0IUIIrjxBIPuRIhtd916kJJmfktoMkmnqaXX8aSCb_dOh-vZRPNqcjV39e1iRlNVm6vnwLw_7pNrzZASmwhZu6zp4xna_gcp6rF8j29n1fdpJZeGAaCiEPYyPmkparceqjtlL7A5B1BATGIZBIGOO7F6mX6Sn7WoiAAAAA"
+      },
+      {
+        "name": "Trending, Pomegranate Acai Lemonade Energy Drink",
+        "extensions": "170 to 480 Calories \u00b7 Trending",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=caribou+coffee+trending,+pomegranate+acai+lemonade+energy+drink&stick=H4sIAAAAAAAAAB3HTQrCMBAG0IUIIrjxBIPuRIj1B6Qbj1Ji8iWENjPpmCq9jicVfLu3WmzXJpvTpTRjd95tTDRN87mP8Zav82Hfu9YEEW8yeOqKyjt5aPsfuGrC67t8OKvpKRM5CQGgqmCfOB6pSEZUy7aCrLOJBmRh60FgaJzJa-L-B87ex-qEAAAA&sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQri56BAg-EAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=caribou+coffee+trending%2C+pomegranate+acai+lemonade+energy+drink&stick=H4sIAAAAAAAAAB3HTQrCMBAG0IUIIrjxBIPuRIj1B6Qbj1Ji8iWENjPpmCq9jicVfLu3WmzXJpvTpTRjd95tTDRN87mP8Zav82Hfu9YEEW8yeOqKyjt5aPsfuGrC67t8OKvpKRM5CQGgqmCfOB6pSEZUy7aCrLOJBmRh60FgaJzJa-L-B87ex-qEAAAA"
+      }
+    ],
+    "profiles": [
+      {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/CBOU10thandPiedmont/",
+        "image": "https://serpapi.com/searches/670a2d1f123457c30165990e/images/c63adf974e6660628d01d7a58537eb3e0da2de41bc74df6ac4ed0eee26f9f486a1aa839a5ee24de9.png"
+      },
+      {
+        "name": "Instagram",
+        "link": "https://instagram.com/cariboucoffee",
+        "image": "https://serpapi.com/searches/670a2d1f123457c30165990e/images/c63adf974e6660628d01d7a58537eb3e0da2de41bc74df6ae06ed0280bbcca6b814cbf57d6c6a1ab.png"
+      },
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/company/caribou-coffee",
+        "image": "https://serpapi.com/searches/670a2d1f123457c30165990e/images/c63adf974e6660628d01d7a58537eb3e0da2de41bc74df6acfaa35b6797c23c6b9560611bd85383e.png"
+      },
+      {
+        "name": "X (Twitter)",
+        "link": "https://twitter.com/cariboucoffee",
+        "image": "https://serpapi.com/searches/670a2d1f123457c30165990e/images/c63adf974e6660628d01d7a58537eb3e0da2de41bc74df6a6f08a4626b4fb640f9231d490d24f367.png"
+      },
+      {
+        "name": "Pinterest",
+        "link": "https://www.pinterest.com/cariboucoffee/",
+        "image": "https://serpapi.com/searches/670a2d1f123457c30165990e/images/c63adf974e6660628d01d7a58537eb3e0da2de41bc74df6adebeb89ed49ff0f82d24807aef3e0547.png"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Einstein Bros. Bagels",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L2bY3Q5yWo2DAU08a3bmDzwe9fVMWmwoS4kNaNgSZK0FBoNzlpr8j4nhezBwt1-EfCqeQDRb3a1r61Q19AF_-HzAr5AQjkJbtPo0doS5L5eEJyEICGVmA1IOXR-drC7nz9xCM5MSO9XAGPtH3dxb96IhGGfms1vlOB8j_IEXpqWl00Z5_V5KUAP-GMzXGZV5mX9aQqx1vtP27RZNXMROqcgcvqevOl8foCAxJJjdNJncxgj_GTxfQV7jquzN79iqy49f0qO4i_mY4VAqvIjldtKXXsdk&q=Einstein+Bros.+Bagels&sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQs9oBKAB6BAg5EAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Einstein+Bros.+Bagels&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L2bY3Q5yWo2DAU08a3bmDzwe9fVMWmwoS4kNaNgSZK0FBoNzlpr8j4nhezBwt1-EfCqeQDRb3a1r61Q19AF_-HzAr5AQjkJbtPo0doS5L5eEJyEICGVmA1IOXR-drC7nz9xCM5MSO9XAGPtH3dxb96IhGGfms1vlOB8j_IEXpqWl00Z5_V5KUAP-GMzXGZV5mX9aQqx1vtP27RZNXMROqcgcvqevOl8foCAxJJjdNJncxgj_GTxfQV7jquzN79iqy49f0qO4i_mY4VAqvIjldtKXXsdk",
+        "image": "https://serpapi.com/searches/670a2d1f123457c30165990e/images/c63adf974e6660628d01d7a58537eb3e2c25f5dd3da298dd7c4c7e3aee8db6892f2847de7b8c1735d3419d512a9fe31c.png"
+      },
+      {
+        "name": "Peet's Coffee",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LynLCKQGGoy0Wp0QpIZwI8pY4p8uExfJtBjA-haErWGrGyzLHLZsJOF8TGNBgbPoB6D2qP8C-3jmcSPu7eJlHY2OARjVccY18BPrH02jNNDNiGUYUvCedM0QWnuXqcvzLf28XcLRh_dfA9qrjaDXoUon-QEAF7C3DXC9-aymAsD6DeGiK9GB4Ws9iTcp3f8ZDRF9sYP8hnhuEcQbkwnwNbmzvH5uAr9slK5sYaDAs81zMRjvpUoT-VNdF77SBlQugCQ60sc%3D&q=Peet%27s+Coffee&sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQs9oBKAB6BAg5EAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Peet%27s+Coffee&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LynLCKQGGoy0Wp0QpIZwI8pY4p8uExfJtBjA-haErWGrGyzLHLZsJOF8TGNBgbPoB6D2qP8C-3jmcSPu7eJlHY2OARjVccY18BPrH02jNNDNiGUYUvCedM0QWnuXqcvzLf28XcLRh_dfA9qrjaDXoUon-QEAF7C3DXC9-aymAsD6DeGiK9GB4Ws9iTcp3f8ZDRF9sYP8hnhuEcQbkwnwNbmzvH5uAr9slK5sYaDAs81zMRjvpUoT-VNdF77SBlQugCQ60sc%3D",
+        "image": "https://serpapi.com/searches/670a2d1f123457c30165990e/images/c63adf974e6660628d01d7a58537eb3e2c25f5dd3da298dd7c4c7e3aee8db689cd84f25f174373a5ad66ba1c32f5b7d6.png"
+      },
+      {
+        "name": "Dunn Brothers Coffee",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LyE4JttsI-tBh_i9ZoVGYMsLk_pDzMeG0NLvqF3PDKs6-mAEH9wvYPyXqxddxEOFRxRYn6WuIreQQfZ_-hcdJlyjB9L1TuHNthzDrhesKk9zqtzq9102ZAKuQJUKKnsEo1DOMm8C8cULy5VryxivwgbCxqSdkkFvTWzHq19dkvzkngKrOfV_Ii4n3YfVUQVAkeHXxN0HquUiDdJcskGppFCSCInrl4Dr8hSQuWGNHKcHmrG8tufr5wmyc42m4TGvLXTWBUCa1QQqu30w-N-UqWyIHZG1&q=Dunn+Brothers+Coffee&sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQs9oBKAB6BAg5EA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Dunn+Brothers+Coffee&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LyE4JttsI-tBh_i9ZoVGYMsLk_pDzMeG0NLvqF3PDKs6-mAEH9wvYPyXqxddxEOFRxRYn6WuIreQQfZ_-hcdJlyjB9L1TuHNthzDrhesKk9zqtzq9102ZAKuQJUKKnsEo1DOMm8C8cULy5VryxivwgbCxqSdkkFvTWzHq19dkvzkngKrOfV_Ii4n3YfVUQVAkeHXxN0HquUiDdJcskGppFCSCInrl4Dr8hSQuWGNHKcHmrG8tufr5wmyc42m4TGvLXTWBUCa1QQqu30w-N-UqWyIHZG1",
+        "image": "https://serpapi.com/searches/670a2d1f123457c30165990e/images/c63adf974e6660628d01d7a58537eb3e2c25f5dd3da298dd7c4c7e3aee8db6892049663f290e060d1bb63204da98a057.png"
+      },
+      {
+        "name": "Bruegger's",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LwKRwEtrY4iyVnkxrNz39UBUAvRNi12_wXpisEfK30kzy2isjbUfboD1507H7Kpi6cVThHqGdttNJpS0M4wV3T4kRMZ7FM5C1vKC2aZJ9MLOOz4gcCWH33XdArwlB1dtHhx_JrGuqiIYAT6uMst8nXrGFxqhyGjshv_3z7LhbiGTIMdO6055_fuxtcIkwNrf9chpYpvs064d_ti3LcDXlkNU2vMkzsqp2oV4wnpYWATfVCf05f-Ruv4OA6dTzSZ15Wp-ZwE%3D&q=Bruegger%27s&sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQs9oBKAB6BAg5EBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Bruegger%27s&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LwKRwEtrY4iyVnkxrNz39UBUAvRNi12_wXpisEfK30kzy2isjbUfboD1507H7Kpi6cVThHqGdttNJpS0M4wV3T4kRMZ7FM5C1vKC2aZJ9MLOOz4gcCWH33XdArwlB1dtHhx_JrGuqiIYAT6uMst8nXrGFxqhyGjshv_3z7LhbiGTIMdO6055_fuxtcIkwNrf9chpYpvs064d_ti3LcDXlkNU2vMkzsqp2oV4wnpYWATfVCf05f-Ruv4OA6dTzSZ15Wp-ZwE%3D",
+        "image": "https://serpapi.com/searches/670a2d1f123457c30165990e/images/c63adf974e6660628d01d7a58537eb3e2c25f5dd3da298dd7c4c7e3aee8db689d34fcba8f4be1bdeacdf07be79d91568.png"
+      }
+    ]
+  },
+  "inline_images": [
+    {
+      "source": "https://kids.nationalgeographic.com/animals/mammals/facts/caribou",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdn3S98KwBzG1iIlxot5BsjnbA5u8A3-PbY4KaN1xGE8URoXOJ_IclaDI&s",
+      "original": "https://i.natgeofe.com/k/6a8fa5a6-d254-4bb0-ad6c-01de03d9954e/caribou-walking-snow.jpg",
+      "title": "Caribou Reindeer",
+      "source_name": "National Geographic Kids"
+    },
+    {
+      "source": "https://en.wikipedia.org/wiki/Porcupine_caribou",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxhngWEbDlkpWR42FvM5Za8xWZS2MYD1kYz2kdLeIZPGUnUn9Z1_TlPyY&s",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Caribou.jpg/800px-Caribou.jpg",
+      "title": "Porcupine caribou - Wikipedia",
+      "source_name": "Wikipedia"
+    },
+    {
+      "source": "https://yukonwildlife.ca/wildlife/roam-and-reign-part-2-of-the-winter-is-here-series/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTemNVmbp4FXbXWqFgCmbAXQK8TWqQy1Ln_9cnleSZ9AAdyP_6H72kKjZU&s",
+      "original": "https://yukonwildlife.ca/wp-content/uploads/2020/02/IMG_7249-Male-Caribou-YWP-Jake-Paleczny-scaled.jpg.webp",
+      "title": "Roam and Reign - \"Winter is Here\" Caribou Edition - Yukon ...",
+      "source_name": "Yukon Wildlife Preserve"
+    },
+    {
+      "source": "https://www.swnewsmedia.com/chanhassen_villager/news/opinion/columnists/outdoors-caribou-and-reindeer-are-one-and-the-same/article_263ff9e9-5556-5570-b2f3-8b964aa7b552.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXsgw4jpmvzKPQBdXGIA_Zs8UrXX569_08EkjRjltqF-Nz27d5MjJl028&s",
+      "original": "https://bloximages.newyork1.vip.townnews.com/swnewsmedia.com/content/tncms/assets/v3/editorial/2/39/239b926f-35f3-5051-9a8d-eefdda73b888/5fc68286e3d2d.image.jpg?resize=1200%2C800",
+      "title": "Outdoors: Caribou and reindeer are one and the same ...",
+      "source_name": "SWNewsMedia.com"
+    },
+    {
+      "source": "https://kids.nationalgeographic.com/animals/mammals/facts/caribou",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcsv8oAo_psnXN6U22GCHhy2bNz42i7SMxlq79Nw6-8HLwXWEr2w1n4c8&s",
+      "original": "https://i.natgeofe.com/k/6a8fa5a6-d254-4bb0-ad6c-01de03d9954e/caribou-walking-snow_2x3.jpg",
+      "title": "Caribou Reindeer",
+      "source_name": "National Geographic Kids"
+    },
+    {
+      "source": "https://canadiangeographic.ca/articles/animal-facts-caribou/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnWm6-3IcVgmc_xU8khDqG1Zc_jIzhrTx4gTxu5dytKDbE4nseh959oBg&s",
+      "original": "https://canadiangeographic.ca/wp-content/uploads/2019/06/35748866-Caribou_in_colour-1440x960.jpg",
+      "title": "Animal Facts: Caribou | Canadian Geographic",
+      "source_name": "Canadian Geographic"
+    },
+    {
+      "source": "https://nhpbs.org/natureworks/caribou.htm",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4cCjQyBYw6iA7tFqr_cFFTgfMOuM9VietvgXaiB_1k3c9JxVLjjPpEk&s",
+      "original": "https://nhpbs.org/wild/images/caribounps1.jpg",
+      "title": "Caribou - Rangifer tarandus - NatureWorks",
+      "source_name": "New Hampshire PBS"
+    },
+    {
+      "source": "https://www.polartours.com/animals/caribou",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSahB9zCbqr8-vqhq45LkXTkRpG3Kqw_tPfI3UQUQ_itgY-Vzkrpd2uOvo&s",
+      "original": "https://media.venturatravel.org/unsafe/800x600/smart/header_media/a3b06163-0b3f-4e7e-9b39-9d24a9c1e0c4-caribou.jpg",
+      "title": "Caribou",
+      "source_name": "Polartours"
+    },
+    {
+      "source": "http://webberslodges.com/how-to-field-judge-a-caribou/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgtvFVJcHALZYey1FzOMxYSK6MrCJ2MMb94UKI9lnR4f-KmVf0_VrcHnQ&s",
+      "original": "http://webberslodges.com/wp-content/uploads/2017/07/caribouhunters.jpg",
+      "title": "How to field judge a caribou",
+      "source_name": "Webber's Lodges"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is caribou a reindeer?",
+      "snippet": "Reindeer and caribou are the same animal (Rangifer tarandus) and are a member of the deer family. In Europe, they are called reindeer. In North America, the animals are called caribou if they are wild and reindeer if they are domesticated.",
+      "title": "Fun Facts about Reindeer and Caribou - FDA",
+      "date": "Feb 2, 2023",
+      "link": "https://www.fda.gov/animal-veterinary/animal-health-literacy/fun-facts-about-reindeer-and-caribou#:~:text=Reindeer%20and%20caribou%20are%20the,reindeer%20if%20they%20are%20domesticated.",
+      "displayed_link": "https://www.fda.gov \u203a animal-health-literacy \u203a fun-facts-a...",
+      "source_logo": "https://serpapi.com/searches/670a2d1f123457c30165990e/images/2055cc1d10283600d55f3c00b271268644ca15871790de3661f73140a82a0b01.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFpIVkJXRWxOZGpkR2NHWlRUazFtWldGM2RuQjFURlJRWVRKNVdGQlhPRVJFY1V3elIzZHBRWFF3Y0VoWFMyUk5jVGhSVkdOSlJuZDJkbDlqVVMwMFozVlFUbEZORWhkSlF6QkxXalZ4UWt0MVJEaHdkRkZRTWpoWVNtZEJWUm9pUVVaWWNrVmpjVjlpUWxoMVJYQjFOM2czU0dOQ2RVWlVhMHhoUldkMk1EVnVadyIsImZjdiI6IjMiLCJlaSI6IklDMEtaNXFCS3VEOHB0UVAyOFhKZ0FVIiwicWMiOiJDZ2RqWVhKcFltOTFFQUI5aGVzeFB3IiwicXVlc3Rpb24iOiJJcyBjYXJpYm91IGEgcmVpbmRlZXI/IiwibGsiOiJHaFZwY3lCallYSnBZbTkxSUdFZ2NtVnBibVJsWlhJIiwiYnMiOiJjLU15NFJMekxGWklUaXpLVE1vdlZVaFVLRXJOekV0SlRTMnlsM2pwYUNRdUpacUpUWkxMaWtzU1JSZElVQ0dfU0NFMUo5dGVZbC1ja1pTVVJDWU9lUzRITGhuSG9sU0Zrb3hVSUFsVGtwa0hFbEFJRGJhWE9DRnZKQ3NsblloTFNXa3hseEdYS05CMlI3aU1vMEp1Zm41eHFyM0VmUkVqTVNrUm9NMkpTSGFENVFRWUFRIiwiaWQiOiJmY18zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFpIVkJXRWxOZGpkR2NHWlRUazFtWldGM2RuQjFURlJRWVRKNVdGQlhPRVJFY1V3elIzZHBRWFF3Y0VoWFMyUk5jVGhSVkdOSlJuZDJkbDlqVVMwMFozVlFUbEZORWhkSlF6QkxXalZ4UWt0MVJEaHdkRkZRTWpoWVNtZEJWUm9pUVVaWWNrVmpjVjlpUWxoMVJYQjFOM2czU0dOQ2RVWlVhMHhoUldkMk1EVnVadyIsImZjdiI6IjMiLCJlaSI6IklDMEtaNXFCS3VEOHB0UVAyOFhKZ0FVIiwicWMiOiJDZ2RqWVhKcFltOTFFQUI5aGVzeFB3IiwicXVlc3Rpb24iOiJJcyBjYXJpYm91IGEgcmVpbmRlZXI%2FIiwibGsiOiJHaFZwY3lCallYSnBZbTkxSUdFZ2NtVnBibVJsWlhJIiwiYnMiOiJjLU15NFJMekxGWklUaXpLVE1vdlZVaFVLRXJOekV0SlRTMnlsM2pwYUNRdUpacUpUWkxMaWtzU1JSZElVQ0dfU0NFMUo5dGVZbC1ja1pTVVJDWU9lUzRITGhuSG9sU0Zrb3hVSUFsVGtwa0hFbEFJRGJhWE9DRnZKQ3NsblloTFNXa3hseEdYS05CMlI3aU1vMEp1Zm41eHFyM0VmUkVqTVNrUm9NMkpTSGFENVFRWUFRIiwiaWQiOiJmY18zIn0%3D"
+    },
+    {
+      "question": "Is caribou a deer or elk?",
+      "snippet": "Deer (or cervids) belong to the order Artiodactyla, the hoofed mammals with an even number of toes on each foot, and the suborder Ruminanti, the cud-chewing plant-eaters. Deer have four toes on each foot.",
+      "title": "Cervids - The Deer Family (Deer, Elk, Moose and Caribou) - Safari Club",
+      "link": "https://safariclub.org/cervids-deer-family-deer-elk-moose-and-caribou/#:~:text=Deer%20(or%20cervids)%20belong%20to,four%20toes%20on%20each%20foot.",
+      "displayed_link": "https://safariclub.org \u203a cervids-deer-family-deer-elk-moos...",
+      "source_logo": "https://serpapi.com/searches/670a2d1f123457c30165990e/images/2055cc1d10283600d55f3c00b2712686689a4369346f6ddf8c00312dea70d171.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFpIVkJXRWxOZGpkR2NHWlRUazFtWldGM2RuQjFURlJRWVRKNVdGQlhPRVJFY1V3elIzZHBRWFF3Y0VoWFMyUk5jVGhSVkdOSlJuZDJkbDlqVVMwMFozVlFUbEZORWhkSlF6QkxXalZ4UWt0MVJEaHdkRkZRTWpoWVNtZEJWUm9pUVVaWWNrVmpjVjlpUWxoMVJYQjFOM2czU0dOQ2RVWlVhMHhoUldkMk1EVnVadyIsImZjdiI6IjMiLCJlaSI6IklDMEtaNXFCS3VEOHB0UVAyOFhKZ0FVIiwicWMiOiJDZ2RqWVhKcFltOTFFQUI5aGVzeFB3IiwicXVlc3Rpb24iOiJJcyBjYXJpYm91IGEgZGVlciBvciBlbGs/IiwibGsiOiJHaGhwY3lCallYSnBZbTkxSUdFZ1pHVmxjaUJ2Y2lCbGJHcyIsImJzIjoiYy1NeTRSTHpMRlpJVGl6S1RNb3ZWVWhVS0VyTnpFdEpUUzJ5bDNqcGFDUXVKWnFKVFpMTGlrc1NSUmRJVUNHX1NDRTFKOXRlWWwtY2taU1VSQ1lPZVM0SExobkhvbFNGa294VUlBbFRrcGtIRWxBSURiYVhPQ0Z2SkNzbG5ZaExTV2t4bHhHWEtOQjJSN2lNbzBKdWZuNXhxcjNFZlJFak1Ta1JvTTJKU0hhRDVRUVlBUSIsImlkIjoiZmNfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFpIVkJXRWxOZGpkR2NHWlRUazFtWldGM2RuQjFURlJRWVRKNVdGQlhPRVJFY1V3elIzZHBRWFF3Y0VoWFMyUk5jVGhSVkdOSlJuZDJkbDlqVVMwMFozVlFUbEZORWhkSlF6QkxXalZ4UWt0MVJEaHdkRkZRTWpoWVNtZEJWUm9pUVVaWWNrVmpjVjlpUWxoMVJYQjFOM2czU0dOQ2RVWlVhMHhoUldkMk1EVnVadyIsImZjdiI6IjMiLCJlaSI6IklDMEtaNXFCS3VEOHB0UVAyOFhKZ0FVIiwicWMiOiJDZ2RqWVhKcFltOTFFQUI5aGVzeFB3IiwicXVlc3Rpb24iOiJJcyBjYXJpYm91IGEgZGVlciBvciBlbGs%2FIiwibGsiOiJHaGhwY3lCallYSnBZbTkxSUdFZ1pHVmxjaUJ2Y2lCbGJHcyIsImJzIjoiYy1NeTRSTHpMRlpJVGl6S1RNb3ZWVWhVS0VyTnpFdEpUUzJ5bDNqcGFDUXVKWnFKVFpMTGlrc1NSUmRJVUNHX1NDRTFKOXRlWWwtY2taU1VSQ1lPZVM0SExobkhvbFNGa294VUlBbFRrcGtIRWxBSURiYVhPQ0Z2SkNzbG5ZaExTV2t4bHhHWEtOQjJSN2lNbzBKdWZuNXhxcjNFZlJFak1Ta1JvTTJKU0hhRDVRUVlBUSIsImlkIjoiZmNfMyJ9"
+    },
+    {
+      "question": "Are there caribou in the US?",
+      "snippet": "Currently, southern mountain caribou are the only population with the potential to occur in the contiguous United States (recently occupied habitat in northeastern Washington and northern Idaho; ephemeral use by transient individuals in northwestern Montana).",
+      "title": "Woodland Caribou (Rangifer tarandus caribou) | U.S. Fish & Wildlife Service",
+      "link": "https://www.fws.gov/species/woodland-caribou-rangifer-tarandus-caribou#:~:text=Currently%2C%20southern%20mountain%20caribou%20are,transient%20individuals%20in%20northwestern%20Montana).",
+      "displayed_link": "https://www.fws.gov \u203a species \u203a woodland-caribou-rangif...",
+      "source_logo": "https://serpapi.com/searches/670a2d1f123457c30165990e/images/2055cc1d10283600d55f3c00b271268656946f03c64e9ad71b9f1b33ecef3e5d.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFpIVkJXRWxOZGpkR2NHWlRUazFtWldGM2RuQjFURlJRWVRKNVdGQlhPRVJFY1V3elIzZHBRWFF3Y0VoWFMyUk5jVGhSVkdOSlJuZDJkbDlqVVMwMFozVlFUbEZORWhkSlF6QkxXalZ4UWt0MVJEaHdkRkZRTWpoWVNtZEJWUm9pUVVaWWNrVmpjVjlpUWxoMVJYQjFOM2czU0dOQ2RVWlVhMHhoUldkMk1EVnVadyIsImZjdiI6IjMiLCJlaSI6IklDMEtaNXFCS3VEOHB0UVAyOFhKZ0FVIiwicWMiOiJDZ2RqWVhKcFltOTFFQUI5aGVzeFB3IiwicXVlc3Rpb24iOiJBcmUgdGhlcmUgY2FyaWJvdSBpbiB0aGUgVVM/IiwibGsiOiJjNU9TVGl4S1ZTakpTQVdTeVlsRm1VbjVwUXFaZVNBQmhkSmlBQSIsImJzIjoiYy1NeTRSTHpMRlpJVGl6S1RNb3ZWVWhVS0VyTnpFdEpUUzJ5bDNqcGFDUXVKWnFKVFpMTGlrc1NSUmRJVUNHX1NDRTFKOXRlWWwtY2taU1VSQ1lPZVM0SExobkhvbFNGa294VUlBbFRrcGtIRWxBSURiYVhPQ0Z2SkNzbG5ZaExTV2t4bHhHWEtOQjJSN2lNbzBKdWZuNXhxcjNFZlJFak1Ta1JvTTJKU0hhRDVRUVlBUSIsImlkIjoiZmNfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFpIVkJXRWxOZGpkR2NHWlRUazFtWldGM2RuQjFURlJRWVRKNVdGQlhPRVJFY1V3elIzZHBRWFF3Y0VoWFMyUk5jVGhSVkdOSlJuZDJkbDlqVVMwMFozVlFUbEZORWhkSlF6QkxXalZ4UWt0MVJEaHdkRkZRTWpoWVNtZEJWUm9pUVVaWWNrVmpjVjlpUWxoMVJYQjFOM2czU0dOQ2RVWlVhMHhoUldkMk1EVnVadyIsImZjdiI6IjMiLCJlaSI6IklDMEtaNXFCS3VEOHB0UVAyOFhKZ0FVIiwicWMiOiJDZ2RqWVhKcFltOTFFQUI5aGVzeFB3IiwicXVlc3Rpb24iOiJBcmUgdGhlcmUgY2FyaWJvdSBpbiB0aGUgVVM%2FIiwibGsiOiJjNU9TVGl4S1ZTakpTQVdTeVlsRm1VbjVwUXFaZVNBQmhkSmlBQSIsImJzIjoiYy1NeTRSTHpMRlpJVGl6S1RNb3ZWVWhVS0VyTnpFdEpUUzJ5bDNqcGFDUXVKWnFKVFpMTGlrc1NSUmRJVUNHX1NDRTFKOXRlWWwtY2taU1VSQ1lPZVM0SExobkhvbFNGa294VUlBbFRrcGtIRWxBSURiYVhPQ0Z2SkNzbG5ZaExTV2t4bHhHWEtOQjJSN2lNbzBKdWZuNXhxcjNFZlJFak1Ta1JvTTJKU0hhRDVRUVlBUSIsImlkIjoiZmNfMyJ9"
+    },
+    {
+      "question": "Is A caribou A moose?",
+      "snippet": "Weighing 175\u2013400 lbs, caribou are much smaller than moose. Their natty coffee-and-cream coats and magnificent summer racks are very distinctive, as are their oversized, splayed feet. Both male and female caribou grow antlers (males' antlers are much larger).",
+      "title": "Caribou \u2014 Wildlife Viewing, Alaska Department of Fish and Game",
+      "link": "https://www.adfg.alaska.gov/index.cfm?adfg=viewing.landmammals&species=caribou#:~:text=Weighing%20175%E2%80%93400%20lbs%2C%20caribou,'%20antlers%20are%20much%20larger).",
+      "displayed_link": "https://www.adfg.alaska.gov \u203a species=caribou",
+      "source_logo": "https://serpapi.com/searches/670a2d1f123457c30165990e/images/2055cc1d10283600d55f3c00b271268616970b32dd31d5aa62727c40c2183988.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFpIVkJXRWxOZGpkR2NHWlRUazFtWldGM2RuQjFURlJRWVRKNVdGQlhPRVJFY1V3elIzZHBRWFF3Y0VoWFMyUk5jVGhSVkdOSlJuZDJkbDlqVVMwMFozVlFUbEZORWhkSlF6QkxXalZ4UWt0MVJEaHdkRkZRTWpoWVNtZEJWUm9pUVVaWWNrVmpjVjlpUWxoMVJYQjFOM2czU0dOQ2RVWlVhMHhoUldkMk1EVnVadyIsImZjdiI6IjMiLCJlaSI6IklDMEtaNXFCS3VEOHB0UVAyOFhKZ0FVIiwicWMiOiJDZ2RqWVhKcFltOTFFQUI5aGVzeFB3IiwicXVlc3Rpb24iOiJJcyBBIGNhcmlib3UgQSBtb29zZT8iLCJsayI6IkdoUnBjeUJoSUdOaGNtbGliM1VnWVNCdGIyOXpaUSIsImJzIjoiYy1NeTRSTHpMRlpJVGl6S1RNb3ZWVWhVS0VyTnpFdEpUUzJ5bDNqcGFDUXVKWnFKVFpMTGlrc1NSUmRJVUNHX1NDRTFKOXRlWWwtY2taU1VSQ1lPZVM0SExobkhvbFNGa294VUlBbFRrcGtIRWxBSURiYVhPQ0Z2SkNzbG5ZaExTV2t4bHhHWEtOQjJSN2lNbzBKdWZuNXhxcjNFZlJFak1Ta1JvTTJKU0hhRDVRUVlBUSIsImlkIjoiZmNfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFpIVkJXRWxOZGpkR2NHWlRUazFtWldGM2RuQjFURlJRWVRKNVdGQlhPRVJFY1V3elIzZHBRWFF3Y0VoWFMyUk5jVGhSVkdOSlJuZDJkbDlqVVMwMFozVlFUbEZORWhkSlF6QkxXalZ4UWt0MVJEaHdkRkZRTWpoWVNtZEJWUm9pUVVaWWNrVmpjVjlpUWxoMVJYQjFOM2czU0dOQ2RVWlVhMHhoUldkMk1EVnVadyIsImZjdiI6IjMiLCJlaSI6IklDMEtaNXFCS3VEOHB0UVAyOFhKZ0FVIiwicWMiOiJDZ2RqWVhKcFltOTFFQUI5aGVzeFB3IiwicXVlc3Rpb24iOiJJcyBBIGNhcmlib3UgQSBtb29zZT8iLCJsayI6IkdoUnBjeUJoSUdOaGNtbGliM1VnWVNCdGIyOXpaUSIsImJzIjoiYy1NeTRSTHpMRlpJVGl6S1RNb3ZWVWhVS0VyTnpFdEpUUzJ5bDNqcGFDUXVKWnFKVFpMTGlrc1NSUmRJVUNHX1NDRTFKOXRlWWwtY2taU1VSQ1lPZVM0SExobkhvbFNGa294VUlBbFRrcGtIRWxBSURiYVhPQ0Z2SkNzbG5ZaExTV2t4bHhHWEtOQjJSN2lNbzBKdWZuNXhxcjNFZlJFak1Ta1JvTTJKU0hhRDVRUVlBUSIsImlkIjoiZmNfMyJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Caribou Coffee\u00ae | Life Is Short. Stay Awake For It\u00ae",
+      "link": "https://www.cariboucoffee.com/?srsltid=AfmBOooRNKzXGbrPP7dneKo9mjozQTRdzT8FUS1n_qlQmIaHREP8cM0x",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cariboucoffee.com/%3Fsrsltid%3DAfmBOooRNKzXGbrPP7dneKo9mjozQTRdzT8FUS1n_qlQmIaHREP8cM0x&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQFnoECBkQAQ",
+      "displayed_link": "https://www.cariboucoffee.com",
+      "favicon": "https://serpapi.com/searches/670a2d1f123457c30165990e/images/88405d17a50b6709079bcb5b49eb9f88d0d71dae728b2e46b19efe794446a09d.webp",
+      "snippet": "Caribou Coffee\u00ae is more than a premium coffeehouse featuring high-quality, handcrafted beverages and food. Explore our menu, sign up for Caribou Coffee\u00ae ...",
+      "snippet_highlighted_words": [
+        "Caribou",
+        "Caribou"
+      ],
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "Caribou Coffee",
+            "link": "https://order.cariboucoffee.com/",
+            "snippet": "Signature \u00b7 Pumpkin Latte \u00b7 Pumpkin White Mocha ..."
+          },
+          {
+            "title": "Shop",
+            "link": "https://www.cariboucoffee.com/shop/?srsltid=AfmBOooqQ6B2oCcDuwhKvKtBAp5-YLduKB9ifLtcRuN6-ghipYxxOykj",
+            "snippet": "Shop Caribou Coffee\u00ae branded merchandise including tumblers ..."
+          },
+          {
+            "title": "Locations",
+            "link": "https://locations.cariboucoffee.com/",
+            "snippet": "Search all Caribou Coffee for the highest quality coffee, signature ..."
+          },
+          {
+            "title": "Careers",
+            "link": "https://www.cariboucoffee.com/careers/?srsltid=AfmBOooQwpXajcPvIcUlCKt9yiyHXEKX3Jt7PQwhWdFL2Y-afT239KUb",
+            "snippet": "Come join our herd! IT STARTS WITH YOU Team. Guest. Quality ..."
+          },
+          {
+            "title": "Caribou Perks",
+            "link": "https://www.cariboucoffee.com/caribou-perks/?srsltid=AfmBOoqPPIJMZ39-ikjpG7kOfD4IC06mO0X-gqxx1oRZS_HgdD6nxpK7",
+            "snippet": "As a Caribou Perks member you earn points for every $1 spent in ..."
+          }
+        ]
+      },
+      "source": "Caribou Coffee"
+    },
+    {
+      "position": 2,
+      "title": "Caribou: Home",
+      "link": "https://caribou.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://caribou.com/&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQFnoECAoQAQ",
+      "displayed_link": "https://caribou.com",
+      "favicon": "https://serpapi.com/searches/670a2d1f123457c30165990e/images/88405d17a50b6709079bcb5b49eb9f88f427889350c39a45e2e92486be2cf7f4.webp",
+      "snippet": "Fast, easy auto refinance. Instantly access competitive rates in minutes, with a dedicated team available to walk you through the process. ... ARE YOU GETTING THE ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Refinance",
+            "link": "https://caribou.com/refinance/"
+          },
+          {
+            "title": "Contact Us",
+            "link": "https://caribou.com/contact-us/"
+          },
+          {
+            "title": "Careers",
+            "link": "https://caribou.com/careers/"
+          },
+          {
+            "title": "About Us",
+            "link": "https://caribou.com/about-us/"
+          }
+        ]
+      },
+      "source": "caribou.com"
+    },
+    {
+      "position": 3,
+      "title": "Caribou",
+      "link": "http://www.caribou.fm/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.caribou.fm/&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQFnoECA0QAQ",
+      "displayed_link": "http://www.caribou.fm",
+      "snippet": "Tour ; Nov 15. Denver, CO. The Mission Ballroom ; Nov 17. Chicago, IL. The Salt Shed ; Nov 18. Atlanta, GA. The Eastern ; Nov 19. Washington, DC. The Anthem ; Nov 20.",
+      "source": "Caribou.fm"
+    },
+    {
+      "position": 4,
+      "title": "Caribou Biosciences | Developing Sophisticated Allogeneic ...",
+      "link": "https://www.cariboubio.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cariboubio.com/&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQFnoECGEQAQ",
+      "displayed_link": "https://www.cariboubio.com",
+      "favicon": "https://serpapi.com/searches/670a2d1f123457c30165990e/images/88405d17a50b6709079bcb5b49eb9f88f0b39611e2f29b06334d4707eb161ac0.webp",
+      "snippet": "We are a clinical-stage biopharmaceutical company focused on developing transformative genome-edited allogeneic cell therapies for devastating human diseases.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Careers",
+            "link": "https://www.cariboubio.com/careers/"
+          },
+          {
+            "title": "About",
+            "link": "https://www.cariboubio.com/about/"
+          },
+          {
+            "title": "Contact us",
+            "link": "https://www.cariboubio.com/contact/"
+          },
+          {
+            "title": "Pipeline",
+            "link": "https://www.cariboubio.com/pipeline/"
+          }
+        ]
+      },
+      "source": "Caribou Biosciences"
+    },
+    {
+      "position": 5,
+      "title": "Reindeer",
+      "link": "https://en.wikipedia.org/wiki/Reindeer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Reindeer&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQFnoECF4QAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Reindeer",
+      "favicon": "https://serpapi.com/searches/670a2d1f123457c30165990e/images/88405d17a50b6709079bcb5b49eb9f88961b02ceb312f643f8a48f2db515bdfc.webp",
+      "snippet": "The reindeer or caribou (Rangifer tarandus) is a species of deer with circumpolar distribution, native to Arctic, subarctic, tundra, boreal, and mountainous ...",
+      "snippet_highlighted_words": [
+        "caribou"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 6,
+      "title": "Caribou",
+      "link": "https://www.facebook.com/caribouband/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/caribouband/&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQFnoECGAQAQ",
+      "displayed_link": "505.4K+ followers",
+      "favicon": "https://serpapi.com/searches/670a2d1f123457c30165990e/images/88405d17a50b6709079bcb5b49eb9f88ce4f8c9b614d429d343c10a14d387368.webp",
+      "snippet": "We're doing 4 completely free full band shows on those nights! capacity is super limited and tickets will be given away via a lottery, limited to 2 tickets per ...",
+      "source": "Facebook \u00b7 Caribou"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&tbs=lf:1,lf_ui:4&tbm=lcl&q=caribou&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQjGp6BAhGEAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=caribou&tbs=lf%3A1%2Clf_ui%3A4&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Caribou refinance",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Caribou+refinance&sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQ1QJ6BAhbEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Caribou+refinance"
+    },
+    {
+      "block_position": 1,
+      "query": "Caribou menu",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Caribou+menu&sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQ1QJ6BAhZEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Caribou+menu"
+    },
+    {
+      "block_position": 1,
+      "query": "Caribou Coffee near me",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Caribou+Coffee+near+me&sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQ1QJ6BAhdEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Caribou+Coffee+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Caribou financial",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Caribou+financial&sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQ1QJ6BAhXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Caribou+financial"
+    },
+    {
+      "block_position": 1,
+      "query": "Caribou DJ",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Caribou+DJ&sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQ1QJ6BAhWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Caribou+DJ"
+    },
+    {
+      "block_position": 1,
+      "query": "Caribou coffee locations",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Caribou+coffee+locations&sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQ1QJ6BAhYEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Caribou+coffee+locations"
+    },
+    {
+      "block_position": 1,
+      "query": "Caribou menu with prices",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Caribou+menu+with+prices&sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQ1QJ6BAhcEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Caribou+menu+with+prices"
+    },
+    {
+      "block_position": 1,
+      "query": "Caribou drinks menu",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&gl=us&hl=en&q=Caribou+drinks+menu&sa=X&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQ1QJ6BAhaEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Caribou+drinks+menu"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=caribou&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=IC0KZ5qBKuD8ptQP28XJgAU&start=10&sa=N&sstk=AagrsuiJFyBqgPiZjXRIYeIQhLusD34zlbHpHqDzeBMXckLtqJGpFfkFMz_gCdWD6cASduqzxtQRxJNB7C_Q295pgPr8-YWbBfAhFg&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQ8NMDegQIFhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=caribou&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=IC0KZ5qBKuD8ptQP28XJgAU&start=10&sa=N&sstk=AagrsuiJFyBqgPiZjXRIYeIQhLusD34zlbHpHqDzeBMXckLtqJGpFfkFMz_gCdWD6cASduqzxtQRxJNB7C_Q295pgPr8-YWbBfAhFg&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQ8tMDegQIFhAE",
+      "3": "https://www.google.com/search?q=caribou&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=IC0KZ5qBKuD8ptQP28XJgAU&start=20&sa=N&sstk=AagrsuiJFyBqgPiZjXRIYeIQhLusD34zlbHpHqDzeBMXckLtqJGpFfkFMz_gCdWD6cASduqzxtQRxJNB7C_Q295pgPr8-YWbBfAhFg&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQ8tMDegQIFhAG",
+      "4": "https://www.google.com/search?q=caribou&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=IC0KZ5qBKuD8ptQP28XJgAU&start=30&sa=N&sstk=AagrsuiJFyBqgPiZjXRIYeIQhLusD34zlbHpHqDzeBMXckLtqJGpFfkFMz_gCdWD6cASduqzxtQRxJNB7C_Q295pgPr8-YWbBfAhFg&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQ8tMDegQIFhAI",
+      "5": "https://www.google.com/search?q=caribou&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=IC0KZ5qBKuD8ptQP28XJgAU&start=40&sa=N&sstk=AagrsuiJFyBqgPiZjXRIYeIQhLusD34zlbHpHqDzeBMXckLtqJGpFfkFMz_gCdWD6cASduqzxtQRxJNB7C_Q295pgPr8-YWbBfAhFg&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQ8tMDegQIFhAK",
+      "6": "https://www.google.com/search?q=caribou&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=IC0KZ5qBKuD8ptQP28XJgAU&start=50&sa=N&sstk=AagrsuiJFyBqgPiZjXRIYeIQhLusD34zlbHpHqDzeBMXckLtqJGpFfkFMz_gCdWD6cASduqzxtQRxJNB7C_Q295pgPr8-YWbBfAhFg&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQ8tMDegQIFhAM",
+      "7": "https://www.google.com/search?q=caribou&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=IC0KZ5qBKuD8ptQP28XJgAU&start=60&sa=N&sstk=AagrsuiJFyBqgPiZjXRIYeIQhLusD34zlbHpHqDzeBMXckLtqJGpFfkFMz_gCdWD6cASduqzxtQRxJNB7C_Q295pgPr8-YWbBfAhFg&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQ8tMDegQIFhAO",
+      "8": "https://www.google.com/search?q=caribou&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=IC0KZ5qBKuD8ptQP28XJgAU&start=70&sa=N&sstk=AagrsuiJFyBqgPiZjXRIYeIQhLusD34zlbHpHqDzeBMXckLtqJGpFfkFMz_gCdWD6cASduqzxtQRxJNB7C_Q295pgPr8-YWbBfAhFg&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQ8tMDegQIFhAQ",
+      "9": "https://www.google.com/search?q=caribou&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=IC0KZ5qBKuD8ptQP28XJgAU&start=80&sa=N&sstk=AagrsuiJFyBqgPiZjXRIYeIQhLusD34zlbHpHqDzeBMXckLtqJGpFfkFMz_gCdWD6cASduqzxtQRxJNB7C_Q295pgPr8-YWbBfAhFg&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQ8tMDegQIFhAS",
+      "10": "https://www.google.com/search?q=caribou&sca_esv=8568a6baa21243e5&gl=us&hl=en&ei=IC0KZ5qBKuD8ptQP28XJgAU&start=90&sa=N&sstk=AagrsuiJFyBqgPiZjXRIYeIQhLusD34zlbHpHqDzeBMXckLtqJGpFfkFMz_gCdWD6cASduqzxtQRxJNB7C_Q295pgPr8-YWbBfAhFg&ved=2ahUKEwiakeC4sIiJAxVgvokEHdtiElAQ8tMDegQIFhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=caribou&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=caribou&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=caribou&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=caribou&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=caribou&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=caribou&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=caribou&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=caribou&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=caribou&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=caribou&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=caribou&start=90"
+    }
+  }
+}

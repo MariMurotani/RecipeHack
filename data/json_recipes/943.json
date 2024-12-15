@@ -1,0 +1,826 @@
+{
+  "search_metadata": {
+    "id": "670a30c11397ba5edceff3d0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2422345f81e2776f/670a30c11397ba5edceff3d0.json",
+    "created_at": "2024-10-12 08:18:09 UTC",
+    "processed_at": "2024-10-12 08:18:09 UTC",
+    "google_url": "https://www.google.com/search?q=soft+drink&oq=soft+drink&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/2422345f81e2776f/670a30c11397ba5edceff3d0.html",
+    "total_time_taken": 1.26
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "soft drink",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "soft drink",
+    "total_results": 1080000000,
+    "time_taken_displayed": 0.27,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "title": "Soft drink",
+    "entity_type": "food, kp3_verticals",
+    "kgmid": "/g/11frs_gs71",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11frs_gs71&hl=en-US&q=Soft+drink",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F11frs_gs71&location=Austin%2CTexas%2CUnited+States&q=Soft+drink",
+    "image": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/df16483fe35924b5260990082d506a0559b25fd96502a913.jpeg",
+    "description": "A soft drink is any water-based flavored drink, usually but not necessarily carbonated, and typically including added sweetener. Flavors used can be natural or artificial. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Soft_drink"
+    },
+    "people_also_search_for": [
+      {
+        "name": "Beer",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmzwUmq1Bpx7IQKlvSmTndPzhJxfchv_jSybTjpj_7UNbxSFro8KhBUBYfvdgSK5-wfwlNBDvvf2-29eab07Jol3PmwoMwCnSaKlensosRnGP8W9DMRNc556kG5wcWvpNET3CQwe9w7nZ9Ve1oYtt5JlpQKcHqHyjhY686mYmSD5vKrLl83CY3-uT8BXHl2WF27egSO3Iqm9tAx5VV0zVGuldaiiWTk42dttM_7FtkOa626544hllz8vlwmwllVdUOWGCLyQ%3D&q=Beer&sa=X&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQs9oBKAB6BAg9EAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Beer&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmzwUmq1Bpx7IQKlvSmTndPzhJxfchv_jSybTjpj_7UNbxSFro8KhBUBYfvdgSK5-wfwlNBDvvf2-29eab07Jol3PmwoMwCnSaKlensosRnGP8W9DMRNc556kG5wcWvpNET3CQwe9w7nZ9Ve1oYtt5JlpQKcHqHyjhY686mYmSD5vKrLl83CY3-uT8BXHl2WF27egSO3Iqm9tAx5VV0zVGuldaiiWTk42dttM_7FtkOa626544hllz8vlwmwllVdUOWGCLyQ%3D",
+        "image": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/df16483fe35924b5260990082d506a054892538c3d20cd50ed5b9364b80018ae7bb1d3fe331086461a7ec8f5309c9dfc.jpeg"
+      },
+      {
+        "name": "Fruit juice",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgDj8_pI8_VWLgM46cH5BxFDF0JWnhqmrYMSz_ZvxCslc71XQaz89G-6ro4YLvBT7klF1VdXFOge3s-hVKIbMnsEmvSbih08Ci8ctYOFR5i1HtYEGRy9FnD5-LzsBGhgDf5zF3poOLbvzFpoQiMWylb1m_nZ5wI1m3MFaiGbGlq11o9IYqcyRM07jerWPLLgltCRdtMnvxMdeSbeSokhwu6vl43GYW14RfM5mftLyQFg4C4pRUevosA9AVx80SX-5rf7UQ9Qq-7qXNHxVvcc2FcFTL_qh&q=Fruit+juice&sa=X&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQs9oBKAB6BAg9EAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Fruit+juice&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgDj8_pI8_VWLgM46cH5BxFDF0JWnhqmrYMSz_ZvxCslc71XQaz89G-6ro4YLvBT7klF1VdXFOge3s-hVKIbMnsEmvSbih08Ci8ctYOFR5i1HtYEGRy9FnD5-LzsBGhgDf5zF3poOLbvzFpoQiMWylb1m_nZ5wI1m3MFaiGbGlq11o9IYqcyRM07jerWPLLgltCRdtMnvxMdeSbeSokhwu6vl43GYW14RfM5mftLyQFg4C4pRUevosA9AVx80SX-5rf7UQ9Qq-7qXNHxVvcc2FcFTL_qh",
+        "image": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/df16483fe35924b5260990082d506a054892538c3d20cd50ed5b9364b80018ae8b6dd6aad27fd4e7f5720839a3ea067d.jpeg"
+      },
+      {
+        "name": "Liqueur",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgCzPexsXFFzcPt_KCS428Kx0azIFZd9UKkET41HivYA6keiXDEk9bgjvjMgoqkR8iqrBp4BP6xMiqZ2a1Vvke-LHxMN1X3bbImbgvr69OwJqgnwdaQrheHxSmglIv2IyYBobY1QJeyx5o8W7l8rmpbSoyrl-OEUUg6O6Dmbz_JPDL9fuPdnLzglHVSc83JCgNlYeLjJaHMqiG1oZB5m-5EUGBCnBcRxgSXNjJHhcRWJEsRkuJaWZnGfIIKtvtpMsD_feTeLFUmoB-V_3HA0WZX99KiLm&q=Liqueur&sa=X&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQs9oBKAB6BAg9EA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Liqueur&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgCzPexsXFFzcPt_KCS428Kx0azIFZd9UKkET41HivYA6keiXDEk9bgjvjMgoqkR8iqrBp4BP6xMiqZ2a1Vvke-LHxMN1X3bbImbgvr69OwJqgnwdaQrheHxSmglIv2IyYBobY1QJeyx5o8W7l8rmpbSoyrl-OEUUg6O6Dmbz_JPDL9fuPdnLzglHVSc83JCgNlYeLjJaHMqiG1oZB5m-5EUGBCnBcRxgSXNjJHhcRWJEsRkuJaWZnGfIIKtvtpMsD_feTeLFUmoB-V_3HA0WZX99KiLm",
+        "image": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/df16483fe35924b5260990082d506a054892538c3d20cd50ed5b9364b80018ae9317ae6548eaa78a6c9f74e3b4496fe1.jpeg"
+      },
+      {
+        "name": "Tea",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm8i7vh8VaisJHcQKboWYn8aRWq-xqUGn3zLUvptk8Z22NWJw2tQ1kK2Hi8Cn9vkul6NTl4v5M2nUswEbE_iWi5VRQ2p7cYoAzVacPHh4NkqQqMMOJNTbpZs3sXjQgJVI-zEcl2q5qYm3iReOR3B0cJQiijy-sLWwYq0phGCRB0uJ1osS7YlwJmBMFBgR2Rl02pK6yablN3q9njea7Mj4yi6i8rdnUfWMlwq4FZRlDY-FkQnJ1CBcBK6mopMJWK4EFgxaPEE%3D&q=Tea&sa=X&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQs9oBKAB6BAg9EBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Tea&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm8i7vh8VaisJHcQKboWYn8aRWq-xqUGn3zLUvptk8Z22NWJw2tQ1kK2Hi8Cn9vkul6NTl4v5M2nUswEbE_iWi5VRQ2p7cYoAzVacPHh4NkqQqMMOJNTbpZs3sXjQgJVI-zEcl2q5qYm3iReOR3B0cJQiijy-sLWwYq0phGCRB0uJ1osS7YlwJmBMFBgR2Rl02pK6yablN3q9njea7Mj4yi6i8rdnUfWMlwq4FZRlDY-FkQnJ1CBcBK6mopMJWK4EFgxaPEE%3D",
+        "image": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/df16483fe35924b5260990082d506a054892538c3d20cd50ed5b9364b80018ae4f6e6606bfbd6f3d27502bff1a04b2a5.jpeg"
+      }
+    ]
+  },
+  "inline_images": [
+    {
+      "source": "https://www.amazon.com/Soft-Drink-Assortment-Mountain-Sunkist/dp/B0C5S8BCNY",
+      "thumbnail": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/28630f9919a046d3ce834c1b6fb27d51e5c4f20297a7291df68038a3f36ac55c.jpeg",
+      "original": "https://m.media-amazon.com/images/I/710xDuZvZRL._AC_UF894,1000_QL80_.jpg",
+      "title": "Bragoo Soft Drink Assortment: Cola, Pepsi, Sprite, Mountain Dew, Dr.  Pepper, Sunkist, Canada Dry Ginger Ale, Brisk Iced Tea - 12 Fl Oz (18 Pack)",
+      "source_name": "Amazon.com"
+    },
+    {
+      "source": "https://www.reddit.com/r/EnglishLearning/comments/14zq106/fizzy_drinks/",
+      "thumbnail": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/28630f9919a046d3185ce059e048926e16d9b4dc3f7e9adb8099794367f679af.jpeg",
+      "original": "https://preview.redd.it/fizzy-drinks-v0-yyr6vtruhzbb1.jpg?width=1080&crop=smart&auto=webp&s=e2334d786bff00150de9989c892846864873149a",
+      "title": "Fizzy drinks : r/EnglishLearning",
+      "source_name": "Reddit"
+    },
+    {
+      "source": "https://www.britannica.com/topic/soft-drink",
+      "thumbnail": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/28630f9919a046d34a2eecaecfbc12a0eaaa931913ad026f398f2d36ca5291de.jpeg",
+      "original": "https://cdn.britannica.com/35/122035-050-89905EFE/bottles-polyethylene-terephthalate.jpg",
+      "title": "Soft drink | Definition, History, Production, & Health ...",
+      "source_name": "Britannica"
+    },
+    {
+      "source": "https://www.britannica.com/topic/soft-drink",
+      "thumbnail": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/28630f9919a046d3e47fb02339f34803d9fd7fd6f7389009a9be0cf9dd490f04.jpeg",
+      "original": "https://cdn.britannica.com/33/206333-050-598A0208/sodas-plastic-cups-ice-straws.jpg",
+      "title": "Soft drink | Definition, History, Production, & Health ...",
+      "source_name": "Britannica"
+    },
+    {
+      "source": "https://en.wikipedia.org/wiki/Soft_drink",
+      "thumbnail": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/28630f9919a046d3e5b50c3bb19248613750124903ce7d4b473c09e20da4c0bc.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Tumbler_of_cola_with_ice.jpg",
+      "title": "Soft drink - Wikipedia",
+      "source_name": "Wikipedia"
+    },
+    {
+      "source": "https://encyclopedia.che.engin.umich.edu/soft-drinks/",
+      "thumbnail": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/28630f9919a046d36205ff2f33da034421398558cb6e27673d35dfc8ef526140.jpeg",
+      "original": "https://encyclopedia.che.engin.umich.edu/wp-content/uploads/sites/564/2022/04/soft-drinks.png",
+      "title": "Soft Drinks \u2013 Visual Encyclopedia of Chemical Engineering ...",
+      "source_name": "Visual Encyclopedia of Chemical Engineering Equipment ..."
+    },
+    {
+      "source": "https://boulderphoco.com/product/soft-drink/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65ILAHxE_cWF_VC6QjJqZFCOc3XSDu6XNv8SA69Zh7BgKwSmm9WaMq_s&s",
+      "original": "https://boulderphoco.com/wp-content/uploads/2020/04/Soft-drink.jpg",
+      "title": "Soft drink",
+      "source_name": "Boulder Pho"
+    },
+    {
+      "source": "https://www.fanniescuisine.com/product-page/soft-drink",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx0Yt1XdDLSikvWqD0kfU_N8ufVaqGLAXVLO9yqcdrNfsBvWy8VxXhns4&s",
+      "original": "https://static.wixstatic.com/media/2886ee_233cddbc449049369f8bfa98bc428cbb~mv2.jpg/v1/fill/w_480,h_320,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/2886ee_233cddbc449049369f8bfa98bc428cbb~mv2.jpg",
+      "title": "Soft Drink",
+      "source_name": "Fannie's West African Cuisine"
+    },
+    {
+      "source": "https://usakor.com/deejai-noodle-bar/product/soft-drinks/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHQOfEoom43bDeCEeQm2LbbARmB1_FfWvrD_doOqDi8QaqTA-2sL3iBjM&s",
+      "original": "https://usakor.com/deejai-noodle-bar/wp-content/uploads/sites/22/2020/06/361921454-H.jpeg",
+      "title": "Soft Drinks",
+      "source_name": "usakor.com"
+    },
+    {
+      "source": "https://www.eatright.org/health/wellness/nutrition-panels-and-food-labels/hard-facts-about-soft-drinks",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGRqlNFDlmNWWoVgzXTCxCAEctnYBlAjvdgqAdp7-GMh4M57DcMBdqsw&s",
+      "original": "https://www.eatright.org/-/media/images/unaccounted-for/hard-facts-about-soft-drinks-872739128.jpg?h=450&w=600&rev=f83dfb73834d4676912c65ba2848586c&hash=8BD8322D95DF636CE8F0EA1F22F01DD8",
+      "title": "Hard Facts about Soft Drinks",
+      "source_name": "Academy of Nutrition and Dietetics"
+    },
+    {
+      "source": "https://www.amazon.com/Soft-Drink-Assortment-Mountain-Sunkist/dp/B0C5S8BCNY",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSMHICL7WrcrmlqJouL7aucXkC2-DDMRHpCc3ZkWrgzcaqq2lk_Wkv0U&s",
+      "original": "https://m.media-amazon.com/images/I/718JGBf2ALL._AC_UF894,1000_QL80_.jpg",
+      "title": "Bragoo Soft Drink Assortment: Cola, Pepsi, Sprite, Mountain Dew, Dr.  Pepper, Sunkist, Canada Dry Ginger Ale, Brisk Iced Tea - 12 Fl Oz (18 Pack)",
+      "source_name": "Amazon.com"
+    },
+    {
+      "source": "https://www.usatoday.com/videos/money/business/2024/06/17/no-its-not-pepsi-dr-pepper-is-americas-2nd-most-popular-soft-drink/74129260007/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6MUepvcrnwGMi79Q4xYOXdjzuN1o5iQj72A86ib96c2fV3-MClJgay8A&s",
+      "original": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/06/17/NWTR/74129362007-thumb-horizontal.png?crop=1919,1079,x0,y0&width=1280&height=720&format=pjpg&auto=webp",
+      "title": "How did Dr Pepper become the 2nd most popular soft drink in the U.S.?",
+      "source_name": "USA Today"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is a soft drink vs soda?",
+      "snippet": "The term 'soft drinks' usually refers to nonalcoholic beverages typically containing water, sweeteners, and some flavorings. Sometime, they are also called pops, soda, or fizzy drinks.",
+      "title": "Soft Drinks - an overview | ScienceDirect Topics",
+      "link": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/soft-drinks#:~:text=The%20term%20'soft%20drinks'%20usually,%2C%20soda%2C%20or%20fizzy%20drinks.",
+      "displayed_link": "https://www.sciencedirect.com \u203a topics \u203a soft-drinks",
+      "source_logo": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/ba8943bbb26f9372aee5368753805176c8490cf3e2f4d09a1199ef854c5c6ed2.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWJFSXdUbDlrWjJKS1RuaDJhblZqYW1Jek5VUkxORk15WVY5blJXdERTalJHTWkxWVZqWnhZVVZ6ZWw5b2NIQlJSRXQ0ZUZvNVJIcGlaVVZKU1RGRE9FeGxXazV1RWhkM2FrRkxXamRsY2tWTWVVbHdkRkZRTmkxbFJXMUJieG9pUVVaWWNrVmpjR0ZMYzE4eWFVTm9lbk5HZFV0dk9EbEtUM2cwT0RJdFRrNXJRUSIsImZjdiI6IjMiLCJlaSI6IndqQUtaN2VyRUx5SXB0UVA2LWVFbUFvIiwicWMiOiJDZ3B6YjJaMElHUnlhVzVyRUFCOVBmd3NQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIHNvZnQgZHJpbmsgdnMgc29kYT8iLCJsayI6IkdoeDNhR0YwSUdseklHRWdjMjltZENCa2NtbHVheUIyY3lCemIyUmgiLCJicyI6ImMtTnk0cElOejBnc1VjZ3NWa2hVS001UEsxRklLY3JNeTFZb0t3YnlVaEx0SldaeUc4bEp5WlRqVWNQbHc2VUVOaU94S0ZXaEpBT0lLd3RTaXhYeTA1RFVGdHRMdkM0MlVwWlNMQ2Vra0N1R1N3ZlZ0SXlpMUZTRjNQemlFb1dDX0lMU25NUWlWSE9YR2h0cFNxbWptR3VNVXpuY3JVQ19nRlJtcENibWxHUmtwZ0pWSTFUWlM1dzJnYnNWbjBJQlJnQSIsImlkIjoiZmNfd2pBS1o3ZXJFTHlJcHRRUDYtZUVtQW9fMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWJFSXdUbDlrWjJKS1RuaDJhblZqYW1Jek5VUkxORk15WVY5blJXdERTalJHTWkxWVZqWnhZVVZ6ZWw5b2NIQlJSRXQ0ZUZvNVJIcGlaVVZKU1RGRE9FeGxXazV1RWhkM2FrRkxXamRsY2tWTWVVbHdkRkZRTmkxbFJXMUJieG9pUVVaWWNrVmpjR0ZMYzE4eWFVTm9lbk5HZFV0dk9EbEtUM2cwT0RJdFRrNXJRUSIsImZjdiI6IjMiLCJlaSI6IndqQUtaN2VyRUx5SXB0UVA2LWVFbUFvIiwicWMiOiJDZ3B6YjJaMElHUnlhVzVyRUFCOVBmd3NQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIHNvZnQgZHJpbmsgdnMgc29kYT8iLCJsayI6IkdoeDNhR0YwSUdseklHRWdjMjltZENCa2NtbHVheUIyY3lCemIyUmgiLCJicyI6ImMtTnk0cElOejBnc1VjZ3NWa2hVS001UEsxRklLY3JNeTFZb0t3YnlVaEx0SldaeUc4bEp5WlRqVWNQbHc2VUVOaU94S0ZXaEpBT0lLd3RTaXhYeTA1RFVGdHRMdkM0MlVwWlNMQ2Vra0N1R1N3ZlZ0SXlpMUZTRjNQemlFb1dDX0lMU25NUWlWSE9YR2h0cFNxbWptR3VNVXpuY3JVQ19nRlJtcENibWxHUmtwZ0pWSTFUWlM1dzJnYnNWbjBJQlJnQSIsImlkIjoiZmNfd2pBS1o3ZXJFTHlJcHRRUDYtZUVtQW9fMSJ9"
+    },
+    {
+      "question": "What are the types of soft drinks?",
+      "snippet": "Types of soft drinks include lemon-lime drinks, orange soda, cola, grape soda, cream soda, ginger ale and root beer. Soft drinks may be served cold, over ice cubes, or at room temperature. They are available in many container formats, including cans, glass bottles, and plastic bottles.",
+      "title": "Soft drink - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Soft_drink#:~:text=Types%20of%20soft%20drinks%20include,glass%20bottles%2C%20and%20plastic%20bottles.",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Soft_drink",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4lh6GHU_ubK0oW-hIJsn6uOJDQCsk1tQdfBe6LHjU&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWJFSXdUbDlrWjJKS1RuaDJhblZqYW1Jek5VUkxORk15WVY5blJXdERTalJHTWkxWVZqWnhZVVZ6ZWw5b2NIQlJSRXQ0ZUZvNVJIcGlaVVZKU1RGRE9FeGxXazV1RWhkM2FrRkxXamRsY2tWTWVVbHdkRkZRTmkxbFJXMUJieG9pUVVaWWNrVmpjR0ZMYzE4eWFVTm9lbk5HZFV0dk9EbEtUM2cwT0RJdFRrNXJRUSIsImZjdiI6IjMiLCJlaSI6IndqQUtaN2VyRUx5SXB0UVA2LWVFbUFvIiwicWMiOiJDZ3B6YjJaMElHUnlhVzVyRUFCOVBmd3NQdyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHR5cGVzIG9mIHNvZnQgZHJpbmtzPyIsImxrIjoiR2lGM2FHRjBJR0Z5WlNCMGFHVWdkSGx3WlhNZ2IyWWdjMjltZENCa2NtbHVhM00iLCJicyI6ImMtTnk0cElOejBnc1VjZ3NWa2hVS001UEsxRklLY3JNeTFZb0t3YnlVaEx0SldaeUc4bEp5WlRqVWNQbHc2VUVOaU94S0ZXaEpBT0lLd3RTaXhYeTA1RFVGdHRMdkM0MlVwWlNMQ2Vra0N1R1N3ZlZ0SXlpMUZTRjNQemlFb1dDX0lMU25NUWlWSE9YR2h0cFNxbWptR3VNVXpuY3JVQ19nRlJtcENibWxHUmtwZ0pWSTFUWlM1dzJnYnNWbjBJQlJnQSIsImlkIjoiZmNfd2pBS1o3ZXJFTHlJcHRRUDYtZUVtQW9fMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWJFSXdUbDlrWjJKS1RuaDJhblZqYW1Jek5VUkxORk15WVY5blJXdERTalJHTWkxWVZqWnhZVVZ6ZWw5b2NIQlJSRXQ0ZUZvNVJIcGlaVVZKU1RGRE9FeGxXazV1RWhkM2FrRkxXamRsY2tWTWVVbHdkRkZRTmkxbFJXMUJieG9pUVVaWWNrVmpjR0ZMYzE4eWFVTm9lbk5HZFV0dk9EbEtUM2cwT0RJdFRrNXJRUSIsImZjdiI6IjMiLCJlaSI6IndqQUtaN2VyRUx5SXB0UVA2LWVFbUFvIiwicWMiOiJDZ3B6YjJaMElHUnlhVzVyRUFCOVBmd3NQdyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHR5cGVzIG9mIHNvZnQgZHJpbmtzPyIsImxrIjoiR2lGM2FHRjBJR0Z5WlNCMGFHVWdkSGx3WlhNZ2IyWWdjMjltZENCa2NtbHVhM00iLCJicyI6ImMtTnk0cElOejBnc1VjZ3NWa2hVS001UEsxRklLY3JNeTFZb0t3YnlVaEx0SldaeUc4bEp5WlRqVWNQbHc2VUVOaU94S0ZXaEpBT0lLd3RTaXhYeTA1RFVGdHRMdkM0MlVwWlNMQ2Vra0N1R1N3ZlZ0SXlpMUZTRjNQemlFb1dDX0lMU25NUWlWSE9YR2h0cFNxbWptR3VNVXpuY3JVQ19nRlJtcENibWxHUmtwZ0pWSTFUWlM1dzJnYnNWbjBJQlJnQSIsImlkIjoiZmNfd2pBS1o3ZXJFTHlJcHRRUDYtZUVtQW9fMSJ9"
+    },
+    {
+      "question": "What are the three most popular soft drinks?",
+      "title": "Leading soft drink brands ranked by brand awareness in the United States in 2024",
+      "link": "https://www.statista.com/statistics/1346276/most-well-known-soft-drink-brands-in-the-united-states/",
+      "displayed_link": "https://www.statista.com \u203a statistics \u203a most-well-known-sof...",
+      "source_logo": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/ba8943bbb26f9372aee5368753805176347d4cd4ef2ab05485123645b5c48a5d.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWJFSXdUbDlrWjJKS1RuaDJhblZqYW1Jek5VUkxORk15WVY5blJXdERTalJHTWkxWVZqWnhZVVZ6ZWw5b2NIQlJSRXQ0ZUZvNVJIcGlaVVZKU1RGRE9FeGxXazV1RWhkM2FrRkxXamRsY2tWTWVVbHdkRkZRTmkxbFJXMUJieG9pUVVaWWNrVmpjR0ZMYzE4eWFVTm9lbk5HZFV0dk9EbEtUM2cwT0RJdFRrNXJRUSIsImZjdiI6IjMiLCJlaSI6IndqQUtaN2VyRUx5SXB0UVA2LWVFbUFvIiwicWMiOiJDZ3B6YjJaMElHUnlhVzVyRUFCOVBmd3NQdyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRocmVlIG1vc3QgcG9wdWxhciBzb2Z0IGRyaW5rcz8iLCJsayI6IkdpZDNhR0YwSUdGeVpTQjBhR1VnTXlCdGIzTjBJSEJ2Y0hWc1lYSWdjMjltZENCa2NtbHVhM00iLCJicyI6ImMtTnk0cElOejBnc1VjZ3NWa2hVS001UEsxRklLY3JNeTFZb0t3YnlVaEx0SldaeUc4bEp5WlRqVWNQbHc2VUVOaU94S0ZXaEpBT0lLd3RTaXhYeTA1RFVGdHRMdkM0MlVwWlNMQ2Vra0N1R1N3ZlZ0SXlpMUZTRjNQemlFb1dDX0lMU25NUWlWSE9YR2h0cFNxbWptR3VNVXpuY3JVQ19nRlJtcENibWxHUmtwZ0pWSTFUWlM1dzJnYnNWbjBJQlJnQSIsImlkIjoiZmNfd2pBS1o3ZXJFTHlJcHRRUDYtZUVtQW9fMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWJFSXdUbDlrWjJKS1RuaDJhblZqYW1Jek5VUkxORk15WVY5blJXdERTalJHTWkxWVZqWnhZVVZ6ZWw5b2NIQlJSRXQ0ZUZvNVJIcGlaVVZKU1RGRE9FeGxXazV1RWhkM2FrRkxXamRsY2tWTWVVbHdkRkZRTmkxbFJXMUJieG9pUVVaWWNrVmpjR0ZMYzE4eWFVTm9lbk5HZFV0dk9EbEtUM2cwT0RJdFRrNXJRUSIsImZjdiI6IjMiLCJlaSI6IndqQUtaN2VyRUx5SXB0UVA2LWVFbUFvIiwicWMiOiJDZ3B6YjJaMElHUnlhVzVyRUFCOVBmd3NQdyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRocmVlIG1vc3QgcG9wdWxhciBzb2Z0IGRyaW5rcz8iLCJsayI6IkdpZDNhR0YwSUdGeVpTQjBhR1VnTXlCdGIzTjBJSEJ2Y0hWc1lYSWdjMjltZENCa2NtbHVhM00iLCJicyI6ImMtTnk0cElOejBnc1VjZ3NWa2hVS001UEsxRklLY3JNeTFZb0t3YnlVaEx0SldaeUc4bEp5WlRqVWNQbHc2VUVOaU94S0ZXaEpBT0lLd3RTaXhYeTA1RFVGdHRMdkM0MlVwWlNMQ2Vra0N1R1N3ZlZ0SXlpMUZTRjNQemlFb1dDX0lMU25NUWlWSE9YR2h0cFNxbWptR3VNVXpuY3JVQ19nRlJtcENibWxHUmtwZ0pWSTFUWlM1dzJnYnNWbjBJQlJnQSIsImlkIjoiZmNfd2pBS1o3ZXJFTHlJcHRRUDYtZUVtQW9fMSJ9"
+    },
+    {
+      "question": "What is the healthiest soft drink?",
+      "title": "Healthiest Sodas of 2024",
+      "date": "Aug 6, 2024",
+      "link": "https://www.mensjournal.com/food-drink/healthier-sodas-and-sparkling-beverages-mens-journal",
+      "list": [
+        "Overall Best Healthy Soda: Olipop Lemon Lime. ... ",
+        "Best Prebiotic Healthy Soda: Poppi Classic Cola. ... ",
+        "Best Tasting Healthy Soda: United Sodas Toasted Coconut. ... ",
+        "Best Probiotic Healthy Soda: Culture Pop Ginger Lemon & Turmeric. ... ",
+        "Best Do-It-All Healthy Soda: Mighty Pop Pineapple Grapefruit."
+      ],
+      "displayed_link": "https://www.mensjournal.com \u203a food-drink \u203a healthier-sod...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9tax9SlIZUUkFIqb-X_dgLxJgTb084BZii-ZOfzYLqg&s",
+      "source_logo": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/ba8943bbb26f9372aee536875380517691bd2a1d360a8b882244c8b7179accd2.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWJFSXdUbDlrWjJKS1RuaDJhblZqYW1Jek5VUkxORk15WVY5blJXdERTalJHTWkxWVZqWnhZVVZ6ZWw5b2NIQlJSRXQ0ZUZvNVJIcGlaVVZKU1RGRE9FeGxXazV1RWhkM2FrRkxXamRsY2tWTWVVbHdkRkZRTmkxbFJXMUJieG9pUVVaWWNrVmpjR0ZMYzE4eWFVTm9lbk5HZFV0dk9EbEtUM2cwT0RJdFRrNXJRUSIsImZjdiI6IjMiLCJlaSI6IndqQUtaN2VyRUx5SXB0UVA2LWVFbUFvIiwicWMiOiJDZ3B6YjJaMElHUnlhVzVyRUFCOVBmd3NQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgaGVhbHRoaWVzdCBzb2Z0IGRyaW5rPyIsImxrIjoiR2lGM2FHRjBJR2x6SUhSb1pTQm9aV0ZzZEdocFpYTjBJSE52Wm5RZ1pISnBibXMiLCJicyI6ImMtTnk0cElOejBnc1VjZ3NWa2hVS001UEsxRklLY3JNeTFZb0t3YnlVaEx0SldaeUc4bEp5WlRqVWNQbHc2VUVOaU94S0ZXaEpBT0lLd3RTaXhYeTA1RFVGdHRMdkM0MlVwWlNMQ2Vra0N1R1N3ZlZ0SXlpMUZTRjNQemlFb1dDX0lMU25NUWlWSE9YR2h0cFNxbWptR3VNVXpuY3JVQ19nRlJtcENibWxHUmtwZ0pWSTFUWlM1dzJnYnNWbjBJQlJnQSIsImlkIjoiZmNfd2pBS1o3ZXJFTHlJcHRRUDYtZUVtQW9fMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UWJFSXdUbDlrWjJKS1RuaDJhblZqYW1Jek5VUkxORk15WVY5blJXdERTalJHTWkxWVZqWnhZVVZ6ZWw5b2NIQlJSRXQ0ZUZvNVJIcGlaVVZKU1RGRE9FeGxXazV1RWhkM2FrRkxXamRsY2tWTWVVbHdkRkZRTmkxbFJXMUJieG9pUVVaWWNrVmpjR0ZMYzE4eWFVTm9lbk5HZFV0dk9EbEtUM2cwT0RJdFRrNXJRUSIsImZjdiI6IjMiLCJlaSI6IndqQUtaN2VyRUx5SXB0UVA2LWVFbUFvIiwicWMiOiJDZ3B6YjJaMElHUnlhVzVyRUFCOVBmd3NQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgaGVhbHRoaWVzdCBzb2Z0IGRyaW5rPyIsImxrIjoiR2lGM2FHRjBJR2x6SUhSb1pTQm9aV0ZzZEdocFpYTjBJSE52Wm5RZ1pISnBibXMiLCJicyI6ImMtTnk0cElOejBnc1VjZ3NWa2hVS001UEsxRklLY3JNeTFZb0t3YnlVaEx0SldaeUc4bEp5WlRqVWNQbHc2VUVOaU94S0ZXaEpBT0lLd3RTaXhYeTA1RFVGdHRMdkM0MlVwWlNMQ2Vra0N1R1N3ZlZ0SXlpMUZTRjNQemlFb1dDX0lMU25NUWlWSE9YR2h0cFNxbWptR3VNVXpuY3JVQ19nRlJtcENibWxHUmtwZ0pWSTFUWlM1dzJnYnNWbjBJQlJnQSIsImlkIjoiZmNfd2pBS1o3ZXJFTHlJcHRRUDYtZUVtQW9fMSJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Soft drink",
+      "link": "https://en.wikipedia.org/wiki/Soft_drink",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Soft_drink&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQFnoECBYQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Soft_drink",
+      "thumbnail": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/1a0ab2c0a2e44426205c1497f5383808964372ed18593de1fbf7e03a2c2887e5.jpeg",
+      "favicon": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/1a0ab2c0a2e44426205c1497f538380860ae968beacf5c3e69d21076de914f8f.png",
+      "snippet": "A soft drink is any water-based flavored drink, usually but not necessarily carbonated, and typically including added sweetener. Flavors used can be natural ...",
+      "snippet_highlighted_words": [
+        "soft drink"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "List of brand name soft drink...",
+            "link": "https://en.wikipedia.org/wiki/List_of_brand_name_soft_drink_products"
+          },
+          {
+            "title": "List of soft drink flavors",
+            "link": "https://en.wikipedia.org/wiki/List_of_soft_drink_flavors"
+          },
+          {
+            "title": "List of soft drinks by country",
+            "link": "https://en.wikipedia.org/wiki/List_of_soft_drinks_by_country"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Soft drink | Definition, History, Production, & Health Issues",
+      "link": "https://www.britannica.com/topic/soft-drink",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.britannica.com/topic/soft-drink&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQFnoECE8QAQ",
+      "displayed_link": "https://www.britannica.com \u203a ... \u203a Food",
+      "thumbnail": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/1a0ab2c0a2e44426205c1497f53838088cb6fb117ddff99401a0050bb3f90478.jpeg",
+      "favicon": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/1a0ab2c0a2e44426205c1497f5383808c8e8048a90a1102295f57198ea1b4cd7.png",
+      "date": "5 days ago",
+      "snippet": "Soft drink, any of a class of nonalcoholic beverages, usually but not necessarily carbonated, normally containing a natural or artificial ...",
+      "snippet_highlighted_words": [
+        "Soft drink"
+      ],
+      "source": "Britannica"
+    },
+    {
+      "position": 3,
+      "title": "Soda Soft Drinks - Walmart.com",
+      "link": "https://www.walmart.com/cp/soda-pop/1001680",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.walmart.com/cp/soda-pop/1001680&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQFnoECFEQAQ",
+      "displayed_link": "https://www.walmart.com \u203a soda-pop",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBTwgU0T3buCJ4Lj6-sZUJurLYYbQzDtyfl8QOm8g922vlEeC4zK3M&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/1a0ab2c0a2e44426205c1497f5383808990a6267373f1896819ea15232fbd96a.png",
+      "snippet": "Shop for soda drinks, soft drinks, cola soft drinks, cream sodas, sparkling sodas, grape sodas and lime sodas for less at Walmart.com. Save money.",
+      "snippet_highlighted_words": [
+        "soft drinks",
+        "soft drinks"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "store_rating_k": 4.5,
+            "price": 1,
+            "currency": "$ to $",
+            "free": 90
+          },
+          "extensions": [
+            "4.5store rating (1.4K)",
+            "\u200e$1 to $7",
+            "\u200eFree 90",
+            "day returns"
+          ]
+        }
+      },
+      "source": "Walmart"
+    },
+    {
+      "position": 4,
+      "title": "A Cool Guide To What Americans Call Soft Drinks",
+      "link": "https://www.reddit.com/r/coolguides/comments/15pgy2n/a_cool_guide_to_what_americans_call_soft_drinks/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/coolguides/comments/15pgy2n/a_cool_guide_to_what_americans_call_soft_drinks/&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQFnoECFoQAQ",
+      "displayed_link": "3.2K+ comments \u00b7 1 year ago",
+      "favicon": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/1a0ab2c0a2e44426205c1497f53838088baeec0e4a1f2029abc5a60064096ada.png",
+      "snippet": "Most everyone calls it soda, but a sizeable portion just calls soft drinks... \"soft drinks.\" Including my parents. Since that's not ...",
+      "snippet_highlighted_words": [
+        "soft drinks",
+        "soft drinks"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Locals, do you agree with this map? Would you say \u201csoft drink ...",
+            "link": "https://www.reddit.com/r/Wilmington/comments/14g5ou4/locals_do_you_agree_with_this_map_would_you_say/",
+            "date": "Jun 22, 2023"
+          },
+          {
+            "title": "Would you consider coffee to be a soft drink? : r/AskAnAmerican",
+            "link": "https://www.reddit.com/r/AskAnAmerican/comments/11y1ous/would_you_consider_coffee_to_be_a_soft_drink/",
+            "date": "Mar 22, 2023"
+          },
+          {
+            "title": "What is a popular soft drink/carbonated drink unique ... - Reddit",
+            "link": "https://www.reddit.com/r/AskEurope/comments/1c0wtyn/what_is_a_popular_soft_drinkcarbonated_drink/",
+            "date": "Apr 10, 2024"
+          },
+          {
+            "title": "Fizzy drinks : r/EnglishLearning - Reddit",
+            "link": "https://www.reddit.com/r/EnglishLearning/comments/14zq106/fizzy_drinks/",
+            "date": "Jul 14, 2023"
+          }
+        ]
+      },
+      "source": "Reddit \u00b7 r/coolguides"
+    },
+    {
+      "position": 5,
+      "title": "Soft Drinks | BEVERAGES",
+      "link": "https://www.pepsicopartners.com/pepsico/en/USD/BEVERAGES/Soft-Drinks/c/softDrinks",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pepsicopartners.com/pepsico/en/USD/BEVERAGES/Soft-Drinks/c/softDrinks&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQFnoECEkQAQ",
+      "displayed_link": "https://www.pepsicopartners.com \u203a pepsico \u203a USD \u203a soft...",
+      "favicon": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/1a0ab2c0a2e44426205c1497f5383808db1914ea524a836633c4e6cc3c244390.png",
+      "snippet": "Soft Drinks ; Image Of Pepsi Zero Sugar SKU: 102979. 102979 ; Image Of Pepsi Zero Sugar SKU: 103512. 103512 ; Image Of Pepsi Zero Sugar Wild Cherry SKU: 165849.",
+      "snippet_highlighted_words": [
+        "Soft Drinks"
+      ],
+      "source": "PepsiCo Partners"
+    },
+    {
+      "position": 6,
+      "title": "What is the greatest soft drink ever made?",
+      "link": "https://www.quora.com/What-is-the-greatest-soft-drink-ever-made",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/What-is-the-greatest-soft-drink-ever-made&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQFnoECF0QAQ",
+      "displayed_link": "https://www.quora.com \u203a What-is-the-greatest-soft-drink-...",
+      "favicon": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/1a0ab2c0a2e44426205c1497f53838088760a1c0b2040f07dce89ae8b07c989e.png",
+      "snippet": "Dr. Pepper \u00b7 Dr. Brown's Black Cherry \u00b7 Most root beers \u00b7 Coke \u00b7 Seven Up \u00b7 Canada Dry Ginger Ale. After that, iced tea with lime, ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Why do Americans call soft drinks 'soda'?",
+            "link": "https://www.quora.com/Why-do-Americans-call-soft-drinks-soda",
+            "answer_count": 14,
+            "date": "Jan 20, 2022"
+          },
+          {
+            "title": "Do you say 'pop', 'soda', 'soft drink', or something else?",
+            "link": "https://www.quora.com/Do-you-say-pop-soda-soft-drink-or-something-else",
+            "answer_count": 21,
+            "date": "Oct 9, 2020"
+          },
+          {
+            "title": "What is the best tasting soda?",
+            "link": "https://www.quora.com/What-is-the-best-tasting-soda",
+            "answer_count": 10,
+            "date": "Dec 1, 2016"
+          },
+          {
+            "title": "What's the world's best soft drink?",
+            "link": "https://www.quora.com/Whats-the-worlds-best-soft-drink",
+            "answer_count": 46,
+            "date": "Sep 25, 2010"
+          }
+        ]
+      },
+      "source": "Quora"
+    },
+    {
+      "position": 7,
+      "title": "Soft Drink | Fanniescuisine",
+      "link": "https://www.fanniescuisine.com/product-page/soft-drink",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fanniescuisine.com/product-page/soft-drink&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQFnoECFAQAQ",
+      "displayed_link": "https://www.fanniescuisine.com \u203a product-page \u203a soft-drink",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIOj3VpKgLsM5JfRZvNkWPXogEZ1idPpPyeAtFQjVpF4iSFhggJ6Dz&usqp=CAE&s",
+      "snippet": "Soft Drink. $1.99Price. Quantity.",
+      "snippet_highlighted_words": [
+        "Soft Drink"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 1.99,
+            "currency": "$"
+          },
+          "extensions": [
+            "$1.99",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Fannie's African Cuisine"
+    },
+    {
+      "position": 8,
+      "title": "Soft Drinks, Fountain Sodas, Smoothies",
+      "link": "https://www.mcdonalds.com/us/en-us/full-menu/drinks.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mcdonalds.com/us/en-us/full-menu/drinks.html&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQFnoECFkQAQ",
+      "displayed_link": "https://www.mcdonalds.com \u203a en-us \u203a full-menu \u203a drinks",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-CjBXX7j87lo7DwwL-6QuIidXPbaS88X1NZXF5bX9T1ShMdERUX8s&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/1a0ab2c0a2e44426205c1497f5383808bcbb0001497dfebda770e8fc478ee02f.png",
+      "snippet": "Enjoy a wide selection of refreshing Coca-Cola\u00ae soft drinks, frozen drinks, smoothies, teas and more on McDonald's Drink Menu! Choose from hot or cold ...",
+      "snippet_highlighted_words": [
+        "soft drinks"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Coca-Cola",
+            "link": "https://www.mcdonalds.com/us/en-us/product/coca-cola-small.html"
+          },
+          {
+            "title": "Strawberry Banana Smoothie",
+            "link": "https://www.mcdonalds.com/us/en-us/product/strawberry-banana-smoothie-small.html"
+          },
+          {
+            "title": "Mango Pineapple Smoothie",
+            "link": "https://www.mcdonalds.com/us/en-us/product/mango-pineapple-smoothie-small.html"
+          },
+          {
+            "title": "Sweet Tea",
+            "link": "https://www.mcdonalds.com/us/en-us/product/sweet-tea-small.html"
+          }
+        ]
+      },
+      "source": "McDonald's"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=soft+drink&udm=2&source=univ&fir=ZZDtXPCGPQRETM%252CuFoqGo8IOMskgM%252C_%253BvbiGoe0ctdpi3M%252CBpeKk9l2hGLQEM%252C_%253BU-PVKyjP-1dUUM%252CFGqb7I1oT7FMXM%252C_%253BWG8pJvbIH9qZWM%252CFGqb7I1oT7FMXM%252C_%253Bd51do7h_HumNqM%252CzVLUp-fNXHKjSM%252C_%253ByQhVzoNco4C9GM%252CupyPOoMRlHMjxM%252C_%253BKnzMsYfSe0kbVM%252C2XWvvvpyeTv0gM%252C_%253B_HjQ8cBKtl9bnM%252C5Cm6VFApI7ks7M%252C_%253BR09d5stO-4ArZM%252C3buAzL6IUCuy1M%252C_%253B5XacjuoQi28ZhM%252CVjPMlyydu58MpM%252C_%253B6wrPzQzzRwpuPM%252CuFoqGo8IOMskgM%252C_%253BNTg4Aw-KqJKrIM%252Ca6_h5RWPegTkwM%252C_&usg=AI4_-kTkxVgYbgBfUXL7kos7CS8TsQPSnQ&sa=X&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQ7Al6BAgtEAY",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=soft+drink",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Soft drinks list",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Soft+drinks+list&sa=X&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQ1QJ6BAhbEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Soft+drinks+list"
+    },
+    {
+      "block_position": 1,
+      "query": "Soft drinks non alcoholic",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Soft+drinks+non+alcoholic&sa=X&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQ1QJ6BAhXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Soft+drinks+non+alcoholic"
+    },
+    {
+      "block_position": 1,
+      "query": "Soft drink brands",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Soft+drink+brands&sa=X&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQ1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Soft+drink+brands"
+    },
+    {
+      "block_position": 1,
+      "query": "Is juice a soft drink",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Is+juice+a+soft+drink&sa=X&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQ1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Is+juice+a+soft+drink"
+    },
+    {
+      "block_position": 1,
+      "query": "Soft drinks alcohol",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Soft+drinks+alcohol&sa=X&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQ1QJ6BAhMEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Soft+drinks+alcohol"
+    },
+    {
+      "block_position": 1,
+      "query": "Popular soft drinks list",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Popular+soft+drinks+list&sa=X&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQ1QJ6BAhKEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Popular+soft+drinks+list"
+    },
+    {
+      "block_position": 1,
+      "query": "Is water a soft drink",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Is+water+a+soft+drink&sa=X&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQ1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Is+water+a+soft+drink"
+    },
+    {
+      "block_position": 1,
+      "query": "Harmful effects of soft drinks on human body",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Harmful+effects+of+soft+drinks+on+human+body&sa=X&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQ1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Harmful+effects+of+soft+drinks+on+human+body"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "What is the best tasting soda?",
+      "link": "https://www.quora.com/What-is-the-best-tasting-soda",
+      "date": "9y ago",
+      "extensions": [
+        "10+ answers"
+      ],
+      "source": "Quora"
+    },
+    {
+      "title": "Why is soda referred to as a soft drink?",
+      "link": "https://www.reddit.com/r/NoStupidQuestions/comments/slkofl/why_is_soda_referred_to_as_a_soft_drink/",
+      "date": "2y ago",
+      "extensions": [
+        "r/NoStupidQuestions",
+        "30+ comments"
+      ],
+      "source": "Reddit"
+    },
+    {
+      "title": "Dr. Pepper overtakes Pepsi as America's second-most popular soft drink",
+      "link": "https://bbs.boingboing.net/t/dr-pepper-overtakes-pepsi-as-americas-second-most-popular-soft-drink/275971",
+      "date": "4mo ago",
+      "source": "Boing Boing BBS"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "List",
+        "subtitle": "List Of Soft Drinks",
+        "title": "List of brand name soft drink products - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/List_of_brand_name_soft_drink_products",
+        "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a List_of_brand_name_soft...",
+        "snippet": "PepsiCo",
+        "snippet_highlighted_words": [
+          "PepsiCo"
+        ],
+        "list": [
+          "AMP Energy.",
+          "Duke's.",
+          "Fayrouz.",
+          "Gatorade.",
+          "Mirinda.",
+          "Mountain Dew. Caffeine Free Mountain Dew. Diet Mountain Dew. KickStart. MDX. Mountain Dew Baja Blast. Mountain Dew Code Red. ... ",
+          "Mug Root Beer. Nature's Twist (regular and sugar free)",
+          "Pepsi. Crystal Pepsi. Diet Pepsi. Pepsi Cola. Pepsi Fire. Pepsi Jazz Black Cherry & Vanilla."
+        ],
+        "favicon": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/8e146e9af3c55dec2400d9b32d4ec945a5e1f3cf79901220b010e6cf751e372ba978b82b44585499.png",
+        "source": "wikipedia.org",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=list+of+soft+drinks&sa=X&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQrooIegQIFBAF",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=list+of+soft+drinks"
+      },
+      {
+        "text": "Popular",
+        "subtitle": "Popular Soft Drinks",
+        "title": "Visualizing the Market Share of U.S. Soft Drinks",
+        "link": "https://www.visualcapitalist.com/visualizing-the-market-share-of-u-s-soft-drinks/",
+        "displayed_link": "https://www.visualcapitalist.com \u203a visualizing-the-market-s...",
+        "favicon": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/8e146e9af3c55dec2400d9b32d4ec945886a85b1e6882b0ebd26b588df64ce110730a0541be74204.png",
+        "source": "visualcapitalist.com",
+        "table": [
+          [
+            "Market Share of U.S. Soft Drinks",
+            "1995",
+            "2020"
+          ],
+          [
+            "Coke",
+            "20.8%",
+            "19.5%"
+          ],
+          [
+            "Dr. Pepper",
+            "5.7%",
+            "8.0%"
+          ],
+          [
+            "Pepsi",
+            "15.0%",
+            "8.7%"
+          ],
+          [
+            "Sprite",
+            "5.1%",
+            "7.8%"
+          ]
+        ],
+        "formatted": [
+          {
+            "market_share_of_u_s_soft_drinks": "Coke",
+            "1995": "20.8%",
+            "2020": "19.5%"
+          },
+          {
+            "market_share_of_u_s_soft_drinks": "Dr. Pepper",
+            "1995": "5.7%",
+            "2020": "8.0%"
+          },
+          {
+            "market_share_of_u_s_soft_drinks": "Pepsi",
+            "1995": "15.0%",
+            "2020": "8.7%"
+          },
+          {
+            "market_share_of_u_s_soft_drinks": "Sprite",
+            "1995": "5.1%",
+            "2020": "7.8%"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=popular+soft+drinks&sa=X&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQrooIegQIFBAK",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=popular+soft+drinks"
+      },
+      {
+        "text": "Healthy or not",
+        "subtitle": "Are Fizzy Drinks Healthy",
+        "title": "Are fizzy drinks bad for you? - BBC Good Food",
+        "link": "https://www.bbcgoodfood.com/health/nutrition/are-fizzy-drinks-bad-for-you#:~:text=Fizzy%20drinks%20have%20high%20levels,hormonal%20disruption%20and%20appetite%20disturbance",
+        "displayed_link": "https://www.bbcgoodfood.com \u203a health \u203a nutrition \u203a are-fi...",
+        "date": "Jul 21, 2023",
+        "snippet": "Fizzy drinks have high levels of sugar and calories, and contribute no nutritional value. Consuming them regularly may lead to poor dental health, blood sugar swings, weight gain, hormonal disruption and appetite disturbance.",
+        "snippet_highlighted_words": [
+          "Fizzy drinks have high levels of sugar and calories, and contribute no nutritional value"
+        ],
+        "favicon": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/8e146e9af3c55dec2400d9b32d4ec945fe307e021f14bcd9e48f0a6e38a4d83e1791a8abb851d1f4.png",
+        "source": "bbcgoodfood.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeTOzwU0RwW0oz-G1TUZoadPnwoZWmFE6sAu00gwa-VTw&s",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=are+fizzy+drinks+healthy&sa=X&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQrooIegQIFBAS",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=are+fizzy+drinks+healthy"
+      },
+      {
+        "text": "Most popular",
+        "subtitle": "The Most Popular Soft Drink",
+        "title": "Dr Pepper ties Pepsi for 2nd most popular soda in US - USA Today",
+        "link": "https://www.usatoday.com/story/money/2024/06/08/dr-pepper-pepsi-popular-sodas-tie/74000183007/#:~:text=1%20is%20Coke%2C%20which%20had,countries%2C%20according%20to%20Brand%20Finance.",
+        "displayed_link": "https://www.usatoday.com \u203a story \u203a money \u203a 2024/06/08",
+        "date": "Jun 8, 2024",
+        "snippet": "1 is Coke, which had 19.2% of the soda market in the U.S. by volume last year, making it by far the nation's favorite, according to Beverage Digest's data. At 130 years old, Coke also is the most consumed soda in the world, with an estimated 1.9 billion servings across 200 countries, according to Brand Finance.",
+        "snippet_highlighted_words": [
+          "Coke"
+        ],
+        "favicon": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/8e146e9af3c55dec2400d9b32d4ec9452cb929bbe457b9badd55ad94ac985340ea93634ecf2f0a20.png",
+        "source": "usatoday.com",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=the+most+popular+soft+drink&sa=X&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQrooIegQIFBAX",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=the+most+popular+soft+drink"
+      },
+      {
+        "text": "Best",
+        "subtitle": "What Is The Best Soft Drink",
+        "title": "Soft drinks brand awareness KPI ranking U.S. 2023 - Statista",
+        "link": "https://www.statista.com/statistics/1346276/most-well-known-soft-drink-brands-in-the-united-states/#:~:text=Coca%2DCola%20is%20the%20most,brand%20recognition%20of%2095%20percent.",
+        "displayed_link": "https://www.statista.com \u203a statistics \u203a most-well-known-sof...",
+        "date": "Jan 15, 2024",
+        "snippet": "Coca-Cola is the most well-known soft drink brand in the U.S. Based in Atlanta, Georgia, the American brand of carbonated soft drinks is recognized by 95 percent of internet respondents. Joining Coca-Cola in the first place is Pepsi also with a brand recognition of 95 percent.",
+        "snippet_highlighted_words": [
+          "Coca-Cola"
+        ],
+        "favicon": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/8e146e9af3c55dec2400d9b32d4ec9453d2871c01c7a779a246ec221972be4d0d145d5f8e995cc95.png",
+        "source": "statista.com",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=what+is+the+best+soft+drink&sa=X&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQrooIegQIFBAd",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+is+the+best+soft+drink"
+      },
+      {
+        "text": "Types",
+        "subtitle": "Types Of Soda",
+        "title": "Soft drink - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Soft_drink#:~:text=Types%20of%20soft%20drinks%20include,glass%20bottles%2C%20and%20plastic%20bottles.",
+        "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Soft_drink",
+        "snippet": "Types of soft drinks include lemon-lime drinks, orange soda, cola, grape soda, cream soda, ginger ale and root beer. Soft drinks may be served cold, over ice cubes, or at room temperature. They are available in many container formats, including cans, glass bottles, and plastic bottles.",
+        "snippet_highlighted_words": [
+          "lemon-lime drinks, orange soda, cola, grape soda, cream soda, ginger ale and root beer"
+        ],
+        "favicon": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/8e146e9af3c55dec2400d9b32d4ec9455a4dfdb52794499c9d454aeb2db575065c05bf410b9fbf3f.png",
+        "source": "wikipedia.org",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=types+of+soda&sa=X&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQrooIegQIFBAi",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=types+of+soda"
+      },
+      {
+        "text": "Brands",
+        "subtitle": "Soda Brands",
+        "title": "Non Alcoholic Drinks 50 2024 | Brand Value Ranking League Table",
+        "link": "https://brandirectory.com/rankings/non-alcoholic-drinks/",
+        "displayed_link": "https://brandirectory.com \u203a rankings \u203a non-alcoholic-drinks",
+        "favicon": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/8e146e9af3c55dec2400d9b32d4ec945a2545d2129d964237a5c1aa50896258c22d3e8aae12bf92c.png",
+        "source": "brandirectory.com",
+        "table": [
+          [
+            "2024",
+            "2023",
+            "Name"
+          ],
+          [
+            "1",
+            "1",
+            "Coca-Cola"
+          ],
+          [
+            "2",
+            "2",
+            "Pepsi"
+          ],
+          [
+            "3",
+            "3",
+            "Red Bull"
+          ],
+          [
+            "4",
+            "9",
+            "Nongfu Spring"
+          ]
+        ],
+        "formatted": [
+          {
+            "2024": "1",
+            "2023": "1",
+            "name": "Coca-Cola"
+          },
+          {
+            "2024": "2",
+            "2023": "2",
+            "name": "Pepsi"
+          },
+          {
+            "2024": "3",
+            "2023": "3",
+            "name": "Red Bull"
+          },
+          {
+            "2024": "4",
+            "2023": "9",
+            "name": "Nongfu Spring"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=soda+brands&sa=X&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQrooIegQIFBAn",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=soda+brands"
+      },
+      {
+        "text": "Benefits",
+        "subtitle": "Benefits Of Soda",
+        "title": "Soft Drink Orange Mirinda Cold Drink, Good Source Of Vitamin C And ...",
+        "link": "https://www.tradeindia.com/products/soft-drink-orange-mirinda-cold-drink-7648535.html#:~:text=It%20has%20a%20natural%20sweet,health%20benefits%20on%20the%20go.",
+        "displayed_link": "https://www.tradeindia.com \u203a products \u203a soft-drink-orange...",
+        "snippet": "It has a natural sweet taste and helps to reduce sugar cravings. It is also a source of Vitamin C, potassium, fiber, and other nutrients. The cold drink dietary supplement is a healthy way to enjoy Mirinda's health benefits on the go.",
+        "snippet_highlighted_words": [
+          "helps to reduce sugar cravings"
+        ],
+        "favicon": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/8e146e9af3c55dec2400d9b32d4ec945bc39e12ed3cdc93149413bb986c8ebc2a46977a980e043e4.png",
+        "source": "tradeindia.com",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=benefits+of+soda&sa=X&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQrooIegQIFBAs",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=benefits+of+soda"
+      },
+      {
+        "text": "Calories",
+        "subtitle": "Soda Calories",
+        "title": "Juice & Soft Drinks - Calories in Food",
+        "link": "https://www.calories.info/food/juice-soft-drinks",
+        "displayed_link": "https://www.calories.info \u203a food \u203a juice-soft-drinks",
+        "favicon": "https://serpapi.com/searches/670a30c11397ba5edceff3d0/images/8e146e9af3c55dec2400d9b32d4ec945ade4cd6adc53139ebb88f7e01c89616f88af6c1546f45538.png",
+        "source": "calories.info",
+        "table": [
+          [
+            "Food",
+            "Serving",
+            "Calories"
+          ],
+          [
+            "Coke (Coca Cola) 1 can, small (330 ml)",
+            "100 ml",
+            "140 cal"
+          ],
+          [
+            "Coke Zero (Coca Cola) 1 can, small (330 ml)",
+            "100 ml",
+            "1 cal"
+          ],
+          [
+            "Cranberry Grape Juice 1 glass (125 ml)",
+            "100 ml",
+            "70 cal"
+          ],
+          [
+            "Cranberry Juice 1 glass (200 ml)",
+            "100 ml",
+            "358 cal"
+          ]
+        ],
+        "formatted": [
+          {
+            "food": "Coke (Coca Cola) 1 can, small (330 ml)",
+            "serving": "100 ml",
+            "calories": "140 cal"
+          },
+          {
+            "food": "Coke Zero (Coca Cola) 1 can, small (330 ml)",
+            "serving": "100 ml",
+            "calories": "1 cal"
+          },
+          {
+            "food": "Cranberry Grape Juice 1 glass (125 ml)",
+            "serving": "100 ml",
+            "calories": "70 cal"
+          },
+          {
+            "food": "Cranberry Juice 1 glass (200 ml)",
+            "serving": "100 ml",
+            "calories": "358 cal"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=soda+calories&sa=X&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQrooIegQIFBAx",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=soda+calories"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=soft+drink&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=wjAKZ7erELyIptQP6-eEmAo&start=10&sa=N&sstk=AagrsuiepJ8uOlP5ZylFAk2pyw0ZkmgQqyi8T_KHf63xnMgaNB60WpkUiDTJ6h-he66zLitNWTxMoHuVc7_dH6RoM9zX2tvyj9gI8A&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQ8NMDegQIBxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=soft+drink&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=wjAKZ7erELyIptQP6-eEmAo&start=10&sa=N&sstk=AagrsuiepJ8uOlP5ZylFAk2pyw0ZkmgQqyi8T_KHf63xnMgaNB60WpkUiDTJ6h-he66zLitNWTxMoHuVc7_dH6RoM9zX2tvyj9gI8A&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQ8tMDegQIBxAE",
+      "3": "https://www.google.com/search?q=soft+drink&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=wjAKZ7erELyIptQP6-eEmAo&start=20&sa=N&sstk=AagrsuiepJ8uOlP5ZylFAk2pyw0ZkmgQqyi8T_KHf63xnMgaNB60WpkUiDTJ6h-he66zLitNWTxMoHuVc7_dH6RoM9zX2tvyj9gI8A&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQ8tMDegQIBxAG",
+      "4": "https://www.google.com/search?q=soft+drink&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=wjAKZ7erELyIptQP6-eEmAo&start=30&sa=N&sstk=AagrsuiepJ8uOlP5ZylFAk2pyw0ZkmgQqyi8T_KHf63xnMgaNB60WpkUiDTJ6h-he66zLitNWTxMoHuVc7_dH6RoM9zX2tvyj9gI8A&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQ8tMDegQIBxAI",
+      "5": "https://www.google.com/search?q=soft+drink&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=wjAKZ7erELyIptQP6-eEmAo&start=40&sa=N&sstk=AagrsuiepJ8uOlP5ZylFAk2pyw0ZkmgQqyi8T_KHf63xnMgaNB60WpkUiDTJ6h-he66zLitNWTxMoHuVc7_dH6RoM9zX2tvyj9gI8A&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQ8tMDegQIBxAK",
+      "6": "https://www.google.com/search?q=soft+drink&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=wjAKZ7erELyIptQP6-eEmAo&start=50&sa=N&sstk=AagrsuiepJ8uOlP5ZylFAk2pyw0ZkmgQqyi8T_KHf63xnMgaNB60WpkUiDTJ6h-he66zLitNWTxMoHuVc7_dH6RoM9zX2tvyj9gI8A&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQ8tMDegQIBxAM",
+      "7": "https://www.google.com/search?q=soft+drink&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=wjAKZ7erELyIptQP6-eEmAo&start=60&sa=N&sstk=AagrsuiepJ8uOlP5ZylFAk2pyw0ZkmgQqyi8T_KHf63xnMgaNB60WpkUiDTJ6h-he66zLitNWTxMoHuVc7_dH6RoM9zX2tvyj9gI8A&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQ8tMDegQIBxAO",
+      "8": "https://www.google.com/search?q=soft+drink&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=wjAKZ7erELyIptQP6-eEmAo&start=70&sa=N&sstk=AagrsuiepJ8uOlP5ZylFAk2pyw0ZkmgQqyi8T_KHf63xnMgaNB60WpkUiDTJ6h-he66zLitNWTxMoHuVc7_dH6RoM9zX2tvyj9gI8A&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQ8tMDegQIBxAQ",
+      "9": "https://www.google.com/search?q=soft+drink&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=wjAKZ7erELyIptQP6-eEmAo&start=80&sa=N&sstk=AagrsuiepJ8uOlP5ZylFAk2pyw0ZkmgQqyi8T_KHf63xnMgaNB60WpkUiDTJ6h-he66zLitNWTxMoHuVc7_dH6RoM9zX2tvyj9gI8A&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQ8tMDegQIBxAS",
+      "10": "https://www.google.com/search?q=soft+drink&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=wjAKZ7erELyIptQP6-eEmAo&start=90&sa=N&sstk=AagrsuiepJ8uOlP5ZylFAk2pyw0ZkmgQqyi8T_KHf63xnMgaNB60WpkUiDTJ6h-he66zLitNWTxMoHuVc7_dH6RoM9zX2tvyj9gI8A&ved=2ahUKEwi3lIH0s4iJAxU8hIkEHeszAaMQ8tMDegQIBxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=soft+drink&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=soft+drink&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=soft+drink&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=soft+drink&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=soft+drink&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=soft+drink&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=soft+drink&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=soft+drink&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=soft+drink&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=soft+drink&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=soft+drink&start=90"
+    }
+  }
+}

@@ -1,0 +1,650 @@
+{
+  "search_metadata": {
+    "id": "670a2baab57db8cac61f97c4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/e789cf2b10ad3ccc/670a2baab57db8cac61f97c4.json",
+    "created_at": "2024-10-12 07:56:26 UTC",
+    "processed_at": "2024-10-12 07:56:26 UTC",
+    "google_url": "https://www.google.com/search?q=wasabi&oq=wasabi&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/e789cf2b10ad3ccc/670a2baab57db8cac61f97c4.html",
+    "total_time_taken": 1.17
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "wasabi",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "wasabi",
+    "total_results": 55400000,
+    "time_taken_displayed": 0.29,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "title": "Wasabi",
+    "entity_type": "biology",
+    "kgmid": "/g/11bwcjxbr7",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11bwcjxbr7&hl=en-US&q=Wasabi",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F11bwcjxbr7&location=Austin%2CTexas%2CUnited+States&q=Wasabi",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/1f1c110479458ed3f86240a169aa55f5affca77b414b1efb4b12ad1dac7ad4c1a890cf0c81452d83.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/1f1c110479458ed3f86240a169aa55f5affca77b414b1efb5d76f7333f42d60f38068240a76a66b2.webp"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/1f1c110479458ed3f86240a169aa55f5affca77b414b1efbe1bf2e63363bc7c393d58fed0698e96c.webp"
+      }
+    ],
+    "kingdom": "Plantae",
+    "species": "E. japonicum",
+    "web_results": [
+      {
+        "snippet": "Wasabi or Japanese horseradish is a plant of the family Brassicaceae, which also includes horseradish and mustard in other genera. The plant is native to Japan, the Russian Far East including Sakhalin, and the Korean Peninsula. It grows naturally along stream beds in mountain river valleys in Japan.",
+        "source": "Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Wasabi"
+      },
+      {
+        "title": "Family",
+        "snippet": "Brassicaceae",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=wasabi+family&stick=H4sIAAAAAAAAAOPgE-LVT9c3NEwqT86qSCoy1xIuLrbSL09NSktMLim2SkvMzczJXMTKW55YnJiUqQDmVwIAUZF6yzYAAAA&sa=X&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQ18AJegQIPRAB"
+      },
+      {
+        "title": "Genus",
+        "snippet": "Eutrema",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=wasabi+genus&stick=H4sIAAAAAAAAAOPgE-LVT9c3NEwqT86qSCoy1xIqLrbSL09NSktMLim2Sk_NKy1exMpTnlicmJSpAOYCAC-BHBk0AAAA&sa=X&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQ18AJegQIPhAB"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Horseradish",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmyAKcXXViSDJ7Qxki6medtG8eDdJUmqAG6OGYd6DZRkX1Vit_opwqgyZepd4mH8LrbJltRr3Xo8NPgWhL-kGXFKCIn2KLA_lSu7AjLVhphVh2sZcT3idXEdEmyzlB27aR6RDL08TK6mGhQQnTpe-qK-97wMzAQI-OanUB-FxsPV1mKGJWWzwHmxtcGhWw2yzLniji-t3xcfctFlgcUtFEgOpAoMqrQQo4ewNM6vaJM89xUG8mJXgICoqEE2xl1qwJc0PL5I%3D&q=Horseradish&sa=X&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQs9oBKAB6BAg4EAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Horseradish&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmyAKcXXViSDJ7Qxki6medtG8eDdJUmqAG6OGYd6DZRkX1Vit_opwqgyZepd4mH8LrbJltRr3Xo8NPgWhL-kGXFKCIn2KLA_lSu7AjLVhphVh2sZcT3idXEdEmyzlB27aR6RDL08TK6mGhQQnTpe-qK-97wMzAQI-OanUB-FxsPV1mKGJWWzwHmxtcGhWw2yzLniji-t3xcfctFlgcUtFEgOpAoMqrQQo4ewNM6vaJM89xUG8mJXgICoqEE2xl1qwJc0PL5I%3D",
+        "image": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/1f1c110479458ed3f86240a169aa55f58881556eeb3abfe8abed5de2caa6deb9f90153583461403a2c68df72c0cdb450.jpeg"
+      },
+      {
+        "name": "Ginger",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep6c6oRPMc4G_BTpg7skuWV0fEANmPDldUTmXlfPOmU5V9WlP80QLT0Z9x8qOdZd2tC8vlaDgRTsTWQCC6aXP2sgb4c6zd-oxGPUQPj3I_CTP05qdqs8uQuTFBvyrOAImtXPxjZo9SRx-1WrCGugp9PAvadEo-NsXTFdfHz4JZrEj6Mgwjz1Blielvp3BuhSALdXXU0ja5Iw2P3XzBLn30K5lI9cX68eNvfnM8HNZUHTRHUSFQqu6rPssnnf9tFaSABKy8TmFjxWKmm2vA0NaOMYEvsyu&q=Zingiber+officinale&sa=X&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQs9oBKAB6BAg4EAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Zingiber+officinale&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep6c6oRPMc4G_BTpg7skuWV0fEANmPDldUTmXlfPOmU5V9WlP80QLT0Z9x8qOdZd2tC8vlaDgRTsTWQCC6aXP2sgb4c6zd-oxGPUQPj3I_CTP05qdqs8uQuTFBvyrOAImtXPxjZo9SRx-1WrCGugp9PAvadEo-NsXTFdfHz4JZrEj6Mgwjz1Blielvp3BuhSALdXXU0ja5Iw2P3XzBLn30K5lI9cX68eNvfnM8HNZUHTRHUSFQqu6rPssnnf9tFaSABKy8TmFjxWKmm2vA0NaOMYEvsyu",
+        "image": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/1f1c110479458ed3f86240a169aa55f58881556eeb3abfe8abed5de2caa6deb94911e9312846a9dc884aef432627997c.jpeg"
+      },
+      {
+        "name": "Wasabina",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgNlBg0AGFyQFWYjlSttTLpMnTQMkvEWksG4UesSVB28qB_T5kdNyMSII281ibXUQTuTzyGc3pmxJkHQMTifK36BmSZvx_5G5Bmn_uA--IKHbNjFqr-u-bWGUJpT4yuuIhWVuzBuJGsfFUMViPlYUtKqXCW36h1aEN2mA2bMrTkxsul0gRQeWnJImIbOS6SLe0sA_0EjXWZnmfbVfxL1qzsPeZ0pTmlJXd8HXXznKgPOJeXhsfIFl1v1jMfnvTYAxFi6ikMkNORsMS9i6iaCK_Ij2lqNs&q=Wasabina&sa=X&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQs9oBKAB6BAg4EA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Wasabina&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgNlBg0AGFyQFWYjlSttTLpMnTQMkvEWksG4UesSVB28qB_T5kdNyMSII281ibXUQTuTzyGc3pmxJkHQMTifK36BmSZvx_5G5Bmn_uA--IKHbNjFqr-u-bWGUJpT4yuuIhWVuzBuJGsfFUMViPlYUtKqXCW36h1aEN2mA2bMrTkxsul0gRQeWnJImIbOS6SLe0sA_0EjXWZnmfbVfxL1qzsPeZ0pTmlJXd8HXXznKgPOJeXhsfIFl1v1jMfnvTYAxFi6ikMkNORsMS9i6iaCK_Ij2lqNs",
+        "image": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/1f1c110479458ed3f86240a169aa55f58881556eeb3abfe8abed5de2caa6deb995b792e665e34d8a20780c4ec33812fc.jpeg"
+      },
+      {
+        "name": "Wakame",
+        "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LyDeGywrRJQfBiNLXXuqtH-9edF-blFSkhqLXYXdaFED1P0E5EJ_91Y1a-azQNfhP8tsMW17WXHa3njd_wzfKskoYB642GPt7ZMxSVqWvaf2UiIEB4mWRhUoSO7sHl3IEX-lCBswMIvvpsszP-2fobPQJzxIPa1q2gRhZzUf_uVrZ7m3TKpd5-ppj1vhX9VdFt4TVfUq3pT3TWa9WUq5zq4DnxIGm7_77XKNgG5un7D8J861TxWBCC58ut_61V7xPtHLb4k%3D&q=Wakame&sa=X&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQs9oBKAB6BAg4EBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Wakame&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LyDeGywrRJQfBiNLXXuqtH-9edF-blFSkhqLXYXdaFED1P0E5EJ_91Y1a-azQNfhP8tsMW17WXHa3njd_wzfKskoYB642GPt7ZMxSVqWvaf2UiIEB4mWRhUoSO7sHl3IEX-lCBswMIvvpsszP-2fobPQJzxIPa1q2gRhZzUf_uVrZ7m3TKpd5-ppj1vhX9VdFt4TVfUq3pT3TWa9WUq5zq4DnxIGm7_77XKNgG5un7D8J861TxWBCC58ut_61V7xPtHLb4k%3D",
+        "image": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/1f1c110479458ed3f86240a169aa55f58881556eeb3abfe8abed5de2caa6deb9712f46f40bf0f27cd40e2e95dfd8a2ec.jpeg"
+      }
+    ]
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "The Truth About Wasabi: What You\u2019re Really Eating | \ud83c\udf3f\ud83d\udd25 Did ...",
+      "link": "https://www.facebook.com/smithsgardentown/videos/the-truth-about-wasabi-what-youre-really-eating/294666543711536/",
+      "thumbnail": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/de05dbae669738efd7a9c99c64ecc6bb80d650c083e378d9014c0ae13bffd1e0.jpeg",
+      "channel": "Smith's Gardentown",
+      "duration": "2:30",
+      "date": "May 17, 2024"
+    },
+    {
+      "position": 2,
+      "title": "Watch this before Buying Wasabi",
+      "link": "https://www.youtube.com/watch?v=aV5KjLBl16s",
+      "thumbnail": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/de05dbae669738ef3dd9bbbd20d92a04ce0d6e26901207d1ac5adaf3d4ac7978.jpeg",
+      "channel": "Spicy Moustache",
+      "duration": "8:03",
+      "date": "May 6, 2023",
+      "key_moments": [
+        {
+          "time": "01:56",
+          "title": "Climate in the Uk",
+          "link": "https://www.youtube.com/watch?v=aV5KjLBl16s&t=116",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDVM3nYSYKLJXPIc8JotFV8kOb-XPyiFZnbPwt2n_YEw&s"
+        },
+        {
+          "time": "02:37",
+          "title": "Wasabi Takes a Long Time To Grow",
+          "link": "https://www.youtube.com/watch?v=aV5KjLBl16s&t=157",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvMxqiFudPw58QufTssRCRh2VkRimPt7bBRv0vw1C4Ug&s"
+        },
+        {
+          "time": "03:38",
+          "title": "Flowering",
+          "link": "https://www.youtube.com/watch?v=aV5KjLBl16s&t=218",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmSUGqB3LzjFdjtOIiHT7dkOxORepJv32bhb8Yf3JQUQ&s"
+        },
+        {
+          "time": "06:42",
+          "title": "Slugs",
+          "link": "https://www.youtube.com/watch?v=aV5KjLBl16s&t=402",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrId1J5UHbUInQuglu4CCXM3escpmfY1W1MwqCbrNcYQ&s"
+        },
+        {
+          "time": "07:06",
+          "title": "Care",
+          "link": "https://www.youtube.com/watch?v=aV5KjLBl16s&t=426",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThANjq-n_0r9SW5SQXP74QnfeTWmnroOypv-WQ48Zmow&s"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "What is Wasabi?",
+      "link": "https://www.youtube.com/watch?v=XDviBGQd8Y0",
+      "thumbnail": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/de05dbae669738ef942ef5d9b0a13acd8b78e73d948e2bedd3077ae4e57f3374.jpeg",
+      "channel": "Carl Rosa",
+      "duration": "8:25",
+      "date": "May 13, 2024"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is wasabi made of?",
+      "snippet": "Real wasabi is made of \"Japanese horseradish\", which is the plant known as Wasabia japonica or Eutrema japonicum. This is a totally different plant to European horseradish. Fake wasabi is made of European horseradish, often with green food coloring added.",
+      "title": "Japanese horseradish",
+      "date": "Sep 12, 2024",
+      "link": "https://www.byfood.com/blog/culture/what-is-wasabi#:~:text=Real%20wasabi%20is%20made%20of,with%20green%20food%20coloring%20added.",
+      "displayed_link": "https://www.byfood.com \u203a Blog \u203a Culture",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmJVaHZiVWRrU0U1b2JYbGtWa3hUV0haNFJXNXhOV1Z4Y1Uwd01uUm1VV2R2UzNKeWRWcEhVbTVoTmkxQ1VFTkJXWHA1T0ZacFNuaFFXRTlZYWpKemVGSnVUbEl6RWhkeGFYTkxXaTB5ZGsxeVIxVTFUMDFRTVdJemIzRkJVUm9pUVVaWWNrVmpjV2RtYjBKaVNWOU9RMFF3V0hKbVVsVlBWRFF3WkZkYVZUbHFadyIsImZjdiI6IjMiLCJlaSI6InFpc0taLTJ2TXJHVTVPTVAxYjNvcUFRIiwicWMiOiJDZ1ozWVhOaFlta1FBSDFDdUMwXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB3YXNhYmkgbWFkZSBvZj8iLCJsayI6IkdoTjNhR0YwSUhkaGMyRmlhU0J0WVdSbElHOW0iLCJicyI6ImMtTXk0aElQejBnc1VjZ3NWaWhQTEU1TXlsVElUVXhKVmNoUHM1Y1FOQktWRWk0SFNhTEtjTGx3eVhrV0t4U2xKdWJBWkJLVFMwb1RjM0lxRllvTE1wTXI3U1ZtY3h2SlM4bG00bFBFNWNXbGlHWnpZbDZLUW5sR0pVZ2tzMFFoSTdfRVhxSk4ya2hKU3FHY2dEb3VIeTRsVDdnMFVLQWt0VWloSkNNeEQ4Z3VLazR0U2t6SkxNNndsemd1WmFRc3BaaEpTS0VBSXdBIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmJVaHZiVWRrU0U1b2JYbGtWa3hUV0haNFJXNXhOV1Z4Y1Uwd01uUm1VV2R2UzNKeWRWcEhVbTVoTmkxQ1VFTkJXWHA1T0ZacFNuaFFXRTlZYWpKemVGSnVUbEl6RWhkeGFYTkxXaTB5ZGsxeVIxVTFUMDFRTVdJemIzRkJVUm9pUVVaWWNrVmpjV2RtYjBKaVNWOU9RMFF3V0hKbVVsVlBWRFF3WkZkYVZUbHFadyIsImZjdiI6IjMiLCJlaSI6InFpc0taLTJ2TXJHVTVPTVAxYjNvcUFRIiwicWMiOiJDZ1ozWVhOaFlta1FBSDFDdUMwXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB3YXNhYmkgbWFkZSBvZj8iLCJsayI6IkdoTjNhR0YwSUhkaGMyRmlhU0J0WVdSbElHOW0iLCJicyI6ImMtTXk0aElQejBnc1VjZ3NWaWhQTEU1TXlsVElUVXhKVmNoUHM1Y1FOQktWRWk0SFNhTEtjTGx3eVhrV0t4U2xKdWJBWkJLVFMwb1RjM0lxRllvTE1wTXI3U1ZtY3h2SlM4bG00bFBFNWNXbGlHWnpZbDZLUW5sR0pVZ2tzMFFoSTdfRVhxSk4ya2hKU3FHY2dEb3VIeTRsVDdnMFVLQWt0VWloSkNNeEQ4Z3VLazR0U2t6SkxNNndsemd1WmFRc3BaaEpTS0VBSXdBIiwiaWQiOiJmY18xIn0%3D"
+    },
+    {
+      "question": "Is real wasabi actually spicy?",
+      "snippet": "Real wasabi is a condiment that accentuates the delicate taste of fish, enhancing it to another level. Real wasabi is not spicy. It's more like the aroma of spiciness but without the pungent punch of the mustard seed flour in the fake stuff. Fake wasabi has a very strong taste that overrules the delicate fish taste.",
+      "title": "What is Real Wasabi And Why Most Sushi Restaurants Dont Use it!",
+      "link": "https://www.makesushi.com/real-wasabi-paste/#:~:text=Real%20wasabi%20is%20a%20condiment,overrules%20the%20delicate%20fish%20taste.",
+      "displayed_link": "https://www.makesushi.com \u203a real-wasabi-paste",
+      "source_logo": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmJVaHZiVWRrU0U1b2JYbGtWa3hUV0haNFJXNXhOV1Z4Y1Uwd01uUm1VV2R2UzNKeWRWcEhVbTVoTmkxQ1VFTkJXWHA1T0ZacFNuaFFXRTlZYWpKemVGSnVUbEl6RWhkeGFYTkxXaTB5ZGsxeVIxVTFUMDFRTVdJemIzRkJVUm9pUVVaWWNrVmpjV2RtYjBKaVNWOU9RMFF3V0hKbVVsVlBWRFF3WkZkYVZUbHFadyIsImZjdiI6IjMiLCJlaSI6InFpc0taLTJ2TXJHVTVPTVAxYjNvcUFRIiwicWMiOiJDZ1ozWVhOaFlta1FBSDFDdUMwXyIsInF1ZXN0aW9uIjoiSXMgcmVhbCB3YXNhYmkgYWN0dWFsbHkgc3BpY3k/IiwibGsiOiJHaDFwY3lCeVpXRnNJSGRoYzJGaWFTQmhZM1IxWVd4c2VTQnpjR2xqZVEiLCJicyI6ImMtTXk0aElQejBnc1VjZ3NWaWhQTEU1TXlsVElUVXhKVmNoUHM1Y1FOQktWRWk0SFNhTEtjTGx3eVhrV0t4U2xKdWJBWkJLVFMwb1RjM0lxRllvTE1wTXI3U1ZtY3h2SlM4bG00bFBFNWNXbGlHWnpZbDZLUW5sR0pVZ2tzMFFoSTdfRVhxSk4ya2hKU3FHY2dEb3VIeTRsVDdnMFVLQWt0VWloSkNNeEQ4Z3VLazR0U2t6SkxNNndsemd1WmFRc3BaaEpTS0VBSXdBIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmJVaHZiVWRrU0U1b2JYbGtWa3hUV0haNFJXNXhOV1Z4Y1Uwd01uUm1VV2R2UzNKeWRWcEhVbTVoTmkxQ1VFTkJXWHA1T0ZacFNuaFFXRTlZYWpKemVGSnVUbEl6RWhkeGFYTkxXaTB5ZGsxeVIxVTFUMDFRTVdJemIzRkJVUm9pUVVaWWNrVmpjV2RtYjBKaVNWOU9RMFF3V0hKbVVsVlBWRFF3WkZkYVZUbHFadyIsImZjdiI6IjMiLCJlaSI6InFpc0taLTJ2TXJHVTVPTVAxYjNvcUFRIiwicWMiOiJDZ1ozWVhOaFlta1FBSDFDdUMwXyIsInF1ZXN0aW9uIjoiSXMgcmVhbCB3YXNhYmkgYWN0dWFsbHkgc3BpY3k%2FIiwibGsiOiJHaDFwY3lCeVpXRnNJSGRoYzJGaWFTQmhZM1IxWVd4c2VTQnpjR2xqZVEiLCJicyI6ImMtTXk0aElQejBnc1VjZ3NWaWhQTEU1TXlsVElUVXhKVmNoUHM1Y1FOQktWRWk0SFNhTEtjTGx3eVhrV0t4U2xKdWJBWkJLVFMwb1RjM0lxRllvTE1wTXI3U1ZtY3h2SlM4bG00bFBFNWNXbGlHWnpZbDZLUW5sR0pVZ2tzMFFoSTdfRVhxSk4ya2hKU3FHY2dEb3VIeTRsVDdnMFVLQWt0VWloSkNNeEQ4Z3VLazR0U2t6SkxNNndsemd1WmFRc3BaaEpTS0VBSXdBIiwiaWQiOiJmY18xIn0%3D"
+    },
+    {
+      "question": "What is wasabi and why is it hot?",
+      "snippet": "Wasabi is spicy due to an organic chemical compound found in the plant called allyl isothiocyanate. This same compound is also found in horseradish and mustard from the Brassicaceae plant family. You can sometimes react to this compound with streaming eyes and the feeling that the spice is 'going up your nose'.",
+      "title": "What Is Wasabi & How Hot Is It? - Kelly Loves",
+      "link": "https://kellyloves.com/blogs/news/what-is-wasabi#:~:text=Wasabi%20is%20spicy%20due%20to,'going%20up%20your%20nose'.",
+      "displayed_link": "https://kellyloves.com \u203a blogs \u203a news \u203a what-is-wasabi",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfqYTso5B2_dFPWRW_5k_dR7g5g_7baXJEtl6XeoOtmQ&s",
+      "source_logo": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/d6bbf3076c99424e9a339170e6ee4bc42bb1e0bf61f167dc264dce9fe94497f2.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmJVaHZiVWRrU0U1b2JYbGtWa3hUV0haNFJXNXhOV1Z4Y1Uwd01uUm1VV2R2UzNKeWRWcEhVbTVoTmkxQ1VFTkJXWHA1T0ZacFNuaFFXRTlZYWpKemVGSnVUbEl6RWhkeGFYTkxXaTB5ZGsxeVIxVTFUMDFRTVdJemIzRkJVUm9pUVVaWWNrVmpjV2RtYjBKaVNWOU9RMFF3V0hKbVVsVlBWRFF3WkZkYVZUbHFadyIsImZjdiI6IjMiLCJlaSI6InFpc0taLTJ2TXJHVTVPTVAxYjNvcUFRIiwicWMiOiJDZ1ozWVhOaFlta1FBSDFDdUMwXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB3YXNhYmkgYW5kIHdoeSBpcyBpdCBob3Q/IiwibGsiOiJjNU5TS005SUxGSElMRllvVHl4T1RNcFVTTXhMQVFwVmdrUXlTeFF5OGtzQSIsImJzIjoiYy1NeTRoSVB6MGdzVWNnc1ZpaFBMRTVNeWxUSVRVeEpWY2hQczVjUU5CS1ZFaTRIU2FMS2NMbHd5WGtXS3hTbEp1YkFaQktUUzBvVGMzSXFGWW9MTXBNcjdTVm1jeHZKUzhsbTRsUEU1Y1dsaUdaellsNktRbmxHSlVna3MwUWhJN19FWHFKTjJraEpTcUdjZ0RvdUh5NGxUN2cwVUtBa3RVaWhKQ014RDhndUtrNHRTa3pKTE02d2x6Z3VaYVFzcFpoSlNLRUFJd0EiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmJVaHZiVWRrU0U1b2JYbGtWa3hUV0haNFJXNXhOV1Z4Y1Uwd01uUm1VV2R2UzNKeWRWcEhVbTVoTmkxQ1VFTkJXWHA1T0ZacFNuaFFXRTlZYWpKemVGSnVUbEl6RWhkeGFYTkxXaTB5ZGsxeVIxVTFUMDFRTVdJemIzRkJVUm9pUVVaWWNrVmpjV2RtYjBKaVNWOU9RMFF3V0hKbVVsVlBWRFF3WkZkYVZUbHFadyIsImZjdiI6IjMiLCJlaSI6InFpc0taLTJ2TXJHVTVPTVAxYjNvcUFRIiwicWMiOiJDZ1ozWVhOaFlta1FBSDFDdUMwXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB3YXNhYmkgYW5kIHdoeSBpcyBpdCBob3Q%2FIiwibGsiOiJjNU5TS005SUxGSElMRllvVHl4T1RNcFVTTXhMQVFwVmdrUXlTeFF5OGtzQSIsImJzIjoiYy1NeTRoSVB6MGdzVWNnc1ZpaFBMRTVNeWxUSVRVeEpWY2hQczVjUU5CS1ZFaTRIU2FMS2NMbHd5WGtXS3hTbEp1YkFaQktUUzBvVGMzSXFGWW9MTXBNcjdTVm1jeHZKUzhsbTRsUEU1Y1dsaUdaellsNktRbmxHSlVna3MwUWhJN19FWHFKTjJraEpTcUdjZ0RvdUh5NGxUN2cwVUtBa3RVaWhKQ014RDhndUtrNHRTa3pKTE02d2x6Z3VaYVFzcFpoSlNLRUFJd0EiLCJpZCI6ImZjXzEifQ%3D%3D"
+    },
+    {
+      "question": "Is wasabi hotter than horseradish?",
+      "snippet": "However, horseradish is 1.5 times spicier than real wasabi which help delivers the pungency that many customers love. Real wasabi has a milder pungency and has a sweet aftertaste which horseradish lacks. But most of all, horseradish is much cheaper than wasabi and can be mass produced to meet the worldwide demand.",
+      "title": "Wasabi vs Horseradish? Wait what?!?!",
+      "link": "https://www.kinjirushiusa.com/wasabi-vs-horseradish-wait-what/#:~:text=However%2C%20horseradish%20is%201.5%20times,to%20meet%20the%20worldwide%20demand.",
+      "displayed_link": "https://www.kinjirushiusa.com \u203a wasabi-vs-horseradish-w...",
+      "source_logo": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/d6bbf3076c99424e9a339170e6ee4bc4ddd3e2d2e592982651184de058117084.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmJVaHZiVWRrU0U1b2JYbGtWa3hUV0haNFJXNXhOV1Z4Y1Uwd01uUm1VV2R2UzNKeWRWcEhVbTVoTmkxQ1VFTkJXWHA1T0ZacFNuaFFXRTlZYWpKemVGSnVUbEl6RWhkeGFYTkxXaTB5ZGsxeVIxVTFUMDFRTVdJemIzRkJVUm9pUVVaWWNrVmpjV2RtYjBKaVNWOU9RMFF3V0hKbVVsVlBWRFF3WkZkYVZUbHFadyIsImZjdiI6IjMiLCJlaSI6InFpc0taLTJ2TXJHVTVPTVAxYjNvcUFRIiwicWMiOiJDZ1ozWVhOaFlta1FBSDFDdUMwXyIsInF1ZXN0aW9uIjoiSXMgd2FzYWJpIGhvdHRlciB0aGFuIGhvcnNlcmFkaXNoPyIsImxrIjoiR2lGcGN5QjNZWE5oWW1rZ2FHOTBkR1Z5SUhSb1lXNGdhRzl5YzJWeVlXUnBjMmciLCJicyI6ImMtTXk0aElQejBnc1VjZ3NWaWhQTEU1TXlsVElUVXhKVmNoUHM1Y1FOQktWRWk0SFNhTEtjTGx3eVhrV0t4U2xKdWJBWkJLVFMwb1RjM0lxRllvTE1wTXI3U1ZtY3h2SlM4bG00bFBFNWNXbGlHWnpZbDZLUW5sR0pVZ2tzMFFoSTdfRVhxSk4ya2hKU3FHY2dEb3VIeTRsVDdnMFVLQWt0VWloSkNNeEQ4Z3VLazR0U2t6SkxNNndsemd1WmFRc3BaaEpTS0VBSXdBIiwiaWQiOiJmY18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210TmJVaHZiVWRrU0U1b2JYbGtWa3hUV0haNFJXNXhOV1Z4Y1Uwd01uUm1VV2R2UzNKeWRWcEhVbTVoTmkxQ1VFTkJXWHA1T0ZacFNuaFFXRTlZYWpKemVGSnVUbEl6RWhkeGFYTkxXaTB5ZGsxeVIxVTFUMDFRTVdJemIzRkJVUm9pUVVaWWNrVmpjV2RtYjBKaVNWOU9RMFF3V0hKbVVsVlBWRFF3WkZkYVZUbHFadyIsImZjdiI6IjMiLCJlaSI6InFpc0taLTJ2TXJHVTVPTVAxYjNvcUFRIiwicWMiOiJDZ1ozWVhOaFlta1FBSDFDdUMwXyIsInF1ZXN0aW9uIjoiSXMgd2FzYWJpIGhvdHRlciB0aGFuIGhvcnNlcmFkaXNoPyIsImxrIjoiR2lGcGN5QjNZWE5oWW1rZ2FHOTBkR1Z5SUhSb1lXNGdhRzl5YzJWeVlXUnBjMmciLCJicyI6ImMtTXk0aElQejBnc1VjZ3NWaWhQTEU1TXlsVElUVXhKVmNoUHM1Y1FOQktWRWk0SFNhTEtjTGx3eVhrV0t4U2xKdWJBWkJLVFMwb1RjM0lxRllvTE1wTXI3U1ZtY3h2SlM4bG00bFBFNWNXbGlHWnpZbDZLUW5sR0pVZ2tzMFFoSTdfRVhxSk4ya2hKU3FHY2dEb3VIeTRsVDdnMFVLQWt0VWloSkNNeEQ4Z3VLazR0U2t6SkxNNndsemd1WmFRc3BaaEpTS0VBSXdBIiwiaWQiOiJmY18xIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Store More and Do More with Your Data | Wasabi",
+      "link": "https://wasabi.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wasabi.com/&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQFnoECBQQAQ",
+      "displayed_link": "https://wasabi.com",
+      "favicon": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/7f49170ce32d474a38dee535220dd18ac718dc2cc4b976894db4e371c2063d6e.png",
+      "snippet": "Wasabi is on a mission to store the world's data by making cloud storage affordable, predictable, and secure with no fees for egress or API requests.",
+      "snippet_highlighted_words": [
+        "Wasabi"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Pricing",
+            "link": "https://wasabi.com/pricing"
+          },
+          {
+            "title": "About Wasabi",
+            "link": "https://wasabi.com/company"
+          },
+          {
+            "title": "Wasabi Hot Cloud Storage",
+            "link": "https://wasabi.com/cloud-object-storage"
+          },
+          {
+            "title": "Wasabi Academy",
+            "link": "https://docs.wasabi.com/"
+          }
+        ]
+      },
+      "source": "Wasabi Technologies"
+    },
+    {
+      "position": 2,
+      "title": "Wasabi",
+      "link": "https://en.wikipedia.org/wiki/Wasabi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Wasabi&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQFnoECBgQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Wasabi",
+      "thumbnail": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/7f49170ce32d474a38dee535220dd18af876a5ba7d15ef791f30a2d60c03c124.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/7f49170ce32d474a38dee535220dd18a397f84eae60926411cc354c1d6737c8e.png",
+      "snippet": "Wasabi is grown for its rhizomes, which are ground into a paste as a pungent condiment for sushi and other foods. It is similar in taste to hot mustard or ...",
+      "snippet_highlighted_words": [
+        "Wasabi"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Wasabi (disambiguation)",
+            "link": "https://en.wikipedia.org/wiki/Wasabi_(disambiguation)"
+          },
+          {
+            "title": "Horseradish",
+            "link": "https://en.wikipedia.org/wiki/Horseradish"
+          },
+          {
+            "title": "Shagreen",
+            "link": "https://en.wikipedia.org/wiki/Shagreen"
+          },
+          {
+            "title": "Sake kasu",
+            "link": "https://en.wikipedia.org/wiki/Sake_kasu"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 3,
+      "title": "What Is Wasabi? Facts, History & Taste - byFood",
+      "link": "https://www.byfood.com/blog/culture/what-is-wasabi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.byfood.com/blog/culture/what-is-wasabi&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQFnoECE8QAQ",
+      "displayed_link": "https://www.byfood.com \u203a Blog \u203a Culture",
+      "thumbnail": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/7f49170ce32d474a38dee535220dd18aaea1214df75fd035bd8301665ab12c1b.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/7f49170ce32d474a38dee535220dd18a95531165adc49833d781ffb785ff1fc5.png",
+      "date": "Sep 12, 2024",
+      "snippet": "Wasabi is the spicy horseradish condiment from Japan that's best known as an accompaniment for sushi, sashimi, Japanese noodle dishes (like udon), and more.",
+      "snippet_highlighted_words": [
+        "Wasabi"
+      ],
+      "source": "byfood.com"
+    },
+    {
+      "position": 4,
+      "title": "Authentic Japanese Shizuoka Wasabi paste 42g. Imported ...",
+      "link": "https://www.amazon.com/Authentic-Japanese-Shizuoka-Wasabi-Tamaruya/dp/B008D3079K",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/Authentic-Japanese-Shizuoka-Wasabi-Tamaruya/dp/B008D3079K&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQFnoECFoQAQ",
+      "displayed_link": "https://www.amazon.com \u203a Authentic-Japanese-Shizuok...",
+      "thumbnail": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/7f49170ce32d474a38dee535220dd18a4f46ccf0d61b427e45634c997c644006.jpeg",
+      "favicon": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/7f49170ce32d474a38dee535220dd18ae8099079d7f7c6bd143995a732ad53c1.png",
+      "snippet": "Authentic Japanese Shizuoka Wasabi paste 42g. Imported from Japan by Tamaruya.",
+      "snippet_highlighted_words": [
+        "Wasabi"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 30,
+            "price": 6.99,
+            "currency": "$ delivery"
+          },
+          "extensions": [
+            "4.5(1,362)",
+            "$7.90",
+            "\u200e$6.99 delivery",
+            "\u200e30",
+            "day returns",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Amazon.com"
+    },
+    {
+      "position": 5,
+      "title": "Pure Namida Wasabi Powder",
+      "link": "https://www.thespicehouse.com/products/pure-wasabi-powder?srsltid=AfmBOop0vczRjpuGuhDARcoZqFaWM5X7QB1-ENP2UitXHJZUg6_JWmZD",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thespicehouse.com/products/pure-wasabi-powder%3Fsrsltid%3DAfmBOop0vczRjpuGuhDARcoZqFaWM5X7QB1-ENP2UitXHJZUg6_JWmZD&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQFnoECFsQAQ",
+      "displayed_link": "https://www.thespicehouse.com \u203a products \u203a pure-wasa...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxB8J0a5FlZyu-xMbxJ_YiuyAr1la4WHXOuuky4cYS4uu0jZtUFWbh&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/7f49170ce32d474a38dee535220dd18a017bd5278e43757102408e7871c741d8.png",
+      "snippet": "Namida wasabi powder has a delicate aroma and a pungent flavor. This pure wasabi powder delivers an authentic sushi experience. Buy namida wasabi here.",
+      "snippet_highlighted_words": [
+        "wasabi",
+        "wasabi",
+        "wasabi"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 30,
+            "price": 13.99,
+            "currency": "$",
+            "free_day_delivery": 6
+          },
+          "extensions": [
+            "5.0(1)",
+            "$13.99",
+            "\u200eFree 6\u20137 day delivery",
+            "\u200e30",
+            "day returns",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "The Spice House"
+    },
+    {
+      "position": 6,
+      "title": "Wasabi Japanese Steakhouse",
+      "link": "https://www.restaurantwasabi.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.restaurantwasabi.com/&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQFnoECE0QAQ",
+      "displayed_link": "https://www.restaurantwasabi.com",
+      "favicon": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/7f49170ce32d474a38dee535220dd18aae431c6ac499b4754efa6b3b176d34e6.png",
+      "snippet": "Wasabi Steakhouse is Northeast Ohio's best Japanese restaurant for Hibachi, Sushi and Asian Cuisine throughout Beachwood, Akron and Canton.",
+      "snippet_highlighted_words": [
+        "Wasabi"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Menu",
+            "link": "https://www.restaurantwasabi.com/menu/"
+          },
+          {
+            "title": "Independence Contact & Hours",
+            "link": "https://www.restaurantwasabi.com/independence/contact-independence/"
+          },
+          {
+            "title": "Canton Contact & Hours",
+            "link": "https://www.restaurantwasabi.com/canton/contact-canton/"
+          },
+          {
+            "title": "Akron Specials",
+            "link": "https://www.restaurantwasabi.com/akron-specials/"
+          }
+        ]
+      },
+      "source": "restaurantwasabi.com"
+    },
+    {
+      "position": 7,
+      "title": "Wasabi Hot Cloud Storage Pricing",
+      "link": "https://wasabi.com/pricing",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wasabi.com/pricing&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQFnoECE4QAQ",
+      "displayed_link": "https://wasabi.com \u203a pricing",
+      "favicon": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/7f49170ce32d474a38dee535220dd18a1c0973a999996e6620ea23bc63ba1110.png",
+      "snippet": "Predictable and affordable cloud storage pricing that's up to 80% less than the hyperscalers. Pay as You Go. Starting at $6.99 TB/month.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Pricing FAQs",
+            "link": "https://wasabi.com/pricing/faq"
+          },
+          {
+            "title": "Support Plans",
+            "link": "https://wasabi.com/pricing/support-plans"
+          },
+          {
+            "title": "Reserved Capacity Storage",
+            "link": "https://wasabi.com/pricing/rcs"
+          },
+          {
+            "title": "Contact Sales",
+            "link": "https://wasabi.com/contact-us/pricing"
+          }
+        ]
+      },
+      "source": "Wasabi Technologies"
+    },
+    {
+      "position": 8,
+      "title": "Prepared Wasabi in Tube, Family Size, 3.17 oz (90 g)",
+      "link": "https://www.amazon.com/Prepared-Wasabi-Family-Bamboo-Chopstick/dp/B07BTPGXN5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/Prepared-Wasabi-Family-Bamboo-Chopstick/dp/B07BTPGXN5&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQFnoECFYQAQ",
+      "displayed_link": "https://www.amazon.com \u203a Prepared-Wasabi-Family-Ba...",
+      "favicon": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/7f49170ce32d474a38dee535220dd18af232ec624950afca1213027c0474e80e.png",
+      "snippet": "Prepared Wasabi in Tube, Family Size, 3.17 oz (90 g) \u00b7 Unlock 5% savings \u00b7 Choose how often it's delivered \u00b7 Skip or cancel any time \u00b7 Unlock 5% savings.",
+      "snippet_highlighted_words": [
+        "Wasabi"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "unknown": 30,
+            "price": 6.99,
+            "currency": "$ delivery"
+          },
+          "extensions": [
+            "4.6(2,216)",
+            "$6.99",
+            "\u200e$6.99 delivery",
+            "\u200e30",
+            "day returns",
+            "\u200eIn stock"
+          ]
+        }
+      },
+      "source": "Amazon.com"
+    },
+    {
+      "position": 9,
+      "title": "Wasabi Landing page",
+      "link": "https://wasabidsm.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wasabidsm.com/&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQFnoECEoQAQ",
+      "displayed_link": "https://wasabidsm.com",
+      "favicon": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/7f49170ce32d474a38dee535220dd18a12677946090f344cf244f3fba980bc81.png",
+      "snippet": "HOME \u00b7 MENU \u00b7 DRINKS \u00b7 SPECIALS \u00b7 EVENTS \u00b7 ORDER \u00b7 RESERVATIONS \u00b7 CATERING \u00b7 JOBS. Wasabi LANDING. VisitAmes-Southwebsite \u00b7 VisitDes Moineswebsite.",
+      "snippet_highlighted_words": [
+        "Wasabi"
+      ],
+      "source": "wasabidsm.com"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Wasabi restaurant",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Wasabi+restaurant&sa=X&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQ1QJ6BAh0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Wasabi+restaurant"
+    },
+    {
+      "block_position": 1,
+      "query": "Wasabi paste",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Wasabi+paste&sa=X&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQ1QJ6BAhmEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Wasabi+paste"
+    },
+    {
+      "block_position": 1,
+      "query": "Wasabi sauce",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Wasabi+sauce&sa=X&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQ1QJ6BAhpEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Wasabi+sauce"
+    },
+    {
+      "block_position": 1,
+      "query": "Wasabi menu",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Wasabi+menu&sa=X&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQ1QJ6BAhtEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Wasabi+menu"
+    },
+    {
+      "block_position": 1,
+      "query": "Wasabi Cloud",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Wasabi+Cloud&sa=X&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQ1QJ6BAhuEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Wasabi+Cloud"
+    },
+    {
+      "block_position": 1,
+      "query": "Wasabi benefits",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Wasabi+benefits&sa=X&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQ1QJ6BAhxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Wasabi+benefits"
+    },
+    {
+      "block_position": 1,
+      "query": "Wasabi recipe",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Wasabi+recipe&sa=X&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQ1QJ6BAhqEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Wasabi+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Wasabi taste",
+      "link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=Wasabi+taste&sa=X&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQ1QJ6BAhyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Wasabi+taste"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Taste",
+        "subtitle": "What Does Wasabi Taste Like?",
+        "title": "What Is Wasabi? Here's Everything You Should Know - Taste of Home",
+        "link": "https://www.tasteofhome.com/article/what-is-wasabi/#:~:text=What%20does%20wasabi%20taste%20like,fish's%20flavor%2C%20not%20cover%20it.",
+        "displayed_link": "https://www.tasteofhome.com \u203a article \u203a what-is-wasabi",
+        "date": "Jan 3, 2024",
+        "snippet": "What does wasabi taste like? Real fresh-grated wasabi tastes bright and green with a touch of quickly fading heat. It is pungent, yet delicate enough to let the flavor of raw fish shine. The hit of heat provided by the wasabi served with sushi is meant to highlight fish's flavor, not cover it.",
+        "snippet_highlighted_words": [
+          "bright and green with a touch of quickly fading heat"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/1b24ac797f30fe6f142e2274ba4e41de86000ea9755fe9aa735e1ee3610d9e4a7efe8d066884eb5a.png",
+        "source": "tasteofhome.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-wviP6-eRAtIbfSWXGfkM3B-h-DrwCwpzJe9EJ3YQ0QU&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=what+does+wasabi+taste+like&sa=X&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQrooIegQIHhAI",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+does+wasabi+taste+like"
+      },
+      {
+        "text": "Health benefits",
+        "subtitle": "What Are The Health Benefits Of Wasabi",
+        "title": "10 Surprising Health Benefits of Wasabi | byFood",
+        "link": "https://www.byfood.com/blog/wasabi-health-benefits-p-508",
+        "displayed_link": "https://www.byfood.com \u203a blog \u203a wasabi-health-benefits...",
+        "date": "Jul 11, 2023",
+        "snippet": "10 Health Benefits of Wasabi",
+        "snippet_highlighted_words": [
+          "10 Health Benefits of Wasabi"
+        ],
+        "list": [
+          "Wasabi boosts the immune system.",
+          "It can improve gut health.",
+          "Wasabi can help with bone health.",
+          "It may reduce the risk of cancer.",
+          "Wasabi supports heart health.",
+          "It has anti-inflammatory properties.",
+          "It has antibacterial properties.",
+          "Wasabi can help alleviate seasonal allergies."
+        ],
+        "favicon": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/1b24ac797f30fe6f142e2274ba4e41de09eb548df5c1aae9e023b1c58e1f636ac81148f2208970f4.png",
+        "source": "byfood.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=what+are+the+health+benefits+of+wasabi&sa=X&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQrooIegQIHhAN",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+are+the+health+benefits+of+wasabi"
+      },
+      {
+        "text": "Rarity",
+        "subtitle": "Why Is Real Wasabi So Rare?",
+        "title": "What Is Wasabi? Facts, History & Taste - byFood",
+        "link": "https://www.byfood.com/blog/culture/what-is-wasabi#:~:text=Real%20wasabi%20is%20incredibly%20expensive,along%20the%20river%20stream%20beds.",
+        "displayed_link": "https://www.byfood.com \u203a blog \u203a culture \u203a what-is-wasabi",
+        "date": "Sep 12, 2024",
+        "snippet": "Real wasabi is incredibly expensive because wasabi plants are notoriously difficult to grow and require very specific conditions. In Japan, the wasabi plant grows naturally in areas that have mountain river valleys, where it can grow along the river stream beds.",
+        "snippet_highlighted_words": [
+          "wasabi plants are notoriously difficult to grow and require very specific conditions"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/1b24ac797f30fe6f142e2274ba4e41de82ca87b43ba9d95de839112f203941347a9c63969715a239.png",
+        "source": "byfood.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9WNhJVN_WkYaH4PUu3-I5APo0uD8VbJ6OaCSW2vCsvIs&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=why+is+real+wasabi+so+rare&sa=X&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQrooIegQIHhAV",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=why+is+real+wasabi+so+rare"
+      },
+      {
+        "text": "Spicy or sour",
+        "subtitle": "Is Wasabi Spicy Or Sour?",
+        "title": "What Is Wasabi & How Hot Is It? - Kelly Loves",
+        "link": "https://kellyloves.com/blogs/news/what-is-wasabi#:~:text=Wasabi%20is%20spicy%20due%20to,from%20the%20Brassicaceae%20plant%20family.",
+        "displayed_link": "https://kellyloves.com \u203a blogs \u203a news \u203a what-is-wasabi",
+        "snippet": "Wasabi is spicy due to an organic chemical compound found in the plant called allyl isothiocyanate. This same compound is also found in horseradish and mustard from the Brassicaceae plant family.",
+        "snippet_highlighted_words": [
+          "spicy"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/1b24ac797f30fe6f142e2274ba4e41de38b435fef052fe59ad75aa1c2ebee2740ffe68d81ba3e36e.png",
+        "source": "kellyloves.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=is+wasabi+spicy+or+sour&sa=X&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQrooIegQIHhAa",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=is+wasabi+spicy+or+sour"
+      },
+      {
+        "text": "Spiciness",
+        "subtitle": "What Makes Wasabi Spicy",
+        "title": "What is wasabi and why does it have such a spicy kick? - USA Today",
+        "link": "https://www.usatoday.com/story/life/health-wellness/2024/02/02/what-is-wasabi/72295644007/#:~:text=Wasabi%20gets%20this%20kick%20from,products%20have%20a%20similar%20kick.",
+        "displayed_link": "https://www.usatoday.com \u203a health-wellness \u203a 2024/02/02",
+        "date": "Feb 2, 2024",
+        "snippet": "Wasabi gets this kick from an organic chemical compound called allyl isothiocyanate - a compound that's also found in the same plant family that horseradish and hot mustard come from, explaining why all three products have a similar kick.",
+        "snippet_highlighted_words": [
+          "an organic chemical compound called allyl isothiocyanate"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/1b24ac797f30fe6f142e2274ba4e41debb778f2bf9ff9c6fb021a843448a0ead6679a1b4a0166cb9.png",
+        "source": "usatoday.com",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=what+makes+wasabi+spicy&sa=X&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQrooIegQIHhAg",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+makes+wasabi+spicy"
+      },
+      {
+        "text": "How do you eat",
+        "subtitle": "How Do You Eat Wasabi",
+        "title": "Eating Sushi with Wasabi | Asian Fusion Restaurant Sarasota",
+        "link": "https://www.tsunami-sarasota.com/eating-sushi-with-wasabi-a-quick-how-to-guide/#:~:text=The%20best%20option%20is%20to,see%20what%20side%20you%20prefer.&text=If%20you%20try%20wasabi%20and,can%20dip%20your%20sushi%20in.",
+        "displayed_link": "https://www.tsunami-sarasota.com \u203a eating-sushi-with-wa...",
+        "date": "Oct 1, 2022",
+        "snippet": "The best option is to dab some on one end and dip it in soy sauce on the other. Eat your sushi in one bite, and see what side you prefer. If you try wasabi and find it's just too strong for your liking, there are other sauces you can dip your sushi in.",
+        "snippet_highlighted_words": [
+          "dab some on one end and dip it in soy sauce on the other"
+        ],
+        "favicon": "https://serpapi.com/searches/670a2baab57db8cac61f97c4/images/1b24ac797f30fe6f142e2274ba4e41deb12582343027e531fccfa9fda340a339c6cbde506a57ef92.png",
+        "source": "tsunami-sarasota.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjKFU2iAohbDnMg0SfO7FHziHEDTaFA1zTXZiCM4gSRh8&s",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=how+do+you+eat+wasabi&sa=X&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQrooIegQIHhAo",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+do+you+eat+wasabi"
+      },
+      {
+        "text": "Pronunciation",
+        "subtitle": "How To Pronounce Wasabi",
+        "thumbnail": "https://ssl.gstatic.com/dictionary/static/pronunciation/20180801/desktop/sil.svg",
+        "search_link": "https://www.google.com/search?sca_esv=8568a6baa21243e5&hl=en&gl=us&q=How+to+pronounce+Wasabi&si=ACC90nwPE8L87YB--2DvJei_pdRx6J6lIqzfxOybq5TXKBbOcsvbJfSv4I8nkojN7JeKCCdrbNKsKj9siJUr92Y3Ixfv3M0f2Gem01laaBAQS6toM2glArK6Gmb21QS2ZEFs8TuL6SR_M0SXeExUejNyUEFm4KgxYg%3D%3D&sa=X&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQrooIegQIHhAt",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=How+to+pronounce+Wasabi&si=ACC90nwPE8L87YB--2DvJei_pdRx6J6lIqzfxOybq5TXKBbOcsvbJfSv4I8nkojN7JeKCCdrbNKsKj9siJUr92Y3Ixfv3M0f2Gem01laaBAQS6toM2glArK6Gmb21QS2ZEFs8TuL6SR_M0SXeExUejNyUEFm4KgxYg%3D%3D"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=wasabi&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=qisKZ-2vMrGU5OMP1b3oqAQ&start=10&sa=N&sstk=Aagrsug0tzqXnhyV6v3vuepiH1ksT2tQ_Vs-eCCXNhAy5KzHRIrTfny1JvmKT9Kwea9g3nNjveLRioNeyAAqSAweBmWWwp-RWYVxqQ&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQ8NMDegQIHRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=wasabi&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=qisKZ-2vMrGU5OMP1b3oqAQ&start=10&sa=N&sstk=Aagrsug0tzqXnhyV6v3vuepiH1ksT2tQ_Vs-eCCXNhAy5KzHRIrTfny1JvmKT9Kwea9g3nNjveLRioNeyAAqSAweBmWWwp-RWYVxqQ&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQ8tMDegQIHRAE",
+      "3": "https://www.google.com/search?q=wasabi&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=qisKZ-2vMrGU5OMP1b3oqAQ&start=20&sa=N&sstk=Aagrsug0tzqXnhyV6v3vuepiH1ksT2tQ_Vs-eCCXNhAy5KzHRIrTfny1JvmKT9Kwea9g3nNjveLRioNeyAAqSAweBmWWwp-RWYVxqQ&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQ8tMDegQIHRAG",
+      "4": "https://www.google.com/search?q=wasabi&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=qisKZ-2vMrGU5OMP1b3oqAQ&start=30&sa=N&sstk=Aagrsug0tzqXnhyV6v3vuepiH1ksT2tQ_Vs-eCCXNhAy5KzHRIrTfny1JvmKT9Kwea9g3nNjveLRioNeyAAqSAweBmWWwp-RWYVxqQ&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQ8tMDegQIHRAI",
+      "5": "https://www.google.com/search?q=wasabi&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=qisKZ-2vMrGU5OMP1b3oqAQ&start=40&sa=N&sstk=Aagrsug0tzqXnhyV6v3vuepiH1ksT2tQ_Vs-eCCXNhAy5KzHRIrTfny1JvmKT9Kwea9g3nNjveLRioNeyAAqSAweBmWWwp-RWYVxqQ&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQ8tMDegQIHRAK",
+      "6": "https://www.google.com/search?q=wasabi&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=qisKZ-2vMrGU5OMP1b3oqAQ&start=50&sa=N&sstk=Aagrsug0tzqXnhyV6v3vuepiH1ksT2tQ_Vs-eCCXNhAy5KzHRIrTfny1JvmKT9Kwea9g3nNjveLRioNeyAAqSAweBmWWwp-RWYVxqQ&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQ8tMDegQIHRAM",
+      "7": "https://www.google.com/search?q=wasabi&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=qisKZ-2vMrGU5OMP1b3oqAQ&start=60&sa=N&sstk=Aagrsug0tzqXnhyV6v3vuepiH1ksT2tQ_Vs-eCCXNhAy5KzHRIrTfny1JvmKT9Kwea9g3nNjveLRioNeyAAqSAweBmWWwp-RWYVxqQ&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQ8tMDegQIHRAO",
+      "8": "https://www.google.com/search?q=wasabi&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=qisKZ-2vMrGU5OMP1b3oqAQ&start=70&sa=N&sstk=Aagrsug0tzqXnhyV6v3vuepiH1ksT2tQ_Vs-eCCXNhAy5KzHRIrTfny1JvmKT9Kwea9g3nNjveLRioNeyAAqSAweBmWWwp-RWYVxqQ&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQ8tMDegQIHRAQ",
+      "9": "https://www.google.com/search?q=wasabi&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=qisKZ-2vMrGU5OMP1b3oqAQ&start=80&sa=N&sstk=Aagrsug0tzqXnhyV6v3vuepiH1ksT2tQ_Vs-eCCXNhAy5KzHRIrTfny1JvmKT9Kwea9g3nNjveLRioNeyAAqSAweBmWWwp-RWYVxqQ&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQ8tMDegQIHRAS",
+      "10": "https://www.google.com/search?q=wasabi&sca_esv=8568a6baa21243e5&hl=en&gl=us&ei=qisKZ-2vMrGU5OMP1b3oqAQ&start=90&sa=N&sstk=Aagrsug0tzqXnhyV6v3vuepiH1ksT2tQ_Vs-eCCXNhAy5KzHRIrTfny1JvmKT9Kwea9g3nNjveLRioNeyAAqSAweBmWWwp-RWYVxqQ&ved=2ahUKEwjtrL2Gr4iJAxUxCnkGHdUeGkUQ8tMDegQIHRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wasabi&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wasabi&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wasabi&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wasabi&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wasabi&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wasabi&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wasabi&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wasabi&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wasabi&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wasabi&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=wasabi&start=90"
+    }
+  }
+}

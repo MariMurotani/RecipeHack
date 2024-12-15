@@ -1,0 +1,731 @@
+{
+  "search_metadata": {
+    "id": "670a307fbb55ff0ef6a85122",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7e0dfb88847e129c/670a307fbb55ff0ef6a85122.json",
+    "created_at": "2024-10-12 08:17:03 UTC",
+    "processed_at": "2024-10-12 08:17:03 UTC",
+    "google_url": "https://www.google.com/search?q=ravioli&oq=ravioli&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/7e0dfb88847e129c/670a307fbb55ff0ef6a85122.html",
+    "total_time_taken": 3.52
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "ravioli",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "ravioli",
+    "total_results": 81400000,
+    "time_taken_displayed": 0.37,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=ravioli&npsic=0&rflfq=1&rldoc=1&rllag=30290817,-97739174,2847&tbm=lcl&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQtgN6BQiFARAC",
+    "image": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/a4a79d0bf4782bdbc78d7abe16cd9159.png",
+    "gps_coordinates": {
+      "latitude": 30.290817,
+      "longitude": -97.739174
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.8,
+        "reviews_original": "(286)",
+        "reviews": 286,
+        "description": "\"Meatballs, raviolis, and risotto are amazing and the service was perfect.\"",
+        "lsig": "AB86z5UyaTG3PIAk65byq47UPQN9",
+        "thumbnail": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/9961ffc07b22dca9688df14aa1764b40f4d39e48f3dee6664b1923f194de86a69ca3d34e9432e0da.jpeg",
+        "title": "Sapori Italian Roots",
+        "type": "Restaurant",
+        "address": "800 Brazos St ste 215",
+        "hours": "Closed \u22c5 Opens 11 AM",
+        "place_id": "1980105960025349979",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=1980105960025349979&q=ravioli",
+        "gps_coordinates": {
+          "latitude": 30.269691,
+          "longitude": -97.74125
+        }
+      },
+      {
+        "position": 2,
+        "rating": 4.5,
+        "reviews_original": "(2.9K)",
+        "reviews": 2900,
+        "description": "\"Their ravioli was super fresh, made in-house and to die for.\"",
+        "lsig": "AB86z5UaqbwmM0V06r_i1pabt0AF",
+        "thumbnail": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/9961ffc07b22dca9688df14aa1764b4023e3621bc7d3f3b8b270b6b7202d02a0049493c5bd088384.jpeg",
+        "title": "Mandola's Italian Kitchen",
+        "type": "Italian",
+        "address": "4700 W Guadalupe St #12",
+        "hours": "Closed \u22c5 Opens 11 AM",
+        "place_id": "12453621779421117315",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=12453621779421117315&q=ravioli",
+        "gps_coordinates": {
+          "latitude": 30.315968,
+          "longitude": -97.73357
+        }
+      },
+      {
+        "position": 3,
+        "rating": 4.6,
+        "reviews_original": "(1.9K)",
+        "reviews": 1900,
+        "description": "\"I had the bone marrow appetizer and the pork and veal ravioli.\"",
+        "lsig": "AB86z5VPvM89ts3fKmv4UKHOLcnj",
+        "thumbnail": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/9961ffc07b22dca9688df14aa1764b40d1124f9632a85e485c10447f1b7668e3e505f3726c0ded1e.jpeg",
+        "title": "Red Ash",
+        "type": "Italian",
+        "address": "Colorado Tower, 303 Colorado St #200",
+        "hours": "Closed \u22c5 Opens 5 PM",
+        "place_id": "781942648408772286",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&ludocid=781942648408772286&q=ravioli",
+        "gps_coordinates": {
+          "latitude": 30.265625,
+          "longitude": -97.7448
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=ravioli&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQjGp6BQiGARAB"
+  },
+  "knowledge_graph": {
+    "title": "Ravioli",
+    "type": "Stuffed pasta",
+    "entity_type": "food, lightweight_vertical, foods_and_dishes",
+    "kgmid": "/m/02wf2z",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/02wf2z&hl=en-US&q=Ravioli",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F02wf2z&location=Austin%2CTexas%2CUnited+States&q=Ravioli",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/0da303df80aeca7e9e59491ff18b2fdc040efb7cb89d1be1263557f190daf3eac2ec75410474ec6f.jpeg",
+        "source": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQrlAWOf8Qhiro6UlacQ66bN8XHJnUWFv3p37LdNMQbxxe_q4x02TSHWM6MtohPMrkx"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/0da303df80aeca7e9e59491ff18b2fdc040efb7cb89d1be1f8de07a96814c1f7c80eb48f7e965df4.jpeg",
+        "source": "https://cooking.nytimes.com/recipes/1024627-ravioli"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/0da303df80aeca7e9e59491ff18b2fdc040efb7cb89d1be1c3bc3a349375ab9953d874949afa84d9.jpeg",
+        "source": "https://www.supperwithmichelle.com/2020/05/creamy-sun-dried-tomato-and-spinach-ravioli/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/0da303df80aeca7e9e59491ff18b2fdc040efb7cb89d1be198649cc5c2d144ef626862741c82a18b.jpeg",
+        "source": "https://www.delallo.com/recipe/homemade-ricotta-spinach-filled-ravioli/"
+      },
+      {
+        "image": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/0da303df80aeca7e9e59491ff18b2fdc040efb7cb89d1be130e52538e1766d44d8dfaba2a0d370ac.jpeg",
+        "source": "https://www.cntraveler.com/story/an-ode-to-the-best-ravioli-ive-ever-eaten"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9z4wYbXDeVIvnRNkOC1UQ6EDxb3sCYJY2sCAu2GnQCw&s",
+        "source": "https://www.theclevercarrot.com/2023/08/easy-ground-pork-meat-filling-for-ravioli/"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJpa8y11KZXYU7quQyrD1Oy-QMqr4vfPdtnqCZoaA1mw&s",
+        "source": "https://beyondsweetandsavory.com/honeynut-squash-ricotta-ravioli-with-brown-butter-sauce/"
+      }
+    ],
+    "description": "Ravioli are a type of stuffed pasta comprising a filling enveloped in thin pasta dough. Usually served in broth or with a sauce, they originated as a traditional food in Italian cuisine. Ravioli are commonly square, though other forms are also used, including circular and semi-circular.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Ravioli"
+    },
+    "type_of_dish": "Dumpling",
+    "type_of_dish_links": [
+      {
+        "text": "Dumpling",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Dumpling&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L7H6ZiOxycsWocp1xnJsWrhYCV2tQptcqF6MX096XbWMLHklhEcahcNTAHBcJ23aItom6D5LKMB8sE0vyIT6GH4dv2AwxfPcitruza0Ko-83f_Qq1gnheOpLmHV1TjtpeUJN3Agm1EUy3o8zZDLDGe80hN42&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQmxMoAHoECDwQAg"
+      }
+    ],
+    "origin": "Italy",
+    "origin_links": [
+      {
+        "text": "Italy",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Italy&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm7K7IDonjKY_JcjUW7OdolI9L-JoUEauFOSJ8rPUNU4qflnF7ezqAM0F9O72pB79kor21OpcAltrrUgOZ1omtvlMkQt-wSxVaX3CBFrFPQqsIVf48xD7H99O6K2MxqDJH4jzKEv7TVtvOd0V6TRWcpof72NF&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQmxMoAHoECD0QAg"
+      }
+    ],
+    "sources_include": "USDAUSDAUSDAUSDAUSDARavioli, cheese187 Calories - 1 cup (242 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173328/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/172113/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173329/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Tortellini",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L4HdBVPsc17ccwkKz789AA9UqQLCur6MD89xCFuQp3IrNPitKMPa94oGs-7AegPZbAZmXmGDgzE2hMdqtUuE8sMT5q9kOdEY0LX1DfnvV_wmVYXEus3X0cx-2RmwbOSmLqutksZ6C4jDS2oHY1PZY07zarIE3u0scU-HTyuFdyAhLy32bJWOciHeg7fvqDotAv3HgUXkDpmJ1s9puZhRjqph-ePaHcGhLSJhXGrFqf5FdloOaT2g8avLpThXMHnm2WkS8jE%3D&q=Tortellini&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQs9oBKAB6BAg7EAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Tortellini&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L4HdBVPsc17ccwkKz789AA9UqQLCur6MD89xCFuQp3IrNPitKMPa94oGs-7AegPZbAZmXmGDgzE2hMdqtUuE8sMT5q9kOdEY0LX1DfnvV_wmVYXEus3X0cx-2RmwbOSmLqutksZ6C4jDS2oHY1PZY07zarIE3u0scU-HTyuFdyAhLy32bJWOciHeg7fvqDotAv3HgUXkDpmJ1s9puZhRjqph-ePaHcGhLSJhXGrFqf5FdloOaT2g8avLpThXMHnm2WkS8jE%3D",
+        "image": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/0da303df80aeca7e9e59491ff18b2fdc92f3d774475b0cdced15b9ccd69920f302ed86af9ebd8cd629b9deaac5183707.gif"
+      },
+      {
+        "name": "Gnocchi",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm8Dc_-Oidt9w9FpKRY5Vs47zO_ePmhWw8wa7hU1qLFWGmBhtBNl4xdLRGmeqpuPs4pzJ1Uonxm7ESS-dFt7sYY1_s3k0n4zvDfQcdHXkR9hKEDA9_PyZRdxeEK0QnaHofeXqy94BbKK5oohVwaawUKmYzK-Us4KXPk2q5qe8CHae0cR3IBK6tHfE1qqYEWO50qhwDx6eF32mx1W6evCxjWGEx1SsvSm2xaTbm2bI_TTl5G4-1N7fnzKd1O4Opz0ql7Z_dAQ%3D&q=Gnocchi&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQs9oBKAB6BAg7EAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Gnocchi&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm8Dc_-Oidt9w9FpKRY5Vs47zO_ePmhWw8wa7hU1qLFWGmBhtBNl4xdLRGmeqpuPs4pzJ1Uonxm7ESS-dFt7sYY1_s3k0n4zvDfQcdHXkR9hKEDA9_PyZRdxeEK0QnaHofeXqy94BbKK5oohVwaawUKmYzK-Us4KXPk2q5qe8CHae0cR3IBK6tHfE1qqYEWO50qhwDx6eF32mx1W6evCxjWGEx1SsvSm2xaTbm2bI_TTl5G4-1N7fnzKd1O4Opz0ql7Z_dAQ%3D",
+        "image": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/0da303df80aeca7e9e59491ff18b2fdc92f3d774475b0cdced15b9ccd69920f36184c06e9fe80645ccf190f47b346d84.jpeg"
+      },
+      {
+        "name": "Risotto",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L_NPMhzu8_px-HgTQSoAQNAVUTQ514dYD_HNEMdIeThG5LllTClAEPzlZE16BHy4GXPpDj58fLQ0J8J0GpGJBrfHiJ9TJxuTaHGwAPRjwrwnSGlP7OOhzywi6Ed70jIHoe9trW3W45bhvA1GcZ2kr6ZjBSkDE3OmWfVW24Otyam7Wjik8NXq766uPxAU2NzOFFsd7GGzjymfs60rm5DMDnWlV_QGyyFv6KuJUdZvEr2jjVbK94oqyNCaInfXgypR30zEyZI%3D&q=Risotto&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQs9oBKAB6BAg7EA0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Risotto&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L_NPMhzu8_px-HgTQSoAQNAVUTQ514dYD_HNEMdIeThG5LllTClAEPzlZE16BHy4GXPpDj58fLQ0J8J0GpGJBrfHiJ9TJxuTaHGwAPRjwrwnSGlP7OOhzywi6Ed70jIHoe9trW3W45bhvA1GcZ2kr6ZjBSkDE3OmWfVW24Otyam7Wjik8NXq766uPxAU2NzOFFsd7GGzjymfs60rm5DMDnWlV_QGyyFv6KuJUdZvEr2jjVbK94oqyNCaInfXgypR30zEyZI%3D",
+        "image": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/0da303df80aeca7e9e59491ff18b2fdc92f3d774475b0cdced15b9ccd69920f3a18e0234a319e19dfdb3f70e3da7bb22.jpeg"
+      },
+      {
+        "name": "Fettuccine",
+        "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L0Ja4qQIQ1WiYo-eB84sYQSrDOpE_gHLa8ITDgbOwQQHGZfTsOwgwbkn_3_hIL4PAy_HWNIXOFpDiPNY-6JgpIAfaGgPQNDgaHWBO9yhJjf4xougnvkvHb8r5fRAdU7ux4dnXvgnYJw9Wj79xQRraq4ymRB3yCB71I1d0zhI0zcUc-w8brfe7abMiqU6FZ8vgz4bZMhsVuXKLzJkDcvGcC68x2q_od64PZjsbqGMy0GHYgCxP0yXTU8ZOLwJwlH1DMYhFqE%3D&q=Fettuccine&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQs9oBKAB6BAg7EBE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Fettuccine&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L0Ja4qQIQ1WiYo-eB84sYQSrDOpE_gHLa8ITDgbOwQQHGZfTsOwgwbkn_3_hIL4PAy_HWNIXOFpDiPNY-6JgpIAfaGgPQNDgaHWBO9yhJjf4xougnvkvHb8r5fRAdU7ux4dnXvgnYJw9Wj79xQRraq4ymRB3yCB71I1d0zhI0zcUc-w8brfe7abMiqU6FZ8vgz4bZMhsVuXKLzJkDcvGcC68x2q_od64PZjsbqGMy0GHYgCxP0yXTU8ZOLwJwlH1DMYhFqE%3D",
+        "image": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/0da303df80aeca7e9e59491ff18b2fdc92f3d774475b0cdced15b9ccd69920f30d2ff7cc9fea2ff576c0c6dd0a1f1c74.jpeg"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "3.5 g",
+        "5%"
+      ],
+      "cholesterol": [
+        "7 mg",
+        "2%"
+      ],
+      "sodium": [
+        "741 mg",
+        "30%"
+      ],
+      "potassium": [
+        "561 mg",
+        "16%"
+      ],
+      "total_carbohydrate": [
+        "33 g",
+        "11%"
+      ],
+      "protein": [
+        "6 g",
+        "12%"
+      ]
+    }
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=ravioli&sca_esv=7d18109a394306ad&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=qP6CCwsq8hnSxM%252C4t3WvjNBLxopOM%252C%252Fm%252F02wf2z%253BcXUt1qSCsQ5ILM%252C09nXYvQZiyN6gM%252C_%253B2agFschO9b3g6M%252CTKVjrs5CHJn80M%252C_%253B_RMwjpUrLNd1YM%252CYOmtpuxQ2W35cM%252C_%253BdZ-tX4KByUuSCM%252C4ExxvaWqs2aGPM%252C_%253B0LjMsPPD0Tg_8M%252CfN1I7ITtrjwf4M%252C_%253B3e1n6xTON1mYkM%252CVCSEDaqVPKJHHM%252C_&usg=AI4_-kR4byA0_B8UYWk13bgBV23K8JsfAg&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQ_B16BAhAEAE#vhid=qP6CCwsq8hnSxM&vssid=mosaic",
+      "source": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQrlAWOf8Qhiro6UlacQ66bN8XHJnUWFv3p37LdNMQbxxe_q4x02TSHWM6MtohPMrkx",
+      "thumbnail": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/24f56b23d004d56204b4c298ea386006d6ffe3b68cd9006166c6e0e3526843ed.jpeg",
+      "original": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQrlAWOf8Qhiro6UlacQ66bN8XHJnUWFv3p37LdNMQbxxe_q4x02TSHWM6MtohPMrkx",
+      "source_name": "t0.gstatic.com"
+    },
+    {
+      "link": "https://www.google.com/search?q=ravioli&sca_esv=7d18109a394306ad&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=cXUt1qSCsQ5ILM%252C09nXYvQZiyN6gM%252C_%253B2agFschO9b3g6M%252CTKVjrs5CHJn80M%252C_%253B_RMwjpUrLNd1YM%252CYOmtpuxQ2W35cM%252C_%253BdZ-tX4KByUuSCM%252C4ExxvaWqs2aGPM%252C_%253B0LjMsPPD0Tg_8M%252CfN1I7ITtrjwf4M%252C_%253B3e1n6xTON1mYkM%252CVCSEDaqVPKJHHM%252C_&usg=AI4_-kTAaQYpSM4dEY1PmpOpyyT9CG7RQA&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQ_h16BAhJEAE#vhid=cXUt1qSCsQ5ILM&vssid=mosaic",
+      "source": "https://cooking.nytimes.com/recipes/1024627-ravioli",
+      "thumbnail": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/24f56b23d004d5621d17d1d4bfcd9792b450c55724ac798c177bc69ba8ecb6b8.jpeg",
+      "original": "https://static01.nyt.com/images/2024/01/26/multimedia/LH-Ravioli-lgpf/LH-Ravioli-lgpf-superJumbo.jpg",
+      "title": "Ravioli",
+      "source_name": "NYT Cooking - The New York Times"
+    },
+    {
+      "link": "https://www.google.com/search?q=ravioli&sca_esv=7d18109a394306ad&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=cXUt1qSCsQ5ILM%252C09nXYvQZiyN6gM%252C_%253B2agFschO9b3g6M%252CTKVjrs5CHJn80M%252C_%253B_RMwjpUrLNd1YM%252CYOmtpuxQ2W35cM%252C_%253BdZ-tX4KByUuSCM%252C4ExxvaWqs2aGPM%252C_%253B0LjMsPPD0Tg_8M%252CfN1I7ITtrjwf4M%252C_%253B3e1n6xTON1mYkM%252CVCSEDaqVPKJHHM%252C_&usg=AI4_-kTAaQYpSM4dEY1PmpOpyyT9CG7RQA&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQ_h16BAhDEAE#vhid=2agFschO9b3g6M&vssid=mosaic",
+      "source": "https://www.supperwithmichelle.com/2020/05/creamy-sun-dried-tomato-and-spinach-ravioli/",
+      "thumbnail": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/24f56b23d004d5627ced2aff5aa68a4ba3db11b74002e9cf009ec322bf9777e6.jpeg",
+      "original": "https://i0.wp.com/www.supperwithmichelle.com/wp-content/uploads/2020/05/IMG_1041.jpg?resize=750%2C932",
+      "title": "Creamy Sun-dried Tomato and Spinach Ravioli",
+      "source_name": "Supper With Michelle"
+    },
+    {
+      "link": "https://www.google.com/search?q=ravioli&sca_esv=7d18109a394306ad&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=cXUt1qSCsQ5ILM%252C09nXYvQZiyN6gM%252C_%253B2agFschO9b3g6M%252CTKVjrs5CHJn80M%252C_%253B_RMwjpUrLNd1YM%252CYOmtpuxQ2W35cM%252C_%253BdZ-tX4KByUuSCM%252C4ExxvaWqs2aGPM%252C_%253B0LjMsPPD0Tg_8M%252CfN1I7ITtrjwf4M%252C_%253B3e1n6xTON1mYkM%252CVCSEDaqVPKJHHM%252C_&usg=AI4_-kTAaQYpSM4dEY1PmpOpyyT9CG7RQA&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQ_h16BAhHEAE#vhid=_RMwjpUrLNd1YM&vssid=mosaic",
+      "source": "https://www.delallo.com/recipe/homemade-ricotta-spinach-filled-ravioli/",
+      "thumbnail": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/24f56b23d004d5620a769f4c4e54b002626304958c8fb9b9309b7eb7cd7eb2d9.jpeg",
+      "original": "https://cdn11.bigcommerce.com/s-cjh14ahqln/product_images/uploaded_images/cheese-ravioli-2-web.jpg",
+      "title": "Homemade Ricotta & Spinach Filled Ravioli",
+      "source_name": "DeLallo"
+    },
+    {
+      "link": "https://www.google.com/search?q=ravioli&sca_esv=7d18109a394306ad&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=cXUt1qSCsQ5ILM%252C09nXYvQZiyN6gM%252C_%253B2agFschO9b3g6M%252CTKVjrs5CHJn80M%252C_%253B_RMwjpUrLNd1YM%252CYOmtpuxQ2W35cM%252C_%253BdZ-tX4KByUuSCM%252C4ExxvaWqs2aGPM%252C_%253B0LjMsPPD0Tg_8M%252CfN1I7ITtrjwf4M%252C_%253B3e1n6xTON1mYkM%252CVCSEDaqVPKJHHM%252C_&usg=AI4_-kTAaQYpSM4dEY1PmpOpyyT9CG7RQA&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQ_h16BAhGEAE#vhid=dZ-tX4KByUuSCM&vssid=mosaic",
+      "source": "https://www.cntraveler.com/story/an-ode-to-the-best-ravioli-ive-ever-eaten",
+      "thumbnail": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/24f56b23d004d5625d4e7437a2dfb7f798a6d81d313b8b9ce23cfe6dc128d152.jpeg",
+      "original": "https://media.cntraveler.com/photos/58cff822a0b3543de54f706a/16:9/w_2560%2Cc_limit/GettyImages-176597247.jpg",
+      "title": "An Ode to the Best Ravioli I've Ever Eaten | Cond\u00e9 Nast Traveler",
+      "source_name": "Cond\u00e9 Nast Traveler"
+    },
+    {
+      "link": "https://www.google.com/search?q=ravioli&sca_esv=7d18109a394306ad&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=cXUt1qSCsQ5ILM%252C09nXYvQZiyN6gM%252C_%253B2agFschO9b3g6M%252CTKVjrs5CHJn80M%252C_%253B_RMwjpUrLNd1YM%252CYOmtpuxQ2W35cM%252C_%253BdZ-tX4KByUuSCM%252C4ExxvaWqs2aGPM%252C_%253B0LjMsPPD0Tg_8M%252CfN1I7ITtrjwf4M%252C_%253B3e1n6xTON1mYkM%252CVCSEDaqVPKJHHM%252C_&usg=AI4_-kTAaQYpSM4dEY1PmpOpyyT9CG7RQA&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQ_h16BAhEEAE#vhid=0LjMsPPD0Tg_8M&vssid=mosaic",
+      "source": "https://www.theclevercarrot.com/2023/08/easy-ground-pork-meat-filling-for-ravioli/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9z4wYbXDeVIvnRNkOC1UQ6EDxb3sCYJY2sCAu2GnQCw&s",
+      "original": "https://www.theclevercarrot.com/wp-content/uploads/2023/08/Homemade-meat-ravioli-with-fried-sage-leaves.jpg",
+      "title": "Easy Ground Pork Meat Filling For Ravioli",
+      "source_name": "The Clever Carrot"
+    },
+    {
+      "link": "https://www.google.com/search?q=ravioli&sca_esv=7d18109a394306ad&gl=us&hl=en&udm=2&source=iu&ictx=1&vet=1&fir=cXUt1qSCsQ5ILM%252C09nXYvQZiyN6gM%252C_%253B2agFschO9b3g6M%252CTKVjrs5CHJn80M%252C_%253B_RMwjpUrLNd1YM%252CYOmtpuxQ2W35cM%252C_%253BdZ-tX4KByUuSCM%252C4ExxvaWqs2aGPM%252C_%253B0LjMsPPD0Tg_8M%252CfN1I7ITtrjwf4M%252C_%253B3e1n6xTON1mYkM%252CVCSEDaqVPKJHHM%252C_&usg=AI4_-kTAaQYpSM4dEY1PmpOpyyT9CG7RQA&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQ_h16BAhIEAE#vhid=3e1n6xTON1mYkM&vssid=mosaic",
+      "source": "https://beyondsweetandsavory.com/honeynut-squash-ricotta-ravioli-with-brown-butter-sauce/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJpa8y11KZXYU7quQyrD1Oy-QMqr4vfPdtnqCZoaA1mw&s",
+      "original": "https://beyondsweetandsavory.com/wp-content/uploads/2021/11/Honeynut-squash-ricotta-ravioli-Vy-Tran-17-of-26-865x1280-1.jpg",
+      "title": "Honeynut Squash Ricotta Ravioli in Brown Butter Sauce",
+      "source_name": "Delicious Recipes For Home Cooking - Beyond Sweet and Savory"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is traditionally in ravioli?",
+      "snippet": "Common fillings of ravioli include ricotta, spinach, nutmeg, black pepper, and lemon rind. Internationally, March 20 is Ravioli Day. Still a popular pasta today, ravioli's roots can be traced way back to at least the 14th century.",
+      "title": "Ravioli: An Appreciation - Cucina Toscana",
+      "link": "https://toscanaslc.com/blog/ravioli-an-appreciation/#:~:text=Common%20fillings%20of%20ravioli%20include,least%20the%2014th%20century.",
+      "displayed_link": "https://toscanaslc.com \u203a blog \u203a ravioli-an-appreciation",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Y66t9bkBqERuw7mt6kb1FTE87eRqqpQN0M3wSWnhIA&s",
+      "source_logo": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/b323c3aa2f798aaf53e002dea26c8e8d1c19a2027985fe627b6e902354ae4c32.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFRtUktNR3RrV1RreFptZE5Ta3hoTVhsYVFURXRiV2hoYTFSSFNUYzBaM1YyVUhSNlJ6bFZYemh3ZDJ4SlF5MXpkamh4TW5JelFXODVOR3h2ZUVSWWIyUnlRekJmRWhkblZFRkxXalZpVWtJdGJWQjRZemhRT1RseE5uVkJSUm9pUVVaWWNrVmpjVEZ3TjA0eFQycHFPVFpLUWw5UGMzSjVkakUzU2s5VU1ESnpVUSIsImZjdiI6IjMiLCJlaSI6ImdUQUtaNWJSQi1tUHhjOFA5OXE2dUFFIiwicWMiOiJDZ2R5WVhacGIyeHBFQUI5WjhBWlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRyYWRpdGlvbmFsbHkgaW4gcmF2aW9saT8iLCJsayI6IkdpQjNhR0YwSUdseklIUnlZV1JwZEdsdmJtRnNiSGtnYVc0Z2NtRjJhVzlzYVEiLCJicyI6ImM0WE9zUXJDTUJBR1lGeHZjak1HcmFlYm0yUnlLMElYZlFIbmd3WjdjaWFTcEphLWdLTy1xYy1nSW9VT291Tl9fM2Z3d3c3bS00b1Njc1FVcU9URTNwRklpLXd3MElXOWNLNnVLN1BRMlB4eFVFQldlQnU3akNRTnRSRXJ1bGc4V1VxNXVoc3owOVB5RjRJMXFHMnZ4dVJEc2lMc1hrTWVTelBXSV81ZXd3YXkzdWRaNmtDQ1BtQmtkNmlGUXE1dVJ6UFJ1aFBkX1cwLWVqaDRBZyIsImlkIjoiZmNfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFRtUktNR3RrV1RreFptZE5Ta3hoTVhsYVFURXRiV2hoYTFSSFNUYzBaM1YyVUhSNlJ6bFZYemh3ZDJ4SlF5MXpkamh4TW5JelFXODVOR3h2ZUVSWWIyUnlRekJmRWhkblZFRkxXalZpVWtJdGJWQjRZemhRT1RseE5uVkJSUm9pUVVaWWNrVmpjVEZ3TjA0eFQycHFPVFpLUWw5UGMzSjVkakUzU2s5VU1ESnpVUSIsImZjdiI6IjMiLCJlaSI6ImdUQUtaNWJSQi1tUHhjOFA5OXE2dUFFIiwicWMiOiJDZ2R5WVhacGIyeHBFQUI5WjhBWlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRyYWRpdGlvbmFsbHkgaW4gcmF2aW9saT8iLCJsayI6IkdpQjNhR0YwSUdseklIUnlZV1JwZEdsdmJtRnNiSGtnYVc0Z2NtRjJhVzlzYVEiLCJicyI6ImM0WE9zUXJDTUJBR1lGeHZjak1HcmFlYm0yUnlLMElYZlFIbmd3WjdjaWFTcEphLWdLTy1xYy1nSW9VT291Tl9fM2Z3d3c3bS00b1Njc1FVcU9URTNwRklpLXd3MElXOWNLNnVLN1BRMlB4eFVFQldlQnU3akNRTnRSRXJ1bGc4V1VxNXVoc3owOVB5RjRJMXFHMnZ4dVJEc2lMc1hrTWVTelBXSV81ZXd3YXkzdWRaNmtDQ1BtQmtkNmlGUXE1dVJ6UFJ1aFBkX1cwLWVqaDRBZyIsImlkIjoiZmNfMiJ9"
+    },
+    {
+      "question": "Does ravioli always have meat?",
+      "snippet": "Italian ravioli is a delicious dish made with a variety of fillings, including meat, cheese, and vegetables. The most traditional ravioli is made with a filling of ground beef, Parmesan cheese, and eggs.",
+      "title": "Homemade Meat Ravioli - Easy Meals with Video Recipes by Chef Joel ...",
+      "link": "https://recipe30.com/homemade-meat-ravioli.html/#:~:text=Italian%20ravioli%20is%20a%20delicious,%2C%20Parmesan%20cheese%2C%20and%20eggs.",
+      "displayed_link": "https://recipe30.com \u203a homemade-meat-ravioli",
+      "source_logo": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/b323c3aa2f798aaf53e002dea26c8e8d8ecf128842621d54a6387d0f0d7fe941.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFRtUktNR3RrV1RreFptZE5Ta3hoTVhsYVFURXRiV2hoYTFSSFNUYzBaM1YyVUhSNlJ6bFZYemh3ZDJ4SlF5MXpkamh4TW5JelFXODVOR3h2ZUVSWWIyUnlRekJmRWhkblZFRkxXalZpVWtJdGJWQjRZemhRT1RseE5uVkJSUm9pUVVaWWNrVmpjVEZ3TjA0eFQycHFPVFpLUWw5UGMzSjVkakUzU2s5VU1ESnpVUSIsImZjdiI6IjMiLCJlaSI6ImdUQUtaNWJSQi1tUHhjOFA5OXE2dUFFIiwicWMiOiJDZ2R5WVhacGIyeHBFQUI5WjhBWlB3IiwicXVlc3Rpb24iOiJEb2VzIHJhdmlvbGkgYWx3YXlzIGhhdmUgbWVhdD8iLCJsayI6IkdoMWtiMlZ6SUhKaGRtbHZiR2tnWVd4M1lYbHpJR2hoZG1VZ2JXVmhkQSIsImJzIjoiYzRYT3NRckNNQkFHWUZ4dmNqTUdyYWVibTJSeUswSVhmUUhuZ3daN2NpYVNwSmEtZ0tPLXFjLWdJb1VPb3VOX18zZnd3dzdtLTRvU2NzUVVxT1RFM3BGSWktd3cwSVc5Y0s2dUs3UFEyUHh4VUVCV2VCdTdqQ1FOdFJFcnVsZzhXVXE1dWhzejA5UHlGNEkxcUcydnh1UkRzaUxzWGtNZVN6UFdJXzVld3dheTN1ZFo2a0NDUG1Ca2Q2aUZRcTV1UnpQUnVoUGRfVzAtZWpoNEFnIiwiaWQiOiJmY18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFRtUktNR3RrV1RreFptZE5Ta3hoTVhsYVFURXRiV2hoYTFSSFNUYzBaM1YyVUhSNlJ6bFZYemh3ZDJ4SlF5MXpkamh4TW5JelFXODVOR3h2ZUVSWWIyUnlRekJmRWhkblZFRkxXalZpVWtJdGJWQjRZemhRT1RseE5uVkJSUm9pUVVaWWNrVmpjVEZ3TjA0eFQycHFPVFpLUWw5UGMzSjVkakUzU2s5VU1ESnpVUSIsImZjdiI6IjMiLCJlaSI6ImdUQUtaNWJSQi1tUHhjOFA5OXE2dUFFIiwicWMiOiJDZ2R5WVhacGIyeHBFQUI5WjhBWlB3IiwicXVlc3Rpb24iOiJEb2VzIHJhdmlvbGkgYWx3YXlzIGhhdmUgbWVhdD8iLCJsayI6IkdoMWtiMlZ6SUhKaGRtbHZiR2tnWVd4M1lYbHpJR2hoZG1VZ2JXVmhkQSIsImJzIjoiYzRYT3NRckNNQkFHWUZ4dmNqTUdyYWVibTJSeUswSVhmUUhuZ3daN2NpYVNwSmEtZ0tPLXFjLWdJb1VPb3VOX18zZnd3dzdtLTRvU2NzUVVxT1RFM3BGSWktd3cwSVc5Y0s2dUs3UFEyUHh4VUVCV2VCdTdqQ1FOdFJFcnVsZzhXVXE1dWhzejA5UHlGNEkxcUcydnh1UkRzaUxzWGtNZVN6UFdJXzVld3dheTN1ZFo2a0NDUG1Ca2Q2aUZRcTV1UnpQUnVoUGRfVzAtZWpoNEFnIiwiaWQiOiJmY18yIn0%3D"
+    },
+    {
+      "question": "Is ravioli a tortellini?",
+      "snippet": "Ravioli are square and tortellini are ring shaped, but both make for hearty meals and are filled with cheese, meat, and more. There are many different types of stuffed pastas, including baked dishes like stuffed shells and manicotti, as well as more recent inventions like stuffed rigatoni.",
+      "title": "What's The Difference Between Ravioli & Tortellini? - Paesana",
+      "date": "May 14, 2021",
+      "link": "https://www.paesana.com/blog/whats-the-difference-between-ravioli-tortellini#:~:text=Ravioli%20are%20square%20and%20tortellini,cheese%2C%20meat%2C%20and%20more.&text=There%20are%20many%20different%20types,recent%20inventions%20like%20stuffed%20rigatoni.",
+      "displayed_link": "https://www.paesana.com \u203a blog \u203a whats-the-difference-...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa3iksBu4xXfT-VGuprLZC5b-YB8E8pQwJ9jXRa2shlQ&s",
+      "source_logo": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/b323c3aa2f798aaf53e002dea26c8e8d4d25d4f9e24c99fc4842468a74f157bf.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFRtUktNR3RrV1RreFptZE5Ta3hoTVhsYVFURXRiV2hoYTFSSFNUYzBaM1YyVUhSNlJ6bFZYemh3ZDJ4SlF5MXpkamh4TW5JelFXODVOR3h2ZUVSWWIyUnlRekJmRWhkblZFRkxXalZpVWtJdGJWQjRZemhRT1RseE5uVkJSUm9pUVVaWWNrVmpjVEZ3TjA0eFQycHFPVFpLUWw5UGMzSjVkakUzU2s5VU1ESnpVUSIsImZjdiI6IjMiLCJlaSI6ImdUQUtaNWJSQi1tUHhjOFA5OXE2dUFFIiwicWMiOiJDZ2R5WVhacGIyeHBFQUI5WjhBWlB3IiwicXVlc3Rpb24iOiJJcyByYXZpb2xpIGEgdG9ydGVsbGluaT8iLCJsayI6IkdoZHBjeUJ5WVhacGIyeHBJR0VnZEc5eWRHVnNiR2x1YVEiLCJicyI6ImM0WE9zUXJDTUJBR1lGeHZjak1HcmFlYm0yUnlLMElYZlFIbmd3WjdjaWFTcEphLWdLTy1xYy1nSW9VT291Tl9fM2Z3d3c3bS00b1Njc1FVcU9URTNwRklpLXd3MElXOWNLNnVLN1BRMlB4eFVFQldlQnU3akNRTnRSRXJ1bGc4V1VxNXVoc3owOVB5RjRJMXFHMnZ4dVJEc2lMc1hrTWVTelBXSV81ZXd3YXkzdWRaNmtDQ1BtQmtkNmlGUXE1dVJ6UFJ1aFBkX1cwLWVqaDRBZyIsImlkIjoiZmNfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFRtUktNR3RrV1RreFptZE5Ta3hoTVhsYVFURXRiV2hoYTFSSFNUYzBaM1YyVUhSNlJ6bFZYemh3ZDJ4SlF5MXpkamh4TW5JelFXODVOR3h2ZUVSWWIyUnlRekJmRWhkblZFRkxXalZpVWtJdGJWQjRZemhRT1RseE5uVkJSUm9pUVVaWWNrVmpjVEZ3TjA0eFQycHFPVFpLUWw5UGMzSjVkakUzU2s5VU1ESnpVUSIsImZjdiI6IjMiLCJlaSI6ImdUQUtaNWJSQi1tUHhjOFA5OXE2dUFFIiwicWMiOiJDZ2R5WVhacGIyeHBFQUI5WjhBWlB3IiwicXVlc3Rpb24iOiJJcyByYXZpb2xpIGEgdG9ydGVsbGluaT8iLCJsayI6IkdoZHBjeUJ5WVhacGIyeHBJR0VnZEc5eWRHVnNiR2x1YVEiLCJicyI6ImM0WE9zUXJDTUJBR1lGeHZjak1HcmFlYm0yUnlLMElYZlFIbmd3WjdjaWFTcEphLWdLTy1xYy1nSW9VT291Tl9fM2Z3d3c3bS00b1Njc1FVcU9URTNwRklpLXd3MElXOWNLNnVLN1BRMlB4eFVFQldlQnU3akNRTnRSRXJ1bGc4V1VxNXVoc3owOVB5RjRJMXFHMnZ4dVJEc2lMc1hrTWVTelBXSV81ZXd3YXkzdWRaNmtDQ1BtQmtkNmlGUXE1dVJ6UFJ1aFBkX1cwLWVqaDRBZyIsImlkIjoiZmNfMiJ9"
+    },
+    {
+      "question": "Is ravioli plural or singular?",
+      "snippet": "Ravioli [ra\u02c8vj\u0254\u02d0li] (plural form; singular: raviolo) are a type of dumpling composed of a filling sealed between two layers of thin pasta dough.",
+      "title": "Singular of ravioli | Learn English - Preply",
+      "date": "Sep 10, 2016",
+      "link": "https://preply.com/en/question/singular-of-ravioli#:~:text=Ravioli%20%5Bra%CB%88vj%C9%94%CB%90li%5D%20(plural%20form,layers%20of%20thin%20pasta%20dough.",
+      "displayed_link": "https://preply.com \u203a question \u203a singular-of-ravioli",
+      "source_logo": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/b323c3aa2f798aaf53e002dea26c8e8db93a49676d9e0330cc13fd97da89cf29.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFRtUktNR3RrV1RreFptZE5Ta3hoTVhsYVFURXRiV2hoYTFSSFNUYzBaM1YyVUhSNlJ6bFZYemh3ZDJ4SlF5MXpkamh4TW5JelFXODVOR3h2ZUVSWWIyUnlRekJmRWhkblZFRkxXalZpVWtJdGJWQjRZemhRT1RseE5uVkJSUm9pUVVaWWNrVmpjVEZ3TjA0eFQycHFPVFpLUWw5UGMzSjVkakUzU2s5VU1ESnpVUSIsImZjdiI6IjMiLCJlaSI6ImdUQUtaNWJSQi1tUHhjOFA5OXE2dUFFIiwicWMiOiJDZ2R5WVhacGIyeHBFQUI5WjhBWlB3IiwicXVlc3Rpb24iOiJJcyByYXZpb2xpIHBsdXJhbCBvciBzaW5ndWxhcj8iLCJsayI6IkdocHlZWFpwYjJ4cElITnBibWQxYkdGeUlHOXlJSEJzZFhKaGJBIiwiYnMiOiJjNFhPc1FyQ01CQUdZRnh2Y2pNR3JhZWJtMlJ5SzBJWGZRSG5nd1o3Y2lhU3BKYS1nS08tcWMtZ0lvVU9vdU5fXzNmd3d3N20tNG9TY3NRVXFPVEUzcEZJaS13dzBJVzljSzZ1SzdQUTJQeHhVRUJXZUJ1N2pDUU50UkVydWxnOFdVcTV1aHN6MDlQeUY0STFxRzJ2eHVSRHNpTHNYa01lU3pQV0lfNWV3d2F5M3VkWjZrQ0NQbUJrZDZpRlFxNXVSelBSdWhQZF9XMC1lamg0QWciLCJpZCI6ImZjXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFRtUktNR3RrV1RreFptZE5Ta3hoTVhsYVFURXRiV2hoYTFSSFNUYzBaM1YyVUhSNlJ6bFZYemh3ZDJ4SlF5MXpkamh4TW5JelFXODVOR3h2ZUVSWWIyUnlRekJmRWhkblZFRkxXalZpVWtJdGJWQjRZemhRT1RseE5uVkJSUm9pUVVaWWNrVmpjVEZ3TjA0eFQycHFPVFpLUWw5UGMzSjVkakUzU2s5VU1ESnpVUSIsImZjdiI6IjMiLCJlaSI6ImdUQUtaNWJSQi1tUHhjOFA5OXE2dUFFIiwicWMiOiJDZ2R5WVhacGIyeHBFQUI5WjhBWlB3IiwicXVlc3Rpb24iOiJJcyByYXZpb2xpIHBsdXJhbCBvciBzaW5ndWxhcj8iLCJsayI6IkdocHlZWFpwYjJ4cElITnBibWQxYkdGeUlHOXlJSEJzZFhKaGJBIiwiYnMiOiJjNFhPc1FyQ01CQUdZRnh2Y2pNR3JhZWJtMlJ5SzBJWGZRSG5nd1o3Y2lhU3BKYS1nS08tcWMtZ0lvVU9vdU5fXzNmd3d3N20tNG9TY3NRVXFPVEUzcEZJaS13dzBJVzljSzZ1SzdQUTJQeHhVRUJXZUJ1N2pDUU50UkVydWxnOFdVcTV1aHN6MDlQeUY0STFxRzJ2eHVSRHNpTHNYa01lU3pQV0lfNWV3d2F5M3VkWjZrQ0NQbUJrZDZpRlFxNXVSelBSdWhQZF9XMC1lamg0QWciLCJpZCI6ImZjXzIifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Beginner's Guide to Fresh Homemade Ravioli",
+      "link": "https://www.theclevercarrot.com/2022/10/beginners-guide-to-fresh-homemade-ravioli/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theclevercarrot.com/2022/10/beginners-guide-to-fresh-homemade-ravioli/&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQFnoECBUQAQ",
+      "displayed_link": "https://www.theclevercarrot.com \u203a Homemade Pasta",
+      "thumbnail": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/274f5b72c52cb2df82ec4ea8193f1c418619e4c3b32d8ca243e8a67ebf9760ae.jpeg",
+      "favicon": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/274f5b72c52cb2df82ec4ea8193f1c412b04c6e9e3e34c32eeb06668e3d07fd9.png",
+      "date": "Oct 8, 2022",
+      "snippet": "Learn how to make fresh homemade ravioli, with step-by-step instructions & video, an easy 2-ingredient pasta dough, and creamy cheese ...",
+      "snippet_highlighted_words": [
+        "ravioli"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.9,
+            "hr_min": 2
+          },
+          "extensions": [
+            "4.9(8)",
+            "2 hr 5 min"
+          ]
+        }
+      },
+      "source": "The Clever Carrot"
+    },
+    {
+      "position": 2,
+      "title": "Homemade Four Cheese Ravioli Recipe",
+      "link": "https://www.allrecipes.com/recipe/213131/homemade-four-cheese-ravioli/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.allrecipes.com/recipe/213131/homemade-four-cheese-ravioli/&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQFnoECBoQAQ",
+      "displayed_link": "https://www.allrecipes.com \u203a ... \u203a Ravioli Recipes",
+      "thumbnail": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/274f5b72c52cb2df82ec4ea8193f1c4130ebfc3dda8c356868ca3aa35d4d229f.jpeg",
+      "favicon": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/274f5b72c52cb2df82ec4ea8193f1c41b8263367ee56e4fb6c79a643844272cb.png",
+      "date": "Feb 22, 2024",
+      "snippet": "This homemade ravioli recipe features a deliciously cheesy filling made with ricotta, mozzarella, and provolone, plus a pesto cream sauce ...",
+      "snippet_highlighted_words": [
+        "ravioli"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.6,
+            "hr_min": 1
+          },
+          "extensions": [
+            "4.6(195)",
+            "1 hr 30 min"
+          ]
+        }
+      },
+      "source": "Allrecipes"
+    },
+    {
+      "position": 3,
+      "title": "Ravioli",
+      "link": "https://en.wikipedia.org/wiki/Ravioli",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Ravioli&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQFnoECFUQAQ",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Ravioli",
+      "thumbnail": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/274f5b72c52cb2df82ec4ea8193f1c4103c54c03a153e3af014c02c6236852ab.jpeg",
+      "favicon": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/274f5b72c52cb2df82ec4ea8193f1c41f92eb5f3554a71b4a903fc96fe36b688.png",
+      "snippet": "Ravioli are a type of stuffed pasta comprising a filling enveloped in thin pasta dough. Usually served in broth or with a sauce, they originated as a ...",
+      "snippet_highlighted_words": [
+        "Ravioli"
+      ],
+      "source": "Wikipedia"
+    },
+    {
+      "position": 4,
+      "title": "Homemade Cheese Ravioli",
+      "link": "https://preppykitchen.com/cheese-ravioli/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://preppykitchen.com/cheese-ravioli/&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQFnoECFYQAQ",
+      "displayed_link": "https://preppykitchen.com \u203a Recipes \u203a Pasta",
+      "thumbnail": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/274f5b72c52cb2df82ec4ea8193f1c41b2e2fea888540e646293834d2862e039.jpeg",
+      "favicon": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/274f5b72c52cb2df82ec4ea8193f1c412f2e95d9d41ce9fd579b25c784602662.png",
+      "date": "Feb 21, 2024",
+      "snippet": "Discover the joy of making 3 Cheese Ravioli from scratch with just 10 ingredients. Perfect for prep-ahead, freezer-friendly gourmet meals!",
+      "snippet_highlighted_words": [
+        "Ravioli"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "hr_min": 2
+          },
+          "extensions": [
+            "5.0(2)",
+            "2 hr 36 min"
+          ]
+        }
+      },
+      "source": "Preppy Kitchen"
+    },
+    {
+      "position": 5,
+      "title": "Creamy Tomato Ravioli Sauce",
+      "link": "https://www.kitchensanctuary.com/creamy-tomato-ravioli-sauce/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kitchensanctuary.com/creamy-tomato-ravioli-sauce/&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQFnoECF0QAQ",
+      "displayed_link": "https://www.kitchensanctuary.com \u203a creamy-tomato-ravi...",
+      "thumbnail": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/274f5b72c52cb2df82ec4ea8193f1c41b94072bac03abca803bd58cbdd04e768.jpeg",
+      "favicon": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/274f5b72c52cb2df82ec4ea8193f1c4175aecfefbdefd905e7985b165512ff2c.png",
+      "date": "Jun 25, 2021",
+      "snippet": "This rich and creamy tomato ravioli sauce with spinach and parmesan. You can get it on the table in 15 minutes, and best of all, you can make it all in one pan.",
+      "snippet_highlighted_words": [
+        "ravioli"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "min": 15
+          },
+          "extensions": [
+            "5.0(33)",
+            "15 min"
+          ]
+        }
+      },
+      "source": "Nicky's Kitchen Sanctuary"
+    },
+    {
+      "position": 6,
+      "title": "My guide to easy homemade ravioli",
+      "link": "https://www.theburntbuttertable.com/my-guide-to-easy-homemade-ravioli/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theburntbuttertable.com/my-guide-to-easy-homemade-ravioli/&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQFnoECFcQAQ",
+      "displayed_link": "https://www.theburntbuttertable.com \u203a ... \u203a Fall Recipes",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG31JMUQ85M1LS1P6F9cOB5Mu9XAyCGP1T33geeI6IxLI5XHEmBfdL&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/274f5b72c52cb2df82ec4ea8193f1c41e03e35df826445bd7604544a8fdf4b42.png",
+      "date": "Sep 17, 2023",
+      "snippet": "In this guide I will outline the process of making the pasta, a simple filling and then a couple of shape ideas that are perfect for beginners.",
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "hr_min": 1
+          },
+          "extensions": [
+            "5.0(4)",
+            "1 hr 30 min"
+          ]
+        }
+      },
+      "source": "The Burnt Butter Table"
+    },
+    {
+      "position": 7,
+      "title": "Homemade Spinach and Ricotta Ravioli with Fresh ...",
+      "link": "https://thepastaqueen.cooking/blogs/recipes/homemade-spinach-and-ricotta-ravioli-with-fresh-tomato-sauce?srsltid=AfmBOorczngTtVJKYvgc93iTDL3D0YbZqjY_rdz5hFGrqyLrHCH8aZNW",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thepastaqueen.cooking/blogs/recipes/homemade-spinach-and-ricotta-ravioli-with-fresh-tomato-sauce%3Fsrsltid%3DAfmBOorczngTtVJKYvgc93iTDL3D0YbZqjY_rdz5hFGrqyLrHCH8aZNW&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQFnoECFQQAQ",
+      "displayed_link": "https://thepastaqueen.cooking \u203a blogs \u203a recipes \u203a home...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1QQeOzkRJclgbvj8v0pNxV9nesTfFEbnQqreX-Hfn7GuhLrrXaH1C&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/274f5b72c52cb2df82ec4ea8193f1c41ed383699efa53d208a588a72b3e27b4c.png",
+      "snippet": "To cook, bring a large pot of water to boil. Season so it tastes like a well-seasoned soup. Once boiling, drop the ravioli and cook for just 3 to 4 minutes.",
+      "snippet_highlighted_words": [
+        "ravioli"
+      ],
+      "source": "The Pasta Queen"
+    },
+    {
+      "position": 8,
+      "title": "4 Simple and Perfect Ravioli To Make Forever",
+      "link": "https://www.youtube.com/watch?v=ic-l6maPgSw",
+      "displayed_link": "52.8K+ views \u00b7 5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/ic-l6maPgSw/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kpHXUiyDkxek_fXfFB3usZ2wNZog",
+      "favicon": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/274f5b72c52cb2df82ec4ea8193f1c41c26a79ac7679c1990da582c7427dcee9.png",
+      "snippet": "The first 100 people to use my promo will get 40% off their first order of Hungryroot https://bit.ly/3ycVOnb Last episode my friend and ...",
+      "duration": "12:36",
+      "source": "YouTube \u00b7 NOT ANOTHER COOKING SHOW"
+    },
+    {
+      "position": 9,
+      "title": "Ravioli Verdi agli Spinaci e Ricotta - Pasta et Al",
+      "link": "https://pastaetal.com/recipes/pasta-recipes/spinach-and-ricotta-ravioli/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pastaetal.com/recipes/pasta-recipes/spinach-and-ricotta-ravioli/&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQFnoECFgQAQ",
+      "displayed_link": "https://pastaetal.com \u203a Recipes \u203a Pasta Recipes",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr_0TS2KWyHQomZHwZw5ItD0WEZSZ3RHPReySDK0ON1fg1yxD1yEH8&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/274f5b72c52cb2df82ec4ea8193f1c4182336a11810631c34d69cf977498d553.png",
+      "date": "May 7, 2020",
+      "snippet": "Our signature green ravioli, filled with ricotta and spinach! These tasty little things are firm to the bite, but creamy inside.",
+      "snippet_highlighted_words": [
+        "ravioli"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.8,
+            "hr_min": 1
+          },
+          "extensions": [
+            "4.8(4)",
+            "1 hr 15 min"
+          ]
+        }
+      },
+      "source": "Pasta et Al"
+    },
+    {
+      "position": 10,
+      "title": "Ravioli (Dough and Choice of 4 Fillings) Recipe",
+      "link": "https://www.food.com/recipe/ravioli-dough-and-choice-of-4-fillings-59359",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.food.com/recipe/ravioli-dough-and-choice-of-4-fillings-59359&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQFnoECFkQAQ",
+      "displayed_link": "https://www.food.com \u203a Recipes \u203a Veal",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7n9-wjrIqRP7yNrVqeW0GmxWTSPupY0jq0fH2-ppMXS141v0enr2P&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/274f5b72c52cb2df82ec4ea8193f1c4166b397eaa49db78366b1086ad0bea9a4.png",
+      "snippet": "This is the family recipe for homemade ravioli. I have included 4 filling variations along with the ravioli dough recipe.",
+      "snippet_highlighted_words": [
+        "ravioli",
+        "ravioli"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.5,
+            "hr_min": 2
+          },
+          "extensions": [
+            "4.5(42)",
+            "2 hr 15 min"
+          ]
+        }
+      },
+      "source": "Food.com"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&tbs=lf:1,lf_ui:9&tbm=lcl&q=ravioli&rflfq=1&num=10&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQjGp6BQiGARAB",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ravioli&tbs=lf%3A1%2Clf_ui%3A9&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Ravioli recipe",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Ravioli+recipe&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQ1QJ6BQiCARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Ravioli+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Ravioli sauce",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Ravioli+sauce&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQ1QJ6BQiBARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Ravioli+sauce"
+    },
+    {
+      "block_position": 1,
+      "query": "Ravioli filling",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Ravioli+filling&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQ1QJ6BAh_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Ravioli+filling"
+    },
+    {
+      "block_position": 1,
+      "query": "Ravioli recipe sauce",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Ravioli+recipe+sauce&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQ1QJ6BQiAARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Ravioli+recipe+sauce"
+    },
+    {
+      "block_position": 1,
+      "query": "Ravioli pasta",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Ravioli+pasta&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQ1QJ6BAh8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Ravioli+pasta"
+    },
+    {
+      "block_position": 1,
+      "query": "Ravioli filling recipe",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Ravioli+filling+recipe&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQ1QJ6BAh9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Ravioli+filling+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Ravioli recipe easy",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Ravioli+recipe+easy&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQ1QJ6BAh-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Ravioli+recipe+easy"
+    },
+    {
+      "block_position": 1,
+      "query": "Ravioli dough recipe",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=Ravioli+dough+recipe&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQ1QJ6BQiDARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Ravioli+dough+recipe"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "How to make",
+        "subtitle": "How To Make Ravioli",
+        "thumbnail": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/9d69b555e82f5f12256c7b7d6ae9de79b698af65228e96b4494e603ab10caec89318b1d1eaa7004f.png",
+        "web_links": [
+          {
+            "title": "Beginner's Guide to Fresh Homemade Ravioli",
+            "snippet": "Cook for 3-6 minutes or more, depending on thickness (the thicker the pasta, the longer the ravioli will take to cook)....",
+            "link": "https://www.theclevercarrot.com/2022/10/beginners-guide-to-fresh-homemade-ravioli/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWrWaIkTDwb0TXXzOEfJ7vs9-oGQrpSwkaXWq-n0HETDrlfQwJgHdJDK3OEMw",
+            "source": "The Clever Carrot",
+            "source_thumbnail": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/9d69b555e82f5f12256c7b7d6ae9de79b698af65228e96b4bc98d092bbcb72802cbbb9d7c980f4ed7b40e84610d17e0f7a658aa708e43510.png"
+          },
+          {
+            "title": "Homemade Four Cheese Ravioli Recipe - Allrecipes",
+            "snippet": "Cook uncovered, stirring occasionally, until the ravioli float to the top and the filling is hot, 4 to 6 minutes. Drain...",
+            "link": "https://www.allrecipes.com/recipe/213131/homemade-four-cheese-ravioli/",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8wJ710GJYBCyQBpApsG09CQ0mhAcJ6T8o19GmsHlpNFlFqZZLAHOelRGPUZs",
+            "source": "Allrecipes",
+            "source_thumbnail": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/9d69b555e82f5f12256c7b7d6ae9de79b698af65228e96b4bc98d092bbcb72801ce53b9f72bbfb952c9b170862b857861ffeaf29219b9985.png"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=how+to+make+ravioli&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQrooIegQIFBAF",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+to+make+ravioli"
+      },
+      {
+        "text": "Sauce",
+        "subtitle": "Sauce For Ravioli",
+        "thumbnail": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/9d69b555e82f5f12256c7b7d6ae9de79b789309b950669b3ae582c2cce387431a9ebbaae0665492e.png",
+        "web_links": [
+          {
+            "title": "Easy Ravioli Sauce - The Cozy Cook",
+            "snippet": "Ingredients \u00b7 \u25a2 3 tablespoons salted butter, I use Land O' Lakes \u00b7 \u25a2 3 cloves garlic, minced \u00b7...",
+            "link": "https://thecozycook.com/ravioli-sauce/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV5FeEkdYpy0ncNYOwS9rYapW8trBLyq2cuFHzaB4oqvO4iu9queSfc1DE_tE",
+            "source": "The Cozy Cook",
+            "source_thumbnail": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/9d69b555e82f5f12256c7b7d6ae9de79b789309b950669b391d352feff6998b39afc6ec276b4105f1583a1deccef3c5585d739952146c8f7.png"
+          },
+          {
+            "title": "5 Minute Ravioli Sauce - Vikalinka",
+            "snippet": "Ingredients. 1x 2x 3x \u00b7 3 tbsp sun-dried tomato pesto I used Scala brand or Delallo in the US \u00b7 1 clove...",
+            "link": "https://vikalinka.com/ravioli-sauce/",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQutGWmvV8AUJI67OTn48y2K9gxli_NbNFlKMueI62laJHEzF-6dE9WtYDVZXc",
+            "source": "Vikalinka",
+            "source_thumbnail": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/9d69b555e82f5f12256c7b7d6ae9de79b789309b950669b391d352feff6998b3fc0ffb7f90b66c3779f334efa922c2bdf8cab7758d3a2884.png"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=sauce+for+ravioli&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQrooIegQIFBAK",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=sauce+for+ravioli"
+      },
+      {
+        "text": "Meat",
+        "subtitle": "What Meat Is In Ravioli",
+        "title": "Meat Ravioli Filling - Food & Wine",
+        "link": "https://www.foodandwine.com/recipes/meat-ravioli#:~:text=Your%20choice%20of%20ground%20meat,and%20an%20egg%20for%20binding.",
+        "displayed_link": "https://www.foodandwine.com \u203a recipes \u203a meat-ravioli",
+        "date": "Sep 10, 2023",
+        "snippet": "Your choice of ground meat is first cooked with garlic, onion, and white wine, then mixed with Parmesan, mortadella, prosciutto, a pinch of nutmeg, and an egg for binding.",
+        "snippet_highlighted_words": [
+          "ground meat"
+        ],
+        "favicon": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/9d69b555e82f5f12256c7b7d6ae9de792b41ede9bdc3d04e37d91b297ba5b3cd41c1a467b2d23e90.png",
+        "source": "foodandwine.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-EjIJNOHTH8twW6yFm2VSh-Uiwzvh8-856nJbSACS8o&s",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=what+meat+is+in+ravioli&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQrooIegQIFBAS",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+meat+is+in+ravioli"
+      },
+      {
+        "text": "Ingredients",
+        "subtitle": "Ravioli Ingredients",
+        "title": "Homemade Four Cheese Ravioli Recipe - Allrecipes",
+        "link": "https://www.allrecipes.com/recipe/213131/homemade-four-cheese-ravioli/#:~:text=Ravioli%20Ingredients&text=For%20the%20dough%3A%20All%2Dpurpose,an%20egg%2C%20and%20dried%20parsley",
+        "displayed_link": "https://www.allrecipes.com \u203a recipe \u203a homemade-four-ch...",
+        "date": "Feb 22, 2024",
+        "snippet": "Ravioli Ingredients For the dough: All-purpose flour, salt, eggs, water, and olive oil. For the filling: Ricotta, Parmesan, mozzarella and provolone cheeses, an egg, and dried parsley.",
+        "snippet_highlighted_words": [
+          "All-purpose flour, salt, eggs, water, and olive oil"
+        ],
+        "favicon": "https://serpapi.com/searches/670a307fbb55ff0ef6a85122/images/9d69b555e82f5f12256c7b7d6ae9de79d8efb5993c6f171610a0c8cd06d1634861131678bb7d38bd.png",
+        "source": "allrecipes.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowXymhetiMpN-l9J9wgas1pg874QgejQmC1jVZcCiFwVL&s",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&gl=us&hl=en&q=ravioli+ingredients&sa=X&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQrooIegQIFBAa",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ravioli+ingredients"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=ravioli&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=gTAKZ5bRB-mPxc8P99q6uAE&start=10&sa=N&sstk=Aagrsug0QXjL51MivtPE7OL0izmaHXIxdeqZgRP5ahDi-5b2gd2ZlDzqXiUHBM8vuvpUmp689AsvvjWSBPhvDxECxWrbxCv0CJcsLA&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQ8NMDegQIDRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=ravioli&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=gTAKZ5bRB-mPxc8P99q6uAE&start=10&sa=N&sstk=Aagrsug0QXjL51MivtPE7OL0izmaHXIxdeqZgRP5ahDi-5b2gd2ZlDzqXiUHBM8vuvpUmp689AsvvjWSBPhvDxECxWrbxCv0CJcsLA&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQ8tMDegQIDRAE",
+      "3": "https://www.google.com/search?q=ravioli&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=gTAKZ5bRB-mPxc8P99q6uAE&start=20&sa=N&sstk=Aagrsug0QXjL51MivtPE7OL0izmaHXIxdeqZgRP5ahDi-5b2gd2ZlDzqXiUHBM8vuvpUmp689AsvvjWSBPhvDxECxWrbxCv0CJcsLA&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQ8tMDegQIDRAG",
+      "4": "https://www.google.com/search?q=ravioli&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=gTAKZ5bRB-mPxc8P99q6uAE&start=30&sa=N&sstk=Aagrsug0QXjL51MivtPE7OL0izmaHXIxdeqZgRP5ahDi-5b2gd2ZlDzqXiUHBM8vuvpUmp689AsvvjWSBPhvDxECxWrbxCv0CJcsLA&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQ8tMDegQIDRAI",
+      "5": "https://www.google.com/search?q=ravioli&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=gTAKZ5bRB-mPxc8P99q6uAE&start=40&sa=N&sstk=Aagrsug0QXjL51MivtPE7OL0izmaHXIxdeqZgRP5ahDi-5b2gd2ZlDzqXiUHBM8vuvpUmp689AsvvjWSBPhvDxECxWrbxCv0CJcsLA&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQ8tMDegQIDRAK",
+      "6": "https://www.google.com/search?q=ravioli&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=gTAKZ5bRB-mPxc8P99q6uAE&start=50&sa=N&sstk=Aagrsug0QXjL51MivtPE7OL0izmaHXIxdeqZgRP5ahDi-5b2gd2ZlDzqXiUHBM8vuvpUmp689AsvvjWSBPhvDxECxWrbxCv0CJcsLA&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQ8tMDegQIDRAM",
+      "7": "https://www.google.com/search?q=ravioli&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=gTAKZ5bRB-mPxc8P99q6uAE&start=60&sa=N&sstk=Aagrsug0QXjL51MivtPE7OL0izmaHXIxdeqZgRP5ahDi-5b2gd2ZlDzqXiUHBM8vuvpUmp689AsvvjWSBPhvDxECxWrbxCv0CJcsLA&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQ8tMDegQIDRAO",
+      "8": "https://www.google.com/search?q=ravioli&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=gTAKZ5bRB-mPxc8P99q6uAE&start=70&sa=N&sstk=Aagrsug0QXjL51MivtPE7OL0izmaHXIxdeqZgRP5ahDi-5b2gd2ZlDzqXiUHBM8vuvpUmp689AsvvjWSBPhvDxECxWrbxCv0CJcsLA&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQ8tMDegQIDRAQ",
+      "9": "https://www.google.com/search?q=ravioli&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=gTAKZ5bRB-mPxc8P99q6uAE&start=80&sa=N&sstk=Aagrsug0QXjL51MivtPE7OL0izmaHXIxdeqZgRP5ahDi-5b2gd2ZlDzqXiUHBM8vuvpUmp689AsvvjWSBPhvDxECxWrbxCv0CJcsLA&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQ8tMDegQIDRAS",
+      "10": "https://www.google.com/search?q=ravioli&sca_esv=7d18109a394306ad&gl=us&hl=en&ei=gTAKZ5bRB-mPxc8P99q6uAE&start=90&sa=N&sstk=Aagrsug0QXjL51MivtPE7OL0izmaHXIxdeqZgRP5ahDi-5b2gd2ZlDzqXiUHBM8vuvpUmp689AsvvjWSBPhvDxECxWrbxCv0CJcsLA&ved=2ahUKEwjWlfnUs4iJAxXpR_EDHXetDhcQ8tMDegQIDRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ravioli&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ravioli&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ravioli&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ravioli&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ravioli&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ravioli&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ravioli&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ravioli&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ravioli&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ravioli&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=ravioli&start=90"
+    }
+  }
+}

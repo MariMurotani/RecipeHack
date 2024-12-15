@@ -1,0 +1,499 @@
+{
+  "search_metadata": {
+    "id": "670a30c698876dbea175758b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5bd367c6a8e6aeff/670a30c698876dbea175758b.json",
+    "created_at": "2024-10-12 08:18:14 UTC",
+    "processed_at": "2024-10-12 08:18:14 UTC",
+    "google_url": "https://www.google.com/search?q=chocolate+mousse&oq=chocolate+mousse&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/5bd367c6a8e6aeff/670a30c698876dbea175758b.html",
+    "total_time_taken": 3.13
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "chocolate mousse",
+    "location_requested": "Austin,Texas,United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "chocolate mousse",
+    "total_results": 127000000,
+    "time_taken_displayed": 0.29,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "recipes_results": [
+    {
+      "title": "Chocolate Mousse",
+      "link": "https://www.recipetineats.com/chocolate-mousse/",
+      "source": "RecipeTin Eats",
+      "rating": 5.0,
+      "reviews": 177,
+      "ingredients": [
+        "Whipped cream",
+        "eggs",
+        "caster sugar",
+        "cooking chocolate",
+        "full fat"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a30c698876dbea175758b/images/56077ff29883e83a1a531d94ae850fa4fbf5f14508a82dffc004dd98e73a7ac5.jpeg"
+    },
+    {
+      "title": "Chocolate Mousse for Beginners",
+      "link": "https://www.allrecipes.com/chocolate-mousse-for-beginners-recipe-8574786",
+      "source": "Allrecipes",
+      "rating": 4.6,
+      "reviews": 11,
+      "total_time": "1 hr 25 min",
+      "ingredients": [
+        "Dark chocolate",
+        "heavy whipping cream",
+        "egg yolks",
+        "white sugar"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a30c698876dbea175758b/images/56077ff29883e83a1a531d94ae850fa4dc758d90a75bad9a4cc6d43a093993d2.jpeg"
+    },
+    {
+      "title": "3-Ingredient Easy Chocolate Mousse",
+      "link": "https://kitchencents.com/easy-3-ingredient-chocolate-mousse/",
+      "source": "Kitchen Cents",
+      "rating": 4.5,
+      "reviews": 1700,
+      "total_time": "5 min",
+      "ingredients": [
+        "Dark chocolate",
+        "heavy whipping cream",
+        "almond extract"
+      ],
+      "thumbnail": "https://serpapi.com/searches/670a30c698876dbea175758b/images/56077ff29883e83a1a531d94ae850fa441cc663505168d03e274fa3546864afb.jpeg"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is chocolate mousse made of?",
+      "snippet": "What Is Chocolate Mousse Made of? The best chocolate mousse recipe has simply egg yolks, sugar, whipping cream, and semisweet baking chocolate. Plus a little patience. It's important to take your time and add the ingredients gradually to achieve an unforgettably smooth texture.",
+      "title": "Best Chocolate Mousse Recipe - Betty Crocker",
+      "link": "https://www.bettycrocker.com/recipes/best-chocolate-mousse-recipe/25446b27-770f-4d48-babd-5315521b0e7b#:~:text=What%20Is%20Chocolate%20Mousse%20Made,achieve%20an%20unforgettably%20smooth%20texture.",
+      "displayed_link": "https://www.bettycrocker.com \u203a recipes \u203a best-chocolat...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR085tBYXb7WTDDFDTS8Dh8pbdFIjRjNf3q1syuS9SdqQ&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2JVUlZNVlZzY25wMGQzQktka0ZZT1hkSFUxOHdORXBwU1cxYVdtbDJURXg0V0VaWVlUVmFMV1J0WldaRWFXcGZkbXhZVVdZNFZWSnpiM2hPU0V0QlZUTmpYM1F6RWhkNGVrRkxXamxsV1U1YU0wMXJVRWxRTVhKcFVtdFJZeG9pUVVaWWNrVmpjRXBYYTNjMk56aHdZMDluVkROSExWSkRSV2xXYVVWV1FWOUJRUSIsImZjdiI6IjMiLCJlaSI6Inh6QUtaOWVZTlozTWtQSVAxcmlSa1FjIiwicWMiOiJDaEJqYUc5amIyeGhkR1VnYlc5MWMzTmxFQUI5OFpnVFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIGNob2NvbGF0ZSBtb3Vzc2UgbWFkZSBvZj8iLCJsayI6IkdpSjNhR0YwSUdseklHTm9iMk52YkdGMFpTQnRiM1Z6YzJVZ2JXRmtaU0JtY205dCIsImJzIjoiYzZXUU1RckNRQkJGc2JCd0s4dVFRa2V4VmtscFl5RUtndGhhajd1ejJSV3pFN0liY2dWcjctQlJQSWtYTVFZVVFSREVhcHJfM191TTJJakJ6bUFBNjBFYWxuekVRSkJ4NlgxOVVCR3dua2VuVGpLS2g5WFhuQzQ0RS1lV1dEMXh3UkFvcXpVVjVDVEJua0pGNU43YWVhbVVkU21nVXhfTWVYU2JKY3Q0OFhELWlSSmFUSnBOV0ZCRDBsd1dzRWR2SlVqT2NuYmthZ2Ryd0pmOHVrMm04Ymo2cVNWV29yXzJ6NThjU2gtZ01qYlBTVUdLRHFXcHVaZDJBbkhQZmsxMVczYyIsImlkIjoiZmNfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2JVUlZNVlZzY25wMGQzQktka0ZZT1hkSFUxOHdORXBwU1cxYVdtbDJURXg0V0VaWVlUVmFMV1J0WldaRWFXcGZkbXhZVVdZNFZWSnpiM2hPU0V0QlZUTmpYM1F6RWhkNGVrRkxXamxsV1U1YU0wMXJVRWxRTVhKcFVtdFJZeG9pUVVaWWNrVmpjRXBYYTNjMk56aHdZMDluVkROSExWSkRSV2xXYVVWV1FWOUJRUSIsImZjdiI6IjMiLCJlaSI6Inh6QUtaOWVZTlozTWtQSVAxcmlSa1FjIiwicWMiOiJDaEJqYUc5amIyeGhkR1VnYlc5MWMzTmxFQUI5OFpnVFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIGNob2NvbGF0ZSBtb3Vzc2UgbWFkZSBvZj8iLCJsayI6IkdpSjNhR0YwSUdseklHTm9iMk52YkdGMFpTQnRiM1Z6YzJVZ2JXRmtaU0JtY205dCIsImJzIjoiYzZXUU1RckNRQkJGc2JCd0s4dVFRa2V4VmtscFl5RUtndGhhajd1ejJSV3pFN0liY2dWcjctQlJQSWtYTVFZVVFSREVhcHJfM191TTJJakJ6bUFBNjBFYWxuekVRSkJ4NlgxOVVCR3dua2VuVGpLS2g5WFhuQzQ0RS1lV1dEMXh3UkFvcXpVVjVDVEJua0pGNU43YWVhbVVkU21nVXhfTWVYU2JKY3Q0OFhELWlSSmFUSnBOV0ZCRDBsd1dzRWR2SlVqT2NuYmthZ2Ryd0pmOHVrMm04Ymo2cVNWV29yXzJ6NThjU2gtZ01qYlBTVUdLRHFXcHVaZDJBbkhQZmsxMVczYyIsImlkIjoiZmNfMiJ9"
+    },
+    {
+      "question": "What is the difference between chocolate pudding and chocolate mousse?",
+      "snippet": "While the ingredients are similar, chocolate pudding is cooked on the stove to activate the cornstarch or flour, depending on the recipe. Mousse is not cooked. It develops its airy texture just from whipped cream. Texturewise, pudding is thicker and denser, while mousse is lighter and more delicate.",
+      "title": "Our Decadent Chocolate Mousse Recipe Is Easy Yet Impressive",
+      "date": "Sep 25, 2023",
+      "link": "https://www.marthastewart.com/336783/chocolate-mousse#:~:text=While%20the%20ingredients%20are%20similar,is%20lighter%20and%20more%20delicate.",
+      "displayed_link": "https://www.marthastewart.com \u203a chocolate-mousse",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShHUGiJDhX8ha1cH35oYXEllcNvTXTmnme6aplDaJguw&s",
+      "source_logo": "https://serpapi.com/searches/670a30c698876dbea175758b/images/5496ddbf8a71300660b6a484c24d9951f4f2a966ce79de689371fb5f7481b9af.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2JVUlZNVlZzY25wMGQzQktka0ZZT1hkSFUxOHdORXBwU1cxYVdtbDJURXg0V0VaWVlUVmFMV1J0WldaRWFXcGZkbXhZVVdZNFZWSnpiM2hPU0V0QlZUTmpYM1F6RWhkNGVrRkxXamxsV1U1YU0wMXJVRWxRTVhKcFVtdFJZeG9pUVVaWWNrVmpjRXBYYTNjMk56aHdZMDluVkROSExWSkRSV2xXYVVWV1FWOUJRUSIsImZjdiI6IjMiLCJlaSI6Inh6QUtaOWVZTlozTWtQSVAxcmlSa1FjIiwicWMiOiJDaEJqYUc5amIyeGhkR1VnYlc5MWMzTmxFQUI5OFpnVFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gY2hvY29sYXRlIHB1ZGRpbmcgYW5kIGNob2NvbGF0ZSBtb3Vzc2U/IiwibGsiOiJjMDNJc1EyQU1Bd0V3RDJvZmhjbU1mRUhSd0liWVVkWm41WXJiOXVYU1NYS0NCMjk4NlUzNG1BdDB0RXNXbHhTeEROVmg1OFExOV9lTVRQNUFRIiwiYnMiOiJjNldRTVFyQ1FCQkZzYkJ3Szh1UVFrZXhWa2xwWXlFS2d0aGFqN3V6MlJXekU3SWJjZ1ZyNy1CUlBJa1hNUVlVUVJERWFwcl8zX3VNMklqQnptQUE2MEVhbG56RVFKQng2WDE5VUJHd25rZW5UaktLaDlYWG5DNDRFLWVXV0QxeHdSQW9xelVWNUNUQm5rSkY1TjdhZWFtVWRTbWdVeF9NZVhTYkpjdDQ4WEQtaVJKYVRKcE5XRkJEMGx3V3NFZHZKVWpPY25ia2FnZHJ3SmY4dWsybThiajZxU1ZXb3JfMno1OGNTaC1nTWpiUFNVR0tEcVdwdVpkMkFuSFBmazExVzNjIiwiaWQiOiJmY18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2JVUlZNVlZzY25wMGQzQktka0ZZT1hkSFUxOHdORXBwU1cxYVdtbDJURXg0V0VaWVlUVmFMV1J0WldaRWFXcGZkbXhZVVdZNFZWSnpiM2hPU0V0QlZUTmpYM1F6RWhkNGVrRkxXamxsV1U1YU0wMXJVRWxRTVhKcFVtdFJZeG9pUVVaWWNrVmpjRXBYYTNjMk56aHdZMDluVkROSExWSkRSV2xXYVVWV1FWOUJRUSIsImZjdiI6IjMiLCJlaSI6Inh6QUtaOWVZTlozTWtQSVAxcmlSa1FjIiwicWMiOiJDaEJqYUc5amIyeGhkR1VnYlc5MWMzTmxFQUI5OFpnVFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gY2hvY29sYXRlIHB1ZGRpbmcgYW5kIGNob2NvbGF0ZSBtb3Vzc2U%2FIiwibGsiOiJjMDNJc1EyQU1Bd0V3RDJvZmhjbU1mRUhSd0liWVVkWm41WXJiOXVYU1NYS0NCMjk4NlUzNG1BdDB0RXNXbHhTeEROVmg1OFExOV9lTVRQNUFRIiwiYnMiOiJjNldRTVFyQ1FCQkZzYkJ3Szh1UVFrZXhWa2xwWXlFS2d0aGFqN3V6MlJXekU3SWJjZ1ZyNy1CUlBJa1hNUVlVUVJERWFwcl8zX3VNMklqQnptQUE2MEVhbG56RVFKQng2WDE5VUJHd25rZW5UaktLaDlYWG5DNDRFLWVXV0QxeHdSQW9xelVWNUNUQm5rSkY1TjdhZWFtVWRTbWdVeF9NZVhTYkpjdDQ4WEQtaVJKYVRKcE5XRkJEMGx3V3NFZHZKVWpPY25ia2FnZHJ3SmY4dWsybThiajZxU1ZXb3JfMno1OGNTaC1nTWpiUFNVR0tEcVdwdVpkMkFuSFBmazExVzNjIiwiaWQiOiJmY18yIn0%3D"
+    },
+    {
+      "question": "What are the four basic components of a mousse?",
+      "snippet": "Four basic components of a Mousse Mousse is a light and airy dessert made with eggs, sugar, heavy cream, and flavoring. All mousses have four basic components: aerated egg yolks, whipped egg whites, whipped cream, and a flavoring base.",
+      "title": "What is considered a mousse? - Mon Panier Latin",
+      "link": "https://monpanierlatin.co.uk/blogs/mpl-blog/mousse#:~:text=Four%20basic%20components%20of%20a%20Mousse&text=Mousse%20is%20a%20light%20and,cream%2C%20and%20a%20flavoring%20base.",
+      "displayed_link": "https://monpanierlatin.co.uk \u203a blogs \u203a mpl-blog \u203a mousse",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOmbPcvm25NUX_BbxgTjfTgcewcnxdEQClPF32BHZjRw&s",
+      "source_logo": "https://serpapi.com/searches/670a30c698876dbea175758b/images/5496ddbf8a71300660b6a484c24d995171ebdc50a3af262aca115c288fbcb852.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2JVUlZNVlZzY25wMGQzQktka0ZZT1hkSFUxOHdORXBwU1cxYVdtbDJURXg0V0VaWVlUVmFMV1J0WldaRWFXcGZkbXhZVVdZNFZWSnpiM2hPU0V0QlZUTmpYM1F6RWhkNGVrRkxXamxsV1U1YU0wMXJVRWxRTVhKcFVtdFJZeG9pUVVaWWNrVmpjRXBYYTNjMk56aHdZMDluVkROSExWSkRSV2xXYVVWV1FWOUJRUSIsImZjdiI6IjMiLCJlaSI6Inh6QUtaOWVZTlozTWtQSVAxcmlSa1FjIiwicWMiOiJDaEJqYUc5amIyeGhkR1VnYlc5MWMzTmxFQUI5OFpnVFB3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgZm91ciBiYXNpYyBjb21wb25lbnRzIG9mIGEgbW91c3NlPyIsImxrIjoiR2k1M2FHRjBJR0Z5WlNCMGFHVWdabTkxY2lCaVlYTnBZeUJqYjIxd2IyNWxiblJ6SUc5bUlHRWdiVzkxYzNObCIsImJzIjoiYzZXUU1RckNRQkJGc2JCd0s4dVFRa2V4VmtscFl5RUtndGhhajd1ejJSV3pFN0liY2dWcjctQlJQSWtYTVFZVVFSREVhcHJfM191TTJJakJ6bUFBNjBFYWxuekVRSkJ4NlgxOVVCR3dua2VuVGpLS2g5WFhuQzQ0RS1lV1dEMXh3UkFvcXpVVjVDVEJua0pGNU43YWVhbVVkU21nVXhfTWVYU2JKY3Q0OFhELWlSSmFUSnBOV0ZCRDBsd1dzRWR2SlVqT2NuYmthZ2Ryd0pmOHVrMm04Ymo2cVNWV29yXzJ6NThjU2gtZ01qYlBTVUdLRHFXcHVaZDJBbkhQZmsxMVczYyIsImlkIjoiZmNfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2JVUlZNVlZzY25wMGQzQktka0ZZT1hkSFUxOHdORXBwU1cxYVdtbDJURXg0V0VaWVlUVmFMV1J0WldaRWFXcGZkbXhZVVdZNFZWSnpiM2hPU0V0QlZUTmpYM1F6RWhkNGVrRkxXamxsV1U1YU0wMXJVRWxRTVhKcFVtdFJZeG9pUVVaWWNrVmpjRXBYYTNjMk56aHdZMDluVkROSExWSkRSV2xXYVVWV1FWOUJRUSIsImZjdiI6IjMiLCJlaSI6Inh6QUtaOWVZTlozTWtQSVAxcmlSa1FjIiwicWMiOiJDaEJqYUc5amIyeGhkR1VnYlc5MWMzTmxFQUI5OFpnVFB3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgZm91ciBiYXNpYyBjb21wb25lbnRzIG9mIGEgbW91c3NlPyIsImxrIjoiR2k1M2FHRjBJR0Z5WlNCMGFHVWdabTkxY2lCaVlYTnBZeUJqYjIxd2IyNWxiblJ6SUc5bUlHRWdiVzkxYzNObCIsImJzIjoiYzZXUU1RckNRQkJGc2JCd0s4dVFRa2V4VmtscFl5RUtndGhhajd1ejJSV3pFN0liY2dWcjctQlJQSWtYTVFZVVFSREVhcHJfM191TTJJakJ6bUFBNjBFYWxuekVRSkJ4NlgxOVVCR3dua2VuVGpLS2g5WFhuQzQ0RS1lV1dEMXh3UkFvcXpVVjVDVEJua0pGNU43YWVhbVVkU21nVXhfTWVYU2JKY3Q0OFhELWlSSmFUSnBOV0ZCRDBsd1dzRWR2SlVqT2NuYmthZ2Ryd0pmOHVrMm04Ymo2cVNWV29yXzJ6NThjU2gtZ01qYlBTVUdLRHFXcHVaZDJBbkhQZmsxMVczYyIsImlkIjoiZmNfMiJ9"
+    },
+    {
+      "question": "Is mousse just whipped ganache?",
+      "snippet": "The key distinction lies in texture. Mousse offers a light and airy sensation that seems to dissolve on the tongue. In contrast, ganache provides a luscious, dense mouthfeel that coats your taste buds. These textural differences are what set the stage for unique tasting experiences.",
+      "title": "Mousse & Ganache, What's The Differences?",
+      "date": "Sep 27, 2023",
+      "link": "https://www.goodhusbandpatisserie.com/mousse-ganache-whats-the-different/#:~:text=The%20key%20distinction%20lies%20in,stage%20for%20unique%20tasting%20experiences.",
+      "displayed_link": "https://www.goodhusbandpatisserie.com \u203a mousse-ganac...",
+      "source_logo": "https://serpapi.com/searches/670a30c698876dbea175758b/images/5496ddbf8a71300660b6a484c24d9951b4c65fbc8f36204838e3a2a41c7afdce.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2JVUlZNVlZzY25wMGQzQktka0ZZT1hkSFUxOHdORXBwU1cxYVdtbDJURXg0V0VaWVlUVmFMV1J0WldaRWFXcGZkbXhZVVdZNFZWSnpiM2hPU0V0QlZUTmpYM1F6RWhkNGVrRkxXamxsV1U1YU0wMXJVRWxRTVhKcFVtdFJZeG9pUVVaWWNrVmpjRXBYYTNjMk56aHdZMDluVkROSExWSkRSV2xXYVVWV1FWOUJRUSIsImZjdiI6IjMiLCJlaSI6Inh6QUtaOWVZTlozTWtQSVAxcmlSa1FjIiwicWMiOiJDaEJqYUc5amIyeGhkR1VnYlc5MWMzTmxFQUI5OFpnVFB3IiwicXVlc3Rpb24iOiJJcyBtb3Vzc2UganVzdCB3aGlwcGVkIGdhbmFjaGU/IiwibGsiOiJHaDVwY3lCdGIzVnpjMlVnYW5WemRDQjNhR2x3Y0dWa0lHZGhibUZqYUdVIiwiYnMiOiJjNldRTVFyQ1FCQkZzYkJ3Szh1UVFrZXhWa2xwWXlFS2d0aGFqN3V6MlJXekU3SWJjZ1ZyNy1CUlBJa1hNUVlVUVJERWFwcl8zX3VNMklqQnptQUE2MEVhbG56RVFKQng2WDE5VUJHd25rZW5UaktLaDlYWG5DNDRFLWVXV0QxeHdSQW9xelVWNUNUQm5rSkY1TjdhZWFtVWRTbWdVeF9NZVhTYkpjdDQ4WEQtaVJKYVRKcE5XRkJEMGx3V3NFZHZKVWpPY25ia2FnZHJ3SmY4dWsybThiajZxU1ZXb3JfMno1OGNTaC1nTWpiUFNVR0tEcVdwdVpkMkFuSFBmazExVzNjIiwiaWQiOiJmY18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2JVUlZNVlZzY25wMGQzQktka0ZZT1hkSFUxOHdORXBwU1cxYVdtbDJURXg0V0VaWVlUVmFMV1J0WldaRWFXcGZkbXhZVVdZNFZWSnpiM2hPU0V0QlZUTmpYM1F6RWhkNGVrRkxXamxsV1U1YU0wMXJVRWxRTVhKcFVtdFJZeG9pUVVaWWNrVmpjRXBYYTNjMk56aHdZMDluVkROSExWSkRSV2xXYVVWV1FWOUJRUSIsImZjdiI6IjMiLCJlaSI6Inh6QUtaOWVZTlozTWtQSVAxcmlSa1FjIiwicWMiOiJDaEJqYUc5amIyeGhkR1VnYlc5MWMzTmxFQUI5OFpnVFB3IiwicXVlc3Rpb24iOiJJcyBtb3Vzc2UganVzdCB3aGlwcGVkIGdhbmFjaGU%2FIiwibGsiOiJHaDVwY3lCdGIzVnpjMlVnYW5WemRDQjNhR2x3Y0dWa0lHZGhibUZqYUdVIiwiYnMiOiJjNldRTVFyQ1FCQkZzYkJ3Szh1UVFrZXhWa2xwWXlFS2d0aGFqN3V6MlJXekU3SWJjZ1ZyNy1CUlBJa1hNUVlVUVJERWFwcl8zX3VNMklqQnptQUE2MEVhbG56RVFKQng2WDE5VUJHd25rZW5UaktLaDlYWG5DNDRFLWVXV0QxeHdSQW9xelVWNUNUQm5rSkY1TjdhZWFtVWRTbWdVeF9NZVhTYkpjdDQ4WEQtaVJKYVRKcE5XRkJEMGx3V3NFZHZKVWpPY25ia2FnZHJ3SmY4dWsybThiajZxU1ZXb3JfMno1OGNTaC1nTWpiUFNVR0tEcVdwdVpkMkFuSFBmazExVzNjIiwiaWQiOiJmY18yIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Chocolate Mousse",
+      "link": "https://www.recipetineats.com/chocolate-mousse/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.recipetineats.com/chocolate-mousse/&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQFnoECAgQAQ",
+      "displayed_link": "https://www.recipetineats.com \u203a Sweet",
+      "thumbnail": "https://serpapi.com/searches/670a30c698876dbea175758b/images/cb0fd50632a35a1b0363edd073e9964fc90ebf83b61addd11b929be04f83b3ef.jpeg",
+      "favicon": "https://serpapi.com/searches/670a30c698876dbea175758b/images/cb0fd50632a35a1b0363edd073e9964fc66fe9d10847ded3e27b8c0ecd93d414.png",
+      "date": "Sep 21, 2018",
+      "snippet": "This is a classic chocolate mousse made the proper French way, as served in fine dining restaurants. Less cream, more chocolate, a more intense chocolate ...",
+      "snippet_highlighted_words": [
+        "chocolate mousse"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "min": 20
+          },
+          "extensions": [
+            "5.0(177)",
+            "20 min"
+          ]
+        }
+      },
+      "source": "RecipeTin Eats"
+    },
+    {
+      "position": 2,
+      "title": "Chocolate Mousse for Beginners Recipe",
+      "link": "https://www.allrecipes.com/chocolate-mousse-for-beginners-recipe-8574786",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.allrecipes.com/chocolate-mousse-for-beginners-recipe-8574786&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQFnoECDUQAQ",
+      "displayed_link": "https://www.allrecipes.com \u203a chocolate-mousse-for-begi...",
+      "thumbnail": "https://serpapi.com/searches/670a30c698876dbea175758b/images/cb0fd50632a35a1b0363edd073e9964fa087243b6e631cc0109a2cc562b31be5.jpeg",
+      "favicon": "https://serpapi.com/searches/670a30c698876dbea175758b/images/cb0fd50632a35a1b0363edd073e9964f5d8fc19a67869101d2275e5462455517.png",
+      "date": "Mar 12, 2024",
+      "snippet": "Ingredients \u00b7 3 1/2 ounces dark chocolate (62% cacao is ideal) \u00b7 1 tablespoon unsalted butter \u00b7 2 large egg yolks \u00b7 1 tablespoon white sugar \u00b7 1 ...",
+      "snippet_highlighted_words": [
+        "chocolate"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.6,
+            "hr_min": 1
+          },
+          "extensions": [
+            "4.6(11)",
+            "1 hr 25 min"
+          ]
+        }
+      },
+      "source": "Allrecipes"
+    },
+    {
+      "position": 3,
+      "title": "Chocolate Mousse",
+      "link": "https://www.onceuponachef.com/recipes/chocolate-mousse.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.onceuponachef.com/recipes/chocolate-mousse.html&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQFnoECDYQAQ",
+      "displayed_link": "https://www.onceuponachef.com \u203a Recipes \u203a Dessert",
+      "thumbnail": "https://serpapi.com/searches/670a30c698876dbea175758b/images/cb0fd50632a35a1b0363edd073e9964f6253e53a9658554c3e56508556bc659c.jpeg",
+      "favicon": "https://serpapi.com/searches/670a30c698876dbea175758b/images/cb0fd50632a35a1b0363edd073e9964fbdad856fe538153fa6419afad4944fd4.jpeg",
+      "date": "Apr 12, 2024",
+      "snippet": "This classic chocolate mousse is light yet intensely chocolate. Don't be fooled by the French name \u2014 it's quick and easy to make!",
+      "snippet_highlighted_words": [
+        "chocolate mousse"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.6,
+            "min": 20
+          },
+          "extensions": [
+            "4.6(134)",
+            "20 min"
+          ]
+        }
+      },
+      "source": "Once Upon a Chef"
+    },
+    {
+      "position": 4,
+      "title": "EASY Chocolate Mousse in 5 Minutes",
+      "link": "https://kitchencents.com/easy-3-ingredient-chocolate-mousse/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kitchencents.com/easy-3-ingredient-chocolate-mousse/&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQFnoECDQQAQ",
+      "displayed_link": "https://kitchencents.com \u203a ... \u203a Desserts \u203a No-Bake Desserts",
+      "thumbnail": "https://serpapi.com/searches/670a30c698876dbea175758b/images/cb0fd50632a35a1b0363edd073e9964fcbb8b9359f320f5162e3fe16d6c2b658.jpeg",
+      "favicon": "https://serpapi.com/searches/670a30c698876dbea175758b/images/cb0fd50632a35a1b0363edd073e9964fae23411d27ee5b1aad004fef206f6ce1.png",
+      "date": "Dec 19, 2023",
+      "snippet": "Airy easy chocolate mousse recipe with ONLY 3 ingredients. Ready in 5 minutes or less. The perfect chocolate-lover quick fix!",
+      "snippet_highlighted_words": [
+        "chocolate mousse"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.5,
+            "min": 5
+          },
+          "extensions": [
+            "4.5(1,747)",
+            "5 min"
+          ]
+        }
+      },
+      "source": "Kitchen Cents"
+    },
+    {
+      "position": 5,
+      "title": "The Best Chocolate Mousse Recipe",
+      "link": "https://bakerbynature.com/the-best-chocolate-mousse-recipe/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bakerbynature.com/the-best-chocolate-mousse-recipe/&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQFnoECDMQAQ",
+      "displayed_link": "https://bakerbynature.com \u203a Blog",
+      "thumbnail": "https://serpapi.com/searches/670a30c698876dbea175758b/images/cb0fd50632a35a1b0363edd073e9964f081c754b220598afafbf4afb096e9d38.jpeg",
+      "favicon": "https://serpapi.com/searches/670a30c698876dbea175758b/images/cb0fd50632a35a1b0363edd073e9964f7d64f3c571e4657b6d346826926c30fa.png",
+      "date": "Aug 1, 2023",
+      "snippet": "This classic chocolate mousse recipe is thick, creamy, and loaded with chocolate flavor! Use good quality chocolate for the best texture and ...",
+      "snippet_highlighted_words": [
+        "chocolate mousse"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.9,
+            "hr_min": 2
+          },
+          "extensions": [
+            "4.9(11)",
+            "2 hr 30 min"
+          ]
+        }
+      },
+      "source": "Baker by Nature"
+    },
+    {
+      "position": 6,
+      "title": "Chocolate Mousse",
+      "link": "https://preppykitchen.com/chocolate-mousse/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://preppykitchen.com/chocolate-mousse/&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQFnoECDsQAQ",
+      "displayed_link": "https://preppykitchen.com \u203a Recipes \u203a Desserts",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ6gnHYRKOiBO9kFLcKQoRxEycqj4lw-UFfLw2oyuJeSvzWiRTOHIL&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30c698876dbea175758b/images/cb0fd50632a35a1b0363edd073e9964f7e0ab2921e14911188d9cad2cdc2e07a.png",
+      "date": "Sep 25, 2021",
+      "snippet": "Decadent, creamy, and full of chocolate flavor, this Chocolate Mousse recipe is a breeze to make! All you need are four ingredients!",
+      "snippet_highlighted_words": [
+        "Chocolate Mousse"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 5.0,
+            "hr_min": 4
+          },
+          "extensions": [
+            "5.0(62)",
+            "4 hr 50 min"
+          ]
+        }
+      },
+      "source": "Preppy Kitchen"
+    },
+    {
+      "position": 7,
+      "title": "Does anyone know a simple but super good chocolate ...",
+      "link": "https://www.reddit.com/r/Baking/comments/161f2ci/does_anyone_know_a_simple_but_super_good/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/Baking/comments/161f2ci/does_anyone_know_a_simple_but_super_good/&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQFnoECDIQAQ",
+      "displayed_link": "10+ comments \u00b7 1 year ago",
+      "favicon": "https://serpapi.com/searches/670a30c698876dbea175758b/images/cb0fd50632a35a1b0363edd073e9964fa476b0a690976f6e7a2868357c0546f3.png",
+      "snippet": "I'm trying to help my mom find a chocolate mousse recipe. She has two right now, one is simple, less ingredients, and pretty easy process. The ...",
+      "snippet_highlighted_words": [
+        "chocolate mousse"
+      ],
+      "source": "Reddit \u00b7 r/Baking"
+    },
+    {
+      "position": 8,
+      "title": "Chocolate Mousse for Beginners (and Experts) | Food Wishes",
+      "link": "https://www.youtube.com/watch?v=MYn-rnW81Qs",
+      "displayed_link": "222.9K+ views \u00b7 8 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/MYn-rnW81Qs/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3nmCmO6j3iopMsS8cOwFoVyDrpF8g",
+      "favicon": "https://serpapi.com/searches/670a30c698876dbea175758b/images/cb0fd50632a35a1b0363edd073e9964fde706a9c65f776b93cbbc76dc606c2a3.png",
+      "snippet": "This chocolate mousse for beginners is the all-time easiest method ever for making this iconic French dessert. This recipe is perfect for ...",
+      "duration": "10:24",
+      "source": "YouTube \u00b7 Food Wishes"
+    },
+    {
+      "position": 9,
+      "title": "Best Chocolate Mousse Recipe",
+      "link": "https://www.bettycrocker.com/recipes/best-chocolate-mousse-recipe/25446b27-770f-4d48-babd-5315521b0e7b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bettycrocker.com/recipes/best-chocolate-mousse-recipe/25446b27-770f-4d48-babd-5315521b0e7b&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQFnoECDwQAQ",
+      "displayed_link": "https://www.bettycrocker.com \u203a recipes \u203a best-chocolat...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV7RA2_TxCEhx2SMr-oSKVHfw0Gxnl0ZtekSEk70bdLG-uPaQuBSRu&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/670a30c698876dbea175758b/images/cb0fd50632a35a1b0363edd073e9964f33de1a3729dddb9f708417c1b5122d3d.png",
+      "snippet": "The best chocolate mousse recipe has simply egg yolks, sugar, whipping cream, and semisweet baking chocolate. Plus a little patience. It's important to take ...",
+      "snippet_highlighted_words": [
+        "chocolate mousse"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Frequently Asked Questions",
+            "link": "https://www.bettycrocker.com/recipes/best-chocolate-mousse-recipe/25446b27-770f-4d48-babd-5315521b0e7b#:~:text=Frequently%20Asked%20Questions"
+          },
+          {
+            "title": "Instructions",
+            "link": "https://www.bettycrocker.com/recipes/best-chocolate-mousse-recipe/25446b27-770f-4d48-babd-5315521b0e7b#:~:text=Instructions"
+          },
+          {
+            "title": "Nutrition",
+            "link": "https://www.bettycrocker.com/recipes/best-chocolate-mousse-recipe/25446b27-770f-4d48-babd-5315521b0e7b#:~:text=Nutrition,-More"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "unknown": 4.5,
+            "hr_min": 2
+          },
+          "extensions": [
+            "4.5(106)",
+            "2 hr 20 min"
+          ]
+        }
+      },
+      "source": "Betty Crocker"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Chocolate mousse cake",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Chocolate+mousse+cake&sa=X&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQ1QJ6BAhgEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Chocolate+mousse+cake"
+    },
+    {
+      "block_position": 1,
+      "query": "Chocolate mousse recipe no eggs",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Chocolate+mousse+recipe+no+eggs&sa=X&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQ1QJ6BAheEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Chocolate+mousse+recipe+no+eggs"
+    },
+    {
+      "block_position": 1,
+      "query": "Easy chocolate mousse recipe",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Easy+chocolate+mousse+recipe&sa=X&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQ1QJ6BAhbEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Easy+chocolate+mousse+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "3 ingredient chocolate mousse",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=3+ingredient+chocolate+mousse&sa=X&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQ1QJ6BAhaEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=3+ingredient+chocolate+mousse"
+    },
+    {
+      "block_position": 1,
+      "query": "Chocolate mousse ingredients",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Chocolate+mousse+ingredients&sa=X&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQ1QJ6BAhdEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Chocolate+mousse+ingredients"
+    },
+    {
+      "block_position": 1,
+      "query": "2 ingredient chocolate mousse",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=2+ingredient+chocolate+mousse&sa=X&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQ1QJ6BAhZEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=2+ingredient+chocolate+mousse"
+    },
+    {
+      "block_position": 1,
+      "query": "Best chocolate mousse recipe",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Best+chocolate+mousse+recipe&sa=X&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQ1QJ6BAhcEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Best+chocolate+mousse+recipe"
+    },
+    {
+      "block_position": 1,
+      "query": "Classic chocolate mousse",
+      "link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=Classic+chocolate+mousse&sa=X&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQ1QJ6BAhfEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=Classic+chocolate+mousse"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "How to make",
+        "subtitle": "How To Make Chocolate Mousse",
+        "thumbnail": "https://serpapi.com/searches/670a30c698876dbea175758b/images/8217f02188bfacf35de2afcd687d70fc94bc2746b1553caace33bb9956b611f7f716f55742f3d146.png",
+        "web_links": [
+          {
+            "title": "The Best Chocolate Mousse Recipe - Baker by Nature",
+            "snippet": "For the Chocolate Mousse: \u00b7 14 ounces 72% dark chocolate finely chopped \u00b7 8 large egg yolks \u00b7 1/2...",
+            "link": "https://bakerbynature.com/the-best-chocolate-mousse-recipe/",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdFGlSJBldj1pbJqQUayCGtToPXF8vEHfWm9F9TplcNEIRHO72mrwsXkD3Uqo",
+            "source": "Baker by Nature",
+            "source_thumbnail": "https://serpapi.com/searches/670a30c698876dbea175758b/images/8217f02188bfacf35de2afcd687d70fc94bc2746b1553caaab22bc155564fc9c3ca4aafbaf8b148ae18c08354db229b24a1eaa5748f927f1.png"
+          },
+          {
+            "title": "Chocolate Mousse for Beginners (and Experts) | Food Wishes",
+            "snippet": "This chocolate mousse for beginners is the all-time easiest method ever for making this iconic French dessert. This...",
+            "link": "https://www.youtube.com/watch?v=MYn-rnW81Qs",
+            "source": "YouTube",
+            "source_thumbnail": "https://serpapi.com/searches/670a30c698876dbea175758b/images/8217f02188bfacf35de2afcd687d70fc94bc2746b1553caaab22bc155564fc9cf27c8d378f674196555c625efcbe43d55a7e3e156e02e5cb.png"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=how+to+make+chocolate+mousse&sa=X&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQrooIegQIMBAF",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=how+to+make+chocolate+mousse"
+      },
+      {
+        "text": "Ingredients",
+        "subtitle": "What Are The Ingredients For Chocolate Mousse",
+        "thumbnail": "https://serpapi.com/searches/670a30c698876dbea175758b/images/8217f02188bfacf35de2afcd687d70fcd1845c3c16b3b1a0e29267eeb22be45bd7cbb26dcc7e58b0.png",
+        "web_links": [
+          {
+            "title": "Chocolate Mousse - RecipeTin Eats",
+            "snippet": "Ingredients ; 3 eggs (~55g/2 oz each) ; 125g / 4.5 oz dark cooking chocolate , bittersweet / 70% cocoa (Note 1) ; 10g /...",
+            "link": "https://www.recipetineats.com/chocolate-mousse/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp9fXPtKyYxsuAHQ3P07TbiVe2YSiJiDorAvzEMoELk8z_C-BOrvk9zCsopqs",
+            "source": "RecipeTin Eats",
+            "source_thumbnail": "https://serpapi.com/searches/670a30c698876dbea175758b/images/8217f02188bfacf35de2afcd687d70fcd1845c3c16b3b1a06c03fea1fe3691d8992a29115beba821749f9d7377b10b4cc8bddbdbed883e87.png"
+          },
+          {
+            "title": "Chocolate Mousse for Beginners Recipe - Allrecipes",
+            "snippet": "Ingredients \u00b7 3 1/2 ounces dark chocolate (62% cacao is ideal) \u00b7 1 tablespoon unsalted butter \u00b7 2...",
+            "link": "https://www.allrecipes.com/chocolate-mousse-for-beginners-recipe-8574786",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTV37W4TJGP2rOicUsb6dcG1g-UskYAKsQ2yj_xeSN6_Tpm7uU1_VK8BtN6QCY",
+            "source": "Allrecipes",
+            "source_thumbnail": "https://serpapi.com/searches/670a30c698876dbea175758b/images/8217f02188bfacf35de2afcd687d70fcd1845c3c16b3b1a06c03fea1fe3691d8271ffee18cbd35a6d05e3d24c4628737bdd4cd1cf1006e2f.png"
+          }
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=what+are+the+ingredients+for+chocolate+mousse&sa=X&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQrooIegQIMBAK",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=what+are+the+ingredients+for+chocolate+mousse"
+      },
+      {
+        "text": "Taste",
+        "subtitle": "Chocolate Mousse Taste",
+        "title": "Chocolate Mousse - Valrhona",
+        "link": "https://www.valrhona.us/our-classes/l-ecole-valrhona/chocolate-glossary/chocolate-mousse#:~:text=Chocolate%20mousse%20is%20a%20staple,and%20melting%20on%20the%20palate.",
+        "displayed_link": "https://www.valrhona.us \u203a our-classes \u203a chocolate-glossary",
+        "snippet": "Chocolate mousse is a staple among chocolate desserts. It is very popular for all ages. Its texture is easy to recognize as it has a light, airy look, its chocolate flavor is intense and it's soft and melting on the palate.",
+        "snippet_highlighted_words": [
+          "chocolate flavor is intense"
+        ],
+        "favicon": "https://serpapi.com/searches/670a30c698876dbea175758b/images/8217f02188bfacf35de2afcd687d70fc3788a82fadcb07373a3bb716152471aabac9618bbf9bdbee.png",
+        "source": "valrhona.us",
+        "search_link": "https://www.google.com/search?sca_esv=7d18109a394306ad&hl=en&gl=us&q=chocolate+mousse+taste&sa=X&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQrooIegQIMBAP",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=chocolate+mousse+taste"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=chocolate+mousse&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=xzAKZ9eYNZ3MkPIP1riRkQc&start=10&sa=N&sstk=AagrsuiU6XfOOVqOlUmDsGZ2wvmsfpVmKZVx95Ab8qWVvCoOXVG5Z1iqoSdDunwgt0ojBBsgSjT1r7AAhCaGdb28XMUSkkGo6vP5wg&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQ8NMDegQIThAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=chocolate+mousse&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=xzAKZ9eYNZ3MkPIP1riRkQc&start=10&sa=N&sstk=AagrsuiU6XfOOVqOlUmDsGZ2wvmsfpVmKZVx95Ab8qWVvCoOXVG5Z1iqoSdDunwgt0ojBBsgSjT1r7AAhCaGdb28XMUSkkGo6vP5wg&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQ8tMDegQIThAE",
+      "3": "https://www.google.com/search?q=chocolate+mousse&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=xzAKZ9eYNZ3MkPIP1riRkQc&start=20&sa=N&sstk=AagrsuiU6XfOOVqOlUmDsGZ2wvmsfpVmKZVx95Ab8qWVvCoOXVG5Z1iqoSdDunwgt0ojBBsgSjT1r7AAhCaGdb28XMUSkkGo6vP5wg&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQ8tMDegQIThAG",
+      "4": "https://www.google.com/search?q=chocolate+mousse&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=xzAKZ9eYNZ3MkPIP1riRkQc&start=30&sa=N&sstk=AagrsuiU6XfOOVqOlUmDsGZ2wvmsfpVmKZVx95Ab8qWVvCoOXVG5Z1iqoSdDunwgt0ojBBsgSjT1r7AAhCaGdb28XMUSkkGo6vP5wg&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQ8tMDegQIThAI",
+      "5": "https://www.google.com/search?q=chocolate+mousse&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=xzAKZ9eYNZ3MkPIP1riRkQc&start=40&sa=N&sstk=AagrsuiU6XfOOVqOlUmDsGZ2wvmsfpVmKZVx95Ab8qWVvCoOXVG5Z1iqoSdDunwgt0ojBBsgSjT1r7AAhCaGdb28XMUSkkGo6vP5wg&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQ8tMDegQIThAK",
+      "6": "https://www.google.com/search?q=chocolate+mousse&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=xzAKZ9eYNZ3MkPIP1riRkQc&start=50&sa=N&sstk=AagrsuiU6XfOOVqOlUmDsGZ2wvmsfpVmKZVx95Ab8qWVvCoOXVG5Z1iqoSdDunwgt0ojBBsgSjT1r7AAhCaGdb28XMUSkkGo6vP5wg&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQ8tMDegQIThAM",
+      "7": "https://www.google.com/search?q=chocolate+mousse&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=xzAKZ9eYNZ3MkPIP1riRkQc&start=60&sa=N&sstk=AagrsuiU6XfOOVqOlUmDsGZ2wvmsfpVmKZVx95Ab8qWVvCoOXVG5Z1iqoSdDunwgt0ojBBsgSjT1r7AAhCaGdb28XMUSkkGo6vP5wg&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQ8tMDegQIThAO",
+      "8": "https://www.google.com/search?q=chocolate+mousse&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=xzAKZ9eYNZ3MkPIP1riRkQc&start=70&sa=N&sstk=AagrsuiU6XfOOVqOlUmDsGZ2wvmsfpVmKZVx95Ab8qWVvCoOXVG5Z1iqoSdDunwgt0ojBBsgSjT1r7AAhCaGdb28XMUSkkGo6vP5wg&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQ8tMDegQIThAQ",
+      "9": "https://www.google.com/search?q=chocolate+mousse&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=xzAKZ9eYNZ3MkPIP1riRkQc&start=80&sa=N&sstk=AagrsuiU6XfOOVqOlUmDsGZ2wvmsfpVmKZVx95Ab8qWVvCoOXVG5Z1iqoSdDunwgt0ojBBsgSjT1r7AAhCaGdb28XMUSkkGo6vP5wg&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQ8tMDegQIThAS",
+      "10": "https://www.google.com/search?q=chocolate+mousse&sca_esv=7d18109a394306ad&hl=en&gl=us&ei=xzAKZ9eYNZ3MkPIP1riRkQc&start=90&sa=N&sstk=AagrsuiU6XfOOVqOlUmDsGZ2wvmsfpVmKZVx95Ab8qWVvCoOXVG5Z1iqoSdDunwgt0ojBBsgSjT1r7AAhCaGdb28XMUSkkGo6vP5wg&ved=2ahUKEwiXmNf2s4iJAxUdJkQIHVZcJHIQ8tMDegQIThAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=chocolate+mousse&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=chocolate+mousse&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=chocolate+mousse&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=chocolate+mousse&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=chocolate+mousse&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=chocolate+mousse&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=chocolate+mousse&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=chocolate+mousse&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=chocolate+mousse&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=chocolate+mousse&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2CTexas%2CUnited+States&q=chocolate+mousse&start=90"
+    }
+  }
+}

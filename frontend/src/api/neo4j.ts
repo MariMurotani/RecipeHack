@@ -18,33 +18,16 @@ const driver = neo4j.driver(uri, neo4j.auth.basic(user, password));
 export const getEntryDataWithCategoryGroup = async (category: string, value:string): Promise<Entry[]|undefined>  => {
   const session = driver.session();
   const cate_string = getCategories(category);
+
   try {
-    const sub_category_result = await session.run(`
-      MATCH (f:FoodGroup)-[c:CONTAINS]->(fg:FoodSubGroup) 
-      WHERE f.id in [${cate_string}]
-      RETURN fg.id;
-    `);
-
-    const sub_category_ids = sub_category_result.records.map((record) => {
-      return `'${record.get('fg.id')}'`;
-      }
-    );
-
-    const sub_category_string = sub_category_ids.join(",");
-    
     // クエリを実行
-    const fetch_query = `
-    CALL db.index.fulltext.queryNodes("food_origin_index_text_search", "${value}*") 
-    YIELD node, score
-    MATCH (node)-[:HAS_GROUP]->(fg:FoodGroup)
-    MATCH (node)-[:HAS_SUB_GROUP]->(sg:FoodSubGroup)
-    WHERE fg in [${cate_string}] OR sg.id in [${sub_category_string}]
-    RETURN node, score
-    ORDER BY score DESC;
-    `
-    console.log(fetch_query);
-
-    const result = await session.run(fetch_query);
+    const result = await session.run(`
+      CALL db.index.fulltext.queryNodes('my_text_index', '${value}*') 
+      YIELD node as e, score
+      WHERE e.category in [${cate_string}]
+      RETURN e, score 
+      ORDER BY score DESC, e.name
+    `);
     
     return formatEntries(result);
 
@@ -100,10 +83,10 @@ export const getMatchedParingEntries = async (main_entries: Entry[], groups:stri
 // カテゴリないの一覧を文字列で返す
 const getCategories = (category: string): string => {
   const cate_maps: { [key: string]: string[] }  = {
-    'meat': ['animal_foods', 'eggs'],
-    'fish': ['aquatic_foods'],
-    'vegetable': ['vegetables', 'nuts', 'pulses', 'nuts', 'nuts'],
-    'fruit': ['nuts']
+    'meat': ['meat', 'Animal Product'],
+    'fish': ['fish', 'seafood'],
+    'vegetable': ['vegetable', 'fungus', 'maize', 'vegetable fruit', 'gourd', 'seed', 'nut','plant', 'root', 'legume', 'vegetable root', 'vegetable stem', 'vegetable tuber', 'cabbage'],
+    'fruit': ['fruit', 'berry', 'fruit-berry', 'fruit citrus']
   }
   const cate_string = cate_maps[category].join("', '");
   return `'${cate_string}'`;
@@ -113,7 +96,6 @@ const getCategories = (category: string): string => {
 const getCategoriesFromGroup = async (groups: string[]): Promise<Category[]> => {
   const session = driver.session();
   const group_ids = groups.map((group) => `'${group}'`).join(', ');
-  console.log(group_ids);
   const query = `
   MATCH (cg:CategoryGroup)-[r:GROUPED]->(c:Category)
   WHERE cg.id IN [${group_ids}]
@@ -200,7 +182,6 @@ export const extractLocalCoefficient = async (entries: Entry[]): Promise<Coeffic
 // エントリの結果をフォーマットする
 const formatEntries = (result: QueryResult<RecordShape>): Entry[] => {
   let entries: Entry[] = result.records.map((record) => {
-    console.log(record);
     const properties = record.get('e').properties;
     let distance = 0;
     let count = 0;

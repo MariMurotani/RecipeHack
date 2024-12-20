@@ -5818,7 +5818,7 @@
             "sauce",
             "mustard",
             "lemon",
-            "mayo",
+            "mayonnaise",
             "onion"
         ]
     },
@@ -6309,7 +6309,8 @@
         "ingredients": [
             "Orange roughy",
             "lemon",
-            "mustard mayo",
+            "mustard",
+            "mayonnaise",
             "cheese",
             "garlic"
         ]
@@ -6419,10 +6420,12 @@
         "reviews": 10,
         "total_time": "1",
         "ingredients": [
-            "salsa verde",
+            "garlic",
             "bean",
             "cream",
-            "tomato, onion, cilantro",
+            "tomato",
+            "onion",
+            "cilantro",
             "cheese"
         ]
     },
@@ -7123,7 +7126,6 @@
         "ingredients": [
             "soy sauce",
             "mushroom",
-            "- No ingredient found -",
             "vegetable oil"
         ]
     },
@@ -7483,7 +7485,7 @@
         "ingredients": [
             "cod",
             "red snapper fillet",
-            "matzo meal",
+            "bread crumb",
             "ling cod fillet",
             "salmon filet"
         ]
@@ -7498,7 +7500,7 @@
             "salmon",
             "cream",
             "cod",
-            "matzo meal"
+            "bread crumb"
         ]
     },
     "Homemade Paneer (Fresh Indian Cottage Cheese)": {
@@ -8634,9 +8636,14 @@
         "reviews": 27,
         "total_time": "5",
         "ingredients": [
-            "sauce",
             "artichoke",
-            "lemon"
+            "lemon",
+            "mayonnaise",
+            "yogurt",
+            "mustard",
+            "garlic",
+            "pepper",
+            "chives"
         ]
     },
     "Grilled Artichokes with Garlic, Parsley, and Lemon": {

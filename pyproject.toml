@@ -32,6 +32,9 @@ mysqlclient = "^2.2.5"
 mysql-connector-python = "^9.1.0"
 opencv-python = "^4.10.0.84"
 dowhy = "^0.12"
+seaborn = "^0.13.2"
+bs4 = "^0.0.2"
+requests = "^2.32.3"
 
 
 [build-system]

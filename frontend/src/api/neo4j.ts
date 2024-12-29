@@ -61,7 +61,7 @@ export const getMatchedParingEntries = async (main_entries: Entry[], groups:stri
     WHERE comp2.id IN compoundIds
 
     // Categoryでフィルタリング
-    MATCH (f2)-[:HAS_GROUP]->(fg:FoodGroup)
+    MATCH (f2)-[:HAS_SUB_GROUP]->(fg:FoodSubGroup)
     WHERE fg.id IN [${cate_string}]
 
     // Step 3: Compoundの数を集計して返す
@@ -224,6 +224,7 @@ const formatEntries = (result: QueryResult<RecordShape>): Entry[] => {
       name: properties.name,
       name_ja: properties.display_name_ja,
       category: properties.category,
+      sub_category: properties.sub_category,
       flavor_principal: properties.flavor_principal,
       scientific_name: properties.scientific_name,
       synonyms: properties.string,

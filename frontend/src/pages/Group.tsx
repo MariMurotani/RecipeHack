@@ -8,15 +8,16 @@ import LightbulbTypography from '../components/LightbulbTypography';
 
 // 配列にボタンのキャプションと色を保存
 const button_caption = [
-  { caption: 'Earth', color: 'primary', 'key': 'earth' },
-  { caption: 'Green', color: 'secondary', 'key': 'green' },
-  { caption: 'Tropical', color: 'success', 'key': 'tropical' },
-  { caption: 'Ocean', color: 'error', 'key': 'ocean' },
-  { caption: 'Mountain', color: 'error', 'key': 'mountain' },
-  { caption: 'Field', color: 'error', 'key': 'field' },
-  { caption: 'Spice & Herbs', color: 'error', 'key': 'spice' }, // ここから外して後で選べるようにすことを検討する
-  { caption: 'Oil', color: 'error', 'key': 'oil' },// ここから外して後で選べるようにする
-  { caption: 'Drink', color: 'error', 'key': 'drink' },// ここから外して後で選べるようにする
+  { caption: 'Earth - 土', color: '#8B4513', key: 'Earth' },
+  { caption: 'Green - 緑', color: '#556B2F', key: 'Green' },
+  { caption: 'Tropical - トロピカル', color: '#D2691E', key: 'Tropical' },
+  { caption: 'Ocean - 海', color: '#4682B4', key: 'Ocean' },
+  { caption: 'Mountain - 山', color: '#2E8B57', key: 'Mountain' },
+  { caption: 'Field - 畑', color: '#C2B280', key: 'Field' },
+  { caption: 'Spice & Herbs - スパイスとハーブ', color: '#8B0000', key: 'Spice & Herbs' },
+  { caption: 'Oil - オイル', color: '#BDB76B', key: 'Oil' },
+  { caption: 'Drink - 飲み物', color: '#6B8E23', key: 'Drink' },
+  { caption: 'Others - その他', color: '#708090', key: 'Others' }
 ];
 
 const Group: React.FC = () => {
@@ -54,7 +55,7 @@ const Group: React.FC = () => {
   return (
     <Container>
       <PageContainer>
-        <LightbulbTypography text="Choose the style of the dish" />
+        <LightbulbTypography text="何を合わせたいですか？" />
         <FixedButtonOverlay onClick={handleButtonClick} />
         {/* 取得した結果をリストとして表示 */}
         <ul>

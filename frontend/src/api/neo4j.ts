@@ -14,8 +14,8 @@ const password = 'abcd7890';  // パスワード
 const driver = neo4j.driver(uri, neo4j.auth.basic(user, password));
 
 // グループを指定してEntryを検索する
-export const getEntryDataWithCategoryGroup = async (main_class_name: string, value:string): Promise<Entry[]|undefined>  => {
-  const categories: string[] = await getCategories(main_class_name);
+export const getEntryDataWithCategoryGroup = async (class_name: string, value:string): Promise<Entry[]|undefined>  => {
+  const categories: string[] = await getCategories(class_name);
   const cate_string = categories.map((category) => `'${category}'`).join(", ");
   const session = driver.session();
   try {
@@ -42,26 +42,31 @@ export const getEntryDataWithCategoryGroup = async (main_class_name: string, val
 // 指定されたエントリのマッチングアイテムをエントリの一覧から探す
 export const getMatchedParingEntries = async (main_entries: Entry[], groups:string[], category:string): Promise<{ categories: Category[], entryResult: Entry[] }> =>  {
   const session = driver.session();
-  let categories:Category[] = (await getCategoriesFromGroup(groups));
-  if(category != ''){
-    categories = categories.filter((cate) => cate.id == category);
-  }
-  const main_entries_string = main_entries.map((entry) => `${entry.id}`).join(', ');
-  const cate_string = categories.map((category) => `'${category.id}'`).join(', ');
-
+  const categories:Category[] = await getCategorySubFromGroup(groups);
+  const main_entries_string = main_entries.map((entry) => `'${entry.id}'`).join(",");
+  const cate_string = categories.map((category) => `'${category.id}'`).join(",");
+  
+  console.log(main_entries_string);
   try {
     const query = `
-      MATCH (e:Entry)-[:CONTAINS]->(c:Molecule)<-[:CONTAINS]-(other:Entry)
-      WHERE e.id IN [${main_entries_string}]
-      MATCH (e)-[:HAS_CATEGORY]->(ec:Category)
-      MATCH (other)-[:HAS_CATEGORY]->(oc:Category)
-      WHERE e.name <> other.name
-      AND other.category IN [${cate_string}]
-      AND e.flavor_vector IS NOT NULL
-      AND other.flavor_vector IS NOT NULL
-      WITH e, other, vector.similarity.euclidean(e.flavor_vector, other.flavor_vector) AS distance, count(other.flavor_vector) as count
-      RETURN DISTINCT other as e, sum(distance) as distance, sum(count) as count
-      ORDER BY distance, count desc
+    // Step 1: 特定のFoodノードから関連するCompoundを取得
+    MATCH (f1:Food)-[:HAS_SUBTYPE]->(fst1:FoodSubType)-[:CONTAINS]->(comp:Compound)
+    WHERE f1.id IN [${main_entries_string}]
+
+    // CompoundのIDをリストとして取得
+    WITH COLLECT(comp.id) AS compoundIds
+
+    // Step 2: 同じCompoundを共有するFoodノードを取得
+    MATCH (f2:Food)-[:HAS_SUBTYPE]->(fst2:FoodSubType)-[:CONTAINS]->(comp2:Compound)
+    WHERE comp2.id IN compoundIds
+
+    // Categoryでフィルタリング
+    MATCH (f2)-[:HAS_GROUP]->(fg:FoodGroup)
+    WHERE fg.id IN [${cate_string}]
+
+    // Step 3: Compoundの数を集計して返す
+    RETURN f2 as f, COUNT(DISTINCT comp2.id) AS SharedCompoundCount
+    ORDER BY SharedCompoundCount DESC;
     `
 
     console.log(query);
@@ -81,15 +86,36 @@ export const getMatchedParingEntries = async (main_entries: Entry[], groups:stri
 }
 
 // カテゴリないの一覧を文字列で返す
-const getCategories = async (main_class_name: string): Promise<string[]> => {
+const getCategories = async (class_name: string): Promise<string[]> => {
   const session = driver.session();
   const result = await session.run(`
       MATCH (fg:FoodGroup)
-      WHERE fg.main_class='${main_class_name}'
+      WHERE fg.class_name='${class_name}'
       RETURN fg;
   `);
   const category_ids: string[] = result.records.map(
     (record) => record.get('fg').properties.id
+  );
+  return category_ids;
+}
+
+// カテゴリないの一覧を文字列で返す
+const getCategorySubFromGroup = async (class_names: string[]): Promise<Category[]> => {
+  const session = driver.session();
+  const class_name_string = class_names.join("','");
+  const result = await session.run(`
+      MATCH (fg:FoodSubGroup)
+      WHERE fg.class_name in ['${class_name_string}']
+      RETURN fg;
+  `);
+  const category_ids: Category[] = result.records.map(
+    (record) => {
+      const properties = record.get('fg').properties;
+      return {
+        id: properties.id,
+        name: properties.name
+      }
+    }
   );
   return category_ids;
 }
@@ -201,7 +227,7 @@ const formatEntries = (result: QueryResult<RecordShape>): Entry[] => {
       flavor_principal: properties.flavor_principal,
       scientific_name: properties.scientific_name,
       synonyms: properties.string,
-      flavor_count: JSON.parse(properties.flavor_count ?? '{}'),
+      flavor_count: JSON.parse(properties.SharedCompoundCount ?? '{}'),
       paring_scores: JSON.parse(properties.paring_scores ?? '{}'),
       distance: distance,
       count: count

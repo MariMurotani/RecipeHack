@@ -1,120 +1,120 @@
-id,name,display_name_ja
-herbs,Herbs,ハーブ
-cabbages,Cabbages,キャベツ類
-tropical_fruits,Tropical fruits,熱帯果実
-onion_family_vegetables,Onion-family vegetables,ネギ類
-nuts,Nuts,ナッツ
-spices,Spices,スパイス
-root_vegetables,Root vegetables,根菜
-shoot_vegetables,Shoot vegetables,芽野菜
-cereals,Cereals,穀物
-leaf_vegetables,Leaf vegetables,葉物野菜
-oilseed_crops,Oilseed crops,油糧作物
-peas,Peas,エンドウ豆
-teas,Teas,お茶
-fruit_vegetables,Fruit vegetables,果菜類
-gourds,Gourds,ウリ科
-citrus,Citrus,柑橘類
-coffee,Coffee,コーヒー
-pomes,Pomes,リンゴ類
-berries,Berries,ベリー類
-other_fruits,Other fruits,その他の果実
-soy,Soy,大豆
-tubers,Tubers,イモ類
-lentils,Lentils,レンズ豆
-other_pulses,Other pulses,その他の豆類
-beans,Beans,豆
-drupes,Drupes,核果類
-stalk_vegetables,Stalk vegetables,茎野菜
-cocoa,Cocoa,ココア
-fermented_beverages,Fermented beverages,発酵飲料
-other_breads,Other breads,その他のパン
-cereal_products,Cereal products,穀物製品
-soy_products,Soy products,大豆製品
-doughs,Doughs,生地
-distilled_beverages,Distilled beverages,蒸留酒
-fortified_wines,Fortified wines,強化ワイン
-alcoholic_beverages,Alcoholic beverages,アルコール飲料
-mollusks,Mollusks,軟体動物
-seaweed,Seaweed,海藻
-crustaceans,Crustaceans,甲殻類
-fishes,Fishes,魚類
-cetaceans,Cetaceans,鯨類
-bovines,Bovines,牛肉
-swine,Swine,豚肉
-other_seeds,Other seeds,その他の種子
-other_vegetables,Other vegetables,その他の野菜
-poultry,Poultry,鶏肉
-venison,Venison,鹿肉
-equines,Equines,馬肉
-other_aquatic_foods,Other aquatic foods,その他の水産食品
-pinnipeds,Pinnipeds,アザラシ類
-lagomorphs,Lagomorphs,ウサギ類
-ovis,Ovis,羊肉
-caprae,Caprae,山羊肉
-mushrooms,Mushrooms,キノコ
-amphibians,Amphibians,両生類
-fermented_milk_products,Fermented milk products,発酵乳製品
-unfermented_milks,Unfermented milks,非発酵乳
-eggs,Eggs,卵
-frozen_desserts,Frozen desserts,冷凍デザート
-other_confectioneries,Other confectioneries,その他の菓子
-candies,Candies,キャンディ
-seasonings,Seasonings,調味料
-desserts,Desserts,デザート
-other_dishes,Other dishes,その他の料理
-snack_foods,Snack foods,スナック食品
-flat_breads,Flat breads,フラットブレッド
-dressings,Dressings,ドレッシング
-sauces,Sauces,ソース
-other_milk_products,Other milk products,その他の乳製品
-substitutes,Substitutes,代替品
-sugars,Sugars,砂糖
-ground_meat,Ground meat,挽肉
-condiments,Condiments,調味料
-baking_goods,Baking goods,製菓材料
-fruit_products,Fruit products,果実製品
-waters,Waters,水
-fish_products,Fish products,魚製品
-other_beverages,Other beverages,その他の飲料
-baby_foods,Baby foods,ベビーフード
-vegetable_products,Vegetable products,野菜製品
-unclassified,Unclassified,未分類
-animal_fats,Animal fats,動物性脂肪
-spreads,Spreads,スプレッド
-herb_and_spice_mixtures,Herb and spice mixtures,ハーブとスパイスミックス
-cocoa_products,Cocoa products,ココア製品
-fermented_milks,Fermented milks,発酵乳
-leavened_breads,Leavened breads,発酵パン
-roe,Roe,魚卵
-nutritional_beverages,Nutritional beverages,栄養飲料
-tex_mex_cuisine,Tex-Mex cuisine,メキシコ風料理
-sandwiches,Sandwiches,サンドイッチ
-milk_desserts,Milk desserts,ミルクデザート
-asian_cuisine,Asian cuisine,アジア料理
-herbal_teas,Herbal teas,ハーブティー
-pasta_dishes,Pasta dishes,パスタ料理
-berber_cuisine,Berber cuisine,ベルベル料理
-coffee_products,Coffee products,コーヒー製品
-mexican_cuisine,Mexican cuisine,メキシコ料理
-potato_dishes,Potato dishes,ポテト料理
-american_cuisine,American cuisine,アメリカ料理
-wrappers,Wrappers,ラップサンド
-vegetable_fats,Vegetable fats,植物性脂肪
-latin_american_cuisine,Latin American cuisine,ラテンアメリカ料理
-bread_products,Bread products,パン製品
-sweet_breads,Sweet breads,甘いパン
-jewish_cuisine,Jewish cuisine,ユダヤ料理
-levantine_cuisine,Levantine cuisine,レバント料理
-brassicas,Brassicas,アブラナ科
-cereals_and_cereal_products,Cereals and cereal products,穀物および穀物製品
-cocoa_and_cocoa_products,Cocoa and cocoa products,ココアおよびココア製品
-coffee_and_coffee_products,Coffee and coffee products,コーヒーおよびコーヒー製品
-milk_and_milk_products,Milk and milk products,牛乳および乳製品
-fats_and_oils,Fats and oils,油脂類
-herbs_and_spices,Herbs and Spices,ハーブおよびスパイス
-pulses,Pulses,豆類
-beverages,Beverages,飲料
-fruits,Fruits,果物
-green_vegetables,Green vegetables,青菜類
-bivalvia,Bivalvia,二枚貝
+id,name,display_name_ja,class_name
+herbs,Herbs,ハーブ,Mountain
+cabbages,Cabbages,キャベツ類,Green
+tropical_fruits,Tropical fruits,熱帯果実,Tropical
+onion_family_vegetables,Onion-family vegetables,ネギ類,Other
+nuts,Nuts,ナッツ,Earth
+spices,Spices,スパイス,Spice & Herbs
+root_vegetables,Root vegetables,根菜,Earth
+shoot_vegetables,Shoot vegetables,芽野菜,Other
+cereals,Cereals,穀物,Field
+leaf_vegetables,Leaf vegetables,葉物野菜,Green
+oilseed_crops,Oilseed crops,油糧作物,Field
+peas,Peas,エンドウ豆,Field
+teas,Teas,お茶,Drink
+fruit_vegetables,Fruit vegetables,果菜類,Other
+gourds,Gourds,ウリ科,Other
+citrus,Citrus,柑橘類,Tropical
+coffee,Coffee,コーヒー,Drink
+pomes,Pomes,リンゴ類,Tropical
+berries,Berries,ベリー類,Tropical
+other_fruits,Other fruits,その他の果実,Tropical
+soy,Soy,大豆,Other
+tubers,Tubers,イモ類,Earth
+lentils,Lentils,レンズ豆,Field
+other_pulses,Other pulses,その他の豆類,Other
+beans,Beans,豆,Earth
+drupes,Drupes,核果類,Other
+stalk_vegetables,Stalk vegetables,茎野菜,Other
+cocoa,Cocoa,ココア,Other
+fermented_beverages,Fermented beverages,発酵飲料,Drink
+other_breads,Other breads,その他のパン,Other
+cereal_products,Cereal products,穀物製品,Earth
+soy_products,Soy products,大豆製品,Other
+doughs,Doughs,生地,Other
+distilled_beverages,Distilled beverages,蒸留酒,Drink
+fortified_wines,Fortified wines,強化ワイン,Drink
+alcoholic_beverages,Alcoholic beverages,アルコール飲料,Drink
+mollusks,Mollusks,軟体動物,Ocean
+seaweed,Seaweed,海藻,Ocean
+crustaceans,Crustaceans,甲殻類,Ocean
+fishes,Fishes,魚類,Ocean
+cetaceans,Cetaceans,鯨類,Ocean
+bovines,Bovines,牛肉,Other
+swine,Swine,豚肉,Other
+other_seeds,Other seeds,その他の種子,Other
+other_vegetables,Other vegetables,その他の野菜,Other
+poultry,Poultry,鶏肉,Other
+venison,Venison,鹿肉,Other
+equines,Equines,馬肉,Other
+other_aquatic_foods,Other aquatic foods,その他の水産食品,Ocean
+pinnipeds,Pinnipeds,アザラシ類,Other
+lagomorphs,Lagomorphs,ウサギ類,Other
+ovis,Ovis,羊肉,Other
+caprae,Caprae,山羊肉,Other
+mushrooms,Mushrooms,キノコ,Mountain
+amphibians,Amphibians,両生類,Other
+fermented_milk_products,Fermented milk products,発酵乳製品,Other
+unfermented_milks,Unfermented milks,非発酵乳,Other
+eggs,Eggs,卵,Other
+frozen_desserts,Frozen desserts,冷凍デザート,Other
+other_confectioneries,Other confectioneries,その他の菓子,Other
+candies,Candies,キャンディ,Other
+seasonings,Seasonings,調味料,Spice & Herbs
+desserts,Desserts,デザート,Other
+other_dishes,Other dishes,その他の料理,Other
+snack_foods,Snack foods,スナック食品,Other
+flat_breads,Flat breads,フラットブレッド,Other
+dressings,Dressings,ドレッシング,Other
+sauces,Sauces,ソース,Other
+other_milk_products,Other milk products,その他の乳製品,Other
+substitutes,Substitutes,代替品,Other
+sugars,Sugars,砂糖,Other
+ground_meat,Ground meat,挽肉,Earth
+condiments,Condiments,調味料,Other
+baking_goods,Baking goods,製菓材料,Other
+fruit_products,Fruit products,果実製品,Other
+waters,Waters,水,Other
+fish_products,Fish products,魚製品,Other
+other_beverages,Other beverages,その他の飲料,Other
+baby_foods,Baby foods,ベビーフード,Other
+vegetable_products,Vegetable products,野菜製品,Other
+unclassified,Unclassified,未分類,Other
+animal_fats,Animal fats,動物性脂肪,Oil
+spreads,Spreads,スプレッド,Other
+herb_and_spice_mixtures,Herb and spice mixtures,ハーブとスパイスミックス,Spice & Herbs
+cocoa_products,Cocoa products,ココア製品,Other
+fermented_milks,Fermented milks,発酵乳,Other
+leavened_breads,Leavened breads,発酵パン,Other
+roe,Roe,魚卵,Other
+nutritional_beverages,Nutritional beverages,栄養飲料,Drink
+tex_mex_cuisine,Tex-Mex cuisine,メキシコ風料理,Other
+sandwiches,Sandwiches,サンドイッチ,Other
+milk_desserts,Milk desserts,ミルクデザート,Other
+asian_cuisine,Asian cuisine,アジア料理,Other
+herbal_teas,Herbal teas,ハーブティー,Drink
+pasta_dishes,Pasta dishes,パスタ料理,Other
+berber_cuisine,Berber cuisine,ベルベル料理,Other
+coffee_products,Coffee products,コーヒー製品,Drink
+mexican_cuisine,Mexican cuisine,メキシコ料理,Other
+potato_dishes,Potato dishes,ポテト料理,Other
+american_cuisine,American cuisine,アメリカ料理,Other
+wrappers,Wrappers,ラップサンド,Other
+vegetable_fats,Vegetable fats,植物性脂肪,Oil
+latin_american_cuisine,Latin American cuisine,ラテンアメリカ料理,Other
+bread_products,Bread products,パン製品,Other
+sweet_breads,Sweet breads,甘いパン,Other
+jewish_cuisine,Jewish cuisine,ユダヤ料理,Other
+levantine_cuisine,Levantine cuisine,レバント料理,Other
+brassicas,Brassicas,アブラナ科,Green
+cereals_and_cereal_products,Cereals and cereal products,穀物および穀物製品,Earth
+cocoa_and_cocoa_products,Cocoa and cocoa products,ココアおよびココア製品,Other
+coffee_and_coffee_products,Coffee and coffee products,コーヒーおよびコーヒー製品,Drink
+milk_and_milk_products,Milk and milk products,牛乳および乳製品,Other
+fats_and_oils,Fats and oils,油脂類,Oil
+herbs_and_spices,Herbs and Spices,ハーブおよびスパイス,Spice & Herbs
+pulses,Pulses,豆類,Field
+beverages,Beverages,飲料,Drink
+fruits,Fruits,果物,Tropical
+green_vegetables,Green vegetables,青菜類,Green
+bivalvia,Bivalvia,二枚貝,Ocean

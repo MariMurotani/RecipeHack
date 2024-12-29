@@ -17,7 +17,7 @@ const MainGroup: React.FC = () => {
   const [isChecked, setIsChecked] = useState<{ [key: string]: boolean }>({}); // チェックボックスのステート管理専用
 
   // 初期値として `meat` を使用し、`result`を取得
-  const cate = selectedMainGroup === "" ? "meat" : selectedMainGroup;
+  const cate = selectedMainGroup === "" ? "Meat" : selectedMainGroup;
 
   // `searchText` や `cate` が変更された時にデータを取得する
   useEffect(() => {

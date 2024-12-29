@@ -7,10 +7,12 @@ import LightbulbTypography from '../components/LightbulbTypography';
 
 // 配列にボタンのキャプションと色を保存
 const button_caption = [
-  { caption: 'Meat', color: '#B22222', 'key': 'meat' },
-  { caption: 'Fish', color: '#4169E1', 'key': 'fish' },
-  { caption: 'Vegetable', color: '#228B22', 'key': 'vegetable' },
-  { caption: 'Fruit', color: '#B8860B', 'key': 'fruit' },
+  { caption: '肉', color: '#B22222', 'key': 'Meat' },
+  { caption: '魚や貝', color: '#4169E1', 'key': 'Fish' },
+  { caption: '野菜', color: '#228B22', 'key': 'Vegetables' },
+  { caption: 'フルーツ', color: '#B8860B', 'key': 'Fruits' },
+  { caption: 'その他', color: '#800000', 'key': 'Others' },
+  { caption: '', color: 'transparent', key: 'dummy1' }
 ];
 
 const Home: React.FC = () => {
@@ -36,7 +38,7 @@ const Home: React.FC = () => {
   return (
     <Container>
       <PageContainer>
-        <LightbulbTypography text="Select your main item" />
+        <LightbulbTypography text="メインディッシュを選択してください" />
         <Grid
           container
           spacing={2}
@@ -48,11 +50,13 @@ const Home: React.FC = () => {
               variant="contained"
               fullWidth
               sx={{
-                color: '#fff',
-                backgroundColor: color,
+                color: caption ? '#fff' : 'transparent', // ダミーは透明
+                backgroundColor: caption ? color : 'transparent', // 背景も透明
                 aspectRatio: '1 / 1', // 正方形にする
                 minHeight: '20px',  // ボタンの最小高さ
                 maxHeight: '200px',  // ボタンの最大高さ
+                boxShadow: caption ? undefined : 'none', // ダミーは影を消す
+                pointerEvents: caption ? 'auto' : 'none', // ダミーはクリック不可にする
               }}
               onClick={() => handleButtonClick(key)} 
             >

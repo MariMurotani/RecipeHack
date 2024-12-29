@@ -3,28 +3,27 @@ import { Category, Entry, Coefficient } from './types';
 
 // Neo4j に接続するためのドライバを作成
 // 接続情報を確認
-//const uri = process.env.NEO4J_URI || 'neo4j://localhost:7687';  // 接続先のURL
-//const user = process.env.NEO4J_USER || 'neo4j';  // ユーザー名
-//const password = process.env.NEO4J_PASSWORD || 'neo4j';  // パスワード
-
 const uri = 'neo4j://localhost:7687';  // 接続先のURL
 const user = 'neo4j';  // ユーザー名
 const password = 'abcd7890';  // パスワード
+//const uri = process.env.NEO4J_URI || 'neo4j://localhost:7687';  // 接続先のURL
+//const user = process.env.NEO4J_USER || 'neo4j';  // ユーザー名
+//const password = process.env.NEO4J_PASSWORD || 'neo4j';  // パスワード
 
 // ドライバの初期化
 const driver = neo4j.driver(uri, neo4j.auth.basic(user, password));
 
 // グループを指定してEntryを検索する
-export const getEntryDataWithCategoryGroup = async (category: string, value:string): Promise<Entry[]|undefined>  => {
+export const getEntryDataWithCategoryGroup = async (main_class_name: string, value:string): Promise<Entry[]|undefined>  => {
+  const categories: string[] = await getCategories(main_class_name);
+  const cate_string = categories.map((category) => `'${category}'`).join(", ");
   const session = driver.session();
-  const cate_string = getCategories(category);
-
   try {
     // クエリを実行
     const result = await session.run(`
-      CALL db.index.fulltext.queryNodes('my_text_index', '${value}*') 
+      CALL db.index.fulltext.queryNodes('food_origin_index_text_search', '${value}*') 
       YIELD node as e, score
-      WHERE e.category in [${cate_string}]
+      WHERE e.category in ['${cate_string}']
       RETURN e, score 
       ORDER BY score DESC, e.name
     `);
@@ -81,15 +80,18 @@ export const getMatchedParingEntries = async (main_entries: Entry[], groups:stri
 }
 
 // カテゴリないの一覧を文字列で返す
-const getCategories = (category: string): string => {
-  const cate_maps: { [key: string]: string[] }  = {
-    'meat': ['meat', 'Animal Product'],
-    'fish': ['fish', 'seafood'],
-    'vegetable': ['vegetable', 'fungus', 'maize', 'vegetable fruit', 'gourd', 'seed', 'nut','plant', 'root', 'legume', 'vegetable root', 'vegetable stem', 'vegetable tuber', 'cabbage'],
-    'fruit': ['fruit', 'berry', 'fruit-berry', 'fruit citrus']
-  }
-  const cate_string = cate_maps[category].join("', '");
-  return `'${cate_string}'`;
+const getCategories = async (main_class_name: string): Promise<string[]> => {
+  const session = driver.session();
+  const result = await session.run(`
+      MATCH (fg:FoodGroup)
+      WHERE fg.main_class='${main_class_name}'
+      RETURN fg;
+  `);
+  const category_ids: string[] = result.records.map(
+    (record) => record.get('fg').properties.id
+  );
+  console.log(category_ids);
+  return category_ids;
 }
 
 // グループからカテゴリを検索する

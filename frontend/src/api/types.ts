@@ -2,6 +2,7 @@
 export interface Entry {
     id: string;
     name: string;
+    //name_ja: string;
     category: string;
     flavor_principal: string;
     scientific_name: string, 
@@ -16,6 +17,7 @@ export interface Entry {
 export interface Category {
   id: string;
   name: string;
+  name_ja?: string;
 }
 
 // 共起分析を受け取るための型

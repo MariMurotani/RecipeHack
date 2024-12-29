@@ -13,11 +13,12 @@ const button_caption = [
   { caption: 'Tropical - トロピカル', color: '#D2691E', key: 'Tropical' },
   { caption: 'Ocean - 海', color: '#4682B4', key: 'Ocean' },
   { caption: 'Mountain - 山', color: '#2E8B57', key: 'Mountain' },
+  { caption: 'Pasture - 牧草地', color: '#2E8B57', key: 'Pasture' },
   { caption: 'Field - 畑', color: '#C2B280', key: 'Field' },
   { caption: 'Spice & Herbs - スパイスとハーブ', color: '#8B0000', key: 'Spice & Herbs' },
   { caption: 'Oil - オイル', color: '#BDB76B', key: 'Oil' },
   { caption: 'Drink - 飲み物', color: '#6B8E23', key: 'Drink' },
-  { caption: 'Others - その他', color: '#708090', key: 'Others' }
+  { caption: 'Others - その他', color: '#708090', key: 'Other' }
 ];
 
 const Group: React.FC = () => {

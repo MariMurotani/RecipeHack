@@ -4,6 +4,7 @@ export interface Entry {
     name: string;
     name_ja: string;
     category: string;
+    sub_category: string;
     flavor_principal: string;
     scientific_name: string, 
     synonyms: string

@@ -2,7 +2,7 @@
 export interface Entry {
     id: string;
     name: string;
-    //name_ja: string;
+    name_ja: string;
     category: string;
     flavor_principal: string;
     scientific_name: string, 

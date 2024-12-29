@@ -7,11 +7,11 @@ import LightbulbTypography from '../components/LightbulbTypography';
 
 // 配列にボタンのキャプションと色を保存
 const button_caption = [
-  { caption: '肉', color: '#B22222', 'key': 'Meat' },
-  { caption: '魚や貝', color: '#4169E1', 'key': 'Fish' },
-  { caption: '野菜', color: '#228B22', 'key': 'Vegetables' },
-  { caption: 'フルーツ', color: '#B8860B', 'key': 'Fruits' },
-  { caption: 'その他', color: '#800000', 'key': 'Others' },
+  { caption: 'Meat-  肉', color: '#B22222', 'key': 'Meat' },
+  { caption: 'Fish or Shellfish - 魚や貝', color: '#4169E1', 'key': 'Fish' },
+  { caption: 'Vegetables - 野菜', color: '#228B22', 'key': 'Vegetables' },
+  { caption: 'Fruits - フルーツ', color: '#B8860B', 'key': 'Fruits' },
+  { caption: 'Others - その他', color: '#800000', 'key': 'Others' },
   { caption: '', color: 'transparent', key: 'dummy1' }
 ];
 

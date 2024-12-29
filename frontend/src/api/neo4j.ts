@@ -21,11 +21,12 @@ export const getEntryDataWithCategoryGroup = async (main_class_name: string, val
   try {
     // クエリを実行
     const result = await session.run(`
-      CALL db.index.fulltext.queryNodes('food_origin_index_text_search', '${value}*') 
-      YIELD node as e, score
-      WHERE e.category in ['${cate_string}']
-      RETURN e, score 
-      ORDER BY score DESC, e.name
+      CALL db.index.fulltext.queryNodes("food_origin_index_text_search", "${value}*") 
+      YIELD node AS f, score
+      MATCH (f)-[c:HAS_GROUP]->(fg:FoodGroup)
+      WHERE fg.id IN [${cate_string}]
+      RETURN f, fg, score
+      ORDER BY score DESC;
     `);
     
     return formatEntries(result);
@@ -90,7 +91,6 @@ const getCategories = async (main_class_name: string): Promise<string[]> => {
   const category_ids: string[] = result.records.map(
     (record) => record.get('fg').properties.id
   );
-  console.log(category_ids);
   return category_ids;
 }
 
@@ -184,7 +184,7 @@ export const extractLocalCoefficient = async (entries: Entry[]): Promise<Coeffic
 // エントリの結果をフォーマットする
 const formatEntries = (result: QueryResult<RecordShape>): Entry[] => {
   let entries: Entry[] = result.records.map((record) => {
-    const properties = record.get('e').properties;
+    const properties = record.get('f').properties;
     let distance = 0;
     let count = 0;
     if(record.keys.includes('distance')){
@@ -196,6 +196,7 @@ const formatEntries = (result: QueryResult<RecordShape>): Entry[] => {
     return {
       id: properties.id,
       name: properties.name,
+      name_ja: properties.display_name_ja,
       category: properties.category,
       flavor_principal: properties.flavor_principal,
       scientific_name: properties.scientific_name,

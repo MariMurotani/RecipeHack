@@ -111,7 +111,7 @@ const MainGroup: React.FC = () => {
               size="small"  
               checked={isChecked[entry.id] || false}  
               onChange={(event) => handleItemClick(entry, event)} />
-              {entry.name} - {entry.scientific_name}
+              {entry.name} - {entry.name_ja}
             </li>
           ))}
         </ul>

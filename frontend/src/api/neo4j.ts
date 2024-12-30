@@ -55,20 +55,26 @@ export const getMatchedParingEntries = async (main_entries: Entry[], groups:stri
     MATCH (f1:Food)-[:HAS_SUBTYPE]->(fst1:FoodSubType)-[:CONTAINS]->(comp:Compound)
     WHERE f1.id IN [${main_entries_string}]
 
-    // CompoundのIDをリストとして取得
-    WITH COLLECT(comp.id) AS compoundIds
+    // Step 2: CompoundのIDをリストとして取得
+    WITH f1, f1.flavor_vector AS f1Vector, COLLECT(comp.id) AS compoundIds
 
-    // Step 2: 同じCompoundを共有するFoodノードを取得
+    // Step 3: 同じCompoundを共有するFoodノードを取得
     MATCH (f2:Food)-[:HAS_SUBTYPE]->(fst2:FoodSubType)-[:CONTAINS]->(comp2:Compound)
     WHERE comp2.id IN compoundIds
 
-    // Categoryでフィルタリング
+    // Step 4: Categoryでフィルタリング
     MATCH (f2)-[:HAS_SUB_GROUP]->(fg:FoodSubGroup)
     WHERE fg.id IN [${cate_string}]
 
-    // Step 3: Compoundの数を集計して返す
-    RETURN f2 as f, COUNT(DISTINCT comp2.id) AS count
-    ORDER BY count DESC;
+    // Step 5: ベクター計算
+    WITH f1, f2, fg, COUNT(DISTINCT comp2.id) AS count,
+      gds.similarity.cosine(f1.word_vector, f2.word_vector) AS word_score,
+       gds.similarity.cosine(f1.flavor_vector, f2.flavor_vector) AS flavor_score
+
+    // Step 6: Compoundの数を集計して返す
+    WITH f2, fg, AVG(word_score) AS word_score_avg, AVG(flavor_score) AS flavor_score_avg
+    RETURN f2 AS f, fg AS fg, word_score_avg, flavor_score_avg
+    ORDER BY word_score_avg DESC;
     `
 
     console.log(query);
@@ -213,14 +219,18 @@ export const extractLocalCoefficient = async (entries: Entry[]): Promise<Coeffic
 const formatEntries = (result: QueryResult<RecordShape>): Entry[] => {
   let entries: Entry[] = result.records.map((record) => {
     const properties = record.get('f').properties;
-    let distance = 0;
     let count = 0;
+    let flavor_score_avg = 0;
+    let word_score_avg = 0;
     
-    if(record.has('distance')){
-      distance = record.get('distance');
-    }
     if(record.has('count')){
       count = parseInt(record.get('count'));
+    }
+    if (record.has('flavor_score_avg')) {
+      flavor_score_avg = parseFloat(record.get('flavor_score_avg').toFixed(2));
+    }
+    if(record.has('word_score_avg')){
+      word_score_avg = parseFloat(record.get('word_score_avg').toFixed(2));
     }
     return {
       id: properties.id,
@@ -233,8 +243,10 @@ const formatEntries = (result: QueryResult<RecordShape>): Entry[] => {
       synonyms: properties.string,
       flavor_count: JSON.parse(properties.SharedCompoundCount ?? '{}'),
       paring_scores: JSON.parse(properties.paring_scores ?? '{}'),
-      distance: distance,
-      count: count
+      flavor_score: flavor_score_avg,
+      word_score: word_score_avg,
+      count: count,
+      distance: 0
     };
   });
 

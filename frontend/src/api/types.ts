@@ -10,8 +10,10 @@ export interface Entry {
     synonyms: string
     flavor_count: { [key: string]: number };
     paring_scores: { [key: string]: number };
-    distance: number | undefined,
+    flavor_score: number | undefined,
+    word_score: number | undefined,
     count: number | undefined,
+    distance: number | undefined
   }
 
 // Categoryの型を定義

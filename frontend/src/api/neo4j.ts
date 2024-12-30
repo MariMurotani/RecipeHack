@@ -67,8 +67,8 @@ export const getMatchedParingEntries = async (main_entries: Entry[], groups:stri
     WHERE fg.id IN [${cate_string}]
 
     // Step 3: Compoundの数を集計して返す
-    RETURN f2 as f, COUNT(DISTINCT comp2.id) AS SharedCompoundCount
-    ORDER BY SharedCompoundCount DESC;
+    RETURN f2 as f, COUNT(DISTINCT comp2.id) AS count
+    ORDER BY count DESC;
     `
 
     console.log(query);
@@ -215,10 +215,11 @@ const formatEntries = (result: QueryResult<RecordShape>): Entry[] => {
     const properties = record.get('f').properties;
     let distance = 0;
     let count = 0;
-    if(record.keys.includes('distance')){
+    
+    if(record.has('distance')){
       distance = record.get('distance');
     }
-    if(record.keys.includes('count')){
+    if(record.has('count')){
       count = parseInt(record.get('count'));
     }
     return {

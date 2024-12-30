@@ -40,13 +40,15 @@ export const getEntryDataWithCategoryGroup = async (class_name: string, value:st
 };
 
 // 指定されたエントリのマッチングアイテムをエントリの一覧から探す
-export const getMatchedParingEntries = async (main_entries: Entry[], groups:string[], category:string): Promise<{ categories: Category[], entryResult: Entry[] }> =>  {
+export const getMatchedParingEntries = async (main_entries: Entry[], groups:string[], filter_category:string): Promise<{ categories: Category[], entryResult: Entry[] }> =>  {
   const session = driver.session();
-  const categories:Category[] = await getCategorySubFromGroup(groups);
+  let categories:Category[] = await getCategorySubFromGroup(groups);
   const main_entries_string = main_entries.map((entry) => `'${entry.id}'`).join(",");
+  if(filter_category !== ""){
+    categories = categories.filter((category) => category.id === filter_category);
+  }
   const cate_string = categories.map((category) => `'${category.id}'`).join(",");
   
-  console.log(main_entries_string);
   try {
     const query = `
     // Step 1: 特定のFoodノードから関連するCompoundを取得

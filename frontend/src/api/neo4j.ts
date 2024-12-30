@@ -64,7 +64,7 @@ export const getMatchedParingEntries = async (main_entries: Entry[], groups:stri
 
     // Step 4: Categoryでフィルタリング
     MATCH (f2)-[:HAS_SUB_GROUP]->(fg:FoodSubGroup)
-    WHERE fg.id IN [${cate_string}]
+    WHERE fg.id IN [${cate_string}] and f2.id <> f1.id
 
     // Step 5: ベクター計算
     WITH f1, f2, fg, COUNT(DISTINCT comp2.id) AS count,
@@ -72,9 +72,9 @@ export const getMatchedParingEntries = async (main_entries: Entry[], groups:stri
        gds.similarity.cosine(f1.flavor_vector, f2.flavor_vector) AS flavor_score
 
     // Step 6: Compoundの数を集計して返す
-    WITH f2, fg, AVG(word_score) AS word_score_avg, AVG(flavor_score) AS flavor_score_avg
-    RETURN f2 AS f, fg AS fg, word_score_avg, flavor_score_avg
-    ORDER BY word_score_avg DESC;
+    WITH f2, fg, count, AVG(word_score) AS word_score_avg, AVG(flavor_score) AS flavor_score_avg
+    RETURN f2 AS f, fg AS fg, count, word_score_avg, flavor_score_avg
+    ORDER BY word_score_avg DESC, flavor_score_avg DESC, count DESC;
     `
 
     console.log(query);

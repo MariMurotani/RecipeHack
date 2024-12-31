@@ -28,5 +28,7 @@ export interface Category {
 export interface Coefficient {
   e1: Entry;
   e2: Entry;
+  aroma: string;
   count: number;
+  ratio: number;
 }

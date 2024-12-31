@@ -66,22 +66,24 @@ export const getMatchedParingEntries = async (main_entries: Entry[], groups:stri
     MATCH (f2)-[:HAS_SUB_GROUP]->(fg:FoodSubGroup)
     WHERE fg.id IN [${cate_string}] and f2.id <> f1.id
 
-    // Step 5: ベクター計算
+  // Step 5: ベクター計算
     WITH f1, f2, fst2, fg, COUNT(DISTINCT comp2.id) AS count,
-      gds.similarity.cosine(f1.word_vector, f2.word_vector) AS word_score,
-       gds.similarity.cosine(f1.flavor_vector, f2.flavor_vector) AS flavor_score
+        gds.similarity.cosine(f1.word_vector, f2.word_vector) AS word_score,
+        gds.similarity.cosine(f1.flavor_vector, f2.flavor_vector) AS flavor_score
 
     // Step 6: Compoundの数を集計して返す
-    WITH f2, fg, COLLECT(DISTINCT fst2.key_note) AS key_notes, count, AVG(word_score) AS word_score_avg, AVG(flavor_score) AS flavor_score_avg
-    RETURN f2 AS f, fg AS fg, key_notes, count, word_score_avg, flavor_score_avg
-    ORDER BY word_score_avg DESC, flavor_score_avg DESC, count DESC;
-    `
+    WITH DISTINCT f2, fg, COLLECT(DISTINCT fst2.key_note) AS key_notes, count, 
+        AVG(word_score) AS word_score_avg, AVG(flavor_score) AS flavor_score_avg
 
+    RETURN f2 AS f, fg AS fg, COLLECT(key_notes) AS key_notes, count, word_score_avg, flavor_score_avg
+    ORDER BY word_score_avg DESC, flavor_score_avg DESC, count DESC;
+    `;
     console.log(query);
     // クエリを実行
     const result = await session.run(query);
     const entryResult:Entry[] = formatEntries(result);
 
+    console.log(entryResult);
     return { categories, entryResult };
   
   } catch (error) {
@@ -151,111 +153,109 @@ const getCategoriesFromGroup = async (groups: string[]): Promise<Category[]> => 
 }
 
 // Coefficient 分析用のエッジを指定された要素で作成する
-export const createSharedFlavorEdges = async (entries: Entry[]): Promise<undefined> => {
+export const extractLocalCoefficient = async (entries: Entry[]): Promise<Coefficient[]> => {
+  console.log("extractLocalCoefficient-----------");
   const session = driver.session();
   const entry_ids = entries.map((entry) => entry.id);
 
   try {
-    // entriesの配列を使って動的にクエリを生成
-    const queries = [];
+    const resultCoefficient:Coefficient[] = [];
 
     // エントリーのペアを作成 (e1, e2) 総当たりで作成する
     for (let i = 0; i < entry_ids.length; i++) {
       for (let k = i + 1; k < entry_ids.length; k++) {
-          // 同じMoleculeを共有するEntry同士にリレーションシップを作成し、countプロパティに共有するMoleculeの数を追加
-          const tmp_query = `
-          MATCH (e1:Entry {id: ${entry_ids[i]}})-[:CONTAINS]->(m:Molecule)<-[:CONTAINS]-(e2:Entry {id: ${entry_ids[k]}})
-          WHERE id(e1) <> id(e2)
-          WITH e1, e2, COUNT(m) AS sharedMoleculeCount  // 共有するMoleculeの数をカウント
-          MERGE (e1)-[r:RELATED_TO]->(e2)
-          SET r.count = sharedMoleculeCount  // リレーションシップにcountプロパティを設定
-          RETURN e1, e2, r
-          `;
-          await session.run(tmp_query);
+        const e1 = entry_ids[i];
+        const e2 = entry_ids[k];
+        // 同じMoleculeを共有するEntry同士にリレーションシップを作成し、countプロパティに共有するMoleculeの数を追加
+        const tmp_query = `
+        // Step 1: 特定のFoodノードから関連するAromaを取得
+        MATCH (f1:Food {id: '${e1}'})-[:HAS_SUBTYPE]->(fst1:FoodSubType)-[:SCENTED]->(aroma:Aroma)
+
+        // Step 2: AromaのIDをリストとして取得
+        WITH f1, f1.flavor_vector AS f1Vector, COLLECT(DISTINCT aroma.id) AS aromaIds
+
+        // Step 3: 同じAromaを共有するFoodノードを取得
+        MATCH (f2:Food {id: '${e2}'})-[:HAS_SUBTYPE]->(fst2:FoodSubType)-[r:SCENTED]->(aroma2:Aroma)
+        WHERE aroma2.id IN aromaIds
+
+        // Step 4: AromaのIDごとにカウントを集計
+        WITH f1, f2, SUM(r.ratio) as ratio, aroma2, COUNT(DISTINCT aroma2.id) AS aromaCount
+
+        // 結果を返す
+        RETURN f1, f2, ratio as aromaRatio, aroma2.id as aromaId, aromaCount
+        ORDER BY aromaCount, ratio DESC
+        LIMIT 1;
+        `;
+        console.log(tmp_query);
+        const tmp_shared_count_result = await session.run(tmp_query);
+        tmp_shared_count_result.records.forEach((record) => {
+          resultCoefficient.push({
+            e1: formatEntry(record, record.get('f1').properties), 
+            e2: formatEntry(record, record.get('f2').properties), 
+            aroma: record.get('aromaId'), 
+            count: parseInt(record.get('aromaCount')),
+            ratio: parseFloat(record.get('aromaRatio'))
+          } as Coefficient);
+        });
       }
     }
+    console.log(resultCoefficient);
+    return resultCoefficient;
   } catch (error) {
     console.error('Error executing query:', error);
   } finally {
     await session.close();
+    return [];
   }
 }
-
-// Coefficient 分析用のエッジを指定された要素で作成する
-export const extractLocalCoefficient = async (entries: Entry[]): Promise<Coefficient[]> => {
-  const session = driver.session();
-  const entry_ids = entries.map((entry) => entry.id);
-
-  // 検索クエリ
-  const f_graph_query = `
-  MATCH (e1:Entry)-[r:RELATED_TO]-(e2:Entry)
-  WHERE e1.id IN [${entry_ids}] AND e2.id IN [${entry_ids}]
-  RETURN e1, r, e2
-  `;
-
-  try {
-    console.log(f_graph_query);
-    const result = await session.run(f_graph_query);
-
-    // クエリ結果を処理
-    const result_entries = result.records.map((record) => {
-      return {
-        e1: record.get('e1').properties,
-        e2: record.get('e2').properties,
-        count: record.get('r').properties.count
-      };
-    });
-
-    return result_entries;
-  } catch (error) {
-    console.error('Error executing query:', error);
-    return [];
-  } finally {
-    await session.close();
-  }
-};
-
 
 // エントリの結果をフォーマットする
 const formatEntries = (result: QueryResult<RecordShape>): Entry[] => {
   let entries: Entry[] = result.records.map((record) => {
     const properties = record.get('f').properties;
-    let count = 0;
-    let flavor_score_avg = 0;
-    let word_score_avg = 0;
-    
-    if(record.has('count')){
-      count = parseInt(record.get('count'));
-    }
-    if (record.has('flavor_score_avg')) {
-      flavor_score_avg = parseFloat(record.get('flavor_score_avg').toFixed(2));
-    }
-    if(record.has('word_score_avg')){
-      word_score_avg = parseFloat(record.get('word_score_avg').toFixed(2));
-    }
-    return {
-      id: properties.id,
-      name: properties.name,
-      name_ja: properties.display_name_ja,
-      category: properties.category,
-      sub_category: properties.sub_category,
-      flavor_principal: properties.flavor_principal,
-      scientific_name: properties.scientific_name,
-      synonyms: properties.string,
-      flavor_count: JSON.parse(properties.SharedCompoundCount ?? '{}'),
-      paring_scores: JSON.parse(properties.paring_scores ?? '{}'),
-      flavor_score: flavor_score_avg,
-      word_score: word_score_avg,
-      count: count,
-      distance: 0,
-      key_notes: record.get('key_notes') ?? []
-    };
+    return formatEntry(record, properties);
   });
-
   // 各エントリの distance を最大値で正規化する
   entries = normalizeDistances(entries);
 
   return entries ?? [];
+};
+
+// エントリの結果をフォーマットする
+const formatEntry = (record:any, properties:any): Entry => {
+  let count = 0;
+  let flavor_score_avg = 0;
+  let word_score_avg = 0;
+  let key_notes = [];
+  if(record.has('count')){
+    count = parseInt(record.get('count'));
+  }
+  if (record.has('flavor_score_avg')) {
+    flavor_score_avg = parseFloat(record.get('flavor_score_avg').toFixed(2));
+  }
+  if(record.has('word_score_avg')){
+    word_score_avg = parseFloat(record.get('word_score_avg').toFixed(2));
+  }
+  if(record.has('key_notes')){
+    key_notes = record.get('key_notes');
+  }
+  return {
+    id: properties.id,
+    name: properties.name,
+    name_ja: properties.display_name_ja,
+    category: properties.category,
+    sub_category: properties.sub_category,
+    flavor_principal: properties.flavor_principal,
+    scientific_name: properties.scientific_name,
+    synonyms: properties.string,
+    flavor_count: JSON.parse(properties.SharedCompoundCount ?? '{}'),
+    paring_scores: JSON.parse(properties.paring_scores ?? '{}'),
+    flavor_score: flavor_score_avg,
+    word_score: word_score_avg,
+    count: count,
+    distance: 0,
+    key_notes: key_notes
+  };
 };
 
 export const normalizeDistances = (entries: Entry[]): Entry[] => {

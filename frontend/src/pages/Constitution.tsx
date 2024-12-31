@@ -6,7 +6,7 @@ import DoubleCircularBarPlot, { FlavorPairDataType } from '../components/DoubleC
 import NetworkGraph, { DataNode } from '../components/NetworkGraph';
 import { calculateScores, sortAndSliceTopN, maxScale } from '../api/calcFunction';
 import { TabContext, TabList, TabPanel } from '@mui/lab';
-import { createSharedFlavorEdges, extractLocalCoefficient } from '../api/neo4j';
+import { extractLocalCoefficient } from '../api/neo4j';
 import { askChatGPT } from '../api/open_ai';
 import { Coefficient } from 'src/api/types';
 
@@ -37,25 +37,24 @@ const Constitution: React.FC = () => {
       { role: 'system', content: 'You are a one of the great chef in the world.' },
       { role: 'user', content: `What do you cook with ${nameList}? tell me title of dish, ingredient and steps.` }
     ];
-    console.log(messages);
-    askChatGPT(messages).then(answer => {
+    /* askChatGPT(messages).then(answer => {
       setGptSuggest(answer);
       setLoading(true);
     }).catch(error => {
       console.error('エラー:', error);
     });
-
+    */
   };
 
   // 食材ペアの分析
   const processCoefficients = async () => {
     try {
-      await createSharedFlavorEdges([...selectedMainItems, ...selectedAdditionalEntries]);
       const graphCoefResult: Coefficient[] = await extractLocalCoefficient([...selectedMainItems, ...selectedAdditionalEntries]);
   
       let graphNetData: DataNode[] = [];
   
       graphCoefResult.forEach(({ e1, e2, count }) => {
+        console.log(e1, e1)
         let existingEntry = graphNetData.find(item => item.name === e1.name);
         if (existingEntry) {
           existingEntry.size += Number(count);

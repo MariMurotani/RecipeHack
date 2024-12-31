@@ -67,13 +67,13 @@ export const getMatchedParingEntries = async (main_entries: Entry[], groups:stri
     WHERE fg.id IN [${cate_string}] and f2.id <> f1.id
 
     // Step 5: ベクター計算
-    WITH f1, f2, fg, COUNT(DISTINCT comp2.id) AS count,
+    WITH f1, f2, fst2, fg, COUNT(DISTINCT comp2.id) AS count,
       gds.similarity.cosine(f1.word_vector, f2.word_vector) AS word_score,
        gds.similarity.cosine(f1.flavor_vector, f2.flavor_vector) AS flavor_score
 
     // Step 6: Compoundの数を集計して返す
-    WITH f2, fg, count, AVG(word_score) AS word_score_avg, AVG(flavor_score) AS flavor_score_avg
-    RETURN f2 AS f, fg AS fg, count, word_score_avg, flavor_score_avg
+    WITH f2, fg, COLLECT(DISTINCT fst2.key_note) AS key_notes, count, AVG(word_score) AS word_score_avg, AVG(flavor_score) AS flavor_score_avg
+    RETURN f2 AS f, fg AS fg, key_notes, count, word_score_avg, flavor_score_avg
     ORDER BY word_score_avg DESC, flavor_score_avg DESC, count DESC;
     `
 
@@ -121,7 +121,8 @@ const getCategorySubFromGroup = async (class_names: string[]): Promise<Category[
       const properties = record.get('fg').properties;
       return {
         id: properties.id,
-        name: properties.name
+        name: properties.name,
+        name_ja: properties.display_name_ja
       }
     }
   );
@@ -246,7 +247,8 @@ const formatEntries = (result: QueryResult<RecordShape>): Entry[] => {
       flavor_score: flavor_score_avg,
       word_score: word_score_avg,
       count: count,
-      distance: 0
+      distance: 0,
+      key_notes: record.get('key_notes') ?? []
     };
   });
 

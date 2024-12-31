@@ -97,7 +97,7 @@ const ParingSearch: React.FC = () => {
           {matchedCategory.map((item) => (
             <Chip
               key={`ch_${item.id}`}
-              label={item.name}
+              label={item.name_ja || item.name}
               variant="outlined"
               onClick={() => handleChipClick(item.id)} 
             />
@@ -120,7 +120,7 @@ const ParingSearch: React.FC = () => {
               size="small" 
               checked={isChecked[entry.id] || false}  
               onChange={(event) => handleItemClick(entry, event)} />
-              {entry.name} - {entry.name_ja} (f: {entry.flavor_score}, w: {entry.word_score}, {entry.count})
+              {entry.name} - {entry.name_ja} (f: {entry.flavor_score}, w: {entry.word_score}, c: {entry.count}, kn: ({entry.key_notes.join(', ')}))
             </li>
           ))}
         </ul>

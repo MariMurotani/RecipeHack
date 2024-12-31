@@ -11,6 +11,7 @@ const radius = diameter / 2;
 export interface DataNode {
   name: string;
   size: number;
+  edge_title: string;
   imports: string[];
 }
 
@@ -58,18 +59,33 @@ const NetworkGraph: React.FC<NetworkGraphProps> = ({ data }) => {
 
     cluster(root);
     const leaves = root.leaves();
-
+    const packaged_leaves = packageImports(leaves)
+    ///console.log(root);
+    //console.log(packaged_leaves);
+    
     svg.append('g')
       .selectAll('.link')
-      .data(packageImports(leaves))
+      .data(packaged_leaves)
       .enter().append('path')
       .each((d: any) => { d.source = d[0]; d.target = d[d.length - 1]; })
       .attr('class', 'link')
+      .attr('id', (d: any, i: number) => `linkPath${i}`) // ユニークなIDを設定
       .attr('d', line as any)
       .attr('fill', 'none')
       .attr('stroke', 'lightblue')
       .attr('stroke-width', 1) 
       .attr('stroke-opacity', 0.2);
+    
+    svg.append('g')
+      .selectAll('.link-text')
+      .data(packaged_leaves)
+      .enter().append('text')
+      .attr('class', 'link-text')
+      .append('textPath')
+      .attr('href', (d: any, i: number) => `#linkPath${i}`) // パスのIDを参照
+      .attr('startOffset', '50%') // テキストをパスの中央に配置
+      .attr('text-anchor', 'middle') // テキストを中央揃え
+      .text((d: any) => d.source.data.edge_title ); // テキスト内容を設定
 
     svg.append('g')
       .selectAll('.label')

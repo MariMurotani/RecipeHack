@@ -154,7 +154,6 @@ const getCategoriesFromGroup = async (groups: string[]): Promise<Category[]> => 
 
 // Coefficient 分析用のエッジを指定された要素で作成する
 export const extractLocalCoefficient = async (entries: Entry[]): Promise<Coefficient[]> => {
-  console.log("extractLocalCoefficient-----------");
   const session = driver.session();
   const entry_ids = entries.map((entry) => entry.id);
 
@@ -193,19 +192,18 @@ export const extractLocalCoefficient = async (entries: Entry[]): Promise<Coeffic
             e1: formatEntry(record, record.get('f1').properties), 
             e2: formatEntry(record, record.get('f2').properties), 
             aroma: record.get('aromaId'), 
-            count: parseInt(record.get('aromaCount')),
-            ratio: parseFloat(record.get('aromaRatio'))
+            count: parseInt(record.get('aromaCount') ?? 0),
+            ratio: parseFloat(record.get('aromaRatio') ?? 0.0)
           } as Coefficient);
         });
       }
     }
-    console.log(resultCoefficient);
     return resultCoefficient;
   } catch (error) {
     console.error('Error executing query:', error);
+    return [];
   } finally {
     await session.close();
-    return [];
   }
 }
 

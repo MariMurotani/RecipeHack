@@ -37,55 +37,48 @@ const Constitution: React.FC = () => {
       { role: 'system', content: 'You are a one of the great chef in the world.' },
       { role: 'user', content: `What do you cook with ${nameList}? tell me title of dish, ingredient and steps.` }
     ];
-    /* askChatGPT(messages).then(answer => {
+    askChatGPT(messages).then(answer => {
       setGptSuggest(answer);
       setLoading(true);
     }).catch(error => {
       console.error('エラー:', error);
     });
-    */
   };
 
   // 食材ペアの分析
   const processCoefficients = async () => {
-    try {
-      const graphCoefResult: Coefficient[] = await extractLocalCoefficient([...selectedMainItems, ...selectedAdditionalEntries]);
-  
-      let graphNetData: DataNode[] = [];
-  
-      graphCoefResult.forEach(({ e1, e2, count }) => {
-        console.log(e1, e1)
-        let existingEntry = graphNetData.find(item => item.name === e1.name);
-        if (existingEntry) {
-          existingEntry.size += Number(count);
-          existingEntry.imports.push(e2.name);
-        } else {
-          graphNetData.push({
-            name: e1.name,
-            size: Number(count),
-            imports: [e2.name],
-          });
-        }
-  
-        let existingEntry2 = graphNetData.find(item => item.name === e2.name);
-        if (existingEntry2) {
-          existingEntry2.size += Number(count);
-          existingEntry2.imports.push(e1.name);
-        } else {
-          graphNetData.push({
-            name: e2.name,
-            size: Number(count),
-            imports: [e1.name],
-          });
-        }
-      });
-  
-      console.log([...graphNetData]);
-      setCoefficientData([...graphNetData]);
-    } catch (error) {
-      console.error("Error processing coefficients:", error);
-    }
-  };
+  try {
+    const graphCoefResult: Coefficient[] = await extractLocalCoefficient([...selectedMainItems, ...selectedAdditionalEntries]);
+
+    let graphNetData: DataNode[] = [];
+
+    const updateGraphData = (nodeName: string, connectedNode: string, aroma: string, ratio: number) => {
+      let existingEntry = graphNetData.find(item => item.name === nodeName);
+
+      if (existingEntry) {
+        existingEntry.size += ratio;
+        existingEntry.imports.push(connectedNode);
+      } else {
+        graphNetData.push({
+          name: nodeName,
+          edge_title: aroma,
+          size: ratio,
+          imports: [connectedNode],
+        });
+      }
+    };
+
+    graphCoefResult.forEach(({ e1, e2, count, aroma, ratio }) => {
+      const ratioValue = Number(ratio);
+
+      updateGraphData(e1.name, e2.name, aroma, ratioValue);
+      updateGraphData(e2.name, e1.name, aroma, ratioValue);
+    });
+     setCoefficientData([...graphNetData]);
+  } catch (error) {
+    console.error("Error processing coefficients:", error);
+  }
+};
   
 
   // 香りのペアの分析
@@ -107,9 +100,9 @@ const Constitution: React.FC = () => {
   };
 
   useEffect(() => {
-    processGPT();
+    //processGPT();
     processCoefficients();
-    processFlavorParing();
+    //processFlavorParing();
   }, [selectedMainItems, selectedAdditionalEntries]); 
     
   return (

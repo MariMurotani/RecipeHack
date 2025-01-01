@@ -58,10 +58,12 @@ const Constitution: React.FC = () => {
       if (existingEntry) {
         existingEntry.size += ratio;
         existingEntry.imports.push(connectedNode);
+        existingEntry.edge_titles.push(aroma);
       } else {
         graphNetData.push({
+          id: nodeName,
           name: nodeName,
-          edge_title: aroma,
+          edge_titles: [aroma],
           size: ratio,
           imports: [connectedNode],
         });
@@ -99,6 +101,11 @@ const Constitution: React.FC = () => {
     setDoubleBarData(graphData);
   };
 
+  // グラフのツールチップ表示
+  const toolTipNode = (e: MouseEvent) => {
+    console.log(e);
+  };
+  
   useEffect(() => {
     //processGPT();
     processCoefficients();
@@ -116,7 +123,7 @@ const Constitution: React.FC = () => {
         </Box>
         {/* TabPanelの横幅を100%、コンテンツをセンタリング */}
         <TabPanel value="1" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-          {coefficientData.length > 0 && (<NetworkGraph data={coefficientData} />)}
+          {coefficientData.length > 0 && (<NetworkGraph data={coefficientData} hover_callback={toolTipNode}/>)}
         </TabPanel>
         <TabPanel value="2" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
           <DoubleCircularBarPlot data={doubleBarData} />

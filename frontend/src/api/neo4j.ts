@@ -66,7 +66,7 @@ export const getMatchedParingEntries = async (main_entries: Entry[], groups:stri
     MATCH (f2)-[:HAS_SUB_GROUP]->(fg:FoodSubGroup)
     WHERE fg.id IN [${cate_string}] and f2.id <> f1.id
 
-  // Step 5: ベクター計算
+    // Step 5: ベクター計算
     WITH f1, f2, fst2, fg, COUNT(DISTINCT comp2.id) AS count,
         gds.similarity.cosine(f1.word_vector, f2.word_vector) AS word_score,
         gds.similarity.cosine(f1.flavor_vector, f2.flavor_vector) AS flavor_score
@@ -178,12 +178,12 @@ export const extractLocalCoefficient = async (entries: Entry[]): Promise<Coeffic
         WHERE aroma2.id IN aromaIds
 
         // Step 4: AromaのIDごとにカウントを集計
-        WITH f1, f2, SUM(r.ratio) as ratio, aroma2, COUNT(DISTINCT aroma2.id) AS aromaCount
+        WITH f1, f2, COALESCE(SUM(r.ratio), 0.0) AS aromaRatio, aroma2, COUNT(DISTINCT aroma2.id) AS aromaCount
 
         // 結果を返す
-        RETURN f1, f2, ratio as aromaRatio, aroma2.id as aromaId, aromaCount
-        ORDER BY aromaCount, ratio DESC
-        LIMIT 1;
+        RETURN f1, f2, aromaRatio, aroma2.id as aromaId, aromaCount
+        ORDER BY aromaCount, aromaRatio DESC
+        LIMIT 3;
         `;
         console.log(tmp_query);
         const tmp_shared_count_result = await session.run(tmp_query);
@@ -193,7 +193,7 @@ export const extractLocalCoefficient = async (entries: Entry[]): Promise<Coeffic
             e2: formatEntry(record, record.get('f2').properties), 
             aroma: record.get('aromaId'), 
             count: parseInt(record.get('aromaCount') ?? 0),
-            ratio: parseFloat(record.get('aromaRatio') ?? 0.0)
+            ratio: parseFloat(record.get('aromaRatio'))
           } as Coefficient);
         });
       }

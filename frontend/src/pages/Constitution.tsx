@@ -55,10 +55,10 @@ const Constitution: React.FC = () => {
     const graphCoefResult: Coefficient[] = await extractLocalCoefficient([...selectedMainItems, ...selectedAdditionalEntries]);
 
     let graphNetData: DataNode[] = [];
+    console.log(graphCoefResult);
 
     const updateGraphData = (node: Entry, connectedNode: Entry, aroma: string, ratio: number) => {
       let existingEntry = graphNetData.find(item => item.id === node.id);
-
       if (existingEntry) {
         existingEntry.size += ratio;
         existingEntry.imports.push(connectedNode.name);
@@ -68,7 +68,7 @@ const Constitution: React.FC = () => {
           id: node.id,
           name: node.name,
           edge_titles: [aroma],
-          size: ratio,
+          size: ratio ?? 0,
           imports: [connectedNode.name],
         });
       }

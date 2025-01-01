@@ -4,11 +4,12 @@ import { useNavigate } from 'react-router-dom';
 import { useAppContext } from '../AppContext';
 import DoubleCircularBarPlot, { FlavorPairDataType } from '../components/DoubleCircularBarPlot';
 import NetworkGraph, { DataNode } from '../components/NetworkGraph';
+import GraphTooltip from '../components/GraphTooltip';
 import { calculateScores, sortAndSliceTopN, maxScale } from '../api/calcFunction';
 import { TabContext, TabList, TabPanel } from '@mui/lab';
 import { extractLocalCoefficient } from '../api/neo4j';
 import { askChatGPT } from '../api/open_ai';
-import { Coefficient } from 'src/api/types';
+import { Coefficient, Entry } from 'src/api/types';
 
 const Constitution: React.FC = () => {
   // 共通のデータストアとして、クリックされたボタンのキーを保存するための状態を管理
@@ -26,6 +27,9 @@ const Constitution: React.FC = () => {
   const handleTabChange = (event: React.SyntheticEvent, newValue: string) => {
     setTabNumber(newValue);
   };
+  // ツールチップ表示用のState
+  const [showToolTip, setShowToolTip] = useState(false);
+  const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
 
   // GTPへお伺い
   const processGPT = async () => {
@@ -52,20 +56,20 @@ const Constitution: React.FC = () => {
 
     let graphNetData: DataNode[] = [];
 
-    const updateGraphData = (nodeName: string, connectedNode: string, aroma: string, ratio: number) => {
-      let existingEntry = graphNetData.find(item => item.name === nodeName);
+    const updateGraphData = (node: Entry, connectedNode: Entry, aroma: string, ratio: number) => {
+      let existingEntry = graphNetData.find(item => item.id === node.id);
 
       if (existingEntry) {
         existingEntry.size += ratio;
-        existingEntry.imports.push(connectedNode);
+        existingEntry.imports.push(connectedNode.name);
         existingEntry.edge_titles.push(aroma);
       } else {
         graphNetData.push({
-          id: nodeName,
-          name: nodeName,
+          id: node.id,
+          name: node.name,
           edge_titles: [aroma],
           size: ratio,
-          imports: [connectedNode],
+          imports: [connectedNode.name],
         });
       }
     };
@@ -73,8 +77,8 @@ const Constitution: React.FC = () => {
     graphCoefResult.forEach(({ e1, e2, count, aroma, ratio }) => {
       const ratioValue = Number(ratio);
 
-      updateGraphData(e1.name, e2.name, aroma, ratioValue);
-      updateGraphData(e2.name, e1.name, aroma, ratioValue);
+      updateGraphData(e1, e2, aroma, ratioValue);
+      updateGraphData(e2, e1, aroma, ratioValue);
     });
      setCoefficientData([...graphNetData]);
   } catch (error) {
@@ -82,7 +86,7 @@ const Constitution: React.FC = () => {
   }
 };
   
-
+  // TODO: ↓ 不要になる可能性 ↓
   // 香りのペアの分析
   const processFlavorParing = async () => {
     // ペアリングのスコアなどを合計する
@@ -100,10 +104,14 @@ const Constitution: React.FC = () => {
       });
     setDoubleBarData(graphData);
   };
+  // TODO: ↑ 不要になる可能性 ↑
 
   // グラフのツールチップ表示
-  const toolTipNode = (e: MouseEvent) => {
-    console.log(e);
+  const toolTipNode = (e: MouseEvent, entry_id: string, show: boolean) => {
+    console.log(e, entry_id);
+    setShowToolTip(show);
+    setMousePosition({ x: e.clientX, y: e.clientY });
+    setShowToolTip(show);
   };
   
   useEffect(() => {
@@ -112,9 +120,18 @@ const Constitution: React.FC = () => {
     //processFlavorParing();
   }, [selectedMainItems, selectedAdditionalEntries]); 
     
+  // ツールチップでflavorグラフを表示するサンプル
+  const sampleData = [
+    { Flavor: "Apple", v1: 4000, v2: 0 },
+    { Flavor: "Banana", v1: 3000, v2: 0 },
+    { Flavor: "Cherry", v1: 2800, v2: 0 },
+  ];
+  
   return (
     <Container>
+        <GraphTooltip data={sampleData} show={showToolTip} mousePosition={mousePosition} />
         <TabContext value={tabNumber}>
+
         <Box sx={{ borderBottom: 0, borderColor: 'divider' }}>
           <TabList onChange={handleTabChange} aria-label="lab API tabs example" sx={{ justifyContent: 'center' }}>
           <Tab label="Food Network" value="1" />

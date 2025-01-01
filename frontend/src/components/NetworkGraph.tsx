@@ -18,7 +18,7 @@ export interface DataNode {
 
 interface NetworkGraphProps {
   data: DataNode[];
-  hover_callback: (event:MouseEvent) => void;
+  hover_callback: (event:MouseEvent, id: string, show: boolean) => void;
 }
 
 const NetworkGraph: React.FC<NetworkGraphProps> = ({ data, hover_callback }) => {
@@ -107,9 +107,7 @@ const NetworkGraph: React.FC<NetworkGraphProps> = ({ data, hover_callback }) => 
           .transition()
           .duration(50) 
           .style('opacity', 0.8); 
-
-        console.log(d);
-        hover_callback(event);
+        hover_callback(event, d.data.id, true);
         // TODO: リアクト側のツールチップを表示する
       })
       .on('mouseout', function (event, d) {
@@ -117,32 +115,33 @@ const NetworkGraph: React.FC<NetworkGraphProps> = ({ data, hover_callback }) => 
           .transition()
           .duration(50) // Duration should be a number
           .style('opacity', 0.3); // Reset to the initial opacity
-        // TODO: リアクト側のツールチップを閉じる
-      });
-  };
+          hover_callback(event, d.data.id, false);
+        });
+      };
 
   // Lazily construct the package hierarchy from class names.
+  // https://d3js.org/d3-hierarchy/partition
   function packageHierarchy(classes: DataNode[]) {
     const map: { [key: string]: any } = {};
+    map[""] = { name: "root", children: [] };
 
     function find(name: string, data?: any) {
       let node = map[name];
       if (!node) {
         node = map[name] = data || { name: name, children: [] };
-        if (name.length) {
-          const i = name.lastIndexOf(".");
-          node.parent = find(name.substring(0, i));
-          node.parent.children.push(node);
-          node.key = name.substring(i + 1);
-        }
+        node.parent = map[""];
+        node.parent.children.push(node);
+        node.key = name
       }
       return node;
     }
 
     classes.forEach((d: any) => {
-      find(d.name, d);
+      find(d.id, d);
     });
 
+    console.log(map);
+    
     return d3.hierarchy(map[""]);
   }
 

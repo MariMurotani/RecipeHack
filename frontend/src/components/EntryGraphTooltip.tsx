@@ -29,6 +29,15 @@ const GraphTooltip: React.FC<EntryGraphTooltipProps> = ({ data, mousePosition, a
           },
         },
       ]}
+      style={{
+        display: "flex",
+        justifyContent: "center", // 水平方向の中央揃え
+        alignItems: "center", // 垂直方向の中央揃え
+        position: "absolute",
+        left: mousePosition.x + 30, // Offset from mouse position
+        top: mousePosition.y + 10,
+        pointerEvents: "none", // Prevent interference with mouse events
+      }}
     >
       <Box
         sx={{

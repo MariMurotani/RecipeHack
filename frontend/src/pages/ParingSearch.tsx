@@ -87,15 +87,22 @@ const ParingSearch: React.FC = () => {
       ratio: aroma.average_ratio,
       color: aroma.color ?? "#000000",
     }));
+    const scrollOffsetY = window.scrollY || document.documentElement.scrollTop;
+    const scrollOffsetX = window.scrollX || document.documentElement.scrollLeft;
+  
+    setMousePosition({
+      x: event.clientX + scrollOffsetX, // 水平方向のスクロールを考慮
+      y: event.clientY + scrollOffsetY, // 垂直方向のスクロールを考慮
+    });
     setCurrentEntry(entry);
     setAnchorEl(event.currentTarget);
     setFlavorCompoundData([...flavorData]);
-    setMousePosition({ x: event.clientX, y: event.clientY });
     setShowTooltip(true);
   };
   
   // マウスホバーが外れたとき
-  const handleMouseOut = (event: React.MouseEvent<HTMLLIElement, MouseEvent>, entry: Entry) => {
+  const handleMouseOut = () => {
+    console.log('mouse out');
     setShowTooltip(false);
   };
 
@@ -142,24 +149,26 @@ const ParingSearch: React.FC = () => {
               onClick={() => handleChipClick('')}
             />)}
         </Box>
-        <ul>
-          {matchedResult.map((entry) => (
-            <li key={`li${entry.id}`}
-            style={{
-              listStyleType: 'none',
-            }}
-            onMouseOver={(event) => handleMouseHover(event, entry)}
-            onMouseOut={(event) => handleMouseOut(event, entry)}
-            >
-              <Checkbox 
-              key={`ch_${entry.id}`} 
-              size="small" 
-              checked={isChecked[entry.id] || false}  
-              onChange={(event) => handleItemClick(entry, event)} />
-              {entry.name} - {entry.name_ja} (f: {entry.flavor_score}, w: {entry.word_score}, c: {entry.count}, kn: ({entry.key_notes.join(', ')}))
-            </li>
-          ))}
-        </ul>
+        <Box
+            onMouseOut={() => handleMouseOut()}>
+          <ul>
+            {matchedResult.map((entry) => (
+              <li key={`li${entry.id}`}
+              style={{
+                listStyleType: 'none',
+              }}
+              onMouseOver={(event) => handleMouseHover(event, entry)}
+              >
+                <Checkbox 
+                key={`ch_${entry.id}`} 
+                size="small" 
+                checked={isChecked[entry.id] || false}  
+                onChange={(event) => handleItemClick(entry, event)} />
+                {entry.name} - {entry.name_ja} (f: {entry.flavor_score}, w: {entry.word_score}, c: {entry.count}, kn: ({entry.key_notes.join(', ')}))
+              </li>
+            ))}
+          </ul>
+        </Box>
         </PageContainer>
     </Container>
   );

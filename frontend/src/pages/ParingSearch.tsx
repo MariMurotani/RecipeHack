@@ -5,9 +5,10 @@ import PageContainer from '../components/PageContainer';
 import FixedButtonOverlay from '../components/FixedButtonOverlay';
 import FloatingListBox from '../components/FloatingListBox';
 import { useNavigate } from 'react-router-dom';
-import { getMatchedParingEntries } from '../api/neo4j';
-import { Category, Entry } from '../api/types';
+import { getMatchedParingEntries, fetchAromaCompoundWithEntry } from '../api/neo4j';
+import { AromaCompound, Category, Entry } from '../api/types';
 import LightbulbTypography from '../components/LightbulbTypography';
+import EntryGraphToolTip, { FlavorCompoundDataType } from '../components/EntryGraphTooltip';
 
 const ParingSearch: React.FC = () => {
   const { selectedMainGroup, selectedMainItems, selectedGroups, selectedAdditionalEntries, setSelectedAdditionalEntries } = useAppContext();  
@@ -17,6 +18,8 @@ const ParingSearch: React.FC = () => {
   const [matchedResult, setResult] = useState<Entry[]>([]);  // Entry型の配列を保存する状態
   const [selectedCategory, setSelectedCategory] = useState<string>(""); // 詳細フィルタ用のカテゴリ
   const [isChecked, setIsChecked] = useState<{ [key: string]: boolean }>({}); // チェックボックスのステート管理専用
+  const [mousePosition, setMousePosition] = useState<{ x: number; y: number }>({ x: 0, y: 0 }); // マウスの位置を保存する状態
+  const [showTooltip, setShowTooltip] = useState<boolean>(false); // ツールチップの表示/非表示を制御する状態
 
   // `searchText` や `cate` が変更された時にデータを取得する
   useEffect(() => {
@@ -72,12 +75,34 @@ const ParingSearch: React.FC = () => {
     }
   };
 
+  // マウスホバーされたとき
+  const handleMouseHover = async (event: React.MouseEvent<HTMLLIElement, MouseEvent>, entry: Entry) => {
+    console.log(entry.id);
+    const aromaCompounds: AromaCompound[] = await fetchAromaCompoundWithEntry(entry.id);
+    console.log(aromaCompounds);
+    setMousePosition({ x: event.clientX, y: event.clientY });
+    setShowTooltip(true);
+  };
+  
+  // マウスホバーが外れたとき
+  const handleMouseOut = (event: React.MouseEvent<HTMLLIElement, MouseEvent>, entry: Entry) => {
+    setShowTooltip(false);
+  };
+
   // selectedMainGroup が空の場合はリダイレクト
   useEffect(() => {
     if (selectedMainGroup == null) {
       navigate('/');
     }
   }, [selectedMainGroup, navigate]);
+
+  // グラフ表示のサンプル
+  const sampleData: FlavorCompoundDataType[] = [
+    { flavorName: "Sweet", compound: 5, ratio: 40, color: "#ff9999" },
+    { flavorName: "Sour", compound: 3, ratio: 30, color: "#66b3ff" },
+    { flavorName: "Bitter", compound: 2, ratio: 20, color: "#99ff99" },
+    { flavorName: "Umami", compound: 4, ratio: 10, color: "#ffcc99" },
+  ];
 
   return (
     <Container>
@@ -86,6 +111,7 @@ const ParingSearch: React.FC = () => {
         <FixedButtonOverlay onClick={backButtonOnClick} binding_position="left" />
         <FixedButtonOverlay onClick={nextButtonOnClick} />
         <FloatingListBox items={[...selectedMainItems,...selectedAdditionalEntries]} handleDelete={handleSelectedListDelete} />
+        <EntryGraphToolTip data={sampleData} show={showTooltip} mousePosition={mousePosition}/>
         <Box
         sx={{
           display: 'flex',
@@ -114,7 +140,10 @@ const ParingSearch: React.FC = () => {
             <li key={`li${entry.id}`}
             style={{
               listStyleType: 'none',
-            }}>
+            }}
+            onMouseOver={(event) => handleMouseHover(event, entry)}
+            onMouseOut={(event) => handleMouseOut(event, entry)}
+            >
               <Checkbox 
               key={`ch_${entry.id}`} 
               size="small" 

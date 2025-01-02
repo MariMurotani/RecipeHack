@@ -1,5 +1,5 @@
 import neo4j, { QueryResult, RecordShape } from 'neo4j-driver';
-import { Category, Entry, Coefficient } from './types';
+import { Category, Entry, Coefficient, AromaCompound } from './types';
 
 // Neo4j に接続するためのドライバを作成
 // 接続情報を確認
@@ -67,15 +67,14 @@ export const getMatchedParingEntries = async (main_entries: Entry[], groups:stri
     WHERE fg.id IN [${cate_string}] and f2.id <> f1.id
 
     // Step 5: ベクター計算
-    WITH f1, f2, fst2, fg, COUNT(DISTINCT comp2.id) AS count,
-        gds.similarity.cosine(f1.word_vector, f2.word_vector) AS word_score,
-        gds.similarity.cosine(f1.flavor_vector, f2.flavor_vector) AS flavor_score
+    WITH f2 AS f,
+        COLLECT(DISTINCT fst2.key_note) AS key_notes,
+        COUNT(DISTINCT comp2.id) AS count,
+        AVG(gds.similarity.cosine(f1.word_vector, f2.word_vector)) AS word_score_avg,
+        AVG(gds.similarity.cosine(f1.flavor_vector, f2.flavor_vector)) AS flavor_score_avg
 
-    // Step 6: Compoundの数を集計して返す
-    WITH DISTINCT f2, fg, COLLECT(DISTINCT fst2.key_note) AS key_notes, count, 
-        AVG(word_score) AS word_score_avg, AVG(flavor_score) AS flavor_score_avg
-
-    RETURN f2 AS f, fg AS fg, COLLECT(key_notes) AS key_notes, count, word_score_avg, flavor_score_avg
+    // Step 6: ユニークな結果を返す
+    RETURN f, key_notes, count, word_score_avg, flavor_score_avg
     ORDER BY word_score_avg DESC, flavor_score_avg DESC, count DESC;
     `;
     console.log(query);
@@ -207,6 +206,37 @@ export const extractLocalCoefficient = async (entries: Entry[]): Promise<Coeffic
   }
 }
 
+// Entryの値idを受け取ってEntryごとのAromaの一覧と含有量を返す
+export const fetchAromaCompoundWithEntry = async (entry_id: string): Promise<AromaCompound[]> => {
+  const session = driver.session();
+  const query = `
+  // Step 1: 特定のFoodGroupから開始してAromaを取得
+  MATCH (f:FoodGroup {name: 'chicken'})-[:CONTAINS]->(fg:FoodSubGroup)
+  MATCH (fg)-[:CONTAINS]->(fst:FoodSubType)
+  MATCH (fst)-[s:SCENTED]->(a:Aroma)
+  RETURN DISTINCT s, a;
+  `
+  try {
+    const result = await session.run(query);
+    const aromaCompounds = result.records.map((record) => {
+      const aroma = record.get('a');
+      console.log(aroma);
+      return {
+        aroma_id: aroma.properties.id,
+        name: aroma.properties.name,
+        compound: parseInt(record.get('s').properties.ratio),
+        ratio: parseFloat(record.get('s').properties.ratio)
+      } as AromaCompound;
+    });
+    return aromaCompounds;
+  } catch (error) {
+    console.error('Error executing query:', error);
+    return [];
+  } finally {
+    await session.close();
+  }
+};
+
 // エントリの結果をフォーマットする
 const formatEntries = (result: QueryResult<RecordShape>): Entry[] => {
   let entries: Entry[] = result.records.map((record) => {
@@ -241,8 +271,8 @@ const formatEntry = (record:any, properties:any): Entry => {
     id: properties.id,
     name: properties.name,
     name_ja: properties.display_name_ja,
-    category: properties.category,
-    sub_category: properties.sub_category,
+    category: properties.group,
+    sub_category: properties.sub_group,
     flavor_principal: properties.flavor_principal,
     scientific_name: properties.scientific_name,
     synonyms: properties.string,

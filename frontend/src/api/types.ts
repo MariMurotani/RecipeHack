@@ -32,3 +32,12 @@ export interface Coefficient {
   count: number;
   ratio: number;
 }
+
+// Aroma構成を返却する
+export interface AromaCompound {
+  aroma_id: string;
+  name: string;
+  name_ja?: string;
+  compound: number;
+  ratio: number;
+}

@@ -37,7 +37,6 @@ export interface Coefficient {
 export interface AromaCompound {
   aroma_id: string;
   name: string;
-  name_ja?: string;
-  compound: number;
-  ratio: number;
+  color: string;
+  average_ratio: number;
 }

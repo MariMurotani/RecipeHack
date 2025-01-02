@@ -4,7 +4,6 @@ import * as d3 from "d3";
 
 export interface FlavorCompoundDataType {
   flavorName: string;
-  compound: number;
   ratio: number;
   color: string;
 }

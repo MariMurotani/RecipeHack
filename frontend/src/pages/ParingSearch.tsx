@@ -8,7 +8,7 @@ import { useNavigate } from 'react-router-dom';
 import { getMatchedParingEntries, fetchAromaCompoundWithEntry } from '../api/neo4j';
 import { AromaCompound, Category, Entry } from '../api/types';
 import LightbulbTypography from '../components/LightbulbTypography';
-import EntryGraphToolTip, { FlavorCompoundDataType } from '../components/EntryGraphTooltip';
+import EntryGraphToolTip, {FlavorCompoundDataType} from '../components/EntryGraphTooltip';
 
 const ParingSearch: React.FC = () => {
   const { selectedMainGroup, selectedMainItems, selectedGroups, selectedAdditionalEntries, setSelectedAdditionalEntries } = useAppContext();  
@@ -20,6 +20,7 @@ const ParingSearch: React.FC = () => {
   const [isChecked, setIsChecked] = useState<{ [key: string]: boolean }>({}); // チェックボックスのステート管理専用
   const [mousePosition, setMousePosition] = useState<{ x: number; y: number }>({ x: 0, y: 0 }); // マウスの位置を保存する状態
   const [showTooltip, setShowTooltip] = useState<boolean>(false); // ツールチップの表示/非表示を制御する状態
+  const [flavorCompoundData, setFlavorCompoundData] = useState<FlavorCompoundDataType[]>([]); // Aroma構成を保存する状態
 
   // `searchText` や `cate` が変更された時にデータを取得する
   useEffect(() => {
@@ -77,9 +78,13 @@ const ParingSearch: React.FC = () => {
 
   // マウスホバーされたとき
   const handleMouseHover = async (event: React.MouseEvent<HTMLLIElement, MouseEvent>, entry: Entry) => {
-    console.log(entry.id);
-    const aromaCompounds: AromaCompound[] = await fetchAromaCompoundWithEntry(entry.id);
-    console.log(aromaCompounds);
+    const aromaCompounds:AromaCompound[] = await fetchAromaCompoundWithEntry(entry.id);
+    const flavorData: FlavorCompoundDataType[] = aromaCompounds.map((aroma) => ({
+      flavorName: aroma.name,
+      ratio: aroma.average_ratio,
+      color: aroma.color ?? "#000000",
+    }));
+    setFlavorCompoundData(flavorData);
     setMousePosition({ x: event.clientX, y: event.clientY });
     setShowTooltip(true);
   };
@@ -96,14 +101,6 @@ const ParingSearch: React.FC = () => {
     }
   }, [selectedMainGroup, navigate]);
 
-  // グラフ表示のサンプル
-  const sampleData: FlavorCompoundDataType[] = [
-    { flavorName: "Sweet", compound: 5, ratio: 40, color: "#ff9999" },
-    { flavorName: "Sour", compound: 3, ratio: 30, color: "#66b3ff" },
-    { flavorName: "Bitter", compound: 2, ratio: 20, color: "#99ff99" },
-    { flavorName: "Umami", compound: 4, ratio: 10, color: "#ffcc99" },
-  ];
-
   return (
     <Container>
       <PageContainer>
@@ -111,7 +108,7 @@ const ParingSearch: React.FC = () => {
         <FixedButtonOverlay onClick={backButtonOnClick} binding_position="left" />
         <FixedButtonOverlay onClick={nextButtonOnClick} />
         <FloatingListBox items={[...selectedMainItems,...selectedAdditionalEntries]} handleDelete={handleSelectedListDelete} />
-        <EntryGraphToolTip data={sampleData} show={showTooltip} mousePosition={mousePosition}/>
+        <EntryGraphToolTip data={flavorCompoundData} show={showTooltip} mousePosition={mousePosition}/>
         <Box
         sx={{
           display: 'flex',

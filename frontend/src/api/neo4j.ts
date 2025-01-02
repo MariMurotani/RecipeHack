@@ -210,22 +210,37 @@ export const extractLocalCoefficient = async (entries: Entry[]): Promise<Coeffic
 export const fetchAromaCompoundWithEntry = async (entry_id: string): Promise<AromaCompound[]> => {
   const session = driver.session();
   const query = `
-  // Step 1: 特定のFoodGroupから開始してAromaを取得
-  MATCH (f:FoodGroup {name: 'chicken'})-[:CONTAINS]->(fg:FoodSubGroup)
-  MATCH (fg)-[:CONTAINS]->(fst:FoodSubType)
-  MATCH (fst)-[s:SCENTED]->(a:Aroma)
-  RETURN DISTINCT s, a;
+    MATCH (f:Food {id: '${entry_id}'})-[:HAS_SUBTYPE]->(fs:FoodSubType)-[r:SCENTED]->(a:Aroma)
+    WITH 
+      f.id AS food_id, 
+      a.id AS aroma_id, 
+      a.name AS aroma_name, 
+      a.color AS color_code,
+      toFloat(r.ratio) AS adjusted_ratio
+    WITH 
+      food_id, 
+      aroma_id, 
+      aroma_name, 
+      color_code, 
+      AVG(adjusted_ratio) AS average_ratio
+    RETURN 
+      DISTINCT food_id, 
+      aroma_id, 
+      color_code, 
+      aroma_name, 
+      average_ratio
+    ORDER BY average_ratio DESC
+    LIMIT 10
   `
   try {
+    console.log(query);
     const result = await session.run(query);
     const aromaCompounds = result.records.map((record) => {
-      const aroma = record.get('a');
-      console.log(aroma);
       return {
-        aroma_id: aroma.properties.id,
-        name: aroma.properties.name,
-        compound: parseInt(record.get('s').properties.ratio),
-        ratio: parseFloat(record.get('s').properties.ratio)
+        aroma_id: record.get('aroma_id'),
+        name: record.get('aroma_name'),
+        color: record.get('color_code'),
+        average_ratio: parseFloat(record.get('average_ratio'))
       } as AromaCompound;
     });
     return aromaCompounds;

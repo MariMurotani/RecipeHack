@@ -21,6 +21,8 @@ const ParingSearch: React.FC = () => {
   const [mousePosition, setMousePosition] = useState<{ x: number; y: number }>({ x: 0, y: 0 }); // マウスの位置を保存する状態
   const [showTooltip, setShowTooltip] = useState<boolean>(false); // ツールチップの表示/非表示を制御する状態
   const [flavorCompoundData, setFlavorCompoundData] = useState<FlavorCompoundDataType[]>([]); // Aroma構成を保存する状態
+  const [anchorEl, setAnchorEl] = React.useState<null | HTMLElement>(null); // ツールチップをマウントするAnchor
+  const [currentEntry, setCurrentEntry] = React.useState<Entry|null>(null); // ツールチップをマウントするAnchor
 
   // `searchText` や `cate` が変更された時にデータを取得する
   useEffect(() => {
@@ -84,7 +86,10 @@ const ParingSearch: React.FC = () => {
       ratio: aroma.average_ratio,
       color: aroma.color ?? "#000000",
     }));
-    setFlavorCompoundData(flavorData);
+    console.log(entry.name, flavorData);
+    setCurrentEntry(entry);
+    setAnchorEl(event.currentTarget);
+    setFlavorCompoundData([...flavorData]);
     setMousePosition({ x: event.clientX, y: event.clientY });
     setShowTooltip(true);
   };
@@ -108,7 +113,12 @@ const ParingSearch: React.FC = () => {
         <FixedButtonOverlay onClick={backButtonOnClick} binding_position="left" />
         <FixedButtonOverlay onClick={nextButtonOnClick} />
         <FloatingListBox items={[...selectedMainItems,...selectedAdditionalEntries]} handleDelete={handleSelectedListDelete} />
-        <EntryGraphToolTip data={flavorCompoundData} show={showTooltip} mousePosition={mousePosition}/>
+        {(flavorCompoundData.length > 0) && showTooltip && <
+          EntryGraphToolTip data={flavorCompoundData} 
+          mousePosition={mousePosition}
+          anchorEl={anchorEl}
+          title={currentEntry?.name ?? ""}
+          />}
         <Box
         sx={{
           display: 'flex',

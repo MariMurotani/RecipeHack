@@ -77,12 +77,11 @@ export const getMatchedParingEntries = async (main_entries: Entry[], groups:stri
     RETURN f, key_notes, count, word_score_avg, flavor_score_avg
     ORDER BY word_score_avg DESC, flavor_score_avg DESC, count DESC;
     `;
-    console.log(query);
+    //console.log(query);
     // クエリを実行
     const result = await session.run(query);
     const entryResult:Entry[] = formatEntries(result);
 
-    console.log(entryResult);
     return { categories, entryResult };
   
   } catch (error) {
@@ -184,7 +183,7 @@ export const extractLocalCoefficient = async (entries: Entry[]): Promise<Coeffic
         ORDER BY aromaCount, aromaRatio DESC
         LIMIT 3;
         `;
-        console.log(tmp_query);
+        // console.log(tmp_query);
         const tmp_shared_count_result = await session.run(tmp_query);
         tmp_shared_count_result.records.forEach((record) => {
           resultCoefficient.push({
@@ -223,6 +222,7 @@ export const fetchAromaCompoundWithEntry = async (entry_id: string): Promise<Aro
       aroma_name, 
       color_code, 
       AVG(adjusted_ratio) AS average_ratio
+    WHERE average_ratio > 0
     RETURN 
       DISTINCT food_id, 
       aroma_id, 
@@ -230,10 +230,10 @@ export const fetchAromaCompoundWithEntry = async (entry_id: string): Promise<Aro
       aroma_name, 
       average_ratio
     ORDER BY average_ratio DESC
-    LIMIT 10
+    LIMIT 5
   `
   try {
-    console.log(query);
+    // console.log(query);
     const result = await session.run(query);
     const aromaCompounds = result.records.map((record) => {
       return {

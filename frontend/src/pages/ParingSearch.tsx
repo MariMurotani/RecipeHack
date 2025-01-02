@@ -8,7 +8,8 @@ import { useNavigate } from 'react-router-dom';
 import { getMatchedParingEntries, fetchAromaCompoundWithEntry } from '../api/neo4j';
 import { AromaCompound, Category, Entry } from '../api/types';
 import LightbulbTypography from '../components/LightbulbTypography';
-import EntryGraphToolTip, {FlavorCompoundDataType} from '../components/EntryGraphTooltip';
+import EntryGraphToolTip from '../components/EntryGraphTooltip';
+import { FlavorCompoundDataType } from "../hooks/useD3PieChart";
 
 const ParingSearch: React.FC = () => {
   const { selectedMainGroup, selectedMainItems, selectedGroups, selectedAdditionalEntries, setSelectedAdditionalEntries } = useAppContext();  
@@ -86,7 +87,6 @@ const ParingSearch: React.FC = () => {
       ratio: aroma.average_ratio,
       color: aroma.color ?? "#000000",
     }));
-    console.log(entry.name, flavorData);
     setCurrentEntry(entry);
     setAnchorEl(event.currentTarget);
     setFlavorCompoundData([...flavorData]);
@@ -113,7 +113,7 @@ const ParingSearch: React.FC = () => {
         <FixedButtonOverlay onClick={backButtonOnClick} binding_position="left" />
         <FixedButtonOverlay onClick={nextButtonOnClick} />
         <FloatingListBox items={[...selectedMainItems,...selectedAdditionalEntries]} handleDelete={handleSelectedListDelete} />
-        {(flavorCompoundData.length > 0) && showTooltip && <
+        {(flavorCompoundData.length > 0) &&  <
           EntryGraphToolTip data={flavorCompoundData} 
           mousePosition={mousePosition}
           anchorEl={anchorEl}

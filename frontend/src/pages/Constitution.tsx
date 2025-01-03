@@ -1,11 +1,10 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { Container, Typography, Button, Box, Tab, Tabs, CircularProgress, Divider } from '@mui/material';
-import { useNavigate } from 'react-router-dom';
 import { useAppContext } from '../AppContext';
 import DoubleCircularBarPlot, { FlavorPairDataType } from '../components/DoubleCircularBarPlot';
 import NetworkGraph, { DataNode } from '../components/NetworkGraph';
+import Heatmap from "../components/Heatmap";
 import GraphTooltip from '../components/GraphTooltip';
-import { calculateScores, sortAndSliceTopN, maxScale } from '../api/calcFunction';
 import { TabContext, TabList, TabPanel } from '@mui/lab';
 import { extractLocalCoefficient } from '../api/neo4j';
 import { askChatGPT } from '../api/open_ai';
@@ -22,14 +21,12 @@ const Constitution: React.FC = () => {
   const [loading, setLoading] = useState<boolean>(false);
   // ネットワークグラフ用のデータを保持
   const [coefficientData, setCoefficientData] = useState<DataNode[]>([]);
-  // 円バーグラフ用のデータを保持
-  const [doubleBarData, setDoubleBarData] = useState<FlavorPairDataType[]>([]);
-  const handleTabChange = (event: React.SyntheticEvent, newValue: string) => {
-    setTabNumber(newValue);
-  };
   // ツールチップ表示用のState
   const [showToolTip, setShowToolTip] = useState(false);
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
+
+  // タブチェンジのハンドラ
+  const handleTabChange = (event: React.SyntheticEvent, newValue: string) => {     setTabNumber(newValue);   };
 
   // GTPへお伺い
   const processGPT = async () => {
@@ -56,9 +53,8 @@ const Constitution: React.FC = () => {
 
       let graphNetData: DataNode[] = [];
       
+      console.log(JSON.stringify(graphCoefResult))
       const updateGraphData = (node: Entry, connectedNode: Entry, aroma: string, ratio: number) => {
-        console.log(typeof ratio, ratio);
-
         let existingEntry = graphNetData.find(item => item.id === node.id);
         if (existingEntry) {
           existingEntry.size += ratio;
@@ -106,6 +102,12 @@ const Constitution: React.FC = () => {
     { Flavor: "Banana", v1: 3000, v2: 0 },
     { Flavor: "Cherry", v1: 2800, v2: 0 },
   ];
+  const sampleHeatData = [
+    { group: "A", variable: "X", value: 10 },
+    { group: "A", variable: "Y", value: 20 },
+    { group: "B", variable: "X", value: 30 },
+    { group: "B", variable: "Y", value: 40 },
+  ];
   
   return (
     <Container>
@@ -115,15 +117,16 @@ const Constitution: React.FC = () => {
         <Box sx={{ borderBottom: 0, borderColor: 'divider' }}>
           <TabList onChange={handleTabChange} aria-label="lab API tabs example" sx={{ justifyContent: 'center' }}>
           <Tab label="Food Network" value="1" />
-          <Tab label="Pairing Idea" value="2" />
+          <Tab label="HEAT MAP" value="2" />
           </TabList>
         </Box>
-        {/* TabPanelの横幅を100%、コンテンツをセンタリング */}
+        {/* 食材ネットワークを表示 */}
         <TabPanel value="1" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
           {coefficientData.length > 0 && (<NetworkGraph data={coefficientData} hover_callback={toolTipNode}/>)}
         </TabPanel>
+        {/* 食材ヒートマップ */}
         <TabPanel value="2" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-          <DoubleCircularBarPlot data={doubleBarData} />
+          <Heatmap data={sampleHeatData} width={500} height={500} />
         </TabPanel>
       </TabContext>
       <Divider />

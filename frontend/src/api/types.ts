@@ -31,6 +31,7 @@ export interface Coefficient {
   aroma: string;
   count: number;
   ratio: number;
+  color: string;
 }
 
 // Aroma構成を返却する

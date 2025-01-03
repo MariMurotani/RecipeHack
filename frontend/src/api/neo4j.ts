@@ -179,7 +179,7 @@ export const extractLocalCoefficient = async (entries: Entry[]): Promise<Coeffic
         WITH f1, f2, COALESCE(SUM(r.ratio), 0.0) AS aromaRatio, aroma2, COUNT(DISTINCT aroma2.id) AS aromaCount
 
         // 結果を返す
-        RETURN f1, f2, aromaRatio, aroma2.id as aromaId, aromaCount
+        RETURN f1, f2, aromaRatio, aroma2.id as aromaId, aromaCount, aroma2.color as aromaColor
         ORDER BY aromaCount, aromaRatio DESC
         LIMIT 3;
         `;
@@ -192,7 +192,8 @@ export const extractLocalCoefficient = async (entries: Entry[]): Promise<Coeffic
             e2: formatEntry(record, record.get('f2').properties), 
             aroma: record.get('aromaId'), 
             count: parseInt(record.get('aromaCount') ?? 0),
-            ratio: parseFloat(isNaN(aromaRatio) ? 0.0 : aromaRatio)
+            ratio: parseFloat(isNaN(aromaRatio) ? 0.0 : aromaRatio),
+            color: record.get('aromaColor')
           } as Coefficient);
         });
       }

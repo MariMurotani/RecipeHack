@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { Container, Typography, Button, Grid, Box } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
 import { useAppContext } from '../AppContext';
@@ -15,16 +15,15 @@ const button_caption = [
   { caption: '', color: 'transparent', key: 'dummy1' }
 ];
 
-const Home: React.FC = () => {
-  // 共通のデータストアとして、クリックされたボタンのキーを保存するための状態を管理
-  const { setSelectedMainGroup, setSelectedMainItems, setSelectedGroups, setSelectedAdditionalEntries } = useAppContext();  
+const Home: React.FC = () => {  
+  //   // 共通のデータストアとして、クリックされたボタンのキーを保存するための状態を管理
+  const { setSelectedMainGroup, setSelectedMainItems, setSelectedGroups, setSelectedAdditionalEntries, resetAllData } = useAppContext();  
 
-  // FIXME: 初期化
-  //setSelectedMainGroup("");
-  //setSelectedMainItems([]);
-  //setSelectedGroups([]);
-  //setSelectedAdditionalEntries([]);
-
+  // componentWillMount のような動作を再現
+  useEffect(() => {
+    resetAllData();
+  }, []); // 空の依存配列でマウント時のみ実行
+  
   // 画面遷移
   const navigate = useNavigate();
 

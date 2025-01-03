@@ -11,6 +11,7 @@ interface AppContextProps {
   setSelectedGroups: (entry: string[]) => void;
   selectedAdditionalEntries: Entry[];
   setSelectedAdditionalEntries: (entry: Entry[]) => void;
+  resetAllData: () => void; // リセット関数を追加
 }
 
 // コンテキストを作成
@@ -77,6 +78,20 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
     saveToLocalStorage(LOCAL_STORAGE_KEYS.selectedAdditionalEntries, selectedAdditionalEntries);
   }, [selectedAdditionalEntries]);
 
+   // 全ての状態とローカルストレージをリセットする関数
+   const resetAllData = () => {
+    // 状態をリセット
+    setSelectedMainGroup('');
+    setSelectedMainItems([]);
+    setSelectedGroups([]);
+    setSelectedAdditionalEntries([]);
+    
+    // ローカルストレージをリセット
+    Object.values(LOCAL_STORAGE_KEYS).forEach((key) => {
+      localStorage.removeItem(key);
+    });
+  };
+
   return (
     <AppContext.Provider
       value={{
@@ -88,6 +103,7 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
         setSelectedGroups,
         selectedAdditionalEntries,
         setSelectedAdditionalEntries,
+        resetAllData
       }}
     >
       {children}

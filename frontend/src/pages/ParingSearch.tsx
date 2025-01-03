@@ -10,6 +10,7 @@ import { AromaCompound, Category, Entry } from '../api/types';
 import LightbulbTypography from '../components/LightbulbTypography';
 import EntryGraphToolTip from '../components/EntryGraphTooltip';
 import { FlavorCompoundDataType } from "../hooks/useD3PieChart";
+import { useTooltipHandler } from "../hooks/useTooltipHandler";
 
 const ParingSearch: React.FC = () => {
   const { selectedMainGroup, selectedMainItems, selectedGroups, selectedAdditionalEntries, setSelectedAdditionalEntries } = useAppContext();  
@@ -19,11 +20,15 @@ const ParingSearch: React.FC = () => {
   const [matchedResult, setResult] = useState<Entry[]>([]);  // Entry型の配列を保存する状態
   const [selectedCategory, setSelectedCategory] = useState<string>(""); // 詳細フィルタ用のカテゴリ
   const [isChecked, setIsChecked] = useState<{ [key: string]: boolean }>({}); // チェックボックスのステート管理専用
-  const [mousePosition, setMousePosition] = useState<{ x: number; y: number }>({ x: 0, y: 0 }); // マウスの位置を保存する状態
-  const [showTooltip, setShowTooltip] = useState<boolean>(false); // ツールチップの表示/非表示を制御する状態
-  const [flavorCompoundData, setFlavorCompoundData] = useState<FlavorCompoundDataType[]>([]); // Aroma構成を保存する状態
-  const [anchorEl, setAnchorEl] = React.useState<null | HTMLElement>(null); // ツールチップをマウントするAnchor
-  const [currentEntry, setCurrentEntry] = React.useState<Entry|null>(null); // ツールチップをマウントするAnchor
+  const {
+    mousePosition,
+    showTooltip,
+    flavorCompoundData,
+    anchorEl,
+    currentEntry,
+    handleMouseHover,
+    handleMouseOut,
+  } = useTooltipHandler();
 
   // `searchText` や `cate` が変更された時にデータを取得する
   useEffect(() => {
@@ -77,33 +82,6 @@ const ParingSearch: React.FC = () => {
     } else if(!event.target.checked && entry_exist){
       setSelectedAdditionalEntries(selectedAdditionalEntries.filter(item => item !== entry));
     }
-  };
-
-  // マウスホバーされたとき
-  const handleMouseHover = async (event: React.MouseEvent<HTMLLIElement, MouseEvent>, entry: Entry) => {
-    const aromaCompounds:AromaCompound[] = await fetchAromaCompoundWithEntry(entry.id);
-    const flavorData: FlavorCompoundDataType[] = aromaCompounds.map((aroma) => ({
-      flavorName: aroma.name,
-      ratio: aroma.average_ratio,
-      color: aroma.color ?? "#000000",
-    }));
-    const scrollOffsetY = window.scrollY || document.documentElement.scrollTop;
-    const scrollOffsetX = window.scrollX || document.documentElement.scrollLeft;
-  
-    setMousePosition({
-      x: event.clientX + scrollOffsetX, // 水平方向のスクロールを考慮
-      y: event.clientY + scrollOffsetY, // 垂直方向のスクロールを考慮
-    });
-    setCurrentEntry(entry);
-    setAnchorEl(event.currentTarget);
-    setFlavorCompoundData([...flavorData]);
-    setShowTooltip(true);
-  };
-  
-  // マウスホバーが外れたとき
-  const handleMouseOut = () => {
-    console.log('mouse out');
-    setShowTooltip(false);
   };
 
   // selectedMainGroup が空の場合はリダイレクト

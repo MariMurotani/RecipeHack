@@ -186,12 +186,13 @@ export const extractLocalCoefficient = async (entries: Entry[]): Promise<Coeffic
         // console.log(tmp_query);
         const tmp_shared_count_result = await session.run(tmp_query);
         tmp_shared_count_result.records.forEach((record) => {
+          const aromaRatio = record.get('aromaRatio');
           resultCoefficient.push({
             e1: formatEntry(record, record.get('f1').properties), 
             e2: formatEntry(record, record.get('f2').properties), 
             aroma: record.get('aromaId'), 
             count: parseInt(record.get('aromaCount') ?? 0),
-            ratio: parseFloat(record.get('aromaRatio'))
+            ratio: parseFloat(isNaN(aromaRatio) ? 0.0 : aromaRatio)
           } as Coefficient);
         });
       }

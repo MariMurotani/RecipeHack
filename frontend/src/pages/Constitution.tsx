@@ -51,61 +51,42 @@ const Constitution: React.FC = () => {
 
   // 食材ペアの分析
   const processCoefficients = async () => {
-  try {
-    const graphCoefResult: Coefficient[] = await extractLocalCoefficient([...selectedMainItems, ...selectedAdditionalEntries]);
+    try {
+      const graphCoefResult: Coefficient[] = await extractLocalCoefficient([...selectedMainItems, ...selectedAdditionalEntries]);
 
-    let graphNetData: DataNode[] = [];
-    console.log(graphCoefResult);
+      let graphNetData: DataNode[] = [];
+      
+      const updateGraphData = (node: Entry, connectedNode: Entry, aroma: string, ratio: number) => {
+        console.log(typeof ratio, ratio);
 
-    const updateGraphData = (node: Entry, connectedNode: Entry, aroma: string, ratio: number) => {
-      let existingEntry = graphNetData.find(item => item.id === node.id);
-      if (existingEntry) {
-        existingEntry.size += ratio;
-        existingEntry.imports.push(connectedNode.name);
-        existingEntry.edge_titles.push(aroma);
-      } else {
-        graphNetData.push({
-          id: node.id,
-          name: node.name,
-          edge_titles: [aroma],
-          size: ratio ?? 0,
-          imports: [connectedNode.name],
-        });
-      }
-    };
+        let existingEntry = graphNetData.find(item => item.id === node.id);
+        if (existingEntry) {
+          existingEntry.size += ratio;
+          existingEntry.imports.push(connectedNode.name);
+          existingEntry.edge_titles.push(aroma);
+        } else {
+          graphNetData.push({
+            id: node.id,
+            name: node.name,
+            edge_titles: [aroma],
+            size: ratio,
+            imports: [connectedNode.name],
+          });
+        }
+      };
 
-    graphCoefResult.forEach(({ e1, e2, count, aroma, ratio }) => {
-      const ratioValue = Number(ratio);
+      graphCoefResult.forEach(({ e1, e2, count, aroma, ratio }) => {
+        const ratioValue = Number(ratio);
 
-      updateGraphData(e1, e2, aroma, ratioValue);
-      updateGraphData(e2, e1, aroma, ratioValue);
-    });
-     setCoefficientData([...graphNetData]);
-  } catch (error) {
-    console.error("Error processing coefficients:", error);
-  }
-};
-  
-  // TODO: ↓ 不要になる可能性 ↓
-  // 香りのペアの分析
-  const processFlavorParing = async () => {
-    // ペアリングのスコアなどを合計する
-    const { paringScore, flavorCount } = calculateScores(selectedMainItems, selectedAdditionalEntries);
-    let sortedParingScore = sortAndSliceTopN(paringScore, 15);
-    let sortedFlavorCount = sortAndSliceTopN(flavorCount, 15);
-    let normalizedParingScore = maxScale(sortedParingScore, 6000);
-    let normalizedFlavorCount = maxScale(sortedFlavorCount, 6000);
-    const graphData: FlavorPairDataType[] = normalizedParingScore.map((item, index) => {
-        return {
-          Flavor: item[0], // FlavorはsortedParingScoreのキー（文字列）
-          v1: item[1],     // v1はsortedParingScoreの値（数値）
-          v2: normalizedFlavorCount[index][1] // v2はsortedFlavorCountから対応する数値
-        };
+        updateGraphData(e1, e2, aroma, ratioValue);
+        updateGraphData(e2, e1, aroma, ratioValue);
       });
-    setDoubleBarData(graphData);
+      setCoefficientData([...graphNetData]);
+    } catch (error) {
+      console.error("Error processing coefficients:", error);
+    }
   };
-  // TODO: ↑ 不要になる可能性 ↑
-
+  
   // グラフのツールチップ表示
   const toolTipNode = (e: MouseEvent, entry_id: string, show: boolean) => {
     console.log(e, entry_id);
@@ -117,7 +98,6 @@ const Constitution: React.FC = () => {
   useEffect(() => {
     //processGPT();
     processCoefficients();
-    //processFlavorParing();
   }, [selectedMainItems, selectedAdditionalEntries]); 
     
   // ツールチップでflavorグラフを表示するサンプル

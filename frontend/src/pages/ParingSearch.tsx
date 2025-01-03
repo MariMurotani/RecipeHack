@@ -9,7 +9,6 @@ import { getMatchedParingEntries, fetchAromaCompoundWithEntry } from '../api/neo
 import { AromaCompound, Category, Entry } from '../api/types';
 import LightbulbTypography from '../components/LightbulbTypography';
 import EntryGraphToolTip from '../components/EntryGraphTooltip';
-import { FlavorCompoundDataType } from "../hooks/useD3PieChart";
 import { useTooltipHandler } from "../hooks/useTooltipHandler";
 
 const ParingSearch: React.FC = () => {
@@ -97,7 +96,9 @@ const ParingSearch: React.FC = () => {
         <LightbulbTypography text="Select paring items from the list below." />
         <FixedButtonOverlay onClick={backButtonOnClick} binding_position="left" />
         <FixedButtonOverlay onClick={nextButtonOnClick} />
+        {/* 選択された食材リスト */}
         <FloatingListBox items={[...selectedMainItems,...selectedAdditionalEntries]} handleDelete={handleSelectedListDelete} />
+        {/* ツールチップ */}
         {(flavorCompoundData.length > 0) &&  <
           EntryGraphToolTip data={flavorCompoundData} 
           mousePosition={mousePosition}

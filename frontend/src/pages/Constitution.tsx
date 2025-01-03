@@ -1,14 +1,14 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { Container, Typography, Button, Box, Tab, Tabs, CircularProgress, Divider } from '@mui/material';
 import { useAppContext } from '../AppContext';
-import DoubleCircularBarPlot, { FlavorPairDataType } from '../components/DoubleCircularBarPlot';
 import NetworkGraph, { DataNode } from '../components/NetworkGraph';
 import Heatmap from "../components/Heatmap";
 import GraphTooltip from '../components/GraphTooltip';
 import { TabContext, TabList, TabPanel } from '@mui/lab';
-import { extractLocalCoefficient } from '../api/neo4j';
+import { extractLocalCoefficient, fetchAromaCompoundWithEntries, fetchAromaCompoundWithEntry } from '../api/neo4j';
 import { askChatGPT } from '../api/open_ai';
-import { Coefficient, Entry } from 'src/api/types';
+import { AromaCompound, Coefficient, Entry } from 'src/api/types';
+import { HeatmapData } from '../hooks/useHeatMap';
 
 const Constitution: React.FC = () => {
   // 共通のデータストアとして、クリックされたボタンのキーを保存するための状態を管理
@@ -21,6 +21,8 @@ const Constitution: React.FC = () => {
   const [loading, setLoading] = useState<boolean>(false);
   // ネットワークグラフ用のデータを保持
   const [coefficientData, setCoefficientData] = useState<DataNode[]>([]);
+  // ヒートマップ用のデータを保持
+  const [heatmapData, setHeatmapData] = useState<HeatmapData[]>([]);
   // ツールチップ表示用のState
   const [showToolTip, setShowToolTip] = useState(false);
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
@@ -53,7 +55,6 @@ const Constitution: React.FC = () => {
 
       let graphNetData: DataNode[] = [];
       
-      console.log(JSON.stringify(graphCoefResult))
       const updateGraphData = (node: Entry, connectedNode: Entry, aroma: string, ratio: number) => {
         let existingEntry = graphNetData.find(item => item.id === node.id);
         if (existingEntry) {
@@ -73,7 +74,6 @@ const Constitution: React.FC = () => {
 
       graphCoefResult.forEach(({ e1, e2, count, aroma, ratio }) => {
         const ratioValue = Number(ratio);
-
         updateGraphData(e1, e2, aroma, ratioValue);
         updateGraphData(e2, e1, aroma, ratioValue);
       });
@@ -83,9 +83,19 @@ const Constitution: React.FC = () => {
     }
   };
   
+  // 各食材のAromaCompoundを取得
+  const processAromaHeatmap = async () => {
+      const entry_ids = [selectedMainItems, selectedAdditionalEntries].map(entries => entries.map(entry => entry.id)).flat();
+      const aromaCompounds: AromaCompound[] = await fetchAromaCompoundWithEntries(entry_ids);
+      const heatmapData:HeatmapData[] = [];
+      aromaCompounds.forEach((aroma) => {
+        heatmapData.push({ group: aroma.entry_name, variable: aroma.aroma_id, value: aroma.average_ratio, colorCode: aroma.color });
+      });
+      setHeatmapData(heatmapData);
+  };
+  
   // グラフのツールチップ表示
   const toolTipNode = (e: MouseEvent, entry_id: string, show: boolean) => {
-    console.log(e, entry_id);
     setShowToolTip(show);
     setMousePosition({ x: e.clientX, y: e.clientY });
     setShowToolTip(show);
@@ -94,24 +104,11 @@ const Constitution: React.FC = () => {
   useEffect(() => {
     //processGPT();
     processCoefficients();
+    processAromaHeatmap();
   }, [selectedMainItems, selectedAdditionalEntries]); 
-    
-  // ツールチップでflavorグラフを表示するサンプル
-  const sampleData = [
-    { Flavor: "Apple", v1: 4000, v2: 0 },
-    { Flavor: "Banana", v1: 3000, v2: 0 },
-    { Flavor: "Cherry", v1: 2800, v2: 0 },
-  ];
-  const sampleHeatData = [
-    { group: "A", variable: "X", value: 10 },
-    { group: "A", variable: "Y", value: 20 },
-    { group: "B", variable: "X", value: 30 },
-    { group: "B", variable: "Y", value: 40 },
-  ];
   
   return (
     <Container>
-        <GraphTooltip data={sampleData} show={showToolTip} mousePosition={mousePosition} />
         <TabContext value={tabNumber}>
 
         <Box sx={{ borderBottom: 0, borderColor: 'divider' }}>
@@ -126,7 +123,7 @@ const Constitution: React.FC = () => {
         </TabPanel>
         {/* 食材ヒートマップ */}
         <TabPanel value="2" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-          <Heatmap data={sampleHeatData} width={500} height={500} />
+          <Heatmap data={heatmapData} width={500} height={500} />
         </TabPanel>
       </TabContext>
       <Divider />

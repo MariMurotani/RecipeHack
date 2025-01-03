@@ -36,6 +36,9 @@ export interface Coefficient {
 
 // Aroma構成を返却する
 export interface AromaCompound {
+  entry_id: string;
+  entry_name: string;
+  entry_name_ja: string;
   aroma_id: string;
   name: string;
   color: string;

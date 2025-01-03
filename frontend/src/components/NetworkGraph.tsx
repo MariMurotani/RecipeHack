@@ -139,8 +139,6 @@ const NetworkGraph: React.FC<NetworkGraphProps> = ({ data, hover_callback }) => 
     classes.forEach((d: any) => {
       find(d.id, d);
     });
-
-    console.log(map);
     
     return d3.hierarchy(map[""]);
   }

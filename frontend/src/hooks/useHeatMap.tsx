@@ -1,10 +1,11 @@
 import * as d3 from "d3";
 import { useEffect, useRef } from "react";
 
-interface HeatmapData {
+export interface HeatmapData {
   group: string;
   variable: string;
   value: number;
+  colorCode?: string;
 }
 
 export const useHeatmap = (data: HeatmapData[], width: number, height: number) => {

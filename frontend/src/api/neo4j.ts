@@ -211,38 +211,87 @@ export const extractLocalCoefficient = async (entries: Entry[]): Promise<Coeffic
 export const fetchAromaCompoundWithEntry = async (entry_id: string): Promise<AromaCompound[]> => {
   const session = driver.session();
   const query = `
-    MATCH (f:Food {id: '${entry_id}'})-[:HAS_SUBTYPE]->(fs:FoodSubType)-[r:SCENTED]->(a:Aroma)
+    MATCH (f:Food {id: entry_id})-[:HAS_SUBTYPE]->(fs:FoodSubType)-[r:SCENTED]->(a:Aroma)
     WITH 
       f.id AS food_id, 
+      f.name AS food_name,
+      f.display_name_ja AS food_name_ja,
       a.id AS aroma_id, 
       a.name AS aroma_name, 
       a.color AS color_code,
-      toFloat(r.ratio) AS adjusted_ratio
-    WITH 
-      food_id, 
-      aroma_id, 
-      aroma_name, 
-      color_code, 
-      AVG(adjusted_ratio) AS average_ratio
+      AVG(toFloat(r.ratio)) AS average_ratio
     WHERE average_ratio > 0
     RETURN 
-      DISTINCT food_id, 
+      DISTINCT food_id, food_name, food_name_ja,
       aroma_id, 
       color_code, 
       aroma_name, 
       average_ratio
     ORDER BY average_ratio DESC
-    LIMIT 5
+    LIMIT 8
   `
   try {
     // console.log(query);
     const result = await session.run(query);
+    const max_average_ratio = Math.max(...result.records.map((record) => parseFloat(record.get('average_ratio'))));
+
     const aromaCompounds = result.records.map((record) => {
       return {
+        entry_id: record.get('food_id'),
+        entry_name: record.get('food_name'),
+        entry_name_ja: record.get('food_name_ja'),
         aroma_id: record.get('aroma_id'),
         name: record.get('aroma_name'),
         color: record.get('color_code'),
-        average_ratio: parseFloat(record.get('average_ratio'))
+        average_ratio: parseFloat(record.get('average_ratio')) / max_average_ratio
+      } as AromaCompound;
+    });
+    return aromaCompounds;
+  } catch (error) {
+    console.error('Error executing query:', error);
+    return [];
+  } finally {
+    await session.close();
+  }
+};
+
+// Entryの値idを受け取ってEntryごとのAromaの一覧と含有量を返す
+export const fetchAromaCompoundWithEntries= async (entry_ids: string[]): Promise<AromaCompound[]> => {
+  const session = driver.session();
+  const query = `
+    MATCH (f:Food)-[:HAS_SUBTYPE]->(fs:FoodSubType)-[r:SCENTED]->(a:Aroma)
+    WHERE f.id in [${entry_ids.map((entry_id) => `'${entry_id}'`).join(', ')}]
+    WITH 
+      f.id AS food_id, 
+      f.name AS food_name,
+      f.display_name_ja AS food_name_ja,
+      a.id AS aroma_id, 
+      a.name AS aroma_name, 
+      a.color AS color_code,
+      SUM(toFloat(r.ratio)) AS average_ratio
+    WHERE average_ratio > 0
+    RETURN 
+      DISTINCT food_id, food_name, food_name_ja,
+      aroma_id, 
+      color_code, 
+      aroma_name, 
+      average_ratio
+    ORDER BY average_ratio DESC
+  `
+  try {
+    // console.log(query);
+    const result = await session.run(query);
+    const max_average_ratio = Math.max(...result.records.map((record) => parseFloat(record.get('average_ratio'))));
+
+    const aromaCompounds = result.records.map((record) => {
+      return {
+        entry_id: record.get('food_id'),
+        entry_name: record.get('food_name'),
+        entry_name_ja: record.get('food_name_ja'),
+        aroma_id: record.get('aroma_id'),
+        name: record.get('aroma_name'),
+        color: record.get('color_code'),
+        average_ratio: (parseFloat(record.get('average_ratio')) / max_average_ratio) * 100
       } as AromaCompound;
     });
     return aromaCompounds;

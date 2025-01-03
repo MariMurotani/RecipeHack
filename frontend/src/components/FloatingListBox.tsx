@@ -78,8 +78,8 @@ const FloatingListBox: React.FC<FloatingListBoxProps> = ({ items, handleDelete }
                 <ListItem 
                   key={index}
                   sx={{ fontSize: '16px' }}
-                 onMouseOver={(event) => handleMouseHover(event, entry)}
-                  onMouseOut={() => handleMouseOut()}>
+                  onMouseOver={(event) => handleMouseHover(event, entry)}
+                  >
                   <Box sx={{ flexGrow: 1 }}>{entry.name}</Box>
                   <IconButton
                     edge="end"

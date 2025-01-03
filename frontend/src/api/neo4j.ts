@@ -211,7 +211,7 @@ export const extractLocalCoefficient = async (entries: Entry[]): Promise<Coeffic
 export const fetchAromaCompoundWithEntry = async (entry_id: string): Promise<AromaCompound[]> => {
   const session = driver.session();
   const query = `
-    MATCH (f:Food {id: entry_id})-[:HAS_SUBTYPE]->(fs:FoodSubType)-[r:SCENTED]->(a:Aroma)
+    MATCH (f:Food {id:'${entry_id}'})-[:HAS_SUBTYPE]->(fs:FoodSubType)-[r:SCENTED]->(a:Aroma)
     WITH 
       f.id AS food_id, 
       f.name AS food_name,

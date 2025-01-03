@@ -89,7 +89,9 @@ const Constitution: React.FC = () => {
       const aromaCompounds: AromaCompound[] = await fetchAromaCompoundWithEntries(entry_ids);
       const heatmapData:HeatmapData[] = [];
       aromaCompounds.forEach((aroma) => {
-        heatmapData.push({ group: aroma.entry_name, variable: aroma.aroma_id, value: aroma.average_ratio, colorCode: aroma.color });
+        if (aroma.average_ratio > 10) {
+          heatmapData.push({ group: aroma.entry_name, variable: aroma.aroma_id, value: aroma.average_ratio, colorCode: aroma.color });
+        }
       });
       setHeatmapData(heatmapData);
   };

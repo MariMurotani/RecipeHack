@@ -6,7 +6,7 @@ import FixedButtonOverlay from '../components/FixedButtonOverlay';
 import FloatingListBox from '../components/FloatingListBox';
 import { useNavigate } from 'react-router-dom';
 import { getMatchedParingEntries, fetchAromaCompoundWithEntry } from '../api/neo4j';
-import { AromaCompound, Category, Entry } from '../api/types';
+import { Category, Entry } from '../api/types';
 import LightbulbTypography from '../components/LightbulbTypography';
 import EntryGraphToolTip from '../components/EntryGraphTooltip';
 import { useTooltipHandler } from "../hooks/useTooltipHandler";

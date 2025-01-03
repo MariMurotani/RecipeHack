@@ -67,7 +67,7 @@ export const useHeatmap = (data: HeatmapData[], width: number, height: number) =
     
     const mousemove = function (event: MouseEvent, d: HeatmapData) {
       tooltip
-        .html(`Value: ${d.value}`)
+        .html(`${d.value}`)
         .style("left", `${event.pageX + 10}px`)
         .style("top", `${event.pageY}px`);
     };

@@ -17,12 +17,12 @@ export const useTooltipHandler = () => {
       ratio: aroma.average_ratio,
       color: aroma.color ?? "#000000",
     }));
-    const scrollOffsetY = window.scrollY || document.documentElement.scrollTop;
-    const scrollOffsetX = window.scrollX || document.documentElement.scrollLeft;
-
+    //const scrollOffsetY = window.scrollY || document.documentElement.scrollTop;
+    //const scrollOffsetX = window.scrollX || document.documentElement.scrollLeft;
+    
     setMousePosition({
-      x: event.clientX + scrollOffsetX,
-      y: event.clientY + scrollOffsetY,
+      x: event.clientX,
+      y: event.clientY,
     });
     setCurrentEntry(entry);
     setAnchorEl(event.currentTarget);
@@ -31,6 +31,7 @@ export const useTooltipHandler = () => {
   };
 
   const handleMouseOut = () => {
+    console.log("handleMouseOut");
     setShowTooltip(false);
   };
 

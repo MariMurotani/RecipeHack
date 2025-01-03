@@ -1,15 +1,18 @@
 import React from "react";
 import { Box, Popper, Typography } from "@mui/material";
 import { useD3PieChart, FlavorCompoundDataType} from "../hooks/useD3PieChart";
+import { SxProps, Theme } from "@mui/material/styles";
 
 interface EntryGraphTooltipProps {
   data: FlavorCompoundDataType[];
   mousePosition: { x: number; y: number };
   anchorEl: null | HTMLElement;
   title: string;
+  show: boolean;
+  sx?: SxProps<Theme>; // sxプロパティを追加
 }
 
-const GraphTooltip: React.FC<EntryGraphTooltipProps> = ({ data, mousePosition, anchorEl, title }) => {
+const GraphTooltip: React.FC<EntryGraphTooltipProps> = ({ data, mousePosition, anchorEl, title, show, sx }) => {
   const width = 200;
   const height = 200;
 
@@ -17,6 +20,7 @@ const GraphTooltip: React.FC<EntryGraphTooltipProps> = ({ data, mousePosition, a
   const svgRef = useD3PieChart(data, width, height);
 
   return (
+    (show) &&
     <Popper
       open={true} // anchorEl が存在するときにのみ表示
       anchorEl={anchorEl}
@@ -29,15 +33,10 @@ const GraphTooltip: React.FC<EntryGraphTooltipProps> = ({ data, mousePosition, a
           },
         },
       ]}
-      style={{
-        display: "flex",
-        justifyContent: "center", // 水平方向の中央揃え
-        alignItems: "center", // 垂直方向の中央揃え
-        position: "absolute",
-        left: mousePosition.x + 30, // Offset from mouse position
-        top: mousePosition.y + 10,
-        pointerEvents: "none", // Prevent interference with mouse events
+      sx={{
+        ...sx
       }}
+      style={{ position: "fixed", top: mousePosition.y, left: mousePosition.x }}
     >
       <Box
         sx={{

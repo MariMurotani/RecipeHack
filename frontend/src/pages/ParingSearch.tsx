@@ -104,6 +104,7 @@ const ParingSearch: React.FC = () => {
           mousePosition={mousePosition}
           anchorEl={anchorEl}
           title={currentEntry?.name ?? ""}
+          show={showTooltip}
           />}
         <Box
         sx={{
@@ -128,27 +129,24 @@ const ParingSearch: React.FC = () => {
               onClick={() => handleChipClick('')}
             />)}
         </Box>
-        <Box
-            onMouseOut={() => handleMouseOut()}>
-          <ul>
-            {matchedResult.map((entry) => (
-              <li key={`li${entry.id}`}
-              style={{
-                listStyleType: 'none',
-              }}
-              onMouseOver={(event) => handleMouseHover(event, entry)}
-              >
-                <Checkbox 
-                key={`ch_${entry.id}`} 
-                size="small" 
-                checked={isChecked[entry.id] || false}  
-                onChange={(event) => handleItemClick(entry, event)} />
-                {entry.name} - {entry.name_ja} (f: {entry.flavor_score}, w: {entry.word_score}, c: {entry.count}, kn: ({entry.key_notes.join(', ')}))
-              </li>
-            ))}
-          </ul>
-        </Box>
-        </PageContainer>
+        <ul>
+          {matchedResult.map((entry) => (
+            <li key={`li${entry.id}`}
+            style={{
+              listStyleType: 'none',
+            }}
+            onMouseOver={(event) => handleMouseHover(event, entry)}
+            >
+              <Checkbox 
+              key={`ch_${entry.id}`} 
+              size="small" 
+              checked={isChecked[entry.id] || false}  
+              onChange={(event) => handleItemClick(entry, event)} />
+              {entry.name} - {entry.name_ja} (f: {entry.flavor_score}, w: {entry.word_score}, c: {entry.count}, kn: ({entry.key_notes.join(', ')}))
+            </li>
+          ))}
+        </ul>
+      </PageContainer>
     </Container>
   );
 };

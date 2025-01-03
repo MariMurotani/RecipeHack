@@ -102,6 +102,7 @@ const MainGroup: React.FC = () => {
             mousePosition={mousePosition}
             anchorEl={anchorEl}
             title={currentEntry?.name ?? ""}
+            show={showTooltip}
           />}
         </Typography>
 

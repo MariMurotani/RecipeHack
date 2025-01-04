@@ -1,15 +1,15 @@
 import React, { useEffect, useRef, useState } from 'react';
-import { Container, Typography, Button, Box, Tab, Tabs, CircularProgress, Divider } from '@mui/material';
+import { Container, Typography, Button, Box, Tab, Tabs, CircularProgress, Divider, Link } from '@mui/material';
 import { useAppContext } from '../AppContext';
 import NetworkGraph, { DataNode } from '../components/NetworkGraph';
 import Heatmap from "../components/Heatmap";
 import GraphTooltip from '../components/GraphTooltip';
 import { TabContext, TabList, TabPanel } from '@mui/lab';
 import { extractLocalCoefficient, fetchAromaCompoundWithEntries, fetchAromaCompoundWithEntry } from '../api/neo4j';
-import { askChatGPT } from '../api/open_ai';
-import { fetchOllamaResponse } from '../api/ollama';
+import { generateAllRecipe } from '../api/open_ai_chef';
 import { AromaCompound, Coefficient, Entry } from 'src/api/types';
 import { HeatmapData } from '../hooks/useHeatMap';
+import ReactMarkdown from "react-markdown";
 
 const Constitution: React.FC = () => {
   // 共通のデータストアとして、クリックされたボタンのキーを保存するための状態を管理
@@ -31,35 +31,17 @@ const Constitution: React.FC = () => {
   // タブチェンジのハンドラ
   const handleTabChange = (event: React.SyntheticEvent, newValue: string) => {     setTabNumber(newValue);   };
 
-  // GTPへお伺い
-  const processGPT = async () => {
-    if (selectedMainItems.length === 0 || selectedAdditionalEntries.length === 0) {
-      return;
-    }
-    const nameList = [...selectedMainItems, ...selectedAdditionalEntries].map(entry => entry.name).join(', ');
-    const messages = [
-      { role: 'system', content: 'You are a one of the great chef in the world.' },
-      { role: 'user', content: `What do you cook with ${nameList}? tell me title of dish, ingredient and steps.` }
-    ];
-    askChatGPT(messages).then(answer => {
-      setGptSuggest(answer);
-      setLoading(false);
-    }).catch(error => {
-      console.error('エラー:', error);
-    });
-  };
-
   // Ollamaへお伺い
-  const processOllama = async () => {
+  const processGPT = async () => {
     if (selectedMainItems.length === 0 || selectedAdditionalEntries.length === 0) {
         return;
     }
-    const question = `This is the test request for ollama. `;
     setLoading(true);
     setGptSuggest(''); // 初期化
-
-    await fetchOllamaResponse(question, (partial) => {
-        setGptSuggest(prev => prev + partial); // 部分レスポンスを追記
+   
+    const ingiriList:string[] = [...selectedMainItems, ...selectedAdditionalEntries].map(entry => entry.name);
+    await generateAllRecipe(ingiriList, (partial) => {
+      setGptSuggest(prev => prev + partial);
     });
 
     setLoading(false);
@@ -121,12 +103,23 @@ const Constitution: React.FC = () => {
   };
   
   useEffect(() => {
-    //processGPT();
-    processOllama();
+    processGPT();
     processCoefficients();
     processAromaHeatmap();
   }, [selectedMainItems, selectedAdditionalEntries]); 
   
+  // Markdown 用のカスタムレンダラー
+  const components = {
+    h1: ({ node, ...props }: any) => <Typography variant="h4" gutterBottom {...props} />,
+    h2: ({ node, ...props }: any) => <Typography variant="h5" gutterBottom {...props} />,
+    h3: ({ node, ...props }: any) => <Typography variant="h6" gutterBottom {...props} />,
+    p: ({ node, ...props }: any) => <Typography variant="body1" gutterBottom {...props} />,
+    a: ({ node, ...props }: any) => <Link {...props} target="_blank" rel="noopener noreferrer" />,
+    ul: ({ node, ...props }: any) => <Box component="ul" sx={{ pl: 4 }} {...props} />,
+    ol: ({ node, ...props }: any) => <Box component="ol" sx={{ pl: 4 }} {...props} />,
+    li: ({ node, ...props }: any) => <Typography component="li" variant="body1" {...props} />,
+  };
+
   return (
     <Container>
         <TabContext value={tabNumber}>
@@ -149,16 +142,12 @@ const Constitution: React.FC = () => {
       <Divider />
       <Box
          display="flex" flexDirection="column" alignItems="top" justifyContent="center"
-        >
-        {(loading) ? (
-                // ローディング中はCircularProgressを表示
-                <Box display="flex" alignItems="center" justifyContent="center" margin="20px"><CircularProgress /></Box>
-            ) : (
-                // ローディング完了後はテキストを表示
-                <Typography variant="body1" mt={2} sx={{ whiteSpace: 'pre-line' }}>
-                    {gptSuggest}
-                </Typography>
-            )}
+        > 
+        <ReactMarkdown components={components}>{gptSuggest}</ReactMarkdown>
+        <Typography variant="body1" mt={2} sx={{ whiteSpace: 'pre-line' }}>
+            {gptSuggest}
+        </Typography>
+        {(loading) && <Box display="flex" alignItems="center" justifyContent="center" margin="20px"><CircularProgress /></Box> }
         </Box>
     </Container>
   );

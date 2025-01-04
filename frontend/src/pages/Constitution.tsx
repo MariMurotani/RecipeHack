@@ -7,6 +7,7 @@ import GraphTooltip from '../components/GraphTooltip';
 import { TabContext, TabList, TabPanel } from '@mui/lab';
 import { extractLocalCoefficient, fetchAromaCompoundWithEntries, fetchAromaCompoundWithEntry } from '../api/neo4j';
 import { askChatGPT } from '../api/open_ai';
+import { askOllama } from '../api/ollama';
 import { AromaCompound, Coefficient, Entry } from 'src/api/types';
 import { HeatmapData } from '../hooks/useHeatMap';
 
@@ -46,6 +47,17 @@ const Constitution: React.FC = () => {
     }).catch(error => {
       console.error('エラー:', error);
     });
+  };
+
+  // Ollamaへお伺い
+  const askOllama= async () => {
+    if (selectedMainItems.length === 0 || selectedAdditionalEntries.length === 0) {
+      return;
+    }
+    const question = `This is the test request for ollama. `;
+    const response = await askOllama(question);
+    setGptSuggest(response ?? "");
+    setLoading(true);
   };
 
   // 食材ペアの分析

@@ -1,19 +1,19 @@
 id,name,display_name_ja,class_name
-herbs,Herbs,ハーブ,Mountain
+herbs,Herbs,ハーブ,Spice & Herbs
 cabbages,Cabbages,キャベツ類,Green
 tropical_fruits,Tropical fruits,熱帯果実,Tropical
-onion_family_vegetables,Onion-family vegetables,ネギ類,Other
+onion_family_vegetables,Onion-family vegetables,ネギ類,Green
 nuts,Nuts,ナッツ,Earth
 spices,Spices,スパイス,Spice & Herbs
 root_vegetables,Root vegetables,根菜,Earth
-shoot_vegetables,Shoot vegetables,芽野菜,Other
+shoot_vegetables,Shoot vegetables,芽野菜,Green
 cereals,Cereals,穀物,Field
 leaf_vegetables,Leaf vegetables,葉物野菜,Green
-oilseed_crops,Oilseed crops,油糧作物,Field
+oilseed_crops,Oilseed crops,油糧作物,Oil
 peas,Peas,エンドウ豆,Field
 teas,Teas,お茶,Drink
-fruit_vegetables,Fruit vegetables,果菜類,Other
-gourds,Gourds,ウリ科,Other
+fruit_vegetables,Fruit vegetables,果菜類,Tropical
+gourds,Gourds,ウリ科,Green
 citrus,Citrus,柑橘類,Tropical
 coffee,Coffee,コーヒー,Drink
 pomes,Pomes,リンゴ類,Tropical
@@ -22,14 +22,14 @@ other_fruits,Other fruits,その他の果実,Tropical
 soy,Soy,大豆,Other
 tubers,Tubers,イモ類,Earth
 lentils,Lentils,レンズ豆,Field
-other_pulses,Other pulses,その他の豆類,Other
-beans,Beans,豆,Earth
-drupes,Drupes,核果類,Other
-stalk_vegetables,Stalk vegetables,茎野菜,Other
-cocoa,Cocoa,ココア,Other
+other_pulses,Other pulses,その他の豆類,Field
+beans,Beans,豆,Field
+drupes,Drupes,核果類,Tropical
+stalk_vegetables,Stalk vegetables,茎野菜,Green
+cocoa,Cocoa,ココア,Drink
 fermented_beverages,Fermented beverages,発酵飲料,Drink
-other_breads,Other breads,その他のパン,Other
-cereal_products,Cereal products,穀物製品,Earth
+other_breads,Other breads,その他のパン,Field
+cereal_products,Cereal products,穀物製品,Field
 soy_products,Soy products,大豆製品,Other
 doughs,Doughs,生地,Other
 distilled_beverages,Distilled beverages,蒸留酒,Drink
@@ -42,21 +42,21 @@ fishes,Fishes,魚類,Ocean
 cetaceans,Cetaceans,鯨類,Ocean
 bovines,Bovines,牛肉,Pasture
 swine,Swine,豚肉,Pasture
-other_seeds,Other seeds,その他の種子,Other
-other_vegetables,Other vegetables,その他の野菜,Other
+other_seeds,Other seeds,その他の種子,Field
+other_vegetables,Other vegetables,その他の野菜,Green
 poultry,Poultry,鶏肉,Pasture
 venison,Venison,鹿肉,Pasture
 equines,Equines,馬肉,Pasture
 other_aquatic_foods,Other aquatic foods,その他の水産食品,Ocean
 pinnipeds,Pinnipeds,アザラシ類,Other
-lagomorphs,Lagomorphs,ウサギ類,Other
-ovis,Ovis,羊肉,Other
-caprae,Caprae,山羊肉,Other
+lagomorphs,Lagomorphs,ウサギ類,Pasture
+ovis,Ovis,羊肉,Pasture
+caprae,Caprae,山羊肉,Pasture
 mushrooms,Mushrooms,キノコ,Mountain
 amphibians,Amphibians,両生類,Other
-fermented_milk_products,Fermented milk products,発酵乳製品,Other
-unfermented_milks,Unfermented milks,非発酵乳,Other
-eggs,Eggs,卵,Other
+fermented_milk_products,Fermented milk products,発酵乳製品,Pasture
+unfermented_milks,Unfermented milks,非発酵乳,Pasture
+eggs,Eggs,卵,Pasture
 frozen_desserts,Frozen desserts,冷凍デザート,Other
 other_confectioneries,Other confectioneries,その他の菓子,Other
 candies,Candies,キャンディ,Other
@@ -66,19 +66,19 @@ other_dishes,Other dishes,その他の料理,Other
 snack_foods,Snack foods,スナック食品,Other
 flat_breads,Flat breads,フラットブレッド,Other
 dressings,Dressings,ドレッシング,Other
-sauces,Sauces,ソース,Other
-other_milk_products,Other milk products,その他の乳製品,Other
+sauces,Sauces,ソース,Spice & Herbs
+other_milk_products,Other milk products,その他の乳製品,Pasture
 substitutes,Substitutes,代替品,Other
 sugars,Sugars,砂糖,Other
 ground_meat,Ground meat,挽肉,Earth
-condiments,Condiments,調味料,Other
+condiments,Condiments,調味料,Spice & Herbs
 baking_goods,Baking goods,製菓材料,Other
 fruit_products,Fruit products,果実製品,Other
 waters,Waters,水,Other
 fish_products,Fish products,魚製品,Other
-other_beverages,Other beverages,その他の飲料,Other
+other_beverages,Other beverages,その他の飲料,Drink
 baby_foods,Baby foods,ベビーフード,Other
-vegetable_products,Vegetable products,野菜製品,Other
+vegetable_products,Vegetable products,野菜製品,Green
 unclassified,Unclassified,未分類,Other
 animal_fats,Animal fats,動物性脂肪,Oil
 spreads,Spreads,スプレッド,Other
@@ -86,7 +86,7 @@ herb_and_spice_mixtures,Herb and spice mixtures,ハーブとスパイスミッ�
 cocoa_products,Cocoa products,ココア製品,Other
 fermented_milks,Fermented milks,発酵乳,Other
 leavened_breads,Leavened breads,発酵パン,Other
-roe,Roe,魚卵,Other
+roe,Roe,魚卵,Ocean
 nutritional_beverages,Nutritional beverages,栄養飲料,Drink
 tex_mex_cuisine,Tex-Mex cuisine,メキシコ風料理,Other
 sandwiches,Sandwiches,サンドイッチ,Other
@@ -107,7 +107,7 @@ sweet_breads,Sweet breads,甘いパン,Other
 jewish_cuisine,Jewish cuisine,ユダヤ料理,Other
 levantine_cuisine,Levantine cuisine,レバント料理,Other
 brassicas,Brassicas,アブラナ科,Green
-cereals_and_cereal_products,Cereals and cereal products,穀物および穀物製品,Earth
+cereals_and_cereal_products,Cereals and cereal products,穀物および穀物製品,Field
 cocoa_and_cocoa_products,Cocoa and cocoa products,ココアおよびココア製品,Other
 coffee_and_coffee_products,Coffee and coffee products,コーヒーおよびコーヒー製品,Drink
 milk_and_milk_products,Milk and milk products,牛乳および乳製品,Other

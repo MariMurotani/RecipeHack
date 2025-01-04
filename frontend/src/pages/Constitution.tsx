@@ -118,6 +118,7 @@ const Constitution: React.FC = () => {
     ul: ({ node, ...props }: any) => <Box component="ul" sx={{ pl: 4 }} {...props} />,
     ol: ({ node, ...props }: any) => <Box component="ol" sx={{ pl: 4 }} {...props} />,
     li: ({ node, ...props }: any) => <Typography component="li" variant="body1" {...props} />,
+    hr: () => <Divider sx={{ my: 2 }} />
   };
 
   return (
@@ -142,11 +143,9 @@ const Constitution: React.FC = () => {
       <Divider />
       <Box
          display="flex" flexDirection="column" alignItems="top" justifyContent="center"
+         sx={{ marginTop: "20px" }}
         > 
         <ReactMarkdown components={components}>{gptSuggest}</ReactMarkdown>
-        <Typography variant="body1" mt={2} sx={{ whiteSpace: 'pre-line' }}>
-            {gptSuggest}
-        </Typography>
         {(loading) && <Box display="flex" alignItems="center" justifyContent="center" margin="20px"><CircularProgress /></Box> }
         </Box>
     </Container>

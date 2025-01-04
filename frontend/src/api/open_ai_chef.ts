@@ -9,28 +9,28 @@ type ChefStyle = "French" | "Mediterranean" | "Turkish";
 // 各シェフのプロンプトを型付きで定義
 const chefPrompts: Record<ChefStyle, string> = {
   French: `
-Using the following ingredients, create a sophisticated and delicate French recipe in this format:
-
-# French Cuisine
+Using the following ingredients, create a sophisticated and delicate French recipe in following markdown format.
 `,
   Mediterranean: `
-Using the following ingredients, create a Mediterranean recipe incorporating olive oil, herbs, and vegetables in this format:
-
-# Mediterranean Cuisine
+Using the following ingredients, create a Mediterranean recipe incorporating olive oil, herbs, and vegetables in following markdown format.
 `,
   Turkish: `
-Using the following ingredients, create a homely Turkish recipe utilizing spices and yogurt in this format:
+Using the following ingredients, create a homely Turkish recipe utilizing spices and yogurt in following markdown format.
 
 # Turkish Cuisine
 `,
 };
 
 const responsePrompt = `
-## Dish Name
-** Ingredients **: List of ingredients
-** Steps **: Cooking instructions
+## Dish Name <- Please replace this with the name of the dish you created
+(French Cuisine, Mediterranean Cuisine, Turkish Cuisine) <- Please specify the cuisine style
+### Ingredients
+ - List of ingredients
+### Steps
+ - Cooking instructions
+***
 
-- Please translate into Japanese.
+- Please translate into Japanese and return only the translated Japanese text.
 `;
 
 // OpenAI APIを呼び出す関数
@@ -43,7 +43,8 @@ async function callOpenAI(prompt: string): Promise<string> {
         { role: "system", content: "You are a world-class chef." },
         { role: "user", content: prompt },
       ],
-      max_tokens: 500,
+      max_tokens: 1000,
+      temperature: 1.0
     },
     {
       headers: {
@@ -98,5 +99,5 @@ export async function generateAllRecipe(ingredients: string[], callback: (recipe
   // 議論してフュージョンレシピを生成
   console.log("Debating recipes to create the best fusion dish...\n");
   const fusionRecipe = await debateAndFuseRecipes(individualRecipes);
-  //callback(fusionRecipe);
+  callback(fusionRecipe);
 }

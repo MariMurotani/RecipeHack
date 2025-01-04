@@ -8,38 +8,42 @@ type ChefStyle = "French" | "Mediterranean" | "Turkish";
 
 const chefPrompts: Record<ChefStyle, string> = {
   French: `
-Using the following ingredients, create a sophisticated and delicate French recipe in this format:
-** French Cuisine
-* Dish Name *
-Ingredients: List of ingredients
-Steps: Cooking instructions
+ Using the following ingredients, create a sophisticated and delicate French recipe  n following markdown format:
+Please translate it into Japanese and return only the translated Japanese text.
+French Cuisine
 `,
   Mediterranean: `
-Using the following ingredients, create a Mediterranean recipe incorporating olive oil, herbs, and vegetables in this format:
-** Mediterranean Cuisine
-* Dish Name *
-Ingredients: List of ingredients
-Steps: Cooking instructions
+Using the above ingredients, create a Mediterranean recipe incorporating olive oil, herbs, and vegetables in following markdown format:
+Please translate it into Japanese and return only the translated Japanese text.
+## Mediterranean Cuisine
 `,
   Turkish: `
-Using the following ingredients, create a homely Turkish recipe utilizing spices and yogurt in this format:
-** Turkish Cuisine
-* Dish Name *
-Ingredients: List of ingredients
-Steps: Cooking instructions
+Using the above ingredients, create a Mediterranean recipe incorporating olive oil, herbs, and vegetables in following markdown format:
+Please translate it into Japanese and return only the translated Japanese text.
+## Turkish Cuisine
 `,
 };
 
+const responsePrompt = `
+## Dish Name <- Please input the name of dish you created
+(French Cuisine, Mediterranean Cuisine, Turkish Cuisine) <= Please specify the cuisine style
+#### Ingredients: 
+  - List of ingredients
+#### Steps:
+  - Cooking instructions
+***
+`;
+
 // レシピを生成する関数
 async function generateRecipe(style: ChefStyle, ingredients: string[]): Promise<string> {
-  const prompt = `Ingredients: ${JSON.stringify(ingredients)}\n${chefPrompts[style]}`;
+  const prompt = `Ingredients: ${JSON.stringify(ingredients)}\n${chefPrompts[style]}\n${responsePrompt}`;
   
   const response = await axios.post(
     OPENAI_API_URL,
     {
       model: "gpt-4",
       messages: [
-        { role: "system", content: "You are a world-class chef." },
+        { role: "system", content: "You are a world-class chef. Hummer out a new dish with provided information." },
         { role: "user", content: prompt },
       ],
       max_tokens: 500,
@@ -52,7 +56,7 @@ async function generateRecipe(style: ChefStyle, ingredients: string[]): Promise<
     }
   );
 
-  return response.data.choices[0].message.content.trim();
+  return response.data.choices[0].message.content.trim() + "\n";
 }
 
 // 議論してフュージョンレシピを作成する関数
@@ -77,7 +81,7 @@ ${Object.entries(recipes)
       model: "gpt-4",
       messages: [
         { role: "system", content: "You are a world-class chef." },
-        { role: "user", content: debatePrompt },
+        { role: "user", content: `${debatePrompt}\n${responsePrompt}` },
       ],
       max_tokens: 500,
     },
@@ -89,7 +93,7 @@ ${Object.entries(recipes)
     }
   );
 
-  return response.data.choices[0].message.content.trim();
+  return response.data.choices[0].message.content.trim() + "\n";
 }
 
 // メインフロー

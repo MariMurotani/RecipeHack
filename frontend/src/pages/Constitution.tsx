@@ -19,7 +19,7 @@ const Constitution: React.FC = () => {
   // GPTの結果用
   const [gptSuggest, setGptSuggest] = useState<string>('');
   // ローディング用
-  const [loading, setLoading] = useState<boolean>(false);
+  const [loading, setLoading] = useState<boolean>(true);
   // ネットワークグラフ用のデータを保持
   const [coefficientData, setCoefficientData] = useState<DataNode[]>([]);
   // ヒートマップ用のデータを保持
@@ -43,7 +43,7 @@ const Constitution: React.FC = () => {
     ];
     askChatGPT(messages).then(answer => {
       setGptSuggest(answer);
-      setLoading(true);
+      setLoading(false);
     }).catch(error => {
       console.error('エラー:', error);
     });
@@ -52,12 +52,17 @@ const Constitution: React.FC = () => {
   // Ollamaへお伺い
   const processOllama = async () => {
     if (selectedMainItems.length === 0 || selectedAdditionalEntries.length === 0) {
-      return;
+        return;
     }
     const question = `This is the test request for ollama. `;
-    const response = await fetchOllamaResponse(question);
-    setGptSuggest(response ?? "");
     setLoading(true);
+    setGptSuggest(''); // 初期化
+
+    await fetchOllamaResponse(question, (partial) => {
+        setGptSuggest(prev => prev + partial); // 部分レスポンスを追記
+    });
+
+    setLoading(false);
   };
 
   // 食材ペアの分析
@@ -145,7 +150,7 @@ const Constitution: React.FC = () => {
       <Box
          display="flex" flexDirection="column" alignItems="top" justifyContent="center"
         >
-        {(!loading) ? (
+        {(loading) ? (
                 // ローディング中はCircularProgressを表示
                 <Box display="flex" alignItems="center" justifyContent="center" margin="20px"><CircularProgress /></Box>
             ) : (

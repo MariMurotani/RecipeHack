@@ -127,8 +127,9 @@ const Constitution: React.FC = () => {
 
         <Box sx={{ borderBottom: 0, borderColor: 'divider' }}>
           <TabList onChange={handleTabChange} aria-label="lab API tabs example" sx={{ justifyContent: 'center' }}>
-          <Tab label="Food Network" value="1" />
-          <Tab label="HEAT MAP" value="2" />
+            <Tab label="Food Network" value="1" />
+            <Tab label="HEAT MAP" value="2" />
+            <Tab label="RECIPE GENERATION" value="3" />
           </TabList>
         </Box>
         {/* 食材ネットワークを表示 */}
@@ -139,15 +140,17 @@ const Constitution: React.FC = () => {
         <TabPanel value="2" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
           <Heatmap data={heatmapData} width={500} height={500} />
         </TabPanel>
+        {/* レシピ生成GPT */}
+        <TabPanel value="3" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+          <Box
+          display="flex" flexDirection="column" alignItems="top" justifyContent="center"
+          sx={{ marginTop: "20px" }}
+          > 
+          <ReactMarkdown components={components}>{gptSuggest}</ReactMarkdown>
+          {(loading) && <Box display="flex" alignItems="center" justifyContent="center" margin="20px"><CircularProgress /></Box> }
+          </Box>
+        </TabPanel>
       </TabContext>
-      <Divider />
-      <Box
-         display="flex" flexDirection="column" alignItems="top" justifyContent="center"
-         sx={{ marginTop: "20px" }}
-        > 
-        <ReactMarkdown components={components}>{gptSuggest}</ReactMarkdown>
-        {(loading) && <Box display="flex" alignItems="center" justifyContent="center" margin="20px"><CircularProgress /></Box> }
-        </Box>
     </Container>
   );
 };

@@ -43,7 +43,7 @@ async function callOpenAI(prompt: string): Promise<string> {
         { role: "system", content: "You are a world-class chef." },
         { role: "user", content: prompt },
       ],
-      max_tokens: 1000,
+      max_tokens: 500,
       temperature: 1.0
     },
     {
@@ -54,7 +54,7 @@ async function callOpenAI(prompt: string): Promise<string> {
     }
   );
 
-  return response.data.choices[0].message.content.trim();
+  return response.data.choices[0].message.content.trim() + "\n\n";
 }
 
 // レシピを生成する関数
@@ -65,26 +65,24 @@ async function generateRecipe(style: ChefStyle, ingredients: string[]): Promise<
 
 // 議論してフュージョンレシピを作成する関数
 async function debateAndFuseRecipes(recipes: Record<ChefStyle, string>): Promise<string> {
+  const origin_recipes = Object.entries(recipes)
+  .map(([style, recipe]) => `${style} Recipe:\n${recipe}`)
+  .join("\n\n");
+
   const debatePrompt = `
-You are a group of expert chefs. Each of you has created a recipe in your style. Now, discuss and agree on the best elements from each recipe to create a perfect fusion dish.
-The format of the final recipe should be:
-** Best Fusion Cuisine
-* Dish Name *
-Ingredients: List of ingredients
-Steps: Cooking instructions
+You are a group of expert chefs.
+Each of you has created a recipe in your style. Now, 
+discuss and agree on the best elements from each recipe to create a perfect fusion dish.
 
 Here are the individual recipes:
-${Object.entries(recipes)
-  .map(([style, recipe]) => `${style} Recipe:\n${recipe}`)
-  .join("\n\n")}
+${origin_recipes}
 `;
 
-  return callOpenAI(debatePrompt);
+  return callOpenAI(`${debatePrompt}\n${responsePrompt}`);
 }
 
 // メインフロー
 export async function generateAllRecipe(ingredients: string[], callback: (recipe: string) => void) {
-  
   console.log("Generating individual recipes...\n");
   const individualRecipes: Record<ChefStyle, string> = {} as Record<ChefStyle, string>;
 

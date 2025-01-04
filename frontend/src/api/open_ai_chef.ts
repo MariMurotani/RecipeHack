@@ -59,7 +59,7 @@ async function callOpenAI(prompt: string): Promise<string> {
 
 // レシピを生成する関数
 async function generateRecipe(style: ChefStyle, ingredients: string[]): Promise<string> {
-  const prompt = `Ingredients: ${JSON.stringify(ingredients)}\n${chefPrompts[style]}\n${responsePrompt}`;
+  const prompt = `${chefPrompts[style]}\n\\n\Ingredients: ${JSON.stringify(ingredients)}\n\n${responsePrompt}`;
   return callOpenAI(prompt);  
 }
 

@@ -103,11 +103,17 @@ const Constitution: React.FC = () => {
   };
   
   useEffect(() => {
-    processGPT();
     processCoefficients();
     processAromaHeatmap();
   }, [selectedMainItems, selectedAdditionalEntries]); 
   
+  useEffect(() => {
+    if(tabNumber === '3') {
+      console.log("GPT Process -- ");
+      processGPT();
+    }
+  }, [tabNumber]);
+
   // Markdown 用のカスタムレンダラー
   const components = {
     h1: ({ node, ...props }: any) => <Typography variant="h4" gutterBottom {...props} />,

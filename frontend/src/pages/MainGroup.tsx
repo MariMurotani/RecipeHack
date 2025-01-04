@@ -4,9 +4,11 @@ import { Container, Typography, TextField, Button, Checkbox, IconButton } from '
 import PageContainer from '../components/PageContainer';
 import FixedButtonOverlay from '../components/FixedButtonOverlay';
 import FloatingListBox from '../components/FloatingListBox';
+import EntryGraphToolTip from '../components/EntryGraphTooltip';
 import { useNavigate } from 'react-router-dom';
 import { getEntryDataWithCategoryGroup } from '../api/neo4j';
 import { Entry } from '../api/types';
+import { useTooltipHandler } from "../hooks/useTooltipHandler";
 
 const MainGroup: React.FC = () => {
   const { selectedMainGroup, selectedMainItems, setSelectedMainItems } = useAppContext();  
@@ -15,9 +17,18 @@ const MainGroup: React.FC = () => {
   const [result, setResult] = useState<Entry[]>([]);  // Entry型の配列を保存する状態
   const [searchText, setSearchText] = useState<string>('');  // 検索テキストの状態
   const [isChecked, setIsChecked] = useState<{ [key: string]: boolean }>({}); // チェックボックスのステート管理専用
-
+  const {
+      mousePosition,
+      showTooltip,
+      flavorCompoundData,
+      anchorEl,
+      currentEntry,
+      handleMouseHover,
+      handleMouseOut,
+    } = useTooltipHandler();
+    
   // 初期値として `meat` を使用し、`result`を取得
-  const cate = selectedMainGroup === "" ? "meat" : selectedMainGroup;
+  const cate = selectedMainGroup === "" ? "Meat" : selectedMainGroup;
 
   // `searchText` や `cate` が変更された時にデータを取得する
   useEffect(() => {
@@ -86,6 +97,13 @@ const MainGroup: React.FC = () => {
         <Typography gutterBottom component="div">
           <FixedButtonOverlay onClick={buttonOnClick} />
           <FloatingListBox items={selectedMainItems} handleDelete={handleSelectedListDelete} />
+          {(flavorCompoundData.length > 0) &&  <
+            EntryGraphToolTip data={flavorCompoundData} 
+            mousePosition={mousePosition}
+            anchorEl={anchorEl}
+            title={currentEntry?.name ?? ""}
+            show={showTooltip}
+          />}
         </Typography>
 
         {/* テキストボックスを配置 */}
@@ -105,17 +123,19 @@ const MainGroup: React.FC = () => {
             <li key={`li_${entry.id}`}
             style={{
               listStyleType: 'none',
-            }}>
+            }}
+            onMouseOver={(event) => handleMouseHover(event, entry)}
+            >
               <Checkbox 
               key={`ch_${entry.id}`} 
               size="small"  
               checked={isChecked[entry.id] || false}  
               onChange={(event) => handleItemClick(entry, event)} />
-              {entry.name} - {entry.scientific_name}
+              {entry.name} - {entry.name_ja}
             </li>
           ))}
         </ul>
-      </PageContainer>
+        </PageContainer>
     </Container>
   );
 };

@@ -9,16 +9,19 @@ const diameter = 560;
 const radius = diameter / 2;
 
 export interface DataNode {
+  id: string;
   name: string;
   size: number;
+  edge_titles: string[];
   imports: string[];
 }
 
 interface NetworkGraphProps {
   data: DataNode[];
+  hover_callback: (event:MouseEvent, id: string, show: boolean) => void;
 }
 
-const NetworkGraph: React.FC<NetworkGraphProps> = ({ data }) => {
+const NetworkGraph: React.FC<NetworkGraphProps> = ({ data, hover_callback }) => {
   const svgRef = useRef<SVGSVGElement | null>(null);
   const margin = { top: 20, right: 0, bottom: 0, left: 0 };
   const width = 460 - margin.left - margin.right;
@@ -58,20 +61,26 @@ const NetworkGraph: React.FC<NetworkGraphProps> = ({ data }) => {
 
     cluster(root);
     const leaves = root.leaves();
-
+    const packaged_leaves = packageImports(leaves)
+    ///console.log(root);
+    //console.log(packaged_leaves);
+    
     svg.append('g')
       .selectAll('.link')
-      .data(packageImports(leaves))
+      .data(packaged_leaves)
       .enter().append('path')
       .each((d: any) => { d.source = d[0]; d.target = d[d.length - 1]; })
       .attr('class', 'link')
+      .attr('id', (d: any, i: number) => `linkPath${i}`) // ユニークなIDを設定
       .attr('d', line as any)
       .attr('fill', 'none')
       .attr('stroke', 'lightblue')
       .attr('stroke-width', 1) 
-      .attr('stroke-opacity', 0.2);
+      .attr('stroke-opacity', 0.3)
+      .style('pointer-events', 'all');
 
-    svg.append('g')
+      // サークルのラベル
+      svg.append('g')
       .selectAll('.label')
       .data(leaves)
       .enter().append('text')
@@ -81,40 +90,56 @@ const NetworkGraph: React.FC<NetworkGraphProps> = ({ data }) => {
       .attr('text-anchor', (d: any) => (d.x < 180 ? 'start' : 'end'))
       .text((d: any) => d.data.name);
 
-    svg.append('g')
+      // サークル部分
+      svg.append('g')
       .selectAll('.bubble')
       .data(leaves)
-      .enter().append('circle')
+      .enter()
+      .append('circle')
       .attr('class', 'bubble')
       .attr('transform', (d: any) => `rotate(${d.x - 90})translate(${d.y + PADDING_BUBBLE},0)`)
       .attr('r', (d: any) => bubbleSizeScale(d.value || 0))
       .attr('stroke', 'black')
       .attr('fill', '#69a3b2')
-      .style('opacity', 0.2);
-  };
+      .style('opacity', 0.3) // Use .style() for opacity
+      .on('mouseover', function (event, d) {
+        d3.select(this)
+          .transition()
+          .duration(50) 
+          .style('opacity', 0.8); 
+        hover_callback(event, d.data.id, true);
+        // TODO: リアクト側のツールチップを表示する
+      })
+      .on('mouseout', function (event, d) {
+        d3.select(this)
+          .transition()
+          .duration(50) // Duration should be a number
+          .style('opacity', 0.3); // Reset to the initial opacity
+          hover_callback(event, d.data.id, false);
+        });
+      };
 
   // Lazily construct the package hierarchy from class names.
+  // https://d3js.org/d3-hierarchy/partition
   function packageHierarchy(classes: DataNode[]) {
     const map: { [key: string]: any } = {};
+    map[""] = { name: "root", children: [] };
 
     function find(name: string, data?: any) {
       let node = map[name];
       if (!node) {
         node = map[name] = data || { name: name, children: [] };
-        if (name.length) {
-          const i = name.lastIndexOf(".");
-          node.parent = find(name.substring(0, i));
-          node.parent.children.push(node);
-          node.key = name.substring(i + 1);
-        }
+        node.parent = map[""];
+        node.parent.children.push(node);
+        node.key = name
       }
       return node;
     }
 
     classes.forEach((d: any) => {
-      find(d.name, d);
+      find(d.id, d);
     });
-
+    
     return d3.hierarchy(map[""]);
   }
 

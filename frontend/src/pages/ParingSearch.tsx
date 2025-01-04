@@ -5,9 +5,11 @@ import PageContainer from '../components/PageContainer';
 import FixedButtonOverlay from '../components/FixedButtonOverlay';
 import FloatingListBox from '../components/FloatingListBox';
 import { useNavigate } from 'react-router-dom';
-import { getMatchedParingEntries } from '../api/neo4j';
+import { getMatchedParingEntries, fetchAromaCompoundWithEntry } from '../api/neo4j';
 import { Category, Entry } from '../api/types';
 import LightbulbTypography from '../components/LightbulbTypography';
+import EntryGraphToolTip from '../components/EntryGraphTooltip';
+import { useTooltipHandler } from "../hooks/useTooltipHandler";
 
 const ParingSearch: React.FC = () => {
   const { selectedMainGroup, selectedMainItems, selectedGroups, selectedAdditionalEntries, setSelectedAdditionalEntries } = useAppContext();  
@@ -17,6 +19,15 @@ const ParingSearch: React.FC = () => {
   const [matchedResult, setResult] = useState<Entry[]>([]);  // Entry型の配列を保存する状態
   const [selectedCategory, setSelectedCategory] = useState<string>(""); // 詳細フィルタ用のカテゴリ
   const [isChecked, setIsChecked] = useState<{ [key: string]: boolean }>({}); // チェックボックスのステート管理専用
+  const {
+    mousePosition,
+    showTooltip,
+    flavorCompoundData,
+    anchorEl,
+    currentEntry,
+    handleMouseHover,
+    handleMouseOut,
+  } = useTooltipHandler();
 
   // `searchText` や `cate` が変更された時にデータを取得する
   useEffect(() => {
@@ -85,7 +96,16 @@ const ParingSearch: React.FC = () => {
         <LightbulbTypography text="Select paring items from the list below." />
         <FixedButtonOverlay onClick={backButtonOnClick} binding_position="left" />
         <FixedButtonOverlay onClick={nextButtonOnClick} />
+        {/* 選択された食材リスト */}
         <FloatingListBox items={[...selectedMainItems,...selectedAdditionalEntries]} handleDelete={handleSelectedListDelete} />
+        {/* ツールチップ */}
+        {(flavorCompoundData.length > 0) &&  <
+          EntryGraphToolTip data={flavorCompoundData} 
+          mousePosition={mousePosition}
+          anchorEl={anchorEl}
+          title={currentEntry?.name ?? ""}
+          show={showTooltip}
+          />}
         <Box
         sx={{
           display: 'flex',
@@ -97,7 +117,7 @@ const ParingSearch: React.FC = () => {
           {matchedCategory.map((item) => (
             <Chip
               key={`ch_${item.id}`}
-              label={item.name}
+              label={item.name_ja || item.name}
               variant="outlined"
               onClick={() => handleChipClick(item.id)} 
             />
@@ -114,17 +134,19 @@ const ParingSearch: React.FC = () => {
             <li key={`li${entry.id}`}
             style={{
               listStyleType: 'none',
-            }}>
+            }}
+            onMouseOver={(event) => handleMouseHover(event, entry)}
+            >
               <Checkbox 
               key={`ch_${entry.id}`} 
               size="small" 
               checked={isChecked[entry.id] || false}  
               onChange={(event) => handleItemClick(entry, event)} />
-              {entry.name} - {entry.scientific_name} ({entry.distance}, {entry.count})
+              {entry.name} - {entry.name_ja} (f: {entry.flavor_score}, w: {entry.word_score}, c: {entry.count}, kn: ({entry.key_notes.join(', ')}))
             </li>
           ))}
         </ul>
-        </PageContainer>
+      </PageContainer>
     </Container>
   );
 };

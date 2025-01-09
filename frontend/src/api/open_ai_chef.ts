@@ -89,13 +89,13 @@ export async function generateAllRecipe(ingredients: string[], callback: (recipe
   // 各シェフのスタイルでレシピを生成
   for (const style of Object.keys(chefPrompts) as ChefStyle[]) {
     console.log(`Generating ${style} recipe...`);
-    individualRecipes[style] = await generateRecipe(style, ingredients);
-    console.log(individualRecipes[style])
-    callback(individualRecipes[style]);
+    //individualRecipes[style] = await generateRecipe(style, ingredients);
+    //console.log(individualRecipes[style])
+    //callback(individualRecipes[style]);
   }
 
   // 議論してフュージョンレシピを生成
   console.log("Debating recipes to create the best fusion dish...\n");
-  const fusionRecipe = await debateAndFuseRecipes(individualRecipes);
-  callback(fusionRecipe);
+  //const fusionRecipe = await debateAndFuseRecipes(individualRecipes);
+  //callback(fusionRecipe);
 }

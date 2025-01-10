@@ -80,7 +80,7 @@ pacific_halibut,Pacific halibut,,太平洋オヒョウ,Fish,,魚,Ocean,海
 pink_salmon,Pink salmon,,カラフトマス,Fish,,魚,River,川
 pumpkinseed_sunfish,Pumpkinseed sunfish,,パンプキンシードサンフィッシュ,Fish,,魚,River,川
 rainbow_trout,Rainbow trout,,ニジマス,Fish,,魚,River,川
-roe,Roe,,魚卵,Fish Eggs,tobiko ikura masago,魚卵,Ocean,海
+roe,Roe,,魚卵,Fish Eggs,tobiko ikura masago tarama,魚卵,Ocean,海
 spanish_mackerel,Spanish mackerel,,サワラ,Fish,,魚,Ocean,海
 spot_croaker,Spot croaker,,スポットクローカー,Fish,,魚,Ocean,海
 striped_mullet,Striped mullet,,ストライプドムレット,Fish,,魚,Ocean,海
@@ -90,7 +90,7 @@ whelk,Whelk,,ツブ貝,Mollusks,,貝類,Ocean,海
 whitefish,Whitefish,,ホワイトフィッシュ,Fish,,魚,Ocean,海
 yellowfin_tuna,Yellowfin tuna,,キハダマグロ,Fish,,魚,Ocean,海
 baked_potato,Baked potato,,ベイクドポテト,Vegetables,hash browns tater tots,野菜,Field,畑
-broccoli,Broccoli,,ブロッコリー,Vegetables,,野菜,Field,畑
+broccoli,Broccoli,,ブロッコリー,Vegetables,broccolini,野菜,Field,畑
 cauliflower,Cauliflower,,カリフラワー,Vegetables,,野菜,Field,畑
 celery_leaves,Celery leaves,,セロリの葉,Vegetables,,野菜,Field,畑
 chestnut,Chestnut,,栗（チェスナット）,Nuts,,ナッツ,Forest,森
@@ -115,7 +115,7 @@ savoy_cabbage,Savoy cabbage,,サボイキャベツ,Vegetables,,野菜,Field,畑
 shallot,Shallot,,エシャロット,Vegetables,,野菜,Field,畑
 sweet_potato,Sweet potato,,サツマイモ,Root vegetables,,根菜,Field,畑
 turnip,Turnip,,カブ,Root vegetables,rutabaga,根菜,Field,畑
-welsh_onion,Welsh onion,,ネギ,Vegetables,scallions,野菜,Field,畑
+welsh_onion,Welsh onion,,長ネギ,Vegetables,scallions,野菜,Field,畑
 alfalfa,Alfalfa,,アルファルファ,Vegetables/Herbs,,ハーブ,Forest,森
 bilberry,Bilberry,,ビルベリー,Fruits,,果物,Forest,森
 chicory,Chicory,,チコリ,Vegetables,,野菜,Field,畑
@@ -136,7 +136,7 @@ mixed_nuts,Mixed nuts,,ミックスナッツ,Nuts,,ナッツ,Forest,森
 other_fish_product,Other fish product,,その他魚製品,Seafood Products,seafood sushi uni,魚介製品,Ocean,海
 pacific_herring,Pacific herring,,太平洋ニシン,Fish,,魚,Ocean,海
 pacific_jack_mackerel,Pacific jack mackerel,,太平洋ジャックサバ,Fish,,魚,Ocean,海
-pacific_sardine,Pacific sardine,,太平洋イワシ,Fish,,魚,Ocean,海
+pacific_sardine,Pacific sardine,,太平洋イワシ,Fish,sardine,魚,Ocean,海
 perciformes,Perciformes,,スズキ目,Fish,,魚,Ocean,海
 shark,Shark,,サメ,Fish,,魚,Ocean,海
 shrimp,Shrimp,,エビ,Crustaceans,prawn,甲殻類,Ocean,海
@@ -255,7 +255,7 @@ millet,Millet,,キビ,Grains,,穀物,Field,畑
 miso,Miso,,味噌,Seasonings,,調味料,Field,畑
 monkfish,Monkfish,,アンコウ,Fish,,魚,Ocean,海
 multigrain_bread,Multigrain bread,,マルチグレインブレッド,Bread Products,,パン類,Field,畑
-other_bread_product,Other bread product,,その他パン製品,Bread Products,,パン類,Field,畑
+other_bread_product,Other bread product,,その他パン製品,Bread Products,panko bread crumbs crostini,パン類,Field,畑
 pancake,Pancake,,パンケーキ,Bread Products,,パン類,Field,畑
 phyllo_dough,Phyllo dough,,フィロ生地,Dough,,生地,Field,畑
 raisin_bread,Raisin bread,,レーズンブレッド,Bread Products,,パン類,Field,畑
@@ -281,7 +281,7 @@ pita_bread,Pita bread,,ピタブレッド,Bread Products,,パン類,Field,畑
 rice_bread,Rice bread,,ライスブレッド,Bread Products,,パン類,Field,畑
 semolina,Semolina,,セモリナ,Grains,,穀物,Field,畑
 triticale,Triticale,,トリティカーレ,Grains,,穀物,Field,畑
-white_bread,White bread,,ホワイトブレッド,Bread Products,crouton,パン類,Field,畑
+white_bread,White bread,,ホワイトブレッド,Bread Products,crouton pretzel,パン類,Field,畑
 wonton_wrapper,Wonton wrapper,,ワンタンの皮,Dough,,生地,Field,畑
 coconut_oil,Coconut oil,,ココナッツオイル,Fats,,油脂,Field,畑
 allspice,Allspice,,オールスパイス,Spices,masala,香辛料,Forest,森
@@ -353,7 +353,7 @@ macaroni_and_cheese,Macaroni and cheese,,マカロニ・アンド・チーズ,Co
 other_sandwich,Other sandwich,,その他のサンドイッチ,Cooking,,料理,Field,畑
 pan_dulce,Pan dulce,,パン・ドゥルセ,Desserts,,デザート,Field,畑
 pepper__spice_,Pepper (Spice),Pepper,コショウ,Spices,spice peppercorn,香辛料,Forest,森
-processed_cheese,Processed cheese,,プロセスチーズ,Dairy Products,queso,乳製品,Pasture,牧草地
+processed_cheese,Processed cheese,,プロセスチーズ,Dairy Products,queso mascarpone ricotta plain cream cheese,乳製品,Pasture,牧草地
 quail,Quail,,ウズラ,Meets,,肉類,Pasture,牧草地
 scrapple,Scrapple,,スクラップル,Meet Products,,肉製品,Pasture,牧草地
 spread,Spread,,スプレッド,Spread,,スプレッド,Field,畑
@@ -562,7 +562,7 @@ wakame,Wakame,,ワカメ,Seaweed,,海藻,Ocean,海
 white_cabbage,White cabbage,,白キャベツ,Vegetables,,野菜,Field,畑
 yam,Yam,,ヤムイモ,Vegetables,nagaimo,野菜,Field,畑
 black_walnut,Black walnut,,ブラックウォルナット,Nuts,,ナッツ,Forest,森
-cloves,Cloves,,クローブ,Spices,,香辛料,Forest,森
+jalapeno,Cloves,,クローブ,Spices,clobe,香辛料,Forest,森
 agar,Agar,,アガー,Food Additives,,食品添加物,Field,畑
 chewing_gum,Chewing gum,,チューインガム,Sweets,,菓子,Field,畑
 chicory_roots,Chicory roots,,チコリの根,Vegetables/Herbs,,ハーブ,Forest,森
@@ -712,7 +712,7 @@ cannellini_bean,Cannellini bean,,カンネリーニビーンズ,Beans,,豆類,Fi
 cape_gooseberry,Cape gooseberry,,ケープ・グーズベリー,Fruits,,果物,Forest,森
 cardoon,Cardoon,,カードーン,Vegetables,,野菜,Field,畑
 cascade_huckleberry,Cascade huckleberry,,カスケード・ハックルベリー,Fruits,,果物,Forest,森
-cashew_nut,Cashew nut,,カシューナッツ,Nuts,,ナッツ,Forest,森
+cashew_nut,Cashew nut,,カシューナッツ,Nuts,pepita,ナッツ,Forest,森
 castanospermum_australe,Castanospermum australe,,キャスタノスペルム・オーストラーレ,Vegetables,,野菜,Forest,森
 celeriac,Celeriac,,セレリアック,Vegetables,,野菜,Field,畑
 cereals_and_cereal_products,Cereals and cereal products,,穀物と穀物製品,Grains,,穀物,Field,畑
@@ -873,7 +873,7 @@ pheasant,Pheasant,,ヒメウズラ,Meets,,肉類,Pasture,牧草地
 pineappple_sage,Pineapple sage,,パイナップルセージ,Vegetables/Herbs,,ハーブ,Field,畑
 pitaya,Pitaya,,ピタヤ,Fruits,,果物,Field,畑
 pizza,Pizza,,ピザ,Cooking,,料理,Field,畑
-plain_cream_cheese,Plain cream cheese,Cheese Spread Cream Cheese Base,プレーンクリームチーズ,Dairy Products,mascarpone ricotta,乳製品,Pasture,牧草地
+plain_cream_cheese,Plain cream cheese,Cheese Spread Cream Cheese Base,プレーンクリームチーズ,Dairy Products,,乳製品,Pasture,牧草地
 plains_prickly_pear,Plains prickly pear,,プレインス・プライクリ・ペア,Fruits,,果物,Field,畑
 plantain,Plantain,,プランテイン,Vegetables,,野菜,Field,畑
 pomegranate,Pomegranate,,ザクロ,Fruits,grenadine,果物,Field,畑
@@ -975,7 +975,7 @@ nance,Nance,,ナンス,Fruits,,果物,Ocean,海
 rose_hip,Rose hip,,ローズヒップ,Fruits,rosewater elderflower,果物,Ocean,海
 acorn,Acorn,,ドングリ,Nuts,,ナッツ,Mountain,山
 beech_nut,Beech nut,,ブナの実,Nuts,,ナッツ,Mountain,山
-biscuit,Biscuit,,ビスケット,Sweets,cookie shortbread,菓子,Field,畑
+biscuit,Biscuit,,ビスケット,Sweets,cookie shortbread wafer,菓子,Field,畑
 cake,Cake,,ケーキ,Sweets,crumble cheesecake parfait,菓子,None,その他
 chimichanga,Chimichanga,,チミチャンガ,Cooking,,料理,None,その他
 condensed_milk,Condensed milk,,練乳,Dairy Products,,乳製品,Pasture,牧草地

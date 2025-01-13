@@ -71,7 +71,7 @@ export const getMatchedParingEntries = async (main_entries: Entry[], groups:stri
         COLLECT(DISTINCT fst2.key_note) AS key_notes,
         COUNT(DISTINCT comp2.id) AS count,
         AVG(gds.similarity.cosine(f1.word_vector, f2.word_vector)) AS word_score_avg,
-        AVG(gds.similarity.cosine(f1.flavor_vector, f2.flavor_vector)) AS flavor_score_avg
+        AVG(gds.similarity.overlap(f1.flavor_vector, f2.flavor_vector)) AS flavor_score_avg
 
     // Step 6: ユニークな結果を返す
     RETURN f, key_notes, count, word_score_avg, flavor_score_avg

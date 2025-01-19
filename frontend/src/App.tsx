@@ -10,6 +10,7 @@ import ParingSearch from './pages/ParingSearch';
 import Constitution from './pages/Constitution';
 import About from './pages/About';
 import NotFound from './pages/NotFound';
+import CentralityAnalytics from './pages/CentralityAnalytics';
 
 const router = createHashRouter([
   {
@@ -39,6 +40,11 @@ const router = createHashRouter([
       {
         path: "/constitution",
         element: <Constitution />,
+        errorElement: <NotFound />, 
+      },
+      {
+        path: "/centrality_analytics",
+        element: <CentralityAnalytics />,
         errorElement: <NotFound />, 
       },
       {

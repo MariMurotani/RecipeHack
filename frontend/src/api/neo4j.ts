@@ -129,27 +129,6 @@ const getCategorySubFromGroup = async (class_names: string[]): Promise<Category[
   return category_ids;
 }
 
-// グループからカテゴリを検索する
-const getCategoriesFromGroup = async (groups: string[]): Promise<Category[]> => {
-  const session = driver.session();
-  const group_ids = groups.map((group) => `'${group}'`).join(', ');
-  const query = `
-  MATCH (cg:CategoryGroup)-[r:GROUPED]->(c:Category)
-  WHERE cg.id IN [${group_ids}]
-  RETURN c;
-  `
-  // クエリを実行
-  const records = await session.run(query);
-  const categories: Category[] = records.records.map((record) => {
-    const properties = record.get('c').properties;
-    return {
-      id: properties.id,
-      name: properties.name,
-    }
-  });
-  return categories ?? [];
-}
-
 // Coefficient 分析用のエッジを指定された要素で作成する
 export const extractLocalCoefficient = async (entries: Entry[]): Promise<Coefficient[]> => {
   const session = driver.session();
@@ -368,16 +347,3 @@ export const normalizeDistances = (entries: Entry[]): Entry[] => {
     }
   });
 };
-
-function generateRandomString(length: number): string {
-  const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz';
-  let result = '';
-  
-  // lengthの長さだけランダムな文字を結合
-  for (let i = 0; i < length; i++) {
-    const randomIndex = Math.floor(Math.random() * characters.length);
-    result += characters[randomIndex];
-  }
-
-  return result;
-}

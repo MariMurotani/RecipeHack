@@ -282,6 +282,57 @@ export const fetchAromaCompoundWithEntries= async (entry_ids: string[]): Promise
   }
 };
 
+// ページランクの結果を返す
+export const fetchPageRank = async (): Promise<void> => {
+  const session = driver.session();
+  const project_name = generateRandomString(6);
+
+  await session.run(`
+    CALL gds.graph.exists('${project_name}')
+    YIELD exists
+    WITH exists
+    WHERE exists = true
+    CALL gds.graph.drop('${project_name}') YIELD graphName
+    RETURN graphName;
+  `);
+  await session.run(`
+    CALL gds.graph.project.cypher(
+      '${project_name}',
+      'MATCH (n) WHERE n:FoodSubType OR n:Compound OR n:Aroma RETURN id(n) AS id, labels(n) AS labels',
+      'MATCH (n)-[r:CONTAINS|SCENTED]-(m) RETURN id(n) AS source, id(m) AS target, type(r) AS type',
+      { validateRelationships: false }
+    )
+    YIELD graphName, nodeCount, relationshipCount;
+  `);
+  const result = await session.run(`
+    WITH ['dishes', 'snack_foods', 'frozen_desserts', 'other_beverages', 'confectioneries', 'beverages'] AS excludedGroups
+
+    // 中心性分析を実行 PageRankアルゴリズムを使用
+    CALL gds.pageRank.stream('myFoodSubAromaProjection')
+    YIELD nodeId, score
+    ORDER BY score DESC 
+    WITH excludedGroups, COLLECT(nodeId) AS foodSubNodeIds, COLLECT(score) AS scores
+
+    // 特定カテゴリを除外してFoodSubTypeを取得
+    UNWIND range(0, size(foodSubNodeIds) - 1) AS idx 
+    MATCH (f:Food)-[:HAS_SUBTYPE]->(fs:FoodSubType) 
+    WHERE id(fs) = foodSubNodeIds[idx] 
+      AND NOT f.group IN excludedGroups
+    WITH f, AVG(scores[idx]) AS avgScore, COLLECT(fs.name) AS subTypes
+    RETURN f.id, f.name, avgScore, subTypes
+    ORDER BY avgScore DESC
+    LIMIT 100
+  `);
+
+  result.records.map((record)=>{
+    console.log(record);
+  });
+
+  await session.run(`
+    CALL gds.graph.drop('${project_name}') YIELD graphName
+  `);
+};
+
 // エントリの結果をフォーマットする
 const formatEntries = (result: QueryResult<RecordShape>): Entry[] => {
   let entries: Entry[] = result.records.map((record) => {
@@ -330,6 +381,19 @@ const formatEntry = (record:any, properties:any): Entry => {
     key_notes: key_notes
   };
 };
+
+function generateRandomString(length: number): string {
+  const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz';
+  let result = '';
+  
+  // lengthの長さだけランダムな文字を結合
+  for (let i = 0; i < length; i++) {
+    const randomIndex = Math.floor(Math.random() * characters.length);
+    result += characters[randomIndex];
+  }
+
+  return result;
+}
 
 export const normalizeDistances = (entries: Entry[]): Entry[] => {
   // distance の最大値を取得

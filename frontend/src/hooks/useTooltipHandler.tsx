@@ -10,7 +10,7 @@ export const useTooltipHandler = () => {
   const [anchorEl, setAnchorEl] = useState<null | HTMLElement>(null);
   const [currentEntry, setCurrentEntry] = useState<Entry | null>(null);
 
-  const handleMouseHover = async (event: React.MouseEvent<HTMLElement>, entry: Entry) => {
+  const handleMouseHover = async (event: React.MouseEvent<HTMLSpanElement>, entry: Entry) => {
     const aromaCompounds: AromaCompound[] = await fetchAromaCompoundWithEntry(entry.id);
     const flavorData: FlavorCompoundDataType[] = aromaCompounds.map((aroma) => ({
       flavorName: aroma.name,
@@ -30,8 +30,7 @@ export const useTooltipHandler = () => {
     setShowTooltip(true);
   };
 
-  const handleMouseOut = () => {
-    console.log("handleMouseOut");
+  const handleMouseOut = (event: React.MouseEvent<HTMLSpanElement>) => {
     setShowTooltip(false);
   };
 

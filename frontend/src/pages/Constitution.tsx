@@ -10,6 +10,7 @@ import { generateAllRecipe } from '../api/open_ai_chef';
 import { AromaCompound, Coefficient, Entry } from 'src/api/types';
 import { HeatmapData } from '../hooks/useHeatMap';
 import ReactMarkdown from "react-markdown";
+import SunburstChart, { SunburstData } from '../components/SunburstChart';
 
 const Constitution: React.FC = () => {
   // 共通のデータストアとして、クリックされたボタンのキーを保存するための状態を管理
@@ -127,27 +128,57 @@ const Constitution: React.FC = () => {
     hr: () => <Divider sx={{ my: 2 }} />
   };
 
+  const sunburstData: SunburstData[] = [
+    {
+      id: "root",
+      value: 100,
+      children: [
+        {
+          id: "branch1",
+          value: 50,
+          children: [
+            { id: "leaf1", value: 20, children: [] },
+            { id: "leaf2", value: 30, children: [] },
+          ],
+        },
+        {
+          id: "branch2",
+          value: 50,
+          children: [
+            { id: "leaf3", value: 25, children: [] },
+            { id: "leaf4", value: 25, children: [] },
+          ],
+        },
+      ],
+    },
+  ];
+
   return (
     <Container>
         <TabContext value={tabNumber}>
 
         <Box sx={{ borderBottom: 0, borderColor: 'divider' }}>
           <TabList onChange={handleTabChange} aria-label="lab API tabs example" sx={{ justifyContent: 'center' }}>
-            <Tab label="Food Network" value="1" />
-            <Tab label="HEAT MAP" value="2" />
-            <Tab label="RECIPE GENERATION" value="3" />
+          <Tab label="Constitution Network" value="1" />
+          <Tab label="Food Network" value="2" />
+          <Tab label="HEAT MAP" value="3" />
+          <Tab label="RECIPE GENERATION" value="4" />
           </TabList>
         </Box>
-        {/* 食材ネットワークを表示 */}
+        {/* コンポネント表示 */}
         <TabPanel value="1" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+          <SunburstChart data={sunburstData} width={800} />
+        </TabPanel>
+        {/* 食材ネットワークを表示 */}
+        <TabPanel value="2" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
           {coefficientData.length > 0 && (<NetworkGraph data={coefficientData} hover_callback={toolTipNode}/>)}
         </TabPanel>
         {/* 食材ヒートマップ */}
-        <TabPanel value="2" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+        <TabPanel value="3" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
           <Heatmap data={heatmapData} width={500} height={500} />
         </TabPanel>
         {/* レシピ生成GPT */}
-        <TabPanel value="3" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+        <TabPanel value="4" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
           <Box
           display="flex" flexDirection="column" alignItems="top" justifyContent="center"
           sx={{ marginTop: "20px" }}

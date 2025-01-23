@@ -6,6 +6,7 @@ import EntryGraphToolTip from '../components/EntryGraphTooltip';
 import CloseIcon from '@mui/icons-material/Close'; // バツボタン
 import { Entry } from 'src/api/types';
 import { useTooltipHandler } from "../hooks/useTooltipHandler";
+import PieChartIcon from "@mui/icons-material/PieChart";
 
 // 型定義: 親コンポーネントからアイテムを受け取る
 interface FloatingListBoxProps {
@@ -78,16 +79,27 @@ const FloatingListBox: React.FC<FloatingListBoxProps> = ({ items, handleDelete }
                 <ListItem 
                   key={index}
                   sx={{ fontSize: '16px' }}
-                  onMouseOver={(event) => handleMouseHover(event, entry)}
                   >
-                  <Box sx={{ flexGrow: 1 }}>{entry.name}</Box>
-                  <IconButton
-                    edge="end"
-                    aria-label="delete"
-                    onClick={() => handleDelete(entry)}  // バツボタンが押された時の処理
+                  <div
+                    onMouseEnter={(event) => handleMouseHover(event, entry)}
+                    onMouseLeave={(event) => handleMouseOut(event)}
+                    style={{
+                      display: "inline-flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                      cursor: "pointer",
+                    }}
                   >
-                   <CloseIcon />
-                </IconButton>  {/* 右側にバツボタンを配置 */}
+                    <PieChartIcon sx={{ paddingRight: '5px' }}></PieChartIcon>
+                    <Typography sx={{ flexGrow: 1 }}>{entry.name}</Typography>
+                    <IconButton
+                      edge="end"
+                      aria-label="delete"
+                      onClick={() => handleDelete(entry)}  // バツボタンが押された時の処理
+                    >
+                      <CloseIcon />
+                    </IconButton>  {/* 右側にバツボタンを配置 */}
+                  </div>
                 </ListItem>
               ))}
             </List>

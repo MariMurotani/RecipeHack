@@ -10,6 +10,7 @@ import { Category, Entry } from '../api/types';
 import LightbulbTypography from '../components/LightbulbTypography';
 import EntryGraphToolTip from '../components/EntryGraphTooltip';
 import { useTooltipHandler } from "../hooks/useTooltipHandler";
+import PieChartIcon from "@mui/icons-material/PieChart";
 
 const ParingSearch: React.FC = () => {
   const { selectedMainGroup, selectedMainItems, selectedGroups, selectedAdditionalEntries, setSelectedAdditionalEntries } = useAppContext();  
@@ -132,10 +133,9 @@ const ParingSearch: React.FC = () => {
         <ul>
           {matchedResult.map((entry) => (
             <li key={`li${entry.id}`}
-            style={{
-              listStyleType: 'none',
-            }}
-            onMouseOver={(event) => handleMouseHover(event, entry)}
+              style={{
+                listStyleType: 'none',
+              }}
             >
               <Checkbox 
               key={`ch_${entry.id}`} 
@@ -143,6 +143,17 @@ const ParingSearch: React.FC = () => {
               checked={isChecked[entry.id] || false}  
               onChange={(event) => handleItemClick(entry, event)} />
               {entry.name} - {entry.name_ja} (f: {entry.flavor_score}, w: {entry.word_score}, c: {entry.count}, kn: ({entry.key_notes.join(', ')}))
+              <span
+                onMouseEnter={(event) => handleMouseHover(event, entry)}
+                onMouseLeave={(event) => handleMouseOut(event)}
+                style={{
+                  display: "inline-flex",
+                  alignItems: "center",
+                  cursor: "pointer",
+                }}
+              >
+                <PieChartIcon sx={{ fontSize:'16px', paddingLeft: '5px' }}></PieChartIcon>
+              </span>
             </li>
           ))}
         </ul>

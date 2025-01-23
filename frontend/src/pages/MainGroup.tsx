@@ -9,6 +9,7 @@ import { useNavigate } from 'react-router-dom';
 import { getEntryDataWithCategoryGroup } from '../api/neo4j';
 import { Entry } from '../api/types';
 import { useTooltipHandler } from "../hooks/useTooltipHandler";
+import PieChartIcon from "@mui/icons-material/PieChart";
 
 const MainGroup: React.FC = () => {
   const { selectedMainGroup, selectedMainItems, setSelectedMainItems } = useAppContext();  
@@ -59,7 +60,7 @@ const MainGroup: React.FC = () => {
   };
 
   // リストが選択されたとき
-  const handleItemClick = (entry: Entry, event:React.ChangeEvent<HTMLInputElement>) => {
+  const handleItemClick = (event:React.ChangeEvent<HTMLInputElement>, entry: Entry,) => {
     const entry_exist = selectedMainItems.includes(entry);
     if(event.target.checked && !entry_exist){
       setSelectedMainItems([...selectedMainItems, entry]);
@@ -124,14 +125,23 @@ const MainGroup: React.FC = () => {
             style={{
               listStyleType: 'none',
             }}
-            onMouseOver={(event) => handleMouseHover(event, entry)}
             >
               <Checkbox 
-              key={`ch_${entry.id}`} 
-              size="small"  
-              checked={isChecked[entry.id] || false}  
-              onChange={(event) => handleItemClick(entry, event)} />
-              {entry.name} - {entry.name_ja}
+                key={`ch_${entry.id}`} 
+                size="small"  
+                checked={isChecked[entry.id] || false}  
+                onChange={(event) => handleItemClick(event, entry)} />
+                {entry.name} - {entry.name_ja}
+                <span
+                  onMouseEnter={(event) => handleMouseHover(event, entry)}
+                  onMouseLeave={(event) => handleMouseOut(event)}
+                  style={{
+                    display: "inline-flex",
+                    cursor: "pointer",
+                  }}
+                >
+                <PieChartIcon sx={{ fontSize:'16px', paddingLeft: '5px' }}></PieChartIcon>
+              </span>
             </li>
           ))}
         </ul>

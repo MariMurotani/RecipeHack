@@ -1,31 +1,30 @@
-import React, { useState } from "react";
-import { ResponsiveSunburst, MouseHandler } from "@nivo/sunburst";
-import Popper from "@mui/material/Popper";
-import Typography from "@mui/material/Typography";
+import React from "react";
+import { ResponsiveSunburst } from "@nivo/sunburst";
+
+export interface Observable {
+    type: string; // "registry_key", "file_name" など
+    value: string; // 具体的な値 ("TrojanDownloader.Wauchos", "repair.exe" など)
+}
 
 export interface SunburstData {
     id: string | number;
-    value: number;
-    children?: SunburstData[];
+    color: string;
+    value?: number;
+    children?: SunburstData[] | null;
 }
 
-export interface SunburstProps {
-  data: SunburstData[];
-  width: number;
-  height?: number;
+interface MyResponsiveSunburstProps {
+    data: SunburstData;
 }
 
-const SunburstChart = ({ data, width, height = 500 }: SunburstProps) => {
-  const [anchorEl, setAnchorEl] = useState<HTMLElement | null>(null);
-
-  return (
-    <div style={{ height }}>
+const MyResponsiveSunburst: React.FC<MyResponsiveSunburstProps> = ({ data }) => (
+    <div style={{ height: 500 }}>
         <ResponsiveSunburst
             data={data}
-            margin={{ top: 10, right: 10, bottom: 10, left: 10 }}
-            id="name"
-            value="loc"
-            cornerRadius={2}
+            margin={{ top: 0, right: 0, bottom: 0, left: 0 }}
+            id="id"
+            value="value"
+            borderWidth={3}
             borderColor={{ theme: 'background' }}
             colors={{ scheme: 'nivo' }}
             childColor={{
@@ -38,6 +37,7 @@ const SunburstChart = ({ data, width, height = 500 }: SunburstProps) => {
                 ]
             }}
             enableArcLabels={true}
+            arcLabelsRadiusOffset={0.25}
             arcLabelsSkipAngle={10}
             arcLabelsTextColor={{
                 from: 'color',
@@ -48,9 +48,8 @@ const SunburstChart = ({ data, width, height = 500 }: SunburstProps) => {
                     ]
                 ]
             }}
-         />
+        />
     </div>
-  );
-};
+);
 
-export default SunburstChart;
+export default MyResponsiveSunburst;

@@ -8,7 +8,36 @@ export interface ChordChartProps {
     ribbonTooltip?: React.FC<{ ribbon: any }>;
 }
 
-const MyChordChart:React.FC<ChordChartProps> = ({ data, keys, arcTooltip, ribbonTooltip }) => (
+const ArcTooltip = ({ arc }: { arc: any }) => (
+    <div 
+        style={{ 
+            background: 'white',
+            padding: '10px',
+            borderRadius: '4px',
+            boxShadow: '0px 0px 5px rgba(0,0,0,0.2)',
+            border: `2px solid ${arc.color}`, 
+        }}
+    >
+        <strong>{arc.id}</strong>: {arc.value}
+    </div>
+);
+
+
+const RibbonTooltip = ({ ribbon }: { ribbon: any }) => (
+    <div 
+        style={{ 
+            background: 'white',
+            padding: '10px',
+            borderRadius: '4px',
+            boxShadow: '0px 0px 5px rgba(0,0,0,0.2)',
+            border: `2px solid ${ribbon.source.color}`, 
+        }}
+    >
+        <strong>{ribbon.source.id}</strong> → <strong>{ribbon.target.id}</strong>: {ribbon.source.value}
+    </div>
+);
+
+const MyChordChart:React.FC<ChordChartProps> = ({ data, keys }) => (
     <div style={{ height: "500px", width: "800px" }}>
         <ResponsiveChord
             data={data}
@@ -36,8 +65,8 @@ const MyChordChart:React.FC<ChordChartProps> = ({ data, keys, arcTooltip, ribbon
             }}
             colors={{ scheme: "nivo" }}
             motionConfig="stiff"
-            arcTooltip={arcTooltip}
-            ribbonTooltip={ribbonTooltip}
+            arcTooltip={ArcTooltip}
+            ribbonTooltip={RibbonTooltip}
             legends={[
                 {
                     anchor: "bottom",

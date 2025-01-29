@@ -559,17 +559,7 @@ const Constitution: React.FC = () => {
 ];
 
 const chordKeys = ["A", "B", "C", "D", "E"];
-const ArcTooltip = ({ arc }: { arc: any }) => (
-    <div style={{ background: "white", padding: "6px", border: "1px solid #ddd", borderRadius: "4px" }}>
-        <strong>{arc.id}</strong>: {arc.value}
-    </div>
-);
 
-const RibbonTooltip = ({ ribbon }: { ribbon: any }) => (
-    <div style={{ background: "white", padding: "6px", border: "1px solid #ddd", borderRadius: "4px" }}>
-        <strong>{ribbon.source.id}</strong> → <strong>{ribbon.target.id}</strong>: {ribbon.source.value}
-    </div>
-);
   return (
     <Container>
         <TabContext value={tabNumber}>
@@ -604,7 +594,7 @@ const RibbonTooltip = ({ ribbon }: { ribbon: any }) => (
             </Box>
           </TabPanel>
       </TabContext>
-      <MyChordChart data={chordData} keys={chordKeys} arcTooltip={ArcTooltip} ribbonTooltip={RibbonTooltip} />
+      <MyChordChart data={chordData} keys={chordKeys} />
       <MySunburstChart data={sampleData} />
     </Container>
   );

@@ -1,5 +1,5 @@
 import React from "react";
-import { ResponsiveSunburst } from "@nivo/sunburst";
+import { ResponsiveSunburst, ComputedDatum } from "@nivo/sunburst";
 
 export interface SunburstData {
     id: string | number;
@@ -11,6 +11,21 @@ export interface SunburstData {
 interface MyResponsiveSunburstProps {
     data: SunburstData;
 }
+
+const CustomTooltip = (datum: ComputedDatum<SunburstData>) => (
+    <div
+        style={{
+            background: 'white',
+            padding: '10px',
+            borderRadius: '5px',
+            boxShadow: '0px 0px 5px rgba(0,0,0,0.2)',
+            border: `2px solid ${datum.color}`,
+        }}
+    >
+        <strong>{datum.id}</strong> <br />
+        Value: {datum.value}
+    </div>
+);
 
 const MySunburstChart: React.FC<MyResponsiveSunburstProps> = ({ data }) => (
     <div style={{ height: 500 }}>
@@ -44,6 +59,7 @@ const MySunburstChart: React.FC<MyResponsiveSunburstProps> = ({ data }) => (
                     ]
                 ]
             }}
+            tooltip={CustomTooltip}
         />
     </div>
 );

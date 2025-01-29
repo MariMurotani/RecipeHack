@@ -10,7 +10,8 @@ import { generateAllRecipe } from '../api/open_ai_chef';
 import { AromaCompound, Coefficient, Entry } from 'src/api/types';
 import { HeatmapData } from '../hooks/useHeatMap';
 import ReactMarkdown from "react-markdown";
-import MyResponsiveSunburst, { SunburstData } from '../components/SunburstChart';
+import MySunburstChart, { SunburstData } from '../components/SunburstChart';
+import MyChordChart from '../components/ChrodChart';
 
 const Constitution: React.FC = () => {
   // 共通のデータストアとして、クリックされたボタンのキーを保存するための状態を管理
@@ -550,7 +551,55 @@ const Constitution: React.FC = () => {
     ]
   };
 
+  const chordSampleData:number[][] = [
+    [
+      863,
+      520,
+      73,
+      1264,
+      1575
+    ],
+    [
+      150,
+      477,
+      155,
+      470,
+      42
+    ],
+    [
+      19,
+      426,
+      236,
+      491,
+      1783
+    ],
+    [
+      1794,
+      431,
+      179,
+      1212,
+      462
+    ],
+    [
+      42,
+      1189,
+      264,
+      455,
+      258
+    ]
+  ];
+  const chordKey:string[] = [ 'John', 'Raoul', 'Jane', 'Marcel', 'Ibrahim' ];
+  const ArcTooltip = ({ arc }: { arc: any }) => (
+      <div style={{ background: "white", padding: "6px", border: "1px solid #ddd", borderRadius: "4px" }}>
+          <strong>{arc.id}</strong>: {arc.value}
+      </div>
+  );
 
+  const RibbonTooltip = ({ ribbon }: { ribbon: any }) => (
+      <div style={{ background: "white", padding: "6px", border: "1px solid #ddd", borderRadius: "4px" }}>
+          <strong>{ribbon.source.id}</strong> → <strong>{ribbon.target.id}</strong>: {ribbon.source.value}
+      </div>
+  );
   return (
     <Container>
         <TabContext value={tabNumber}>
@@ -585,8 +634,8 @@ const Constitution: React.FC = () => {
             </Box>
           </TabPanel>
       </TabContext>
-      <MyResponsiveSunburst data={sampleData} />
-
+      <MySunburstChart data={sampleData} />
+      <MyChordChart data={chordSampleData} keys={chordKey} arcTooltip={ArcTooltip} ribbonTooltip={RibbonTooltip} />
     </Container>
   );
 };

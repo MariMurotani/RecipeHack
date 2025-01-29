@@ -1,14 +1,9 @@
 import React from "react";
 import { ResponsiveSunburst } from "@nivo/sunburst";
 
-export interface Observable {
-    type: string; // "registry_key", "file_name" など
-    value: string; // 具体的な値 ("TrojanDownloader.Wauchos", "repair.exe" など)
-}
-
 export interface SunburstData {
     id: string | number;
-    color: string;
+    color?: string;
     value?: number;
     children?: SunburstData[] | null;
 }
@@ -17,7 +12,7 @@ interface MyResponsiveSunburstProps {
     data: SunburstData;
 }
 
-const MyResponsiveSunburst: React.FC<MyResponsiveSunburstProps> = ({ data }) => (
+const MySunburstChart: React.FC<MyResponsiveSunburstProps> = ({ data }) => (
     <div style={{ height: 500 }}>
         <ResponsiveSunburst
             data={data}
@@ -52,4 +47,4 @@ const MyResponsiveSunburst: React.FC<MyResponsiveSunburstProps> = ({ data }) => 
     </div>
 );
 
-export default MyResponsiveSunburst;
+export default MySunburstChart;

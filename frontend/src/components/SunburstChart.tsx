@@ -19,15 +19,16 @@ const MySunburstChart: React.FC<MyResponsiveSunburstProps> = ({ data }) => (
             margin={{ top: 0, right: 0, bottom: 0, left: 0 }}
             id="id"
             value="value"
-            borderWidth={3}
-            borderColor={{ theme: 'background' }}
+            cornerRadius={2}
+            borderWidth={2}
+            borderColor="#ffffff"
             colors={{ scheme: 'nivo' }}
             childColor={{
                 from: 'color',
                 modifiers: [
                     [
                         'brighter',
-                        0.1
+                        0.3
                     ]
                 ]
             }}

@@ -550,56 +550,26 @@ const Constitution: React.FC = () => {
       }
     ]
   };
+  const chordData = [
+    [863, 520, 73, 1264, 1575],
+    [150, 477, 155, 470, 42],
+    [19, 426, 236, 491, 1783],
+    [1794, 431, 179, 1212, 462],
+    [42, 1189, 264, 455, 258]
+];
 
-  const chordSampleData:number[][] = [
-    [
-      863,
-      520,
-      73,
-      1264,
-      1575
-    ],
-    [
-      150,
-      477,
-      155,
-      470,
-      42
-    ],
-    [
-      19,
-      426,
-      236,
-      491,
-      1783
-    ],
-    [
-      1794,
-      431,
-      179,
-      1212,
-      462
-    ],
-    [
-      42,
-      1189,
-      264,
-      455,
-      258
-    ]
-  ];
-  const chordKey:string[] = [ 'John', 'Raoul', 'Jane', 'Marcel', 'Ibrahim' ];
-  const ArcTooltip = ({ arc }: { arc: any }) => (
-      <div style={{ background: "white", padding: "6px", border: "1px solid #ddd", borderRadius: "4px" }}>
-          <strong>{arc.id}</strong>: {arc.value}
-      </div>
-  );
+const chordKeys = ["A", "B", "C", "D", "E"];
+const ArcTooltip = ({ arc }: { arc: any }) => (
+    <div style={{ background: "white", padding: "6px", border: "1px solid #ddd", borderRadius: "4px" }}>
+        <strong>{arc.id}</strong>: {arc.value}
+    </div>
+);
 
-  const RibbonTooltip = ({ ribbon }: { ribbon: any }) => (
-      <div style={{ background: "white", padding: "6px", border: "1px solid #ddd", borderRadius: "4px" }}>
-          <strong>{ribbon.source.id}</strong> → <strong>{ribbon.target.id}</strong>: {ribbon.source.value}
-      </div>
-  );
+const RibbonTooltip = ({ ribbon }: { ribbon: any }) => (
+    <div style={{ background: "white", padding: "6px", border: "1px solid #ddd", borderRadius: "4px" }}>
+        <strong>{ribbon.source.id}</strong> → <strong>{ribbon.target.id}</strong>: {ribbon.source.value}
+    </div>
+);
   return (
     <Container>
         <TabContext value={tabNumber}>
@@ -634,8 +604,8 @@ const Constitution: React.FC = () => {
             </Box>
           </TabPanel>
       </TabContext>
+      <MyChordChart data={chordData} keys={chordKeys} arcTooltip={ArcTooltip} ribbonTooltip={RibbonTooltip} />
       <MySunburstChart data={sampleData} />
-      <MyChordChart data={chordSampleData} keys={chordKey} arcTooltip={ArcTooltip} ribbonTooltip={RibbonTooltip} />
     </Container>
   );
 };

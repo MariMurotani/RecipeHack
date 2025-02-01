@@ -7,7 +7,7 @@ import { extractLocalCoefficient, fetchAromaCompoundWithEntries } from '../api/n
 import { AromaCompound, Coefficient, Entry } from 'src/api/types';
 import { HeatmapData } from '../hooks/useHeatMap';
 import ReactMarkdown from "react-markdown";
-import MySunburstChart, { sampleSunburstData } from '../components/SunburstChart';
+import MySunburstChart, { SunburstData, sampleSunburstData } from '../components/SunburstChart';
 import MyChordChart, { ChordChartData, sampleChordData, sampleChordKeys } from '../components/ChrodChart';
 import MySankeyChart, { SankeyChartData, SankeyNode, SankeyLink, sankeySampleData  } from '../components/SankeyChart';
 import { useGPTGeneration }  from '../hooks/useGPTGeneration';
@@ -25,11 +25,10 @@ const Constitution: React.FC = () => {
   const [sankeyLinkAromaNotes, setSankeyLinkAromaNotes] = useState<AromaLink[]>([]);
   // チョードチャート用のデータを保持
   const [chordChartData, setShordChartData] = useState<ChordChartData>({keys:[], data: []});
+  // サンバーストチャート用のデータを保持
+  const [SunburstChartData, setSunburstChartData] = useState<SunburstData>({ id: "root", children: [] });
   // ヒートマップのデータを受け取る
   const [heatmapData, setHeatmapData] = useState<HeatmapData[]>([]);
-  // ツールチップ表示用のState
-  const [showToolTip, setShowToolTip] = useState(false);
-  const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
   // GPT用のカスタムフックを使用
   const { gptSuggest, loading, processGPT } = useGPTGeneration(selectedMainItems, selectedAdditionalEntries);  
   // タブチェンジのハンドラ
@@ -46,10 +45,11 @@ const Constitution: React.FC = () => {
         setSankeyData(sankeyData);
         setSankeyLinkAromaNotes(linkAromaNotes);
 
-
         // チョードグラフのデータ変換
         setShordChartData(createChordNodes(graphCoefResult));
 
+        // サンバーストチャートのデータ変換
+        setSunburstChartData(transformToSunburst(graphCoefResult));
     } catch (error) {
         console.error("Error processing coefficients:", error);
     }
@@ -72,6 +72,35 @@ const Constitution: React.FC = () => {
     });
     return { keys: Array.from(chordChartKeys), data: chordChartMatrix }
   };
+
+  // サンバースト用のデータに変換
+  function transformToSunburst(graphCoefResult: Coefficient[]): SunburstData {
+    const root: SunburstData = { id: "root", children: [] };
+  
+    graphCoefResult.forEach(({ e1, aroma, count, color }) => {
+      let categoryNode = root.children?.find((node) => node.id === e1.category);
+      if (!categoryNode) {
+        categoryNode = { id: e1.category, children: [] };
+        root.children?.push(categoryNode);
+      }
+  
+      let subCategoryNode = categoryNode.children?.find((node) => node.id === e1.sub_category);
+      if (!subCategoryNode) {
+        subCategoryNode = { id: e1.sub_category, children: [] };
+        categoryNode.children?.push(subCategoryNode);
+      }
+  
+      let entryNode = subCategoryNode.children?.find((node) => node.id === e1.id);
+      if (!entryNode) {
+        entryNode = { id: e1.id, children: [] };
+        subCategoryNode.children?.push(entryNode);
+      }
+  
+      entryNode.children?.push({ id: aroma, color, value: count });
+    });
+  
+    return root;
+  }
 
   // サンキーチャート用のデータに変換
   const createSankeyNodes = (graphCoefResult: Coefficient[]): { chartData: SankeyChartData, aromaLinks: AromaLink[] } => {
@@ -129,13 +158,6 @@ const Constitution: React.FC = () => {
         }
       });
       setHeatmapData(heatmapData);
-  };
-  
-  // グラフのツールチップ表示
-  const toolTipNode = (e: MouseEvent, entry_id: string, show: boolean) => {
-    setShowToolTip(show);
-    setMousePosition({ x: e.clientX, y: e.clientY });
-    setShowToolTip(show);
   };
   
   useEffect(() => {
@@ -198,7 +220,7 @@ const Constitution: React.FC = () => {
             </Box>
           </TabPanel>
       </TabContext>
-      <MySunburstChart data={sampleSunburstData} />
+      <MySunburstChart data={SunburstChartData} />
   </Container>
   );
 };

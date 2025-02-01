@@ -12,6 +12,7 @@ import { HeatmapData } from '../hooks/useHeatMap';
 import ReactMarkdown from "react-markdown";
 import MySunburstChart, { SunburstData } from '../components/SunburstChart';
 import MyChordChart from '../components/ChrodChart';
+import MySankeyChart, { SankeyChartData } from '../components/SankeyChart';
 
 const Constitution: React.FC = () => {
   // 共通のデータストアとして、クリックされたボタンのキーを保存するための状態を管理
@@ -556,9 +557,83 @@ const Constitution: React.FC = () => {
     [19, 426, 236, 491, 1783],
     [1794, 431, 179, 1212, 462],
     [42, 1189, 264, 455, 258]
-];
-
-const chordKeys = ["A", "B", "C", "D", "E"];
+  ];
+  const chordKeys = ["A", "B", "C", "D", "E"];
+  const sankeyData: SankeyChartData = {
+    "nodes": [
+      {
+        "id": "John",
+        "nodeColor": "hsl(259, 70%, 50%)"
+      },
+      {
+        "id": "Raoul",
+        "nodeColor": "hsl(291, 70%, 50%)"
+      },
+      {
+        "id": "Jane",
+        "nodeColor": "hsl(342, 70%, 50%)"
+      },
+      {
+        "id": "Marcel",
+        "nodeColor": "hsl(206, 70%, 50%)"
+      },
+      {
+        "id": "Ibrahim",
+        "nodeColor": "hsl(279, 70%, 50%)"
+      },
+      {
+        "id": "Junko",
+        "nodeColor": "hsl(306, 70%, 50%)"
+      }
+    ],
+    "links": [
+      {
+        "source": "Raoul",
+        "target": "Ibrahim",
+        "value": 139
+      },
+      {
+        "source": "Raoul",
+        "target": "John",
+        "value": 71
+      },
+      {
+        "source": "Junko",
+        "target": "Ibrahim",
+        "value": 75
+      },
+      {
+        "source": "Junko",
+        "target": "Raoul",
+        "value": 40
+      },
+      {
+        "source": "John",
+        "target": "Ibrahim",
+        "value": 50
+      },
+      {
+        "source": "John",
+        "target": "Jane",
+        "value": 45
+      },
+      {
+        "source": "Ibrahim",
+        "target": "Marcel",
+        "value": 40
+      },
+      {
+        "source": "Jane",
+        "target": "Marcel",
+        "value": 130
+      },
+      {
+        "source": "Jane",
+        "target": "Ibrahim",
+        "value": 119
+      }
+    ]
+  };
 
   return (
     <Container>
@@ -596,6 +671,7 @@ const chordKeys = ["A", "B", "C", "D", "E"];
       </TabContext>
       <MyChordChart data={chordData} keys={chordKeys} />
       <MySunburstChart data={sampleData} />
+      <MySankeyChart data={sankeyData}></MySankeyChart>
     </Container>
   );
 };

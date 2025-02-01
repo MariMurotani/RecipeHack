@@ -1,21 +1,24 @@
 import React from "react";
 import { ResponsiveSankey } from '@nivo/sankey'
+import { AromaLink } from "../api/types";
 
-export interface Node {
+export interface SankeyNode {
     id: string;
     nodeColor: string;
 }
-export interface Link {
+export interface SankeyLink {
     source: string;
     target: string;
     value: number;
 }
+
 export interface SankeyChartData {
-    nodes: Node[];
-    links: Link[];
+    nodes: SankeyNode[]; // Nativeの必須項目
+    links: SankeyLink[]; // Nativeの必須項目
 }
 export interface SankeyChartProps {
     data: SankeyChartData;
+    linkAromaNotes: AromaLink[];
 }
 
 const MySankeyChart:React.FC<SankeyChartProps> = ({ data }) => (

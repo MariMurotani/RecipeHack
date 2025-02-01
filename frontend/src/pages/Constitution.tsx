@@ -1,27 +1,29 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { Container, Typography, Button, Box, Tab, Tabs, CircularProgress, Divider, Link } from '@mui/material';
 import { useAppContext } from '../AppContext';
-import NetworkGraph, { DataNode } from '../components/NetworkGraph';
 import Heatmap from "../components/Heatmap";
-import GraphTooltip from '../components/GraphTooltip';
 import { TabContext, TabList, TabPanel } from '@mui/lab';
-import { extractLocalCoefficient, fetchAromaCompoundWithEntries, fetchAromaCompoundWithEntry } from '../api/neo4j';
+import { extractLocalCoefficient, fetchAromaCompoundWithEntries } from '../api/neo4j';
 import { AromaCompound, Coefficient, Entry } from 'src/api/types';
 import { HeatmapData } from '../hooks/useHeatMap';
 import ReactMarkdown from "react-markdown";
 import MySunburstChart, { sampleSunburstData } from '../components/SunburstChart';
 import MyChordChart, { sampleChordData, sampleChordKeys } from '../components/ChrodChart';
-import MySankeyChart, { sankeySampleData } from '../components/SankeyChart';
+import MySankeyChart, { SankeyChartData, SankeyNode, SankeyLink, sankeySampleData  } from '../components/SankeyChart';
 import { useGPTGeneration }  from '../hooks/useGPTGeneration';
+import { AromaLink } from '../api/types';
+import { hexToHsl } from "../api/color_utils";
 
 const Constitution: React.FC = () => {
   // 共通のデータストアとして、クリックされたボタンのキーを保存するための状態を管理
   const { selectedMainGroup, selectedMainItems, selectedGroups, selectedAdditionalEntries } = useAppContext();  
   // タブの状態を管理するためのuseState
   const [tabNumber, setTabNumber] = useState<string>('1');
-  // ネットワークグラフ用のデータを保持
-  const [coefficientData, setCoefficientData] = useState<DataNode[]>([]);
-  // ヒートマップ用のデータを保持
+  // Sankeyチャート用のデータを保持
+  const [sankeyData, setSankeyData] = useState<SankeyChartData>({ nodes: [], links: [] });
+  // リンクとAromaNoteのマップを保持
+  const [sankeyLinkAromaNotes, setSankeyLinkAromaNotes] = useState<AromaLink[]>([]);
+  // ヒートマップのデータを受け取る
   const [heatmapData, setHeatmapData] = useState<HeatmapData[]>([]);
   // ツールチップ表示用のState
   const [showToolTip, setShowToolTip] = useState(false);
@@ -34,37 +36,63 @@ const Constitution: React.FC = () => {
   // 食材ペアの分析
   const processCoefficients = async () => {
     try {
-      const graphCoefResult: Coefficient[] = await extractLocalCoefficient([...selectedMainItems, ...selectedAdditionalEntries]);
+        const graphCoefResult: Coefficient[] = await extractLocalCoefficient([...selectedMainItems, ...selectedAdditionalEntries]);
+        console.log(graphCoefResult);
 
-      let graphNetData: DataNode[] = [];
-      
-      const updateGraphData = (node: Entry, connectedNode: Entry, aroma: string, ratio: number) => {
-        let existingEntry = graphNetData.find(item => item.id === node.id);
-        if (existingEntry) {
-          existingEntry.size += ratio;
-          existingEntry.imports.push(connectedNode.name);
-          existingEntry.edge_titles.push(aroma);
-        } else {
-          graphNetData.push({
-            id: node.id,
-            name: node.name,
-            edge_titles: [aroma],
-            size: ratio,
-            imports: [connectedNode.name],
-          });
-        }
-      };
+        // サンキーチャート用のデータ変換
+        const { chartData: sankeyData, aromaLinks: linkAromaNotes } = createSankeyNodes(graphCoefResult);
+        setSankeyData(sankeyData);
+        setSankeyLinkAromaNotes(linkAromaNotes);
 
-      graphCoefResult.forEach(({ e1, e2, count, aroma, ratio }) => {
-        const ratioValue = Number(ratio);
-        updateGraphData(e1, e2, aroma, ratioValue);
-        updateGraphData(e2, e1, aroma, ratioValue);
-      });
-      setCoefficientData([...graphNetData]);
     } catch (error) {
-      console.error("Error processing coefficients:", error);
+        console.error("Error processing coefficients:", error);
     }
   };
+
+  // サンキーチャート用のデータに変換
+  const createSankeyNodes = (graphCoefResult: Coefficient[]): { chartData: SankeyChartData, aromaLinks: AromaLink[] } => {
+      // ノードのセット（重複防止）
+      const nodes: SankeyNode[] = [];
+
+      // リンクをマップで管理
+      const linkMap = new Map<string, number>();
+      const linkAromaNotes = new Map<string, Map<string, number>>();
+
+      graphCoefResult.forEach(({ e1, e2, ratio, aroma }) => {
+          const ratioValue = Math.round((Number(ratio) || 0) * 10000) / 10000;
+
+          // ノードをセットに追加
+          if (!nodes.some(n => n.id === e1.id)) {
+              nodes.push({ id: e1.id, nodeColor: `hsl(${Math.random() * 360}, 70%, 50%)` });
+          }
+          
+          if (!nodes.some(n => n.id === e2.id)) {
+              nodes.push({ id: e2.id, nodeColor: `hsl(${Math.random() * 360}, 70%, 50%)` });
+          }
+
+          // リンクの値を累積
+          const linkKey = `${e1.id}-${e2.id}`;        
+          linkMap.set(linkKey, (linkMap.get(linkKey) || 0) + ratioValue);
+          
+          const aromaMap = linkAromaNotes.get(linkKey) ?? new Map<string, number>();
+          aromaMap.set(aroma, (aromaMap.get(aroma) || 0) + ratioValue);
+          linkAromaNotes.set(linkKey, aromaMap);
+      });
+
+      // マップから配列へ変換
+      const links: SankeyLink[] = Array.from(linkMap, ([key, value]) => {
+          const [source, target] = key.split("-");
+          return { source, target, value };
+      });
+
+      // AromaLink の配列に変換
+      const aromaLinks: AromaLink[] = Array.from(linkAromaNotes, ([key, aromaNotes]) => {
+          return { link_id: key, aromaNotes };
+      });
+
+      return { chartData: { nodes, links }, aromaLinks };
+  };
+
   
   // 各食材のAromaCompoundを取得
   const processAromaHeatmap = async () => {
@@ -128,7 +156,7 @@ const Constitution: React.FC = () => {
           </TabPanel>
           {/* 食材ネットワークを表示 */}
           <TabPanel value="2" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-            {coefficientData.length > 0 && (<NetworkGraph data={coefficientData} hover_callback={toolTipNode}/>)}
+            { /* FIXME: サンキーチャートを使う */}
           </TabPanel>
           {/* 食材ヒートマップ */}
           <TabPanel value="3" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
@@ -147,8 +175,8 @@ const Constitution: React.FC = () => {
       </TabContext>
       <MyChordChart data={sampleChordData} keys={sampleChordKeys} />
       <MySunburstChart data={sampleSunburstData} />
-      <MySankeyChart data={sankeySampleData}></MySankeyChart>
-    </Container>
+      { sankeyData?.nodes?.length > 0 && sankeyData?.links?.length > 0 && <MySankeyChart data={sankeyData} linkAromaNotes={sankeyLinkAromaNotes}/> }
+  </Container>
   );
 };
 

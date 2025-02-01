@@ -34,7 +34,7 @@ export interface Coefficient {
   color: string;
 }
 
-// Aroma構成を返却する
+// Aroma構成を返却
 export interface AromaCompound {
   entry_id: string;
   entry_name: string;
@@ -44,3 +44,9 @@ export interface AromaCompound {
   color: string;
   average_ratio: number;
 }
+
+// リンク間のAroma構成
+export interface AromaLink {
+  link_id: string;
+  aromaNotes?: Map<string, number>
+};

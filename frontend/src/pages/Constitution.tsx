@@ -6,23 +6,19 @@ import Heatmap from "../components/Heatmap";
 import GraphTooltip from '../components/GraphTooltip';
 import { TabContext, TabList, TabPanel } from '@mui/lab';
 import { extractLocalCoefficient, fetchAromaCompoundWithEntries, fetchAromaCompoundWithEntry } from '../api/neo4j';
-import { generateAllRecipe } from '../api/open_ai_chef';
 import { AromaCompound, Coefficient, Entry } from 'src/api/types';
 import { HeatmapData } from '../hooks/useHeatMap';
 import ReactMarkdown from "react-markdown";
 import MySunburstChart, { sampleSunburstData } from '../components/SunburstChart';
 import MyChordChart, { sampleChordData, sampleChordKeys } from '../components/ChrodChart';
 import MySankeyChart, { sankeySampleData } from '../components/SankeyChart';
+import { useGPTGeneration }  from '../hooks/useGPTGeneration';
 
 const Constitution: React.FC = () => {
   // 共通のデータストアとして、クリックされたボタンのキーを保存するための状態を管理
   const { selectedMainGroup, selectedMainItems, selectedGroups, selectedAdditionalEntries } = useAppContext();  
   // タブの状態を管理するためのuseState
   const [tabNumber, setTabNumber] = useState<string>('1');
-  // GPTの結果用
-  const [gptSuggest, setGptSuggest] = useState<string>('');
-  // ローディング用
-  const [loading, setLoading] = useState<boolean>(true);
   // ネットワークグラフ用のデータを保持
   const [coefficientData, setCoefficientData] = useState<DataNode[]>([]);
   // ヒートマップ用のデータを保持
@@ -30,25 +26,10 @@ const Constitution: React.FC = () => {
   // ツールチップ表示用のState
   const [showToolTip, setShowToolTip] = useState(false);
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
-
+  // GPT用のカスタムフックを使用
+  const { gptSuggest, loading, processGPT } = useGPTGeneration(selectedMainItems, selectedAdditionalEntries);  
   // タブチェンジのハンドラ
   const handleTabChange = (event: React.SyntheticEvent, newValue: string) => {     setTabNumber(newValue);   };
-
-  // Ollamaへお伺い
-  const processGPT = async () => {
-    if (selectedMainItems.length === 0 || selectedAdditionalEntries.length === 0) {
-        return;
-    }
-    setLoading(true);
-    setGptSuggest(''); // 初期化
-   
-    const ingiriList:string[] = [...selectedMainItems, ...selectedAdditionalEntries].map(entry => entry.name);
-    await generateAllRecipe(ingiriList, (partial) => {
-      setGptSuggest(prev => prev + partial);
-    });
-
-    setLoading(false);
-  };
 
   // 食材ペアの分析
   const processCoefficients = async () => {

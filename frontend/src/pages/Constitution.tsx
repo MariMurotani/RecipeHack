@@ -41,12 +41,12 @@ const Constitution: React.FC = () => {
         console.log(JSON.stringify(graphCoefResult));
 
         // サンキーチャート用のデータ変換
-        const { chartData: sankeyData, aromaLinks: linkAromaNotes } = createSankeyNodes(graphCoefResult);
+        const { chartData: sankeyData, aromaLinks: linkAromaNotes } = transformToSankeyNodes(graphCoefResult);
         setSankeyData(sankeyData);
         setSankeyLinkAromaNotes(linkAromaNotes);
 
         // チョードグラフのデータ変換
-        setShordChartData(createChordNodes(graphCoefResult));
+        setShordChartData(transformToChordNodes(graphCoefResult));
 
         // サンバーストチャートのデータ変換
         setSunburstChartData(transformToSunburst(graphCoefResult));
@@ -56,7 +56,7 @@ const Constitution: React.FC = () => {
   };
 
   // チョードチャート用のデータに変換
-  const createChordNodes = (graphCoefResult: Coefficient[]): ChordChartData => {
+  const transformToChordNodes = (graphCoefResult: Coefficient[]): ChordChartData => {
     const chordChartKeys = new Set<string>();
     graphCoefResult.forEach(({ e1, e2 }) => {
       chordChartKeys.add(e1.id);
@@ -103,7 +103,7 @@ const Constitution: React.FC = () => {
   }
 
   // サンキーチャート用のデータに変換
-  const createSankeyNodes = (graphCoefResult: Coefficient[]): { chartData: SankeyChartData, aromaLinks: AromaLink[] } => {
+  const transformToSankeyNodes = (graphCoefResult: Coefficient[]): { chartData: SankeyChartData, aromaLinks: AromaLink[] } => {
       // ノードのセット（重複防止）
       const nodes: SankeyNode[] = [];
 

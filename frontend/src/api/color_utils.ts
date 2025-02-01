@@ -38,6 +38,6 @@ export function hexToHsl(hex:string) {
     }
 
     // Convert to percentage and round
-    const hsl = `hsl(${Math.round(h)}, ${Math.round(s * 100)}%, ${Math.round(l * 100)}%)`;
+    const hsl = `hsl(${Math.round(h)}, ${Math.round(s * 80)}%, ${Math.round(l * 100)}%)`;
     return hsl;
 }

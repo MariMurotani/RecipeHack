@@ -1,9 +1,12 @@
 import React from "react";
 import { ResponsiveChord } from '@nivo/chord'
 
-export interface ChordChartProps {
+export interface ChordChartData {
     data: number[][];
     keys: string[];
+}
+
+export interface ChordChartProps extends ChordChartData {
     arcTooltip?: React.FC<{ arc: any }>;
     ribbonTooltip?: React.FC<{ ribbon: any }>;
 }

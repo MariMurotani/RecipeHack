@@ -4,14 +4,15 @@ import { useNavigate } from 'react-router-dom';
 import { useAppContext } from '../AppContext';
 import PageContainer from '../components/PageContainer';
 import LightbulbTypography from '../components/LightbulbTypography';
+import {hexToHsl} from '../api/color_utils';
 
 // 配列にボタンのキャプションと色を保存
 const button_caption = [
-  { caption: 'Meat-  肉', color: '#B22222', 'key': 'Meat' },
-  { caption: 'Fish or Shellfish - 魚や貝', color: '#4169E1', 'key': 'Fish' },
-  { caption: 'Vegetables - 野菜', color: '#228B22', 'key': 'Vegetables' },
-  { caption: 'Fruits - フルーツ', color: '#B8860B', 'key': 'Fruits' },
-  { caption: 'Others - その他', color: '#800000', 'key': 'Others' },
+  { caption: 'Meat-  肉', color: hexToHsl('#B22222'), 'key': 'Meat' },
+  { caption: 'Fish or Shellfish - 魚や貝', color: hexToHsl('#4169E1'), 'key': 'Fish' },
+  { caption: 'Vegetables - 野菜', color: hexToHsl('#228B22'), 'key': 'Vegetables' },
+  { caption: 'Fruits - フルーツ', color: hexToHsl('#B8860B'), 'key': 'Fruits' },
+  { caption: 'Others - その他', color: hexToHsl('#800000'), 'key': 'Others' },
   { caption: '', color: 'transparent', key: 'dummy1' }
 ];
 

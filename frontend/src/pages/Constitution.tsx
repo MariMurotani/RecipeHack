@@ -8,7 +8,7 @@ import { AromaCompound, Coefficient, Entry } from 'src/api/types';
 import { HeatmapData } from '../hooks/useHeatMap';
 import ReactMarkdown from "react-markdown";
 import MySunburstChart, { sampleSunburstData } from '../components/SunburstChart';
-import MyChordChart, { sampleChordData, sampleChordKeys } from '../components/ChrodChart';
+import MyChordChart, { ChordChartData, sampleChordData, sampleChordKeys } from '../components/ChrodChart';
 import MySankeyChart, { SankeyChartData, SankeyNode, SankeyLink, sankeySampleData  } from '../components/SankeyChart';
 import { useGPTGeneration }  from '../hooks/useGPTGeneration';
 import { AromaLink } from '../api/types';
@@ -23,6 +23,8 @@ const Constitution: React.FC = () => {
   const [sankeyData, setSankeyData] = useState<SankeyChartData>({ nodes: [], links: [] });
   // リンクとAromaNoteのマップを保持
   const [sankeyLinkAromaNotes, setSankeyLinkAromaNotes] = useState<AromaLink[]>([]);
+  // チョードチャート用のデータを保持
+  const [chordChartData, setShordChartData] = useState<ChordChartData>({keys:[], data: []});
   // ヒートマップのデータを受け取る
   const [heatmapData, setHeatmapData] = useState<HeatmapData[]>([]);
   // ツールチップ表示用のState
@@ -37,16 +39,38 @@ const Constitution: React.FC = () => {
   const processCoefficients = async () => {
     try {
         const graphCoefResult: Coefficient[] = await extractLocalCoefficient([...selectedMainItems, ...selectedAdditionalEntries]);
-        console.log(graphCoefResult);
+        console.log(JSON.stringify(graphCoefResult));
 
         // サンキーチャート用のデータ変換
         const { chartData: sankeyData, aromaLinks: linkAromaNotes } = createSankeyNodes(graphCoefResult);
         setSankeyData(sankeyData);
         setSankeyLinkAromaNotes(linkAromaNotes);
 
+
+        // チョードグラフのデータ変換
+        setShordChartData(createChordNodes(graphCoefResult));
+
     } catch (error) {
         console.error("Error processing coefficients:", error);
     }
+  };
+
+  // チョードチャート用のデータに変換
+  const createChordNodes = (graphCoefResult: Coefficient[]): ChordChartData => {
+    const chordChartKeys = new Set<string>();
+    graphCoefResult.forEach(({ e1, e2 }) => {
+      chordChartKeys.add(e1.id);
+      chordChartKeys.add(e2.id);
+    });
+    const chordChartMatrix = Array.from({ length: chordChartKeys.size }, () =>
+        Array(chordChartKeys.size).fill(0)
+    );
+    graphCoefResult.forEach(({e1, e2}) => {
+        const e1Index = Array.from(chordChartKeys).indexOf(e1.id);
+        const e2Index = Array.from(chordChartKeys).indexOf(e2.id);
+        chordChartMatrix[e1Index][e2Index] += 1;
+    });
+    return { keys: Array.from(chordChartKeys), data: chordChartMatrix }
   };
 
   // サンキーチャート用のデータに変換
@@ -151,12 +175,13 @@ const Constitution: React.FC = () => {
             <Tab label="RECIPE GENERATION" value="4" />
             </TabList>
           </Box>
-          {/* コンポネント表示 */}
+          {/* 食材ネットワーク */}
           <TabPanel value="1" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+            <MyChordChart {...chordChartData} />
           </TabPanel>
-          {/* 食材ネットワークを表示 */}
+          {/* ネットワークの詳細を表示 */}
           <TabPanel value="2" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-            { /* FIXME: サンキーチャートを使う */}
+            { sankeyData?.nodes?.length > 0 && sankeyData?.links?.length > 0 && <MySankeyChart data={sankeyData} linkAromaNotes={sankeyLinkAromaNotes}/> }
           </TabPanel>
           {/* 食材ヒートマップ */}
           <TabPanel value="3" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
@@ -173,9 +198,7 @@ const Constitution: React.FC = () => {
             </Box>
           </TabPanel>
       </TabContext>
-      <MyChordChart data={sampleChordData} keys={sampleChordKeys} />
       <MySunburstChart data={sampleSunburstData} />
-      { sankeyData?.nodes?.length > 0 && sankeyData?.links?.length > 0 && <MySankeyChart data={sankeyData} linkAromaNotes={sankeyLinkAromaNotes}/> }
   </Container>
   );
 };

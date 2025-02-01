@@ -13,6 +13,7 @@ import MySankeyChart, { SankeyChartData, SankeyNode, SankeyLink, sankeySampleDat
 import { useGPTGeneration }  from '../hooks/useGPTGeneration';
 import { AromaLink } from '../api/types';
 import { hexToHsl } from "../api/color_utils";
+import { main } from 'src/api/open_ai';
 
 const Constitution: React.FC = () => {
   // 共通のデータストアとして、クリックされたボタンのキーを保存するための状態を管理
@@ -26,7 +27,7 @@ const Constitution: React.FC = () => {
   // チョードチャート用のデータを保持
   const [chordChartData, setShordChartData] = useState<ChordChartData>({keys:[], data: []});
   // サンバーストチャート用のデータを保持
-  const [SunburstChartData, setSunburstChartData] = useState<SunburstData>({ id: "root", children: [] });
+  const [sunburstChartData, setSunburstChartData] = useState<SunburstData>({ id: "root", children: [] });
   // ヒートマップのデータを受け取る
   const [heatmapData, setHeatmapData] = useState<HeatmapData[]>([]);
   // GPT用のカスタムフックを使用
@@ -37,6 +38,7 @@ const Constitution: React.FC = () => {
   // 食材ペアの分析
   const processCoefficients = async () => {
     try {
+        //  neo4j問い合わせ
         const graphCoefResult: Coefficient[] = await extractLocalCoefficient([...selectedMainItems, ...selectedAdditionalEntries]);
         console.log(JSON.stringify(graphCoefResult));
 
@@ -48,8 +50,17 @@ const Constitution: React.FC = () => {
         // チョードグラフのデータ変換
         setShordChartData(transformToChordNodes(graphCoefResult));
 
+        //  neo4j問い合わせ
+        const entry_ids = [selectedMainItems, selectedAdditionalEntries].map(entries => entries.map(entry => entry.id)).flat();
+        const aromaCompounds: AromaCompound[] = await fetchAromaCompoundWithEntries(entry_ids);
+    
         // サンバーストチャートのデータ変換
-        setSunburstChartData(transformToSunburst(graphCoefResult));
+        setSunburstChartData(transformToSunburst(aromaCompounds));
+        console.log("sampleSunburstData -- ", sampleSunburstData);
+
+        //　ヒートマップのデータ変換
+        setHeatmapData(transformToAromaHeatmap(aromaCompounds));        ;
+
     } catch (error) {
         console.error("Error processing coefficients:", error);
     }
@@ -74,29 +85,29 @@ const Constitution: React.FC = () => {
   };
 
   // サンバースト用のデータに変換
-  function transformToSunburst(graphCoefResult: Coefficient[]): SunburstData {
-    const root: SunburstData = { id: "root", children: [] };
+  function transformToSunburst(aromaCompounds: AromaCompound[]): SunburstData {
+    const root: SunburstData = {  id: "root", color: "hsl(77, 70%, 50%)", children: [] };
   
-    graphCoefResult.forEach(({ e1, aroma, count, color }) => {
-      let categoryNode = root.children?.find((node) => node.id === e1.category);
+    console.log("aromaCompounds -- ", JSON.stringify(aromaCompounds));
+    aromaCompounds.forEach((ac:AromaCompound) => {
+      let categoryNode = root.children?.find((node) => node.id === ac.category);
       if (!categoryNode) {
-        categoryNode = { id: e1.category, children: [] };
+        categoryNode = { id: ac.category, children: [] };
         root.children?.push(categoryNode);
       }
   
-      let subCategoryNode = categoryNode.children?.find((node) => node.id === e1.sub_category);
+      let subCategoryNode = categoryNode.children?.find((node) => node.id === ac.sub_category);
       if (!subCategoryNode) {
-        subCategoryNode = { id: e1.sub_category, children: [] };
+        subCategoryNode = { id: ac.sub_category, children: [] };
         categoryNode.children?.push(subCategoryNode);
       }
   
-      let entryNode = subCategoryNode.children?.find((node) => node.id === e1.id);
+      let entryNode = subCategoryNode.children?.find((node) => node.id === ac.entry_id);
       if (!entryNode) {
-        entryNode = { id: e1.id, children: [] };
+        entryNode = { id: `${ac.category}_${ac.entry_id}`, children: [], value: ac.average_ratio };
         subCategoryNode.children?.push(entryNode);
-      }
-  
-      entryNode.children?.push({ id: aroma, color, value: count });
+      }  
+      entryNode.children?.push({ id: `${ac.category}_${ac.entry_id}_${ac.aroma_id}`, value: ac.average_ratio });
     });
   
     return root;
@@ -145,24 +156,20 @@ const Constitution: React.FC = () => {
 
       return { chartData: { nodes, links }, aromaLinks };
   };
-
   
   // 各食材のAromaCompoundを取得
-  const processAromaHeatmap = async () => {
-      const entry_ids = [selectedMainItems, selectedAdditionalEntries].map(entries => entries.map(entry => entry.id)).flat();
-      const aromaCompounds: AromaCompound[] = await fetchAromaCompoundWithEntries(entry_ids);
+  const transformToAromaHeatmap = (aromaCompounds: AromaCompound[]): HeatmapData[] => {
       const heatmapData:HeatmapData[] = [];
       aromaCompounds.forEach((aroma) => {
         if (aroma.average_ratio > 10) {
           heatmapData.push({ group: aroma.entry_name, variable: aroma.aroma_id, value: aroma.average_ratio, colorCode: aroma.color });
         }
       });
-      setHeatmapData(heatmapData);
+      return heatmapData;
   };
   
   useEffect(() => {
     processCoefficients();
-    processAromaHeatmap();
   }, [selectedMainItems, selectedAdditionalEntries]); 
   
   useEffect(() => {
@@ -220,7 +227,7 @@ const Constitution: React.FC = () => {
             </Box>
           </TabPanel>
       </TabContext>
-      <MySunburstChart data={SunburstChartData} />
+      <MySunburstChart data={sunburstChartData} />
   </Container>
   );
 };

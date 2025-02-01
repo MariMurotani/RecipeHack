@@ -39,6 +39,8 @@ export interface AromaCompound {
   entry_id: string;
   entry_name: string;
   entry_name_ja: string;
+  category: string;
+  sub_category: string;
   aroma_id: string;
   name: string;
   color: string;

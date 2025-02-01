@@ -96,3 +96,13 @@ const MyChordChart:React.FC<ChordChartProps> = ({ data, keys }) => (
 )
 
 export default MyChordChart;
+
+// サンプルデータの定義
+export const sampleChordData = [
+    [863, 520, 73, 1264, 1575],
+    [150, 477, 155, 470, 42],
+    [19, 426, 236, 491, 1783],
+    [1794, 431, 179, 1212, 462],
+    [42, 1189, 264, 455, 258]
+];
+export const sampleChordKeys = ["A", "B", "C", "D", "E"];

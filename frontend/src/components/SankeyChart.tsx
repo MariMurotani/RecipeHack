@@ -81,3 +81,80 @@ const MySankeyChart:React.FC<SankeyChartProps> = ({ data }) => (
     </div>
 );
 export default MySankeyChart;
+
+// サンプルデータの定義
+export const sankeySampleData: SankeyChartData = {
+    "nodes": [
+      {
+        "id": "John",
+        "nodeColor": "hsl(259, 70%, 50%)"
+      },
+      {
+        "id": "Raoul",
+        "nodeColor": "hsl(291, 70%, 50%)"
+      },
+      {
+        "id": "Jane",
+        "nodeColor": "hsl(342, 70%, 50%)"
+      },
+      {
+        "id": "Marcel",
+        "nodeColor": "hsl(206, 70%, 50%)"
+      },
+      {
+        "id": "Ibrahim",
+        "nodeColor": "hsl(279, 70%, 50%)"
+      },
+      {
+        "id": "Junko",
+        "nodeColor": "hsl(306, 70%, 50%)"
+      }
+    ],
+    "links": [
+      {
+        "source": "Raoul",
+        "target": "Ibrahim",
+        "value": 139
+      },
+      {
+        "source": "Raoul",
+        "target": "John",
+        "value": 71
+      },
+      {
+        "source": "Junko",
+        "target": "Ibrahim",
+        "value": 75
+      },
+      {
+        "source": "Junko",
+        "target": "Raoul",
+        "value": 40
+      },
+      {
+        "source": "John",
+        "target": "Ibrahim",
+        "value": 50
+      },
+      {
+        "source": "John",
+        "target": "Jane",
+        "value": 45
+      },
+      {
+        "source": "Ibrahim",
+        "target": "Marcel",
+        "value": 40
+      },
+      {
+        "source": "Jane",
+        "target": "Marcel",
+        "value": 130
+      },
+      {
+        "source": "Jane",
+        "target": "Ibrahim",
+        "value": 119
+      }
+    ]
+  };

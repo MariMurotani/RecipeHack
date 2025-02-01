@@ -88,28 +88,36 @@ const Constitution: React.FC = () => {
   function transformToSunburst(aromaCompounds: AromaCompound[]): SunburstData {
     const root: SunburstData = {  id: "root", color: "hsl(77, 70%, 50%)", children: [] };
   
-    console.log("aromaCompounds -- ", JSON.stringify(aromaCompounds));
     aromaCompounds.forEach((ac:AromaCompound) => {
-      let categoryNode = root.children?.find((node) => node.id === ac.category);
+      const category_id = ac.category
+      let categoryNode = root.children?.find((node) => node.id === category_id);
       if (!categoryNode) {
-        categoryNode = { id: ac.category, children: [] };
+        categoryNode = { id: category_id, children: [] };
         root.children?.push(categoryNode);
       }
   
-      let subCategoryNode = categoryNode.children?.find((node) => node.id === ac.sub_category);
+    const sub_category_id = `${ac.category}_${ac.sub_category}`;
+      let subCategoryNode = categoryNode.children?.find((node) => node.id === sub_category_id);
       if (!subCategoryNode) {
-        subCategoryNode = { id: ac.sub_category, children: [] };
+        subCategoryNode = { id: sub_category_id, children: [] };
         categoryNode.children?.push(subCategoryNode);
       }
   
-      let entryNode = subCategoryNode.children?.find((node) => node.id === ac.entry_id);
+      const entry_id = `${sub_category_id}_${ac.entry_id}`;
+      let entryNode = subCategoryNode.children?.find((node) => node.id === entry_id);
       if (!entryNode) {
-        entryNode = { id: `${ac.category}_${ac.entry_id}`, children: [], value: ac.average_ratio };
+        entryNode = { id: `${entry_id}`, children: []};
         subCategoryNode.children?.push(entryNode);
-      }  
-      entryNode.children?.push({ id: `${ac.category}_${ac.entry_id}_${ac.aroma_id}`, value: ac.average_ratio });
+      }
+
+      const aroma_id = `${entry_id}_${ac.aroma_id}`;
+      let aromaNode = entryNode.children?.find((node) => node.id === aroma_id);
+      if (!aromaNode) {
+        aromaNode = { id: `${aroma_id}`, children: [], value: ac.average_ratio };
+        entryNode.children?.push(aromaNode);
+      }
     });
-  
+
     return root;
   }
 

@@ -244,21 +244,24 @@ export const fetchAromaCompoundWithEntries= async (entry_ids: string[]): Promise
       f.id AS food_id, 
       f.name AS food_name,
       f.display_name_ja AS food_name_ja,
+      f.group AS food_category,
+      f.sub_group AS food_sub_category,
       a.id AS aroma_id, 
       a.name AS aroma_name, 
       a.color AS color_code,
       SUM(toFloat(r.ratio)) AS average_ratio
     WHERE average_ratio > 0
     RETURN 
-      DISTINCT food_id, food_name, food_name_ja,
+      DISTINCT food_id, 
+      food_name, food_name_ja, 
+      food_category, food_sub_category,
       aroma_id, 
       color_code, 
       aroma_name, 
       average_ratio
-    ORDER BY average_ratio DESC
+    ORDER BY food_category, food_sub_category, average_ratio DESC
   `
   try {
-    // console.log(query);
     const result = await session.run(query);
     const max_average_ratio = Math.max(...result.records.map((record) => parseFloat(record.get('average_ratio'))));
 
@@ -267,6 +270,8 @@ export const fetchAromaCompoundWithEntries= async (entry_ids: string[]): Promise
         entry_id: record.get('food_id'),
         entry_name: record.get('food_name'),
         entry_name_ja: record.get('food_name_ja'),
+        category: record.get('food_category'),
+        sub_category: record.get('food_sub_category'),
         aroma_id: record.get('aroma_id'),
         name: record.get('aroma_name'),
         color: record.get('color_code'),

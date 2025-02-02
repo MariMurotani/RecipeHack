@@ -6,29 +6,36 @@ export interface SunburstData {
     color?: string;
     value?: number;
     children?: SunburstData[] | null;
+    customLabel?: string; // カスタムラベル用追加要素
+    customColor?: string; // カスタムカラー用追加要素
 }
 
 interface MyResponsiveSunburstProps {
     data: SunburstData;
 }
 
-const CustomTooltip = (datum: ComputedDatum<SunburstData>) => (
-    <div
-        style={{
-            background: 'white',
-            padding: '10px',
-            borderRadius: '5px',
-            boxShadow: '0px 0px 5px rgba(0,0,0,0.2)',
-            border: `2px solid ${datum.color}`,
-        }}
-    >
-        <strong>{datum.id}</strong> <br />
-        Value: {datum.value}
-    </div>
-);
+const CustomTooltip = (datum: ComputedDatum<SunburstData>) => {
+    console.log(datum);
+    const ids = datum.id.toString().split("-");
+    const label = ids[ids.length - 1];
+    return (
+        <div
+            style={{
+                background: 'white',
+                padding: '10px',
+                borderRadius: '5px',
+                boxShadow: '0px 0px 5px rgba(0,0,0,0.2)',
+                border: `2px solid ${datum.color}`,
+            }}
+        >
+            <strong>{label}</strong> <br />
+            TODO: 関連検索の表示をできると良い
+        </div>
+    );
+};
 
 const MySunburstChart: React.FC<MyResponsiveSunburstProps> = ({ data }) => (
-    <div style={{ height: 500 }}>
+    <div style={{ height: "500px", width: "800px" }}>
         <ResponsiveSunburst
             data={data}
             margin={{ top: 0, right: 0, bottom: 0, left: 0 }}
@@ -37,6 +44,8 @@ const MySunburstChart: React.FC<MyResponsiveSunburstProps> = ({ data }) => (
             cornerRadius={2}
             borderWidth={2}
             borderColor="#ffffff"
+            enableArcLabels={true}
+            arcLabel={(datum) => datum.data.customLabel || datum.id.toString()} // カスタムラベルの追加
             colors={{ scheme: 'nivo' }}
             childColor={{
                 from: 'color',
@@ -47,7 +56,6 @@ const MySunburstChart: React.FC<MyResponsiveSunburstProps> = ({ data }) => (
                     ]
                 ]
             }}
-            enableArcLabels={true}
             arcLabelsRadiusOffset={0.25}
             arcLabelsSkipAngle={10}
             arcLabelsTextColor={{

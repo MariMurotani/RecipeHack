@@ -92,28 +92,28 @@ const Constitution: React.FC = () => {
       const category_id = ac.category
       let categoryNode = root.children?.find((node) => node.id === category_id);
       if (!categoryNode) {
-        categoryNode = { id: category_id, children: [] };
+        categoryNode = { id: category_id, children: [], value: 1, customLabel: ac.category };
         root.children?.push(categoryNode);
       }
   
-    const sub_category_id = `${ac.category}_${ac.sub_category}`;
+    const sub_category_id = `${ac.category}-${ac.sub_category}`;
       let subCategoryNode = categoryNode.children?.find((node) => node.id === sub_category_id);
       if (!subCategoryNode) {
-        subCategoryNode = { id: sub_category_id, children: [] };
+        subCategoryNode = { id: sub_category_id, children: [], value: 1, customLabel: ac.sub_category};
         categoryNode.children?.push(subCategoryNode);
       }
   
-      const entry_id = `${sub_category_id}_${ac.entry_id}`;
+      const entry_id = `${sub_category_id}-${ac.entry_id}`;
       let entryNode = subCategoryNode.children?.find((node) => node.id === entry_id);
       if (!entryNode) {
-        entryNode = { id: `${entry_id}`, children: []};
+        entryNode = { id: `${entry_id}`, children: [], value: 1, customLabel: ac.entry_name_ja};
         subCategoryNode.children?.push(entryNode);
       }
 
-      const aroma_id = `${entry_id}_${ac.aroma_id}`;
+      const aroma_id = `${entry_id}-${ac.aroma_id}`;
       let aromaNode = entryNode.children?.find((node) => node.id === aroma_id);
       if (!aromaNode) {
-        aromaNode = { id: `${aroma_id}`, children: [], value: ac.average_ratio };
+        aromaNode = { id: `${aroma_id}`, children: [], value: 1, customLabel: ac.aroma_id, customColor: ac.color };
         entryNode.children?.push(aromaNode);
       }
     });

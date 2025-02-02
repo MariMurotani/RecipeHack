@@ -240,12 +240,14 @@ export const fetchAromaCompoundWithEntries= async (entry_ids: string[]): Promise
   const query = `
     MATCH (f:Food)-[:HAS_SUBTYPE]->(fs:FoodSubType)-[r:SCENTED]->(a:Aroma)
     WHERE f.id in [${entry_ids.map((entry_id) => `'${entry_id}'`).join(', ')}]
+    OPTIONAL MATCH (f)-[:BELONGS_TO]->(fg:FoodGroup)
+    OPTIONAL MATCH (f)-[:BELONGS_TO]->(fsg:FoodSubGroup)
     WITH 
       f.id AS food_id, 
       f.name AS food_name,
       f.display_name_ja AS food_name_ja,
-      f.group AS food_category,
-      f.sub_group AS food_sub_category,
+      fg.display_name_ja AS food_category,
+      fsg.display_name_ja AS food_sub_category,
       a.id AS aroma_id, 
       a.name AS aroma_name, 
       a.color AS color_code,
@@ -261,6 +263,7 @@ export const fetchAromaCompoundWithEntries= async (entry_ids: string[]): Promise
       average_ratio
     ORDER BY food_category, food_sub_category, average_ratio DESC
   `
+  // console.log(query);
   try {
     const result = await session.run(query);
     const max_average_ratio = Math.max(...result.records.map((record) => parseFloat(record.get('average_ratio'))));

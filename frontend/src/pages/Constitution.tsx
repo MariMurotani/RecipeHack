@@ -208,8 +208,9 @@ const Constitution: React.FC = () => {
             <TabList onChange={handleTabChange} aria-label="lab API tabs example" sx={{ justifyContent: 'center' }}>
             <Tab label="Constitution Network" value="1" />
             <Tab label="Food Network" value="2" />
-            <Tab label="HEAT MAP" value="3" />
-            <Tab label="RECIPE GENERATION" value="4" />
+            <Tab label="Food Compound" value="3" />
+            <Tab label="HEAT MAP" value="4" />
+            <Tab label="RECIPE GENERATION" value="5" />
             </TabList>
           </Box>
           {/* 食材ネットワーク */}
@@ -220,12 +221,16 @@ const Constitution: React.FC = () => {
           <TabPanel value="2" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
             { sankeyData?.nodes?.length > 0 && sankeyData?.links?.length > 0 && <MySankeyChart data={sankeyData} linkAromaNotes={sankeyLinkAromaNotes}/> }
           </TabPanel>
-          {/* 食材ヒートマップ */}
+          {/* 食材構成 */}
           <TabPanel value="3" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+            <MySunburstChart data={sunburstChartData} />
+          </TabPanel>
+          {/* 食材ヒートマップ */}
+          <TabPanel value="4" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
             <Heatmap data={heatmapData} width={500} height={500} />
           </TabPanel>
           {/* レシピ生成GPT */}
-          <TabPanel value="4" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+          <TabPanel value="5" sx={{ width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
             <Box
             display="flex" flexDirection="column" alignItems="top" justifyContent="center"
             sx={{ marginTop: "20px" }}
@@ -235,7 +240,6 @@ const Constitution: React.FC = () => {
             </Box>
           </TabPanel>
       </TabContext>
-      <MySunburstChart data={sunburstChartData} />
   </Container>
   );
 };

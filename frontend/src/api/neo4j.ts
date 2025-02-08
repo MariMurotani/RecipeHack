@@ -1,5 +1,5 @@
 import neo4j, { QueryResult, RecordShape } from 'neo4j-driver';
-import { Category, Entry, Coefficient, AromaCompound } from './types';
+import { Category, Entry, Coefficient, AromaCompound, PageRankResult } from './types';
 
 // Neo4j に接続するためのドライバを作成
 // 接続情報を確認
@@ -291,7 +291,7 @@ export const fetchAromaCompoundWithEntries= async (entry_ids: string[]): Promise
 };
 
 // ページランクの結果を返す
-export const fetchPageRank = async (): Promise<void> => {
+export const fetchPageRank = async (): Promise<PageRankResult[]> => {
   const session = driver.session();
   const project_name = generateRandomString(6);
 
@@ -327,18 +327,27 @@ export const fetchPageRank = async (): Promise<void> => {
     WHERE id(fs) = foodSubNodeIds[idx] 
       AND NOT f.group IN excludedGroups
     WITH f, AVG(scores[idx]) AS avgScore, COLLECT(fs.name) AS subTypes
-    RETURN f.id, f.name, avgScore, subTypes
+    RETURN f.id as foodId, f.name as foodName, f.display_name_ja as displayNameJa, avgScore, subTypes
     ORDER BY avgScore DESC
     LIMIT 100
   `);
 
-  result.records.map((record)=>{
-    console.log(record);
-  });
+  const pageRankResult:PageRankResult[] = result.records.map((record)=> (
+      {
+        "foodId": record.get("foodId"),
+        "foodName": record.get("foodName"),
+        "displayNameJa": record.get("displayNameJa"), 
+        "avgScore": record.get("avgScore").toFixed(2),
+        "subTypes": record.get("subTypes")
+      }
+    )
+  );
 
   await session.run(`
     CALL gds.graph.drop('${project_name}') YIELD graphName
   `);
+
+  return pageRankResult
 };
 
 // エントリの結果をフォーマットする

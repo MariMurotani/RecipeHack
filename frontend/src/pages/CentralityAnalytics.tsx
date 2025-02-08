@@ -3,14 +3,16 @@ import { useAppContext } from '../AppContext';
 import { Container, Typography, TextField, Button, Checkbox, IconButton } from '@mui/material';
 import { fetchPageRank } from '../api/neo4j';
 import HeatmapBarChart, { BarChartData}  from '../components/HeatmapBarChart';
+import { PageRankResult } from 'src/api/types';
 
 const CentralityAnalytics: React.FC = () => {
+    const [pageRankResult, setPageRankResult] = useState<PageRankResult[]>([]);
 
     useEffect(() => {
         const fetchData = async () => {
             try {
-              const pageRankResult = await fetchPageRank(); // 非同期関数を待機
-              console.log(pageRankResult);
+              const fetchedPageRankResult:PageRankResult[] = await fetchPageRank();
+              setPageRankResult(fetchedPageRankResult);
             } catch (error) {
               console.error("Error fetching PageRank:", error);
             }
@@ -19,17 +21,16 @@ const CentralityAnalytics: React.FC = () => {
           fetchData(); // 非同期関数を実行
     }, []);
 
-    const data:BarChartData[] = [
-        { label: 'A', value: 10 },
-        { label: 'B', value: 25 },
-        { label: 'C', value: 15 },
-        { label: 'D', value: 30 },
-    ];
-
     return (
         <Container>
-            <Typography variant="h2">Centrality Analytics</Typography>
-            <HeatmapBarChart data={data} />
+          
+          <ul>
+            {
+                pageRankResult.map((pageRank, index) => (
+                  <li key={index}>{pageRank.foodName} {pageRank.displayNameJa}: {pageRank.avgScore} </li>
+                ))
+            }
+          </ul>
         </Container>
     );
 }

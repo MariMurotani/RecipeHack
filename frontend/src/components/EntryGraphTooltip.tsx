@@ -55,7 +55,7 @@ const GraphTooltip: React.FC<EntryGraphTooltipProps> = ({ flavorCompoundDataType
         }}
       >
           <IconButton
-            sx={{ position: "absolute", top: 5, right: 5 }}
+            sx={{ position: "absolute", top: 5, left: 5 }}
             onClick={onClose} // Close Tooltip
             size="small"
           >

@@ -29,8 +29,9 @@ const FoodTooltip: React.FC<HintTooltipProps> = ({ recipeRankResults, anchorEl, 
         {
           name: "preventOverflow",
           options: {
-            boundary: "window", // Prevents going outside the viewport
-            padding: 10,
+            boundary: "window",
+            padding: 20,
+            margin: 20
           },
         },
         {
@@ -64,17 +65,19 @@ const FoodTooltip: React.FC<HintTooltipProps> = ({ recipeRankResults, anchorEl, 
           </IconButton>
         {/* List of Food Items */}
         <ul style={{ listStyle: "none", padding: 0 }}>
-        {recipeRankResults.map((food) => (
-            <li key={food.foodId} style={{ display: "flex", justifyContent: "space-between", padding: "5px 0" }}>
-                <IconButton size="small" onClick={() => onClick(food.foodId)}>
-                    <AddIcon fontSize="small" />
-                </IconButton>
-                <span style={{ fontSize: "14px" }}>
-                    {food.foodName} - ({food.displayNameJa})
-                </span>
-            </li>
-        ))}
-        </ul>
+            {recipeRankResults.map((food) => (
+                <li key={food.foodId} style={{ display: "flex", justifyContent: "space-between", padding: "5px 0" }}>
+                <div style={{ display: "flex", alignItems: "center", gap: "5px" }}>
+                    <IconButton size="small" onClick={() => onClick(food.foodId)} disabled={!food.foodName}>
+                        <AddIcon fontSize="small" />
+                    </IconButton>
+                    <span style={{ fontSize: "14px" }}>
+                        {food.foodName ? `${food.foodName} - (${food.displayNameJa})` : food.foodId}
+                    </span>
+                </div>
+                </li>
+            ))}
+            </ul>
       </Box>
     </Popper>
   );

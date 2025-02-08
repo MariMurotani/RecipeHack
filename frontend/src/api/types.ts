@@ -63,8 +63,6 @@ export interface FoodAromaPageRankResult {
 
 // FoodとRecipeのPageRankの結果
 export interface FoodRecipePageRankResult {
-  foodId: string;
-  foodName: string;
-  displayNameJa: string;
+  e1: Entry;
   score: number;
 }

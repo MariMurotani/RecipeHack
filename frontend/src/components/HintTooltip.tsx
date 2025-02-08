@@ -2,8 +2,7 @@ import React from "react";
 import { Popper, Box, Typography, SxProps, Theme, IconButton } from "@mui/material";
 import CloseIcon from '@mui/icons-material/Close';
 import AddIcon from '@mui/icons-material/Add';
-
-import { FoodRecipePageRankResult } from "../api/types";
+import { Entry, FoodRecipePageRankResult } from "../api/types";
 
 interface HintTooltipProps {
   recipeRankResults: FoodRecipePageRankResult[];
@@ -12,7 +11,7 @@ interface HintTooltipProps {
   title: string;
   show: boolean;
   onClose: () => void;
-  onClick: (foodId: string) => void;
+  onClick: (entry: Entry) => void;
   sx?: SxProps<Theme>;
 }
 
@@ -66,13 +65,13 @@ const FoodTooltip: React.FC<HintTooltipProps> = ({ recipeRankResults, anchorEl, 
         {/* List of Food Items */}
         <ul style={{ listStyle: "none", padding: 0 }}>
             {recipeRankResults.map((food) => (
-                <li key={food.foodId} style={{ display: "flex", justifyContent: "space-between", padding: "5px 0" }}>
+                <li key={food.e1.id} style={{ display: "flex", justifyContent: "space-between", padding: "5px 0" }}>
                 <div style={{ display: "flex", alignItems: "center", gap: "5px" }}>
-                    <IconButton size="small" onClick={() => onClick(food.foodId)} disabled={!food.foodName}>
+                    <IconButton size="small" onClick={() => onClick(food.e1)} disabled={!food.e1.name}>
                         <AddIcon fontSize="small" />
                     </IconButton>
                     <span style={{ fontSize: "14px" }}>
-                        {food.foodName ? `${food.foodName} - (${food.displayNameJa})` : food.foodId}
+                        {food.e1.name ? `${food.e1.name} - (${food.e1.name_ja})` : food.e1.id}
                     </span>
                 </div>
                 </li>

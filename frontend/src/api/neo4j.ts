@@ -399,18 +399,17 @@ export const fetchFoodRecipePageRank = async (id: string):Promise<FoodRecipePage
     YIELD nodeId, score
     WITH gds.util.asNode(nodeId) AS node, score
     WHERE node.id <> "${id}"
-    RETURN node.id AS foodId, node.name AS foodName, node.display_name_ja as displayNameJa, score
+    RETURN node as f, score
     ORDER BY score DESC
     LIMIT 20;
   `);
-  const pageRankResult:FoodRecipePageRankResult[] = result.records.map((record)=> (
-    {
-      "foodId": record.get("foodId"),
-      "foodName": record.get("foodName"),
-      "displayNameJa": record.get("displayNameJa"), 
+  const pageRankResult:FoodRecipePageRankResult[] = result.records.map((record)=> {
+    const properties = record.get('f').properties;
+    return {
+      "e1": formatEntry(record, properties),
       "score": record.get("score").toFixed(2)
     }
-  ));
+  });
 
   await session.run(`
     CALL gds.graph.drop('${project_name}') YIELD graphName

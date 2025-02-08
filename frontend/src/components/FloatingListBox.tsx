@@ -9,6 +9,7 @@ import { Entry } from 'src/api/types';
 import { useTooltipHandler } from "../hooks/useTooltipHandler";
 import PieChartIcon from "@mui/icons-material/PieChart";
 import LightbulbIcon from "@mui/icons-material/Lightbulb";
+import { useAppContext } from '../AppContext';
 
 // 型定義: 親コンポーネントからアイテムを受け取る
 interface FloatingListBoxProps {
@@ -17,6 +18,7 @@ interface FloatingListBoxProps {
 }
 
 const FloatingListBox: React.FC<FloatingListBoxProps> = ({ items, handleDelete }) => {
+  const { selectedMainItems, setSelectedMainItems } = useAppContext();  
   const [open, setOpen] = useState(true);
 
   const toggleList = () => {
@@ -35,8 +37,8 @@ const FloatingListBox: React.FC<FloatingListBoxProps> = ({ items, handleDelete }
       handleMouseOut,
     } = useTooltipHandler();
   
-    const handleMouseClick = (entry_id: string) => {
-      console.log("click", entry_id);
+    const handleMouseClick = (entry: Entry) => {
+      setSelectedMainItems([...selectedMainItems, entry]);    
     };
 
   return (

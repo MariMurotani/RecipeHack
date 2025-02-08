@@ -1,22 +1,21 @@
 import React from "react";
-import { Box, IconButton, Popper, Typography } from "@mui/material";
-import CloseIcon from "@mui/icons-material/Close";
-import NivoPieChart, { FlavorCompoundDataType } from "../components/NivoPieChart";
-import { SxProps, Theme } from "@mui/material/styles";
+import { Popper, Box, Typography, SxProps, Theme, IconButton } from "@mui/material";
+import CloseIcon from '@mui/icons-material/Close';
+import { FoodRecipePageRankResult } from "../api/types";
 
-interface EntryGraphTooltipProps {
-  flavorCompoundDataType: FlavorCompoundDataType[];
+interface HintTooltipProps {
+  recipeRankResults: FoodRecipePageRankResult[];
   mousePosition: { x: number; y: number };
   anchorEl: null | HTMLElement;
   title: string;
   show: boolean;
   onClose: () => void;
+  onClick: () => void;
   sx?: SxProps<Theme>;
 }
 
-const GraphTooltip: React.FC<EntryGraphTooltipProps> = ({ flavorCompoundDataType, mousePosition, anchorEl, title, show, onClose, sx }) => {
-  const width = 200;
-  const height = 200;
+const FoodTooltip: React.FC<HintTooltipProps> = ({ recipeRankResults, anchorEl, show, mousePosition, onClose, sx }) => {
+  if (!recipeRankResults) return null;
 
   return (
     (show) &&
@@ -51,7 +50,7 @@ const GraphTooltip: React.FC<EntryGraphTooltipProps> = ({ flavorCompoundDataType
           boxShadow: 3,
           borderRadius: 1,
           minWidth: "250px",
-          textAlign: "center",
+          textAlign: "left",
         }}
       >
           <IconButton
@@ -61,11 +60,16 @@ const GraphTooltip: React.FC<EntryGraphTooltipProps> = ({ flavorCompoundDataType
           >
             <CloseIcon fontSize="small" />
           </IconButton>
-        <Typography>{title}</Typography>
-        <NivoPieChart data={flavorCompoundDataType}></NivoPieChart>
+        <ul>
+            {recipeRankResults.map((recipeRankResult) => (
+            <li key={recipeRankResult.foodName}>
+                {recipeRankResult.foodName} ({recipeRankResult.displayNameJa})
+            </li>
+            ))}
+        </ul>
       </Box>
     </Popper>
   );
 };
 
-export default GraphTooltip;
+export default FoodTooltip;

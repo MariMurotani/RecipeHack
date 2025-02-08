@@ -359,8 +359,6 @@ export const fetchPageRank = async (group_names: string[]):Promise<FoodAromaPage
   return pageRankResult
 };
 
-
-
 // Foodとレシピのページランクの結果を返す
 export const fetchFoodRecipePageRank = async (id: string):Promise<FoodRecipePageRankResult[]> => {
   const project_name = generateRandomString(6);
@@ -393,6 +391,7 @@ export const fetchFoodRecipePageRank = async (id: string):Promise<FoodRecipePage
   const result = await session.run(`
     CALL gds.pageRank.stream('${project_name}')
     YIELD nodeId, score
+    WITH gds.util.asNode(nodeId) AS node, score
     WHERE node:Food
     RETURN node.id AS foodId, node.name AS foodName, node.display_name_ja as displayNameJa, score
     ORDER BY score DESC

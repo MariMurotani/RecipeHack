@@ -98,8 +98,9 @@ const MainGroup: React.FC = () => {
         <Typography gutterBottom component="div">
           <FixedButtonOverlay onClick={buttonOnClick} />
           <FloatingListBox items={selectedMainItems} handleDelete={handleSelectedListDelete} />
-          {(flavorCompoundData.length > 0) &&  <
-            EntryGraphToolTip data={flavorCompoundData} 
+          {(flavorCompoundData.length > 0) &&  
+          <EntryGraphToolTip 
+            flavorCompoundDataType={flavorCompoundData} 
             mousePosition={mousePosition}
             anchorEl={anchorEl}
             title={currentEntry?.name ?? ""}
@@ -134,7 +135,7 @@ const MainGroup: React.FC = () => {
                 onChange={(event) => handleItemClick(event, entry)} />
                 {entry.name} - {entry.name_ja}
                 <span
-                  onMouseEnter={(event) => handleMouseHover(event, entry)}
+                  onMouseEnter={(event) => handleMouseHover(event, entry, "Pie")}
                   style={{
                     display: "inline-flex",
                     cursor: "pointer",

@@ -100,8 +100,9 @@ const ParingSearch: React.FC = () => {
         {/* 選択された食材リスト */}
         <FloatingListBox items={[...selectedMainItems,...selectedAdditionalEntries]} handleDelete={handleSelectedListDelete} />
         {/* ツールチップ */}
-        {(flavorCompoundData.length > 0) &&  <
-          EntryGraphToolTip data={flavorCompoundData} 
+        {(flavorCompoundData.length > 0) &&  
+        <EntryGraphToolTip 
+          flavorCompoundDataType={flavorCompoundData} 
           mousePosition={mousePosition}
           anchorEl={anchorEl}
           title={currentEntry?.name ?? ""}
@@ -145,7 +146,7 @@ const ParingSearch: React.FC = () => {
               onChange={(event) => handleItemClick(entry, event)} />
               {entry.name} - {entry.name_ja} (f: {entry.flavor_score}, w: {entry.word_score}, c: {entry.count}, kn: ({entry.key_notes.join(', ')}))
               <span
-                onMouseEnter={(event) => handleMouseHover(event, entry)}
+                onMouseEnter={(event) => handleMouseHover(event, entry, "Pie")}
                 style={{
                   display: "inline-flex",
                   alignItems: "center",

@@ -3,10 +3,12 @@ import { Box, List, ListItem, Paper, Typography, IconButton, Slide } from '@mui/
 import ChevronRightIcon from '@mui/icons-material/ChevronRight'; // 閉じている時
 import ChevronLeftIcon from '@mui/icons-material/ChevronLeft';   // 開いている時
 import EntryGraphToolTip from '../components/EntryGraphTooltip';
+import HintTooltip from '../components/HintTooltip';
 import CloseIcon from '@mui/icons-material/Close'; // バツボタン
 import { Entry } from 'src/api/types';
 import { useTooltipHandler } from "../hooks/useTooltipHandler";
 import PieChartIcon from "@mui/icons-material/PieChart";
+import LightbulbIcon from "@mui/icons-material/Lightbulb";
 
 // 型定義: 親コンポーネントからアイテムを受け取る
 interface FloatingListBoxProps {
@@ -22,15 +24,20 @@ const FloatingListBox: React.FC<FloatingListBoxProps> = ({ items, handleDelete }
   };
 
   const {
+      tooltipType,
       mousePosition,
       showTooltip,
       flavorCompoundData,
+      hintData,
       anchorEl,
       currentEntry,
       handleMouseHover,
       handleMouseOut,
     } = useTooltipHandler();
   
+    const handleMouseClick = (entry_id: string) => {
+      console.log("click", entry_id);
+    };
 
   return (
     <Box
@@ -63,17 +70,33 @@ const FloatingListBox: React.FC<FloatingListBoxProps> = ({ items, handleDelete }
         >
           <Typography align="center" variant="subtitle1">Picked Ingredients</Typography>
           {/* ツールチップ */}
-          {(flavorCompoundData.length > 0) &&  <
-            EntryGraphToolTip data={flavorCompoundData} 
-            mousePosition={mousePosition}
-            anchorEl={anchorEl}
-            title={currentEntry?.name ?? ""}
-            show={showTooltip}
-            onClose={handleMouseOut}
-            sx={{
-              zIndex: 3000
-            }}
-          />}
+          {tooltipType === "Pie" && (flavorCompoundData.length > 0) &&  
+            <EntryGraphToolTip
+              flavorCompoundDataType={flavorCompoundData} 
+              mousePosition={mousePosition}
+              anchorEl={anchorEl}
+              title={currentEntry?.name ?? ""}
+              show={showTooltip}
+              onClose={handleMouseOut}
+              sx={{
+                zIndex: 3000
+              }}
+            />
+          }
+          {tooltipType === "Hint" && (
+            <HintTooltip 
+              recipeRankResults={hintData} 
+              mousePosition={mousePosition}
+              anchorEl={anchorEl}
+              title={currentEntry?.name ?? ""}
+              show={showTooltip}
+              onClose={handleMouseOut}
+              onClick={() => handleMouseClick(currentEntry?.id ?? "")}
+              sx={{
+                zIndex: 3000
+              }}
+            />
+          )}
           <Paper elevation={3}>
             <List>
               {items.map((entry, index) => (
@@ -82,7 +105,6 @@ const FloatingListBox: React.FC<FloatingListBoxProps> = ({ items, handleDelete }
                   sx={{ fontSize: '16px' }}
                   >
                   <div
-                    onMouseEnter={(event) => handleMouseHover(event, entry)}
                     style={{
                       display: "inline-flex",
                       alignItems: "center",
@@ -90,7 +112,14 @@ const FloatingListBox: React.FC<FloatingListBoxProps> = ({ items, handleDelete }
                       cursor: "pointer",
                     }}
                   >
-                    <PieChartIcon sx={{ paddingRight: '5px' }}></PieChartIcon>
+                    <PieChartIcon 
+                      onMouseEnter={(event) => handleMouseHover(event, entry, "Pie")}
+                      sx={{ fontSize:'18px', paddingRight: '5px' }}                    
+                    />
+                    <LightbulbIcon 
+                      onMouseEnter={(event) => handleMouseHover(event, entry, "Hint")}
+                      sx={{ fontSize:'18px', paddingRight: '5px' }} 
+                    />
                     <Typography sx={{ flexGrow: 1 }}>{entry.name}</Typography>
                     <IconButton
                       edge="end"

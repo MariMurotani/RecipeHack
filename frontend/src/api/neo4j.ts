@@ -286,7 +286,7 @@ export const fetchAromaCompoundWithEntries= async (entry_ids: string[]): Promise
 export const fetchPageRank = async (group_names: string[]):Promise<PageRankResult[]> => {
   const project_name = generateRandomString(6);
   let categories:Category[] = await getCategorySubFromGroup(group_names);
-  const category_string = categories.map((category) => `'${category.id}'`).join(", ");
+  const category_string = categories.map((category) => `"${category.id}"`).join(", ");
   const session = driver.session();
   
   await session.run(`
@@ -298,34 +298,43 @@ export const fetchPageRank = async (group_names: string[]):Promise<PageRankResul
     RETURN graphName;
   `);
 
-  let filter_query =`(n:FoodSubType AND NOT n.group IN ["dishes", "snack_foods", "frozen_desserts", "other_beverages", "confectioneries", "beverages"])`;
-  if (categories.length > 0) {
-    filter_query = `(n:FoodSubType AND n.group IN [${category_string}]`;
-  }
-  console.log(filter_query);
-
-  await session.run(`
+  const excluded_categories = ["dishes", "snack_foods", "frozen_desserts", "other_beverages", "confectioneries", "beverages"].map((category) => `"${category}"`);
+  const filter_query = (categories.length > 0) ? 
+    `f.group IN [${category_string}]`:
+    `NOT f.group IN [${excluded_categories.join(', ')}]`; 
+    
+  const query1= `
     CALL gds.graph.project.cypher(
       '${project_name}',
-      'MATCH (n) WHERE n:FoodSubType OR n:Compound OR n:Aroma RETURN id(n) AS id, labels(n) AS labels',
+      'MATCH (n) 
+      WHERE (n:FoodSubType AND 
+              EXISTS { MATCH (f:Food)-[:HAS_SUBTYPE]->(n) 
+                      WHERE ${filter_query} }
+            ) 
+          OR n:Compound 
+          OR n:Aroma
+      RETURN id(n) AS id, labels(n) AS labels',
       'MATCH (n)-[r:CONTAINS|SCENTED]-(m) 
       RETURN id(n) AS source, id(m) AS target, type(r) AS type',
       { validateRelationships: false }
-    )    YIELD graphName, nodeCount, relationshipCount;
-
-  `);
+    )`;
+  console.log(query1);
+  await session.run(query1);
 
   const result = await session.run(`
+    WITH [${excluded_categories.join(',')}] AS excludedGroups
+
     // 中心性分析を実行 PageRankアルゴリズムを使用
     CALL gds.pageRank.stream('${project_name}')
     YIELD nodeId, score
     ORDER BY score DESC 
-    WITH COLLECT(nodeId) AS foodSubNodeIds, COLLECT(score) AS scores
+    WITH excludedGroups, COLLECT(nodeId) AS foodSubNodeIds, COLLECT(score) AS scores
 
     // 特定カテゴリを除外してFoodSubTypeを取得
     UNWIND range(0, size(foodSubNodeIds) - 1) AS idx 
     MATCH (f:Food)-[:HAS_SUBTYPE]->(fs:FoodSubType) 
     WHERE id(fs) = foodSubNodeIds[idx] 
+      AND NOT f.group IN excludedGroups
     WITH f, AVG(scores[idx]) AS avgScore, COLLECT(fs.name) AS subTypes
     RETURN f.id as foodId, f.name as foodName, f.display_name_ja as displayNameJa, avgScore, subTypes
     ORDER BY avgScore DESC

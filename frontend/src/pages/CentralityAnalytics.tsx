@@ -40,7 +40,6 @@ const CentralityAnalytics: React.FC = () => {
                 displayEmpty
                 sx={{ width: 200 }}
             >
-                    <MenuItem key="all" value=''>ALL</MenuItem>
                     {FOOD_CATEGORIES.map((category) => (
                     <MenuItem key={category.key} value={category.key}>
                         {category.label}

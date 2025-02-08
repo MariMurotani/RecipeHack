@@ -40,7 +40,7 @@ const Layout: React.FC = () => {
             onClose={handleMenuClose}
           >
           <MenuItem component={Link} to="/centrality_analytics" onClick={handleMenuClose}>
-            <AnalyticsIcon />中央性分析
+            <AnalyticsIcon />Aromaの中央性分析
           </MenuItem>
           <MenuItem component={Link} to="/feature2" onClick={handleMenuClose}>Feature 2</MenuItem>
           <MenuItem component={Link} to="/feature3" onClick={handleMenuClose}>Feature 3</MenuItem>

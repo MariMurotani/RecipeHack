@@ -62,14 +62,14 @@ export const getMatchedParingEntries = async (main_entries: Entry[], groups:stri
     WITH f2 AS f,
         COLLECT(DISTINCT fst2.key_note) AS key_notes,
         COUNT(DISTINCT comp2.id) AS count,
-        AVG(gds.similarity.cosine(f1.word_vector, f2.word_vector)) AS word_score_avg,
-        AVG(gds.similarity.overlap(f1.flavor_vector, f2.flavor_vector)) AS flavor_score_avg
+        AVG(gds.similarity.cosine(f1.word_vector, f2.word_vector)) AS word_score,
+        AVG(gds.similarity.overlap(f1.flavor_vector, f2.flavor_vector)) AS flavor_score
 
     // Step 6: ユニークな結果を返す
-    RETURN f, key_notes, count, word_score_avg, flavor_score_avg
-    ORDER BY word_score_avg DESC, flavor_score_avg DESC, count DESC;
+    RETURN f, key_notes, count, word_score, flavor_score
+    ORDER BY word_score DESC, flavor_score DESC, count DESC;
     `;
-    //console.log(query);
+    console.log(query);
     // クエリを実行
     const result = await session.run(query);
     const entryResult:Entry[] = formatEntries(result);
@@ -366,25 +366,28 @@ const formatEntries = (result: QueryResult<RecordShape>): Entry[] => {
     return formatEntry(record, properties);
   });
   // 各エントリの distance を最大値で正規化する
-  entries = normalizeDistances(entries);
+  entries = normalizeDistances(entries, "distance");
+  entries = normalizeDistances(entries, "word_score");
+  entries = normalizeDistances(entries, "flavor_score");
 
+  console.log(entries);
   return entries ?? [];
 };
 
 // エントリの結果をフォーマットする
 const formatEntry = (record:any, properties:any): Entry => {
   let count = 0;
-  let flavor_score_avg = 0;
-  let word_score_avg = 0;
+  let flavor_score = 0;
+  let word_score = 0;
   let key_notes = [];
   if(record.has('count')){
     count = parseInt(record.get('count'));
   }
-  if (record.has('flavor_score_avg')) {
-    flavor_score_avg = parseFloat(record.get('flavor_score_avg').toFixed(2));
+  if (record.has('flavor_score')) {
+    flavor_score = parseFloat(record.get('flavor_score'));
   }
-  if(record.has('word_score_avg')){
-    word_score_avg = parseFloat(record.get('word_score_avg').toFixed(2));
+  if(record.has('word_score')){
+    word_score = parseFloat(record.get('word_score'));
   }
   if(record.has('key_notes')){
     key_notes = record.get('key_notes');
@@ -400,8 +403,8 @@ const formatEntry = (record:any, properties:any): Entry => {
     synonyms: properties.string,
     flavor_count: JSON.parse(properties.SharedCompoundCount ?? '{}'),
     paring_scores: JSON.parse(properties.paring_scores ?? '{}'),
-    flavor_score: flavor_score_avg,
-    word_score: word_score_avg,
+    flavor_score: flavor_score,
+    word_score: word_score,
     count: count,
     distance: 0,
     key_notes: key_notes
@@ -420,20 +423,26 @@ function generateRandomString(length: number): string {
 
   return result;
 }
+ 
+export const normalizeDistances = (entries: Entry[], target: keyof Entry): Entry[] => {
+  if (entries.length === 0) return entries;
 
-export const normalizeDistances = (entries: Entry[]): Entry[] => {
-  // distance の最大値を取得
-  const maxDistance = Math.max(...entries.map(entry => entry.distance ?? 0));
+  const values = entries
+  .map(entry => Number(entry[target] ?? 0))
+  .filter(value => !isNaN(value));
 
-  // 各エントリの distance を最大値で正規化する
+  const maxValue = values.length > 0 ? Math.max(...values) : 0;
+
   return entries.map((entry) => {
-    if (entry.distance != undefined && maxDistance !== 0) {
+    const value = Number(entry[target] ?? 0);
+    if (!isNaN(value) && maxValue !== 0) {
       return {
         ...entry,
-        distance: parseFloat((1 - (entry.distance / maxDistance)).toFixed(2)) // 最大値で割る
+        [target]: parseFloat((value / maxValue).toFixed(2)), // Normalize
       };
     } else {
       return entry;
     }
   });
 };
+

@@ -13,10 +13,9 @@ export interface Entry {
     flavor_score: number | undefined,
     word_score: number | undefined,
     count: number | undefined,
-    distance: number | undefined,
+    distance?: number | undefined,
     key_notes: string[];
   }
-
 // Categoryの型を定義
 export interface Category {
   id: string;

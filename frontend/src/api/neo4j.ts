@@ -316,7 +316,7 @@ export const fetchPageRank = async (): Promise<PageRankResult[]> => {
     WITH ['dishes', 'snack_foods', 'frozen_desserts', 'other_beverages', 'confectioneries', 'beverages'] AS excludedGroups
 
     // 中心性分析を実行 PageRankアルゴリズムを使用
-    CALL gds.pageRank.stream('myFoodSubAromaProjection')
+    CALL gds.pageRank.stream('${project_name}')
     YIELD nodeId, score
     ORDER BY score DESC 
     WITH excludedGroups, COLLECT(nodeId) AS foodSubNodeIds, COLLECT(score) AS scores

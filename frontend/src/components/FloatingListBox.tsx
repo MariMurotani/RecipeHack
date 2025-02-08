@@ -91,7 +91,7 @@ const FloatingListBox: React.FC<FloatingListBoxProps> = ({ items, handleDelete }
               title={currentEntry?.name ?? ""}
               show={showTooltip}
               onClose={handleMouseOut}
-              onClick={() => handleMouseClick(currentEntry?.id ?? "")}
+              onClick={handleMouseClick}
               sx={{
                 zIndex: 3000
               }}

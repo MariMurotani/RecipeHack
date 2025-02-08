@@ -372,27 +372,33 @@ export const fetchFoodRecipePageRank = async (id: string):Promise<FoodRecipePage
     RETURN graphName;
   `);
 
-  await session.run(`
-    CALL gds.graph.project(
-      '${project_name}',
-      ['Food', 'Recipe'],  
-      {
-        CONTAINS: {
-          type: 'CONTAINS',
-          orientation: 'UNDIRECTED'
-        },
-        USED_TOGETHER: {
-          type: 'USED_TOGETHER',
-          orientation: 'UNDIRECTED'
-        }
-      }
-    )
-  `);
+  const query1 = `
+    CALL gds.graph.project.cypher(
+      '${project_name}', 
+      'MATCH (n) 
+      WHERE (n:Food AND EXISTS { 
+              MATCH (f:Recipe)-[:CONTAINS]->(n) 
+              WHERE f.id IN ["${id}"] 
+            }) 
+          OR (n:Food AND EXISTS { 
+              MATCH (:Food {id: "${id}"})-[:USED_TOGETHER]->(n) 
+            }) 
+          OR (n:Recipe AND EXISTS { 
+              MATCH (n)-[:CONTAINS]->(:Food {id: "${id}"}) 
+            })
+      RETURN id(n) AS id, labels(n) AS labels',
+      'MATCH (n)-[r:CONTAINS|USED_TOGETHER]-(m)
+      RETURN id(n) AS source, id(m) AS target, type(r) AS type',
+      { validateRelationships: false }
+    );
+  `;
+  console.log("query1", query1); 
+  await session.run(query1);
   const result = await session.run(`
     CALL gds.pageRank.stream('${project_name}')
     YIELD nodeId, score
     WITH gds.util.asNode(nodeId) AS node, score
-    WHERE node:Food
+    WHERE node.id <> "${id}"
     RETURN node.id AS foodId, node.name AS foodName, node.display_name_ja as displayNameJa, score
     ORDER BY score DESC
     LIMIT 20;

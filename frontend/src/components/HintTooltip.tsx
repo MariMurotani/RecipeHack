@@ -1,6 +1,8 @@
 import React from "react";
 import { Popper, Box, Typography, SxProps, Theme, IconButton } from "@mui/material";
 import CloseIcon from '@mui/icons-material/Close';
+import AddIcon from '@mui/icons-material/Add';
+
 import { FoodRecipePageRankResult } from "../api/types";
 
 interface HintTooltipProps {
@@ -10,11 +12,11 @@ interface HintTooltipProps {
   title: string;
   show: boolean;
   onClose: () => void;
-  onClick: () => void;
+  onClick: (foodId: string) => void;
   sx?: SxProps<Theme>;
 }
 
-const FoodTooltip: React.FC<HintTooltipProps> = ({ recipeRankResults, anchorEl, show, mousePosition, onClose, sx }) => {
+const FoodTooltip: React.FC<HintTooltipProps> = ({ recipeRankResults, anchorEl, show, mousePosition, onClose, onClick, sx }) => {
   if (!recipeRankResults) return null;
 
   return (
@@ -49,23 +51,29 @@ const FoodTooltip: React.FC<HintTooltipProps> = ({ recipeRankResults, anchorEl, 
           bgcolor: "background.paper",
           boxShadow: 3,
           borderRadius: 1,
-          minWidth: "250px",
-          textAlign: "left",
+          minWidth: "250px"
         }}
       >
-          <IconButton
-            sx={{ position: "absolute", top: 5, right: 5 }}
+        {/* Close Button */}
+        <IconButton
+            sx={{ position: "absolute", top: 5, left: 2 }}
             onClick={onClose} // Close Tooltip
             size="small"
           >
             <CloseIcon fontSize="small" />
           </IconButton>
-        <ul>
-            {recipeRankResults.map((recipeRankResult) => (
-            <li key={recipeRankResult.foodName}>
-                {recipeRankResult.foodName} ({recipeRankResult.displayNameJa})
+        {/* List of Food Items */}
+        <ul style={{ listStyle: "none", padding: 0 }}>
+        {recipeRankResults.map((food) => (
+            <li key={food.foodId} style={{ display: "flex", justifyContent: "space-between", padding: "5px 0" }}>
+                <IconButton size="small" onClick={() => onClick(food.foodId)}>
+                    <AddIcon fontSize="small" />
+                </IconButton>
+                <span style={{ fontSize: "14px" }}>
+                    {food.foodName} - ({food.displayNameJa})
+                </span>
             </li>
-            ))}
+        ))}
         </ul>
       </Box>
     </Popper>

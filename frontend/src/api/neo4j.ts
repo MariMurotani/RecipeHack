@@ -1,14 +1,6 @@
 import neo4j, { QueryResult, RecordShape } from 'neo4j-driver';
 import { Category, Entry, Coefficient, AromaCompound, PageRankResult } from './types';
-
-// Neo4j に接続するためのドライバを作成
-// 接続情報を確認
-const uri = 'neo4j://localhost:7687';  // 接続先のURL
-const user = 'neo4j';  // ユーザー名
-const password = 'abcd7890';  // パスワード
-//const uri = process.env.NEO4J_URI || 'neo4j://localhost:7687';  // 接続先のURL
-//const user = process.env.NEO4J_USER || 'neo4j';  // ユーザー名
-//const password = process.env.NEO4J_PASSWORD || 'neo4j';  // パスワード
+import { uri, user, password } from './constants';
 
 // ドライバの初期化
 const driver = neo4j.driver(uri, neo4j.auth.basic(user, password));
@@ -291,10 +283,12 @@ export const fetchAromaCompoundWithEntries= async (entry_ids: string[]): Promise
 };
 
 // ページランクの結果を返す
-export const fetchPageRank = async (): Promise<PageRankResult[]> => {
-  const session = driver.session();
+export const fetchPageRank = async (group_names: string[]):Promise<PageRankResult[]> => {
   const project_name = generateRandomString(6);
-
+  let categories:Category[] = await getCategorySubFromGroup(group_names);
+  const category_string = categories.map((category) => `'${category.id}'`).join(", ");
+  const session = driver.session();
+  
   await session.run(`
     CALL gds.graph.exists('${project_name}')
     YIELD exists
@@ -303,29 +297,35 @@ export const fetchPageRank = async (): Promise<PageRankResult[]> => {
     CALL gds.graph.drop('${project_name}') YIELD graphName
     RETURN graphName;
   `);
+
+  let filter_query =`(n:FoodSubType AND NOT n.group IN ["dishes", "snack_foods", "frozen_desserts", "other_beverages", "confectioneries", "beverages"])`;
+  if (categories.length > 0) {
+    filter_query = `(n:FoodSubType AND n.group IN [${category_string}]`;
+  }
+  console.log(filter_query);
+
   await session.run(`
     CALL gds.graph.project.cypher(
       '${project_name}',
       'MATCH (n) WHERE n:FoodSubType OR n:Compound OR n:Aroma RETURN id(n) AS id, labels(n) AS labels',
-      'MATCH (n)-[r:CONTAINS|SCENTED]-(m) RETURN id(n) AS source, id(m) AS target, type(r) AS type',
+      'MATCH (n)-[r:CONTAINS|SCENTED]-(m) 
+      RETURN id(n) AS source, id(m) AS target, type(r) AS type',
       { validateRelationships: false }
-    )
-    YIELD graphName, nodeCount, relationshipCount;
-  `);
-  const result = await session.run(`
-    WITH ['dishes', 'snack_foods', 'frozen_desserts', 'other_beverages', 'confectioneries', 'beverages'] AS excludedGroups
+    )    YIELD graphName, nodeCount, relationshipCount;
 
+  `);
+
+  const result = await session.run(`
     // 中心性分析を実行 PageRankアルゴリズムを使用
     CALL gds.pageRank.stream('${project_name}')
     YIELD nodeId, score
     ORDER BY score DESC 
-    WITH excludedGroups, COLLECT(nodeId) AS foodSubNodeIds, COLLECT(score) AS scores
+    WITH COLLECT(nodeId) AS foodSubNodeIds, COLLECT(score) AS scores
 
     // 特定カテゴリを除外してFoodSubTypeを取得
     UNWIND range(0, size(foodSubNodeIds) - 1) AS idx 
     MATCH (f:Food)-[:HAS_SUBTYPE]->(fs:FoodSubType) 
     WHERE id(fs) = foodSubNodeIds[idx] 
-      AND NOT f.group IN excludedGroups
     WITH f, AVG(scores[idx]) AS avgScore, COLLECT(fs.name) AS subTypes
     RETURN f.id as foodId, f.name as foodName, f.display_name_ja as displayNameJa, avgScore, subTypes
     ORDER BY avgScore DESC

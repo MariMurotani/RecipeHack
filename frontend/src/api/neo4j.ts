@@ -1,5 +1,5 @@
 import neo4j, { QueryResult, RecordShape } from 'neo4j-driver';
-import { Category, Entry, Coefficient, AromaCompound, PageRankResult } from './types';
+import { Category, Entry, Coefficient, AromaCompound, FoodAromaPageRankResult, FoodRecipePageRankResult } from './types';
 import { uri, user, password } from './constants';
 
 // ドライバの初期化
@@ -282,8 +282,8 @@ export const fetchAromaCompoundWithEntries= async (entry_ids: string[]): Promise
   }
 };
 
-// ページランクの結果を返す
-export const fetchPageRank = async (group_names: string[]):Promise<PageRankResult[]> => {
+// FoodとAromaのページランクの結果を返す
+export const fetchPageRank = async (group_names: string[]):Promise<FoodAromaPageRankResult[]> => {
   const project_name = generateRandomString(6);
   let categories:Category[] = await getCategorySubFromGroup(group_names);
   const category_string = categories.map((category) => `"${category.id}"`).join(", ");
@@ -341,7 +341,7 @@ export const fetchPageRank = async (group_names: string[]):Promise<PageRankResul
     LIMIT 100
   `);
 
-  const pageRankResult:PageRankResult[] = result.records.map((record)=> (
+  const pageRankResult:FoodAromaPageRankResult[] = result.records.map((record)=> (
       {
         "foodId": record.get("foodId"),
         "foodName": record.get("foodName"),
@@ -357,6 +357,60 @@ export const fetchPageRank = async (group_names: string[]):Promise<PageRankResul
   `);
 
   return pageRankResult
+};
+
+
+
+// Foodとレシピのページランクの結果を返す
+export const fetchFoodRecipePageRank = async (id: string):Promise<FoodRecipePageRankResult[]> => {
+  const project_name = generateRandomString(6);
+  const session = driver.session();
+  await session.run(`
+    CALL gds.graph.exists('${project_name}')
+    YIELD exists
+    WITH exists
+    WHERE exists = true
+    CALL gds.graph.drop('${project_name}') YIELD graphName
+    RETURN graphName;
+  `);
+
+  await session.run(`
+    CALL gds.graph.project(
+      '${project_name}',
+      ['Food', 'Recipe'],  
+      {
+        CONTAINS: {
+          type: 'CONTAINS',
+          orientation: 'UNDIRECTED'
+        },
+        USED_TOGETHER: {
+          type: 'USED_TOGETHER',
+          orientation: 'UNDIRECTED'
+        }
+      }
+    )
+  `);
+  const result = await session.run(`
+    CALL gds.pageRank.stream('${project_name}')
+    YIELD nodeId, score
+    WHERE node:Food
+    RETURN node.id AS foodId, node.name AS foodName, node.display_name_ja as displayNameJa, score
+    ORDER BY score DESC
+    LIMIT 20;
+  `);
+  const pageRankResult:FoodRecipePageRankResult[] = result.records.map((record)=> (
+    {
+      "foodId": record.get("foodId"),
+      "foodName": record.get("foodName"),
+      "displayNameJa": record.get("displayNameJa"), 
+      "score": record.get("score").toFixed(2)
+    }
+  ));
+
+  await session.run(`
+    CALL gds.graph.drop('${project_name}') YIELD graphName
+  `);
+  return pageRankResult;
 };
 
 // エントリの結果をフォーマットする

@@ -2,11 +2,11 @@ import React, { useState, useEffect, useMemo } from 'react';  // React をイン
 import { useAppContext } from '../AppContext'; 
 import { Container, MenuItem, Select, SelectChangeEvent } from '@mui/material';
 import { fetchPageRank } from '../api/neo4j';
-import { PageRankResult } from 'src/api/types';
+import { FoodAromaPageRankResult } from 'src/api/types';
 import { FOOD_CATEGORIES } from '../api/constants';
 
 const CentralityAnalytics: React.FC = () => {
-    const [pageRankResult, setPageRankResult] = useState<PageRankResult[]>([]);
+    const [pageRankResult, setPageRankResult] = useState<FoodAromaPageRankResult[]>([]);
     const [selectedCategories, setSelectedCategories] = useState<string[]>(['']);
     const stableSelectedCategories = useMemo(() => selectedCategories, [selectedCategories]);
 
@@ -19,7 +19,7 @@ const CentralityAnalytics: React.FC = () => {
     useEffect(() => {
         const fetchData = async () => {
             try {
-              const fetchedPageRankResult:PageRankResult[] = await fetchPageRank(selectedCategories);
+              const fetchedPageRankResult:FoodAromaPageRankResult[] = await fetchPageRank(selectedCategories);
               console.log(fetchedPageRankResult);
               setPageRankResult(fetchedPageRankResult);
             } catch (error) {

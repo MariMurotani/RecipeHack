@@ -52,11 +52,19 @@ export interface AromaLink {
   aromaNotes?: Map<string, number>
 };
 
-// PageRankの結果
-export interface PageRankResult {
+// FoodとAromaのPageRankの結果
+export interface FoodAromaPageRankResult {
   foodId: string;
   foodName: string;
   displayNameJa: string;
   avgScore: number;
   subTypes: string[];
+}
+
+// FoodとRecipeのPageRankの結果
+export interface FoodRecipePageRankResult {
+  foodId: string;
+  foodName: string;
+  displayNameJa: string;
+  score: number;
 }

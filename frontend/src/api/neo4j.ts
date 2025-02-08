@@ -363,6 +363,7 @@ export const fetchPageRank = async (group_names: string[]):Promise<FoodAromaPage
 export const fetchFoodRecipePageRank = async (id: string):Promise<FoodRecipePageRankResult[]> => {
   const project_name = generateRandomString(6);
   const session = driver.session();
+  
   await session.run(`
     CALL gds.graph.exists('${project_name}')
     YIELD exists
@@ -393,7 +394,11 @@ export const fetchFoodRecipePageRank = async (id: string):Promise<FoodRecipePage
     );
   `;
   console.log("query1", query1); 
-  await session.run(query1);
+  try{
+    await session.run(query1);
+  } catch (error) {
+    return [];
+  }
   const result = await session.run(`
     CALL gds.pageRank.stream('${project_name}')
     YIELD nodeId, score

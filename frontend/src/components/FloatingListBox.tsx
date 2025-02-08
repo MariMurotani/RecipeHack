@@ -82,7 +82,6 @@ const FloatingListBox: React.FC<FloatingListBoxProps> = ({ items, handleDelete }
                   >
                   <div
                     onMouseEnter={(event) => handleMouseHover(event, entry)}
-                    onMouseLeave={(event) => handleMouseOut(event)}
                     style={{
                       display: "inline-flex",
                       alignItems: "center",

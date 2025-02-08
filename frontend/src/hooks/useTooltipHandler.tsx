@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import { AromaCompound, Entry } from "../api/types"; // 必要に応じて型をインポート
-import { FlavorCompoundDataType } from "../hooks/useD3PieChart"; // 必要に応じて型をインポート
-import { fetchAromaCompoundWithEntry } from "../api/neo4j"; // Aromaデータ取得の関数をインポート
+import { AromaCompound, Entry } from "../api/types";
+import NivoPieChart, { FlavorCompoundDataType } from "../components/NivoPieChart"
+import { fetchAromaCompoundWithEntry } from "../api/neo4j"; 
 
 export const useTooltipHandler = () => {
   const [mousePosition, setMousePosition] = useState<{ x: number; y: number }>({ x: 0, y: 0 });

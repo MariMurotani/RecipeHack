@@ -1,6 +1,6 @@
 import React from "react";
 import { Box, Popper, Typography } from "@mui/material";
-import { useD3PieChart, FlavorCompoundDataType} from "../hooks/useD3PieChart";
+import NivoPieChart, { FlavorCompoundDataType } from "../components/NivoPieChart";
 import { SxProps, Theme } from "@mui/material/styles";
 
 interface EntryGraphTooltipProps {
@@ -15,9 +15,6 @@ interface EntryGraphTooltipProps {
 const GraphTooltip: React.FC<EntryGraphTooltipProps> = ({ data, mousePosition, anchorEl, title, show, sx }) => {
   const width = 200;
   const height = 200;
-
-  // Use the custom hook
-  const svgRef = useD3PieChart(data, width, height);
 
   return (
     (show) &&
@@ -49,7 +46,7 @@ const GraphTooltip: React.FC<EntryGraphTooltipProps> = ({ data, mousePosition, a
         }}
       >
         <Typography>{title}</Typography>
-        <svg ref={svgRef}></svg>
+        <NivoPieChart data={data}></NivoPieChart>
       </Box>
     </Popper>
   );

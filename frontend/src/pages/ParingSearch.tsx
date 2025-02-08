@@ -145,7 +145,6 @@ const ParingSearch: React.FC = () => {
               {entry.name} - {entry.name_ja} (f: {entry.flavor_score}, w: {entry.word_score}, c: {entry.count}, kn: ({entry.key_notes.join(', ')}))
               <span
                 onMouseEnter={(event) => handleMouseHover(event, entry)}
-                onMouseLeave={(event) => handleMouseOut(event)}
                 style={{
                   display: "inline-flex",
                   alignItems: "center",

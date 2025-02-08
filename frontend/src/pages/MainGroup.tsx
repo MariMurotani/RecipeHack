@@ -134,7 +134,6 @@ const MainGroup: React.FC = () => {
                 {entry.name} - {entry.name_ja}
                 <span
                   onMouseEnter={(event) => handleMouseHover(event, entry)}
-                  onMouseLeave={(event) => handleMouseOut(event)}
                   style={{
                     display: "inline-flex",
                     cursor: "pointer",

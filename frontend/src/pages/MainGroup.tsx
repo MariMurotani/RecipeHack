@@ -104,6 +104,7 @@ const MainGroup: React.FC = () => {
             anchorEl={anchorEl}
             title={currentEntry?.name ?? ""}
             show={showTooltip}
+            onClose={handleMouseOut}
           />}
         </Typography>
 

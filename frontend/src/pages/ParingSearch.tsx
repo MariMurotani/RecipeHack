@@ -106,6 +106,7 @@ const ParingSearch: React.FC = () => {
           anchorEl={anchorEl}
           title={currentEntry?.name ?? ""}
           show={showTooltip}
+          onClose={handleMouseOut}
           />}
         <Box
         sx={{

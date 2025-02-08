@@ -1,5 +1,6 @@
 import React from "react";
-import { Box, Popper, Typography } from "@mui/material";
+import { Box, IconButton, Popper, Typography } from "@mui/material";
+import CloseIcon from "@mui/icons-material/Close";
 import NivoPieChart, { FlavorCompoundDataType } from "../components/NivoPieChart";
 import { SxProps, Theme } from "@mui/material/styles";
 
@@ -9,10 +10,11 @@ interface EntryGraphTooltipProps {
   anchorEl: null | HTMLElement;
   title: string;
   show: boolean;
-  sx?: SxProps<Theme>; // sxプロパティを追加
+  onClose: () => void;
+  sx?: SxProps<Theme>;
 }
 
-const GraphTooltip: React.FC<EntryGraphTooltipProps> = ({ data, mousePosition, anchorEl, title, show, sx }) => {
+const GraphTooltip: React.FC<EntryGraphTooltipProps> = ({ data, mousePosition, anchorEl, title, show, onClose, sx }) => {
   const width = 200;
   const height = 200;
 
@@ -24,9 +26,16 @@ const GraphTooltip: React.FC<EntryGraphTooltipProps> = ({ data, mousePosition, a
       placement="top"
       modifiers={[
         {
-          name: "offset",
+          name: "preventOverflow",
           options: {
-            offset: [0, 10],
+            boundary: "window", // Prevents going outside the viewport
+            padding: 10,
+          },
+        },
+        {
+          name: "flip",
+          options: {
+            fallbackPlacements: ["bottom", "left", "right"], // Auto-adjusts placement
           },
         },
       ]}
@@ -45,6 +54,13 @@ const GraphTooltip: React.FC<EntryGraphTooltipProps> = ({ data, mousePosition, a
           textAlign: "center",
         }}
       >
+          <IconButton
+            sx={{ position: "absolute", top: 5, right: 5 }}
+            onClick={onClose} // Close Tooltip
+            size="small"
+          >
+            <CloseIcon fontSize="small" />
+          </IconButton>
         <Typography>{title}</Typography>
         <NivoPieChart data={data}></NivoPieChart>
       </Box>

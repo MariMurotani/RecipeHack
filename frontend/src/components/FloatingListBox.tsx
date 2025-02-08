@@ -69,6 +69,7 @@ const FloatingListBox: React.FC<FloatingListBoxProps> = ({ items, handleDelete }
             anchorEl={anchorEl}
             title={currentEntry?.name ?? ""}
             show={showTooltip}
+            onClose={handleMouseOut}
             sx={{
               zIndex: 3000
             }}

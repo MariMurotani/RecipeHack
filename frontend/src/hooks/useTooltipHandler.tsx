@@ -30,7 +30,8 @@ export const useTooltipHandler = () => {
     setShowTooltip(true);
   };
 
-  const handleMouseOut = (event: React.MouseEvent<HTMLSpanElement>) => {
+  const handleMouseOut = (event?: any) => {
+    console.log(event);
     setShowTooltip(false);
   };
 

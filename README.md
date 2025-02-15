@@ -155,6 +155,15 @@ frontend
 3. `Access` http://localhost:8081/
 4. `Access` http://localhost:8081/#about
 
+## backend python API development
+1. `uvicorn app:app --host 0.0.0.0 --port 8000 --reload`
+2. access with CURL
+```
+curl -X 'POST' 'http://localhost:8000/predict/' \
+-H 'Content-Type: application/json' \
+-d '{"frequency": 5, "shared_aromas": 0, "food1_pagerank": 0, "food2_pagerank": 0, "pagerank_diff": 0}'
+```
+
 ##  Using Docker
 ```
 docker build -t recipe-hack .

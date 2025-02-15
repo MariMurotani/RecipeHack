@@ -36,6 +36,9 @@ seaborn = "^0.13.2"
 bs4 = "^0.0.2"
 requests = "^2.32.3"
 xgboost = "^2.1.4"
+fastapi = "^0.115.8"
+pydantic = "^2.10.6"
+bottleneck = "^1.4.2"
 
 
 [build-system]

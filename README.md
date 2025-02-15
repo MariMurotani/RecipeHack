@@ -156,8 +156,10 @@ frontend
 4. `Access` http://localhost:8081/#about
 
 ## backend python API development
-1. `uvicorn app:app --host 0.0.0.0 --port 8000 --reload`
-2. access with CURL
+1. `cd jupyter`
+2. `poetry shell`
+3. `uvicorn app:app --host 0.0.0.0 --port 8000 --reload`
+4. access with CURL
 ```
 curl -X 'POST' 'http://localhost:8000/predict/' \
 -H 'Content-Type: application/json' \

@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 import xgboost as xgb
 import numpy as np
 from pydantic import BaseModel
@@ -6,6 +7,7 @@ from sklearn.preprocessing import MinMaxScaler
 import pickle
 from neo4j import GraphDatabase
 import pandas as pd
+
 
 # start server
 # poetry run uvicorn app:app --host 0.0.0.0 --port 8000 --reload
@@ -28,6 +30,14 @@ password = "abcd7890"
 driver = GraphDatabase.driver(uri, auth=(user, password))
 # Initialize FastAPI app
 app = FastAPI()
+# CORSの設定
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # すべてのオリジンを許可（本番では特定のドメインのみを指定）
+    allow_credentials=True,
+    allow_methods=["*"],  # すべてのHTTPメソッドを許可
+    allow_headers=["*"],  # すべてのヘッダーを許可
+)
 
 # Load the saved XGBoost model
 model = xgb.XGBClassifier()

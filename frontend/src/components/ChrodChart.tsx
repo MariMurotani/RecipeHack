@@ -1,5 +1,6 @@
 import React from "react";
 import { ResponsiveChord } from '@nivo/chord'
+import axios from 'axios';
 
 export interface ChordChartData {
     data: number[][];
@@ -26,19 +27,37 @@ const ArcTooltip = ({ arc }: { arc: any }) => (
 );
 
 
-const RibbonTooltip = ({ ribbon }: { ribbon: any }) => (
-    <div 
-        style={{ 
-            background: 'white',
-            padding: '10px',
-            borderRadius: '4px',
-            boxShadow: '0px 0px 5px rgba(0,0,0,0.2)',
-            border: `2px solid ${ribbon.source.color}`, 
-        }}
-    >
-        <strong>{ribbon.source.id}</strong> → <strong>{ribbon.target.id}</strong>: {ribbon.source.value}
-    </div>
-);
+const RibbonTooltip = ({ ribbon }: { ribbon: any }) => {
+    const requestData = {
+        food1_id: ribbon.source.id,
+        food2_id:ribbon.target.id
+    };
+    axios.post('http://localhost:8000/predict/', requestData, {
+        headers: {
+            'Content-Type': 'application/json'
+        }
+    })
+    .then(response => {
+        console.log(ribbon.source.id, ribbon.target.id);
+        console.log('Response:', response.data);
+    })
+    .catch(error => {
+        console.error('Error:', error);
+    });
+    return (
+        <div 
+            style={{ 
+                background: 'white',
+                padding: '10px',
+                borderRadius: '4px',
+                boxShadow: '0px 0px 5px rgba(0,0,0,0.2)',
+                border: `2px solid ${ribbon.source.color}`, 
+            }}
+        >
+            <strong>{ribbon.source.id}</strong> → <strong>{ribbon.target.id}</strong>: {ribbon.source.value}
+        </div>
+    )
+};
 
 const MyChordChart:React.FC<ChordChartProps> = ({ data, keys }) => (
     <div style={{ height: "500px", width: "800px" }}>

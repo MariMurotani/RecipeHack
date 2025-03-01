@@ -163,7 +163,7 @@ export const extractLocalCoefficient = async (entries: Entry[]): Promise<Coeffic
             e2: formatEntry(record, record.get('f2').properties), 
             aroma: record.get('aromaId'), 
             count: parseInt(record.get('aromaCount') ?? 0),
-            ratio: parseFloat(isNaN(aromaRatio) ? 0.0 : aromaRatio),
+            ratio: parseFloat(isNaN(Number(aromaRatio)) ? 0.0 : aromaRatio),
             color: record.get('aromaColor')
           } as Coefficient);
         });

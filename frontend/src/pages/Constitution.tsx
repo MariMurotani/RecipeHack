@@ -181,9 +181,9 @@ const Constitution: React.FC = () => {
   }, [selectedMainItems, selectedAdditionalEntries]); 
   
   useEffect(() => {
-    if(tabNumber === '3') {
+    if(tabNumber === '5') {
       console.log("GPT Process -- ");
-      processGPT();
+      // processGPT();
     }
   }, [tabNumber]);
 

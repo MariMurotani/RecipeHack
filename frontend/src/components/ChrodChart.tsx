@@ -1,6 +1,6 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { ResponsiveChord } from '@nivo/chord'
-import axios from 'axios';
+import { throttledPredictPairing, foodParingPredictedResult } from '../api/api';
 
 export interface ChordChartData {
     data: number[][];
@@ -26,24 +26,22 @@ const ArcTooltip = ({ arc }: { arc: any }) => (
     </div>
 );
 
-
 const RibbonTooltip = ({ ribbon }: { ribbon: any }) => {
-    const requestData = {
-        food1_id: ribbon.source.id,
-        food2_id:ribbon.target.id
-    };
-    axios.post('http://localhost:8000/predict/', requestData, {
-        headers: {
-            'Content-Type': 'application/json'
-        }
-    })
-    .then(response => {
-        console.log(ribbon.source.id, ribbon.target.id);
-        console.log('Response:', response.data);
-    })
-    .catch(error => {
-        console.error('Error:', error);
-    });
+    const [responseData, setResponseData] = useState<foodParingPredictedResult|null>(null);
+
+    useEffect(() => {
+        const fetchPrediction = async () => {
+            try {
+                const response:foodParingPredictedResult = await throttledPredictPairing(ribbon.source.id, ribbon.target.id);
+                setResponseData(response);
+            } catch (error) {
+                console.error("Error fetching prediction:", error);
+            }
+        };
+
+        fetchPrediction();
+    }, [ribbon.source.id, ribbon.target.id]);
+
     return (
         <div 
             style={{ 
@@ -54,7 +52,15 @@ const RibbonTooltip = ({ ribbon }: { ribbon: any }) => {
                 border: `2px solid ${ribbon.source.color}`, 
             }}
         >
-            <strong>{ribbon.source.id}</strong> → <strong>{ribbon.target.id}</strong>: {ribbon.source.value}
+            <div>
+                <strong>{ribbon.source.id}</strong> → <strong>{ribbon.target.id}</strong>
+            </div>
+            <div>
+                {ribbon.source.value} sharing flavors
+            </div>
+            <div>
+                { responseData ? responseData.usual_paring ? "Well-known pairing" : "Potential new pairing" : "Loading..."}
+            </div>
         </div>
     )
 };

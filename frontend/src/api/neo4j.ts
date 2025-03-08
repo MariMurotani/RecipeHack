@@ -18,9 +18,8 @@ export const getEntryDataWithCategoryGroup = async (class_name: string, value:st
       MATCH (f)-[c:HAS_GROUP]->(fg:FoodGroup)
       WHERE fg.id IN [${cate_string}]
       RETURN f, fg, score
-      ORDER BY score DESC;
+      ORDER BY score DESC, f.popularity desc;
     `);
-    
     return formatEntries(result);
 
   } catch (error) {
@@ -67,7 +66,7 @@ export const getMatchedParingEntries = async (main_entries: Entry[], groups:stri
 
     // Step 6: ユニークな結果を返す
     RETURN f, key_notes, count, word_score, flavor_score
-    ORDER BY word_score DESC, flavor_score DESC, count DESC;
+    ORDER BY word_score DESC, flavor_score DESC, f.popularity desc;
     `;
     console.log(query);
     // クエリを実行

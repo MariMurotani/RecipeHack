@@ -25,4 +25,4 @@ export const throttledPredictPairing = throttle(async (food1_id: string, food2_i
         console.error('Error:', error);
         throw error;
     }
-}, 2000);
+}, 300);

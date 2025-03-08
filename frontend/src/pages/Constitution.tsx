@@ -25,7 +25,7 @@ const Constitution: React.FC = () => {
   // リンクとAromaNoteのマップを保持
   const [sankeyLinkAromaNotes, setSankeyLinkAromaNotes] = useState<AromaLink[]>([]);
   // チョードチャート用のデータを保持
-  const [chordChartData, setShordChartData] = useState<ChordChartData>({keys:[], data: []});
+  const [chordChartData, setShordChartData] = useState<ChordChartData>({keys:[], data: [], names:[] });
   // サンバーストチャート用のデータを保持
   const [sunburstChartData, setSunburstChartData] = useState<SunburstData>({ id: "root", children: [] });
   // ヒートマップのデータを受け取る
@@ -69,9 +69,12 @@ const Constitution: React.FC = () => {
   // チョードチャート用のデータに変換
   const transformToChordNodes = (graphCoefResult: Coefficient[]): ChordChartData => {
     const chordChartKeys = new Set<string>();
+    const chordChartNames = new Set<string>();
     graphCoefResult.forEach(({ e1, e2 }) => {
       chordChartKeys.add(e1.id);
       chordChartKeys.add(e2.id);
+      chordChartNames.add(e1.name_ja);
+      chordChartNames.add(e2.name_ja);
     });
     const chordChartMatrix = Array.from({ length: chordChartKeys.size }, () =>
         Array(chordChartKeys.size).fill(0)
@@ -81,7 +84,7 @@ const Constitution: React.FC = () => {
         const e2Index = Array.from(chordChartKeys).indexOf(e2.id);
         chordChartMatrix[e1Index][e2Index] += 1;
     });
-    return { keys: Array.from(chordChartKeys), data: chordChartMatrix }
+    return { keys: Array.from(chordChartKeys), data: chordChartMatrix, names: Array.from(chordChartNames) };
   };
 
   // サンバースト用のデータに変換

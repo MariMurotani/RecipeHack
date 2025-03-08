@@ -34,23 +34,25 @@ const MySankeyChart: React.FC<SankeyChartProps> = ({ data, linkAromaNotes }) => 
     };
   
     // カスタムツールチップ（`linkTooltip` を使用）
-    const CustomLinkTooltip = ({ link }: { link: SankeyLinkDatum<SankeyNode, SankeyLink> }) => (
-      <div 
-        style={{ 
-            background: "white", 
-            margin: "5px", 
-            padding: "5px", 
-            borderRadius: "5px", 
-            boxShadow: "0px 0px 5px rgba(0,0,0,0.3)",
-            border: `2px solid ${link.color}`,
-            }}>
-        <strong>{link.source.id} → {link.target.id}</strong>
-        <br />
-        Value: {link.value}
-        <br />
-        Aroma: {getAromaNotes(link.source.id as string, link.target.id as string)}
-      </div>
-    );
+    const CustomLinkTooltip = ({ link }: { link: SankeyLinkDatum<SankeyNode, SankeyLink> }) => {
+      console.log(link);
+
+      return (
+        <div 
+          style={{ 
+              background: "white", 
+              margin: "5px", 
+              padding: "5px", 
+              borderRadius: "5px", 
+              boxShadow: "0px 0px 5px rgba(0,0,0,0.3)",
+              border: `2px solid ${link.color}`,
+              }}>
+          <strong>{link.source.id} → {link.target.id}</strong>
+          <br />
+          Aroma: {getAromaNotes(link.source.id as string, link.target.id as string)}
+        </div>
+      )
+    };
   
     return (
       <div style={{ height: "500px", width: "800px" }}>

@@ -68,8 +68,10 @@ def find_score(tx, id1, id2):
                COUNT(a) AS shared_aromas,
                f1.popularity AS food1_popularity,
                f2.popularity AS food2_popularity,
-               f1.pagerank AS food1_pagerank, 
-               f2.pagerank AS food2_pagerank,
+               f1.aroma_page_rank AS food1_aroma_page_rank, 
+               f2.aroma_page_rank AS food2_aroma_page_rank,
+               f1.recipe_page_rank AS food1_recipe_page_rank, 
+               f2.recipe_page_rank AS food2_recipe_page_rank,
                gds.similarity.cosine(f1.word_vector, f2.word_vector) as word_similarity, 
                gds.similarity.overlap(f1.flavor_vector, f2.flavor_vector) as flavor_similarity
 
@@ -84,7 +86,7 @@ def find_score(tx, id1, id2):
 # API route for prediction
 @app.post("/predict/")
 def predict(food_pair: FoodPairRequest):
-    Xcolumns = ["shared_aromas","food1_popularity","food2_popularity","food1_pagerank","food2_pagerank", "word_similarity", "flavor_similarity"]
+    Xcolumns = ["shared_aromas","food1_popularity","food2_popularity","food1_aroma_page_rank","food2_aroma_page_rank", "food1_recipe_page_rank", "food2_recipe_page_rank", "word_similarity", "flavor_similarity"]
 
     # Neo4j からデータ取得
     with driver.session() as session:

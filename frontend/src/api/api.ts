@@ -3,7 +3,7 @@ import { throttle } from 'lodash';
 
 export interface foodParingPredictedResult {
     usual_paring: boolean;
-    probability: number;
+    potentially_new_pairing: boolean;
 }
 
 export const throttledPredictPairing = throttle(async (food1_id: string, food2_id: string) => {
@@ -19,10 +19,10 @@ export const throttledPredictPairing = throttle(async (food1_id: string, food2_i
         });
         return {
             usual_paring: response.data.usual_pairing,
-            probability: response.data.probability
+            potentially_new_pairing: response.data.potentially_new_pairing
         };
     } catch (error) {
         console.error('Error:', error);
         throw error;
     }
-}, 300);
+}, 200);

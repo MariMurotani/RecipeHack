@@ -54,6 +54,12 @@ with open("../data/scaler_y.pkl", "rb") as f:
 class FoodPairRequest(BaseModel):
     food1_id: str
     food2_id: str
+
+# Define request schema
+class FoodPairResponse(BaseModel):
+    usual_pairing: bool
+    potentially_new_pairing: bool
+
     
 # Define Neo4j queries
 def find_score(tx, id1, id2):
@@ -85,28 +91,35 @@ def find_score(tx, id1, id2):
 
 # API route for prediction
 @app.post("/predict/")
-def predict(food_pair: FoodPairRequest):
+def predict(food_pair: FoodPairRequest) -> FoodPairResponse:
     Xcolumns = ["shared_aromas","food1_popularity","food2_popularity","food1_aroma_page_rank","food2_aroma_page_rank", "food1_recipe_page_rank", "food2_recipe_page_rank", "word_similarity", "flavor_similarity"]
 
     # Neo4j からデータ取得
     with driver.session() as session:
         result = session.execute_read(find_score, food_pair.food1_id, food_pair.food2_id)
+        print(result)
     
     # データがない場合の処理
     if not result:
         return {"error": "Food pair not found in the database"}
     
     # データフレーム化してスケーリング
-    result_df = pd.DataFrame([result])  # 1行のデータフレームにする
+    column_names=["food1_id","food2_id","frequency","shared_aromas","food1_popularity","food2_popularity","food1_aroma_page_rank","food2_aroma_page_rank","food1_recipe_page_rank","food2_recipe_page_rank","word_similarity","flavor_similarity"]
+    result_df = pd.DataFrame([result], columns=column_names)
     input_scaled = scalerX.transform(result_df[Xcolumns])
-
+    frequently_used = (result_df["frequency"].values[0] > 5)
+    
     # 予測実行
     prediction = model.predict(input_scaled)[0]
-    prediction_proba = model.predict_proba(input_scaled)[0][1]  # "Unusual" である確率
+    
+    prediction_probabiliry = model.predict_proba(input_scaled)[0][1]
+
+    # 本当は使われてないのに「使われる」と判断された
+    potentially_new_pairing =  bool(prediction) == True and frequently_used == False
 
     return {
-        "usual_pairing": bool(prediction),  # 🔹 numpy型から Python の bool に変換
-        "probability": float(prediction_proba)  # 🔹 numpy.float32 から Python の float に変換
+        "usual_pairing": bool(prediction),
+        "potentially_new_pairing": bool(potentially_new_pairing)
     }
 
 # API root

@@ -66,7 +66,7 @@ const RibbonTooltip = ({ ribbon, names }: { ribbon: any, names: string[] }) => {
                 {responseData
                     ? responseData.usual_paring
                         ? "Well-known pairing"
-                        : "Potential new pairing"
+                        : responseData.potentially_new_pairing ? "Potential new pairing" : "No pairing"
                     : "Loading..."}
             </div>
         </div>

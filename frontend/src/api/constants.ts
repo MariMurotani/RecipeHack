@@ -16,7 +16,7 @@ export const FOOD_CATEGORIES = [
 
 // Neo4j に接続するためのドライバを作成
 // 接続情報を確認
-export const uri = 'neo4j://localhost:7687';  // 接続先のURL
+export const uri = 'bolt://localhost:7687';  // 接続先のURL
 export const user = 'neo4j';  // ユーザー名
 export const password = 'abcd7890';  // パスワード
 //const uri = process.env.NEO4J_URI || 'neo4j://localhost:7687';  // 接続先のURL
